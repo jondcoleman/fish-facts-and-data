@@ -1,4 +1,5 @@
 import "dotenv/config";
+import * as fs from "fs/promises";
 import * as path from "path";
 import { fileURLToPath } from "url";
 // @ts-expect-error - whisper-node has no type definitions
@@ -115,12 +116,28 @@ export async function transcribeAudio(
         gen_file_subtitle: true,
         gen_file_vtt: true,
         word_timestamps: false,
-        output_dir: outputDir,
-        output_file: "transcript",
       },
     };
 
     await whisper(wavPath, whisperOptions);
+
+    // whisper-node creates files next to the input WAV file, so we need to move them
+    const wavDir = path.dirname(wavPath);
+    const wavBase = path.basename(wavPath, ".wav");
+    const tempTxtPath = path.join(wavDir, `${wavBase}.wav.txt`);
+    const tempVttPath = path.join(wavDir, `${wavBase}.wav.vtt`);
+    const tempSrtPath = path.join(wavDir, `${wavBase}.wav.srt`);
+
+    // Move transcript files to episode directory
+    if (await fileExists(tempTxtPath)) {
+      await fs.rename(tempTxtPath, txtPath);
+    }
+    if (await fileExists(tempVttPath)) {
+      await fs.rename(tempVttPath, vttPath);
+    }
+    if (await fileExists(tempSrtPath)) {
+      await fs.rename(tempSrtPath, srtPath);
+    }
 
     // Verify that transcription actually created the VTT file
     if (!(await fileExists(vttPath))) {
