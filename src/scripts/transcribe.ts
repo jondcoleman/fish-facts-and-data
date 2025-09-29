@@ -102,6 +102,11 @@ export async function transcribeAudio(
 
     await whisper(wavPath, whisperOptions);
 
+    // Verify that transcription actually created the VTT file
+    if (!(await fileExists(vttPath))) {
+      throw new Error(`Transcription completed but VTT file was not created: ${vttPath}`);
+    }
+
     logSuccess(`Transcription complete for: ${episodeDirName}`);
 
     return {
