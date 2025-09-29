@@ -87,6 +87,26 @@ export async function transcribeAudio(
       throw new Error(`WAV file not found: ${wavPath}`);
     }
 
+    // Check if Whisper model exists
+    const modelPath = path.join(
+      PROJECT_ROOT,
+      "node_modules/whisper-node/lib/whisper.cpp/models",
+      `ggml-${modelName}.bin`
+    );
+    if (!(await fileExists(modelPath))) {
+      logError(
+        `Whisper model '${modelName}' not found at: ${modelPath}`,
+        new Error("Model not downloaded")
+      );
+      logError(
+        `To download the model, run: cd node_modules/whisper-node/lib/whisper.cpp/models && ./download-ggml-model.sh ${modelName}`,
+        null
+      );
+      throw new Error(
+        `Whisper model '${modelName}' is not downloaded. Please run the download script.`
+      );
+    }
+
     const whisperOptions = {
       modelName,
       whisperOptions: {
@@ -104,7 +124,9 @@ export async function transcribeAudio(
 
     // Verify that transcription actually created the VTT file
     if (!(await fileExists(vttPath))) {
-      throw new Error(`Transcription completed but VTT file was not created: ${vttPath}`);
+      throw new Error(
+        `Transcription completed but VTT file was not created. This may indicate the Whisper model failed silently. Check that model '${modelName}' is properly installed.`
+      );
     }
 
     logSuccess(`Transcription complete for: ${episodeDirName}`);
