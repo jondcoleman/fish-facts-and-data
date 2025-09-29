@@ -2,21 +2,15 @@
   "title": "577. No Such Thing As A Venetian Barge",
   "link": "https://www.patreon.com/posts/577-no-such-as-125849817",
   "pubDate": "Thu, 03 Apr 2025 23:01:01 GMT",
-  "enclosure": {
-    "url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/125849817/3892a5aeee314ccdbe1458858960244f/eyJhIjoxLCJpc19hdWRpbyI6MSwicCI6MX0%3D/1.mp3?token-hash=O91Lz24iJUk61HEOfGWbKvpHvdCacZ64TH72q1Rc5rY%3D&token-time=1759795200",
-    "length": "109108172",
-    "type": "audio/mpeg"
-  },
   "content": "<p>Dan, James, Andy and Anna discuss cloud eaters, load masters, and various Carpenters.</p><p>Visit <a href=\"https://nosuchthingasafish.com\" rel=\"nofollow noopener\" target=\"_blank\">nosuchthingasafish.com</a> for news about live shows, merchandise and more episodes. </p>",
   "contentSnippet": "Dan, James, Andy and Anna discuss cloud eaters, load masters, and various Carpenters.\nVisit nosuchthingasafish.com for news about live shows, merchandise and more episodes.",
   "guid": "125849817",
   "isoDate": "2025-04-03T23:01:01.000Z",
-  "itunes": {
-    "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/125849817/0f07b63a5ff04946b6239e1ec02ff44d/eyJkIjo3MiwiaCI6MzAwMCwic3RyaXBfYWxwaGEiOjEsInciOjMwMDAsIndlYnAiOjB9/1.jpg?token-hash=x9kh9pvvNUlCRAnqPnJdc-MmhPJFTtf7KIOpouVM_8E%3D",
-    "episode": "577"
-  },
   "id": "125849817",
   "publishDate": "2025-04-03T23:01:01.000Z",
   "dirName": "2025-04-03_577-no-such-thing-as-a-venetian-barge",
-  "bootstrappedAt": "2025-09-29T18:08:20.720Z"
+  "itunes": {
+    "episode": "577"
+  },
+  "bootstrappedAt": "2025-09-29T18:10:47.283Z"
 }

@@ -2,22 +2,16 @@
   "title": "556. No Such Thing As A Ghost In Blue Jeans",
   "link": "https://www.patreon.com/posts/556-no-such-as-115533425",
   "pubDate": "Fri, 08 Nov 2024 00:01:01 GMT",
-  "enclosure": {
-    "url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/115533425/9053ab803d93465b9ad4e12ebc20a2bd/eyJhIjoxLCJpc19hdWRpbyI6MSwicCI6MX0%3D/1.mp3?token-hash=lBCAjjXgUW23IKJZC0pCrG_3sFWeeMbBsD8AUxAc-XU%3D&token-time=1759795200",
-    "length": "99864637",
-    "type": "audio/mpeg"
-  },
   "content": "<p>Live from the Theatre Royal, Drury Lane, Dan, James, Anna and Andy discuss failure, theatrics, fraud and a highly litigious member of the Trump family. </p><p>Visit <a href=\"https://nosuchthingasafish.com\" rel=\"nofollow noopener\" target=\"_blank\">nosuchthingasafish.com</a> for news about live shows, merchandise and more episodes. </p>",
   "contentSnippet": "Live from the Theatre Royal, Drury Lane, Dan, James, Anna and Andy discuss failure, theatrics, fraud and a highly litigious member of the Trump family. \nVisit nosuchthingasafish.com for news about live shows, merchandise and more episodes.",
   "guid": "115533425",
   "isoDate": "2024-11-08T00:01:01.000Z",
-  "itunes": {
-    "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/115533425/f21451a8556e4aa9a66b402ce362e239/eyJkIjo3MiwiaCI6MzAwMCwic3RyaXBfYWxwaGEiOjEsInciOjMwMDAsIndlYnAiOjB9/1.jpg?token-hash=fAiXHQlwcOpDpaGV_Vyp6oxUhYrfREIUqoyZMicnKBo%3D",
-    "episode": "556",
-    "episodeType": "full"
-  },
   "id": "115533425",
   "publishDate": "2024-11-08T00:01:01.000Z",
   "dirName": "2024-11-08_556-no-such-thing-as-a-ghost-in-blue-jeans",
-  "bootstrappedAt": "2025-09-29T18:08:20.736Z"
+  "itunes": {
+    "episode": "556",
+    "episodeType": "full"
+  },
+  "bootstrappedAt": "2025-09-29T18:10:47.292Z"
 }

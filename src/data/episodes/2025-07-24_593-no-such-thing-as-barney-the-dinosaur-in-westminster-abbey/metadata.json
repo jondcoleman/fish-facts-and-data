@@ -2,22 +2,16 @@
   "title": "593. No Such Thing As Barney The Dinosaur In Westminster Abbey",
   "link": "https://www.patreon.com/posts/593-no-such-as-134862665",
   "pubDate": "Thu, 24 Jul 2025 23:01:03 GMT",
-  "enclosure": {
-    "url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/134862665/3df904c94c9d4158a4f9671ca227eff2/eyJhIjoxLCJpc19hdWRpbyI6MSwicCI6MX0%3D/1.mp3?token-hash=644F1gxq3hISZHbyqrNPAoOLTx8SyPCAjQ0GKo0Q288%3D&token-time=1759795200",
-    "length": "112077344",
-    "type": "audio/mpeg"
-  },
   "content": "<p>Dan, James, Anna, and Andy discuss Canadian contours, Dylan's demise, Singapore Slings and sunflower seeds.</p><p>Visit <a href=\"https://nosuchthingasafish.com\" rel=\"nofollow noopener\" target=\"_blank\">nosuchthingasafish.com</a> for news about live shows, merchandise and more episodes.</p><p></p>",
   "contentSnippet": "Dan, James, Anna, and Andy discuss Canadian contours, Dylan's demise, Singapore Slings and sunflower seeds.\nVisit nosuchthingasafish.com for news about live shows, merchandise and more episodes.",
   "guid": "134862665",
   "isoDate": "2025-07-24T23:01:03.000Z",
-  "itunes": {
-    "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/134862665/efd5d049f8954cdb9b1eb0bac650ab1a/eyJkIjo3MiwiaCI6MzAwMCwic3RyaXBfYWxwaGEiOjEsInciOjMwMDAsIndlYnAiOjB9/1.jpg?token-hash=OhRzO0zh6AwS15qR7UihwVPUgwmaUBk8oYPBww4VpuA%3D",
-    "episode": "593",
-    "episodeType": "full"
-  },
   "id": "134862665",
   "publishDate": "2025-07-24T23:01:03.000Z",
   "dirName": "2025-07-24_593-no-such-thing-as-barney-the-dinosaur-in-westminster-abbey",
-  "bootstrappedAt": "2025-09-29T18:08:20.702Z"
+  "itunes": {
+    "episode": "593",
+    "episodeType": "full"
+  },
+  "bootstrappedAt": "2025-09-29T18:10:47.268Z"
 }

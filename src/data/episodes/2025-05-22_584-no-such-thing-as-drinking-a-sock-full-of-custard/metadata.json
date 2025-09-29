@@ -2,22 +2,16 @@
   "title": "584. No Such Thing As Drinking A Sock Full Of Custard",
   "link": "https://www.patreon.com/posts/584-no-such-as-129603285",
   "pubDate": "Thu, 22 May 2025 23:01:01 GMT",
-  "enclosure": {
-    "url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/129603285/0a07039ac56a4cd688c4ed49076959ba/eyJhIjoxLCJpc19hdWRpbyI6MSwicCI6MX0%3D/1.mp3?token-hash=8gpFrNTVZum4cxiOtwroJAr2hgsSkpEoEVgWk63r7Ek%3D&token-time=1759795200",
-    "length": "107448790",
-    "type": "audio/mpeg"
-  },
   "content": "<p>Dan, James, Anna and John Lloyd discuss postcards, Picasso, Foley and Fossey.</p><p>Visit <a href=\"https://nosuchthingasafish.com\" rel=\"nofollow noopener\" target=\"_blank\">nosuchthingasafish.com</a> for news about live shows, merchandise and more episodes.</p>",
   "contentSnippet": "Dan, James, Anna and John Lloyd discuss postcards, Picasso, Foley and Fossey.\nVisit nosuchthingasafish.com for news about live shows, merchandise and more episodes.",
   "guid": "129603285",
   "isoDate": "2025-05-22T23:01:01.000Z",
-  "itunes": {
-    "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/129603285/7b80f7564e7b4976abd2766c851bddde/eyJkIjo3MiwiaCI6MzAwMCwic3RyaXBfYWxwaGEiOjEsInciOjMwMDAsIndlYnAiOjB9/1.jpg?token-hash=oTiTFxkqfIV602svtgDRhdLqsreIqNfVwTJIBlBRnYo%3D",
-    "episode": "584",
-    "episodeType": "full"
-  },
   "id": "129603285",
   "publishDate": "2025-05-22T23:01:01.000Z",
   "dirName": "2025-05-22_584-no-such-thing-as-drinking-a-sock-full-of-custard",
-  "bootstrappedAt": "2025-09-29T18:08:20.713Z"
+  "itunes": {
+    "episode": "584",
+    "episodeType": "full"
+  },
+  "bootstrappedAt": "2025-09-29T18:10:47.277Z"
 }

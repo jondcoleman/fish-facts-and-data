@@ -2,22 +2,16 @@
   "title": "598. No Such Thing As Quantum Baseball",
   "link": "https://www.patreon.com/posts/598-no-such-as-137562505",
   "pubDate": "Thu, 28 Aug 2025 23:01:02 GMT",
-  "enclosure": {
-    "url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/137562505/eedd102428ab493da9d0a99e479f34cd/eyJhIjoxLCJpc19hdWRpbyI6MSwicCI6MX0%3D/1.mp3?token-hash=tT0yC7Jw9k6e-YbXW1r1qYqU5D1f_Dnxv0q5yvXRqkg%3D&token-time=1759795200",
-    "length": "101355759",
-    "type": "audio/mpeg"
-  },
   "content": "<p>Dan, James, Anna and Andy discuss YOUR facts, including flaming baptisms, defacing statues, painting ferris wheels, and why quantum entanglement is never the answer.</p><p>Visit <a href=\"https://nosuchthingasafish.com\" rel=\"nofollow noopener\" target=\"_blank\">nosuchthingasafish.com</a> for news about live shows, merchandise and more episodes.</p>",
   "contentSnippet": "Dan, James, Anna and Andy discuss YOUR facts, including flaming baptisms, defacing statues, painting ferris wheels, and why quantum entanglement is never the answer.\nVisit nosuchthingasafish.com for news about live shows, merchandise and more episodes.",
   "guid": "137562505",
   "isoDate": "2025-08-28T23:01:02.000Z",
-  "itunes": {
-    "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/137562505/91aaa34f38754da0aeda17f2efd12bc5/eyJkIjo3MiwiaCI6MzAwMCwic3RyaXBfYWxwaGEiOjEsInciOjMwMDAsIndlYnAiOjB9/1.jpg?token-hash=zz1zNGymFNKd2mKlObi_H_6uCq6mFwYgvpkuxaoYDx4%3D",
-    "episode": "598",
-    "episodeType": "full"
-  },
   "id": "137562505",
   "publishDate": "2025-08-28T23:01:02.000Z",
   "dirName": "2025-08-28_598-no-such-thing-as-quantum-baseball",
-  "bootstrappedAt": "2025-09-29T18:08:20.696Z"
+  "itunes": {
+    "episode": "598",
+    "episodeType": "full"
+  },
+  "bootstrappedAt": "2025-09-29T18:10:47.260Z"
 }

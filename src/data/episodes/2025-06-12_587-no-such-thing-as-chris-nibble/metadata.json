@@ -2,22 +2,16 @@
   "title": "587. No Such Thing As Chris Nibble",
   "link": "https://www.patreon.com/posts/587-no-such-as-131301430",
   "pubDate": "Thu, 12 Jun 2025 23:01:01 GMT",
-  "enclosure": {
-    "url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/131301430/5bd905fbae4446e397620e2af9bba85a/eyJhIjoxLCJpc19hdWRpbyI6MSwicCI6MX0%3D/1.mp3?token-hash=TlEDu15mZ2sMKhP3yyTf4vZDbY4OwYFk1Yak8U2tYTA%3D&token-time=1759795200",
-    "length": "111369131",
-    "type": "audio/mpeg"
-  },
   "content": "<p>Anna, Andy, James and Rhys Darby discuss robots, railways, lost witches and found phones.</p><p>Visit <a href=\"https://nosuchthingasafish.com\" rel=\"nofollow noopener\" target=\"_blank\">nosuchthingasafish.com</a> for news about live shows, merchandise and more episodes. </p>",
   "contentSnippet": "Anna, Andy, James and Rhys Darby discuss robots, railways, lost witches and found phones.\nVisit nosuchthingasafish.com for news about live shows, merchandise and more episodes.",
   "guid": "131301430",
   "isoDate": "2025-06-12T23:01:01.000Z",
-  "itunes": {
-    "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/131301430/3a9f7f2a36384172a994afd3fda88882/eyJkIjo3MiwiaCI6MzAwMCwic3RyaXBfYWxwaGEiOjEsInciOjMwMDAsIndlYnAiOjB9/1.jpg?token-hash=kaC9bRvML9yRT-WAGuFffvF9FPAguWZCWUkL_lEsU_M%3D",
-    "episode": "587",
-    "episodeType": "full"
-  },
   "id": "131301430",
   "publishDate": "2025-06-12T23:01:01.000Z",
   "dirName": "2025-06-12_587-no-such-thing-as-chris-nibble",
-  "bootstrappedAt": "2025-09-29T18:08:20.709Z"
+  "itunes": {
+    "episode": "587",
+    "episodeType": "full"
+  },
+  "bootstrappedAt": "2025-09-29T18:10:47.273Z"
 }

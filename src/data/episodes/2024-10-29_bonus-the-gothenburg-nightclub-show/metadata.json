@@ -2,21 +2,15 @@
   "title": "Bonus - The Gothenburg Nightclub Show",
   "link": "https://www.patreon.com/posts/bonus-gothenburg-114869770",
   "pubDate": "Tue, 29 Oct 2024 00:01:01 GMT",
-  "enclosure": {
-    "url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/114869770/054c48e5724e471199e48e3ccc380ecd/eyJhIjoxLCJpc19hdWRpbyI6MSwicCI6MX0%3D/1.mp3?token-hash=wJ0Hoe3I_QzD5-YMuHXJ5NVHl9oOay4i-WjLp31QC78%3D&token-time=1759795200",
-    "length": "46031575",
-    "type": "audio/mpeg"
-  },
   "content": "<p>Dan, Andy and James visit a Swedish nightclub.</p><p>Visit <a href=\"https://nosuchthingasafish.com\" rel=\"nofollow noopener\" target=\"_blank\">nosuchthingasafish.com</a> for news about live shows, merchandise and more episodes. </p>",
   "contentSnippet": "Dan, Andy and James visit a Swedish nightclub.\nVisit nosuchthingasafish.com for news about live shows, merchandise and more episodes.",
   "guid": "114869770",
   "isoDate": "2024-10-29T00:01:01.000Z",
-  "itunes": {
-    "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/114869770/3dcb1404d9d448dc9603b9ba0de50c45/eyJkIjo3MiwiaCI6MzAwMCwic3RyaXBfYWxwaGEiOjEsInciOjMwMDAsIndlYnAiOjB9/1.jpg?token-hash=oPR71ZiI_CZIE3PKIKpmVwRi6-3koxwfA6v9zdIUDhg%3D",
-    "episodeType": "bonus"
-  },
   "id": "114869770",
   "publishDate": "2024-10-29T00:01:01.000Z",
   "dirName": "2024-10-29_bonus-the-gothenburg-nightclub-show",
-  "bootstrappedAt": "2025-09-29T18:08:20.736Z"
+  "itunes": {
+    "episodeType": "bonus"
+  },
+  "bootstrappedAt": "2025-09-29T18:10:47.293Z"
 }

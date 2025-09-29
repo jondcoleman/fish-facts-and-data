@@ -2,21 +2,15 @@
   "title": "583. No Such Thing As A Tuna Macchiato",
   "link": "https://www.patreon.com/posts/583-no-such-as-129020124",
   "pubDate": "Thu, 15 May 2025 23:01:01 GMT",
-  "enclosure": {
-    "url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/129020124/5521d2cee0b543ab8a0ef96220099033/eyJhIjoxLCJpc19hdWRpbyI6MSwicCI6MX0%3D/1.mp3?token-hash=6kvT_zklqt3635tFUuG4Ow7mE0FXx_VgsGkB_EwdOT4%3D&token-time=1759795200",
-    "length": "107966322",
-    "type": "audio/mpeg"
-  },
   "content": "<p>Dan, Anna, Andy and Rosie Holt discuss apes, art, anecdotes and Ancient Rome.</p><p>Visit <a href=\"https://nosuchthingasafish.com\" rel=\"nofollow noopener\" target=\"_blank\">nosuchthingasafish.com</a> for news about live shows, merchandise and more episodes. </p>",
   "contentSnippet": "Dan, Anna, Andy and Rosie Holt discuss apes, art, anecdotes and Ancient Rome.\nVisit nosuchthingasafish.com for news about live shows, merchandise and more episodes.",
   "guid": "129020124",
   "isoDate": "2025-05-15T23:01:01.000Z",
-  "itunes": {
-    "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/129020124/4740927ac63e4cd18ec15ca57381e7a3/eyJkIjo3MiwiaCI6MzAwMCwic3RyaXBfYWxwaGEiOjEsInciOjMwMDAsIndlYnAiOjB9/1.jpg?token-hash=0GgEhD-PDPycv-pLBTGHtMZbvn83hUCaJWBrhxrpJGU%3D",
-    "episodeType": "full"
-  },
   "id": "129020124",
   "publishDate": "2025-05-15T23:01:01.000Z",
   "dirName": "2025-05-15_583-no-such-thing-as-a-tuna-macchiato",
-  "bootstrappedAt": "2025-09-29T18:08:20.714Z"
+  "itunes": {
+    "episodeType": "full"
+  },
+  "bootstrappedAt": "2025-09-29T18:10:47.278Z"
 }

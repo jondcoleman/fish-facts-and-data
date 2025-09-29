@@ -2,22 +2,16 @@
   "title": "588. No Such Thing As A Punk Monk",
   "link": "https://www.patreon.com/posts/588-no-such-as-131833801",
   "pubDate": "Thu, 19 Jun 2025 23:01:02 GMT",
-  "enclosure": {
-    "url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/131833801/377571cb57d04df6a0f7169f43dd73cd/eyJhIjoxLCJpc19hdWRpbyI6MSwicCI6MX0%3D/1.mp3?token-hash=t-EWKWiar-1Y51geoux7KfLlObkBibbHYhloRfs6bi8%3D&token-time=1759795200",
-    "length": "89886256",
-    "type": "audio/mpeg"
-  },
   "content": "<p>Live from the Nerdland Festival in Belgium, Dan, James, Anna, and Andy discuss swords, sheep, Samurai and scientific studies.</p><p>Visit <a href=\"https://nosuchthingasafish.com\" rel=\"nofollow noopener\" target=\"_blank\">nosuchthingasafish.com</a> for news about live shows, merchandise and more episodes.</p>",
   "contentSnippet": "Live from the Nerdland Festival in Belgium, Dan, James, Anna, and Andy discuss swords, sheep, Samurai and scientific studies.\nVisit nosuchthingasafish.com for news about live shows, merchandise and more episodes.",
   "guid": "131833801",
   "isoDate": "2025-06-19T23:01:02.000Z",
-  "itunes": {
-    "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/131833801/19cebd688fc04e5ab85396887c627a0c/eyJkIjo3MiwiaCI6MzAwMCwic3RyaXBfYWxwaGEiOjEsInciOjMwMDAsIndlYnAiOjB9/1.jpg?token-hash=KoM5S6Q9tmA0EYLF6mfwVk5c8DjVLy-0jXKP5SbEZhA%3D",
-    "episode": "588",
-    "episodeType": "full"
-  },
   "id": "131833801",
   "publishDate": "2025-06-19T23:01:02.000Z",
   "dirName": "2025-06-19_588-no-such-thing-as-a-punk-monk",
-  "bootstrappedAt": "2025-09-29T18:08:20.707Z"
+  "itunes": {
+    "episode": "588",
+    "episodeType": "full"
+  },
+  "bootstrappedAt": "2025-09-29T18:10:47.273Z"
 }

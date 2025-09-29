@@ -2,21 +2,15 @@
   "title": "Bonus - Meet The Elves (Jack Part Two)",
   "link": "https://www.patreon.com/posts/bonus-meet-elves-122463506",
   "pubDate": "Mon, 17 Feb 2025 23:55:01 GMT",
-  "enclosure": {
-    "url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/122463506/f64456d2e19f4429a02734686d09656f/eyJhIjoxLCJpc19hdWRpbyI6MSwicCI6MX0%3D/1.mp3?token-hash=-DqoDOJk7Q10vU6sq8lQUrq5t9zv7GY2BvflVrhZRrw%3D&token-time=1759795200",
-    "length": "43174105",
-    "type": "audio/mpeg"
-  },
   "content": "<p>We (re)meet Jack Chambers who delivers some insight into his latest project and stumps us all with his banana-based illuminations.</p>",
   "contentSnippet": "We (re)meet Jack Chambers who delivers some insight into his latest project and stumps us all with his banana-based illuminations.",
   "guid": "122463506",
   "isoDate": "2025-02-17T23:55:01.000Z",
-  "itunes": {
-    "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/122463506/82e072d070b94db0a379bfcaf1e2715b/eyJkIjo3MiwiaCI6MzAwMCwic3RyaXBfYWxwaGEiOjEsInciOjMwMDAsIndlYnAiOjB9/1.jpg?token-hash=yatu7CGdvx66ArTRqJUgQ3pooExL6m-ydRXedsXh1wM%3D",
-    "episodeType": "bonus"
-  },
   "id": "122463506",
   "publishDate": "2025-02-17T23:55:01.000Z",
   "dirName": "2025-02-17_bonus-meet-the-elves-jack-part-two",
-  "bootstrappedAt": "2025-09-29T18:08:20.727Z"
+  "itunes": {
+    "episodeType": "bonus"
+  },
+  "bootstrappedAt": "2025-09-29T18:10:47.286Z"
 }

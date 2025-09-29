@@ -2,22 +2,16 @@
   "title": "594. No Such Thing As Laser Club",
   "link": "https://www.patreon.com/posts/594-no-such-as-135394777",
   "pubDate": "Thu, 31 Jul 2025 23:01:03 GMT",
-  "enclosure": {
-    "url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/135394777/0a180ac50fcf494da8c6f6176b5fbe26/eyJhIjoxLCJpc19hdWRpbyI6MSwicCI6MX0%3D/1.mp3?token-hash=lx1Xv4YGjb14tevXy5IOEy9-KSg6bOZP6X7Ey_6BC54%3D&token-time=1759795200",
-    "length": "117566466",
-    "type": "audio/mpeg"
-  },
   "content": "<p>Dan, James, Anna, Andy, Ian Smith, Abby Howells, Urooj Ashfaq and Nish Kumar discuss pigs, jigs and Jimi Hendrix.</p><p>Visit <a href=\"https://nosuchthingasafish.com\" rel=\"nofollow noopener\" target=\"_blank\">nosuchthingasafish.com</a> for news about live shows, merchandise and more episodes.</p>",
   "contentSnippet": "Dan, James, Anna, Andy, Ian Smith, Abby Howells, Urooj Ashfaq and Nish Kumar discuss pigs, jigs and Jimi Hendrix.\nVisit nosuchthingasafish.com for news about live shows, merchandise and more episodes.",
   "guid": "135394777",
   "isoDate": "2025-07-31T23:01:03.000Z",
-  "itunes": {
-    "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/135394777/acca66b9eb8340dda5b450fa05a9952a/eyJkIjo3MiwiaCI6MzAwMCwic3RyaXBfYWxwaGEiOjEsInciOjMwMDAsIndlYnAiOjB9/1.jpg?token-hash=8S8ppnEKlO5vkE4dRYU6Kr83WrAkG9MxO-UwQq7HUEU%3D",
-    "episode": "594",
-    "episodeType": "full"
-  },
   "id": "135394777",
   "publishDate": "2025-07-31T23:01:03.000Z",
   "dirName": "2025-07-31_594-no-such-thing-as-laser-club",
-  "bootstrappedAt": "2025-09-29T18:08:20.701Z"
+  "itunes": {
+    "episode": "594",
+    "episodeType": "full"
+  },
+  "bootstrappedAt": "2025-09-29T18:10:47.268Z"
 }

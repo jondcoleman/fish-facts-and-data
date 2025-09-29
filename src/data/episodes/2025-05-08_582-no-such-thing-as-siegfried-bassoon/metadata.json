@@ -2,21 +2,15 @@
   "title": "582. No Such Thing As Siegfried Bassoon",
   "link": "https://www.patreon.com/posts/582-no-such-as-128455032",
   "pubDate": "Thu, 08 May 2025 23:01:03 GMT",
-  "enclosure": {
-    "url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/128455032/b8b77d653aac4e07adf87f3ab7ff4f9f/eyJhIjoxLCJpc19hdWRpbyI6MSwicCI6MX0%3D/1.mp3?token-hash=EWRdaLQtO5Lez6ybjmoq3E_Gs6VrGlXCj1mw2zT6Z44%3D&token-time=1759795200",
-    "length": "109158913",
-    "type": "audio/mpeg"
-  },
   "content": "<p>Dan, James, Anna and Andy discuss particles, poems, plums, and Antonio da Ponte.</p><p>Visit <a href=\"https://nosuchthingasafish.com\" rel=\"nofollow noopener\" target=\"_blank\">nosuchthingasafish.com</a> for news about live shows, merchandise and more episodes. </p>",
   "contentSnippet": "Dan, James, Anna and Andy discuss particles, poems, plums, and Antonio da Ponte.\nVisit nosuchthingasafish.com for news about live shows, merchandise and more episodes.",
   "guid": "128455032",
   "isoDate": "2025-05-08T23:01:03.000Z",
-  "itunes": {
-    "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/128455032/eeca9dcef9c04a9396113ee8d95fbd15/eyJkIjo3MiwiaCI6MzAwMCwic3RyaXBfYWxwaGEiOjEsInciOjMwMDAsIndlYnAiOjB9/1.jpg?token-hash=mtLKMlufAZUZ1z55c91Tp5nkd7XQDFbw02LJ2llwIAQ%3D",
-    "episode": "582"
-  },
   "id": "128455032",
   "publishDate": "2025-05-08T23:01:03.000Z",
   "dirName": "2025-05-08_582-no-such-thing-as-siegfried-bassoon",
-  "bootstrappedAt": "2025-09-29T18:08:20.716Z"
+  "itunes": {
+    "episode": "582"
+  },
+  "bootstrappedAt": "2025-09-29T18:10:47.280Z"
 }

@@ -2,23 +2,17 @@
   "title": "Bonus - Fact Choosing",
   "link": "https://www.patreon.com/posts/bonus-fact-121411190",
   "pubDate": "Mon, 03 Feb 2025 00:00:00 GMT",
-  "enclosure": {
-    "url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/121411190/8a3afec2be204a2bae247f9ffaa5c941/eyJhIjoxLCJpc19hdWRpbyI6MSwicCI6MX0%3D/1.mp3?token-hash=NCdEnlCyZWaGGNIjCRMVMvqa7T2wAxUZEVQK-Nf6TEg%3D&token-time=1759795200",
-    "length": "49757184",
-    "type": "audio/mpeg"
-  },
   "content": "<p>The Fishers take you behind the scenes and show you the process of choosing their headline facts each week.</p>",
   "contentSnippet": "The Fishers take you behind the scenes and show you the process of choosing their headline facts each week.",
   "guid": "121411190",
   "isoDate": "2025-02-03T00:00:00.000Z",
-  "itunes": {
-    "explicit": "true",
-    "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/121411190/08d3c9bdf3274a1e9c7bf121e1fd3415/eyJkIjo3MiwiaCI6MzAwMCwic3RyaXBfYWxwaGEiOjEsInciOjMwMDAsIndlYnAiOjB9/1.jpg?token-hash=LaA_aLPWOCMoctLnTUhUNDy0CpuFwqEF4wlWceJwXgg%3D",
-    "season": "1",
-    "episodeType": "bonus"
-  },
   "id": "121411190",
   "publishDate": "2025-02-03T00:00:00.000Z",
   "dirName": "2025-02-03_bonus-fact-choosing",
-  "bootstrappedAt": "2025-09-29T18:08:20.728Z"
+  "itunes": {
+    "explicit": "true",
+    "season": "1",
+    "episodeType": "bonus"
+  },
+  "bootstrappedAt": "2025-09-29T18:10:47.286Z"
 }

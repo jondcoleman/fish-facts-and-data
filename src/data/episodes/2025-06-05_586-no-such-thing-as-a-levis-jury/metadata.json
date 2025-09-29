@@ -2,22 +2,16 @@
   "title": "586. No Such Thing As A Levis Jury",
   "link": "https://www.patreon.com/posts/586-no-such-as-130788991",
   "pubDate": "Thu, 05 Jun 2025 23:01:02 GMT",
-  "enclosure": {
-    "url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/130788991/43f6307f166e4241854c2e6090fbd625/eyJhIjoxLCJpc19hdWRpbyI6MSwicCI6MX0%3D/1.mp3?token-hash=Iv4uO8d8p1KibcptMiqJdj2H7nMw1uOa0byGxJi83Hc%3D&token-time=1759795200",
-    "length": "109685706",
-    "type": "audio/mpeg"
-  },
   "content": "<p>Dan, James, Anna and Andy discuss Socrates, Stansted, short wigs and long waves.</p><p>Visit <a href=\"https://nosuchthingasafish.com\" rel=\"nofollow noopener\" target=\"_blank\">nosuchthingasafish.com</a> for news about live shows, merchandise and more episodes. </p>",
   "contentSnippet": "Dan, James, Anna and Andy discuss Socrates, Stansted, short wigs and long waves.\nVisit nosuchthingasafish.com for news about live shows, merchandise and more episodes.",
   "guid": "130788991",
   "isoDate": "2025-06-05T23:01:02.000Z",
-  "itunes": {
-    "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/130788991/9ee41744c1f442ea876bf43ae28311e4/eyJkIjo3MiwiaCI6MzAwMCwic3RyaXBfYWxwaGEiOjEsInciOjMwMDAsIndlYnAiOjB9/1.png?token-hash=pUsI7JmgJlbpUp6HYrFud_JFNP_Bcs0lQZzx6riupO8%3D",
-    "episode": "586",
-    "episodeType": "full"
-  },
   "id": "130788991",
   "publishDate": "2025-06-05T23:01:02.000Z",
   "dirName": "2025-06-05_586-no-such-thing-as-a-levis-jury",
-  "bootstrappedAt": "2025-09-29T18:08:20.711Z"
+  "itunes": {
+    "episode": "586",
+    "episodeType": "full"
+  },
+  "bootstrappedAt": "2025-09-29T18:10:47.275Z"
 }

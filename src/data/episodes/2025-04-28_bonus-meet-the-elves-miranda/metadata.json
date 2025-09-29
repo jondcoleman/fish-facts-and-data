@@ -2,21 +2,15 @@
   "title": "Bonus: Meet The Elves - Miranda",
   "link": "https://www.patreon.com/posts/bonus-meet-elves-127664163",
   "pubDate": "Mon, 28 Apr 2025 23:01:01 GMT",
-  "enclosure": {
-    "url": "https://c10.patreonusercontent.com/4/patreon-media/p/post/127664163/1f33354dfc754e86b55846564e2eccdc/eyJhIjoxLCJpc19hdWRpbyI6MSwicCI6MX0%3D/1.mp3?token-hash=A3N26sUSmNonyDZ0duao6uIJnblI-otxDQRXjmmpnFg%3D&token-time=1759795200",
-    "length": "39585782",
-    "type": "audio/mpeg"
-  },
   "content": "<p>Visit <a href=\"https://nosuchthingasafish.com\" rel=\"nofollow noopener\" target=\"_blank\">nosuchthingasafish.com</a> for news about live shows, merchandise and more episodes.</p>",
   "contentSnippet": "Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes.",
   "guid": "127664163",
   "isoDate": "2025-04-28T23:01:01.000Z",
-  "itunes": {
-    "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/127664163/193559a935f043a38106f26b725d7f0b/eyJkIjo3MiwiaCI6MzAwMCwic3RyaXBfYWxwaGEiOjEsInciOjMwMDAsIndlYnAiOjB9/1.jpg?token-hash=tkYh5H0zukR_BNgd3tWK8hvwDxjDYrad9NQ9TOtxlN8%3D",
-    "episodeType": "bonus"
-  },
   "id": "127664163",
   "publishDate": "2025-04-28T23:01:01.000Z",
   "dirName": "2025-04-28_bonus-meet-the-elves-miranda",
-  "bootstrappedAt": "2025-09-29T18:08:20.717Z"
+  "itunes": {
+    "episodeType": "bonus"
+  },
+  "bootstrappedAt": "2025-09-29T18:10:47.280Z"
 }
