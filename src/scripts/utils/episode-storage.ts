@@ -1,7 +1,11 @@
 import * as path from "path";
+import { fileURLToPath } from "url";
 import { ensureDir, writeJson, readJson, logSuccess } from "./index.js";
 
-const EPISODES_DIR = "src/data/episodes";
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const PROJECT_ROOT = path.resolve(__dirname, "../../..");
+const EPISODES_DIR = path.join(PROJECT_ROOT, "src/data/episodes");
 
 /**
  * Episode metadata to save

@@ -2,6 +2,7 @@ import "dotenv/config";
 import * as fs from "fs/promises";
 import { createWriteStream } from "fs";
 import * as path from "path";
+import { fileURLToPath } from "url";
 import { pipeline } from "stream/promises";
 import { Readable } from "stream";
 import ffmpeg from "fluent-ffmpeg";
@@ -14,7 +15,10 @@ import {
   logWarning,
 } from "./utils/index.js";
 
-const AUDIO_DIR = "audio";
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const PROJECT_ROOT = path.resolve(__dirname, "../..");
+const AUDIO_DIR = path.join(PROJECT_ROOT, "audio");
 const MAX_RETRIES = 3;
 
 /**

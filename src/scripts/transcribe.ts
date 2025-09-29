@@ -1,5 +1,6 @@
 import "dotenv/config";
 import * as path from "path";
+import { fileURLToPath } from "url";
 // @ts-expect-error - whisper-node has no type definitions
 import { whisper } from "whisper-node";
 import {
@@ -12,7 +13,10 @@ import {
   logWarning,
 } from "./utils/index.js";
 
-const EPISODES_DIR = "src/data/episodes";
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const PROJECT_ROOT = path.resolve(__dirname, "../..");
+const EPISODES_DIR = path.join(PROJECT_ROOT, "src/data/episodes");
 
 /**
  * Options for Whisper transcription

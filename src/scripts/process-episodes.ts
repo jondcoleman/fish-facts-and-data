@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import "dotenv/config";
 import * as path from "path";
+import { fileURLToPath } from "url";
 import {
   discoverNewEpisodes,
   markEpisodeProcessed,
@@ -11,12 +12,19 @@ import { extractFactsFromVtt } from "./extract-facts.js";
 import {
   saveEpisodeMetadata,
   getEpisodeDir,
+  fileExists,
   logInfo,
   logSuccess,
   logError,
   logSection,
   logProgress,
+  logWarning,
 } from "./utils/index.js";
+
+// Get absolute project root path before whisper-node changes CWD
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const PROJECT_ROOT = path.resolve(__dirname, "../..");
 
 /**
  * Episode processing statistics
@@ -106,6 +114,7 @@ async function processEpisode(
  * Main processing function
  */
 async function main() {
+
   const args = process.argv.slice(2);
   const limit = args.includes("--limit")
     ? parseInt(args[args.indexOf("--limit") + 1] || "0")
@@ -145,7 +154,7 @@ async function main() {
     // Process each episode
     const vttPaths: string[] = [];
     const outputDirs: string[] = [];
-    const processedEpisodeIds: string[] = [];
+    const episodeIdsForExtraction: string[] = [];
 
     for (let i = 0; i < episodesToProcess.length; i++) {
       const episode = episodesToProcess[i];
@@ -155,12 +164,21 @@ async function main() {
         stats.successful++;
 
         // Collect VTT paths for batch fact extraction
+        // getEpisodeDir already returns absolute path
         const episodeDir = getEpisodeDir(episode.dirName);
         const vttPath = path.join(episodeDir, "transcript.vtt");
+        const factsPath = path.join(episodeDir, "facts.json");
 
-        vttPaths.push(vttPath);
-        outputDirs.push(episodeDir);
-        processedEpisodeIds.push(episode.id);
+        // Only include episodes that don't already have facts.json
+        const factsExist = await fileExists(factsPath);
+        if (!factsExist) {
+          vttPaths.push(vttPath);
+          outputDirs.push(episodeDir);
+          episodeIdsForExtraction.push(episode.id);
+        } else {
+          // Already has facts, mark as processed now
+          await markEpisodeProcessed(episode.id);
+        }
       } else {
         stats.failed++;
       }
@@ -179,12 +197,21 @@ async function main() {
         `Fact extraction complete: ${extractionResults.ok} successful, ${extractionResults.fail} failed, ${extractionResults.skipped} skipped`
       );
 
-      // Mark episodes as processed after fact extraction completes
+      // Mark episodes as processed only if their facts.json was created
       logInfo("Marking episodes as processed...");
-      for (const episodeId of processedEpisodeIds) {
-        await markEpisodeProcessed(episodeId);
+      let markedCount = 0;
+      for (let i = 0; i < episodeIdsForExtraction.length; i++) {
+        const factsPath = path.join(outputDirs[i], "facts.json");
+        if (await fileExists(factsPath)) {
+          await markEpisodeProcessed(episodeIdsForExtraction[i]);
+          markedCount++;
+        }
       }
-      logSuccess(`Marked ${processedEpisodeIds.length} episodes as processed`);
+      logSuccess(`Marked ${markedCount} episodes as processed`);
+
+      if (markedCount < episodeIdsForExtraction.length) {
+        logWarning(`${episodeIdsForExtraction.length - markedCount} episodes failed fact extraction and were not marked as processed`);
+      }
     }
 
     // Final statistics
