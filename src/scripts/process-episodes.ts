@@ -56,7 +56,9 @@ async function processEpisode(
     // Step 1: Download audio
     logProgress(1, 4, "Downloading audio...");
     const audioExtension = path.extname(episode.audioUrl).split("?")[0] || ".mp3";
-    const audioFilename = `${sanitizeFilename(episode.title)}${audioExtension}`;
+    // Use title portion of dirName for consistency with migrated files
+    const titlePortion = episode.dirName.split("_").slice(1).join("_");
+    const audioFilename = `${titlePortion}${audioExtension}`;
 
     const audioResult = await downloadAndPrepareAudio(
       episode.audioUrl,
