@@ -1,0 +1,2762 @@
+[
+  {
+    "start": 0,
+    "end": 14.32,
+    "text": " [music]"
+  },
+  {
+    "start": 14.32,
+    "end": 19.2,
+    "text": " Hello and welcome to another Working from Home episode of No Such Thing as a Fish,"
+  },
+  {
+    "start": 19.2,
+    "end": 23.84,
+    "text": " a weekly podcast coming to you from four undisclosed locations in the UK."
+  },
+  {
+    "start": 23.84,
+    "end": 27.36,
+    "text": " My name is Dan Schreiber, I am sitting here with James Harkin,"
+  },
+  {
+    "start": 27.36,
+    "end": 32.08,
+    "text": " Andrew Hunter Murray, Anna Tijinski, and once again we have gathered around the microphones"
+  },
+  {
+    "start": 32.08,
+    "end": 37.52,
+    "text": " with our four favourite facts from the last seven days and in no particular order here we go."
+  },
+  {
+    "start": 37.52,
+    "end": 40.32,
+    "text": " Starting with you, Andy."
+  },
+  {
+    "start": 40.32,
+    "end": 45.6,
+    "text": " My fact is that spies can tell what people are saying by looking at the lights in the room they're in."
+  },
+  {
+    "start": 45.6,
+    "end": 52.96,
+    "text": " So this is a new spying technique which has been discovered or, I don't know what you do with spying"
+  },
+  {
+    "start": 52.96,
+    "end": 59.2,
+    "text": " techniques, but it's been found out by researchers from the Ben Gurion University of the Negev"
+  },
+  {
+    "start": 59.2,
+    "end": 63.52,
+    "text": " and the Weissmann Institute of Science. And what they've found is that there are lots of different"
+  },
+  {
+    "start": 63.52,
+    "end": 69.68,
+    "text": " ways of eavesdropping on people, and this one is called LAMPHONE. And what it means is,"
+  },
+  {
+    "start": 69.68,
+    "end": 74.64,
+    "text": " if we're all talking in our rooms, if there's a light bulb and it has to be a hanging light bulb,"
+  },
+  {
+    "start": 74.64,
+    "end": 80.4,
+    "text": " so you know, a classic bulb, your conversation will make tiny, tiny vibrations on the surface"
+  },
+  {
+    "start": 80.4,
+    "end": 85.52,
+    "text": " and that will slightly affect the light inside the bulb. And you can get very cheap equipment,"
+  },
+  {
+    "start": 85.52,
+    "end": 89.84,
+    "text": " like cost a couple of hundred dollars, and you just observe the light bulb from outside the room,"
+  },
+  {
+    "start": 89.84,
+    "end": 94.96,
+    "text": " and you can pick up what people are talking about. You can decode speeches."
+  },
+  {
+    "start": 94.96,
+    "end": 99.68,
+    "text": " Yeah, so you can, it's not like Morse, it's not translating into Morse, you can pick up the actual"
+  },
+  {
+    "start": 99.68,
+    "end": 105.44,
+    "text": " sound? Well, I think it has to be translated from light bulb language into sound."
+  },
+  {
+    "start": 107.84,
+    "end": 112.72,
+    "text": " So it is light bulb language? Yeah, but they can even, you can shazam the song that someone is playing"
+  },
+  {
+    "start": 112.72,
+    "end": 119.44,
+    "text": " in a room. That's how, yeah. It's amazing, isn't it? And they reckon that they took a snippet of a"
+  },
+  {
+    "start": 119.44,
+    "end": 123.52,
+    "text": " speech by Donald Trump, and they could understand what he was saying, which is quite impressive,"
+  },
+  {
+    "start": 123.52,
+    "end": 126.24,
+    "text": " because most people can't understand what he's saying most of the time anyway."
+  },
+  {
+    "start": 126.24,
+    "end": 132.56,
+    "text": " Can we do a light bulb episode of Fish that we just release in light bulb language and"
+  },
+  {
+    "start": 132.56,
+    "end": 136.88,
+    "text": " people can decode down the line? Yeah, good idea. Yeah, that won't present any technical problems."
+  },
+  {
+    "start": 136.88,
+    "end": 143.44,
+    "text": " It's hard enough to get on Zoom, Dan. Is this, do they use lasers for this to reflect, because you"
+  },
+  {
+    "start": 143.44,
+    "end": 147.28,
+    "text": " can't just pin your ear to the window and listen to the vibrations coming off the light bulb or"
+  },
+  {
+    "start": 147.28,
+    "end": 152.88,
+    "text": " anything, presumably. Is it lasers they bounce off it? Yeah, it's invisible lasers. So you won't"
+  },
+  {
+    "start": 152.88,
+    "end": 156.16,
+    "text": " notice a kind of sniper dot on your light bulb, so you won't be able to tell you being spider."
+  },
+  {
+    "start": 156.16,
+    "end": 161.28,
+    "text": " What it is actually, I believe not a laser, I think. I think it's just a telescope,"
+  },
+  {
+    "start": 161.28,
+    "end": 166.64,
+    "text": " so you get the light and an electro optical sensor. Now that might have a laser in it,"
+  },
+  {
+    "start": 166.64,
+    "end": 172.24,
+    "text": " for all I know, but I think what it is, it takes the light in and it can sense the very,"
+  },
+  {
+    "start": 172.24,
+    "end": 176.48,
+    "text": " very slight changes in light. Can I just say why I flubbed that? It's because there's a separate"
+  },
+  {
+    "start": 176.48,
+    "end": 183.92,
+    "text": " thing called a laser microphone, which was, this was used, this is where you fire a laser at the"
+  },
+  {
+    "start": 183.92,
+    "end": 190.56,
+    "text": " windows of a room and you can eavesdrop that way. And this was used in 2013 in a place called a"
+  },
+  {
+    "start": 190.56,
+    "end": 195.68,
+    "text": " botter bed and it was used to find out that there was an extra person inside a building in a botter"
+  },
+  {
+    "start": 195.68,
+    "end": 200.16,
+    "text": " bed and that extra person who never left the building turned out to be Osama Bin Laden."
+  },
+  {
+    "start": 200.16,
+    "end": 205.2,
+    "text": " So that's how they found out there was an extra person inside that building who never went outside."
+  },
+  {
+    "start": 205.2,
+    "end": 211.92,
+    "text": " And do you know who invented this, this laser? No. It was Leon Theramen, the inventor of the"
+  },
+  {
+    "start": 211.92,
+    "end": 221.12,
+    "text": " Theramen. That instrument? Do the noise again, Dan? You should explain what the Theramen is,"
+  },
+  {
+    "start": 221.12,
+    "end": 224.72,
+    "text": " as well as doing that excellent impersonation. I think we have mentioned it before."
+  },
+  {
+    "start": 224.72,
+    "end": 229.6,
+    "text": " Yeah, so Theramans are, you will have seen them possibly as an instrument that I don't,"
+  },
+  {
+    "start": 229.6,
+    "end": 234.24,
+    "text": " I actually don't know how they work technically. They give off electromagnetic waves, don't they,"
+  },
+  {
+    "start": 234.24,
+    "end": 239.52,
+    "text": " and your hand can disrupt them and they make a noise. Yeah, so people use their hand, if you see"
+  },
+  {
+    "start": 239.52,
+    "end": 244.24,
+    "text": " them sort of pushing forward and backwards their hand, it will sort of make that kind of..."
+  },
+  {
+    "start": 244.24,
+    "end": 248,
+    "text": " Yeah, it's basically a ghost impression is what it sounds like."
+  },
+  {
+    "start": 248,
+    "end": 253.12,
+    "text": " So Leon Theramen invented what basically was the precursor to the modern laser microphone that we"
+  },
+  {
+    "start": 253.12,
+    "end": 260.32,
+    "text": " have today and it was used by the Soviet Union and he was given a Stalin prize for inventing this,"
+  },
+  {
+    "start": 260.32,
+    "end": 266.4,
+    "text": " what was advanced espionage technology. So Theramen found Osama Bin Laden."
+  },
+  {
+    "start": 267.12,
+    "end": 270,
+    "text": " Wow. That's amazing. That's sort of spooky."
+  },
+  {
+    "start": 270,
+    "end": 279.36,
+    "text": " The other thing that Theramen did really interestingly was he had invented basically"
+  },
+  {
+    "start": 279.36,
+    "end": 286.24,
+    "text": " like the technology you have on contactless credit cards. He put one of those in a giant wooden seal"
+  },
+  {
+    "start": 286.24,
+    "end": 291.68,
+    "text": " and when I say seal, I don't mean the animal. I mean like kind of a symbol of the United States"
+  },
+  {
+    "start": 291.68,
+    "end": 296.64,
+    "text": " and then gave it to the US embassy somewhere, I think, and they had it up in their room,"
+  },
+  {
+    "start": 296.64,
+    "end": 300.96,
+    "text": " but what they didn't realise is there was a tiny chip in there and that they could hear"
+  },
+  {
+    "start": 300.96,
+    "end": 304.64,
+    "text": " what was happening by using this contactless technology, I think."
+  },
+  {
+    "start": 304.64,
+    "end": 306.32,
+    "text": " Yep. Yeah, you're completely right."
+  },
+  {
+    "start": 306.32,
+    "end": 309.52,
+    "text": " They didn't have to go up to the seal. The Soviets didn't have to go up to the seal"
+  },
+  {
+    "start": 309.52,
+    "end": 315.76,
+    "text": " and then sort of tap on it to get the sound files out, but they sort of fired electromagnetic"
+  },
+  {
+    "start": 315.76,
+    "end": 319.76,
+    "text": " beams at it, didn't they? And that activated it, just like your oyster card is activated"
+  },
+  {
+    "start": 319.76,
+    "end": 321.92,
+    "text": " by the ticket stand. It was called the thing."
+  },
+  {
+    "start": 321.92,
+    "end": 326.08,
+    "text": " The thing? That's what it's called. The seal was called the thing."
+  },
+  {
+    "start": 326.08,
+    "end": 331.04,
+    "text": " Soviet school children gave it to the US embassy or the US ambassador in 1945 and they managed to"
+  },
+  {
+    "start": 331.04,
+    "end": 335.2,
+    "text": " get seven years of espionage recording out of it. Wow, that's so cool."
+  },
+  {
+    "start": 335.2,
+    "end": 338.16,
+    "text": " How did they make sure the US ambassador put it in the right room?"
+  },
+  {
+    "start": 338.16,
+    "end": 342.88,
+    "text": " It was so big, I think, that I had to go on the wall somewhere. I don't think they could guarantee"
+  },
+  {
+    "start": 342.88,
+    "end": 347.12,
+    "text": " the room, but also it was completely made of wood, so they thought this is definitely safe."
+  },
+  {
+    "start": 347.12,
+    "end": 348.88,
+    "text": " There's no way this is a spying tool."
+  },
+  {
+    "start": 348.88,
+    "end": 352.4,
+    "text": " And the really clever thing about those kind of chips that you have in your credit card and in"
+  },
+  {
+    "start": 352.4,
+    "end": 358.24,
+    "text": " your oyster card is they don't need any power, do they? All the power comes from the thing that's"
+  },
+  {
+    "start": 358.24,
+    "end": 366.08,
+    "text": " scanning them. You know, Edward Snowden, he has a secret device to stop himself being spied on,"
+  },
+  {
+    "start": 366.08,
+    "end": 371.2,
+    "text": " which is a blanket over his head. Is that what inspires you? Because you do that sometimes"
+  },
+  {
+    "start": 371.2,
+    "end": 374.96,
+    "text": " when we record. And I thought it was just to embellish the ghost impression that you've been"
+  },
+  {
+    "start": 374.96,
+    "end": 382,
+    "text": " honing. That's just social anxiety. But Edward Snowden has, he calls it his magic mantle of"
+  },
+  {
+    "start": 382,
+    "end": 387.84,
+    "text": " power. And basically, it's to stop targeted video surveillance. Because obviously, if you're"
+  },
+  {
+    "start": 387.84,
+    "end": 391.12,
+    "text": " Edward Snowden, you know, leaking secrets, there's a chance someone will be trying to"
+  },
+  {
+    "start": 391.12,
+    "end": 394.48,
+    "text": " spy on you. So he just puts a blanket over his head when he types his password in."
+  },
+  {
+    "start": 394.48,
+    "end": 398.56,
+    "text": " I remember reading an article about, was it Glenn Greenwald who interviewed him?"
+  },
+  {
+    "start": 398.56,
+    "end": 403.36,
+    "text": " Yeah, someone like that. And they said that whenever they went into his hotel room or his"
+  },
+  {
+    "start": 403.36,
+    "end": 408.16,
+    "text": " house or whatever, they always made you put your phone in the microwave as soon as you"
+  },
+  {
+    "start": 408.16,
+    "end": 412.48,
+    "text": " walked in. That was what you always had to do. I think Snowden makes people put it in the"
+  },
+  {
+    "start": 412.48,
+    "end": 416.72,
+    "text": " refrigerator. I'll just see. It's his. Yeah. How does it work, Andy, though? If he's put it over"
+  },
+  {
+    "start": 416.72,
+    "end": 421.92,
+    "text": " his head, he's not going to be able to see what he's typing. A, but also it's just his eyeballs"
+  },
+  {
+    "start": 421.92,
+    "end": 428,
+    "text": " that I'm not seeing. I reckon Edward Snowden can touch type. But still, what are they recording?"
+  },
+  {
+    "start": 428,
+    "end": 435.6,
+    "text": " All of him is under the blanket. Oh, he's in a port. No, he's not. Well, yes. He's got a blanket"
+  },
+  {
+    "start": 435.6,
+    "end": 439.28,
+    "text": " over his head and his hands, basically. It's in case there's someone, the camera in the room that"
+  },
+  {
+    "start": 439.28,
+    "end": 443.12,
+    "text": " would fill what he's typing. Yeah, yeah, yeah. And you've got to assume that he's done the very"
+  },
+  {
+    "start": 443.12,
+    "end": 446.64,
+    "text": " basic putting masking tape over the camera on his laptop, because if he's missed that trick,"
+  },
+  {
+    "start": 446.64,
+    "end": 452.8,
+    "text": " he's an absolute nobody. Actually, you know what they can tell what you're typing by just"
+  },
+  {
+    "start": 452.8,
+    "end": 458.96,
+    "text": " listening to the sound of your typing on your keyboard. So there are some researchers at"
+  },
+  {
+    "start": 458.96,
+    "end": 466,
+    "text": " the University of California, Berkeley, actually, it's Doug Tiger and his team. And they've worked"
+  },
+  {
+    "start": 466,
+    "end": 470.72,
+    "text": " out every time you click a button, it makes a very, very slightly different sound to the other ones."
+  },
+  {
+    "start": 470.72,
+    "end": 475.52,
+    "text": " But you can't really tell which one is which. But what you can do is you can take all the clicks"
+  },
+  {
+    "start": 475.52,
+    "end": 482,
+    "text": " and then work out the one that comes most often is probably E. And if there are two letters together,"
+  },
+  {
+    "start": 482,
+    "end": 487.52,
+    "text": " these researchers, they realize that it could be T H or it could be E R. And it could definitely not"
+  },
+  {
+    "start": 487.52,
+    "end": 492.16,
+    "text": " be B F, because there are no words with B F next to each other. What the hell of us there are?"
+  },
+  {
+    "start": 492.16,
+    "end": 498.48,
+    "text": " What if you're like, me and my B F are both hardcore spies? Exactly. If you are Edward Snowden,"
+  },
+  {
+    "start": 498.48,
+    "end": 502.72,
+    "text": " here's a little tip for him, and he's in his little fort, and you want to trick the FBI,"
+  },
+  {
+    "start": 502.72,
+    "end": 509.84,
+    "text": " just keep writing about your B F F. He's been a major sort of revealer of a lot of these secrets"
+  },
+  {
+    "start": 509.84,
+    "end": 515.76,
+    "text": " that we've been researching, hasn't he? So he, a lot of stuff came out on the back of his revelations."
+  },
+  {
+    "start": 515.76,
+    "end": 518.88,
+    "text": " So I think, for instance, when the Guardian was doing their investigation and they got"
+  },
+  {
+    "start": 518.88,
+    "end": 522.24,
+    "text": " hold of a lot of the documents, they were told that they weren't allowed to keep any of the Edward"
+  },
+  {
+    "start": 522.24,
+    "end": 526.08,
+    "text": " Snowden files in their offices because the government thought that they could be spied on"
+  },
+  {
+    "start": 526.08,
+    "end": 530.8,
+    "text": " by laser microphones, just bouncing off their glasses of water and stuff like that. So it's"
+  },
+  {
+    "start": 530.8,
+    "end": 535.52,
+    "text": " not just the windows. It's if you've got a mug of tea or anything similar to that, they could do that."
+  },
+  {
+    "start": 535.52,
+    "end": 542.56,
+    "text": " And yeah, he's in the wake of his revelations, a lot of countries took action to make sure that"
+  },
+  {
+    "start": 542.56,
+    "end": 548.16,
+    "text": " the US or the NSA couldn't spy on them too much anymore. So Germany, for instance, invested in a"
+  },
+  {
+    "start": 548.16,
+    "end": 553.84,
+    "text": " whole bunch of typewriters, which I don't know if this would have solved the typing issue. But the"
+  },
+  {
+    "start": 553.84,
+    "end": 559.2,
+    "text": " idea is that if you're writing on a typewriter, there's no digital memory of it anywhere. You've"
+  },
+  {
+    "start": 559.2,
+    "end": 564.88,
+    "text": " just got it on a bit of paper in that weird old school font. And then I guess you just post it"
+  },
+  {
+    "start": 564.88,
+    "end": 569.04,
+    "text": " to somebody. But it is quite annoying if you need to share a document with 20 other people."
+  },
+  {
+    "start": 571.36,
+    "end": 576.48,
+    "text": " But yeah, and Russia, I think, spent 10 grand on antique typewriters after that."
+  },
+  {
+    "start": 576.48,
+    "end": 582.4,
+    "text": " Really? Do any of you guys have a typewriter? I have one. And they're a pain to use compared with a"
+  },
+  {
+    "start": 582.4,
+    "end": 588.8,
+    "text": " computer. They're so annoying. Like they just always get stuck and whenever you make a mistake,"
+  },
+  {
+    "start": 588.8,
+    "end": 590.24,
+    "text": " you can't press delete."
+  },
+  {
+    "start": 590.24,
+    "end": 593.36,
+    "text": " James, why are you writing on a typewriter? That's a big question for me."
+  },
+  {
+    "start": 593.36,
+    "end": 596.24,
+    "text": " Well, you know, I'm married to a Russian."
+  },
+  {
+    "start": 599.92,
+    "end": 604.4,
+    "text": " No, I got one as a gift and I really liked it. And I thought I might try typing on it,"
+  },
+  {
+    "start": 604.4,
+    "end": 606.72,
+    "text": " but it's really a fucking annoying. It does seem like a pain."
+  },
+  {
+    "start": 606.72,
+    "end": 613.44,
+    "text": " It must be so annoying for all these people who work in spy centres coming up with new ways of"
+  },
+  {
+    "start": 613.44,
+    "end": 618.48,
+    "text": " spying on people that some dorky scientists are just publishing these papers going, \"Oh,"
+  },
+  {
+    "start": 618.48,
+    "end": 623.28,
+    "text": " we found out that they must be reading light bulbs.\" Because I'm like, \"Damn it, that took me years.\""
+  },
+  {
+    "start": 623.28,
+    "end": 628.64,
+    "text": " I created the technology to read light bulbs and now we're going to look for something else."
+  },
+  {
+    "start": 628.64,
+    "end": 633.04,
+    "text": " What next? Yeah, because some people do that. People, I think there's a company, a data analysis"
+  },
+  {
+    "start": 633.04,
+    "end": 637.68,
+    "text": " company called Palantir, which is used by the US Secret Service. So they must know what they're"
+  },
+  {
+    "start": 637.68,
+    "end": 643.6,
+    "text": " doing. And they have designed their windows to have these things that they call acoustic transducers"
+  },
+  {
+    "start": 643.6,
+    "end": 647.92,
+    "text": " on them, which basically, if you try to use the window vibrations, it just sends out white"
+  },
+  {
+    "start": 647.92,
+    "end": 653.84,
+    "text": " noise or something. Maybe it sends out some kind of ha ha prank tube message to anyone."
+  },
+  {
+    "start": 653.84,
+    "end": 658.16,
+    "text": " That would be brilliant if you could hack your window to send other messages out."
+  },
+  {
+    "start": 658.16,
+    "end": 663.36,
+    "text": " But I think, isn't that why governments would use net curtains? I think that's why,"
+  },
+  {
+    "start": 663.36,
+    "end": 669.68,
+    "text": " because that supposedly dampened the vibrations. Other governments which use net curtains,"
+  },
+  {
+    "start": 669.68,
+    "end": 674.96,
+    "text": " because I also think them with suburbia in the 1950s. You have to have an old lady peering around"
+  },
+  {
+    "start": 674.96,
+    "end": 680.96,
+    "text": " them to see what the neighbours are doing. You know, the Sopranos, the great TV series,"
+  },
+  {
+    "start": 680.96,
+    "end": 688.16,
+    "text": " the mobster TV series. So it was so realistic. It was so on point for what would happen in the"
+  },
+  {
+    "start": 688.16,
+    "end": 693.2,
+    "text": " real life of a mobster, that mobsters started thinking there must be someone on the inside who"
+  },
+  {
+    "start": 693.2,
+    "end": 699.44,
+    "text": " was leaking information to the writers and producers of the show. And we know that they had those"
+  },
+  {
+    "start": 699.44,
+    "end": 705.68,
+    "text": " conversations because the FBI were actually wiretapping the mobsters who had that conversation"
+  },
+  {
+    "start": 705.68,
+    "end": 710.4,
+    "text": " and fed that back to the writers and producers of the Sopranos. But they used to listen into"
+  },
+  {
+    "start": 710.4,
+    "end": 714.56,
+    "text": " conversations of mobsters going, \"Did you see the Sopranos on Sunday? How did they know that we"
+  },
+  {
+    "start": 714.56,
+    "end": 718.72,
+    "text": " do that kind of thing?\" Come on, Dad, you could have done it better. Italian-American accent."
+  },
+  {
+    "start": 718.72,
+    "end": 733.12,
+    "text": " Nope, he couldn't. Turns out, Dan, you sounded like a Kiwi. You sounded New Zealandish, which is"
+  },
+  {
+    "start": 733.12,
+    "end": 738.4,
+    "text": " the opposite of being a New Jersey you're trying to get. You did New Zealand. Do you think New"
+  },
+  {
+    "start": 738.4,
+    "end": 742.72,
+    "text": " Zealand is the opposite of being in the Sopranos? Because that probably is quite close. A harmless"
+  },
+  {
+    "start": 742.72,
+    "end": 746.72,
+    "text": " Kiwi. Pretty much is. Yeah, you're right. Dan, you know what you were saying about"
+  },
+  {
+    "start": 746.72,
+    "end": 750.56,
+    "text": " what is annoying that all these secrets come out? It must be irritating if you're in the"
+  },
+  {
+    "start": 750.56,
+    "end": 756.24,
+    "text": " Secret Service. So I have a suspicion that everything we found out is all just fake news"
+  },
+  {
+    "start": 756.24,
+    "end": 762.08,
+    "text": " that's subtly put out by the CIA or MI5 to throw us off the scent. Because it's just so much they"
+  },
+  {
+    "start": 762.08,
+    "end": 772,
+    "text": " release. Or, Anna, sorry, by Big Lumpshade. Could be them. The Lumpshade companies trying to make us"
+  },
+  {
+    "start": 772,
+    "end": 778.4,
+    "text": " buy Lumpshades. You're absolutely bang on. Or candle. James, you're 1950s house. You've got your"
+  },
+  {
+    "start": 778.4,
+    "end": 787.76,
+    "text": " neck curtains. You've got your big fringe Lumpshade. The typewriter's out. I am from Murder She Wrote."
+  },
+  {
+    "start": 787.76,
+    "end": 795.28,
+    "text": " She has a kerfletcher on over. Sorry, Anna. So Big Lumpshade, or whoever it is, has put out this"
+  },
+  {
+    "start": 795.28,
+    "end": 800,
+    "text": " fake news. Because this stuff that comes out is amazing. So there's a book called Spycraft,"
+  },
+  {
+    "start": 800,
+    "end": 804.96,
+    "text": " which came out in 2009. And it was written by the head of the Office of Technical Service,"
+  },
+  {
+    "start": 804.96,
+    "end": 809.84,
+    "text": " which is the CIA department that's responsible for all of their gadgets. So it's written by"
+  },
+  {
+    "start": 809.84,
+    "end": 815.36,
+    "text": " this former head of that. And he just revealed this amazing stuff. But it sounds so implausible."
+  },
+  {
+    "start": 815.36,
+    "end": 819.92,
+    "text": " So he said that they used to, when they met business people or politicians or diplomats,"
+  },
+  {
+    "start": 819.92,
+    "end": 824.32,
+    "text": " they'd hand out gifts. And all the gifts would have devices placed in them."
+  },
+  {
+    "start": 824.32,
+    "end": 830.16,
+    "text": " So a bit like these schoolchildren. So they'd hand out books or lighters or flower pots,"
+  },
+  {
+    "start": 830.16,
+    "end": 835.44,
+    "text": " apparently. But you just think if you're-- Wait a minute. If you're going to give a gift, right?"
+  },
+  {
+    "start": 835.44,
+    "end": 839.68,
+    "text": " Don't give a flower pot, which they might put outside. You need to give them something that"
+  },
+  {
+    "start": 839.68,
+    "end": 844.56,
+    "text": " would-- Oh, here's a milk bottle as a gift. It's like you've got to give them something"
+  },
+  {
+    "start": 844.56,
+    "end": 847.2,
+    "text": " that they'll definitely keep in the house. You're so right. The only noise you get from"
+  },
+  {
+    "start": 847.2,
+    "end": 851.04,
+    "text": " that is wind and then squirrels and foxes desperately digging through earth."
+  },
+  {
+    "start": 851.04,
+    "end": 858.48,
+    "text": " I saw an amazing video online just while we're on the CIA. So the CIA has a chief of disguise,"
+  },
+  {
+    "start": 858.48,
+    "end": 863.28,
+    "text": " which I didn't know. And the former chief of disguise does this video. She's called John"
+  },
+  {
+    "start": 863.28,
+    "end": 869.44,
+    "text": " Amendez. And it's amazing. This video is her sitting talking about how you can slip into"
+  },
+  {
+    "start": 869.44,
+    "end": 873.6,
+    "text": " a disguise very quickly or the elaborate ways that they do it. And during the video,"
+  },
+  {
+    "start": 873.6,
+    "end": 878.32,
+    "text": " she slowly goes into different disguises. So sometimes she's an old man. And it's really"
+  },
+  {
+    "start": 878.32,
+    "end": 882.88,
+    "text": " incredible. And she was talking about a lot of the mythology of CIA disguise and what they do,"
+  },
+  {
+    "start": 882.88,
+    "end": 888.16,
+    "text": " particularly the Mission Impossible movies with wearing the sort of fake head. And that's not"
+  },
+  {
+    "start": 888.16,
+    "end": 892.32,
+    "text": " far from the truth of what they did. And there's this fantastic set of photos when she went to"
+  },
+  {
+    "start": 892.32,
+    "end": 897.44,
+    "text": " meet George Bush Sr. to tell him about what they were up to, that she sat doing the whole meeting."
+  },
+  {
+    "start": 897.44,
+    "end": 903.04,
+    "text": " And then near the end, rips off her mask and has a different-- her real head underneath and"
+  },
+  {
+    "start": 903.04,
+    "end": 906.88,
+    "text": " Bush didn't notice the entire time. You can see these photos. Highly recommend."
+  },
+  {
+    "start": 906.88,
+    "end": 909.92,
+    "text": " But he didn't notice her ripping off her own face."
+  },
+  {
+    "start": 909.92,
+    "end": 912.64,
+    "text": " No, he sort of looked at it. He didn't just carry on with the meeting."
+  },
+  {
+    "start": 912.64,
+    "end": 916.56,
+    "text": " I thought this was late in the presidency where he wasn't really paying attention anymore."
+  },
+  {
+    "start": 916.56,
+    "end": 920.16,
+    "text": " No, he didn't notice that she had a fake head on during the meeting."
+  },
+  {
+    "start": 920.16,
+    "end": 923.76,
+    "text": " I do not found it suspicious that Mrs. Doubtfire wanted to have a meeting with him in the first"
+  },
+  {
+    "start": 923.76,
+    "end": 932.24,
+    "text": " place. Okay, it is time for fact number two. And that is James."
+  },
+  {
+    "start": 932.24,
+    "end": 938.48,
+    "text": " Okay, my fact this week is that London Bridge was destroyed by a tornado in 1091."
+  },
+  {
+    "start": 938.48,
+    "end": 944.4,
+    "text": " What? Like, I can't believe I didn't know this already. I thought,"
+  },
+  {
+    "start": 944.4,
+    "end": 945.92,
+    "text": " why are they not teaching it in schools?"
+  },
+  {
+    "start": 945.92,
+    "end": 951.52,
+    "text": " Why is it not a great movie? Yeah, this is incredible, this fact."
+  },
+  {
+    "start": 951.52,
+    "end": 956.08,
+    "text": " This was one of the first London bridges. In fact, probably the first one we 100%"
+  },
+  {
+    "start": 956.08,
+    "end": 960.48,
+    "text": " definitely know about. There will have been some before, but we're not quite sure what happened"
+  },
+  {
+    "start": 960.48,
+    "end": 965.04,
+    "text": " to them. But it was William the Conqueror. He came into London in 1066."
+  },
+  {
+    "start": 965.04,
+    "end": 969.2,
+    "text": " And one of his first things that he did when his army came in was they built a new bridge"
+  },
+  {
+    "start": 969.2,
+    "end": 974.4,
+    "text": " over the River Thames. And it was just 25 years later that it was completely demolished by a tornado."
+  },
+  {
+    "start": 974.4,
+    "end": 979.2,
+    "text": " And we don't know much about it because obviously people didn't write much down in those days."
+  },
+  {
+    "start": 979.2,
+    "end": 983.92,
+    "text": " But 12th century historian William of Malmesbury says that it was completely wrecked."
+  },
+  {
+    "start": 983.92,
+    "end": 988.16,
+    "text": " There were also churches that were wrecked, and there were more than 600 houses that were"
+  },
+  {
+    "start": 988.16,
+    "end": 993.36,
+    "text": " completely flattened. And we now think that it was what's called an F4 tornado,"
+  },
+  {
+    "start": 993.36,
+    "end": 998.48,
+    "text": " which is the second strongest tornado you can get with winds over 200 miles an hour."
+  },
+  {
+    "start": 998.48,
+    "end": 1002.32,
+    "text": " Amazing. Is it how? Did he call it a tornado at the time?"
+  },
+  {
+    "start": 1002.32,
+    "end": 1007.04,
+    "text": " I've just realized, I mean, did he call it a mighty wind or something else like that?"
+  },
+  {
+    "start": 1007.04,
+    "end": 1009.2,
+    "text": " Because presumably they didn't have the word then, did they?"
+  },
+  {
+    "start": 1009.2,
+    "end": 1014.72,
+    "text": " It's such a good question. They won't have had the word. So that's, yeah, you answered your own"
+  },
+  {
+    "start": 1014.72,
+    "end": 1019.76,
+    "text": " question. Actually, what a bad question. You knew the answer. You were wasting everyone's time."
+  },
+  {
+    "start": 1019.76,
+    "end": 1024.88,
+    "text": " I didn't know. And only two people were killed, apparently, in this tornado."
+  },
+  {
+    "start": 1024.88,
+    "end": 1030.08,
+    "text": " That's so weird. Was no one in any of the 600 or whatever houses that were falling down?"
+  },
+  {
+    "start": 1030.08,
+    "end": 1032.72,
+    "text": " It's so weird, isn't it? Everyone's out at work."
+  },
+  {
+    "start": 1032.72,
+    "end": 1039.36,
+    "text": " It sounds extraordinarily powerful. So the church of St Mary LeBeau had 26-foot-high"
+  },
+  {
+    "start": 1039.36,
+    "end": 1044,
+    "text": " rafters, and apparently they were driven so far into the earth by this tornado"
+  },
+  {
+    "start": 1044,
+    "end": 1048,
+    "text": " that only four feet of them remained above ground, which I was thinking,"
+  },
+  {
+    "start": 1048,
+    "end": 1053.12,
+    "text": " because Mary LeBeau is a very famous church in London for those people who aren't Londoners,"
+  },
+  {
+    "start": 1053.12,
+    "end": 1057.04,
+    "text": " because that's if you're born within the sound of the bells of Mary LeBeau,"
+  },
+  {
+    "start": 1057.04,
+    "end": 1061.76,
+    "text": " then you are officially a cockney. And I'm guessing the bells weren't functioning once"
+  },
+  {
+    "start": 1061.76,
+    "end": 1065.92,
+    "text": " it was driven into the ground. So anyone born in that period couldn't be a cockney."
+  },
+  {
+    "start": 1065.92,
+    "end": 1070.72,
+    "text": " That's incredible. How does that work that it shoved it into the ground? That's like a giant"
+  },
+  {
+    "start": 1070.72,
+    "end": 1076.4,
+    "text": " screwdriver. I mean, I'm just putting myself in their place. We don't know what this thing was."
+  },
+  {
+    "start": 1076.4,
+    "end": 1081.44,
+    "text": " There was a giant spinny screwdriver in the sky, and it's drilled some of our big panels into the"
+  },
+  {
+    "start": 1081.44,
+    "end": 1085.92,
+    "text": " ground. Well, that's when they changed traditional church architecture away from the screwdriver"
+  },
+  {
+    "start": 1085.92,
+    "end": 1092.48,
+    "text": " design, to less easy to drive into the ground shape. That just seems... But that's a lot that's"
+  },
+  {
+    "start": 1092.48,
+    "end": 1097.2,
+    "text": " 20 feet to go into the ground. London ground's very swampy. It's a lot. Look, they didn't have"
+  },
+  {
+    "start": 1097.2,
+    "end": 1102,
+    "text": " such good tarmac then. But the other thing that's interesting is that I think the London"
+  },
+  {
+    "start": 1102,
+    "end": 1105.92,
+    "text": " Bridge that would have been destroyed by this tornado would have been way bigger than"
+  },
+  {
+    "start": 1105.92,
+    "end": 1110,
+    "text": " modern London Bridge, because the river was so much wider at the time. That's a good point."
+  },
+  {
+    "start": 1110,
+    "end": 1114,
+    "text": " The river used to be about four or five times as wide as it is today. A lot of it's been reclaimed,"
+  },
+  {
+    "start": 1114,
+    "end": 1119.44,
+    "text": " so it would have been absolutely enormous. Yeah. I did read about a potential precursor"
+  },
+  {
+    "start": 1119.44,
+    "end": 1126.24,
+    "text": " to this London Bridge, which is much debated, but a lot of serious journals do think that"
+  },
+  {
+    "start": 1126.24,
+    "end": 1131.68,
+    "text": " sides on the fact that it did exist. And it's off the back of something that we know from Nordic"
+  },
+  {
+    "start": 1131.68,
+    "end": 1138.48,
+    "text": " Law, which was... There was a period in 1014 when Ethel the Unready had been trying to reclaim"
+  },
+  {
+    "start": 1138.48,
+    "end": 1143.84,
+    "text": " England. Is Ethel the Unready related to Ethel Red the Unready? It was his mum."
+  },
+  {
+    "start": 1143.84,
+    "end": 1150.64,
+    "text": " Yeah, it was Ethel Red. Ethel Red. Sorry, I said as they were wrong. Yeah. Annoyingly,"
+  },
+  {
+    "start": 1150.64,
+    "end": 1155.2,
+    "text": " this fact has so much English history that I have to get to before I can explain the basic thing."
+  },
+  {
+    "start": 1155.2,
+    "end": 1160.24,
+    "text": " The basic thing is the Danes were in charge of London at that point, and London Bridge was very"
+  },
+  {
+    "start": 1160.24,
+    "end": 1165.04,
+    "text": " much a spot where they could arm the whole thing with people of bows and arrows for anyone who"
+  },
+  {
+    "start": 1165.04,
+    "end": 1172.24,
+    "text": " was coming down the Thames. And so there was a Viking called Olaf who tied ropes underneath the"
+  },
+  {
+    "start": 1172.24,
+    "end": 1178.88,
+    "text": " bridge and went underneath with the tide and pulled London Bridge down, forcing all the soldiers"
+  },
+  {
+    "start": 1178.88,
+    "end": 1184.8,
+    "text": " to die and perish in the water. It was over 200 soldiers and helped for reclaiming England for"
+  },
+  {
+    "start": 1184.8,
+    "end": 1192.56,
+    "text": " the British as opposed to the Danes. And a poet called Ota Stavte did a poem which was London"
+  },
+  {
+    "start": 1192.56,
+    "end": 1197.76,
+    "text": " Bridge is Broken Down, Gold is One and Bright Rione. There's more to it, but that line London"
+  },
+  {
+    "start": 1197.76,
+    "end": 1201.36,
+    "text": " Bridge is Broken Down is thought to have inspired London Bridge is Falling Down."
+  },
+  {
+    "start": 1201.36,
+    "end": 1205.84,
+    "text": " What's really interesting is about the London Bridge is Falling Down thing, which is a lot of"
+  },
+  {
+    "start": 1205.84,
+    "end": 1209.84,
+    "text": " people think that it might be to do with that story. But then on the other hand, before that,"
+  },
+  {
+    "start": 1209.84,
+    "end": 1217.36,
+    "text": " there were other songs throughout the whole of Europe. So you would have Die Magdeburger Brück,"
+  },
+  {
+    "start": 1217.36,
+    "end": 1222.56,
+    "text": " the Magdeburg Bridge in Germany. And it was basically exactly the same idea of a bridge"
+  },
+  {
+    "start": 1222.56,
+    "end": 1229.28,
+    "text": " that would fall down. And a lot of nursery rhyme historians think that what happened was this was"
+  },
+  {
+    "start": 1229.28,
+    "end": 1234.16,
+    "text": " quite common kind of European song. And then when it came over to Britain, they just gave it the"
+  },
+  {
+    "start": 1234.16,
+    "end": 1240.08,
+    "text": " name of the capital city's most famous bridge. My favorite version of the London Bridge was the"
+  },
+  {
+    "start": 1240.08,
+    "end": 1246.48,
+    "text": " one that was there during Shakespearean times. It just sounds like the most fascinating thing to"
+  },
+  {
+    "start": 1246.48,
+    "end": 1252.48,
+    "text": " have ever walked across. It was packed with houses that were up to four stories high."
+  },
+  {
+    "start": 1252.48,
+    "end": 1257.28,
+    "text": " It had restaurants on it, restaurants that when you went to them, the way you would order your"
+  },
+  {
+    "start": 1257.28,
+    "end": 1262.16,
+    "text": " food is you would get fish as a sandwich, right? And they would open a trapdoor and they would put"
+  },
+  {
+    "start": 1262.16,
+    "end": 1268.32,
+    "text": " down a fishing rod. They would catch the fish live, reel it up, and then slap it raw in between"
+  },
+  {
+    "start": 1268.32,
+    "end": 1274.48,
+    "text": " bread and give it to you. So many questions. First, worst restaurant ever. If you're just going to"
+  },
+  {
+    "start": 1274.48,
+    "end": 1281.6,
+    "text": " raw food, it's sushi. Can I say second, how are you going to guarantee if it's the Thames in the"
+  },
+  {
+    "start": 1281.6,
+    "end": 1287.84,
+    "text": " sixtieth century that you're not going to reel in a turd? Bingo. Well, that was the exciting"
+  },
+  {
+    "start": 1287.84,
+    "end": 1292.56,
+    "text": " element of your dining experience. That's where the phrase comes from. I'd rather eat a shit sandwich"
+  },
+  {
+    "start": 1292.56,
+    "end": 1298.24,
+    "text": " than this restaurant. And third, as we know, the sandwich in this country hadn't really been invented"
+  },
+  {
+    "start": 1298.24,
+    "end": 1301.52,
+    "text": " yet. So it doesn't make any sense. They would have reeled the fish up and had two bits of bread and"
+  },
+  {
+    "start": 1301.52,
+    "end": 1308.56,
+    "text": " gone, God, we don't know how to put this together. So why have you read this stuff? This is amazing."
+  },
+  {
+    "start": 1308.56,
+    "end": 1314.72,
+    "text": " I read this in a book by Dr Matthew Green, a book called London, A Travel Guide Through Time."
+  },
+  {
+    "start": 1314.72,
+    "end": 1319.44,
+    "text": " And this was a book that was published by my wife. And it's the most fascinating chapter"
+  },
+  {
+    "start": 1319.44,
+    "end": 1324.08,
+    "text": " because he takes you back to the time. So he has someone walking across the bridge in Shakespearean"
+  },
+  {
+    "start": 1324.08,
+    "end": 1329.84,
+    "text": " times. It would take you two hours to walk the length of the entire bridge. It was so congested."
+  },
+  {
+    "start": 1329.84,
+    "end": 1334.08,
+    "text": " And there's always a bit, apparently, during the day where it came to a standstill, because you know"
+  },
+  {
+    "start": 1334.08,
+    "end": 1339.44,
+    "text": " how there was a polar bear tower at the Tower of London. Sorry, what's it called? Tower of London."
+  },
+  {
+    "start": 1339.44,
+    "end": 1343.76,
+    "text": " At the Tower of London. It was during the hour when he would be taken out to the Thames to be"
+  },
+  {
+    "start": 1343.76,
+    "end": 1348.16,
+    "text": " fed that people would stand and just watch. He would come to a standstill because it was such a"
+  },
+  {
+    "start": 1348.16,
+    "end": 1353.2,
+    "text": " mad thing that a polar bear would be fishing for food. He'd be stealing sandwiches out of the"
+  },
+  {
+    "start": 1353.2,
+    "end": 1358.64,
+    "text": " mouths of hungry clientele in the restaurant as well. He's run off with my, oh, what's it called?"
+  },
+  {
+    "start": 1358.64,
+    "end": 1364.32,
+    "text": " That polar bear wasn't there in Shakespearean times, was he? I thought he was like"
+  },
+  {
+    "start": 1364.32,
+    "end": 1370.16,
+    "text": " 13th century at the latest, wasn't it? I thought so. But this is the same bridge that I'm talking"
+  },
+  {
+    "start": 1370.16,
+    "end": 1375.6,
+    "text": " about. Because it spanned a long time. In the 14th century, we know how many people were actually"
+  },
+  {
+    "start": 1375.6,
+    "end": 1380.24,
+    "text": " living on it, because we know the number of rent that was collected from properties. So there were"
+  },
+  {
+    "start": 1380.24,
+    "end": 1386.56,
+    "text": " 198 buildings that were all providing rental revenue from that period. And this was the bridge."
+  },
+  {
+    "start": 1386.56,
+    "end": 1389.52,
+    "text": " If you talk about all the London bridges of which there have been dozens of iterations,"
+  },
+  {
+    "start": 1389.52,
+    "end": 1394.72,
+    "text": " this was the one that lasted, what, 600 years or whatever, or maybe longer even. But it was because"
+  },
+  {
+    "start": 1394.72,
+    "end": 1399.12,
+    "text": " of this that they eventually dismantled that in the 1820s, because it was so congested."
+  },
+  {
+    "start": 1399.12,
+    "end": 1403.92,
+    "text": " But it's also because it was the only bridge. It was literally the only bridge across"
+  },
+  {
+    "start": 1403.92,
+    "end": 1408.8,
+    "text": " central London until 1739. So it feels weird for them to dismantle it and build another one when"
+  },
+  {
+    "start": 1408.8,
+    "end": 1414.72,
+    "text": " they could have just built more bridges. Yeah, true. I was reading a count of the dismantling,"
+  },
+  {
+    "start": 1414.72,
+    "end": 1420.56,
+    "text": " and then they rebuilt it as a wider, more useful bridge. And when they lay the first stone of a"
+  },
+  {
+    "start": 1420.56,
+    "end": 1425.12,
+    "text": " building or a bridge, and there was this account in the British newspaper archive, it was 1925."
+  },
+  {
+    "start": 1425.12,
+    "end": 1429.12,
+    "text": " And the Lord Mayor was invited to lay the foundation stone. And I didn't understand"
+  },
+  {
+    "start": 1429.12,
+    "end": 1436.64,
+    "text": " the ritual at all. So basically, he had a gold trowel with which he sort of dug it up, I guess."
+  },
+  {
+    "start": 1436.64,
+    "end": 1441.76,
+    "text": " And then he dropped coins into a box. So there's a wooden box. He drops coins into a box, which"
+  },
+  {
+    "start": 1441.76,
+    "end": 1447.76,
+    "text": " contains four little glass pillars, seven inches high, a lid to put on the box. And then the box"
+  },
+  {
+    "start": 1447.76,
+    "end": 1454.32,
+    "text": " is covered in cement and installed into a hole in the foundation stone. And then that's dropped."
+  },
+  {
+    "start": 1454.32,
+    "end": 1458.16,
+    "text": " So if you went to the bottom of London Bridge now with your scuba gear,"
+  },
+  {
+    "start": 1458.16,
+    "end": 1461.52,
+    "text": " and then you cut away into some of the stones, in one of them,"
+  },
+  {
+    "start": 1461.52,
+    "end": 1466.24,
+    "text": " there's this little box full of glass pillars and these coins. Isn't that weird?"
+  },
+  {
+    "start": 1466.24,
+    "end": 1470.96,
+    "text": " Cool. That's really cool. I know what happened to the previous foundation stone from the previous"
+  },
+  {
+    "start": 1470.96,
+    "end": 1476.96,
+    "text": " bridge. So was that the 1831 version of London Bridge that you're talking about? Okay. So the"
+  },
+  {
+    "start": 1476.96,
+    "end": 1482,
+    "text": " previous one got, lots of it got sold off as souvenirs. So there are bits of various British"
+  },
+  {
+    "start": 1482,
+    "end": 1487.04,
+    "text": " country houses which are made of old London Bridge. But the stone got turned into a chair,"
+  },
+  {
+    "start": 1487.04,
+    "end": 1494.56,
+    "text": " the foundation stone, in the base of a chair. Where is the chair? It's in Fish Hall, which is"
+  },
+  {
+    "start": 1494.56,
+    "end": 1500.16,
+    "text": " kind of the fishing guild, the fisherman's guild. And it's right by modern London Bridge now."
+  },
+  {
+    "start": 1500.16,
+    "end": 1504.64,
+    "text": " And it's just a fancy chair, basically. That's so sad for that stone. So it spent"
+  },
+  {
+    "start": 1504.64,
+    "end": 1509.04,
+    "text": " its entire existence watching live fish swimming happily around. And now it's condemned to this"
+  },
+  {
+    "start": 1509.04,
+    "end": 1514.96,
+    "text": " place full of dead slaughtered fish running for the table. Just have a fisherman's bottom on him"
+  },
+  {
+    "start": 1514.96,
+    "end": 1520.64,
+    "text": " every now and then. We can't leave London Bridge alone without talking about what happened to"
+  },
+  {
+    "start": 1520.64,
+    "end": 1526.64,
+    "text": " that new 1831 version, which is now in America. So the idea was that it was sold to an American"
+  },
+  {
+    "start": 1526.64,
+    "end": 1531.6,
+    "text": " and he got conned, right? That's... Oh, well, people claim that, but he insists he didn't."
+  },
+  {
+    "start": 1531.6,
+    "end": 1536.08,
+    "text": " And I suspect he didn't. But yeah, basically, so that London Bridge is now in Havasu,"
+  },
+  {
+    "start": 1536.08,
+    "end": 1542.24,
+    "text": " which is in Arizona, because this crazy millionaire in... It was in 1968, wasn't it,"
+  },
+  {
+    "start": 1542.24,
+    "end": 1546.16,
+    "text": " that it was put up for sale. And this millionaire in America bought it. And there's always been a"
+  },
+  {
+    "start": 1546.16,
+    "end": 1551.84,
+    "text": " rumour that he meant to buy Tower Bridge and got the wrong one. But I think he likes that because"
+  },
+  {
+    "start": 1551.84,
+    "end": 1557.6,
+    "text": " it drummed up even more publicity for the fact that he was moving London Bridge to the desert,"
+  },
+  {
+    "start": 1557.6,
+    "end": 1562.08,
+    "text": " which everyone thought was insane. It's amazing because they installed it in a dry bit of the"
+  },
+  {
+    "start": 1562.08,
+    "end": 1565.68,
+    "text": " desert and then they redirected the nearby stream to go under it. So there is water going"
+  },
+  {
+    "start": 1565.68,
+    "end": 1570.48,
+    "text": " under it now, but the bridge was put there before the water was. Yeah, it is quite weird to have to"
+  },
+  {
+    "start": 1570.48,
+    "end": 1579.28,
+    "text": " build a river in order to satisfy a bridge means. But the weird thing is that London put the bridge"
+  },
+  {
+    "start": 1579.28,
+    "end": 1585.28,
+    "text": " on sale in 1968. It wasn't like some mad Yosemite Sam millionaire turns up and says, \"I want to"
+  },
+  {
+    "start": 1585.28,
+    "end": 1589.28,
+    "text": " buy that bridge.\" It was that London was trying to flog it off. Yeah. But who did they think was"
+  },
+  {
+    "start": 1589.28,
+    "end": 1593.92,
+    "text": " going to buy it? Probably someone with a river. So they were probably quite surprised with this"
+  },
+  {
+    "start": 1593.92,
+    "end": 1599.68,
+    "text": " guy got it. They probably, when he came over, they were like, \"Oh, nice. Yeah, what river are you"
+  },
+  {
+    "start": 1599.68,
+    "end": 1608.96,
+    "text": " going to put it over?\" No river. Oh, right. Okay. It is worth saying if this guy did make the mistake"
+  },
+  {
+    "start": 1608.96,
+    "end": 1614.48,
+    "text": " of Tower Bridge and London Bridge, that possibly a lot of international listeners listening to"
+  },
+  {
+    "start": 1614.48,
+    "end": 1619.6,
+    "text": " this episode right now are making the very same mistake. The almost iconic bridge that you've"
+  },
+  {
+    "start": 1619.6,
+    "end": 1625.12,
+    "text": " pictured in your head, that's Tower Bridge. That's one where it opens up in the middle"
+  },
+  {
+    "start": 1625.12,
+    "end": 1629.68,
+    "text": " and it's got the huge two giant, I don't know what you call them, arches, whatever,"
+  },
+  {
+    "start": 1629.68,
+    "end": 1637.12,
+    "text": " that bridge, the one you're thinking of. London Bridge, very dull. It's terrible. It's horrible."
+  },
+  {
+    "start": 1637.12,
+    "end": 1642.48,
+    "text": " So you can understand where this guy is. It's just a road bridge, isn't it? It is. It's just a"
+  },
+  {
+    "start": 1642.48,
+    "end": 1652.08,
+    "text": " straight old bridge that an unimaginative child might draw. Exactly. I did read an amazing thing,"
+  },
+  {
+    "start": 1652.08,
+    "end": 1657.44,
+    "text": " which was in 1952. This is a fact about Tower Bridge, the one that does open up in the middle."
+  },
+  {
+    "start": 1657.44,
+    "end": 1662.96,
+    "text": " If you've ever seen the movie Speed, where they have to jump the gap of a bridge,"
+  },
+  {
+    "start": 1662.96,
+    "end": 1669.52,
+    "text": " that happened on Tower Bridge with a bus driver in 1952. His name was Albert Gunter"
+  },
+  {
+    "start": 1669.52,
+    "end": 1674.4,
+    "text": " and he was during December, he was driving the number 78 bus, which goes from Shoreditch to"
+  },
+  {
+    "start": 1674.4,
+    "end": 1679.68,
+    "text": " Dullitch. The person who would usually ring the bell to say that the bridge was going up"
+  },
+  {
+    "start": 1679.68,
+    "end": 1686.16,
+    "text": " forgot to ring it. He noticed that the bridge was bending upwards as he was driving towards it. He"
+  },
+  {
+    "start": 1686.16,
+    "end": 1689.84,
+    "text": " didn't have enough time to slam on the brakes because that would have been disaster. So he hit"
+  },
+  {
+    "start": 1689.84,
+    "end": 1697.04,
+    "text": " the accelerator and he jumped. He jumped across. Now, only his side had lifted up and he jumped"
+  },
+  {
+    "start": 1697.04,
+    "end": 1703.36,
+    "text": " a six-foot drop basically onto the northern side of the bridge. It's still a lot on a massive bus."
+  },
+  {
+    "start": 1703.36,
+    "end": 1707.92,
+    "text": " Exactly on a massive bus, but yeah, someone jumped the gap of the bridge in 1952."
+  },
+  {
+    "start": 1707.92,
+    "end": 1712.56,
+    "text": " Did they remember to put the sign over the tunnel saying, \"This bus is on diversion?\""
+  },
+  {
+    "start": 1712.56,
+    "end": 1719.04,
+    "text": " That was not part of the planned route. Yeah, so he was okay in the end. He broke his leg,"
+  },
+  {
+    "start": 1719.04,
+    "end": 1725.92,
+    "text": " which was the only major problem. 12 of the 20 passengers had minor injuries, but so 21 people"
+  },
+  {
+    "start": 1725.92,
+    "end": 1731.92,
+    "text": " in total all survived this big bridge jump. And as a reward, he was given £10, which is about"
+  },
+  {
+    "start": 1731.92,
+    "end": 1738,
+    "text": " £290 in today's money, and a day off for his bravery. Right. Ah, that's enough time for a"
+  },
+  {
+    "start": 1738,
+    "end": 1747.52,
+    "text": " broken leg to fully heal. Okay, so some stuff on tornadoes. Yeah. It's really difficult to know"
+  },
+  {
+    "start": 1747.52,
+    "end": 1752.24,
+    "text": " when you read articles about tornadoes, what's real and what isn't real, because they happen"
+  },
+  {
+    "start": 1752.24,
+    "end": 1756.48,
+    "text": " in the middle of the countryside. The only people who see it are the people who are there at the"
+  },
+  {
+    "start": 1756.48,
+    "end": 1761.84,
+    "text": " time, and they often seem to come up with some stories that I don't know if they're real or not."
+  },
+  {
+    "start": 1761.84,
+    "end": 1768.72,
+    "text": " So there's a story from the start of the 20th century. I think it was in Kansas where there"
+  },
+  {
+    "start": 1768.72,
+    "end": 1773.76,
+    "text": " was a man with a baby in his arms, and the tornado came and lifted the baby up and deposited it in"
+  },
+  {
+    "start": 1773.76,
+    "end": 1783.36,
+    "text": " a tree, which doesn't sound very true. But this apparently in 1976, this one seems like it might"
+  },
+  {
+    "start": 1783.36,
+    "end": 1788.16,
+    "text": " have been true. It was in Michigan, there was a tornado, and there was a house which was blown"
+  },
+  {
+    "start": 1788.16,
+    "end": 1794.4,
+    "text": " by the tornado, so it went onto its side. So people had to use a ladder to get into the front door."
+  },
+  {
+    "start": 1794.4,
+    "end": 1800.8,
+    "text": " Well, apart from the side thing, it's looking pretty good in here."
+  },
+  {
+    "start": 1801.68,
+    "end": 1810.88,
+    "text": " But then there are some that are definitely not true. For instance, in this 1915 one in Kansas,"
+  },
+  {
+    "start": 1810.88,
+    "end": 1814.16,
+    "text": " there was a story that an iron jug was blown inside out."
+  },
+  {
+    "start": 1814.16,
+    "end": 1818.72,
+    "text": " Pretty sure that one isn't true."
+  },
+  {
+    "start": 1818.72,
+    "end": 1826.32,
+    "text": " I read one as well years ago, which was there was a mystery of a scuba diver found in a tree,"
+  },
+  {
+    "start": 1826.32,
+    "end": 1830.72,
+    "text": " and he was fully, he was fully clothed. No, Dan, no, I know what you're doing."
+  },
+  {
+    "start": 1830.72,
+    "end": 1837.68,
+    "text": " Are you doing the famous mental brain teaser where they've been picked up by a,"
+  },
+  {
+    "start": 1837.68,
+    "end": 1841.36,
+    "text": " they've been scuba diving and they've been picked up by a helicopter that's trying to put out a"
+  },
+  {
+    "start": 1841.36,
+    "end": 1847.44,
+    "text": " fire. Was that a mental brain teaser? Yeah, that wasn't a real story. I think he's just come across"
+  },
+  {
+    "start": 1847.44,
+    "end": 1856.88,
+    "text": " an amazing fact website. Look at Ollie's anecdotes. Okay, but the room was locked from the inside,"
+  },
+  {
+    "start": 1856.88,
+    "end": 1862.88,
+    "text": " there were no windows. There's just a puddle of water. The fish were called Romeo and Juliet."
+  },
+  {
+    "start": 1862.88,
+    "end": 1864.88,
+    "text": " But the doctor is his mum."
+  },
+  {
+    "start": 1864.88,
+    "end": 1875.6,
+    "text": " Okay, it is time for fact number three, and that is my fact. My fact this week is that this year's"
+  },
+  {
+    "start": 1875.6,
+    "end": 1880.88,
+    "text": " Dutch national headwind championships was canceled during the race because it was too windy."
+  },
+  {
+    "start": 1880.88,
+    "end": 1887.84,
+    "text": " So this is a cycling championship that's been going for the last six years. And the idea is that"
+  },
+  {
+    "start": 1887.84,
+    "end": 1891.92,
+    "text": " they don't know when it's going to happen. They look out for storms. And as soon as they hear a"
+  },
+  {
+    "start": 1891.92,
+    "end": 1895.68,
+    "text": " massive storm is on the way, they give everyone three days warning to say, we're going to be doing"
+  },
+  {
+    "start": 1895.68,
+    "end": 1901.6,
+    "text": " this race. And they have to go down this one strip of 8.5 kilometers. And you just have to ride"
+  },
+  {
+    "start": 1901.6,
+    "end": 1906.16,
+    "text": " against the wind. And actually, it wasn't the cyclists who pulled out of it. It was the fact"
+  },
+  {
+    "start": 1906.16,
+    "end": 1910.72,
+    "text": " that it was the trucks carrying the bikes were being toppled over. So they could physically get"
+  },
+  {
+    "start": 1910.72,
+    "end": 1915.44,
+    "text": " the bikes them. So my friend, Tom Scott, who's a YouTuber was there. Yes. And he did a video about"
+  },
+  {
+    "start": 1915.44,
+    "end": 1921.6,
+    "text": " this. And he said that they didn't topple over, I think they just it was too dangerous for high"
+  },
+  {
+    "start": 1921.6,
+    "end": 1927.28,
+    "text": " sided vehicles to go across. So I don't think any trucks actually went over, but they were just"
+  },
+  {
+    "start": 1927.28,
+    "end": 1932.48,
+    "text": " banned from going over. And what happens is everyone has kind of the same bike that these kind of"
+  },
+  {
+    "start": 1932.48,
+    "end": 1937.44,
+    "text": " single speed upright bikes, and you cycle across and then this big lorry picks up the bikes and"
+  },
+  {
+    "start": 1937.44,
+    "end": 1942.08,
+    "text": " takes them all back to the start again. So the next lot of people can go down. And the lorry couldn't"
+  },
+  {
+    "start": 1942.08,
+    "end": 1946.96,
+    "text": " come across the bridge because it was banned. And instead, it would have to go on like a 20 mile"
+  },
+  {
+    "start": 1946.96,
+    "end": 1952.08,
+    "text": " route rather than going that way. So they just canceled it halfway through. Yeah, there is another"
+  },
+  {
+    "start": 1952.08,
+    "end": 1956.96,
+    "text": " way of moving bikes without a truck. And especially is coming back."
+  },
+  {
+    "start": 1956.96,
+    "end": 1966.64,
+    "text": " This year they were going to they'd gone all out to make it even nicer than the previous events."
+  },
+  {
+    "start": 1966.64,
+    "end": 1972.08,
+    "text": " And they had storm resistant seating for the spectators and a special designated vomit zone."
+  },
+  {
+    "start": 1972.08,
+    "end": 1978.56,
+    "text": " It's really funny. You can see it's these three big bin bags that are sort of hung up and it has"
+  },
+  {
+    "start": 1978.56,
+    "end": 1983.28,
+    "text": " a big placard that says vomit zone. And there's little bike handles for you to hold as you're"
+  },
+  {
+    "start": 1983.28,
+    "end": 1986.96,
+    "text": " vomiting into the rubbish bin. You don't want to be stood down wind of that as well, do you?"
+  },
+  {
+    "start": 1986.96,
+    "end": 1993.68,
+    "text": " Why do they need a vomit zone? Does it get quite lairy? The endurance of doing this race. So they"
+  },
+  {
+    "start": 1993.68,
+    "end": 1999.04,
+    "text": " say it's it's kind of like if you were going cycling up a hill that was a sort of 10 percent"
+  },
+  {
+    "start": 1999.04,
+    "end": 2005.2,
+    "text": " incline, it feels and you've got no on a terrible bike as well on a terrible bike. And the whole"
+  },
+  {
+    "start": 2005.2,
+    "end": 2009.04,
+    "text": " thing is, you know, there are winners, but everyone is just wanting to finish it. It's an"
+  },
+  {
+    "start": 2009.04,
+    "end": 2013.12,
+    "text": " endurance thing. And they push themselves to the limit and it forces them to vomit enough so that"
+  },
+  {
+    "start": 2013.12,
+    "end": 2017.04,
+    "text": " they've set up the vomit station. They should have vomit zones shortly at the end of all marathons"
+  },
+  {
+    "start": 2017.04,
+    "end": 2020.96,
+    "text": " and all races and every endurance event. They do. It's called the side of the road."
+  },
+  {
+    "start": 2020.96,
+    "end": 2026.24,
+    "text": " Wasn't it stopped also in 2017 because it wasn't stormy enough?"
+  },
+  {
+    "start": 2026.24,
+    "end": 2031.2,
+    "text": " Yeah, I think it was. There was an absolute because they need a certain level of wind,"
+  },
+  {
+    "start": 2031.2,
+    "end": 2034.64,
+    "text": " don't they? So if it doesn't come, it doesn't come. And also the wind needs to be"
+  },
+  {
+    "start": 2034.64,
+    "end": 2038.48,
+    "text": " in exactly the right direction. So that's why they can only do it three days in advance."
+  },
+  {
+    "start": 2038.48,
+    "end": 2041.68,
+    "text": " They need to know that the wind is not just going to be there, but it's going to be coming"
+  },
+  {
+    "start": 2041.68,
+    "end": 2046.96,
+    "text": " directly over the bridge. Yes. And this bridge is an amazing bridge, right? This is the Ooster"
+  },
+  {
+    "start": 2046.96,
+    "end": 2052.16,
+    "text": " Shelterkring and it's a bridge that is basically a storm barrier bridge. And they're very proud of"
+  },
+  {
+    "start": 2052.16,
+    "end": 2057.76,
+    "text": " it there. They have a little inscription on the stone, which says here the tide is ruled by the"
+  },
+  {
+    "start": 2057.76,
+    "end": 2063.28,
+    "text": " wind, the moon and us. It's sort of they're so proud of how strong it is, which I saw on a video"
+  },
+  {
+    "start": 2063.28,
+    "end": 2067.44,
+    "text": " by your buddy, Tom Scott. Really worth watching if you're listening to us right now. Talk about"
+  },
+  {
+    "start": 2067.44,
+    "end": 2072.4,
+    "text": " this. He's on the side of the road. The wind is blowing in his head and he's seeing people"
+  },
+  {
+    "start": 2072.4,
+    "end": 2077.04,
+    "text": " ride past him. It's fantastic. Isn't that sort of the beginning of an ancient Greek story about"
+  },
+  {
+    "start": 2077.04,
+    "end": 2081.12,
+    "text": " hubris where you end up going swept away by the tide because you try to control what only God"
+  },
+  {
+    "start": 2081.12,
+    "end": 2086.32,
+    "text": " can control? Yeah, it's King Canute, isn't it? It's Canute. I think the Dutch are winning at the"
+  },
+  {
+    "start": 2086.32,
+    "end": 2091.2,
+    "text": " moment. They're nailing it. You're right. Those Dutch bikes are really hard to cycle fast on. The"
+  },
+  {
+    "start": 2091.2,
+    "end": 2098.08,
+    "text": " ones which don't have a bar at the top from the front to the back, they force you to cycle in"
+  },
+  {
+    "start": 2098.08,
+    "end": 2104.48,
+    "text": " a really sedate way. Another good race is the Red Bull Time Lapse. And they call that the longest"
+  },
+  {
+    "start": 2104.48,
+    "end": 2113.52,
+    "text": " one day road cycling events. Do you know how many hours it's for? 24. No. 25 because they do it when"
+  },
+  {
+    "start": 2113.52,
+    "end": 2119.2,
+    "text": " the clocks go back. Is that right? When the clocks go back. Yeah. It's quite cool, isn't it? Yeah. And"
+  },
+  {
+    "start": 2119.2,
+    "end": 2124.72,
+    "text": " it's just a 6.2km course and they see how many laps they can do in 25 hours. Nice. You could do"
+  },
+  {
+    "start": 2124.72,
+    "end": 2130,
+    "text": " the shortest one day cycling event where you just cross the international date line. Yeah. Yeah."
+  },
+  {
+    "start": 2130,
+    "end": 2134.32,
+    "text": " And you know, it's a second. And you're just like, oh, I've been cycling for a day. Yeah. And actually,"
+  },
+  {
+    "start": 2134.32,
+    "end": 2138.72,
+    "text": " it's just one second. That's great. Apart from you're probably in the middle of the ocean. You're"
+  },
+  {
+    "start": 2138.72,
+    "end": 2144.8,
+    "text": " dead, but you're a smug. There's a bunch of cycling things that you can do where it's underwater,"
+  },
+  {
+    "start": 2144.8,
+    "end": 2149.44,
+    "text": " so underwater cycling. Oh, cool. And it's quite nice the way that they get the bike to stay"
+  },
+  {
+    "start": 2149.44,
+    "end": 2153.04,
+    "text": " at the bottom, which is they take all the air out of the bike wheels and they fill it with water."
+  },
+  {
+    "start": 2153.04,
+    "end": 2156.96,
+    "text": " Okay. So when you plunge in, you just sink to the bottom with it and it becomes easy to ride. How"
+  },
+  {
+    "start": 2156.96,
+    "end": 2162.72,
+    "text": " do they deal with the fact that humans are quite buoyant? They replace all the air in their lungs"
+  },
+  {
+    "start": 2162.72,
+    "end": 2168.56,
+    "text": " with water. Eventually, that's probably what happens, isn't it? Yeah. Do you have to have"
+  },
+  {
+    "start": 2168.56,
+    "end": 2171.68,
+    "text": " weights? Oh, yeah, weights. Yeah, weight belts and things like that to keep you down. Yeah, I'm not"
+  },
+  {
+    "start": 2171.68,
+    "end": 2175.44,
+    "text": " sure. Yeah, I didn't see that in the photo that I saw. Because some of them go quite deep, don't"
+  },
+  {
+    "start": 2175.44,
+    "end": 2178.88,
+    "text": " they, the underwater ones? Yeah. There's one, the underwater bike race in North Carolina,"
+  },
+  {
+    "start": 2178.88,
+    "end": 2184.48,
+    "text": " which seems to be the home of underwater bike racing, where it's 60 feet underwater. And the"
+  },
+  {
+    "start": 2184.48,
+    "end": 2190.4,
+    "text": " race is across this shipwreck of a German U-boat called the Indra. Wow. And you ride 100 foot."
+  },
+  {
+    "start": 2190.4,
+    "end": 2193.12,
+    "text": " Doesn't that, that's the kind of thing you're going to book a holiday to go and do? I don't"
+  },
+  {
+    "start": 2193.12,
+    "end": 2198.88,
+    "text": " really like cycling or swimming, but I like the sound of that. That sounds amazing. I don't like"
+  },
+  {
+    "start": 2198.88,
+    "end": 2207.04,
+    "text": " chess or boxing, but I like it. I was looking at slipstreams, this is a movement in cycling."
+  },
+  {
+    "start": 2207.04,
+    "end": 2212.08,
+    "text": " Absolutely. And so slipstream, of course, is when you're, so you can get in a slipstream,"
+  },
+  {
+    "start": 2212.08,
+    "end": 2215.84,
+    "text": " for instance, if you're on a bicycle and you're behind a big vehicle, I do not recommend you do"
+  },
+  {
+    "start": 2215.84,
+    "end": 2220.32,
+    "text": " this. But the vehicle sort of pushes the air out of the way in front of it. So it creates this"
+  },
+  {
+    "start": 2220.32,
+    "end": 2226.08,
+    "text": " sort of negative pressure around you. But the record for how far someone's cycled in a slipstream"
+  },
+  {
+    "start": 2226.08,
+    "end": 2233.6,
+    "text": " is held by a woman who's Denise Muller-Koroneck and she went at 184 miles an hour in 2018 behind"
+  },
+  {
+    "start": 2233.6,
+    "end": 2238.8,
+    "text": " a race car. Isn't that incredible? That is incredible. So she's pedaling, right? Yeah, yeah,"
+  },
+  {
+    "start": 2238.8,
+    "end": 2242.64,
+    "text": " you've got to be pedaling. So you can't, she's in such a high gear that you couldn't possibly"
+  },
+  {
+    "start": 2242.64,
+    "end": 2247.36,
+    "text": " start. So they have to get pulled along by the car at first until they're going at 100 miles an hour"
+  },
+  {
+    "start": 2247.36,
+    "end": 2253.04,
+    "text": " and then released and then you peddle along behind the car. Wow. She can move on too. Can I just talk"
+  },
+  {
+    "start": 2253.04,
+    "end": 2258.88,
+    "text": " about one, can I just talk about one other slipstream guy who I love who's the guy, this guy"
+  },
+  {
+    "start": 2258.88,
+    "end": 2264.24,
+    "text": " called Charles Minthorn, mile a minute Murphy, mile a minute was added later. He was the first"
+  },
+  {
+    "start": 2264.24,
+    "end": 2270.08,
+    "text": " person to ride a bicycle a mile in under a minute. He was an 18, this is an 1899 and he persuaded a"
+  },
+  {
+    "start": 2270.08,
+    "end": 2273.04,
+    "text": " train engineer because trains were the only things that could go fast enough at the time"
+  },
+  {
+    "start": 2273.04,
+    "end": 2277.68,
+    "text": " to build the next track for him that he could cycle along. And then, so two miles of track"
+  },
+  {
+    "start": 2277.68,
+    "end": 2282.48,
+    "text": " and then he would get dragged behind it in the slipstream. And so he spent, he spent 12 years"
+  },
+  {
+    "start": 2282.48,
+    "end": 2287.44,
+    "text": " planning this, dreaming about it, fantasizing about it. And at first it didn't work because"
+  },
+  {
+    "start": 2287.44,
+    "end": 2292.24,
+    "text": " the train couldn't go fast enough. So he was there capable of cycling, the train couldn't go fast"
+  },
+  {
+    "start": 2292.24,
+    "end": 2297.28,
+    "text": " enough. Eventually they got a bigger, better, faster train and he ended up going so fast,"
+  },
+  {
+    "start": 2297.28,
+    "end": 2301.36,
+    "text": " burning rubber was flying up in his face because the track was warping and stuff. But"
+  },
+  {
+    "start": 2301.36,
+    "end": 2306.24,
+    "text": " lots of people were watching and he, it got to the end of the track. So he's going faster than the"
+  },
+  {
+    "start": 2306.24,
+    "end": 2310,
+    "text": " train at one point because he got, he fell behind a bit because he lifted his hand up to sort of"
+  },
+  {
+    "start": 2310,
+    "end": 2315.04,
+    "text": " wave at one of his trainers and I was like, oh fuck, I've just lost 50 feet. So he caught up with"
+  },
+  {
+    "start": 2315.04,
+    "end": 2319.44,
+    "text": " the train going faster than the train. The bloody guy driving the steam train just cut the steam as"
+  },
+  {
+    "start": 2319.44,
+    "end": 2328.16,
+    "text": " soon as he got to the end. And so Charles went slamming the track, flew of his bike at 60 miles"
+  },
+  {
+    "start": 2328.16,
+    "end": 2332.96,
+    "text": " an hour and somehow got caught, there were two people standing in the train, one caught one"
+  },
+  {
+    "start": 2332.96,
+    "end": 2343.92,
+    "text": " on the other side and they saved him. That is amazing. Okay, it is time for our final fact of"
+  },
+  {
+    "start": 2343.92,
+    "end": 2352.32,
+    "text": " the show and that is Anna. My fact is that every week planes drop 15 million flies on the border"
+  },
+  {
+    "start": 2352.32,
+    "end": 2359.2,
+    "text": " between Columbia and Panama. Okay, so we're expected to believe that but a scuba diver in a tree"
+  },
+  {
+    "start": 2361.28,
+    "end": 2366.96,
+    "text": " is perfect. Maybe the scuba divers hurling them out of the plane and he fell out too,"
+  },
+  {
+    "start": 2366.96,
+    "end": 2374.24,
+    "text": " I don't know. This is this incredible, not a story, true, true fact. And I read it in an"
+  },
+  {
+    "start": 2374.24,
+    "end": 2379.28,
+    "text": " article in The Atlantic by Sarah Zhang, it's a brilliant article, but it's about how it's 14.7"
+  },
+  {
+    "start": 2379.28,
+    "end": 2385.68,
+    "text": " million screw worm adults. So the flies of the screw worm are dropped over this border and it's"
+  },
+  {
+    "start": 2385.68,
+    "end": 2391.92,
+    "text": " in order to keep down screw worm populations weirdly and it's been happening for over 50 years"
+  },
+  {
+    "start": 2391.92,
+    "end": 2396.88,
+    "text": " and it's because they're a terrible pest so they were this awful blight in the US because they"
+  },
+  {
+    "start": 2396.88,
+    "end": 2402.88,
+    "text": " destroy livestock for reasons that I have no doubt will go into in disgusting detail. So they started"
+  },
+  {
+    "start": 2402.88,
+    "end": 2406.96,
+    "text": " looking into how to get rid of them, it was sort of in the 1950s the US Department of Agriculture"
+  },
+  {
+    "start": 2406.96,
+    "end": 2415.44,
+    "text": " started looking into eradicating them and decided to sterilize a bunch of screw worms, drop them"
+  },
+  {
+    "start": 2415.44,
+    "end": 2420.4,
+    "text": " all over the continent and then those guys would shag, male screw worms they drop, those guys would"
+  },
+  {
+    "start": 2420.4,
+    "end": 2425.68,
+    "text": " shag the females who only shag once in their life so if you shag a sterilized male that's it,"
+  },
+  {
+    "start": 2425.68,
+    "end": 2431.76,
+    "text": " you're not having kids and thusly the screw worm blight is ended. So the screw worm was screwed"
+  },
+  {
+    "start": 2431.76,
+    "end": 2438.48,
+    "text": " by screwing, you could say. Very nice. I could say that, should be their logo. And we should say,"
+  },
+  {
+    "start": 2438.48,
+    "end": 2443.84,
+    "text": " I don't know if you said this Anna, but the reason why it's in Panama, between Colombia and Panama,"
+  },
+  {
+    "start": 2443.84,
+    "end": 2448.64,
+    "text": " is they eradicated these flies from the whole of North America, but they still exist in South"
+  },
+  {
+    "start": 2448.64,
+    "end": 2454.4,
+    "text": " America and the bit where Panama is is obviously very, very thin bit of land. So if they can make"
+  },
+  {
+    "start": 2454.4,
+    "end": 2459.28,
+    "text": " sure that nothing gets past that little bit of land, then it means that nothing will come into"
+  },
+  {
+    "start": 2459.28,
+    "end": 2464.64,
+    "text": " North America. So that's why they flood Panama and Colombia with it, just to kind of create a barrier."
+  },
+  {
+    "start": 2464.64,
+    "end": 2469.52,
+    "text": " And also to make a big buffer zone, I think, because at first they did try to make it a barrier"
+  },
+  {
+    "start": 2469.52,
+    "end": 2473.92,
+    "text": " with Mexico, but because that's just a bit too close, Mexico is right there, they were like,"
+  },
+  {
+    "start": 2473.92,
+    "end": 2478.32,
+    "text": " we've got to make this big buffer zone. It's like the Eastern Bloc in the Cold War."
+  },
+  {
+    "start": 2478.32,
+    "end": 2483.52,
+    "text": " Can we talk about the worms and how horrific they are? They lay their eggs in open wounds,"
+  },
+  {
+    "start": 2483.52,
+    "end": 2487.84,
+    "text": " that's what their jam is. And sometimes they go for mucus membranes if they can't find an open"
+  },
+  {
+    "start": 2487.84,
+    "end": 2492.08,
+    "text": " wound, but that's why they're so painful and horrific. So you're living in a mucus membrane,"
+  },
+  {
+    "start": 2492.08,
+    "end": 2496.24,
+    "text": " are you? Yes, yeah, but we're saving up and we hope to find an open wound soon."
+  },
+  {
+    "start": 2496.24,
+    "end": 2502.16,
+    "text": " Yeah. And then they sort of chew their way. They chew their way really deep as well,"
+  },
+  {
+    "start": 2502.16,
+    "end": 2506.56,
+    "text": " like they can get two inches down and they're just awful. They're awful animals."
+  },
+  {
+    "start": 2506.56,
+    "end": 2512.96,
+    "text": " There was a British tourist called Rochelle Harris in 2013 who had a screw fly who went into her ear."
+  },
+  {
+    "start": 2512.96,
+    "end": 2517.68,
+    "text": " And there was like this weird buzzing and scratching and stuff and she didn't really"
+  },
+  {
+    "start": 2517.68,
+    "end": 2521.84,
+    "text": " know what it was. And eventually they found out that she had these flesh-eating worms"
+  },
+  {
+    "start": 2521.84,
+    "end": 2526.4,
+    "text": " living inside her head. And then they interviewed her afterwards. I think this is mine in the"
+  },
+  {
+    "start": 2526.4,
+    "end": 2530.88,
+    "text": " Daily Mail. They interviewed her afterwards and she said, \"I no longer as squeamish as I once was"
+  },
+  {
+    "start": 2530.88,
+    "end": 2536.8,
+    "text": " about bugs. How can you be after they've been inside your head?\" I just think that would make"
+  },
+  {
+    "start": 2536.8,
+    "end": 2542.56,
+    "text": " me more squeamish. Way less likely to lie down in the garden if I've had a load of screw worms"
+  },
+  {
+    "start": 2542.56,
+    "end": 2545.84,
+    "text": " in the brain. It sounds like one stayed in there and is running the show now."
+  },
+  {
+    "start": 2549.12,
+    "end": 2554.96,
+    "text": " That's such a good idea. Their name, it literally means flesh-eating, which I love."
+  },
+  {
+    "start": 2554.96,
+    "end": 2562,
+    "text": " So their scientific name is the Cochleomia hominivorax. And hominid is man and vorax"
+  },
+  {
+    "start": 2562,
+    "end": 2568.88,
+    "text": " like voracious as eating. So man devouring, which is fitting. Yeah. The actual discovery"
+  },
+  {
+    "start": 2568.88,
+    "end": 2574.88,
+    "text": " of the idea of sterilizing all of these screw worms and dropping them over had been called in"
+  },
+  {
+    "start": 2574.88,
+    "end": 2580.72,
+    "text": " the New York Times in 1970 the single most original thought in the 20th century. That was"
+  },
+  {
+    "start": 2580.72,
+    "end": 2585.28,
+    "text": " according to a lot of scientists at the time because it was down to a guy called Edward F."
+  },
+  {
+    "start": 2585.28,
+    "end": 2591.2,
+    "text": " Kipning. Sorry, Edward F. Knippling. Knippling? Knippling. I'd say it's Knippling. It's usually"
+  },
+  {
+    "start": 2591.2,
+    "end": 2595.84,
+    "text": " a silent case, isn't it? Yeah, I think it's Knippling. Either way, we can agree he does not"
+  },
+  {
+    "start": 2595.84,
+    "end": 2605.6,
+    "text": " make exceedingly good case. Well, let's say Knippling. And he used to, as a child, he used"
+  },
+  {
+    "start": 2605.6,
+    "end": 2612.88,
+    "text": " to watch adult screw worms mate. And he obsessed over it, not in a sexy way. He was watching a lot"
+  },
+  {
+    "start": 2612.88,
+    "end": 2620.24,
+    "text": " of his animals on a farm be devoured by these horrible flesh-eating species. And so, yeah,"
+  },
+  {
+    "start": 2620.24,
+    "end": 2624.32,
+    "text": " apparently that was just such an original thought that some scientists claim it's the single most"
+  },
+  {
+    "start": 2624.32,
+    "end": 2628.16,
+    "text": " original thought in the 20th century. Yeah, that was before the internet was invented, wasn't it?"
+  },
+  {
+    "start": 2628.16,
+    "end": 2635.6,
+    "text": " He was really amazing, this Edward Knippling. He died relatively recently, I think, and I saw"
+  },
+  {
+    "start": 2635.6,
+    "end": 2640.88,
+    "text": " a few obituaries of him. Apparently, he named all of his pets after insects. Isn't that cool?"
+  },
+  {
+    "start": 2640.88,
+    "end": 2648.16,
+    "text": " But his pets were not insects? No, he had Siamese cats, Colton, Anthonomous, and Culex,"
+  },
+  {
+    "start": 2648.16,
+    "end": 2652.32,
+    "text": " that were named after a type of cotton ball weevil and a type of mosquito."
+  },
+  {
+    "start": 2652.32,
+    "end": 2660.64,
+    "text": " Do you know how you get a screw worm out of someone? Do you lure it out somehow?"
+  },
+  {
+    "start": 2660.64,
+    "end": 2666.56,
+    "text": " You do. You use a treatment called bacon therapy. Which sounds like such a much more enjoyable"
+  },
+  {
+    "start": 2666.56,
+    "end": 2673.44,
+    "text": " thing that it actually is. It's just a little jamming raw pork into the breathing holes that"
+  },
+  {
+    "start": 2673.44,
+    "end": 2679.36,
+    "text": " the worm has. And it either suffocates and pushes its way out, or it finds it yummy and sort of"
+  },
+  {
+    "start": 2679.36,
+    "end": 2684.08,
+    "text": " goes towards the bacon. It is like fishing, though, isn't it? I couldn't tell. It's so weird"
+  },
+  {
+    "start": 2684.08,
+    "end": 2688,
+    "text": " when they say that you use it to block up their air holes, because they're really small. I mean,"
+  },
+  {
+    "start": 2688,
+    "end": 2692.8,
+    "text": " that is a tiny rash of bacon. So I think they're attracting them to them. And once you've got"
+  },
+  {
+    "start": 2692.8,
+    "end": 2697.36,
+    "text": " sort of 10 or 11 on your bacon, you reel it in, I suppose, don't you? If you think it's like"
+  },
+  {
+    "start": 2697.36,
+    "end": 2703.28,
+    "text": " fishing, I'm not coming to your restaurant in the middle of London Bridge. The maggot sandwich."
+  },
+  {
+    "start": 2703.28,
+    "end": 2708.72,
+    "text": " Flies off the shelves. They're a kind of blow fly. And I was wondering why we call blow flies"
+  },
+  {
+    "start": 2708.72,
+    "end": 2714.24,
+    "text": " blow flies. And I think it's because they... So the first reference to flies being associated with"
+  },
+  {
+    "start": 2714.24,
+    "end": 2719.52,
+    "text": " the word blows comes from Shakespeare and around that time. And it was people would refer to flies"
+  },
+  {
+    "start": 2719.52,
+    "end": 2727.36,
+    "text": " blowing you. So Cleopatra says, \"Lay me stark naked and let flies blow me.\" And that's rather..."
+  },
+  {
+    "start": 2727.36,
+    "end": 2733.12,
+    "text": " She wants that to happen rather than being taken prisoner. It's not as pleasant as you might"
+  },
+  {
+    "start": 2733.12,
+    "end": 2739.2,
+    "text": " think. It's more about something is referred to being fly blown when flies had laid their eggs"
+  },
+  {
+    "start": 2739.2,
+    "end": 2744.96,
+    "text": " all over it, basically. I mean, if you go and see a prostitute and ask her to blow you, then make"
+  },
+  {
+    "start": 2744.96,
+    "end": 2751.12,
+    "text": " sure she doesn't come along with a load of maggots. Tip a pile of maggots on your knee."
+  },
+  {
+    "start": 2751.12,
+    "end": 2757.28,
+    "text": " You've got to be very careful. It's possible, is all I'm saying. If she happens to be an entomologist"
+  },
+  {
+    "start": 2757.28,
+    "end": 2765.68,
+    "text": " in her spare time. A lot of crossover between the two. So they do actually blow bubbles blow flies,"
+  },
+  {
+    "start": 2765.68,
+    "end": 2769.44,
+    "text": " even though it's not what they call blow flies. They're forever blowing bubbles."
+  },
+  {
+    "start": 2769.44,
+    "end": 2774.08,
+    "text": " And it's to keep them cool. This was discovered quite recently and it's blow flies in Brazil."
+  },
+  {
+    "start": 2774.08,
+    "end": 2779.12,
+    "text": " It's actually latrine blow flies. So they hang around in toilets and they do this really clever"
+  },
+  {
+    "start": 2779.12,
+    "end": 2784.24,
+    "text": " thing where when they get hot, they blow brown bubbles out of their mouth, which I imagine are"
+  },
+  {
+    "start": 2784.24,
+    "end": 2790.24,
+    "text": " brown because they're latrine blow flies. And the brown bubbles, when they're blown, they lose lots"
+  },
+  {
+    "start": 2790.24,
+    "end": 2795.2,
+    "text": " of heat because heat evaporates off them and then they pop and they suck them back in and then that"
+  },
+  {
+    "start": 2795.2,
+    "end": 2799.68,
+    "text": " spits a bit cooler. It cools the head right down. It's really clever, that, isn't it?"
+  },
+  {
+    "start": 2799.68,
+    "end": 2805.12,
+    "text": " Yeah. It's like having bubblegum and then blowing it and then it gets cold on the outside and then"
+  },
+  {
+    "start": 2805.12,
+    "end": 2809.92,
+    "text": " you suck it back into your body and get the coolness. Exactly. If your bubblegum was made of other"
+  },
+  {
+    "start": 2809.92,
+    "end": 2815.84,
+    "text": " people's feces, which is not a hubba-bubba flavour as far as I know."
+  },
+  {
+    "start": 2815.84,
+    "end": 2823.36,
+    "text": " I've just got one more thing. I started looking into insect factories off the back of this because"
+  },
+  {
+    "start": 2823.36,
+    "end": 2828.64,
+    "text": " there's a factory which grows these screwworms. There's a firm called EntoCycle, which is currently"
+  },
+  {
+    "start": 2828.64,
+    "end": 2835.44,
+    "text": " hoping to breed millions and millions of soldier flies and then turn them into protein powder."
+  },
+  {
+    "start": 2835.44,
+    "end": 2839.6,
+    "text": " So you breed millions of flies, which are eating rubbish. They're eating old coffee grounds."
+  },
+  {
+    "start": 2839.6,
+    "end": 2844.16,
+    "text": " And then do they give that to like cattle and stuff, is that right?"
+  },
+  {
+    "start": 2844.16,
+    "end": 2847.44,
+    "text": " Exactly. That's the hope. And then the hope is that you don't need so much"
+  },
+  {
+    "start": 2847.44,
+    "end": 2855.2,
+    "text": " soya to be grown and that takes up land that used to be the Amazon rainforest."
+  },
+  {
+    "start": 2855.2,
+    "end": 2859.52,
+    "text": " So yeah, it's a genius idea. And this firm, EntoCycle, is based in London Bridge."
+  },
+  {
+    "start": 2859.92,
+    "end": 2861.36,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 2861.36,
+    "end": 2871.04,
+    "text": " Okay, that's it. That is all of our facts. Thank you so much for listening."
+  },
+  {
+    "start": 2871.04,
+    "end": 2874.4,
+    "text": " If you'd like to get in contact with any of us about the things that we've said over the course"
+  },
+  {
+    "start": 2874.4,
+    "end": 2879.6,
+    "text": " of this podcast, we can be found on our Twitter accounts. I'm on @Sriberland, Andy."
+  },
+  {
+    "start": 2879.6,
+    "end": 2884.08,
+    "text": " @AndrewHunterM. James. @JamesHarken. And Anna."
+  },
+  {
+    "start": 2884.08,
+    "end": 2887.6,
+    "text": " You can email a podcast at qi.com. Yep, or you can go to our group account,"
+  },
+  {
+    "start": 2887.6,
+    "end": 2891.28,
+    "text": " which is @NoSuchThing. Or you can head to our website, NoSuchThingIsAFish.com."
+  },
+  {
+    "start": 2891.28,
+    "end": 2894.96,
+    "text": " We have all of our previous episodes there and links to a bunch of merchandise."
+  },
+  {
+    "start": 2894.96,
+    "end": 2900.32,
+    "text": " Also, you'll find the links to our live show that we're going to be doing on the 18th of July,"
+  },
+  {
+    "start": 2900.32,
+    "end": 2905.92,
+    "text": " the Drive-In Show. Just go to qi.com/FishEvents. You'll find the link there. And also,"
+  },
+  {
+    "start": 2905.92,
+    "end": 2911.12,
+    "text": " please do donate to that Care Workers Charity by simply going to qi.com/donate."
+  },
+  {
+    "start": 2911.12,
+    "end": 2915.44,
+    "text": " And yeah, we'll be back again next week, guys. As ever, we hope that you're safe. We hope you're"
+  },
+  {
+    "start": 2915.44,
+    "end": 2920.64,
+    "text": " well. Thank you so much for listening to us still in this crazy, crazy time. We'll continue doing"
+  },
+  {
+    "start": 2920.64,
+    "end": 2931.36,
+    "text": " it. And we'll be back again next week with another episode. We'll see you then. Goodbye."
+  },
+  {
+    "start": 2931.36,
+    "end": 2933.94,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 2933.94,
+    "end": 2936.52,
+    "text": " (upbeat music)"
+  }
+]

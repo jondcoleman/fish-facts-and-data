@@ -7,12 +7,10 @@ import {
 } from "./discover.js";
 import { downloadAndPrepareAudio } from "./download.js";
 import { transcribeAudio } from "./transcribe.js";
-import { extractFactsFromVtt, prepareVttFile } from "./extract-facts.js";
+import { extractFactsFromVtt } from "./extract-facts.js";
 import {
   saveEpisodeMetadata,
   getEpisodeDir,
-  getAudioUrl,
-  sanitizeFilename,
   logInfo,
   logSuccess,
   logError,
@@ -85,21 +83,8 @@ async function processEpisode(
       logInfo("Using existing transcript");
     }
 
-    // Step 3: Extract facts
-    logProgress(3, 4, "Extracting facts...");
-    const prepared = await prepareVttFile(
-      transcriptionResult.vttPath,
-      episodeDir,
-      false
-    );
-
-    if (!prepared) {
-      logInfo("Facts already extracted");
-    } else {
-      // For single episode, we can use direct extraction
-      // In batch mode, we'd collect these and process together
-      logInfo("Facts prepared for extraction (will be processed in batch)");
-    }
+    // Step 3: Facts will be extracted in batch after all episodes are processed
+    logProgress(3, 4, "Transcript ready for batch fact extraction");
 
     // Step 4: Save episode metadata
     logProgress(4, 4, "Saving episode metadata...");
@@ -170,16 +155,11 @@ async function main() {
         stats.successful++;
 
         // Collect VTT paths for batch fact extraction
-        const sanitizedTitle = sanitizeFilename(episode.title);
-        const vttPath = path.join(
-          "transcripts",
-          sanitizedTitle,
-          `${sanitizedTitle}.vtt`
-        );
-        const outputDir = getEpisodeDir(episode.dirName);
+        const episodeDir = getEpisodeDir(episode.dirName);
+        const vttPath = path.join(episodeDir, "transcript.vtt");
 
         vttPaths.push(vttPath);
-        outputDirs.push(outputDir);
+        outputDirs.push(episodeDir);
       } else {
         stats.failed++;
       }
