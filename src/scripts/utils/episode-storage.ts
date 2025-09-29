@@ -20,6 +20,7 @@ export interface EpisodeMetadata {
 /**
  * Create episode directory and save metadata
  * Shared by bootstrap and process-episodes scripts
+ * Saves all available RSS data without filtering
  */
 export async function saveEpisodeMetadata(
   episode: EpisodeMetadata,
@@ -29,15 +30,10 @@ export async function saveEpisodeMetadata(
   await ensureDir(episodeDir);
 
   const metadataPath = path.join(episodeDir, "metadata.json");
+
+  // Save all RSS data plus any additional data
   await writeJson(metadataPath, {
-    id: episode.id,
-    title: episode.title,
-    publishDate: episode.publishDate,
-    audioUrl: episode.audioUrl,
-    link: episode.link,
-    description: episode.description,
-    guid: episode.guid,
-    dirName: episode.dirName,
+    ...episode,
     ...additionalData,
   });
 
