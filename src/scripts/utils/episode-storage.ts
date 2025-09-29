@@ -1,5 +1,5 @@
 import * as path from "path";
-import { ensureDir, writeJson, logSuccess } from "./index.js";
+import { ensureDir, writeJson, readJson, logSuccess } from "./index.js";
 
 const EPISODES_DIR = "src/data/episodes";
 
@@ -20,7 +20,7 @@ export interface EpisodeMetadata {
 /**
  * Create episode directory and save metadata
  * Shared by bootstrap and process-episodes scripts
- * Saves all available RSS data without filtering
+ * Saves all RSS data EXCEPT audioUrl (saved separately for privacy)
  */
 export async function saveEpisodeMetadata(
   episode: EpisodeMetadata,
@@ -29,16 +29,37 @@ export async function saveEpisodeMetadata(
   const episodeDir = path.join(EPISODES_DIR, episode.dirName);
   await ensureDir(episodeDir);
 
-  const metadataPath = path.join(episodeDir, "metadata.json");
+  // Extract audioUrl and save separately (gitignored)
+  const { audioUrl, ...publicMetadata } = episode;
 
-  // Save all RSS data plus any additional data
+  // Save audio URL privately (gitignored)
+  const audioUrlsPath = path.join(episodeDir, "audio-urls.json");
+  await writeJson(audioUrlsPath, { audioUrl });
+
+  // Save public metadata (committed to git)
+  const metadataPath = path.join(episodeDir, "metadata.json");
   await writeJson(metadataPath, {
-    ...episode,
+    ...publicMetadata,
     ...additionalData,
   });
 
   logSuccess(`Saved metadata: ${episode.dirName}`);
   return episodeDir;
+}
+
+/**
+ * Get audio URL for an episode (from private file)
+ */
+export async function getAudioUrl(dirName: string): Promise<string | null> {
+  const episodeDir = path.join(EPISODES_DIR, dirName);
+  const audioUrlsPath = path.join(episodeDir, "audio-urls.json");
+
+  try {
+    const data = await readJson<{ audioUrl: string }>(audioUrlsPath);
+    return data.audioUrl;
+  } catch {
+    return null;
+  }
 }
 
 /**

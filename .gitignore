@@ -40,6 +40,9 @@ downloads/
 *.srt
 *.vtt
 
+# Patreon-protected audio URLs (keep private)
+**/audio-urls.json
+
 # Temporary files
 *.tmp
 *.temp

@@ -11,6 +11,7 @@ import { extractFactsFromVtt, prepareVttFile } from "./extract-facts.js";
 import {
   saveEpisodeMetadata,
   getEpisodeDir,
+  getAudioUrl,
   sanitizeFilename,
   logInfo,
   logSuccess,
