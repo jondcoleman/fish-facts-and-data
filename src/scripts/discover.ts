@@ -1,5 +1,5 @@
 import "dotenv/config";
-import Parser from "rss-parser";
+import Parser, { type Item } from "rss-parser";
 import * as path from "path";
 import { fileURLToPath } from "url";
 import {
@@ -24,23 +24,6 @@ interface EpisodeIndex {
 }
 
 /**
- * RSS feed item type
- */
-interface FeedItem {
-  title?: string;
-  link?: string;
-  pubDate?: string;
-  enclosure?: {
-    url: string;
-    type?: string;
-    length?: string;
-  };
-  guid?: string;
-  contentSnippet?: string;
-  content?: string;
-}
-
-/**
  * Episode metadata to be saved
  */
 interface EpisodeMetadata {
@@ -60,7 +43,7 @@ const INDEX_PATH = path.join(__dirname, "../data/episodes/index.json");
 /**
  * Parse RSS feed and return all items
  */
-async function parseFeed(): Promise<FeedItem[]> {
+async function parseFeed(): Promise<Item[]> {
   if (!RSS_FEED_URL) {
     throw new Error("PODCAST_RSS_FEED_URL not set in environment");
   }
@@ -99,14 +82,14 @@ async function saveIndex(index: EpisodeIndex): Promise<void> {
 /**
  * Create episode ID from feed item (using guid or title)
  */
-function createEpisodeId(item: FeedItem): string {
+function createEpisodeId(item: Item): string {
   return item.guid || item.link || item.title || "";
 }
 
 /**
  * Convert feed item to episode metadata
  */
-function createEpisodeMetadata(item: FeedItem): EpisodeMetadata | null {
+function createEpisodeMetadata(item: Item): EpisodeMetadata | null {
   const title = item.title;
   const audioUrl = item.enclosure?.url;
   const pubDate = item.pubDate;

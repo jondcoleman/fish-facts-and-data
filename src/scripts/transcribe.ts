@@ -1,5 +1,6 @@
 import "dotenv/config";
 import * as path from "path";
+// @ts-expect-error - whisper-node has no type definitions
 import { whisper } from "whisper-node";
 import {
   ensureDir,
