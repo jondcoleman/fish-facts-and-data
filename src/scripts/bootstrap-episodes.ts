@@ -1,10 +1,6 @@
 #!/usr/bin/env node
 import "dotenv/config";
-import {
-  discoverNewEpisodes,
-  markEpisodeProcessed,
-  getProcessedEpisodes,
-} from "./discover.js";
+import { discoverNewEpisodes } from "./discover.js";
 import {
   saveEpisodeMetadata,
   getEpisodeDir,
@@ -118,8 +114,8 @@ async function bootstrapEpisodes() {
           bootstrappedAt: new Date().toISOString(),
         });
 
-        // Mark as processed so discovery doesn't pick it up again
-        await markEpisodeProcessed(episode.id);
+        // Note: We do NOT mark as processed here - that only happens
+        // after the full pipeline (download, transcribe, extract facts) completes
 
         if (force && (await fileExists(metadataPath))) {
           logInfo(`Overwrote: ${episode.dirName}`);
