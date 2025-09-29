@@ -92,8 +92,7 @@ async function processEpisode(
       processedAt: new Date().toISOString(),
     });
 
-    // Mark as processed
-    await markEpisodeProcessed(episode.id);
+    // Note: Episodes are marked as processed after batch fact extraction completes
 
     logSuccess(`Successfully processed: ${episode.title}`);
     return true;
@@ -146,6 +145,7 @@ async function main() {
     // Process each episode
     const vttPaths: string[] = [];
     const outputDirs: string[] = [];
+    const processedEpisodeIds: string[] = [];
 
     for (let i = 0; i < episodesToProcess.length; i++) {
       const episode = episodesToProcess[i];
@@ -160,6 +160,7 @@ async function main() {
 
         vttPaths.push(vttPath);
         outputDirs.push(episodeDir);
+        processedEpisodeIds.push(episode.id);
       } else {
         stats.failed++;
       }
@@ -177,6 +178,13 @@ async function main() {
       logSuccess(
         `Fact extraction complete: ${extractionResults.ok} successful, ${extractionResults.fail} failed, ${extractionResults.skipped} skipped`
       );
+
+      // Mark episodes as processed after fact extraction completes
+      logInfo("Marking episodes as processed...");
+      for (const episodeId of processedEpisodeIds) {
+        await markEpisodeProcessed(episodeId);
+      }
+      logSuccess(`Marked ${processedEpisodeIds.length} episodes as processed`);
     }
 
     // Final statistics
