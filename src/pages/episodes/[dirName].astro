@@ -1,0 +1,237 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getAllEpisodes, getEpisodeByDirName } from '../../lib/episodes';
+
+export async function getStaticPaths() {
+	const episodes = await getAllEpisodes();
+	return episodes.map(episode => ({
+		params: { dirName: episode.metadata.dirName },
+	}));
+}
+
+const { dirName } = Astro.params;
+const episode = await getEpisodeByDirName(dirName!);
+
+if (!episode) {
+	return Astro.redirect('/404');
+}
+---
+
+<Layout>
+	<main>
+		<div class="container">
+			<a href="/" class="back-link">← Back to Episodes</a>
+
+			<article class="episode">
+				<header class="episode-header">
+					<div class="episode-type">{episode.episode_type}</div>
+					<h1>{episode.episode_title}</h1>
+					{episode.episode_number && episode.episode_number !== "unknown" && (
+						<div class="episode-number">Episode {episode.episode_number}</div>
+					)}
+					<div class="episode-date">
+						{new Date(episode.metadata.publishDate).toLocaleDateString('en-US', {
+							year: 'numeric',
+							month: 'long',
+							day: 'numeric'
+						})}
+					</div>
+				</header>
+
+				<section class="summary">
+					<h2>Summary</h2>
+					<p>{episode.episode_summary}</p>
+				</section>
+
+				{episode.facts.length > 0 && (
+					<section class="facts">
+						<h2>Facts</h2>
+						<div class="facts-grid">
+							{episode.facts.map((fact) => (
+								<div class="fact-card">
+									<div class="fact-header">
+										<span class="fact-number">Fact #{fact.fact_number}</span>
+										<span class="fact-presenter">
+											{fact.presenter}
+											{fact.guest && <span class="guest-badge">Guest</span>}
+										</span>
+									</div>
+									<p class="fact-text">{fact.fact}</p>
+									{fact.start_time !== "unknown" && (
+										<div class="fact-time">
+											<span>🕐 {fact.start_time}</span>
+										</div>
+									)}
+								</div>
+							))}
+						</div>
+					</section>
+				)}
+
+				{episode.facts.length === 0 && (
+					<section class="no-facts">
+						<p>This {episode.episode_type} episode does not have the standard four facts format.</p>
+					</section>
+				)}
+			</article>
+		</div>
+	</main>
+</Layout>
+
+<style>
+	.container {
+		max-width: 900px;
+		margin: 0 auto;
+		padding: 2rem;
+	}
+
+	.back-link {
+		display: inline-block;
+		margin-bottom: 2rem;
+		color: #1976d2;
+		text-decoration: none;
+		font-weight: 500;
+	}
+
+	.back-link:hover {
+		text-decoration: underline;
+	}
+
+	.episode {
+		background: white;
+		border-radius: 12px;
+		padding: 2rem;
+		box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+	}
+
+	.episode-header {
+		margin-bottom: 2rem;
+		padding-bottom: 2rem;
+		border-bottom: 2px solid #f0f0f0;
+	}
+
+	.episode-type {
+		display: inline-block;
+		padding: 0.25rem 0.75rem;
+		background: #e3f2fd;
+		color: #1976d2;
+		border-radius: 12px;
+		font-size: 0.75rem;
+		text-transform: uppercase;
+		font-weight: 600;
+		margin-bottom: 1rem;
+	}
+
+	h1 {
+		font-size: 2.5rem;
+		margin-bottom: 0.5rem;
+		color: #1a1a1a;
+		line-height: 1.2;
+	}
+
+	.episode-number {
+		font-size: 1.1rem;
+		color: #666;
+		margin-bottom: 0.5rem;
+	}
+
+	.episode-date {
+		color: #888;
+		font-size: 0.95rem;
+	}
+
+	.summary {
+		margin-bottom: 2rem;
+	}
+
+	.summary h2 {
+		font-size: 1.5rem;
+		margin-bottom: 1rem;
+		color: #1a1a1a;
+	}
+
+	.summary p {
+		font-size: 1.1rem;
+		line-height: 1.7;
+		color: #444;
+	}
+
+	.facts h2 {
+		font-size: 1.5rem;
+		margin-bottom: 1.5rem;
+		color: #1a1a1a;
+	}
+
+	.facts-grid {
+		display: grid;
+		gap: 1.5rem;
+	}
+
+	.fact-card {
+		padding: 1.5rem;
+		background: #f8f9fa;
+		border-left: 4px solid #1976d2;
+		border-radius: 8px;
+	}
+
+	.fact-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-bottom: 1rem;
+		flex-wrap: wrap;
+		gap: 0.5rem;
+	}
+
+	.fact-number {
+		font-weight: 700;
+		color: #1976d2;
+		font-size: 0.9rem;
+	}
+
+	.fact-presenter {
+		color: #666;
+		font-size: 0.95rem;
+		font-weight: 500;
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.guest-badge {
+		display: inline-block;
+		padding: 0.15rem 0.5rem;
+		background: #fff3e0;
+		color: #f57c00;
+		border-radius: 8px;
+		font-size: 0.7rem;
+		text-transform: uppercase;
+		font-weight: 600;
+	}
+
+	.fact-text {
+		font-size: 1.05rem;
+		line-height: 1.6;
+		color: #222;
+		margin-bottom: 1rem;
+	}
+
+	.fact-time {
+		color: #888;
+		font-size: 0.85rem;
+	}
+
+	.no-facts {
+		text-align: center;
+		padding: 3rem;
+		color: #666;
+		background: #f8f9fa;
+		border-radius: 8px;
+	}
+
+	main {
+		min-height: 100vh;
+		background: linear-gradient(to bottom, #f8f9fa, #ffffff);
+		padding: 2rem 0;
+	}
+</style>
