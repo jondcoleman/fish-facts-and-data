@@ -43,7 +43,8 @@ async function processEpisode(
     publishDate: string;
   },
   stats: ProcessingStats,
-  index: number
+  index: number,
+  modelName: string = "base"
 ): Promise<boolean> {
   logSection(`Episode ${index + 1}/${stats.total}`);
   logInfo(`Title: ${episode.title}`);
@@ -70,7 +71,8 @@ async function processEpisode(
     logProgress(2, 4, "Transcribing audio...");
     const transcriptionResult = await transcribeAudio(
       audioResult.wavPath,
-      episode.title
+      episode.title,
+      { modelName: modelName as any }
     );
 
     if (!transcriptionResult) {
@@ -122,6 +124,9 @@ async function main() {
   const limit = args.includes("--limit")
     ? parseInt(args[args.indexOf("--limit") + 1] || "0")
     : undefined;
+  const modelName = args.includes("--model")
+    ? args[args.indexOf("--model") + 1]
+    : "base";
 
   const stats: ProcessingStats = {
     total: 0,
@@ -157,7 +162,7 @@ async function main() {
 
     for (let i = 0; i < episodesToProcess.length; i++) {
       const episode = episodesToProcess[i];
-      const success = await processEpisode(episode, stats, i);
+      const success = await processEpisode(episode, stats, i, modelName);
 
       if (success) {
         stats.successful++;

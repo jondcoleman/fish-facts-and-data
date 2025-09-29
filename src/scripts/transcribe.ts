@@ -37,7 +37,7 @@ interface TranscriptionResult {
  * Note: whisper-node handles this automatically on first run
  */
 export async function ensureWhisperModel(
-  modelName: string = "small"
+  modelName: string = "base"
 ): Promise<void> {
   logInfo(`Using Whisper model: ${modelName}`);
   logWarning(
@@ -53,7 +53,7 @@ export async function transcribeAudio(
   episodeTitle: string,
   options: TranscribeOptions = {}
 ): Promise<TranscriptionResult | null> {
-  const { modelName = "small", language = "auto" } = options;
+  const { modelName = "base", language = "auto" } = options;
 
   // Create sanitized filename
   const sanitizedTitle = sanitizeFilename(episodeTitle);
