@@ -1,21 +1,16 @@
 #!/usr/bin/env node
 import "dotenv/config";
-import * as path from "path";
 import {
   discoverNewEpisodes,
   markEpisodeProcessed,
 } from "./discover.js";
 import {
-  ensureDir,
-  writeJson,
+  saveEpisodeMetadata,
   logInfo,
-  logSuccess,
   logError,
   logSection,
   logProgress,
 } from "./utils/index.js";
-
-const EPISODES_DIR = "src/data/episodes";
 
 /**
  * Bootstrap episodes by creating directories and saving RSS metadata
@@ -45,28 +40,14 @@ async function bootstrapEpisodes() {
       logProgress(i + 1, newEpisodes.length, episode.title);
 
       try {
-        // Create episode directory
-        const episodeDir = path.join(EPISODES_DIR, episode.dirName);
-        await ensureDir(episodeDir);
-
-        // Save metadata from RSS
-        const metadataPath = path.join(episodeDir, "metadata.json");
-        await writeJson(metadataPath, {
-          id: episode.id,
-          title: episode.title,
-          publishDate: episode.publishDate,
-          audioUrl: episode.audioUrl,
-          link: episode.link,
-          description: episode.description,
-          guid: episode.guid,
-          dirName: episode.dirName,
+        // Save metadata using shared utility
+        await saveEpisodeMetadata(episode, {
           bootstrappedAt: new Date().toISOString(),
         });
 
         // Mark as processed so discovery doesn't pick it up again
         await markEpisodeProcessed(episode.id);
 
-        logSuccess(`Bootstrapped: ${episode.dirName}`);
         successful++;
       } catch (error) {
         logError(`Failed to bootstrap ${episode.title}`, error);

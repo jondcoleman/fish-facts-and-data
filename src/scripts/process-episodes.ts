@@ -9,17 +9,15 @@ import { downloadAndPrepareAudio } from "./download.js";
 import { transcribeAudio } from "./transcribe.js";
 import { extractFactsFromVtt, prepareVttFile } from "./extract-facts.js";
 import {
-  ensureDir,
+  saveEpisodeMetadata,
+  getEpisodeDir,
   sanitizeFilename,
-  writeJson,
   logInfo,
   logSuccess,
   logError,
   logSection,
   logProgress,
 } from "./utils/index.js";
-
-const EPISODES_DIR = "src/data/episodes";
 
 /**
  * Episode processing statistics
@@ -50,8 +48,7 @@ async function processEpisode(
   logInfo(`Title: ${episode.title}`);
   logInfo(`Directory: ${episode.dirName}`);
 
-  const episodeDir = path.join(EPISODES_DIR, episode.dirName);
-  await ensureDir(episodeDir);
+  const episodeDir = getEpisodeDir(episode.dirName);
 
   try {
     // Step 1: Download audio
@@ -101,13 +98,7 @@ async function processEpisode(
 
     // Step 4: Save episode metadata
     logProgress(4, 4, "Saving episode metadata...");
-    const metadataPath = path.join(episodeDir, "metadata.json");
-    await writeJson(metadataPath, {
-      id: episode.id,
-      title: episode.title,
-      publishDate: episode.publishDate,
-      audioUrl: episode.audioUrl,
-      dirName: episode.dirName,
+    await saveEpisodeMetadata(episode, {
       processedAt: new Date().toISOString(),
     });
 
@@ -177,7 +168,7 @@ async function main() {
           sanitizedTitle,
           `${sanitizedTitle}.vtt`
         );
-        const outputDir = path.join(EPISODES_DIR, episode.dirName);
+        const outputDir = getEpisodeDir(episode.dirName);
 
         vttPaths.push(vttPath);
         outputDirs.push(outputDir);
