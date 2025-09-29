@@ -19,7 +19,7 @@ import {
   logSection,
 } from "./utils/index.js";
 
-const MODEL = process.env.OPENAI_MODEL || "gpt-4o-mini";
+const MODEL = process.env.OPENAI_MODEL || "gpt-4o";
 const client = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 /**
@@ -44,14 +44,30 @@ function createBatchRequest({
   customId: string;
 }) {
   const instructions = `
-You are given a transcript of an episode of "No Such Thing As A Fish" in CSV form with columns: start_hhmmss,end_hhmmss,text.
+You are given a transcript of an episode of "No Such Thing As A Fish" podcast in CSV format with columns: start_hhmmss,end_hhmmss,text.
 
-A show is "standard" if it has core four facts. "Bonus" episodes will mostly likely be titled that way and not have the core 4 facts. Same for compilations. Use other for anything else if you really can't identify it as one of the other types.
+EPISODE TYPE CLASSIFICATION (CRITICAL):
+- "standard": The regular weekly episode format with exactly FOUR numbered facts (fact 1, fact 2, fact 3, fact 4). This is the default and most common type. Episodes are numbered (e.g., "575. No Such Thing As..."). If you see phrases like "it's time for fact number 1/2/3/4" or "our first/second/third/final fact", this is STANDARD.
+- "bonus": Special episodes that explicitly have "bonus" in the title (e.g., "Bonus: Drop Us A Line", "Bonus: Meet The Elves"). These typically do NOT follow the four-fact structure.
+- "compilation": Episodes with "compilation" in the title. These are clip shows and do NOT have four new facts.
+- "other": Quizzes, live shows with unusual formats, or anything truly unusual.
 
-Extract exactly the structure below. Facts must be the core 1–2 sentence wording, verbatim. Presenters can include guests. Start times should be HH:MM:SS with no rounding; if no reliable time, use "unknown".
-For non-standard episodes (compilation, bonus, other) that do not have exactly four facts, return an empty facts array. There are four main hosts, James Harkin, Anna Ptaszynski (please interpret other spellings as this), Dan Schreiber, and Andrew Hunter Murray. If just those first names are used when introducing a fact, assume that it's one of them, and use their full name. Whenever possible, use the full podcast context to get the full names of the guests, as well. Almost never does the same person give multiple core facts.
+IMPORTANT: If the episode follows the standard pattern of introducing four numbered facts with phrases like "it's time for fact number X" or "our Xth fact of the show", it is STANDARD, not bonus or other. Most numbered episodes (e.g., "575", "602") are STANDARD.
 
-Here's how you can identify where the fact is: It typically follows the same pattern where the host says something like, "it's time for fact number 2 (3)", "our first fact of the show is", "it's time for our final fact" and then says who the fact is from. Look for that clue. Example:
+FACT EXTRACTION (for STANDARD episodes only):
+- Extract the exact 1-2 sentence wording of each fact as stated by the presenter
+- The four main hosts are: James Harkin, Anna Ptaszynski, Dan Schreiber, Andrew Hunter Murray
+- If only first names are used (James, Anna, Dan, Andy/Andrew), match to full names above
+- Identify guest presenters by context (they'll be introduced by name)
+- Almost never does the same person present multiple facts in one episode
+- Start times should be HH:MM:SS format from the transcript; use "unknown" if unreliable
+
+Facts are typically introduced with patterns like:
+- "It's time for fact number 1/2/3/4"
+- "Our first/second/third/final fact of the show"
+- "Okay, it is time for fact number X and that is [Name]"
+
+Example fact introduction:
 ---
 00:37:02.560 --> 00:37:07.260
  - Okay, it is time for a final fact of the show
@@ -59,7 +75,10 @@ Here's how you can identify where the fact is: It typically follows the same pat
 00:37:07.260 --> 00:37:09.020
  and that is Anna.
 ---
-Return only JSON that matches the provided JSON schema.`;
+
+For NON-STANDARD episodes (compilation, bonus, other): Return an EMPTY facts array.
+
+Return only JSON that matches the provided schema.`;
 
   const input = `Filename: ${fileBase}.vtt\n\nTranscript CSV:\n${csv}`;
 
