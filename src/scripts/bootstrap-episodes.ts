@@ -38,7 +38,21 @@ async function bootstrapEpisodes() {
     if (force) {
       // In force mode, get ALL episodes from RSS feed
       const Parser = (await import("rss-parser")).default;
-      const parser = new Parser();
+
+      // Configure parser to capture iTunes-specific fields
+      const parser = new Parser({
+        customFields: {
+          item: [
+            ['itunes:image', 'itunesImage'],
+            ['itunes:duration', 'itunesDuration'],
+            ['itunes:explicit', 'itunesExplicit'],
+            ['itunes:episode', 'itunesEpisode'],
+            ['itunes:season', 'itunesSeason'],
+            ['itunes:episodeType', 'itunesEpisodeType'],
+          ]
+        }
+      });
+
       const RSS_FEED_URL = process.env.PODCAST_RSS_FEED_URL;
 
       if (!RSS_FEED_URL) {
