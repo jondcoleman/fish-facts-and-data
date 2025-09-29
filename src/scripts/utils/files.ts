@@ -66,13 +66,12 @@ export async function writeJson(
   filePath: string,
   data: unknown
 ): Promise<void> {
-  await fs.writeFile(filePath, JSON.stringify(data, null, 2), "utf-8");
+  await fs.writeJSON(filePath, data, { spaces: 2 });
 }
 
 /**
  * Read and parse JSON file
  */
 export async function readJson<T = unknown>(filePath: string): Promise<T> {
-  const content = await fs.readFile(filePath, "utf-8");
-  return JSON.parse(content) as T;
+  return await fs.readJSON(filePath) as T;
 }
