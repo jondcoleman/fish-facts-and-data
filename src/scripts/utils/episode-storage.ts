@@ -20,7 +20,7 @@ export interface EpisodeMetadata {
 /**
  * Create episode directory and save metadata
  * Shared by bootstrap and process-episodes scripts
- * Saves all RSS data EXCEPT audioUrl (saved separately for privacy)
+ * Saves all RSS data EXCEPT audioUrl, enclosure, and itunes.image (saved separately for privacy)
  */
 export async function saveEpisodeMetadata(
   episode: EpisodeMetadata,
@@ -29,17 +29,26 @@ export async function saveEpisodeMetadata(
   const episodeDir = path.join(EPISODES_DIR, episode.dirName);
   await ensureDir(episodeDir);
 
-  // Extract audioUrl and save separately (gitignored)
-  const { audioUrl, ...publicMetadata } = episode;
+  // Extract Patreon-specific data and save separately (gitignored)
+  const { audioUrl, enclosure, itunes, ...rest } = episode as any;
 
-  // Save audio URL privately (gitignored)
+  // Extract non-Patreon itunes fields (everything except image)
+  const { image, ...publicItunesFields } = itunes || {};
+
+  // Save Patreon-protected data privately (gitignored)
   const audioUrlsPath = path.join(episodeDir, "audio-urls.json");
-  await writeJson(audioUrlsPath, { audioUrl });
+  await writeJson(audioUrlsPath, {
+    audioUrl,
+    enclosure,
+    itunesImage: image,
+  });
 
   // Save public metadata (committed to git)
   const metadataPath = path.join(episodeDir, "metadata.json");
   await writeJson(metadataPath, {
-    ...publicMetadata,
+    ...rest,
+    // Include non-image itunes fields if they exist
+    ...(Object.keys(publicItunesFields).length > 0 ? { itunes: publicItunesFields } : {}),
     ...additionalData,
   });
 

@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 /**
- * One-time migration script to extract audioUrl from metadata.json
+ * One-time migration script to extract Patreon-protected data from metadata.json
  * and save it to audio-urls.json (which is gitignored)
+ * Migrates: audioUrl, enclosure, and itunes.image
  */
 import * as fs from "fs/promises";
 import * as path from "path";
