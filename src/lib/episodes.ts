@@ -8,10 +8,15 @@ import type { Episode } from "../scripts/utils/schemas.js";
 export interface EpisodeWithMetadata extends Episode {
   metadata: {
     id: string;
+    title: string;
     dirName: string;
     publishDate: string;
-    audioUrl: string;
+    audioUrl?: string;
     processedAt?: string;
+    itunes?: {
+      episode?: string;
+      episodeType?: string;
+    };
   };
 }
 
@@ -128,8 +133,8 @@ export async function getAllFacts() {
   const allFacts = episodes.flatMap((episode) =>
     episode.facts.map((fact) => ({
       ...fact,
-      episodeTitle: episode.episode_title,
-      episodeNumber: episode.episode_number,
+      episodeTitle: episode.metadata.title,
+      episodeNumber: episode.metadata.itunes?.episode,
       episodeDirName: episode.metadata.dirName,
       publishDate: episode.metadata.publishDate,
     }))
