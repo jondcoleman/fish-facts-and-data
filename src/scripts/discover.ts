@@ -66,21 +66,7 @@ async function parseFeed(): Promise<FeedItem[]> {
   }
 
   logInfo("Parsing RSS feed...");
-
-  // Configure parser to capture iTunes-specific fields
-  const parser = new Parser({
-    customFields: {
-      item: [
-        ['itunes:image', 'itunesImage'],
-        ['itunes:duration', 'itunesDuration'],
-        ['itunes:explicit', 'itunesExplicit'],
-        ['itunes:episode', 'itunesEpisode'],
-        ['itunes:season', 'itunesSeason'],
-        ['itunes:episodeType', 'itunesEpisodeType'],
-      ]
-    }
-  });
-
+  const parser = new Parser();
   const feed = await parser.parseURL(RSS_FEED_URL);
   logSuccess(`Found ${feed.items.length} episodes in feed`);
 
@@ -134,16 +120,14 @@ function createEpisodeMetadata(item: FeedItem): EpisodeMetadata | null {
   const dirName = createEpisodeDirName(publishDate, title);
   const id = createEpisodeId(item);
 
+  // Return all fields from the RSS item (spread to capture everything)
   return {
+    ...item,
     id,
-    title,
     publishDate: publishDate.toISOString(),
     audioUrl,
-    link: item.link,
-    description: item.contentSnippet || item.content,
-    guid: item.guid,
     dirName,
-  };
+  } as any;
 }
 
 /**

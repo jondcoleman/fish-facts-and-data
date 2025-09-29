@@ -37,21 +37,8 @@ async function bootstrapEpisodes() {
 
     if (force) {
       // In force mode, get ALL episodes from RSS feed
-      const Parser = (await import("rss-parser")).default;
-
-      // Configure parser to capture iTunes-specific fields
-      const parser = new Parser({
-        customFields: {
-          item: [
-            ['itunes:image', 'itunesImage'],
-            ['itunes:duration', 'itunesDuration'],
-            ['itunes:explicit', 'itunesExplicit'],
-            ['itunes:episode', 'itunesEpisode'],
-            ['itunes:season', 'itunesSeason'],
-            ['itunes:episodeType', 'itunesEpisodeType'],
-          ]
-        }
-      });
+      const RSSParser = (await import("rss-parser")).default as any;
+      const parser = new RSSParser();
 
       const RSS_FEED_URL = process.env.PODCAST_RSS_FEED_URL;
 
@@ -62,7 +49,7 @@ async function bootstrapEpisodes() {
       logInfo("Fetching all episodes from RSS feed...");
       const feed = await parser.parseURL(RSS_FEED_URL);
 
-      // Import createEpisodeMetadata logic
+      // Process all feed items
       episodesToProcess = feed.items
         .map((item: any) => {
           const title = item.title;
@@ -82,14 +69,12 @@ async function bootstrapEpisodes() {
           const fullDirName = `${dateStr}_${dirName}`;
           const id = item.guid || item.link || title;
 
+          // Return all RSS item fields (spread to capture everything including itunes data)
           return {
+            ...item,
             id,
-            title,
             publishDate: publishDate.toISOString(),
             audioUrl,
-            link: item.link,
-            description: item.contentSnippet || item.content,
-            guid: item.guid,
             dirName: fullDirName,
           };
         })
