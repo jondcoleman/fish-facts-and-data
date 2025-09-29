@@ -8,7 +8,8 @@
     "preview": "astro preview",
     "astro": "astro",
     "process": "tsx src/scripts/process-episodes.ts",
-    "discover": "tsx src/scripts/discover.ts"
+    "discover": "tsx src/scripts/discover.ts",
+    "bootstrap": "tsx src/scripts/bootstrap-episodes.ts"
   },
   "dependencies": {
     "astro": "^5.14.1",
