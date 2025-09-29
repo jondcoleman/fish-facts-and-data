@@ -238,8 +238,9 @@ async function migratePOCFile(
 }> {
   const stats = { copied: 0, skipped: 0, failed: 0 };
 
-  // Get sanitized filename from episode title
-  const sanitized = sanitizeFilename(episode.title);
+  // Extract title portion from dirName (after the date_)
+  // Format: YYYY-MM-DD_title-here -> title-here
+  const sanitized = episode.dirName.split("_").slice(1).join("_");
 
   // Define destination paths
   const destMp3 = path.join(AUDIO_DIR, `${sanitized}.mp3`);

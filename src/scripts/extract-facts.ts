@@ -47,8 +47,6 @@ function createBatchRequest({
   const instructions = `
 You are given a transcript of an episode of "No Such Thing As A Fish" in CSV form with columns: start_hhmmss,end_hhmmss,text.
 
-The episode and title number will be provided either in the file name or in the metadata provided. Use only those, don't make up a number or title.
-
 A show is "standard" if it has core four facts. "Bonus" episodes will mostly likely be titled that way and not have the core 4 facts. Same for compilations. Use other for anything else if you really can't identify it as one of the other types.
 
 Extract exactly the structure below. Facts must be the core 1–2 sentence wording, verbatim. Presenters can include guests. Start times should be HH:MM:SS with no rounding; if no reliable time, use "unknown".
@@ -90,8 +88,6 @@ Return only JSON that matches the provided JSON schema.`;
           schema: {
             type: "object",
             properties: {
-              episode_number: { type: "string" },
-              episode_title: { type: "string" },
               episode_type: {
                 type: "string",
                 enum: ["standard", "compilation", "bonus", "other"],
@@ -123,13 +119,7 @@ Return only JSON that matches the provided JSON schema.`;
                 },
               },
             },
-            required: [
-              "episode_number",
-              "episode_title",
-              "episode_type",
-              "episode_summary",
-              "facts",
-            ],
+            required: ["episode_type", "episode_summary", "facts"],
             additionalProperties: false,
           },
           strict: true,

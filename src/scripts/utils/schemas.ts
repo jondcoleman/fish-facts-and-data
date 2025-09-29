@@ -30,8 +30,6 @@ export const FactSchema = z.object({
  */
 export const EpisodeSchema = z
   .object({
-    episode_number: z.string().min(1),
-    episode_title: z.string().min(1),
     episode_type: z.enum(["standard", "compilation", "bonus", "other"]),
     episode_summary: z.string().min(1),
     facts: z.array(FactSchema),
