@@ -1,0 +1,1416 @@
+ (upbeat music)
+ - Hi everyone, welcome to this week's episode
+ of "No Sex Things as a Fish,"
+ which was recorded at the Nerdland Festival in Belgium.
+ This is the thing we do every year
+ we have done for the last few years.
+ It's a brilliant festival.
+ It's definitely worth checking out for future years.
+ It's basically, imagine Disneyland had nerds instead of mice.
+ It is, that's what it is really.
+ It's loads of talks, it's loads of exhibitions,
+ it's science, it's nerd culture,
+ it's everything you can want if that is your bag.
+ And we always have an amazing time there
+ with a great audience.
+ And as usual, we were joined by Leven Skela.
+ Anna did not make the journey this time,
+ so it is the boys and Leven who did this show.
+ And Leven, you will know if you are a regular listener
+ to fish, he may well have the record
+ as most appearances of a non-elf on fish.
+ I'd have to look that up,
+ but he's been on quite a few times.
+ He is an expert on all things nerdy, all things science,
+ but at the moment he's really into AI as many nerds are.
+ And why that's important is because he has a book
+ about AI, the title is AI.
+ It can be found on Amazon and I'm sure in other places.
+ But if you search for his name, L-I-E-V-E-N-S-C-H-E-I-R-E,
+ Leven Skela, then you will be able
+ to find his book on AI.
+ And actually, if you go to levenskela.com,
+ then you can see all of his recent AI talks,
+ which are very informative and very funny.
+ If you struggle with Leven Skela's name,
+ then you can also go to www.levingshire.com,
+ as in what hobbits do I presume,
+ which apparently also works.
+ So go to either of those places
+ and you can find out more about Leven and his works on AI.
+ Anyway, enjoy the show.
+ Like I say, it was really fun, like always.
+ And of course, we are doing lots of live shows,
+ which will include Anna towards the end of the year.
+ So go to www.nosesthingsoffice.com/live
+ to find out more about what remaining tickets there are
+ and there are not many, so get in there fast.
+ On with the podcast.
+ (upbeat music)
+ (upbeat music)
+ (upbeat music)
+ - Hello and welcome to another episode
+ of "No Such Thing as a Fish,"
+ a weekly podcast this week coming to you live
+ from Nerdland in Belgium.
+ (audience cheering)
+ My name is Dan Schreiber.
+ I am sitting here with James Harkin,
+ Andrew Hunter Murray and Leven Skyra.
+ And once again, we have gathered around the microphones
+ with our four favorite facts from the last seven days.
+ And in no particular order, here we go.
+ Starting with fact number one, and that is Leven.
+ - My fact is that in 2017,
+ the AI computer AlphaZero was given the rules of chess.
+ And four hours later,
+ it was better than the human world champion in chess.
+ - Wow.
+ - So it was given just the rules, no strategies,
+ no examples of chess games ever played between humans,
+ and it started practicing against itself.
+ - Did it try any really weird things?
+ - It plays chess in a different way than humans.
+ One chess player said, "I've always wondered
+ "if the same game was invented on Mars
+ "and without any interaction between the cultures,
+ "we would have developed our own strategies
+ "because everybody learns from the people before them."
+ And he says, "Now I know."
+ Because it takes more risks, for example.
+ It will offer its queen sometimes,
+ without anyone knowing why, and then it wins in the end.
+ So, really. - Wow, yeah.
+ Can I just say, Leven, I think part of,
+ if one of the main parts of playing chess
+ is being able to pick up the pieces
+ and move them from one place to the other,
+ and until it can do that, I think I can beat it.
+ - Yeah, well, then you need robotics,
+ and some people are afraid of robots,
+ and I always tell them, "If at this phase of technology,
+ "you're afraid of robots,
+ "the only thing you need to carry with you at all times
+ "is a bucket of water, and you're safe."
+ - Well, actually, we were in the green room just now,
+ and there was a robotic dog in there.
+ - Spot robot from Boston Dynamics, yeah.
+ - Yeah, and also, yeah, there was, and also a real dog.
+ And I can tell you that real dogs
+ do not like robotic dogs either.
+ - Really? - Yeah.
+ - I'm just wondering.
+ James, I know you like chess, Leven.
+ I'm sure you like chess. - A bit.
+ - And I know you know a lot about AI.
+ Have you ever played against a man called Martin?
+ (laughing)
+ - Probably. - Okay.
+ - Who is he?
+ - Martin is a middle-aged Bulgarian man
+ who wears a turtleneck jumper,
+ and he is the worst possible opponent on chess.com, right?
+ So he's an AI, he's a computer chess player,
+ but he has been programmed to be deliberately,
+ unbelievably bad. - That's amazing.
+ - He plays 10 million games every week,
+ and still he sucks at chess.
+ - Really?
+ Does he like call the pawns prongs?
+ - Yeah, it does. (laughing)
+ His catchphrase is, "My four-year-old son just beat me.
+ "Ouch." (laughing)
+ And he's really, really bad at chess.
+ He's done experiments with him to test how bad he is,
+ 'cause he's programmed to be a weak chess player.
+ He has been given 31 queens on one board,
+ and the opponent only has pawns,
+ and he has still managed to lose that game.
+ - Really? - Wonderful.
+ - See, that feels more in check with where I thought
+ we were at.
+ The creator of QI, John Lloyd, he always has this line
+ where he says, "Not only have we not invented
+ "artificial intelligence yet, but we haven't even invented
+ "artificial stupidity."
+ Like, that's how far away we are from taking over.
+ - I know we have Martin.
+ - So that's Martin. - Yeah, yeah.
+ - So this robot that we're talking about
+ that beat the record in chess,
+ the way that they trained it was they gave it
+ a bunch of games to play, and it had to learn strategy
+ from that, and whoever was the best at learning a game
+ would advance to the next level
+ and train the next AIs together.
+ So it didn't just beat chess,
+ but it beat multiple Atari games.
+ So as part of this program, the AI set a score on Pong.
+ The highest score a human has ever set is 56,851.
+ It scored 407,864 as part of this programming.
+ - Important thing there is that the only input it gets
+ is what is on the screen.
+ So of course it's easy to program and use the software
+ of all the positions to have an optimal software running it.
+ But this was only fed what a human can see on the screen,
+ and then adapted its own neural network
+ until it could play very well.
+ They thought it all the Atari games.
+ It was at DeepMind, Google DeepMind in London,
+ that's how they did it, all the Atari games,
+ and then go the Chinese-Japanese game, Shoki, and chess.
+ And so in fact now they can just give it rules of any game,
+ and then it will practice against itself
+ and improve until it can beat it.
+ - Is there anything that we can win at?
+ - Well, especially when it comes to boxing.
+ There's one game that we still win,
+ but I don't know how long it will take us.
+ It's the game diplomacy.
+ - Oh, okay.
+ - It's a bit like risk.
+ So you have to move around the world and capture areas.
+ But there's more tactics.
+ You have different kinds of troops.
+ But between every round, there's a round of diplomacy
+ where the players can go one-on-one
+ and talk strategies with each other.
+ Like if you move like this, then we can attack Italy there.
+ Kissinger loved it, apparently.
+ Kennedy played the game.
+ And so now they have taught an AI to play it.
+ It's a bit scary.
+ You can see these large language models
+ talking to other players.
+ Like if you do that move there,
+ then I will come from that way.
+ So it figured all of this out.
+ It can't win from the world top yet,
+ but it ends in top 10 at this moment
+ in the game of diplomacy.
+ - I have a feeling that I would be able to beat any AI
+ because I'm so dumb,
+ it wouldn't be able to guess the strategy that I was playing.
+ It would be like, why has he done that?
+ That's probably where it learned to give the Queen away first.
+ I'd be like, yep, you can have that.
+ Like, I feel like stupidity of human error
+ would be what confuses AI in a game.
+ - Cup two, the year 2030.
+ The war against the machines has gone terribly badly wrong.
+ Step up, Dan.
+ - But one man survived it and repopulated the Earth.
+ - The one AI that's been built this year,
+ this is very exciting, this is a new development this year,
+ researchers have built an AI sarcasm detector.
+ - Oh yeah, sure they have.
+ - It was in Holland, it was in Groningen.
+ - Yeah, it was in Holland, and they trained it
+ with pieces from the Big Bang Theory and Friends.
+ - Oh, really?
+ - Yeah, so it's sitcom sarcasm.
+ - Oh, okay.
+ - It's if they be any more predictable.
+ (laughing)
+ - But I read about it, and there was, you know.
+ - What does it do?
+ - Mostly, it can just detect sarcasm.
+ It can detect if you're being sarcastic, which is useful.
+ But there is a risk that it might start using sarcasm
+ for its own--
+ - Against us?
+ - Evil purposes, yes.
+ (laughing)
+ - Yeah.
+ - That's amazing.
+ Do you think even there's anything that AI won't be able
+ to do in the future?
+ - Well, that's a difficult question.
+ Basically, you could say AI is a new kind of software
+ that is good at pattern recognition
+ and recognizing patterns and generating patterns,
+ like generating images and language.
+ But it does it so amazingly well at this point.
+ The fact that it can win a game of diplomacy,
+ it kind of makes you think with these large language models,
+ it's not unthinkable that I ask an AI
+ to buy a new car for me.
+ It can do the negotiations much better.
+ It's not unthinkable that an AI will sell your house
+ at a better price because it knows what language to use.
+ It could be coming.
+ And especially when they start combining it with robotics,
+ which is what they're doing now,
+ then you give the system sensors and a sense of the world.
+ And that's what probably the next revolution will be.
+ - How interesting.
+ In February, 2023, so just over a year ago,
+ we asked ChatGBT to give us an episode of Fish.
+ - Oh yeah, yeah.
+ - Let's see if they could do our job.
+ And they were pretty terrible, let's be honest.
+ Anyway, I asked them to do it again this week
+ with one more year of ability with the ChatBots.
+ And they did a pretty good job.
+ So it begins with Dan Schreiber says,
+ "Hello and welcome to another episode
+ of No Such Things as a Fish, blah, blah, blah,
+ weekly podcast, all that stuff."
+ And then in no particular order, here we go.
+ James, what have you got for us?
+ And then James Harkins says,
+ "My fact this week is that AlphaGo,
+ the AI developed by DeepMind,
+ learned to play the game Go at a super human level
+ by playing against itself millions of times."
+ - Oh my God, you're doing the AI's fact,
+ is it your main fact here?
+ - No, but Leven's doing it.
+ - So Leven didn't know about it.
+ It predicted what our fact was going to be.
+ - Are you kidding?
+ - Honestly, and literally all I put in was,
+ "Give me a transcript of No Such Things as a Fish."
+ - It's over, let's just go home.
+ We just, okay, but some fields, like creative ones,
+ surely they're immune.
+ - Yeah, surely Andy.
+ - Surely.
+ - Well, hang on, I'm sorry.
+ Are we just gonna let that fly by?
+ Are the exact same fact was predicted by the machine?
+ We're all cool with that?
+ - Dan, I guess, I'm sorry.
+ - No.
+ - That's the end of the world shit.
+ - Dan, it gets worse.
+ - It gets worse.
+ - There's a new podcast, it's out this year.
+ It's hosted by a guy called Jake,
+ and it's created by a man called Jacob Redstrom,
+ but Jake is AI.
+ It's a podcast hosted by an AI.
+ - Okay, right?
+ - Yeah.
+ - Surely Andy, I mean, things like beauty,
+ that will never go to AI, will it?
+ - Beauty?
+ - Yeah, yeah, that'll always be a human trait.
+ - Yeah, of course.
+ - Well.
+ - Oh no.
+ - There has been this year a Miss AI competition.
+ - Oh, cool.
+ - Where a lot of chat bots/attractive creations online
+ went up against each other to see who was the most attractive.
+ And not only did that happen,
+ two of the judging panel were also AI-generated models.
+ - Wow.
+ So the worrying moment will be in that competition
+ when they say, what do you hope for?
+ And they say, I would love world peace
+ if the judge goes sarcasm detective.
+ (all laughing)
+ - That's when we're dead.
+ - Have you ever asked GPT-4 to write a sonnet?
+ - No.
+ - This is, okay, write a sonnet.
+ I'm gonna do it live now.
+ An animal, what's your favorite animal?
+ - A chinchilla.
+ - Yeah, chinchilla.
+ - A chinchilla, okay, write a sonnet about a chinchilla,
+ okay, a chinchilla who really wants to fly like an eagle.
+ Okay, there we go.
+ So a chinchilla is kind of rodent, cute.
+ - I'm not totally clear what it is.
+ I just said it 'cause James said it, but.
+ - Yeah, kind of, I'm gonna press start now.
+ So I asked it to write a sonnet about a chinchilla
+ who really wants to fly like an eagle.
+ This is just, this is coming out as we speak.
+ It's finished now, there we go.
+ In twilight's hush, a chinchilla dreams bright.
+ With fur as soft as whispers of the breeze.
+ He gazes high where eagles take their flight
+ and longs to soar above the tallest trees.
+ His heart so bold defies the earthly bind,
+ for in his tiny chest a spirit burns.
+ With wings of faith, though not by nature's kind,
+ he yearns for heights for skies his soul discerns.
+ He climbs the peaks where shadows kiss the light
+ and calls to eagles with a hopeful plea.
+ Their feathers brush the heavens free in flight
+ while he on ground remains but longs to be.
+ Yet in his quest, a truth begins to rise.
+ The flight resides in dreams, not just in skies.
+ - That's very good, that's right.
+ - I thought it was, it was quite long, was it?
+ But that's sonnets.
+ - That's sonnets, the 14 lines.
+ - Can we ask for a limerick next time?
+ - A limerick, I'll try.
+ - I'm looking for high coups if we do any more.
+ Here's the thing, AI has been very big in the news
+ in the movie industry, I would say.
+ Well, you know, a lot of the strike that happened in America
+ was off the back of how artists were having to be asked
+ to sign their voices over as well as the writing to AI.
+ And a lot of things are coming into place
+ where they're trying to protect the artist's integrity
+ and livelihood and in Tennessee, a law has been passed
+ where they are protecting musicians from AI.
+ So the act is called the ensuring likeness voice
+ and imagery security act or the Elvis act
+ because Elvis is from Tennessee
+ and that's happening in places now where they're gonna say
+ you can't use the likeness of the voice anymore
+ 'cause it is happening.
+ - It happened with the new GPT system that talks
+ and Sam Altman who runs Open AI really wanted
+ the voice of Scarlett Johansson
+ because she was in the movie "Her"
+ and he contacted her a few times and asked for it.
+ She thought about it and she said, no, I cannot do it.
+ I don't want to relate myself with AI
+ because there's so much criticism of it.
+ And then the voice came out
+ and it was almost exactly like Scarlett Johansson.
+ They had probably, they say they had found a voice actor
+ who sounded really like her and adjusted it a bit.
+ But well, she filed a lawsuit and it's all taken down now.
+ But so they're trying to copy the voices of...
+ - Well, James Earl Jones has given over the voice
+ of Darth Vader now to AI based on his voice,
+ which is so interesting 'cause that kind of is like
+ the final step in Darth Vader's journey anyway
+ from going human to Android, isn't it?
+ - Yes.
+ - Like a real world.
+ - He's more machine now, isn't he?
+ - Exactly.
+ We need to move on guys.
+ - Well, what's Belgium best at, Leven?
+ - What is Belgium best at?
+ - It's one of the most proud things that Belgium produces.
+ - What I just learned at the theme park science show
+ that we just had, we are world-class
+ in the wheels of roller coasters.
+ I didn't know.
+ - Okay, that's very cool.
+ - And beer and fries.
+ - No, no, no, let's hear you roll the coaster fact, Andy.
+ - Okay.
+ No, an AI has just beaten humans at beer.
+ - Drinking or making?
+ - Belgian beer.
+ - Not drinking.
+ - Making.
+ Coming up with new recipes of Belgian beer.
+ They had 250 Belgian beers,
+ a panel of the best beer experts on the planet,
+ rated them on all sorts of metrics,
+ rated them on 50 different kinds of flavor
+ and lab analysis,
+ and then an AI algorithm suggested,
+ why didn't you add a bit of this and a bit of that?
+ And it came out tasting better according to the experts.
+ - Wow.
+ - So this is trouble.
+ Today beer, tomorrow.
+ - I didn't speak up because I wasn't beer.
+ - Tomorrow the roller coaster wheels will be a new shape.
+ (audience laughing)
+ (upbeat music)
+ - It is time for fact number two and that is Andy.
+ - My fact is that crocodiles can cough up hairballs.
+ - Ah.
+ - This was sent in by Colin Croakshank, thank you Colin.
+ This is about, basically, I didn't know this.
+ I knew cats produce hairballs and owls and things,
+ but crocodiles, they have the most amazing jaws,
+ they have the most amazing stomachs,
+ they produce amazing acid to digest things.
+ They cannot deal with hair.
+ And normally it's not a problem,
+ they don't eat a lot of hair,
+ but occasionally they'll eat a pig,
+ and they end up with a hairball
+ 'cause they cannot deal with the pig's hair,
+ or the hooves,
+ and they will just see a crocodile
+ on the banks of the river going (hissing)
+ (audience laughing)
+ - Where are these hairy pigs coming from?
+ (audience laughing)
+ They're bristly, I guess.
+ - They're bristly sort of wild ones.
+ - Well, that's amazing.
+ - I know, they're big.
+ They're collectors in Queensland.
+ The biggest one is the size of a football.
+ Well, that's what's amazing about it as well,
+ 'cause it's not like it's just they've had a meal
+ and they want to cough it back up.
+ They can store that hairball for like 40 years,
+ so when they cough it up,
+ it can give you an idea of the diet over decades
+ of while they have eaten,
+ so it'll be like hairy pigs, you know,
+ all the other things.
+ - That's so cool.
+ - Human in some cases, an Australian.
+ - Yeah, it is the best option
+ if you see a crocodile coming towards you
+ with its jaws open, that it coughs up a hairball, isn't it?
+ Like, that's what you're hoping for most of the time.
+ (laughing)
+ - That's amazing, hairballs.
+ - Hairballs, hairballs are good.
+ - They used to be thought that they cured poison hairballs.
+ - Really?
+ - Yeah, these are bazoas, which are, you know,
+ hairballs that would come from animals mostly,
+ but there was a guy called Amboise Pare,
+ friend of the podcast actually,
+ you've mentioned him a few times,
+ and he decided to see if this was true,
+ so he took a cook at the King's Court
+ who had been caught stealing fine cutlery,
+ so he'd been sentenced to death for stealing these spoons,
+ and he said, well, what I'm gonna do
+ is I'm gonna let you off,
+ but I'm gonna give you some poison,
+ and then I'll give you this hairball,
+ which we all know this works, so it'll be fine,
+ and then we'll see what happens,
+ and it turned out it didn't work at all,
+ and he died anyway.
+ - Oh, wow.
+ - But that was the first evidence we had
+ that these hairballs don't cure poisoning.
+ - They do, they sound so weird and cool.
+ - They're incredible.
+ - Like the bazoas, or bazoas, or whatever,
+ don't know how you say them,
+ but they were for the rich, you know,
+ 'cause real bees are really rare,
+ and if you couldn't afford one,
+ you could maybe buy a sliver of one,
+ or you could rent one for the day.
+ If--
+ - I don't know what--
+ - What for?
+ - I think they were also thought to be useful
+ in times of plague, so maybe if you were visiting--
+ - Magic spells as well.
+ - Magic spells. - Yeah, yeah, yeah, yeah.
+ - And if you were very wealthy,
+ you might have one for yourself,
+ but one for your friends,
+ you know, if any friends are visiting,
+ so that's nice.
+ - Have a hairball.
+ - Yeah, yeah, yeah, yeah.
+ No, they're very cool.
+ - Lions can get hairballs?
+ - Oh, really?
+ - Yeah, there was one found in an African lion
+ at the Colorado State Zoo,
+ and it was, how big do you think a lion's hairball would be?
+ - The size of a cricket ball.
+ - Bigger.
+ - Okay, two cricket balls.
+ (laughing)
+ - Let's go in sizes of animals rather than balls.
+ - Melon.
+ - Sizes of animals.
+ (audience laughing)
+ - The famous animal, the melon.
+ - The melon, well, there's a kiwi, so who knows?
+ (laughing)
+ - Lee and Will have come here with the latest research,
+ proving that melons are actually technically.
+ - I think it was like, I didn't know what a chila was,
+ and now I'm not sure I know what a melon is.
+ (laughing)
+ It was about the same size as a chihuahua dog.
+ - Oh, wow.
+ - So I like the size of a small dog, yeah.
+ - Wow.
+ - Do you know why chihuahuas were bred in Central America?
+ - Mexico, right?
+ - Yeah.
+ They were religious animals,
+ and they were sacrificed to the gods.
+ - No.
+ - No.
+ - It's not much of a sacrifice.
+ I've got to say, if I was one of the gods,
+ looking down, and they're bringing me this tiny--
+ - And you were hungry?
+ - I'm hungry.
+ They're bringing me this tiny--
+ - You wouldn't want a dain.
+ - Yeah, I would.
+ - A big dog.
+ - Yeah.
+ - What was the sacrifice like?
+ 'Cause if it's burned at the stake, very easy to light.
+ That's a--
+ - What?
+ - Well, they're gonna just go right up, aren't they?
+ That's a--
+ - Yeah, that's when they say, "Woof."
+ (laughing)
+ (audience applauding)
+ - So they were sacrificed to the gods,
+ and I love it when I walk in the street,
+ and I see people with a shiwawa to go in,
+ "Oh, sweet dog, what are you gonna ask
+ "from the gods if you sacrifice it?"
+ (laughing)
+ - Well, do you know, this is a tangential story,
+ but there was a thing in the UK,
+ I don't know if you guys in Belgium heard about it here,
+ but there was a, what looked like a giant hairball,
+ was found by a lady.
+ But she went, "Oh, it's a hedgehog."
+ And so she brought it home, and she put it into a box,
+ and she gave it a hot water bottle,
+ and some food, then it didn't recover,
+ took it to hospital, and it turned out it was the bubble
+ on the top of a hat that people wear,
+ those beanie bubbles.
+ - And apparently this happens a lot.
+ Zoologists and also vets are saying,
+ "We gotta start understanding what animals look like again,
+ "because we're losing a lot of time
+ "when you're calling us out to help a drowning swan,
+ "and it's a chair leg upside down, we can't do that."
+ Someone brought vets to their house to help them revive
+ what they thought was a hedgehog,
+ but turned out to be a fruit loaf.
+ Now, a fruit loaf doesn't look like a hedgehog,
+ but apparently it had been pecked at by a lot of birds
+ so that it looked very spiky.
+ And even then they were like, "Oh my God, it's dying!"
+ And they pulled out people to come.
+ So this is a big thing at the moment.
+ - That is amazing.
+ - Sounds like cheap tamagochis in a way.
+ - Yeah.
+ - Just take cotton balls home and care for them.
+ - Or like chia pets, remember those?
+ - No.
+ - Chia pet.
+ - The pottery that grows.
+ - No one?
+ (laughing)
+ - No one's seen Wayne's World?
+ - Imagine the size of a room like this
+ and you're the only one who gets that reference.
+ - Yeah, that was a pretty special moment.
+ - That's like me playing a move to AI.
+ And then it's like, "What was that?"
+ - Do you want to know the record
+ for the largest ball of hair ever created?
+ - Okay, so this is not an accidental in your stomach thing.
+ - This is not an animal product.
+ - This is someone with a weird fetish.
+ - I would not, I would not disagree.
+ (laughing)
+ - But for legal reasons.
+ - It's, well, it was created by a hairstylist
+ from the USA called Steve.
+ And he said, "I got more spiritual as I've aged
+ "and I wanted to leave some kind of legacy when I'm gone.
+ "And it hit me, I'm going to build a giant hairball."
+ And he made a hole in the wall in his hair salon
+ like a, and he put a slide down
+ to the basement of the building.
+ - Oh my God.
+ - And every time he had hair,
+ he'd just shove it down the slide.
+ And then he glued it all together.
+ So how big was it?
+ - Oh, so it's the biggest ever, so it must be quite big.
+ - It's quite big.
+ - Shall I go by the size of an animal?
+ - Yes, please.
+ - Okay, large horse.
+ - Oh, not far off, actually.
+ - A bison.
+ - Smaller than a bison.
+ - Wow, what is that difference?
+ I can't even, what's an in-between animal to that?
+ - Look, I don't know what animals are, it turns out.
+ I don't know what animals are or look like.
+ - I actually saw this and I thought it looked
+ like a really, really big hedgehog.
+ - Yeah, it was that, it was a bit, yeah, yeah, yeah.
+ - It was actually a fruitcake.
+ (laughing)
+ - It weighed 102 kilos, 225 pounds.
+ It is disgusting, it is so, is horrible.
+ - How big is that, Andy?
+ I can't actually picture that.
+ Genuinely, can't.
+ - It was, I mean, it was on a wagon when I saw it, so.
+ - Like a large-ish man would be about 100 kilos.
+ - Okay.
+ - Yeah, and it's maybe eight feet high,
+ 'cause it's made of hair, it's not very dense,
+ and it's half-glued.
+ Anyway, you can go and visit it now
+ and add your own hair, if you too have got more spiritual
+ and you want to leave a legacy behind, yeah.
+ - All right, do you know a cat coughing up hairballs
+ is responsible for one of the great voices
+ of nerd culture?
+ (dog barking)
+ - That one.
+ - That's a duck.
+ - Yep.
+ (dog barking)
+ - Duffy duck, yeah, Jen does a better duck duck.
+ - Still a duck, yeah.
+ - But that's a nerdy--
+ - Yeah, yeah, yeah.
+ - Is it like the dinosaurs in Jurassic Park?
+ - No, so it inspired the voice of something
+ that's very big in the dork-nerd world.
+ - So what does it sound like a good cat coughing up hair?
+ - Oh.
+ - Gollum.
+ - Gollum.
+ - Really?
+ - Andy Serkis, when he was going to the audition
+ of Lord of the Rings, was going,
+ "How am I going to portray Gollum in my audition?"
+ And his cat was next, so I'm going,
+ (dog barking)
+ - What a disgusting hairball Gollum would produce.
+ That would be awful.
+ - That's the whole time, that's all it is.
+ It's just got that in its throat.
+ Interestingly though, cats,
+ when we think of them coughing up a hairball,
+ according to vets, they get pissed off
+ when you say coughed up a hairball.
+ They don't cough up a hairball.
+ They vomit up a hairball.
+ - Oh.
+ - Or they're really kind of just trying to thrust it out,
+ but they're not coughing.
+ It's not a--
+ - It doesn't matter, whatever it is,
+ Steve will take it and he will glue it onto his big ball.
+ Do you know we've just missed
+ National Hairball Awareness Day?
+ - Oh, God.
+ - Yeah.
+ - By how long?
+ - Anyone else observe it?
+ - That's terrible.
+ It is bad when you're the only one, yeah.
+ (audience laughing)
+ - How long Andy, since it was--
+ - It was, it's the last Friday in April.
+ So it's an annual thing.
+ - Do you know the date, the specific date?
+ - Well, it's the last Friday in April.
+ So like Easter, it moves.
+ - I don't know.
+ - Which is convenient,
+ 'cause what if it's at the weekend
+ and not enough people come and celebrate?
+ - Yeah, good.
+ And what did you do to celebrate?
+ - Well, you know, just pop 'em visit Steve
+ at this great big ball.
+ (audience laughing)
+ - You know, it was founded by a vet
+ who wanted to raise awareness of--
+ - And what's--
+ - Of hairballs.
+ - Oh, okay.
+ - I mean, I guess they can be bad for a cat's health, maybe?
+ - Yeah, yeah, it makes them sick.
+ If your cat is coughing up a hairball,
+ it is a sign of bigger issues,
+ gutturally, that is going on.
+ - Really, really?
+ 'Cause theoretically it should be able to process
+ the bit of hair that it eats.
+ - Yeah, so that's been building up inside of them in ways.
+ We're gonna have to move on,
+ so I can do this.
+ - Oh, should we do a bit on crocodiles or not?
+ - Oh, yeah, yeah.
+ - Yeah, yeah.
+ - If you give someone a crocodile to hold
+ when they're in the casino, they'll make bigger bets.
+ (audience laughing)
+ - What size of crocodile?
+ I mean, like, as big as a chinchilla
+ or as big as a melon?
+ - I think it's the bigger the crocodile,
+ the bigger the bets.
+ So it's like, apparently, it's a sense of height
+ and the rousal makes you want to gamble more.
+ - Oh.
+ And if you think the crocodile might eat you,
+ that puts you in that state.
+ - You're aroused, but not in the way you're thinking.
+ - No, no, no.
+ I'm not thinking anything at all.
+ I'm just thinking, how do I get rid of this crocodile?
+ If I win another $50,000,
+ maybe I'll get someone to hold the crocodile
+ and take it away from me.
+ Yeah, that's my plan.
+ - Do you know that sometimes in the States,
+ you have frozen lakes with crocodile snouts
+ peeping out of the ice.
+ - Oh, really?
+ - It's when crocodiles hibernate
+ and there's an ice layer on the lake.
+ They just pop out their nose.
+ So it looks like little green pebbles on the ice.
+ And it's actually, when you pull the pebble,
+ it's attached to a crocodile.
+ And they're completely hibernating.
+ So they're in standby mode as they don't react
+ if you wiggle with the snout.
+ - That's a good prank, though.
+ - Yeah.
+ - So let's see who can pick up that pebble first.
+ (all laughing)
+ - Actually, the word crocodile means pebble worm.
+ - Really?
+ - Yeah, the croco is the pebble
+ and dailos is the worm.
+ But in Greek, delios also means circumcised man.
+ - Right.
+ - It could be that crocodile means pebble circumcised man.
+ - Okay.
+ - Not sure.
+ - Either way, how misleading if someone says,
+ can you go and collect the pebble circumcised man
+ over there and you come to a crocodile?
+ That is, yeah, that's bad naming, I would say.
+ (upbeat music)
+ All right, it is time for fact number three.
+ And that is James.
+ - Okay, my fact this week is that in the 14th century,
+ there was a rumour among Europeans
+ that all Englishmen had tails.
+ (audience laughing)
+ - Now is the time to prove otherwise.
+ (all laughing)
+ - And I've basically come here to see if it's still a rumour.
+ - Oh, yeah.
+ - Is this still a thing that people in Belgium think
+ that English people have tails?
+ (audience laughing)
+ Wow.
+ - Oh, there we go.
+ - So this idea basically comes from the idea
+ that St. Augustine had visited the people of Kent
+ and he was mocked by the locals
+ and they pinned tails of fish to his robes
+ to kind of kick him out of the town.
+ And he turned round and he cursed them with their own tails.
+ And this became a thing in Europe.
+ So it's the extent that when there was a siege in 1436
+ in Paris and the English were kicked out,
+ they were taunted by the locals saying,
+ were your tails, were your tails?
+ And the Scottish, before a battle in 1332,
+ said they would make ropes from the tails of the English
+ to tie them with.
+ - Oh.
+ - They thought we were basically more close to Beast Hut,
+ more close to the devil.
+ It was said the English were.
+ And there is a thing in French where the word for tail,
+ which is coupé, and the word for hatch,
+ which is coupé apparently, I don't speak French,
+ but they're so close together,
+ they had a theory that English people sat on eggs
+ to hatch them.
+ - Oh.
+ - So yeah, that was how we got our eggs.
+ We all sat on them.
+ - I think we're getting off quite lightly now
+ with just you've all got bad teeth as a reputation.
+ That is quite, you know, that's better.
+ And by the way, we don't all have bad teeth, just to say,
+ almost all of us have some teeth.
+ So I just want to say.
+ - We have the best teeth ever, ever seen.
+ - So do you, do you have in Belgium then,
+ are there any things that if you were talking
+ about an English person, you would say a certain thing?
+ Like I was just suddenly remembered that Michael Palin,
+ when he went out to the Amazon,
+ they were describing to him how many trees
+ are chopped down per day.
+ They would say a Belgium, and it was the size of Belgium.
+ So that would be a unit of measurement out in the Amazon
+ for saying how much was chopped down.
+ - One Belgium of trees was chopped down again.
+ - Yeah, exactly.
+ - Yeah.
+ - Do you have anything here where it's like,
+ oh, you English people.
+ - We chopped down one England of trees.
+ - No, no, no, no, no.
+ - Just like we smell or we suck or you know,
+ that kind of thing.
+ - No, no, no, not really.
+ - By the way, Dan's just saying this
+ 'cause he's not English.
+ (laughing)
+ - Dan is Australian and he wants to get in on this bullying.
+ - Well, you know, when you're a child,
+ you read comic books and like Asterix going to England
+ and then you have all these, oh really, oh dear.
+ And they're all very, ooh, polite.
+ - What, polite?
+ - Cutting the grass, really upperclass.
+ - You're describing Andy, you're just, yeah.
+ - But you get this upperclass image of what England is.
+ And then you go there as a tourist.
+ (laughing)
+ And you spend a Saturday evening.
+ - Okay.
+ - You spend a Saturday evening in a city centre
+ and you go, oh my God, I had no idea.
+ - Can I just, yeah.
+ - Well, okay, there is research on this,
+ which is people around the world were asked
+ what the worst habit of the British is.
+ So people in Brazil, China, Germany, India,
+ and the USA, they were asked what's the worst habit
+ of the British, 27% of young adults said
+ is that they drink so much.
+ But not all of those people--
+ - We would never say that in Belgium, we wouldn't know.
+ - Not all of those people had visited the UK, actually.
+ So this was a preconception.
+ And of the people who had visited the UK,
+ 34% of them said--
+ (laughing)
+ - Well, it's amazing.
+ I was looking at some other stereotypes of the English
+ from the 14th century, and sure enough,
+ drinking was one of the things that Britain
+ was most famous for all the way back then.
+ There was also the stereotype that British people
+ took excessive faith in the dreams of old women.
+ - That is so me.
+ (laughing)
+ - I was thinking it was maybe Theresa May and Brexit.
+ (laughing)
+ And also the Italians and Germans thought
+ that the British were great lovers of themselves.
+ (laughing)
+ - Very nice.
+ - Leven, do you think British people are emotionless?
+ Like, reserved, calm?
+ - That's what the cliche--
+ - How dare you!
+ (laughing)
+ - Well, apparently British people
+ are not the most emotionless in the world.
+ So again, that people have been asked around the world,
+ how many emotions did you experience today?
+ Or did you feel anything today at all?
+ And Britain was sort of in the middle of nations.
+ It was not especially interesting.
+ So the most emotionless country in the world,
+ according to this survey from Gallup,
+ which is asking people from these countries,
+ is Singapore, right?
+ The number of people who reported on any given day
+ feeling any positive or negative emotions was 36%.
+ - Oh, they were literally neutral.
+ - And the rest of people said,
+ "No, nothing occurred today in my mood."
+ I didn't have any feelings today.
+ It sounds rather Swiss to be so neutral, doesn't it?
+ - Yeah, it sounds very Swiss.
+ - Could that be that their sort of normal level of emotion
+ could be, they could be always really happy,
+ but they're not getting the highs and the lows?
+ - Yeah, possibly.
+ Yeah, yeah, that might be it.
+ I mean, it's a really strange finding.
+ - That's amazing.
+ - Yeah.
+ - Are we close to where the Flemish live around here?
+ - We are in Flanders, yes.
+ - Sounds like you're pretty close, James.
+ - Yes, yes.
+ - Not a preconception.
+ British people know where everything in Europe is.
+ - Here's a question for you with that in mind.
+ 16th century French scholar Jean Baptiste Le Bleur-Champier
+ wrote that whenever you go to see the Flemish,
+ you should always carry a knife.
+ - Yes, it's to join us for dinner.
+ That's why you will always be welcomed.
+ - Any thoughts, Dan or Andy?
+ Like, you might need, now you've been here for a day.
+ - Why you might need a knife?
+ - Yeah, among the Flemish.
+ They only have the plastic disposable ones.
+ And it's very actually hard to cut through your food.
+ - In the 16th century, you're right, yeah.
+ - Well, 'cause we're staying at Leaven's house
+ and his kitchen table.
+ There were like 16 different peanut butters on it.
+ And I feel like you need multiple knives.
+ - You're pretty much there, Dan, actually.
+ They had a reputation of consuming the most butter
+ in Europe. - Oh, oh.
+ - And so you should always carry a knife with you
+ so you can spread the butter wherever you want.
+ - That's not a knife, this is a knife,
+ but it is a butter knife, so.
+ - This guy said that a day not a meal has gone by
+ without me eating butter.
+ I'm surprised they have not yet put it in their drink.
+ - Working on it.
+ But we also use kind of a knife-shaped thing
+ to clear the head of a beer.
+ So we always have, we always want a bit of foam
+ on our beer.
+ And so the foam is a bit over the glass.
+ And then we have this knife-like thing to scrape it off.
+ For us, it's very normal.
+ The first time I went to a bar with an Australian
+ in Belgium, we went to order a beer
+ and then there's no way, preparations are going,
+ and this guy pulls out the knife.
+ He was really startled, I tell you what.
+ - What's it called?
+ - I don't know, does it have a name?
+ - No, nobody knows the name.
+ - We don't bother with names, we want the beer.
+ - Interesting fact, that is actually
+ how the French Revolution started.
+ It was a simple misunderstanding in a bar,
+ which then just escalated.
+ Just please remove the head from this one.
+ (laughing)
+ - Wow.
+ - The kitchen knife was, I think,
+ invented or put in as a law that you had to use it.
+ I think it was by Richelieu.
+ And the number of deaths at the dinner table
+ dropped down to one-tenth.
+ Because people use daggers.
+ You would eat with a dagger and cut your meat with it
+ and everything.
+ And of course, it's a dinner table,
+ it's where you have discussions and there's drinking.
+ And so, quite often there was a knife fight at the dinner table.
+ And so, by simply inventing this kitchen knife,
+ this simple knife that is not sharp,
+ he cut down the lethal fights over dinners.
+ - That's incredible.
+ - He did ten or something, yeah.
+ - 200,000 people forked to death.
+ (laughing)
+ (upbeat music)
+ - Okay, I'm gonna move us on to our final fact of the show.
+ It is time for the final fact.
+ And that is my fact.
+ My fact this week is that toilet paper testers
+ have to train for six months before they are allowed
+ to apply for the actual job.
+ (laughing)
+ - That is, wow.
+ - This is not, 'cause obviously there's multiple
+ different companies that hire people
+ to test out toilet paper for them.
+ This is very specifically an article I read to do
+ with Proctor and Gamble, who do make toilet paper.
+ And basically the idea is that you need,
+ in order to understand what a perfect bit
+ of toilet paper is, as a tester,
+ you need to do, you need all your senses.
+ And the article that says outside of literally tasting it,
+ you need to know how does it feel in the hand?
+ What is it like to wipe, you know,
+ if you've had, you know, a couple of Belgian beers
+ the night before, or what is it like
+ if you've had a lot of peanut butter at Leven's house?
+ Like, it's gonna be different viscosity of poos each day.
+ - Yeah, okay.
+ So basically you spend six months doing that,
+ and then when you get to the moment where they're saying,
+ okay, now let's give you the actual test
+ to see if you can get the job, you can fail it.
+ You can fail it if you haven't prepared for those.
+ - But how do you fail it?
+ Do they, do they, I'm imagining they give you-
+ - I'm imagining that your finger goes through.
+ - No.
+ - Yeah.
+ - But I'm imagining that they give you a single sheet
+ of toilet paper, and you have to,
+ you have to know where it's from.
+ This is a single origin.
+ - How many ply?
+ - Yeah.
+ - It might be a combination of that stuff.
+ They're quite secretive in the toilet testing world.
+ So it's a bit hard to get into the clandestine world
+ of what's going on in those factories.
+ But they do say that in that particular moment
+ after six months, only half of the people
+ will make it through to the job itself.
+ Can you become a toilet paper sommelier?
+ (laughing)
+ Like you're like, sorry, last night I had steak and red wine.
+ Oh, then I recommend this one for you.
+ - Oh, yes.
+ Yeah, there has to be, right?
+ - There must be.
+ - That doesn't have to be done.
+ (laughing)
+ This is just a little bit of whimsy.
+ - It feels very, I think if you spent six months
+ of your life and then you fail the audition,
+ the least you can do is have at least
+ three different toilet papers in your house.
+ - No, I don't like it.
+ You hear the boots approaching your stall
+ and someone's standing outside with the silver dough.
+ No, it's not.
+ - I hear the sound of soft ply going in there.
+ - They do have a lot of robots as well.
+ I mean, I don't know if this is an AI thing too.
+ Or maybe it will be soon, but they have a lot of robots
+ because they need to test the qualities of the paper.
+ They need to test how easily it tears,
+ the angle that it hangs at if it's on a roll, you know?
+ Or, and they have a range of finger probe robots
+ to test how sheets break.
+ - Really?
+ - If they're mishandled or they're sort of tore or, yeah.
+ - Well, then AI robots have eight fingers.
+ So that's easy.
+ (laughing)
+ - Actually, do you know if you are in one
+ of these facilities how you test a toilet paper
+ against a butt, a bottom?
+ - So do they have like an AI bum as well?
+ - No, it's to do with you.
+ You're the person who's doing it.
+ - Me? - Yeah.
+ So you're in there.
+ You're given a fake bit of poo
+ that they have created with NASA.
+ So it's 'cause they, today's poo.
+ Because they don't want to have to.
+ - Why haven't we been back to the moon?
+ Wow.
+ - To boldly go.
+ - So here's the thing.
+ If you're working in a factory that's testing toilets
+ and testing toilet paper,
+ you don't want to have real feces in there
+ because it can cause lots of disease and so on.
+ So they, for years, it used to be dog food
+ that they would use to flush down toilets.
+ Then they created like bean curd and a lot.
+ And then there was like a,
+ like how KFC and Coke have a secret ingredient.
+ There was a secret ingredient poo that they would use
+ that they didn't tell anyone about.
+ And then they created this thing with NASA.
+ And so what you would do is you would put your arm tight
+ so that your elbow would have a little bum bum
+ basically in the corner.
+ And you would put the poo in there
+ and you'd squeeze it out.
+ And then you would wipe your bum elbow.
+ - That is very terrible.
+ - That is the most disgusting thing I've heard all year.
+ I don't know why.
+ - I think it was like he said bum bum.
+ - That was it.
+ It was bum bum.
+ I know it's fake poo.
+ I know it's your elbow.
+ There's no actual poo involved here.
+ I'm still revolting.
+ I feel worse about this than I do about
+ Steve and his big old balls there.
+ - How many listeners are going to try this at home?
+ - Oh no.
+ - Send your photos to Andrew Hunter Murray.
+ - Maybe not.
+ - Podcast@QI.com
+ - No.
+ - Not to give you any ideas,
+ but I have 12 kinds of peanut butter at my house.
+ (all laughing)
+ - You know, like it's very trendy to get bamboo toilet paper
+ these days, very environmentally friendly.
+ Well, they did a lot of tests recently
+ and they found that some products
+ contain as little as 3% bamboo.
+ So you think on the packet it says
+ this is bamboo toilet paper,
+ but actually it's mostly just old paper
+ and they just put a tiny bit of bamboo in.
+ This has been a big deal in the toilet paper world recently.
+ - Yeah.
+ - I worked out that if you were a panda
+ and you wanted to live entirely on these toilet rolls,
+ you would have to eat 7,200 toilet rolls every day
+ to get enough bamboo
+ and that's how many I would use in 50 years.
+ That's almost a Belgium.
+ (all laughing)
+ During lockdown,
+ somebody figured out how to make moonshine alcohol
+ from toilet paper.
+ - No. - Why?
+ - Yeah, because there's cellulose in it
+ and of course we cannot digest cellulose
+ and I think the yeasts that make the alcohol need sugars.
+ - That does feel like you're solving one problem
+ but creating another one.
+ - Probably, yeah.
+ But you can use certain enzymes
+ that can dissolve the cellulose into sugars
+ and so he actually did it.
+ It's on YouTube.
+ He documented how he did it.
+ So this might be the reason
+ why everybody was hurting toilet paper.
+ (all laughing)
+ - Don't take my booze away.
+ - That's so funny.
+ - We actually looked into the kind of lockdown hoarding
+ and we thought that actually a lot of it
+ did kind of make logical sense that you would hoard it
+ and that's because everyone was suddenly at home
+ and you weren't in the office anymore
+ and the factories that make office toilet paper
+ are different from the ones that make home toilet paper
+ because the office ones are often
+ those really big sort of rolls.
+ So there was actually gonna be a massive shortage
+ of home toilet paper because no one was in the office anymore
+ and everyone was going to the toilet at home.
+ Obviously there were crazy people
+ just buying loads of them as well.
+ - Yeah, yeah, that makes sense.
+ Do you know if you go into a toilet paper factory,
+ where do we get individual rolls of toilet paper from?
+ - From the packet?
+ - No, before then.
+ - Is it a long one?
+ - It's a long one that is cut.
+ - No.
+ - From the mother reel.
+ - Oh.
+ - It's called the mother reel.
+ It is a ginormous toilet roll.
+ - That's amazing.
+ - Wait, is it long?
+ - Yeah.
+ - Or is it?
+ 'Cause you're gesturing, you're saying it's tall.
+ - I know, I sort of thought,
+ 'cause this is audio for the listener at home,
+ it didn't matter what I did with my hand.
+ - Yeah, yeah, yeah, yeah, yeah.
+ (audience laughing)
+ - I'll tell you what, you've had a bad day
+ if the sommelier comes with that, haven't you?
+ (audience laughing)
+ - So each mother reel, as they call it,
+ contains, when chopped up into individual rolls,
+ 25,000 individual rolls.
+ - What?
+ - Right, yeah.
+ So there's a guy called Greg Wallace.
+ We've mentioned him on the show before.
+ He makes a show where he goes around
+ looking at how they make things in the UK.
+ It's a documentary series.
+ Each show, different factory to show you how it's done.
+ So he was in a big warehouse
+ where they had 2,000 mother rolls in there.
+ And they worked out that if you were an average family,
+ you would have four toilet rolls a week
+ in an average family.
+ That's how much is used, right?
+ So the amount of toilet rolls in that room
+ would mean that your family could be wiping your bum
+ for 96,000 years.
+ Just from that collection of 2,000 mother rolls
+ that they had sitting in the warehouse.
+ - Do you know these toilets that squirt water on your bum?
+ - B-day. - A B-day?
+ - No, the toilets as in inside the toilet.
+ - The Japanese.
+ - Well, I was going to ask you.
+ Do you know where they were invented?
+ - Japan.
+ - No, they weren't.
+ - No, no, no.
+ - They were invented in America.
+ - Really? - Yeah, yeah.
+ They were invented in America
+ and they were supposed to be for like care homes and stuff.
+ - Okay.
+ - And then they sent a few over to Japan
+ and this company who got them thought,
+ everyone's going to want these.
+ Let's start making them for everyone.
+ And so they did.
+ But the problem was that the ones in America
+ were kind of prototypy
+ and they were very good at measuring the temperature
+ and they were very good at measuring the angle of squirt.
+ And so they quite often fired boiling water
+ straight into people's anuses.
+ - And there was a market for that too.
+ - Yeah.
+ - So we were talking about...
+ - Are you too busy to drink tea the normal way?
+ Well...
+ - That's a couple of English stereotypes together, isn't it?
+ But then, yeah, so then this company called Toto
+ decided to start making these.
+ But we were talking about testing toilet paper and stuff.
+ They needed to get the angle right.
+ And so they asked all of their staff members
+ to test these toilets.
+ - Okay.
+ - And to be honest, it took quite a lot
+ to get people to cooperate, but eventually they did.
+ - Okay.
+ - And all the members of staff would take it in turns
+ to sit on these toilets
+ and have water fired up at different angles.
+ And they found that the golden angle is 43 degrees.
+ - Right.
+ - So it just cleans you the right amount.
+ And for women at the front, it's 53 degrees.
+ So that's a bit of information you never wanted to know.
+ - Yeah, wow.
+ I've read about the founder of Toto.
+ I didn't read any of that,
+ but he was an amazing guy called Kazuchika Okura.
+ And he sort of had been to the West, I guess.
+ And he also helped introduce the car to Japan.
+ - This guy was a big deal.
+ - Right.
+ - And he also created his own new musical instrument,
+ the Okuro Ulo, a kind of vertical flute.
+ - What?
+ - A vertical flute.
+ - A vertical flute.
+ - A recorder.
+ - He invented the recorder.
+ And he was president of, linking it back to AI,
+ the Japanese Go Association.
+ - Wow.
+ - Yes.
+ - That's very cool.
+ - This guy was a big deal.
+ - Well, while we're on inventions,
+ there's a British word, I don't know if you know it here,
+ but we often call the toilet the throne.
+ So the throne, the toilet,
+ it's attributed as an invention
+ to a guy called Sir John Harrington.
+ And he built it.
+ He was the godson of Queen Elizabeth III.
+ And supposedly--
+ - Okay, we've only had two Queen Elizabeths,
+ so I'm gonna stop you right there.
+ - What did I say?
+ - Queen Elizabeth III.
+ - Yeah, so John Harrington invented it in the year 3000.
+ (laughing)
+ No, so sorry.
+ Queen Elizabeth I, yeah.
+ So he invented it for her.
+ And it basically, what I'm talking about
+ is a toilet whereby it had valves,
+ it had a flush, and she tried it,
+ and she was like, this is fantastic, I'll take one.
+ So it was a big deal.
+ So he invented the throne,
+ and a descendant of his is Kit Harrington,
+ John Snow, from A Game of Thrones.
+ - Wow.
+ - So this is a series about everyone wanting
+ to get on the loo.
+ (laughing)
+ - Yeah, one more thing on poo.
+ There's a famous biologist in the Netherlands,
+ who's called Midas Dekkers,
+ who writes great books about science.
+ And one of his latest books is The Story of Shit.
+ So he's a biologist, and he just explains
+ the entire god system, how it's produced,
+ what is happening there biologically.
+ And they asked him in a talk show,
+ they asked him like, why did you want to write
+ a book about poo?
+ And he said, well, I was walking around
+ in these bookstores.
+ You see all these cookbooks.
+ Nobody ever tells you how it ends.
+ (laughing)
+ (upbeat music)
+ - Luke, we need to wrap this up.
+ Thank you so much everyone for coming
+ to this live recording, we really appreciate it.
+ (audience applauding)
+ That is it, that is all of our facts.
+ If you'd like to get in contact with any of us
+ about the things that we've said
+ over the course of this podcast,
+ we can all be found on our various social media accounts.
+ I'm on @Sriberland, James.
+ - My Twitter is @JamesHarkin.
+ - Andy. - @AndrewHunterM.
+ - And Leven. - @LevenSkader.
+ - Good luck with that.
+ (laughing)
+ - It's the one country you can say that to, it's fine.
+ If you want to get into us as a group,
+ you can go to @NoSuchThing
+ or @NoSuchThingAsAfish on Instagram
+ or you can go to our website,
+ nosuchthingasafish.com.
+ All of our previous episodes are up there.
+ You can also get tickets to our live tour,
+ we're about to go on tour around the world.
+ So please check that out.
+ For everyone here, thank you so much for coming.
+ We're gonna be back again next week
+ and we hope we're gonna be back here again
+ next year for another awesome Nerdland adventure.
+ We'll see you again next week, everyone else.
+ Goodbye!
+ (audience cheering)
+ (upbeat music)
+ (upbeat music)
+ (upbeat music)
+ (upbeat music)
+ (upbeat music)

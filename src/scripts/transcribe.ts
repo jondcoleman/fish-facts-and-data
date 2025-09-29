@@ -12,7 +12,7 @@ import {
   logWarning,
 } from "./utils/index.js";
 
-const TRANSCRIPTS_DIR = "transcripts";
+const EPISODES_DIR = "src/data/episodes";
 
 /**
  * Options for Whisper transcription
@@ -50,25 +50,22 @@ export async function ensureWhisperModel(
  */
 export async function transcribeAudio(
   wavPath: string,
-  episodeTitle: string,
+  episodeDirName: string,
   options: TranscribeOptions = {}
 ): Promise<TranscriptionResult | null> {
   const { modelName = "base", language = "auto" } = options;
 
-  // Create sanitized filename
-  const sanitizedTitle = sanitizeFilename(episodeTitle);
-  const outputDir = path.join(TRANSCRIPTS_DIR, sanitizedTitle);
-
+  // Transcripts go in episode directory
+  const outputDir = path.join(EPISODES_DIR, episodeDirName);
   await ensureDir(outputDir);
 
-  const basePath = path.join(outputDir, sanitizedTitle);
-  const txtPath = `${basePath}.txt`;
-  const vttPath = `${basePath}.vtt`;
-  const srtPath = `${basePath}.srt`;
+  const txtPath = path.join(outputDir, "transcript.txt");
+  const vttPath = path.join(outputDir, "transcript.vtt");
+  const srtPath = path.join(outputDir, "transcript.srt");
 
   // Check if transcript already exists
   if (await fileExists(vttPath)) {
-    logInfo(`Transcript already exists: ${episodeTitle}`);
+    logInfo(`Transcript already exists: ${episodeDirName}`);
     return {
       txtPath,
       vttPath,
@@ -77,7 +74,7 @@ export async function transcribeAudio(
     };
   }
 
-  logInfo(`Transcribing: ${episodeTitle}`);
+  logInfo(`Transcribing: ${episodeDirName}`);
   logInfo(`Audio path: ${wavPath}`);
 
   try {
@@ -95,13 +92,13 @@ export async function transcribeAudio(
         gen_file_vtt: true,
         word_timestamps: false,
         output_dir: outputDir,
-        output_file: sanitizedTitle,
+        output_file: "transcript",
       },
     };
 
     await whisper(wavPath, whisperOptions);
 
-    logSuccess(`Transcription complete for: ${episodeTitle}`);
+    logSuccess(`Transcription complete for: ${episodeDirName}`);
 
     return {
       txtPath,
@@ -109,27 +106,24 @@ export async function transcribeAudio(
       srtPath,
     };
   } catch (error) {
-    logError(`Error in transcription for ${episodeTitle}`, error);
+    logError(`Error in transcription for ${episodeDirName}`, error);
     return null;
   }
 }
 
 /**
- * Generate CSV from VTT file (for fact extraction)
- * This will be used in the fact extraction phase
+ * Get transcript paths for an episode
  */
-export function getTranscriptPaths(episodeTitle: string): {
+export function getTranscriptPaths(episodeDirName: string): {
   txtPath: string;
   vttPath: string;
   srtPath: string;
 } {
-  const sanitizedTitle = sanitizeFilename(episodeTitle);
-  const outputDir = path.join(TRANSCRIPTS_DIR, sanitizedTitle);
-  const basePath = path.join(outputDir, sanitizedTitle);
+  const episodeDir = path.join(EPISODES_DIR, episodeDirName);
 
   return {
-    txtPath: `${basePath}.txt`,
-    vttPath: `${basePath}.vtt`,
-    srtPath: `${basePath}.srt`,
+    txtPath: path.join(episodeDir, "transcript.txt"),
+    vttPath: path.join(episodeDir, "transcript.vtt"),
+    srtPath: path.join(episodeDir, "transcript.srt"),
   };
 }

@@ -243,12 +243,15 @@ async function migratePOCFile(
   const sanitized = episode.dirName.split("_").slice(1).join("_");
 
   // Define destination paths
+  // Audio files go in root audio/ directory (not in repo)
   const destMp3 = path.join(AUDIO_DIR, `${sanitized}.mp3`);
   const destWav = path.join(AUDIO_DIR, `${sanitized}.wav`);
-  const transcriptDir = path.join(TRANSCRIPTS_DIR, sanitized);
-  const destVtt = path.join(transcriptDir, `${sanitized}.vtt`);
-  const destTxt = path.join(transcriptDir, `${sanitized}.txt`);
-  const destSrt = path.join(transcriptDir, `${sanitized}.srt`);
+
+  // Transcripts go in episode directory (in repo)
+  const episodeDir = path.join(EPISODES_DIR, episode.dirName);
+  const destVtt = path.join(episodeDir, `transcript.vtt`);
+  const destTxt = path.join(episodeDir, `transcript.txt`);
+  const destSrt = path.join(episodeDir, `transcript.srt`);
 
   // Copy files
   const filesToCopy = [

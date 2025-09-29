@@ -71,7 +71,7 @@ async function processEpisode(
     logProgress(2, 4, "Transcribing audio...");
     const transcriptionResult = await transcribeAudio(
       audioResult.wavPath,
-      episode.title,
+      episode.dirName,
       { modelName: modelName as any }
     );
 
