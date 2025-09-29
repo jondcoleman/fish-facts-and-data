@@ -6,7 +6,9 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "process": "tsx src/scripts/process-episodes.ts",
+    "discover": "tsx src/scripts/discover.ts"
   },
   "dependencies": {
     "astro": "^5.14.1",
