@@ -11,6 +11,7 @@
     "discover": "tsx src/scripts/discover.ts",
     "bootstrap": "tsx src/scripts/bootstrap-episodes.ts",
     "migrate-audio-urls": "tsx src/scripts/migrate-audio-urls.ts",
+    "migrate-poc": "tsx src/scripts/migrate-poc-files.ts",
     "debug-rss": "tsx src/scripts/debug-rss.ts"
   },
   "dependencies": {
