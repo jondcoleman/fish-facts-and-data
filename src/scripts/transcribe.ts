@@ -7,7 +7,6 @@ import { whisper } from "whisper-node";
 import {
   ensureDir,
   fileExists,
-  sanitizeFilename,
   logInfo,
   logSuccess,
   logError,

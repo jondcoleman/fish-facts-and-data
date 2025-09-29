@@ -10,7 +10,6 @@ import {
   readJson,
   ensureDir,
   fileExists,
-  sanitizeFilename,
   logInfo,
   logSuccess,
   logError,
@@ -22,7 +21,6 @@ import {
 const POC_DIR = "../fish-transcripts-node/downloads";
 const EPISODES_DIR = "src/data/episodes";
 const AUDIO_DIR = "audio";
-const TRANSCRIPTS_DIR = "transcripts";
 
 interface EpisodeInfo {
   dirName: string;

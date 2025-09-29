@@ -15,8 +15,9 @@
     "debug-rss": "tsx src/scripts/debug-rss.ts"
   },
   "dependencies": {
-    "astro": "^5.14.1",
+    "@astrojs/check": "^0.9.4",
     "@plussub/srt-vtt-parser": "^2.0.5",
+    "astro": "^5.14.1",
     "csv-stringify": "^6.6.0",
     "fluent-ffmpeg": "^2.1.3",
     "fs-extra": "^11.3.2",
@@ -26,9 +27,9 @@
     "zod": "^3.25.76"
   },
   "devDependencies": {
-    "dotenv": "^17.2.2",
     "@types/fluent-ffmpeg": "^2.1.27",
     "@types/fs-extra": "^11.0.4",
+    "dotenv": "^17.2.2",
     "tsx": "^4.19.2",
     "typescript": "^5.9.2"
   }

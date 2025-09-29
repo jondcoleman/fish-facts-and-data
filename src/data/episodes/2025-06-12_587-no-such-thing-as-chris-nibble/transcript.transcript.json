@@ -1,0 +1,7617 @@
+[
+  {
+    "start": 0,
+    "end": 5.26,
+    "text": " Hello everyone and welcome to this week's episode of No Such Thing as a Fish."
+  },
+  {
+    "start": 5.26,
+    "end": 7.56,
+    "text": " Now why am I talking to you before the show starts?"
+  },
+  {
+    "start": 7.56,
+    "end": 13.08,
+    "text": " Well, of course it is because one of us is away this week and it is Dan Schreiber."
+  },
+  {
+    "start": 13.08,
+    "end": 16.88,
+    "text": " So in his place we have gotten the most Dan Schreiber person we can."
+  },
+  {
+    "start": 16.88,
+    "end": 21.28,
+    "text": " In fact, the most Dan Schreiber person in the entirety of the world."
+  },
+  {
+    "start": 21.28,
+    "end": 24.2,
+    "text": " Arguably more Dan Schreiber than Dan Schreiber himself."
+  },
+  {
+    "start": 24.2,
+    "end": 29.68,
+    "text": " It is the wonderful, incredible, you'll know him from Flight of the Concords, Tumanji,"
+  },
+  {
+    "start": 29.68,
+    "end": 33.6,
+    "text": " our flag means death, of course it is Rhys Darby."
+  },
+  {
+    "start": 33.6,
+    "end": 38.24,
+    "text": " Now we always love to see Rhys when he's in town and we are so lucky that he is currently"
+  },
+  {
+    "start": 38.24,
+    "end": 43.64,
+    "text": " on tour in the UK and that means that as well as enjoying him on our podcast, you can go"
+  },
+  {
+    "start": 43.64,
+    "end": 45.96,
+    "text": " and see his show."
+  },
+  {
+    "start": 45.96,
+    "end": 50.44,
+    "text": " So if you are listening to this on the day it goes out, then quick go to the internet"
+  },
+  {
+    "start": 50.44,
+    "end": 55.28,
+    "text": " and get tickets to his show at the Shepherd's Bush Empire in London."
+  },
+  {
+    "start": 55.28,
+    "end": 60.04,
+    "text": " And if you live in Brighton Sheffield, St Albans Leeds, Swindon, Exeter, Bristol, Newcastle,"
+  },
+  {
+    "start": 60.04,
+    "end": 64.72,
+    "text": " Glasgow, Manchester or Edinburgh, then you are also in luck because he is yet to do your"
+  },
+  {
+    "start": 64.72,
+    "end": 65.72,
+    "text": " cities."
+  },
+  {
+    "start": 65.72,
+    "end": 71.88,
+    "text": " If you want to get tickets for that, you must go to RhysDarby.com, that's R-H-Y-S-D-A-R-B-Y"
+  },
+  {
+    "start": 71.88,
+    "end": 76.12,
+    "text": " .com, all of the information, all of the tickets are available on there."
+  },
+  {
+    "start": 76.12,
+    "end": 81.64,
+    "text": " But for now, please enjoy the fabulous Tour de Force, that is Rhys Darby."
+  },
+  {
+    "start": 81.64,
+    "end": 83.24,
+    "text": " Okay, on with the podcast."
+  },
+  {
+    "start": 83.24,
+    "end": 102.48,
+    "text": " Hello and welcome to another episode of No Such Thing as a Fish, a weekly podcast coming"
+  },
+  {
+    "start": 102.48,
+    "end": 106.48,
+    "text": " to you from the QI offices in Hoburn."
+  },
+  {
+    "start": 106.48,
+    "end": 111.98,
+    "text": " My name is Anna Tyshinski and I'm sitting here with Andrew Hunter Murray, James Harkin"
+  },
+  {
+    "start": 111.98,
+    "end": 118.4,
+    "text": " and the inimitable Rhys Darby, who has joined us in place of Dan Shriver today."
+  },
+  {
+    "start": 118.4,
+    "end": 121.92,
+    "text": " So without further ado, we've gathered around the microphone with our four favorite facts"
+  },
+  {
+    "start": 121.92,
+    "end": 124.9,
+    "text": " from the last seven days in no particular order."
+  },
+  {
+    "start": 124.9,
+    "end": 125.9,
+    "text": " Here we go."
+  },
+  {
+    "start": 125.9,
+    "end": 127.4,
+    "text": " Rhys, what's your fact?"
+  },
+  {
+    "start": 127.4,
+    "end": 129.56,
+    "text": " Well, and thank you for having me."
+  },
+  {
+    "start": 129.56,
+    "end": 131.56,
+    "text": " Hi everyone."
+  },
+  {
+    "start": 131.56,
+    "end": 133.44,
+    "text": " How are you?"
+  },
+  {
+    "start": 133.44,
+    "end": 135.16,
+    "text": " Good."
+  },
+  {
+    "start": 135.16,
+    "end": 141.2,
+    "text": " The most highly decorated Soviet Air Unit of World War II didn't take part in the victory"
+  },
+  {
+    "start": 141.2,
+    "end": 144.62,
+    "text": " parade because their planes were too slow."
+  },
+  {
+    "start": 144.62,
+    "end": 145.62,
+    "text": " Wow."
+  },
+  {
+    "start": 145.62,
+    "end": 149.46,
+    "text": " Can you tell us more, why would a slow plane be useful in a war anyway?"
+  },
+  {
+    "start": 149.46,
+    "end": 151.66,
+    "text": " Well, funny you should ask."
+  },
+  {
+    "start": 151.66,
+    "end": 153.1,
+    "text": " Do I now dive into the..."
+  },
+  {
+    "start": 153.1,
+    "end": 154.1,
+    "text": " Dive in."
+  },
+  {
+    "start": 154.1,
+    "end": 155.1,
+    "text": " [Music]"
+  },
+  {
+    "start": 155.1,
+    "end": 156.1,
+    "text": " Mosquito."
+  },
+  {
+    "start": 156.1,
+    "end": 157.1,
+    "text": " Yes."
+  },
+  {
+    "start": 157.1,
+    "end": 158.1,
+    "text": " But what type?"
+  },
+  {
+    "start": 158.1,
+    "end": 159.1,
+    "text": " The plane."
+  },
+  {
+    "start": 159.1,
+    "end": 160.1,
+    "text": " The plane, the Mosquito."
+  },
+  {
+    "start": 160.1,
+    "end": 161.1,
+    "text": " No, no, no."
+  },
+  {
+    "start": 161.1,
+    "end": 175.64,
+    "text": " It was, in fact, a South Pacific Mosquito and that was its last flight before I killed"
+  },
+  {
+    "start": 175.64,
+    "end": 176.64,
+    "text": " it."
+  },
+  {
+    "start": 176.64,
+    "end": 178.14,
+    "text": " Right, but back to the..."
+  },
+  {
+    "start": 178.14,
+    "end": 179.14,
+    "text": " Cool."
+  },
+  {
+    "start": 179.14,
+    "end": 184.16,
+    "text": " So basically, this is the story of a unit that was in Russia during World War II, the"
+  },
+  {
+    "start": 184.16,
+    "end": 192.08,
+    "text": " Night Bomber Regiment, entirely made up of females, with ground crew and the air crew,"
+  },
+  {
+    "start": 192.08,
+    "end": 199.5,
+    "text": " and they flew very old biplanes called the Polikropov or the Po-2, very old planes made"
+  },
+  {
+    "start": 199.5,
+    "end": 200.5,
+    "text": " of wood."
+  },
+  {
+    "start": 200.5,
+    "end": 201.5,
+    "text": " Wow."
+  },
+  {
+    "start": 201.5,
+    "end": 202.5,
+    "text": " And they were super slow."
+  },
+  {
+    "start": 202.5,
+    "end": 204.7,
+    "text": " They were slow, I think, because they were old planes."
+  },
+  {
+    "start": 204.7,
+    "end": 207.1,
+    "text": " They were old crop dusters, weren't they?"
+  },
+  {
+    "start": 207.1,
+    "end": 208.18,
+    "text": " Yes, that's right."
+  },
+  {
+    "start": 208.18,
+    "end": 211.66,
+    "text": " They were amazingly slow, like top speed 90 miles an hour."
+  },
+  {
+    "start": 211.66,
+    "end": 212.66,
+    "text": " Yeah."
+  },
+  {
+    "start": 212.66,
+    "end": 213.66,
+    "text": " That is slow."
+  },
+  {
+    "start": 213.66,
+    "end": 216.36,
+    "text": " I drove faster than that, and my way's a nursery today."
+  },
+  {
+    "start": 216.36,
+    "end": 217.36,
+    "text": " Okay."
+  },
+  {
+    "start": 217.36,
+    "end": 220.16,
+    "text": " It is a 20-mile-an-hour zone."
+  },
+  {
+    "start": 220.16,
+    "end": 225.08,
+    "text": " Yeah, but the idea was, because they were so old and made of wood, they were really"
+  },
+  {
+    "start": 225.08,
+    "end": 231.08,
+    "text": " quiet, and so they could kind of get under the radar a little bit and do lots of bombing"
+  },
+  {
+    "start": 231.08,
+    "end": 233.08,
+    "text": " raids one after the other."
+  },
+  {
+    "start": 233.08,
+    "end": 234.92,
+    "text": " And they were known as the witches, right?"
+  },
+  {
+    "start": 234.92,
+    "end": 235.92,
+    "text": " Yes."
+  },
+  {
+    "start": 235.92,
+    "end": 236.92,
+    "text": " And do we know why they were called witches?"
+  },
+  {
+    "start": 236.92,
+    "end": 237.92,
+    "text": " Night witches."
+  },
+  {
+    "start": 237.92,
+    "end": 238.92,
+    "text": " They were witches."
+  },
+  {
+    "start": 238.92,
+    "end": 239.92,
+    "text": " They were witches."
+  },
+  {
+    "start": 239.92,
+    "end": 241.92,
+    "text": " It was no two ways about it."
+  },
+  {
+    "start": 241.92,
+    "end": 244.22,
+    "text": " They've got some great pictures here of them."
+  },
+  {
+    "start": 244.22,
+    "end": 245.22,
+    "text": " Yeah."
+  },
+  {
+    "start": 245.22,
+    "end": 246.22,
+    "text": " Poetry hearts."
+  },
+  {
+    "start": 246.22,
+    "end": 247.22,
+    "text": " Yeah."
+  },
+  {
+    "start": 247.22,
+    "end": 251.26,
+    "text": " They had spells and all sorts of stuff, so it was quite amazing."
+  },
+  {
+    "start": 251.26,
+    "end": 255.46,
+    "text": " But yeah, but because they turned their engines off from their planes, and they did this so"
+  },
+  {
+    "start": 255.46,
+    "end": 260.42,
+    "text": " that they would come in silently, and so just to give you an impression of that one coming"
+  },
+  {
+    "start": 260.42,
+    "end": 261.42,
+    "text": " in."
+  },
+  {
+    "start": 261.42,
+    "end": 286.28,
+    "text": " And then they would literally just drop bombs, and I don't know when they started their planes"
+  },
+  {
+    "start": 286.28,
+    "end": 287.28,
+    "text": " up again."
+  },
+  {
+    "start": 287.28,
+    "end": 297.38,
+    "text": " Like they just passed the bombing zone, you know, and then sort of back they fly."
+  },
+  {
+    "start": 297.38,
+    "end": 302.9,
+    "text": " So yeah, so just to reiterate, I think the Germans felt that they sounded like witches"
+  },
+  {
+    "start": 302.9,
+    "end": 306.94,
+    "text": " on broomsticks coming in and just, you know, dropping bombs."
+  },
+  {
+    "start": 306.94,
+    "end": 307.94,
+    "text": " Swishing away."
+  },
+  {
+    "start": 307.94,
+    "end": 314.64,
+    "text": " And let's not forget Marina Ruskova, Ruskova, the lead person in this group."
+  },
+  {
+    "start": 314.64,
+    "end": 319.16,
+    "text": " She had to really campaign to get it all happening."
+  },
+  {
+    "start": 319.16,
+    "end": 324.88,
+    "text": " Obviously, it was mainly men involved in the battles back then."
+  },
+  {
+    "start": 324.88,
+    "end": 328.14,
+    "text": " And you know, this is when Operation Barbarossa was on."
+  },
+  {
+    "start": 328.14,
+    "end": 332.44,
+    "text": " So this was the entire German army literally trying to take over Russia."
+  },
+  {
+    "start": 332.44,
+    "end": 334.76,
+    "text": " A very bold move, as we all know."
+  },
+  {
+    "start": 334.76,
+    "end": 335.76,
+    "text": " How to play out."
+  },
+  {
+    "start": 335.76,
+    "end": 339.42,
+    "text": " It didn't quite work, but it did look good at the beginning."
+  },
+  {
+    "start": 339.42,
+    "end": 343.64,
+    "text": " So there was like over three million German troops."
+  },
+  {
+    "start": 343.64,
+    "end": 348.36,
+    "text": " They had, I think, three brigades, they had so many armoured divisions."
+  },
+  {
+    "start": 348.36,
+    "end": 350.8,
+    "text": " And there was really no opposition for a while."
+  },
+  {
+    "start": 350.8,
+    "end": 352.96,
+    "text": " They really were making a lot of ground."
+  },
+  {
+    "start": 352.96,
+    "end": 358.08,
+    "text": " And then it was a massive call up for the Russians to defend their land."
+  },
+  {
+    "start": 358.08,
+    "end": 362.32,
+    "text": " And the women as well were like, well, we want to help, you know, we're strong."
+  },
+  {
+    "start": 362.32,
+    "end": 363.32,
+    "text": " Let's grab guns."
+  },
+  {
+    "start": 363.32,
+    "end": 364.32,
+    "text": " Let's go."
+  },
+  {
+    "start": 364.32,
+    "end": 367.2,
+    "text": " It was the whole family, all family in, you know."
+  },
+  {
+    "start": 367.2,
+    "end": 374.68,
+    "text": " And then so this particular woman, Marina Roscova, she ended up really sort of..."
+  },
+  {
+    "start": 374.68,
+    "end": 375.68,
+    "text": " She recruited, didn't she?"
+  },
+  {
+    "start": 375.68,
+    "end": 376.68,
+    "text": " She recruited a lot."
+  },
+  {
+    "start": 376.68,
+    "end": 381.16,
+    "text": " I think over a thousand women and did the training and, you know, sort of formulate."
+  },
+  {
+    "start": 381.16,
+    "end": 385,
+    "text": " But she also persuaded Stalin, and an element that's often smooth though, for I feel, in"
+  },
+  {
+    "start": 385,
+    "end": 387.96,
+    "text": " the great stories of how heroic they were, which they were, is the fact that she was"
+  },
+  {
+    "start": 387.96,
+    "end": 390.72,
+    "text": " quite good mates with Stalin, which is how she managed to make happen."
+  },
+  {
+    "start": 390.72,
+    "end": 391.72,
+    "text": " But it's OK."
+  },
+  {
+    "start": 391.72,
+    "end": 392.72,
+    "text": " We didn't know a lot of what we knew now."
+  },
+  {
+    "start": 392.72,
+    "end": 393.72,
+    "text": " It's the foot in the door."
+  },
+  {
+    "start": 393.72,
+    "end": 394.72,
+    "text": " You've got to get your foot in the door, right?"
+  },
+  {
+    "start": 394.72,
+    "end": 397.08,
+    "text": " She knew Stalin because she was one of the most famous women in Russia."
+  },
+  {
+    "start": 397.08,
+    "end": 398.08,
+    "text": " Yeah."
+  },
+  {
+    "start": 398.08,
+    "end": 403.44,
+    "text": " She was an aviatrix, and she and her team had the world record for the longest continuous"
+  },
+  {
+    "start": 403.44,
+    "end": 404.44,
+    "text": " flight."
+  },
+  {
+    "start": 404.44,
+    "end": 406.68,
+    "text": " And she was like a hero of the whole country."
+  },
+  {
+    "start": 406.68,
+    "end": 410.94,
+    "text": " And so when she came to say, I want my women to take part in the war, Stalin was not going"
+  },
+  {
+    "start": 410.94,
+    "end": 413.52,
+    "text": " to say no to her because she was so big."
+  },
+  {
+    "start": 413.52,
+    "end": 419.16,
+    "text": " But did say no to the equipment, like you're not having our planes."
+  },
+  {
+    "start": 419.16,
+    "end": 423.52,
+    "text": " These modern vehicles are not for you guys, ladies."
+  },
+  {
+    "start": 423.52,
+    "end": 427.24,
+    "text": " And so this is how it all sort of came together, is that they got the planes that were left"
+  },
+  {
+    "start": 427.24,
+    "end": 428.24,
+    "text": " that no one wanted."
+  },
+  {
+    "start": 428.24,
+    "end": 429.24,
+    "text": " By planes?"
+  },
+  {
+    "start": 429.24,
+    "end": 430.24,
+    "text": " Yeah."
+  },
+  {
+    "start": 430.24,
+    "end": 431.24,
+    "text": " It's crazy."
+  },
+  {
+    "start": 431.24,
+    "end": 432.24,
+    "text": " I didn't think by planes flew in the Second World War."
+  },
+  {
+    "start": 432.24,
+    "end": 433.24,
+    "text": " I'm certainly not in combat."
+  },
+  {
+    "start": 433.24,
+    "end": 438.08,
+    "text": " But just can we quickly say about her earlier flight, where she was the navigator for this"
+  },
+  {
+    "start": 438.08,
+    "end": 439.8,
+    "text": " cross Soviet Union journey, right?"
+  },
+  {
+    "start": 439.8,
+    "end": 442.36,
+    "text": " And it was 4,000 miles."
+  },
+  {
+    "start": 442.36,
+    "end": 445.32,
+    "text": " And as they were getting towards the end, there are two versions of the story."
+  },
+  {
+    "start": 445.32,
+    "end": 451.92,
+    "text": " One is that the plane was icing up and they threw everything out to try and maintain height."
+  },
+  {
+    "start": 451.92,
+    "end": 454.68,
+    "text": " And then she decided, it's not going to be enough, I'm going to have to throw myself"
+  },
+  {
+    "start": 454.68,
+    "end": 455.8,
+    "text": " out of the plane."
+  },
+  {
+    "start": 455.8,
+    "end": 456.8,
+    "text": " Wow."
+  },
+  {
+    "start": 456.8,
+    "end": 457.8,
+    "text": " And she did."
+  },
+  {
+    "start": 457.8,
+    "end": 458.8,
+    "text": " That's the final straw."
+  },
+  {
+    "start": 458.8,
+    "end": 461.2,
+    "text": " There are two pilots in her, the navigator."
+  },
+  {
+    "start": 461.2,
+    "end": 462.7,
+    "text": " Surely they had clothing first."
+  },
+  {
+    "start": 462.7,
+    "end": 466.64,
+    "text": " These hippie boots have got to go."
+  },
+  {
+    "start": 466.64,
+    "end": 468.88,
+    "text": " But I don't think she was naked when she jumped out."
+  },
+  {
+    "start": 468.88,
+    "end": 471.72,
+    "text": " She wasn't naked because it was so cold, so she wanted a bit of protection."
+  },
+  {
+    "start": 471.72,
+    "end": 474.64,
+    "text": " But they'd thrown everything else out, like up to and including the compass, I think, as"
+  },
+  {
+    "start": 474.64,
+    "end": 478.12,
+    "text": " then she thought, my navigating job is done, so like we're very nearly there."
+  },
+  {
+    "start": 478.12,
+    "end": 479.12,
+    "text": " But so that's one version."
+  },
+  {
+    "start": 479.12,
+    "end": 483.08,
+    "text": " The other story is that they couldn't find the airfield and the navigator's cockpit"
+  },
+  {
+    "start": 483.08,
+    "end": 484.08,
+    "text": " had no protection."
+  },
+  {
+    "start": 484.08,
+    "end": 487.88,
+    "text": " Either way, she did jump out of the plane shortly before the end and she had no food"
+  },
+  {
+    "start": 487.88,
+    "end": 488.88,
+    "text": " or water for 10 days."
+  },
+  {
+    "start": 488.88,
+    "end": 492,
+    "text": " Eventually a hunter discovered her and that sort of cemented her heroics."
+  },
+  {
+    "start": 492,
+    "end": 494.28,
+    "text": " Can we just go back a little bit to her jumping out of the plane?"
+  },
+  {
+    "start": 494.28,
+    "end": 495.28,
+    "text": " Did she have a parachute?"
+  },
+  {
+    "start": 495.28,
+    "end": 496.28,
+    "text": " Yes, she did."
+  },
+  {
+    "start": 496.28,
+    "end": 497.28,
+    "text": " Did she?"
+  },
+  {
+    "start": 497.28,
+    "end": 498.28,
+    "text": " She parachuted, yes."
+  },
+  {
+    "start": 498.28,
+    "end": 502.72,
+    "text": " Because actually the night witches didn't have parachutes, did they?"
+  },
+  {
+    "start": 502.72,
+    "end": 504.84,
+    "text": " No, they didn't."
+  },
+  {
+    "start": 504.84,
+    "end": 509.16,
+    "text": " Just on this, another thing, sorry, I'm telling you, the oft reported negative spin of the"
+  },
+  {
+    "start": 509.16,
+    "end": 511.24,
+    "text": " night witches, but you don't get very often."
+  },
+  {
+    "start": 511.24,
+    "end": 514.28,
+    "text": " But you know in that thing where these three women crash landed basically."
+  },
+  {
+    "start": 514.28,
+    "end": 515.28,
+    "text": " Right."
+  },
+  {
+    "start": 515.28,
+    "end": 516.28,
+    "text": " So they were all lost."
+  },
+  {
+    "start": 516.28,
+    "end": 519.36,
+    "text": " She was lost for 10 days, the other two were lost for a couple of days."
+  },
+  {
+    "start": 519.36,
+    "end": 523.24,
+    "text": " I think she had a bar and a half of chocolate to survive on for 10 days, which I really want"
+  },
+  {
+    "start": 523.24,
+    "end": 525,
+    "text": " to know why I'm in the other half."
+  },
+  {
+    "start": 525,
+    "end": 528.64,
+    "text": " Well, if you also, if you've ever had to sell be a chocolate, it is utterly disgusting."
+  },
+  {
+    "start": 528.64,
+    "end": 529.64,
+    "text": " Wow."
+  },
+  {
+    "start": 529.64,
+    "end": 531.64,
+    "text": " Maybe it was better in the 1940s."
+  },
+  {
+    "start": 531.64,
+    "end": 532.64,
+    "text": " I suspect not."
+  },
+  {
+    "start": 532.64,
+    "end": 538.52,
+    "text": " All I'm saying is you don't scoff it in the first moment, like if it was a Mars bar, you'd"
+  },
+  {
+    "start": 538.52,
+    "end": 539.52,
+    "text": " be like, oh, delicious."
+  },
+  {
+    "start": 539.52,
+    "end": 540.52,
+    "text": " Yeah."
+  },
+  {
+    "start": 540.52,
+    "end": 541.52,
+    "text": " No, you wouldn't."
+  },
+  {
+    "start": 541.52,
+    "end": 542.52,
+    "text": " I see."
+  },
+  {
+    "start": 542.52,
+    "end": 543.52,
+    "text": " Maybe that's part of the ploy."
+  },
+  {
+    "start": 543.52,
+    "end": 544.52,
+    "text": " You can survive longer."
+  },
+  {
+    "start": 544.52,
+    "end": 545.52,
+    "text": " The opposite of savoring it."
+  },
+  {
+    "start": 545.52,
+    "end": 546.52,
+    "text": " Yeah."
+  },
+  {
+    "start": 546.52,
+    "end": 552.36,
+    "text": " But there was a rescue mission sent out to save these three women and 16 men died."
+  },
+  {
+    "start": 552.36,
+    "end": 553.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 553.36,
+    "end": 556.32,
+    "text": " But there were huge celebrations afterwards because they'd broken this record."
+  },
+  {
+    "start": 556.32,
+    "end": 559.72,
+    "text": " And I think Stalin thought, you know what, it's going to dampen the vibe if we mention"
+  },
+  {
+    "start": 559.72,
+    "end": 561.04,
+    "text": " the fact that 16 men have been killed."
+  },
+  {
+    "start": 561.04,
+    "end": 564.24,
+    "text": " Can I just also say it wasn't like one man would go and look for them."
+  },
+  {
+    "start": 564.24,
+    "end": 565.24,
+    "text": " He would die."
+  },
+  {
+    "start": 565.24,
+    "end": 566.76,
+    "text": " And then another person would go out."
+  },
+  {
+    "start": 566.76,
+    "end": 568.04,
+    "text": " They all died in the plane crash."
+  },
+  {
+    "start": 568.04,
+    "end": 569.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 569.04,
+    "end": 570.04,
+    "text": " It wasn't like a scream."
+  },
+  {
+    "start": 570.04,
+    "end": 571.96,
+    "text": " Shall I go and see what he's doing back there?"
+  },
+  {
+    "start": 571.96,
+    "end": 573.96,
+    "text": " Someone's knocking them all off."
+  },
+  {
+    "start": 573.96,
+    "end": 577.44,
+    "text": " I'm not going to go and have a look."
+  },
+  {
+    "start": 577.44,
+    "end": 578.44,
+    "text": " You're next."
+  },
+  {
+    "start": 578.44,
+    "end": 579.44,
+    "text": " Well, yeah."
+  },
+  {
+    "start": 579.44,
+    "end": 583.8,
+    "text": " And then Raskova, she got the first ever state funeral, I think, in any country in World"
+  },
+  {
+    "start": 583.8,
+    "end": 584.8,
+    "text": " War II."
+  },
+  {
+    "start": 584.8,
+    "end": 585.8,
+    "text": " Definitely the first one in Moscow."
+  },
+  {
+    "start": 585.8,
+    "end": 589.68,
+    "text": " There'd been none in Britain, none in Germany, none in America, obviously at that stage."
+  },
+  {
+    "start": 589.68,
+    "end": 593.8,
+    "text": " Well, yeah, when she died, her ashes were placed in the Kremlin walls and they're still there"
+  },
+  {
+    "start": 593.8,
+    "end": 594.8,
+    "text": " today."
+  },
+  {
+    "start": 594.8,
+    "end": 595.8,
+    "text": " Wow."
+  },
+  {
+    "start": 595.8,
+    "end": 596.8,
+    "text": " Cool."
+  },
+  {
+    "start": 596.8,
+    "end": 599.68,
+    "text": " It's mad thinking about these incredibly old slow planes that were being flown into combat"
+  },
+  {
+    "start": 599.68,
+    "end": 603.6,
+    "text": " because they had to go at night because, not because they were loud, because they were"
+  },
+  {
+    "start": 603.6,
+    "end": 604.6,
+    "text": " slow."
+  },
+  {
+    "start": 604.6,
+    "end": 605.6,
+    "text": " That's it."
+  },
+  {
+    "start": 605.6,
+    "end": 609.4,
+    "text": " But the advantage was, I think, if the Luftwaffe were chasing them or trying to shoot them down,"
+  },
+  {
+    "start": 609.4,
+    "end": 611.88,
+    "text": " if the Luftwaffe flew at 90 miles an hour, they would stall."
+  },
+  {
+    "start": 611.88,
+    "end": 615.48,
+    "text": " Because their planes were too good to catch."
+  },
+  {
+    "start": 615.48,
+    "end": 618.48,
+    "text": " So in a sense, they had an unfair advantage to the night, which is all I'm saying."
+  },
+  {
+    "start": 618.48,
+    "end": 622,
+    "text": " And they did it at night because that was the time to do the bombing."
+  },
+  {
+    "start": 622,
+    "end": 627.56,
+    "text": " So there was no rest for the Germans because during the night, they would fix their stuff"
+  },
+  {
+    "start": 627.56,
+    "end": 630.08,
+    "text": " and they'd be being bombed so they couldn't."
+  },
+  {
+    "start": 630.08,
+    "end": 631.08,
+    "text": " So it was relentless."
+  },
+  {
+    "start": 631.08,
+    "end": 632.08,
+    "text": " Yeah."
+  },
+  {
+    "start": 632.08,
+    "end": 636.36,
+    "text": " They weren't the only female pilots in the war, though, because I think in Britain there"
+  },
+  {
+    "start": 636.36,
+    "end": 640.28,
+    "text": " was the ATA, the Air Transport Auxiliary, and that was mostly male pilots, but there"
+  },
+  {
+    "start": 640.28,
+    "end": 642.44,
+    "text": " was a sizable chunk of them who were women."
+  },
+  {
+    "start": 642.44,
+    "end": 647.72,
+    "text": " And their job was to get planes from factories to airfields and things like that."
+  },
+  {
+    "start": 647.72,
+    "end": 648.72,
+    "text": " Right."
+  },
+  {
+    "start": 648.72,
+    "end": 649.72,
+    "text": " By flying them."
+  },
+  {
+    "start": 649.72,
+    "end": 650.72,
+    "text": " By flying them, exactly."
+  },
+  {
+    "start": 650.72,
+    "end": 652.24,
+    "text": " And it would test them at the same time, I guess."
+  },
+  {
+    "start": 652.24,
+    "end": 655.44,
+    "text": " Well, they had to know so many different kinds of planes, basically."
+  },
+  {
+    "start": 655.44,
+    "end": 657.76,
+    "text": " I think these women were amazing."
+  },
+  {
+    "start": 657.76,
+    "end": 661.56,
+    "text": " So for example, Dolores Mogridge, an incredible name of the kind I think you don't really"
+  },
+  {
+    "start": 661.56,
+    "end": 666.6,
+    "text": " get anymore, she flew 83 different types of plane during the war."
+  },
+  {
+    "start": 666.6,
+    "end": 670.72,
+    "text": " And she was once the subject of a complaint by a male RAF officer."
+  },
+  {
+    "start": 670.72,
+    "end": 673.92,
+    "text": " He complained, \"It was dreadful weather and I can't believe not only was a woman flying"
+  },
+  {
+    "start": 673.92,
+    "end": 676.32,
+    "text": " me here, but she was reading a book.\""
+  },
+  {
+    "start": 676.32,
+    "end": 677.32,
+    "text": " Wow."
+  },
+  {
+    "start": 677.32,
+    "end": 679.6,
+    "text": " And when he wasn't reading a novel, those are my notes, \"I hadn't flown this type"
+  },
+  {
+    "start": 679.6,
+    "end": 680.6,
+    "text": " of plane before.\""
+  },
+  {
+    "start": 680.6,
+    "end": 682.92,
+    "text": " And he nearly threw up when he read it."
+  },
+  {
+    "start": 682.92,
+    "end": 683.92,
+    "text": " Amazing."
+  },
+  {
+    "start": 683.92,
+    "end": 684.92,
+    "text": " Just lovely."
+  },
+  {
+    "start": 684.92,
+    "end": 688.28,
+    "text": " The other thing they had to do was, as well as flying planes too, at the airfield from"
+  },
+  {
+    "start": 688.28,
+    "end": 692.12,
+    "text": " which they'd fly into combat, they had to fly the planes back when they were damaged."
+  },
+  {
+    "start": 692.12,
+    "end": 697.12,
+    "text": " So they'd have an attack plane, no undercarriage, wing missing, and then the men would be like,"
+  },
+  {
+    "start": 697.12,
+    "end": 698.12,
+    "text": " \"Fly there, Peck!"
+  },
+  {
+    "start": 698.12,
+    "end": 699.12,
+    "text": " Will you love?\""
+  },
+  {
+    "start": 699.12,
+    "end": 700.12,
+    "text": " Yes."
+  },
+  {
+    "start": 700.12,
+    "end": 701.12,
+    "text": " It's got no wings."
+  },
+  {
+    "start": 701.12,
+    "end": 702.12,
+    "text": " You'll be right."
+  },
+  {
+    "start": 702.12,
+    "end": 703.12,
+    "text": " You'll figure it out."
+  },
+  {
+    "start": 703.12,
+    "end": 704.12,
+    "text": " That's amazing."
+  },
+  {
+    "start": 704.12,
+    "end": 705.48,
+    "text": " Yeah, that's so cool."
+  },
+  {
+    "start": 705.48,
+    "end": 707.48,
+    "text": " The last of them only died in 2022."
+  },
+  {
+    "start": 707.48,
+    "end": 708.48,
+    "text": " It's crazy."
+  },
+  {
+    "start": 708.48,
+    "end": 711.48,
+    "text": " I mean, a lot of them lived really long lives."
+  },
+  {
+    "start": 711.48,
+    "end": 715.24,
+    "text": " Yeah, Stella Edwards, I think, was the last surviving ATA girl, as they got called."
+  },
+  {
+    "start": 715.24,
+    "end": 721.16,
+    "text": " Well, you know, the night witches are all still alive, even the one who had the state"
+  },
+  {
+    "start": 721.16,
+    "end": 722.16,
+    "text": " funeral."
+  },
+  {
+    "start": 722.16,
+    "end": 723.16,
+    "text": " Yeah, I think so."
+  },
+  {
+    "start": 723.16,
+    "end": 725.88,
+    "text": " She was the first to come back to life."
+  },
+  {
+    "start": 725.88,
+    "end": 729.52,
+    "text": " Do you know the country which has the highest proportion of female pilots?"
+  },
+  {
+    "start": 729.52,
+    "end": 730.52,
+    "text": " Russia."
+  },
+  {
+    "start": 730.52,
+    "end": 731.52,
+    "text": " No."
+  },
+  {
+    "start": 731.52,
+    "end": 732.52,
+    "text": " Oh, I'm not talking about the..."
+  },
+  {
+    "start": 732.52,
+    "end": 733.52,
+    "text": " No, sorry."
+  },
+  {
+    "start": 733.52,
+    "end": 735.64,
+    "text": " These days, commercial pilots."
+  },
+  {
+    "start": 735.64,
+    "end": 737.44,
+    "text": " I don't think it's very guessable."
+  },
+  {
+    "start": 737.44,
+    "end": 738.44,
+    "text": " Oh, okay."
+  },
+  {
+    "start": 738.44,
+    "end": 739.44,
+    "text": " I'm going to have a go."
+  },
+  {
+    "start": 739.44,
+    "end": 740.44,
+    "text": " Rwanda."
+  },
+  {
+    "start": 740.44,
+    "end": 741.44,
+    "text": " It's not Rwanda."
+  },
+  {
+    "start": 741.44,
+    "end": 742.44,
+    "text": " Ireland."
+  },
+  {
+    "start": 742.44,
+    "end": 743.44,
+    "text": " It's not Ireland."
+  },
+  {
+    "start": 743.44,
+    "end": 744.44,
+    "text": " That's close, though."
+  },
+  {
+    "start": 744.44,
+    "end": 745.44,
+    "text": " Oh."
+  },
+  {
+    "start": 745.44,
+    "end": 746.44,
+    "text": " Northern Ireland."
+  },
+  {
+    "start": 746.44,
+    "end": 747.44,
+    "text": " No, India."
+  },
+  {
+    "start": 747.44,
+    "end": 748.44,
+    "text": " Oh."
+  },
+  {
+    "start": 748.44,
+    "end": 749.44,
+    "text": " Sorry."
+  },
+  {
+    "start": 749.44,
+    "end": 750.44,
+    "text": " When I say close, I mean close alphabetically."
+  },
+  {
+    "start": 750.44,
+    "end": 754.44,
+    "text": " That's very close alphabetically, isn't it?"
+  },
+  {
+    "start": 754.44,
+    "end": 755.44,
+    "text": " Yeah."
+  },
+  {
+    "start": 755.44,
+    "end": 756.44,
+    "text": " That's almost bulls-eye-eye."
+  },
+  {
+    "start": 756.44,
+    "end": 757.44,
+    "text": " Well done."
+  },
+  {
+    "start": 757.44,
+    "end": 758.44,
+    "text": " Thank you."
+  },
+  {
+    "start": 758.44,
+    "end": 760.44,
+    "text": " My bad for not thinking alphabetically, too."
+  },
+  {
+    "start": 760.44,
+    "end": 761.44,
+    "text": " Silly me."
+  },
+  {
+    "start": 761.44,
+    "end": 764.76,
+    "text": " I remember when we flew to Australia, and we'd only be going for an hour or so, and"
+  },
+  {
+    "start": 764.76,
+    "end": 765.76,
+    "text": " I said, \"Are we close?\""
+  },
+  {
+    "start": 765.76,
+    "end": 766.76,
+    "text": " And you said, \"Yeah, we're over Austria.\""
+  },
+  {
+    "start": 766.76,
+    "end": 770.56,
+    "text": " We got railier to go."
+  },
+  {
+    "start": 770.56,
+    "end": 771.56,
+    "text": " India."
+  },
+  {
+    "start": 771.56,
+    "end": 772.64,
+    "text": " That's amazing."
+  },
+  {
+    "start": 772.64,
+    "end": 775.2,
+    "text": " 13% of pilots are women, isn't it?"
+  },
+  {
+    "start": 775.2,
+    "end": 776.2,
+    "text": " That's interesting."
+  },
+  {
+    "start": 776.2,
+    "end": 777.56,
+    "text": " Global average is about 5%."
+  },
+  {
+    "start": 777.56,
+    "end": 779.2,
+    "text": " You know Douglas Bader, Bader?"
+  },
+  {
+    "start": 779.2,
+    "end": 780.6,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 780.6,
+    "end": 781.6,
+    "text": " No legs."
+  },
+  {
+    "start": 781.6,
+    "end": 782.6,
+    "text": " Pilot."
+  },
+  {
+    "start": 782.6,
+    "end": 783.6,
+    "text": " But dreamy guy."
+  },
+  {
+    "start": 783.6,
+    "end": 784.6,
+    "text": " Dreamy trying ace."
+  },
+  {
+    "start": 784.6,
+    "end": 785.6,
+    "text": " Oh, yes."
+  },
+  {
+    "start": 785.6,
+    "end": 788.08,
+    "text": " He's famous, because he had no legs."
+  },
+  {
+    "start": 788.08,
+    "end": 795.84,
+    "text": " So there was a guy called Alexi Mariseev, who was a Russian guy, and he was in a crash."
+  },
+  {
+    "start": 795.84,
+    "end": 801.56,
+    "text": " And like this woman, Raskova, he had to walk around Siberia, living on a handful of ants"
+  },
+  {
+    "start": 801.56,
+    "end": 803.32,
+    "text": " and half a lizard, he said."
+  },
+  {
+    "start": 803.32,
+    "end": 805.68,
+    "text": " It's still better than this Soviet chocolate bar."
+  },
+  {
+    "start": 805.68,
+    "end": 809.72,
+    "text": " Yeah, when they found him, he had 10 chocolate bars in his pocket."
+  },
+  {
+    "start": 809.72,
+    "end": 814.6,
+    "text": " He was desperately hunting for another ant."
+  },
+  {
+    "start": 814.6,
+    "end": 818.6,
+    "text": " But he had really bad frostbitten legs, and he had to have them chopped off."
+  },
+  {
+    "start": 818.6,
+    "end": 822.92,
+    "text": " He then went on and carried on fighting in dog fights and became a national hero."
+  },
+  {
+    "start": 822.92,
+    "end": 825.68,
+    "text": " So Russia had its own Douglas Bader."
+  },
+  {
+    "start": 825.68,
+    "end": 830,
+    "text": " And Germany, Hans Ulrich Rudl, he was a German pilot."
+  },
+  {
+    "start": 830,
+    "end": 832.8,
+    "text": " He was one of the most decorated pilots of the war."
+  },
+  {
+    "start": 832.8,
+    "end": 837.16,
+    "text": " And he got shot, wounded in one of his legs, had to lose his leg, and then carried on and"
+  },
+  {
+    "start": 837.16,
+    "end": 840.92,
+    "text": " shot down 26 more fights with only one leg."
+  },
+  {
+    "start": 840.92,
+    "end": 841.92,
+    "text": " So they had one."
+  },
+  {
+    "start": 841.92,
+    "end": 842.92,
+    "text": " One."
+  },
+  {
+    "start": 842.92,
+    "end": 845.52,
+    "text": " To be fair, he got one leg, but that would be on the throttle."
+  },
+  {
+    "start": 845.52,
+    "end": 848.84,
+    "text": " So, you know, he's got the advantage, he was faster to keep away."
+  },
+  {
+    "start": 848.84,
+    "end": 850.56,
+    "text": " He couldn't slam the brakes on."
+  },
+  {
+    "start": 850.56,
+    "end": 851.56,
+    "text": " No brakes."
+  },
+  {
+    "start": 851.56,
+    "end": 855.08,
+    "text": " Did they have to modify the planes or anything?"
+  },
+  {
+    "start": 855.08,
+    "end": 859.32,
+    "text": " Because I think Douglas Bader's plane was somehow rigged up so he could keep flying"
+  },
+  {
+    "start": 859.32,
+    "end": 860.32,
+    "text": " with no legs."
+  },
+  {
+    "start": 860.32,
+    "end": 861.32,
+    "text": " I think that's true."
+  },
+  {
+    "start": 861.32,
+    "end": 864.16,
+    "text": " But do you think it's interesting that all three of those countries had their own legless"
+  },
+  {
+    "start": 864.16,
+    "end": 865.16,
+    "text": " feelings?"
+  },
+  {
+    "start": 865.16,
+    "end": 866.16,
+    "text": " That's really interesting."
+  },
+  {
+    "start": 866.16,
+    "end": 867.16,
+    "text": " That's kind of amazing."
+  },
+  {
+    "start": 867.16,
+    "end": 868.16,
+    "text": " We can move on."
+  },
+  {
+    "start": 868.16,
+    "end": 869.16,
+    "text": " Yeah."
+  },
+  {
+    "start": 869.16,
+    "end": 870.64,
+    "text": " You were in the Kiwi Army, weren't you?"
+  },
+  {
+    "start": 870.64,
+    "end": 871.64,
+    "text": " Yes, that's right."
+  },
+  {
+    "start": 871.64,
+    "end": 872.64,
+    "text": " You were in the Kiwi Army, weren't you, flying?"
+  },
+  {
+    "start": 872.64,
+    "end": 874.64,
+    "text": " No, that would be the air force."
+  },
+  {
+    "start": 874.64,
+    "end": 875.64,
+    "text": " Got it."
+  },
+  {
+    "start": 875.64,
+    "end": 879.16,
+    "text": " Guys, I'm a thicker snake."
+  },
+  {
+    "start": 879.16,
+    "end": 882.76,
+    "text": " Which one do you fancy today, the boats, to play on the on foot?"
+  },
+  {
+    "start": 882.76,
+    "end": 888.32,
+    "text": " Just get in the garage and have fun, guys."
+  },
+  {
+    "start": 888.32,
+    "end": 894.84,
+    "text": " OK, it is time for fact number two."
+  },
+  {
+    "start": 894.84,
+    "end": 896.08,
+    "text": " That is my fact."
+  },
+  {
+    "start": 896.08,
+    "end": 901.6,
+    "text": " My fact this week is that if you drop a wallet containing cash in Tokyo, you're three times"
+  },
+  {
+    "start": 901.6,
+    "end": 906.08,
+    "text": " more likely to get it back than if you drop it in New York."
+  },
+  {
+    "start": 906.08,
+    "end": 911,
+    "text": " I was furious when I first read about this in a BBC article which reported that 88% of"
+  },
+  {
+    "start": 911,
+    "end": 917.96,
+    "text": " phones that were lost deliberately by a researcher during the study in Tokyo were returned, but"
+  },
+  {
+    "start": 917.96,
+    "end": 921.12,
+    "text": " only 6% of those lost in New York were returned."
+  },
+  {
+    "start": 921.12,
+    "end": 923,
+    "text": " Actually, it turned out that wasn't true."
+  },
+  {
+    "start": 923,
+    "end": 930.64,
+    "text": " I looked at the study and 95% were returned in Tokyo, but 88% were returned to the police"
+  },
+  {
+    "start": 930.64,
+    "end": 935.84,
+    "text": " and only 7% were returned to the person whose phone number was on the phone."
+  },
+  {
+    "start": 935.84,
+    "end": 939.72,
+    "text": " So he deliberately left contact details like, you know, call me if you find my stuff."
+  },
+  {
+    "start": 939.72,
+    "end": 942.62,
+    "text": " And the Japanese are like, no, I'm not going to ring you."
+  },
+  {
+    "start": 942.62,
+    "end": 943.62,
+    "text": " Official channels only, right?"
+  },
+  {
+    "start": 943.62,
+    "end": 944.62,
+    "text": " Official channels only."
+  },
+  {
+    "start": 944.62,
+    "end": 947.8,
+    "text": " Whereas in New York, like 75% or something gave them back, but they just called the person."
+  },
+  {
+    "start": 947.8,
+    "end": 949.28,
+    "text": " Who writes their phone number on their phone?"
+  },
+  {
+    "start": 949.28,
+    "end": 950.28,
+    "text": " It's quite weird, isn't it?"
+  },
+  {
+    "start": 950.28,
+    "end": 952.28,
+    "text": " I'm thinking about doing that now."
+  },
+  {
+    "start": 952.28,
+    "end": 953.28,
+    "text": " Yeah."
+  },
+  {
+    "start": 953.28,
+    "end": 954.28,
+    "text": " It's quite a genius idea."
+  },
+  {
+    "start": 954.28,
+    "end": 955.28,
+    "text": " I don't know if it is."
+  },
+  {
+    "start": 955.28,
+    "end": 956.28,
+    "text": " That genius."
+  },
+  {
+    "start": 956.28,
+    "end": 957.28,
+    "text": " But how would you, when you pick it up, you go, how am I going to call it?"
+  },
+  {
+    "start": 957.28,
+    "end": 958.28,
+    "text": " Yeah."
+  },
+  {
+    "start": 958.28,
+    "end": 959.28,
+    "text": " Yeah."
+  },
+  {
+    "start": 959.28,
+    "end": 962.24,
+    "text": " You can write your best friend's phone number on it, maybe, or your mum's number, your house"
+  },
+  {
+    "start": 962.24,
+    "end": 963.24,
+    "text": " phone."
+  },
+  {
+    "start": 963.24,
+    "end": 967.36,
+    "text": " But basically Japanese culture is such that they're so set up for lost property."
+  },
+  {
+    "start": 967.36,
+    "end": 970.88,
+    "text": " Japan is basically a large lost property office masquerading as a country."
+  },
+  {
+    "start": 970.88,
+    "end": 976.12,
+    "text": " As in, people in Japan are so culturally wired into handing lost things, it's just absolutely"
+  },
+  {
+    "start": 976.12,
+    "end": 977.12,
+    "text": " the rules."
+  },
+  {
+    "start": 977.12,
+    "end": 978.12,
+    "text": " It's just what you do."
+  },
+  {
+    "start": 978.12,
+    "end": 982.56,
+    "text": " So last year, people in Japan handed in four and a half billion yen in cash."
+  },
+  {
+    "start": 982.56,
+    "end": 984.28,
+    "text": " It's still a very cash-based society."
+  },
+  {
+    "start": 984.28,
+    "end": 987.44,
+    "text": " Yeah, but we don't know whether that was just a lot of 100 yen kind."
+  },
+  {
+    "start": 987.44,
+    "end": 990.84,
+    "text": " So whether it was just one, it was a huge suitcase."
+  },
+  {
+    "start": 990.84,
+    "end": 996.28,
+    "text": " Well, they have a thing where you can hand in a coin, and if you had it into the authorities,"
+  },
+  {
+    "start": 996.28,
+    "end": 999.24,
+    "text": " they would then give you that coin back as a gift."
+  },
+  {
+    "start": 999.24,
+    "end": 1000.4,
+    "text": " It's an honor thing."
+  },
+  {
+    "start": 1000.4,
+    "end": 1006.04,
+    "text": " So yeah, it's about kind of, rather than the older, if you see a penny, pick it up, and"
+  },
+  {
+    "start": 1006.04,
+    "end": 1007.6,
+    "text": " all day long, you'll have good luck."
+  },
+  {
+    "start": 1007.6,
+    "end": 1008.6,
+    "text": " That classic one."
+  },
+  {
+    "start": 1008.6,
+    "end": 1009.6,
+    "text": " They don't have that."
+  },
+  {
+    "start": 1009.6,
+    "end": 1015,
+    "text": " If they find something, I'm speaking for all Japanese people right now, I have been there,"
+  },
+  {
+    "start": 1015,
+    "end": 1019.96,
+    "text": " and I remember having a conversation with one chap about it, and he said, \"Make sure"
+  },
+  {
+    "start": 1019.96,
+    "end": 1022.36,
+    "text": " you talk about this on a podcast down the line.\""
+  },
+  {
+    "start": 1022.36,
+    "end": 1023.6,
+    "text": " \"Oh, I will, I will.\""
+  },
+  {
+    "start": 1023.6,
+    "end": 1028.24,
+    "text": " But anyway, long story short, they give it back to you, and it's a gift, and so therefore"
+  },
+  {
+    "start": 1028.24,
+    "end": 1033.4,
+    "text": " you have received the coin that you've found as a gift, and then, honorably, you can then"
+  },
+  {
+    "start": 1033.4,
+    "end": 1034.4,
+    "text": " hold on to it."
+  },
+  {
+    "start": 1034.4,
+    "end": 1035.4,
+    "text": " Brilliant."
+  },
+  {
+    "start": 1035.4,
+    "end": 1036.4,
+    "text": " That's really cool."
+  },
+  {
+    "start": 1036.4,
+    "end": 1037.4,
+    "text": " Worthy extra love."
+  },
+  {
+    "start": 1037.4,
+    "end": 1038.4,
+    "text": " I have actually done this in London."
+  },
+  {
+    "start": 1038.4,
+    "end": 1041.88,
+    "text": " I found a wallet with some money in it, handed it into the police."
+  },
+  {
+    "start": 1041.88,
+    "end": 1043.96,
+    "text": " You did skim a bit off the top, though, didn't you?"
+  },
+  {
+    "start": 1043.96,
+    "end": 1044.96,
+    "text": " Hey, hey."
+  },
+  {
+    "start": 1044.96,
+    "end": 1046.2,
+    "text": " Well, this was the thing about..."
+  },
+  {
+    "start": 1046.2,
+    "end": 1048.32,
+    "text": " I think it had cash in, and I didn't..."
+  },
+  {
+    "start": 1048.32,
+    "end": 1051.12,
+    "text": " I think it then got claimed, because I was at the police station every day for the next"
+  },
+  {
+    "start": 1051.12,
+    "end": 1052.12,
+    "text": " six months."
+  },
+  {
+    "start": 1052.12,
+    "end": 1053.36,
+    "text": " Anyone turn up to claim that cash yet?"
+  },
+  {
+    "start": 1053.36,
+    "end": 1057.84,
+    "text": " But I think in the UK, genuinely, in the UK, if it's been three months or some period"
+  },
+  {
+    "start": 1057.84,
+    "end": 1062.08,
+    "text": " of time, and the money is not claimed, you can go and, as the finder, claim it."
+  },
+  {
+    "start": 1062.08,
+    "end": 1064.28,
+    "text": " I didn't mean to say, \"Yeah, did you take the money out?\""
+  },
+  {
+    "start": 1064.28,
+    "end": 1066.84,
+    "text": " Because in New York, one of the interesting things about, well, yeah, whatever, you would"
+  },
+  {
+    "start": 1066.84,
+    "end": 1067.84,
+    "text": " say that, wouldn't you?"
+  },
+  {
+    "start": 1067.84,
+    "end": 1074.64,
+    "text": " It wasn't that one day that you bought a round in when we went to the pub, was it?"
+  },
+  {
+    "start": 1074.64,
+    "end": 1077.16,
+    "text": " I remember that so clearly that day."
+  },
+  {
+    "start": 1077.16,
+    "end": 1078.68,
+    "text": " You were waving a 20-quid note."
+  },
+  {
+    "start": 1078.68,
+    "end": 1079.68,
+    "text": " It was 2014, wasn't it?"
+  },
+  {
+    "start": 1079.68,
+    "end": 1080.68,
+    "text": " Yeah, it was a great day."
+  },
+  {
+    "start": 1080.68,
+    "end": 1081.68,
+    "text": " Very proud."
+  },
+  {
+    "start": 1081.68,
+    "end": 1082.68,
+    "text": " It wasn't me."
+  },
+  {
+    "start": 1082.68,
+    "end": 1086.28,
+    "text": " Just to save it for Randy, he's too proud of himself for handing this in."
+  },
+  {
+    "start": 1086.28,
+    "end": 1089.52,
+    "text": " Most people in pretty much any country will hand it in."
+  },
+  {
+    "start": 1089.52,
+    "end": 1092.24,
+    "text": " This is the thing that you don't get reported on much."
+  },
+  {
+    "start": 1092.24,
+    "end": 1096.94,
+    "text": " Even in New York, 80% of people are handing in wallets, but of the wallets in New York,"
+  },
+  {
+    "start": 1096.94,
+    "end": 1100.84,
+    "text": " the researcher dropped them with $20 in each, which is the amount you legally have to return"
+  },
+  {
+    "start": 1100.84,
+    "end": 1103.2,
+    "text": " if you find it in New York."
+  },
+  {
+    "start": 1103.2,
+    "end": 1107.28,
+    "text": " And eight of the wallets were returned, but only six still have the money in."
+  },
+  {
+    "start": 1107.28,
+    "end": 1110.08,
+    "text": " So I'm counting that in my percentages as..."
+  },
+  {
+    "start": 1110.08,
+    "end": 1111.44,
+    "text": " How high were the drops, too?"
+  },
+  {
+    "start": 1111.44,
+    "end": 1112.44,
+    "text": " Were they..."
+  },
+  {
+    "start": 1112.44,
+    "end": 1113.44,
+    "text": " The skyscrapers."
+  },
+  {
+    "start": 1113.44,
+    "end": 1114.44,
+    "text": " Were they?"
+  },
+  {
+    "start": 1114.44,
+    "end": 1115.44,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1115.44,
+    "end": 1116.44,
+    "text": " People died, actually."
+  },
+  {
+    "start": 1116.44,
+    "end": 1117.44,
+    "text": " People died."
+  },
+  {
+    "start": 1117.44,
+    "end": 1118.44,
+    "text": " Disconcussion."
+  },
+  {
+    "start": 1118.44,
+    "end": 1119.44,
+    "text": " The wallet dropped!"
+  },
+  {
+    "start": 1119.44,
+    "end": 1120.44,
+    "text": " No!"
+  },
+  {
+    "start": 1120.44,
+    "end": 1124,
+    "text": " Returning the wallet is just embedded in the head of someone who was standing under the"
+  },
+  {
+    "start": 1124,
+    "end": 1125.4,
+    "text": " Empire State Building, yeah, yeah."
+  },
+  {
+    "start": 1125.4,
+    "end": 1126.4,
+    "text": " That's really interesting."
+  },
+  {
+    "start": 1126.4,
+    "end": 1130.14,
+    "text": " Do you think the person who takes the money is in their head, they think, you'd find"
+  },
+  {
+    "start": 1130.14,
+    "end": 1131.14,
+    "text": " us fee?"
+  },
+  {
+    "start": 1131.14,
+    "end": 1132.14,
+    "text": " Maybe."
+  },
+  {
+    "start": 1132.14,
+    "end": 1133.14,
+    "text": " Maybe."
+  },
+  {
+    "start": 1133.14,
+    "end": 1135.62,
+    "text": " Or was it a different person who took the money and then a new person found the empty"
+  },
+  {
+    "start": 1135.62,
+    "end": 1136.62,
+    "text": " wallet?"
+  },
+  {
+    "start": 1136.62,
+    "end": 1139.62,
+    "text": " If I was going to take the money, I might just take the money because it's not as identifiable."
+  },
+  {
+    "start": 1139.62,
+    "end": 1144.1,
+    "text": " But you don't want to take someone's driving license, that's a huge faff for them, you"
+  },
+  {
+    "start": 1144.1,
+    "end": 1145.1,
+    "text": " know."
+  },
+  {
+    "start": 1145.1,
+    "end": 1146.1,
+    "text": " Yeah."
+  },
+  {
+    "start": 1146.1,
+    "end": 1149.9,
+    "text": " So in Tokyo, they have these things called Corbans and they're tiny police stations and"
+  },
+  {
+    "start": 1149.9,
+    "end": 1154.5,
+    "text": " a city like Tokyo will have dozens of them, but in the countryside, there'll be just one"
+  },
+  {
+    "start": 1154.5,
+    "end": 1156.1,
+    "text": " or two in each village."
+  },
+  {
+    "start": 1156.1,
+    "end": 1159.72,
+    "text": " And the idea is, you hand your stuff in there and it's kept there for about a month and"
+  },
+  {
+    "start": 1159.72,
+    "end": 1164.2,
+    "text": " that's in case someone sort of retraces their steps and goes back to the area where they"
+  },
+  {
+    "start": 1164.2,
+    "end": 1167.96,
+    "text": " were, they find the nearest Corban and they say, \"It's my 50p there.\""
+  },
+  {
+    "start": 1167.96,
+    "end": 1168.96,
+    "text": " Or whatever."
+  },
+  {
+    "start": 1168.96,
+    "end": 1169.96,
+    "text": " So good."
+  },
+  {
+    "start": 1169.96,
+    "end": 1172.44,
+    "text": " And then after a certain amount of time, they're given to the big sort of lost and found in"
+  },
+  {
+    "start": 1172.44,
+    "end": 1174.12,
+    "text": " the middle of Tokyo or wherever."
+  },
+  {
+    "start": 1174.12,
+    "end": 1175.12,
+    "text": " Yeah."
+  },
+  {
+    "start": 1175.12,
+    "end": 1176.12,
+    "text": " Okay."
+  },
+  {
+    "start": 1176.12,
+    "end": 1177.12,
+    "text": " Here's the thing that's lost in Japan."
+  },
+  {
+    "start": 1177.12,
+    "end": 1178.12,
+    "text": " This is nuts."
+  },
+  {
+    "start": 1178.12,
+    "end": 1180.96,
+    "text": " A big chunk of Japan has been lost."
+  },
+  {
+    "start": 1180.96,
+    "end": 1181.96,
+    "text": " Okay."
+  },
+  {
+    "start": 1181.96,
+    "end": 1188.5,
+    "text": " So in Japan, a big chunk has no easily contactable owner and the property law is crazy there"
+  },
+  {
+    "start": 1188.5,
+    "end": 1192.32,
+    "text": " as in it's very difficult, like property is distributed among heirs, sometimes if there's"
+  },
+  {
+    "start": 1192.32,
+    "end": 1195.56,
+    "text": " no will, so it's kind of divvied up equally."
+  },
+  {
+    "start": 1195.56,
+    "end": 1198.6,
+    "text": " There was a case where the government, they wanted to build a road, like really big road"
+  },
+  {
+    "start": 1198.6,
+    "end": 1200.84,
+    "text": " going into/out of Tokyo."
+  },
+  {
+    "start": 1200.84,
+    "end": 1202.42,
+    "text": " So important project for them."
+  },
+  {
+    "start": 1202.42,
+    "end": 1206.36,
+    "text": " They had to track down 148 heirs of one patch of land."
+  },
+  {
+    "start": 1206.36,
+    "end": 1209.36,
+    "text": " They sent 200 letters out, a lot of people had emigrated, some of them had died, like"
+  },
+  {
+    "start": 1209.36,
+    "end": 1212.12,
+    "text": " just nightmare situation."
+  },
+  {
+    "start": 1212.12,
+    "end": 1217.08,
+    "text": " The unowned bit of Japan is bigger than which country, I'd like you all to guess."
+  },
+  {
+    "start": 1217.08,
+    "end": 1218.08,
+    "text": " Is it close to Japan?"
+  },
+  {
+    "start": 1218.08,
+    "end": 1219.08,
+    "text": " No."
+  },
+  {
+    "start": 1219.08,
+    "end": 1220.08,
+    "text": " Oh."
+  },
+  {
+    "start": 1220.08,
+    "end": 1221.08,
+    "text": " Not alphabetically."
+  },
+  {
+    "start": 1221.08,
+    "end": 1222.08,
+    "text": " I'm going to..."
+  },
+  {
+    "start": 1222.08,
+    "end": 1223.08,
+    "text": " Not Jamaica then."
+  },
+  {
+    "start": 1223.08,
+    "end": 1224.08,
+    "text": " Okay."
+  },
+  {
+    "start": 1224.08,
+    "end": 1226.28,
+    "text": " I'm going to go with Russia."
+  },
+  {
+    "start": 1226.28,
+    "end": 1227.28,
+    "text": " Yeah."
+  },
+  {
+    "start": 1227.28,
+    "end": 1228.28,
+    "text": " That's okay."
+  },
+  {
+    "start": 1228.28,
+    "end": 1231.36,
+    "text": " 20% of Japan, I'm going to say Wales."
+  },
+  {
+    "start": 1231.36,
+    "end": 1232.36,
+    "text": " Not far off."
+  },
+  {
+    "start": 1232.36,
+    "end": 1233.36,
+    "text": " Belgium."
+  },
+  {
+    "start": 1233.36,
+    "end": 1234.36,
+    "text": " Far off."
+  },
+  {
+    "start": 1234.36,
+    "end": 1235.36,
+    "text": " Denmark, very close to Belgium."
+  },
+  {
+    "start": 1235.36,
+    "end": 1236.36,
+    "text": " Okay."
+  },
+  {
+    "start": 1236.36,
+    "end": 1238.48,
+    "text": " The unowned bit of Japan or the bit where they just have no idea who owns it and it's"
+  },
+  {
+    "start": 1238.48,
+    "end": 1240.48,
+    "text": " a nightmare legally is bigger than Denmark."
+  },
+  {
+    "start": 1240.48,
+    "end": 1241.48,
+    "text": " Wow."
+  },
+  {
+    "start": 1241.48,
+    "end": 1242.48,
+    "text": " Crazy."
+  },
+  {
+    "start": 1242.48,
+    "end": 1243.48,
+    "text": " It's just demographics."
+  },
+  {
+    "start": 1243.48,
+    "end": 1244.48,
+    "text": " You don't have to register when you own land."
+  },
+  {
+    "start": 1244.48,
+    "end": 1245.48,
+    "text": " It's not compulsory."
+  },
+  {
+    "start": 1245.48,
+    "end": 1250.04,
+    "text": " You know this big building in Tokyo where all the lost and found stuff goes?"
+  },
+  {
+    "start": 1250.04,
+    "end": 1252.2,
+    "text": " The huge lost property office."
+  },
+  {
+    "start": 1252.2,
+    "end": 1253.2,
+    "text": " Yeah."
+  },
+  {
+    "start": 1253.2,
+    "end": 1261.72,
+    "text": " In 2016, they processed 3.67 billion yen of cash and 74% of it was retrieved."
+  },
+  {
+    "start": 1261.72,
+    "end": 1266.8,
+    "text": " But then compared to that, the percentage of umbrellas that were returned was 90 times"
+  },
+  {
+    "start": 1266.8,
+    "end": 1267.8,
+    "text": " less."
+  },
+  {
+    "start": 1267.8,
+    "end": 1268.8,
+    "text": " Yeah."
+  },
+  {
+    "start": 1268.8,
+    "end": 1270.6,
+    "text": " This is the thing umbrellas never give them back because you wouldn't, would you?"
+  },
+  {
+    "start": 1270.6,
+    "end": 1272.4,
+    "text": " You wouldn't go and get claim your umbrella."
+  },
+  {
+    "start": 1272.4,
+    "end": 1273.4,
+    "text": " You'd drop it on the tube."
+  },
+  {
+    "start": 1273.4,
+    "end": 1274.4,
+    "text": " No."
+  },
+  {
+    "start": 1274.4,
+    "end": 1275.4,
+    "text": " Because they're really the sort of a few quid to buy."
+  },
+  {
+    "start": 1275.4,
+    "end": 1276.4,
+    "text": " You just buy not one."
+  },
+  {
+    "start": 1276.4,
+    "end": 1277.4,
+    "text": " Yeah."
+  },
+  {
+    "start": 1277.4,
+    "end": 1278.4,
+    "text": " And they all look the same."
+  },
+  {
+    "start": 1278.4,
+    "end": 1279.4,
+    "text": " Apparently they've got like a see-through..."
+  },
+  {
+    "start": 1279.4,
+    "end": 1280.4,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 1280.4,
+    "end": 1281.4,
+    "text": " They have that self..."
+  },
+  {
+    "start": 1281.4,
+    "end": 1282.4,
+    "text": " Yeah."
+  },
+  {
+    "start": 1282.4,
+    "end": 1283.4,
+    "text": " Yeah."
+  },
+  {
+    "start": 1283.4,
+    "end": 1284.4,
+    "text": " Yeah."
+  },
+  {
+    "start": 1284.4,
+    "end": 1285.4,
+    "text": " And so and really it's an open game for umbrellas."
+  },
+  {
+    "start": 1285.4,
+    "end": 1286.4,
+    "text": " So if you lose it, you can..."
+  },
+  {
+    "start": 1286.4,
+    "end": 1289.6,
+    "text": " And you find one, you don't have to hand that and you're not going to get a special gift"
+  },
+  {
+    "start": 1289.6,
+    "end": 1290.6,
+    "text": " or anything like that."
+  },
+  {
+    "start": 1290.6,
+    "end": 1291.6,
+    "text": " Is that right?"
+  },
+  {
+    "start": 1291.6,
+    "end": 1292.6,
+    "text": " It's like The Purge, that film."
+  },
+  {
+    "start": 1292.6,
+    "end": 1293.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 1293.6,
+    "end": 1294.6,
+    "text": " It's very similar to The Purge."
+  },
+  {
+    "start": 1294.6,
+    "end": 1295.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 1295.6,
+    "end": 1296.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 1296.6,
+    "end": 1297.6,
+    "text": " Well, umbrella crime is legal."
+  },
+  {
+    "start": 1297.6,
+    "end": 1298.6,
+    "text": " Wow."
+  },
+  {
+    "start": 1298.6,
+    "end": 1304.1,
+    "text": " And I don't know if they have the opening up of the umbrella inside being bad luck as"
+  },
+  {
+    "start": 1304.1,
+    "end": 1305.1,
+    "text": " well."
+  },
+  {
+    "start": 1305.1,
+    "end": 1306.1,
+    "text": " I'm not sure where that came from."
+  },
+  {
+    "start": 1306.1,
+    "end": 1307.1,
+    "text": " Oh, interesting."
+  },
+  {
+    "start": 1307.1,
+    "end": 1308.1,
+    "text": " You guys heard of that one?"
+  },
+  {
+    "start": 1308.1,
+    "end": 1309.1,
+    "text": " Yeah."
+  },
+  {
+    "start": 1309.1,
+    "end": 1310.1,
+    "text": " Yeah, of course."
+  },
+  {
+    "start": 1310.1,
+    "end": 1311.1,
+    "text": " Do you know where that came from?"
+  },
+  {
+    "start": 1311.1,
+    "end": 1312.1,
+    "text": " No."
+  },
+  {
+    "start": 1312.1,
+    "end": 1316,
+    "text": " So we've been told by the big umbrella shop in London that the reason that it's bad luck"
+  },
+  {
+    "start": 1316,
+    "end": 1321.36,
+    "text": " is it was invented by umbrella salesmen and they didn't want people opening their umbrellas"
+  },
+  {
+    "start": 1321.36,
+    "end": 1325.12,
+    "text": " inside so that they would get all rotted and horrible and people would have to buy new"
+  },
+  {
+    "start": 1325.12,
+    "end": 1326.12,
+    "text": " umbrellas."
+  },
+  {
+    "start": 1326.12,
+    "end": 1327.12,
+    "text": " Oh."
+  },
+  {
+    "start": 1327.12,
+    "end": 1328.12,
+    "text": " That's what we were told."
+  },
+  {
+    "start": 1328.12,
+    "end": 1329.12,
+    "text": " That makes total sense."
+  },
+  {
+    "start": 1329.12,
+    "end": 1331.94,
+    "text": " When you buy an umbrella from that shop, it's because it's in the centre, it's only about"
+  },
+  {
+    "start": 1331.94,
+    "end": 1332.94,
+    "text": " a 10 minute walk from here."
+  },
+  {
+    "start": 1332.94,
+    "end": 1333.94,
+    "text": " Yeah."
+  },
+  {
+    "start": 1333.94,
+    "end": 1334.94,
+    "text": " It's amazing as well."
+  },
+  {
+    "start": 1334.94,
+    "end": 1335.94,
+    "text": " Like, they're beautiful."
+  },
+  {
+    "start": 1335.94,
+    "end": 1336.94,
+    "text": " It's like the oldest umbrella shop in the world."
+  },
+  {
+    "start": 1336.94,
+    "end": 1337.94,
+    "text": " They're so, they're so classy."
+  },
+  {
+    "start": 1337.94,
+    "end": 1338.94,
+    "text": " The umbrella's in there."
+  },
+  {
+    "start": 1338.94,
+    "end": 1340.94,
+    "text": " I bought one from there once as a real treat to myself."
+  },
+  {
+    "start": 1340.94,
+    "end": 1343.94,
+    "text": " It was just after you found that money in the street, wasn't it?"
+  },
+  {
+    "start": 1343.94,
+    "end": 1347.74,
+    "text": " And I've lost it now and I'm so gutted because it was this beautiful thing, but they give"
+  },
+  {
+    "start": 1347.74,
+    "end": 1349.82,
+    "text": " you a tutorial on how to open and close it."
+  },
+  {
+    "start": 1349.82,
+    "end": 1350.82,
+    "text": " Like, they get special."
+  },
+  {
+    "start": 1350.82,
+    "end": 1351.82,
+    "text": " Really?"
+  },
+  {
+    "start": 1351.82,
+    "end": 1353.38,
+    "text": " It's a bit embarrassing to go through it."
+  },
+  {
+    "start": 1353.38,
+    "end": 1358.2,
+    "text": " And does that umbrella shop have lots of little umbrella shops throughout the world?"
+  },
+  {
+    "start": 1358.2,
+    "end": 1359.2,
+    "text": " I think it's one of a kind."
+  },
+  {
+    "start": 1359.2,
+    "end": 1361.2,
+    "text": " Oh, it's not an umbrella organisation."
+  },
+  {
+    "start": 1361.2,
+    "end": 1362.2,
+    "text": " Oh gosh."
+  },
+  {
+    "start": 1362.2,
+    "end": 1363.2,
+    "text": " Oh gosh."
+  },
+  {
+    "start": 1363.2,
+    "end": 1364.2,
+    "text": " What?"
+  },
+  {
+    "start": 1364.2,
+    "end": 1365.2,
+    "text": " What?"
+  },
+  {
+    "start": 1365.2,
+    "end": 1366.2,
+    "text": " What?"
+  },
+  {
+    "start": 1366.2,
+    "end": 1368.2,
+    "text": " You had to wonder where he was going with the questions."
+  },
+  {
+    "start": 1368.2,
+    "end": 1370.7,
+    "text": " I just love the way you walk straight into that."
+  },
+  {
+    "start": 1370.7,
+    "end": 1377.12,
+    "text": " Well, these guys are being dex as usual, but I'm glad Rhys is interested in umbrella shop"
+  },
+  {
+    "start": 1377.12,
+    "end": 1378.12,
+    "text": " logistics."
+  },
+  {
+    "start": 1378.12,
+    "end": 1384.76,
+    "text": " Guys, if you found a wallet on the street, then would you be more likely to hand it in"
+  },
+  {
+    "start": 1384.76,
+    "end": 1385.96,
+    "text": " if it had money in?"
+  },
+  {
+    "start": 1385.96,
+    "end": 1389.24,
+    "text": " If it's got other forms of ID, I hope I would just hand it in anyway."
+  },
+  {
+    "start": 1389.24,
+    "end": 1390.24,
+    "text": " Regardless."
+  },
+  {
+    "start": 1390.24,
+    "end": 1392.68,
+    "text": " Even if it had a million pounds in it."
+  },
+  {
+    "start": 1392.68,
+    "end": 1393.68,
+    "text": " How big is this wallet?"
+  },
+  {
+    "start": 1393.68,
+    "end": 1394.68,
+    "text": " What is it?"
+  },
+  {
+    "start": 1394.68,
+    "end": 1395.68,
+    "text": " What is it?"
+  },
+  {
+    "start": 1395.68,
+    "end": 1396.84,
+    "text": " What denomination and currency are we talking about?"
+  },
+  {
+    "start": 1396.84,
+    "end": 1397.84,
+    "text": " Is it in crypto?"
+  },
+  {
+    "start": 1397.84,
+    "end": 1398.84,
+    "text": " What are you talking about?"
+  },
+  {
+    "start": 1398.84,
+    "end": 1401.44,
+    "text": " No, I think I would hand it in no matter what, actually."
+  },
+  {
+    "start": 1401.44,
+    "end": 1402.44,
+    "text": " Yeah."
+  },
+  {
+    "start": 1402.44,
+    "end": 1403.44,
+    "text": " I'm sure we're all honest people."
+  },
+  {
+    "start": 1403.44,
+    "end": 1406.64,
+    "text": " Rhys, you haven't piped up, but we're just going to assume."
+  },
+  {
+    "start": 1406.64,
+    "end": 1410.12,
+    "text": " Well, it depends on your circumstances, isn't it?"
+  },
+  {
+    "start": 1410.12,
+    "end": 1415.24,
+    "text": " We're all sitting here in a nice building where we've got money, but I think if you"
+  },
+  {
+    "start": 1415.24,
+    "end": 1420.08,
+    "text": " have anything, I think, you know, got to pick up a door too."
+  },
+  {
+    "start": 1420.08,
+    "end": 1421.08,
+    "text": " Very good point."
+  },
+  {
+    "start": 1421.08,
+    "end": 1425.88,
+    "text": " You've shamed us all into having a bit of perspective, but the truth is that if you"
+  },
+  {
+    "start": 1425.88,
+    "end": 1429.52,
+    "text": " drop a wallet with money in it, that's better than dropping one without because you're more"
+  },
+  {
+    "start": 1429.52,
+    "end": 1431.12,
+    "text": " likely to get it back."
+  },
+  {
+    "start": 1431.12,
+    "end": 1437.88,
+    "text": " And this really surprised people. This is a study in 2019 which planted 17,303 wallets"
+  },
+  {
+    "start": 1437.88,
+    "end": 1438.88,
+    "text": " around the world."
+  },
+  {
+    "start": 1438.88,
+    "end": 1439.88,
+    "text": " Wow."
+  },
+  {
+    "start": 1439.88,
+    "end": 1440.88,
+    "text": " It's got a big study."
+  },
+  {
+    "start": 1440.88,
+    "end": 1441.88,
+    "text": " Did they need to do it?"
+  },
+  {
+    "start": 1441.88,
+    "end": 1443.88,
+    "text": " Did they need to do the last three?"
+  },
+  {
+    "start": 1443.88,
+    "end": 1444.88,
+    "text": " No."
+  },
+  {
+    "start": 1444.88,
+    "end": 1445.88,
+    "text": " We're doing 17,300."
+  },
+  {
+    "start": 1445.88,
+    "end": 1449.16,
+    "text": " I don't think that's a good sample size."
+  },
+  {
+    "start": 1449.16,
+    "end": 1450.4,
+    "text": " Maybe there was three researchers."
+  },
+  {
+    "start": 1450.4,
+    "end": 1453.76,
+    "text": " They dropped the 17,000 and they realized it accidentally dropped their own wallets as"
+  },
+  {
+    "start": 1453.76,
+    "end": 1454.76,
+    "text": " well."
+  },
+  {
+    "start": 1454.76,
+    "end": 1455.76,
+    "text": " I think that was it."
+  },
+  {
+    "start": 1455.76,
+    "end": 1456.76,
+    "text": " You're not going to believe this."
+  },
+  {
+    "start": 1456.76,
+    "end": 1457.76,
+    "text": " I lost my own."
+  },
+  {
+    "start": 1457.76,
+    "end": 1459.96,
+    "text": " Just grab one from the collection."
+  },
+  {
+    "start": 1459.96,
+    "end": 1461.96,
+    "text": " How the hell do they get them?"
+  },
+  {
+    "start": 1461.96,
+    "end": 1464.84,
+    "text": " Anyway, they dropped them in 355 cities all over the world."
+  },
+  {
+    "start": 1464.84,
+    "end": 1468.96,
+    "text": " So this is completely cross-cultural and half of them had no money in them."
+  },
+  {
+    "start": 1468.96,
+    "end": 1476.56,
+    "text": " Half of them had $13.45 in them and 40% were returned when they had no cash, but 51% were"
+  },
+  {
+    "start": 1476.56,
+    "end": 1477.76,
+    "text": " returned when they had cash."
+  },
+  {
+    "start": 1477.76,
+    "end": 1478.76,
+    "text": " Wow."
+  },
+  {
+    "start": 1478.76,
+    "end": 1480.56,
+    "text": " And they thought this is about weird, isn't it?"
+  },
+  {
+    "start": 1480.56,
+    "end": 1487.08,
+    "text": " So they did a follow-up study where they put another load with $94 in and the ones"
+  },
+  {
+    "start": 1487.08,
+    "end": 1493.56,
+    "text": " with $94, 72% were returned compared to only $60 for the $13, because I guess the thinking"
+  },
+  {
+    "start": 1493.56,
+    "end": 1495.64,
+    "text": " being that someone might really need it."
+  },
+  {
+    "start": 1495.64,
+    "end": 1499.8,
+    "text": " It feels a bit more like stealing if you've stole the $90 compared to $13."
+  },
+  {
+    "start": 1499.8,
+    "end": 1501.8,
+    "text": " Mo money, mo guilt."
+  },
+  {
+    "start": 1501.8,
+    "end": 1502.8,
+    "text": " Exactly."
+  },
+  {
+    "start": 1502.8,
+    "end": 1503.8,
+    "text": " Yeah."
+  },
+  {
+    "start": 1503.8,
+    "end": 1504.8,
+    "text": " So."
+  },
+  {
+    "start": 1504.8,
+    "end": 1505.8,
+    "text": " Can I do one test on you guys?"
+  },
+  {
+    "start": 1505.8,
+    "end": 1506.8,
+    "text": " Yeah, go on."
+  },
+  {
+    "start": 1506.8,
+    "end": 1510.76,
+    "text": " I'm going to give you three words and I want to tell you which two words go together instinctively"
+  },
+  {
+    "start": 1510.76,
+    "end": 1511.76,
+    "text": " for you."
+  },
+  {
+    "start": 1511.76,
+    "end": 1513.36,
+    "text": " This is related to this fact."
+  },
+  {
+    "start": 1513.36,
+    "end": 1517.04,
+    "text": " So the three words are train, bus, track."
+  },
+  {
+    "start": 1517.04,
+    "end": 1518.04,
+    "text": " Okay."
+  },
+  {
+    "start": 1518.04,
+    "end": 1519.4,
+    "text": " Train and track alphabetically."
+  },
+  {
+    "start": 1519.4,
+    "end": 1520.4,
+    "text": " Very close together."
+  },
+  {
+    "start": 1520.4,
+    "end": 1521.4,
+    "text": " Sorry."
+  },
+  {
+    "start": 1521.4,
+    "end": 1524.08,
+    "text": " Well, these were in the game."
+  },
+  {
+    "start": 1524.08,
+    "end": 1525.08,
+    "text": " What's the challenge?"
+  },
+  {
+    "start": 1525.08,
+    "end": 1526.08,
+    "text": " Train, track and bus."
+  },
+  {
+    "start": 1526.08,
+    "end": 1527.08,
+    "text": " Yeah."
+  },
+  {
+    "start": 1527.08,
+    "end": 1528.08,
+    "text": " Well, trains go on tracks."
+  },
+  {
+    "start": 1528.08,
+    "end": 1529.08,
+    "text": " Do we pick?"
+  },
+  {
+    "start": 1529.08,
+    "end": 1530.08,
+    "text": " Do we pick two words?"
+  },
+  {
+    "start": 1530.08,
+    "end": 1531.08,
+    "text": " Which two go together for you?"
+  },
+  {
+    "start": 1531.08,
+    "end": 1532.08,
+    "text": " Train, track, bus?"
+  },
+  {
+    "start": 1532.08,
+    "end": 1536.08,
+    "text": " Well, I normally track my wife as she travels around on the bus every day, so I'd say bus"
+  },
+  {
+    "start": 1536.08,
+    "end": 1537.08,
+    "text": " and track."
+  },
+  {
+    "start": 1537.08,
+    "end": 1538.08,
+    "text": " There you go."
+  },
+  {
+    "start": 1538.08,
+    "end": 1539.08,
+    "text": " Yeah."
+  },
+  {
+    "start": 1539.08,
+    "end": 1540.08,
+    "text": " Okay."
+  },
+  {
+    "start": 1540.08,
+    "end": 1541.08,
+    "text": " I feel like that's something that's seriously either."
+  },
+  {
+    "start": 1541.08,
+    "end": 1542.08,
+    "text": " There is."
+  },
+  {
+    "start": 1542.08,
+    "end": 1547.36,
+    "text": " Well, like when I joined the Army with the aptitude tests, just a lucky dip for me."
+  },
+  {
+    "start": 1547.36,
+    "end": 1548.36,
+    "text": " Train and bus."
+  },
+  {
+    "start": 1548.36,
+    "end": 1551.36,
+    "text": " Thank you for no good reason."
+  },
+  {
+    "start": 1551.36,
+    "end": 1552.36,
+    "text": " You've given me the answer."
+  },
+  {
+    "start": 1552.36,
+    "end": 1553.36,
+    "text": " I wanted."
+  },
+  {
+    "start": 1553.36,
+    "end": 1554.36,
+    "text": " Bombs of transport."
+  },
+  {
+    "start": 1554.36,
+    "end": 1555.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 1555.36,
+    "end": 1558.44,
+    "text": " So this is a difference between Eastern and Western cultures and this is so part of this"
+  },
+  {
+    "start": 1558.44,
+    "end": 1563.16,
+    "text": " thing about Japanese people handing stuff in, like very different culturally, collective"
+  },
+  {
+    "start": 1563.16,
+    "end": 1567.44,
+    "text": " cultures dominate the East, individualist cultures dominate the West quite broadly."
+  },
+  {
+    "start": 1567.44,
+    "end": 1568.44,
+    "text": " And there are these huge differences."
+  },
+  {
+    "start": 1568.44,
+    "end": 1573.28,
+    "text": " And then one of them is that given those three words, most Westerners say train and bus because"
+  },
+  {
+    "start": 1573.28,
+    "end": 1578.56,
+    "text": " we think of things in categories, but most people from China or Japan or Korea will say"
+  },
+  {
+    "start": 1578.56,
+    "end": 1581.24,
+    "text": " train and track because everything is relational."
+  },
+  {
+    "start": 1581.24,
+    "end": 1585.8,
+    "text": " So for instance, if you ask someone to describe themselves in the West, they'll say, oh, I'm"
+  },
+  {
+    "start": 1585.8,
+    "end": 1586.8,
+    "text": " a QI researcher."
+  },
+  {
+    "start": 1586.8,
+    "end": 1587.8,
+    "text": " Tall and handsome."
+  },
+  {
+    "start": 1587.8,
+    "end": 1588.8,
+    "text": " Exactly."
+  },
+  {
+    "start": 1588.8,
+    "end": 1592.72,
+    "text": " We also lie a lot in our culture, don't we?"
+  },
+  {
+    "start": 1592.72,
+    "end": 1593.72,
+    "text": " We do."
+  },
+  {
+    "start": 1593.72,
+    "end": 1597.28,
+    "text": " Anna, which culture do people say bus and track in, please?"
+  },
+  {
+    "start": 1597.28,
+    "end": 1600.28,
+    "text": " I'm here to rule myself out of East and West."
+  },
+  {
+    "start": 1600.28,
+    "end": 1602.12,
+    "text": " Have you heard of the Andaman Islands?"
+  },
+  {
+    "start": 1602.12,
+    "end": 1603.12,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1603.12,
+    "end": 1604.12,
+    "text": " Oh, come on."
+  },
+  {
+    "start": 1604.12,
+    "end": 1605.12,
+    "text": " Uncontacted tribes."
+  },
+  {
+    "start": 1605.12,
+    "end": 1606.12,
+    "text": " They're my people."
+  },
+  {
+    "start": 1606.12,
+    "end": 1610.52,
+    "text": " This is a slightly different, forget the buses and the tracks."
+  },
+  {
+    "start": 1610.52,
+    "end": 1614.88,
+    "text": " If you're Japanese or Chinese, you would more likely say, I'm so-and-so sister, I'm so-and-so"
+  },
+  {
+    "start": 1614.88,
+    "end": 1618.68,
+    "text": " daughter, I'm employed by so-and-so, I'm the friend of so-and-so that it's all about like"
+  },
+  {
+    "start": 1618.68,
+    "end": 1619.68,
+    "text": " in relations."
+  },
+  {
+    "start": 1619.68,
+    "end": 1623.44,
+    "text": " Anyway, we've thought that this is a difference between spiritual cultures and collectivism"
+  },
+  {
+    "start": 1623.44,
+    "end": 1625.12,
+    "text": " and things like that."
+  },
+  {
+    "start": 1625.12,
+    "end": 1630.04,
+    "text": " And then there was an amazing study done in the border of China and Russia, which looked"
+  },
+  {
+    "start": 1630.04,
+    "end": 1635.32,
+    "text": " at rice farming versus grain farming, and it's completely split on those grounds."
+  },
+  {
+    "start": 1635.32,
+    "end": 1640.76,
+    "text": " And people with these more communal, collective responses to things are rice farmers, whereas"
+  },
+  {
+    "start": 1640.76,
+    "end": 1642.72,
+    "text": " grain farmers are more individualist."
+  },
+  {
+    "start": 1642.72,
+    "end": 1646.34,
+    "text": " And we think now it's just because rice farming involves way more cooperation."
+  },
+  {
+    "start": 1646.34,
+    "end": 1647.34,
+    "text": " That's really interesting."
+  },
+  {
+    "start": 1647.34,
+    "end": 1651.48,
+    "text": " I read another study which I think is related to this, which is, if you're in Starbucks,"
+  },
+  {
+    "start": 1651.48,
+    "end": 1655.94,
+    "text": " because I think it was done in Starbucks, and you need to get from one place to another,"
+  },
+  {
+    "start": 1655.94,
+    "end": 1659.16,
+    "text": " so from your seat to the place where you buy your coffee."
+  },
+  {
+    "start": 1659.16,
+    "end": 1663.76,
+    "text": " If there's chairs in the way, Western people will sort of dodge around the chairs and get"
+  },
+  {
+    "start": 1663.76,
+    "end": 1667.6,
+    "text": " to the place where they're supposed to go, whereas Eastern people will move the chairs"
+  },
+  {
+    "start": 1667.6,
+    "end": 1670.42,
+    "text": " out of the way and put them where they're supposed to be so that the next person can"
+  },
+  {
+    "start": 1670.42,
+    "end": 1671.42,
+    "text": " get there as well."
+  },
+  {
+    "start": 1671.42,
+    "end": 1672.42,
+    "text": " That's nice."
+  },
+  {
+    "start": 1672.42,
+    "end": 1673.42,
+    "text": " Wait, are there people on the chairs?"
+  },
+  {
+    "start": 1673.42,
+    "end": 1674.42,
+    "text": " No."
+  },
+  {
+    "start": 1674.42,
+    "end": 1679.92,
+    "text": " And Andy, of course, turns all the chairs upside down and pours coffee on them."
+  },
+  {
+    "start": 1679.92,
+    "end": 1682.04,
+    "text": " What's your Starbucks coffee name?"
+  },
+  {
+    "start": 1682.04,
+    "end": 1683.88,
+    "text": " Oh, I use my actual name."
+  },
+  {
+    "start": 1683.88,
+    "end": 1684.88,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 1684.88,
+    "end": 1685.88,
+    "text": " Yeah."
+  },
+  {
+    "start": 1685.88,
+    "end": 1686.88,
+    "text": " What do you use, Rhys?"
+  },
+  {
+    "start": 1686.88,
+    "end": 1687.88,
+    "text": " Chris Nibble."
+  },
+  {
+    "start": 1687.88,
+    "end": 1688.88,
+    "text": " Do you, actually?"
+  },
+  {
+    "start": 1688.88,
+    "end": 1689.88,
+    "text": " Mmm."
+  },
+  {
+    "start": 1689.88,
+    "end": 1692.88,
+    "text": " But I always say the nibble."
+  },
+  {
+    "start": 1692.88,
+    "end": 1693.88,
+    "text": " Yeah."
+  },
+  {
+    "start": 1693.88,
+    "end": 1694.88,
+    "text": " Yeah."
+  },
+  {
+    "start": 1694.88,
+    "end": 1695.88,
+    "text": " Do you tell them to definitely say the nibble?"
+  },
+  {
+    "start": 1695.88,
+    "end": 1696.88,
+    "text": " Nice."
+  },
+  {
+    "start": 1696.88,
+    "end": 1697.88,
+    "text": " If you say Chris, you don't respond."
+  },
+  {
+    "start": 1697.88,
+    "end": 1698.88,
+    "text": " Yeah."
+  },
+  {
+    "start": 1698.88,
+    "end": 1699.88,
+    "text": " They need to say Chris Nibble."
+  },
+  {
+    "start": 1699.88,
+    "end": 1705.12,
+    "text": " And then one time I got like something that was edible, and I was in the corner and I was"
+  },
+  {
+    "start": 1705.12,
+    "end": 1711.04,
+    "text": " just having really tiny nibbles on it for about half an hour, and I left most of it behind."
+  },
+  {
+    "start": 1711.04,
+    "end": 1715,
+    "text": " And I wondered whether they thought, \"Oh, yeah, that'll be him.\""
+  },
+  {
+    "start": 1715,
+    "end": 1716,
+    "text": " Nibble by name."
+  },
+  {
+    "start": 1716,
+    "end": 1717,
+    "text": " Nibble by name."
+  },
+  {
+    "start": 1717,
+    "end": 1719.48,
+    "text": " They'll be thinking, \"That's Rhys Stalpey.\""
+  },
+  {
+    "start": 1719.48,
+    "end": 1727.8,
+    "text": " There's also a test to see whether they know who I am or not, you know?"
+  },
+  {
+    "start": 1727.8,
+    "end": 1734.16,
+    "text": " And then as I leave, I knew you didn't know who I am, as if I was Chris Nibble, and you"
+  },
+  {
+    "start": 1734.16,
+    "end": 1737.56,
+    "text": " couldn't keep the rest of this panini."
+  },
+  {
+    "start": 1737.56,
+    "end": 1747.68,
+    "text": " Okay, time for fact number three, and that is Andy."
+  },
+  {
+    "start": 1747.68,
+    "end": 1752.04,
+    "text": " My fact is that when trains were new in New Zealand, an elderly lady flagged one down"
+  },
+  {
+    "start": 1752.04,
+    "end": 1756.36,
+    "text": " by standing on the tracks to see if anyone could give her change for a £1 note."
+  },
+  {
+    "start": 1756.36,
+    "end": 1757.36,
+    "text": " Oh."
+  },
+  {
+    "start": 1757.36,
+    "end": 1758.36,
+    "text": " Wow."
+  },
+  {
+    "start": 1758.36,
+    "end": 1759.36,
+    "text": " That's..."
+  },
+  {
+    "start": 1759.36,
+    "end": 1760.36,
+    "text": " Nice."
+  },
+  {
+    "start": 1760.36,
+    "end": 1761.36,
+    "text": " This is a story of something that really happened."
+  },
+  {
+    "start": 1761.36,
+    "end": 1762.36,
+    "text": " Wow."
+  },
+  {
+    "start": 1762.36,
+    "end": 1767.2,
+    "text": " It's related in a book called Our Iron Roads by F.S. Williams, and I'm doing a little bit"
+  },
+  {
+    "start": 1767.2,
+    "end": 1769.12,
+    "text": " of prop comedy here because I brought in a copy."
+  },
+  {
+    "start": 1769.12,
+    "end": 1770.12,
+    "text": " Oh, look at that."
+  },
+  {
+    "start": 1770.12,
+    "end": 1771.12,
+    "text": " It is stunning."
+  },
+  {
+    "start": 1771.12,
+    "end": 1772.12,
+    "text": " This was printed in 1883."
+  },
+  {
+    "start": 1772.12,
+    "end": 1774.32,
+    "text": " Sorry, you said prop comedy?"
+  },
+  {
+    "start": 1774.32,
+    "end": 1775.32,
+    "text": " Hmm."
+  },
+  {
+    "start": 1775.32,
+    "end": 1778.64,
+    "text": " It's a very bland, hard-backed book."
+  },
+  {
+    "start": 1778.64,
+    "end": 1779.64,
+    "text": " It's..."
+  },
+  {
+    "start": 1779.64,
+    "end": 1781.88,
+    "text": " Wait for the comedy."
+  },
+  {
+    "start": 1781.88,
+    "end": 1785.2,
+    "text": " I'm happy that New Zealand is mentioned in one of these old books."
+  },
+  {
+    "start": 1785.2,
+    "end": 1788.88,
+    "text": " Yeah, because trains were not very late in New Zealand, not much after the rest of the"
+  },
+  {
+    "start": 1788.88,
+    "end": 1792.28,
+    "text": " world, but it's quite a hard country to navigate around, isn't it, by train, just because"
+  },
+  {
+    "start": 1792.28,
+    "end": 1794.36,
+    "text": " there's a lot of valleys and canyons and things."
+  },
+  {
+    "start": 1794.36,
+    "end": 1795.36,
+    "text": " Yes."
+  },
+  {
+    "start": 1795.36,
+    "end": 1796.36,
+    "text": " Yeah, I imagine."
+  },
+  {
+    "start": 1796.36,
+    "end": 1800.68,
+    "text": " But there's this anecdote, it's paid £402 if you're reading along at home."
+  },
+  {
+    "start": 1800.68,
+    "end": 1804.92,
+    "text": " The eccentricities of English travellers, however, if dangerous are not so odd as some"
+  },
+  {
+    "start": 1804.92,
+    "end": 1810.68,
+    "text": " in foreign parts, that's in quotes, it is said, so big tongs there, that not long ago"
+  },
+  {
+    "start": 1810.68,
+    "end": 1814.52,
+    "text": " an engine driver in New Zealand noticed a lady energetically waving her hand at a siding"
+  },
+  {
+    "start": 1814.52,
+    "end": 1816.08,
+    "text": " where he was not time to stop."
+  },
+  {
+    "start": 1816.08,
+    "end": 1821.4,
+    "text": " On pulling up his train, she was asked if she wished to come on board, also in quotes,"
+  },
+  {
+    "start": 1821.4,
+    "end": 1824.64,
+    "text": " when she stated that her object in stopping the train was to ascertain whether any passenger"
+  },
+  {
+    "start": 1824.64,
+    "end": 1826.8,
+    "text": " could give her change for a £1 note."
+  },
+  {
+    "start": 1826.8,
+    "end": 1827.8,
+    "text": " There you go."
+  },
+  {
+    "start": 1827.8,
+    "end": 1828.8,
+    "text": " Wow."
+  },
+  {
+    "start": 1828.8,
+    "end": 1829.8,
+    "text": " So she wanted change."
+  },
+  {
+    "start": 1829.8,
+    "end": 1832.76,
+    "text": " She just flagged it down, like presumably there was a coin operator machine that she"
+  },
+  {
+    "start": 1832.76,
+    "end": 1834.72,
+    "text": " was sending the next day and like..."
+  },
+  {
+    "start": 1834.72,
+    "end": 1837.32,
+    "text": " Did they give the year there?"
+  },
+  {
+    "start": 1837.32,
+    "end": 1841.4,
+    "text": " It's no, not long ago, and this was printed in 1883, so..."
+  },
+  {
+    "start": 1841.4,
+    "end": 1842.4,
+    "text": " Okay."
+  },
+  {
+    "start": 1842.4,
+    "end": 1845.88,
+    "text": " Well, I think the first trains were what, in the 1870s, so..."
+  },
+  {
+    "start": 1845.88,
+    "end": 1848.04,
+    "text": " Oh no, 1830, well, in the UK, 1830s."
+  },
+  {
+    "start": 1848.04,
+    "end": 1849.04,
+    "text": " And sorry, in New Zealand."
+  },
+  {
+    "start": 1849.04,
+    "end": 1850.04,
+    "text": " How were they?"
+  },
+  {
+    "start": 1850.04,
+    "end": 1851.04,
+    "text": " Oh, that's quite late."
+  },
+  {
+    "start": 1851.04,
+    "end": 1852.04,
+    "text": " I think they were in the late '70s, 1870s."
+  },
+  {
+    "start": 1852.04,
+    "end": 1853.04,
+    "text": " That's really late."
+  },
+  {
+    "start": 1853.04,
+    "end": 1854.04,
+    "text": " I think so."
+  },
+  {
+    "start": 1854.04,
+    "end": 1857.72,
+    "text": " And the first ones were in various different cities, and it was usually to get from the"
+  },
+  {
+    "start": 1857.72,
+    "end": 1859.36,
+    "text": " ports to the city."
+  },
+  {
+    "start": 1859.36,
+    "end": 1861.52,
+    "text": " So in Vicargo, there was loads of swamps."
+  },
+  {
+    "start": 1861.52,
+    "end": 1864.56,
+    "text": " You had to get past, so they put a railway line there."
+  },
+  {
+    "start": 1864.56,
+    "end": 1868.16,
+    "text": " In Dunedin, you had to go over some difficult land to get there."
+  },
+  {
+    "start": 1868.16,
+    "end": 1871.84,
+    "text": " In Christchurch, you had to go over some hills, and so they all put these different railways"
+  },
+  {
+    "start": 1871.84,
+    "end": 1874,
+    "text": " in, but they all used different gauges."
+  },
+  {
+    "start": 1874,
+    "end": 1875,
+    "text": " Oh God."
+  },
+  {
+    "start": 1875,
+    "end": 1878.72,
+    "text": " And so when they decided to put the whole country together, so the gauge is the width"
+  },
+  {
+    "start": 1878.72,
+    "end": 1879.72,
+    "text": " of the railway line."
+  },
+  {
+    "start": 1879.72,
+    "end": 1880.72,
+    "text": " Right."
+  },
+  {
+    "start": 1880.72,
+    "end": 1883.24,
+    "text": " And when they decided to put the whole country together, they were like, OK, this is going"
+  },
+  {
+    "start": 1883.24,
+    "end": 1884.4,
+    "text": " to be a problem."
+  },
+  {
+    "start": 1884.4,
+    "end": 1889.12,
+    "text": " And in the end, they went for this thing, which is three foot six inch gauge, which was kind"
+  },
+  {
+    "start": 1889.12,
+    "end": 1890.12,
+    "text": " of the smallest."
+  },
+  {
+    "start": 1890.12,
+    "end": 1891.12,
+    "text": " That's narrow gauge."
+  },
+  {
+    "start": 1891.12,
+    "end": 1892.12,
+    "text": " It's really narrow."
+  },
+  {
+    "start": 1892.12,
+    "end": 1894.64,
+    "text": " And the reason was because it was kind of cheaper."
+  },
+  {
+    "start": 1894.64,
+    "end": 1895.64,
+    "text": " But apparently..."
+  },
+  {
+    "start": 1895.64,
+    "end": 1896.64,
+    "text": " Typical Kiwis."
+  },
+  {
+    "start": 1896.64,
+    "end": 1897.64,
+    "text": " That's such a false economy."
+  },
+  {
+    "start": 1897.64,
+    "end": 1898.64,
+    "text": " Go with the cheap gauge."
+  },
+  {
+    "start": 1898.64,
+    "end": 1899.64,
+    "text": " Go with the cheap one!"
+  },
+  {
+    "start": 1899.64,
+    "end": 1904.32,
+    "text": " But apparently, if you ride on modern railways even, it's like riding the Piccadilly line"
+  },
+  {
+    "start": 1904.32,
+    "end": 1906.64,
+    "text": " in London, which is very sort of jerky and..."
+  },
+  {
+    "start": 1906.64,
+    "end": 1907.64,
+    "text": " Rickety."
+  },
+  {
+    "start": 1907.64,
+    "end": 1908.64,
+    "text": " Rickety."
+  },
+  {
+    "start": 1908.64,
+    "end": 1909.64,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 1909.64,
+    "end": 1910.64,
+    "text": " Because of that gauge?"
+  },
+  {
+    "start": 1910.64,
+    "end": 1911.64,
+    "text": " Yeah."
+  },
+  {
+    "start": 1911.64,
+    "end": 1916.6,
+    "text": " The gauge system that I've always been entertained by, the most, is the oddest."
+  },
+  {
+    "start": 1916.6,
+    "end": 1917.6,
+    "text": " And everyone's got one."
+  },
+  {
+    "start": 1917.6,
+    "end": 1918.6,
+    "text": " Oh, God."
+  },
+  {
+    "start": 1918.6,
+    "end": 1921.44,
+    "text": " Save it for your spinoff podcast, Anna."
+  },
+  {
+    "start": 1921.44,
+    "end": 1925.2,
+    "text": " My favourite gauge, that's a good seed."
+  },
+  {
+    "start": 1925.2,
+    "end": 1928.16,
+    "text": " We ask a global megastar what their favourite gauge is."
+  },
+  {
+    "start": 1928.16,
+    "end": 1929.76,
+    "text": " This week, Tom Cruise."
+  },
+  {
+    "start": 1929.76,
+    "end": 1930.76,
+    "text": " Next week, Chris Dibble."
+  },
+  {
+    "start": 1930.76,
+    "end": 1933.92,
+    "text": " Guys, it's going to run and run, I'm telling you."
+  },
+  {
+    "start": 1933.92,
+    "end": 1937.6,
+    "text": " You can keep the rest of that panini!"
+  },
+  {
+    "start": 1937.6,
+    "end": 1941.32,
+    "text": " My favourite gauge is the Australian gauge system, which I'm sure you're very familiar"
+  },
+  {
+    "start": 1941.32,
+    "end": 1942.64,
+    "text": " with, which is mad."
+  },
+  {
+    "start": 1942.64,
+    "end": 1945.68,
+    "text": " So they basically did what New Zealand did, but then they never put their country together"
+  },
+  {
+    "start": 1945.68,
+    "end": 1947.64,
+    "text": " properly train-wise."
+  },
+  {
+    "start": 1947.64,
+    "end": 1952.16,
+    "text": " So it's also a joke involving an Irishman, a Scotsman and an Englishman."
+  },
+  {
+    "start": 1952.16,
+    "end": 1953.16,
+    "text": " Perfect."
+  },
+  {
+    "start": 1953.16,
+    "end": 1956.32,
+    "text": " Because basically, we're in the 1850s, there was an Irish guy, Francis Shields, who's in"
+  },
+  {
+    "start": 1956.32,
+    "end": 1958.44,
+    "text": " charge of a rail company in New South Wales."
+  },
+  {
+    "start": 1958.44,
+    "end": 1961.28,
+    "text": " He likes a broad gauge, the Irish gauge."
+  },
+  {
+    "start": 1961.28,
+    "end": 1966.08,
+    "text": " Then, Scottish James Wallace came along, took over shortly afterwards, converted New South"
+  },
+  {
+    "start": 1966.08,
+    "end": 1970.12,
+    "text": " Wales and some of South Australia to a standard gauge."
+  },
+  {
+    "start": 1970.12,
+    "end": 1974.44,
+    "text": " And then an English bloke came along, rocked up in Western Australia, Tasmania and Queensland,"
+  },
+  {
+    "start": 1974.44,
+    "end": 1977.88,
+    "text": " and made them all do the cheap, cheap-ass narrow gauge."
+  },
+  {
+    "start": 1977.88,
+    "end": 1980.48,
+    "text": " And then some other bloke said, \"Let's do a completely different gauge to transport"
+  },
+  {
+    "start": 1980.48,
+    "end": 1981.48,
+    "text": " sugarcane.\""
+  },
+  {
+    "start": 1981.48,
+    "end": 1984,
+    "text": " The four different gauges never fixed."
+  },
+  {
+    "start": 1984,
+    "end": 1987.14,
+    "text": " Still to this day, if you go on forums about it, the kind of forums that I like to go on"
+  },
+  {
+    "start": 1987.14,
+    "end": 1990.8,
+    "text": " sometime late at night, there are quite a lot of Australians going, \"What's wrong with"
+  },
+  {
+    "start": 1990.8,
+    "end": 1991.8,
+    "text": " our rail system?\""
+  },
+  {
+    "start": 1991.8,
+    "end": 1994.8,
+    "text": " Are there bits where everyone has to get off and get on a train with a different gauge?"
+  },
+  {
+    "start": 1994.8,
+    "end": 1995.8,
+    "text": " Yes."
+  },
+  {
+    "start": 1995.8,
+    "end": 1998,
+    "text": " You'll have to transport your freight across the country and you'll have to transfer your"
+  },
+  {
+    "start": 1998,
+    "end": 1999.84,
+    "text": " goods to new trains four different times."
+  },
+  {
+    "start": 1999.84,
+    "end": 2000.84,
+    "text": " Oh, God!"
+  },
+  {
+    "start": 2000.84,
+    "end": 2004.2,
+    "text": " It really explains where that saying comes from with New Zealand and Australia, and that's"
+  },
+  {
+    "start": 2004.2,
+    "end": 2006.88,
+    "text": " the saying, \"It's difficult to gauge.\""
+  },
+  {
+    "start": 2006.88,
+    "end": 2007.88,
+    "text": " That's what it is."
+  },
+  {
+    "start": 2007.88,
+    "end": 2009.36,
+    "text": " It comes from where I live."
+  },
+  {
+    "start": 2009.36,
+    "end": 2010.36,
+    "text": " Isn't that satisfying?"
+  },
+  {
+    "start": 2010.36,
+    "end": 2011.36,
+    "text": " Now you know that."
+  },
+  {
+    "start": 2011.36,
+    "end": 2012.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2012.36,
+    "end": 2013.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2013.36,
+    "end": 2020.6,
+    "text": " Are you auditioning for a part in a children's transport show or something?"
+  },
+  {
+    "start": 2020.6,
+    "end": 2021.6,
+    "text": " Always."
+  },
+  {
+    "start": 2021.6,
+    "end": 2025,
+    "text": " Rhys, have you ever been on the New Zealand love trade?"
+  },
+  {
+    "start": 2025,
+    "end": 2026,
+    "text": " The love trade?"
+  },
+  {
+    "start": 2026,
+    "end": 2027,
+    "text": " Yeah."
+  },
+  {
+    "start": 2027,
+    "end": 2028,
+    "text": " Not since the '80s."
+  },
+  {
+    "start": 2028,
+    "end": 2029,
+    "text": " Okay."
+  },
+  {
+    "start": 2029,
+    "end": 2031.4,
+    "text": " Well, it's been going, I think, since then."
+  },
+  {
+    "start": 2031.4,
+    "end": 2034.92,
+    "text": " This is, have you heard of a town on the South Island called Middlemarch?"
+  },
+  {
+    "start": 2034.92,
+    "end": 2035.92,
+    "text": " It's small."
+  },
+  {
+    "start": 2035.92,
+    "end": 2037.08,
+    "text": " Very vaguely."
+  },
+  {
+    "start": 2037.08,
+    "end": 2039.52,
+    "text": " Population 186 is small, right?"
+  },
+  {
+    "start": 2039.52,
+    "end": 2044.76,
+    "text": " But every two years, the population absolutely blooms for one night, which is when they have"
+  },
+  {
+    "start": 2044.76,
+    "end": 2050.32,
+    "text": " the Middlemarch Ball and it's a singles ball, because often, you know, if you're on the"
+  },
+  {
+    "start": 2050.32,
+    "end": 2054,
+    "text": " apps and the nearest match is 100 miles away, this is a problem."
+  },
+  {
+    "start": 2054,
+    "end": 2057.88,
+    "text": " So every two years, they have a night where everyone gets the train down to Middlemarch"
+  },
+  {
+    "start": 2057.88,
+    "end": 2062.78,
+    "text": " and there is a special love train put on full of, you know, excited young people wanting"
+  },
+  {
+    "start": 2062.78,
+    "end": 2066.76,
+    "text": " to find love or certainly get off with someone that night, basically."
+  },
+  {
+    "start": 2066.76,
+    "end": 2068.96,
+    "text": " And it's really, it sounds lovely, actually."
+  },
+  {
+    "start": 2068.96,
+    "end": 2072.32,
+    "text": " And then the day after the ball, there's a shame train to take people home who didn't"
+  },
+  {
+    "start": 2072.32,
+    "end": 2073.68,
+    "text": " get the train home the night before."
+  },
+  {
+    "start": 2073.68,
+    "end": 2075.56,
+    "text": " I want to see this movie."
+  },
+  {
+    "start": 2075.56,
+    "end": 2076.56,
+    "text": " Yeah."
+  },
+  {
+    "start": 2076.56,
+    "end": 2077.56,
+    "text": " It sounds charming."
+  },
+  {
+    "start": 2077.56,
+    "end": 2079.84,
+    "text": " Can I just written The Guardian did a lovely report about it."
+  },
+  {
+    "start": 2079.84,
+    "end": 2081.96,
+    "text": " So this is the actual ball itself."
+  },
+  {
+    "start": 2081.96,
+    "end": 2087,
+    "text": " On the dance floor, heels are cast aside as the heady crowd grind against one another."
+  },
+  {
+    "start": 2087,
+    "end": 2093.28,
+    "text": " Sliced hot meats and buttered bread are served in the makeshift kitchen and two worn sofas"
+  },
+  {
+    "start": 2093.28,
+    "end": 2097.32,
+    "text": " placed beside the bain-marie grown under the weight of courting lovers."
+  },
+  {
+    "start": 2097.32,
+    "end": 2098.32,
+    "text": " Oh my goodness."
+  },
+  {
+    "start": 2098.32,
+    "end": 2101.88,
+    "text": " It's so disgusting as well as being innocent."
+  },
+  {
+    "start": 2101.88,
+    "end": 2103.72,
+    "text": " It's really charming, I think."
+  },
+  {
+    "start": 2103.72,
+    "end": 2104.72,
+    "text": " It is."
+  },
+  {
+    "start": 2104.72,
+    "end": 2107.04,
+    "text": " Although I think we all thought when you said sliced hot meats and buttered bread, that"
+  },
+  {
+    "start": 2107.04,
+    "end": 2108.04,
+    "text": " was there."
+  },
+  {
+    "start": 2108.04,
+    "end": 2109.04,
+    "text": " You've missed us for the men of the world."
+  },
+  {
+    "start": 2109.04,
+    "end": 2112.04,
+    "text": " We were thinking of sexual things there, but I thought it was just me."
+  },
+  {
+    "start": 2112.04,
+    "end": 2115.16,
+    "text": " How could you know it wasn't?"
+  },
+  {
+    "start": 2115.16,
+    "end": 2116.16,
+    "text": " That's amazing."
+  },
+  {
+    "start": 2116.16,
+    "end": 2120.2,
+    "text": " Please write in to tell us if you've ever met the love of your life or if you've had"
+  },
+  {
+    "start": 2120.2,
+    "end": 2123.48,
+    "text": " an embarrassing failure to meet the love of your life, buddy yet."
+  },
+  {
+    "start": 2123.48,
+    "end": 2129.76,
+    "text": " So the main railway in New Zealand was built thanks to Julius Vogel, who's prime minister."
+  },
+  {
+    "start": 2129.76,
+    "end": 2130.76,
+    "text": " Oh, yes."
+  },
+  {
+    "start": 2130.76,
+    "end": 2132.76,
+    "text": " I know the bread."
+  },
+  {
+    "start": 2132.76,
+    "end": 2133.76,
+    "text": " It's delicious."
+  },
+  {
+    "start": 2133.76,
+    "end": 2134.76,
+    "text": " Vogel's bread."
+  },
+  {
+    "start": 2134.76,
+    "end": 2135.76,
+    "text": " I've never heard of that."
+  },
+  {
+    "start": 2135.76,
+    "end": 2136.76,
+    "text": " Oh my goodness."
+  },
+  {
+    "start": 2136.76,
+    "end": 2137.76,
+    "text": " It's the best bread."
+  },
+  {
+    "start": 2137.76,
+    "end": 2138.76,
+    "text": " And they don't do it anymore in Waitrose."
+  },
+  {
+    "start": 2138.76,
+    "end": 2141.6,
+    "text": " I'll talk after the podcast, but it's going off the market here."
+  },
+  {
+    "start": 2141.6,
+    "end": 2142.6,
+    "text": " You can still get it in New Zealand."
+  },
+  {
+    "start": 2142.6,
+    "end": 2143.6,
+    "text": " I'm going to move back here too."
+  },
+  {
+    "start": 2143.6,
+    "end": 2146.28,
+    "text": " Is it named after this Kiwi Prime Minister?"
+  },
+  {
+    "start": 2146.28,
+    "end": 2147.28,
+    "text": " Must be."
+  },
+  {
+    "start": 2147.28,
+    "end": 2148.28,
+    "text": " One can only assume."
+  },
+  {
+    "start": 2148.28,
+    "end": 2152.32,
+    "text": " Well, he also, as well as his bread reputation, he has a reputation as being the first New"
+  },
+  {
+    "start": 2152.32,
+    "end": 2154.68,
+    "text": " Zealand to write a science fiction novel."
+  },
+  {
+    "start": 2154.68,
+    "end": 2155.68,
+    "text": " Hey."
+  },
+  {
+    "start": 2155.68,
+    "end": 2160.76,
+    "text": " Yeah, it was called Anno Domini 2000 or Woman's Destiny, and it was published in 1889, and"
+  },
+  {
+    "start": 2160.76,
+    "end": 2165.52,
+    "text": " it anticipated a utopian world where women held many positions of authority."
+  },
+  {
+    "start": 2165.52,
+    "end": 2167.32,
+    "text": " Well, that is New Zealand."
+  },
+  {
+    "start": 2167.32,
+    "end": 2171.4,
+    "text": " Yeah, because he also introduced the first women's suffrage bill to the New Zealand"
+  },
+  {
+    "start": 2171.4,
+    "end": 2172.4,
+    "text": " parliament."
+  },
+  {
+    "start": 2172.4,
+    "end": 2173.8,
+    "text": " I was going to say they were the first country in the world, weren't they?"
+  },
+  {
+    "start": 2173.8,
+    "end": 2178.12,
+    "text": " Now, he introduced a bill, and the bill didn't pass, and then he left parliament, and then"
+  },
+  {
+    "start": 2178.12,
+    "end": 2179.84,
+    "text": " it passed a few years later."
+  },
+  {
+    "start": 2179.84,
+    "end": 2181.24,
+    "text": " So he kind of started the ball roll."
+  },
+  {
+    "start": 2181.24,
+    "end": 2182.24,
+    "text": " That is cool."
+  },
+  {
+    "start": 2182.24,
+    "end": 2187.44,
+    "text": " And had he written the sci-fi as a means of political change, saying this would be a good"
+  },
+  {
+    "start": 2187.44,
+    "end": 2189.52,
+    "text": " society to build?"
+  },
+  {
+    "start": 2189.52,
+    "end": 2192.28,
+    "text": " He introduced the bill in 1887."
+  },
+  {
+    "start": 2192.28,
+    "end": 2198.44,
+    "text": " The science fiction novel was published in 1889, and suffrage was granted in 1893."
+  },
+  {
+    "start": 2198.44,
+    "end": 2199.44,
+    "text": " So it was all happening around the system."
+  },
+  {
+    "start": 2199.44,
+    "end": 2202.84,
+    "text": " So it's like he tried the political method, and if that had failed, so he thought, \"Right,"
+  },
+  {
+    "start": 2202.84,
+    "end": 2204.04,
+    "text": " what other tool do I have?"
+  },
+  {
+    "start": 2204.04,
+    "end": 2205.04,
+    "text": " Sci-fi.\""
+  },
+  {
+    "start": 2205.04,
+    "end": 2208.44,
+    "text": " Sounds like he introduced the bill as a publicity stunt to sell more books than he knew he was"
+  },
+  {
+    "start": 2208.44,
+    "end": 2209.44,
+    "text": " going to write."
+  },
+  {
+    "start": 2209.44,
+    "end": 2210.44,
+    "text": " It's very clever."
+  },
+  {
+    "start": 2210.44,
+    "end": 2212.28,
+    "text": " And that's the story of the first-ever women's suffrage."
+  },
+  {
+    "start": 2212.28,
+    "end": 2213.76,
+    "text": " Some bloke trying to flog some books."
+  },
+  {
+    "start": 2213.76,
+    "end": 2215.64,
+    "text": " That is really cool."
+  },
+  {
+    "start": 2215.64,
+    "end": 2222.24,
+    "text": " The reason trains were needed in New Zealand was transport logs around, and it was mostly"
+  },
+  {
+    "start": 2222.24,
+    "end": 2224.24,
+    "text": " these cow-ree trees, which are..."
+  },
+  {
+    "start": 2224.24,
+    "end": 2225.24,
+    "text": " How do you say it?"
+  },
+  {
+    "start": 2225.24,
+    "end": 2226.24,
+    "text": " Cow-ree?"
+  },
+  {
+    "start": 2226.24,
+    "end": 2227.24,
+    "text": " Cow-ree."
+  },
+  {
+    "start": 2227.24,
+    "end": 2228.24,
+    "text": " Yeah, cow-ree."
+  },
+  {
+    "start": 2228.24,
+    "end": 2229.24,
+    "text": " Cow-ree."
+  },
+  {
+    "start": 2229.24,
+    "end": 2230.24,
+    "text": " Yeah."
+  },
+  {
+    "start": 2230.24,
+    "end": 2232.24,
+    "text": " It's hard to roll my arse, but if you can, you can."
+  },
+  {
+    "start": 2232.24,
+    "end": 2233.24,
+    "text": " Yeah."
+  },
+  {
+    "start": 2233.24,
+    "end": 2234.24,
+    "text": " I have difficulty with it."
+  },
+  {
+    "start": 2234.24,
+    "end": 2236.24,
+    "text": " Well, it was for cow-ree."
+  },
+  {
+    "start": 2236.24,
+    "end": 2241.24,
+    "text": " I felt like I was back in people's march for a second."
+  },
+  {
+    "start": 2241.24,
+    "end": 2244.24,
+    "text": " All the more!"
+  },
+  {
+    "start": 2244.24,
+    "end": 2249.24,
+    "text": " Looks like sliced meat."
+  },
+  {
+    "start": 2249.24,
+    "end": 2254.24,
+    "text": " Logging industry was huge."
+  },
+  {
+    "start": 2254.24,
+    "end": 2258.24,
+    "text": " The cow-ree trees used to cover basically all of New Zealand, now they cover almost none"
+  },
+  {
+    "start": 2258.24,
+    "end": 2260.24,
+    "text": " because they chop them all down."
+  },
+  {
+    "start": 2260.24,
+    "end": 2261.24,
+    "text": " Very sad."
+  },
+  {
+    "start": 2261.24,
+    "end": 2265.24,
+    "text": " But they did this amazing thing, their way of transporting them before they got all the"
+  },
+  {
+    "start": 2265.24,
+    "end": 2268.24,
+    "text": " trains up and running, were these things called cow-ree dams."
+  },
+  {
+    "start": 2268.24,
+    "end": 2271.24,
+    "text": " So normally, you dump logs in a river and they could float downstream."
+  },
+  {
+    "start": 2271.24,
+    "end": 2274.24,
+    "text": " They can't when they're these tiny little weak streams."
+  },
+  {
+    "start": 2274.24,
+    "end": 2275.24,
+    "text": " And so..."
+  },
+  {
+    "start": 2275.24,
+    "end": 2278.24,
+    "text": " We've got a lot of weak streams in New Zealand."
+  },
+  {
+    "start": 2278.24,
+    "end": 2280.24,
+    "text": " It's a shame."
+  },
+  {
+    "start": 2280.24,
+    "end": 2281.24,
+    "text": " Okay."
+  },
+  {
+    "start": 2281.24,
+    "end": 2282.24,
+    "text": " Yeah."
+  },
+  {
+    "start": 2282.24,
+    "end": 2287.24,
+    "text": " They would build dams and they'd leave the dams for a year or more, a year, two years,"
+  },
+  {
+    "start": 2287.24,
+    "end": 2289.24,
+    "text": " and they'd just pile logs up behind the dam."
+  },
+  {
+    "start": 2289.24,
+    "end": 2294.24,
+    "text": " And then one day, they'd come back and they could have up to 30,000 logs behind this dam"
+  },
+  {
+    "start": 2294.24,
+    "end": 2300.24,
+    "text": " and they'd whip up this drawbridge and suddenly 30,000 logs will descend from the mountains"
+  },
+  {
+    "start": 2300.24,
+    "end": 2302.24,
+    "text": " in this giant waterfall."
+  },
+  {
+    "start": 2302.24,
+    "end": 2303.24,
+    "text": " Get out."
+  },
+  {
+    "start": 2303.24,
+    "end": 2304.24,
+    "text": " To the beach."
+  },
+  {
+    "start": 2304.24,
+    "end": 2305.24,
+    "text": " Isn't that amazing?"
+  },
+  {
+    "start": 2305.24,
+    "end": 2307.24,
+    "text": " The beaches just transform."
+  },
+  {
+    "start": 2307.24,
+    "end": 2309.24,
+    "text": " Suddenly, you've gone for a day out on the beach."
+  },
+  {
+    "start": 2309.24,
+    "end": 2311.24,
+    "text": " Oh, my God."
+  },
+  {
+    "start": 2311.24,
+    "end": 2315.24,
+    "text": " You're frantically flogging the donkey or riding faster."
+  },
+  {
+    "start": 2315.24,
+    "end": 2316.24,
+    "text": " He's very old."
+  },
+  {
+    "start": 2316.24,
+    "end": 2317.24,
+    "text": " He goes slowly."
+  },
+  {
+    "start": 2317.24,
+    "end": 2319.24,
+    "text": " Look at the ice cream."
+  },
+  {
+    "start": 2319.24,
+    "end": 2323.24,
+    "text": " The Punch and Judy man is frantically rolling the canvas tight."
+  },
+  {
+    "start": 2323.24,
+    "end": 2325.24,
+    "text": " That is amazing."
+  },
+  {
+    "start": 2325.24,
+    "end": 2326.24,
+    "text": " Wow."
+  },
+  {
+    "start": 2326.24,
+    "end": 2327.24,
+    "text": " It's really cool."
+  },
+  {
+    "start": 2327.24,
+    "end": 2328.24,
+    "text": " That is stunning."
+  },
+  {
+    "start": 2328.24,
+    "end": 2329.24,
+    "text": " Yeah."
+  },
+  {
+    "start": 2329.24,
+    "end": 2333.24,
+    "text": " Your fact, Andy, was about someone getting changed for a one-pound note."
+  },
+  {
+    "start": 2333.24,
+    "end": 2334.24,
+    "text": " Yes."
+  },
+  {
+    "start": 2334.24,
+    "end": 2337.24,
+    "text": " And they didn't know where their currency is, the dollar."
+  },
+  {
+    "start": 2337.24,
+    "end": 2338.24,
+    "text": " Right."
+  },
+  {
+    "start": 2338.24,
+    "end": 2339.24,
+    "text": " Not in those days."
+  },
+  {
+    "start": 2339.24,
+    "end": 2340.24,
+    "text": " Well, yes, exactly."
+  },
+  {
+    "start": 2340.24,
+    "end": 2342.24,
+    "text": " So it's interesting that they did have the pound."
+  },
+  {
+    "start": 2342.24,
+    "end": 2343.24,
+    "text": " Yeah."
+  },
+  {
+    "start": 2343.24,
+    "end": 2346.24,
+    "text": " Until the dollar came in relatively recently, I think."
+  },
+  {
+    "start": 2346.24,
+    "end": 2348.24,
+    "text": " That was one of the moments, I think, when they were right,"
+  },
+  {
+    "start": 2348.24,
+    "end": 2350.24,
+    "text": " \"Well, we're going to have our own currency.\""
+  },
+  {
+    "start": 2350.24,
+    "end": 2352.24,
+    "text": " We'll still have the Queen on it."
+  },
+  {
+    "start": 2352.24,
+    "end": 2354.24,
+    "text": " Which, you know."
+  },
+  {
+    "start": 2354.24,
+    "end": 2356.24,
+    "text": " So when they decided to go for the dollar,"
+  },
+  {
+    "start": 2356.24,
+    "end": 2359.24,
+    "text": " it wasn't obvious that they would call it a New Zealand dollar."
+  },
+  {
+    "start": 2359.24,
+    "end": 2362.24,
+    "text": " They could call anything because they're getting their own currency, right?"
+  },
+  {
+    "start": 2362.24,
+    "end": 2364.24,
+    "text": " They didn't want to be a pound anymore."
+  },
+  {
+    "start": 2364.24,
+    "end": 2366.24,
+    "text": " And so they sent it to the public, basically,"
+  },
+  {
+    "start": 2366.24,
+    "end": 2369.24,
+    "text": " and had a public discussion of what should we call our coin."
+  },
+  {
+    "start": 2369.24,
+    "end": 2371.24,
+    "text": " A lot of people thought they'd call it the Kiwi."
+  },
+  {
+    "start": 2371.24,
+    "end": 2372.24,
+    "text": " Oh, brilliant."
+  },
+  {
+    "start": 2372.24,
+    "end": 2375.24,
+    "text": " The Zeal, as in New Zealand."
+  },
+  {
+    "start": 2375.24,
+    "end": 2376.24,
+    "text": " Nice."
+  },
+  {
+    "start": 2376.24,
+    "end": 2377.24,
+    "text": " I like the Zeal."
+  },
+  {
+    "start": 2377.24,
+    "end": 2379.24,
+    "text": " The NZ, E-M-Z-E-D."
+  },
+  {
+    "start": 2379.24,
+    "end": 2380.24,
+    "text": " They almost called it the NZ."
+  },
+  {
+    "start": 2380.24,
+    "end": 2381.24,
+    "text": " Oh, I like that as well."
+  },
+  {
+    "start": 2381.24,
+    "end": 2383.24,
+    "text": " The Moa, the Zac, the Tui."
+  },
+  {
+    "start": 2383.24,
+    "end": 2385.24,
+    "text": " Those were all ideas to call it."
+  },
+  {
+    "start": 2385.24,
+    "end": 2388.24,
+    "text": " And then because I think Australia had just gone to the dollar"
+  },
+  {
+    "start": 2388.24,
+    "end": 2392.24,
+    "text": " relatively recently, they decided, \"Oh, yeah, we should probably do the same.\""
+  },
+  {
+    "start": 2392.24,
+    "end": 2394.24,
+    "text": " You could have had the Tui."
+  },
+  {
+    "start": 2394.24,
+    "end": 2395.24,
+    "text": " Tui?"
+  },
+  {
+    "start": 2395.24,
+    "end": 2396.24,
+    "text": " Tui, T-U-I."
+  },
+  {
+    "start": 2396.24,
+    "end": 2397.24,
+    "text": " Is that a bird as well?"
+  },
+  {
+    "start": 2397.24,
+    "end": 2398.24,
+    "text": " It's a bird, yeah."
+  },
+  {
+    "start": 2398.24,
+    "end": 2400.24,
+    "text": " Didn't you do this with your flag as well a few years ago?"
+  },
+  {
+    "start": 2400.24,
+    "end": 2401.24,
+    "text": " You had a flag referendum."
+  },
+  {
+    "start": 2401.24,
+    "end": 2402.24,
+    "text": " Yes, we did."
+  },
+  {
+    "start": 2402.24,
+    "end": 2404.24,
+    "text": " So we tend to do these things,"
+  },
+  {
+    "start": 2404.24,
+    "end": 2406.24,
+    "text": " and it costs a lot of money,"
+  },
+  {
+    "start": 2406.24,
+    "end": 2409.24,
+    "text": " and then everyone goes, \"Oh, no, I'll just keep with what we're talking.\""
+  },
+  {
+    "start": 2409.24,
+    "end": 2410.24,
+    "text": " I think that's good."
+  },
+  {
+    "start": 2410.24,
+    "end": 2412.24,
+    "text": " I think it's good to experiment sometimes."
+  },
+  {
+    "start": 2412.24,
+    "end": 2413.24,
+    "text": " I think we could do with more of that here."
+  },
+  {
+    "start": 2413.24,
+    "end": 2415.24,
+    "text": " Although where's New Zealand's something,"
+  },
+  {
+    "start": 2415.24,
+    "end": 2418.24,
+    "text": " something that's something of a spirit when it's naming stuff by public vote."
+  },
+  {
+    "start": 2418.24,
+    "end": 2419.24,
+    "text": " You seem to be lacking that."
+  },
+  {
+    "start": 2419.24,
+    "end": 2420.24,
+    "text": " Yeah."
+  },
+  {
+    "start": 2420.24,
+    "end": 2422.24,
+    "text": " Let's call something a really stupid name for the hell of it."
+  },
+  {
+    "start": 2422.24,
+    "end": 2423.24,
+    "text": " Yeah, I think you're right."
+  },
+  {
+    "start": 2423.24,
+    "end": 2426.24,
+    "text": " You actually get a lot of shit, I think, for your Air Force logo as well."
+  },
+  {
+    "start": 2426.24,
+    "end": 2428.24,
+    "text": " In fact, to go back to Air Force is..."
+  },
+  {
+    "start": 2428.24,
+    "end": 2430.24,
+    "text": " Oh, you were in the Air Force, weren't you, Ruth?"
+  },
+  {
+    "start": 2430.24,
+    "end": 2432.24,
+    "text": " Well, for a little bit."
+  },
+  {
+    "start": 2432.24,
+    "end": 2433.24,
+    "text": " Yes."
+  },
+  {
+    "start": 2433.24,
+    "end": 2435.24,
+    "text": " Shall I put the different outfit on?"
+  },
+  {
+    "start": 2435.24,
+    "end": 2436.24,
+    "text": " You know what your Air Force logo is?"
+  },
+  {
+    "start": 2436.24,
+    "end": 2437.24,
+    "text": " Yes, the Kiwi."
+  },
+  {
+    "start": 2437.24,
+    "end": 2439.24,
+    "text": " This is the Kiwi, and everyone finds it very funny."
+  },
+  {
+    "start": 2439.24,
+    "end": 2441.24,
+    "text": " It's a flightless bird."
+  },
+  {
+    "start": 2441.24,
+    "end": 2443.24,
+    "text": " But they worked hard over that,"
+  },
+  {
+    "start": 2443.24,
+    "end": 2445.24,
+    "text": " and they actually abandoned..."
+  },
+  {
+    "start": 2445.24,
+    "end": 2448.24,
+    "text": " It was a fern leaf before that, I think,"
+  },
+  {
+    "start": 2448.24,
+    "end": 2450.24,
+    "text": " in the '50s and '60s,"
+  },
+  {
+    "start": 2450.24,
+    "end": 2452.24,
+    "text": " which people then pointed out was just a white fern leaf"
+  },
+  {
+    "start": 2452.24,
+    "end": 2453.24,
+    "text": " that looks like a white feather,"
+  },
+  {
+    "start": 2453.24,
+    "end": 2455.24,
+    "text": " which is basically a symbol for surrendering."
+  },
+  {
+    "start": 2455.24,
+    "end": 2459.24,
+    "text": " Which is quite a funny idea, with your warplanes."
+  },
+  {
+    "start": 2459.24,
+    "end": 2461.24,
+    "text": " We just can't get it right."
+  },
+  {
+    "start": 2461.24,
+    "end": 2463.24,
+    "text": " Can I tell you a really quick thing about rail,"
+  },
+  {
+    "start": 2463.24,
+    "end": 2465.24,
+    "text": " and railways?"
+  },
+  {
+    "start": 2465.24,
+    "end": 2469.24,
+    "text": " When did the last horse work on British rail?"
+  },
+  {
+    "start": 2470.24,
+    "end": 2473.24,
+    "text": " Wait, so how did they work?"
+  },
+  {
+    "start": 2473.24,
+    "end": 2475.24,
+    "text": " They'd just been moving trains from one line to another."
+  },
+  {
+    "start": 2475.24,
+    "end": 2477.24,
+    "text": " They're shunting, basically, shunting jobs."
+  },
+  {
+    "start": 2477.24,
+    "end": 2479.24,
+    "text": " They were agile, they're cheap, obviously."
+  },
+  {
+    "start": 2479.24,
+    "end": 2480.24,
+    "text": " They're good for these small jobs,"
+  },
+  {
+    "start": 2480.24,
+    "end": 2482.24,
+    "text": " not for massive, great locomotives."
+  },
+  {
+    "start": 2482.24,
+    "end": 2483.24,
+    "text": " So they'd walk along the tracks?"
+  },
+  {
+    "start": 2483.24,
+    "end": 2484.24,
+    "text": " Pretty much, yeah, yeah."
+  },
+  {
+    "start": 2484.24,
+    "end": 2485.24,
+    "text": " And there were shunting horses,"
+  },
+  {
+    "start": 2485.24,
+    "end": 2486.24,
+    "text": " and that's what they were doing."
+  },
+  {
+    "start": 2486.24,
+    "end": 2489.24,
+    "text": " OK, I'm going to say there is currently a horse working in,"
+  },
+  {
+    "start": 2489.24,
+    "end": 2493.24,
+    "text": " and it sort of nibbles the plants at the edge of the track."
+  },
+  {
+    "start": 2493.24,
+    "end": 2495.24,
+    "text": " I wish that would be so good."
+  },
+  {
+    "start": 2495.24,
+    "end": 2498.24,
+    "text": " No, they're not still in action."
+  },
+  {
+    "start": 2499.24,
+    "end": 2501.24,
+    "text": " OK, 1750."
+  },
+  {
+    "start": 2501.24,
+    "end": 2503.24,
+    "text": " Thank you."
+  },
+  {
+    "start": 2503.24,
+    "end": 2505.24,
+    "text": " 1967."
+  },
+  {
+    "start": 2505.24,
+    "end": 2508.24,
+    "text": " So Charlie, the last British rail shunting horse,"
+  },
+  {
+    "start": 2508.24,
+    "end": 2512.24,
+    "text": " could have heard Sergeant Pepper while in work."
+  },
+  {
+    "start": 2512.24,
+    "end": 2515.24,
+    "text": " What's a weird connection there,"
+  },
+  {
+    "start": 2515.24,
+    "end": 2517.24,
+    "text": " is that Ringo Starr, of course,"
+  },
+  {
+    "start": 2517.24,
+    "end": 2519.24,
+    "text": " is the voice of Thomas the Tank Engine,"
+  },
+  {
+    "start": 2519.24,
+    "end": 2521.24,
+    "text": " and what's Thomas the Tank Engine's job?"
+  },
+  {
+    "start": 2521.24,
+    "end": 2522.24,
+    "text": " A shunting engine."
+  },
+  {
+    "start": 2522.24,
+    "end": 2525.24,
+    "text": " Thomas put the horses out of business."
+  },
+  {
+    "start": 2525.24,
+    "end": 2527.24,
+    "text": " Lovely, that's superb connection."
+  },
+  {
+    "start": 2527.24,
+    "end": 2528.24,
+    "text": " There was debate in the early days"
+  },
+  {
+    "start": 2528.24,
+    "end": 2530.24,
+    "text": " about whether horses or trains would be better."
+  },
+  {
+    "start": 2530.24,
+    "end": 2532.24,
+    "text": " Do you remember the Rainhill Trials,"
+  },
+  {
+    "start": 2532.24,
+    "end": 2535.24,
+    "text": " with this huge competition at Rainhill, where..."
+  },
+  {
+    "start": 2535.24,
+    "end": 2536.24,
+    "text": " Stevenson's Rocket won."
+  },
+  {
+    "start": 2536.24,
+    "end": 2537.24,
+    "text": " Stevenson's Rocket won,"
+  },
+  {
+    "start": 2537.24,
+    "end": 2538.24,
+    "text": " but there were about five contenders."
+  },
+  {
+    "start": 2538.24,
+    "end": 2539.24,
+    "text": " There was Stevenson's Rocket,"
+  },
+  {
+    "start": 2539.24,
+    "end": 2541.24,
+    "text": " there were a few other actual trains,"
+  },
+  {
+    "start": 2541.24,
+    "end": 2543.24,
+    "text": " and then there was Cycloped,"
+  },
+  {
+    "start": 2543.24,
+    "end": 2544.24,
+    "text": " owned by a guy called Thomas Brandrith,"
+  },
+  {
+    "start": 2544.24,
+    "end": 2546.24,
+    "text": " which was a horse walking on a treadmill"
+  },
+  {
+    "start": 2546.24,
+    "end": 2547.24,
+    "text": " on top of a train,"
+  },
+  {
+    "start": 2547.24,
+    "end": 2551.24,
+    "text": " and it was withdrawn."
+  },
+  {
+    "start": 2551.24,
+    "end": 2553.24,
+    "text": " The horse got the thing to five miles an hour,"
+  },
+  {
+    "start": 2553.24,
+    "end": 2554.24,
+    "text": " and then the horse fell through the belt,"
+  },
+  {
+    "start": 2554.24,
+    "end": 2556.24,
+    "text": " and it just did not, it just didn't work."
+  },
+  {
+    "start": 2556.24,
+    "end": 2557.24,
+    "text": " But it could have gone another way."
+  },
+  {
+    "start": 2557.24,
+    "end": 2558.24,
+    "text": " Okay, sliced meat."
+  },
+  {
+    "start": 2558.24,
+    "end": 2559.24,
+    "text": " Oh, God!"
+  },
+  {
+    "start": 2559.24,
+    "end": 2568.24,
+    "text": " Okay, it is time for our final fact,"
+  },
+  {
+    "start": 2568.24,
+    "end": 2569.24,
+    "text": " and that is James."
+  },
+  {
+    "start": 2569.24,
+    "end": 2573.24,
+    "text": " Okay, my fact this week is that in 1936,"
+  },
+  {
+    "start": 2573.24,
+    "end": 2578.24,
+    "text": " a robot in California shot its inventor in the head."
+  },
+  {
+    "start": 2578.24,
+    "end": 2580.24,
+    "text": " So what would that have sounded like?"
+  },
+  {
+    "start": 2580.24,
+    "end": 2585.24,
+    "text": " Oh, no!"
+  },
+  {
+    "start": 2586.24,
+    "end": 2591.24,
+    "text": " Very good California accent, though."
+  },
+  {
+    "start": 2591.24,
+    "end": 2593.24,
+    "text": " That's the robot, that's the robot,"
+  },
+  {
+    "start": 2593.24,
+    "end": 2594.24,
+    "text": " repenting what it's done."
+  },
+  {
+    "start": 2594.24,
+    "end": 2599.24,
+    "text": " So I was looking for something else"
+  },
+  {
+    "start": 2599.24,
+    "end": 2600.24,
+    "text": " in the newspaper archives,"
+  },
+  {
+    "start": 2600.24,
+    "end": 2603.24,
+    "text": " and I just saw this as a tiny little article"
+  },
+  {
+    "start": 2603.24,
+    "end": 2607.24,
+    "text": " in the Buffalo News of the 15th of February, 1936."
+  },
+  {
+    "start": 2607.24,
+    "end": 2608.24,
+    "text": " Amazing."
+  },
+  {
+    "start": 2608.24,
+    "end": 2609.24,
+    "text": " And I had no idea what it was about,"
+  },
+  {
+    "start": 2609.24,
+    "end": 2611.24,
+    "text": " but then I've since done some more research,"
+  },
+  {
+    "start": 2611.24,
+    "end": 2614.24,
+    "text": " and it was something called the Mechanical Man,"
+  },
+  {
+    "start": 2614.24,
+    "end": 2617.24,
+    "text": " and it was a San Diego fair in 1936,"
+  },
+  {
+    "start": 2617.24,
+    "end": 2619.24,
+    "text": " which was a big exposition,"
+  },
+  {
+    "start": 2619.24,
+    "end": 2621.24,
+    "text": " and there was a guy called Henry C. May,"
+  },
+  {
+    "start": 2621.24,
+    "end": 2623.24,
+    "text": " who was a British inventor,"
+  },
+  {
+    "start": 2623.24,
+    "end": 2625.24,
+    "text": " and he toured it around America,"
+  },
+  {
+    "start": 2625.24,
+    "end": 2628.24,
+    "text": " and it was a six-foot giant steel robot"
+  },
+  {
+    "start": 2628.24,
+    "end": 2631.24,
+    "text": " that could stand up, sit down, smoke cigarettes,"
+  },
+  {
+    "start": 2631.24,
+    "end": 2634.24,
+    "text": " fire a gun, and answer questions."
+  },
+  {
+    "start": 2634.24,
+    "end": 2636.24,
+    "text": " And I'll be honest, I've seen some pictures,"
+  },
+  {
+    "start": 2636.24,
+    "end": 2638.24,
+    "text": " and I think it was a man in tin foil."
+  },
+  {
+    "start": 2638.24,
+    "end": 2639.24,
+    "text": " Really, really?"
+  },
+  {
+    "start": 2639.24,
+    "end": 2640.24,
+    "text": " Was it really?"
+  },
+  {
+    "start": 2640.24,
+    "end": 2641.24,
+    "text": " I think, I can't really tell,"
+  },
+  {
+    "start": 2641.24,
+    "end": 2644.24,
+    "text": " but it looks like a Doctor Who buddy."
+  },
+  {
+    "start": 2644.24,
+    "end": 2645.24,
+    "text": " Right, okay."
+  },
+  {
+    "start": 2645.24,
+    "end": 2648.24,
+    "text": " But I've seen this in a television show."
+  },
+  {
+    "start": 2648.24,
+    "end": 2650.24,
+    "text": " I think it might be Penny Dreadful,"
+  },
+  {
+    "start": 2650.24,
+    "end": 2652.24,
+    "text": " or one of those type of shows,"
+  },
+  {
+    "start": 2652.24,
+    "end": 2654.24,
+    "text": " so there was a link to it,"
+  },
+  {
+    "start": 2654.24,
+    "end": 2657.24,
+    "text": " and yeah, there really was this mechanical man"
+  },
+  {
+    "start": 2657.24,
+    "end": 2659.24,
+    "text": " made many, many years ago."
+  },
+  {
+    "start": 2659.24,
+    "end": 2660.24,
+    "text": " It's incredible."
+  },
+  {
+    "start": 2660.24,
+    "end": 2662.24,
+    "text": " But I think there was a lot of cheating, wasn't there?"
+  },
+  {
+    "start": 2662.24,
+    "end": 2664.24,
+    "text": " Well, maybe they weren't suggesting"
+  },
+  {
+    "start": 2664.24,
+    "end": 2666.24,
+    "text": " that it was operated properly, robotically,"
+  },
+  {
+    "start": 2666.24,
+    "end": 2668.24,
+    "text": " but it seemed like a lot of them were people,"
+  },
+  {
+    "start": 2668.24,
+    "end": 2669.24,
+    "text": " which does suggest it was just a guy"
+  },
+  {
+    "start": 2669.24,
+    "end": 2673.24,
+    "text": " with a vendetta against the maker inside."
+  },
+  {
+    "start": 2673.24,
+    "end": 2675.24,
+    "text": " Apparently, 'cause he could answer questions."
+  },
+  {
+    "start": 2675.24,
+    "end": 2677.24,
+    "text": " Someone asked the robot if he loved his wife,"
+  },
+  {
+    "start": 2677.24,
+    "end": 2679.24,
+    "text": " and he replied, \"I have a heart of steel."
+  },
+  {
+    "start": 2679.24,
+    "end": 2682.24,
+    "text": " \"I don't love nobody, and nobody loves me.\""
+  },
+  {
+    "start": 2682.24,
+    "end": 2683.24,
+    "text": " That's a guy in a suit."
+  },
+  {
+    "start": 2683.24,
+    "end": 2686.24,
+    "text": " That's a single guy in a suit."
+  },
+  {
+    "start": 2686.24,
+    "end": 2688.24,
+    "text": " When did the Wizard of Oz come out?"
+  },
+  {
+    "start": 2688.24,
+    "end": 2689.24,
+    "text": " Oh, '30s."
+  },
+  {
+    "start": 2689.24,
+    "end": 2690.24,
+    "text": " '39, wasn't it?"
+  },
+  {
+    "start": 2690.24,
+    "end": 2691.24,
+    "text": " Yeah, okay."
+  },
+  {
+    "start": 2691.24,
+    "end": 2692.24,
+    "text": " That's a good point."
+  },
+  {
+    "start": 2692.24,
+    "end": 2695.24,
+    "text": " It could be the Tin Man, you know?"
+  },
+  {
+    "start": 2695.24,
+    "end": 2696.24,
+    "text": " The world's first robot."
+  },
+  {
+    "start": 2696.24,
+    "end": 2698.24,
+    "text": " I love nobody, and nobody loves me."
+  },
+  {
+    "start": 2698.24,
+    "end": 2699.24,
+    "text": " He's looking for a heart."
+  },
+  {
+    "start": 2699.24,
+    "end": 2700.24,
+    "text": " He's looking for a heart."
+  },
+  {
+    "start": 2700.24,
+    "end": 2701.24,
+    "text": " Yeah, absolutely."
+  },
+  {
+    "start": 2701.24,
+    "end": 2702.24,
+    "text": " It's all coming together."
+  },
+  {
+    "start": 2702.24,
+    "end": 2703.24,
+    "text": " It's all coming together."
+  },
+  {
+    "start": 2703.24,
+    "end": 2704.24,
+    "text": " It's actually a documentary, it turns out."
+  },
+  {
+    "start": 2704.24,
+    "end": 2705.24,
+    "text": " Can I check, James?"
+  },
+  {
+    "start": 2705.24,
+    "end": 2707.24,
+    "text": " Did the inventor who was shot the head,"
+  },
+  {
+    "start": 2707.24,
+    "end": 2708.24,
+    "text": " was he all right?"
+  },
+  {
+    "start": 2708.24,
+    "end": 2709.24,
+    "text": " He was fine, yeah."
+  },
+  {
+    "start": 2709.24,
+    "end": 2713.24,
+    "text": " So, there was an article in The New York Times."
+  },
+  {
+    "start": 2713.24,
+    "end": 2714.24,
+    "text": " Again, a very small article."
+  },
+  {
+    "start": 2714.24,
+    "end": 2716.24,
+    "text": " It said, \"The robot showed more aptitude"
+  },
+  {
+    "start": 2716.24,
+    "end": 2718.24,
+    "text": " \"than Henry C. May expected,\""
+  },
+  {
+    "start": 2718.24,
+    "end": 2720.24,
+    "text": " and he shot him in the head,"
+  },
+  {
+    "start": 2720.24,
+    "end": 2722.24,
+    "text": " but then it says, \"He will recover.\""
+  },
+  {
+    "start": 2722.24,
+    "end": 2723.24,
+    "text": " And then there's no more mention of him"
+  },
+  {
+    "start": 2723.24,
+    "end": 2724.24,
+    "text": " in any of the newspapers,"
+  },
+  {
+    "start": 2724.24,
+    "end": 2725.24,
+    "text": " but I assume he must have recovered,"
+  },
+  {
+    "start": 2725.24,
+    "end": 2727.24,
+    "text": " otherwise it would have been in there."
+  },
+  {
+    "start": 2727.24,
+    "end": 2729.24,
+    "text": " They underplayed news in those days, didn't they?"
+  },
+  {
+    "start": 2729.24,
+    "end": 2732.24,
+    "text": " Yeah, but this was a big exposition"
+  },
+  {
+    "start": 2732.24,
+    "end": 2734.24,
+    "text": " in San Diego Fair."
+  },
+  {
+    "start": 2734.24,
+    "end": 2737.24,
+    "text": " Other things they had there was the Gold Gulch,"
+  },
+  {
+    "start": 2737.24,
+    "end": 2739.24,
+    "text": " which was like one of the first frontier villages,"
+  },
+  {
+    "start": 2739.24,
+    "end": 2741.24,
+    "text": " like a fake Wild West village."
+  },
+  {
+    "start": 2741.24,
+    "end": 2742.24,
+    "text": " Oh, cool."
+  },
+  {
+    "start": 2742.24,
+    "end": 2745.24,
+    "text": " They had the Zorro Garden nudist colony,"
+  },
+  {
+    "start": 2745.24,
+    "end": 2747.24,
+    "text": " which was basically a load of naked women"
+  },
+  {
+    "start": 2747.24,
+    "end": 2748.24,
+    "text": " and a few naked men,"
+  },
+  {
+    "start": 2748.24,
+    "end": 2751.24,
+    "text": " which you could pay 25 cents to look at."
+  },
+  {
+    "start": 2751.24,
+    "end": 2753.24,
+    "text": " I thought an exposition was for scientific stuff."
+  },
+  {
+    "start": 2753.24,
+    "end": 2755.24,
+    "text": " I thought it was like we've got a new kind of toaster,"
+  },
+  {
+    "start": 2755.24,
+    "end": 2757.24,
+    "text": " and you're telling me there's just the nudist village,"
+  },
+  {
+    "start": 2757.24,
+    "end": 2759.24,
+    "text": " which I could pay a quarter and go and look at."
+  },
+  {
+    "start": 2759.24,
+    "end": 2762.24,
+    "text": " The nudist one, honestly, the nudist one was really bad"
+  },
+  {
+    "start": 2762.24,
+    "end": 2766.24,
+    "text": " because basically actual local nudists were really upset."
+  },
+  {
+    "start": 2766.24,
+    "end": 2768.24,
+    "text": " They were the ones who were the most upset,"
+  },
+  {
+    "start": 2768.24,
+    "end": 2769.24,
+    "text": " because they were like, \"You've got showgirls in,\""
+  },
+  {
+    "start": 2769.24,
+    "end": 2771.24,
+    "text": " instead of getting actual nudists in."
+  },
+  {
+    "start": 2771.24,
+    "end": 2773.24,
+    "text": " Right, and that would be paid top dollar too."
+  },
+  {
+    "start": 2773.24,
+    "end": 2775.24,
+    "text": " And there was complaints to the council"
+  },
+  {
+    "start": 2775.24,
+    "end": 2778.24,
+    "text": " from the San Diego Council of Catholic Women,"
+  },
+  {
+    "start": 2778.24,
+    "end": 2780.24,
+    "text": " the Women's Civic Centre,"
+  },
+  {
+    "start": 2780.24,
+    "end": 2782.24,
+    "text": " and the San Diego Braille Club."
+  },
+  {
+    "start": 2782.24,
+    "end": 2785.24,
+    "text": " [laughter]"
+  },
+  {
+    "start": 2785.24,
+    "end": 2786.24,
+    "text": " I can't find any reason."
+  },
+  {
+    "start": 2786.24,
+    "end": 2787.24,
+    "text": " About the nudism."
+  },
+  {
+    "start": 2787.24,
+    "end": 2788.24,
+    "text": " Is that because you weren't allowed to touch them,"
+  },
+  {
+    "start": 2788.24,
+    "end": 2790.24,
+    "text": " and so it's sort of discriminating against blind people?"
+  },
+  {
+    "start": 2790.24,
+    "end": 2792.24,
+    "text": " I need to know that they're nude."
+  },
+  {
+    "start": 2792.24,
+    "end": 2794.24,
+    "text": " I'm coming through now, I'm blind,"
+  },
+  {
+    "start": 2794.24,
+    "end": 2796.24,
+    "text": " but let me have a feel."
+  },
+  {
+    "start": 2796.24,
+    "end": 2798.24,
+    "text": " Oh, that's not a proper nudist."
+  },
+  {
+    "start": 2798.24,
+    "end": 2801.24,
+    "text": " And you can keep the rest of this panini."
+  },
+  {
+    "start": 2801.24,
+    "end": 2802.24,
+    "text": " [laughter]"
+  },
+  {
+    "start": 2802.24,
+    "end": 2804.24,
+    "text": " It's not a panini!"
+  },
+  {
+    "start": 2804.24,
+    "end": 2806.24,
+    "text": " Get your hands off."
+  },
+  {
+    "start": 2806.24,
+    "end": 2807.24,
+    "text": " [laughter]"
+  },
+  {
+    "start": 2807.24,
+    "end": 2810.24,
+    "text": " So anyway, that's the story of the San Diego Fair."
+  },
+  {
+    "start": 2810.24,
+    "end": 2812.24,
+    "text": " That was forever in 1936."
+  },
+  {
+    "start": 2812.24,
+    "end": 2813.24,
+    "text": " I think there was a sequel to this,"
+  },
+  {
+    "start": 2813.24,
+    "end": 2815.24,
+    "text": " who became this big celebrity robot,"
+  },
+  {
+    "start": 2815.24,
+    "end": 2817.24,
+    "text": " because there was a few years later,"
+  },
+  {
+    "start": 2817.24,
+    "end": 2820.24,
+    "text": " there was the World's Fair in 1939 in New York,"
+  },
+  {
+    "start": 2820.24,
+    "end": 2823.24,
+    "text": " and the Westinghouse Electric Corporation paraded Electro,"
+  },
+  {
+    "start": 2823.24,
+    "end": 2826.24,
+    "text": " who again was a talking cigarette smoking robot."
+  },
+  {
+    "start": 2826.24,
+    "end": 2828.24,
+    "text": " Cigarette smoking seemed to be the main thing"
+  },
+  {
+    "start": 2828.24,
+    "end": 2830.24,
+    "text": " people wanted from their robots in those days."
+  },
+  {
+    "start": 2830.24,
+    "end": 2832.24,
+    "text": " The back of the day was the main hobby, wasn't it?"
+  },
+  {
+    "start": 2832.24,
+    "end": 2833.24,
+    "text": " It was, yeah."
+  },
+  {
+    "start": 2833.24,
+    "end": 2836.24,
+    "text": " And he again seemed to be operated by people behind a curtain."
+  },
+  {
+    "start": 2836.24,
+    "end": 2838.24,
+    "text": " But all robots are."
+  },
+  {
+    "start": 2838.24,
+    "end": 2840.24,
+    "text": " Oh, even today."
+  },
+  {
+    "start": 2840.24,
+    "end": 2843.24,
+    "text": " Even today, when you think of Musk"
+  },
+  {
+    "start": 2843.24,
+    "end": 2845.24,
+    "text": " and what he's trying to do and what have you,"
+  },
+  {
+    "start": 2845.24,
+    "end": 2847.24,
+    "text": " there's always someone hidden behind the curtain"
+  },
+  {
+    "start": 2847.24,
+    "end": 2849.24,
+    "text": " with a radio control device."
+  },
+  {
+    "start": 2849.24,
+    "end": 2851.24,
+    "text": " Is that with every self-driving car?"
+  },
+  {
+    "start": 2851.24,
+    "end": 2853.24,
+    "text": " Musk has employed a person with a remote control somewhere."
+  },
+  {
+    "start": 2853.24,
+    "end": 2855.24,
+    "text": " There's a teenager in the boot."
+  },
+  {
+    "start": 2855.24,
+    "end": 2856.24,
+    "text": " [laughter]"
+  },
+  {
+    "start": 2856.24,
+    "end": 2857.24,
+    "text": " Yeah, you can have a look."
+  },
+  {
+    "start": 2857.24,
+    "end": 2859.24,
+    "text": " Now they get paid a lot of money,"
+  },
+  {
+    "start": 2859.24,
+    "end": 2860.24,
+    "text": " and they've got a t-shirt on,"
+  },
+  {
+    "start": 2860.24,
+    "end": 2862.24,
+    "text": " and they've got little tiny controls."
+  },
+  {
+    "start": 2862.24,
+    "end": 2864.24,
+    "text": " They like being in small dark rooms."
+  },
+  {
+    "start": 2864.24,
+    "end": 2866.24,
+    "text": " The celebrity robot, 1939,"
+  },
+  {
+    "start": 2866.24,
+    "end": 2868.24,
+    "text": " went on to star in a film called Sex Kittens Go to College,"
+  },
+  {
+    "start": 2868.24,
+    "end": 2870.24,
+    "text": " which I just wondered if any of you guys would see."
+  },
+  {
+    "start": 2870.24,
+    "end": 2871.24,
+    "text": " Oh, I love that one."
+  },
+  {
+    "start": 2871.24,
+    "end": 2873.24,
+    "text": " Mmm, I thought it might be you."
+  },
+  {
+    "start": 2873.24,
+    "end": 2876.24,
+    "text": " Because its career sort of ended after 1939,"
+  },
+  {
+    "start": 2876.24,
+    "end": 2878.24,
+    "text": " and we did a little bit of a world tour."
+  },
+  {
+    "start": 2878.24,
+    "end": 2879.24,
+    "text": " Was there anything going on in 1939"
+  },
+  {
+    "start": 2879.24,
+    "end": 2880.24,
+    "text": " which might have made it less important"
+  },
+  {
+    "start": 2880.24,
+    "end": 2882.24,
+    "text": " to see a cigarette smoking robot?"
+  },
+  {
+    "start": 2882.24,
+    "end": 2884.24,
+    "text": " [laughter]"
+  },
+  {
+    "start": 2884.24,
+    "end": 2887.24,
+    "text": " I saw the sequel, Sex Kittens Go to the Frontline."
+  },
+  {
+    "start": 2887.24,
+    "end": 2890.24,
+    "text": " [laughter]"
+  },
+  {
+    "start": 2890.24,
+    "end": 2893.24,
+    "text": " Demon sex kittens struggle to adjust to post-war life."
+  },
+  {
+    "start": 2893.24,
+    "end": 2895.24,
+    "text": " Very sad, very sad one there."
+  },
+  {
+    "start": 2895.24,
+    "end": 2897.24,
+    "text": " [laughter]"
+  },
+  {
+    "start": 2897.24,
+    "end": 2899.24,
+    "text": " I don't know until you've watched it."
+  },
+  {
+    "start": 2899.24,
+    "end": 2900.24,
+    "text": " It sounds really good."
+  },
+  {
+    "start": 2900.24,
+    "end": 2902.24,
+    "text": " So this is 1960."
+  },
+  {
+    "start": 2902.24,
+    "end": 2904.24,
+    "text": " Suddenly this robot became a celebrity again,"
+  },
+  {
+    "start": 2904.24,
+    "end": 2906.24,
+    "text": " starred in a film, Sex Kittens Go to College,"
+  },
+  {
+    "start": 2906.24,
+    "end": 2909.24,
+    "text": " where he advises the college to hire this genius"
+  },
+  {
+    "start": 2909.24,
+    "end": 2912.24,
+    "text": " as a science professor who turns out to be a stripper."
+  },
+  {
+    "start": 2912.24,
+    "end": 2915.24,
+    "text": " And then there's lots of stripping scenes."
+  },
+  {
+    "start": 2915.24,
+    "end": 2917.24,
+    "text": " But that's just the great career of the world's"
+  },
+  {
+    "start": 2917.24,
+    "end": 2919.24,
+    "text": " first ever celebrity robot."
+  },
+  {
+    "start": 2919.24,
+    "end": 2921.24,
+    "text": " Rhys, do you ever drive in autonomous cars?"
+  },
+  {
+    "start": 2921.24,
+    "end": 2923.24,
+    "text": " Have you got an autonomous cab anywhere?"
+  },
+  {
+    "start": 2923.24,
+    "end": 2924.24,
+    "text": " Things like that."
+  },
+  {
+    "start": 2924.24,
+    "end": 2925.24,
+    "text": " I've seen a lot of them."
+  },
+  {
+    "start": 2925.24,
+    "end": 2927.24,
+    "text": " I was almost hit by one."
+  },
+  {
+    "start": 2927.24,
+    "end": 2928.24,
+    "text": " Really?"
+  },
+  {
+    "start": 2928.24,
+    "end": 2930.24,
+    "text": " Yeah, I was pulling out of the car park in my car,"
+  },
+  {
+    "start": 2930.24,
+    "end": 2932.24,
+    "text": " and you know, when you go out,"
+  },
+  {
+    "start": 2932.24,
+    "end": 2934.24,
+    "text": " you sort of go a little bit too far out into the road,"
+  },
+  {
+    "start": 2934.24,
+    "end": 2936.24,
+    "text": " and in this oncoming traffic,"
+  },
+  {
+    "start": 2936.24,
+    "end": 2938.24,
+    "text": " you think, \"I better pull back in a bit.\""
+  },
+  {
+    "start": 2938.24,
+    "end": 2940.24,
+    "text": " Well, the oncoming traffic was the Waymo."
+  },
+  {
+    "start": 2940.24,
+    "end": 2942.24,
+    "text": " And so I put into reverse and go back a little bit"
+  },
+  {
+    "start": 2942.24,
+    "end": 2944.24,
+    "text": " because my nose was sticking out."
+  },
+  {
+    "start": 2944.24,
+    "end": 2946.24,
+    "text": " And then, just as I did it,"
+  },
+  {
+    "start": 2946.24,
+    "end": 2949.24,
+    "text": " the Waymo straight past me,"
+  },
+  {
+    "start": 2949.24,
+    "end": 2951.24,
+    "text": " it didn't alter its path at all."
+  },
+  {
+    "start": 2951.24,
+    "end": 2953.24,
+    "text": " And I said, \"If it was a human,"
+  },
+  {
+    "start": 2953.24,
+    "end": 2955.24,
+    "text": " you would have actually altered your path.\""
+  },
+  {
+    "start": 2955.24,
+    "end": 2957.24,
+    "text": " Yeah, you just nod to bear."
+  },
+  {
+    "start": 2957.24,
+    "end": 2960.24,
+    "text": " A bit of shove and a bit of give or whatever."
+  },
+  {
+    "start": 2960.24,
+    "end": 2962.24,
+    "text": " But this one, as soon as I reversed back,"
+  },
+  {
+    "start": 2962.24,
+    "end": 2964.24,
+    "text": " and I thought to myself,"
+  },
+  {
+    "start": 2964.24,
+    "end": 2967.24,
+    "text": " \"Well, if I hadn't have pulled my nose in a little bit there,"
+  },
+  {
+    "start": 2967.24,
+    "end": 2968.24,
+    "text": " would it have hit me?\""
+  },
+  {
+    "start": 2968.24,
+    "end": 2970.24,
+    "text": " That's weird, because that is like a legit way"
+  },
+  {
+    "start": 2970.24,
+    "end": 2971.24,
+    "text": " to get out of a junction, isn't it?"
+  },
+  {
+    "start": 2971.24,
+    "end": 2972.24,
+    "text": " You just edge a little bit,"
+  },
+  {
+    "start": 2972.24,
+    "end": 2973.24,
+    "text": " and hopefully someone will notice you,"
+  },
+  {
+    "start": 2973.24,
+    "end": 2974.24,
+    "text": " and they'll stop for you."
+  },
+  {
+    "start": 2974.24,
+    "end": 2975.24,
+    "text": " Yeah, they'll slow down."
+  },
+  {
+    "start": 2975.24,
+    "end": 2976.24,
+    "text": " You peep and creep."
+  },
+  {
+    "start": 2976.24,
+    "end": 2977.24,
+    "text": " Yeah."
+  },
+  {
+    "start": 2977.24,
+    "end": 2980.24,
+    "text": " That's what I'm doing on the love train."
+  },
+  {
+    "start": 2980.24,
+    "end": 2986.24,
+    "text": " I'm up in the luggage compartment."
+  },
+  {
+    "start": 2986.24,
+    "end": 2990.24,
+    "text": " No, but this is..."
+  },
+  {
+    "start": 2990.24,
+    "end": 2992.24,
+    "text": " Because that's one area where there's loads of progress, isn't there?"
+  },
+  {
+    "start": 2992.24,
+    "end": 2993.24,
+    "text": " Or certainly people have..."
+  },
+  {
+    "start": 2993.24,
+    "end": 2995.24,
+    "text": " I mean, I know Elon Musk has been predicting"
+  },
+  {
+    "start": 2995.24,
+    "end": 2997.24,
+    "text": " full self-driving for like 15 years."
+  },
+  {
+    "start": 2997.24,
+    "end": 2998.24,
+    "text": " He said we'll have it next year."
+  },
+  {
+    "start": 2998.24,
+    "end": 2999.24,
+    "text": " Yeah, he's raving on about them."
+  },
+  {
+    "start": 2999.24,
+    "end": 3000.24,
+    "text": " They are on the way."
+  },
+  {
+    "start": 3000.24,
+    "end": 3001.24,
+    "text": " I just mentioned this,"
+  },
+  {
+    "start": 3001.24,
+    "end": 3002.24,
+    "text": " because Kawasaki at the moment,"
+  },
+  {
+    "start": 3002.24,
+    "end": 3003.24,
+    "text": " there are lots of..."
+  },
+  {
+    "start": 3003.24,
+    "end": 3004.24,
+    "text": " Should robots look like humans?"
+  },
+  {
+    "start": 3004.24,
+    "end": 3005.24,
+    "text": " It's a big debate."
+  },
+  {
+    "start": 3005.24,
+    "end": 3007.24,
+    "text": " Is a bipedal humanoid figure"
+  },
+  {
+    "start": 3007.24,
+    "end": 3009.24,
+    "text": " the most efficient use for a robot?"
+  },
+  {
+    "start": 3009.24,
+    "end": 3011.24,
+    "text": " No, normally no, obviously."
+  },
+  {
+    "start": 3011.24,
+    "end": 3014.24,
+    "text": " But Kawasaki are working on a robo-horse."
+  },
+  {
+    "start": 3014.24,
+    "end": 3015.24,
+    "text": " Oh, I've seen this, too."
+  },
+  {
+    "start": 3015.24,
+    "end": 3016.24,
+    "text": " It sounds so good."
+  },
+  {
+    "start": 3016.24,
+    "end": 3018.24,
+    "text": " It's a motorbike with legs, basically."
+  },
+  {
+    "start": 3018.24,
+    "end": 3020.24,
+    "text": " Yes, it's called Corleone."
+  },
+  {
+    "start": 3020.24,
+    "end": 3021.24,
+    "text": " Really?"
+  },
+  {
+    "start": 3021.24,
+    "end": 3022.24,
+    "text": " Which I think is weird,"
+  },
+  {
+    "start": 3022.24,
+    "end": 3024.24,
+    "text": " because Corleone is the first letter of Corleone,"
+  },
+  {
+    "start": 3024.24,
+    "end": 3025.24,
+    "text": " which is the family of the godfather,"
+  },
+  {
+    "start": 3025.24,
+    "end": 3027.24,
+    "text": " which does feature a horse, right?"
+  },
+  {
+    "start": 3027.24,
+    "end": 3028.24,
+    "text": " Head of one."
+  },
+  {
+    "start": 3028.24,
+    "end": 3029.24,
+    "text": " Head of one, yeah."
+  },
+  {
+    "start": 3029.24,
+    "end": 3031.24,
+    "text": " But they're developing sensors,"
+  },
+  {
+    "start": 3031.24,
+    "end": 3033.24,
+    "text": " so hopefully it'll respond to you just like a horse does."
+  },
+  {
+    "start": 3033.24,
+    "end": 3035.24,
+    "text": " As in you're moving your body around,"
+  },
+  {
+    "start": 3035.24,
+    "end": 3036.24,
+    "text": " you know, you're digging in with your heels,"
+  },
+  {
+    "start": 3036.24,
+    "end": 3038.24,
+    "text": " or you're bouncing up and down,"
+  },
+  {
+    "start": 3038.24,
+    "end": 3039.24,
+    "text": " or you're literally..."
+  },
+  {
+    "start": 3039.24,
+    "end": 3040.24,
+    "text": " Or you're squeezing your thighs."
+  },
+  {
+    "start": 3040.24,
+    "end": 3042.24,
+    "text": " I don't write horses, but whatever."
+  },
+  {
+    "start": 3042.24,
+    "end": 3043.24,
+    "text": " Clearly."
+  },
+  {
+    "start": 3043.24,
+    "end": 3046.24,
+    "text": " That would be pretty cool."
+  },
+  {
+    "start": 3046.24,
+    "end": 3048.24,
+    "text": " I think a robotic horse would be awesome."
+  },
+  {
+    "start": 3048.24,
+    "end": 3051.24,
+    "text": " Yes, and I've seen videos of these."
+  },
+  {
+    "start": 3051.24,
+    "end": 3053.24,
+    "text": " There must be a prototype out there,"
+  },
+  {
+    "start": 3053.24,
+    "end": 3055.24,
+    "text": " and terrain-wise,"
+  },
+  {
+    "start": 3055.24,
+    "end": 3058.24,
+    "text": " they can do the same things that an animal could."
+  },
+  {
+    "start": 3058.24,
+    "end": 3059.24,
+    "text": " Better than wheels,"
+  },
+  {
+    "start": 3059.24,
+    "end": 3062.24,
+    "text": " and I think that's where we're getting with."
+  },
+  {
+    "start": 3062.24,
+    "end": 3064.24,
+    "text": " But do they look like they're walking properly?"
+  },
+  {
+    "start": 3064.24,
+    "end": 3066.24,
+    "text": " Because we've tried to make humanoid robots"
+  },
+  {
+    "start": 3066.24,
+    "end": 3068.24,
+    "text": " look like they walk properly, and they still don't."
+  },
+  {
+    "start": 3068.24,
+    "end": 3069.24,
+    "text": " They're getting pretty close now."
+  },
+  {
+    "start": 3069.24,
+    "end": 3072.24,
+    "text": " I've seen the one that claims to be closest,"
+  },
+  {
+    "start": 3072.24,
+    "end": 3073.24,
+    "text": " and I still think it looks..."
+  },
+  {
+    "start": 3073.24,
+    "end": 3077.24,
+    "text": " It now looks like a very elderly, shuffling person."
+  },
+  {
+    "start": 3077.24,
+    "end": 3081.24,
+    "text": " I met the first robot that could run by Peter-1."
+  },
+  {
+    "start": 3081.24,
+    "end": 3082.24,
+    "text": " You remember that?"
+  },
+  {
+    "start": 3082.24,
+    "end": 3083.24,
+    "text": " It wasn't programmed to run,"
+  },
+  {
+    "start": 3083.24,
+    "end": 3085.24,
+    "text": " but it saw you coming, didn't it?"
+  },
+  {
+    "start": 3085.24,
+    "end": 3088.24,
+    "text": " I stopped offering it at Russian chocolate."
+  },
+  {
+    "start": 3088.24,
+    "end": 3091.24,
+    "text": " What was it called?"
+  },
+  {
+    "start": 3091.24,
+    "end": 3093.24,
+    "text": " It was the Honda one."
+  },
+  {
+    "start": 3093.24,
+    "end": 3095.24,
+    "text": " Yeah, he was guest on QI."
+  },
+  {
+    "start": 3095.24,
+    "end": 3097.24,
+    "text": " He was guest on QI, and I danced with him."
+  },
+  {
+    "start": 3097.24,
+    "end": 3098.24,
+    "text": " I remember."
+  },
+  {
+    "start": 3098.24,
+    "end": 3101.24,
+    "text": " And he did look like the most human one there, actually."
+  },
+  {
+    "start": 3101.24,
+    "end": 3102.24,
+    "text": " But yeah, then he ran,"
+  },
+  {
+    "start": 3102.24,
+    "end": 3103.24,
+    "text": " and that was at the time,"
+  },
+  {
+    "start": 3103.24,
+    "end": 3105.24,
+    "text": " which could only have been 15 years ago,"
+  },
+  {
+    "start": 3105.24,
+    "end": 3108.24,
+    "text": " 12 years ago, that was the biggest thing in robotics,"
+  },
+  {
+    "start": 3108.24,
+    "end": 3110.24,
+    "text": " but now it's crazy."
+  },
+  {
+    "start": 3110.24,
+    "end": 3113.24,
+    "text": " I don't think that has been left behind that much."
+  },
+  {
+    "start": 3113.24,
+    "end": 3114.24,
+    "text": " And again, doing basic tasks,"
+  },
+  {
+    "start": 3114.24,
+    "end": 3116.24,
+    "text": " like Google DeepMind did a big brag last year"
+  },
+  {
+    "start": 3116.24,
+    "end": 3118.24,
+    "text": " about how it's got a robot to tie a shoelace"
+  },
+  {
+    "start": 3118.24,
+    "end": 3120.24,
+    "text": " for the first time ever."
+  },
+  {
+    "start": 3120.24,
+    "end": 3123.24,
+    "text": " And it's two massive arms,"
+  },
+  {
+    "start": 3123.24,
+    "end": 3125.24,
+    "text": " incredibly ungainly and incredibly slowly,"
+  },
+  {
+    "start": 3125.24,
+    "end": 3127.24,
+    "text": " only doing the bow bit."
+  },
+  {
+    "start": 3127.24,
+    "end": 3128.24,
+    "text": " Anna, Anna."
+  },
+  {
+    "start": 3128.24,
+    "end": 3130.24,
+    "text": " As soon as they can tie our shoelaces together,"
+  },
+  {
+    "start": 3130.24,
+    "end": 3132.24,
+    "text": " that's where they could take over the world."
+  },
+  {
+    "start": 3132.24,
+    "end": 3133.24,
+    "text": " Exactly."
+  },
+  {
+    "start": 3133.24,
+    "end": 3134.24,
+    "text": " Then they'll be able to make nooses."
+  },
+  {
+    "start": 3134.24,
+    "end": 3136.24,
+    "text": " And do you know what they're going to use those for, Anna?"
+  },
+  {
+    "start": 3136.24,
+    "end": 3137.24,
+    "text": " Us, right?"
+  },
+  {
+    "start": 3137.24,
+    "end": 3139.24,
+    "text": " Rhys, do you think we're all doomed?"
+  },
+  {
+    "start": 3139.24,
+    "end": 3140.24,
+    "text": " Yes."
+  },
+  {
+    "start": 3140.24,
+    "end": 3142.24,
+    "text": " When robots are ready to go,"
+  },
+  {
+    "start": 3142.24,
+    "end": 3144.24,
+    "text": " and this is what my show is actually about."
+  },
+  {
+    "start": 3144.24,
+    "end": 3145.24,
+    "text": " I'm touring here in the UK,"
+  },
+  {
+    "start": 3145.24,
+    "end": 3147.24,
+    "text": " and my show is about the demise of humanity"
+  },
+  {
+    "start": 3147.24,
+    "end": 3149.24,
+    "text": " because of AI and robotics,"
+  },
+  {
+    "start": 3149.24,
+    "end": 3151.24,
+    "text": " and how can we stop it?"
+  },
+  {
+    "start": 3151.24,
+    "end": 3154.24,
+    "text": " And why does AI have to be in the creative world?"
+  },
+  {
+    "start": 3154.24,
+    "end": 3156.24,
+    "text": " Can we please not have it?"
+  },
+  {
+    "start": 3156.24,
+    "end": 3159.24,
+    "text": " Because once it takes all of our creative jobs away from us,"
+  },
+  {
+    "start": 3159.24,
+    "end": 3160.24,
+    "text": " what are we doing?"
+  },
+  {
+    "start": 3160.24,
+    "end": 3163.24,
+    "text": " And that was written by chatGPT that show, was it?"
+  },
+  {
+    "start": 3163.24,
+    "end": 3167.24,
+    "text": " No, I've had a couple of goes with chatGPT,"
+  },
+  {
+    "start": 3167.24,
+    "end": 3169.24,
+    "text": " and we just don't get on."
+  },
+  {
+    "start": 3169.24,
+    "end": 3172.24,
+    "text": " Who doesn't like whom, though?"
+  },
+  {
+    "start": 3172.24,
+    "end": 3174.24,
+    "text": " Oh, I don't think it likes me."
+  },
+  {
+    "start": 3174.24,
+    "end": 3177.24,
+    "text": " During my favourite AI, if we can call it AI,"
+  },
+  {
+    "start": 3177.24,
+    "end": 3180.24,
+    "text": " it was invented by the AI pioneer who sounds awesome,"
+  },
+  {
+    "start": 3180.24,
+    "end": 3184.24,
+    "text": " Marvin Minsky, and he was around in the 1950s."
+  },
+  {
+    "start": 3184.24,
+    "end": 3188.24,
+    "text": " He went to MIT, and actually his boss said when he joined MIT,"
+  },
+  {
+    "start": 3188.24,
+    "end": 3191.24,
+    "text": " don't work on anything that's going to take less than 30 years."
+  },
+  {
+    "start": 3191.24,
+    "end": 3193.24,
+    "text": " We're playing the long game here,"
+  },
+  {
+    "start": 3193.24,
+    "end": 3195.24,
+    "text": " which is a dreamy thing for a boss to say."
+  },
+  {
+    "start": 3195.24,
+    "end": 3197.24,
+    "text": " So he had to have something to entertain him,"
+  },
+  {
+    "start": 3197.24,
+    "end": 3198.24,
+    "text": " little projects on the side,"
+  },
+  {
+    "start": 3198.24,
+    "end": 3201.24,
+    "text": " so he invented this thing called the useless machine,"
+  },
+  {
+    "start": 3201.24,
+    "end": 3203.24,
+    "text": " and it was a robot capable of doing one thing,"
+  },
+  {
+    "start": 3203.24,
+    "end": 3205.24,
+    "text": " which was that if you turned it on,"
+  },
+  {
+    "start": 3205.24,
+    "end": 3208.24,
+    "text": " it ejected its hand out and turned itself off again."
+  },
+  {
+    "start": 3208.24,
+    "end": 3209.24,
+    "text": " Wow."
+  },
+  {
+    "start": 3209.24,
+    "end": 3210.24,
+    "text": " Isn't that so great?"
+  },
+  {
+    "start": 3210.24,
+    "end": 3211.24,
+    "text": " I love that."
+  },
+  {
+    "start": 3211.24,
+    "end": 3213.24,
+    "text": " What happens if it stops working?"
+  },
+  {
+    "start": 3213.24,
+    "end": 3215.24,
+    "text": " You usually have to turn it off and turn it back on again."
+  },
+  {
+    "start": 3215.24,
+    "end": 3220.24,
+    "text": " Just while we're on this fact,"
+  },
+  {
+    "start": 3220.24,
+    "end": 3222.24,
+    "text": " Robot in California shooting its eventa,"
+  },
+  {
+    "start": 3222.24,
+    "end": 3225.24,
+    "text": " there's a Wikipedia page of unusual deaths"
+  },
+  {
+    "start": 3225.24,
+    "end": 3228.24,
+    "text": " in the 20th century, and it's stunning."
+  },
+  {
+    "start": 3228.24,
+    "end": 3229.24,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 3229.24,
+    "end": 3230.24,
+    "text": " It's so good."
+  },
+  {
+    "start": 3230.24,
+    "end": 3232.24,
+    "text": " OK, R. Stanton Walker, right?"
+  },
+  {
+    "start": 3232.24,
+    "end": 3233.24,
+    "text": " Yeah."
+  },
+  {
+    "start": 3233.24,
+    "end": 3236.24,
+    "text": " In 1902, he was watching a baseball game with friends,"
+  },
+  {
+    "start": 3236.24,
+    "end": 3239.24,
+    "text": " and a ball, a foul ball, hit him in the hand."
+  },
+  {
+    "start": 3239.24,
+    "end": 3242.24,
+    "text": " Unfortunately, he's halfway through passing his friend a knife,"
+  },
+  {
+    "start": 3242.24,
+    "end": 3246.24,
+    "text": " a large and sharp one, which then is driven into his chest,"
+  },
+  {
+    "start": 3246.24,
+    "end": 3247.24,
+    "text": " and he dies within a few minutes."
+  },
+  {
+    "start": 3247.24,
+    "end": 3249.24,
+    "text": " I mean, this is final destination, isn't it?"
+  },
+  {
+    "start": 3249.24,
+    "end": 3250.24,
+    "text": " It is, isn't it?"
+  },
+  {
+    "start": 3250.24,
+    "end": 3251.24,
+    "text": " Yeah."
+  },
+  {
+    "start": 3251.24,
+    "end": 3253.24,
+    "text": " The designer and builder of the first ever offshore lighthouse,"
+  },
+  {
+    "start": 3253.24,
+    "end": 3254.24,
+    "text": " Henry Wyn Stanley."
+  },
+  {
+    "start": 3254.24,
+    "end": 3255.24,
+    "text": " Oh, this is a little longer ago,"
+  },
+  {
+    "start": 3255.24,
+    "end": 3257.24,
+    "text": " so comedy is more acceptable about it."
+  },
+  {
+    "start": 3257.24,
+    "end": 3259.24,
+    "text": " 1698, he builds it."
+  },
+  {
+    "start": 3259.24,
+    "end": 3260.24,
+    "text": " It's offshore in Devon, right?"
+  },
+  {
+    "start": 3260.24,
+    "end": 3261.24,
+    "text": " Mm-hmm."
+  },
+  {
+    "start": 3261.24,
+    "end": 3264.24,
+    "text": " It's a very wild bit of coast, the Eddystone rocks."
+  },
+  {
+    "start": 3264.24,
+    "end": 3266.24,
+    "text": " He says it's going to survive the greatest storm"
+  },
+  {
+    "start": 3266.24,
+    "end": 3267.24,
+    "text": " that could ever be."
+  },
+  {
+    "start": 3267.24,
+    "end": 3271.24,
+    "text": " Five years later, he is inside it for the great storm of 1703."
+  },
+  {
+    "start": 3271.24,
+    "end": 3273.24,
+    "text": " He has never found, neither has the lighthouse."
+  },
+  {
+    "start": 3273.24,
+    "end": 3276.24,
+    "text": " It just disappears into the sea."
+  },
+  {
+    "start": 3276.24,
+    "end": 3277.24,
+    "text": " I know, tragic."
+  },
+  {
+    "start": 3277.24,
+    "end": 3279.24,
+    "text": " Do they have Robbie Williams in there?"
+  },
+  {
+    "start": 3279.24,
+    "end": 3281.24,
+    "text": " Because I'm pretty sure Robbie Williams is the name"
+  },
+  {
+    "start": 3281.24,
+    "end": 3283.24,
+    "text": " of the first person to be killed by a robot."
+  },
+  {
+    "start": 3283.24,
+    "end": 3285.24,
+    "text": " I didn't find him."
+  },
+  {
+    "start": 3285.24,
+    "end": 3286.24,
+    "text": " I mean, it's a long old list."
+  },
+  {
+    "start": 3286.24,
+    "end": 3289.24,
+    "text": " This is from memory, but I think he was working in a factory"
+  },
+  {
+    "start": 3289.24,
+    "end": 3292.24,
+    "text": " that had robotics there and something tragic happens."
+  },
+  {
+    "start": 3292.24,
+    "end": 3293.24,
+    "text": " Yeah, in the '70s."
+  },
+  {
+    "start": 3293.24,
+    "end": 3295.24,
+    "text": " Yeah, it was like something that built cars,"
+  },
+  {
+    "start": 3295.24,
+    "end": 3296.24,
+    "text": " that kind of thing."
+  },
+  {
+    "start": 3296.24,
+    "end": 3298.24,
+    "text": " It was the arm of a machine that whipped him."
+  },
+  {
+    "start": 3298.24,
+    "end": 3299.24,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 3299.24,
+    "end": 3300.24,
+    "text": " But he was called Robbie Williams, so..."
+  },
+  {
+    "start": 3300.24,
+    "end": 3302.24,
+    "text": " No, he's loving angels instead."
+  },
+  {
+    "start": 3302.24,
+    "end": 3310.24,
+    "text": " That is all of our facts for this week."
+  },
+  {
+    "start": 3310.24,
+    "end": 3312.24,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3312.24,
+    "end": 3314.24,
+    "text": " If you want to get in touch with any of us,"
+  },
+  {
+    "start": 3314.24,
+    "end": 3317.24,
+    "text": " we can be found in various bits of the Internet Universe."
+  },
+  {
+    "start": 3317.24,
+    "end": 3318.24,
+    "text": " Andy, where are you?"
+  },
+  {
+    "start": 3318.24,
+    "end": 3320.24,
+    "text": " I'm on Instagram @andrewhunderem."
+  },
+  {
+    "start": 3320.24,
+    "end": 3321.24,
+    "text": " James."
+  },
+  {
+    "start": 3321.24,
+    "end": 3323.24,
+    "text": " My Instagram is @noseshingsjamesharkin."
+  },
+  {
+    "start": 3323.24,
+    "end": 3325.24,
+    "text": " Rhys, do you have any kind of presence?"
+  },
+  {
+    "start": 3325.24,
+    "end": 3327.24,
+    "text": " Yes, Rhys Darby, present."
+  },
+  {
+    "start": 3327.24,
+    "end": 3331.24,
+    "text": " And I'm also in your theatres for the next few weeks."
+  },
+  {
+    "start": 3331.24,
+    "end": 3333.24,
+    "text": " So please, if you're listening in the UK,"
+  },
+  {
+    "start": 3333.24,
+    "end": 3334.24,
+    "text": " come and see my show."
+  },
+  {
+    "start": 3334.24,
+    "end": 3336.24,
+    "text": " It's Rhys Darby, The Legend Returns."
+  },
+  {
+    "start": 3336.24,
+    "end": 3338.24,
+    "text": " And where do you get tickets?"
+  },
+  {
+    "start": 3338.24,
+    "end": 3340.24,
+    "text": " Online, Rhysdarby.com."
+  },
+  {
+    "start": 3340.24,
+    "end": 3341.24,
+    "text": " It's all listed there."
+  },
+  {
+    "start": 3341.24,
+    "end": 3342.24,
+    "text": " There you go. Do it."
+  },
+  {
+    "start": 3342.24,
+    "end": 3343.24,
+    "text": " So there you go."
+  },
+  {
+    "start": 3343.24,
+    "end": 3344.24,
+    "text": " If you want to get in touch with Rhys,"
+  },
+  {
+    "start": 3344.24,
+    "end": 3345.24,
+    "text": " apparently you just have to go to one of his shows"
+  },
+  {
+    "start": 3345.24,
+    "end": 3347.24,
+    "text": " and shout whatever questions you've got."
+  },
+  {
+    "start": 3347.24,
+    "end": 3348.24,
+    "text": " From the audience."
+  },
+  {
+    "start": 3348.24,
+    "end": 3351.24,
+    "text": " Hi, Chris Nibble."
+  },
+  {
+    "start": 3351.24,
+    "end": 3353.24,
+    "text": " I've got a coffee for you."
+  },
+  {
+    "start": 3353.24,
+    "end": 3356.24,
+    "text": " Audience full of Starbucks employees."
+  },
+  {
+    "start": 3356.24,
+    "end": 3357.24,
+    "text": " Oh, my God."
+  },
+  {
+    "start": 3357.24,
+    "end": 3359.24,
+    "text": " And if you want to get in touch with us as a group,"
+  },
+  {
+    "start": 3359.24,
+    "end": 3361.24,
+    "text": " you can email podcast@qi.com"
+  },
+  {
+    "start": 3361.24,
+    "end": 3363.24,
+    "text": " or go to @nosesuchthing on Twitter"
+  },
+  {
+    "start": 3363.24,
+    "end": 3365.24,
+    "text": " or @nosesuchthingasafish on Instagram."
+  },
+  {
+    "start": 3365.24,
+    "end": 3367.24,
+    "text": " Or if you go to nosesuchthingasafish.com,"
+  },
+  {
+    "start": 3367.24,
+    "end": 3369.24,
+    "text": " you can get all of our old episodes."
+  },
+  {
+    "start": 3369.24,
+    "end": 3371.24,
+    "text": " You can go to the live bit,"
+  },
+  {
+    "start": 3371.24,
+    "end": 3374.24,
+    "text": " which gives you links to various live shows we've got coming up."
+  },
+  {
+    "start": 3374.24,
+    "end": 3375.24,
+    "text": " We're very excited."
+  },
+  {
+    "start": 3375.24,
+    "end": 3377.24,
+    "text": " We're going to be playing at the Crossed Wires Festival"
+  },
+  {
+    "start": 3377.24,
+    "end": 3378.24,
+    "text": " in a month."
+  },
+  {
+    "start": 3378.24,
+    "end": 3380.24,
+    "text": " Go there to get your tickets now."
+  },
+  {
+    "start": 3380.24,
+    "end": 3383.24,
+    "text": " And if you want to join our super secret exclusive club"
+  },
+  {
+    "start": 3383.24,
+    "end": 3386.24,
+    "text": " that we publicize all the time and isn't a secret at all,"
+  },
+  {
+    "start": 3386.24,
+    "end": 3388.24,
+    "text": " then please join up to Club Fish,"
+  },
+  {
+    "start": 3388.24,
+    "end": 3391.24,
+    "text": " where we post loads of nice bonus content,"
+  },
+  {
+    "start": 3391.24,
+    "end": 3392.24,
+    "text": " ad-free episodes,"
+  },
+  {
+    "start": 3392.24,
+    "end": 3394.24,
+    "text": " ask just jollying around."
+  },
+  {
+    "start": 3394.24,
+    "end": 3396.24,
+    "text": " We read out emails from listeners,"
+  },
+  {
+    "start": 3396.24,
+    "end": 3398.24,
+    "text": " which are better than anything we've got to say."
+  },
+  {
+    "start": 3398.24,
+    "end": 3399.24,
+    "text": " So get there. That's Club Fish."
+  },
+  {
+    "start": 3399.24,
+    "end": 3401.24,
+    "text": " And if you don't want to do any of that rubbish,"
+  },
+  {
+    "start": 3401.24,
+    "end": 3403.24,
+    "text": " then just come back again next week,"
+  },
+  {
+    "start": 3403.24,
+    "end": 3405.24,
+    "text": " and we'll be back again with another four facts."
+  },
+  {
+    "start": 3405.24,
+    "end": 3407.24,
+    "text": " We'll see you then. Goodbye."
+  },
+  {
+    "start": 3407.24,
+    "end": 3409.82,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3409.82,
+    "end": 3412.4,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3413.4,
+    "end": 3415.98,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3415.98,
+    "end": 3418.14,
+    "text": " [MUSIC PLAYING]"
+  }
+]

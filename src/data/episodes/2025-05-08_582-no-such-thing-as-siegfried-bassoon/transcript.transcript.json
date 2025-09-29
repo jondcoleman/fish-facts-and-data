@@ -1,0 +1,4807 @@
+[
+  {
+    "start": 0,
+    "end": 6,
+    "text": " Hi everybody, Anna and Andy here. We have a little bit of exciting news for you before"
+  },
+  {
+    "start": 6,
+    "end": 7.36,
+    "text": " this week's show starts."
+  },
+  {
+    "start": 7.36,
+    "end": 12.88,
+    "text": " Yes, we do. We are actually doing two live shows in the very near future. Very excited"
+  },
+  {
+    "start": 12.88,
+    "end": 18.72,
+    "text": " about both of them. So one of them is on the 7th of June and that's in Belgium."
+  },
+  {
+    "start": 18.72,
+    "end": 23.28,
+    "text": " Yeah, it's lovely Belgium and it'll be even lovelier if you're at the Nerdland festival."
+  },
+  {
+    "start": 23.28,
+    "end": 28.44,
+    "text": " This is run by long time friend of the podcast, Leven Skida. It's such a good festival. There's"
+  },
+  {
+    "start": 28.44,
+    "end": 34,
+    "text": " all sorts of amazing sciencey, nerdy, comedy, brilliant stuff there, including a show from"
+  },
+  {
+    "start": 34,
+    "end": 38.84,
+    "text": " us. We're going to be doing a show there on the 7th of June which is a Saturday and the"
+  },
+  {
+    "start": 38.84,
+    "end": 43.92,
+    "text": " whole festival is amazing. It's just an amazing weekend of wonderful things going on. It's"
+  },
+  {
+    "start": 43.92,
+    "end": 46.76,
+    "text": " so much fun. We highly recommend it if you haven't been already."
+  },
+  {
+    "start": 46.76,
+    "end": 52.02,
+    "text": " We really do. So book yourself a trip there now and then book yourself a trip to Sheffield"
+  },
+  {
+    "start": 52.02,
+    "end": 56.84,
+    "text": " for the Crossed Wires Festival that's on the 6th of July and again we'll be performing"
+  },
+  {
+    "start": 56.84,
+    "end": 63.4,
+    "text": " there on the Sunday and to get tickets for either of these events you can go to knowsuchthingsofish.com."
+  },
+  {
+    "start": 63.4,
+    "end": 70.24,
+    "text": " That's right. So do that now. Just do that now. Yeah. Do it. Do it now. knowsuchthingsofish.com"
+  },
+  {
+    "start": 70.24,
+    "end": 74.16,
+    "text": " and as I already said it, you know the address. It's the same as the show name. It's always"
+  },
+  {
+    "start": 74.16,
+    "end": 78.48,
+    "text": " the same. For God's sake, why do we keep saying it? Yeah. Alright, see you at those shows."
+  },
+  {
+    "start": 78.48,
+    "end": 80.28,
+    "text": " On with the podcast. On with the show."
+  },
+  {
+    "start": 80.28,
+    "end": 102.32,
+    "text": " Hello and welcome to another episode of knowsuchthingsofish, a weekly podcast coming to you from the"
+  },
+  {
+    "start": 102.32,
+    "end": 107.6,
+    "text": " QI offices in Hoburn. My name is Dan Schreiber. I am sitting here with Anna Tyshinski, James"
+  },
+  {
+    "start": 107.6,
+    "end": 111.88,
+    "text": " Harkin and Andrew Hunter Murray. And once again, we have gathered around the microphones"
+  },
+  {
+    "start": 111.88,
+    "end": 116.56,
+    "text": " with our four favorite facts from the last seven days. And in no particular order, here"
+  },
+  {
+    "start": 116.56,
+    "end": 122.52,
+    "text": " we go. Starting with fact number one, that is Andy. My fact is that Venice's most famous"
+  },
+  {
+    "start": 122.52,
+    "end": 129.84,
+    "text": " bridge was built by a man named Antonio the Bridge. What's it? What's it? Yes. What's"
+  },
+  {
+    "start": 129.84,
+    "end": 135.24,
+    "text": " it? What's it? Is it Rialto? It's the Rialto Bridge, which is the biggie. Yeah. It's not"
+  },
+  {
+    "start": 135.24,
+    "end": 142.12,
+    "text": " the biggest, but it is the famous one, most venerable. And the builder was Antonio D'Aponte,"
+  },
+  {
+    "start": 142.12,
+    "end": 146.44,
+    "text": " which certain members of this podcast have pointed out might mean Antonio Orville from"
+  },
+  {
+    "start": 146.44,
+    "end": 151.16,
+    "text": " the bridge. It just doesn't mean Antonio the Bridge. Lame. Lame. Can't a fellow have a little"
+  },
+  {
+    "start": 151.16,
+    "end": 155.56,
+    "text": " flair on this podcast. We don't want to alienate the Italian listeners. Well, this was sent"
+  },
+  {
+    "start": 155.56,
+    "end": 161.08,
+    "text": " in by Marco Batuzzo as originally wanted. So I think he will be pretty alienated by you"
+  },
+  {
+    "start": 161.08,
+    "end": 169.72,
+    "text": " now. So thanks to Marco for sending us in. This is about Venice. La Serenissima, you know."
+  },
+  {
+    "start": 169.72,
+    "end": 175.12,
+    "text": " City of canals. That doesn't sound very sexy, does it? Queen of the Adriatic. That sounds"
+  },
+  {
+    "start": 175.12,
+    "end": 182.08,
+    "text": " sexy. Yeah. The floating city. Yes. Scondolas. It smells quite like shit. Does it? For a"
+  },
+  {
+    "start": 182.08,
+    "end": 185.76,
+    "text": " lot of the year. Really? Yeah. Have you guys been to Venice? Yeah. Lots of pigeons, I seem"
+  },
+  {
+    "start": 185.76,
+    "end": 190.88,
+    "text": " to remember. There was in St. Mark's Square, is it? Pigeon St. Mark's Square. But yeah,"
+  },
+  {
+    "start": 190.88,
+    "end": 196.2,
+    "text": " for a lot of the year, the effluence sort of backs up and it does smell pretty whiffy."
+  },
+  {
+    "start": 196.2,
+    "end": 199.2,
+    "text": " You and I should take charge of their tourist industry. You could really stole a lot of"
+  },
+  {
+    "start": 199.2,
+    "end": 204.7,
+    "text": " their properties. They're trying to put people off, aren't they? Yeah. Anyway, Antonio D'Aponte"
+  },
+  {
+    "start": 204.7,
+    "end": 208.48,
+    "text": " designed the Rialto and this actually gets to another fact. I've been trying to smuggle"
+  },
+  {
+    "start": 208.48,
+    "end": 212.36,
+    "text": " into this podcast for some months now, which is the Canaletto, the man most famous for"
+  },
+  {
+    "start": 212.36,
+    "end": 217.36,
+    "text": " painting all the canals in Venice, was born Giovanni Canal, John Canal was his name and"
+  },
+  {
+    "start": 217.36,
+    "end": 221.2,
+    "text": " then he painted canals for a living. And these guys didn't think that was a good fact. I"
+  },
+  {
+    "start": 221.2,
+    "end": 225.16,
+    "text": " think it's a good fact. I just thought he was more well known than Antonio off the"
+  },
+  {
+    "start": 225.16,
+    "end": 229.08,
+    "text": " bridge. Yeah, true. Yeah, yeah, yeah, yeah. It's weird that we don't seem to know much"
+  },
+  {
+    "start": 229.08,
+    "end": 235.24,
+    "text": " about Mr. Bridge. We know his nephew had nepotism on his side because he built a bridge himself."
+  },
+  {
+    "start": 235.24,
+    "end": 241.08,
+    "text": " This was the bridge of size. Oh, that's the second most famous one in Venice. We'll get"
+  },
+  {
+    "start": 241.08,
+    "end": 244.68,
+    "text": " back to your bridge, Andy, but that bridge was called that because it was the last site"
+  },
+  {
+    "start": 244.68,
+    "end": 248.92,
+    "text": " that prisoners would see before they would then put into a building. So the idea was"
+  },
+  {
+    "start": 248.92,
+    "end": 256.92,
+    "text": " the sigh would be, oh, this is it. Supposedly... What a shit bridge to end on. Supposedly Byron"
+  },
+  {
+    "start": 256.92,
+    "end": 261,
+    "text": " gave it the name, the bridge of size. Really? We don't know his nepotism. He might have"
+  },
+  {
+    "start": 261,
+    "end": 264.12,
+    "text": " just been a naturally good bridge builder like his uncle. Absolutely true. Can you tell"
+  },
+  {
+    "start": 264.12,
+    "end": 268.28,
+    "text": " us any more about Antonio or not? I've only got one thing about Antonio D'Aponte. So"
+  },
+  {
+    "start": 268.28,
+    "end": 273.88,
+    "text": " it was 1591. He's designing it. And there is a legend that he made a deal with the devil."
+  },
+  {
+    "start": 273.88,
+    "end": 277.96,
+    "text": " Oh, is that true? It's one of those, is it? It's one of those. Wow. And the bridge would be a success,"
+  },
+  {
+    "start": 277.96,
+    "end": 281.64,
+    "text": " but in exchange, the devil would claim the soul of the first person who crossed the bridge."
+  },
+  {
+    "start": 281.64,
+    "end": 285.48,
+    "text": " Actually, I would say that's quite a good deal for him because usually it's the person who designs"
+  },
+  {
+    "start": 285.48,
+    "end": 290.2,
+    "text": " it who has to give their soul away. Exactly, exactly that. And he tried to trick the devil"
+  },
+  {
+    "start": 290.2,
+    "end": 294.36,
+    "text": " by making a rooster walk over the bridge first. That never works. The devil sees through that"
+  },
+  {
+    "start": 294.36,
+    "end": 298.36,
+    "text": " kind of shit. The devil saw through it and then ensured that the first human to cross was D'Aponte's"
+  },
+  {
+    "start": 298.36,
+    "end": 304.76,
+    "text": " own wife. Uh-oh. Oh, he then died. He read it after the rooster. Do we know anything about her?"
+  },
+  {
+    "start": 304.76,
+    "end": 311.8,
+    "text": " No. Did she die? Did she die? She's not still alive. I mean, I don't think the story is..."
+  },
+  {
+    "start": 311.8,
+    "end": 315.08,
+    "text": " I don't think we need to... Not true. I don't think we need to dig into that story."
+  },
+  {
+    "start": 315.08,
+    "end": 319.8,
+    "text": " There's quite a few legends about it, isn't there? So this was the fourth bridge that was"
+  },
+  {
+    "start": 319.8,
+    "end": 324.04,
+    "text": " built in this spot. It's not the fourth bridge. Is that an actual bridge? That's in Scotland."
+  },
+  {
+    "start": 324.04,
+    "end": 328.76,
+    "text": " That's in Scotland, of course. So there were previous bridges and it was going to cost a lot,"
+  },
+  {
+    "start": 328.76,
+    "end": 334.12,
+    "text": " a lot of money. And there's a story that goes that a couple who were talking to the government"
+  },
+  {
+    "start": 334.12,
+    "end": 338.6,
+    "text": " who were financing it, they said, \"This is an impossible feat. It's going to collapse. It's"
+  },
+  {
+    "start": 338.6,
+    "end": 345.96,
+    "text": " not going to work. If it happens, I, to God, let a nail grow out between my thighs,\" said the man."
+  },
+  {
+    "start": 345.96,
+    "end": 352.44,
+    "text": " And the lady said, \"Yes, and let a fire burn my vagina.\" And she said, \"A fire should burn my"
+  },
+  {
+    "start": 352.44,
+    "end": 356.52,
+    "text": " nature.\" But that's what she was talking about. Now, if you look on the bridge, there are two"
+  },
+  {
+    "start": 356.52,
+    "end": 360.84,
+    "text": " facades where there is a lady with a fire in between her legs and there's a man with a sort"
+  },
+  {
+    "start": 360.84,
+    "end": 365,
+    "text": " of third leg that's coming out. And supposedly it's in connection to that legend. I think it is,"
+  },
+  {
+    "start": 365,
+    "end": 368.92,
+    "text": " isn't it? Yeah. Even though that probably didn't happen. But you know, it was a, like, screw you,"
+  },
+  {
+    "start": 368.92,
+    "end": 373,
+    "text": " middle finger to the people who said it would never happen. Because it took almost 100 years"
+  },
+  {
+    "start": 373,
+    "end": 376.76,
+    "text": " to be built from when it was promised. So the whole of Venice, it was a joke that no one was"
+  },
+  {
+    "start": 376.76,
+    "end": 380.92,
+    "text": " ever going to build it. So they did do that sculpture as a middle finger. But I feel like"
+  },
+  {
+    "start": 380.92,
+    "end": 384.6,
+    "text": " the man got off lightly because, A, he said, \"Let a nail grow between my thighs.\" And it's not a"
+  },
+  {
+    "start": 384.6,
+    "end": 388.52,
+    "text": " nail, it's a leg. It's a leg. He got a third leg. So you just got a third leg. That's almost an asset."
+  },
+  {
+    "start": 388.52,
+    "end": 393.4,
+    "text": " Well, I'm not sure. You wouldn't say no to a third leg, would you? I think I would, actually,"
+  },
+  {
+    "start": 393.4,
+    "end": 398.44,
+    "text": " because I think it's associated with certain entertainers from the 1970s that I wouldn't"
+  },
+  {
+    "start": 398.44,
+    "end": 405.72,
+    "text": " want to be associated with. Okay. Well, there's no good on that bridge. So can I ask the previous"
+  },
+  {
+    "start": 405.72,
+    "end": 411.08,
+    "text": " bridges? So this is the fourth one, the realtor, right? Yeah. Were they all wooden and burned down"
+  },
+  {
+    "start": 411.08,
+    "end": 417.88,
+    "text": " or something or what? A wolf came and huffed and huffed. They were kind of omitted. They were"
+  },
+  {
+    "start": 417.88,
+    "end": 424.68,
+    "text": " often replaced for reasons like we need to get ships along this bit of the lagoon or the lake"
+  },
+  {
+    "start": 424.68,
+    "end": 428.2,
+    "text": " or the canal or whatever. And actually, it's too tall. So one of the previous ones was the draw"
+  },
+  {
+    "start": 428.2,
+    "end": 432.44,
+    "text": " bridge. Oh, really? Great fun. But I think they wanted something a bit more permanent. So previous"
+  },
+  {
+    "start": 432.44,
+    "end": 437.16,
+    "text": " times that this bridge went down, one was it was burnt down as part of a revolt. And then the next"
+  },
+  {
+    "start": 437.16,
+    "end": 443.08,
+    "text": " time, the rebuilt one, which was in 1444, collapsed because a crowd of people were running to the"
+  },
+  {
+    "start": 443.08,
+    "end": 449.56,
+    "text": " marriage of the Marquis of Ferrara. And the weight couldn't take it. And so it just collapsed. Wow."
+  },
+  {
+    "start": 449.56,
+    "end": 456.84,
+    "text": " Obviously the Marquis of it sounded like you were just clearing your throat at the double ARA."
+  },
+  {
+    "start": 456.84,
+    "end": 461.72,
+    "text": " Ah, what famous thing about the bridges in Venice is they used to fight over them a lot,"
+  },
+  {
+    "start": 461.72,
+    "end": 466.52,
+    "text": " didn't they? And when I say fight over them, I mean, they were walking over them. It's mine! It's mine!"
+  },
+  {
+    "start": 466.52,
+    "end": 471.64,
+    "text": " It's mine! It was like families and they used to just have big old scraps over the bridges."
+  },
+  {
+    "start": 471.64,
+    "end": 478.04,
+    "text": " Yeah, sounds like such a fun era. Yeah. It was a particular day. You'd go to a bridge on a day"
+  },
+  {
+    "start": 478.04,
+    "end": 481.4,
+    "text": " and there would be the day of fighting. You know what? I think it happened quite regularly."
+  },
+  {
+    "start": 481.4,
+    "end": 486.44,
+    "text": " But yeah, like it would be an Easter thing or a special day of the year. It was just fistfights."
+  },
+  {
+    "start": 486.44,
+    "end": 490.2,
+    "text": " Just fistfights. And they weren't really fighting over anything in particular. It wasn't like we"
+  },
+  {
+    "start": 490.2,
+    "end": 495.56,
+    "text": " want this bridge like Anna says. It was just like we want honour. So it'll make everyone in our family"
+  },
+  {
+    "start": 495.56,
+    "end": 501.56,
+    "text": " like us if we win this fight. Yeah, I think it was originally started with the two massive factions,"
+  },
+  {
+    "start": 501.56,
+    "end": 505.16,
+    "text": " which kind of split Venice, the Castellani, who were the shipbuilders and the sailors and the"
+  },
+  {
+    "start": 505.16,
+    "end": 509.56,
+    "text": " Niccolotti who were the fishermen. And you know, they just hated each other. So they came and"
+  },
+  {
+    "start": 509.56,
+    "end": 514.28,
+    "text": " they had some stick fights for a while. And then I think they decided to convert to fists."
+  },
+  {
+    "start": 514.28,
+    "end": 520.12,
+    "text": " And it only ended in 1705. So it started in 14th century, happened all the time. Always a bridge"
+  },
+  {
+    "start": 520.12,
+    "end": 526.92,
+    "text": " you can find somewhere with a fight on it. And in 1705, when one fight got so big and so popular"
+  },
+  {
+    "start": 526.92,
+    "end": 532.6,
+    "text": " that the San Girolamo church somewhere else in the city caught fire and was going to burn down."
+  },
+  {
+    "start": 532.6,
+    "end": 537.96,
+    "text": " And they relied on firemen volunteers to come and fix it. But all the firemen volunteers were"
+  },
+  {
+    "start": 537.96,
+    "end": 542.6,
+    "text": " watching this fight and refused. And so this amazing church burned down because these lazy"
+  },
+  {
+    "start": 542.6,
+    "end": 546.76,
+    "text": " firemen were too busy at the fight. You do wonder what happened in the past with it being fights"
+  },
+  {
+    "start": 546.76,
+    "end": 551,
+    "text": " between the shipbuilders and the fishermen. Because they must get together quite often for"
+  },
+  {
+    "start": 551,
+    "end": 555.64,
+    "text": " business, right? Oh, yeah, you're right. You want someone to build you a ship. Exactly. The fishermen"
+  },
+  {
+    "start": 555.64,
+    "end": 561,
+    "text": " depend on the shipbuilders. And the shipbuilders depend on the fishermen to buy their boats."
+  },
+  {
+    "start": 561,
+    "end": 564.04,
+    "text": " Why are they alienating each other? It's not good business."
+  },
+  {
+    "start": 564.04,
+    "end": 568.68,
+    "text": " That's just rivalry, isn't it? It's like us and the Big Bang Theory, you know? Like,"
+  },
+  {
+    "start": 568.68,
+    "end": 572.36,
+    "text": " we're all part of this great comedy world, but we're daggers drawn."
+  },
+  {
+    "start": 572.36,
+    "end": 573.8,
+    "text": " Oh, yeah, they really care about us."
+  },
+  {
+    "start": 573.8,
+    "end": 577.72,
+    "text": " With hindsight, I should have set off menu."
+  },
+  {
+    "start": 577.72,
+    "end": 582.68,
+    "text": " Yeah, we say people who we've actually met and are still going."
+  },
+  {
+    "start": 584.52,
+    "end": 591.16,
+    "text": " Dad, we won. We defeated the Big Bang Theory. So obvious. I was looking up other notable people"
+  },
+  {
+    "start": 591.16,
+    "end": 596.36,
+    "text": " from Venice. And specifically people whose names sounded like the thing that they did. Found an"
+  },
+  {
+    "start": 596.36,
+    "end": 604.76,
+    "text": " archaeologist called Iocomo Boni. Brilliant. Unfortunately, he was an archaeologist of"
+  },
+  {
+    "start": 604.76,
+    "end": 608.92,
+    "text": " Roman architecture, as opposed to finding bones. But he must have come across some bones when"
+  },
+  {
+    "start": 608.92,
+    "end": 612.28,
+    "text": " he was doing that stuff. He would have cleared some bones out the way, yeah. And that's the only one"
+  },
+  {
+    "start": 612.28,
+    "end": 616.68,
+    "text": " I found. That was really good. How long did that couple of days work?"
+  },
+  {
+    "start": 616.68,
+    "end": 622.12,
+    "text": " I actually lost a lot of time because Leonardo da Vinci is of Vinci. And I thought, okay,"
+  },
+  {
+    "start": 622.12,
+    "end": 627.16,
+    "text": " where is Antonio the bridge from? So I looked up bridge and there's a few places around the world"
+  },
+  {
+    "start": 627.16,
+    "end": 632.44,
+    "text": " called bridge, but none in Italy. And I thought, oh my God, so where is he from? Now, after about"
+  },
+  {
+    "start": 632.44,
+    "end": 636.68,
+    "text": " half an hour, I realized... You searched the word bridge, not ponte."
+  },
+  {
+    "start": 638.12,
+    "end": 641.8,
+    "text": " So I've got a lot of facts about little villages called bridge around the UK."
+  },
+  {
+    "start": 641.8,
+    "end": 646.04,
+    "text": " You didn't give us some of them, that's great. Well, there's one in Canterbury, near Canterbury,"
+  },
+  {
+    "start": 646.04,
+    "end": 653,
+    "text": " called bridge, population 1500. Its only cultural milestone for it is that it was once featured"
+  },
+  {
+    "start": 653,
+    "end": 657.88,
+    "text": " in a show called Robby the Car, in which bridges traffic congested roads were shown. That's the"
+  },
+  {
+    "start": 657.88,
+    "end": 662.76,
+    "text": " only popular cultural reference that it has ever had. And do we mean Robby the Car or Robby of the"
+  },
+  {
+    "start": 662.76,
+    "end": 669.48,
+    "text": " Car? Robby the Car. And don't fall for it. But ponte, there are lots of pantes, it turns out,"
+  },
+  {
+    "start": 669.48,
+    "end": 676.84,
+    "text": " when I re-googled it in Italy, but we also have a ponte in the UK. Ponte Pritt. We've got ponte"
+  },
+  {
+    "start": 676.84,
+    "end": 681.88,
+    "text": " Fract. Ponte Fract, which literally means broken bridge. Broken bridge. Yes, why does it mean that?"
+  },
+  {
+    "start": 681.88,
+    "end": 687.4,
+    "text": " I'm not talking about that. I stopped researching it, but it was... You'd gone off course at this point."
+  },
+  {
+    "start": 687.4,
+    "end": 691.96,
+    "text": " Someone quite famous, there was a bridge that was broken and they rebuilt it. And so we got its"
+  },
+  {
+    "start": 691.96,
+    "end": 696.2,
+    "text": " name off the back of it a very long time ago. Nice. There we go. There's the detail you needed."
+  },
+  {
+    "start": 696.2,
+    "end": 701.56,
+    "text": " I didn't know this, maybe it's very well known if you've been to Venice, but it's obviously in the"
+  },
+  {
+    "start": 701.56,
+    "end": 706.68,
+    "text": " middle of this lagoon. Do you know the average depth of the lagoon? It's going to be either 90"
+  },
+  {
+    "start": 706.68,
+    "end": 710.68,
+    "text": " centimetres or it's going to be too wild. I think it's really shallow. It's one meter,"
+  },
+  {
+    "start": 710.68,
+    "end": 715.16,
+    "text": " half fridge depth, one meter. Wow. And it varies quite a lot, but you have to, if you are in a"
+  },
+  {
+    "start": 715.16,
+    "end": 719.24,
+    "text": " boat, you really need to know the right route, otherwise you are going to get beach, but basically"
+  },
+  {
+    "start": 719.24,
+    "end": 723.32,
+    "text": " you could puddle across the time. Do people swim across? No, they don't. They really don't. And"
+  },
+  {
+    "start": 723.32,
+    "end": 726.84,
+    "text": " people say, you know, even foreigners are not recommended to boat across because you won't"
+  },
+  {
+    "start": 726.84,
+    "end": 731.64,
+    "text": " be able to navigate it. Because unlike the channel swim that people do, if you get tired,"
+  },
+  {
+    "start": 731.64,
+    "end": 735.4,
+    "text": " you drown, but in this one you could literally stand and just fake that you're still with the front"
+  },
+  {
+    "start": 735.4,
+    "end": 740.28,
+    "text": " floor. It's still going. That's how I swam till I was about 11 years old. When you were there,"
+  },
+  {
+    "start": 740.28,
+    "end": 745.08,
+    "text": " you've been there. I've been there a few times. Yeah, when I was very young. Did you go in the"
+  },
+  {
+    "start": 745.08,
+    "end": 751.88,
+    "text": " gondolas? Yeah. And did you have a maestro on board singing? Oh no. Because they don't sing,"
+  },
+  {
+    "start": 751.88,
+    "end": 756.44,
+    "text": " I believe, the gondolas. I always didn't. No. I think you have to. Actually, I was quite taciturn"
+  },
+  {
+    "start": 756.44,
+    "end": 760.68,
+    "text": " thinking about it. Right. Well, I think they are because they're really busy punting you along."
+  },
+  {
+    "start": 760.68,
+    "end": 765.32,
+    "text": " It's really high effort. Like you'd have to be tailors. I was going to sing. Sing, damn it."
+  },
+  {
+    "start": 765.32,
+    "end": 769.88,
+    "text": " They get a bit snippy when you ask them to sing. And I read an interview with a gondola who said,"
+  },
+  {
+    "start": 769.88,
+    "end": 778.36,
+    "text": " yes, we know if anyone sings just one connetto that they're British. But there are only about 430"
+  },
+  {
+    "start": 778.36,
+    "end": 784.04,
+    "text": " proper gondoliers in the city. The gondolas are a very specific kind of boat. And there are also"
+  },
+  {
+    "start": 784.04,
+    "end": 789.48,
+    "text": " the trageti, which are like bus gondolas, which go, there are more like ferries across waterways."
+  },
+  {
+    "start": 789.48,
+    "end": 793.16,
+    "text": " I just remembered, I have been in a gondola where they were singing. Oh, really? Yeah. And they were"
+  },
+  {
+    "start": 793.16,
+    "end": 798.2,
+    "text": " singing, oh, so let me or not. Just one connetto. Just one connetto. Yeah. But the effect is the same."
+  },
+  {
+    "start": 798.2,
+    "end": 804.84,
+    "text": " And that was in Las Vegas. Because there is like the, is it called the Venetian? Maybe it is."
+  },
+  {
+    "start": 804.84,
+    "end": 809.8,
+    "text": " One of the hotels, they have like gondoliers on the outside. Yeah, yeah. They all lean a little"
+  },
+  {
+    "start": 809.8,
+    "end": 814.68,
+    "text": " bit to the right, don't they? The gondolas? The gondolas, yes. Politically, you mean? Yes,"
+  },
+  {
+    "start": 814.68,
+    "end": 820.84,
+    "text": " they're all very, very Republican. That's that. No, I don't know their political leanings,"
+  },
+  {
+    "start": 820.84,
+    "end": 825.24,
+    "text": " but their physical leanings to the right, every gondola is exactly 24 centimeters longer on its"
+  },
+  {
+    "start": 825.24,
+    "end": 830.2,
+    "text": " left hand side, so that the keel bends round to the right and it tilts a bit to the right."
+  },
+  {
+    "start": 830.2,
+    "end": 834.36,
+    "text": " Why? It's because it's kind of like, if you imagine you're punting, but the gondoliers punt"
+  },
+  {
+    "start": 834.36,
+    "end": 839.8,
+    "text": " on one side, they row from the right side. And so if they were on the right side and it was straight,"
+  },
+  {
+    "start": 839.8,
+    "end": 844.68,
+    "text": " then it would keep veering to the left. Yeah, that's clever. That's clever. It's all wonky."
+  },
+  {
+    "start": 844.68,
+    "end": 849.16,
+    "text": " We haven't even talked about the doge. Oh, that's the guy who ran it. Is it a charge?"
+  },
+  {
+    "start": 849.16,
+    "end": 854.52,
+    "text": " Yeah, or she, but mostly guys. Was there ever a female doge? I believe not. But the doge is"
+  },
+  {
+    "start": 854.52,
+    "end": 859.72,
+    "text": " they lasted for the Republic lasted a thousand years until Napoleon came along and just ended"
+  },
+  {
+    "start": 859.72,
+    "end": 864.76,
+    "text": " it like that. Yeah, we're sad. Do you know who was instrumental in the restoration of the doge"
+  },
+  {
+    "start": 864.76,
+    "end": 872.68,
+    "text": " palace? Iocomo Boni. Archaeologist, yeah. He was very much involved in that."
+  },
+  {
+    "start": 872.68,
+    "end": 883.56,
+    "text": " Okay, it is time for fact number two, and that is my fact. My fact this week is that,"
+  },
+  {
+    "start": 883.56,
+    "end": 888.84,
+    "text": " for the last seven years, a science lab in Italy has continuously been looking for"
+  },
+  {
+    "start": 888.84,
+    "end": 895.8,
+    "text": " something that supposedly happens less than once every trillion trillion years. It's very cool."
+  },
+  {
+    "start": 895.8,
+    "end": 902.28,
+    "text": " Is it you making the tea? What? I just, I thought one of us had to have come out"
+  },
+  {
+    "start": 902.28,
+    "end": 905.48,
+    "text": " with a joke in advance for that and none of us had. And I can see it hadn't happened."
+  },
+  {
+    "start": 905.48,
+    "end": 909.16,
+    "text": " So that was a prepped joke as well. No, that was on the fly. I suddenly realized"
+  },
+  {
+    "start": 909.16,
+    "end": 912.52,
+    "text": " we should have prepped something. Got it. Guys, why didn't you prep anything?"
+  },
+  {
+    "start": 912.52,
+    "end": 918.28,
+    "text": " Yeah, what is this, Dan? This is the cryogenic underground observatory for rare events,"
+  },
+  {
+    "start": 918.28,
+    "end": 925.24,
+    "text": " also known as Cura, which is heart in the Italian language. Cool. It's a particle physics experiment."
+  },
+  {
+    "start": 925.24,
+    "end": 930.76,
+    "text": " It's underground and it is trying to basically work out why it is that the universe is in the"
+  },
+  {
+    "start": 930.76,
+    "end": 935.4,
+    "text": " way it is. We are missing a lot of mass in the universe. Dark matter is not there. Scientists,"
+  },
+  {
+    "start": 935.4,
+    "end": 939.64,
+    "text": " it's one of the biggest problems. How can we not find it? I know this study. It's done by a guy"
+  },
+  {
+    "start": 939.64,
+    "end": 947,
+    "text": " called Giovanni Neutrino. I have a question, Dan. Yeah, yeah. If this only happens once every"
+  },
+  {
+    "start": 947,
+    "end": 951.16,
+    "text": " trillion trillion years, and they've been going for seven years, are they just hoping to get"
+  },
+  {
+    "start": 951.16,
+    "end": 955.48,
+    "text": " incredibly lucky? It's got to happen sometime, right? Even though we're living in a 14 billion"
+  },
+  {
+    "start": 955.48,
+    "end": 959.24,
+    "text": " year old universe. So what's the deal there? Are they trying to make it happen?"
+  },
+  {
+    "start": 959.24,
+    "end": 966.04,
+    "text": " What is the actual thing that they're looking for? What they're looking for is they're trying to work"
+  },
+  {
+    "start": 966.04,
+    "end": 971.8,
+    "text": " out whether or not neutrinos, which they're incredibly, incredibly tiny. There's a comparative"
+  },
+  {
+    "start": 971.8,
+    "end": 976.2,
+    "text": " which says that if an atom is the size of the solar system, the neutrino at the center is the"
+  },
+  {
+    "start": 976.2,
+    "end": 979.56,
+    "text": " size of a golf ball. So this is an extraordinarily... Oh, no, I'm interested."
+  },
+  {
+    "start": 979.56,
+    "end": 987.08,
+    "text": " When radiation happens, isn't it right that neutrinos are created? When radioactive molecules"
+  },
+  {
+    "start": 987.08,
+    "end": 993.4,
+    "text": " decay? Yes. So I think basically what they're really excited about finding here is a decay that"
+  },
+  {
+    "start": 993.4,
+    "end": 998.44,
+    "text": " doesn't spit out neutrinos, right? Neutrino-less decay. So the idea is that when atoms decay,"
+  },
+  {
+    "start": 998.44,
+    "end": 1002.2,
+    "text": " they spit out two electrons. Sometimes they spit out two electrons, two neutrinos,"
+  },
+  {
+    "start": 1002.2,
+    "end": 1006.84,
+    "text": " and scientists have gone for ages. We reckon that sometimes atoms decay, and the two neutrinos that"
+  },
+  {
+    "start": 1006.84,
+    "end": 1011.96,
+    "text": " would be spat out will actually erase each other, because one will be a neutrino, one will become"
+  },
+  {
+    "start": 1011.96,
+    "end": 1015.96,
+    "text": " an anti-neutrino, and nothing will be spat out. And this will answer all our questions about why"
+  },
+  {
+    "start": 1015.96,
+    "end": 1018.92,
+    "text": " there's so little antimatter in the universe. But I don't know if they found it yet."
+  },
+  {
+    "start": 1020.92,
+    "end": 1024.28,
+    "text": " I think we would have heard if they had. No, they haven't found it yet."
+  },
+  {
+    "start": 1024.28,
+    "end": 1028.6,
+    "text": " And the way that they can do it in seven years, or not do it yet in seven years,"
+  },
+  {
+    "start": 1028.6,
+    "end": 1034.04,
+    "text": " but they're hoping to do it sometime, is just they have a lot of stuff, right? So it would"
+  },
+  {
+    "start": 1034.04,
+    "end": 1038.52,
+    "text": " happen to an individual molecule once every trillion, trillion years. But if you've got a"
+  },
+  {
+    "start": 1038.52,
+    "end": 1042.2,
+    "text": " trillion, trillion molecules, then it'll happen every year. I understand. I mean..."
+  },
+  {
+    "start": 1042.2,
+    "end": 1045.72,
+    "text": " Oh, so it only happens less than once every trillion, trillion years to each molecule,"
+  },
+  {
+    "start": 1045.72,
+    "end": 1050.6,
+    "text": " kind of thing, right not ever in the universe. And so they're observing it in this incredible"
+  },
+  {
+    "start": 1050.6,
+    "end": 1055.48,
+    "text": " refrigerator that they've built. It's called the cryostat. And it basically..."
+  },
+  {
+    "start": 1055.48,
+    "end": 1059.08,
+    "text": " Would they keep milk in this refrigerator? You probably would know where milk is kept."
+  },
+  {
+    "start": 1059.08,
+    "end": 1068.6,
+    "text": " Basically, the idea... Let's get back to the physics guys. So the refrigerator takes the"
+  },
+  {
+    "start": 1068.6,
+    "end": 1074.92,
+    "text": " temperature down to what is called 10 millikelvin, which is just barely above absolute zero."
+  },
+  {
+    "start": 1074.92,
+    "end": 1079.96,
+    "text": " And the conditions are basically colder than the coldest spot of space. It went out to the"
+  },
+  {
+    "start": 1079.96,
+    "end": 1084.6,
+    "text": " coldest bit of the void of the space. This is colder. So it's a pretty amazing thing going on."
+  },
+  {
+    "start": 1084.6,
+    "end": 1087,
+    "text": " It's amazing we can create the coldest spot in the universe."
+  },
+  {
+    "start": 1087,
+    "end": 1092.04,
+    "text": " Yeah, it really is. And the other amazing thing about is about where this thing is,"
+  },
+  {
+    "start": 1092.04,
+    "end": 1096.68,
+    "text": " because if you're trying to study neutrinos, you want to avoid cosmic bombardment."
+  },
+  {
+    "start": 1096.68,
+    "end": 1100.76,
+    "text": " Oh yeah. Because there's neutrinos going around all the time, right?"
+  },
+  {
+    "start": 1100.76,
+    "end": 1104.68,
+    "text": " Constantly. They're everywhere. So if you're looking for them, that's going to be tough,"
+  },
+  {
+    "start": 1104.68,
+    "end": 1109.16,
+    "text": " because they're everywhere. They're in you, they're in your cup of tea that Dan didn't make."
+  },
+  {
+    "start": 1109.16,
+    "end": 1113.96,
+    "text": " They're everywhere. So you need to create an environment where they aren't."
+  },
+  {
+    "start": 1113.96,
+    "end": 1118.2,
+    "text": " Exactly. And so what they do, they go beneath a mountain range, which helps."
+  },
+  {
+    "start": 1118.2,
+    "end": 1122.36,
+    "text": " But another layer of protection they've got is, and this is something we've mentioned a few years"
+  },
+  {
+    "start": 1122.36,
+    "end": 1130.04,
+    "text": " ago, ancient Roman ingots of lead, which were found in a 2000 year old shipwreck. And they"
+  },
+  {
+    "start": 1130.04,
+    "end": 1134.68,
+    "text": " gained the permission to use these for science rather than putting them in a museum, I guess"
+  },
+  {
+    "start": 1134.68,
+    "end": 1138.68,
+    "text": " because they're 2000 year old lumps of lead, who cares. But they've been at the bottom of the"
+  },
+  {
+    "start": 1138.68,
+    "end": 1142.76,
+    "text": " ocean all this time, so they haven't absorbed any cosmic bombardment. So they're relatively clean."
+  },
+  {
+    "start": 1142.76,
+    "end": 1150.12,
+    "text": " And that has been, they've been melted down and formed into a shield to protect these towers of"
+  },
+  {
+    "start": 1150.12,
+    "end": 1155,
+    "text": " fridge units, basically. Yeah. Crystals, which are making the place so cold. So it's surrounded by"
+  },
+  {
+    "start": 1155,
+    "end": 1160.2,
+    "text": " 2000 year old Roman lead shield. It's a pile, isn't it? It's just under a mountain in Italy,"
+  },
+  {
+    "start": 1160.2,
+    "end": 1165.24,
+    "text": " like it's mad. It's James Bond stuff. It is. And it's the coldest cubic meter in the universe."
+  },
+  {
+    "start": 1165.24,
+    "end": 1169.88,
+    "text": " Like that's just, that is the final cherry on the top. It's just nuts. And the Romans helped"
+  },
+  {
+    "start": 1169.88,
+    "end": 1174.92,
+    "text": " to build it as if they didn't take credit for everything else. I mean, neutrinos have been"
+  },
+  {
+    "start": 1174.92,
+    "end": 1180.44,
+    "text": " causing problems for scientists for a while, haven't they? Since we imagine they might exist,"
+  },
+  {
+    "start": 1180.44,
+    "end": 1185.24,
+    "text": " people tried to look for them for ages. And because they're so tiny and charge-less,"
+  },
+  {
+    "start": 1185.24,
+    "end": 1189.24,
+    "text": " and they don't interact with anything at all, they're almost totally undetectable. So I think"
+  },
+  {
+    "start": 1189.24,
+    "end": 1194.6,
+    "text": " Wolfgang Pauli in 1930, when he said, I think neutrinos must exist, immediately said,"
+  },
+  {
+    "start": 1194.6,
+    "end": 1199.72,
+    "text": " I've done a terrible thing. I have postulated a particle that cannot be detected. I felt really"
+  },
+  {
+    "start": 1199.72,
+    "end": 1205.96,
+    "text": " bad about it. But they did find it 26 years later. And this was two scientists called Rains and Cowan"
+  },
+  {
+    "start": 1205.96,
+    "end": 1209.88,
+    "text": " in 1956. Do you know what their original plan was for how to find a neutrino?"
+  },
+  {
+    "start": 1209.88,
+    "end": 1217.24,
+    "text": " Here, neutrino. Here, here, neutrino. It's a whistle. Yeah. What was happening in the 1950s?"
+  },
+  {
+    "start": 1217.24,
+    "end": 1221,
+    "text": " So there were some big experiments going on in America. Yeah, nuclear bombs. Yeah."
+  },
+  {
+    "start": 1221.8,
+    "end": 1226.36,
+    "text": " They were like, let's set off a nuclear bomb since it's happening anyway. And they went to the US"
+  },
+  {
+    "start": 1226.36,
+    "end": 1230.36,
+    "text": " government and they said, do you mind if we set off a nuclear bomb about the same size as the one"
+  },
+  {
+    "start": 1230.36,
+    "end": 1236.2,
+    "text": " in Hiroshima? And then we'll plant a neutrino detector near it and it'll detect stuff. And"
+  },
+  {
+    "start": 1236.2,
+    "end": 1238.92,
+    "text": " that was what they were going to do. And it was only at the last minute they thought actually a"
+  },
+  {
+    "start": 1238.92,
+    "end": 1245.24,
+    "text": " nuclear reactor would be easier. They used that. Yeah, Pauli, by the way, was in Friend of the"
+  },
+  {
+    "start": 1245.24,
+    "end": 1254.12,
+    "text": " Podcast, the smartest ever photograph. He was one of those guys and he won a Nobel Prize a bit"
+  },
+  {
+    "start": 1254.12,
+    "end": 1259.8,
+    "text": " later for bombarding uranium with neutrons and creating two new elements called Ocenium and"
+  },
+  {
+    "start": 1259.8,
+    "end": 1266.92,
+    "text": " Hesperium. I mean, do you guys know those elements? Yeah. Oh, yeah. Well, they don't exist. It turns"
+  },
+  {
+    "start": 1266.92,
+    "end": 1270.6,
+    "text": " out that he'd made a huge mistake. And even though he won Nobel Prize for it, those two elements"
+  },
+  {
+    "start": 1270.6,
+    "end": 1274.92,
+    "text": " don't exist. Do they then take the Nobel Prize back? No, they didn't. Because all the work was"
+  },
+  {
+    "start": 1274.92,
+    "end": 1279.08,
+    "text": " very important, what he was doing, what he'd actually done. And the only found out this way"
+  },
+  {
+    "start": 1279.08,
+    "end": 1285.4,
+    "text": " later is that he'd actually split the atom. And what he'd made was not Ocenium and Hesperium,"
+  },
+  {
+    "start": 1285.4,
+    "end": 1289.08,
+    "text": " but it was a mixture of barium, krypton, and a load of other elements that he got from splitting"
+  },
+  {
+    "start": 1289.08,
+    "end": 1294.92,
+    "text": " the atom. Really? Yeah. It turned out he'd done something even more important. I love these stories."
+  },
+  {
+    "start": 1294.92,
+    "end": 1300.44,
+    "text": " Turns out the atom was split by mistake. Someone was walking across the lab with a tray and they"
+  },
+  {
+    "start": 1300.44,
+    "end": 1308.36,
+    "text": " tried to cut some carrots in the kitchen. You know, so neutrinos are everywhere, as we've said."
+  },
+  {
+    "start": 1308.36,
+    "end": 1313.8,
+    "text": " And they don't get, they don't change course. So they're good at being traced back. You can cut,"
+  },
+  {
+    "start": 1313.8,
+    "end": 1317.24,
+    "text": " if you can trace the direction of a neutrino, which is obviously very hard to do, you can just say,"
+  },
+  {
+    "start": 1317.24,
+    "end": 1322.6,
+    "text": " \"Oh, look, it comes from that supernova over there.\" Because they're not affected by like gravity or"
+  },
+  {
+    "start": 1322.6,
+    "end": 1326.2,
+    "text": " anything like that. Like anything at all? They pass because they're so tiny. They pass through,"
+  },
+  {
+    "start": 1326.2,
+    "end": 1329.88,
+    "text": " if they, like if they put a hundred million, no, sorry, hang on one second. Oh, I can tell you"
+  },
+  {
+    "start": 1329.88,
+    "end": 1334.92,
+    "text": " how many. Okay, great. If you listen to the song \"Bound for the Reload\" by Oxide and Neutrino,"
+  },
+  {
+    "start": 1334.92,
+    "end": 1340.6,
+    "text": " the garage act. Brilliant song. I love it. Number one, with a casualty theme tune in the background."
+  },
+  {
+    "start": 1340.6,
+    "end": 1347.4,
+    "text": " Exactly. Yeah. In the time it takes you to listen to that song, 2.27 quadrillion neutrinos will have"
+  },
+  {
+    "start": 1347.4,
+    "end": 1351.64,
+    "text": " passed through your body. Have you listened to that song? I've listened to half of it. Oh,"
+  },
+  {
+    "start": 1351.64,
+    "end": 1355.24,
+    "text": " so how many neutrinos passed through your body before you gave up? Only about a quadrillion,"
+  },
+  {
+    "start": 1355.24,
+    "end": 1361.72,
+    "text": " then I thought, you know what? It's not for me. But what's weird apparently is they're so tiny that"
+  },
+  {
+    "start": 1361.72,
+    "end": 1365.08,
+    "text": " as they're passing through you, they don't make contact with the neutrinos that they're in the"
+  },
+  {
+    "start": 1365.08,
+    "end": 1369.96,
+    "text": " atoms of your body. It only happens like once or twice in your lifetime. But if you threw a golf"
+  },
+  {
+    "start": 1369.96,
+    "end": 1374.68,
+    "text": " ball through the solar system, it wouldn't hit another. So is that astonishing? A neutrino could"
+  },
+  {
+    "start": 1374.68,
+    "end": 1382.6,
+    "text": " go through lead for a light year of distance and not hit a single atom on the way. Solid lead,"
+  },
+  {
+    "start": 1382.6,
+    "end": 1388.36,
+    "text": " crazy. It's just mad. It's just mad things. And there's an argument to say. What's the point"
+  },
+  {
+    "start": 1388.36,
+    "end": 1391.88,
+    "text": " in studying them? Because they don't interact with anything. They don't bother anyone. But"
+  },
+  {
+    "start": 1391.88,
+    "end": 1398.68,
+    "text": " they were really, really essential in one specific period. And that was the lepton epoch. So they're"
+  },
+  {
+    "start": 1398.68,
+    "end": 1403.88,
+    "text": " a type of lepton, just type of particle. Do you guys know how long the lepton epoch lasted? Again,"
+  },
+  {
+    "start": 1403.88,
+    "end": 1409.16,
+    "text": " it's either going to be an 18th of a millisecond or it's going to be five. I have a feeling it might"
+  },
+  {
+    "start": 1409.16,
+    "end": 1412.92,
+    "text": " have been less than an 18th of a millisecond. Was it at the very start of the universe? It was"
+  },
+  {
+    "start": 1412.92,
+    "end": 1417.4,
+    "text": " the start of the universe. It wasn't quite less than that. It lasted between one to 10 seconds"
+  },
+  {
+    "start": 1417.4,
+    "end": 1421.4,
+    "text": " after the Big Bang. That was their moment of glory. That's longer than you managed to get through"
+  },
+  {
+    "start": 1421.4,
+    "end": 1428.12,
+    "text": " that UK garage sun. Yeah, that was when they were important. It was just them hanging out,"
+  },
+  {
+    "start": 1428.12,
+    "end": 1433.16,
+    "text": " establishing the structure of the universe. It is crazy. So these guys are looking for"
+  },
+  {
+    "start": 1433.16,
+    "end": 1440.76,
+    "text": " neutrino-less double-beta decay, as very well explained earlier on. But do you know who discovered"
+  },
+  {
+    "start": 1440.76,
+    "end": 1447.32,
+    "text": " double-beta decay? Oh, gee. Oh. As in with all the neutrinos involved. Is it a friend of the podcast?"
+  },
+  {
+    "start": 1447.32,
+    "end": 1455,
+    "text": " No, it's not. It's someone called Maria Gerpert-Meyer. Maria Gerpert-Meyer was, she basically took 30"
+  },
+  {
+    "start": 1455,
+    "end": 1460.6,
+    "text": " years to become a professor because she was at school and then her school closed down because"
+  },
+  {
+    "start": 1460.6,
+    "end": 1464.92,
+    "text": " she was at school for girls and they just closed it. She was in Germany just before she was due"
+  },
+  {
+    "start": 1464.92,
+    "end": 1472.04,
+    "text": " to graduate. When was this? This was in the middle of the 20th century. She was born in 190 something."
+  },
+  {
+    "start": 1472.04,
+    "end": 1478.12,
+    "text": " And she basically, yeah, it took her ages and ages to get a professorship because basically"
+  },
+  {
+    "start": 1478.12,
+    "end": 1482.52,
+    "text": " women couldn't really do it back then. And then three years after she got a professorship, she won"
+  },
+  {
+    "start": 1482.52,
+    "end": 1488.68,
+    "text": " a Nobel Prize. And of all the people who were linked with the Manhattan Project, there were 30 men"
+  },
+  {
+    "start": 1488.68,
+    "end": 1493.24,
+    "text": " who got Nobel Prizes and she was the only woman to get a Nobel Prize for the Manhattan Project."
+  },
+  {
+    "start": 1493.24,
+    "end": 1499.64,
+    "text": " And she kind of came up with loads of ideas. One of them was something called spin orbit coupling."
+  },
+  {
+    "start": 1499.64,
+    "end": 1506.92,
+    "text": " And it's the way that particles go around orbit in atoms and stuff. And the way that she did it is"
+  },
+  {
+    "start": 1506.92,
+    "end": 1511.48,
+    "text": " she knew Enrico Fermi. She was like one of these people who, when she had an idea, she would just"
+  },
+  {
+    "start": 1511.48,
+    "end": 1516.52,
+    "text": " talk and talk and talk and talk. And it was almost like an avalanche coming over you and telling you"
+  },
+  {
+    "start": 1516.52,
+    "end": 1520.68,
+    "text": " what was happening. And then Enrico's like, look, it's too much. I don't understand. It's too complicated."
+  },
+  {
+    "start": 1520.68,
+    "end": 1526.12,
+    "text": " It's too many words. Just go away and think about it. And she came back and basically then started"
+  },
+  {
+    "start": 1526.12,
+    "end": 1530.76,
+    "text": " dancing the waltz with him. And then her whole theory from then on was that these little things"
+  },
+  {
+    "start": 1530.76,
+    "end": 1535.8,
+    "text": " move around the atom exactly the way that couples move when they're waltzing. And it means that"
+  },
+  {
+    "start": 1535.8,
+    "end": 1539.48,
+    "text": " the ones on the outside move a bit slower. The ones on the inside move a bit faster and they all kind"
+  },
+  {
+    "start": 1539.48,
+    "end": 1543.72,
+    "text": " of interact with each other in that way. Do you think it was that? Or did you just spend"
+  },
+  {
+    "start": 1543.72,
+    "end": 1547.48,
+    "text": " ages and ages studying it and then think, I've got to come up with some sort of romantic"
+  },
+  {
+    "start": 1547.48,
+    "end": 1552.04,
+    "text": " revelatory moment for Fermi. Maybe. Get on the dance floor. For the inevitable biopic."
+  },
+  {
+    "start": 1552.04,
+    "end": 1557,
+    "text": " Yes. It kind of more felt like Fermi didn't really understand it. It was like, this is like the"
+  },
+  {
+    "start": 1557,
+    "end": 1561.4,
+    "text": " most advanced physics at the time and still is pretty advanced now. So it was her actually"
+  },
+  {
+    "start": 1561.4,
+    "end": 1566.44,
+    "text": " dumbing it down for him. I think so, yeah. Come on, Fermi. It's good that people were doing the waltz"
+  },
+  {
+    "start": 1566.44,
+    "end": 1571,
+    "text": " at the time. As in, you know, modern dancers don't really rely on that kind of. If you were bouncing"
+  },
+  {
+    "start": 1571,
+    "end": 1576.2,
+    "text": " to oxide a new tree, no. Just chaos. Yeah. We've never know. We've never discovered."
+  },
+  {
+    "start": 1576.2,
+    "end": 1579.72,
+    "text": " Actually, on particle spin, this is something I don't think we've mentioned before, but it is"
+  },
+  {
+    "start": 1579.72,
+    "end": 1585.88,
+    "text": " amazing if people don't know it. The whole universe is left-handed. We're all on a massive gondola."
+  },
+  {
+    "start": 1585.88,
+    "end": 1594.76,
+    "text": " So what does that mean? Which basically means that there are certain interactions,"
+  },
+  {
+    "start": 1594.76,
+    "end": 1600.68,
+    "text": " weak interactions involving this weak force, which is what radioactive decay involves,"
+  },
+  {
+    "start": 1600.68,
+    "end": 1606.68,
+    "text": " where all the neutrinos involved spin clockwise, which means they're left-handed and it's in lots"
+  },
+  {
+    "start": 1606.68,
+    "end": 1612.28,
+    "text": " of stuff. So all proteins that create life, the amino acids are lefty. So the amino acids"
+  },
+  {
+    "start": 1612.28,
+    "end": 1617.96,
+    "text": " that spin clockwise. Is there an advantage to it? Like with Teth Place? Oh, you think we're like the"
+  },
+  {
+    "start": 1617.96,
+    "end": 1624.92,
+    "text": " Nadal universe. Exactly. We don't know. About two-thirds of galaxies spin clockwise. We don't"
+  },
+  {
+    "start": 1624.92,
+    "end": 1633.24,
+    "text": " really know why. It's very, very weird. That principle of weak interactions is actually what"
+  },
+  {
+    "start": 1633.24,
+    "end": 1646.52,
+    "text": " the Big Bang Theory sitcom was based on. Suck it, Big Bang."
+  },
+  {
+    "start": 1646.52,
+    "end": 1653.56,
+    "text": " Okay, it is time for fact number three, and that is Anna. My fact is that Siegfried Sassoon's great"
+  },
+  {
+    "start": 1653.56,
+    "end": 1660.68,
+    "text": " grandfather once owned half the opium in India and China. It's a lot of opium. It's so much opium."
+  },
+  {
+    "start": 1660.68,
+    "end": 1665.64,
+    "text": " It was like a lot of stuff. All personal use? Yeah, definitely intent to supply,"
+  },
+  {
+    "start": 1665.64,
+    "end": 1670.28,
+    "text": " isn't it, when he's pulled over? He didn't bring it all over in his bum, though, did he?"
+  },
+  {
+    "start": 1670.28,
+    "end": 1676.6,
+    "text": " It wasn't stuffed up his anus, no. No, they were classier than that. I don't think it was that"
+  },
+  {
+    "start": 1676.6,
+    "end": 1681.4,
+    "text": " classy the opium was. Oh, look, don't twist my words, James, to make it sound like one of our"
+  },
+  {
+    "start": 1681.4,
+    "end": 1687.08,
+    "text": " lowest colonial moments. I think it was at low points of the British Empire, personally speaking."
+  },
+  {
+    "start": 1687.08,
+    "end": 1691.48,
+    "text": " So what was it? Britain was owning and trading opium, like growing it in India and then selling"
+  },
+  {
+    "start": 1691.48,
+    "end": 1696.12,
+    "text": " it to China and basically getting China hooked on opium. Yes, exactly. Because it's for trade,"
+  },
+  {
+    "start": 1696.12,
+    "end": 1699.48,
+    "text": " for money. And then China said, please don't do that. And Britain said, all right, well, we're"
+  },
+  {
+    "start": 1699.48,
+    "end": 1703.96,
+    "text": " going to go to war then. Right. Because we're going to make this up. And they had a big old war."
+  },
+  {
+    "start": 1703.96,
+    "end": 1708.28,
+    "text": " Then Britain said, well, we're going to keep Hong Kong. And so then we kept Hong Kong. And then"
+  },
+  {
+    "start": 1708.28,
+    "end": 1715.72,
+    "text": " Dan was born. That's the story. If you read my bio online, that's my origin story. Wow."
+  },
+  {
+    "start": 1715.72,
+    "end": 1719.4,
+    "text": " Do you feel guilty? Do you feel partially responsible for the subjugation of China?"
+  },
+  {
+    "start": 1719.4,
+    "end": 1724.84,
+    "text": " Absolutely. It's why I don't make tea for anyone. I don't want to get any British tradition."
+  },
+  {
+    "start": 1724.84,
+    "end": 1731.08,
+    "text": " That was a very good joke for anyone unfamiliar with the opium wars, because the whole point was"
+  },
+  {
+    "start": 1731.08,
+    "end": 1735.16,
+    "text": " China was exporting so much tea to us. And we needed to export something back to sort the"
+  },
+  {
+    "start": 1735.16,
+    "end": 1740.28,
+    "text": " trade deficit. And we found opium. Anyway, this assumes, were they responsible, weren't they?"
+  },
+  {
+    "start": 1740.28,
+    "end": 1749.24,
+    "text": " Well, complicit. Yes. So they were a massive Jewish Iraqi family originally in the 18th century,"
+  },
+  {
+    "start": 1749.24,
+    "end": 1755.4,
+    "text": " and much earlier. And there was this guy, Sheikh Sassoon Ben Salah, who was basically the treasurer"
+  },
+  {
+    "start": 1755.4,
+    "end": 1758.68,
+    "text": " to all the highest ranking politicians in Baghdad. He was like the treasurer of Baghdad."
+  },
+  {
+    "start": 1758.68,
+    "end": 1765.32,
+    "text": " And then Jews started being persecuted very badly in Iraq in the early 1800s. And so the family"
+  },
+  {
+    "start": 1765.32,
+    "end": 1771.32,
+    "text": " fled. And this guy called David Sassoon, his son, fled to Bombay with, I think he had something like"
+  },
+  {
+    "start": 1771.32,
+    "end": 1776.36,
+    "text": " 18 children, something like that. 14, 14 children, still quite a lot. So they got to Bombay, they"
+  },
+  {
+    "start": 1776.36,
+    "end": 1780.6,
+    "text": " were very successful. They traded lots of things. They allied with the British empire who were doing"
+  },
+  {
+    "start": 1780.6,
+    "end": 1786.04,
+    "text": " quite well in India back then, obviously. And it was around this time when the opium wars were"
+  },
+  {
+    "start": 1786.04,
+    "end": 1790.28,
+    "text": " happening. And Britain was realising how valuable opium was and how much money they could make"
+  },
+  {
+    "start": 1790.28,
+    "end": 1795.08,
+    "text": " trading with China. And the Sassoon's caught on to that. And they got so big, they literally owned"
+  },
+  {
+    "start": 1795.08,
+    "end": 1799.48,
+    "text": " half of the opium, which I actually don't know who owned the other half, but yeah."
+  },
+  {
+    "start": 1799.48,
+    "end": 1804.2,
+    "text": " Some other company, I guess. So that means Siegfried basically is a nepo baby, right?"
+  },
+  {
+    "start": 1804.2,
+    "end": 1809.16,
+    "text": " Oh, 100%. Yeah. Yeah. Should we say who Siegfried Sassoon is?"
+  },
+  {
+    "start": 1809.16,
+    "end": 1814.52,
+    "text": " Oh, we should. Yeah. Because not everyone will have had the same British education."
+  },
+  {
+    "start": 1814.52,
+    "end": 1820.76,
+    "text": " So Siegfried Sassoon, one of Britain's great war poets. First World War, he was in the First"
+  },
+  {
+    "start": 1820.76,
+    "end": 1827.64,
+    "text": " World War and he lived from 1886 to 1967. So he survived the war spoiler, but he wrote some"
+  },
+  {
+    "start": 1827.64,
+    "end": 1831.64,
+    "text": " cracking poems along the way. And yeah, he's a pretty famous name in the UK."
+  },
+  {
+    "start": 1831.64,
+    "end": 1834.52,
+    "text": " He's huge. Definitely. We all have to study him at school. Yeah, exactly."
+  },
+  {
+    "start": 1834.52,
+    "end": 1837.8,
+    "text": " And all the other war poets like Wilfred Owen and... Exactly. Yeah, yeah."
+  },
+  {
+    "start": 1837.8,
+    "end": 1842.12,
+    "text": " If you think of a famous war poem and you wonder who it's by, it's always by Wilfred Owen."
+  },
+  {
+    "start": 1842.12,
+    "end": 1846.84,
+    "text": " It is. Because Andy and I were talking before this about which Siegfried Sassoon poems we know."
+  },
+  {
+    "start": 1846.84,
+    "end": 1851.96,
+    "text": " And everyone I listed, Andy was like, \"No, that's Wilfred Owen. He did the biggies.\""
+  },
+  {
+    "start": 1851.96,
+    "end": 1857.56,
+    "text": " Well, he was his mentor, wasn't he? They both met in a hospital that was looking after them,"
+  },
+  {
+    "start": 1857.56,
+    "end": 1862.2,
+    "text": " after they suffered some major shock from the war. And Wilfred Owen came up and said,"
+  },
+  {
+    "start": 1862.2,
+    "end": 1867.16,
+    "text": " \"I write poetry as well. Would you have a look?\" And he saw potential and he was a mentor to him."
+  },
+  {
+    "start": 1867.16,
+    "end": 1871.4,
+    "text": " And then now he's eclipsed him. And then a bit later, they met Robert Graves,"
+  },
+  {
+    "start": 1871.4,
+    "end": 1876.6,
+    "text": " who was the other really, really big war poet. And we only recently found out where they met."
+  },
+  {
+    "start": 1876.84,
+    "end": 1879.96,
+    "text": " We knew it was somewhere in Scotland, but we didn't know where. And the University of"
+  },
+  {
+    "start": 1879.96,
+    "end": 1883.64,
+    "text": " Aberdeen lecturer called Neil McLennan found out that it was actually at a place called"
+  },
+  {
+    "start": 1883.64,
+    "end": 1891.4,
+    "text": " Baberton Golf Club. Oh, gosh. Oh, gosh. The old James Google search. Insert word, insert golf."
+  },
+  {
+    "start": 1891.4,
+    "end": 1895.96,
+    "text": " Siegfried Sassoon loved golf. It turned out, yeah."
+  },
+  {
+    "start": 1895.96,
+    "end": 1900.76,
+    "text": " One of his poems called David Cleek Goes to Saint St. Angel's Hymn Forevermore,"
+  },
+  {
+    "start": 1900.76,
+    "end": 1907.96,
+    "text": " The Miracle of Yara Stounding Score. Not one of his best. Was this before or after"
+  },
+  {
+    "start": 1907.96,
+    "end": 1911.16,
+    "text": " his war poetry? Do we know? He probably had shell shock at this stage."
+  },
+  {
+    "start": 1911.16,
+    "end": 1916.6,
+    "text": " Well, he was writing poetry from before the war. You know, he grew up very affluent,"
+  },
+  {
+    "start": 1916.6,
+    "end": 1920.68,
+    "text": " obviously. But he was already a poet. He sent a lot of early poems to Cricket magazine."
+  },
+  {
+    "start": 1920.68,
+    "end": 1926.36,
+    "text": " Oh, yeah. Just to Cricket as magazine. And in the war, so the first three years of the war,"
+  },
+  {
+    "start": 1926.36,
+    "end": 1931.24,
+    "text": " when he got a commission as a lieutenant, he was extremely brave. He was recommended for"
+  },
+  {
+    "start": 1931.24,
+    "end": 1936.84,
+    "text": " the Victoria Cross at one point. He won, I think, the Military Cross. But he did nearly"
+  },
+  {
+    "start": 1936.84,
+    "end": 1942.2,
+    "text": " suicidal things to rescue wounded men who were left out in no man's land, things like that."
+  },
+  {
+    "start": 1942.2,
+    "end": 1945.24,
+    "text": " Apparently, he single-handedly acquired a German trench."
+  },
+  {
+    "start": 1945.24,
+    "end": 1949.8,
+    "text": " Yeah, crazy. And then he just sat there apparently reading poems. And then he came back."
+  },
+  {
+    "start": 1949.8,
+    "end": 1955.96,
+    "text": " Well, Mad Jack was his name, right? Yeah, he was labelled that."
+  },
+  {
+    "start": 1955.96,
+    "end": 1959.48,
+    "text": " I couldn't see the point in the German trench thing. And I probably should have looked. But"
+  },
+  {
+    "start": 1959.48,
+    "end": 1962.28,
+    "text": " basically, he acquired this trench, as you say. And he did it with..."
+  },
+  {
+    "start": 1962.28,
+    "end": 1967.16,
+    "text": " Captured. Yeah, drove away like 60 Germans so soon you were quiet."
+  },
+  {
+    "start": 1967.16,
+    "end": 1970.92,
+    "text": " Anyway, my question is, when he got there, what was the point? Because then he went back to the"
+  },
+  {
+    "start": 1970.92,
+    "end": 1974.36,
+    "text": " trench. And I think all the Germans just came back into the trench that he scared them out of."
+  },
+  {
+    "start": 1974.36,
+    "end": 1979,
+    "text": " And his commanding officers were very annoyed because a bit of an attack had had to be delayed"
+  },
+  {
+    "start": 1979,
+    "end": 1982.52,
+    "text": " or called off because they said, oh, there's this weird bulge in the line because Sassoon has done"
+  },
+  {
+    "start": 1982.52,
+    "end": 1985.72,
+    "text": " something extremely brave. And I think that's why he didn't win the Victoria Cross."
+  },
+  {
+    "start": 1985.72,
+    "end": 1989.4,
+    "text": " Because like you say, he was nominated and it was for this thing that he was nominated,"
+  },
+  {
+    "start": 1989.4,
+    "end": 1993.08,
+    "text": " but he didn't win it. Actually, he did a quite pointless thing and jeopardised another operation."
+  },
+  {
+    "start": 1993.08,
+    "end": 1999.8,
+    "text": " Incredibly brave. But he became very disillusioned with the war, as lots of soldiers did. And he"
+  },
+  {
+    "start": 1999.8,
+    "end": 2003.96,
+    "text": " wrote a letter saying that the war was being deliberately prolonged and really blaming the"
+  },
+  {
+    "start": 2003.96,
+    "end": 2009.48,
+    "text": " generals and politicians, the English generals and politicians, and that it was being conducted"
+  },
+  {
+    "start": 2009.48,
+    "end": 2013.96,
+    "text": " really badly. And I think some people suggested that he should be court-martialed."
+  },
+  {
+    "start": 2013.96,
+    "end": 2016.76,
+    "text": " He certainly was meant to be court-martialed. He was meant to be court-martialed. But every time,"
+  },
+  {
+    "start": 2016.76,
+    "end": 2022.68,
+    "text": " yeah, he was so gung-ho that he took a bullet to the neck, but it missed the main artery,"
+  },
+  {
+    "start": 2022.68,
+    "end": 2027.24,
+    "text": " so he survived. He almost had his head blown off. I think his nihilism, when I was reading about it,"
+  },
+  {
+    "start": 2027.24,
+    "end": 2032.12,
+    "text": " I was thinking that he's so pissed off, isn't he? He's just gone, \"Sod this. This is all meaningless"
+  },
+  {
+    "start": 2032.12,
+    "end": 2037.4,
+    "text": " now.\" Because a lot of his poems are like, \"This is all meaningless.\" But he was basically, like we"
+  },
+  {
+    "start": 2037.4,
+    "end": 2045,
+    "text": " said, a Nepo baby. Because he got all this money from his aunt, called Rachel Beer, who had married"
+  },
+  {
+    "start": 2045,
+    "end": 2049.08,
+    "text": " well. I mean, it was a very rich family anyway, but she'd married this guy who was in charge of the"
+  },
+  {
+    "start": 2049.08,
+    "end": 2054.84,
+    "text": " Observer, Frederick Beer, and she'd taken over as editor, becoming the first female editor of a"
+  },
+  {
+    "start": 2054.84,
+    "end": 2059.4,
+    "text": " national newspaper when she did that. But she was a Nepo editor? She was a Nepo editor. How deep does"
+  },
+  {
+    "start": 2059.4,
+    "end": 2064.92,
+    "text": " this Nepo thing go? Well, it goes all the way back to David Sassoon, we've established. But yeah,"
+  },
+  {
+    "start": 2064.92,
+    "end": 2069.96,
+    "text": " she, and then she later purchased the Sunday Times, became editor of that as well."
+  },
+  {
+    "start": 2069.96,
+    "end": 2073.96,
+    "text": " Which is mad. She edited those at the same time. Really? Opposite ends of the spectrum."
+  },
+  {
+    "start": 2073.96,
+    "end": 2078.44,
+    "text": " Now they are. Like in those days, the Sunday Times was just like a pamphlet, really."
+  },
+  {
+    "start": 2078.44,
+    "end": 2085.8,
+    "text": " But yeah, and then she and her husband, well, basically her husband started getting these"
+  },
+  {
+    "start": 2085.8,
+    "end": 2091.4,
+    "text": " headaches. I read one quote in the ODMB saying that, \"It suddenly made this mild man irritable,"
+  },
+  {
+    "start": 2091.4,
+    "end": 2098.52,
+    "text": " or at times feverishly gay.\" And he basically went mad. He insisted that he would have the family"
+  },
+  {
+    "start": 2098.52,
+    "end": 2103.96,
+    "text": " crest clipped out of his black poodles back and walk around with it all the time. And it seems"
+  },
+  {
+    "start": 2103.96,
+    "end": 2109.64,
+    "text": " that he probably had syphilis. And then he died, and as soon as he died, Rachel got really distraught,"
+  },
+  {
+    "start": 2109.64,
+    "end": 2114.52,
+    "text": " but also started succumbing from syphilis. And she started writing articles in the Observer"
+  },
+  {
+    "start": 2114.52,
+    "end": 2119.48,
+    "text": " and the Sunday Times about how great cannibalism is and stuff like that. Oh, really? Right. And"
+  },
+  {
+    "start": 2119.48,
+    "end": 2123.64,
+    "text": " then she wrote one article in the Observer, which rambled on, rambled on. And then it just"
+  },
+  {
+    "start": 2123.64,
+    "end": 2128.44,
+    "text": " said, \"Continued in the next.\" And then we never heard from her again. She was committed to a"
+  },
+  {
+    "start": 2128.44,
+    "end": 2134.2,
+    "text": " asylum. And that was her. But she had a shit ton of money, and she left it all to Siegfried."
+  },
+  {
+    "start": 2134.2,
+    "end": 2139.4,
+    "text": " And Siegfried then could become a gentleman of pleasure, which meant he loved fox hunting."
+  },
+  {
+    "start": 2139.4,
+    "end": 2145.72,
+    "text": " Yes. But he also loved golf. So pros and cons. Very interesting. His grandfather,"
+  },
+  {
+    "start": 2145.72,
+    "end": 2150.6,
+    "text": " so David Sassoon was his great-grandfather. His grandfather was called Sassoon Sassoon."
+  },
+  {
+    "start": 2150.6,
+    "end": 2157,
+    "text": " No. But to be fair, he had 14 children. You're running out of ideas by then."
+  },
+  {
+    "start": 2157,
+    "end": 2163,
+    "text": " It's so odd. It just feels like you put the word in the wrong box, doesn't it?"
+  },
+  {
+    "start": 2163,
+    "end": 2165.88,
+    "text": " Can I get another form? No."
+  },
+  {
+    "start": 2165.88,
+    "end": 2169.88,
+    "text": " Okay. Well, can I put the first name in the surname? No."
+  },
+  {
+    "start": 2169.88,
+    "end": 2175.24,
+    "text": " Well, I found a thing that was made a few years ago, which is slightly relevant to this. There's"
+  },
+  {
+    "start": 2175.24,
+    "end": 2180.6,
+    "text": " an instrument maker called Steve Burnett, who a few years ago made the Sassoon violin."
+  },
+  {
+    "start": 2180.6,
+    "end": 2183.08,
+    "text": " I think you're going to say the Sassoon bassoon. I know."
+  },
+  {
+    "start": 2183.08,
+    "end": 2184.52,
+    "text": " A waste."
+  },
+  {
+    "start": 2184.52,
+    "end": 2188.04,
+    "text": " In the missed opportunity of the century, he made the Sassoon violin."
+  },
+  {
+    "start": 2188.04,
+    "end": 2195.24,
+    "text": " It's so annoying. And it's because they'd made the Wilfred Owen violin a few years before."
+  },
+  {
+    "start": 2195.24,
+    "end": 2199.8,
+    "text": " So it's a sort of well-known violin. It's beautifully made, and it's played all over"
+  },
+  {
+    "start": 2199.8,
+    "end": 2204.04,
+    "text": " the world in famous orchestras and all of this kind of stuff. And rather nicely,"
+  },
+  {
+    "start": 2204.04,
+    "end": 2209,
+    "text": " the Sassoon violin was made from the same branch of the same tree as the Owen violin."
+  },
+  {
+    "start": 2209,
+    "end": 2212.36,
+    "text": " So that's kind of cool. They're united by these violins. Lovely. But I agree."
+  },
+  {
+    "start": 2212.36,
+    "end": 2215.08,
+    "text": " Bassoon. Sassoon bassoon. It's a no-brainer."
+  },
+  {
+    "start": 2215.08,
+    "end": 2217.64,
+    "text": " Owen works. You can say you're bowing with an Owen."
+  },
+  {
+    "start": 2217.64,
+    "end": 2219.08,
+    "text": " Oh, very good."
+  },
+  {
+    "start": 2219.08,
+    "end": 2223.96,
+    "text": " Did you guys see that David Sassoon invented a pickle?"
+  },
+  {
+    "start": 2223.96,
+    "end": 2226.36,
+    "text": " Did he? Which Sassoon is this now? Sorry."
+  },
+  {
+    "start": 2226.36,
+    "end": 2229.96,
+    "text": " This is the original Sassoon who fled to Bombay."
+  },
+  {
+    "start": 2229.96,
+    "end": 2231.4,
+    "text": " This is Captain Opium."
+  },
+  {
+    "start": 2231.4,
+    "end": 2233.48,
+    "text": " Captain Opium, yeah, 1813."
+  },
+  {
+    "start": 2233.48,
+    "end": 2236.04,
+    "text": " Just to give a little bit of, you know,"
+  },
+  {
+    "start": 2236.04,
+    "end": 2240.04,
+    "text": " also he founded a lot of hospitals, libraries, museums, orphanages and schools."
+  },
+  {
+    "start": 2240.04,
+    "end": 2243.16,
+    "text": " When you got that sweet, sweet drug money rolling in,"
+  },
+  {
+    "start": 2243.16,
+    "end": 2245.48,
+    "text": " you're going to need to do some reputation laundry, aren't you?"
+  },
+  {
+    "start": 2245.48,
+    "end": 2249.16,
+    "text": " Yeah. So he invented a pickle before or after the opium."
+  },
+  {
+    "start": 2249.16,
+    "end": 2252.12,
+    "text": " Was it like his passion project was to make a pickle, but, you know,"
+  },
+  {
+    "start": 2252.12,
+    "end": 2254.2,
+    "text": " he had to wait while he made loads of money off opium?"
+  },
+  {
+    "start": 2254.2,
+    "end": 2257,
+    "text": " He had to earn the money. He had to earn the money to make the pickle."
+  },
+  {
+    "start": 2257,
+    "end": 2259.08,
+    "text": " In meetings, he was like,"
+  },
+  {
+    "start": 2259.08,
+    "end": 2261.24,
+    "text": " so what I'm really interested in pitching is my pickle."
+  },
+  {
+    "start": 2261.24,
+    "end": 2263.32,
+    "text": " And they were like, we're just like loads more opium, please."
+  },
+  {
+    "start": 2263.32,
+    "end": 2268.36,
+    "text": " What if we got the entirety of China addicted to pickles?"
+  },
+  {
+    "start": 2268.36,
+    "end": 2271.8,
+    "text": " It's a great idea, David."
+  },
+  {
+    "start": 2271.8,
+    "end": 2276.44,
+    "text": " We're going to continue with our order for another million kilos of opium."
+  },
+  {
+    "start": 2276.44,
+    "end": 2281.32,
+    "text": " Okay. What if I say for your million kilos of opium, you get 10 free pickles?"
+  },
+  {
+    "start": 2281.32,
+    "end": 2283.88,
+    "text": " Yeah, that's fine."
+  },
+  {
+    "start": 2283.88,
+    "end": 2285.48,
+    "text": " We're not going to be very hungry after all that opium,"
+  },
+  {
+    "start": 2285.48,
+    "end": 2287.48,
+    "text": " but we will try to get around to them."
+  },
+  {
+    "start": 2287.8,
+    "end": 2293.72,
+    "text": " No, this was just a thing he had on the side, and it was in fact a condiment."
+  },
+  {
+    "start": 2293.72,
+    "end": 2299.56,
+    "text": " And it's amber, which is a huge deal in Iraqi cuisine and in Jewish Israeli cuisine."
+  },
+  {
+    "start": 2299.56,
+    "end": 2301,
+    "text": " It appears everywhere."
+  },
+  {
+    "start": 2301,
+    "end": 2303.48,
+    "text": " It's like the one of the national foods of Iraq."
+  },
+  {
+    "start": 2303.48,
+    "end": 2308.36,
+    "text": " And basically he went to India and he thought, I love these Indian mangoes."
+  },
+  {
+    "start": 2308.36,
+    "end": 2310.2,
+    "text": " It was either him or a member of his family."
+  },
+  {
+    "start": 2310.2,
+    "end": 2312.76,
+    "text": " And by the way, this is the story of the amber pickle."
+  },
+  {
+    "start": 2312.76,
+    "end": 2314.36,
+    "text": " We don't know that this actually happened,"
+  },
+  {
+    "start": 2314.36,
+    "end": 2317.4,
+    "text": " but the story of the amber pickle is as soon as he invented it."
+  },
+  {
+    "start": 2317.4,
+    "end": 2319.32,
+    "text": " Went to India, loved the mangoes, was like,"
+  },
+  {
+    "start": 2319.32,
+    "end": 2322.52,
+    "text": " \"Gotta send some of these back to my mates in Iraq, so I'm going to pickle them.\""
+  },
+  {
+    "start": 2322.52,
+    "end": 2326.36,
+    "text": " And found a great way of pickling them that people love to this very day."
+  },
+  {
+    "start": 2326.36,
+    "end": 2328.44,
+    "text": " And any Iraqi listeners we have, I'm sure,"
+  },
+  {
+    "start": 2328.44,
+    "end": 2330.52,
+    "text": " will be showering down on an amber right now."
+  },
+  {
+    "start": 2330.52,
+    "end": 2331.88,
+    "text": " Yeah, very nice."
+  },
+  {
+    "start": 2331.88,
+    "end": 2335.72,
+    "text": " Can I very quickly just mention the greatest Sassoon of them all,"
+  },
+  {
+    "start": 2335.72,
+    "end": 2337.88,
+    "text": " which we've not mentioned, which is Siegfried."
+  },
+  {
+    "start": 2337.88,
+    "end": 2339.72,
+    "text": " So most of his life, he was gay."
+  },
+  {
+    "start": 2339.72,
+    "end": 2342.52,
+    "text": " He had multiple relationships with men."
+  },
+  {
+    "start": 2342.52,
+    "end": 2345.16,
+    "text": " And then out of nowhere, he gets married to a lady."
+  },
+  {
+    "start": 2345.16,
+    "end": 2346.84,
+    "text": " They have a child, George Sassoon."
+  },
+  {
+    "start": 2347.32,
+    "end": 2352.6,
+    "text": " So George Sassoon was a guy who also became an author."
+  },
+  {
+    "start": 2352.6,
+    "end": 2355.08,
+    "text": " He wrote three books, and he was quite well known"
+  },
+  {
+    "start": 2355.08,
+    "end": 2357.72,
+    "text": " because two of those books were pushing his belief"
+  },
+  {
+    "start": 2357.72,
+    "end": 2361.32,
+    "text": " that we were once visited by aliens in the ancient world,"
+  },
+  {
+    "start": 2361.32,
+    "end": 2365.8,
+    "text": " and that they had created a machine that invented food"
+  },
+  {
+    "start": 2365.8,
+    "end": 2369.48,
+    "text": " that allowed for the Israelites to walk across their 40-year journey"
+  },
+  {
+    "start": 2369.48,
+    "end": 2371.4,
+    "text": " in the Sinai Desert, right?"
+  },
+  {
+    "start": 2371.4,
+    "end": 2374.12,
+    "text": " Now, it's called \"The Manor Machine,\" his book."
+  },
+  {
+    "start": 2374.12,
+    "end": 2375.08,
+    "text": " Yes, exactly."
+  },
+  {
+    "start": 2376.2,
+    "end": 2378.92,
+    "text": " So according to George Sassoon,"
+  },
+  {
+    "start": 2378.92,
+    "end": 2382.04,
+    "text": " there's a nuclear reactor that used to power the manor machine,"
+  },
+  {
+    "start": 2382.04,
+    "end": 2385.8,
+    "text": " and that was stored where else the Ark of the Covenant is."
+  },
+  {
+    "start": 2385.8,
+    "end": 2388.2,
+    "text": " I'm afraid we had to fade Dan out there"
+  },
+  {
+    "start": 2388.2,
+    "end": 2391.16,
+    "text": " because he carried on talking for another 20 minutes,"
+  },
+  {
+    "start": 2391.16,
+    "end": 2392.76,
+    "text": " and you really didn't need to hear that."
+  },
+  {
+    "start": 2392.76,
+    "end": 2395.24,
+    "text": " Available in bookshops now, the manor machine."
+  },
+  {
+    "start": 2395.24,
+    "end": 2405,
+    "text": " Okay, it is time for our final fact of the show,"
+  },
+  {
+    "start": 2405,
+    "end": 2406.6,
+    "text": " and that is James."
+  },
+  {
+    "start": 2406.6,
+    "end": 2409.48,
+    "text": " Okay, my fact this week is that no living person"
+  },
+  {
+    "start": 2409.48,
+    "end": 2411.48,
+    "text": " has ever seen Murray's plums."
+  },
+  {
+    "start": 2411.48,
+    "end": 2413.16,
+    "text": " Okay."
+  },
+  {
+    "start": 2413.16,
+    "end": 2416.12,
+    "text": " Let me carry on."
+  },
+  {
+    "start": 2416.12,
+    "end": 2416.68,
+    "text": " Okay."
+  },
+  {
+    "start": 2416.68,
+    "end": 2419.72,
+    "text": " One man thought he saw them in 1997,"
+  },
+  {
+    "start": 2419.72,
+    "end": 2421.8,
+    "text": " but they were much hairier than expected,"
+  },
+  {
+    "start": 2421.8,
+    "end": 2423.64,
+    "text": " so he probably saw something else."
+  },
+  {
+    "start": 2423.64,
+    "end": 2428.2,
+    "text": " I'm not sure how hairy my plums were in 1997 when I was 10."
+  },
+  {
+    "start": 2428.2,
+    "end": 2432.2,
+    "text": " That's why it was surprising."
+  },
+  {
+    "start": 2432.2,
+    "end": 2433.88,
+    "text": " Plums."
+  },
+  {
+    "start": 2433.88,
+    "end": 2435.96,
+    "text": " What about plums is a fruit?"
+  },
+  {
+    "start": 2435.96,
+    "end": 2436.28,
+    "text": " Yes."
+  },
+  {
+    "start": 2436.28,
+    "end": 2437,
+    "text": " Andry."
+  },
+  {
+    "start": 2437,
+    "end": 2440.52,
+    "text": " So we shouldn't have researched Andy's tests for a couple of times."
+  },
+  {
+    "start": 2440.52,
+    "end": 2442.76,
+    "text": " I wondered what all those anonymous phone calls were."
+  },
+  {
+    "start": 2442.76,
+    "end": 2446.6,
+    "text": " Stop answering your wife's phone."
+  },
+  {
+    "start": 2446.6,
+    "end": 2451.8,
+    "text": " Prunus Mariana, called the Murray's plum,"
+  },
+  {
+    "start": 2451.8,
+    "end": 2455.24,
+    "text": " is a critically endangered shrub native to Texas,"
+  },
+  {
+    "start": 2455.24,
+    "end": 2458.6,
+    "text": " and the fruits are supposedly red with white dots,"
+  },
+  {
+    "start": 2458.6,
+    "end": 2460.52,
+    "text": " hairless, and with a waxy coating,"
+  },
+  {
+    "start": 2461.32,
+    "end": 2464.84,
+    "text": " but they're so rare that apparently no one's ever seen the fruit."
+  },
+  {
+    "start": 2464.84,
+    "end": 2465.8,
+    "text": " No one living, I guess."
+  },
+  {
+    "start": 2465.8,
+    "end": 2466.52,
+    "text": " No one living."
+  },
+  {
+    "start": 2466.52,
+    "end": 2471.32,
+    "text": " So I've read some reports saying that maybe when they were first scientifically described,"
+  },
+  {
+    "start": 2471.32,
+    "end": 2472.44,
+    "text": " they were mentioned,"
+  },
+  {
+    "start": 2472.44,
+    "end": 2474.68,
+    "text": " but I've looked for the first scientific description,"
+  },
+  {
+    "start": 2474.68,
+    "end": 2477.56,
+    "text": " which was by Edward Palmer in 1929,"
+  },
+  {
+    "start": 2477.56,
+    "end": 2478.84,
+    "text": " and he said,"
+  },
+  {
+    "start": 2478.84,
+    "end": 2480.28,
+    "text": " \"Although I have not seen the fruit,"
+  },
+  {
+    "start": 2480.28,
+    "end": 2483.88,
+    "text": " this species is so distinct in character of its inforescence"
+  },
+  {
+    "start": 2483.88,
+    "end": 2487.64,
+    "text": " and in the pubescence from any of the plums with which I am acquainted"
+  },
+  {
+    "start": 2487.64,
+    "end": 2489.88,
+    "text": " that I venture to describe it as new.\""
+  },
+  {
+    "start": 2489.88,
+    "end": 2492.36,
+    "text": " So even the guy who found it hadn't seen one."
+  },
+  {
+    "start": 2492.36,
+    "end": 2495.08,
+    "text": " So maybe it might be that they don't exist,"
+  },
+  {
+    "start": 2495.08,
+    "end": 2497.32,
+    "text": " but I've seen some places saying that they might exist,"
+  },
+  {
+    "start": 2497.32,
+    "end": 2500.2,
+    "text": " but definitely no one's seen one for a long old time."
+  },
+  {
+    "start": 2500.2,
+    "end": 2502.52,
+    "text": " It could be that they reproduce with fruit suckers,"
+  },
+  {
+    "start": 2502.52,
+    "end": 2505.4,
+    "text": " like underneath the roots, as in the clonal."
+  },
+  {
+    "start": 2505.4,
+    "end": 2505.88,
+    "text": " Right."
+  },
+  {
+    "start": 2505.88,
+    "end": 2506.76,
+    "text": " Could be that."
+  },
+  {
+    "start": 2506.76,
+    "end": 2508.12,
+    "text": " And they're in Texas, you say."
+  },
+  {
+    "start": 2508.12,
+    "end": 2508.92,
+    "text": " They're in Texas."
+  },
+  {
+    "start": 2508.92,
+    "end": 2510.12,
+    "text": " Do we have a region of Texas?"
+  },
+  {
+    "start": 2510.12,
+    "end": 2511.72,
+    "text": " If we've got any listeners in Texas,"
+  },
+  {
+    "start": 2511.72,
+    "end": 2513.16,
+    "text": " should we ask them to look out?"
+  },
+  {
+    "start": 2513.16,
+    "end": 2514.92,
+    "text": " Because they must, you know, if we have a mess."
+  },
+  {
+    "start": 2514.92,
+    "end": 2515.72,
+    "text": " Is that going to solve it?"
+  },
+  {
+    "start": 2515.72,
+    "end": 2516.2,
+    "text": " Is that..."
+  },
+  {
+    "start": 2516.2,
+    "end": 2518.12,
+    "text": " I just think it's how it could be how we get ourselves on the map."
+  },
+  {
+    "start": 2518.12,
+    "end": 2518.76,
+    "text": " No one's looking."
+  },
+  {
+    "start": 2518.76,
+    "end": 2519.16,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 2519.16,
+    "end": 2520.2,
+    "text": " We've rediscovered a plum."
+  },
+  {
+    "start": 2520.2,
+    "end": 2520.92,
+    "text": " Yeah, you know what?"
+  },
+  {
+    "start": 2520.92,
+    "end": 2522.44,
+    "text": " There is, it is a certain place,"
+  },
+  {
+    "start": 2522.44,
+    "end": 2523.72,
+    "text": " but I'd never wrote down where it was."
+  },
+  {
+    "start": 2523.72,
+    "end": 2524.28,
+    "text": " Okay, right."
+  },
+  {
+    "start": 2524.28,
+    "end": 2526.92,
+    "text": " And there was a guy called Marshall Enquist a bit later"
+  },
+  {
+    "start": 2526.92,
+    "end": 2528.52,
+    "text": " who wrote a paper about them,"
+  },
+  {
+    "start": 2528.52,
+    "end": 2531.48,
+    "text": " and he said that he'd found this type of plum,"
+  },
+  {
+    "start": 2531.48,
+    "end": 2533.8,
+    "text": " and he thought it was prunus mariana."
+  },
+  {
+    "start": 2533.8,
+    "end": 2538.12,
+    "text": " But really what he wrote didn't sound to me like that."
+  },
+  {
+    "start": 2538.12,
+    "end": 2538.12,
+    "text": " Okay."
+  },
+  {
+    "start": 2538.12,
+    "end": 2540.68,
+    "text": " Everywhere else, like most articles and textbooks today,"
+  },
+  {
+    "start": 2540.68,
+    "end": 2543.4,
+    "text": " they say mariana is its own species and no one's seen the fruit."
+  },
+  {
+    "start": 2543.4,
+    "end": 2543.72,
+    "text": " Wow."
+  },
+  {
+    "start": 2543.72,
+    "end": 2546.2,
+    "text": " It's like the Bigfoot of the fruit world, isn't it?"
+  },
+  {
+    "start": 2546.2,
+    "end": 2548.36,
+    "text": " It's sort of, it's people have claimed to have seen it,"
+  },
+  {
+    "start": 2548.36,
+    "end": 2549.72,
+    "text": " but we've got no solid evidence."
+  },
+  {
+    "start": 2549.72,
+    "end": 2551.48,
+    "text": " If you're in Texas, how big can Texas be?"
+  },
+  {
+    "start": 2551.48,
+    "end": 2552.6,
+    "text": " I'd be like, probably small."
+  },
+  {
+    "start": 2552.6,
+    "end": 2553.72,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 2553.72,
+    "end": 2555.24,
+    "text": " And then have a look."
+  },
+  {
+    "start": 2555.24,
+    "end": 2556.92,
+    "text": " There is a place called Plum in Texas."
+  },
+  {
+    "start": 2556.92,
+    "end": 2557.4,
+    "text": " Is there?"
+  },
+  {
+    "start": 2557.4,
+    "end": 2560.36,
+    "text": " Yeah, but it's a very tiny unincorporated town,"
+  },
+  {
+    "start": 2560.36,
+    "end": 2562.52,
+    "text": " and as far as I could tell, no plums."
+  },
+  {
+    "start": 2562.52,
+    "end": 2563.8,
+    "text": " Is there anywhere called Bridge?"
+  },
+  {
+    "start": 2563.8,
+    "end": 2566.2,
+    "text": " Yes, actually there is."
+  },
+  {
+    "start": 2566.2,
+    "end": 2570.68,
+    "text": " I think I started burying a very cold freezer"
+  },
+  {
+    "start": 2570.68,
+    "end": 2574.6,
+    "text": " under a mountain range and bombarding it with atomic energy."
+  },
+  {
+    "start": 2574.6,
+    "end": 2576.2,
+    "text": " Well, the plums unfortunately will shrink"
+  },
+  {
+    "start": 2576.2,
+    "end": 2578.68,
+    "text": " under those circumstances, which makes them even harder to find."
+  },
+  {
+    "start": 2578.68,
+    "end": 2579.64,
+    "text": " At absolute zero."
+  },
+  {
+    "start": 2579.64,
+    "end": 2582.68,
+    "text": " I think your plums go to the size of a dot."
+  },
+  {
+    "start": 2582.68,
+    "end": 2584.28,
+    "text": " It's definitely improving at the very least."
+  },
+  {
+    "start": 2584.28,
+    "end": 2585.56,
+    "text": " It's blanks constant."
+  },
+  {
+    "start": 2585.56,
+    "end": 2586.36,
+    "text": " Plums are good."
+  },
+  {
+    "start": 2586.36,
+    "end": 2587.24,
+    "text": " Yeah, they're good."
+  },
+  {
+    "start": 2587.24,
+    "end": 2590.44,
+    "text": " It used to mean any kind of dried fruit, actually, plum."
+  },
+  {
+    "start": 2590.44,
+    "end": 2591.48,
+    "text": " Is that very odd?"
+  },
+  {
+    "start": 2591.48,
+    "end": 2593.4,
+    "text": " Yeah, raisins would be plums."
+  },
+  {
+    "start": 2593.4,
+    "end": 2596.2,
+    "text": " Like plum pudding, which has got raisins and sultanas in,"
+  },
+  {
+    "start": 2596.2,
+    "end": 2599.24,
+    "text": " the plum part of that is referring to the old word for raisins."
+  },
+  {
+    "start": 2599.24,
+    "end": 2602.12,
+    "text": " I always assumed that plum pudding used to contain plums,"
+  },
+  {
+    "start": 2602.12,
+    "end": 2604.44,
+    "text": " and then just gradually people stopped making them,"
+  },
+  {
+    "start": 2604.44,
+    "end": 2608.04,
+    "text": " because all Christmas puddings used to be called plum puddings in the UK."
+  },
+  {
+    "start": 2608.04,
+    "end": 2610.44,
+    "text": " And there's a food writer called Francesca Greeno,"
+  },
+  {
+    "start": 2610.44,
+    "end": 2612.44,
+    "text": " who was writing about this,"
+  },
+  {
+    "start": 2612.44,
+    "end": 2616.04,
+    "text": " and she reckons that when Little Jack Horner was first written,"
+  },
+  {
+    "start": 2616.04,
+    "end": 2620.28,
+    "text": " which is in the 16th century, plums still meant raisin then."
+  },
+  {
+    "start": 2620.28,
+    "end": 2623,
+    "text": " So when he stuck in his thumb and pulled out a plum,"
+  },
+  {
+    "start": 2623,
+    "end": 2626.04,
+    "text": " apparently he pulled out a raisin, according to this writer."
+  },
+  {
+    "start": 2626.04,
+    "end": 2627.16,
+    "text": " Harder to get on your thumb."
+  },
+  {
+    "start": 2627.16,
+    "end": 2629.32,
+    "text": " Well, you could pull out a raisin,"
+  },
+  {
+    "start": 2629.32,
+    "end": 2630.84,
+    "text": " but you're more like dragging it out"
+  },
+  {
+    "start": 2630.84,
+    "end": 2633.16,
+    "text": " as opposed to shoving your thumb inside it."
+  },
+  {
+    "start": 2633.16,
+    "end": 2635.64,
+    "text": " Well, I actually read that the plum wasn't a plum at all,"
+  },
+  {
+    "start": 2635.64,
+    "end": 2639.32,
+    "text": " it was the deeds to a mansion in a bun."
+  },
+  {
+    "start": 2639.32,
+    "end": 2644.36,
+    "text": " I know, but I really like this, because there was a Jack Horner."
+  },
+  {
+    "start": 2644.36,
+    "end": 2648.6,
+    "text": " I'm sorry, but the fact that James just said about a nursery rhyme,"
+  },
+  {
+    "start": 2648.6,
+    "end": 2649.64,
+    "text": " \"Oh, they're all made up of.\""
+  },
+  {
+    "start": 2649.64,
+    "end": 2656.2,
+    "text": " James was a boy who was constantly saying, \"Citation needed.\""
+  },
+  {
+    "start": 2656.2,
+    "end": 2661.96,
+    "text": " Well, the not real Jack Horner story,"
+  },
+  {
+    "start": 2661.96,
+    "end": 2663.88,
+    "text": " which has been around for over 200 years,"
+  },
+  {
+    "start": 2663.88,
+    "end": 2665.88,
+    "text": " is that there was a Jack Horner, which there really was,"
+  },
+  {
+    "start": 2665.88,
+    "end": 2670.68,
+    "text": " who was the steward to the abbot of Glastonbury called Richard Whiting."
+  },
+  {
+    "start": 2670.68,
+    "end": 2675.48,
+    "text": " And basically, Henry VIII at the time was dissolving all the monasteries, famously."
+  },
+  {
+    "start": 2675.48,
+    "end": 2680.36,
+    "text": " And Richard Whiting didn't want Henry VIII to dissolve his monastery,"
+  },
+  {
+    "start": 2680.36,
+    "end": 2684.2,
+    "text": " and so he sent his steward, Jack Horner,"
+  },
+  {
+    "start": 2684.2,
+    "end": 2689.88,
+    "text": " to Henry VIII with a pie in which he'd hidden the deeds to 12 manor houses."
+  },
+  {
+    "start": 2689.88,
+    "end": 2693.32,
+    "text": " I think it's a sort of a bribe, and on the way little Jack Horner"
+  },
+  {
+    "start": 2693.32,
+    "end": 2697.64,
+    "text": " put his thumb into this pie and nicked one of those deeds for himself,"
+  },
+  {
+    "start": 2697.64,
+    "end": 2701.88,
+    "text": " which I believe the family did get Mel's manor."
+  },
+  {
+    "start": 2701.88,
+    "end": 2704.68,
+    "text": " So that, and that's little Jack Horner popped his thumb in,"
+  },
+  {
+    "start": 2704.68,
+    "end": 2707.64,
+    "text": " pulled out a plum of Mel's manor, and the family have it to this day."
+  },
+  {
+    "start": 2707.64,
+    "end": 2709.08,
+    "text": " And he said, \"What a good boy am I?\""
+  },
+  {
+    "start": 2709.08,
+    "end": 2710.2,
+    "text": " And he said, \"What a good boy am I?\""
+  },
+  {
+    "start": 2710.2,
+    "end": 2712.68,
+    "text": " Yeah, no further questions."
+  },
+  {
+    "start": 2712.68,
+    "end": 2714.2,
+    "text": " There we go with this, the story."
+  },
+  {
+    "start": 2714.2,
+    "end": 2717.24,
+    "text": " A plum used to mean something desirable, like you've got a plum drop."
+  },
+  {
+    "start": 2717.24,
+    "end": 2718.2,
+    "text": " Oh, that still means that."
+  },
+  {
+    "start": 2718.2,
+    "end": 2719.16,
+    "text": " Yeah, yeah, exactly."
+  },
+  {
+    "start": 2719.16,
+    "end": 2720.36,
+    "text": " Sorry, yeah, yeah, but it's sorry."
+  },
+  {
+    "start": 2720.36,
+    "end": 2722.04,
+    "text": " What it used to mean was £100,000."
+  },
+  {
+    "start": 2722.04,
+    "end": 2723.4,
+    "text": " Oh."
+  },
+  {
+    "start": 2723.4,
+    "end": 2726.2,
+    "text": " There's a specific value in Victorian times."
+  },
+  {
+    "start": 2726.2,
+    "end": 2728.36,
+    "text": " Oh, yeah, because that's a lot of money in Victorian times."
+  },
+  {
+    "start": 2728.36,
+    "end": 2729.88,
+    "text": " A mega amount, yeah, yeah."
+  },
+  {
+    "start": 2729.88,
+    "end": 2731.48,
+    "text": " Why did it get that name?"
+  },
+  {
+    "start": 2731.48,
+    "end": 2732.04,
+    "text": " Do we know?"
+  },
+  {
+    "start": 2732.04,
+    "end": 2732.68,
+    "text": " I don't know."
+  },
+  {
+    "start": 2732.68,
+    "end": 2735.72,
+    "text": " I think it's all connected to the plum thing being something desirable,"
+  },
+  {
+    "start": 2735.72,
+    "end": 2738.92,
+    "text": " but I don't know why it was exactly that value."
+  },
+  {
+    "start": 2738.92,
+    "end": 2739.96,
+    "text": " Yeah."
+  },
+  {
+    "start": 2739.96,
+    "end": 2742.12,
+    "text": " It's nice that we've made, because we're always getting in trouble"
+  },
+  {
+    "start": 2742.12,
+    "end": 2745.32,
+    "text": " for bastardising the English language, the wee modern people,"
+  },
+  {
+    "start": 2745.32,
+    "end": 2748.52,
+    "text": " but we've made the word plum more pure,"
+  },
+  {
+    "start": 2748.52,
+    "end": 2752.2,
+    "text": " because it comes from the Latin prunus for a plum tree."
+  },
+  {
+    "start": 2752.2,
+    "end": 2754.2,
+    "text": " They screwed it up by the 1600s."
+  },
+  {
+    "start": 2754.2,
+    "end": 2756.28,
+    "text": " It meant raisins and whatever you have."
+  },
+  {
+    "start": 2756.28,
+    "end": 2756.68,
+    "text": " Yeah."
+  },
+  {
+    "start": 2756.68,
+    "end": 2758.2,
+    "text": " And now we've made it plum again."
+  },
+  {
+    "start": 2758.2,
+    "end": 2759.16,
+    "text": " So kind of well done us."
+  },
+  {
+    "start": 2759.16,
+    "end": 2760.52,
+    "text": " We've reclaimed the word plum."
+  },
+  {
+    "start": 2760.52,
+    "end": 2761.32,
+    "text": " Well done, everyone."
+  },
+  {
+    "start": 2761.32,
+    "end": 2761.64,
+    "text": " Yeah."
+  },
+  {
+    "start": 2761.64,
+    "end": 2762.12,
+    "text": " Yeah."
+  },
+  {
+    "start": 2762.12,
+    "end": 2763.64,
+    "text": " Just do a part on the back sometime."
+  },
+  {
+    "start": 2763.64,
+    "end": 2765.72,
+    "text": " Pat yourself on the back if you're listening to this at home"
+  },
+  {
+    "start": 2765.72,
+    "end": 2767.32,
+    "text": " and you've used the word plum correctly."
+  },
+  {
+    "start": 2767.32,
+    "end": 2771.88,
+    "text": " Plums in Japan used to be a very big thing."
+  },
+  {
+    "start": 2771.88,
+    "end": 2772.52,
+    "text": " Oh, they still are."
+  },
+  {
+    "start": 2772.52,
+    "end": 2774.12,
+    "text": " They're like bento boxes and so on."
+  },
+  {
+    "start": 2774.12,
+    "end": 2777.24,
+    "text": " But in wartime, as part of rations for soldiers,"
+  },
+  {
+    "start": 2777.24,
+    "end": 2780.04,
+    "text": " we're talking 1467 to 1615."
+  },
+  {
+    "start": 2780.04,
+    "end": 2783.32,
+    "text": " This is what was known as the Senkoku Period, roughly."
+  },
+  {
+    "start": 2783.32,
+    "end": 2784.52,
+    "text": " Just roughly those numbers."
+  },
+  {
+    "start": 2784.52,
+    "end": 2788.12,
+    "text": " And so they got given these kind of bento boxes"
+  },
+  {
+    "start": 2788.12,
+    "end": 2789.4,
+    "text": " and they would go out into war."
+  },
+  {
+    "start": 2789.4,
+    "end": 2791.88,
+    "text": " And it had things like chili pepper,"
+  },
+  {
+    "start": 2791.88,
+    "end": 2793.56,
+    "text": " but they wouldn't eat the chili peppers."
+  },
+  {
+    "start": 2793.56,
+    "end": 2795.64,
+    "text": " What they would do is, because it'd get really cold out there,"
+  },
+  {
+    "start": 2795.64,
+    "end": 2797.24,
+    "text": " they would just chew on the chili peppers"
+  },
+  {
+    "start": 2797.24,
+    "end": 2798.92,
+    "text": " and then they would wipe it all over their butt"
+  },
+  {
+    "start": 2798.92,
+    "end": 2800.12,
+    "text": " and all down their legs."
+  },
+  {
+    "start": 2800.12,
+    "end": 2802.36,
+    "text": " So they would keep them hot."
+  },
+  {
+    "start": 2802.36,
+    "end": 2803.64,
+    "text": " Maybe it makes you move around, but hey,"
+  },
+  {
+    "start": 2803.64,
+    "end": 2806.84,
+    "text": " take it up with the Japanese from roughly 1467"
+  },
+  {
+    "start": 2806.84,
+    "end": 2807.56,
+    "text": " to 1615."
+  },
+  {
+    "start": 2807.56,
+    "end": 2809.88,
+    "text": " I just thought that like there are other parts of you,"
+  },
+  {
+    "start": 2809.88,
+    "end": 2811.24,
+    "text": " don't go first for the bum."
+  },
+  {
+    "start": 2811.24,
+    "end": 2815.72,
+    "text": " No, chili peppers around the bum does not feel like a good."
+  },
+  {
+    "start": 2815.72,
+    "end": 2817,
+    "text": " It doesn't feel like a good idea."
+  },
+  {
+    "start": 2817,
+    "end": 2821.32,
+    "text": " I've touched my eyes after cutting chilies and it's awful"
+  },
+  {
+    "start": 2821.32,
+    "end": 2822.68,
+    "text": " and I can only imagine."
+  },
+  {
+    "start": 2822.68,
+    "end": 2825.56,
+    "text": " Supposedly they would take these dried plums with them"
+  },
+  {
+    "start": 2825.56,
+    "end": 2828.68,
+    "text": " and supposedly they'd get one each in their ration"
+  },
+  {
+    "start": 2828.68,
+    "end": 2830.2,
+    "text": " and if they were out in the field"
+  },
+  {
+    "start": 2830.2,
+    "end": 2831.56,
+    "text": " and they were sort of short of breath"
+  },
+  {
+    "start": 2831.56,
+    "end": 2833.08,
+    "text": " and they were having a pretty hard time,"
+  },
+  {
+    "start": 2833.08,
+    "end": 2834.68,
+    "text": " they would take it out of their lunchbox"
+  },
+  {
+    "start": 2834.68,
+    "end": 2836.36,
+    "text": " and they wouldn't eat it."
+  },
+  {
+    "start": 2836.36,
+    "end": 2837.08,
+    "text": " They wouldn't taste it."
+  },
+  {
+    "start": 2837.08,
+    "end": 2839.16,
+    "text": " They would look at it for inspiration"
+  },
+  {
+    "start": 2839.16,
+    "end": 2840.6,
+    "text": " because it was seen as something"
+  },
+  {
+    "start": 2840.6,
+    "end": 2842.12,
+    "text": " that would give you hope to go on."
+  },
+  {
+    "start": 2842.12,
+    "end": 2843.64,
+    "text": " That's nice."
+  },
+  {
+    "start": 2843.64,
+    "end": 2844.44,
+    "text": " It's really interesting."
+  },
+  {
+    "start": 2844.44,
+    "end": 2846.36,
+    "text": " There's a lot of stuff about plums in this period"
+  },
+  {
+    "start": 2846.36,
+    "end": 2848.36,
+    "text": " where it's kind of, is this true?"
+  },
+  {
+    "start": 2848.36,
+    "end": 2849.64,
+    "text": " Like for example, samurai swords,"
+  },
+  {
+    "start": 2849.64,
+    "end": 2851.32,
+    "text": " supposedly when they were being heated up"
+  },
+  {
+    "start": 2851.32,
+    "end": 2852.76,
+    "text": " to get the metal to the right heating,"
+  },
+  {
+    "start": 2852.76,
+    "end": 2854.44,
+    "text": " you would take out a dry plum"
+  },
+  {
+    "start": 2854.44,
+    "end": 2856.76,
+    "text": " and to match the colouring of that"
+  },
+  {
+    "start": 2856.76,
+    "end": 2858.84,
+    "text": " would show you that you've heated it to the right level."
+  },
+  {
+    "start": 2858.84,
+    "end": 2860.44,
+    "text": " This is all put out by big plum."
+  },
+  {
+    "start": 2860.44,
+    "end": 2864.04,
+    "text": " It doesn't feel real, that's true."
+  },
+  {
+    "start": 2864.04,
+    "end": 2865.96,
+    "text": " Big plum is very powerful globally."
+  },
+  {
+    "start": 2865.96,
+    "end": 2868.04,
+    "text": " So in the First World War,"
+  },
+  {
+    "start": 2868.04,
+    "end": 2870.6,
+    "text": " the Daily Telegraph ran a campaign"
+  },
+  {
+    "start": 2870.6,
+    "end": 2873.24,
+    "text": " to get every single soldier fighting on the front."
+  },
+  {
+    "start": 2873.24,
+    "end": 2875.48,
+    "text": " That was three million soldiers on the Western Front,"
+  },
+  {
+    "start": 2875.48,
+    "end": 2877.16,
+    "text": " a portion of plum pudding."
+  },
+  {
+    "start": 2877.16,
+    "end": 2879.8,
+    "text": " Yeah, for Christmas, I guess."
+  },
+  {
+    "start": 2879.8,
+    "end": 2880.92,
+    "text": " It was definitely for Christmas,"
+  },
+  {
+    "start": 2880.92,
+    "end": 2882.36,
+    "text": " but I do think Siegfried Sassoon"
+  },
+  {
+    "start": 2882.36,
+    "end": 2883.48,
+    "text": " at some point would have received"
+  },
+  {
+    "start": 2883.48,
+    "end": 2886.2,
+    "text": " his Daily Telegraph back plum pudding."
+  },
+  {
+    "start": 2886.2,
+    "end": 2887.8,
+    "text": " I wonder if that's where Rachel hid the deeds"
+  },
+  {
+    "start": 2887.8,
+    "end": 2889.56,
+    "text": " to the inheritance that he got."
+  },
+  {
+    "start": 2889.56,
+    "end": 2892.12,
+    "text": " Yeah, but they were a big,"
+  },
+  {
+    "start": 2892.12,
+    "end": 2893.56,
+    "text": " just plum pudding was so big."
+  },
+  {
+    "start": 2894.12,
+    "end": 2897.16,
+    "text": " The plum pudding riots of 1647 happened in Canterbury."
+  },
+  {
+    "start": 2897.16,
+    "end": 2898.84,
+    "text": " That was a Christmasy thing,"
+  },
+  {
+    "start": 2898.84,
+    "end": 2901.24,
+    "text": " because the Puritans were in charge at the time,"
+  },
+  {
+    "start": 2901.24,
+    "end": 2903.72,
+    "text": " Oliver Cromwell and his gang,"
+  },
+  {
+    "start": 2903.72,
+    "end": 2906.92,
+    "text": " and their main thing was keeping shops open on Christmas Day."
+  },
+  {
+    "start": 2906.92,
+    "end": 2907.72,
+    "text": " They said, you have to..."
+  },
+  {
+    "start": 2907.72,
+    "end": 2909,
+    "text": " What, the Puritans at that?"
+  },
+  {
+    "start": 2909,
+    "end": 2910.68,
+    "text": " Yeah, they were not celebrating it."
+  },
+  {
+    "start": 2910.68,
+    "end": 2912.6,
+    "text": " It's a special day, it's not religious."
+  },
+  {
+    "start": 2912.6,
+    "end": 2913.4,
+    "text": " Exactly."
+  },
+  {
+    "start": 2913.4,
+    "end": 2914.76,
+    "text": " And the Lord Mayor of Canterbury,"
+  },
+  {
+    "start": 2914.76,
+    "end": 2917,
+    "text": " whose name was William Bridge."
+  },
+  {
+    "start": 2917,
+    "end": 2917.64,
+    "text": " Oh."
+  },
+  {
+    "start": 2917.64,
+    "end": 2918.92,
+    "text": " Yeah, William de Ponte,"
+  },
+  {
+    "start": 2918.92,
+    "end": 2919.88,
+    "text": " as he would have been known."
+  },
+  {
+    "start": 2919.88,
+    "end": 2922.12,
+    "text": " We had a Canterbury Bridge fact earlier as well,"
+  },
+  {
+    "start": 2922.12,
+    "end": 2922.68,
+    "text": " and now it didn't leave."
+  },
+  {
+    "start": 2922.68,
+    "end": 2924.52,
+    "text": " There's a place near Canterbury called Bridge."
+  },
+  {
+    "start": 2924.52,
+    "end": 2926.12,
+    "text": " So maybe William Bridge was from Bridge."
+  },
+  {
+    "start": 2926.12,
+    "end": 2926.52,
+    "text": " Oh my God."
+  },
+  {
+    "start": 2926.52,
+    "end": 2927.8,
+    "text": " It's possible."
+  },
+  {
+    "start": 2927.8,
+    "end": 2929.56,
+    "text": " That's likely, almost, you might say."
+  },
+  {
+    "start": 2929.56,
+    "end": 2932.2,
+    "text": " Well, he was walking along the streets,"
+  },
+  {
+    "start": 2932.2,
+    "end": 2935.24,
+    "text": " trying to encourage shopkeepers to stay open and stay serving."
+  },
+  {
+    "start": 2935.24,
+    "end": 2935.4,
+    "text": " Yeah."
+  },
+  {
+    "start": 2935.4,
+    "end": 2936.36,
+    "text": " Because it was a Christmas Day."
+  },
+  {
+    "start": 2936.36,
+    "end": 2939.72,
+    "text": " They all wanted to close and go and party and all of that."
+  },
+  {
+    "start": 2939.72,
+    "end": 2943.32,
+    "text": " And he was thrown to the ground and muddied."
+  },
+  {
+    "start": 2943.32,
+    "end": 2943.88,
+    "text": " Oh, no."
+  },
+  {
+    "start": 2943.88,
+    "end": 2948.28,
+    "text": " Riots were sometimes a bit gentle back in the day."
+  },
+  {
+    "start": 2948.28,
+    "end": 2951.16,
+    "text": " You never hear about the lighter riots."
+  },
+  {
+    "start": 2951.16,
+    "end": 2952.36,
+    "text": " It's so nice."
+  },
+  {
+    "start": 2952.36,
+    "end": 2952.84,
+    "text": " You've shared that."
+  },
+  {
+    "start": 2952.84,
+    "end": 2954.36,
+    "text": " Does that mean just made money?"
+  },
+  {
+    "start": 2954.36,
+    "end": 2955.64,
+    "text": " It doesn't mean he shat himself."
+  },
+  {
+    "start": 2955.64,
+    "end": 2955.88,
+    "text": " Does it?"
+  },
+  {
+    "start": 2955.88,
+    "end": 2957.08,
+    "text": " I don't believe so."
+  },
+  {
+    "start": 2957.08,
+    "end": 2958.2,
+    "text": " I'm sure it was a scary time,"
+  },
+  {
+    "start": 2958.2,
+    "end": 2959.48,
+    "text": " but no one would blame him if he did."
+  },
+  {
+    "start": 2959.48,
+    "end": 2961.64,
+    "text": " Absolutely not."
+  },
+  {
+    "start": 2961.64,
+    "end": 2966.52,
+    "text": " In 2001, Big Plum stepped up again"
+  },
+  {
+    "start": 2966.52,
+    "end": 2970.36,
+    "text": " and forced the US Food and Drug Administration"
+  },
+  {
+    "start": 2970.36,
+    "end": 2974.44,
+    "text": " to allow them legally to call prunes dried plums."
+  },
+  {
+    "start": 2974.44,
+    "end": 2976.36,
+    "text": " Prunes are dried plums, aren't they?"
+  },
+  {
+    "start": 2976.36,
+    "end": 2978.6,
+    "text": " They are, yes."
+  },
+  {
+    "start": 2978.6,
+    "end": 2981.4,
+    "text": " But until then, you could get a sense of prison for saying that."
+  },
+  {
+    "start": 2981.4,
+    "end": 2983.8,
+    "text": " I mean, honestly, as soon as you say that,"
+  },
+  {
+    "start": 2983.8,
+    "end": 2985,
+    "text": " they'd be banging down the door."
+  },
+  {
+    "start": 2985,
+    "end": 2987.4,
+    "text": " The Plum Police."
+  },
+  {
+    "start": 2987.4,
+    "end": 2990.68,
+    "text": " They've got very fetching outfits, though."
+  },
+  {
+    "start": 2990.68,
+    "end": 2991.32,
+    "text": " They're lovely."
+  },
+  {
+    "start": 2991.32,
+    "end": 2993.72,
+    "text": " Yes, no, they are."
+  },
+  {
+    "start": 2993.72,
+    "end": 2995.72,
+    "text": " So it was the truth, which is why they were allowed to do it."
+  },
+  {
+    "start": 2995.72,
+    "end": 2997.56,
+    "text": " But also because..."
+  },
+  {
+    "start": 2997.56,
+    "end": 3000.76,
+    "text": " So they were marketed as prunes, obviously,"
+  },
+  {
+    "start": 3000.76,
+    "end": 3002.44,
+    "text": " but prunes have a bad rep."
+  },
+  {
+    "start": 3002.44,
+    "end": 3003.64,
+    "text": " Well, I think it's a good rep."
+  },
+  {
+    "start": 3003.64,
+    "end": 3005.24,
+    "text": " They're a great relief to many of us."
+  },
+  {
+    "start": 3005.24,
+    "end": 3005.56,
+    "text": " I would like to live."
+  },
+  {
+    "start": 3005.56,
+    "end": 3007.08,
+    "text": " They're a bit of a sticky situation, yes."
+  },
+  {
+    "start": 3008.2,
+    "end": 3010.04,
+    "text": " But their argument, what Big Plum's argument,"
+  },
+  {
+    "start": 3010.04,
+    "end": 3011.32,
+    "text": " Big Prune's argument was,"
+  },
+  {
+    "start": 3011.32,
+    "end": 3013.16,
+    "text": " now everyone just thinks if you're buying prunes,"
+  },
+  {
+    "start": 3013.16,
+    "end": 3014.84,
+    "text": " that it means you're constipated."
+  },
+  {
+    "start": 3014.84,
+    "end": 3017.08,
+    "text": " So they're reluctant to buy prunes."
+  },
+  {
+    "start": 3017.08,
+    "end": 3019.16,
+    "text": " We're going to rename them dried plums."
+  },
+  {
+    "start": 3019.16,
+    "end": 3022.52,
+    "text": " And did that masterful piece of disguise work?"
+  },
+  {
+    "start": 3022.52,
+    "end": 3024.68,
+    "text": " Yeah, but the entire country was constipated"
+  },
+  {
+    "start": 3024.68,
+    "end": 3026.76,
+    "text": " because they couldn't get hold of any prunes."
+  },
+  {
+    "start": 3026.76,
+    "end": 3029.24,
+    "text": " I don't need these dried plums."
+  },
+  {
+    "start": 3029.24,
+    "end": 3032.6,
+    "text": " Do you guys remember that story of Ash,"
+  },
+  {
+    "start": 3032.6,
+    "end": 3033.96,
+    "text": " who is the, for listeners,"
+  },
+  {
+    "start": 3033.96,
+    "end": 3037.32,
+    "text": " he's the rider of our theme tune for fish?"
+  },
+  {
+    "start": 3037.32,
+    "end": 3039.16,
+    "text": " Which one? Which one of them any?"
+  },
+  {
+    "start": 3039.16,
+    "end": 3041.24,
+    "text": " He was going out to a party in London"
+  },
+  {
+    "start": 3041.24,
+    "end": 3042.68,
+    "text": " and he was really hungry"
+  },
+  {
+    "start": 3042.68,
+    "end": 3044.36,
+    "text": " and he was nothing in the house to eat."
+  },
+  {
+    "start": 3044.36,
+    "end": 3045.96,
+    "text": " And so he opened up the cupboard"
+  },
+  {
+    "start": 3045.96,
+    "end": 3049.8,
+    "text": " and there was a big bag of dried prunes."
+  },
+  {
+    "start": 3049.8,
+    "end": 3053.88,
+    "text": " He ate the entire bag, got on the London Underground,"
+  },
+  {
+    "start": 3053.88,
+    "end": 3056.68,
+    "text": " was midway between stops"
+  },
+  {
+    "start": 3056.68,
+    "end": 3058.92,
+    "text": " when he felt a little \"woop\" in his tummy"
+  },
+  {
+    "start": 3058.92,
+    "end": 3060.52,
+    "text": " and he went, \"That's a bit weird.\""
+  },
+  {
+    "start": 3060.52,
+    "end": 3061.56,
+    "text": " And then a second later,"
+  },
+  {
+    "start": 3061.56,
+    "end": 3063.16,
+    "text": " shat himself completely, yeah."
+  },
+  {
+    "start": 3063.16,
+    "end": 3064.68,
+    "text": " Just outside Mutshoot, wasn't it?"
+  },
+  {
+    "start": 3066.68,
+    "end": 3068.04,
+    "text": " That's the best."
+  },
+  {
+    "start": 3068.04,
+    "end": 3070.2,
+    "text": " That's the fastest London Underground diary"
+  },
+  {
+    "start": 3070.2,
+    "end": 3071.16,
+    "text": " that I've ever heard."
+  },
+  {
+    "start": 3071.16,
+    "end": 3075.24,
+    "text": " Oh dear, what happened?"
+  },
+  {
+    "start": 3075.24,
+    "end": 3076.6,
+    "text": " Oh, he had to get off."
+  },
+  {
+    "start": 3076.6,
+    "end": 3079.24,
+    "text": " Did he go to the party still?"
+  },
+  {
+    "start": 3079.24,
+    "end": 3079.8,
+    "text": " I'm not sure."
+  },
+  {
+    "start": 3079.8,
+    "end": 3081.48,
+    "text": " No, he went into an alleyway"
+  },
+  {
+    "start": 3081.48,
+    "end": 3083.48,
+    "text": " that was just outside of the station,"
+  },
+  {
+    "start": 3083.48,
+    "end": 3084.28,
+    "text": " called his dad."
+  },
+  {
+    "start": 3084.28,
+    "end": 3085.56,
+    "text": " He said, \"Dad, I've shat myself.\""
+  },
+  {
+    "start": 3085.56,
+    "end": 3086.92,
+    "text": " How old was he?"
+  },
+  {
+    "start": 3086.92,
+    "end": 3090.04,
+    "text": " He was 22, 23, called his brother Jazz"
+  },
+  {
+    "start": 3090.04,
+    "end": 3091.72,
+    "text": " and Jazz came with a bucket"
+  },
+  {
+    "start": 3091.72,
+    "end": 3094.28,
+    "text": " and a cloth and some extra trousers."
+  },
+  {
+    "start": 3094.28,
+    "end": 3095.48,
+    "text": " What, a bucket?"
+  },
+  {
+    "start": 3095.48,
+    "end": 3096.76,
+    "text": " Yeah, because he just said it was everywhere."
+  },
+  {
+    "start": 3096.76,
+    "end": 3098.2,
+    "text": " Because Ash had to take off his shirt."
+  },
+  {
+    "start": 3098.2,
+    "end": 3100.12,
+    "text": " I think he was wearing shorts on the tube as well."
+  },
+  {
+    "start": 3100.12,
+    "end": 3100.92,
+    "text": " Oh no."
+  },
+  {
+    "start": 3100.92,
+    "end": 3101.64,
+    "text": " He took off his shirt."
+  },
+  {
+    "start": 3101.64,
+    "end": 3102.84,
+    "text": " Ash does wear shorts."
+  },
+  {
+    "start": 3102.84,
+    "end": 3104.76,
+    "text": " I mean, you didn't used to wear on the pants either."
+  },
+  {
+    "start": 3104.76,
+    "end": 3105.48,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 3105.48,
+    "end": 3110.2,
+    "text": " They probably had to close down that line for a day, I would say."
+  },
+  {
+    "start": 3110.2,
+    "end": 3111.16,
+    "text": " Yeah, cross the line."
+  },
+  {
+    "start": 3111.16,
+    "end": 3113.08,
+    "text": " Anyway, hey Ash, if you're listening."
+  },
+  {
+    "start": 3113.08,
+    "end": 3115.88,
+    "text": " Yeah, did you authorise that story to go out?"
+  },
+  {
+    "start": 3115.88,
+    "end": 3118.6,
+    "text": " So yeah, California prune bar did all this, didn't they?"
+  },
+  {
+    "start": 3118.6,
+    "end": 3120.84,
+    "text": " And they also came up with the idea"
+  },
+  {
+    "start": 3120.84,
+    "end": 3123.24,
+    "text": " of adding prunes to all burgers in U.S. schools."
+  },
+  {
+    "start": 3123.24,
+    "end": 3124.6,
+    "text": " Really?"
+  },
+  {
+    "start": 3124.6,
+    "end": 3125.32,
+    "text": " What? Weird."
+  },
+  {
+    "start": 3125.32,
+    "end": 3126.84,
+    "text": " Yeah, so the idea was..."
+  },
+  {
+    "start": 3126.84,
+    "end": 3128.92,
+    "text": " Sorry, as part of the mince mixture"
+  },
+  {
+    "start": 3128.92,
+    "end": 3130.52,
+    "text": " or a layer on top of the tomato."
+  },
+  {
+    "start": 3130.52,
+    "end": 3132.36,
+    "text": " Oh, no, part of the mixture."
+  },
+  {
+    "start": 3132.36,
+    "end": 3133.96,
+    "text": " So the kids wouldn't know it was in there."
+  },
+  {
+    "start": 3133.96,
+    "end": 3137.72,
+    "text": " And the idea is it's a way to sort of get vegetables"
+  },
+  {
+    "start": 3137.72,
+    "end": 3140.36,
+    "text": " into kids' diets without them knowing."
+  },
+  {
+    "start": 3140.36,
+    "end": 3142.36,
+    "text": " Sounds like you're trying to prank all the kids"
+  },
+  {
+    "start": 3142.36,
+    "end": 3144.12,
+    "text": " and make them all shit themselves in the lunch room,"
+  },
+  {
+    "start": 3144.12,
+    "end": 3144.76,
+    "text": " doesn't it?"
+  },
+  {
+    "start": 3144.76,
+    "end": 3146.04,
+    "text": " Well, you know, they did it."
+  },
+  {
+    "start": 3146.04,
+    "end": 3146.84,
+    "text": " They did it."
+  },
+  {
+    "start": 3146.84,
+    "end": 3147.32,
+    "text": " They did it."
+  },
+  {
+    "start": 3147.32,
+    "end": 3148.2,
+    "text": " Yeah, it was a big thing."
+  },
+  {
+    "start": 3148.2,
+    "end": 3150.36,
+    "text": " It was called prune the fat, they called it."
+  },
+  {
+    "start": 3150.36,
+    "end": 3150.6,
+    "text": " Nice."
+  },
+  {
+    "start": 3150.6,
+    "end": 3154.12,
+    "text": " And the USDA bought 10 million pounds worth of prunes."
+  },
+  {
+    "start": 3155,
+    "end": 3158.52,
+    "text": " In 2003 to put into school lunches."
+  },
+  {
+    "start": 3158.52,
+    "end": 3159.32,
+    "text": " Really? Wow."
+  },
+  {
+    "start": 3159.32,
+    "end": 3162.92,
+    "text": " And the whole project finished in about 2006"
+  },
+  {
+    "start": 3162.92,
+    "end": 3166.44,
+    "text": " due to a sudden drop in plum production."
+  },
+  {
+    "start": 3166.44,
+    "end": 3166.92,
+    "text": " Right."
+  },
+  {
+    "start": 3166.92,
+    "end": 3167.64,
+    "text": " Wow."
+  },
+  {
+    "start": 3167.64,
+    "end": 3168.84,
+    "text": " So there was just some problem."
+  },
+  {
+    "start": 3168.84,
+    "end": 3169.96,
+    "text": " There might have been a drought,"
+  },
+  {
+    "start": 3169.96,
+    "end": 3172.04,
+    "text": " or there might have been some disease or something."
+  },
+  {
+    "start": 3172.04,
+    "end": 3174.2,
+    "text": " And they just couldn't make enough plums"
+  },
+  {
+    "start": 3174.2,
+    "end": 3175.88,
+    "text": " and so they stopped putting them in burgers."
+  },
+  {
+    "start": 3175.88,
+    "end": 3179,
+    "text": " Does anyone know why they have this laxative effect?"
+  },
+  {
+    "start": 3179,
+    "end": 3180.76,
+    "text": " Because plums, to plums in particular,"
+  },
+  {
+    "start": 3180.76,
+    "end": 3182.12,
+    "text": " is it just dried fruit in general?"
+  },
+  {
+    "start": 3182.12,
+    "end": 3183.32,
+    "text": " It's just fibrous."
+  },
+  {
+    "start": 3183.32,
+    "end": 3185.4,
+    "text": " No, it's partly fibrous."
+  },
+  {
+    "start": 3185.4,
+    "end": 3186.92,
+    "text": " I did happen to look into this"
+  },
+  {
+    "start": 3186.92,
+    "end": 3189.4,
+    "text": " because I'm particularly grateful to prunes, personally."
+  },
+  {
+    "start": 3189.4,
+    "end": 3191.64,
+    "text": " And I don't think it should be a source of shame."
+  },
+  {
+    "start": 3191.64,
+    "end": 3191.88,
+    "text": " Okay."
+  },
+  {
+    "start": 3191.88,
+    "end": 3195.96,
+    "text": " So they are high in fibrous because they're dried fruit,"
+  },
+  {
+    "start": 3195.96,
+    "end": 3196.68,
+    "text": " which is very useful."
+  },
+  {
+    "start": 3196.68,
+    "end": 3199.24,
+    "text": " But they also contain this thing called sorbetal,"
+  },
+  {
+    "start": 3199.24,
+    "end": 3202.28,
+    "text": " which has a laxative effect."
+  },
+  {
+    "start": 3202.28,
+    "end": 3204.6,
+    "text": " And sorbetal, you may recognize the name."
+  },
+  {
+    "start": 3204.6,
+    "end": 3205.24,
+    "text": " I do."
+  },
+  {
+    "start": 3205.24,
+    "end": 3206.6,
+    "text": " It's not in chewing gum."
+  },
+  {
+    "start": 3206.6,
+    "end": 3207.64,
+    "text": " It's in chewing gum."
+  },
+  {
+    "start": 3207.64,
+    "end": 3209.72,
+    "text": " It's the sweetener in sugar-free chewing gum,"
+  },
+  {
+    "start": 3209.72,
+    "end": 3211.88,
+    "text": " which means that if you look at sugar-free chewing gum,"
+  },
+  {
+    "start": 3211.88,
+    "end": 3213.08,
+    "text": " there's often a warning on it."
+  },
+  {
+    "start": 3213.08,
+    "end": 3215,
+    "text": " Apparently, saying if you have to..."
+  },
+  {
+    "start": 3215,
+    "end": 3217,
+    "text": " Don't eat two packs of this if you're on the tube."
+  },
+  {
+    "start": 3217,
+    "end": 3221.56,
+    "text": " It's along those lines and there's a picture of Ash."
+  },
+  {
+    "start": 3221.56,
+    "end": 3225.56,
+    "text": " You know, I used to eat a lot of chewing gum."
+  },
+  {
+    "start": 3225.56,
+    "end": 3227.8,
+    "text": " And I stopped because I read the article about them"
+  },
+  {
+    "start": 3227.8,
+    "end": 3229.48,
+    "text": " putting microplastics in your body."
+  },
+  {
+    "start": 3229.48,
+    "end": 3230.12,
+    "text": " Oh, yeah, right."
+  },
+  {
+    "start": 3230.12,
+    "end": 3231.32,
+    "text": " Ah, isn't that weird?"
+  },
+  {
+    "start": 3231.32,
+    "end": 3232.12,
+    "text": " Does it?"
+  },
+  {
+    "start": 3232.12,
+    "end": 3232.84,
+    "text": " Yeah, it does."
+  },
+  {
+    "start": 3232.84,
+    "end": 3234.36,
+    "text": " And I don't think it does you any harm,"
+  },
+  {
+    "start": 3234.36,
+    "end": 3236.12,
+    "text": " but just something about that gave me the echo"
+  },
+  {
+    "start": 3236.12,
+    "end": 3237.16,
+    "text": " and I just stopped using that."
+  },
+  {
+    "start": 3237.16,
+    "end": 3239.08,
+    "text": " But you're meant to spit the chewing gum out, right?"
+  },
+  {
+    "start": 3239.08,
+    "end": 3240.04,
+    "text": " Have you been swallowing it?"
+  },
+  {
+    "start": 3240.04,
+    "end": 3240.68,
+    "text": " Like, you're swallowing it."
+  },
+  {
+    "start": 3240.68,
+    "end": 3241.16,
+    "text": " You are allowed."
+  },
+  {
+    "start": 3241.16,
+    "end": 3242.52,
+    "text": " Well, you are allowed to swallow chewing gum."
+  },
+  {
+    "start": 3242.52,
+    "end": 3243.48,
+    "text": " No, it's not that."
+  },
+  {
+    "start": 3243.48,
+    "end": 3245.4,
+    "text": " It's the crunchy bit on the outside."
+  },
+  {
+    "start": 3245.4,
+    "end": 3247.08,
+    "text": " Okay, the shell kind of exits way in."
+  },
+  {
+    "start": 3247.08,
+    "end": 3247.96,
+    "text": " That makes sense."
+  },
+  {
+    "start": 3247.96,
+    "end": 3249.08,
+    "text": " Oh, do you not cut yours open"
+  },
+  {
+    "start": 3249.08,
+    "end": 3250.84,
+    "text": " and knife and fork out the meat?"
+  },
+  {
+    "start": 3250.84,
+    "end": 3253.24,
+    "text": " You're not meant to eat the shell."
+  },
+  {
+    "start": 3253.24,
+    "end": 3255.4,
+    "text": " That's like, it's like a lobster."
+  },
+  {
+    "start": 3255.4,
+    "end": 3257.88,
+    "text": " You get your special chewing gum fork."
+  },
+  {
+    "start": 3257.88,
+    "end": 3261.24,
+    "text": " Yeah, you were a bit, don't you, Andy,"
+  },
+  {
+    "start": 3261.24,
+    "end": 3262.36,
+    "text": " when you're eating chewing gum?"
+  },
+  {
+    "start": 3262.36,
+    "end": 3271,
+    "text": " Okay, that is it."
+  },
+  {
+    "start": 3271,
+    "end": 3272.04,
+    "text": " That is all of our facts."
+  },
+  {
+    "start": 3272.04,
+    "end": 3273.4,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3273.4,
+    "end": 3275.16,
+    "text": " If you'd like to get in contact with any of us"
+  },
+  {
+    "start": 3275.16,
+    "end": 3276.6,
+    "text": " about the things that we have said,"
+  },
+  {
+    "start": 3276.6,
+    "end": 3279.4,
+    "text": " you can find us on our various social media accounts."
+  },
+  {
+    "start": 3279.4,
+    "end": 3282.76,
+    "text": " I'm on Instagram with @tribaland as the handle."
+  },
+  {
+    "start": 3282.76,
+    "end": 3283.16,
+    "text": " Andy."
+  },
+  {
+    "start": 3283.16,
+    "end": 3284.84,
+    "text": " I'm on Blue Sky at Andrew Hunter M."
+  },
+  {
+    "start": 3284.84,
+    "end": 3285.16,
+    "text": " James."
+  },
+  {
+    "start": 3285.16,
+    "end": 3286.04,
+    "text": " I'm on TikTok."
+  },
+  {
+    "start": 3286.04,
+    "end": 3287.4,
+    "text": " Nurses think it's James Harkin."
+  },
+  {
+    "start": 3287.4,
+    "end": 3290.44,
+    "text": " And if you want to get to us as a group, Anna."
+  },
+  {
+    "start": 3290.44,
+    "end": 3292.92,
+    "text": " You can email podcast.qi.com"
+  },
+  {
+    "start": 3292.92,
+    "end": 3295.4,
+    "text": " or go to Instagram @no such thing as official,"
+  },
+  {
+    "start": 3295.4,
+    "end": 3296.92,
+    "text": " Twitter @no such thing."
+  },
+  {
+    "start": 3296.92,
+    "end": 3298.92,
+    "text": " Out of the handle, as Dan just said."
+  },
+  {
+    "start": 3298.92,
+    "end": 3300.68,
+    "text": " In case you were wondering."
+  },
+  {
+    "start": 3300.68,
+    "end": 3303,
+    "text": " I did hear you snigger when I said that."
+  },
+  {
+    "start": 3303,
+    "end": 3305.16,
+    "text": " Yeah, so or head to our website."
+  },
+  {
+    "start": 3305.16,
+    "end": 3306.84,
+    "text": " No such thing as a fish.com."
+  },
+  {
+    "start": 3306.84,
+    "end": 3308.28,
+    "text": " Plenty of stuff up there for you to check out,"
+  },
+  {
+    "start": 3308.28,
+    "end": 3309.48,
+    "text": " all of our previous episodes."
+  },
+  {
+    "start": 3309.48,
+    "end": 3311.16,
+    "text": " We have a link to an upcoming live show"
+  },
+  {
+    "start": 3311.16,
+    "end": 3313.24,
+    "text": " that we're doing in Sheffield in July"
+  },
+  {
+    "start": 3313.24,
+    "end": 3314.52,
+    "text": " at the CrossWires Festival."
+  },
+  {
+    "start": 3314.52,
+    "end": 3317,
+    "text": " There's the portal, the gateway to Club Fish,"
+  },
+  {
+    "start": 3317,
+    "end": 3319.88,
+    "text": " the very exciting land where bonus episodes exist,"
+  },
+  {
+    "start": 3319.88,
+    "end": 3322.2,
+    "text": " the compilations, the mailbag episodes."
+  },
+  {
+    "start": 3322.2,
+    "end": 3324.04,
+    "text": " Andy goes through all the emails that you send in"
+  },
+  {
+    "start": 3324.04,
+    "end": 3325.24,
+    "text": " and we pick out the best ones"
+  },
+  {
+    "start": 3325.24,
+    "end": 3327.4,
+    "text": " to talk about the facts you've sent in and so on."
+  },
+  {
+    "start": 3327.4,
+    "end": 3329.56,
+    "text": " So do check that out if you're not already a member."
+  },
+  {
+    "start": 3329.56,
+    "end": 3331.8,
+    "text": " There's also bits of merchandise you can find there"
+  },
+  {
+    "start": 3331.8,
+    "end": 3333.56,
+    "text": " or just come back here next week"
+  },
+  {
+    "start": 3333.56,
+    "end": 3335.8,
+    "text": " because we will have another episode waiting for you."
+  },
+  {
+    "start": 3335.8,
+    "end": 3337,
+    "text": " We will see you then."
+  },
+  {
+    "start": 3337,
+    "end": 3337.56,
+    "text": " Goodbye."
+  },
+  {
+    "start": 3337.56,
+    "end": 3340.12,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3340.12,
+    "end": 3342.7,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3343.66,
+    "end": 3346.22,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3346.22,
+    "end": 3348.8,
+    "text": " (upbeat music)"
+  }
+]

@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 import "dotenv/config";
 import * as path from "path";
-import { fileURLToPath } from "url";
 import {
   discoverNewEpisodes,
   markEpisodeProcessed,
@@ -20,11 +19,6 @@ import {
   logProgress,
   logWarning,
 } from "./utils/index.js";
-
-// Get absolute project root path before whisper-node changes CWD
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-const PROJECT_ROOT = path.resolve(__dirname, "../..");
 
 /**
  * Episode processing statistics
@@ -55,8 +49,6 @@ async function processEpisode(
   logSection(`Episode ${index + 1}/${stats.total}`);
   logInfo(`Title: ${episode.title}`);
   logInfo(`Directory: ${episode.dirName}`);
-
-  const episodeDir = getEpisodeDir(episode.dirName);
 
   try {
     // Step 1: Download audio
