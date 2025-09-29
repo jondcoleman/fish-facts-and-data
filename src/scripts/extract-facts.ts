@@ -1,5 +1,6 @@
 import "dotenv/config";
-import * as fs from "fs-extra";
+import * as fs from "fs/promises";
+import { createReadStream } from "fs";
 import * as path from "path";
 import OpenAI from "openai";
 import { parse as parseSubtitle } from "@plussub/srt-vtt-parser";
@@ -288,7 +289,7 @@ async function createAndSubmitBatch(
 
   try {
     // Upload batch file
-    const fileStream = fs.createReadStream(tempFile);
+    const fileStream = createReadStream(tempFile);
     const file = await client.files.create({
       file: fileStream,
       purpose: "batch",

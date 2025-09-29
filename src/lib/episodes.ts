@@ -1,4 +1,4 @@
-import * as fs from "fs-extra";
+import * as fs from "fs/promises";
 import * as path from "path";
 import type { Episode } from "../scripts/utils/schemas.js";
 
@@ -33,25 +33,31 @@ export async function getAllEpisodes(): Promise<EpisodeWithMetadata[]> {
         const metadataPath = path.join(episodeDir, "metadata.json");
 
         // Only include if facts exist
-        if (await fs.pathExists(factsPath)) {
-          try {
-            const facts = await fs.readJson(factsPath);
-            const metadata = await fs.pathExists(metadataPath)
-              ? await fs.readJson(metadataPath)
-              : {
-                  id: entry.name,
-                  dirName: entry.name,
-                  publishDate: "",
-                  audioUrl: "",
-                };
+        try {
+          await fs.access(factsPath);
+          const factsData = await fs.readFile(factsPath, "utf-8");
+          const facts = JSON.parse(factsData);
 
-            episodes.push({
-              ...facts,
-              metadata,
-            });
-          } catch (error) {
-            console.error(`Error reading episode ${entry.name}:`, error);
+          let metadata;
+          try {
+            await fs.access(metadataPath);
+            const metadataData = await fs.readFile(metadataPath, "utf-8");
+            metadata = JSON.parse(metadataData);
+          } catch {
+            metadata = {
+              id: entry.name,
+              dirName: entry.name,
+              publishDate: "",
+              audioUrl: "",
+            };
           }
+
+          episodes.push({
+            ...facts,
+            metadata,
+          });
+        } catch (error) {
+          // Facts file doesn't exist, skip this episode
         }
       }
     }
@@ -80,20 +86,29 @@ export async function getEpisodeByDirName(
   const factsPath = path.join(episodeDir, "facts.json");
   const metadataPath = path.join(episodeDir, "metadata.json");
 
-  if (!(await fs.pathExists(factsPath))) {
+  try {
+    await fs.access(factsPath);
+  } catch {
     return null;
   }
 
   try {
-    const facts = await fs.readJson(factsPath);
-    const metadata = await fs.pathExists(metadataPath)
-      ? await fs.readJson(metadataPath)
-      : {
-          id: dirName,
-          dirName,
-          publishDate: "",
-          audioUrl: "",
-        };
+    const factsData = await fs.readFile(factsPath, "utf-8");
+    const facts = JSON.parse(factsData);
+
+    let metadata;
+    try {
+      await fs.access(metadataPath);
+      const metadataData = await fs.readFile(metadataPath, "utf-8");
+      metadata = JSON.parse(metadataData);
+    } catch {
+      metadata = {
+        id: dirName,
+        dirName,
+        publishDate: "",
+        audioUrl: "",
+      };
+    }
 
     return {
       ...facts,

@@ -1,5 +1,6 @@
 import "dotenv/config";
-import * as fs from "fs-extra";
+import * as fs from "fs/promises";
+import { createWriteStream } from "fs";
 import * as path from "path";
 import { pipeline } from "stream/promises";
 import { Readable } from "stream";
@@ -59,7 +60,7 @@ export async function downloadAudio(
       const nodeStream = Readable.fromWeb(webStream as any);
 
       // Write to file
-      const writeStream = fs.createWriteStream(filePath);
+      const writeStream = createWriteStream(filePath);
       await pipeline(nodeStream, writeStream);
 
       logSuccess(`Downloaded: ${filename}`);
