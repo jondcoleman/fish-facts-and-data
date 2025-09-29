@@ -25,9 +25,9 @@ if (!episode) {
 			<article class="episode">
 				<header class="episode-header">
 					<div class="episode-type">{episode.episode_type}</div>
-					<h1>{episode.episode_title}</h1>
-					{episode.episode_number && episode.episode_number !== "unknown" && (
-						<div class="episode-number">Episode {episode.episode_number}</div>
+					<h1>{episode.metadata.title}</h1>
+					{episode.metadata.itunes?.episode && (
+						<div class="episode-number">Episode {episode.metadata.itunes.episode}</div>
 					)}
 					<div class="episode-date">
 						{new Date(episode.metadata.publishDate).toLocaleDateString('en-US', {
