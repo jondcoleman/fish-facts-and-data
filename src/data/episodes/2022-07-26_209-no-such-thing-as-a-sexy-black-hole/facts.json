@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the astronomical phenomenon of 'massive fails' in black holes, the fiery process of distressing Levi jeans, Thomas Edison's extensive experiments to find the perfect light bulb filament, and the economic value of picking up a penny. The hosts delve into these facts with humor and intriguing anecdotes.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When a very large star quietly turns into a black hole without the usual explosion, the official term used by astronomers is a massive fail.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Levi Jeans are set on fire before they're sold.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:13:47"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Thomas Edison tested over 1,600 different materials to find the right filament for the inside of his light bulbs, including fishing lines, cardboard, and hairs from the red beard of an old friend.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:21:40"
+    },
+    {
+      "fact_number": 4,
+      "fact": "It's only worth leaning over to pick up a 1P coin if you can do it in less than three seconds.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:50"
+    }
+  ]
+}

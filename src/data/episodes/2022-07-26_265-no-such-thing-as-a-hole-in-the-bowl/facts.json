@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky historical and cultural facts, including a peculiar rumor about author George Eliot, the unusual use of ox testicles in grandfather clocks, the origin of the term 'motel', and a unique punishment involving the movie Bambi.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "After the author George Elliott died, her family spent 50 years publicly denying that she had a massive right hand.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:48"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Some grandfather clocks used to use ox testicles for their pulleys.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:31:31"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The first motel was meant to be called a motor hotel, but the sign was too small to fit all the letters on.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:22:29"
+    },
+    {
+      "fact_number": 4,
+      "fact": "A man found guilty of deer poaching has been sentenced to a year in prison and been ordered to watch Bambi once a month during that year.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:27:45"
+    }
+  ]
+}

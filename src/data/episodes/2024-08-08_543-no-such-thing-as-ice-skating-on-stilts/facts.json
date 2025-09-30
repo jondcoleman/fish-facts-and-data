@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on the wild life of country singer Johnny Paycheck, the history of skateboarding and its cultural impact, Chuck Yeager's historic breaking of the sound barrier, and the coming-of-age traditions of the Banna people in Ethiopia. Special guest Johnny Knoxville joins the hosts to share insights and anecdotes.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Johnny Paycheck, who scored a number one hit with 'Take This Job and Shove It,' once shot a man over a bowl of turtle soup.",
+      "presenter": "Johnny Knoxville",
+      "guest": true,
+      "start_time": "00:03:15"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the 1980s, skateboarder Nardis Carpus had his merchandise banned in many schools and shops because it was believed he was evil after some people noticed that his first name, Nardis, spelled backwards was Satan.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:52"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When Chuck Yeager broke the sound barrier, he brought 220 gallons of alcohol on the flight with him.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:29:20"
+    },
+    {
+      "fact_number": 4,
+      "fact": "According to tradition of the Banna people of Ethiopia, before a man can become a man, he has to learn how to walk on stilts.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:43:02"
+    }
+  ]
+}

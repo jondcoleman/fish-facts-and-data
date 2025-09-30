@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and intriguing facts, including the effects of lipstick on urine color, the impressive jumping abilities of maggots, the evolutionary theories behind motion sickness, and a humorous mishap involving a law school's acronym.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Using too much red lipstick can make your urine turn red.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Some maggots can jump 40 times their own length, but only in August.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:11:15"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Humans may have developed motion sickness to stop us falling out of trees.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:22:22"
+    },
+    {
+      "fact_number": 4,
+      "fact": "To honor the US Supreme Court judge Antonin Scalia, Virginia's George Mason University School of Law, renamed itself Antonin Scalia School of Law, then immediately renamed itself again after it was pointed out that the acronym would be Asshole.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:36:11"
+    }
+  ]
+}

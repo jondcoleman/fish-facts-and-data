@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode, recorded live in Oslo, covers a range of quirky and fascinating facts. The hosts discuss unusual Olympic sports, the peculiarities of wolves in Norway, a life-saving beer treatment in Vietnam, and the glowing genitals of millipedes under UV light.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There was once an Olympic sport where you had to dive into a pool and then glide along for a minute. It was scrapped because the main factor was how heavy you were.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:50"
+    },
+    {
+      "fact_number": 2,
+      "fact": "At Polapark in Norway, you're told not to wear wool clothes in case the wolves confuse you with a sheep.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:24"
+    },
+    {
+      "fact_number": 3,
+      "fact": "This year, doctors in Vietnam saved a man's life by pumping 15 cans of beer into his body.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:21:25"
+    },
+    {
+      "fact_number": 4,
+      "fact": "If you put a bunch of millipedes in a nightclub, all the genitals will glow in different colors.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:32:19"
+    }
+  ]
+}

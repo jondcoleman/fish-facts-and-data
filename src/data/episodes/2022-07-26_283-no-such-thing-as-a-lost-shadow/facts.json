@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating topics, including unusual job titles added to the US census, the origins of heavy metal music, the bizarre practice of selling shadows in 19th century Romania, and the self-sacrificing behavior of aphids.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Jobs that have recently been added to the US census include dose scaler, automotive window tinter and blimp pilot.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Heavy metal musician Tony Iomi began playing heavy metal guitar with two metal fingers because he lost his real ones while working at a metal factory.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:09:57"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 19th century Romania, there were people who sold shadows, and they would sell your shadow without your permission, so then you would die less than one year later.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:18:41"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Some aphids fix their homes by exploding themselves and plastering their own bodies over the holes in the walls.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:28:18"
+    }
+  ]
+}

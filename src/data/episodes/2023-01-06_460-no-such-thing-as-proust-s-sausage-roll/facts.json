@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and historical topics, including the origins of Popeye's powers, Marcel Proust's eccentricities, the etiquette of handkerchiefs, and the peculiarities of Tunnel of Love rides in theme parks.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Originally Popeye, the sailor man, got his powers, not from eating spinach, but by rubbing a lucky magic hen.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:02:26"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Marcel Proust once woke up the members of a famous string quartet at midnight and made them all come back to his house to play a specific piece for him.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:18:49"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In the 1920s, a smart young man would have two handkerchiefs, a blower and a shower.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:33:16"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In the 1960s, owners of a theme park in Pennsylvania had guards with plastic bats in the Tunnel of Love ride who were instructed to give an admonishing thwack to any bear bums that they saw.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:44:56"
+    }
+  ]
+}

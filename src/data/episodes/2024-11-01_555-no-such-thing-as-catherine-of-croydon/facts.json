@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and intriguing topics, including the lesser-known White Cliffs of Croydon, the mysterious existence of the world's most expensive super yacht, the serendipitous rise of Ace of Base due to a stuck cassette, and the surprising benefits of medical clowns in increasing pregnancy rates.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "As well as the world famous White Cliffs of Dover, Britain is home to the world unknown White Cliffs of Croydon.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The world's most expensive super yacht probably doesn't exist.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:18"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The reason that the band Ace of Base became successful is because a cassette of their music got stuck in a producer's car, and after two weeks of having nothing else to listen to, he went from hating it to liking it.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:02"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Being visited by a clown can help you get pregnant.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:39:01"
+    }
+  ]
+}

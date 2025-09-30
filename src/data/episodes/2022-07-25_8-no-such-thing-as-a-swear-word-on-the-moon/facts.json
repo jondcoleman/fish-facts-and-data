@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and intriguing topics, including NASA's use of inflatable owls to deter woodpeckers from damaging space shuttles, the unexpected financial success of a DVD anti-piracy ad composer, the unique Easter traditions in the Czech Republic, and the employment of a one-legged man to demonstrate the safety of the first escalator in London's Underground.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "One of the last things that NASA had to do before launching space shuttles was detach the inflatable owls.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:00:49"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The famous anti-piracy advert music was used without proper compensation to the composer, who eventually received a settlement after a lengthy legal battle.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:08:36"
+    },
+    {
+      "fact_number": 3,
+      "fact": "According to the government's website of the Czech Republic, there are three symbols of Easter in the Czech Republic: Easter eggs, the Easter lamb, and whipping.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:17:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "At Earl's Court tube station in 1911, a one-legged man was employed to ride the escalator.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:22:51"
+    }
+  ]
+}

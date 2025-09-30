@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and historical facts, including fashion trends involving live animals, Alan Turing's lost treasure, the peculiarities of sperm banks, and the surprising linguistic influence of Hawaiian on English.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "It was fashionable in New York at the end of the 19th century for ladies to wear live lizards as brooches.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:48"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The great code breaker, Alan Turing, lost his buried treasure when he couldn't crack his own code.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:06:45"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 2011, the largest sperm bank in the world stopped accepting sperm from redheads.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:47"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The English language has more words borrowed from Hawaiian than it has from Welsh.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:20:27"
+    }
+  ]
+}

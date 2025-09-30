@@ -1,0 +1,5737 @@
+[
+  {
+    "start": 0,
+    "end": 6,
+    "text": " Hi guys, Andy here. Just before we start this week's show, we wanted to say that we have a special guest on."
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "text": " It is none other than Major Tim Peake, soldier, pilot, astronaut, absolutely everything."
+  },
+  {
+    "start": 13,
+    "end": 18,
+    "text": " He is the first British astronaut to go into space with the European Space Agency."
+  },
+  {
+    "start": 18,
+    "end": 27,
+    "text": " He has done so many amazing things in his life, and part of the reason he's on is that he's got a new book out, it's his autobiography, it's called Limitless."
+  },
+  {
+    "start": 27,
+    "end": 35,
+    "text": " I've just finished it, it is so amazing the stuff he's done. He spent years flying helicopters, being a helicopter test pilot."
+  },
+  {
+    "start": 35,
+    "end": 40,
+    "text": " He was in the army, he talks about going to Sandhurst, he's done all these incredible things."
+  },
+  {
+    "start": 40,
+    "end": 46,
+    "text": " The number of adventures in the book, basically every single page has a new exciting weird thing he's done in it."
+  },
+  {
+    "start": 46,
+    "end": 50,
+    "text": " He lived underwater for a while, that didn't even make it into the podcast."
+  },
+  {
+    "start": 50,
+    "end": 56,
+    "text": " We didn't even mention the fact that he lived underwater. That's how many interesting things he has to say about his life so far."
+  },
+  {
+    "start": 56,
+    "end": 60,
+    "text": " So we hope you liked the episode, and if you do, you should give his book a look."
+  },
+  {
+    "start": 60,
+    "end": 64,
+    "text": " It is called Limitless, and it is out now from all book shops."
+  },
+  {
+    "start": 64,
+    "end": 67,
+    "text": " Even if the book shops aren't actually open, it can be ordered."
+  },
+  {
+    "start": 67,
+    "end": 69,
+    "text": " Okay, on with the podcast."
+  },
+  {
+    "start": 83,
+    "end": 88,
+    "text": " Hello, and welcome to another episode of No Such Thing as a Fish,"
+  },
+  {
+    "start": 88,
+    "end": 93,
+    "text": " a weekly podcast coming to you from four undisclosed locations in the UK."
+  },
+  {
+    "start": 93,
+    "end": 99,
+    "text": " My name is Dan Schreiber, I am sitting here with Andrew Hunter Murray, Anna Tyshinski, and special guest."
+  },
+  {
+    "start": 99,
+    "end": 105,
+    "text": " It's Britain's first ever, and currently only ever space walking astronaut, Major Tim Peake."
+  },
+  {
+    "start": 105,
+    "end": 110,
+    "text": " And once again, we have gathered around the microphones with our four favorite facts from the last seven days,"
+  },
+  {
+    "start": 110,
+    "end": 116,
+    "text": " and in no particular order, here we go. Starting with you, Major Tim."
+  },
+  {
+    "start": 116,
+    "end": 125,
+    "text": " Well, my fact of the week is that when you do a space walk, you have to wear 16 layers of clothing and a nappy."
+  },
+  {
+    "start": 125,
+    "end": 129,
+    "text": " Was that definitely not a prank from the other astronauts, the nappy?"
+  },
+  {
+    "start": 129,
+    "end": 134,
+    "text": " I thought it might be, you know, when you get told the fancy dress party, and you turn up and everyone's wearing normal clothes."
+  },
+  {
+    "start": 134,
+    "end": 141,
+    "text": " No, so the nappy is very, what we call a nappy, we call it a mag, a maximum absorbency garment,"
+  },
+  {
+    "start": 141,
+    "end": 146,
+    "text": " so that we don't have to go around calling it a diaper or a nappy. But it's a nappy, it's an adult nappy."
+  },
+  {
+    "start": 146,
+    "end": 153,
+    "text": " And that gives us an ease of mind to know that at any point during a space walk, if you need to go for a week, you can just let it go."
+  },
+  {
+    "start": 153,
+    "end": 159,
+    "text": " And is it like a standard nappy, just sort of a big wooly mess on your bum?"
+  },
+  {
+    "start": 159,
+    "end": 163,
+    "text": " I don't have children, I think, but I think that's what a nappy basically is, isn't it? Or is it more advanced?"
+  },
+  {
+    "start": 163,
+    "end": 171,
+    "text": " No, it's a standard adult incontinence pad nappy. So you put it on and you've got two Velcro type straps on the left and on the right,"
+  },
+  {
+    "start": 171,
+    "end": 178,
+    "text": " and you just, you know, tighten yourself up. And then we wear some long johns over the top of that."
+  },
+  {
+    "start": 178,
+    "end": 181,
+    "text": " So that's layer number two, long johns and a kind of long sleeve top."
+  },
+  {
+    "start": 181,
+    "end": 188,
+    "text": " Layer number three is what's called an LCBG, a liquid cooling ventilation garment."
+  },
+  {
+    "start": 188,
+    "end": 197,
+    "text": " And that's pretty cool, actually. It's a it's a onesie that has got about almost a kilometres worth of piping, thin rubber piping going through it."
+  },
+  {
+    "start": 197,
+    "end": 203,
+    "text": " And that's where the water flows through. And that's what regulates our temperature out on a spacewalk."
+  },
+  {
+    "start": 203,
+    "end": 208,
+    "text": " And then it's into the space suit. And that's where the other 14 layers of clothing."
+  },
+  {
+    "start": 208,
+    "end": 212,
+    "text": " Oh, I thought you were going to be able to list every single layer individually."
+  },
+  {
+    "start": 212,
+    "end": 217,
+    "text": " Well, I could, it might go on a bit. We might need more time for the podcast."
+  },
+  {
+    "start": 217,
+    "end": 222,
+    "text": " I was reading about the procurement procedure behind these garments, maximum absorption garments."
+  },
+  {
+    "start": 222,
+    "end": 229,
+    "text": " So apparently they were made by a firm called Absorbancies, and they've gone bust, but NASA bought so many."
+  },
+  {
+    "start": 229,
+    "end": 235,
+    "text": " They bought 3,200 of these in the late 90s, and they've still got some of them knocking around."
+  },
+  {
+    "start": 235,
+    "end": 238,
+    "text": " But it seemed like they must be running short by now, you would say."
+  },
+  {
+    "start": 238,
+    "end": 244,
+    "text": " Well, you don't need many, do you? You don't need. I mean, I read that astronauts are only really given three."
+  },
+  {
+    "start": 244,
+    "end": 250,
+    "text": " One for takeoff, one for re-entry. And if you're going on a spacewalk, there's your third nappy."
+  },
+  {
+    "start": 250,
+    "end": 253,
+    "text": " Is that right? Training? Training? You need to practice?"
+  },
+  {
+    "start": 253,
+    "end": 258,
+    "text": " We do. You absolutely right down at Houston, we have this big old swimming pool, the Neutral Buoyancy Laboratory."
+  },
+  {
+    "start": 258,
+    "end": 263,
+    "text": " And we wear them there as well, because we train exactly as we would do a spacewalk."
+  },
+  {
+    "start": 263,
+    "end": 269,
+    "text": " And so although we're only in the water for six hours, we still wear them so that we know what it feels like."
+  },
+  {
+    "start": 269,
+    "end": 273,
+    "text": " And in fact, the advice was, because going through training, you never need to go."
+  },
+  {
+    "start": 273,
+    "end": 279,
+    "text": " But the advice from some flown astronauts was, Tim, at least once, just have a wee in your space."
+  },
+  {
+    "start": 279,
+    "end": 287,
+    "text": " Because he said, you don't want to do anything for the first time on a spacewalk."
+  },
+  {
+    "start": 287,
+    "end": 291,
+    "text": " You want to have tried everything. So you know what it feels like, you know, it works."
+  },
+  {
+    "start": 291,
+    "end": 293,
+    "text": " At least do it once during training."
+  },
+  {
+    "start": 293,
+    "end": 296,
+    "text": " And did you have to do it on the spacewalk?"
+  },
+  {
+    "start": 296,
+    "end": 299,
+    "text": " I didn't. No, actually, I was very fortunate."
+  },
+  {
+    "start": 299,
+    "end": 303,
+    "text": " I perhaps should have probably to tell you that I was very dehydrated."
+  },
+  {
+    "start": 303,
+    "end": 308,
+    "text": " Because we put that thing on, we start getting dressed at seven o'clock in the morning on spacewalk there."
+  },
+  {
+    "start": 308,
+    "end": 311,
+    "text": " You're up at six thirty. And then you do your medical."
+  },
+  {
+    "start": 311,
+    "end": 316,
+    "text": " You put a chest harness on, which has got monitors, your heart rate and breathing rate."
+  },
+  {
+    "start": 316,
+    "end": 319,
+    "text": " And then you're into a space suit quite soon."
+  },
+  {
+    "start": 319,
+    "end": 324,
+    "text": " So you end up spending somewhere about, you know, 10 to 12 hours in that space suit."
+  },
+  {
+    "start": 324,
+    "end": 326,
+    "text": " But no, thankfully, I didn't need to use it."
+  },
+  {
+    "start": 326,
+    "end": 330,
+    "text": " Yeah, you've got to start drinking more."
+  },
+  {
+    "start": 330,
+    "end": 332,
+    "text": " That is a long time."
+  },
+  {
+    "start": 332,
+    "end": 337,
+    "text": " OK, I read something that I really wanted to check because I don't think you mentioned this in the book,"
+  },
+  {
+    "start": 337,
+    "end": 340,
+    "text": " but it might be sort of a previous astronaut procedure,"
+  },
+  {
+    "start": 340,
+    "end": 347,
+    "text": " which is that sometimes you would have to spend the night before you do your spacewalk in a cupboard wearing your space suit."
+  },
+  {
+    "start": 347,
+    "end": 353,
+    "text": " So that you can get all the nitrogen out of your blood so you don't suffer."
+  },
+  {
+    "start": 353,
+    "end": 356,
+    "text": " You know, you don't get bubbles forming at this kind of thing for a danger."
+  },
+  {
+    "start": 356,
+    "end": 363,
+    "text": " Yeah, actually, and you're partly right there because what we used to do is that they used to scamp out in the airlock."
+  },
+  {
+    "start": 363,
+    "end": 365,
+    "text": " And so it wasn't a cupboard."
+  },
+  {
+    "start": 365,
+    "end": 374,
+    "text": " They would actually kind of take their sleeping bags in there and they would be breathing oxygen at a lower pressure in the airlock all night long."
+  },
+  {
+    "start": 374,
+    "end": 377,
+    "text": " And that was flushing the nitrogen out of their system."
+  },
+  {
+    "start": 377,
+    "end": 382,
+    "text": " But it was not comfortable and it was, you know, people were getting up very tired on spacewalk morning."
+  },
+  {
+    "start": 382,
+    "end": 388,
+    "text": " And we've gradually we've become more and more comfortable with actually reducing that period of time."
+  },
+  {
+    "start": 388,
+    "end": 395,
+    "text": " But it's just the same as a diver trying to prevent themselves from getting the bends because inside the space suit,"
+  },
+  {
+    "start": 395,
+    "end": 402,
+    "text": " we take the pressure down to about 4.3 PSI, so less than a third of the atmosphere."
+  },
+  {
+    "start": 402,
+    "end": 406,
+    "text": " It's slightly higher than Mount Everest, the equivalent pressure, which is pretty low actually."
+  },
+  {
+    "start": 406,
+    "end": 411,
+    "text": " And so you don't want to go into that low pressure environment with a whole stack of nitrogen in your bloodstream."
+  },
+  {
+    "start": 411,
+    "end": 412,
+    "text": " Wow."
+  },
+  {
+    "start": 412,
+    "end": 419,
+    "text": " And then when you were out there, I was reading to be fair, quite old article of 1984 when the first woman did a spacewalk."
+  },
+  {
+    "start": 419,
+    "end": 426,
+    "text": " I think it was Lanna Savitskaya and she was a cosmonaut and she went out to do some welding."
+  },
+  {
+    "start": 426,
+    "end": 430,
+    "text": " And the article about that said that, and I don't think I can believe this,"
+  },
+  {
+    "start": 430,
+    "end": 440,
+    "text": " that they're so kind of uncomfortable and inelastic back then that you could lose up to three kilograms as in almost half a stone in the course of a spacewalk."
+  },
+  {
+    "start": 440,
+    "end": 447,
+    "text": " Which I think that's impossible. I think dieters would be doing this left, right and centre of that level of weight loss was possible."
+  },
+  {
+    "start": 447,
+    "end": 449,
+    "text": " Let's do the spacewalk diet."
+  },
+  {
+    "start": 449,
+    "end": 455,
+    "text": " Exactly. Very expensive, but does work. Is it uncomfortable and heavy?"
+  },
+  {
+    "start": 455,
+    "end": 463,
+    "text": " It is uncomfortable and it's hard work. You are really working hard because although it's a very, very low pressure,"
+  },
+  {
+    "start": 463,
+    "end": 474,
+    "text": " compared to the vacuum outside, you feel like, you know, Michelin man in this blown up tire and bending of fingers, moving your arms is exhausting and just moving around in space is exhausting."
+  },
+  {
+    "start": 474,
+    "end": 481,
+    "text": " So you do come back physically, absolutely exhausted, but three kilograms, three kilograms sounds like an awful lot."
+  },
+  {
+    "start": 481,
+    "end": 485,
+    "text": " And I tended to not believe the article the moment you said welding."
+  },
+  {
+    "start": 485,
+    "end": 494,
+    "text": " Because, you know, we take risks on a spacewalk, but I don't think we'd go out there welding just in case."
+  },
+  {
+    "start": 494,
+    "end": 500,
+    "text": " The suits sound pretty amazing. I was reading that the gloves have a inbuilt heater system."
+  },
+  {
+    "start": 500,
+    "end": 506,
+    "text": " You know, like when you sit in a car and someone presses that button, you know, the driver presses the button in the back of your seat, something gets hot."
+  },
+  {
+    "start": 506,
+    "end": 514,
+    "text": " You're like, whoa, they have that on the spacesuits just above the fingernails on the gloves with a non off button on the wrist."
+  },
+  {
+    "start": 514,
+    "end": 516,
+    "text": " I believe so. Is that right to him? That's so cool."
+  },
+  {
+    "start": 516,
+    "end": 522,
+    "text": " That's absolutely right. Yeah. So the little it's a little tab that you pull on the top of your wrist."
+  },
+  {
+    "start": 522,
+    "end": 533,
+    "text": " And when we're going into night, actually, we get mission control call up and they just say, guys, you know, you're 25 seconds away from from nighttime helmets, gloves and visors."
+  },
+  {
+    "start": 533,
+    "end": 541,
+    "text": " And so what they want there is helmet lights, switch them on visors, because we'll often have the gold visor down in the daytime for sun protection."
+  },
+  {
+    "start": 541,
+    "end": 547,
+    "text": " So gold visors up and then gloves switch them on so your fingers stay nice and warm."
+  },
+  {
+    "start": 547,
+    "end": 554,
+    "text": " And that is actually that's the only source of heat other than body heat to keep us warm on a spacewalk."
+  },
+  {
+    "start": 554,
+    "end": 566,
+    "text": " And I guess that just goes to show how effective the suit is at protecting us against the cold from space because it's only our own body generated heat that keeps us warm other than the electrical fingertips."
+  },
+  {
+    "start": 566,
+    "end": 569,
+    "text": " Wow. How cold? I mean, what's what's the temperature out there?"
+  },
+  {
+    "start": 569,
+    "end": 580,
+    "text": " If we're in the shade or nighttime, it's just a few degrees. I mean, space is a few degrees above absolute zero and the things we're touching will be down at minus 100 Celsius."
+  },
+  {
+    "start": 580,
+    "end": 585,
+    "text": " But in the sunshine, metal panels can be as hot as plus 260 Celsius."
+  },
+  {
+    "start": 585,
+    "end": 593,
+    "text": " So even when you're working in the sun, you know, you might have one hand, you know, on one side of a solar panel in the sun and the other in the shade."
+  },
+  {
+    "start": 593,
+    "end": 601,
+    "text": " And your space suit is having to cope with this massive, massive thermal, thermal differentiation between between the two."
+  },
+  {
+    "start": 601,
+    "end": 603,
+    "text": " So it's doing a remarkable job."
+  },
+  {
+    "start": 603,
+    "end": 607,
+    "text": " That's like Canada, I believe. I'm led to inform."
+  },
+  {
+    "start": 607,
+    "end": 612,
+    "text": " They send astronauts to Canada to live for a year, don't they, to prepare."
+  },
+  {
+    "start": 612,
+    "end": 614,
+    "text": " That would be good training, I'm sure."
+  },
+  {
+    "start": 614,
+    "end": 618,
+    "text": " Does it feel, I mean, how odd does it feel when you step out of the airlock?"
+  },
+  {
+    "start": 618,
+    "end": 629,
+    "text": " It's brilliant. I mean, it does feel odd because you just suddenly feel the exposure and, you know, you're aware that the danger is kind of palpable in that respect, like, OK, this is it."
+  },
+  {
+    "start": 629,
+    "end": 636,
+    "text": " I mean, the vacuum of space, just a suit and a thin visor, but you soon get comfortable and you get comfortable with the view as well."
+  },
+  {
+    "start": 636,
+    "end": 639,
+    "text": " And, you know, you let go, you know, you're not going anywhere."
+  },
+  {
+    "start": 639,
+    "end": 642,
+    "text": " So as long as you're tethered onto the space station."
+  },
+  {
+    "start": 642,
+    "end": 647,
+    "text": " But sometimes the vertigo just catches you out unexpectedly."
+  },
+  {
+    "start": 647,
+    "end": 649,
+    "text": " It happened to me once."
+  },
+  {
+    "start": 649,
+    "end": 652,
+    "text": " I was coming back towards the airlock along this thin pole."
+  },
+  {
+    "start": 652,
+    "end": 653,
+    "text": " It's like a shortcut."
+  },
+  {
+    "start": 653,
+    "end": 656,
+    "text": " And so I was not surrounded by structure at all."
+  },
+  {
+    "start": 656,
+    "end": 666,
+    "text": " And I was kind of like hanging onto this pole and I looked down and suddenly got this massive wave of vertigo seeing Western Australia down below my feet."
+  },
+  {
+    "start": 666,
+    "end": 669,
+    "text": " What a stupid time to look down."
+  },
+  {
+    "start": 669,
+    "end": 671,
+    "text": " Oh, my God."
+  },
+  {
+    "start": 671,
+    "end": 676,
+    "text": " You know, one thing as you're looking down, if you are taken in by the absolute beauty of what you're seeing."
+  },
+  {
+    "start": 676,
+    "end": 680,
+    "text": " One thing you can't do in your space suit is go."
+  },
+  {
+    "start": 680,
+    "end": 682,
+    "text": " Yes. Yeah, whistling."
+  },
+  {
+    "start": 682,
+    "end": 684,
+    "text": " Whistling space."
+  },
+  {
+    "start": 684,
+    "end": 688,
+    "text": " Well, it's no, I mean, it's really weird in that low pressure environment."
+  },
+  {
+    "start": 688,
+    "end": 690,
+    "text": " Whistling is really, really hard."
+  },
+  {
+    "start": 690,
+    "end": 696,
+    "text": " And your voice tends to kind of drop an octave, which for me is quite good because I've got a high voice anyway."
+  },
+  {
+    "start": 696,
+    "end": 699,
+    "text": " But it'd be great for David Beckham."
+  },
+  {
+    "start": 699,
+    "end": 706,
+    "text": " So yeah, it's one of those environments where, you know, you'd see in that low pressure just weird things happen."
+  },
+  {
+    "start": 706,
+    "end": 708,
+    "text": " So no whistling is really hard."
+  },
+  {
+    "start": 708,
+    "end": 710,
+    "text": " Wow. I didn't know that about the voice."
+  },
+  {
+    "start": 710,
+    "end": 711,
+    "text": " That's what I want to try that."
+  },
+  {
+    "start": 711,
+    "end": 717,
+    "text": " That's I'm put off by the lack of whistling because my mum always said you can't be unhappy when you're whistling."
+  },
+  {
+    "start": 717,
+    "end": 723,
+    "text": " But I quite like the idea of the voice going down an octave, kind of sexy and sultry."
+  },
+  {
+    "start": 723,
+    "end": 724,
+    "text": " Sexy astronauts."
+  },
+  {
+    "start": 724,
+    "end": 727,
+    "text": " That's the only version that we have."
+  },
+  {
+    "start": 727,
+    "end": 733,
+    "text": " It's funny when you say it's about sexy astronauts, one of the things that came up, why I came up with the fact is from gravity"
+  },
+  {
+    "start": 733,
+    "end": 738,
+    "text": " and Sandra Bullock, you know, coming in from her spacewalk and taking it off and there she is."
+  },
+  {
+    "start": 738,
+    "end": 741,
+    "text": " All she's wearing is hot pants underneath her spacey."
+  },
+  {
+    "start": 741,
+    "end": 745,
+    "text": " So that's why I thought I've got a, it's been a myth busting here."
+  },
+  {
+    "start": 745,
+    "end": 749,
+    "text": " I can't believe that was your chief problem with the science of film gravity."
+  },
+  {
+    "start": 749,
+    "end": 752,
+    "text": " Oh, everything else, everything else is perfectly accurate."
+  },
+  {
+    "start": 752,
+    "end": 755,
+    "text": " We fly around on fire extinguishers all the time."
+  },
+  {
+    "start": 755,
+    "end": 757,
+    "text": " You see George Clooney's ghost when you're up there."
+  },
+  {
+    "start": 757,
+    "end": 759,
+    "text": " Everyone sees George Clooney's ghost."
+  },
+  {
+    "start": 759,
+    "end": 764,
+    "text": " When you're inside the ISS, the clothes that you're wearing, obviously quite different, more comfortable, hopefully."
+  },
+  {
+    "start": 764,
+    "end": 772,
+    "text": " But when you have to take them off, is it the case that I think I was listening to the NASA podcast and they were saying that dead skin is a real problem."
+  },
+  {
+    "start": 772,
+    "end": 776,
+    "text": " So when you're taking off your socks, particularly dead skin comes off a lot."
+  },
+  {
+    "start": 776,
+    "end": 779,
+    "text": " And do you have to take your socks off next to a sort of suction vent or something?"
+  },
+  {
+    "start": 779,
+    "end": 780,
+    "text": " Right."
+  },
+  {
+    "start": 780,
+    "end": 781,
+    "text": " It's gross."
+  },
+  {
+    "start": 781,
+    "end": 782,
+    "text": " Yes."
+  },
+  {
+    "start": 782,
+    "end": 785,
+    "text": " There are some things about the human body you just don't want to really see."
+  },
+  {
+    "start": 785,
+    "end": 790,
+    "text": " And we don't get to see on Earth how much we shed each day, really."
+  },
+  {
+    "start": 790,
+    "end": 791,
+    "text": " It's kind of hidden from us."
+  },
+  {
+    "start": 791,
+    "end": 798,
+    "text": " But up there, yeah, you take your socks off and in weightlessness, anything that's inside your socks will just come flying out."
+  },
+  {
+    "start": 798,
+    "end": 804,
+    "text": " And your feet, because you're not walking on them, all of the hard and dead skin that's accumulated all of our lives."
+  },
+  {
+    "start": 804,
+    "end": 807,
+    "text": " It's just after about a month or two, it's shedding off."
+  },
+  {
+    "start": 807,
+    "end": 812,
+    "text": " So big, big, horrible flakes of skin coming off your feet."
+  },
+  {
+    "start": 812,
+    "end": 818,
+    "text": " I mean, you have to do it next to the egg return grid because it's the cleanest way of doing it."
+  },
+  {
+    "start": 818,
+    "end": 819,
+    "text": " Just take your socks off."
+  },
+  {
+    "start": 819,
+    "end": 825,
+    "text": " Are they reusable for anything in the way that I know that urine is being turned back into water to drink?"
+  },
+  {
+    "start": 825,
+    "end": 826,
+    "text": " That's a good point."
+  },
+  {
+    "start": 826,
+    "end": 831,
+    "text": " No, we haven't become that quite ingenious as to how to reuse dead skin."
+  },
+  {
+    "start": 831,
+    "end": 836,
+    "text": " One thing I really found interesting was what you described."
+  },
+  {
+    "start": 836,
+    "end": 842,
+    "text": " So you captured a cargo vehicle when you're up there, not what captured, you know, it was scheduled to come in."
+  },
+  {
+    "start": 842,
+    "end": 845,
+    "text": " It's not like you were just doing space piracy or whatever."
+  },
+  {
+    "start": 845,
+    "end": 854,
+    "text": " But the method by which you gauge how close it is, because you're using a robotic arm, aren't you, to hint to it at exactly the right moment."
+  },
+  {
+    "start": 854,
+    "end": 858,
+    "text": " And obviously it's rolling, you're rolling, there's lots of pitch and you're."
+  },
+  {
+    "start": 858,
+    "end": 861,
+    "text": " The method is so it's antiquated."
+  },
+  {
+    "start": 861,
+    "end": 863,
+    "text": " It is. It's unbelievable."
+  },
+  {
+    "start": 863,
+    "end": 867,
+    "text": " And, you know, when I was first told, this is how you do it, I couldn't quite believe it."
+  },
+  {
+    "start": 867,
+    "end": 870,
+    "text": " I thought, hang on a second, you know, where's the laser rangefinder?"
+  },
+  {
+    "start": 870,
+    "end": 872,
+    "text": " Where's the image tracker?"
+  },
+  {
+    "start": 872,
+    "end": 880,
+    "text": " You know, we are coming from a background flying all these sophisticated aircraft with these tracking systems and lock on systems and guidance systems."
+  },
+  {
+    "start": 880,
+    "end": 891,
+    "text": " No, you've got two old hand controllers and what your crewmates can do is print off some sheets of paper with pictures of how big the cargo vehicle looks at different ranges."
+  },
+  {
+    "start": 891,
+    "end": 896,
+    "text": " So when he sees it this big is loads, it's five meters, then four meters, then three meters."
+  },
+  {
+    "start": 896,
+    "end": 900,
+    "text": " I thought they're having a joke, but that is that is how we do it."
+  },
+  {
+    "start": 900,
+    "end": 909,
+    "text": " And you just have to drive in this robotic arm from the cupola window looking at some old screens and just hoping it all goes to plan."
+  },
+  {
+    "start": 909,
+    "end": 917,
+    "text": " It's by far and above it's the highest pressure moment for any astronaut is capturing a cargo vehicle, more so than the space without a doubt."
+  },
+  {
+    "start": 917,
+    "end": 920,
+    "text": " And if you miss it, is there a sort of second chance?"
+  },
+  {
+    "start": 920,
+    "end": 923,
+    "text": " Is that it? They're stuck in space now forever?"
+  },
+  {
+    "start": 923,
+    "end": 925,
+    "text": " It depends how badly you screw up really."
+  },
+  {
+    "start": 925,
+    "end": 930,
+    "text": " If you if you just miss it, you can have a second chance if you haven't knocked it."
+  },
+  {
+    "start": 930,
+    "end": 938,
+    "text": " But if you knock it and it, you know, you can cause some damage or even cause it to go off tumbling into space, then that could be really bad."
+  },
+  {
+    "start": 938,
+    "end": 941,
+    "text": " So, yeah, the pressure is definitely on there."
+  },
+  {
+    "start": 941,
+    "end": 948,
+    "text": " So in the way that you train underwater for the spacewalk, do you also go to sort of amusement parks and play that claw game?"
+  },
+  {
+    "start": 948,
+    "end": 951,
+    "text": " We have to catch a soft toy."
+  },
+  {
+    "start": 951,
+    "end": 953,
+    "text": " I've never won at that claw game."
+  },
+  {
+    "start": 953,
+    "end": 957,
+    "text": " It's the most depressing thing in the world."
+  },
+  {
+    "start": 957,
+    "end": 961,
+    "text": " Years of training, years of academy training wasted."
+  },
+  {
+    "start": 967,
+    "end": 971,
+    "text": " OK, it is time for fact number two, and that is Anna."
+  },
+  {
+    "start": 971,
+    "end": 979,
+    "text": " My fact this week is that visitors to the Sarawak Cave in Borneo don't report feeling claustrophobic, they report feeling agriphobic."
+  },
+  {
+    "start": 979,
+    "end": 983,
+    "text": " Riddle me that."
+  },
+  {
+    "start": 983,
+    "end": 985,
+    "text": " What is going on?"
+  },
+  {
+    "start": 985,
+    "end": 987,
+    "text": " Is it huge?"
+  },
+  {
+    "start": 987,
+    "end": 990,
+    "text": " It's big. It's the biggest cave chamber in the world."
+  },
+  {
+    "start": 990,
+    "end": 1001,
+    "text": " So this is inside a cave system called the Good Luck Cave, and it would fit and it took me a long time to do this calculation because it's a while since I worked out volumes."
+  },
+  {
+    "start": 1001,
+    "end": 1005,
+    "text": " But it would fit roughly 10 Wembley stadiums inside it."
+  },
+  {
+    "start": 1005,
+    "end": 1011,
+    "text": " I think based on Google Maps measuring of the Wembley Stadium, which is large, very tall, very wide, very long."
+  },
+  {
+    "start": 1011,
+    "end": 1018,
+    "text": " It was discovered in 1981 and when the first people went in, they didn't know they were in a big cave at all."
+  },
+  {
+    "start": 1018,
+    "end": 1026,
+    "text": " They thought they were in a little tunnel and so they were just feeling their way along the sides and they followed the wall for ages and it was sort of bending round."
+  },
+  {
+    "start": 1026,
+    "end": 1031,
+    "text": " And when they'd almost come back, done full circle, they were like, \"Hang on, is this just empty in the middle?"
+  },
+  {
+    "start": 1031,
+    "end": 1036,
+    "text": " Are we in a giant stadium?\" And they walked through the middle of it and realised that they were."
+  },
+  {
+    "start": 1036,
+    "end": 1043,
+    "text": " Wow, that must have been incredible. I can imagine that feeling of agriphobia actually get to the middle of that stadium and switch the lights off."
+  },
+  {
+    "start": 1043,
+    "end": 1047,
+    "text": " I mean, you'd think you were just floating in space. It would just be incredible."
+  },
+  {
+    "start": 1047,
+    "end": 1048,
+    "text": " Yeah, it sounds incredible."
+  },
+  {
+    "start": 1048,
+    "end": 1060,
+    "text": " The other thing, having done some caving as well, the fear of getting lost because, of course, caving is all about following known features and finding your way back in the middle of that thing."
+  },
+  {
+    "start": 1060,
+    "end": 1063,
+    "text": " How do you work out which way you're going to go?"
+  },
+  {
+    "start": 1063,
+    "end": 1075,
+    "text": " I wondered that. Yeah, just wandering around it forever because you kind of forget when you see pictures of caves that obviously very well photographed and you do forget that you are in pitch darkness basically all the time on you except for a tiny light in front of your face."
+  },
+  {
+    "start": 1075,
+    "end": 1076,
+    "text": " Yeah."
+  },
+  {
+    "start": 1076,
+    "end": 1084,
+    "text": " But why is there no, why is no one's set up some sort of breadcrumbs system whereby you can follow, you know, luminous breadcrumbs or glow sticks?"
+  },
+  {
+    "start": 1084,
+    "end": 1086,
+    "text": " Hansel and Gretel."
+  },
+  {
+    "start": 1086,
+    "end": 1087,
+    "text": " Yeah, what's going on?"
+  },
+  {
+    "start": 1087,
+    "end": 1090,
+    "text": " I'm sure there are directions, aren't there?"
+  },
+  {
+    "start": 1090,
+    "end": 1091,
+    "text": " Maybe."
+  },
+  {
+    "start": 1091,
+    "end": 1092,
+    "text": " Directions."
+  },
+  {
+    "start": 1092,
+    "end": 1094,
+    "text": " You've got a compass. Do you take a compass there?"
+  },
+  {
+    "start": 1094,
+    "end": 1105,
+    "text": " Yeah, if the rocks aren't, you know, if there's not too much metal content, iron content in the rocks, I guess you could try a compass or just have a little bit of string."
+  },
+  {
+    "start": 1105,
+    "end": 1108,
+    "text": " Use the cave diver method."
+  },
+  {
+    "start": 1108,
+    "end": 1109,
+    "text": " Yes."
+  },
+  {
+    "start": 1109,
+    "end": 1118,
+    "text": " We mentioned the Sondun cave in Vietnam ages ago as an example of another extremely big cave, but I didn't, I think we said that it has clouds that form in it."
+  },
+  {
+    "start": 1118,
+    "end": 1121,
+    "text": " That's how tall it is, but I didn't know this."
+  },
+  {
+    "start": 1121,
+    "end": 1124,
+    "text": " It's got a jungle in it."
+  },
+  {
+    "start": 1124,
+    "end": 1129,
+    "text": " It's got proper sort of, you know, virgin jungle, 600 feet below the surface of the earth."
+  },
+  {
+    "start": 1129,
+    "end": 1136,
+    "text": " And it's also this jungle I read is home to the only underground monkeys on the planet."
+  },
+  {
+    "start": 1136,
+    "end": 1137,
+    "text": " Cool."
+  },
+  {
+    "start": 1137,
+    "end": 1141,
+    "text": " The only monkeys in the world that live their lives underground, which I've really hope is true."
+  },
+  {
+    "start": 1141,
+    "end": 1142,
+    "text": " Well, where have you read?"
+  },
+  {
+    "start": 1142,
+    "end": 1144,
+    "text": " I mean, I read it in a reliable source."
+  },
+  {
+    "start": 1144,
+    "end": 1150,
+    "text": " Well, it's supposed to be professional researchers and sources, Andy."
+  },
+  {
+    "start": 1150,
+    "end": 1151,
+    "text": " I hope it's true as well."
+  },
+  {
+    "start": 1151,
+    "end": 1152,
+    "text": " You've just said it."
+  },
+  {
+    "start": 1152,
+    "end": 1153,
+    "text": " Yeah."
+  },
+  {
+    "start": 1153,
+    "end": 1154,
+    "text": " That is unbelievably cool."
+  },
+  {
+    "start": 1154,
+    "end": 1155,
+    "text": " That is cool."
+  },
+  {
+    "start": 1155,
+    "end": 1157,
+    "text": " I guess they've evolved to suit their habitat."
+  },
+  {
+    "start": 1157,
+    "end": 1163,
+    "text": " So I wonder what, you know, how different they are to, you know, other monkeys in the region that are outside the cave."
+  },
+  {
+    "start": 1163,
+    "end": 1168,
+    "text": " It feels like they're a really good backup for all life forms on earth."
+  },
+  {
+    "start": 1168,
+    "end": 1173,
+    "text": " And then if we all, if we all go to the some accident nuclear or something, at least those monkeys will probably be fine."
+  },
+  {
+    "start": 1173,
+    "end": 1174,
+    "text": " Yes."
+  },
+  {
+    "start": 1174,
+    "end": 1175,
+    "text": " Yes."
+  },
+  {
+    "start": 1175,
+    "end": 1179,
+    "text": " But it's got a big gaping hole at the top, right?"
+  },
+  {
+    "start": 1179,
+    "end": 1183,
+    "text": " As in it's not underground monkeys."
+  },
+  {
+    "start": 1183,
+    "end": 1184,
+    "text": " They're just subterranean."
+  },
+  {
+    "start": 1184,
+    "end": 1185,
+    "text": " There has to be some light."
+  },
+  {
+    "start": 1185,
+    "end": 1186,
+    "text": " Yeah."
+  },
+  {
+    "start": 1186,
+    "end": 1189,
+    "text": " For the trees to, for the jungle to survive."
+  },
+  {
+    "start": 1189,
+    "end": 1190,
+    "text": " Yeah."
+  },
+  {
+    "start": 1190,
+    "end": 1191,
+    "text": " Nice."
+  },
+  {
+    "start": 1191,
+    "end": 1195,
+    "text": " You do often get actually in these massive caves, birds, you get little swiftlets."
+  },
+  {
+    "start": 1195,
+    "end": 1199,
+    "text": " So this is in the biggest cave by volume, which is actually in China."
+  },
+  {
+    "start": 1199,
+    "end": 1202,
+    "text": " So the other one is the biggest cave by area."
+  },
+  {
+    "start": 1202,
+    "end": 1207,
+    "text": " And the swiftlets are the birds out of which you make bird nest soup in China."
+  },
+  {
+    "start": 1207,
+    "end": 1215,
+    "text": " And so that's why a lot of people go caving in there to collect that, although I think they've commercialized bird nest soup and they've just started farming them these days."
+  },
+  {
+    "start": 1215,
+    "end": 1217,
+    "text": " But it sounds really sweet."
+  },
+  {
+    "start": 1217,
+    "end": 1224,
+    "text": " I was reading about someone who went to sort of stay in that cave for a couple of months and said that you lie down on the ground and the swiftlets will just land on your"
+  },
+  {
+    "start": 1224,
+    "end": 1226,
+    "text": " chest and let themselves be petted."
+  },
+  {
+    "start": 1226,
+    "end": 1227,
+    "text": " Wow."
+  },
+  {
+    "start": 1227,
+    "end": 1228,
+    "text": " That's really sweet."
+  },
+  {
+    "start": 1228,
+    "end": 1229,
+    "text": " It is."
+  },
+  {
+    "start": 1229,
+    "end": 1230,
+    "text": " That's great."
+  },
+  {
+    "start": 1230,
+    "end": 1232,
+    "text": " And they make the nest out of saliva, don't they?"
+  },
+  {
+    "start": 1232,
+    "end": 1235,
+    "text": " It's all saliva birds nest soup, basically, I think."
+  },
+  {
+    "start": 1235,
+    "end": 1239,
+    "text": " It's strands of the whole bird nest is this white, these white threads."
+  },
+  {
+    "start": 1239,
+    "end": 1242,
+    "text": " Oh, I thought those twigs held together with saliva."
+  },
+  {
+    "start": 1242,
+    "end": 1246,
+    "text": " I think it's pretty much all saliva glands with a little bit of paraphernalia to cushion it."
+  },
+  {
+    "start": 1246,
+    "end": 1249,
+    "text": " You've never been tempted to try some, though."
+  },
+  {
+    "start": 1249,
+    "end": 1252,
+    "text": " It's not the best."
+  },
+  {
+    "start": 1252,
+    "end": 1256,
+    "text": " It's quite a high price to pay for something apparently tasteless."
+  },
+  {
+    "start": 1256,
+    "end": 1260,
+    "text": " If you're trapped down there and hungry, I think I'd give it a go, definitely."
+  },
+  {
+    "start": 1260,
+    "end": 1262,
+    "text": " You definitely would, actually."
+  },
+  {
+    "start": 1262,
+    "end": 1263,
+    "text": " You're right."
+  },
+  {
+    "start": 1263,
+    "end": 1266,
+    "text": " Just let the birds land on you, build their nest on you, and then..."
+  },
+  {
+    "start": 1266,
+    "end": 1267,
+    "text": " Feeding it."
+  },
+  {
+    "start": 1267,
+    "end": 1268,
+    "text": " Yeah."
+  },
+  {
+    "start": 1268,
+    "end": 1270,
+    "text": " So frustrating for the bird."
+  },
+  {
+    "start": 1270,
+    "end": 1271,
+    "text": " What's happened to it?"
+  },
+  {
+    "start": 1271,
+    "end": 1273,
+    "text": " I looked away for one second."
+  },
+  {
+    "start": 1273,
+    "end": 1279,
+    "text": " Caves are quite important for training for things like space, actually, aren't they?"
+  },
+  {
+    "start": 1279,
+    "end": 1283,
+    "text": " And training for how humans are going to survive in isolation, I think."
+  },
+  {
+    "start": 1283,
+    "end": 1288,
+    "text": " So quite a lot of people do this weird thing where they experiment on themselves by going deep into caves"
+  },
+  {
+    "start": 1288,
+    "end": 1290,
+    "text": " and staying there for ages."
+  },
+  {
+    "start": 1290,
+    "end": 1293,
+    "text": " And I think the king of that is this amazing guy called Michel Sif,"
+  },
+  {
+    "start": 1293,
+    "end": 1299,
+    "text": " who's this sort of geologist who's basically been bedding down deep in caves for over 50 years"
+  },
+  {
+    "start": 1299,
+    "end": 1301,
+    "text": " for various long amounts of time."
+  },
+  {
+    "start": 1301,
+    "end": 1310,
+    "text": " And the first time he did it, he was 1972, and he spent six months, 440 foot inside a Texas cave, in fact."
+  },
+  {
+    "start": 1310,
+    "end": 1312,
+    "text": " So maybe just avoiding the heat."
+  },
+  {
+    "start": 1312,
+    "end": 1316,
+    "text": " And they learned so many interesting things, but the weirdest thing is the sleep cycle"
+  },
+  {
+    "start": 1316,
+    "end": 1318,
+    "text": " and how our sleep cycle changes."
+  },
+  {
+    "start": 1318,
+    "end": 1323,
+    "text": " So he would fall asleep for sort of 30 hours and think he just had a short nap."
+  },
+  {
+    "start": 1323,
+    "end": 1324,
+    "text": " Whoa."
+  },
+  {
+    "start": 1324,
+    "end": 1327,
+    "text": " And so one day he had lasted 52 hours."
+  },
+  {
+    "start": 1327,
+    "end": 1334,
+    "text": " On his 63rd day inside, as in the 63rd time he'd woken up, 77 days had passed above ground."
+  },
+  {
+    "start": 1334,
+    "end": 1337,
+    "text": " So it seems like our days really lengthen when we're underground."
+  },
+  {
+    "start": 1337,
+    "end": 1339,
+    "text": " But it sounds awful. I don't know why he kept doing it."
+  },
+  {
+    "start": 1339,
+    "end": 1341,
+    "text": " He said he was so lonely he contemplated suicide."
+  },
+  {
+    "start": 1341,
+    "end": 1344,
+    "text": " And this is the first time he's done it like seven times since."
+  },
+  {
+    "start": 1344,
+    "end": 1348,
+    "text": " There's an awful story in his diary where he's just staying alone."
+  },
+  {
+    "start": 1348,
+    "end": 1350,
+    "text": " He writes a diary every night."
+  },
+  {
+    "start": 1350,
+    "end": 1354,
+    "text": " And when he first went down, he killed a bunch of mice who were infesting his little chamber."
+  },
+  {
+    "start": 1354,
+    "end": 1357,
+    "text": " And then after a few weeks he realized he really wanted a friend."
+  },
+  {
+    "start": 1357,
+    "end": 1361,
+    "text": " And he saw a mouse and he thought, oh my God, that's my friend."
+  },
+  {
+    "start": 1361,
+    "end": 1364,
+    "text": " He's going to keep me company through these awful months."
+  },
+  {
+    "start": 1364,
+    "end": 1369,
+    "text": " And he spread some jam on the floor and then put a little pee next to it to lure this mouse in."
+  },
+  {
+    "start": 1369,
+    "end": 1373,
+    "text": " And he slammed a bowl down over it to catch it and he crushed the mouse."
+  },
+  {
+    "start": 1373,
+    "end": 1374,
+    "text": " No."
+  },
+  {
+    "start": 1374,
+    "end": 1379,
+    "text": " It just sounds like surely the worst moment of his life."
+  },
+  {
+    "start": 1379,
+    "end": 1380,
+    "text": " What a shame."
+  },
+  {
+    "start": 1380,
+    "end": 1385,
+    "text": " Because I imagine in his head, this was the Hollywood moment where a man underground"
+  },
+  {
+    "start": 1385,
+    "end": 1389,
+    "text": " with a mouse for a best friend, you know, like, but then he ruined it."
+  },
+  {
+    "start": 1389,
+    "end": 1390,
+    "text": " Totally ruined it."
+  },
+  {
+    "start": 1390,
+    "end": 1391,
+    "text": " Yeah."
+  },
+  {
+    "start": 1391,
+    "end": 1395,
+    "text": " There's actually a woman called Josie Law, who's the woman who spent the most time alone in a cave."
+  },
+  {
+    "start": 1395,
+    "end": 1397,
+    "text": " And she did successfully befriend a white mouse."
+  },
+  {
+    "start": 1397,
+    "end": 1398,
+    "text": " Oh, that's something."
+  },
+  {
+    "start": 1398,
+    "end": 1399,
+    "text": " Yeah, that's something."
+  },
+  {
+    "start": 1399,
+    "end": 1400,
+    "text": " Yeah."
+  },
+  {
+    "start": 1400,
+    "end": 1403,
+    "text": " I read that account of Seifra and his mouse."
+  },
+  {
+    "start": 1403,
+    "end": 1406,
+    "text": " I think he said later on that he didn't remember it."
+  },
+  {
+    "start": 1406,
+    "end": 1410,
+    "text": " Because obviously you forget time when it's all, you know, similar and monotonous."
+  },
+  {
+    "start": 1410,
+    "end": 1411,
+    "text": " Yeah."
+  },
+  {
+    "start": 1411,
+    "end": 1412,
+    "text": " But he did keep a diary."
+  },
+  {
+    "start": 1412,
+    "end": 1414,
+    "text": " So he wrote in the diary, I killed the mouse and it's."
+  },
+  {
+    "start": 1414,
+    "end": 1417,
+    "text": " I'd love to know what he felt when it came out."
+  },
+  {
+    "start": 1417,
+    "end": 1418,
+    "text": " Okay."
+  },
+  {
+    "start": 1418,
+    "end": 1424,
+    "text": " With that kind of sensory overload of being deprived of all those senses for so long."
+  },
+  {
+    "start": 1424,
+    "end": 1425,
+    "text": " Yeah."
+  },
+  {
+    "start": 1425,
+    "end": 1429,
+    "text": " Because I mean, when I came out after just seven days, it was as if somebody had turned contrast"
+  },
+  {
+    "start": 1429,
+    "end": 1430,
+    "text": " up on the telly to full."
+  },
+  {
+    "start": 1430,
+    "end": 1437,
+    "text": " The sky was this brilliant blue and you could smell the moss under the trees and everything"
+  },
+  {
+    "start": 1437,
+    "end": 1438,
+    "text": " was just an overdrive."
+  },
+  {
+    "start": 1438,
+    "end": 1440,
+    "text": " It only lasted for about 30 minutes."
+  },
+  {
+    "start": 1440,
+    "end": 1446,
+    "text": " But it kind of made me realize that we get so used to our limited senses and other animals,"
+  },
+  {
+    "start": 1446,
+    "end": 1449,
+    "text": " you know, have these incredible senses that it would be wonderful."
+  },
+  {
+    "start": 1449,
+    "end": 1455,
+    "text": " I'd love to be able to smell like a dog or a polar bear and just to explore their world"
+  },
+  {
+    "start": 1455,
+    "end": 1461,
+    "text": " and, you know, or have the, you know, the eyesight of owls and be able to see what they see at"
+  },
+  {
+    "start": 1461,
+    "end": 1462,
+    "text": " nighttime."
+  },
+  {
+    "start": 1462,
+    "end": 1464,
+    "text": " So I think you've been underground."
+  },
+  {
+    "start": 1464,
+    "end": 1467,
+    "text": " That was in a Sardinian, a cave complex in Sardinia."
+  },
+  {
+    "start": 1467,
+    "end": 1470,
+    "text": " There's about 15 kilometers of unexplored cave."
+  },
+  {
+    "start": 1470,
+    "end": 1476,
+    "text": " And that was fascinating, Anna, about the time because we were actually deprived of sleep"
+  },
+  {
+    "start": 1476,
+    "end": 1477,
+    "text": " down there."
+  },
+  {
+    "start": 1477,
+    "end": 1478,
+    "text": " That was part of the excite."
+  },
+  {
+    "start": 1478,
+    "end": 1479,
+    "text": " They took our watches away."
+  },
+  {
+    "start": 1479,
+    "end": 1481,
+    "text": " So we had no idea, no concept of time."
+  },
+  {
+    "start": 1481,
+    "end": 1486,
+    "text": " And when you woken up after about two hours and told that we'd had eight hour sleep, so"
+  },
+  {
+    "start": 1486,
+    "end": 1491,
+    "text": " now crack on with your next day's work, which we, Julie, did, feeling a little tired come"
+  },
+  {
+    "start": 1491,
+    "end": 1494,
+    "text": " the third or fourth day thinking, why am I so exhausted?"
+  },
+  {
+    "start": 1494,
+    "end": 1499,
+    "text": " And of course, of course, you're only getting two hours sleep a night without thinking you're"
+  },
+  {
+    "start": 1499,
+    "end": 1500,
+    "text": " getting a good eight hours."
+  },
+  {
+    "start": 1500,
+    "end": 1504,
+    "text": " And then you get told after you wake up on the seventh morning thinking, OK, I'm leaving"
+  },
+  {
+    "start": 1504,
+    "end": 1505,
+    "text": " the cave today."
+  },
+  {
+    "start": 1505,
+    "end": 1507,
+    "text": " No, no, no, no, no."
+  },
+  {
+    "start": 1507,
+    "end": 1510,
+    "text": " You've got another three days to go."
+  },
+  {
+    "start": 1510,
+    "end": 1514,
+    "text": " So that was not allowing us to get into our natural cycles."
+  },
+  {
+    "start": 1514,
+    "end": 1518,
+    "text": " It's fascinating to think the body actually goes the other way in a cave and you actually"
+  },
+  {
+    "start": 1518,
+    "end": 1521,
+    "text": " lengthen your days and lengthen the amount of time you sleep."
+  },
+  {
+    "start": 1521,
+    "end": 1525,
+    "text": " Were you angry when you sort of woke up and they were like, punked you?"
+  },
+  {
+    "start": 1525,
+    "end": 1528,
+    "text": " You're only getting two hours sleep a night."
+  },
+  {
+    "start": 1528,
+    "end": 1530,
+    "text": " Yeah, but that was the whole point."
+  },
+  {
+    "start": 1530,
+    "end": 1532,
+    "text": " They were trying to make us angry through the whole exercise."
+  },
+  {
+    "start": 1532,
+    "end": 1537,
+    "text": " It was all about trying to push you to, you know, so that there'd be conflict between you"
+  },
+  {
+    "start": 1537,
+    "end": 1538,
+    "text": " as a team."
+  },
+  {
+    "start": 1538,
+    "end": 1544,
+    "text": " And you had to be a substitute to learn how to deal with the pressure of being cold, wet,"
+  },
+  {
+    "start": 1544,
+    "end": 1545,
+    "text": " tired and hungry."
+  },
+  {
+    "start": 1545,
+    "end": 1550,
+    "text": " And if they could instigate a little bit of conflict amongst you as a team, of course,"
+  },
+  {
+    "start": 1550,
+    "end": 1553,
+    "text": " then you're able to explore those psychological aspects as well."
+  },
+  {
+    "start": 1553,
+    "end": 1558,
+    "text": " I mean, it was all really beneficial training for the space station."
+  },
+  {
+    "start": 1558,
+    "end": 1562,
+    "text": " But I'm not sure I would voluntarily spend six months down the cave."
+  },
+  {
+    "start": 1562,
+    "end": 1564,
+    "text": " I mean, that's an awful long time."
+  },
+  {
+    "start": 1564,
+    "end": 1565,
+    "text": " Was there conflict?"
+  },
+  {
+    "start": 1565,
+    "end": 1570,
+    "text": " There was a dead rival somewhere deep within this cave."
+  },
+  {
+    "start": 1570,
+    "end": 1574,
+    "text": " Someone who never made it."
+  },
+  {
+    "start": 1574,
+    "end": 1579,
+    "text": " Is it like the experience of coming out where you describe this incredible sensory overload"
+  },
+  {
+    "start": 1579,
+    "end": 1582,
+    "text": " and, you know, you can smell the moss and the sunlight has never been brighter."
+  },
+  {
+    "start": 1582,
+    "end": 1585,
+    "text": " Is it like having been to the cinema in the daytime?"
+  },
+  {
+    "start": 1585,
+    "end": 1590,
+    "text": " Because for me, that's, I think, as close as I'll ever get in my life."
+  },
+  {
+    "start": 1590,
+    "end": 1595,
+    "text": " I fell to my knees, I kissed the ear, all of it."
+  },
+  {
+    "start": 1595,
+    "end": 1600,
+    "text": " You know, Brian Blessed says that when he came down from Mount Everest, there was so much"
+  },
+  {
+    "start": 1600,
+    "end": 1605,
+    "text": " sensory overload for him that he could see the molecular makeup of flowers when he looked"
+  },
+  {
+    "start": 1605,
+    "end": 1606,
+    "text": " at them."
+  },
+  {
+    "start": 1606,
+    "end": 1608,
+    "text": " He could see the cells of his hand."
+  },
+  {
+    "start": 1608,
+    "end": 1613,
+    "text": " Yeah, he said his eyes were so heightened in their clarity."
+  },
+  {
+    "start": 1613,
+    "end": 1619,
+    "text": " Don't degrade the quality of truth you're getting from Tim here with your Brian Blessed bullshit."
+  },
+  {
+    "start": 1619,
+    "end": 1620,
+    "text": " Go more back to Andy's side."
+  },
+  {
+    "start": 1620,
+    "end": 1625,
+    "text": " Is it like when you come out of IKEA after shopping for six hours?"
+  },
+  {
+    "start": 1625,
+    "end": 1629,
+    "text": " Keep it observational."
+  },
+  {
+    "start": 1629,
+    "end": 1635,
+    "text": " There's a great word that I love, which is associated with caves, which is Berenschliff."
+  },
+  {
+    "start": 1635,
+    "end": 1642,
+    "text": " And this is a word that means the smooth polished surfaces of a cave wall caused by the fur of"
+  },
+  {
+    "start": 1642,
+    "end": 1644,
+    "text": " a passing cave bear."
+  },
+  {
+    "start": 1644,
+    "end": 1645,
+    "text": " This is the story."
+  },
+  {
+    "start": 1645,
+    "end": 1649,
+    "text": " It's believed that cave bears, they wallow in mud and they do that so they can loosen"
+  },
+  {
+    "start": 1649,
+    "end": 1654,
+    "text": " parasites that are on their fur and the solids that are contained in the mud in connection"
+  },
+  {
+    "start": 1654,
+    "end": 1658,
+    "text": " with the hair that they have as they pass wall, acts like a sandpaper."
+  },
+  {
+    "start": 1658,
+    "end": 1664,
+    "text": " So after time and time and time again, it smooths the rock wall into this polished surface."
+  },
+  {
+    "start": 1664,
+    "end": 1669,
+    "text": " And it's a surface that you can only get polished if done by the specific method of a bear doing"
+  },
+  {
+    "start": 1669,
+    "end": 1670,
+    "text": " it."
+  },
+  {
+    "start": 1670,
+    "end": 1671,
+    "text": " So yeah, Berenschliff."
+  },
+  {
+    "start": 1671,
+    "end": 1672,
+    "text": " Wow."
+  },
+  {
+    "start": 1672,
+    "end": 1673,
+    "text": " Thank you very much."
+  },
+  {
+    "start": 1673,
+    "end": 1676,
+    "text": " And Brian, bless and tell you that."
+  },
+  {
+    "start": 1676,
+    "end": 1677,
+    "text": " Oh, that's so cool."
+  },
+  {
+    "start": 1677,
+    "end": 1678,
+    "text": " That sounds like a German thing."
+  },
+  {
+    "start": 1678,
+    "end": 1683,
+    "text": " It sounds like an obscure German gentleman, Berenschliff."
+  },
+  {
+    "start": 1683,
+    "end": 1688,
+    "text": " Ropping up against a cave."
+  },
+  {
+    "start": 1688,
+    "end": 1692,
+    "text": " There's a cave in Slovenia, which has a train inside it, which is so much fun."
+  },
+  {
+    "start": 1692,
+    "end": 1694,
+    "text": " The postagna cave."
+  },
+  {
+    "start": 1694,
+    "end": 1698,
+    "text": " And it was designed to replace the sedanches, which were the original means of getting around"
+  },
+  {
+    "start": 1698,
+    "end": 1699,
+    "text": " the cave."
+  },
+  {
+    "start": 1699,
+    "end": 1704,
+    "text": " They were for royals, obviously only, but when these caves were discovered, it was the mid-19th"
+  },
+  {
+    "start": 1704,
+    "end": 1705,
+    "text": " century."
+  },
+  {
+    "start": 1705,
+    "end": 1708,
+    "text": " And, you know, millions and millions of years have passed in the cave when they were unknown."
+  },
+  {
+    "start": 1708,
+    "end": 1710,
+    "text": " And so, yeah, they then got sedanches."
+  },
+  {
+    "start": 1710,
+    "end": 1712,
+    "text": " Then they got a train, which was hand pulled."
+  },
+  {
+    "start": 1712,
+    "end": 1716,
+    "text": " So Victorian tourists would visit and just be pulled along by laborers."
+  },
+  {
+    "start": 1716,
+    "end": 1721,
+    "text": " And then eventually, because it's so horizontal in the cave, they've built a little mini Disneyland"
+  },
+  {
+    "start": 1721,
+    "end": 1722,
+    "text": " inside it."
+  },
+  {
+    "start": 1722,
+    "end": 1725,
+    "text": " Oh, caving was a different experience, wasn't it?"
+  },
+  {
+    "start": 1725,
+    "end": 1730,
+    "text": " To having read some of the quite hardcore experiences of cave as today, getting carried down in a"
+  },
+  {
+    "start": 1730,
+    "end": 1732,
+    "text": " sedan chair did not feature anywhere."
+  },
+  {
+    "start": 1732,
+    "end": 1734,
+    "text": " I'd be up for it if it did."
+  },
+  {
+    "start": 1734,
+    "end": 1736,
+    "text": " It does sound quite dangerous."
+  },
+  {
+    "start": 1736,
+    "end": 1740,
+    "text": " Andy Evis, I think, is sort of this absolute legend."
+  },
+  {
+    "start": 1740,
+    "end": 1743,
+    "text": " He's the great spelunker of our age."
+  },
+  {
+    "start": 1743,
+    "end": 1747,
+    "text": " And he was the first person to explore this good luck cave, actually."
+  },
+  {
+    "start": 1747,
+    "end": 1750,
+    "text": " And he just such mad stuff happened."
+  },
+  {
+    "start": 1750,
+    "end": 1754,
+    "text": " Like at one point there was a huge flood and they got trapped deep inside a cave."
+  },
+  {
+    "start": 1754,
+    "end": 1759,
+    "text": " And one of the people on their team had to do this extremely long free dive, which they call a self rescue."
+  },
+  {
+    "start": 1759,
+    "end": 1764,
+    "text": " Where, you know, you just have to swim down under the flood and swim and swim and hope that you get out."
+  },
+  {
+    "start": 1764,
+    "end": 1770,
+    "text": " And I think a photographer split his thigh open and they had to trek overnight through the rainforest."
+  },
+  {
+    "start": 1770,
+    "end": 1777,
+    "text": " When the doctor arrived to fix his leg, a tree fell through the roof of their camp just and landed just next to him."
+  },
+  {
+    "start": 1777,
+    "end": 1779,
+    "text": " They all got fever from rat poison, I think."
+  },
+  {
+    "start": 1779,
+    "end": 1785,
+    "text": " Was that a thing Tim, they warn you about? Apparently everyone's feet get eaten away by gross bacteria."
+  },
+  {
+    "start": 1785,
+    "end": 1788,
+    "text": " Man, your feet have taken a beating, Tim."
+  },
+  {
+    "start": 1788,
+    "end": 1790,
+    "text": " Between space and caves."
+  },
+  {
+    "start": 1790,
+    "end": 1792,
+    "text": " Yeah, that's why the skin falls off."
+  },
+  {
+    "start": 1792,
+    "end": 1795,
+    "text": " There's nothing to do with the pedicure you get from space."
+  },
+  {
+    "start": 1795,
+    "end": 1797,
+    "text": " It's the rat poison."
+  },
+  {
+    "start": 1797,
+    "end": 1803,
+    "text": " Yeah, we thankfully didn't come across any bears or rats on our caving expedition."
+  },
+  {
+    "start": 1803,
+    "end": 1804,
+    "text": " In the wrong caves."
+  },
+  {
+    "start": 1804,
+    "end": 1805,
+    "text": " Absolutely."
+  },
+  {
+    "start": 1805,
+    "end": 1810,
+    "text": " You did have that, didn't you, where you went through somewhere on an early caving adventure."
+  },
+  {
+    "start": 1810,
+    "end": 1816,
+    "text": " You went through a narrow tunnel and then you read the directions later on."
+  },
+  {
+    "start": 1816,
+    "end": 1821,
+    "text": " This was back in the highly irresponsible days of my 20s when we were just..."
+  },
+  {
+    "start": 1821,
+    "end": 1825,
+    "text": " We were actually rock climbing and abseiling a lot and kayaking at the weekends in Wales."
+  },
+  {
+    "start": 1825,
+    "end": 1831,
+    "text": " And we saw a couple of people just pop out the side of the rock face and got speaking to them."
+  },
+  {
+    "start": 1831,
+    "end": 1834,
+    "text": " They said, \"This area is riddled with caves.\""
+  },
+  {
+    "start": 1834,
+    "end": 1837,
+    "text": " And so we thought, \"That's it. Next weekend we'll do some caving then.\""
+  },
+  {
+    "start": 1837,
+    "end": 1842,
+    "text": " And literally kind of had a couple of maglites each and a Kit Kat."
+  },
+  {
+    "start": 1842,
+    "end": 1848,
+    "text": " And on off we went into this cave complex with a rough sketch of what it was."
+  },
+  {
+    "start": 1848,
+    "end": 1852,
+    "text": " And literally a photocopied couple of pages out the guidebook."
+  },
+  {
+    "start": 1852,
+    "end": 1859,
+    "text": " And it wasn't until we were about two hours into the cave having gone through these very, very narrow presses"
+  },
+  {
+    "start": 1859,
+    "end": 1863,
+    "text": " that Dave, my friend, read the second page of the guide and said,"
+  },
+  {
+    "start": 1863,
+    "end": 1867,
+    "text": " \"If there was a noticeable flow of water through this thing called the pebble flow,"
+  },
+  {
+    "start": 1867,
+    "end": 1871,
+    "text": " you should abandon the cave immediately because it's prone to flooding."
+  },
+  {
+    "start": 1871,
+    "end": 1873,
+    "text": " And it had been pouring with rain outside.\""
+  },
+  {
+    "start": 1873,
+    "end": 1877,
+    "text": " And the pebble crawl was about 45 minutes back from where we'd come"
+  },
+  {
+    "start": 1877,
+    "end": 1881,
+    "text": " and the water had been up to our elbows as we went through this thing."
+  },
+  {
+    "start": 1881,
+    "end": 1888,
+    "text": " So we suddenly realised we needed to get out of this thing in a hurry"
+  },
+  {
+    "start": 1888,
+    "end": 1894,
+    "text": " and by the time we got back to the pebble crawl, we had about three inches of where we could breathe"
+  },
+  {
+    "start": 1894,
+    "end": 1897,
+    "text": " along this 20-foot kind of tunnel."
+  },
+  {
+    "start": 1897,
+    "end": 1900,
+    "text": " So we were going through there with our chins tilted upwards"
+  },
+  {
+    "start": 1900,
+    "end": 1903,
+    "text": " and we were so close to being trapped down there."
+  },
+  {
+    "start": 1903,
+    "end": 1907,
+    "text": " Were you still sort of holding the paper of the photocopy bits of the guidebook"
+  },
+  {
+    "start": 1907,
+    "end": 1909,
+    "text": " just above the water level?"
+  },
+  {
+    "start": 1909,
+    "end": 1911,
+    "text": " We'd given up on it."
+  },
+  {
+    "start": 1911,
+    "end": 1913,
+    "text": " I don't think we ever got that bit of paper back again."
+  },
+  {
+    "start": 1913,
+    "end": 1918,
+    "text": " But we realised quite how irresponsible we'd been after that"
+  },
+  {
+    "start": 1918,
+    "end": 1921,
+    "text": " and we treated that environment with a bit more care and respect"
+  },
+  {
+    "start": 1921,
+    "end": 1924,
+    "text": " and came back the following weekend a bit better prepared."
+  },
+  {
+    "start": 1924,
+    "end": 1926,
+    "text": " But that was a good lesson."
+  },
+  {
+    "start": 1926,
+    "end": 1927,
+    "text": " That was a good lesson in that."
+  },
+  {
+    "start": 1927,
+    "end": 1930,
+    "text": " It's reading page two of the instructions. That seems to be a big thing."
+  },
+  {
+    "start": 1930,
+    "end": 1932,
+    "text": " It is kind of like when you get to the end of cooking something"
+  },
+  {
+    "start": 1932,
+    "end": 1937,
+    "text": " and it says, \"Serve with the pre-prepared grilled vegetables from page 72.\""
+  },
+  {
+    "start": 1941,
+    "end": 1944,
+    "text": " Yeah, or leave to set in the fridge for 48 hours."
+  },
+  {
+    "start": 1944,
+    "end": 1946,
+    "text": " We'll guess we're arriving in 10 minutes."
+  },
+  {
+    "start": 1946,
+    "end": 1949,
+    "text": " Basically, there's nothing that exciting that you can tell us, Tim,"
+  },
+  {
+    "start": 1949,
+    "end": 1952,
+    "text": " that we can't compare it to something much more boring."
+  },
+  {
+    "start": 1952,
+    "end": 1963,
+    "text": " OK, it is time for fact number three and that is Andy."
+  },
+  {
+    "start": 1963,
+    "end": 1967,
+    "text": " My fact is that Chicago has an alcoholic spirit which tastes so bad"
+  },
+  {
+    "start": 1967,
+    "end": 1973,
+    "text": " that its own founder used to boast that only one in 49 men liked it."
+  },
+  {
+    "start": 1973,
+    "end": 1977,
+    "text": " Who was the one?"
+  },
+  {
+    "start": 1977,
+    "end": 1982,
+    "text": " So this is a thing called Jepsen's Millort,"
+  },
+  {
+    "start": 1982,
+    "end": 1985,
+    "text": " a founder by a man called Carl Jepsen."
+  },
+  {
+    "start": 1985,
+    "end": 1989,
+    "text": " And it's a kind of spiced liqueur which is flavoured with wormwood."
+  },
+  {
+    "start": 1989,
+    "end": 1992,
+    "text": " And yeah, mostly known in Chicago,"
+  },
+  {
+    "start": 1992,
+    "end": 1994,
+    "text": " but it's drunk in a few other places."
+  },
+  {
+    "start": 1994,
+    "end": 1998,
+    "text": " But I've tried it and it is really, really an acquired taste."
+  },
+  {
+    "start": 1998,
+    "end": 2001,
+    "text": " And the back of the bottle had this label which said,"
+  },
+  {
+    "start": 2001,
+    "end": 2005,
+    "text": " \"Most first-time drinkers of Jepsen Millort reject our liquor.\""
+  },
+  {
+    "start": 2005,
+    "end": 2009,
+    "text": " During almost 60 years of American distribution,"
+  },
+  {
+    "start": 2009,
+    "end": 2012,
+    "text": " we found only one out of 49 men would drink it."
+  },
+  {
+    "start": 2012,
+    "end": 2016,
+    "text": " It is rugged and unrelenting, even brutal to the palate."
+  },
+  {
+    "start": 2016,
+    "end": 2021,
+    "text": " The whole label is just trying to say, \"You're not going to like this.\""
+  },
+  {
+    "start": 2021,
+    "end": 2024,
+    "text": " Wow, I'm amazed that you've tried it, Andy."
+  },
+  {
+    "start": 2024,
+    "end": 2028,
+    "text": " You're a man who has an extra squeeze of lime in his soda water on a wild night out."
+  },
+  {
+    "start": 2028,
+    "end": 2031,
+    "text": " I've actually tried it as well."
+  },
+  {
+    "start": 2031,
+    "end": 2037,
+    "text": " I tried it on the last night of our US tour for fish when we were in Washington DC."
+  },
+  {
+    "start": 2037,
+    "end": 2041,
+    "text": " I couldn't remember if we both had it on the same night."
+  },
+  {
+    "start": 2041,
+    "end": 2043,
+    "text": " It was the worst thing."
+  },
+  {
+    "start": 2043,
+    "end": 2045,
+    "text": " You tried it together with each other."
+  },
+  {
+    "start": 2045,
+    "end": 2047,
+    "text": " This is how pungent and painful it was."
+  },
+  {
+    "start": 2047,
+    "end": 2050,
+    "text": " I don't remember Andy being there when I tried it."
+  },
+  {
+    "start": 2050,
+    "end": 2052,
+    "text": " He clearly doesn't remember being there."
+  },
+  {
+    "start": 2052,
+    "end": 2054,
+    "text": " It's horrific."
+  },
+  {
+    "start": 2054,
+    "end": 2056,
+    "text": " It's utterly disgusting."
+  },
+  {
+    "start": 2056,
+    "end": 2058,
+    "text": " I am one of the 48, and I agree with Tim."
+  },
+  {
+    "start": 2058,
+    "end": 2060,
+    "text": " I want to know who this one guy is."
+  },
+  {
+    "start": 2060,
+    "end": 2062,
+    "text": " Actually, I know who this one guy is."
+  },
+  {
+    "start": 2062,
+    "end": 2066,
+    "text": " One guy that we know who drinks it is a comedian who's been on our show, John Hodgman,"
+  },
+  {
+    "start": 2066,
+    "end": 2069,
+    "text": " who has it as his preferred drink."
+  },
+  {
+    "start": 2069,
+    "end": 2074,
+    "text": " Really, because I read a quote from John saying it tastes like pencil shavings and heartbreaks."
+  },
+  {
+    "start": 2074,
+    "end": 2077,
+    "text": " That is a bizarre preference for him to have."
+  },
+  {
+    "start": 2077,
+    "end": 2079,
+    "text": " But he just loves that."
+  },
+  {
+    "start": 2079,
+    "end": 2081,
+    "text": " It's not such a wonderful description."
+  },
+  {
+    "start": 2081,
+    "end": 2085,
+    "text": " It's like pencil shavings and heartbreaks."
+  },
+  {
+    "start": 2085,
+    "end": 2087,
+    "text": " How would you describe it?"
+  },
+  {
+    "start": 2087,
+    "end": 2089,
+    "text": " I would just say it's overwhelmingly better."
+  },
+  {
+    "start": 2089,
+    "end": 2092,
+    "text": " But they've asked more eloquent people than me."
+  },
+  {
+    "start": 2092,
+    "end": 2094,
+    "text": " So they don't have many employees."
+  },
+  {
+    "start": 2094,
+    "end": 2096,
+    "text": " It's quite a small firm, Jepsen's Mallort."
+  },
+  {
+    "start": 2096,
+    "end": 2099,
+    "text": " But in the past, they've asked the public for slogans."
+  },
+  {
+    "start": 2099,
+    "end": 2102,
+    "text": " And the slogans that have come back have been things like,"
+  },
+  {
+    "start": 2102,
+    "end": 2106,
+    "text": " \"Mallort, what soap, what is its mouth out with?\""
+  },
+  {
+    "start": 2106,
+    "end": 2109,
+    "text": " \"Mallort, kick your mouth in the balls.\""
+  },
+  {
+    "start": 2109,
+    "end": 2114,
+    "text": " And my favourite, \"Mallort, these pants aren't going to shit themselves.\""
+  },
+  {
+    "start": 2114,
+    "end": 2124,
+    "text": " Stunning. We've got to employ that person for our PR."
+  },
+  {
+    "start": 2124,
+    "end": 2127,
+    "text": " So it's got Wyrmwood in it, right?"
+  },
+  {
+    "start": 2127,
+    "end": 2129,
+    "text": " Similar to Absence."
+  },
+  {
+    "start": 2129,
+    "end": 2131,
+    "text": " And which has a bad reputation, Wyrmwood."
+  },
+  {
+    "start": 2131,
+    "end": 2133,
+    "text": " And maybe unjustifiably."
+  },
+  {
+    "start": 2133,
+    "end": 2136,
+    "text": " Do you remember when we were all younger and everyone claimed"
+  },
+  {
+    "start": 2136,
+    "end": 2139,
+    "text": " that Absence was illegal, was the first claim."
+  },
+  {
+    "start": 2139,
+    "end": 2141,
+    "text": " And the second claim was that the Wyrmwood in it,"
+  },
+  {
+    "start": 2141,
+    "end": 2144,
+    "text": " that's now illegal, makes you hallucinate and sends you mad."
+  },
+  {
+    "start": 2144,
+    "end": 2146,
+    "text": " Did everyone have something for these kids?"
+  },
+  {
+    "start": 2146,
+    "end": 2147,
+    "text": " Dimly, yeah."
+  },
+  {
+    "start": 2147,
+    "end": 2148,
+    "text": " But none of it's true?"
+  },
+  {
+    "start": 2148,
+    "end": 2149,
+    "text": " Not true."
+  },
+  {
+    "start": 2149,
+    "end": 2151,
+    "text": " No, although it was banned for years,"
+  },
+  {
+    "start": 2151,
+    "end": 2152,
+    "text": " because people thought it was true."
+  },
+  {
+    "start": 2152,
+    "end": 2154,
+    "text": " So it was Absence was what, you know,"
+  },
+  {
+    "start": 2154,
+    "end": 2157,
+    "text": " all your van goffs and all your crazy artists"
+  },
+  {
+    "start": 2157,
+    "end": 2159,
+    "text": " and writers of the 19th century were drinking,"
+  },
+  {
+    "start": 2159,
+    "end": 2160,
+    "text": " especially in France."
+  },
+  {
+    "start": 2160,
+    "end": 2163,
+    "text": " And it was thought to be responsible for the degeneration"
+  },
+  {
+    "start": 2163,
+    "end": 2165,
+    "text": " of French society, I think."
+  },
+  {
+    "start": 2165,
+    "end": 2169,
+    "text": " And it was, it was banned in France."
+  },
+  {
+    "start": 2169,
+    "end": 2171,
+    "text": " And the justification was that Wyrmwood sends you mad"
+  },
+  {
+    "start": 2171,
+    "end": 2173,
+    "text": " and gives you hallucinations."
+  },
+  {
+    "start": 2173,
+    "end": 2176,
+    "text": " And it was only in the 1970s that we showed that"
+  },
+  {
+    "start": 2176,
+    "end": 2180,
+    "text": " it's in such tiny amounts that it can't do you any harm in it."
+  },
+  {
+    "start": 2180,
+    "end": 2183,
+    "text": " And it's just the fact that Absence is faking strong"
+  },
+  {
+    "start": 2183,
+    "end": 2185,
+    "text": " and full of alcohol."
+  },
+  {
+    "start": 2185,
+    "end": 2188,
+    "text": " But the US didn't lift the ban until 2007."
+  },
+  {
+    "start": 2188,
+    "end": 2190,
+    "text": " Wow."
+  },
+  {
+    "start": 2190,
+    "end": 2192,
+    "text": " Do you know what the Russian for Wyrmwood is?"
+  },
+  {
+    "start": 2192,
+    "end": 2194,
+    "text": " It's Chernobyl."
+  },
+  {
+    "start": 2194,
+    "end": 2195,
+    "text": " What?"
+  },
+  {
+    "start": 2195,
+    "end": 2196,
+    "text": " Really?"
+  },
+  {
+    "start": 2196,
+    "end": 2199,
+    "text": " So Chernobyl was named after the Wyrmwood fields."
+  },
+  {
+    "start": 2199,
+    "end": 2201,
+    "text": " The town and the nuclear plant were named"
+  },
+  {
+    "start": 2201,
+    "end": 2202,
+    "text": " after the Wyrmwood fields around it."
+  },
+  {
+    "start": 2202,
+    "end": 2204,
+    "text": " That is the Russian word for Wyrmwood."
+  },
+  {
+    "start": 2204,
+    "end": 2205,
+    "text": " Yeah."
+  },
+  {
+    "start": 2205,
+    "end": 2208,
+    "text": " Oh, so if you were to do this podcast in Russia"
+  },
+  {
+    "start": 2208,
+    "end": 2210,
+    "text": " and say Wyrmwood doesn't do you any harm,"
+  },
+  {
+    "start": 2210,
+    "end": 2212,
+    "text": " then that would not be true."
+  },
+  {
+    "start": 2212,
+    "end": 2216,
+    "text": " And you'd have to be very careful with the translation."
+  },
+  {
+    "start": 2216,
+    "end": 2219,
+    "text": " Tim, you were a cocktail mixer once, right?"
+  },
+  {
+    "start": 2219,
+    "end": 2223,
+    "text": " A long time ago, I wish I'd come across Malore then"
+  },
+  {
+    "start": 2223,
+    "end": 2225,
+    "text": " because I think it would have been hilarious"
+  },
+  {
+    "start": 2225,
+    "end": 2228,
+    "text": " to have served that to the customers."
+  },
+  {
+    "start": 2228,
+    "end": 2230,
+    "text": " What's the word?"
+  },
+  {
+    "start": 2230,
+    "end": 2233,
+    "text": " What's Tom Cruise in Thompson?"
+  },
+  {
+    "start": 2233,
+    "end": 2234,
+    "text": " A mixologist."
+  },
+  {
+    "start": 2234,
+    "end": 2237,
+    "text": " Well, you know, they call that flair tending."
+  },
+  {
+    "start": 2237,
+    "end": 2238,
+    "text": " Flair tending."
+  },
+  {
+    "start": 2238,
+    "end": 2239,
+    "text": " Flair tending."
+  },
+  {
+    "start": 2239,
+    "end": 2240,
+    "text": " Yes."
+  },
+  {
+    "start": 2240,
+    "end": 2242,
+    "text": " Yeah, it was an ordinary pub."
+  },
+  {
+    "start": 2242,
+    "end": 2244,
+    "text": " It was called the Nagshead in Jesusus."
+  },
+  {
+    "start": 2244,
+    "end": 2245,
+    "text": " It was an ordinary pub."
+  },
+  {
+    "start": 2245,
+    "end": 2248,
+    "text": " But come Thursday through Saturday, it was just heaving."
+  },
+  {
+    "start": 2248,
+    "end": 2252,
+    "text": " It was a great sort of young person's place to go and drink."
+  },
+  {
+    "start": 2252,
+    "end": 2255,
+    "text": " And we turned it into a cocktail bar for those nights."
+  },
+  {
+    "start": 2255,
+    "end": 2259,
+    "text": " And Olivier Barbadette was at the French head barman."
+  },
+  {
+    "start": 2259,
+    "end": 2261,
+    "text": " And it was all, you know, we're proper there."
+  },
+  {
+    "start": 2261,
+    "end": 2263,
+    "text": " Black tie, waist, black waistcoats kind of thing."
+  },
+  {
+    "start": 2263,
+    "end": 2265,
+    "text": " So quite a sort of French influence to it."
+  },
+  {
+    "start": 2265,
+    "end": 2267,
+    "text": " And it was all flair tending."
+  },
+  {
+    "start": 2267,
+    "end": 2269,
+    "text": " And we would be spinning bottles."
+  },
+  {
+    "start": 2269,
+    "end": 2272,
+    "text": " We'd be throwing glasses, catching ice cubes down there."
+  },
+  {
+    "start": 2272,
+    "end": 2273,
+    "text": " I was just brilliant."
+  },
+  {
+    "start": 2273,
+    "end": 2275,
+    "text": " So much fun."
+  },
+  {
+    "start": 2275,
+    "end": 2278,
+    "text": " We'd practice for hours outside with empty bottles,"
+  },
+  {
+    "start": 2278,
+    "end": 2281,
+    "text": " smashing them all over the place and having to sweep up"
+  },
+  {
+    "start": 2281,
+    "end": 2284,
+    "text": " all the debris before opening hours."
+  },
+  {
+    "start": 2284,
+    "end": 2286,
+    "text": " And then Ben Off would go."
+  },
+  {
+    "start": 2286,
+    "end": 2288,
+    "text": " It was a huge amount of fun."
+  },
+  {
+    "start": 2288,
+    "end": 2290,
+    "text": " Did it ever come in handy?"
+  },
+  {
+    "start": 2290,
+    "end": 2293,
+    "text": " Just did that training ever sort of later on the ISS?"
+  },
+  {
+    "start": 2293,
+    "end": 2295,
+    "text": " Was there a moment where--"
+  },
+  {
+    "start": 2295,
+    "end": 2296,
+    "text": " I'm trying to think aware."
+  },
+  {
+    "start": 2296,
+    "end": 2299,
+    "text": " I'd love to say yes, but I honestly can't think."
+  },
+  {
+    "start": 2299,
+    "end": 2301,
+    "text": " But no, in terms of coming in useful,"
+  },
+  {
+    "start": 2301,
+    "end": 2304,
+    "text": " it's got absolutely no use whatsoever."
+  },
+  {
+    "start": 2304,
+    "end": 2307,
+    "text": " I guess if you throw a bottle of water over your head on the ISS,"
+  },
+  {
+    "start": 2307,
+    "end": 2309,
+    "text": " it just keeps going in the opposite direction."
+  },
+  {
+    "start": 2309,
+    "end": 2311,
+    "text": " Exactly."
+  },
+  {
+    "start": 2311,
+    "end": 2314,
+    "text": " Hey, do you know who the first ever flair tender was?"
+  },
+  {
+    "start": 2314,
+    "end": 2317,
+    "text": " As far as we know, a sort of documented case of it."
+  },
+  {
+    "start": 2317,
+    "end": 2320,
+    "text": " Is it a famous person who we will have heard of?"
+  },
+  {
+    "start": 2320,
+    "end": 2321,
+    "text": " Absolutely not."
+  },
+  {
+    "start": 2321,
+    "end": 2322,
+    "text": " No."
+  },
+  {
+    "start": 2322,
+    "end": 2323,
+    "text": " Right, OK."
+  },
+  {
+    "start": 2323,
+    "end": 2325,
+    "text": " This will be a tougher guess."
+  },
+  {
+    "start": 2325,
+    "end": 2326,
+    "text": " All right."
+  },
+  {
+    "start": 2326,
+    "end": 2328,
+    "text": " So start the alphabet A, Aaron."
+  },
+  {
+    "start": 2328,
+    "end": 2330,
+    "text": " Let's call it Aaron."
+  },
+  {
+    "start": 2330,
+    "end": 2333,
+    "text": " No, head down towards J, and you'll be more there."
+  },
+  {
+    "start": 2333,
+    "end": 2336,
+    "text": " Jerry, the Professor Thomas."
+  },
+  {
+    "start": 2336,
+    "end": 2338,
+    "text": " And he was an American bartender,"
+  },
+  {
+    "start": 2338,
+    "end": 2342,
+    "text": " and he wrote what was the first ever book of fancy drinks, basically."
+  },
+  {
+    "start": 2342,
+    "end": 2345,
+    "text": " It was called The Bartender's Guide,"
+  },
+  {
+    "start": 2345,
+    "end": 2348,
+    "text": " a complete cyclopedia of plain and fancy drinks."
+  },
+  {
+    "start": 2348,
+    "end": 2351,
+    "text": " And he used to go around to different bars all over America."
+  },
+  {
+    "start": 2351,
+    "end": 2356,
+    "text": " And he was the first to do tricks with spinning of the metal canisters"
+  },
+  {
+    "start": 2356,
+    "end": 2358,
+    "text": " that you would mix a drink in,"
+  },
+  {
+    "start": 2358,
+    "end": 2362,
+    "text": " and he would set them alight and he would transfer the flame into another glass."
+  },
+  {
+    "start": 2362,
+    "end": 2366,
+    "text": " But yeah, so we know who kind of the first person was."
+  },
+  {
+    "start": 2366,
+    "end": 2370,
+    "text": " And one of the things that he put into his cocktail book was the Tom Collins,"
+  },
+  {
+    "start": 2370,
+    "end": 2375,
+    "text": " which I didn't realize was there's this hoax in America called the Tom Collins hoax."
+  },
+  {
+    "start": 2375,
+    "end": 2376,
+    "text": " Have you guys heard of that?"
+  },
+  {
+    "start": 2376,
+    "end": 2379,
+    "text": " It used to be a game where you used to say in a bar,"
+  },
+  {
+    "start": 2379,
+    "end": 2381,
+    "text": " if the four of us were in the bar, I'd say, \"Andy,"
+  },
+  {
+    "start": 2381,
+    "end": 2384,
+    "text": " have you heard that guy, Tom Collins, who's been talking smack about you?\""
+  },
+  {
+    "start": 2384,
+    "end": 2386,
+    "text": " And you'd say like, \"What?\""
+  },
+  {
+    "start": 2386,
+    "end": 2387,
+    "text": " Tom Collins said this thing."
+  },
+  {
+    "start": 2387,
+    "end": 2390,
+    "text": " And the idea was it was a hoax where you convinced someone"
+  },
+  {
+    "start": 2390,
+    "end": 2394,
+    "text": " that Tom Collins was talking about you and spreading rumors, making you furious."
+  },
+  {
+    "start": 2394,
+    "end": 2397,
+    "text": " And that's what pranks used to be back in the day."
+  },
+  {
+    "start": 2397,
+    "end": 2399,
+    "text": " So it's like stripy paint, isn't it?"
+  },
+  {
+    "start": 2399,
+    "end": 2402,
+    "text": " Sending someone off a stripy paint is kind of like that."
+  },
+  {
+    "start": 2402,
+    "end": 2403,
+    "text": " Is that a thing?"
+  },
+  {
+    "start": 2403,
+    "end": 2405,
+    "text": " Yeah, because it should be obvious."
+  },
+  {
+    "start": 2405,
+    "end": 2407,
+    "text": " No, it's not a thing, Dan."
+  },
+  {
+    "start": 2407,
+    "end": 2410,
+    "text": " Dan's getting up to get some."
+  },
+  {
+    "start": 2410,
+    "end": 2412,
+    "text": " Hang on. You get stripy toothpaste."
+  },
+  {
+    "start": 2412,
+    "end": 2414,
+    "text": " Why don't we get stripy paint?"
+  },
+  {
+    "start": 2414,
+    "end": 2416,
+    "text": " Do you know that it's actually an unarmed trouble argument?"
+  },
+  {
+    "start": 2416,
+    "end": 2420,
+    "text": " That's a really, really good point."
+  },
+  {
+    "start": 2420,
+    "end": 2422,
+    "text": " He's outwitting them."
+  },
+  {
+    "start": 2422,
+    "end": 2425,
+    "text": " What do you guys think is the most popular spirit,"
+  },
+  {
+    "start": 2425,
+    "end": 2429,
+    "text": " or the most commonly drunk spirit on Earth, or in the universe?"
+  },
+  {
+    "start": 2429,
+    "end": 2433,
+    "text": " I love that we have to specify \"on\" or \"on\" tips on the podcast."
+  },
+  {
+    "start": 2433,
+    "end": 2435,
+    "text": " Yeah, we do."
+  },
+  {
+    "start": 2435,
+    "end": 2437,
+    "text": " I know which one it is on Earth."
+  },
+  {
+    "start": 2437,
+    "end": 2441,
+    "text": " On Earth, I don't know, gin is fairly popular."
+  },
+  {
+    "start": 2441,
+    "end": 2443,
+    "text": " I'll say whiskey."
+  },
+  {
+    "start": 2443,
+    "end": 2445,
+    "text": " Lots of big whiskey fans out there."
+  },
+  {
+    "start": 2445,
+    "end": 2447,
+    "text": " Nice. I mean, you're not going to get it."
+  },
+  {
+    "start": 2447,
+    "end": 2449,
+    "text": " Don't think. I'll tell them I get it."
+  },
+  {
+    "start": 2449,
+    "end": 2452,
+    "text": " It's Baizhou, which is a Chinese liquor,"
+  },
+  {
+    "start": 2452,
+    "end": 2454,
+    "text": " which basically is not drunk outside of China,"
+  },
+  {
+    "start": 2454,
+    "end": 2456,
+    "text": " but is the most commonly drunk spirit in the world."
+  },
+  {
+    "start": 2456,
+    "end": 2458,
+    "text": " Baizhou, are you saying?"
+  },
+  {
+    "start": 2458,
+    "end": 2462,
+    "text": " Baizhou is an alcohol, and Baibing white, the word."
+  },
+  {
+    "start": 2462,
+    "end": 2464,
+    "text": " Yes, but it's a spirit."
+  },
+  {
+    "start": 2464,
+    "end": 2466,
+    "text": " But it's a spirit, yeah."
+  },
+  {
+    "start": 2466,
+    "end": 2468,
+    "text": " Yeah, it's distilled. Have you tried it?"
+  },
+  {
+    "start": 2468,
+    "end": 2470,
+    "text": " I think I have, yeah."
+  },
+  {
+    "start": 2470,
+    "end": 2472,
+    "text": " It sounds familiar enough that I feel like I must have."
+  },
+  {
+    "start": 2472,
+    "end": 2475,
+    "text": " It sounds, I texted my friend yesterday who lives in China"
+  },
+  {
+    "start": 2475,
+    "end": 2478,
+    "text": " and says it resembles paint stripper, but it's very popular."
+  },
+  {
+    "start": 2478,
+    "end": 2483,
+    "text": " But it sells more than whiskey, vodka and rum combined worldwide."
+  },
+  {
+    "start": 2483,
+    "end": 2487,
+    "text": " And it sounds great. There's a museum in China."
+  },
+  {
+    "start": 2487,
+    "end": 2489,
+    "text": " How do you pronounce it, Dan?"
+  },
+  {
+    "start": 2489,
+    "end": 2491,
+    "text": " China."
+  },
+  {
+    "start": 2491,
+    "end": 2493,
+    "text": " Fuck you."
+  },
+  {
+    "start": 2493,
+    "end": 2495,
+    "text": " Baizhou."
+  },
+  {
+    "start": 2495,
+    "end": 2497,
+    "text": " Baizhou."
+  },
+  {
+    "start": 2497,
+    "end": 2499,
+    "text": " There's a Baizhou Museum in China,"
+  },
+  {
+    "start": 2499,
+    "end": 2502,
+    "text": " which shows a reenactment video of when it was,"
+  },
+  {
+    "start": 2502,
+    "end": 2505,
+    "text": " when it went global, which I think it's question,"
+  },
+  {
+    "start": 2505,
+    "end": 2507,
+    "text": " question mark over whether it's gone global."
+  },
+  {
+    "start": 2507,
+    "end": 2511,
+    "text": " But apparently it went to the World Fair in San Francisco in 1915,"
+  },
+  {
+    "start": 2511,
+    "end": 2513,
+    "text": " and all the Americans were sneering at it,"
+  },
+  {
+    "start": 2513,
+    "end": 2516,
+    "text": " and this weird sort of earthenware jar filled with this Chinese drink."
+  },
+  {
+    "start": 2516,
+    "end": 2518,
+    "text": " And it made the Chinese delegates so nervous"
+  },
+  {
+    "start": 2518,
+    "end": 2520,
+    "text": " it was smashed all over the floor."
+  },
+  {
+    "start": 2520,
+    "end": 2523,
+    "text": " And then the scent of it was so seduced everyone"
+  },
+  {
+    "start": 2523,
+    "end": 2525,
+    "text": " that it won the prize that year,"
+  },
+  {
+    "start": 2525,
+    "end": 2528,
+    "text": " and has gone down in history as everyone's favorite spirit."
+  },
+  {
+    "start": 2528,
+    "end": 2530,
+    "text": " Of course."
+  },
+  {
+    "start": 2530,
+    "end": 2532,
+    "text": " Yeah, we've all got our bottles right here, haven't we?"
+  },
+  {
+    "start": 2532,
+    "end": 2534,
+    "text": " Yeah."
+  },
+  {
+    "start": 2534,
+    "end": 2536,
+    "text": " Have you heard of the six o'clock swell?"
+  },
+  {
+    "start": 2536,
+    "end": 2538,
+    "text": " This is a thing. Heard of it? No?"
+  },
+  {
+    "start": 2538,
+    "end": 2540,
+    "text": " No."
+  },
+  {
+    "start": 2540,
+    "end": 2542,
+    "text": " So this was a thing that happened in Australia, okay."
+  },
+  {
+    "start": 2542,
+    "end": 2546,
+    "text": " And I think Australians are sort of a kind of big drinking country."
+  },
+  {
+    "start": 2546,
+    "end": 2548,
+    "text": " You know, they like their drink."
+  },
+  {
+    "start": 2548,
+    "end": 2552,
+    "text": " There was a rule in place, a law in Australia and New Zealand,"
+  },
+  {
+    "start": 2552,
+    "end": 2555,
+    "text": " that you had to finish your drinks."
+  },
+  {
+    "start": 2555,
+    "end": 2559,
+    "text": " Last orders was 6 p.m. pretty much every day, as far as I could tell."
+  },
+  {
+    "start": 2559,
+    "end": 2562,
+    "text": " And this lasted from 1960, when there were restrictions because of the war,"
+  },
+  {
+    "start": 2562,
+    "end": 2564,
+    "text": " until 1967."
+  },
+  {
+    "start": 2564,
+    "end": 2568,
+    "text": " All license establishments had to stop serving at 6 p.m. incredibly early."
+  },
+  {
+    "start": 2568,
+    "end": 2573,
+    "text": " So the six o'clock swell was the final hour of legal drinking in Australia,"
+  },
+  {
+    "start": 2573,
+    "end": 2575,
+    "text": " between 5 and 6 p.m."
+  },
+  {
+    "start": 2575,
+    "end": 2578,
+    "text": " Everyone would leave their work and immediately go to the bar"
+  },
+  {
+    "start": 2578,
+    "end": 2581,
+    "text": " and start getting drinks in hand over fist,"
+  },
+  {
+    "start": 2581,
+    "end": 2583,
+    "text": " drinking as much as they could until 6 p.m."
+  },
+  {
+    "start": 2583,
+    "end": 2586,
+    "text": " And then bang, the bell rang and that was the cut off."
+  },
+  {
+    "start": 2586,
+    "end": 2588,
+    "text": " Yeah. And it was mayhem."
+  },
+  {
+    "start": 2588,
+    "end": 2590,
+    "text": " What year was that?"
+  },
+  {
+    "start": 2590,
+    "end": 2592,
+    "text": " It ended in different regions of different years in Australia,"
+  },
+  {
+    "start": 2592,
+    "end": 2596,
+    "text": " but the final one to scrap it, scrapped it in 1967."
+  },
+  {
+    "start": 2596,
+    "end": 2598,
+    "text": " Yeah. It's quite late."
+  },
+  {
+    "start": 2598,
+    "end": 2600,
+    "text": " Your parents might remember it then."
+  },
+  {
+    "start": 2600,
+    "end": 2602,
+    "text": " Well, actually, so my parents would have been,"
+  },
+  {
+    "start": 2602,
+    "end": 2604,
+    "text": " my dad would have been 10 roughly at that time."
+  },
+  {
+    "start": 2604,
+    "end": 2606,
+    "text": " So he remembers it very well."
+  },
+  {
+    "start": 2606,
+    "end": 2609,
+    "text": " But no, by weirdly, the last time I was in Australia,"
+  },
+  {
+    "start": 2609,
+    "end": 2611,
+    "text": " I was talking to my grandfather, who was there in that period."
+  },
+  {
+    "start": 2611,
+    "end": 2614,
+    "text": " He's Austrian, but he'd moved over at that point."
+  },
+  {
+    "start": 2614,
+    "end": 2616,
+    "text": " And he was telling me exactly about this thing."
+  },
+  {
+    "start": 2616,
+    "end": 2619,
+    "text": " And the problem was is everyone after 6 p.m. had to drive home"
+  },
+  {
+    "start": 2619,
+    "end": 2621,
+    "text": " and they all did it drunk as hell."
+  },
+  {
+    "start": 2621,
+    "end": 2625,
+    "text": " And because you'd had to drink so quick that you felt really ill."
+  },
+  {
+    "start": 2625,
+    "end": 2628,
+    "text": " And he said many, many days would he stop at a traffic light."
+  },
+  {
+    "start": 2628,
+    "end": 2630,
+    "text": " It was just people, including him,"
+  },
+  {
+    "start": 2630,
+    "end": 2631,
+    "text": " rolling down their window,"
+  },
+  {
+    "start": 2631,
+    "end": 2634,
+    "text": " vomiting out the window at a traffic light"
+  },
+  {
+    "start": 2634,
+    "end": 2636,
+    "text": " and then continuing on to drive home."
+  },
+  {
+    "start": 2636,
+    "end": 2640,
+    "text": " So yeah, it was definitely, definitely a thing."
+  },
+  {
+    "start": 2640,
+    "end": 2644,
+    "text": " We are going to have to move on in a sec."
+  },
+  {
+    "start": 2644,
+    "end": 2645,
+    "text": " I've just got one more drink."
+  },
+  {
+    "start": 2645,
+    "end": 2646,
+    "text": " Yeah."
+  },
+  {
+    "start": 2646,
+    "end": 2648,
+    "text": " Have you heard of whiz key?"
+  },
+  {
+    "start": 2648,
+    "end": 2649,
+    "text": " No."
+  },
+  {
+    "start": 2649,
+    "end": 2650,
+    "text": " Okay."
+  },
+  {
+    "start": 2650,
+    "end": 2653,
+    "text": " This is a drink that was invented by a British entrepreneur in 2010."
+  },
+  {
+    "start": 2653,
+    "end": 2654,
+    "text": " He's called James Gilpin."
+  },
+  {
+    "start": 2654,
+    "end": 2661,
+    "text": " And whiz key is whiskey made using the sugar rich urine"
+  },
+  {
+    "start": 2661,
+    "end": 2663,
+    "text": " of diabetes patients."
+  },
+  {
+    "start": 2663,
+    "end": 2668,
+    "text": " So if you have diabetes,"
+  },
+  {
+    "start": 2668,
+    "end": 2671,
+    "text": " you have a lot of sugar in your urine sometimes."
+  },
+  {
+    "start": 2671,
+    "end": 2674,
+    "text": " And Gilpin has diabetes himself,"
+  },
+  {
+    "start": 2674,
+    "end": 2678,
+    "text": " but he contacted various elderly volunteers,"
+  },
+  {
+    "start": 2678,
+    "end": 2680,
+    "text": " including his own grandmother,"
+  },
+  {
+    "start": 2680,
+    "end": 2684,
+    "text": " and extracted the sugar molecules from the urine,"
+  },
+  {
+    "start": 2684,
+    "end": 2687,
+    "text": " added them to the mash stock to accelerate the fermentation."
+  },
+  {
+    "start": 2687,
+    "end": 2689,
+    "text": " He didn't sell it."
+  },
+  {
+    "start": 2689,
+    "end": 2694,
+    "text": " He said this was illegal."
+  },
+  {
+    "start": 2694,
+    "end": 2696,
+    "text": " But he said he was trying to make, you know,"
+  },
+  {
+    "start": 2696,
+    "end": 2700,
+    "text": " be thought provoking about how we use the resources we have."
+  },
+  {
+    "start": 2700,
+    "end": 2702,
+    "text": " And actually, as obviously on the ISS,"
+  },
+  {
+    "start": 2702,
+    "end": 2705,
+    "text": " everything is recycled to become clean drinking water."
+  },
+  {
+    "start": 2705,
+    "end": 2708,
+    "text": " I thought it's not as silly an idea,"
+  },
+  {
+    "start": 2708,
+    "end": 2711,
+    "text": " but maybe it might be as well."
+  },
+  {
+    "start": 2711,
+    "end": 2712,
+    "text": " Yeah."
+  },
+  {
+    "start": 2712,
+    "end": 2715,
+    "text": " We certainly don't go making whiskey up there,"
+  },
+  {
+    "start": 2715,
+    "end": 2719,
+    "text": " but you are reminded every day, of course,"
+  },
+  {
+    "start": 2719,
+    "end": 2721,
+    "text": " that you're drinking your crewmates urine"
+  },
+  {
+    "start": 2721,
+    "end": 2724,
+    "text": " that's been recycled in about 24 hours."
+  },
+  {
+    "start": 2724,
+    "end": 2727,
+    "text": " It's a fast turnaround as well."
+  },
+  {
+    "start": 2727,
+    "end": 2729,
+    "text": " It's a fast turnaround."
+  },
+  {
+    "start": 2729,
+    "end": 2732,
+    "text": " Does your mind ever play with you, Tim,"
+  },
+  {
+    "start": 2732,
+    "end": 2735,
+    "text": " where you think you can taste something that's not there?"
+  },
+  {
+    "start": 2735,
+    "end": 2737,
+    "text": " Is this definitely filtered?"
+  },
+  {
+    "start": 2737,
+    "end": 2740,
+    "text": " I just never drank pure water."
+  },
+  {
+    "start": 2740,
+    "end": 2742,
+    "text": " I always mixed it with something."
+  },
+  {
+    "start": 2742,
+    "end": 2744,
+    "text": " It was either a tea, cup of tea,"
+  },
+  {
+    "start": 2744,
+    "end": 2746,
+    "text": " or it was a fruit juice or something,"
+  },
+  {
+    "start": 2746,
+    "end": 2748,
+    "text": " because to drink the pure water"
+  },
+  {
+    "start": 2748,
+    "end": 2751,
+    "text": " was a little bit too close to the bone."
+  },
+  {
+    "start": 2751,
+    "end": 2753,
+    "text": " This is why you didn't need to go to the lawn"
+  },
+  {
+    "start": 2753,
+    "end": 2755,
+    "text": " your entire space because you were refusing to drink"
+  },
+  {
+    "start": 2755,
+    "end": 2758,
+    "text": " for your six months in a day."
+  },
+  {
+    "start": 2758,
+    "end": 2760,
+    "text": " You need more diabetics up there."
+  },
+  {
+    "start": 2760,
+    "end": 2761,
+    "text": " Yeah, clearly."
+  },
+  {
+    "start": 2761,
+    "end": 2763,
+    "text": " Get diabetics to sweeten the urine."
+  },
+  {
+    "start": 2763,
+    "end": 2766,
+    "text": " Don't even need to put sugar in the tea."
+  },
+  {
+    "start": 2766,
+    "end": 2775,
+    "text": " OK, it is time for our final fact of the show,"
+  },
+  {
+    "start": 2775,
+    "end": 2777,
+    "text": " and that is my fact."
+  },
+  {
+    "start": 2777,
+    "end": 2780,
+    "text": " My fact this week is that Land Rover once released a manual,"
+  },
+  {
+    "start": 2780,
+    "end": 2783,
+    "text": " which was edible, so if you got lost in the desert,"
+  },
+  {
+    "start": 2783,
+    "end": 2785,
+    "text": " you could eat it to survive."
+  },
+  {
+    "start": 2785,
+    "end": 2788,
+    "text": " This was 2012."
+  },
+  {
+    "start": 2788,
+    "end": 2789,
+    "text": " They published this."
+  },
+  {
+    "start": 2789,
+    "end": 2791,
+    "text": " They published in Dubai."
+  },
+  {
+    "start": 2791,
+    "end": 2794,
+    "text": " It's called the Land Rover's Edible Survival Guide,"
+  },
+  {
+    "start": 2794,
+    "end": 2797,
+    "text": " and the idea was if you got lost out in the desert,"
+  },
+  {
+    "start": 2797,
+    "end": 2800,
+    "text": " this manual could tell you things like how to build a shelter,"
+  },
+  {
+    "start": 2800,
+    "end": 2802,
+    "text": " how you could signal for help,"
+  },
+  {
+    "start": 2802,
+    "end": 2804,
+    "text": " but then it became more practical as well."
+  },
+  {
+    "start": 2804,
+    "end": 2807,
+    "text": " The metal wiring on the inside could be removed,"
+  },
+  {
+    "start": 2807,
+    "end": 2809,
+    "text": " and you could use it as a cooking skewer."
+  },
+  {
+    "start": 2809,
+    "end": 2811,
+    "text": " It had reflective packaging around it as well,"
+  },
+  {
+    "start": 2811,
+    "end": 2813,
+    "text": " so that you could use that to make signals"
+  },
+  {
+    "start": 2813,
+    "end": 2815,
+    "text": " so that people could see you."
+  },
+  {
+    "start": 2815,
+    "end": 2817,
+    "text": " But the greatest thing of all is that on the front,"
+  },
+  {
+    "start": 2817,
+    "end": 2820,
+    "text": " it says, \"In case of emergency, eat this book.\""
+  },
+  {
+    "start": 2820,
+    "end": 2823,
+    "text": " And if you did eat it, according to the people who made it,"
+  },
+  {
+    "start": 2823,
+    "end": 2825,
+    "text": " the ink and paper, which were both edible,"
+  },
+  {
+    "start": 2825,
+    "end": 2828,
+    "text": " had the nutritional value of a cheeseburger."
+  },
+  {
+    "start": 2828,
+    "end": 2832,
+    "text": " So you were actually getting a good meal out of it, yeah."
+  },
+  {
+    "start": 2832,
+    "end": 2835,
+    "text": " Right. So you need to have read it all first."
+  },
+  {
+    "start": 2835,
+    "end": 2837,
+    "text": " Yeah, you've got to be so careful."
+  },
+  {
+    "start": 2837,
+    "end": 2839,
+    "text": " You think which bits you're not going to need."
+  },
+  {
+    "start": 2839,
+    "end": 2841,
+    "text": " You don't need to know about the air conditioning system."
+  },
+  {
+    "start": 2841,
+    "end": 2844,
+    "text": " That can go. That's a snack."
+  },
+  {
+    "start": 2844,
+    "end": 2845,
+    "text": " Brilliant."
+  },
+  {
+    "start": 2845,
+    "end": 2847,
+    "text": " But such a clever idea."
+  },
+  {
+    "start": 2847,
+    "end": 2849,
+    "text": " I love survival guides,"
+  },
+  {
+    "start": 2849,
+    "end": 2852,
+    "text": " and an edible one is the most practical of them all."
+  },
+  {
+    "start": 2852,
+    "end": 2853,
+    "text": " It is."
+  },
+  {
+    "start": 2853,
+    "end": 2854,
+    "text": " If you're desperate."
+  },
+  {
+    "start": 2854,
+    "end": 2855,
+    "text": " It is."
+  },
+  {
+    "start": 2855,
+    "end": 2857,
+    "text": " If only you'd had that inside your cave, Tim."
+  },
+  {
+    "start": 2857,
+    "end": 2859,
+    "text": " You could have lasted hours more in there."
+  },
+  {
+    "start": 2859,
+    "end": 2860,
+    "text": " Absolutely."
+  },
+  {
+    "start": 2860,
+    "end": 2861,
+    "text": " I know."
+  },
+  {
+    "start": 2861,
+    "end": 2865,
+    "text": " In the army, we used to get given these survival kits as well."
+  },
+  {
+    "start": 2865,
+    "end": 2867,
+    "text": " And they had tallow candles."
+  },
+  {
+    "start": 2867,
+    "end": 2869,
+    "text": " So it's edible candle wax."
+  },
+  {
+    "start": 2869,
+    "end": 2871,
+    "text": " And it was a similar thing."
+  },
+  {
+    "start": 2871,
+    "end": 2873,
+    "text": " But if push came to shove and you were starving"
+  },
+  {
+    "start": 2873,
+    "end": 2876,
+    "text": " and you decided that warmth and light and heat wasn't essential,"
+  },
+  {
+    "start": 2876,
+    "end": 2882,
+    "text": " you could just start munching your way through this tallow candle instead."
+  },
+  {
+    "start": 2882,
+    "end": 2886,
+    "text": " I tried some, and it was just disgusting."
+  },
+  {
+    "start": 2886,
+    "end": 2889,
+    "text": " I mean, you would just chew on this candle for ages,"
+  },
+  {
+    "start": 2889,
+    "end": 2890,
+    "text": " and it wouldn't."
+  },
+  {
+    "start": 2890,
+    "end": 2892,
+    "text": " I mean, no matter how much saliva you could generate,"
+  },
+  {
+    "start": 2892,
+    "end": 2895,
+    "text": " it wouldn't go into a nice, moist part."
+  },
+  {
+    "start": 2895,
+    "end": 2896,
+    "text": " It was just horrible."
+  },
+  {
+    "start": 2896,
+    "end": 2897,
+    "text": " Wow."
+  },
+  {
+    "start": 2897,
+    "end": 2898,
+    "text": " Is it just kind of fat tallow?"
+  },
+  {
+    "start": 2898,
+    "end": 2899,
+    "text": " It is, isn't it?"
+  },
+  {
+    "start": 2899,
+    "end": 2900,
+    "text": " Is it animal fat?"
+  },
+  {
+    "start": 2900,
+    "end": 2901,
+    "text": " Yeah, I think it is."
+  },
+  {
+    "start": 2901,
+    "end": 2902,
+    "text": " Yes, yeah."
+  },
+  {
+    "start": 2902,
+    "end": 2903,
+    "text": " But they did..."
+  },
+  {
+    "start": 2903,
+    "end": 2905,
+    "text": " What was the wick made of in the candle?"
+  },
+  {
+    "start": 2905,
+    "end": 2906,
+    "text": " Was that licorice or something?"
+  },
+  {
+    "start": 2906,
+    "end": 2907,
+    "text": " So you could..."
+  },
+  {
+    "start": 2907,
+    "end": 2911,
+    "text": " No, I think that was the one that you weren't supposed to eat."
+  },
+  {
+    "start": 2911,
+    "end": 2912,
+    "text": " It's got to be practical as well."
+  },
+  {
+    "start": 2912,
+    "end": 2915,
+    "text": " Yeah, you've got to light it."
+  },
+  {
+    "start": 2915,
+    "end": 2918,
+    "text": " Also, apparently, sometimes it's a bad idea to eat"
+  },
+  {
+    "start": 2918,
+    "end": 2920,
+    "text": " if you're lost in the desert,"
+  },
+  {
+    "start": 2920,
+    "end": 2924,
+    "text": " because the process of digesting food actually uses up a lot of water."
+  },
+  {
+    "start": 2924,
+    "end": 2926,
+    "text": " So if you're really lost,"
+  },
+  {
+    "start": 2926,
+    "end": 2930,
+    "text": " the idea is that maybe you should limit yourself to drinking."
+  },
+  {
+    "start": 2930,
+    "end": 2931,
+    "text": " And also, I didn't realise that."
+  },
+  {
+    "start": 2931,
+    "end": 2932,
+    "text": " One page a day."
+  },
+  {
+    "start": 2932,
+    "end": 2933,
+    "text": " A page a day."
+  },
+  {
+    "start": 2933,
+    "end": 2934,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 2934,
+    "end": 2937,
+    "text": " A line of text every few hours."
+  },
+  {
+    "start": 2937,
+    "end": 2940,
+    "text": " But also, you shouldn't drink in small sips,"
+  },
+  {
+    "start": 2940,
+    "end": 2941,
+    "text": " which I think is quite useful,"
+  },
+  {
+    "start": 2941,
+    "end": 2943,
+    "text": " because if I were stranded in the desert,"
+  },
+  {
+    "start": 2943,
+    "end": 2944,
+    "text": " I think I would be really conservative"
+  },
+  {
+    "start": 2944,
+    "end": 2946,
+    "text": " and I only have a few sips of water at a time."
+  },
+  {
+    "start": 2946,
+    "end": 2949,
+    "text": " But apparently, that means that your body doesn't..."
+  },
+  {
+    "start": 2949,
+    "end": 2950,
+    "text": " It doesn't launch the body's process"
+  },
+  {
+    "start": 2950,
+    "end": 2952,
+    "text": " that causes it to store the water."
+  },
+  {
+    "start": 2952,
+    "end": 2954,
+    "text": " So it just loses it straight away."
+  },
+  {
+    "start": 2954,
+    "end": 2957,
+    "text": " So the recommendation is that if you're lost in the desert,"
+  },
+  {
+    "start": 2957,
+    "end": 2961,
+    "text": " you drink water maybe three to four times a day in a big batch,"
+  },
+  {
+    "start": 2961,
+    "end": 2963,
+    "text": " and that's the way that it'll store it"
+  },
+  {
+    "start": 2963,
+    "end": 2966,
+    "text": " and then, you know, actually be useful."
+  },
+  {
+    "start": 2966,
+    "end": 2967,
+    "text": " Wow."
+  },
+  {
+    "start": 2967,
+    "end": 2968,
+    "text": " Yeah."
+  },
+  {
+    "start": 2968,
+    "end": 2969,
+    "text": " Didn't know that."
+  },
+  {
+    "start": 2969,
+    "end": 2970,
+    "text": " That's very useful."
+  },
+  {
+    "start": 2970,
+    "end": 2971,
+    "text": " They didn't teach us that during survival training."
+  },
+  {
+    "start": 2971,
+    "end": 2972,
+    "text": " There you go."
+  },
+  {
+    "start": 2972,
+    "end": 2973,
+    "text": " There you go, guys."
+  },
+  {
+    "start": 2973,
+    "end": 2975,
+    "text": " We all could have died."
+  },
+  {
+    "start": 2975,
+    "end": 2977,
+    "text": " Saved a lot of lives today."
+  },
+  {
+    "start": 2977,
+    "end": 2981,
+    "text": " Slightly less useful survival tip, possibly,"
+  },
+  {
+    "start": 2981,
+    "end": 2982,
+    "text": " is that you know how..."
+  },
+  {
+    "start": 2982,
+    "end": 2985,
+    "text": " So this fact is about something that's normally non-edible,"
+  },
+  {
+    "start": 2985,
+    "end": 2987,
+    "text": " but that turns out to be edible."
+  },
+  {
+    "start": 2987,
+    "end": 2988,
+    "text": " Here's a fact about something edible"
+  },
+  {
+    "start": 2988,
+    "end": 2990,
+    "text": " that you can use for non-edible purposes,"
+  },
+  {
+    "start": 2990,
+    "end": 2993,
+    "text": " which is that you can use Doritos to build a fire."
+  },
+  {
+    "start": 2993,
+    "end": 2994,
+    "text": " What?"
+  },
+  {
+    "start": 2994,
+    "end": 2998,
+    "text": " Because they're so covered in the sort of cheesy, flammable dust"
+  },
+  {
+    "start": 2998,
+    "end": 3000,
+    "text": " that they go up quite easily."
+  },
+  {
+    "start": 3000,
+    "end": 3002,
+    "text": " It's short-term fire."
+  },
+  {
+    "start": 3002,
+    "end": 3004,
+    "text": " It's fire lighters, rather than..."
+  },
+  {
+    "start": 3004,
+    "end": 3006,
+    "text": " You wouldn't have an entire fire without a Doritos."
+  },
+  {
+    "start": 3006,
+    "end": 3007,
+    "text": " It's kindling, exactly."
+  },
+  {
+    "start": 3007,
+    "end": 3008,
+    "text": " Could you clarify that?"
+  },
+  {
+    "start": 3008,
+    "end": 3010,
+    "text": " Because we're going to get very angry emails from Dubai"
+  },
+  {
+    "start": 3010,
+    "end": 3014,
+    "text": " when my Dorito fire went out in two seconds."
+  },
+  {
+    "start": 3014,
+    "end": 3019,
+    "text": " I mean, a lot of things can set on fire, can't they?"
+  },
+  {
+    "start": 3019,
+    "end": 3020,
+    "text": " Yeah, true."
+  },
+  {
+    "start": 3020,
+    "end": 3021,
+    "text": " But I thought for a second,"
+  },
+  {
+    "start": 3021,
+    "end": 3022,
+    "text": " maybe you could start a fire with Doritos"
+  },
+  {
+    "start": 3022,
+    "end": 3024,
+    "text": " by sort of rubbing one against the other."
+  },
+  {
+    "start": 3024,
+    "end": 3026,
+    "text": " So that is genuinely good that you clarify."
+  },
+  {
+    "start": 3026,
+    "end": 3027,
+    "text": " Sometimes if you open a packet of Doritos,"
+  },
+  {
+    "start": 3027,
+    "end": 3029,
+    "text": " have you noticed that there's nothing but ash"
+  },
+  {
+    "start": 3029,
+    "end": 3031,
+    "text": " in the bottom of it?"
+  },
+  {
+    "start": 3031,
+    "end": 3036,
+    "text": " Do you guys know the US military's Universal Edibility Test?"
+  },
+  {
+    "start": 3036,
+    "end": 3038,
+    "text": " I don't know if the British military has an equivalent, but..."
+  },
+  {
+    "start": 3038,
+    "end": 3039,
+    "text": " No."
+  },
+  {
+    "start": 3039,
+    "end": 3040,
+    "text": " Well, this..."
+  },
+  {
+    "start": 3040,
+    "end": 3041,
+    "text": " Did they ever teach you, Tim,"
+  },
+  {
+    "start": 3041,
+    "end": 3043,
+    "text": " like if you're stranded anywhere,"
+  },
+  {
+    "start": 3043,
+    "end": 3045,
+    "text": " how to identify stuff that's poisonous or not?"
+  },
+  {
+    "start": 3045,
+    "end": 3047,
+    "text": " Well, they told us, you know,"
+  },
+  {
+    "start": 3047,
+    "end": 3049,
+    "text": " put a bit on your lip for 10 minutes,"
+  },
+  {
+    "start": 3049,
+    "end": 3051,
+    "text": " and then if your lip's not tingling and numb,"
+  },
+  {
+    "start": 3051,
+    "end": 3053,
+    "text": " then go under the tongue for 20 minutes,"
+  },
+  {
+    "start": 3053,
+    "end": 3055,
+    "text": " and you do this incremental process."
+  },
+  {
+    "start": 3055,
+    "end": 3057,
+    "text": " And eventually, there's a small quantity,"
+  },
+  {
+    "start": 3057,
+    "end": 3059,
+    "text": " you get stomach ache, and eventually you can work out"
+  },
+  {
+    "start": 3059,
+    "end": 3061,
+    "text": " whether your body can tolerate it or not."
+  },
+  {
+    "start": 3061,
+    "end": 3062,
+    "text": " You bang on."
+  },
+  {
+    "start": 3062,
+    "end": 3063,
+    "text": " They've nicked it off the brits."
+  },
+  {
+    "start": 3063,
+    "end": 3064,
+    "text": " Yeah."
+  },
+  {
+    "start": 3064,
+    "end": 3066,
+    "text": " So you do get taught that."
+  },
+  {
+    "start": 3066,
+    "end": 3067,
+    "text": " It's a very long process, isn't it?"
+  },
+  {
+    "start": 3067,
+    "end": 3068,
+    "text": " If you're starving."
+  },
+  {
+    "start": 3068,
+    "end": 3069,
+    "text": " It's very long, yeah."
+  },
+  {
+    "start": 3069,
+    "end": 3070,
+    "text": " Especially the bit that's, like,"
+  },
+  {
+    "start": 3070,
+    "end": 3073,
+    "text": " swallow a tiny bit, wait for eight hours."
+  },
+  {
+    "start": 3073,
+    "end": 3078,
+    "text": " Eat a page of your manual in between."
+  },
+  {
+    "start": 3078,
+    "end": 3082,
+    "text": " I think the Italian army is the only modern one"
+  },
+  {
+    "start": 3082,
+    "end": 3086,
+    "text": " which gives out alcohol in its standard military rations"
+  },
+  {
+    "start": 3086,
+    "end": 3087,
+    "text": " to its troops."
+  },
+  {
+    "start": 3087,
+    "end": 3090,
+    "text": " The Guardian ran a huge piece about, you know,"
+  },
+  {
+    "start": 3090,
+    "end": 3091,
+    "text": " all sorts of different countries,"
+  },
+  {
+    "start": 3091,
+    "end": 3095,
+    "text": " and the sometimes very stereotypical things they have."
+  },
+  {
+    "start": 3095,
+    "end": 3099,
+    "text": " So the French army, they get dear pâté,"
+  },
+  {
+    "start": 3099,
+    "end": 3101,
+    "text": " cassoulet with duck confit,"
+  },
+  {
+    "start": 3101,
+    "end": 3104,
+    "text": " small caramel pudding, mini baguette."
+  },
+  {
+    "start": 3104,
+    "end": 3107,
+    "text": " They go super French."
+  },
+  {
+    "start": 3107,
+    "end": 3109,
+    "text": " But the Italian army, I think,"
+  },
+  {
+    "start": 3109,
+    "end": 3111,
+    "text": " there's the only one out of the ones they tried,"
+  },
+  {
+    "start": 3111,
+    "end": 3113,
+    "text": " which gives you a shot of alcohol, 40%,"
+  },
+  {
+    "start": 3113,
+    "end": 3115,
+    "text": " just to keep your spirits up, I guess."
+  },
+  {
+    "start": 3115,
+    "end": 3116,
+    "text": " Fantastic."
+  },
+  {
+    "start": 3116,
+    "end": 3117,
+    "text": " I know that the French rations,"
+  },
+  {
+    "start": 3117,
+    "end": 3119,
+    "text": " they used to give out a small,"
+  },
+  {
+    "start": 3119,
+    "end": 3122,
+    "text": " one of those kind of airline bottles of red wine."
+  },
+  {
+    "start": 3122,
+    "end": 3124,
+    "text": " They probably stopped doing that now."
+  },
+  {
+    "start": 3124,
+    "end": 3127,
+    "text": " But that just puts in comparison to British, you know,"
+  },
+  {
+    "start": 3127,
+    "end": 3129,
+    "text": " where we get biscuits A-B."
+  },
+  {
+    "start": 3129,
+    "end": 3132,
+    "text": " I have no idea what the A-B stands for."
+  },
+  {
+    "start": 3132,
+    "end": 3135,
+    "text": " But the rations are just dreadful,"
+  },
+  {
+    "start": 3135,
+    "end": 3137,
+    "text": " designed to bung you up,"
+  },
+  {
+    "start": 3137,
+    "end": 3141,
+    "text": " to stop you having the need to go to the loo"
+  },
+  {
+    "start": 3141,
+    "end": 3143,
+    "text": " so frequently when you're on exercise"
+  },
+  {
+    "start": 3143,
+    "end": 3146,
+    "text": " or digging trenches or things like that."
+  },
+  {
+    "start": 3146,
+    "end": 3150,
+    "text": " Did you get mini-tobasco with your ration packs?"
+  },
+  {
+    "start": 3150,
+    "end": 3151,
+    "text": " The US, yes."
+  },
+  {
+    "start": 3151,
+    "end": 3153,
+    "text": " Yeah, the US ration packs there,"
+  },
+  {
+    "start": 3153,
+    "end": 3155,
+    "text": " MREs, meals ready to eat."
+  },
+  {
+    "start": 3155,
+    "end": 3158,
+    "text": " And they've got these brilliant chemical heaters."
+  },
+  {
+    "start": 3158,
+    "end": 3160,
+    "text": " So, you know, the British rations,"
+  },
+  {
+    "start": 3160,
+    "end": 3163,
+    "text": " we're still on lighting your solid fuel tablets"
+  },
+  {
+    "start": 3163,
+    "end": 3166,
+    "text": " and you have a little stove to warm up the water."
+  },
+  {
+    "start": 3166,
+    "end": 3169,
+    "text": " But no, America, you just rub the chemicals together,"
+  },
+  {
+    "start": 3169,
+    "end": 3172,
+    "text": " break the packages and heats up chemically."
+  },
+  {
+    "start": 3172,
+    "end": 3174,
+    "text": " And it gets really, really hot."
+  },
+  {
+    "start": 3174,
+    "end": 3177,
+    "text": " So, it's a fantastic way of having a meal ready to go."
+  },
+  {
+    "start": 3177,
+    "end": 3180,
+    "text": " And they give you a little tabasco sachet in there,"
+  },
+  {
+    "start": 3180,
+    "end": 3182,
+    "text": " or a small bottle of tabasco."
+  },
+  {
+    "start": 3182,
+    "end": 3183,
+    "text": " That's so sweet."
+  },
+  {
+    "start": 3183,
+    "end": 3184,
+    "text": " What they're not telling you is"
+  },
+  {
+    "start": 3184,
+    "end": 3186,
+    "text": " they're all told to keep a Dorito in their back pocket."
+  },
+  {
+    "start": 3186,
+    "end": 3187,
+    "text": " Yeah."
+  },
+  {
+    "start": 3187,
+    "end": 3189,
+    "text": " That's the key."
+  },
+  {
+    "start": 3189,
+    "end": 3192,
+    "text": " My favourite survival meal that I learned about"
+  },
+  {
+    "start": 3192,
+    "end": 3194,
+    "text": " was one that Shackleton had,"
+  },
+  {
+    "start": 3194,
+    "end": 3197,
+    "text": " which I'd never read about on his Antarctic expedition,"
+  },
+  {
+    "start": 3197,
+    "end": 3200,
+    "text": " the endurance expedition."
+  },
+  {
+    "start": 3200,
+    "end": 3202,
+    "text": " His crew at one point,"
+  },
+  {
+    "start": 3202,
+    "end": 3204,
+    "text": " and this was, like, well into it when they were like,"
+  },
+  {
+    "start": 3204,
+    "end": 3206,
+    "text": " \"We're going to die now. We are stranded and lost.\""
+  },
+  {
+    "start": 3206,
+    "end": 3208,
+    "text": " They were attacked by a leopard seal,"
+  },
+  {
+    "start": 3208,
+    "end": 3211,
+    "text": " which very occasionally do attack humans."
+  },
+  {
+    "start": 3211,
+    "end": 3214,
+    "text": " And, in fact, I think did kill someone a while back."
+  },
+  {
+    "start": 3214,
+    "end": 3216,
+    "text": " So, they were attacked by a leopard seal,"
+  },
+  {
+    "start": 3216,
+    "end": 3218,
+    "text": " and one of the crew managed to shoot it."
+  },
+  {
+    "start": 3218,
+    "end": 3220,
+    "text": " Not only that, when they split it open,"
+  },
+  {
+    "start": 3220,
+    "end": 3222,
+    "text": " its stomach was absolutely packed"
+  },
+  {
+    "start": 3222,
+    "end": 3224,
+    "text": " with completely undigested fish."
+  },
+  {
+    "start": 3224,
+    "end": 3225,
+    "text": " Oh, wow."
+  },
+  {
+    "start": 3225,
+    "end": 3227,
+    "text": " So, they just got a soup case of fish."
+  },
+  {
+    "start": 3227,
+    "end": 3229,
+    "text": " It's like a pinata."
+  },
+  {
+    "start": 3229,
+    "end": 3231,
+    "text": " It's like a pinata."
+  },
+  {
+    "start": 3231,
+    "end": 3233,
+    "text": " Stinking pinata."
+  },
+  {
+    "start": 3233,
+    "end": 3239,
+    "text": " I found there's a classic survival guide book,"
+  },
+  {
+    "start": 3239,
+    "end": 3241,
+    "text": " which is the SAS Survival Guide,"
+  },
+  {
+    "start": 3241,
+    "end": 3245,
+    "text": " and it was written in 1987 by a guy called John Lofty Wiseman."
+  },
+  {
+    "start": 3245,
+    "end": 3247,
+    "text": " And this has sold millions and millions of copies,"
+  },
+  {
+    "start": 3247,
+    "end": 3250,
+    "text": " and he's quite an amazing character,"
+  },
+  {
+    "start": 3250,
+    "end": 3252,
+    "text": " generally, to read into his story."
+  },
+  {
+    "start": 3252,
+    "end": 3255,
+    "text": " He's the guy who helped set up the SAS counter-terrorist team,"
+  },
+  {
+    "start": 3255,
+    "end": 3258,
+    "text": " and they were the ones that went into the Iranian embassy"
+  },
+  {
+    "start": 3258,
+    "end": 3260,
+    "text": " when that big incident happened."
+  },
+  {
+    "start": 3260,
+    "end": 3263,
+    "text": " So, he was part of the people that set that up."
+  },
+  {
+    "start": 3263,
+    "end": 3266,
+    "text": " And he wrote this book, which is just packed"
+  },
+  {
+    "start": 3266,
+    "end": 3268,
+    "text": " with very good, useful advice,"
+  },
+  {
+    "start": 3268,
+    "end": 3270,
+    "text": " but also strays into territories where you think,"
+  },
+  {
+    "start": 3270,
+    "end": 3273,
+    "text": " \"When is this ever going to be a part of my life?\""
+  },
+  {
+    "start": 3273,
+    "end": 3276,
+    "text": " For example, How to Kill an Octopus is a section."
+  },
+  {
+    "start": 3276,
+    "end": 3280,
+    "text": " And he gives you three options of how to kill the octopus,"
+  },
+  {
+    "start": 3280,
+    "end": 3282,
+    "text": " and a couple of them are quite normal,"
+  },
+  {
+    "start": 3282,
+    "end": 3284,
+    "text": " sort of using a knife stab it between the eyes"
+  },
+  {
+    "start": 3284,
+    "end": 3286,
+    "text": " or bang it against the rock."
+  },
+  {
+    "start": 3286,
+    "end": 3289,
+    "text": " But one of the options is to thrust your hand"
+  },
+  {
+    "start": 3289,
+    "end": 3293,
+    "text": " inside of the octopus into its flesh hood"
+  },
+  {
+    "start": 3293,
+    "end": 3296,
+    "text": " and pull by its innards and flip it inside out,"
+  },
+  {
+    "start": 3296,
+    "end": 3299,
+    "text": " like you would like a washing glove, you know,"
+  },
+  {
+    "start": 3299,
+    "end": 3302,
+    "text": " like a marigold, I read in the article,"
+  },
+  {
+    "start": 3302,
+    "end": 3304,
+    "text": " being pulled the other way out."
+  },
+  {
+    "start": 3304,
+    "end": 3308,
+    "text": " That's one of his sort of basic options for you to kill an octopus."
+  },
+  {
+    "start": 3308,
+    "end": 3310,
+    "text": " So, and then it has, you know,"
+  },
+  {
+    "start": 3310,
+    "end": 3313,
+    "text": " lots of like basic stuff about how to lure animals"
+  },
+  {
+    "start": 3313,
+    "end": 3315,
+    "text": " and pray in and get water and so on."
+  },
+  {
+    "start": 3315,
+    "end": 3317,
+    "text": " Yeah, pretty spectacular."
+  },
+  {
+    "start": 3317,
+    "end": 3320,
+    "text": " He must have been absolutely terrifying at children's parties,"
+  },
+  {
+    "start": 3320,
+    "end": 3322,
+    "text": " turning up with his octopus glove puppet."
+  },
+  {
+    "start": 3322,
+    "end": 3324,
+    "text": " It's amazing you said that."
+  },
+  {
+    "start": 3324,
+    "end": 3327,
+    "text": " I've actually got that book on my bookshelf,"
+  },
+  {
+    "start": 3327,
+    "end": 3330,
+    "text": " because I think I was about 13 or 14,"
+  },
+  {
+    "start": 3330,
+    "end": 3332,
+    "text": " and it was given as a present, and I loved it."
+  },
+  {
+    "start": 3332,
+    "end": 3333,
+    "text": " I absolutely loved it."
+  },
+  {
+    "start": 3333,
+    "end": 3334,
+    "text": " The SAS survived."
+  },
+  {
+    "start": 3334,
+    "end": 3337,
+    "text": " But you're absolutely right, and I remember as well,"
+  },
+  {
+    "start": 3337,
+    "end": 3340,
+    "text": " and I haven't read this, you know, for 30 plus years,"
+  },
+  {
+    "start": 3340,
+    "end": 3343,
+    "text": " but there was a bit in there that said about how to stop a car."
+  },
+  {
+    "start": 3343,
+    "end": 3345,
+    "text": " If you're going down a hill, the brakes fail,"
+  },
+  {
+    "start": 3345,
+    "end": 3348,
+    "text": " and the handbrake fails, you can use a wall"
+  },
+  {
+    "start": 3348,
+    "end": 3351,
+    "text": " and just scrape the car along the side of the wall to slow you down."
+  },
+  {
+    "start": 3351,
+    "end": 3354,
+    "text": " And I was thinking, when am I ever going to need it?"
+  },
+  {
+    "start": 3354,
+    "end": 3357,
+    "text": " But it's something I remembered all of my life,"
+  },
+  {
+    "start": 3357,
+    "end": 3359,
+    "text": " and I'm 48, and I haven't yet been going down a hill"
+  },
+  {
+    "start": 3359,
+    "end": 3361,
+    "text": " and all the brakes have failed."
+  },
+  {
+    "start": 3361,
+    "end": 3364,
+    "text": " But I'm waiting for that moment when I can scrape my car"
+  },
+  {
+    "start": 3364,
+    "end": 3366,
+    "text": " along the wall, and thank you, Lofty."
+  },
+  {
+    "start": 3366,
+    "end": 3368,
+    "text": " Thank you for saving the day."
+  },
+  {
+    "start": 3368,
+    "end": 3370,
+    "text": " That's so good. Fingers crossed."
+  },
+  {
+    "start": 3370,
+    "end": 3374,
+    "text": " You're going to trust a guy whose name is Lofty Wiseman, aren't you?"
+  },
+  {
+    "start": 3374,
+    "end": 3376,
+    "text": " I'll do anything he tells me."
+  },
+  {
+    "start": 3376,
+    "end": 3378,
+    "text": " That's very good."
+  },
+  {
+    "start": 3378,
+    "end": 3381,
+    "text": " We should probably wrap up in a sec, guys."
+  },
+  {
+    "start": 3381,
+    "end": 3382,
+    "text": " Sure."
+  },
+  {
+    "start": 3382,
+    "end": 3384,
+    "text": " This is slightly off the topic of survival,"
+  },
+  {
+    "start": 3384,
+    "end": 3388,
+    "text": " but it's just one more thing about food and sort of food for survival"
+  },
+  {
+    "start": 3388,
+    "end": 3390,
+    "text": " and food preservation."
+  },
+  {
+    "start": 3390,
+    "end": 3393,
+    "text": " So the first ever tin cans of food,"
+  },
+  {
+    "start": 3393,
+    "end": 3395,
+    "text": " they were invented in the early 19th century,"
+  },
+  {
+    "start": 3395,
+    "end": 3399,
+    "text": " and get this, every single one of them had spent a month"
+  },
+  {
+    "start": 3399,
+    "end": 3402,
+    "text": " at a temperature of at least 90 degrees Celsius"
+  },
+  {
+    "start": 3402,
+    "end": 3405,
+    "text": " before being sold a solid month at 90 degrees."
+  },
+  {
+    "start": 3405,
+    "end": 3407,
+    "text": " That's going to be overcooked."
+  },
+  {
+    "start": 3407,
+    "end": 3409,
+    "text": " I think they would have been quite overcooked."
+  },
+  {
+    "start": 3409,
+    "end": 3411,
+    "text": " Yeah, I don't think there were delicacies inside."
+  },
+  {
+    "start": 3411,
+    "end": 3413,
+    "text": " They were made by a man called Brian Donkin,"
+  },
+  {
+    "start": 3413,
+    "end": 3415,
+    "text": " who was a Northumbrian engineer,"
+  },
+  {
+    "start": 3415,
+    "end": 3418,
+    "text": " and that was the quality control for it to spend a month"
+  },
+  {
+    "start": 3418,
+    "end": 3421,
+    "text": " at about 190 to 100 degrees Celsius."
+  },
+  {
+    "start": 3421,
+    "end": 3422,
+    "text": " Really?"
+  },
+  {
+    "start": 3422,
+    "end": 3424,
+    "text": " I just find that amazing."
+  },
+  {
+    "start": 3424,
+    "end": 3427,
+    "text": " Just to cook everything out of it that could do you any harm."
+  },
+  {
+    "start": 3427,
+    "end": 3429,
+    "text": " Yeah, the canning process."
+  },
+  {
+    "start": 3429,
+    "end": 3432,
+    "text": " I learned a bit about that when we were looking at the food"
+  },
+  {
+    "start": 3432,
+    "end": 3434,
+    "text": " for going up into space,"
+  },
+  {
+    "start": 3434,
+    "end": 3437,
+    "text": " and we ran it as a competition to kind of design a meal for the day"
+  },
+  {
+    "start": 3437,
+    "end": 3440,
+    "text": " with all the right nutrients and minerals and vitamins."
+  },
+  {
+    "start": 3440,
+    "end": 3442,
+    "text": " And then the winners of the competition got to cook it"
+  },
+  {
+    "start": 3442,
+    "end": 3444,
+    "text": " with Heston Blumenthal,"
+  },
+  {
+    "start": 3444,
+    "end": 3447,
+    "text": " and he didn't want to tin the food,"
+  },
+  {
+    "start": 3447,
+    "end": 3449,
+    "text": " because it's just, from a chef's point of view,"
+  },
+  {
+    "start": 3449,
+    "end": 3452,
+    "text": " it just destroys it, this whole canning process."
+  },
+  {
+    "start": 3452,
+    "end": 3455,
+    "text": " Like you say, you have to have it at these really, really high temperatures,"
+  },
+  {
+    "start": 3455,
+    "end": 3459,
+    "text": " but we ended up having to put a lot of it into cans anyway."
+  },
+  {
+    "start": 3459,
+    "end": 3462,
+    "text": " He went through 25 different types of bread"
+  },
+  {
+    "start": 3462,
+    "end": 3465,
+    "text": " before he found the ideal bread"
+  },
+  {
+    "start": 3465,
+    "end": 3467,
+    "text": " that could make a bacon sandwich,"
+  },
+  {
+    "start": 3467,
+    "end": 3470,
+    "text": " and you could pop the tin after 18 months,"
+  },
+  {
+    "start": 3470,
+    "end": 3474,
+    "text": " and it would still be fresh, buttery, nice and warm,"
+  },
+  {
+    "start": 3474,
+    "end": 3476,
+    "text": " and taste like a good bacon sandwich."
+  },
+  {
+    "start": 3476,
+    "end": 3478,
+    "text": " But the bacon looked disgusting,"
+  },
+  {
+    "start": 3478,
+    "end": 3482,
+    "text": " because everything in the whole canning process"
+  },
+  {
+    "start": 3482,
+    "end": 3485,
+    "text": " is just cooked to oblivion"
+  },
+  {
+    "start": 3485,
+    "end": 3488,
+    "text": " to enable it to last so long."
+  },
+  {
+    "start": 3488,
+    "end": 3491,
+    "text": " Of course, the other one is the irradiation"
+  },
+  {
+    "start": 3491,
+    "end": 3494,
+    "text": " from the foil pouches that we have,"
+  },
+  {
+    "start": 3494,
+    "end": 3497,
+    "text": " and that all gets put through this process"
+  },
+  {
+    "start": 3497,
+    "end": 3499,
+    "text": " for, again, for long-term preservation,"
+  },
+  {
+    "start": 3499,
+    "end": 3501,
+    "text": " so it doesn't really matter what you do."
+  },
+  {
+    "start": 3501,
+    "end": 3504,
+    "text": " None of the food is going to come out of a packet"
+  },
+  {
+    "start": 3504,
+    "end": 3507,
+    "text": " or a tin tasting particularly good."
+  },
+  {
+    "start": 3507,
+    "end": 3508,
+    "text": " Heston Tabasco."
+  },
+  {
+    "start": 3508,
+    "end": 3511,
+    "text": " Heston Blumenthal would not survive long on the ISS."
+  },
+  {
+    "start": 3511,
+    "end": 3514,
+    "text": " I sense if he's refusing to touch anything,"
+  },
+  {
+    "start": 3514,
+    "end": 3515,
+    "text": " it has to be tinned."
+  },
+  {
+    "start": 3515,
+    "end": 3517,
+    "text": " And is it true, Tim,"
+  },
+  {
+    "start": 3517,
+    "end": 3519,
+    "text": " that Doritos are not actually allowed on the ISS"
+  },
+  {
+    "start": 3519,
+    "end": 3522,
+    "text": " because it's effectively a small bomb?"
+  },
+  {
+    "start": 3522,
+    "end": 3524,
+    "text": " It's a fire hazard."
+  },
+  {
+    "start": 3524,
+    "end": 3526,
+    "text": " Yeah."
+  },
+  {
+    "start": 3526,
+    "end": 3529,
+    "text": " Well, they were, but after listening to this podcast,"
+  },
+  {
+    "start": 3529,
+    "end": 3531,
+    "text": " they're probably going to get removed from the list."
+  },
+  {
+    "start": 3531,
+    "end": 3534,
+    "text": " We'll have a lot of angry astronauts now"
+  },
+  {
+    "start": 3534,
+    "end": 3537,
+    "text": " who won't be able to have their Doritos in space."
+  },
+  {
+    "start": 3540,
+    "end": 3542,
+    "text": " OK, that's it. That is all of our facts."
+  },
+  {
+    "start": 3542,
+    "end": 3544,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3544,
+    "end": 3546,
+    "text": " If you would like to get in contact with any of us"
+  },
+  {
+    "start": 3546,
+    "end": 3548,
+    "text": " about the things that we have said over the course of this podcast,"
+  },
+  {
+    "start": 3548,
+    "end": 3550,
+    "text": " we can be found on our Twitter accounts."
+  },
+  {
+    "start": 3550,
+    "end": 3552,
+    "text": " I'm on @Sriberland, Andy..."
+  },
+  {
+    "start": 3552,
+    "end": 3553,
+    "text": " @AndrewHunterM."
+  },
+  {
+    "start": 3553,
+    "end": 3554,
+    "text": " ...major Tim."
+  },
+  {
+    "start": 3554,
+    "end": 3556,
+    "text": " @Astro_TimPeak."
+  },
+  {
+    "start": 3556,
+    "end": 3558,
+    "text": " ...and Anna."
+  },
+  {
+    "start": 3558,
+    "end": 3560,
+    "text": " You can email podcast@QI.com."
+  },
+  {
+    "start": 3560,
+    "end": 3562,
+    "text": " Yep, or you can go to our group account,"
+  },
+  {
+    "start": 3562,
+    "end": 3564,
+    "text": " which is @NoSuchThing or our website,"
+  },
+  {
+    "start": 3564,
+    "end": 3565,
+    "text": " NoSuchThingasafish.com."
+  },
+  {
+    "start": 3565,
+    "end": 3567,
+    "text": " All of our previous episodes are up there."
+  },
+  {
+    "start": 3567,
+    "end": 3570,
+    "text": " Or you could go to certain book-buying websites"
+  },
+  {
+    "start": 3570,
+    "end": 3574,
+    "text": " and get the new autobiography \"Limitless\" by Tim Peak."
+  },
+  {
+    "start": 3574,
+    "end": 3578,
+    "text": " It is the story of everything that he's done in his life,"
+  },
+  {
+    "start": 3578,
+    "end": 3582,
+    "text": " from being in the military through to flying test pilot helicopters"
+  },
+  {
+    "start": 3582,
+    "end": 3585,
+    "text": " and planes, getting into space, getting back down again."
+  },
+  {
+    "start": 3585,
+    "end": 3588,
+    "text": " Andy's just finished it, and you loved it, Andy."
+  },
+  {
+    "start": 3588,
+    "end": 3591,
+    "text": " It's so good. It's so exciting. It's so interesting. It's great."
+  },
+  {
+    "start": 3591,
+    "end": 3592,
+    "text": " Yeah, \"Limitless\" is out now."
+  },
+  {
+    "start": 3592,
+    "end": 3595,
+    "text": " See you again next week with another episode."
+  },
+  {
+    "start": 3595,
+    "end": 3596,
+    "text": " Goodbye."
+  },
+  {
+    "start": 3596,
+    "end": 3605,
+    "text": " [Music]"
+  }
+]

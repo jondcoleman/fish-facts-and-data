@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including a dubious swimming record by Chairman Mao, the daily greeting rituals of seahorses, the unique method of collecting falcon semen using special hats, and the historical requirement for Mayan women to make frothy cocoa as a marriage prerequisite.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1966, the Chinese press reported that a 73-year-old Chairman Mao had swam 15 kilometres of the Yangtze River in 65 minutes, which is twice the speed that Michael Phelps has ever swam.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:01:20"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Seahorses greet their partners every day to make sure they are still alive.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:09:39"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Falcon experts put on a special hat when they want to collect semen.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:18:51"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Mayan women had to prove they could make cocoa with the right amount of froth before men would marry them.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:27:54"
+    }
+  ]
+}

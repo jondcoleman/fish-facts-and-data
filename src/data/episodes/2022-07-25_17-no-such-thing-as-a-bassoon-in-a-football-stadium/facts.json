@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" is a special football-themed episode in honor of the 2014 Brazilian World Cup final. The hosts and guest John Lloyd share various quirky and historical facts about football, including the origins of chants, unusual player backgrounds, and peculiar football rules and incidents.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first known football chant was composed by Elgar.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:01:02"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Eric Cantona was raised in a cave.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:07:32"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In the first World Cup final in 1930, the two teams Uruguay and Argentina couldn't agree on the size of ball to use, so they used Argentina's small ball in the first half and Uruguay's big ball in the second half.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:15:03"
+    },
+    {
+      "fact_number": 4,
+      "fact": "FIFA, the federation, international football association, has more members than the UN.",
+      "presenter": "John Lloyd",
+      "guest": true,
+      "start_time": "00:23:48"
+    }
+  ]
+}

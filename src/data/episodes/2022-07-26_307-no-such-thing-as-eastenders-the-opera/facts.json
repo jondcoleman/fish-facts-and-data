@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a range of topics including the banning of encores by Emperor Joseph II, the global spread of European earthworms, the peculiar naming of streets in America, and the influence of Edgar Allan Poe on the creation of Scrabble.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "After being stuck at an opera that went on twice as long as the scheduled running time, Emperor Joseph II of Austria banned encores.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:02:18"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Humans have transported European earthworms to every continent on the planet except Antarctica.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:13:13"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The most popular street in America is Second Street, the second most popular street is Third Street, and the third most popular street is First Street.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:20:49"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The game of Scrabble is partly thanks to Edgar Allan Poe.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:26:35"
+    }
+  ]
+}

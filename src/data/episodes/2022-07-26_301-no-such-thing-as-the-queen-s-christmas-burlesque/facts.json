@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This Christmas special episode of \"No Such Thing As A Fish\" features festive facts about a poodle finding the Queen's speech, the oldest depiction of sex found in Bethlehem, the increased likelihood of heart attacks during Christmas gatherings, and Mariah Carey's Christmas traditions.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1958, the Queen's speech was lost on the day of delivery, and then found by a nearby poodle.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:25"
+    },
+    {
+      "fact_number": 2,
+      "fact": "As well as being the birthplace of Jesus, Bethlehem is also where we found the oldest known depiction of people having sex.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:13:30"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The most likely time in the year to have a heart attack is during a family Christmas gathering.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:24"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Mariah Carey has three Christmas trees, one of which is decorated with pictures of herself.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:34:00"
+    }
+  ]
+}

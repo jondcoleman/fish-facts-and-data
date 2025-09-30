@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of intriguing topics, including the effects of heartbeats on memory and shooting accuracy, the mistaken discovery of Amelia Earhart's plane, the prank calls made by the last emperor of China, and the unique casting of identical twins for filming scenes in the movie \"Spider-Man.\"",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Every time your heart beats, your memory gets worse, but you become better at firing a gun.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:02:23"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 2023, a team mapping the ocean floor announced they may have found Amelia Earhart's plane. In 2024, they announced it was actually a plane-shaped pile of rocks.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:15:46"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When the Forbidden City in China had its first telephone installed, it was first used by the emperor to make prank phone calls.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:33:13"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The film \"Spider-Man\" once cast two crowds of identical twin extras, so they could film the same scene at the same time in different places.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:45:16"
+    }
+  ]
+}

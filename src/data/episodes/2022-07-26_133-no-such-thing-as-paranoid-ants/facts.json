@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of topics including the impact of non-verbal cues in presidential debates, the discovery of new species through unconventional methods, a historical reenactment of the march to the Battle of Hastings, and a humorous scientific finding about perception when viewing objects from between the legs.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "This week's presidential debate was best watched with the sound turned off.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "A frog just vomited up a new species of ant.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:13:54"
+    },
+    {
+      "fact_number": 3,
+      "fact": "A group of Saxon soldiers is marching 300 miles towards Hastings.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:21:16"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Scientists have concluded that objects look smaller when viewed from between the legs.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:28:47"
+    }
+  ]
+}

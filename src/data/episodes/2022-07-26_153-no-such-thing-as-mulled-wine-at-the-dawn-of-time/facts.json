@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and historical facts, including the world's smallest football league, a musicians' strike in the 1940s, the fireproof newspaper archive of the British Library, and the inventor of mulled wine who also created an aphrodisiac sorbet.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The smallest football league in the world consists of two teams who play each other 22 times every season.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:01:19"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the 1940s in America, if you wanted to play a recording of a band song on the radio, the entire band had to be present in the studio while you played it.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:04"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The British Library has a collection of over 60 million newspapers, and none of them can catch fire.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:18:49"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The man who invented mulled wine also invented an aphrodisiac sorbet.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:26:09"
+    }
+  ]
+}

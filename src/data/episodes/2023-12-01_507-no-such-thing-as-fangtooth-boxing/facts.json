@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features discussions on a variety of topics including a thousand-year-old list of adorable things, the unique anatomy of the Viperfish, a book club's 28-year journey to finish reading \"Finnegan's Wake,\" and the surprising source of flatulence from canned beans. The hosts explore these facts with humor and curiosity, diving into historical, biological, and literary insights.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "A list of adorable things written over a thousand years ago includes chicks who look like their clothes are too big for them and faces drawn on melons.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:03:48"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Viperfish has teeth that are so long it can't close its mouth properly or it would impale its own brain.",
+      "presenter": "Anne Miller",
+      "guest": true,
+      "start_time": "00:17:53"
+    },
+    {
+      "fact_number": 3,
+      "fact": "A book club in America has finally finished reading Finnegan's Wake after 28 years of monthly meet-ups.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:30:35"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The liquid in a can of beans is more likely to make you fart than the beans themselves.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:48:06"
+    }
+  ]
+}

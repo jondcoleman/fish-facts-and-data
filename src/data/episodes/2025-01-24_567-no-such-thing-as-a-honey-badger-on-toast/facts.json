@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode, recorded live in Christchurch, features discussions on New Zealand's aviation history, unique nationality laws, misidentified marine species, and World War I conspiracy theories. Guest presenter Josh Thompson joins the regular hosts to share intriguing facts and humorous anecdotes.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first people to achieve powered flight were not actually the American Wright brothers, but a lone eccentric New Zealand farmer called Cranky Dick Pierce.",
+      "presenter": "Josh Thompson",
+      "guest": true,
+      "start_time": "00:01:52"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the 1940s, a law was passed that meant wherever the Dutch princess stood, didn't count as a country.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:21:22"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The Marine snail, Litorina saxotillus, is otherwise known as the most misidentified creature in the world, having been wrongly identified as a new species over 113 times.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:29:03"
+    },
+    {
+      "fact_number": 4,
+      "fact": "During World War I, a popular conspiracy theory was that German blackmailers had drawn up a list of 47,000 highly placed English perverts.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:41:57"
+    }
+  ]
+}

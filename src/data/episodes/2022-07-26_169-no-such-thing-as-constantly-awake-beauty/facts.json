@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the comforting behavior of baby elephants, synchronized blinking among moviegoers, the long storage life of apples, and ancient accounts of giant ants in India.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Baby elephants suck their trunks for comfort.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:00:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Moviegoers blink in sync.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:08:14"
+    },
+    {
+      "fact_number": 3,
+      "fact": "If you buy an apple today, it might have been taken off the tree in May 2014.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:19:29"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The first Western eye witness account of India described it as having ants the size of foxes.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:27:48"
+    }
+  ]
+}

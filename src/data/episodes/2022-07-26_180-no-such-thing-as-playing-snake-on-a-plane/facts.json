@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and intriguing facts, including Genoa Airport's unique pesto policy, a study questioning the Beatles' influence on music, the peculiar items brought by pilgrims on the Mayflower, and a scientific paper on horse evolution by someone aptly named MacHorse.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Genoa Airport has relaxed its liquid ban, but only for pesto.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "It has been scientifically proven that the Beatles were an average band who didn't really influence music.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:07:45"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When the first pilgrims went over on the Mayflower, one of them brought 139 pairs of shoes with him.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:16:32"
+    },
+    {
+      "fact_number": 4,
+      "fact": "A new scientific paper on why horses only have one toe has been published; the author of that paper is called Brianna MacHorse.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:23:16"
+    }
+  ]
+}

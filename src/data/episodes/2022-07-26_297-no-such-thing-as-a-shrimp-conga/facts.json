@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and intriguing facts, including a lawsuit involving Carl Sagan and Apple, astronauts' love for shrimp cocktail, the loud courtship calls of the white bellbird, and the international blame game surrounding the origins of syphilis.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Carl Sagan spent two years suing Apple computers for calling him a butt head.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1995, astronaut Bill Gregory ate 48 meals in a row, which included shrimp cocktail.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:11:21"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The loudest male birds on earth use their voices to yell at females who are sat right next to them.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:21:27"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In the 1490s, the Italians called syphilis the French disease, the French called it the Italian disease, the Russians called it the Polish disease, the Polish called it the Turkish disease, the Turkish called it the Christian disease, and the Tahitians called it the British disease.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:28:43"
+    }
+  ]
+}

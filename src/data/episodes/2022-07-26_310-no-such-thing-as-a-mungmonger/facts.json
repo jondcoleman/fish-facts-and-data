@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the history of travelling salesmen and their miniature samples, the unique reproductive strategy of female grizzly bears, the misunderstood reputation of the Vandals during the sack of Rome, and historical accounts of people dying from laughter.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Travelling salesmen used to carry around miniature versions of everything they were selling.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Female grizzly bears can get half pregnant.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:11:17"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When the Vandals sacked Rome in 455 AD, they agreed that they would just take the money and not damage any of the property.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:23:51"
+    },
+    {
+      "fact_number": 4,
+      "fact": "People who have died from laughing include a fifth century Greek artist who couldn't stop laughing at his own painting, and an Australian dog trainer who died after reading the price difference of some commodities in 1915 as compared to 1920.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:35:16"
+    }
+  ]
+}

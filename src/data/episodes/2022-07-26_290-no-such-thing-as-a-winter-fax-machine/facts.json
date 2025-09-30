@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a variety of intriguing topics, including the existence of left-handed chopsticks in Japan, the surprising history of the fax machine predating the telephone, a daring Arctic expedition where researchers intentionally get stuck in ice, and the peculiar habit of Leo Tolstoy wearing two hats to keep warm.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In Japan, you can buy left-handed chopsticks.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:01:04"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The fax machine is older than the telephone.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:18:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "A boatload of researchers are about to deliberately get themselves stuck in the Arctic ice for a year.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:28:52"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Leo Tolstoy, one of the greatest writers of history, frequently wore two hats in case his head got cold.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:42:17"
+    }
+  ]
+}

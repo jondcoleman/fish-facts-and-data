@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the historical ban on sliced bread in the US, the unique challenges faced by ice hockey players due to their muscular builds, Bill Murray's repeated attendance at the Groundhog Day musical, and the plight of the endangered Yangtze giant softshell turtle with a broken penis.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "15 years after it was invented, the US government banned sliced bread.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:00"
+    },
+    {
+      "fact_number": 2,
+      "fact": "A common problem for ice hockey players is that they have such muscly bums that they can't find jeans that fit.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:10:47"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When it was playing on Broadway, Bill Murray went to see the musical Groundhog Day. Then the next day, he went again.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:18:48"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There is only one confirmed male Yangtze giant softshell turtle left in the world, and his penis is broken.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:24:24"
+    }
+  ]
+}

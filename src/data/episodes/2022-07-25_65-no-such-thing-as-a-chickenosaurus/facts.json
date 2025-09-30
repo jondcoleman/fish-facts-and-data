@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of quirky and intriguing topics, including the behavior of cleaner fish and their interactions with client fish, the peculiarities of an Al-Qaeda job application form, the challenges faced by LEGO Universe in moderating user-generated content, and the ambitious project of creating a 'chickenosaurus' by genetically modifying chickens to exhibit dinosaur traits.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Fish who work as cleaners can cheat their bosses and their bosses can punish them.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:35"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Al-Qaeda's job application form includes a question asking who should be contacted in the event that the applicant becomes a martyr.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:10:01"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The single biggest expense in the computer game LEGO Universe was to hire human moderators to make sure that people weren't making LEGO penises.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:17:11"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The man who inspired the main character in Jurassic Park is now building a chickenosaurus.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:26:28"
+    }
+  ]
+}

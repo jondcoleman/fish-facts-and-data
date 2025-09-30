@@ -1,0 +1,3882 @@
+[
+  {
+    "start": 0,
+    "end": 2,
+    "text": " *Bell*"
+  },
+  {
+    "start": 2,
+    "end": 4,
+    "text": " *Bell*"
+  },
+  {
+    "start": 4,
+    "end": 6,
+    "text": " *Bell*"
+  },
+  {
+    "start": 6,
+    "end": 8,
+    "text": " *Bell*"
+  },
+  {
+    "start": 8,
+    "end": 10,
+    "text": " *Bell*"
+  },
+  {
+    "start": 10,
+    "end": 12,
+    "text": " *Bell*"
+  },
+  {
+    "start": 12,
+    "end": 14,
+    "text": " *Bell*"
+  },
+  {
+    "start": 14,
+    "end": 22,
+    "text": " Hello and welcome to another episode of no such thing as a fish, a weekly podcast coming to you from the QI offices in Covent Garden. My name is Dan Shriver."
+  },
+  {
+    "start": 22,
+    "end": 37,
+    "text": " I'm sitting here with James Harkin, Alex Bell, and Anna Chazinski, and once again we have gathered around the microphones with our four favorite facts from the last seven days, and in no particular order, here we go. Starting with you, James Harkin."
+  },
+  {
+    "start": 37,
+    "end": 50,
+    "text": " Okay, my fat this week is that when she was Prime Minister, Margaret Thatcher ordered that all government documents should have slightly different word spacing, so the different letter was leaked to the press they would know who it came from."
+  },
+  {
+    "start": 50,
+    "end": 56,
+    "text": " Are we sure she wasn't just trying to make up the word count and make it look like she'd written more?"
+  },
+  {
+    "start": 56,
+    "end": 58,
+    "text": " How did this work?"
+  },
+  {
+    "start": 58,
+    "end": 62,
+    "text": " Well, if you can imagine a load of text on a piece of paper, and each of the space..."
+  },
+  {
+    "start": 62,
+    "end": 66,
+    "text": " Woah, woah, woah, still trying to make your lab."
+  },
+  {
+    "start": 66,
+    "end": 72,
+    "text": " So yeah, imagine a load of words on a piece of paper, and each of the letters or each of the words has a space between them."
+  },
+  {
+    "start": 72,
+    "end": 77,
+    "text": " You could make that space slightly bigger or slightly lesser depending on the word processor you're using."
+  },
+  {
+    "start": 77,
+    "end": 90,
+    "text": " And say the ones that came from you had a 0.2 millimeter gap, and the ones from Dan had a 0.3 millimeter gap, then when they found the leaked document, they would know whether it came from you or Dan, depending on the space."
+  },
+  {
+    "start": 90,
+    "end": 98,
+    "text": " But I mean, was there someone employed, because it's obviously going to be have to be extremely tiny margins of error, otherwise you'd just have words that were a meter apart and ridiculous."
+  },
+  {
+    "start": 98,
+    "end": 108,
+    "text": " So was there someone in her office employed to measure with a very precise ruler, the gaps between the words? Perhaps they didn't do it with a ruler, perhaps they had some other kind of technology to do it."
+  },
+  {
+    "start": 108,
+    "end": 109,
+    "text": " Something even more advanced."
+  },
+  {
+    "start": 109,
+    "end": 116,
+    "text": " Yeah, but that's the thing, this is kind of a type of stegonography, which is kind of hiding messages in pictures or in text or whatever."
+  },
+  {
+    "start": 116,
+    "end": 123,
+    "text": " The lot of this is very, very slight differences that when you look at them really carefully, you can see the differences."
+  },
+  {
+    "start": 123,
+    "end": 128,
+    "text": " Okay, were there any documents that we know of actually leaked in her time?"
+  },
+  {
+    "start": 128,
+    "end": 135,
+    "text": " I don't know, so I found this fact on another podcast, it's called Futility Closet, it's a really awesome podcast from America."
+  },
+  {
+    "start": 135,
+    "end": 145,
+    "text": " And it was also in a book called The Investigators Guide to Stegonography by Gregory Kipper, but actually there wasn't that much information about it anyway."
+  },
+  {
+    "start": 145,
+    "end": 152,
+    "text": " It seems to be something that it said that happened, but whether it did or not, I guess it's possible that it's just one of those stories, but quite good sources."
+  },
+  {
+    "start": 152,
+    "end": 163,
+    "text": " I like the idea of it as well, because it's something that we hear so much about these days and the news for new movies and so on just trying to prevent leaks and the kind of the extra mile that they go to in order to make sure."
+  },
+  {
+    "start": 163,
+    "end": 168,
+    "text": " So like Star Wars, The Force Awakens, all the scripts were printed on red paper."
+  },
+  {
+    "start": 168,
+    "end": 172,
+    "text": " So if you photocopied them, the black of the writing would not show up."
+  },
+  {
+    "start": 172,
+    "end": 174,
+    "text": " That was just a tiny little thing."
+  },
+  {
+    "start": 174,
+    "end": 179,
+    "text": " You can see photos of the screenwriter sitting with JJ Abrams holding red scripts."
+  },
+  {
+    "start": 179,
+    "end": 181,
+    "text": " The scripts look like Darth Maul."
+  },
+  {
+    "start": 181,
+    "end": 188,
+    "text": " They often automate the scripts as well as input the name of the person they're giving the script to all over the paper in gray."
+  },
+  {
+    "start": 188,
+    "end": 191,
+    "text": " The words on top in black, but you can still read the script, but it's got the name all over it."
+  },
+  {
+    "start": 191,
+    "end": 193,
+    "text": " But they do it in the films as well."
+  },
+  {
+    "start": 193,
+    "end": 199,
+    "text": " So when you go and see a movie in the cinema, the movie that you're seeing has dots encoded in that particular reel."
+  },
+  {
+    "start": 199,
+    "end": 203,
+    "text": " So if it's pirated by someone bringing in a camera and filming it in the cinema,"
+  },
+  {
+    "start": 203,
+    "end": 210,
+    "text": " even if you then take what was recorded on that camera and compress it and kind of change the filters and put it up online and then download it,"
+  },
+  {
+    "start": 210,
+    "end": 218,
+    "text": " you can still find these semi-visible sequences of dots that appear away from the film and work out which cinema it was that the film was recorded in."
+  },
+  {
+    "start": 218,
+    "end": 222,
+    "text": " Wow, and then track down the person who did it based on people who went to the cinema."
+  },
+  {
+    "start": 222,
+    "end": 228,
+    "text": " I thought what you're going to say is that each version of the movie has a slightly different gap between all the words that I say."
+  },
+  {
+    "start": 228,
+    "end": 235,
+    "text": " And so you get some people where it's like, frankly, my dear."
+  },
+  {
+    "start": 235,
+    "end": 242,
+    "text": " Is that how would Pinter plays are all about the distance between these scenes to a walk in such a popular Hollywood actor?"
+  },
+  {
+    "start": 242,
+    "end": 248,
+    "text": " Interestingly, the Star Wars thing, just another thing that they did in order to avoid leaks and spoilers,"
+  },
+  {
+    "start": 248,
+    "end": 251,
+    "text": " they didn't release the soundtrack until the day that the movie was released."
+  },
+  {
+    "start": 251,
+    "end": 253,
+    "text": " It was scheduled to be released before."
+  },
+  {
+    "start": 253,
+    "end": 257,
+    "text": " I think the book was as well, the novelization, but the soundtrack was released on the same day"
+  },
+  {
+    "start": 257,
+    "end": 264,
+    "text": " because if you listen to the whole thing, the music suggests to you the plot twists and it suggests to you the resolution of the movie as well."
+  },
+  {
+    "start": 264,
+    "end": 266,
+    "text": " Which kind of makes sense."
+  },
+  {
+    "start": 266,
+    "end": 274,
+    "text": " Sort of, but it also means everyone who's working on that film has got far too involved in it and read way too much into what to any normal person would just be a piece of classical music."
+  },
+  {
+    "start": 274,
+    "end": 279,
+    "text": " Except that it's Geeks of the World who will be listening and analyzing anything that's leaked ahead of time."
+  },
+  {
+    "start": 279,
+    "end": 285,
+    "text": " They'd all get it wrong. You just end up with a thousand different variations of what isn't a Star Wars storyline."
+  },
+  {
+    "start": 285,
+    "end": 294,
+    "text": " That reminds me a bit of I was reading an article online about what Hodor is called in all the different languages in Game of Thrones."
+  },
+  {
+    "start": 294,
+    "end": 299,
+    "text": " And without giving too much away, his name is explained in one of the later shows."
+  },
+  {
+    "start": 299,
+    "end": 303,
+    "text": " But they have to have the explanation that works in all the different languages."
+  },
+  {
+    "start": 303,
+    "end": 311,
+    "text": " And so it's working out what Hodor would be in French, say, which has the same explanation of how he got the name."
+  },
+  {
+    "start": 311,
+    "end": 316,
+    "text": " But without giving too much away so that if you heard them in both languages, you would just know what the giveaway was."
+  },
+  {
+    "start": 316,
+    "end": 317,
+    "text": " Do you know what I mean by that?"
+  },
+  {
+    "start": 317,
+    "end": 319,
+    "text": " Yeah, but that sounds incredibly complicated."
+  },
+  {
+    "start": 319,
+    "end": 322,
+    "text": " Yeah, it isn't. It's really interesting. I might post it up actually on Twitter."
+  },
+  {
+    "start": 322,
+    "end": 330,
+    "text": " Actually, on music when Madonna released her album \"American Life\" in 2003, she released a fake version of the album beforehand to try and counteract piracy."
+  },
+  {
+    "start": 330,
+    "end": 332,
+    "text": " And it was much better than the original."
+  },
+  {
+    "start": 332,
+    "end": 335,
+    "text": " It was just a series of empty tracks."
+  },
+  {
+    "start": 335,
+    "end": 341,
+    "text": " And like I said, it was much better than the original. What the fuck do you think you're doing in every single track?"
+  },
+  {
+    "start": 341,
+    "end": 342,
+    "text": " Oh really?"
+  },
+  {
+    "start": 342,
+    "end": 344,
+    "text": " And then that was you really annoyed pirates."
+  },
+  {
+    "start": 344,
+    "end": 346,
+    "text": " And so they got hold of it."
+  },
+  {
+    "start": 346,
+    "end": 348,
+    "text": " They'd hold up the plank."
+  },
+  {
+    "start": 348,
+    "end": 349,
+    "text": " Yeah."
+  },
+  {
+    "start": 349,
+    "end": 351,
+    "text": " It's the party pirates love Madonna."
+  },
+  {
+    "start": 351,
+    "end": 356,
+    "text": " A pirate then hacked into a website and then posted the real pirated album."
+  },
+  {
+    "start": 356,
+    "end": 357,
+    "text": " So the pirates win."
+  },
+  {
+    "start": 357,
+    "end": 362,
+    "text": " I read this the other day and I don't know if it's something that I didn't know or whether nobody knows."
+  },
+  {
+    "start": 362,
+    "end": 367,
+    "text": " And that is if you do walk the plank, do you know what happens to the plank?"
+  },
+  {
+    "start": 367,
+    "end": 371,
+    "text": " It just gets pulled in and yeah, I thought it was like a push out of all."
+  },
+  {
+    "start": 371,
+    "end": 375,
+    "text": " Yeah, that's what I thought as well. But apparently what it was is you would get the plank"
+  },
+  {
+    "start": 375,
+    "end": 378,
+    "text": " and you would put it on the edge of the ship and people would walk."
+  },
+  {
+    "start": 378,
+    "end": 381,
+    "text": " And then it would be their weight which pulls them over the edge."
+  },
+  {
+    "start": 381,
+    "end": 383,
+    "text": " And then the plank would go into the water with them."
+  },
+  {
+    "start": 383,
+    "end": 388,
+    "text": " What? Wait, so does every pirate ship have like 50 planks with them that they..."
+  },
+  {
+    "start": 388,
+    "end": 393,
+    "text": " Well, pirate ships are usually made out of planks. So I think they just took one of them."
+  },
+  {
+    "start": 393,
+    "end": 397,
+    "text": " Yeah, but you're like, we can't afford to have any more trespassers with dismantling our ships at the point where..."
+  },
+  {
+    "start": 397,
+    "end": 401,
+    "text": " It's true, but I think once you've made 50 of your members of staff walk the plank,"
+  },
+  {
+    "start": 401,
+    "end": 403,
+    "text": " that's probably the least of your property."
+  },
+  {
+    "start": 403,
+    "end": 406,
+    "text": " There's also so many people you can get to walk the plank before they're in a better position than you are"
+  },
+  {
+    "start": 406,
+    "end": 408,
+    "text": " because they've got all the wood with them."
+  },
+  {
+    "start": 408,
+    "end": 411,
+    "text": " So they can just build their own pirate ship."
+  },
+  {
+    "start": 411,
+    "end": 414,
+    "text": " I actually thought it was a myth that people walk the plank anyway."
+  },
+  {
+    "start": 414,
+    "end": 417,
+    "text": " So that's a really good point because I thought that was true as well."
+  },
+  {
+    "start": 417,
+    "end": 421,
+    "text": " I can't remember where I read this either, so it might be that I dreamt it."
+  },
+  {
+    "start": 421,
+    "end": 423,
+    "text": " Cool. Does wood float in water?"
+  },
+  {
+    "start": 423,
+    "end": 425,
+    "text": " Yeah, so they're effectively giving them..."
+  },
+  {
+    "start": 425,
+    "end": 427,
+    "text": " How do you think boats work?"
+  },
+  {
+    "start": 427,
+    "end": 430,
+    "text": " No, that's specifically not how boats work. You don't have to pull them out of something in their place."
+  },
+  {
+    "start": 430,
+    "end": 434,
+    "text": " Yeah, you don't know that is fair enough. How do you think rafts work?"
+  },
+  {
+    "start": 434,
+    "end": 441,
+    "text": " Well, it just makes no sense to give them a gigantic life raft in a plank of wood once you've chucked them off the boat."
+  },
+  {
+    "start": 441,
+    "end": 445,
+    "text": " Well, maybe you don't want to kill them. You just want to not have them on your boat anymore."
+  },
+  {
+    "start": 445,
+    "end": 448,
+    "text": " I don't know if you've ever tried to make a gigantic life raft out of one plank of wood,"
+  },
+  {
+    "start": 448,
+    "end": 450,
+    "text": " but it is harder than you're making it sound."
+  },
+  {
+    "start": 450,
+    "end": 455,
+    "text": " I'm just saying it's like we're going to walk the life jacket and then it goes in with you."
+  },
+  {
+    "start": 455,
+    "end": 457,
+    "text": " It's just you're helping the guy out."
+  },
+  {
+    "start": 457,
+    "end": 461,
+    "text": " A bit more common way of punishing people was to just put them on an island"
+  },
+  {
+    "start": 461,
+    "end": 465,
+    "text": " and give them some water and some food and just say, right, you're not on the boat anymore."
+  },
+  {
+    "start": 465,
+    "end": 467,
+    "text": " You've just got to stay on this island."
+  },
+  {
+    "start": 467,
+    "end": 470,
+    "text": " The only way to get is the Bible and a copy of their favourite album."
+  },
+  {
+    "start": 473,
+    "end": 476,
+    "text": " Legend if they gave you the wrong word, other album."
+  },
+  {
+    "start": 476,
+    "end": 486,
+    "text": " Okay, it is time for fact number two and that is Alex."
+  },
+  {
+    "start": 486,
+    "end": 490,
+    "text": " My fact this week is that duct tape shouldn't be used on ducts."
+  },
+  {
+    "start": 490,
+    "end": 492,
+    "text": " Okay."
+  },
+  {
+    "start": 492,
+    "end": 493,
+    "text": " According to him."
+  },
+  {
+    "start": 493,
+    "end": 496,
+    "text": " According to a physicist at Lawrence Berkeley National Laboratory,"
+  },
+  {
+    "start": 496,
+    "end": 502,
+    "text": " who did some tests on all different types of tape that you could use to fix a duct and what would be the most."
+  },
+  {
+    "start": 502,
+    "end": 505,
+    "text": " And he said that of all the things we tested, only duct tape failed."
+  },
+  {
+    "start": 505,
+    "end": 508,
+    "text": " It failed reliably and often quite catastrophically."
+  },
+  {
+    "start": 508,
+    "end": 511,
+    "text": " And the main problem is that it doesn't respond well to heat changes,"
+  },
+  {
+    "start": 511,
+    "end": 515,
+    "text": " which is something that ducks do a lot because they have hot and cold air in the myself."
+  },
+  {
+    "start": 515,
+    "end": 517,
+    "text": " And it's not according to US building codes."
+  },
+  {
+    "start": 517,
+    "end": 520,
+    "text": " It's not a satisfactory way to repair a duct tape."
+  },
+  {
+    "start": 520,
+    "end": 523,
+    "text": " So duct tape was originally called duct tape."
+  },
+  {
+    "start": 523,
+    "end": 524,
+    "text": " Yeah."
+  },
+  {
+    "start": 524,
+    "end": 527,
+    "text": " Could you use duct tape on a duct?"
+  },
+  {
+    "start": 527,
+    "end": 529,
+    "text": " Why would you want to do that?"
+  },
+  {
+    "start": 529,
+    "end": 532,
+    "text": " It's a bill closed so they're not making so much noise."
+  },
+  {
+    "start": 532,
+    "end": 533,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 533,
+    "end": 535,
+    "text": " Do you want to explain the duct thing?"
+  },
+  {
+    "start": 535,
+    "end": 540,
+    "text": " So a lot of people miss here duct tape and call it duct tape and everything's as wrong."
+  },
+  {
+    "start": 540,
+    "end": 544,
+    "text": " But it was originally called duct tape, possibly because it was invented around the Second World War."
+  },
+  {
+    "start": 544,
+    "end": 549,
+    "text": " And there was this type of cloth-based rubbery tape that was used to seal ammunition boxes."
+  },
+  {
+    "start": 549,
+    "end": 552,
+    "text": " And it was waterproof and it was called duct tape because ducts are waterproof."
+  },
+  {
+    "start": 552,
+    "end": 556,
+    "text": " And then after the war, people actually did use it for their ducts."
+  },
+  {
+    "start": 556,
+    "end": 560,
+    "text": " And so then the company changed their name to duct tape."
+  },
+  {
+    "start": 560,
+    "end": 563,
+    "text": " But then there is now another company."
+  },
+  {
+    "start": 563,
+    "end": 566,
+    "text": " No, now people miss here and actually call it duct tape."
+  },
+  {
+    "start": 566,
+    "end": 568,
+    "text": " But there is a brand called duct tape."
+  },
+  {
+    "start": 568,
+    "end": 569,
+    "text": " Yeah, there is."
+  },
+  {
+    "start": 569,
+    "end": 571,
+    "text": " Yeah, it's called duct tape."
+  },
+  {
+    "start": 571,
+    "end": 574,
+    "text": " Did you read the story of the woman who invented it?"
+  },
+  {
+    "start": 574,
+    "end": 575,
+    "text": " It's very sweet."
+  },
+  {
+    "start": 575,
+    "end": 576,
+    "text": " Yeah, it's amazing, isn't it?"
+  },
+  {
+    "start": 576,
+    "end": 579,
+    "text": " Yeah, so is this lady called Vesta Stood?"
+  },
+  {
+    "start": 579,
+    "end": 582,
+    "text": " And she worked packing rifle cartridges."
+  },
+  {
+    "start": 582,
+    "end": 587,
+    "text": " So as Alex said, tape had to be used to keep these rifle cartridge boxes closed."
+  },
+  {
+    "start": 587,
+    "end": 591,
+    "text": " And the way they were sealed at the time was they were waxed down."
+  },
+  {
+    "start": 591,
+    "end": 594,
+    "text": " And then there was a little paper tab which poked out of the wax."
+  },
+  {
+    "start": 594,
+    "end": 599,
+    "text": " And in order to open the cartridge container, then you pulled up the paper tab and it opened."
+  },
+  {
+    "start": 599,
+    "end": 601,
+    "text": " And the thing was the paper tab kept on ripping off."
+  },
+  {
+    "start": 601,
+    "end": 605,
+    "text": " So that meant that soldiers in the heat of war would suddenly need to get to their ammunition."
+  },
+  {
+    "start": 605,
+    "end": 608,
+    "text": " And they'd rip off this paper tab and they wouldn't be able to open these boxes."
+  },
+  {
+    "start": 608,
+    "end": 610,
+    "text": " And it would take ages to open."
+  },
+  {
+    "start": 610,
+    "end": 611,
+    "text": " And she spotted this."
+  },
+  {
+    "start": 611,
+    "end": 613,
+    "text": " And so she designed duct tape."
+  },
+  {
+    "start": 613,
+    "end": 615,
+    "text": " And her colleagues didn't go for it."
+  },
+  {
+    "start": 615,
+    "end": 616,
+    "text": " And her bosses didn't go for it."
+  },
+  {
+    "start": 616,
+    "end": 620,
+    "text": " And so she just wrote a letter straight to FDR, straight to Mr. President."
+  },
+  {
+    "start": 620,
+    "end": 622,
+    "text": " And was like, I've had this idea."
+  },
+  {
+    "start": 622,
+    "end": 623,
+    "text": " My colleagues haven't gone for it."
+  },
+  {
+    "start": 623,
+    "end": 627,
+    "text": " But I think it's going to save your children's lives and my children's lives in the war."
+  },
+  {
+    "start": 627,
+    "end": 629,
+    "text": " And you've got to make it happen."
+  },
+  {
+    "start": 629,
+    "end": 631,
+    "text": " And within a few weeks, he'd forwarded it onto the military."
+  },
+  {
+    "start": 631,
+    "end": 632,
+    "text": " And--"
+  },
+  {
+    "start": 632,
+    "end": 633,
+    "text": " Can you believe that?"
+  },
+  {
+    "start": 633,
+    "end": 637,
+    "text": " He not only received it, he read it, then forwarded it on as an idea."
+  },
+  {
+    "start": 637,
+    "end": 640,
+    "text": " When will we ever have that sentence again?"
+  },
+  {
+    "start": 640,
+    "end": 643,
+    "text": " Maybe they wouldn't have much on that day, old FDR."
+  },
+  {
+    "start": 643,
+    "end": 646,
+    "text": " But there was a case of duct tape saving some ducts recently."
+  },
+  {
+    "start": 646,
+    "end": 647,
+    "text": " Was that?"
+  },
+  {
+    "start": 647,
+    "end": 649,
+    "text": " Yeah, there sure was."
+  },
+  {
+    "start": 649,
+    "end": 652,
+    "text": " So this was in Idaho a couple of years ago, I think."
+  },
+  {
+    "start": 652,
+    "end": 656,
+    "text": " And people noticed that a mother duck was standing over a drain."
+  },
+  {
+    "start": 656,
+    "end": 659,
+    "text": " And some of her little ducklings had fallen into the drain."
+  },
+  {
+    "start": 659,
+    "end": 663,
+    "text": " And so the residents of this place gathered around and they got some duct tape."
+  },
+  {
+    "start": 663,
+    "end": 669,
+    "text": " And they wrapped it with a sticky side out and they inserted it at the end of a stick into the drain and attached the chicks to it and pulled them up."
+  },
+  {
+    "start": 669,
+    "end": 669,
+    "text": " So--"
+  },
+  {
+    "start": 669,
+    "end": 671,
+    "text": " They still attached to this day."
+  },
+  {
+    "start": 671,
+    "end": 673,
+    "text": " They are, but they're grateful to be out of that drain."
+  },
+  {
+    "start": 673,
+    "end": 676,
+    "text": " So duct tape should be used on ducts."
+  },
+  {
+    "start": 676,
+    "end": 677,
+    "text": " Yes, it should."
+  },
+  {
+    "start": 677,
+    "end": 678,
+    "text": " Duct tape should be used on ducts, but not ducts."
+  },
+  {
+    "start": 678,
+    "end": 680,
+    "text": " But only ducts trapped in ducts."
+  },
+  {
+    "start": 680,
+    "end": 681,
+    "text": " Yes."
+  },
+  {
+    "start": 681,
+    "end": 685,
+    "text": " Speaking of that, a duct tape company."
+  },
+  {
+    "start": 685,
+    "end": 689,
+    "text": " I was looking into their products because they have a lot of novelty products."
+  },
+  {
+    "start": 689,
+    "end": 693,
+    "text": " And one that I found was they do a one-direction duct tape."
+  },
+  {
+    "start": 693,
+    "end": 698,
+    "text": " So it's-- if you like the band one direction, you can buy duct tape of one direction."
+  },
+  {
+    "start": 698,
+    "end": 700,
+    "text": " You can buy Justin Bieber as well."
+  },
+  {
+    "start": 700,
+    "end": 701,
+    "text": " I went on to Amazon."
+  },
+  {
+    "start": 701,
+    "end": 702,
+    "text": " It's incredibly popular."
+  },
+  {
+    "start": 702,
+    "end": 704,
+    "text": " They've had 236 reviews."
+  },
+  {
+    "start": 704,
+    "end": 707,
+    "text": " 80% of which are five star reviews."
+  },
+  {
+    "start": 707,
+    "end": 709,
+    "text": " In fact, there's only a few one-star reviews."
+  },
+  {
+    "start": 709,
+    "end": 710,
+    "text": " I wrote one down."
+  },
+  {
+    "start": 710,
+    "end": 713,
+    "text": " I brought duck brand one direction printed duct tape."
+  },
+  {
+    "start": 713,
+    "end": 717,
+    "text": " But instead arrived a regular one without the images of Harry Lee and Louis Nile Joseon."
+  },
+  {
+    "start": 717,
+    "end": 718,
+    "text": " I don't want a regular one."
+  },
+  {
+    "start": 718,
+    "end": 721,
+    "text": " I want the product that I bought one-star."
+  },
+  {
+    "start": 721,
+    "end": 724,
+    "text": " But yeah, they do all these novelty things and fans are obsessed with it."
+  },
+  {
+    "start": 724,
+    "end": 725,
+    "text": " It kind of makes sense."
+  },
+  {
+    "start": 725,
+    "end": 726,
+    "text": " I think that's really cool."
+  },
+  {
+    "start": 726,
+    "end": 728,
+    "text": " They write names on the wall using the duct tape."
+  },
+  {
+    "start": 728,
+    "end": 729,
+    "text": " That's very cool."
+  },
+  {
+    "start": 729,
+    "end": 730,
+    "text": " Is it cool?"
+  },
+  {
+    "start": 730,
+    "end": 731,
+    "text": " It's kind of cool."
+  },
+  {
+    "start": 731,
+    "end": 732,
+    "text": " If it's for--"
+  },
+  {
+    "start": 732,
+    "end": 734,
+    "text": " For a 14-year-old girl, maybe."
+  },
+  {
+    "start": 734,
+    "end": 735,
+    "text": " Yeah."
+  },
+  {
+    "start": 735,
+    "end": 736,
+    "text": " I'm going to say, yeah, maybe."
+  },
+  {
+    "start": 736,
+    "end": 738,
+    "text": " There is a whole culture of making things out of duct tape."
+  },
+  {
+    "start": 738,
+    "end": 740,
+    "text": " It's the most versatile thing on this earth."
+  },
+  {
+    "start": 740,
+    "end": 741,
+    "text": " I swear."
+  },
+  {
+    "start": 741,
+    "end": 742,
+    "text": " Oh, strong game."
+  },
+  {
+    "start": 742,
+    "end": 743,
+    "text": " It is."
+  },
+  {
+    "start": 743,
+    "end": 745,
+    "text": " That's a few human manmade products."
+  },
+  {
+    "start": 745,
+    "end": 747,
+    "text": " Well, that's like that many products."
+  },
+  {
+    "start": 747,
+    "end": 750,
+    "text": " Duct tape is an actual-- you can tear it with your hands."
+  },
+  {
+    "start": 750,
+    "end": 754,
+    "text": " But then if you fold it up on itself, so it's too tape-stick as it were,"
+  },
+  {
+    "start": 754,
+    "end": 757,
+    "text": " that can lift nearly a ton without breaking."
+  },
+  {
+    "start": 757,
+    "end": 758,
+    "text": " Wow."
+  },
+  {
+    "start": 758,
+    "end": 762,
+    "text": " And there is one duct tape company that holds a high school competition every year"
+  },
+  {
+    "start": 762,
+    "end": 765,
+    "text": " to all the best prom dress created entirely out of duct tape."
+  },
+  {
+    "start": 765,
+    "end": 767,
+    "text": " And the winner receives a $3,000 scholarship."
+  },
+  {
+    "start": 767,
+    "end": 768,
+    "text": " Wow."
+  },
+  {
+    "start": 768,
+    "end": 769,
+    "text": " And the lifetime of bullying."
+  },
+  {
+    "start": 769,
+    "end": 770,
+    "text": " Yes."
+  },
+  {
+    "start": 770,
+    "end": 772,
+    "text": " I can never get it off."
+  },
+  {
+    "start": 772,
+    "end": 776,
+    "text": " Well, there's the annual duct tape festival as well that happens every year"
+  },
+  {
+    "start": 776,
+    "end": 779,
+    "text": " hence being called the annual duct tape festival."
+  },
+  {
+    "start": 779,
+    "end": 780,
+    "text": " It's in Ohio."
+  },
+  {
+    "start": 780,
+    "end": 782,
+    "text": " Because you can do everything sculptures."
+  },
+  {
+    "start": 782,
+    "end": 784,
+    "text": " You can make hammocks out of them."
+  },
+  {
+    "start": 784,
+    "end": 785,
+    "text": " It's awesome."
+  },
+  {
+    "start": 785,
+    "end": 787,
+    "text": " You can't go to space with just duct tape."
+  },
+  {
+    "start": 787,
+    "end": 788,
+    "text": " But you can do a lot."
+  },
+  {
+    "start": 788,
+    "end": 791,
+    "text": " And I feel-- have you guys ever visited the website of the duct tape guys?"
+  },
+  {
+    "start": 791,
+    "end": 792,
+    "text": " No."
+  },
+  {
+    "start": 792,
+    "end": 794,
+    "text": " I think they might be your soulmates, Alex."
+  },
+  {
+    "start": 794,
+    "end": 795,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 795,
+    "end": 797,
+    "text": " So yeah, you know, it's all my favorites, obviously."
+  },
+  {
+    "start": 797,
+    "end": 799,
+    "text": " It's incredible."
+  },
+  {
+    "start": 799,
+    "end": 803,
+    "text": " So much effort has gone to this website of these two guys who are just obsessed with duct tape."
+  },
+  {
+    "start": 803,
+    "end": 806,
+    "text": " And the way you enter the home page is the duct tape guys.com, I think."
+  },
+  {
+    "start": 806,
+    "end": 809,
+    "text": " And it says, click on the duct tape luggage to enter."
+  },
+  {
+    "start": 809,
+    "end": 810,
+    "text": " And I didn't realize what it said."
+  },
+  {
+    "start": 810,
+    "end": 811,
+    "text": " I just clicked on anything."
+  },
+  {
+    "start": 811,
+    "end": 814,
+    "text": " And then there are five, four pictures of luggage."
+  },
+  {
+    "start": 814,
+    "end": 816,
+    "text": " One of them has made of duct tape the others aren't."
+  },
+  {
+    "start": 816,
+    "end": 818,
+    "text": " If you click on the others, you don't get into the site."
+  },
+  {
+    "start": 818,
+    "end": 819,
+    "text": " Very clever."
+  },
+  {
+    "start": 819,
+    "end": 820,
+    "text": " Tells you what they're about."
+  },
+  {
+    "start": 820,
+    "end": 824,
+    "text": " And they have page after page after page of things you could make out of duct tape."
+  },
+  {
+    "start": 824,
+    "end": 825,
+    "text": " It is extraordinary."
+  },
+  {
+    "start": 825,
+    "end": 829,
+    "text": " But yeah, like quite good ideas stylish flip flops."
+  },
+  {
+    "start": 829,
+    "end": 831,
+    "text": " They suggest which I thought I might give a try."
+  },
+  {
+    "start": 831,
+    "end": 832,
+    "text": " Yeah, quite cool."
+  },
+  {
+    "start": 832,
+    "end": 836,
+    "text": " All these things are great, but you can make them all out of other materials."
+  },
+  {
+    "start": 836,
+    "end": 840,
+    "text": " And the fact that people are making them out of other materials, like flip flops, for instance."
+  },
+  {
+    "start": 840,
+    "end": 847,
+    "text": " The fact that people make them out of rubber and not out of duct tape usually makes me think that perhaps duct tape isn't the best material."
+  },
+  {
+    "start": 847,
+    "end": 854,
+    "text": " I guess so if you're on a desert island, your luxury item might just be your role of duct tape because of the amount of things that you use."
+  },
+  {
+    "start": 854,
+    "end": 857,
+    "text": " You have one with Justin Bieber's face on as well because it's company as well."
+  },
+  {
+    "start": 857,
+    "end": 858,
+    "text": " Yeah."
+  },
+  {
+    "start": 858,
+    "end": 860,
+    "text": " Is that the company you want?"
+  },
+  {
+    "start": 860,
+    "end": 864,
+    "text": " Let's hope you get the right one shipped to you because Amazon has a history of sending."
+  },
+  {
+    "start": 864,
+    "end": 866,
+    "text": " Imagine that disappointment."
+  },
+  {
+    "start": 866,
+    "end": 868,
+    "text": " Imagine that your other desert island."
+  },
+  {
+    "start": 868,
+    "end": 871,
+    "text": " You've got some duct tape without Justin Bieber's face on it."
+  },
+  {
+    "start": 871,
+    "end": 874,
+    "text": " When Madonna, rather, where she's saying fuck you."
+  },
+  {
+    "start": 874,
+    "end": 876,
+    "text": " And a plank."
+  },
+  {
+    "start": 876,
+    "end": 880,
+    "text": " Anna, you said it can't get you to space earlier."
+  },
+  {
+    "start": 880,
+    "end": 886,
+    "text": " Interestingly, space is one of the places where duct tape is the most useful thing that you can have."
+  },
+  {
+    "start": 886,
+    "end": 889,
+    "text": " Almost like a desert island kind of situation."
+  },
+  {
+    "start": 889,
+    "end": 892,
+    "text": " So it's carried on every single flight since about Gemini missions."
+  },
+  {
+    "start": 892,
+    "end": 893,
+    "text": " Yeah."
+  },
+  {
+    "start": 893,
+    "end": 894,
+    "text": " It's not everyone."
+  },
+  {
+    "start": 894,
+    "end": 895,
+    "text": " Wow."
+  },
+  {
+    "start": 895,
+    "end": 896,
+    "text": " And it isn't Apollo missions."
+  },
+  {
+    "start": 896,
+    "end": 897,
+    "text": " Yeah."
+  },
+  {
+    "start": 897,
+    "end": 898,
+    "text": " What kind of stuff is it doing now then?"
+  },
+  {
+    "start": 898,
+    "end": 899,
+    "text": " Well, okay."
+  },
+  {
+    "start": 899,
+    "end": 908,
+    "text": " So just through, I don't know like on the ISS right now, but Apollo 13 very much says that one of the main reasons they were able to get back was because of the duct tape."
+  },
+  {
+    "start": 908,
+    "end": 914,
+    "text": " And also if you're if you're in space and let's say you're on a mission to the moon and someone suddenly goes nuts, suddenly lose."
+  },
+  {
+    "start": 914,
+    "end": 915,
+    "text": " What am I doing up here?"
+  },
+  {
+    "start": 915,
+    "end": 916,
+    "text": " This is too crazy."
+  },
+  {
+    "start": 916,
+    "end": 917,
+    "text": " You can take them down."
+  },
+  {
+    "start": 917,
+    "end": 918,
+    "text": " You take them down."
+  },
+  {
+    "start": 918,
+    "end": 920,
+    "text": " Then that genuinely was part of the manual."
+  },
+  {
+    "start": 920,
+    "end": 927,
+    "text": " I'm not sure for the Apollo missions, but it says you immediately what you do is you duct tape their hands and feet together."
+  },
+  {
+    "start": 927,
+    "end": 928,
+    "text": " Wow."
+  },
+  {
+    "start": 928,
+    "end": 930,
+    "text": " And then maybe to the maybe to the wall or something."
+  },
+  {
+    "start": 930,
+    "end": 932,
+    "text": " When you say take them down, it's not you don't take them to the wall."
+  },
+  {
+    "start": 932,
+    "end": 933,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 933,
+    "end": 941,
+    "text": " Yeah, I read that and it says that you take the hands and feet like you say, but then you tie them down with a bungee cord."
+  },
+  {
+    "start": 941,
+    "end": 942,
+    "text": " But that means they have a bungee cord."
+  },
+  {
+    "start": 942,
+    "end": 943,
+    "text": " Yeah."
+  },
+  {
+    "start": 943,
+    "end": 944,
+    "text": " Where's that being used?"
+  },
+  {
+    "start": 944,
+    "end": 947,
+    "text": " I think that's what they should do with spacewalks, right?"
+  },
+  {
+    "start": 947,
+    "end": 949,
+    "text": " Just do like bungee jumping out of the."
+  },
+  {
+    "start": 949,
+    "end": 950,
+    "text": " That's amazing."
+  },
+  {
+    "start": 950,
+    "end": 951,
+    "text": " Yeah."
+  },
+  {
+    "start": 951,
+    "end": 956,
+    "text": " I have just one last example as well for space, which was Jean Sonan."
+  },
+  {
+    "start": 956,
+    "end": 958,
+    "text": " So he's the last man to stand on the moon."
+  },
+  {
+    "start": 958,
+    "end": 964,
+    "text": " When he was up there for his mission, they had a moon buggy and the moon buggy as they were about to get into it and start exploring."
+  },
+  {
+    "start": 964,
+    "end": 971,
+    "text": " He ripped off the fender of the moon buggy and the problem was is that obviously the buggy still operated without the fender."
+  },
+  {
+    "start": 971,
+    "end": 981,
+    "text": " But they needed it on and the reason they needed it on is because if you drive in space, the moon dust will just shoot up onto the astronauts costumes, which sounds fine."
+  },
+  {
+    "start": 981,
+    "end": 991,
+    "text": " But I found this really interesting. Apparently, if your space suit gets covered in moon dust, that means that the sun can start overheating you because it conducts it a lot better."
+  },
+  {
+    "start": 991,
+    "end": 995,
+    "text": " So the idea is that as an astronaut, you would just fry in the suit."
+  },
+  {
+    "start": 995,
+    "end": 997,
+    "text": " It would absorb it because it's darker."
+  },
+  {
+    "start": 997,
+    "end": 998,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 998,
+    "end": 999,
+    "text": " So it was a big thing."
+  },
+  {
+    "start": 999,
+    "end": 1006,
+    "text": " So they had duct tape and they managed to duct tape the fender back on and that kept the whole mission going through their geological expedition that they were doing."
+  },
+  {
+    "start": 1006,
+    "end": 1009,
+    "text": " I don't think they could make all the space suits costumes, though."
+  },
+  {
+    "start": 1009,
+    "end": 1011,
+    "text": " It's slightly tricky, though."
+  },
+  {
+    "start": 1011,
+    "end": 1012,
+    "text": " Partish hot costumes."
+  },
+  {
+    "start": 1012,
+    "end": 1016,
+    "text": " Everyone go to this fancy dress party in the same outfit and have a embarrassing."
+  },
+  {
+    "start": 1016,
+    "end": 1023,
+    "text": " Okay, it is time for fact number three."
+  },
+  {
+    "start": 1023,
+    "end": 1024,
+    "text": " And that is my fact."
+  },
+  {
+    "start": 1024,
+    "end": 1032,
+    "text": " My fact this week is that Oxford University's first ever professor of chemistry believed that fossils were actually frozen urine."
+  },
+  {
+    "start": 1032,
+    "end": 1033,
+    "text": " Mmm."
+  },
+  {
+    "start": 1033,
+    "end": 1035,
+    "text": " And then not are they?"
+  },
+  {
+    "start": 1035,
+    "end": 1039,
+    "text": " No, it's worth pointing out that he didn't think it was animal life at all."
+  },
+  {
+    "start": 1039,
+    "end": 1042,
+    "text": " Frozen urine was one of the things that he thought it was."
+  },
+  {
+    "start": 1042,
+    "end": 1044,
+    "text": " He thought generally fossils were salt."
+  },
+  {
+    "start": 1044,
+    "end": 1046,
+    "text": " I think he thought that that's what made their mark."
+  },
+  {
+    "start": 1046,
+    "end": 1050,
+    "text": " But at no point at all, did he think that it could have been an animal?"
+  },
+  {
+    "start": 1050,
+    "end": 1052,
+    "text": " I don't know if it just didn't occur to him."
+  },
+  {
+    "start": 1052,
+    "end": 1056,
+    "text": " So his name is Robert Plott, founding curator at the Ashmolly Museum."
+  },
+  {
+    "start": 1056,
+    "end": 1063,
+    "text": " And he's also very famous because he found what was the first ever dinosaur bone as it were."
+  },
+  {
+    "start": 1063,
+    "end": 1064,
+    "text": " He did a drawing of it."
+  },
+  {
+    "start": 1064,
+    "end": 1066,
+    "text": " Again, he didn't know that that was a dinosaur bone."
+  },
+  {
+    "start": 1066,
+    "end": 1070,
+    "text": " He thought that it might have been a giant human, a thigh bone of a giant human."
+  },
+  {
+    "start": 1070,
+    "end": 1074,
+    "text": " And so yeah, he's a very famous guy for doing quite a few things."
+  },
+  {
+    "start": 1074,
+    "end": 1077,
+    "text": " And can we just go back to the bit where he looked at a fossil."
+  },
+  {
+    "start": 1077,
+    "end": 1082,
+    "text": " And we've all seen examples of fossils and thought what that reminds me of is frozen urine."
+  },
+  {
+    "start": 1082,
+    "end": 1083,
+    "text": " Yeah."
+  },
+  {
+    "start": 1083,
+    "end": 1085,
+    "text": " Do we know why he drew that conclusion?"
+  },
+  {
+    "start": 1085,
+    "end": 1087,
+    "text": " Well, I think what it was is back in the day."
+  },
+  {
+    "start": 1087,
+    "end": 1088,
+    "text": " So this is what, 18th century?"
+  },
+  {
+    "start": 1088,
+    "end": 1090,
+    "text": " This is 17th century."
+  },
+  {
+    "start": 1090,
+    "end": 1092,
+    "text": " So you had like two lots of people."
+  },
+  {
+    "start": 1092,
+    "end": 1096,
+    "text": " Some of them thought that they were natural things that had been made from animals."
+  },
+  {
+    "start": 1096,
+    "end": 1100,
+    "text": " And the others thought it was just a physical process that they were made out of rocks."
+  },
+  {
+    "start": 1100,
+    "end": 1102,
+    "text": " And that they had nothing to do with animals at all."
+  },
+  {
+    "start": 1102,
+    "end": 1105,
+    "text": " And he was one of these people who thought they were made out of rocks."
+  },
+  {
+    "start": 1105,
+    "end": 1110,
+    "text": " And his idea of how they might have formed is that the urine reacted with the rocks."
+  },
+  {
+    "start": 1110,
+    "end": 1111,
+    "text": " Yeah."
+  },
+  {
+    "start": 1111,
+    "end": 1112,
+    "text": " It's urine salts, isn't it?"
+  },
+  {
+    "start": 1112,
+    "end": 1113,
+    "text": " Or something like that?"
+  },
+  {
+    "start": 1113,
+    "end": 1116,
+    "text": " What they're called urine salts that he thought made that specific pattern."
+  },
+  {
+    "start": 1116,
+    "end": 1120,
+    "text": " And what I thought was quite interesting was that the dominant view was that they weren't living things."
+  },
+  {
+    "start": 1120,
+    "end": 1124,
+    "text": " So that was really, really controversial for reasons probably related a lot to religion."
+  },
+  {
+    "start": 1124,
+    "end": 1130,
+    "text": " But the sort of dominant philosophical way of thinking was platonic at the time."
+  },
+  {
+    "start": 1130,
+    "end": 1134,
+    "text": " And so they adopted this neoplatonic approach, which is what they call it,"
+  },
+  {
+    "start": 1134,
+    "end": 1138,
+    "text": " which is the idea that everything in nature sort of mirrors everything else."
+  },
+  {
+    "start": 1138,
+    "end": 1140,
+    "text": " And there are patterns throughout nature."
+  },
+  {
+    "start": 1140,
+    "end": 1146,
+    "text": " So something that you find in the ground will have a pattern that imitates something that you'll see in the air."
+  },
+  {
+    "start": 1146,
+    "end": 1149,
+    "text": " Or patterns on birds will be the same as patterns in the earth."
+  },
+  {
+    "start": 1149,
+    "end": 1154,
+    "text": " And so when they found these fossils, that almost just confirmed the philosophy that a lot of people lived by,"
+  },
+  {
+    "start": 1154,
+    "end": 1156,
+    "text": " that Plato had said this is how the world works."
+  },
+  {
+    "start": 1156,
+    "end": 1160,
+    "text": " There are all these things on earth and they all conform to this specific pattern."
+  },
+  {
+    "start": 1160,
+    "end": 1164,
+    "text": " So they saw something that had exactly the same spirals as an animal might have on it."
+  },
+  {
+    "start": 1164,
+    "end": 1168,
+    "text": " And they thought, well, that makes sense because things in existence mirror other things."
+  },
+  {
+    "start": 1168,
+    "end": 1170,
+    "text": " And thinking maybe that is actually an animal."
+  },
+  {
+    "start": 1170,
+    "end": 1173,
+    "text": " Wow. Some people, of course, there was folklore behind them."
+  },
+  {
+    "start": 1173,
+    "end": 1179,
+    "text": " So you would think that an ammonite, which is the kind of spirally fossil, was actually a snake,"
+  },
+  {
+    "start": 1179,
+    "end": 1181,
+    "text": " which had been turned to stone by St. Patrick."
+  },
+  {
+    "start": 1181,
+    "end": 1182,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1182,
+    "end": 1183,
+    "text": " It was thought by a lot of people."
+  },
+  {
+    "start": 1183,
+    "end": 1184,
+    "text": " Really?"
+  },
+  {
+    "start": 1184,
+    "end": 1184,
+    "text": " Yeah."
+  },
+  {
+    "start": 1184,
+    "end": 1185,
+    "text": " Or St. Hilda."
+  },
+  {
+    "start": 1185,
+    "end": 1189,
+    "text": " And stars were a common apparent cause of fossils weren't they?"
+  },
+  {
+    "start": 1189,
+    "end": 1195,
+    "text": " People often thought that they'd been caused by falling stars or the action of stars on the ground had created fossils."
+  },
+  {
+    "start": 1195,
+    "end": 1200,
+    "text": " I think that was something that Leonardo da Vinci tried to tell people definitely couldn't be true and make any sense."
+  },
+  {
+    "start": 1200,
+    "end": 1202,
+    "text": " Oh, and another thing was it was controversial."
+  },
+  {
+    "start": 1202,
+    "end": 1205,
+    "text": " I think they were living things that had lived more than, let's say, 6,000 years ago,"
+  },
+  {
+    "start": 1205,
+    "end": 1207,
+    "text": " because at the time everyone was kind of creationist."
+  },
+  {
+    "start": 1207,
+    "end": 1211,
+    "text": " And so they couldn't believe that anything existed before that."
+  },
+  {
+    "start": 1211,
+    "end": 1214,
+    "text": " The universe was supposed to be created in 4,000 or 4 BC."
+  },
+  {
+    "start": 1214,
+    "end": 1215,
+    "text": " Yes, exactly."
+  },
+  {
+    "start": 1215,
+    "end": 1219,
+    "text": " But for some people, fossils, when they were discovered, confirmed creationism,"
+  },
+  {
+    "start": 1219,
+    "end": 1224,
+    "text": " because they were evidence of Noah's flood having swept lots of sea creatures up onto the mountains."
+  },
+  {
+    "start": 1224,
+    "end": 1228,
+    "text": " And so they were saying, look, this is his, the flood did this."
+  },
+  {
+    "start": 1228,
+    "end": 1231,
+    "text": " It brought all these things up to the mountains and then it retreated and left them here."
+  },
+  {
+    "start": 1231,
+    "end": 1234,
+    "text": " Which is kind of almost true, isn't it?"
+  },
+  {
+    "start": 1234,
+    "end": 1235,
+    "text": " Yeah, it is."
+  },
+  {
+    "start": 1235,
+    "end": 1237,
+    "text": " Yeah, it's just a much longer time frame."
+  },
+  {
+    "start": 1237,
+    "end": 1238,
+    "text": " Yeah."
+  },
+  {
+    "start": 1238,
+    "end": 1244,
+    "text": " The guy who came into curating the Ashmolian straight after plot, who was called Edward Lloyd,"
+  },
+  {
+    "start": 1244,
+    "end": 1247,
+    "text": " he thought that vapors came from the sea."
+  },
+  {
+    "start": 1247,
+    "end": 1249,
+    "text": " They carried spores."
+  },
+  {
+    "start": 1249,
+    "end": 1255,
+    "text": " The spores landed in rocks and then somehow the rocks managed to turn the spores into animals like fish."
+  },
+  {
+    "start": 1255,
+    "end": 1256,
+    "text": " Right."
+  },
+  {
+    "start": 1256,
+    "end": 1258,
+    "text": " Yeah, he was wrong as well."
+  },
+  {
+    "start": 1258,
+    "end": 1261,
+    "text": " But he thought that life was created from non-life."
+  },
+  {
+    "start": 1261,
+    "end": 1265,
+    "text": " Not necessarily life, but it was that these objects."
+  },
+  {
+    "start": 1265,
+    "end": 1268,
+    "text": " So it's, you've got something that looks like a fish, what created it?"
+  },
+  {
+    "start": 1268,
+    "end": 1272,
+    "text": " It might never have been alive, but something has been made that looks a bit like a fish."
+  },
+  {
+    "start": 1272,
+    "end": 1274,
+    "text": " And he thought it might have been spores that had gone into the rocks."
+  },
+  {
+    "start": 1274,
+    "end": 1278,
+    "text": " And there was some kind of process which allowed that rock to turn into a fish."
+  },
+  {
+    "start": 1278,
+    "end": 1279,
+    "text": " Okay."
+  },
+  {
+    "start": 1279,
+    "end": 1280,
+    "text": " Wow."
+  },
+  {
+    "start": 1280,
+    "end": 1281,
+    "text": " He's not too far away."
+  },
+  {
+    "start": 1281,
+    "end": 1287,
+    "text": " Because he's still at least placed a life form into the, so it's only it was partially organic."
+  },
+  {
+    "start": 1287,
+    "end": 1288,
+    "text": " It's hard, isn't it?"
+  },
+  {
+    "start": 1288,
+    "end": 1291,
+    "text": " Because these things don't make any sense until you know the answer."
+  },
+  {
+    "start": 1291,
+    "end": 1292,
+    "text": " Yeah."
+  },
+  {
+    "start": 1292,
+    "end": 1293,
+    "text": " And so you've got to come up with something, haven't you?"
+  },
+  {
+    "start": 1293,
+    "end": 1294,
+    "text": " What was it?"
+  },
+  {
+    "start": 1294,
+    "end": 1298,
+    "text": " So, yeah, when you saw the dinosaur bone, that makes total sense to go, well, this must have been just a giant human."
+  },
+  {
+    "start": 1298,
+    "end": 1303,
+    "text": " Back then, that maybe wasn't an outrageous suggestion because they were finding all these weird big things."
+  },
+  {
+    "start": 1303,
+    "end": 1305,
+    "text": " They thought, well, maybe we shrunk as well."
+  },
+  {
+    "start": 1305,
+    "end": 1312,
+    "text": " I always wondered this because you always find evidence of a giant millipede has been found a million years ago,"
+  },
+  {
+    "start": 1312,
+    "end": 1319,
+    "text": " or a giant lizard or a giant bird, which is a dinosaur or a giant shrew has just been found."
+  },
+  {
+    "start": 1319,
+    "end": 1321,
+    "text": " Or a giant kangaroo has been found."
+  },
+  {
+    "start": 1321,
+    "end": 1323,
+    "text": " Where are the giant humans from the past?"
+  },
+  {
+    "start": 1323,
+    "end": 1325,
+    "text": " The thigh bone, the robot plot, discovered."
+  },
+  {
+    "start": 1325,
+    "end": 1326,
+    "text": " Yeah."
+  },
+  {
+    "start": 1326,
+    "end": 1328,
+    "text": " 100 years later, it was given to Richard Brooks."
+  },
+  {
+    "start": 1328,
+    "end": 1331,
+    "text": " And he called it scrotum humonum because it looked like a giant scrotum."
+  },
+  {
+    "start": 1331,
+    "end": 1338,
+    "text": " And it's quite annoying because he went through robot plots papers and he started looking through them and organizing them."
+  },
+  {
+    "start": 1338,
+    "end": 1341,
+    "text": " And then he found that drawing and he wrote scrotum humonum."
+  },
+  {
+    "start": 1341,
+    "end": 1348,
+    "text": " And it sounds to me like he didn't genuinely think that that was solid balls."
+  },
+  {
+    "start": 1348,
+    "end": 1349,
+    "text": " Yeah."
+  },
+  {
+    "start": 1349,
+    "end": 1352,
+    "text": " Because I don't think anything has solid balls like that."
+  },
+  {
+    "start": 1352,
+    "end": 1354,
+    "text": " It's odd to think that that was."
+  },
+  {
+    "start": 1354,
+    "end": 1355,
+    "text": " But yeah."
+  },
+  {
+    "start": 1355,
+    "end": 1356,
+    "text": " Corrista's."
+  },
+  {
+    "start": 1356,
+    "end": 1359,
+    "text": " Corrista's to one exception."
+  },
+  {
+    "start": 1359,
+    "end": 1362,
+    "text": " You know, he thought it was an elephant when he first found it."
+  },
+  {
+    "start": 1362,
+    "end": 1366,
+    "text": " And then he wrote that so he found this huge bone."
+  },
+  {
+    "start": 1366,
+    "end": 1370,
+    "text": " And he said, I thought it was an elephant bone from when the Romans invaded."
+  },
+  {
+    "start": 1370,
+    "end": 1373,
+    "text": " So they came across with elephants invading us was the theory."
+  },
+  {
+    "start": 1373,
+    "end": 1377,
+    "text": " And then he reported that there happily came to Oxford while I was writing of this,"
+  },
+  {
+    "start": 1377,
+    "end": 1381,
+    "text": " a living elephant to be shown publicly with whose bones I compared hours."
+  },
+  {
+    "start": 1381,
+    "end": 1383,
+    "text": " So an elephant just rocked up into town."
+  },
+  {
+    "start": 1383,
+    "end": 1386,
+    "text": " And I don't know how he got access to it."
+  },
+  {
+    "start": 1386,
+    "end": 1389,
+    "text": " I guess he compared his own thigh bone to the elephants and went."
+  },
+  {
+    "start": 1389,
+    "end": 1390,
+    "text": " Yeah."
+  },
+  {
+    "start": 1390,
+    "end": 1391,
+    "text": " Doesn't look the same at all."
+  },
+  {
+    "start": 1391,
+    "end": 1395,
+    "text": " I like the idea of that happy coincidence that there happened to be an elephant in town."
+  },
+  {
+    "start": 1395,
+    "end": 1396,
+    "text": " Yeah."
+  },
+  {
+    "start": 1396,
+    "end": 1397,
+    "text": " Yeah."
+  },
+  {
+    "start": 1397,
+    "end": 1398,
+    "text": " That's quite good."
+  },
+  {
+    "start": 1398,
+    "end": 1399,
+    "text": " It's rocking up."
+  },
+  {
+    "start": 1399,
+    "end": 1401,
+    "text": " I wrote to the Ashmoline Museum to say, do you still have the bone?"
+  },
+  {
+    "start": 1401,
+    "end": 1404,
+    "text": " And they said, we don't keep dinosaur bones here."
+  },
+  {
+    "start": 1404,
+    "end": 1406,
+    "text": " And you should try out other places."
+  },
+  {
+    "start": 1406,
+    "end": 1407,
+    "text": " And I started looking into it more."
+  },
+  {
+    "start": 1407,
+    "end": 1409,
+    "text": " Turns out they lost it."
+  },
+  {
+    "start": 1409,
+    "end": 1412,
+    "text": " No one knows where this, where this bone, where this giant scrotum is."
+  },
+  {
+    "start": 1412,
+    "end": 1417,
+    "text": " And actually the giant scrotum is, it plays a very fundamental role in our understanding of dinosaurs."
+  },
+  {
+    "start": 1417,
+    "end": 1422,
+    "text": " Because yes, Richard Brooks saw it and he described it and called it the scrotum of a human."
+  },
+  {
+    "start": 1422,
+    "end": 1424,
+    "text": " But then Richard Owen saw it as well."
+  },
+  {
+    "start": 1424,
+    "end": 1431,
+    "text": " And Richard Owen at that time was putting together his theories about what eventually led him to coining the word dinosaur."
+  },
+  {
+    "start": 1431,
+    "end": 1435,
+    "text": " And the first dinosaur that he put together, the pieces together, was the Megalosaurus."
+  },
+  {
+    "start": 1435,
+    "end": 1439,
+    "text": " And that bone, scrotum humanum, was part of the Megalosaurus."
+  },
+  {
+    "start": 1439,
+    "end": 1445,
+    "text": " So that initial drawing actually led to the conclusion of dinosaurs, which is quite cool."
+  },
+  {
+    "start": 1445,
+    "end": 1447,
+    "text": " So plot had no idea what he'd discovered."
+  },
+  {
+    "start": 1447,
+    "end": 1450,
+    "text": " But there we have it, the first drawing of a dinosaur bone."
+  },
+  {
+    "start": 1450,
+    "end": 1451,
+    "text": " Yeah."
+  },
+  {
+    "start": 1451,
+    "end": 1452,
+    "text": " Quite cool."
+  },
+  {
+    "start": 1452,
+    "end": 1454,
+    "text": " He was super useful, even though he had wacky theories."
+  },
+  {
+    "start": 1454,
+    "end": 1456,
+    "text": " I guess it's like a lot of people from that era."
+  },
+  {
+    "start": 1456,
+    "end": 1459,
+    "text": " He just collected loads and loads and loads of stuff and recorded it, right?"
+  },
+  {
+    "start": 1459,
+    "end": 1459,
+    "text": " Yeah."
+  },
+  {
+    "start": 1459,
+    "end": 1463,
+    "text": " So a lot of things that we later realized would have been drawn from his work."
+  },
+  {
+    "start": 1463,
+    "end": 1464,
+    "text": " Got to give him some credit."
+  },
+  {
+    "start": 1464,
+    "end": 1465,
+    "text": " Yeah."
+  },
+  {
+    "start": 1465,
+    "end": 1467,
+    "text": " I mean, everyone would have been thinking like that at the time."
+  },
+  {
+    "start": 1467,
+    "end": 1468,
+    "text": " Yeah."
+  },
+  {
+    "start": 1468,
+    "end": 1475,
+    "text": " It's not, it would not have been out of place to suggest some sort of mythical, mystical kind of background that is in line with the church at the time."
+  },
+  {
+    "start": 1475,
+    "end": 1480,
+    "text": " He died in 1696 after suffering from a urinary complaint."
+  },
+  {
+    "start": 1480,
+    "end": 1481,
+    "text": " I thought that was quite."
+  },
+  {
+    "start": 1481,
+    "end": 1482,
+    "text": " How fitting."
+  },
+  {
+    "start": 1482,
+    "end": 1483,
+    "text": " Yeah, fitting."
+  },
+  {
+    "start": 1483,
+    "end": 1490,
+    "text": " In April this year, we discovered an ancient daddy long legs that's been encased in amber for nice 9 million years and it has an erection."
+  },
+  {
+    "start": 1490,
+    "end": 1491,
+    "text": " Really?"
+  },
+  {
+    "start": 1491,
+    "end": 1492,
+    "text": " Yep."
+  },
+  {
+    "start": 1492,
+    "end": 1494,
+    "text": " Wish it was not just a spare leg."
+  },
+  {
+    "start": 1494,
+    "end": 1495,
+    "text": " No, it's definitely an erection."
+  },
+  {
+    "start": 1495,
+    "end": 1497,
+    "text": " They had a sense of the Daily Mail."
+  },
+  {
+    "start": 1497,
+    "end": 1499,
+    "text": " I didn't know they could get erections."
+  },
+  {
+    "start": 1499,
+    "end": 1502,
+    "text": " I mean, I just didn't know they had a stick penis either."
+  },
+  {
+    "start": 1502,
+    "end": 1503,
+    "text": " Yeah."
+  },
+  {
+    "start": 1503,
+    "end": 1511,
+    "text": " And just my favourite theory about where fossils came from actually from this era was a lot of people thought that they were a prank by the devil to try and test your faith."
+  },
+  {
+    "start": 1511,
+    "end": 1515,
+    "text": " But others thought that they were God practicing to make life."
+  },
+  {
+    "start": 1515,
+    "end": 1519,
+    "text": " So he made these fossils before he had the balls to really go ahead and make a living thing."
+  },
+  {
+    "start": 1519,
+    "end": 1521,
+    "text": " He thought I'll practice with some of the shapes."
+  },
+  {
+    "start": 1521,
+    "end": 1526,
+    "text": " And so they were just like his sketches before he made actual living creatures."
+  },
+  {
+    "start": 1526,
+    "end": 1527,
+    "text": " That's a great theory."
+  },
+  {
+    "start": 1527,
+    "end": 1528,
+    "text": " It's good, isn't it?"
+  },
+  {
+    "start": 1528,
+    "end": 1529,
+    "text": " Yeah."
+  },
+  {
+    "start": 1529,
+    "end": 1531,
+    "text": " Maybe the moon is a practice earth then."
+  },
+  {
+    "start": 1531,
+    "end": 1532,
+    "text": " If then all the fossils are practice animals."
+  },
+  {
+    "start": 1532,
+    "end": 1535,
+    "text": " Maybe you would have fitted right in in the 1600s."
+  },
+  {
+    "start": 1535,
+    "end": 1537,
+    "text": " It's so good, yeah."
+  },
+  {
+    "start": 1537,
+    "end": 1543,
+    "text": " On urine fossils, urine can fossilise and hyrax urine is telling us about climate change."
+  },
+  {
+    "start": 1543,
+    "end": 1550,
+    "text": " So this is this really clever geologists have discovered which is that hyraxes which live in South Africa and places like that."
+  },
+  {
+    "start": 1550,
+    "end": 1554,
+    "text": " You can probably picture them, they look like big jubbles or guinea pigs."
+  },
+  {
+    "start": 1554,
+    "end": 1559,
+    "text": " Although actually their closest living relatives are elephants and manatees which is kind of cool."
+  },
+  {
+    "start": 1559,
+    "end": 1564,
+    "text": " But anyway, these big jubble things that are related to elephants and they always urinate in the same place."
+  },
+  {
+    "start": 1564,
+    "end": 1570,
+    "text": " To the extent that once they've picked a urination spot they'll keep doing that generation after generation for thousands and thousands of years."
+  },
+  {
+    "start": 1570,
+    "end": 1572,
+    "text": " Wow, the same family just forever."
+  },
+  {
+    "start": 1572,
+    "end": 1573,
+    "text": " Same family forever."
+  },
+  {
+    "start": 1573,
+    "end": 1576,
+    "text": " So some of these fossils date back 30,000 years or more."
+  },
+  {
+    "start": 1576,
+    "end": 1582,
+    "text": " They've been urinating in the same place, your father's father pissed here and your bloody piss here."
+  },
+  {
+    "start": 1582,
+    "end": 1587,
+    "text": " Imagine how rebellious a hyrax it would be who pissed somewhere else after 30,000 years."
+  },
+  {
+    "start": 1587,
+    "end": 1593,
+    "text": " But anyway, this eventually has crystallised over thousands of years into blocks of stratified material."
+  },
+  {
+    "start": 1593,
+    "end": 1599,
+    "text": " And by investigating it we can see what hyraxes were eating at different times in the last 30,000 years let's say."
+  },
+  {
+    "start": 1599,
+    "end": 1602,
+    "text": " So if you get a strat the smells of asparagus."
+  },
+  {
+    "start": 1602,
+    "end": 1607,
+    "text": " Exactly, it was a smelly time in 10,000 BC."
+  },
+  {
+    "start": 1607,
+    "end": 1609,
+    "text": " You can tell what vegetation's grown."
+  },
+  {
+    "start": 1609,
+    "end": 1614,
+    "text": " And so we can tell what was growing when based on these sticks of hyrax urine."
+  },
+  {
+    "start": 1614,
+    "end": 1617,
+    "text": " Because you've taken samples from the surrounding area."
+  },
+  {
+    "start": 1617,
+    "end": 1620,
+    "text": " Yeah, exactly. They've collected their own geological samples."
+  },
+  {
+    "start": 1620,
+    "end": 1622,
+    "text": " Maybe that's why they're doing it."
+  },
+  {
+    "start": 1622,
+    "end": 1625,
+    "text": " And we've just come along and kind of smash it all up to look at it and they're going,"
+  },
+  {
+    "start": 1625,
+    "end": 1628,
+    "text": " \"Okay, cool. We were going to make a museum out of that in a few thousand years.\""
+  },
+  {
+    "start": 1628,
+    "end": 1632,
+    "text": " So, where are we going to piss now?"
+  },
+  {
+    "start": 1632,
+    "end": 1641,
+    "text": " Okay, it is time for a final fact of the show and that is Chazinski."
+  },
+  {
+    "start": 1641,
+    "end": 1648,
+    "text": " My fact this week is that Leonardo da Vinci made sculptures out of Marzipan and got angry when people ate them."
+  },
+  {
+    "start": 1648,
+    "end": 1652,
+    "text": " Was it a massive, you know, David or..."
+  },
+  {
+    "start": 1652,
+    "end": 1654,
+    "text": " That was the original David, yes."
+  },
+  {
+    "start": 1654,
+    "end": 1656,
+    "text": " Or they tiny little things like Spongebob."
+  },
+  {
+    "start": 1656,
+    "end": 1658,
+    "text": " No, I think they were very elaborate a lot of them."
+  },
+  {
+    "start": 1658,
+    "end": 1667,
+    "text": " So, I know this from one of his notebooks in which he says that he'd made all these intricate Marzipan sculptures for the court in Milan that he worked for."
+  },
+  {
+    "start": 1667,
+    "end": 1673,
+    "text": " And he said, \"I have observed with pain that people gobble up all these sculptures I give them right to the last morsel."
+  },
+  {
+    "start": 1673,
+    "end": 1677,
+    "text": " And I'm determined to find other means that do not taste as good so my works may survive.\""
+  },
+  {
+    "start": 1677,
+    "end": 1679,
+    "text": " Which he did, fortunately."
+  },
+  {
+    "start": 1679,
+    "end": 1687,
+    "text": " So, do you think they viewed for his whole life he was doing sculptures in different things like cheese?"
+  },
+  {
+    "start": 1687,
+    "end": 1689,
+    "text": " Nope, they're eating that as well."
+  },
+  {
+    "start": 1689,
+    "end": 1691,
+    "text": " Stake."
+  },
+  {
+    "start": 1691,
+    "end": 1694,
+    "text": " The original one at least was made up pizza, but that's very long."
+  },
+  {
+    "start": 1694,
+    "end": 1701,
+    "text": " He has a whole... I genuinely did not know this until you told us that fact that he had a whole career working as a chef."
+  },
+  {
+    "start": 1701,
+    "end": 1702,
+    "text": " Yes."
+  },
+  {
+    "start": 1702,
+    "end": 1703,
+    "text": " I had no idea."
+  },
+  {
+    "start": 1703,
+    "end": 1705,
+    "text": " Like, he ran a restaurant."
+  },
+  {
+    "start": 1705,
+    "end": 1712,
+    "text": " I've struggled so much verifying this because there's this book of notes which some of a couple of places say is controversial, that it's his."
+  },
+  {
+    "start": 1712,
+    "end": 1716,
+    "text": " But then a lot of books write this down as his absolute career."
+  },
+  {
+    "start": 1716,
+    "end": 1718,
+    "text": " But I don't know how dangerous it is that we say it."
+  },
+  {
+    "start": 1718,
+    "end": 1722,
+    "text": " What you're saying is maybe his notes have got mixed up with God and Rumsy's notes also."
+  },
+  {
+    "start": 1722,
+    "end": 1725,
+    "text": " I got very sweary around page five."
+  },
+  {
+    "start": 1725,
+    "end": 1730,
+    "text": " But yeah, they do say that he used to be a chef, didn't he?"
+  },
+  {
+    "start": 1730,
+    "end": 1732,
+    "text": " So, he worked at a restaurant."
+  },
+  {
+    "start": 1732,
+    "end": 1737,
+    "text": " Yeah, a stepfather was a pastry chef and he had a nickname when he was 17, a fat boy."
+  },
+  {
+    "start": 1737,
+    "end": 1741,
+    "text": " And he was a wedding planner, like an extended entity, doing wedding planning."
+  },
+  {
+    "start": 1741,
+    "end": 1742,
+    "text": " Yeah."
+  },
+  {
+    "start": 1742,
+    "end": 1744,
+    "text": " This whole side of DaVinci, I had no idea."
+  },
+  {
+    "start": 1744,
+    "end": 1745,
+    "text": " Yeah."
+  },
+  {
+    "start": 1745,
+    "end": 1749,
+    "text": " And he took over. The only reason he became a chef, so he was just working in the restaurant."
+  },
+  {
+    "start": 1749,
+    "end": 1757,
+    "text": " But supposedly in 1473, there was a poisoning that killed the majority of the cooking staff, so he just took over."
+  },
+  {
+    "start": 1757,
+    "end": 1764,
+    "text": " A chef, and the three snails, wasn't it? Yes, yeah. But then I think he got fired because he liked to make kind of newvo cuisine style,"
+  },
+  {
+    "start": 1764,
+    "end": 1767,
+    "text": " really tiny, delicious, perfectly sculpted portions, and people didn't care for that."
+  },
+  {
+    "start": 1767,
+    "end": 1769,
+    "text": " They just wanted huge amounts of food."
+  },
+  {
+    "start": 1769,
+    "end": 1777,
+    "text": " But there's another continuation of the story, which says that he paired up with Botticelli to do some art with Botticelli at one point."
+  },
+  {
+    "start": 1777,
+    "end": 1778,
+    "text": " That's definitely true."
+  },
+  {
+    "start": 1778,
+    "end": 1782,
+    "text": " And him and Botticelli started a restaurant together called The Three Frogs."
+  },
+  {
+    "start": 1782,
+    "end": 1789,
+    "text": " And this is on the a faezy gallery website in Florence, the gallery in Florence, and various other Spanish sources."
+  },
+  {
+    "start": 1789,
+    "end": 1793,
+    "text": " And Italian sources say that, yeah, him and Botticelli started this restaurant together."
+  },
+  {
+    "start": 1793,
+    "end": 1800,
+    "text": " And the way it works, according to tourist sites, but again, I would love first-hand information on this if anyone has it,"
+  },
+  {
+    "start": 1800,
+    "end": 1805,
+    "text": " is that the guest could choose the dishes by reading the menu, which was written from right to left,"
+  },
+  {
+    "start": 1805,
+    "end": 1811,
+    "text": " because that was how Leonardo da Vinci famously wrote, or they could choose the dishes by looking at the pictures that were drawn by Botticelli."
+  },
+  {
+    "start": 1811,
+    "end": 1815,
+    "text": " Which sounds so implausible, but what a great idea."
+  },
+  {
+    "start": 1815,
+    "end": 1817,
+    "text": " It's like a themed restaurant. It's like Hannah Holley."
+  },
+  {
+    "start": 1817,
+    "end": 1818,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 1818,
+    "end": 1820,
+    "text": " He invented a giant whisk, apparently."
+  },
+  {
+    "start": 1820,
+    "end": 1822,
+    "text": " Oh, yeah, his adventures."
+  },
+  {
+    "start": 1822,
+    "end": 1824,
+    "text": " It was larger than a man."
+  },
+  {
+    "start": 1824,
+    "end": 1827,
+    "text": " What could you whisk with that?"
+  },
+  {
+    "start": 1827,
+    "end": 1830,
+    "text": " I think the model, so this is just a sketch of his."
+  },
+  {
+    "start": 1830,
+    "end": 1832,
+    "text": " I don't think he actually created it."
+  },
+  {
+    "start": 1832,
+    "end": 1834,
+    "text": " We always say inventors stuff when he just drew it."
+  },
+  {
+    "start": 1834,
+    "end": 1835,
+    "text": " I know, he drew it."
+  },
+  {
+    "start": 1835,
+    "end": 1837,
+    "text": " I was going to say, there's a doodle."
+  },
+  {
+    "start": 1837,
+    "end": 1843,
+    "text": " But all that is, is it's a normal size whisk with, on the right hand side, scale one to one hundred."
+  },
+  {
+    "start": 1843,
+    "end": 1846,
+    "text": " It's not like his drawing will have been bigger than the man."
+  },
+  {
+    "start": 1846,
+    "end": 1848,
+    "text": " He drew a man in the whisk."
+  },
+  {
+    "start": 1848,
+    "end": 1851,
+    "text": " I think part of the operation of the whisk is that a man has to be inside it."
+  },
+  {
+    "start": 1851,
+    "end": 1855,
+    "text": " That's just a man with no sense of perspective in his drawings."
+  },
+  {
+    "start": 1855,
+    "end": 1860,
+    "text": " How can we be sure that he didn't invent the tiny man?"
+  },
+  {
+    "start": 1860,
+    "end": 1865,
+    "text": " He has some of his other bits of artwork that have been destroyed and kind of not respected."
+  },
+  {
+    "start": 1865,
+    "end": 1871,
+    "text": " We know the Last Supper came really close to destruction during the war and the Allies fought Allied forces bombed it."
+  },
+  {
+    "start": 1871,
+    "end": 1874,
+    "text": " And there's that amazing picture of the whole building destroyed,"
+  },
+  {
+    "start": 1874,
+    "end": 1877,
+    "text": " except for the one wall that's got the Last Supper on it."
+  },
+  {
+    "start": 1877,
+    "end": 1880,
+    "text": " So he was also sort of a bit of a sculpture."
+  },
+  {
+    "start": 1880,
+    "end": 1885,
+    "text": " But the only sculpture we have surviving of his is a beeswax model of a horse"
+  },
+  {
+    "start": 1885,
+    "end": 1888,
+    "text": " that was supposed to be a model for a proper sculpture like a plant."
+  },
+  {
+    "start": 1888,
+    "end": 1889,
+    "text": " Was that a model for?"
+  },
+  {
+    "start": 1889,
+    "end": 1893,
+    "text": " He was going to do a massive brass man in a horse, wasn't he?"
+  },
+  {
+    "start": 1893,
+    "end": 1895,
+    "text": " Heal Colosse, I think."
+  },
+  {
+    "start": 1895,
+    "end": 1896,
+    "text": " Yes."
+  },
+  {
+    "start": 1896,
+    "end": 1899,
+    "text": " And they basically got loads and loads and loads of brass from all over the country,"
+  },
+  {
+    "start": 1899,
+    "end": 1901,
+    "text": " even all over Europe, maybe."
+  },
+  {
+    "start": 1901,
+    "end": 1906,
+    "text": " And they never made it because they went to war and used them to make guns or something like that."
+  },
+  {
+    "start": 1906,
+    "end": 1908,
+    "text": " That was a different one from the one made of beeswax."
+  },
+  {
+    "start": 1908,
+    "end": 1910,
+    "text": " But yeah, it was for the Duke of Milan, that was the one he was talking about."
+  },
+  {
+    "start": 1910,
+    "end": 1912,
+    "text": " And then he had made a plaster cast of that."
+  },
+  {
+    "start": 1912,
+    "end": 1914,
+    "text": " And they were always waiting for the bronze to arrive."
+  },
+  {
+    "start": 1914,
+    "end": 1920,
+    "text": " And then they used the bronze for the war and they used the plaster cast for target practice."
+  },
+  {
+    "start": 1920,
+    "end": 1923,
+    "text": " The last supper was also used to target practice."
+  },
+  {
+    "start": 1923,
+    "end": 1924,
+    "text": " I can believe that."
+  },
+  {
+    "start": 1924,
+    "end": 1925,
+    "text": " Really?"
+  },
+  {
+    "start": 1925,
+    "end": 1928,
+    "text": " When the Berlin Spurs were camped out in that town, they used it."
+  },
+  {
+    "start": 1928,
+    "end": 1929,
+    "text": " Why isn't it more damaged?"
+  },
+  {
+    "start": 1929,
+    "end": 1931,
+    "text": " It was too high for Jesus."
+  },
+  {
+    "start": 1931,
+    "end": 1935,
+    "text": " They were aiming for Jesus's head and they got one bullet through it and it's been restored."
+  },
+  {
+    "start": 1935,
+    "end": 1937,
+    "text": " So they were terrible as well?"
+  },
+  {
+    "start": 1937,
+    "end": 1938,
+    "text": " Yeah, awful."
+  },
+  {
+    "start": 1938,
+    "end": 1939,
+    "text": " Thank God."
+  },
+  {
+    "start": 1939,
+    "end": 1940,
+    "text": " Poor guy."
+  },
+  {
+    "start": 1940,
+    "end": 1943,
+    "text": " Just an entire history of his works being destroyed."
+  },
+  {
+    "start": 1943,
+    "end": 1946,
+    "text": " And rats ate another one of his food sculptures."
+  },
+  {
+    "start": 1946,
+    "end": 1948,
+    "text": " I think I was reading this in."
+  },
+  {
+    "start": 1948,
+    "end": 1951,
+    "text": " That was the one he made out of cheese, wasn't it?"
+  },
+  {
+    "start": 1951,
+    "end": 1956,
+    "text": " This was, so James, you're asking at the start how big his Marzipan sculpture was."
+  },
+  {
+    "start": 1956,
+    "end": 1960,
+    "text": " And this particular one was an altar of Polenta and Marzipan."
+  },
+  {
+    "start": 1960,
+    "end": 1963,
+    "text": " He made for his patron who was this guy called Ludovico Sforza."
+  },
+  {
+    "start": 1963,
+    "end": 1965,
+    "text": " And it was for this guy's wedding."
+  },
+  {
+    "start": 1965,
+    "end": 1973,
+    "text": " And so he made a sculpture, our Polenta and Marzipan, that measured 72 square yards and was covered with cream."
+  },
+  {
+    "start": 1973,
+    "end": 1976,
+    "text": " And he made this a few days before the wedding."
+  },
+  {
+    "start": 1976,
+    "end": 1981,
+    "text": " And before the wedding could happen, it was eaten by rats and insects in Milan."
+  },
+  {
+    "start": 1981,
+    "end": 1982,
+    "text": " It was such a thing."
+  },
+  {
+    "start": 1982,
+    "end": 1987,
+    "text": " Marzipan, it seems that it was used for table decoration as much as it was used for eating."
+  },
+  {
+    "start": 1987,
+    "end": 1993,
+    "text": " And actually, a huge purpose of sweet food in the 16th and 17th centuries was to decorate tables."
+  },
+  {
+    "start": 1993,
+    "end": 1997,
+    "text": " We might have said before, in fact, I'm sure I must have said it because it's one of my favourite ever facts"
+  },
+  {
+    "start": 1997,
+    "end": 2001,
+    "text": " that Antoine Carem made a Marzipan vagina for someone's christening."
+  },
+  {
+    "start": 2001,
+    "end": 2006,
+    "text": " It was a christening of a noble person in France, I think it was."
+  },
+  {
+    "start": 2006,
+    "end": 2013,
+    "text": " And he made a clockwork vagina made out of Marzipan, that a Marzipan baby came out of."
+  },
+  {
+    "start": 2013,
+    "end": 2015,
+    "text": " I think we have definitely said that before."
+  },
+  {
+    "start": 2015,
+    "end": 2017,
+    "text": " And I think you can't say it too much."
+  },
+  {
+    "start": 2017,
+    "end": 2020,
+    "text": " Whenever it gets mentioned, we should leave it in."
+  },
+  {
+    "start": 2020,
+    "end": 2023,
+    "text": " Marzipan is apparently incredibly malleable, really good."
+  },
+  {
+    "start": 2023,
+    "end": 2025,
+    "text": " It's like better than clay for building a sculpture."
+  },
+  {
+    "start": 2025,
+    "end": 2026,
+    "text": " That's why he liked it."
+  },
+  {
+    "start": 2026,
+    "end": 2028,
+    "text": " Apparently it's better than duct tape and everything."
+  },
+  {
+    "start": 2028,
+    "end": 2031,
+    "text": " When they wallet, they make flip flops out of it."
+  },
+  {
+    "start": 2031,
+    "end": 2035,
+    "text": " And my spaceflight, Marzipan was taken in just a minute."
+  },
+  {
+    "start": 2035,
+    "end": 2039,
+    "text": " He's credited with inventing the napkin as well."
+  },
+  {
+    "start": 2039,
+    "end": 2040,
+    "text": " I've never heard that before."
+  },
+  {
+    "start": 2040,
+    "end": 2042,
+    "text": " He was credited by idiots, so yeah."
+  },
+  {
+    "start": 2042,
+    "end": 2045,
+    "text": " He also invented the first CV, didn't he?"
+  },
+  {
+    "start": 2045,
+    "end": 2046,
+    "text": " The first resume."
+  },
+  {
+    "start": 2046,
+    "end": 2047,
+    "text": " Did he?"
+  },
+  {
+    "start": 2047,
+    "end": 2048,
+    "text": " Did he write it on the napkin?"
+  },
+  {
+    "start": 2048,
+    "end": 2053,
+    "text": " He probably wrote the fact that he made the first CV on his CV as well."
+  },
+  {
+    "start": 2053,
+    "end": 2055,
+    "text": " Oh yeah, inventor of the CV."
+  },
+  {
+    "start": 2055,
+    "end": 2058,
+    "text": " I can't believe this."
+  },
+  {
+    "start": 2058,
+    "end": 2060,
+    "text": " That just can't be true."
+  },
+  {
+    "start": 2060,
+    "end": 2063,
+    "text": " It can't be true that he was the first person to wipe his mouth"
+  },
+  {
+    "start": 2063,
+    "end": 2064,
+    "text": " with a bit of cloth."
+  },
+  {
+    "start": 2064,
+    "end": 2067,
+    "text": " And it can't be the true that he was the first person to write down everything he felt."
+  },
+  {
+    "start": 2067,
+    "end": 2070,
+    "text": " He did what he wrote when he was serving at the table of his patron."
+  },
+  {
+    "start": 2070,
+    "end": 2073,
+    "text": " He noticed that people would be just wiping their faces"
+  },
+  {
+    "start": 2073,
+    "end": 2075,
+    "text": " on the table cloth or on each other's clothes."
+  },
+  {
+    "start": 2075,
+    "end": 2078,
+    "text": " He wrote a list of manners that would be expected at the table."
+  },
+  {
+    "start": 2078,
+    "end": 2081,
+    "text": " And one of them was nobody should clean his knife with his neighbor's clothes."
+  },
+  {
+    "start": 2081,
+    "end": 2083,
+    "text": " So people were just cleaning stuff with whatever was to hand."
+  },
+  {
+    "start": 2083,
+    "end": 2086,
+    "text": " And so he introduced the idea of giving everyone a napkin"
+  },
+  {
+    "start": 2086,
+    "end": 2088,
+    "text": " specifically for wiping their hands."
+  },
+  {
+    "start": 2088,
+    "end": 2091,
+    "text": " I like that he's like, well now you finished eating my marzipan sculpture."
+  },
+  {
+    "start": 2091,
+    "end": 2093,
+    "text": " I spent ages, I've at least wiped my mouth with this."
+  },
+  {
+    "start": 2093,
+    "end": 2094,
+    "text": " I've invented it."
+  },
+  {
+    "start": 2094,
+    "end": 2100,
+    "text": " Some things that he definitely did invent that didn't exist beforehand"
+  },
+  {
+    "start": 2100,
+    "end": 2102,
+    "text": " were his weapons for war."
+  },
+  {
+    "start": 2102,
+    "end": 2103,
+    "text": " Yeah."
+  },
+  {
+    "start": 2103,
+    "end": 2107,
+    "text": " So he invented a mechanism for repelling enemy ladders."
+  },
+  {
+    "start": 2107,
+    "end": 2109,
+    "text": " And like Wallace and Gromit, they're brilliant."
+  },
+  {
+    "start": 2109,
+    "end": 2112,
+    "text": " Yeah, a more efficient way to poor burning oil on enemy heads."
+  },
+  {
+    "start": 2112,
+    "end": 2115,
+    "text": " And more, finally, a more efficient way."
+  },
+  {
+    "start": 2115,
+    "end": 2118,
+    "text": " It's like an infomercial because I'm dropping a little bit more."
+  },
+  {
+    "start": 2118,
+    "end": 2121,
+    "text": " I never get it over my animal soldiers."
+  },
+  {
+    "start": 2121,
+    "end": 2125,
+    "text": " He also is supposed to have invented the idea of the contact lens."
+  },
+  {
+    "start": 2125,
+    "end": 2128,
+    "text": " But I saw the picture and the idea is that it's a bowl,"
+  },
+  {
+    "start": 2128,
+    "end": 2131,
+    "text": " basically a bowl full of water that you put your entire face in"
+  },
+  {
+    "start": 2131,
+    "end": 2132,
+    "text": " and the water refracts."
+  },
+  {
+    "start": 2132,
+    "end": 2133,
+    "text": " Which isn't really pretty cool."
+  },
+  {
+    "start": 2133,
+    "end": 2135,
+    "text": " Did he invent the snorkel as well?"
+  },
+  {
+    "start": 2135,
+    "end": 2136,
+    "text": " Or is this the thing?"
+  },
+  {
+    "start": 2136,
+    "end": 2138,
+    "text": " You can't really use it for any length of time."
+  },
+  {
+    "start": 2138,
+    "end": 2140,
+    "text": " Hang on, so you plunge your face into a bowl of water"
+  },
+  {
+    "start": 2140,
+    "end": 2142,
+    "text": " and open your eyes and you can see better."
+  },
+  {
+    "start": 2142,
+    "end": 2144,
+    "text": " Yeah, the water is supposed to counteract."
+  },
+  {
+    "start": 2144,
+    "end": 2146,
+    "text": " But the refraction in the water is supposed to counteract."
+  },
+  {
+    "start": 2146,
+    "end": 2148,
+    "text": " The short-sightedness."
+  },
+  {
+    "start": 2148,
+    "end": 2150,
+    "text": " He sometimes misfired, didn't he?"
+  },
+  {
+    "start": 2150,
+    "end": 2151,
+    "text": " I think."
+  },
+  {
+    "start": 2151,
+    "end": 2153,
+    "text": " And he pretty much always misfired."
+  },
+  {
+    "start": 2153,
+    "end": 2157,
+    "text": " A lot of his medical ideas, because he did the section"
+  },
+  {
+    "start": 2157,
+    "end": 2161,
+    "text": " which was illegal, but he came up with lots of medical theories"
+  },
+  {
+    "start": 2161,
+    "end": 2164,
+    "text": " which were not accepted for hundreds of years."
+  },
+  {
+    "start": 2164,
+    "end": 2168,
+    "text": " But the truth is that people didn't read his work for hundreds of years"
+  },
+  {
+    "start": 2168,
+    "end": 2169,
+    "text": " because it was illegible."
+  },
+  {
+    "start": 2169,
+    "end": 2171,
+    "text": " A lot of it was written in code."
+  },
+  {
+    "start": 2171,
+    "end": 2173,
+    "text": " So, and a lot of it just wasn't read."
+  },
+  {
+    "start": 2173,
+    "end": 2178,
+    "text": " So, none of his scientific advancements were ever really useful"
+  },
+  {
+    "start": 2178,
+    "end": 2182,
+    "text": " because by the time people translated his work and found out that he'd come up with it,"
+  },
+  {
+    "start": 2182,
+    "end": 2184,
+    "text": " they'd already made those advancements."
+  },
+  {
+    "start": 2184,
+    "end": 2185,
+    "text": " Oh, right."
+  },
+  {
+    "start": 2185,
+    "end": 2186,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 2186,
+    "end": 2187,
+    "text": " I think that's my problem as well."
+  },
+  {
+    "start": 2187,
+    "end": 2188,
+    "text": " I have really bad handwriting."
+  },
+  {
+    "start": 2188,
+    "end": 2190,
+    "text": " You can't imagine, yes."
+  },
+  {
+    "start": 2190,
+    "end": 2195,
+    "text": " So, I assumed there was a lot of artwork that survives of Leonardo da Vinci."
+  },
+  {
+    "start": 2195,
+    "end": 2201,
+    "text": " For some reason, in my head, I had it at over 100, at least, different paintings and wall paintings and so on."
+  },
+  {
+    "start": 2201,
+    "end": 2208,
+    "text": " But there's 15 and of the 15, a lot are disputed, because he never signed his name."
+  },
+  {
+    "start": 2208,
+    "end": 2210,
+    "text": " I think Mona Lisa might be the only sign, what is it?"
+  },
+  {
+    "start": 2210,
+    "end": 2211,
+    "text": " Is it, really?"
+  },
+  {
+    "start": 2211,
+    "end": 2213,
+    "text": " I don't have something in the back of my head, so I'm not sure it's true."
+  },
+  {
+    "start": 2213,
+    "end": 2219,
+    "text": " I'm not sure if it is Mona Lisa sign, because the thing I read said that none of them are signed by him."
+  },
+  {
+    "start": 2219,
+    "end": 2220,
+    "text": " Maybe it is, though."
+  },
+  {
+    "start": 2220,
+    "end": 2221,
+    "text": " Maybe that might be an exception."
+  },
+  {
+    "start": 2221,
+    "end": 2224,
+    "text": " But a bunch of the paintings are disputed."
+  },
+  {
+    "start": 2224,
+    "end": 2233,
+    "text": " No one, all we're taking it upon as a verification is that the art historian has said, I think that this definitely is Leonardo's work."
+  },
+  {
+    "start": 2233,
+    "end": 2234,
+    "text": " That's true. A lot of paintings, I think."
+  },
+  {
+    "start": 2234,
+    "end": 2235,
+    "text": " That's a memory, though."
+  },
+  {
+    "start": 2235,
+    "end": 2240,
+    "text": " So we're kind of attributing a lot of the history of art to someone that might not have done it."
+  },
+  {
+    "start": 2240,
+    "end": 2251,
+    "text": " Well, that's, so if you're going to an art gallery, it'll always be like that, but art experts do seem to have this bizarre magic knack of telling exactly if a painting is painted by someone or painted by the very closely imitating people."
+  },
+  {
+    "start": 2251,
+    "end": 2252,
+    "text": " There are lots of ways of telling them like that."
+  },
+  {
+    "start": 2252,
+    "end": 2258,
+    "text": " So mostly they can tell the brush strokes or the type of paint that they used all sorts of different ways of doing it."
+  },
+  {
+    "start": 2258,
+    "end": 2260,
+    "text": " But yeah, that's definitely true."
+  },
+  {
+    "start": 2260,
+    "end": 2263,
+    "text": " The Mona Lisa is a great one because there's like three or four different versions."
+  },
+  {
+    "start": 2263,
+    "end": 2265,
+    "text": " There's the famous Mona Lisa, which is--"
+  },
+  {
+    "start": 2265,
+    "end": 2266,
+    "text": " Isn't there a topless one?"
+  },
+  {
+    "start": 2266,
+    "end": 2271,
+    "text": " Yeah, there's a new one that was painted the more nirvana and it's supposedly painted by his pupil, Sally."
+  },
+  {
+    "start": 2271,
+    "end": 2277,
+    "text": " And we also know him from his notebooks because you've got all of Leonardo's notebooks with his amazing backwards handwriting."
+  },
+  {
+    "start": 2277,
+    "end": 2280,
+    "text": " And then you've just got like shitty doodles of like penises with legs running around."
+  },
+  {
+    "start": 2280,
+    "end": 2284,
+    "text": " So I didn't know if that was real because it looks so fake."
+  },
+  {
+    "start": 2284,
+    "end": 2289,
+    "text": " Yeah, Sally was apparently Da Vinci's lover as well, which I think is almost undisputed."
+  },
+  {
+    "start": 2289,
+    "end": 2292,
+    "text": " And he took them in very young age apprentice."
+  },
+  {
+    "start": 2292,
+    "end": 2293,
+    "text": " Yeah, and yeah."
+  },
+  {
+    "start": 2293,
+    "end": 2300,
+    "text": " Because there are very bad penises with leg drawings, apparently by him, but I can't believe it. I'd love to see the original."
+  },
+  {
+    "start": 2300,
+    "end": 2305,
+    "text": " Yeah, but yeah, no, literally his version, supposedly if it's his, he just did a version of Mona Lisa that's just gone a close on."
+  },
+  {
+    "start": 2305,
+    "end": 2309,
+    "text": " And then there's also another Mona Lisa that is supposed to be exactly the same that was apparently done by another one of his pupils."
+  },
+  {
+    "start": 2309,
+    "end": 2313,
+    "text": " Which is in much better conditions, because it's not faintless and it's just hanging somewhere."
+  },
+  {
+    "start": 2313,
+    "end": 2315,
+    "text": " Just in someone's living room."
+  },
+  {
+    "start": 2315,
+    "end": 2319,
+    "text": " Well, one of the paintings he did that was disputed was his first ever painting."
+  },
+  {
+    "start": 2319,
+    "end": 2327,
+    "text": " And this was going to be my headline facts, which is that the first painting he painted, he had to paint as punishment for eating too many sweets."
+  },
+  {
+    "start": 2327,
+    "end": 2332,
+    "text": " But this is when he was an apprentice and he worked in the studio of an artist called Viruchio."
+  },
+  {
+    "start": 2332,
+    "end": 2336,
+    "text": " And he used to get packets of sweets sent to him."
+  },
+  {
+    "start": 2336,
+    "end": 2342,
+    "text": " And apparently he had a very sweet tooth was responsible for Crapulando, which essentially means stuffing your face."
+  },
+  {
+    "start": 2342,
+    "end": 2348,
+    "text": " And so Viruchio punished him by instructing him to paint an angel in the corner of his big picture of the baptism of Christ."
+  },
+  {
+    "start": 2348,
+    "end": 2351,
+    "text": " Which I don't know why that's punishment when you've come to study art."
+  },
+  {
+    "start": 2351,
+    "end": 2353,
+    "text": " And you're, yeah, it's your main passion."
+  },
+  {
+    "start": 2353,
+    "end": 2356,
+    "text": " But anyway, that's apparently his first painting is this angel."
+  },
+  {
+    "start": 2356,
+    "end": 2360,
+    "text": " If you look up Viruchio's baptism of Christ, there's adventures with angel in the corner."
+  },
+  {
+    "start": 2360,
+    "end": 2366,
+    "text": " You know that extremely old drawing of Da Vinci, the self-portraits that's done in, they call it the red chalk one."
+  },
+  {
+    "start": 2366,
+    "end": 2369,
+    "text": " Yeah, so it's the kind of sketch look and yeah."
+  },
+  {
+    "start": 2369,
+    "end": 2374,
+    "text": " So even that is disputed about whether or not that's Da Vinci and whether or not he did it himself."
+  },
+  {
+    "start": 2374,
+    "end": 2381,
+    "text": " And one of the main reasons behind that is the guy in the drawing is way older than Da Vinci lived to."
+  },
+  {
+    "start": 2381,
+    "end": 2382,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 2382,
+    "end": 2383,
+    "text": " Yeah, he's his way older."
+  },
+  {
+    "start": 2383,
+    "end": 2384,
+    "text": " Maybe he's being modest."
+  },
+  {
+    "start": 2384,
+    "end": 2386,
+    "text": " Well, no, one, so one of the theories that allows them."
+  },
+  {
+    "start": 2386,
+    "end": 2389,
+    "text": " Maybe he just likes a bit rough that day."
+  },
+  {
+    "start": 2389,
+    "end": 2396,
+    "text": " One of the theories is that he did draw himself and that he drew himself older because he was using it to put forward to give to Raphael,"
+  },
+  {
+    "start": 2396,
+    "end": 2398,
+    "text": " who was painting Plato in the School of Athens."
+  },
+  {
+    "start": 2398,
+    "end": 2404,
+    "text": " And he wanted to use Da Vinci as the model, but Da Vinci wasn't old enough, so he did an older version of himself."
+  },
+  {
+    "start": 2404,
+    "end": 2409,
+    "text": " But it would be quite accurate because usually self-portraits are going to be mirror images, but he writes backwards anyway."
+  },
+  {
+    "start": 2409,
+    "end": 2413,
+    "text": " So he would have drawn it backwards and so he inverts the mirror image."
+  },
+  {
+    "start": 2413,
+    "end": 2416,
+    "text": " And then he'd be like, \"Oh, look really weird.\""
+  },
+  {
+    "start": 2416,
+    "end": 2420,
+    "text": " Do you think I'll just do that when they do a self-portrait?"
+  },
+  {
+    "start": 2420,
+    "end": 2425,
+    "text": " They're looking in the mirror and as soon as they finish they step back and are like, \"Oh, is that what I look like?\""
+  },
+  {
+    "start": 2425,
+    "end": 2428,
+    "text": " Why did no one tell me I have a green thing in my teeth?"
+  },
+  {
+    "start": 2428,
+    "end": 2432,
+    "text": " Oh, no, look at my eyes close."
+  },
+  {
+    "start": 2432,
+    "end": 2440,
+    "text": " Okay, that's it. That's all of our facts."
+  },
+  {
+    "start": 2440,
+    "end": 2442,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 2442,
+    "end": 2446,
+    "text": " If you'd like to get in contact with any of us about the things that we have said over the course of this podcast,"
+  },
+  {
+    "start": 2446,
+    "end": 2448,
+    "text": " we can be found on our Twitter accounts."
+  },
+  {
+    "start": 2448,
+    "end": 2450,
+    "text": " I'm on @Sriberland, Alex."
+  },
+  {
+    "start": 2450,
+    "end": 2452,
+    "text": " How is it about on the school?"
+  },
+  {
+    "start": 2452,
+    "end": 2455,
+    "text": " James, @X8, Ed Chizinski."
+  },
+  {
+    "start": 2455,
+    "end": 2457,
+    "text": " You can email podcast@QI.com."
+  },
+  {
+    "start": 2457,
+    "end": 2461,
+    "text": " Yep, where you can go to our group account, which is @QIPodcast, message us there,"
+  },
+  {
+    "start": 2461,
+    "end": 2466,
+    "text": " or go to our website, nosuchthingasfish.com, where we have all of our previous episodes."
+  },
+  {
+    "start": 2466,
+    "end": 2470,
+    "text": " We'll be back again next week with another episode. Goodbye!"
+  },
+  {
+    "start": 2470,
+    "end": 2473,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 2473,
+    "end": 2476,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 2476,
+    "end": 2478.58,
+    "text": " (upbeat music)"
+  }
+]

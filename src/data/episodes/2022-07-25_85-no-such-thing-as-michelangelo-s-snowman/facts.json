@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including historical protests using snowmen in Brussels, the unique behavior of Harris Hawks, the personal life of Pope Innocent the Eighth, and a humorous incident involving the accidental destruction of a neolithic tomb mistaken for a picnic table.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1511, the people of Brussels protested against the government by filling the city with dozens of pornographic snowmen.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:53"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Harris Hawks stand on each other's shoulders to get a better view.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:07:58"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Pope Innocent the Eighth was given the nickname The Honest because he was the first Pope to acknowledge that he had illegitimate children.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:17:13"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Spanish construction workers recently accidentally destroyed a 6,000-year-old neolithic tomb that looked like a picnic table and replaced it with a new and better-looking picnic table.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:24:53"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on historical child-rearing practices, unusual royal deaths, the secretive whale bone collection of the Natural History Museum, and the eccentricities of poet Gerard Manley Hopkins.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Child rearing advice in the 17th century included tossing your baby up in a blanket to strengthen its nerves or firing pistols near it to boost its endurance.",
+      "presenter": "Philippa Perry",
+      "guest": true,
+      "start_time": "00:02:21"
+    },
+    {
+      "fact_number": 2,
+      "fact": "France has lost at least two of its kings due to death by walking into the frame of a very low door.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:52"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The Natural History Museum's collection of whale bones is so significant, they won't tell anyone where it is.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:28:03"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Gerard Manley Hopkins once had nothing to drink for a week for a bet. He only stopped when his tongue went black.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:38:03"
+    }
+  ]
+}

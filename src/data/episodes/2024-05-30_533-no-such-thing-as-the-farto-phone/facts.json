@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky historical and cultural facts, including a bizarre scientific experiment during WWII, a unique Swiss wrestling tradition, a colorful fire chief from Key West, and a long-running prank between two famous actors.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "As part of the preparations for D-Day, one scientist persuaded another to inhale oxygen until she vomited. They got married shortly afterwards.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:03:47"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Swiss have a special kind of wrestling trouser named the Schwingerhosen, with a special belt for your opponent to hang onto.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:18:14"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 1963, a fire at the Curry Building was put out by a man called Bum Farto. It was also started by him, though.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:30:17"
+    },
+    {
+      "fact_number": 4,
+      "fact": "For over two decades, the actors Grace Kelly and Alec Guinness secretly hid a tomahawk in each other's hotel rooms around the world.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:44:50"
+    }
+  ]
+}

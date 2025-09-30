@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating facts, including the playful antics of Calvin Coolidge, the confirmation of the sun's spherical shape, the impressive nests of sociable weaver birds, and a South Korean baseball team's use of robots as fans.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When he was bored, Calvin Coolidge used to ring a bell to summon his bodyguards and then hide from them under the Oval Office desk.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:00:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Until 2011, the sun was only in theory a sphere, but it's now confirmed to be a sphere.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:08:04"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There are some birds' nests that contain over a hundred rooms and are so heavy that they cause trees to fall down.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:43"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The worst baseball team in South Korea has replaced its supporters with robots.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:21:25"
+    }
+  ]
+}

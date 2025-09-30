@@ -1,0 +1,3417 @@
+[
+  {
+    "start": 0,
+    "end": 4.08,
+    "text": " Hey everybody, before we get going, we have two bits of news to give you."
+  },
+  {
+    "start": 4.08,
+    "end": 9.28,
+    "text": " One very big, Stephen Frye is stepping down from QI and is going to be replaced by the"
+  },
+  {
+    "start": 9.28,
+    "end": 15.92,
+    "text": " incredible Sandy Toxwig, and so the final ever Stephen Frye hosted QI series starts"
+  },
+  {
+    "start": 15.92,
+    "end": 19.92,
+    "text": " tonight, October 16th at 10pm on BBC2."
+  },
+  {
+    "start": 19.92,
+    "end": 20.92,
+    "text": " So tune in."
+  },
+  {
+    "start": 20.92,
+    "end": 22.92,
+    "text": " Okay, news number two."
+  },
+  {
+    "start": 22.92,
+    "end": 26.56,
+    "text": " So if you don't want to watch a really smart person tell you interesting things on a Friday"
+  },
+  {
+    "start": 26.56,
+    "end": 29.84,
+    "text": " night, then you could watch a bunch of idiots tell you equally"
+  },
+  {
+    "start": 29.84,
+    "end": 32.48,
+    "text": " interesting things on Sunday night in Brighton."
+  },
+  {
+    "start": 32.48,
+    "end": 36.84,
+    "text": " We are doing our podcast, no such thing as a fish show at the Brighton Comedy Festival."
+  },
+  {
+    "start": 36.84,
+    "end": 43.28,
+    "text": " It's a 5pm on Sunday evening, and also in Brighton this weekend, QI's chief gnome founder,"
+  },
+  {
+    "start": 43.28,
+    "end": 48.2,
+    "text": " creator, top dog, John Lloyd is going to be performing his show, Fresh from the Edinburgh"
+  },
+  {
+    "start": 48.2,
+    "end": 51.28,
+    "text": " Fringe, and here's a little taster of him."
+  },
+  {
+    "start": 51.28,
+    "end": 53.16,
+    "text": " He happens to be right here with us now."
+  },
+  {
+    "start": 53.16,
+    "end": 54.16,
+    "text": " Hi John."
+  },
+  {
+    "start": 54.16,
+    "end": 55.16,
+    "text": " Hello."
+  },
+  {
+    "start": 55.16,
+    "end": 59.76,
+    "text": " Yep, so if you enjoyed that, there's 59 more minutes of that kind of gold coming to you."
+  },
+  {
+    "start": 59.76,
+    "end": 62.64,
+    "text": " Go see his show as Emperor of the Prawns."
+  },
+  {
+    "start": 62.64,
+    "end": 67.84,
+    "text": " And now on with this week's episode of No Such Thing as a Fish."
+  },
+  {
+    "start": 67.84,
+    "end": 85.4,
+    "text": " Hello, and welcome to another episode of No Such Thing as a Fish, a weekly podcast this"
+  },
+  {
+    "start": 85.4,
+    "end": 88.12,
+    "text": " week coming to you from the Lowry and Solford."
+  },
+  {
+    "start": 88.12,
+    "end": 92.4,
+    "text": " My name is Dan Schreiber, joining me on the stage as the three regular elves, it's Andy"
+  },
+  {
+    "start": 92.4,
+    "end": 101.64,
+    "text": " Murray, Anichezinski and James Harkin."
+  },
+  {
+    "start": 101.64,
+    "end": 105.32,
+    "text": " And once again, we have gathered around the microphones with our four favorite facts from"
+  },
+  {
+    "start": 105.32,
+    "end": 110.76,
+    "text": " the last seven days, and in no particular order, here we go, starting with My Fact."
+  },
+  {
+    "start": 110.76,
+    "end": 116.68,
+    "text": " My Fact this week is the seventh time Park Ranger Roy Sullivan was struck by lightning,"
+  },
+  {
+    "start": 116.68,
+    "end": 124.6,
+    "text": " coincided with the 22nd time he fought off a bear with a stick."
+  },
+  {
+    "start": 124.6,
+    "end": 128.88,
+    "text": " So this guy is a park ranger."
+  },
+  {
+    "start": 128.88,
+    "end": 132,
+    "text": " He was, I think he was fishing at the time, so he was just out there."
+  },
+  {
+    "start": 132,
+    "end": 136.36,
+    "text": " He's been struck six times before, and then the lightning was coming."
+  },
+  {
+    "start": 136.36,
+    "end": 140,
+    "text": " He just thought I'll just stay here, probably nothing bad will happen."
+  },
+  {
+    "start": 140,
+    "end": 144.52,
+    "text": " God struck by lightning, was running back to his car, and suddenly a bear comes out"
+  },
+  {
+    "start": 144.52,
+    "end": 145.52,
+    "text": " of nowhere."
+  },
+  {
+    "start": 145.52,
+    "end": 149.92,
+    "text": " Jesus Christ, has to fight off a bear and then went back home."
+  },
+  {
+    "start": 149.92,
+    "end": 157.96,
+    "text": " His diary must have been amazing, bear, bear, lightning, lightning and bear."
+  },
+  {
+    "start": 157.96,
+    "end": 160.2,
+    "text": " But he, as I said, he's been struck seven times."
+  },
+  {
+    "start": 160.2,
+    "end": 164.12,
+    "text": " He was almost struck eight times, but the eighth time when he should have been struck, it"
+  },
+  {
+    "start": 164.12,
+    "end": 168.12,
+    "text": " hit his wife instead."
+  },
+  {
+    "start": 168.12,
+    "end": 169.12,
+    "text": " It sounds awful."
+  },
+  {
+    "start": 169.12,
+    "end": 172.56,
+    "text": " It sounds terrible because obviously he was interviewed because he was very, he became"
+  },
+  {
+    "start": 172.56,
+    "end": 178.56,
+    "text": " well known for this, and he said, naturally, people avoid me."
+  },
+  {
+    "start": 178.56,
+    "end": 182.44,
+    "text": " I was walking with the chief ranger one day, and lightning struck way off, and he said,"
+  },
+  {
+    "start": 182.44,
+    "end": 186.56,
+    "text": " \"I'll see you later, Roy.\""
+  },
+  {
+    "start": 186.56,
+    "end": 191.32,
+    "text": " Then he said, \"There's a restaurant on Loft Mountain that even it's just overcast, they"
+  },
+  {
+    "start": 191.32,
+    "end": 194.92,
+    "text": " won't let me in.\""
+  },
+  {
+    "start": 194.92,
+    "end": 196,
+    "text": " It sounds awful."
+  },
+  {
+    "start": 196,
+    "end": 201.68,
+    "text": " It sounds terrible because at time number four, this is August 1973, I think he died"
+  },
+  {
+    "start": 201.68,
+    "end": 207.84,
+    "text": " in the early 80s, possibly, but in August 1973, he got in his car and he accelerated because"
+  },
+  {
+    "start": 207.84,
+    "end": 212.32,
+    "text": " there was a cloud forming, and he was very nervous about storm clouds by this point."
+  },
+  {
+    "start": 212.32,
+    "end": 219.72,
+    "text": " And he out ran it, stopped the car, got out of it to watch the storm hit by lightning again."
+  },
+  {
+    "start": 219.72,
+    "end": 222.72,
+    "text": " They have a full list of all the times that he was..."
+  },
+  {
+    "start": 222.72,
+    "end": 224.72,
+    "text": " The first time he lost his big toenail."
+  },
+  {
+    "start": 224.72,
+    "end": 225.72,
+    "text": " Right."
+  },
+  {
+    "start": 225.72,
+    "end": 226.72,
+    "text": " To lightning."
+  },
+  {
+    "start": 226.72,
+    "end": 227.72,
+    "text": " Oh, it's a big toenail."
+  },
+  {
+    "start": 227.72,
+    "end": 228.72,
+    "text": " Yeah, a big toenail."
+  },
+  {
+    "start": 228.72,
+    "end": 234.64,
+    "text": " At the time, a bolt came out of a small low-lying cloud, hit him on the head through his hat,"
+  },
+  {
+    "start": 234.64,
+    "end": 238.88,
+    "text": " set his hair on fire again, again."
+  },
+  {
+    "start": 238.88,
+    "end": 242.88,
+    "text": " Not in ten feet out of his car, and not his left shoe off."
+  },
+  {
+    "start": 242.88,
+    "end": 247.36,
+    "text": " Do you know why shoes come off when you get hit by lightning?"
+  },
+  {
+    "start": 247.36,
+    "end": 251.48,
+    "text": " This is because you watch cartoons."
+  },
+  {
+    "start": 251.48,
+    "end": 256.24,
+    "text": " So for example, when it hits a tree, lightning, it will sometimes explode a tree if the moisture"
+  },
+  {
+    "start": 256.24,
+    "end": 260.72,
+    "text": " is in the middle of the tree, because it takes the path of least resistance."
+  },
+  {
+    "start": 260.72,
+    "end": 265.4,
+    "text": " People obviously, there's moisture everywhere and we're 70% liquid, so it often dissipates"
+  },
+  {
+    "start": 265.4,
+    "end": 267.04,
+    "text": " all over your skin."
+  },
+  {
+    "start": 267.04,
+    "end": 272.72,
+    "text": " But when it does that, all the sweat and the moisture on you boil into steam immediately"
+  },
+  {
+    "start": 272.72,
+    "end": 277.04,
+    "text": " and sometimes so much steam is produced that your shoes will be blown off."
+  },
+  {
+    "start": 277.04,
+    "end": 278.04,
+    "text": " That's what causes it."
+  },
+  {
+    "start": 278.04,
+    "end": 280,
+    "text": " So he got struck seven times."
+  },
+  {
+    "start": 280,
+    "end": 281,
+    "text": " Yeah."
+  },
+  {
+    "start": 281,
+    "end": 282.52,
+    "text": " I found somebody who's been struck even more."
+  },
+  {
+    "start": 282.52,
+    "end": 283.52,
+    "text": " Really?"
+  },
+  {
+    "start": 283.52,
+    "end": 287.4,
+    "text": " There's a guy called Melvin Roberts from South Carolina, and he at least claims to have"
+  },
+  {
+    "start": 287.4,
+    "end": 289.6,
+    "text": " been struck ten times."
+  },
+  {
+    "start": 289.6,
+    "end": 294.32,
+    "text": " He was in the news in 2011 for being hit six times, and his wife says that he's been struck"
+  },
+  {
+    "start": 294.32,
+    "end": 296.08,
+    "text": " another four times since."
+  },
+  {
+    "start": 296.08,
+    "end": 297.08,
+    "text": " By lightning, definitely."
+  },
+  {
+    "start": 297.08,
+    "end": 300.68,
+    "text": " She's not just by thinking really about it."
+  },
+  {
+    "start": 300.68,
+    "end": 305.24,
+    "text": " I think I found a group of people who've been struck by lightning even more than that."
+  },
+  {
+    "start": 305.24,
+    "end": 306.24,
+    "text": " Well, really?"
+  },
+  {
+    "start": 306.24,
+    "end": 307.24,
+    "text": " Yeah."
+  },
+  {
+    "start": 307.24,
+    "end": 308.24,
+    "text": " So I was reading the 14 times."
+  },
+  {
+    "start": 308.24,
+    "end": 312.08,
+    "text": " It's an amazing magazine, and in it, they had a small story where someone had written"
+  },
+  {
+    "start": 312.08,
+    "end": 318.24,
+    "text": " in to contest the fact that Roy Sullivan was the most struck person of all time, and what"
+  },
+  {
+    "start": 318.24,
+    "end": 323.96,
+    "text": " they said was that in 1995, a group of explorers who were up on a mountain mountaineer's got"
+  },
+  {
+    "start": 323.96,
+    "end": 329.76,
+    "text": " struck twenty times in sixteen hours, a group of five, and they were in their tent, and they"
+  },
+  {
+    "start": 329.76,
+    "end": 334.76,
+    "text": " all describe the moment that they were struck, and they were just in there getting struck"
+  },
+  {
+    "start": 334.76,
+    "end": 339.28,
+    "text": " over and over again, seventeen times, and we got to get out of there, out of here."
+  },
+  {
+    "start": 339.28,
+    "end": 343.72,
+    "text": " There's a rescue shelter down the mountain, so he started absailing, and while they were"
+  },
+  {
+    "start": 343.72,
+    "end": 347.44,
+    "text": " doing that, they were struck three more times on the absailed down."
+  },
+  {
+    "start": 347.44,
+    "end": 348.44,
+    "text": " Oh, my God."
+  },
+  {
+    "start": 348.44,
+    "end": 351.24,
+    "text": " To be fair, I do think you have to define that by five, though, at which point you haven't"
+  },
+  {
+    "start": 351.24,
+    "end": 352.24,
+    "text": " been record anymore."
+  },
+  {
+    "start": 352.24,
+    "end": 353.24,
+    "text": " Very good point."
+  },
+  {
+    "start": 353.24,
+    "end": 354.24,
+    "text": " Yeah."
+  },
+  {
+    "start": 354.24,
+    "end": 355.24,
+    "text": " It's all about the mass."
+  },
+  {
+    "start": 355.24,
+    "end": 356.48,
+    "text": " Sometimes goes from one person to another, as well."
+  },
+  {
+    "start": 356.48,
+    "end": 357.48,
+    "text": " No."
+  },
+  {
+    "start": 357.48,
+    "end": 362.88,
+    "text": " Or it can hit, for example, it can rebound off a tree and into a horse or whatever."
+  },
+  {
+    "start": 362.88,
+    "end": 363.88,
+    "text": " Yeah."
+  },
+  {
+    "start": 363.88,
+    "end": 366.82,
+    "text": " I mean, then it's less likely to kill you, because at least some of the force has been"
+  },
+  {
+    "start": 366.82,
+    "end": 367.82,
+    "text": " dissipated."
+  },
+  {
+    "start": 367.82,
+    "end": 368.82,
+    "text": " Yeah."
+  },
+  {
+    "start": 368.82,
+    "end": 373.04,
+    "text": " Men account for 85% of lightning strikes, isn't that weird?"
+  },
+  {
+    "start": 373.04,
+    "end": 377.46,
+    "text": " And the National Weather Service in the US speculated that this might be because men tend"
+  },
+  {
+    "start": 377.46,
+    "end": 382.64,
+    "text": " to be unaware of all the dangers associated with lightning, more likely to be invulnerable"
+  },
+  {
+    "start": 382.64,
+    "end": 388.74,
+    "text": " situations, unwilling to be inconvenienced by the threat of lightning, and don't react"
+  },
+  {
+    "start": 388.74,
+    "end": 393.94,
+    "text": " quickly to the lightning threat, or any combination of these explanations."
+  },
+  {
+    "start": 393.94,
+    "end": 397.62,
+    "text": " So there's stupid, ignorant, big-headed, and they have very slow reactions."
+  },
+  {
+    "start": 397.62,
+    "end": 401.98,
+    "text": " No, she was just my interpretation, but I think that's the long and short of it."
+  },
+  {
+    "start": 401.98,
+    "end": 407.26,
+    "text": " A man in Croatia has admitted that he has not gone outside after hearing thunder since"
+  },
+  {
+    "start": 407.26,
+    "end": 412.94,
+    "text": " lightning struck his penis in 2007."
+  },
+  {
+    "start": 412.94,
+    "end": 420.86,
+    "text": " Zoran Jurkovich, it's online, honestly."
+  },
+  {
+    "start": 420.86,
+    "end": 426.42,
+    "text": " Zoran Jurkovich said, \"My friends used to tease me, and I used to tease them back, saying"
+  },
+  {
+    "start": 426.42,
+    "end": 433.42,
+    "text": " my penis has extraordinary ability now, but it doesn't.\""
+  },
+  {
+    "start": 433.42,
+    "end": 443.18,
+    "text": " It's hard to tease them back when you've just got a sort of child stumped."
+  },
+  {
+    "start": 443.18,
+    "end": 446.54,
+    "text": " So I think there might be something about Croatia, God hates it or something, so there's"
+  },
+  {
+    "start": 446.54,
+    "end": 452.54,
+    "text": " a Croatian woman who has been left recently with a severely burned anus after a lightning"
+  },
+  {
+    "start": 452.54,
+    "end": 457.42,
+    "text": " strike, ended her mouth while she was cleaning her teeth and drinking water from the tap,"
+  },
+  {
+    "start": 457.42,
+    "end": 462.22,
+    "text": " came through the tap, ended her mouth, and then left through the anus so it could earth"
+  },
+  {
+    "start": 462.22,
+    "end": 464.26,
+    "text": " through the ground."
+  },
+  {
+    "start": 464.26,
+    "end": 470.14,
+    "text": " Apparently, so the report said she was wearing rubber-sold shoes, so once the lightning had entered"
+  },
+  {
+    "start": 470.14,
+    "end": 473.78,
+    "text": " through her mouth when she was drinking water from the tap, it took the easiest route and"
+  },
+  {
+    "start": 473.78,
+    "end": 476.94,
+    "text": " came out of her rectum to reach her rubber-sold shoes."
+  },
+  {
+    "start": 476.94,
+    "end": 484.78,
+    "text": " You know, speaking of lightning coming out the bum, there actually is a fabled worm called"
+  },
+  {
+    "start": 484.78,
+    "end": 491.7,
+    "text": " the Mongolian death worm, which is in Mongolia, and is it done?"
+  },
+  {
+    "start": 491.7,
+    "end": 492.7,
+    "text": " Is it?"
+  },
+  {
+    "start": 492.7,
+    "end": 497.9,
+    "text": " It's a massive worm, and all accounts of it say that it can shoot acid from its eyes and"
+  },
+  {
+    "start": 497.9,
+    "end": 499.7,
+    "text": " lightning bolts from its anus."
+  },
+  {
+    "start": 499.7,
+    "end": 500.7,
+    "text": " Accounts?"
+  },
+  {
+    "start": 500.7,
+    "end": 505.14,
+    "text": " I don't think they deserve the name \"accounts.\""
+  },
+  {
+    "start": 505.14,
+    "end": 508.5,
+    "text": " One really knows why lightning happens today."
+  },
+  {
+    "start": 508.5,
+    "end": 513.22,
+    "text": " We find, when you're at school, they tell you it's because clouds are rubbing together"
+  },
+  {
+    "start": 513.22,
+    "end": 517.58,
+    "text": " or whatever, and it kind of is that a little bit, but it's like ice going up in their clouds"
+  },
+  {
+    "start": 517.58,
+    "end": 520.82,
+    "text": " and water coming down or the other way around, and they rub against each other, and it causes"
+  },
+  {
+    "start": 520.82,
+    "end": 523.64,
+    "text": " like static electricity like you would have with a balloon."
+  },
+  {
+    "start": 523.64,
+    "end": 527.26,
+    "text": " But no one really knows why it starts, and it's like a chain reaction that starts, and"
+  },
+  {
+    "start": 527.26,
+    "end": 531.7,
+    "text": " one theory you'll like this done, apparently there's a latest theory coming from Russia"
+  },
+  {
+    "start": 531.7,
+    "end": 536.62,
+    "text": " that it's cosmic rays, which come from outside the solar system and hit the earth, and that's"
+  },
+  {
+    "start": 536.62,
+    "end": 539.1,
+    "text": " what starts the lightning in the first place."
+  },
+  {
+    "start": 539.1,
+    "end": 540.1,
+    "text": " Wow."
+  },
+  {
+    "start": 540.1,
+    "end": 541.74,
+    "text": " And no one knows what causes cosmic rays, really."
+  },
+  {
+    "start": 541.74,
+    "end": 544.06,
+    "text": " I mean, it could be supernovas or quasars or..."
+  },
+  {
+    "start": 544.06,
+    "end": 547.86,
+    "text": " The Mongolian death worm."
+  },
+  {
+    "start": 547.86,
+    "end": 550.94,
+    "text": " We can't rule it out."
+  },
+  {
+    "start": 550.94,
+    "end": 553.66,
+    "text": " Yeah, amazing."
+  },
+  {
+    "start": 553.66,
+    "end": 557.26,
+    "text": " You know, America has two annual conferences for lightning strikes survivors."
+  },
+  {
+    "start": 557.26,
+    "end": 558.26,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 558.26,
+    "end": 559.26,
+    "text": " Yeah."
+  },
+  {
+    "start": 559.26,
+    "end": 562.22,
+    "text": " It's actually about 80% of people struck by lightning actually survive..."
+  },
+  {
+    "start": 562.22,
+    "end": 563.22,
+    "text": " Yes, right."
+  },
+  {
+    "start": 563.22,
+    "end": 564.22,
+    "text": " Yes, it is."
+  },
+  {
+    "start": 564.22,
+    "end": 567.18,
+    "text": " 80% to 90% live, but it's not plain sailing after that."
+  },
+  {
+    "start": 567.18,
+    "end": 570.98,
+    "text": " It's not as though you have burns and then you recover, it can scramble your memory, and"
+  },
+  {
+    "start": 570.98,
+    "end": 574.9,
+    "text": " there are all these long-term effects that we don't know about, and it just gets right"
+  },
+  {
+    "start": 574.9,
+    "end": 579.1,
+    "text": " into your cells, and there aren't enough cases that are studied in the medical literature"
+  },
+  {
+    "start": 579.1,
+    "end": 583.34,
+    "text": " to have a proper body of science, so it's a lot of guesswork, and yeah, there just isn't"
+  },
+  {
+    "start": 583.34,
+    "end": 586.26,
+    "text": " the money to try and work out what exactly has happened."
+  },
+  {
+    "start": 586.26,
+    "end": 587.26,
+    "text": " Okay."
+  },
+  {
+    "start": 587.26,
+    "end": 589.18,
+    "text": " We're going to have to move on to our next fact in a minute."
+  },
+  {
+    "start": 589.18,
+    "end": 591.38,
+    "text": " Is there anything else you guys want to add?"
+  },
+  {
+    "start": 591.38,
+    "end": 597.26,
+    "text": " Um, another thing that we can't explain is the lightning that happens at the beacon of"
+  },
+  {
+    "start": 597.26,
+    "end": 601.18,
+    "text": " Mara Cabo, which is the most incredible place on the planet."
+  },
+  {
+    "start": 601.18,
+    "end": 603.26,
+    "text": " So this is a place in Venezuela."
+  },
+  {
+    "start": 603.26,
+    "end": 610.5,
+    "text": " It's the Catatumbo River, I think in Venezuela, and it's one tiny spot where for 280 times"
+  },
+  {
+    "start": 610.5,
+    "end": 616.06,
+    "text": " an hour, for 10 hours a night, for 160 nights a year, lightning strikes this exact same"
+  },
+  {
+    "start": 616.06,
+    "end": 617.58,
+    "text": " spot, and nobody knows why."
+  },
+  {
+    "start": 617.58,
+    "end": 624.42,
+    "text": " I reckon it could be Roy Sullivan doing some fishing, but isn't that weird, and it was mentioned"
+  },
+  {
+    "start": 624.42,
+    "end": 630.98,
+    "text": " first in a poem about Francis Drake in 1597, and Fisherman used it on this lake in Venezuela"
+  },
+  {
+    "start": 630.98,
+    "end": 635.02,
+    "text": " to light their way, so if they're going fishing, they just use this class and lightning storm"
+  },
+  {
+    "start": 635.02,
+    "end": 637.94,
+    "text": " to say, okay, well, there's the storm, yes, we go towards that, because that's where we'll"
+  },
+  {
+    "start": 637.94,
+    "end": 638.94,
+    "text": " get the best light."
+  },
+  {
+    "start": 638.94,
+    "end": 639.94,
+    "text": " Slash die."
+  },
+  {
+    "start": 639.94,
+    "end": 643.14,
+    "text": " Um, yeah, no one knows what happens."
+  },
+  {
+    "start": 643.14,
+    "end": 644.14,
+    "text": " Wow."
+  },
+  {
+    "start": 644.14,
+    "end": 645.14,
+    "text": " That's amazing."
+  },
+  {
+    "start": 645.14,
+    "end": 649.18,
+    "text": " You read about that, and I think it replenishes the ozone layer, doesn't it?"
+  },
+  {
+    "start": 649.18,
+    "end": 652.98,
+    "text": " The biggest source of ozone on Earth, the biggest single source of ozone on Earth, so it's"
+  },
+  {
+    "start": 652.98,
+    "end": 653.98,
+    "text": " a good thing."
+  },
+  {
+    "start": 653.98,
+    "end": 654.98,
+    "text": " Yeah, it's a good thing."
+  },
+  {
+    "start": 654.98,
+    "end": 655.98,
+    "text": " That's so cool."
+  },
+  {
+    "start": 655.98,
+    "end": 659.86,
+    "text": " Okay, we're going to move on to fact number two, and that is James Harkin."
+  },
+  {
+    "start": 659.86,
+    "end": 666.38,
+    "text": " Okay, my fact this week is that this year, America's Hero Dog of the Year award was won"
+  },
+  {
+    "start": 666.38,
+    "end": 667.86,
+    "text": " by a cat."
+  },
+  {
+    "start": 667.86,
+    "end": 668.86,
+    "text": " (Laughter)"
+  },
+  {
+    "start": 668.86,
+    "end": 672.86,
+    "text": " It can't have been a good night to be a dog."
+  },
+  {
+    "start": 672.86,
+    "end": 679.3,
+    "text": " Yeah, so this is Tara the Cat, and I reckon some people will know it, or will at least know"
+  },
+  {
+    "start": 679.3,
+    "end": 682.66,
+    "text": " the cat itself because it's been a bit of an internet sensation."
+  },
+  {
+    "start": 682.66,
+    "end": 685.94,
+    "text": " There was a young child being mulled by a dog next to a car."
+  },
+  {
+    "start": 685.94,
+    "end": 690.3,
+    "text": " You might have seen the video on YouTube, and then this cat runs on and kind of scares the"
+  },
+  {
+    "start": 690.3,
+    "end": 695.06,
+    "text": " dog away, and then runs off again, and she became such a hero that she is now an honorary"
+  },
+  {
+    "start": 695.06,
+    "end": 696.06,
+    "text": " dog."
+  },
+  {
+    "start": 696.06,
+    "end": 697.06,
+    "text": " Wow."
+  },
+  {
+    "start": 697.06,
+    "end": 704.66,
+    "text": " What a way to reward her to invite her to a ceremony full of dogs, who now it was soft"
+  },
+  {
+    "start": 704.66,
+    "end": 706.06,
+    "text": " at a cat's one."
+  },
+  {
+    "start": 706.06,
+    "end": 707.06,
+    "text": " It is amazing."
+  },
+  {
+    "start": 707.06,
+    "end": 709.38,
+    "text": " She just full on runs into the dog."
+  },
+  {
+    "start": 709.38,
+    "end": 710.38,
+    "text": " She just smashes her head."
+  },
+  {
+    "start": 710.38,
+    "end": 711.38,
+    "text": " Have you guys seen that video?"
+  },
+  {
+    "start": 711.38,
+    "end": 712.38,
+    "text": " You must have done it right."
+  },
+  {
+    "start": 712.38,
+    "end": 713.38,
+    "text": " Yeah, it's good."
+  },
+  {
+    "start": 713.38,
+    "end": 714.38,
+    "text": " It's good to watch."
+  },
+  {
+    "start": 714.38,
+    "end": 718.78,
+    "text": " Yeah, she got a few other awards, actually."
+  },
+  {
+    "start": 718.78,
+    "end": 722.82,
+    "text": " She was invited by the local baseball team, the Bakersfield Blaze, because this was in"
+  },
+  {
+    "start": 722.82,
+    "end": 725.06,
+    "text": " Bakersfield in California."
+  },
+  {
+    "start": 725.06,
+    "end": 730.5,
+    "text": " They invited her to throw the first pitch, not a way."
+  },
+  {
+    "start": 730.5,
+    "end": 731.78,
+    "text": " Yeah, and a baseball game."
+  },
+  {
+    "start": 731.78,
+    "end": 732.78,
+    "text": " How did she do?"
+  },
+  {
+    "start": 732.78,
+    "end": 736.74,
+    "text": " Well, it said on the news report that she was assisted by her family."
+  },
+  {
+    "start": 736.74,
+    "end": 742.46,
+    "text": " I watched it, and the family do a lot of assisting."
+  },
+  {
+    "start": 742.46,
+    "end": 747.26,
+    "text": " It goes wrong about five times, and then basically a guy holding a cat throws a ball."
+  },
+  {
+    "start": 747.26,
+    "end": 748.26,
+    "text": " That's basically it."
+  },
+  {
+    "start": 748.26,
+    "end": 753.34,
+    "text": " But this video is the first YouTube video in history to reach 20 million views in five"
+  },
+  {
+    "start": 753.34,
+    "end": 754.34,
+    "text": " days."
+  },
+  {
+    "start": 754.34,
+    "end": 757.58,
+    "text": " And the cat became a hero, and the dog was put down."
+  },
+  {
+    "start": 757.58,
+    "end": 758.58,
+    "text": " Wasn't it?"
+  },
+  {
+    "start": 758.58,
+    "end": 759.58,
+    "text": " No way."
+  },
+  {
+    "start": 759.58,
+    "end": 760.58,
+    "text": " Did you just bite it?"
+  },
+  {
+    "start": 760.58,
+    "end": 762.38,
+    "text": " It had been the child really badly on the leg."
+  },
+  {
+    "start": 762.38,
+    "end": 763.38,
+    "text": " Yeah, OK, yeah."
+  },
+  {
+    "start": 763.38,
+    "end": 766.1,
+    "text": " Sorry."
+  },
+  {
+    "start": 766.1,
+    "end": 767.1,
+    "text": " On the dog side."
+  },
+  {
+    "start": 767.1,
+    "end": 769.1,
+    "text": " No, I'm not."
+  },
+  {
+    "start": 769.1,
+    "end": 772.66,
+    "text": " Cats have a long and noble history of impersonating dogs, though, don't they?"
+  },
+  {
+    "start": 772.66,
+    "end": 775.42,
+    "text": " Because they bark, like, can bark like dogs."
+  },
+  {
+    "start": 775.42,
+    "end": 778.58,
+    "text": " Like, if you have cats and dogs they've been together, then cats will learn to impersonate"
+  },
+  {
+    "start": 778.58,
+    "end": 779.58,
+    "text": " dogs."
+  },
+  {
+    "start": 779.58,
+    "end": 780.58,
+    "text": " OK, hang on."
+  },
+  {
+    "start": 780.58,
+    "end": 781.58,
+    "text": " No, I've never--"
+  },
+  {
+    "start": 781.58,
+    "end": 782.58,
+    "text": " Yeah."
+  },
+  {
+    "start": 782.58,
+    "end": 785.42,
+    "text": " I'm the Mongolian death one guy."
+  },
+  {
+    "start": 785.42,
+    "end": 788.1,
+    "text": " If you basically look at a time into YouTube, cats bark like dogs."
+  },
+  {
+    "start": 788.1,
+    "end": 793.3,
+    "text": " Are you sure that a cat can bark like a dog, and not that a dog can throw its voice?"
+  },
+  {
+    "start": 793.3,
+    "end": 797.74,
+    "text": " Dogs are actually amazing ventriloquists, and we've not realized."
+  },
+  {
+    "start": 797.74,
+    "end": 801.1,
+    "text": " But there is a really good video on YouTube of a cat owner."
+  },
+  {
+    "start": 801.1,
+    "end": 804.14,
+    "text": " I mean, I can't believe we're discussing YouTube memes, but let's do it."
+  },
+  {
+    "start": 804.14,
+    "end": 809.38,
+    "text": " A cat owner who sneaks up behind her cat, filming her cat, sitting on a window ledge,"
+  },
+  {
+    "start": 809.38,
+    "end": 811.94,
+    "text": " looking outside at a dog, which obviously lives with the family."
+  },
+  {
+    "start": 811.94,
+    "end": 814.26,
+    "text": " They all live for next door, so it's lived around it, and barking."
+  },
+  {
+    "start": 814.26,
+    "end": 817.14,
+    "text": " And it's honestly going, the cat's going, \"Ruff, ruff, ruff.\""
+  },
+  {
+    "start": 817.14,
+    "end": 818.66,
+    "text": " And it keeps doing this, loads."
+  },
+  {
+    "start": 818.66,
+    "end": 822.3,
+    "text": " And then the person who's holding the camera sort of clears her throat, and the cat hears,"
+  },
+  {
+    "start": 822.3,
+    "end": 824.66,
+    "text": " and looks around and starts to be, \"Mew!\""
+  },
+  {
+    "start": 824.66,
+    "end": 827.9,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 827.9,
+    "end": 832.1,
+    "text": " And the science came up with some bullshit expression, like, \"Oh, she turned her vocal chords,"
+  },
+  {
+    "start": 832.1,
+    "end": 834.54,
+    "text": " she turned around, which changed the tenor of her voice.\""
+  },
+  {
+    "start": 834.54,
+    "end": 840.02,
+    "text": " But it's quite clearly the cat going, \"Woop see, I've been caught right in the act of impersonating"
+  },
+  {
+    "start": 840.02,
+    "end": 841.02,
+    "text": " a dog.\""
+  },
+  {
+    "start": 841.02,
+    "end": 842.02,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 842.02,
+    "end": 846.66,
+    "text": " So, just on heroic dogs, I have a couple of different kinds of heroic dogs that we all know"
+  },
+  {
+    "start": 846.66,
+    "end": 847.66,
+    "text": " about."
+  },
+  {
+    "start": 847.66,
+    "end": 849.82,
+    "text": " So, bomb detecting dogs, I mean, how about guide dogs."
+  },
+  {
+    "start": 849.82,
+    "end": 853.42,
+    "text": " There is only one, I believe, there's great piece in the Guardian about this."
+  },
+  {
+    "start": 853.42,
+    "end": 857.3,
+    "text": " There is only one airborne nut allergy dog in the UK."
+  },
+  {
+    "start": 857.3,
+    "end": 858.3,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 858.3,
+    "end": 860.14,
+    "text": " Sorry, the dog was airborne on the nut."
+  },
+  {
+    "start": 860.14,
+    "end": 863.14,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 863.14,
+    "end": 865.14,
+    "text": " My fault, should have clarified."
+  },
+  {
+    "start": 865.14,
+    "end": 866.98,
+    "text": " So, there's a woman also called Tara, actually."
+  },
+  {
+    "start": 866.98,
+    "end": 870.9,
+    "text": " Tara Bedford, she has an incredibly bad nut allergy, so bad that even the smell of"
+  },
+  {
+    "start": 870.9,
+    "end": 872.94,
+    "text": " nuts can trigger a reaction."
+  },
+  {
+    "start": 872.94,
+    "end": 876.66,
+    "text": " She says, \"Any rustle on a train or a bus, and it's, what are they opening?"
+  },
+  {
+    "start": 876.66,
+    "end": 877.66,
+    "text": " Should I move?\""
+  },
+  {
+    "start": 877.66,
+    "end": 881.7,
+    "text": " She can't go to the cinema, she can't go to a catch, she can't go in a plane because someone"
+  },
+  {
+    "start": 881.7,
+    "end": 884.74,
+    "text": " opens a pack of the peanuts and she's dead, she's in a plane."
+  },
+  {
+    "start": 884.74,
+    "end": 890.9,
+    "text": " She had to go to any 40 times in four years, but the story has a happy ending because there"
+  },
+  {
+    "start": 890.9,
+    "end": 898.66,
+    "text": " was a labrador who had failed a guide dog test for overuse of the nose, put them together,"
+  },
+  {
+    "start": 898.66,
+    "end": 903.78,
+    "text": " and now the dog forcefully pushes her whenever the dog smells nuts, a peanut or a nut she's"
+  },
+  {
+    "start": 903.78,
+    "end": 904.78,
+    "text": " allergic to."
+  },
+  {
+    "start": 904.78,
+    "end": 906.78,
+    "text": " So it's a very good ending."
+  },
+  {
+    "start": 906.78,
+    "end": 907.78,
+    "text": " Seeing nose dog."
+  },
+  {
+    "start": 907.78,
+    "end": 908.78,
+    "text": " Seeing nose dog, yeah."
+  },
+  {
+    "start": 908.78,
+    "end": 909.78,
+    "text": " Wow, that's so cool."
+  },
+  {
+    "start": 909.78,
+    "end": 910.78,
+    "text": " Wow."
+  },
+  {
+    "start": 910.78,
+    "end": 911.78,
+    "text": " And he flies as well."
+  },
+  {
+    "start": 911.78,
+    "end": 912.78,
+    "text": " And he's..."
+  },
+  {
+    "start": 912.78,
+    "end": 913.78,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 913.78,
+    "end": 915.78,
+    "text": " Russian."
+  },
+  {
+    "start": 915.78,
+    "end": 917.78,
+    "text": " Sorry."
+  },
+  {
+    "start": 917.78,
+    "end": 919.78,
+    "text": " Russia employs sniffer cats."
+  },
+  {
+    "start": 919.78,
+    "end": 920.78,
+    "text": " Really?"
+  },
+  {
+    "start": 920.78,
+    "end": 921.78,
+    "text": " Really?"
+  },
+  {
+    "start": 921.78,
+    "end": 927.38,
+    "text": " Yeah, there's some sniffer cats in Russia, and they're looking for kind of Russian Mafia"
+  },
+  {
+    "start": 927.38,
+    "end": 934.3,
+    "text": " that might be smuggling fish for the caviar down in the south of Russia."
+  },
+  {
+    "start": 934.3,
+    "end": 937.1,
+    "text": " And the most famous one, the first one was called the Rusek."
+  },
+  {
+    "start": 937.1,
+    "end": 940.66,
+    "text": " And Rusek died when he was hit by a criminal's car quite recently."
+  },
+  {
+    "start": 940.66,
+    "end": 944.66,
+    "text": " And the locals thought that it might be a contract killing because the week before, another"
+  },
+  {
+    "start": 944.66,
+    "end": 948.82,
+    "text": " cat called Barsik was killed after he was poisoned by a mouse."
+  },
+  {
+    "start": 948.82,
+    "end": 949.82,
+    "text": " What?"
+  },
+  {
+    "start": 949.82,
+    "end": 951.82,
+    "text": " Sorry, with a mouse."
+  },
+  {
+    "start": 951.82,
+    "end": 952.82,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 952.82,
+    "end": 958.82,
+    "text": " Yeah."
+  },
+  {
+    "start": 958.82,
+    "end": 963.58,
+    "text": " I was looking into sort of the latest in cat news."
+  },
+  {
+    "start": 963.58,
+    "end": 966.74,
+    "text": " And I headed to a place I discovered a few podcasts ago."
+  },
+  {
+    "start": 966.74,
+    "end": 971.18,
+    "text": " I headed to Pussington Post."
+  },
+  {
+    "start": 971.18,
+    "end": 974.54,
+    "text": " Just a few recent headlines."
+  },
+  {
+    "start": 974.54,
+    "end": 977.26,
+    "text": " Cat ignores frogs sitting on his paw."
+  },
+  {
+    "start": 977.26,
+    "end": 978.26,
+    "text": " That's..."
+  },
+  {
+    "start": 978.26,
+    "end": 981.38,
+    "text": " That was September 17th, if you want to look that one up."
+  },
+  {
+    "start": 981.38,
+    "end": 987.02,
+    "text": " If you're into cat news, which you obviously are, there's this guy who is constantly updating"
+  },
+  {
+    "start": 987.02,
+    "end": 988.34,
+    "text": " us on cat news."
+  },
+  {
+    "start": 988.34,
+    "end": 994.5,
+    "text": " He runs a Twitter feed called NBA Catwatch, and the entire Twitter feed is devoted to finding"
+  },
+  {
+    "start": 994.5,
+    "end": 998.42,
+    "text": " out what cats are owned by basketball players."
+  },
+  {
+    "start": 998.42,
+    "end": 1000.18,
+    "text": " And he's been going for quite a while now."
+  },
+  {
+    "start": 1000.18,
+    "end": 1004.94,
+    "text": " So he said, it's sort of a typical dumb Twitter joke, but the more he thought about it, something"
+  },
+  {
+    "start": 1004.94,
+    "end": 1005.94,
+    "text": " caught in my brain."
+  },
+  {
+    "start": 1005.94,
+    "end": 1010.5,
+    "text": " I'd be watching a basketball game, and I'd start to think about who does owner cat"
+  },
+  {
+    "start": 1010.5,
+    "end": 1011.94,
+    "text": " on this team."
+  },
+  {
+    "start": 1011.94,
+    "end": 1017.3,
+    "text": " He said, I'm aware that it's ridiculous trying to find NBA players cats on social media."
+  },
+  {
+    "start": 1017.3,
+    "end": 1020.02,
+    "text": " However, it's my niche, and I got there first."
+  },
+  {
+    "start": 1020.02,
+    "end": 1021.02,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 1021.02,
+    "end": 1027.66,
+    "text": " And yet, no one has ever got the second out there."
+  },
+  {
+    "start": 1027.66,
+    "end": 1036.1,
+    "text": " I found a really exciting Guinness Book World Record, which is for world-mousing champion."
+  },
+  {
+    "start": 1036.1,
+    "end": 1038.38,
+    "text": " And the winner of this, the current champion of this award."
+  },
+  {
+    "start": 1038.38,
+    "end": 1039.38,
+    "text": " It's a dog."
+  },
+  {
+    "start": 1039.38,
+    "end": 1040.38,
+    "text": " It's a dog."
+  },
+  {
+    "start": 1040.38,
+    "end": 1044.9,
+    "text": " It's a cat, but it's amazing that this is an actual record that's being held."
+  },
+  {
+    "start": 1044.9,
+    "end": 1052.7,
+    "text": " So it's a cat called Towsr, and Towsr was stationed at Distillery in Scotland, where Grouse"
+  },
+  {
+    "start": 1052.7,
+    "end": 1054.5,
+    "text": " Whiskey is made."
+  },
+  {
+    "start": 1054.5,
+    "end": 1059.7,
+    "text": " And during her reign, she killed 28,899 mice."
+  },
+  {
+    "start": 1059.7,
+    "end": 1060.7,
+    "text": " No way."
+  },
+  {
+    "start": 1060.7,
+    "end": 1062.3,
+    "text": " And so that's a Guinness World Record."
+  },
+  {
+    "start": 1062.3,
+    "end": 1063.3,
+    "text": " No way."
+  },
+  {
+    "start": 1063.3,
+    "end": 1064.3,
+    "text": " And then she died."
+  },
+  {
+    "start": 1064.3,
+    "end": 1067.94,
+    "text": " So she got taken over by another cat called Amber, who's been there for 20 years now, and"
+  },
+  {
+    "start": 1067.94,
+    "end": 1071.58,
+    "text": " who they've said was not known to have caught a single mouse."
+  },
+  {
+    "start": 1071.58,
+    "end": 1074.78,
+    "text": " They've all been caught already."
+  },
+  {
+    "start": 1074.78,
+    "end": 1076.3,
+    "text": " She's just got there at a first angle."
+  },
+  {
+    "start": 1076.3,
+    "end": 1079.7,
+    "text": " Well, there's not much to do here, isn't it?"
+  },
+  {
+    "start": 1079.7,
+    "end": 1082.06,
+    "text": " Can I tell you about a couple of more little dog things?"
+  },
+  {
+    "start": 1082.06,
+    "end": 1082.9,
+    "text": " Yes, please."
+  },
+  {
+    "start": 1082.9,
+    "end": 1088.14,
+    "text": " So there's another kind of dog, which is a Corpse Detection Dog."
+  },
+  {
+    "start": 1088.14,
+    "end": 1091.82,
+    "text": " So please use them to find bodies, things like this."
+  },
+  {
+    "start": 1091.82,
+    "end": 1095.7,
+    "text": " And they have to be trained, but you can't train them obviously on real cases, because"
+  },
+  {
+    "start": 1095.7,
+    "end": 1097.18,
+    "text": " they're very few of those."
+  },
+  {
+    "start": 1097.18,
+    "end": 1103.06,
+    "text": " So they're trained by wrapping up pigs bodies in shower curtains."
+  },
+  {
+    "start": 1103.06,
+    "end": 1106.06,
+    "text": " And there's a man who runs a search company, his name is Mick Swindles, and he says he"
+  },
+  {
+    "start": 1106.06,
+    "end": 1110.1,
+    "text": " always puts clothes on the pigs, too, for added realism."
+  },
+  {
+    "start": 1110.1,
+    "end": 1112.14,
+    "text": " Insert your own David Cameron joke here."
+  },
+  {
+    "start": 1112.14,
+    "end": 1113.14,
+    "text": " Oh, God."
+  },
+  {
+    "start": 1113.14,
+    "end": 1121.9,
+    "text": " Well, this is the thing."
+  },
+  {
+    "start": 1121.9,
+    "end": 1125.74,
+    "text": " He said of them, because he puts clothes on them, and he said, people say, why do you always"
+  },
+  {
+    "start": 1125.74,
+    "end": 1127.42,
+    "text": " put them in a skirt?"
+  },
+  {
+    "start": 1127.42,
+    "end": 1129.82,
+    "text": " Have you ever tried putting trousers on a pig?"
+  },
+  {
+    "start": 1129.82,
+    "end": 1137.02,
+    "text": " So presumably these cat's are just now really good at detecting clothes, pigs, dogs are"
+  },
+  {
+    "start": 1137.02,
+    "end": 1142.02,
+    "text": " really good at detecting clothes, pigs, and not that good at detecting human causes."
+  },
+  {
+    "start": 1142.02,
+    "end": 1144.98,
+    "text": " We're very similar to pigs in many ways."
+  },
+  {
+    "start": 1144.98,
+    "end": 1145.98,
+    "text": " Speak yourself."
+  },
+  {
+    "start": 1145.98,
+    "end": 1146.98,
+    "text": " OK."
+  },
+  {
+    "start": 1146.98,
+    "end": 1148.74,
+    "text": " We're going to have to move on in a sec."
+  },
+  {
+    "start": 1148.74,
+    "end": 1149.74,
+    "text": " Can I say one thing?"
+  },
+  {
+    "start": 1149.74,
+    "end": 1154.98,
+    "text": " This original fact was in Bakersfield in California, and so I found another story from"
+  },
+  {
+    "start": 1154.98,
+    "end": 1155.98,
+    "text": " Bakersfield."
+  },
+  {
+    "start": 1155.98,
+    "end": 1156.98,
+    "text": " It's just a quick one."
+  },
+  {
+    "start": 1156.98,
+    "end": 1162.78,
+    "text": " It's a guy called Mr. Slivers, and he was arrested, and they interviewed him afterwards."
+  },
+  {
+    "start": 1162.78,
+    "end": 1167.74,
+    "text": " And this way he said, he said, I was just bored, and I decided I wanted to be a cat burglar."
+  },
+  {
+    "start": 1167.74,
+    "end": 1172.22,
+    "text": " So I kicked in the window and tried to steal the lion, but it was too heavy, so I stole the"
+  },
+  {
+    "start": 1172.22,
+    "end": 1174.22,
+    "text": " cat."
+  },
+  {
+    "start": 1174.22,
+    "end": 1177.9,
+    "text": " And he wanted to be a cat burglar, and thought that a cat burglar is something that steals"
+  },
+  {
+    "start": 1177.9,
+    "end": 1178.9,
+    "text": " cats."
+  },
+  {
+    "start": 1178.9,
+    "end": 1183.9,
+    "text": " I'm more interested in the home that owns both the lion and the cat."
+  },
+  {
+    "start": 1183.9,
+    "end": 1184.9,
+    "text": " So it was a museum."
+  },
+  {
+    "start": 1184.9,
+    "end": 1185.9,
+    "text": " It was a museum."
+  },
+  {
+    "start": 1185.9,
+    "end": 1186.9,
+    "text": " Oh."
+  },
+  {
+    "start": 1186.9,
+    "end": 1187.9,
+    "text": " Sorry."
+  },
+  {
+    "start": 1187.9,
+    "end": 1188.9,
+    "text": " Right."
+  },
+  {
+    "start": 1188.9,
+    "end": 1189.9,
+    "text": " OK."
+  },
+  {
+    "start": 1189.9,
+    "end": 1190.9,
+    "text": " Got it."
+  },
+  {
+    "start": 1190.9,
+    "end": 1195.34,
+    "text": " Otherwise, I don't think you'd be saying the lion is too heavy."
+  },
+  {
+    "start": 1195.34,
+    "end": 1197.74,
+    "text": " Weight is the least of your problems."
+  },
+  {
+    "start": 1197.74,
+    "end": 1203.34,
+    "text": " That lion was way too bitey on my face."
+  },
+  {
+    "start": 1203.34,
+    "end": 1204.74,
+    "text": " OK."
+  },
+  {
+    "start": 1204.74,
+    "end": 1208.42,
+    "text": " It's time for fact number three, and that is Chazinsky."
+  },
+  {
+    "start": 1208.42,
+    "end": 1209.42,
+    "text": " Yeah."
+  },
+  {
+    "start": 1209.42,
+    "end": 1216.18,
+    "text": " Fact is that the earliest known penalty for illegal parking was to be impaled on a stake."
+  },
+  {
+    "start": 1216.18,
+    "end": 1217.18,
+    "text": " Yeah."
+  },
+  {
+    "start": 1217.18,
+    "end": 1222.78,
+    "text": " It's firm, it's firm, but it's fair."
+  },
+  {
+    "start": 1222.78,
+    "end": 1229.06,
+    "text": " And if you appeal, it's a smaller stake."
+  },
+  {
+    "start": 1229.06,
+    "end": 1233.02,
+    "text": " So this was actually in 700 BC."
+  },
+  {
+    "start": 1233.02,
+    "end": 1237.06,
+    "text": " This is the earliest parking restriction I can find, so it's in Nineveh, which is the"
+  },
+  {
+    "start": 1237.06,
+    "end": 1238.78,
+    "text": " Assyrian capital."
+  },
+  {
+    "start": 1238.78,
+    "end": 1242.18,
+    "text": " And the parking restriction was put in place by King Sinacarib."
+  },
+  {
+    "start": 1242.18,
+    "end": 1247.14,
+    "text": " And we have a stone tablet where he's laid out the restriction, and it says, Royal Road"
+  },
+  {
+    "start": 1247.14,
+    "end": 1254.14,
+    "text": " let no man decrease it, or let no man lessen it, this Royal Road, and on pain of being impaled"
+  },
+  {
+    "start": 1254.14,
+    "end": 1255.14,
+    "text": " on a stake."
+  },
+  {
+    "start": 1255.14,
+    "end": 1258.62,
+    "text": " And you got impaled on a stake if you did park on the Royal Road in your chariot, obviously"
+  },
+  {
+    "start": 1258.62,
+    "end": 1260.42,
+    "text": " not your motor car."
+  },
+  {
+    "start": 1260.42,
+    "end": 1264.06,
+    "text": " And impaled on a stake and then planted in your own garden so that people who were coming"
+  },
+  {
+    "start": 1264.06,
+    "end": 1269.42,
+    "text": " to visit you could go, oh, I guess he's not available for tea."
+  },
+  {
+    "start": 1269.42,
+    "end": 1271.06,
+    "text": " Wow, planted in your own garden."
+  },
+  {
+    "start": 1271.06,
+    "end": 1274.26,
+    "text": " Would you have a little label sticking out like you get on those plants?"
+  },
+  {
+    "start": 1274.26,
+    "end": 1275.26,
+    "text": " Yeah."
+  },
+  {
+    "start": 1275.26,
+    "end": 1276.66,
+    "text": " Yeah, with the species."
+  },
+  {
+    "start": 1276.66,
+    "end": 1279.26,
+    "text": " This is a Norman."
+  },
+  {
+    "start": 1279.26,
+    "end": 1284.1,
+    "text": " Yeah, Sinacarib, he was, he's most famous for moving his capital city to Nineveh, like"
+  },
+  {
+    "start": 1284.1,
+    "end": 1288.7,
+    "text": " you say, and had like a really amazing capital city then he had like gardens."
+  },
+  {
+    "start": 1288.7,
+    "end": 1292.1,
+    "text": " They think it might be in the Hanging Gardens, if anyone was there."
+  },
+  {
+    "start": 1292.1,
+    "end": 1294.58,
+    "text": " And yeah, he was just an extremely opulent man."
+  },
+  {
+    "start": 1294.58,
+    "end": 1300.14,
+    "text": " Apparently he had a piece of Noah's Ark which he worshipped as a god, and he once wrote"
+  },
+  {
+    "start": 1300.14,
+    "end": 1305.94,
+    "text": " about his enemies, their testicles I cut off, and tore out their privates like the seeds"
+  },
+  {
+    "start": 1305.94,
+    "end": 1308.54,
+    "text": " of cucumbers."
+  },
+  {
+    "start": 1308.54,
+    "end": 1310.94,
+    "text": " He was good with a simile, actually."
+  },
+  {
+    "start": 1310.94,
+    "end": 1316.54,
+    "text": " Sounds like he was very bad at making sandwiches."
+  },
+  {
+    "start": 1316.54,
+    "end": 1327.74,
+    "text": " You selectively shave the outside of a cucumber, then you slot it at home in the sandwich."
+  },
+  {
+    "start": 1327.74,
+    "end": 1332.58,
+    "text": " He actually, so he was not a humble man because he did create these incredible gardens."
+  },
+  {
+    "start": 1332.58,
+    "end": 1336.34,
+    "text": " I mean, he's, I think people should know more about Sinacarib and very little is written"
+  },
+  {
+    "start": 1336.34,
+    "end": 1337.34,
+    "text": " about him."
+  },
+  {
+    "start": 1337.34,
+    "end": 1341.14,
+    "text": " But a lot of historians now think that the Hanging Gardens of Babylon, as you say, were"
+  },
+  {
+    "start": 1341.14,
+    "end": 1345.78,
+    "text": " his gardens, and he irrigated the mountains all around, so he built this incredible canal"
+  },
+  {
+    "start": 1345.78,
+    "end": 1351.1,
+    "text": " that stretched 50 kilometers up into the mountains, and which irrigated his whole amazing new city."
+  },
+  {
+    "start": 1351.1,
+    "end": 1355.54,
+    "text": " But he was pretty cocky about it, so even on the signposts where he said you'll be impaled"
+  },
+  {
+    "start": 1355.54,
+    "end": 1359.38,
+    "text": " on a steak or cucumber or whatever if you part here."
+  },
+  {
+    "start": 1359.38,
+    "end": 1363.18,
+    "text": " Then the little signposts then went on to list his achievements."
+  },
+  {
+    "start": 1363.18,
+    "end": 1368.82,
+    "text": " Explaining Sinacarib is a king of the world, favorite of the gods, holder of invincible weapons"
+  },
+  {
+    "start": 1368.82,
+    "end": 1370.46,
+    "text": " and architect of urban design."
+  },
+  {
+    "start": 1370.46,
+    "end": 1373.94,
+    "text": " So I think that's quite a piece of it."
+  },
+  {
+    "start": 1373.94,
+    "end": 1377.42,
+    "text": " On those signs you put up here, here's what I've achieved, guys."
+  },
+  {
+    "start": 1377.42,
+    "end": 1378.42,
+    "text": " Wow."
+  },
+  {
+    "start": 1378.42,
+    "end": 1379.42,
+    "text": " Yeah."
+  },
+  {
+    "start": 1379.42,
+    "end": 1380.42,
+    "text": " That's amazing."
+  },
+  {
+    "start": 1380.42,
+    "end": 1383.54,
+    "text": " Do you know, in Britain, the first ever parking ticket that was given?"
+  },
+  {
+    "start": 1383.54,
+    "end": 1384.54,
+    "text": " No."
+  },
+  {
+    "start": 1384.54,
+    "end": 1386.9,
+    "text": " Okay, so it was in September 1960."
+  },
+  {
+    "start": 1386.9,
+    "end": 1388.22,
+    "text": " They set this up."
+  },
+  {
+    "start": 1388.22,
+    "end": 1389.22,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 1389.22,
+    "end": 1392.5,
+    "text": " It was quite like where it was like an established proper where parking attendance went"
+  },
+  {
+    "start": 1392.5,
+    "end": 1394.06,
+    "text": " out."
+  },
+  {
+    "start": 1394.06,
+    "end": 1399.66,
+    "text": " And the first ever ticket was given to a Dr. Thomas Craton who was answering an emergency"
+  },
+  {
+    "start": 1399.66,
+    "end": 1403.42,
+    "text": " call to help a heart attack victim at a West End Hotel."
+  },
+  {
+    "start": 1403.42,
+    "end": 1404.42,
+    "text": " So he raced there."
+  },
+  {
+    "start": 1404.42,
+    "end": 1405.42,
+    "text": " He got out."
+  },
+  {
+    "start": 1405.42,
+    "end": 1406.62,
+    "text": " When he came back, he had a ticket."
+  },
+  {
+    "start": 1406.62,
+    "end": 1411.06,
+    "text": " And there was so much public outcry that they said, okay, you haven't got a ticket."
+  },
+  {
+    "start": 1411.06,
+    "end": 1412.3,
+    "text": " That was the first ticket."
+  },
+  {
+    "start": 1412.3,
+    "end": 1419.62,
+    "text": " Could you imagine the, how was your first day, the clocked up pretty bad."
+  },
+  {
+    "start": 1419.62,
+    "end": 1423.5,
+    "text": " But the first parking ticket in America was also had to be overturned."
+  },
+  {
+    "start": 1423.5,
+    "end": 1424.5,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 1424.5,
+    "end": 1426.02,
+    "text": " Maybe parking tickets are just a failed enterprise."
+  },
+  {
+    "start": 1426.02,
+    "end": 1428.06,
+    "text": " Yeah, this was a reverend, actually."
+  },
+  {
+    "start": 1428.06,
+    "end": 1433.34,
+    "text": " The reverend CH North of the third Penta Costal Honest Church."
+  },
+  {
+    "start": 1433.34,
+    "end": 1436.74,
+    "text": " And it was a newly installed parking meter, the country's first parking meter."
+  },
+  {
+    "start": 1436.74,
+    "end": 1441.18,
+    "text": " And he just ran into a shop to get change and by the time he'd come out, he got a ticket."
+  },
+  {
+    "start": 1441.18,
+    "end": 1443.9,
+    "text": " And he complained to the courts and had it overturned."
+  },
+  {
+    "start": 1443.9,
+    "end": 1444.9,
+    "text": " Wow."
+  },
+  {
+    "start": 1444.9,
+    "end": 1448.26,
+    "text": " It would be pretty hard to get it overturned in the old days when you're being impaled"
+  },
+  {
+    "start": 1448.26,
+    "end": 1450.26,
+    "text": " on a stage."
+  },
+  {
+    "start": 1450.26,
+    "end": 1454.14,
+    "text": " I've got a story about parking tickets."
+  },
+  {
+    "start": 1454.14,
+    "end": 1456.98,
+    "text": " So begins so many of them exactly go."
+  },
+  {
+    "start": 1456.98,
+    "end": 1462.1,
+    "text": " Okay, so this is from January this year, and it was from the BBC News website."
+  },
+  {
+    "start": 1462.1,
+    "end": 1467.54,
+    "text": " A traffic warden is being investigated after a parking ticket was placed on a wheelie bin."
+  },
+  {
+    "start": 1467.54,
+    "end": 1472.38,
+    "text": " The warden was accused of bizarre behaviour."
+  },
+  {
+    "start": 1472.38,
+    "end": 1476.62,
+    "text": " So one witness said this, it appeared the warden slapped the plastic ticket envelope on"
+  },
+  {
+    "start": 1476.62,
+    "end": 1480.5,
+    "text": " the bin in a moment of high jinks after a member of the public pointed out it was on double"
+  },
+  {
+    "start": 1480.5,
+    "end": 1481.5,
+    "text": " yellow lines."
+  },
+  {
+    "start": 1481.5,
+    "end": 1482.5,
+    "text": " So it's a joke."
+  },
+  {
+    "start": 1482.5,
+    "end": 1483.5,
+    "text": " It's just a silly joke, yeah."
+  },
+  {
+    "start": 1483.5,
+    "end": 1486.58,
+    "text": " But then the response, this is in Camarthen."
+  },
+  {
+    "start": 1486.58,
+    "end": 1491.26,
+    "text": " The Marvinshire Council Traffic and Safety Manager, John McEvoy, said, although this was"
+  },
+  {
+    "start": 1491.26,
+    "end": 1494.94,
+    "text": " meant as a humorous incident, we take this kind of thing very seriously and have launched"
+  },
+  {
+    "start": 1494.94,
+    "end": 1498.58,
+    "text": " a formal investigation into the conduct of the officer."
+  },
+  {
+    "start": 1498.58,
+    "end": 1505.18,
+    "text": " Although this is meant as a humorous incident, we are still the arseholes, you think we are?"
+  },
+  {
+    "start": 1505.18,
+    "end": 1510.94,
+    "text": " I have some stuff on weird laws and slightly strange punishments, if that's okay."
+  },
+  {
+    "start": 1510.94,
+    "end": 1515.18,
+    "text": " The hit heights, apparently, they had a rule where anyone found guilty of committing"
+  },
+  {
+    "start": 1515.18,
+    "end": 1517.82,
+    "text": " a sex act with a dog or pig would be killed."
+  },
+  {
+    "start": 1517.82,
+    "end": 1523.5,
+    "text": " And so your own David Carrenzo gear?"
+  },
+  {
+    "start": 1523.5,
+    "end": 1527.1,
+    "text": " But if it was with a horse or a mule, the only punishment that they could give out was"
+  },
+  {
+    "start": 1527.1,
+    "end": 1531.14,
+    "text": " that you were no longer allowed to be in the presence of the king."
+  },
+  {
+    "start": 1531.14,
+    "end": 1532.14,
+    "text": " Wow."
+  },
+  {
+    "start": 1532.14,
+    "end": 1533.14,
+    "text": " That's good."
+  },
+  {
+    "start": 1533.14,
+    "end": 1534.14,
+    "text": " Nice, look."
+  },
+  {
+    "start": 1534.14,
+    "end": 1541.22,
+    "text": " And if the king, sorry, if the king, if the pig mounted the human, then no one would be"
+  },
+  {
+    "start": 1541.22,
+    "end": 1542.22,
+    "text": " punished at all."
+  },
+  {
+    "start": 1542.22,
+    "end": 1544.22,
+    "text": " It had to be the human who was sitting there."
+  },
+  {
+    "start": 1544.22,
+    "end": 1547.3,
+    "text": " Well, how would the king - is that his opening question to everyone?"
+  },
+  {
+    "start": 1547.3,
+    "end": 1548.3,
+    "text": " You fucked a horse."
+  },
+  {
+    "start": 1548.3,
+    "end": 1549.7,
+    "text": " I think it's that."
+  },
+  {
+    "start": 1549.7,
+    "end": 1553.98,
+    "text": " Because you could just be in an audience of the king and it doesn't get to him that you"
+  },
+  {
+    "start": 1553.98,
+    "end": 1554.98,
+    "text": " did it."
+  },
+  {
+    "start": 1554.98,
+    "end": 1555.98,
+    "text": " That's a good point."
+  },
+  {
+    "start": 1555.98,
+    "end": 1556.98,
+    "text": " Yeah, I don't know."
+  },
+  {
+    "start": 1556.98,
+    "end": 1559.62,
+    "text": " He was very close with the horse community."
+  },
+  {
+    "start": 1559.62,
+    "end": 1560.98,
+    "text": " They reported all these things."
+  },
+  {
+    "start": 1560.98,
+    "end": 1561.98,
+    "text": " Poopington Post."
+  },
+  {
+    "start": 1561.98,
+    "end": 1564.14,
+    "text": " Oh, that was a good one."
+  },
+  {
+    "start": 1564.14,
+    "end": 1568.14,
+    "text": " That's really good."
+  },
+  {
+    "start": 1568.14,
+    "end": 1573.38,
+    "text": " It's good, but it has."
+  },
+  {
+    "start": 1573.38,
+    "end": 1577.46,
+    "text": " So do you know about the guy who invented the double yellow lines?"
+  },
+  {
+    "start": 1577.46,
+    "end": 1578.46,
+    "text": " No."
+  },
+  {
+    "start": 1578.46,
+    "end": 1584.78,
+    "text": " This is a guy called George Bamber and this was in the late 19th century, so the 1880s."
+  },
+  {
+    "start": 1584.78,
+    "end": 1589.38,
+    "text": " And he based the double yellow line, he was a farmer and he based the design on the markings"
+  },
+  {
+    "start": 1589.38,
+    "end": 1591.1,
+    "text": " he put on his sheep."
+  },
+  {
+    "start": 1591.1,
+    "end": 1593.3,
+    "text": " So he used to strike his sheep with double yellow lines."
+  },
+  {
+    "start": 1593.3,
+    "end": 1597.3,
+    "text": " And he noticed that no one ever walked on his sheep and parked on them."
+  },
+  {
+    "start": 1597.3,
+    "end": 1599.1,
+    "text": " I thought this is something."
+  },
+  {
+    "start": 1599.1,
+    "end": 1604.06,
+    "text": " Actually, he wanted to keep the entrance to his farm clear on market day so people would"
+  },
+  {
+    "start": 1604.06,
+    "end": 1605.42,
+    "text": " come in and buy his produce."
+  },
+  {
+    "start": 1605.42,
+    "end": 1607.46,
+    "text": " So he thought, what design could I use?"
+  },
+  {
+    "start": 1607.46,
+    "end": 1610.3,
+    "text": " Oh, there's yellow lines from the sheep and he drew them out."
+  },
+  {
+    "start": 1610.3,
+    "end": 1613.62,
+    "text": " And it really caught on in his village to the mayor of his town, started using these"
+  },
+  {
+    "start": 1613.62,
+    "end": 1616.98,
+    "text": " double yellow lines to stop people parking in undesirable places."
+  },
+  {
+    "start": 1616.98,
+    "end": 1621.58,
+    "text": " But he received a 10% commission for a number of years on, like whenever the double yellow"
+  },
+  {
+    "start": 1621.58,
+    "end": 1625.02,
+    "text": " lines were used that he'd taken from the sheep, he got a commission on them."
+  },
+  {
+    "start": 1625.02,
+    "end": 1626.02,
+    "text": " That's amazing."
+  },
+  {
+    "start": 1626.02,
+    "end": 1627.02,
+    "text": " Isn't that cool?"
+  },
+  {
+    "start": 1627.02,
+    "end": 1628.02,
+    "text": " That's really cool."
+  },
+  {
+    "start": 1628.02,
+    "end": 1630.46,
+    "text": " I think because I would have thought it was based on the single yellow line, but you're"
+  },
+  {
+    "start": 1630.46,
+    "end": 1631.46,
+    "text": " saying that was invented first."
+  },
+  {
+    "start": 1631.46,
+    "end": 1632.46,
+    "text": " No."
+  },
+  {
+    "start": 1632.46,
+    "end": 1633.46,
+    "text": " Double yellow line came first."
+  },
+  {
+    "start": 1633.46,
+    "end": 1634.46,
+    "text": " That is amazing."
+  },
+  {
+    "start": 1634.46,
+    "end": 1635.46,
+    "text": " Yeah."
+  },
+  {
+    "start": 1635.46,
+    "end": 1636.46,
+    "text": " Yeah."
+  },
+  {
+    "start": 1636.46,
+    "end": 1637.46,
+    "text": " It's like hearing that Rocky 2 was made before Rocky."
+  },
+  {
+    "start": 1637.46,
+    "end": 1639.46,
+    "text": " And Rocky 2 was so good."
+  },
+  {
+    "start": 1639.46,
+    "end": 1644.98,
+    "text": " I thought we should do all one."
+  },
+  {
+    "start": 1644.98,
+    "end": 1649.34,
+    "text": " Oh, we're going to have to move on to our dex facts."
+  },
+  {
+    "start": 1649.34,
+    "end": 1651.34,
+    "text": " You guys got any more?"
+  },
+  {
+    "start": 1651.34,
+    "end": 1652.34,
+    "text": " All right."
+  },
+  {
+    "start": 1652.34,
+    "end": 1653.34,
+    "text": " Let's do it."
+  },
+  {
+    "start": 1653.34,
+    "end": 1656.82,
+    "text": " It's time for our final fact of the evening and that is Andrew Hunter Murray."
+  },
+  {
+    "start": 1656.82,
+    "end": 1663.18,
+    "text": " My fact is that female corn earworm moths go invisible after sex."
+  },
+  {
+    "start": 1663.18,
+    "end": 1666.62,
+    "text": " So this needs a bit of explaining."
+  },
+  {
+    "start": 1666.62,
+    "end": 1673.66,
+    "text": " Basically, when, so corn earworm moths are a kind of moth, and when males mate with females,"
+  },
+  {
+    "start": 1673.66,
+    "end": 1679.14,
+    "text": " they have a protein in their semen, which makes the female invisible to other males."
+  },
+  {
+    "start": 1679.14,
+    "end": 1684.58,
+    "text": " So it gets into the female's body and it inhibits all pheromone production immediately."
+  },
+  {
+    "start": 1684.58,
+    "end": 1688.18,
+    "text": " And the males only can tell when females are run by smell."
+  },
+  {
+    "start": 1688.18,
+    "end": 1689.66,
+    "text": " They don't have very good vision at all."
+  },
+  {
+    "start": 1689.66,
+    "end": 1691.46,
+    "text": " They can't really see other females."
+  },
+  {
+    "start": 1691.46,
+    "end": 1696.98,
+    "text": " So it's a self-preservation thing by the male who's done the mating."
+  },
+  {
+    "start": 1696.98,
+    "end": 1699.58,
+    "text": " He thinks, well, I want this female off the market."
+  },
+  {
+    "start": 1699.58,
+    "end": 1702.82,
+    "text": " So he just makes the female invisible to other males."
+  },
+  {
+    "start": 1702.82,
+    "end": 1707.86,
+    "text": " Why didn't he just paint double yellow lines on that?"
+  },
+  {
+    "start": 1707.86,
+    "end": 1711.9,
+    "text": " So this is from a book called Nature's Nether Regions."
+  },
+  {
+    "start": 1711.9,
+    "end": 1716.98,
+    "text": " I called Menno Shelte Huisen, I hope I'm pronouncing his name right."
+  },
+  {
+    "start": 1716.98,
+    "end": 1719.22,
+    "text": " And I just find that incredible."
+  },
+  {
+    "start": 1719.22,
+    "end": 1720.22,
+    "text": " That's amazing."
+  },
+  {
+    "start": 1720.22,
+    "end": 1721.22,
+    "text": " Totally insane."
+  },
+  {
+    "start": 1721.22,
+    "end": 1722.22,
+    "text": " Yeah."
+  },
+  {
+    "start": 1722.22,
+    "end": 1726.18,
+    "text": " So basically, there are all kinds of animals which do incredible, strange things through the"
+  },
+  {
+    "start": 1726.18,
+    "end": 1727.94,
+    "text": " medium of sex."
+  },
+  {
+    "start": 1727.94,
+    "end": 1731.38,
+    "text": " So banana flies are a kind of fly."
+  },
+  {
+    "start": 1731.38,
+    "end": 1732.38,
+    "text": " And male banana flies."
+  },
+  {
+    "start": 1732.38,
+    "end": 1735.14,
+    "text": " Not kind of banana."
+  },
+  {
+    "start": 1735.14,
+    "end": 1738.78,
+    "text": " Good."
+  },
+  {
+    "start": 1738.78,
+    "end": 1742.94,
+    "text": " So when male banana flies have sex with female banana flies, they deposit a seamen in"
+  },
+  {
+    "start": 1742.94,
+    "end": 1743.94,
+    "text": " the female."
+  },
+  {
+    "start": 1743.94,
+    "end": 1749.14,
+    "text": " And that contains a chemical which makes the female go completely off all other males."
+  },
+  {
+    "start": 1749.14,
+    "end": 1752.9,
+    "text": " So they start kicking away other males and then they give off a scent to make themselves"
+  },
+  {
+    "start": 1752.9,
+    "end": 1753.9,
+    "text": " unattractive."
+  },
+  {
+    "start": 1753.9,
+    "end": 1755.9,
+    "text": " And it lasts for a week."
+  },
+  {
+    "start": 1755.9,
+    "end": 1757.94,
+    "text": " It's not actually that long, is it?"
+  },
+  {
+    "start": 1757.94,
+    "end": 1759.94,
+    "text": " It is if you're a banana fly, I think."
+  },
+  {
+    "start": 1759.94,
+    "end": 1761.54,
+    "text": " Completely kills their sex life."
+  },
+  {
+    "start": 1761.54,
+    "end": 1764.18,
+    "text": " I mean, how much action are these females getting?"
+  },
+  {
+    "start": 1764.18,
+    "end": 1767.14,
+    "text": " Well, some in sex do all the mating on a single day."
+  },
+  {
+    "start": 1767.14,
+    "end": 1768.14,
+    "text": " Yeah, okay."
+  },
+  {
+    "start": 1768.14,
+    "end": 1769.14,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1769.14,
+    "end": 1770.14,
+    "text": " No, sorry."
+  },
+  {
+    "start": 1770.14,
+    "end": 1776.46,
+    "text": " I read that female beetles, they quench their thirst through sex."
+  },
+  {
+    "start": 1776.46,
+    "end": 1781.5,
+    "text": " And it's because of the seamen and the fluids in the seamen because they get very dehydrated."
+  },
+  {
+    "start": 1781.5,
+    "end": 1785.18,
+    "text": " And so when they have sex, it's actually just like having a drink for them."
+  },
+  {
+    "start": 1785.18,
+    "end": 1789.62,
+    "text": " That's the reason we all do it, don't we?"
+  },
+  {
+    "start": 1789.62,
+    "end": 1793.82,
+    "text": " Sometimes the tap is too far away."
+  },
+  {
+    "start": 1793.82,
+    "end": 1804.46,
+    "text": " So some in sex do all the mating."
+  },
+  {
+    "start": 1804.46,
+    "end": 1810.34,
+    "text": " So bees and ants do all the mating for a lifetime in a single day when the queen does all her"
+  },
+  {
+    "start": 1810.34,
+    "end": 1811.34,
+    "text": " mating."
+  },
+  {
+    "start": 1811.34,
+    "end": 1819.22,
+    "text": " And the males sort of try and fight each other with seamen to do rivalry, basically."
+  },
+  {
+    "start": 1819.22,
+    "end": 1823.8,
+    "text": " And some queens, if they've mated with a male and they like that male, they can secrete"
+  },
+  {
+    "start": 1823.8,
+    "end": 1829.78,
+    "text": " a fluid to protect that male's seamen from the rival sperm, basically."
+  },
+  {
+    "start": 1829.78,
+    "end": 1834.44,
+    "text": " And the scientist who found this out is called Boris Bear, from the University of Western"
+  },
+  {
+    "start": 1834.44,
+    "end": 1835.44,
+    "text": " Australia."
+  },
+  {
+    "start": 1835.44,
+    "end": 1840,
+    "text": " And he was asked whether this might happen in humans, whether human women could do such"
+  },
+  {
+    "start": 1840,
+    "end": 1841,
+    "text": " a thing."
+  },
+  {
+    "start": 1841,
+    "end": 1842,
+    "text": " And he said that he doubted it."
+  },
+  {
+    "start": 1842,
+    "end": 1849,
+    "text": " And he said, to my knowledge, women do not copulate with 90 mates in half an hour."
+  },
+  {
+    "start": 1849,
+    "end": 1852.2,
+    "text": " In his limited experience."
+  },
+  {
+    "start": 1852.2,
+    "end": 1857.84,
+    "text": " We are learning a lot about you to learn how to do this."
+  },
+  {
+    "start": 1857.84,
+    "end": 1863.96,
+    "text": " So the New Zealand giraffe weevil, which it's a weevil, not a giraffe."
+  },
+  {
+    "start": 1863.96,
+    "end": 1867.56,
+    "text": " The way that they mate is like you get two weevils and they fight against each other and usually"
+  },
+  {
+    "start": 1867.56,
+    "end": 1869.36,
+    "text": " the biggest weevil wins."
+  },
+  {
+    "start": 1869.36,
+    "end": 1871.72,
+    "text": " But there are little weevils that kind of sneak around."
+  },
+  {
+    "start": 1871.72,
+    "end": 1876.08,
+    "text": " And when there's two males fighting over a female, that weevil goes in and then steals"
+  },
+  {
+    "start": 1876.08,
+    "end": 1879.8,
+    "text": " the female while she's like kind of watching the fight."
+  },
+  {
+    "start": 1879.8,
+    "end": 1883.88,
+    "text": " And the female actually ends up having sex with the smallest weevil."
+  },
+  {
+    "start": 1883.88,
+    "end": 1884.88,
+    "text": " Wow."
+  },
+  {
+    "start": 1884.88,
+    "end": 1893.76,
+    "text": " She actually goes for lesser of two weevils."
+  },
+  {
+    "start": 1893.76,
+    "end": 1898.96,
+    "text": " I've never seen you look more disappointed in me than I."
+  },
+  {
+    "start": 1898.96,
+    "end": 1899.96,
+    "text": " That was incredible."
+  },
+  {
+    "start": 1899.96,
+    "end": 1904.28,
+    "text": " Mass suicide was committed tonight."
+  },
+  {
+    "start": 1904.28,
+    "end": 1908.8,
+    "text": " Here's a really, really weird thing, an interesting thing about flies, baby flies."
+  },
+  {
+    "start": 1908.8,
+    "end": 1915.92,
+    "text": " Baby flies can get characteristics from males who have had sex with their mother, but not"
+  },
+  {
+    "start": 1915.92,
+    "end": 1916.92,
+    "text": " their father."
+  },
+  {
+    "start": 1916.92,
+    "end": 1922.64,
+    "text": " So a male who's had sex with the mother much, much earlier can still give characteristics"
+  },
+  {
+    "start": 1922.64,
+    "end": 1923.64,
+    "text": " to the fly."
+  },
+  {
+    "start": 1923.64,
+    "end": 1924.64,
+    "text": " Wow."
+  },
+  {
+    "start": 1924.64,
+    "end": 1925.64,
+    "text": " Wow."
+  },
+  {
+    "start": 1925.64,
+    "end": 1926.64,
+    "text": " Well, we don't know."
+  },
+  {
+    "start": 1926.64,
+    "end": 1927.64,
+    "text": " It's really new research."
+  },
+  {
+    "start": 1927.64,
+    "end": 1929.36,
+    "text": " But that is unbelievably interesting."
+  },
+  {
+    "start": 1929.36,
+    "end": 1931.52,
+    "text": " But what's a characteristic for them?"
+  },
+  {
+    "start": 1931.52,
+    "end": 1935.72,
+    "text": " So say, for instance, the female fly had sex with a really big fly."
+  },
+  {
+    "start": 1935.72,
+    "end": 1936.72,
+    "text": " Yeah."
+  },
+  {
+    "start": 1936.72,
+    "end": 1938.4,
+    "text": " And then nothing came from it."
+  },
+  {
+    "start": 1938.4,
+    "end": 1942.52,
+    "text": " And then the father, well, and you know, being a little scrawny fly, then the baby might have"
+  },
+  {
+    "start": 1942.52,
+    "end": 1947.6,
+    "text": " the bigness of the original guy who she had sex with, even though it's not his actually"
+  },
+  {
+    "start": 1947.6,
+    "end": 1948.6,
+    "text": " father."
+  },
+  {
+    "start": 1948.6,
+    "end": 1949.6,
+    "text": " Oh, wow."
+  },
+  {
+    "start": 1949.6,
+    "end": 1950.6,
+    "text": " This sounds very suspect."
+  },
+  {
+    "start": 1950.6,
+    "end": 1954.6,
+    "text": " Are we sure this isn't just a lot of women cheating on their husbands?"
+  },
+  {
+    "start": 1954.6,
+    "end": 1955.6,
+    "text": " No."
+  },
+  {
+    "start": 1955.6,
+    "end": 1957.8,
+    "text": " No, it's new research."
+  },
+  {
+    "start": 1957.8,
+    "end": 1959.8,
+    "text": " It's why this baby's ginger."
+  },
+  {
+    "start": 1959.8,
+    "end": 1961.8,
+    "text": " That research."
+  },
+  {
+    "start": 1961.8,
+    "end": 1968.52,
+    "text": " Yeah, it's called telegony."
+  },
+  {
+    "start": 1968.52,
+    "end": 1972.28,
+    "text": " And it used to be believed by humans, by people."
+  },
+  {
+    "start": 1972.28,
+    "end": 1977,
+    "text": " In ancient Greek time, people thought that your children would have things from whoever"
+  },
+  {
+    "start": 1977,
+    "end": 1979.48,
+    "text": " you had sex with, whether it was the father or not."
+  },
+  {
+    "start": 1979.48,
+    "end": 1980.48,
+    "text": " Wow."
+  },
+  {
+    "start": 1980.48,
+    "end": 1981.48,
+    "text": " And it was thought for a long, long time."
+  },
+  {
+    "start": 1981.48,
+    "end": 1984.12,
+    "text": " And then it was shown to be not true in humans, but they've recently found that it might"
+  },
+  {
+    "start": 1984.12,
+    "end": 1985.12,
+    "text": " be true."
+  },
+  {
+    "start": 1985.12,
+    "end": 1986.12,
+    "text": " Probably is true in flies."
+  },
+  {
+    "start": 1986.12,
+    "end": 1987.12,
+    "text": " Wow."
+  },
+  {
+    "start": 1987.12,
+    "end": 1988.12,
+    "text": " That's so cool."
+  },
+  {
+    "start": 1988.12,
+    "end": 1992,
+    "text": " It was a wrong belief, and it was just completely wrong for no reason, and then it turned out we"
+  },
+  {
+    "start": 1992,
+    "end": 1993,
+    "text": " were right all along."
+  },
+  {
+    "start": 1993,
+    "end": 1996.4,
+    "text": " It's very satisfying."
+  },
+  {
+    "start": 1996.4,
+    "end": 1998.64,
+    "text": " Norwegian rats sperm."
+  },
+  {
+    "start": 1998.64,
+    "end": 2002.44,
+    "text": " They can join forces with each other and become a super sperm."
+  },
+  {
+    "start": 2002.44,
+    "end": 2006.24,
+    "text": " They have little hook-shaped heads and hundreds of them just hook onto each other and say, guys,"
+  },
+  {
+    "start": 2006.24,
+    "end": 2007.56,
+    "text": " we can do this together."
+  },
+  {
+    "start": 2007.56,
+    "end": 2009.56,
+    "text": " And then they swim faster as a single."
+  },
+  {
+    "start": 2009.56,
+    "end": 2010.56,
+    "text": " What?"
+  },
+  {
+    "start": 2010.56,
+    "end": 2011.56,
+    "text": " It's like the power rangers."
+  },
+  {
+    "start": 2011.56,
+    "end": 2012.56,
+    "text": " You remember when they combine forces?"
+  },
+  {
+    "start": 2012.56,
+    "end": 2013.56,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 2013.56,
+    "end": 2019.4,
+    "text": " To make a larger power ranger. It's much like that. And that's why Andy never did any more"
+  },
+  {
+    "start": 2019.4,
+    "end": 2022.4,
+    "text": " babysitting."
+  },
+  {
+    "start": 2022.4,
+    "end": 2025.64,
+    "text": " Naked mole rats, but have you guys all seen naked mole rats?"
+  },
+  {
+    "start": 2025.64,
+    "end": 2029.8,
+    "text": " Because I mean, they're just so extraordinary, and basically every single way."
+  },
+  {
+    "start": 2029.8,
+    "end": 2036.36,
+    "text": " But their sperm are also bizarre, so only 7% of naked mole rats sperm can swim."
+  },
+  {
+    "start": 2036.36,
+    "end": 2041.2,
+    "text": " So they ejaculate, and then the vast majority of their sperm just like flails and flutes"
+  },
+  {
+    "start": 2041.2,
+    "end": 2046.08,
+    "text": " around, and like drowns, or doesn't make it anywhere, only 0.1% I think can swim really"
+  },
+  {
+    "start": 2046.08,
+    "end": 2047.88,
+    "text": " fast enough to get anywhere."
+  },
+  {
+    "start": 2047.88,
+    "end": 2051.28,
+    "text": " So they're just constantly ejaculating useless, useless sperm."
+  },
+  {
+    "start": 2051.28,
+    "end": 2054.72,
+    "text": " But they are immune to all cancer, so it's like a trade-off."
+  },
+  {
+    "start": 2054.72,
+    "end": 2056.28,
+    "text": " Yeah, swings and..."
+  },
+  {
+    "start": 2056.28,
+    "end": 2057.28,
+    "text": " Yeah."
+  },
+  {
+    "start": 2057.28,
+    "end": 2067.2,
+    "text": " Up to 90% of human males sperm, as opposed to human females sperm, obviously, has two heads"
+  },
+  {
+    "start": 2067.2,
+    "end": 2071.32,
+    "text": " or two tails, or is completely deformed in other ways."
+  },
+  {
+    "start": 2071.32,
+    "end": 2078.4,
+    "text": " There are very few, which are, you know, the perfect guys, you see, on the posters."
+  },
+  {
+    "start": 2078.4,
+    "end": 2085.64,
+    "text": " I just think there are unrealistic standards of beauty for sperm."
+  },
+  {
+    "start": 2085.64,
+    "end": 2091.6,
+    "text": " Human semen is... I'm sorry about this, but it is really amazing."
+  },
+  {
+    "start": 2091.6,
+    "end": 2093.6,
+    "text": " Don't apologise."
+  },
+  {
+    "start": 2093.6,
+    "end": 2100.6,
+    "text": " I'll send you the dry cleaning bit, I'm going to call it quits."
+  },
+  {
+    "start": 2100.6,
+    "end": 2106.32,
+    "text": " It contains proteins, ladies and gentlemen, that can forge a kind of mating plug."
+  },
+  {
+    "start": 2106.32,
+    "end": 2110.96,
+    "text": " Like other animals have mating plugs that stop other males from impregnating females,"
+  },
+  {
+    "start": 2110.96,
+    "end": 2114.84,
+    "text": " but the proteins in human semen can do a similar kind of thing."
+  },
+  {
+    "start": 2114.84,
+    "end": 2119.32,
+    "text": " And it also contains chemical compounds that prevent the sperm cells from becoming over"
+  },
+  {
+    "start": 2119.32,
+    "end": 2120.32,
+    "text": " enthusiastic."
+  },
+  {
+    "start": 2120.32,
+    "end": 2123.52,
+    "text": " I'm not quite sure what that means, but..."
+  },
+  {
+    "start": 2123.52,
+    "end": 2130.52,
+    "text": " Does it sort of overshoot past the edge, end up in the kidney or something?"
+  },
+  {
+    "start": 2130.52,
+    "end": 2136.48,
+    "text": " So, there was a question on Yahoo Answers, which I never know people are joking on Yahoo Answers,"
+  },
+  {
+    "start": 2136.48,
+    "end": 2141.52,
+    "text": " but someone posted a question saying, \"I ran out of shampoo and I don't have any money,"
+  },
+  {
+    "start": 2141.52,
+    "end": 2143.72,
+    "text": " have no choice and I have to go to work tomorrow.\""
+  },
+  {
+    "start": 2143.72,
+    "end": 2146.6,
+    "text": " Yes, males like feces."
+  },
+  {
+    "start": 2146.6,
+    "end": 2149.44,
+    "text": " Can I just use sperm as my shampoo?"
+  },
+  {
+    "start": 2149.44,
+    "end": 2161.44,
+    "text": " The next post was the next day from the same guy, \"Well, no one asked me about the feces smell at least.\""
+  },
+  {
+    "start": 2161.44,
+    "end": 2167.44,
+    "text": " Okay, we're going to wrap up, okay, that's it, that's all of our facts, thank you so much for coming tonight everybody."
+  },
+  {
+    "start": 2167.44,
+    "end": 2170.44,
+    "text": " If you want to get in contact with us about the things we said over the course of this podcast,"
+  },
+  {
+    "start": 2170.44,
+    "end": 2172.44,
+    "text": " you can reach us on our Twitter accounts."
+  },
+  {
+    "start": 2172.44,
+    "end": 2174.44,
+    "text": " I'm on @Sriberland, Andy."
+  },
+  {
+    "start": 2174.44,
+    "end": 2180.44,
+    "text": " We're at Andrew Hunter M. James, Ed Shapes and Anna. You can email podcast@QI.com."
+  },
+  {
+    "start": 2180.44,
+    "end": 2186.44,
+    "text": " Yep, and if there's a little snagger about the fact she's not on Twitter, still not on Twitter, come believe it."
+  },
+  {
+    "start": 2186.44,
+    "end": 2192.44,
+    "text": " And if you want to listen to all of our previous episodes, you can head to no such thing as a fish.com"
+  },
+  {
+    "start": 2192.44,
+    "end": 2195.44,
+    "text": " And you can listen to all the previous episodes, we're going on tour still."
+  },
+  {
+    "start": 2195.44,
+    "end": 2198.44,
+    "text": " Thank you so much for being here guys, this has been amazing for us."
+  },
+  {
+    "start": 2198.44,
+    "end": 2203.44,
+    "text": " Thanks for listening at home, we'll see you again another time next week, goodbye."
+  },
+  {
+    "start": 2203.44,
+    "end": 2208.44,
+    "text": " (Applause)"
+  },
+  {
+    "start": 2209.44,
+    "end": 2214.44,
+    "text": " (Applause)"
+  },
+  {
+    "start": 2215.44,
+    "end": 2216.44,
+    "text": " (Applause)"
+  },
+  {
+    "start": 2217.44,
+    "end": 2218.44,
+    "text": " (Applause)"
+  },
+  {
+    "start": 2218.44,
+    "end": 2226.44,
+    "text": " [BLANK_AUDIO]"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of quirky and historical facts, including a cowboy's first car experience, historical legal obligations to stop thieves, a massive helium discovery, and a humorous Wikipedia edit involving Dan Schreiber.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When Dick Loss, the president of the Montana Cowboy Association, drove a car for the first time, he crashed it into a fence because instead of using the brake pedal, he pulled back on the steering wheel and yelled, 'whoa!'",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:46"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Until the 19th century, if someone shouted, 'stop thief,' you had no choice but to try and stop the thief.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:02"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 2016, scientists found a pocket of helium so big that it could make everyone on the planet sound squeaky for 20 minutes.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:27:09"
+    },
+    {
+      "fact_number": 4,
+      "fact": "If you look up humour on Wikipedia, the first thing you'll see is a picture of my face.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:37:40"
+    }
+  ]
+}

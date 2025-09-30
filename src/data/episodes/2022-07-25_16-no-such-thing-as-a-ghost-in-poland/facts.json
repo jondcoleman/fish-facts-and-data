@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and fascinating topics, including world records for unusual feats, a prolific bear in the Pyrenees, Poland's official ghost hunter, and the use of Cold War fallout in solving crimes.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The world record for most kicks to one's own head is 127 in a minute.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There is a bear in the Pyrenees who is facing castration because he has fathered nearly all the other bears.",
+      "presenter": "Anne Miller",
+      "guest": false,
+      "start_time": "00:07:59"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Poland's only official ghost hunter thinks that ghosts have given up on haunting humans.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:03"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Fallout from the Cold War has been used to solve murders.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:20:59"
+    }
+  ]
+}

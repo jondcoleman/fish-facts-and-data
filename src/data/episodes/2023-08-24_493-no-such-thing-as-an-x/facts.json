@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about Samuel Johnson's dictionary decisions, a protest against calculators by math teachers, Tibetan Buddhists inadvertently feeding otters, and a humorous naming of mathematical concepts by David Cox.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Samuel Johnson in his dictionary of the English language from 1755 decided that he would not include any words beginning with the letter X because he said thus begins no word in the English language.",
+      "presenter": "Susie Dent",
+      "guest": true,
+      "start_time": "00:02:47"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1986, a group of maths teachers organized a protest in Washington, DC against the use of calculators in schools; their protests failed because they couldn't get the numbers.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:15:45"
+    },
+    {
+      "fact_number": 3,
+      "fact": "For 30 years, Tibetan Buddhists have been saving fish from certain death and releasing them back into nature; unfortunately, it turns out they have unwittingly been feeding them all straight to the local otters.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:28:13"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Mathematician David Cox has two things named after him: a geometric coordinate ring and an algorithm that he invented with Steven Zucker; they are known as the Cox ring and the cocksucker machine.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:39:29"
+    }
+  ]
+}

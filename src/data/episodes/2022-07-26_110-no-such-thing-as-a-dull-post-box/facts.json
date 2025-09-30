@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on bizarre historical beliefs about menstruation, creative solutions to plane hijackings in the 1970s, the exhaustive study of British post-boxes, and medieval practices involving cow dung to ward off bugs.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the 1920s, scientists concluded that menstruating women wilted flowers.",
+      "presenter": "Sarah Pasco",
+      "guest": true,
+      "start_time": "00:01:00"
+    },
+    {
+      "fact_number": 2,
+      "fact": "One proposed solution to plane hijackings in the 1970s was to build a pretend Havana airport in South Florida.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:09:04"
+    },
+    {
+      "fact_number": 3,
+      "fact": "This year an organisation will finish a 40-year-long study of Britain and post-boxes, at which point it will immediately start again.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:16:50"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In the Middle Ages, people slept with cow dung at the foot of the bed to keep bugs away.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:25:11"
+    }
+  ]
+}

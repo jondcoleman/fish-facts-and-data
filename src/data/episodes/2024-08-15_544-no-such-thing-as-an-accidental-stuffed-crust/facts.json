@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of quirky and historical topics, including the challenges faced by early Olympic swimmers, Japan's ambitious conveyor belt plans, the peculiarities of toilet graffiti, and unusual pizza toppings in Hong Kong.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the swimming races at the first modern Olympics, the American competitor dropped out because the water was too cold.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:02:19"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Japan is currently planning a 300 mile conveyor belt.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:15:52"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Graffiti in toilets is called \"Latranalia\" thanks to a professor in 1966 who thought shithouse poetry wasn't technically correct.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:29:36"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Pizza Hut in Hong Kong sells a pizza topped with ham, mushroom, and snake.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:40:09"
+    }
+  ]
+}

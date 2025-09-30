@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the industrial production of nitrogen and its impact on human life, Harriet Tubman's incredible life and myths surrounding her, the surprising uses of Wasabi beyond sushi, and the unique way bees communicate through scents.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Half the nitrogen in your body was made in a factory.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:13"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Harriet Tubman once walked into a hospital and asked a doctor to cut her head open and he immediately did.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:17:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Wasabi is good on sushi rolls and papyrus scrolls.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:31:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Bees smell like bananas when they get angry.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:42:06"
+    }
+  ]
+}

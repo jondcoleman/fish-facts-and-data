@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the use of guinea pig testicles as early performance enhancers in baseball, a Welsh power station that activates during TV advert breaks, ancient butterfly-like insects, and a robot monk in a Chinese Buddhist temple.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first performance enhancing drug to be used in baseball was pulverized guinea pig testicles.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:33"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There is a power station buried inside a Welsh mountain that only turns on during TV advert breaks.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:13:30"
+    },
+    {
+      "fact_number": 3,
+      "fact": "85 million years before butterflies existed, there was another animal that looked and acted exactly the same as butterflies.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:23:15"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The Longquan Buddhist Temple in China has a monk called Worthy Stupid Robot Monk.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:33:12"
+    }
+  ]
+}

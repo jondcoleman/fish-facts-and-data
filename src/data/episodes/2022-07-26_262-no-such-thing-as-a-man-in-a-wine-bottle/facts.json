@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the multifaceted life of David Garrick, Sigmund Freud's peculiar sources and theories, the unique abilities of swordfish, and a bizarre board game about trading cattle semen.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the 18th century, London plays written by David Garrick and starring David Garrick would often be shown in theatres owned by David Garrick, and they would then be reviewed by David Garrick in newspapers owned by David Garrick.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:48"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The main source for Sigmund Freud's work on paranoid schizophrenia was the memoirs of a man who made unbelievable and ludicrous claims. That man's name was Dan Schreber.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:10:28"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Swordfish can speed up and slow down time with their minds.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:21:39"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1986, Waddington's invented a board game which was all about trading cattle semen.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:27:02"
+    }
+  ]
+}

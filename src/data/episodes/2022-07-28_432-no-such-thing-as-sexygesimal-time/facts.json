@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about the origins of the UK pop charts, the amusing coincidence of two National Trust employees sharing the surname Kit Kat, the creation of the French-speaking clock to reduce calls to an astronomer, and the unique security measures of Spain's gold reserves.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The UK pop charts were originally compiled by phoning around 20 record shops and asking what their best selling songs were that particular week.",
+      "presenter": "Bobby Seagull",
+      "guest": true,
+      "start_time": "00:02:03"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There are two members of the National Trust's food and beverage team who both have the surname Kit Kat.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:15"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The French-speaking clock was created by an astronomer who was annoyed that members of the public kept phoning his office to ask for the time.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:17"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Spain's gold reserves can only be accessed via drawbridge.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:44:25"
+    }
+  ]
+}

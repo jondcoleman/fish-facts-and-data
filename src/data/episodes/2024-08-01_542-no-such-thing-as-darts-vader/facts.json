@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a special guest, comedian Paul Sinner, and covers a range of topics including unusual Olympic participants, Samuel L. Jackson's activism, football teams traveling with their own grass, and a historic announcement on a quiz show.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Michel de Carvalho was both a British Olympic skier and the only surviving cast member of Lawrence of Arabia.",
+      "presenter": "Paul Sinner",
+      "guest": true,
+      "start_time": "00:01:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Samuel L. Jackson once locked Martin Luther King's dad in an upstairs room, then gave him a ladder to escape out of the window.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:27:47"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Top football teams sometimes travel with their own grass.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:37:38"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The hiring of the first ever African-American White House secretary was announced on an episode of a quiz show.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:41:09"
+    }
+  ]
+}

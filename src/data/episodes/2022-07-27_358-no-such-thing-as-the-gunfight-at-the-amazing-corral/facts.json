@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics, including the bizarre death of a U.S. founding father, gun control in the Wild West, a sunken ship filled with unexploded bombs off the coast of Kent, and Dolly Parton's contribution to a COVID-19 vaccine.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The founding father of the United States of America, Governor Morris, died after sticking a whale bone into his own penis.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:43"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Before entering a town in the Wild West, you had to leave your gun outside, pick up a token, and use that token to collect your gun on the way out.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:16:33"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Just off the coast of Kent is a sunken ship, which is under 24-hour surveillance because it contains 14,000 unexploded bombs.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:25:02"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The nine-to-five singer, Dolly Parton, helped fund a COVID vaccine that has a protection rate of ninety-five percent.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:43:13"
+    }
+  ]
+}

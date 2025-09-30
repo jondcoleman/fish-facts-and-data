@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about a teacup amnesty at Bletchley Park during WWII, 18th-century sea captains using sailors as sails, reindeer chewing in their sleep, and a 19th-century MP who thought he was a bird and was succeeded by another who died from a turnip injury.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "During World War II, Bletchley Park was forced to have a teacup amnesty.",
+      "presenter": "Liying Li",
+      "guest": true,
+      "start_time": "00:01:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "18th century sea captains sometimes used their sailors as sails.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:17:52"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Reindeer can chew in their sleep.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:31:10"
+    },
+    {
+      "fact_number": 4,
+      "fact": "From 1841 to 1851, the MP for Thirsk thought he was a bird.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:45:51"
+    }
+  ]
+}

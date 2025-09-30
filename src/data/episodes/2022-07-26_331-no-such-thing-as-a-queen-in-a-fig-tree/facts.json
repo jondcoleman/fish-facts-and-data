@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of quirky historical and scientific facts. The hosts discuss a bizarre punishment involving figs and mules in medieval Milan, the dangers of microwaving library books due to RFID chips, the peculiar nicknames of historical rulers, and a Chinese poem where every word is pronounced 'shi'.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that the Holy Roman Emperor once made every citizen of Milan pluck a fig from a mule's genitals with their teeth.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Okay, my fact this week is that library books can set on fire if you put them in the microwave.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:18:46"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact is that one of the kings of Leon was called Alfonso the slobberer.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:31:31"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that there is a Chinese poem made up of 92 characters in which every word is pronounced 'shi'.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:41:01"
+    }
+  ]
+}

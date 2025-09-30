@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode, recorded live at the London Podcast Festival, features guest presenter Richard Osman. The hosts discuss a variety of topics including the history of the Emmys, the reintroduction of red kites to England, the sale of Poundland for one pound, and a legal case involving the song 'All By Myself'.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "One nominee for best TV show at the first Emmys was the masked Spooner.",
+      "presenter": "Richard Osman",
+      "guest": true,
+      "start_time": "00:03:03"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1990, most of the red kite birds in England had arrived here by British Airways.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:17:19"
+    },
+    {
+      "fact_number": 3,
+      "fact": "This year at Poundland, if you had one pound, you could buy a tin of Pilchats, a water pistol, or all 825 UK Poundland stores.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:29:31"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Not long after he released his song 'All By Myself', the musician Eric Carman was taken to court because as it turned out, he did not write it 'All By Myself'.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:41:50"
+    }
+  ]
+}

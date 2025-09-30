@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a live recording where the hosts share audience-submitted facts, covering topics such as the Scrooge effect, the man with the longest beard, Canadian coin nicknames, and the towing capacity of rhinoceros beetles.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The Scrooge effect is when making someone think about death increases their charitable behavior and satisfaction from donations.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:01:29"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1567, the man with the longest beard died after tripping over it while running away from a fire.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:05:01"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Canadian one dollar coins are called loonies and two dollar coins are called toonies.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:09:40"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The rhinoceros beetle's towing capacity is equivalent to a man lifting nine male elephants over his head.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:13:17"
+    }
+  ]
+}

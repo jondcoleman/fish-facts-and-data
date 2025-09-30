@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on unusual allergies caused by tick bites, the upcoming 2038 Millennium Bug, the extensive diaries of Buckminster Fuller, and the naming of a new fish species, the Blue Bastard. Special guest Dr. Karl Kruszelnicki joins the hosts to share insights and humor.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Two people in Sydney every week get bitten by ticks and shortly after become allergic to meat for the rest of their lives.",
+      "presenter": "Dr. Karl Kruszelnicki",
+      "guest": true,
+      "start_time": "00:02:11"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Millennium Bug is going to hit in 2038.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:10:10"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Buckminster Fuller's complete diaries take up over 80 metres of shelf space.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:18:10"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Australian scientists have recently named a newly discovered species of fish Blue Bastard.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:13"
+    }
+  ]
+}

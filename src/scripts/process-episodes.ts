@@ -178,7 +178,8 @@ async function main() {
           const hasEpisodeNumber = metadata.itunes?.episode && metadata.itunes?.episodeType !== "bonus";
           const isFullEpisode = metadata.itunes?.episodeType === "full";
           const titleHasNumber = /^\d+[.:]/.test(metadata.title);
-          const isStandard = hasEpisodeNumber || isFullEpisode || titleHasNumber;
+          const titleHasBonus = /^Bonus Compilation|^Bonus:/i.test(metadata.title);
+          const isStandard = (hasEpisodeNumber || isFullEpisode || titleHasNumber) && !titleHasBonus;
 
           if (isStandard) {
             // Standard episode - extract facts via LLM

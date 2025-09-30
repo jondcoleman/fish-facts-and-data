@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating facts, including Bjorn Borg's unusual tennis comeback, shrews' brain-shrinking adaptation to winter, the peculiarities of copyright law involving divine entities, and the historical practice of training canaries to sing.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When 11-time Grand Slam tennis champion, Bjorn Borg, came out of retirement, he returned using a wooden racket and was coached by a 79-year-old karate expert from Wales.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Shrews cope with winter by shrinking their own brains.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:13:21"
+    },
+    {
+      "fact_number": 3,
+      "fact": "According to US intellectual property law, you are not allowed to hold any copyrights if you are the Holy Spirit.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:24:10"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In the 18th century, you could hire a professional canary trainer to expand your canary's singing repertoire.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:33:48"
+    }
+  ]
+}

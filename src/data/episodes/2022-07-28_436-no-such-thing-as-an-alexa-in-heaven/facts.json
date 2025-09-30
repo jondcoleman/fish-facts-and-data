@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on the unique drinking mechanism of hummingbirds, the security measures at a ketamine clinic, Britain's invisible libraries of microorganisms, and the diverse prayer habits of Americans.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When hummingbirds drink, their tongues split in two.",
+      "presenter": "Ed Yong",
+      "guest": true,
+      "start_time": "00:02:24"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In London's only ketamine clinic, the ketamine is kept in a locked box inside another locked box that's padlocked to the floor.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:18:06"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Britain has several libraries whose collections are completely invisible to the naked eye.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:30:56"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 2014, a survey about the praying habits of Americans revealed that 7% admitted that they prayed to God, asking him to help them find a good car park spot, and 5% admitted to praying for success in something they knew wouldn't please God.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:47:02"
+    }
+  ]
+}

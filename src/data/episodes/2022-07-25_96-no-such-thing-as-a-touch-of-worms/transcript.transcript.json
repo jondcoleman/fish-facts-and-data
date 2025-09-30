@@ -1,0 +1,3542 @@
+[
+  {
+    "start": 0,
+    "end": 2,
+    "text": " *Bell*"
+  },
+  {
+    "start": 2,
+    "end": 4,
+    "text": " *Bell*"
+  },
+  {
+    "start": 4,
+    "end": 6,
+    "text": " *Bell*"
+  },
+  {
+    "start": 6,
+    "end": 8,
+    "text": " *Bell*"
+  },
+  {
+    "start": 8,
+    "end": 10,
+    "text": " *Bell*"
+  },
+  {
+    "start": 10,
+    "end": 12,
+    "text": " *Bell*"
+  },
+  {
+    "start": 12,
+    "end": 14,
+    "text": " *Bell*"
+  },
+  {
+    "start": 14,
+    "end": 20,
+    "text": " Hello and welcome to another episode of no such thing as a fish, a weekly podcast coming to you from the QI offices in Covert Garden."
+  },
+  {
+    "start": 20,
+    "end": 36,
+    "text": " My name is Dan Schreiber, I'm sitting here with Andy Murray, James Harkin, and Anna Chazinski, and once again we've gathered around the microphones this time with our four favorite winter facts for our winter special as it's really cold and in no particular order here we go."
+  },
+  {
+    "start": 36,
+    "end": 38,
+    "text": " Starting with you, Anna Chazinski."
+  },
+  {
+    "start": 38,
+    "end": 44,
+    "text": " My fact this week is that Socrates had a spirit who spoke to him through the medium of sneezing."
+  },
+  {
+    "start": 44,
+    "end": 48,
+    "text": " And this is one of the great thinkers of western civilization, just to be clear."
+  },
+  {
+    "start": 48,
+    "end": 50,
+    "text": " I was guided by sneezes."
+  },
+  {
+    "start": 50,
+    "end": 52,
+    "text": " Aristotle wrote about sneezing as well."
+  },
+  {
+    "start": 52,
+    "end": 53,
+    "text": " Did he?"
+  },
+  {
+    "start": 53,
+    "end": 58,
+    "text": " Yeah, so he said that sneezing was of divine origin, or he said that that was believed at the time."
+  },
+  {
+    "start": 58,
+    "end": 62,
+    "text": " So coughing wasn't, and if your nose was running that didn't mean anything."
+  },
+  {
+    "start": 62,
+    "end": 66,
+    "text": " But he said, why is it that we think sneezing is divine?"
+  },
+  {
+    "start": 66,
+    "end": 70,
+    "text": " Is it because it arises from the most divine part of us, the head, from where reasoning comes."
+  },
+  {
+    "start": 70,
+    "end": 74,
+    "text": " But there's one other thing we know about Aristotle as well, which is that."
+  },
+  {
+    "start": 74,
+    "end": 77,
+    "text": " He was one of the people who, when they look at a bright light, they sneeze."
+  },
+  {
+    "start": 77,
+    "end": 78,
+    "text": " Oh, did he?"
+  },
+  {
+    "start": 78,
+    "end": 79,
+    "text": " Yeah."
+  },
+  {
+    "start": 79,
+    "end": 80,
+    "text": " And there's weirdos."
+  },
+  {
+    "start": 80,
+    "end": 84,
+    "text": " Socrates sneezing, and it only affects between one in three and one in ten people."
+  },
+  {
+    "start": 84,
+    "end": 87,
+    "text": " But we know that he was one of them, because he said, why does this happen?"
+  },
+  {
+    "start": 87,
+    "end": 91,
+    "text": " How if we not managed to pin that down to a more precise statistic?"
+  },
+  {
+    "start": 91,
+    "end": 95,
+    "text": " How hard is it to interview a hundred people and find out if it's one in three or one in ten?"
+  },
+  {
+    "start": 95,
+    "end": 100,
+    "text": " I'll tell you why it's weird, because people like me who don't have this until they meet someone who has it,"
+  },
+  {
+    "start": 100,
+    "end": 102,
+    "text": " think that it's completely made up."
+  },
+  {
+    "start": 102,
+    "end": 104,
+    "text": " You think, how is that even possible?"
+  },
+  {
+    "start": 104,
+    "end": 107,
+    "text": " And then people who have it think that everyone has it."
+  },
+  {
+    "start": 107,
+    "end": 108,
+    "text": " Wow."
+  },
+  {
+    "start": 108,
+    "end": 109,
+    "text": " I've found in the past."
+  },
+  {
+    "start": 109,
+    "end": 110,
+    "text": " I'm sure that's not..."
+  },
+  {
+    "start": 110,
+    "end": 111,
+    "text": " I thought I've read it, because I haven't."
+  },
+  {
+    "start": 111,
+    "end": 112,
+    "text": " Yeah."
+  },
+  {
+    "start": 112,
+    "end": 114,
+    "text": " I don't believe, I don't believe it's possible."
+  },
+  {
+    "start": 114,
+    "end": 117,
+    "text": " I need to pee when I'm around books."
+  },
+  {
+    "start": 117,
+    "end": 119,
+    "text": " Is that a thing as well?"
+  },
+  {
+    "start": 119,
+    "end": 121,
+    "text": " That's why you're banned from foils."
+  },
+  {
+    "start": 121,
+    "end": 122,
+    "text": " No, that is a thing."
+  },
+  {
+    "start": 122,
+    "end": 123,
+    "text": " Is that a thing?"
+  },
+  {
+    "start": 123,
+    "end": 130,
+    "text": " Is it not a Japanese thing about, there's a word, which means the impulsion that you want to defecate in a life?"
+  },
+  {
+    "start": 130,
+    "end": 132,
+    "text": " It's an arrico aoki phenomenon."
+  },
+  {
+    "start": 132,
+    "end": 133,
+    "text": " That's right."
+  },
+  {
+    "start": 133,
+    "end": 136,
+    "text": " It's called, and it's named after the only ever sufferer of the history."
+  },
+  {
+    "start": 136,
+    "end": 137,
+    "text": " And till now."
+  },
+  {
+    "start": 137,
+    "end": 140,
+    "text": " But the rumor has loads of books in it, don't it?"
+  },
+  {
+    "start": 140,
+    "end": 142,
+    "text": " This must be a nightmare for you."
+  },
+  {
+    "start": 142,
+    "end": 144,
+    "text": " You're constantly on edge."
+  },
+  {
+    "start": 144,
+    "end": 148,
+    "text": " The cleaners of this office have a rough time at the weekend."
+  },
+  {
+    "start": 148,
+    "end": 154,
+    "text": " There's a wiki page of what to say if people sneeze around the world."
+  },
+  {
+    "start": 154,
+    "end": 157,
+    "text": " In Albanian, you say the Albanian word for health."
+  },
+  {
+    "start": 157,
+    "end": 159,
+    "text": " It's quite similar around the world."
+  },
+  {
+    "start": 159,
+    "end": 162,
+    "text": " You quite a lot of people say for health, or God bless you."
+  },
+  {
+    "start": 162,
+    "end": 164,
+    "text": " In Amharic, they say may God forgive you."
+  },
+  {
+    "start": 164,
+    "end": 167,
+    "text": " In Azari, they say be healthy."
+  },
+  {
+    "start": 167,
+    "end": 175,
+    "text": " And in the Rithangu language of Australia, they say class bin kuruan, which means you have released nose water."
+  },
+  {
+    "start": 175,
+    "end": 179,
+    "text": " I found that page as well."
+  },
+  {
+    "start": 179,
+    "end": 182,
+    "text": " And the Filipino response to it."
+  },
+  {
+    "start": 182,
+    "end": 184,
+    "text": " Almost all of them are, you know, God bless you."
+  },
+  {
+    "start": 184,
+    "end": 185,
+    "text": " You may God forgive you."
+  },
+  {
+    "start": 185,
+    "end": 186,
+    "text": " God have mercy on you, sort of whatever."
+  },
+  {
+    "start": 186,
+    "end": 191,
+    "text": " The Filipino response is to say, now Ligo akoa, which means, hey, I took a bath."
+  },
+  {
+    "start": 191,
+    "end": 192,
+    "text": " What?"
+  },
+  {
+    "start": 192,
+    "end": 194,
+    "text": " I don't just say I took a bath in your mucus."
+  },
+  {
+    "start": 194,
+    "end": 197,
+    "text": " I took a bath. No, I think it's I took a bath and now you sneeze, don't I?"
+  },
+  {
+    "start": 197,
+    "end": 198,
+    "text": " I have to take another one."
+  },
+  {
+    "start": 198,
+    "end": 203,
+    "text": " And the response from the sneezer is, who didn't take a bath?"
+  },
+  {
+    "start": 203,
+    "end": 206,
+    "text": " Or maybe it's who didn't take a bath?"
+  },
+  {
+    "start": 206,
+    "end": 207,
+    "text": " Yeah, I'm not sure."
+  },
+  {
+    "start": 207,
+    "end": 214,
+    "text": " I think that sounds like, you know, when if someone sneezes on you and we used to say his kids was,"
+  },
+  {
+    "start": 214,
+    "end": 216,
+    "text": " I asked for the news, not the weather."
+  },
+  {
+    "start": 216,
+    "end": 218,
+    "text": " Oh, that sounds similar to that."
+  },
+  {
+    "start": 218,
+    "end": 223,
+    "text": " Yeah. Just on sneezing, dog sneeze."
+  },
+  {
+    "start": 223,
+    "end": 224,
+    "text": " Do they?"
+  },
+  {
+    "start": 224,
+    "end": 225,
+    "text": " Yeah."
+  },
+  {
+    "start": 225,
+    "end": 232,
+    "text": " And what's interesting is they do it when they encounter another dog, but they actively sneeze."
+  },
+  {
+    "start": 232,
+    "end": 236,
+    "text": " So they sort of fake sneeze in order to show that they're not aggressive."
+  },
+  {
+    "start": 236,
+    "end": 238,
+    "text": " To say that they're just want to hang."
+  },
+  {
+    "start": 238,
+    "end": 239,
+    "text": " Really?"
+  },
+  {
+    "start": 239,
+    "end": 242,
+    "text": " Yeah. So it's a sort of showing that they're friends."
+  },
+  {
+    "start": 242,
+    "end": 244,
+    "text": " I found this on canineuniversity.com."
+  },
+  {
+    "start": 244,
+    "end": 245,
+    "text": " Did you know?"
+  },
+  {
+    "start": 245,
+    "end": 250,
+    "text": " No, the only university run by dogs, four dogs."
+  },
+  {
+    "start": 250,
+    "end": 251,
+    "text": " Spun just sneeze."
+  },
+  {
+    "start": 251,
+    "end": 252,
+    "text": " What?"
+  },
+  {
+    "start": 252,
+    "end": 254,
+    "text": " How does that work?"
+  },
+  {
+    "start": 254,
+    "end": 260,
+    "text": " They, some of them have little chimneys which they can expel stuff out of and if they get something stuck in their bodies,"
+  },
+  {
+    "start": 260,
+    "end": 263,
+    "text": " then they can fire it out with a bit of a kind of puff of air."
+  },
+  {
+    "start": 263,
+    "end": 267,
+    "text": " Is that what like a blowhole is for a whale?"
+  },
+  {
+    "start": 267,
+    "end": 269,
+    "text": " They're just sneezing out their back."
+  },
+  {
+    "start": 269,
+    "end": 272,
+    "text": " No, a blowhole is like them breathing."
+  },
+  {
+    "start": 272,
+    "end": 275,
+    "text": " But whales do."
+  },
+  {
+    "start": 275,
+    "end": 278,
+    "text": " Sometimes I thought they actually expel."
+  },
+  {
+    "start": 278,
+    "end": 283,
+    "text": " Like, and for example, isn't that how they now find out whether a whale is ill?"
+  },
+  {
+    "start": 283,
+    "end": 287,
+    "text": " They'll have a sort of a drone helicopter go over to catch snot."
+  },
+  {
+    "start": 287,
+    "end": 290,
+    "text": " So they must be rocketing mucous out of their blowholes."
+  },
+  {
+    "start": 290,
+    "end": 293,
+    "text": " Yeah, but in the same way that you're rocketing mucous out of your mouth all the time."
+  },
+  {
+    "start": 293,
+    "end": 294,
+    "text": " Yeah."
+  },
+  {
+    "start": 294,
+    "end": 295,
+    "text": " And moving your breath."
+  },
+  {
+    "start": 295,
+    "end": 298,
+    "text": " Whoa, whoa, whoa, whoa."
+  },
+  {
+    "start": 298,
+    "end": 303,
+    "text": " I think a lot of the things dance as a very sensible joke."
+  },
+  {
+    "start": 303,
+    "end": 309,
+    "text": " But in your breath, you'll have tiny particles of like mucous or spitter or whatever and the same way that they would."
+  },
+  {
+    "start": 309,
+    "end": 310,
+    "text": " Oh, okay."
+  },
+  {
+    "start": 310,
+    "end": 311,
+    "text": " So they're not trying that."
+  },
+  {
+    "start": 311,
+    "end": 315,
+    "text": " If they have whale flu, maybe then it would be, it would be more mucousy, I guess."
+  },
+  {
+    "start": 315,
+    "end": 317,
+    "text": " Which whale flu is I think?"
+  },
+  {
+    "start": 317,
+    "end": 320,
+    "text": " Which, theoretically could pass over to you."
+  },
+  {
+    "start": 320,
+    "end": 321,
+    "text": " Really?"
+  },
+  {
+    "start": 321,
+    "end": 322,
+    "text": " No."
+  },
+  {
+    "start": 322,
+    "end": 323,
+    "text": " Yeah."
+  },
+  {
+    "start": 323,
+    "end": 326,
+    "text": " I read the other day that there was a whale who died because he got a fish stuck in his blowhole."
+  },
+  {
+    "start": 326,
+    "end": 327,
+    "text": " Oh."
+  },
+  {
+    "start": 327,
+    "end": 331,
+    "text": " That sounds like a horrible euphemism."
+  },
+  {
+    "start": 331,
+    "end": 338,
+    "text": " That sounds like you've gone to the hospital with a hoover attached to your genitals."
+  },
+  {
+    "start": 338,
+    "end": 340,
+    "text": " Just swam in there."
+  },
+  {
+    "start": 340,
+    "end": 341,
+    "text": " I was asleep."
+  },
+  {
+    "start": 341,
+    "end": 349,
+    "text": " So this fish has been dead for three days."
+  },
+  {
+    "start": 349,
+    "end": 350,
+    "text": " Sneezing."
+  },
+  {
+    "start": 350,
+    "end": 356,
+    "text": " Sneezing, yeah, I should say that it's very hard to know what's true and what's not about Socrates."
+  },
+  {
+    "start": 356,
+    "end": 360,
+    "text": " And this is an account by Plutarch, which is a couple of centuries later."
+  },
+  {
+    "start": 360,
+    "end": 366,
+    "text": " So all these people followed Socrates around writing down everything he said because Socrates refused to write anything down himself."
+  },
+  {
+    "start": 366,
+    "end": 371,
+    "text": " So Plato is his main disciple who wrote loads of stuff about him and then Xenophon wrote loads of stuff."
+  },
+  {
+    "start": 371,
+    "end": 377,
+    "text": " And they sort of refused to ever acknowledge each other's presence except they would have slide digs at each other's work when they wrote about Socrates."
+  },
+  {
+    "start": 377,
+    "end": 380,
+    "text": " So, you know, it's thought they had a bit of a rivalry going."
+  },
+  {
+    "start": 380,
+    "end": 386,
+    "text": " Did Socrates have a really junior disciple who would just have to write down shopping lists and stuff like that?"
+  },
+  {
+    "start": 386,
+    "end": 387,
+    "text": " Yeah."
+  },
+  {
+    "start": 387,
+    "end": 388,
+    "text": " Possibly."
+  },
+  {
+    "start": 388,
+    "end": 391,
+    "text": " Actually, he did have one called Simon the shoemaker who sounds kind of junior."
+  },
+  {
+    "start": 391,
+    "end": 392,
+    "text": " What did he do?"
+  },
+  {
+    "start": 392,
+    "end": 393,
+    "text": " What did he do?"
+  },
+  {
+    "start": 393,
+    "end": 395,
+    "text": " He actually made Socrates socks."
+  },
+  {
+    "start": 395,
+    "end": 396,
+    "text": " Did he?"
+  },
+  {
+    "start": 396,
+    "end": 397,
+    "text": " Yeah, weird."
+  },
+  {
+    "start": 397,
+    "end": 398,
+    "text": " Oddly."
+  },
+  {
+    "start": 398,
+    "end": 399,
+    "text": " Did they have shoes back then or sandals?"
+  },
+  {
+    "start": 399,
+    "end": 400,
+    "text": " What have been sandals?"
+  },
+  {
+    "start": 400,
+    "end": 402,
+    "text": " They did have shoes and ancient."
+  },
+  {
+    "start": 402,
+    "end": 404,
+    "text": " I mean, they had democracy down."
+  },
+  {
+    "start": 404,
+    "end": 415,
+    "text": " One of the other things about Socrates is sneezing was supposedly the sneeze demon would notify him with a sneeze or someone else sneezing when his wife was about to have what's been translated as a scolding fit."
+  },
+  {
+    "start": 415,
+    "end": 417,
+    "text": " So he could run away."
+  },
+  {
+    "start": 417,
+    "end": 421,
+    "text": " Because apparently she's life's Zanthippy wasn't she?"
+  },
+  {
+    "start": 421,
+    "end": 421,
+    "text": " Yeah."
+  },
+  {
+    "start": 421,
+    "end": 424,
+    "text": " And she's famously like a scolder."
+  },
+  {
+    "start": 424,
+    "end": 426,
+    "text": " She's like Maris in Frazier."
+  },
+  {
+    "start": 426,
+    "end": 427,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 427,
+    "end": 432,
+    "text": " And supposedly she got so angry that sometimes she would turn over the supper table even if there were guests."
+  },
+  {
+    "start": 432,
+    "end": 433,
+    "text": " Oh, my God."
+  },
+  {
+    "start": 433,
+    "end": 435,
+    "text": " Yeah, so I think she was like the Hulk."
+  },
+  {
+    "start": 435,
+    "end": 436,
+    "text": " I wonder if she went to that."
+  },
+  {
+    "start": 436,
+    "end": 439,
+    "text": " The angry table flip."
+  },
+  {
+    "start": 439,
+    "end": 442,
+    "text": " I've never done that and it's my dream to one day do it properly."
+  },
+  {
+    "start": 442,
+    "end": 445,
+    "text": " They really got there with everything before us."
+  },
+  {
+    "start": 445,
+    "end": 446,
+    "text": " Obviously."
+  },
+  {
+    "start": 446,
+    "end": 449,
+    "text": " That's the same dimensions we don't talk about."
+  },
+  {
+    "start": 449,
+    "end": 453,
+    "text": " Zanthippy was supposedly the only person who ever beats Socrates in an argument."
+  },
+  {
+    "start": 453,
+    "end": 454,
+    "text": " It was said."
+  },
+  {
+    "start": 454,
+    "end": 455,
+    "text": " Really?"
+  },
+  {
+    "start": 455,
+    "end": 456,
+    "text": " Yeah."
+  },
+  {
+    "start": 456,
+    "end": 463,
+    "text": " And he could speak and after one argument she poured a what do you call it?"
+  },
+  {
+    "start": 463,
+    "end": 465,
+    "text": " A chamber pot over his head."
+  },
+  {
+    "start": 465,
+    "end": 469,
+    "text": " And it led him to remark after the thunder comes the rain."
+  },
+  {
+    "start": 469,
+    "end": 471,
+    "text": " And that's supposed to be a clever thing that he said."
+  },
+  {
+    "start": 471,
+    "end": 472,
+    "text": " Even invented."
+  },
+  {
+    "start": 472,
+    "end": 480,
+    "text": " I asked for the news not the weather."
+  },
+  {
+    "start": 480,
+    "end": 482,
+    "text": " Okay, time for fact number two."
+  },
+  {
+    "start": 482,
+    "end": 484,
+    "text": " And that is Andrew Hunter Murray."
+  },
+  {
+    "start": 484,
+    "end": 489,
+    "text": " My fact is that people used to hang their fridges from the ceiling."
+  },
+  {
+    "start": 489,
+    "end": 490,
+    "text": " What people."
+  },
+  {
+    "start": 490,
+    "end": 491,
+    "text": " And why?"
+  },
+  {
+    "start": 491,
+    "end": 492,
+    "text": " Because."
+  },
+  {
+    "start": 492,
+    "end": 493,
+    "text": " To create more room on the floor."
+  },
+  {
+    "start": 493,
+    "end": 494,
+    "text": " No."
+  },
+  {
+    "start": 494,
+    "end": 496,
+    "text": " To stop vermin from getting at your food."
+  },
+  {
+    "start": 496,
+    "end": 500,
+    "text": " You suspend it from the ceiling like a bird feeder, but it's a person feeder."
+  },
+  {
+    "start": 500,
+    "end": 504,
+    "text": " And this was I think in the 17th and 18th centuries."
+  },
+  {
+    "start": 504,
+    "end": 507,
+    "text": " Even into the 19th century I think people were so."
+  },
+  {
+    "start": 507,
+    "end": 509,
+    "text": " So basically just before they got fridges."
+  },
+  {
+    "start": 509,
+    "end": 510,
+    "text": " Pretty much, yeah."
+  },
+  {
+    "start": 510,
+    "end": 512,
+    "text": " It was called a meat safe."
+  },
+  {
+    "start": 512,
+    "end": 515,
+    "text": " So it didn't actually involve artificial refrigeration."
+  },
+  {
+    "start": 515,
+    "end": 517,
+    "text": " But it was the precursor to the fridge basically."
+  },
+  {
+    "start": 517,
+    "end": 518,
+    "text": " Some are like a ladder kind of thing."
+  },
+  {
+    "start": 518,
+    "end": 519,
+    "text": " Exactly."
+  },
+  {
+    "start": 519,
+    "end": 520,
+    "text": " Yeah."
+  },
+  {
+    "start": 520,
+    "end": 525,
+    "text": " And so you would just get a box made of wood or metal with perforated sides."
+  },
+  {
+    "start": 525,
+    "end": 527,
+    "text": " And you would hang it from the ceiling."
+  },
+  {
+    "start": 527,
+    "end": 528,
+    "text": " Really?"
+  },
+  {
+    "start": 528,
+    "end": 530,
+    "text": " Some people mounted theirs on the wall."
+  },
+  {
+    "start": 530,
+    "end": 532,
+    "text": " And some people just put them on the floor with long legs."
+  },
+  {
+    "start": 532,
+    "end": 533,
+    "text": " Right."
+  },
+  {
+    "start": 533,
+    "end": 534,
+    "text": " So meat safes had doors."
+  },
+  {
+    "start": 534,
+    "end": 535,
+    "text": " Yeah."
+  },
+  {
+    "start": 535,
+    "end": 538,
+    "text": " Yet they still had to keep them off the ground because of vermin."
+  },
+  {
+    "start": 538,
+    "end": 539,
+    "text": " Yeah."
+  },
+  {
+    "start": 539,
+    "end": 540,
+    "text": " They can chew through."
+  },
+  {
+    "start": 540,
+    "end": 543,
+    "text": " I think they could be chewed through if they were wood or things."
+  },
+  {
+    "start": 543,
+    "end": 546,
+    "text": " But basically the original safe was for keeping meat in."
+  },
+  {
+    "start": 546,
+    "end": 547,
+    "text": " Yes."
+  },
+  {
+    "start": 547,
+    "end": 548,
+    "text": " Oh really?"
+  },
+  {
+    "start": 548,
+    "end": 549,
+    "text": " So that's before they had safes."
+  },
+  {
+    "start": 549,
+    "end": 550,
+    "text": " Yeah."
+  },
+  {
+    "start": 550,
+    "end": 551,
+    "text": " Not only in stuff."
+  },
+  {
+    "start": 551,
+    "end": 552,
+    "text": " Yeah."
+  },
+  {
+    "start": 552,
+    "end": 554,
+    "text": " People were quite against refrigeration when it sort of came in."
+  },
+  {
+    "start": 554,
+    "end": 559,
+    "text": " So in the early 1900s when we started being able to transport ice in big batches."
+  },
+  {
+    "start": 559,
+    "end": 562,
+    "text": " And we'd start creating refrigerator compartments to transport food."
+  },
+  {
+    "start": 562,
+    "end": 565,
+    "text": " People were against it for two reasons."
+  },
+  {
+    "start": 565,
+    "end": 567,
+    "text": " So I think this was mainly in America."
+  },
+  {
+    "start": 567,
+    "end": 568,
+    "text": " It was quite interesting."
+  },
+  {
+    "start": 568,
+    "end": 572,
+    "text": " They thought that first of all it meant that sellers of produce could manipulate the market."
+  },
+  {
+    "start": 572,
+    "end": 574,
+    "text": " Because now you could preserve food."
+  },
+  {
+    "start": 574,
+    "end": 576,
+    "text": " You could create like an artificial scarcity."
+  },
+  {
+    "start": 576,
+    "end": 577,
+    "text": " Yeah."
+  },
+  {
+    "start": 577,
+    "end": 579,
+    "text": " And then cause the prices to go up and then sell it for more."
+  },
+  {
+    "start": 579,
+    "end": 580,
+    "text": " Oh wow."
+  },
+  {
+    "start": 580,
+    "end": 582,
+    "text": " And it also meant fewer end of the day bargains."
+  },
+  {
+    "start": 582,
+    "end": 584,
+    "text": " Because you didn't have to sell your food at the end of the day."
+  },
+  {
+    "start": 584,
+    "end": 588,
+    "text": " So people often bound from refrigerating their foods overnight and preserving them"
+  },
+  {
+    "start": 588,
+    "end": 590,
+    "text": " until the next day to sell them."
+  },
+  {
+    "start": 590,
+    "end": 592,
+    "text": " Because men, you couldn't do those things."
+  },
+  {
+    "start": 592,
+    "end": 595,
+    "text": " And in fact also they thought that it meant food wouldn't be as fresh."
+  },
+  {
+    "start": 595,
+    "end": 601,
+    "text": " And so in 1880 I think one of France's most successful fruit wholesalers"
+  },
+  {
+    "start": 601,
+    "end": 604,
+    "text": " was this guy called desu ghee or decou ghee."
+  },
+  {
+    "start": 604,
+    "end": 607,
+    "text": " He used to transport his fruit all over France in trains and sell it everywhere."
+  },
+  {
+    "start": 607,
+    "end": 611,
+    "text": " And he started refrigerating it in the in the trains in a cold chamber for advice."
+  },
+  {
+    "start": 611,
+    "end": 614,
+    "text": " When people found out he was refrigerating it they were so outraged that"
+  },
+  {
+    "start": 614,
+    "end": 617,
+    "text": " because it meant that his fruit wasn't fresh anymore because he put it in a cold chamber."
+  },
+  {
+    "start": 617,
+    "end": 623,
+    "text": " That he had to invite people to a public ceremony in a public square where he burned the fridge."
+  },
+  {
+    "start": 623,
+    "end": 625,
+    "text": " And agreed never to refrigerate food again."
+  },
+  {
+    "start": 625,
+    "end": 626,
+    "text": " Wow."
+  },
+  {
+    "start": 626,
+    "end": 628,
+    "text": " And everyone got food poisoning."
+  },
+  {
+    "start": 628,
+    "end": 629,
+    "text": " In France."
+  },
+  {
+    "start": 629,
+    "end": 633,
+    "text": " Yeah, it was when they used to get ice from lakes, didn't they?"
+  },
+  {
+    "start": 633,
+    "end": 639,
+    "text": " One of them was lake venom which was the most famous lake in the world in the 19th century."
+  },
+  {
+    "start": 639,
+    "end": 642,
+    "text": " Because they got ice there and they took it all the way around the world."
+  },
+  {
+    "start": 642,
+    "end": 643,
+    "text": " Was that the one in Massachusetts?"
+  },
+  {
+    "start": 643,
+    "end": 644,
+    "text": " Yeah, it's near Boston."
+  },
+  {
+    "start": 644,
+    "end": 645,
+    "text": " Yeah."
+  },
+  {
+    "start": 645,
+    "end": 648,
+    "text": " And now it's just like a reservoir, it's fenced off, you're not allowed to go there."
+  },
+  {
+    "start": 648,
+    "end": 650,
+    "text": " It's just like a little rubbish reservoir."
+  },
+  {
+    "start": 650,
+    "end": 652,
+    "text": " But it used to be the most famous lake in the world."
+  },
+  {
+    "start": 652,
+    "end": 653,
+    "text": " Because all the ice came from?"
+  },
+  {
+    "start": 653,
+    "end": 657,
+    "text": " Yeah, and it was really, really clear, really seemed clean."
+  },
+  {
+    "start": 657,
+    "end": 662,
+    "text": " Somewhere in May for I think they used to keep some in a shop window with a newspaper behind it."
+  },
+  {
+    "start": 662,
+    "end": 665,
+    "text": " So you could read the newspaper to show how clear it was."
+  },
+  {
+    "start": 665,
+    "end": 666,
+    "text": " Yeah."
+  },
+  {
+    "start": 666,
+    "end": 668,
+    "text": " The first time they brought any over to the UK."
+  },
+  {
+    "start": 668,
+    "end": 670,
+    "text": " They didn't know what to do it, what to tax it."
+  },
+  {
+    "start": 670,
+    "end": 673,
+    "text": " Because it was ice, they didn't know whether it was water or it was a solid oil."
+  },
+  {
+    "start": 673,
+    "end": 678,
+    "text": " They didn't know whatever and they kind of spent about two months trying to work out and it all melted."
+  },
+  {
+    "start": 678,
+    "end": 683,
+    "text": " And then there was in Sweden, they had a lake as well, which had really good ice."
+  },
+  {
+    "start": 683,
+    "end": 686,
+    "text": " And they renamed their lake, I think it's called Opus Guard or something."
+  },
+  {
+    "start": 686,
+    "end": 691,
+    "text": " They renamed their lake Lake Venom, so that they could say they had lake Venom ice as well."
+  },
+  {
+    "start": 691,
+    "end": 692,
+    "text": " Wow."
+  },
+  {
+    "start": 692,
+    "end": 694,
+    "text": " Smart move, Swedes."
+  },
+  {
+    "start": 694,
+    "end": 699,
+    "text": " Yeah, I think that was, it was a guy called Frederick Tudor, who became known as Frederick,"
+  },
+  {
+    "start": 699,
+    "end": 706,
+    "text": " the ice king of the world, Tudor, who first decided, who first realised he can make his fortune out of getting all this ice off Lake Venom."
+  },
+  {
+    "start": 706,
+    "end": 711,
+    "text": " And then he paired up with another guy who invented the ice plow, which I think is really cool."
+  },
+  {
+    "start": 711,
+    "end": 716,
+    "text": " So you had horse-drawn ice plows in the 1830s, I think it was, which would go up and down the lake."
+  },
+  {
+    "start": 716,
+    "end": 720,
+    "text": " Cut and it would cut the ice into big blocks, so you didn't have to cut it by hand anymore."
+  },
+  {
+    "start": 720,
+    "end": 721,
+    "text": " Yeah."
+  },
+  {
+    "start": 721,
+    "end": 722,
+    "text": " This is really interesting."
+  },
+  {
+    "start": 722,
+    "end": 725,
+    "text": " Refrigerators, this is the line I read online."
+  },
+  {
+    "start": 725,
+    "end": 729,
+    "text": " Refrigerators have been used successfully to artificially hibernate many animals."
+  },
+  {
+    "start": 729,
+    "end": 733,
+    "text": " Snakes, lizards and even bats have been hibernated in domestic refrigerators."
+  },
+  {
+    "start": 733,
+    "end": 741,
+    "text": " So, and this gives you a whole protocol of how you can hibernate artificially an animal of yours if you ever turtle or if you have a lizard."
+  },
+  {
+    "start": 741,
+    "end": 743,
+    "text": " Certainly why I bought my fridge."
+  },
+  {
+    "start": 743,
+    "end": 745,
+    "text": " Yeah, but I just didn't know that was possible."
+  },
+  {
+    "start": 745,
+    "end": 756,
+    "text": " But they say that what the fridge will not do, definitely, is if it drops below what you're meant to have it as, as the hibernation coolness, it will kill the animal."
+  },
+  {
+    "start": 756,
+    "end": 758,
+    "text": " So you've got to be really careful."
+  },
+  {
+    "start": 758,
+    "end": 760,
+    "text": " I'm not sure we're advising people to do it though, are we?"
+  },
+  {
+    "start": 760,
+    "end": 763,
+    "text": " Certainly still on a different shelf to the yogurt."
+  },
+  {
+    "start": 763,
+    "end": 769,
+    "text": " There are two really dangerous things about fridges, really dangerous."
+  },
+  {
+    "start": 769,
+    "end": 776,
+    "text": " The fact that the London fire brigade says that fridge freezers aren't the most dangerous household appliance when it comes to starting fires."
+  },
+  {
+    "start": 776,
+    "end": 778,
+    "text": " They cause the most deaths."
+  },
+  {
+    "start": 778,
+    "end": 782,
+    "text": " It's because they have a lot of plastic and flammable insulation and a lot of ice."
+  },
+  {
+    "start": 782,
+    "end": 784,
+    "text": " And you would have thought, but not enough."
+  },
+  {
+    "start": 784,
+    "end": 790,
+    "text": " When they turn up, you don't use ice."
+  },
+  {
+    "start": 790,
+    "end": 792,
+    "text": " Yeah, but ice when heated turns to water."
+  },
+  {
+    "start": 792,
+    "end": 793,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 793,
+    "end": 795,
+    "text": " And they do use water."
+  },
+  {
+    "start": 795,
+    "end": 801,
+    "text": " Because if there was a fire brigade who used ice, you could fit ring 999 or something."
+  },
+  {
+    "start": 801,
+    "end": 804,
+    "text": " This is a really serious fire guys."
+  },
+  {
+    "start": 804,
+    "end": 807,
+    "text": " They turn up with the horse ice plow."
+  },
+  {
+    "start": 807,
+    "end": 810,
+    "text": " It's so many blockages in your hose pipe."
+  },
+  {
+    "start": 810,
+    "end": 813,
+    "text": " So anyway, that's one dangerous thing about fridges."
+  },
+  {
+    "start": 813,
+    "end": 815,
+    "text": " They're going to explode, set fire to your house."
+  },
+  {
+    "start": 815,
+    "end": 819,
+    "text": " The other one is, so four in every five US fridges has fridge magnets on it."
+  },
+  {
+    "start": 819,
+    "end": 822,
+    "text": " And I don't have the stats for the UK, but I would guess similar."
+  },
+  {
+    "start": 822,
+    "end": 828,
+    "text": " And a lot of fridge magnets are so strong that if you have a pacemaker, can have deadly consequences."
+  },
+  {
+    "start": 828,
+    "end": 829,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 829,
+    "end": 833,
+    "text": " You walk past pacemakers and it disrupts the, or it can completely disrupt it."
+  },
+  {
+    "start": 833,
+    "end": 836,
+    "text": " That's pretty strong fridge magnet, so right?"
+  },
+  {
+    "start": 836,
+    "end": 838,
+    "text": " Apparently, you have to put warnings on a lot of fridge magnets now."
+  },
+  {
+    "start": 838,
+    "end": 841,
+    "text": " Because the fridge magnets do tend to be stronger than your standard magnet."
+  },
+  {
+    "start": 841,
+    "end": 844,
+    "text": " Wow, wow, there's not enough space on a fridge magnet for a warning."
+  },
+  {
+    "start": 844,
+    "end": 847,
+    "text": " As in that way, if you had a, oh, on the package."
+  },
+  {
+    "start": 847,
+    "end": 849,
+    "text": " It would ruin the witty phrase."
+  },
+  {
+    "start": 849,
+    "end": 850,
+    "text": " That's what I'm saying."
+  },
+  {
+    "start": 850,
+    "end": 852,
+    "text": " Walk a mile and someone else is shoes."
+  },
+  {
+    "start": 852,
+    "end": 853,
+    "text": " Then you'll be a mile away."
+  },
+  {
+    "start": 853,
+    "end": 854,
+    "text": " And be wearing their shoes."
+  },
+  {
+    "start": 854,
+    "end": 855,
+    "text": " Brackets."
+  },
+  {
+    "start": 855,
+    "end": 857,
+    "text": " Do get a lot of pacemakers in that."
+  },
+  {
+    "start": 857,
+    "end": 858,
+    "text": " Touch the internet these days."
+  },
+  {
+    "start": 858,
+    "end": 859,
+    "text": " Oh, yes."
+  },
+  {
+    "start": 859,
+    "end": 860,
+    "text": " Yeah, those kind of things."
+  },
+  {
+    "start": 860,
+    "end": 865,
+    "text": " I don't really know what it does."
+  },
+  {
+    "start": 865,
+    "end": 869,
+    "text": " What it does is you can do a number of things like it has a scanner."
+  },
+  {
+    "start": 869,
+    "end": 872,
+    "text": " So anything that you put in, you scan the food that goes in."
+  },
+  {
+    "start": 872,
+    "end": 873,
+    "text": " Yeah."
+  },
+  {
+    "start": 873,
+    "end": 877,
+    "text": " And then you run out of, you run out of milk and it knows you've run out of milk."
+  },
+  {
+    "start": 877,
+    "end": 878,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 878,
+    "end": 881,
+    "text": " Well, it's part of the internet of things."
+  },
+  {
+    "start": 881,
+    "end": 882,
+    "text": " Yeah."
+  },
+  {
+    "start": 882,
+    "end": 889,
+    "text": " And there was in 2014, there was the first hacking scandal where people were hacked through fridges, weren't they?"
+  },
+  {
+    "start": 889,
+    "end": 890,
+    "text": " Yeah."
+  },
+  {
+    "start": 890,
+    "end": 891,
+    "text": " Really?"
+  },
+  {
+    "start": 891,
+    "end": 896,
+    "text": " 750,000 phishing emails were sent from fridges to people's email accounts."
+  },
+  {
+    "start": 896,
+    "end": 897,
+    "text": " Wow."
+  },
+  {
+    "start": 897,
+    "end": 903,
+    "text": " I thought when you sort of said hacking into fridges that you'd just steal a banana or something."
+  },
+  {
+    "start": 903,
+    "end": 906,
+    "text": " Because that would be kind of hacking I'd be interested in."
+  },
+  {
+    "start": 906,
+    "end": 913,
+    "text": " We have 500 kilograms of beef in the Nigerian accounts that we would like to send over to you."
+  },
+  {
+    "start": 913,
+    "end": 917,
+    "text": " But yeah, I think that's really cool that we might be able to be hacked through all of our household gadgets."
+  },
+  {
+    "start": 917,
+    "end": 918,
+    "text": " Oh, fantastic."
+  },
+  {
+    "start": 918,
+    "end": 932,
+    "text": " I can't wait for my own bedside lab to turn against me."
+  },
+  {
+    "start": 932,
+    "end": 934,
+    "text": " Okay, time for fact number three."
+  },
+  {
+    "start": 934,
+    "end": 935,
+    "text": " And that is my fact."
+  },
+  {
+    "start": 935,
+    "end": 942,
+    "text": " My fact this week is that TV star David Frost used to host live shows eight nights a week."
+  },
+  {
+    "start": 942,
+    "end": 943,
+    "text": " Fantastic."
+  },
+  {
+    "start": 943,
+    "end": 944,
+    "text": " David Frost."
+  },
+  {
+    "start": 944,
+    "end": 948,
+    "text": " Yeah, so this is the time zone thing."
+  },
+  {
+    "start": 948,
+    "end": 949,
+    "text": " It is."
+  },
+  {
+    "start": 949,
+    "end": 950,
+    "text": " It's surprisingly true."
+  },
+  {
+    "start": 950,
+    "end": 954,
+    "text": " David Frost used to host a lot of night shows and afternoon shows."
+  },
+  {
+    "start": 954,
+    "end": 958,
+    "text": " And what he used to do was do four shows in England."
+  },
+  {
+    "start": 958,
+    "end": 962,
+    "text": " And then he would take Concorde over to New York."
+  },
+  {
+    "start": 962,
+    "end": 966,
+    "text": " And Concorde famously bragged that you would often arrived before you left."
+  },
+  {
+    "start": 966,
+    "end": 970,
+    "text": " And that allowed him to then do a show that night as well."
+  },
+  {
+    "start": 970,
+    "end": 972,
+    "text": " And so he managed to do eight shows per week."
+  },
+  {
+    "start": 972,
+    "end": 973,
+    "text": " Very impressive."
+  },
+  {
+    "start": 973,
+    "end": 974,
+    "text": " Yeah."
+  },
+  {
+    "start": 974,
+    "end": 978,
+    "text": " So he used to just go back and forth on Concorde doing night shows."
+  },
+  {
+    "start": 978,
+    "end": 981,
+    "text": " You could do these days because it takes like eight hours to get to New York."
+  },
+  {
+    "start": 981,
+    "end": 982,
+    "text": " Exactly."
+  },
+  {
+    "start": 982,
+    "end": 985,
+    "text": " Since Concorde has gone, this has become impossible."
+  },
+  {
+    "start": 985,
+    "end": 988,
+    "text": " I don't think I appreciated enough of the time because I guess I was too young."
+  },
+  {
+    "start": 988,
+    "end": 990,
+    "text": " Concorde was extraordinary."
+  },
+  {
+    "start": 990,
+    "end": 992,
+    "text": " He used to go over my house when I was very young."
+  },
+  {
+    "start": 992,
+    "end": 994,
+    "text": " Yeah, I remember this amazing sound of it."
+  },
+  {
+    "start": 994,
+    "end": 995,
+    "text": " Yeah."
+  },
+  {
+    "start": 995,
+    "end": 998,
+    "text": " When faster than a rifle bullet, I think."
+  },
+  {
+    "start": 998,
+    "end": 999,
+    "text": " Wow."
+  },
+  {
+    "start": 999,
+    "end": 1003,
+    "text": " So if you fired a bullet at the retreating Concorde, Concorde would accelerate away."
+  },
+  {
+    "start": 1003,
+    "end": 1004,
+    "text": " Wow."
+  },
+  {
+    "start": 1004,
+    "end": 1005,
+    "text": " Wow."
+  },
+  {
+    "start": 1005,
+    "end": 1007,
+    "text": " Faster than the rotation of the earth."
+  },
+  {
+    "start": 1007,
+    "end": 1008,
+    "text": " Yeah."
+  },
+  {
+    "start": 1008,
+    "end": 1011,
+    "text": " 1,350 miles an hour is the top speed."
+  },
+  {
+    "start": 1011,
+    "end": 1013,
+    "text": " I mean, it was twice the speed of sound, wasn't it?"
+  },
+  {
+    "start": 1013,
+    "end": 1014,
+    "text": " It wasn't like they just broke the speed of sound."
+  },
+  {
+    "start": 1014,
+    "end": 1017,
+    "text": " I thought, well, let's linger around one or two miles an hour above it."
+  },
+  {
+    "start": 1017,
+    "end": 1018,
+    "text": " They doubled it."
+  },
+  {
+    "start": 1018,
+    "end": 1019,
+    "text": " Yeah, they went twice."
+  },
+  {
+    "start": 1019,
+    "end": 1020,
+    "text": " You're right."
+  },
+  {
+    "start": 1020,
+    "end": 1021,
+    "text": " It's amazing."
+  },
+  {
+    "start": 1021,
+    "end": 1024,
+    "text": " And they used to fly at a sort of altitude of 50 to 55,000 feet."
+  },
+  {
+    "start": 1024,
+    "end": 1028,
+    "text": " People used to say that you could see the curvature of the earth when you're at that height."
+  },
+  {
+    "start": 1028,
+    "end": 1029,
+    "text": " Yeah."
+  },
+  {
+    "start": 1029,
+    "end": 1030,
+    "text": " Which is astonishing."
+  },
+  {
+    "start": 1030,
+    "end": 1031,
+    "text": " So cool."
+  },
+  {
+    "start": 1031,
+    "end": 1035,
+    "text": " One of the most amazing things about it was that it had, I'm quoting here from an article about"
+  },
+  {
+    "start": 1035,
+    "end": 1038,
+    "text": " a computer controlled engine air intakes, right?"
+  },
+  {
+    "start": 1038,
+    "end": 1042,
+    "text": " Now, that doesn't sound very cool, but it is because what it means is that the air going into"
+  },
+  {
+    "start": 1042,
+    "end": 1050,
+    "text": " the engine had to be slowed down by 1,000 miles an hour over a distance of 15 feet."
+  },
+  {
+    "start": 1050,
+    "end": 1051,
+    "text": " Wow."
+  },
+  {
+    "start": 1051,
+    "end": 1052,
+    "text": " Yeah."
+  },
+  {
+    "start": 1052,
+    "end": 1055,
+    "text": " It comes in at 1,300 miles an hour or whatever it might be."
+  },
+  {
+    "start": 1055,
+    "end": 1058,
+    "text": " And it has to be slowed down only over four meters."
+  },
+  {
+    "start": 1058,
+    "end": 1059,
+    "text": " That's whiplash."
+  },
+  {
+    "start": 1059,
+    "end": 1060,
+    "text": " That air has serious whiplash."
+  },
+  {
+    "start": 1060,
+    "end": 1062,
+    "text": " And without it, the engines just sort of blown up immediately."
+  },
+  {
+    "start": 1062,
+    "end": 1064,
+    "text": " But that was the cool thing about it."
+  },
+  {
+    "start": 1064,
+    "end": 1067,
+    "text": " It's the kind of fact you do not want to be told if you're me or down and it's about to take off."
+  },
+  {
+    "start": 1067,
+    "end": 1070,
+    "text": " If we didn't do this, the engines would explode immediately."
+  },
+  {
+    "start": 1070,
+    "end": 1072,
+    "text": " Fortunately, we think it's going to go okay."
+  },
+  {
+    "start": 1072,
+    "end": 1079,
+    "text": " Andy Warhol used to steal all of the items on the plane, sort of like little plates and silverware"
+  },
+  {
+    "start": 1079,
+    "end": 1081,
+    "text": " and so on because he knew that it would be collectible."
+  },
+  {
+    "start": 1081,
+    "end": 1083,
+    "text": " For some reason, like he just thought it would be collectible."
+  },
+  {
+    "start": 1083,
+    "end": 1084,
+    "text": " And so he encouraged people."
+  },
+  {
+    "start": 1084,
+    "end": 1085,
+    "text": " No excuse for stealing."
+  },
+  {
+    "start": 1085,
+    "end": 1086,
+    "text": " Yeah."
+  },
+  {
+    "start": 1086,
+    "end": 1089,
+    "text": " I know a lot of stuff in the British Museum is collectible."
+  },
+  {
+    "start": 1089,
+    "end": 1093,
+    "text": " There's an app sailed in there in the middle of the night to get it."
+  },
+  {
+    "start": 1093,
+    "end": 1095,
+    "text": " Let's go to David Frost, shall we?"
+  },
+  {
+    "start": 1095,
+    "end": 1096,
+    "text": " Yeah."
+  },
+  {
+    "start": 1096,
+    "end": 1104,
+    "text": " He was offered a contract to play for Nottingham Forest, but he turned it down because the maximum wage for a football player at the time was £15 a week."
+  },
+  {
+    "start": 1104,
+    "end": 1109,
+    "text": " And he predicted Concord and his desire to travel on it eight times a week."
+  },
+  {
+    "start": 1109,
+    "end": 1111,
+    "text": " That's not going to sustain me."
+  },
+  {
+    "start": 1111,
+    "end": 1112,
+    "text": " Yeah."
+  },
+  {
+    "start": 1112,
+    "end": 1117,
+    "text": " But obviously in those days before Jimmy Hill, there was a maximum wage for footballers."
+  },
+  {
+    "start": 1117,
+    "end": 1120,
+    "text": " And so it wasn't a very good profession to go into."
+  },
+  {
+    "start": 1120,
+    "end": 1127,
+    "text": " We should just very quickly for younger listeners and people who made just a never heard of David Frost explain who he was."
+  },
+  {
+    "start": 1127,
+    "end": 1129,
+    "text": " So he died not too long ago."
+  },
+  {
+    "start": 1129,
+    "end": 1131,
+    "text": " He was a TV host."
+  },
+  {
+    "start": 1131,
+    "end": 1134,
+    "text": " He used to do interviews very famously interviewed Richard Nixon."
+  },
+  {
+    "start": 1134,
+    "end": 1137,
+    "text": " And there's a movie, Frost Nixon, which won a lot of awards."
+  },
+  {
+    "start": 1137,
+    "end": 1144,
+    "text": " And he was just one of those guys that seemed to know everybody and be around for every major event on TV."
+  },
+  {
+    "start": 1144,
+    "end": 1146,
+    "text": " Some of his TV shows that he did."
+  },
+  {
+    "start": 1146,
+    "end": 1147,
+    "text": " Yeah, can I read a few out?"
+  },
+  {
+    "start": 1147,
+    "end": 1148,
+    "text": " Yeah, go for it."
+  },
+  {
+    "start": 1148,
+    "end": 1163,
+    "text": " A degree of Frost, the Frost report, Frost over England, Frost over America, Frost weekly, the Frost interview breakfast with Frost, talking with David Frost, headliners with David Frost, the David Frost show, Frost on Friday, Frost on Saturday, Frost on Sunday,"
+  },
+  {
+    "start": 1163,
+    "end": 1171,
+    "text": " the Frost program, Frost on sketch shows, Frost on interviews, Frost on satire, Frost tonight and Frost."
+  },
+  {
+    "start": 1171,
+    "end": 1174,
+    "text": " But not a touch of Frost."
+  },
+  {
+    "start": 1174,
+    "end": 1179,
+    "text": " Wow, he really made the most of that name."
+  },
+  {
+    "start": 1179,
+    "end": 1180,
+    "text": " Yeah."
+  },
+  {
+    "start": 1180,
+    "end": 1183,
+    "text": " Was he paranoid people were going to forget it or something?"
+  },
+  {
+    "start": 1183,
+    "end": 1185,
+    "text": " There's a bit strange."
+  },
+  {
+    "start": 1185,
+    "end": 1192,
+    "text": " There's a good name for an interviewer and a host or something, because it's a noun which is good, but it's not a bad noun like words."
+  },
+  {
+    "start": 1192,
+    "end": 1196,
+    "text": " Worms on Sunday, first with worms."
+  },
+  {
+    "start": 1196,
+    "end": 1200,
+    "text": " Touch of worms."
+  },
+  {
+    "start": 1200,
+    "end": 1211,
+    "text": " We actually, so James and I, this show that we do, Museumicuriosity, we actually had Frost on the show."
+  },
+  {
+    "start": 1211,
+    "end": 1216,
+    "text": " And weirdly, it was the last program he ever did."
+  },
+  {
+    "start": 1216,
+    "end": 1222,
+    "text": " Yeah, so Museumicuriosity, his appearance on that is his final appearance. It was quite amazing."
+  },
+  {
+    "start": 1222,
+    "end": 1225,
+    "text": " Because he was on the airways for more than 50 years, wasn't he?"
+  },
+  {
+    "start": 1225,
+    "end": 1226,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1226,
+    "end": 1231,
+    "text": " And constantly as well. I don't think you could escape him in the 70s, '70s, '80s."
+  },
+  {
+    "start": 1231,
+    "end": 1235,
+    "text": " Do you know what the longest career of any presenter in history was, according to the Guinness Book of Records?"
+  },
+  {
+    "start": 1235,
+    "end": 1237,
+    "text": " Is it someone in Japan?"
+  },
+  {
+    "start": 1237,
+    "end": 1238,
+    "text": " No."
+  },
+  {
+    "start": 1238,
+    "end": 1239,
+    "text": " Someone in Cuba."
+  },
+  {
+    "start": 1239,
+    "end": 1240,
+    "text": " I was close."
+  },
+  {
+    "start": 1240,
+    "end": 1247,
+    "text": " She's called In Yes, Sanchez de Revuelta, and she was on TV for 52 years."
+  },
+  {
+    "start": 1247,
+    "end": 1258,
+    "text": " She hosted the program Teleclub since 1963, and has never been off TV for more than 3.5 months all the time."
+  },
+  {
+    "start": 1258,
+    "end": 1259,
+    "text": " That's something, isn't it?"
+  },
+  {
+    "start": 1259,
+    "end": 1261,
+    "text": " Yeah, that's amazing."
+  },
+  {
+    "start": 1261,
+    "end": 1265,
+    "text": " I really hope you're going to say more than 3.5 minutes."
+  },
+  {
+    "start": 1265,
+    "end": 1268,
+    "text": " Just for bathroom breaks and naps."
+  },
+  {
+    "start": 1268,
+    "end": 1273,
+    "text": " While I was reading up on Nixon, just came across those facts."
+  },
+  {
+    "start": 1273,
+    "end": 1277,
+    "text": " Nixon used to love fireplaces. He used to love a roaring fire."
+  },
+  {
+    "start": 1277,
+    "end": 1282,
+    "text": " So he used to at the White House make sure that there was always a fire roaring in the Lincoln room."
+  },
+  {
+    "start": 1282,
+    "end": 1285,
+    "text": " The thing is, though, is that he was never interested in the heat."
+  },
+  {
+    "start": 1285,
+    "end": 1287,
+    "text": " He just loved the fire."
+  },
+  {
+    "start": 1287,
+    "end": 1291,
+    "text": " So he used to have all the aircons turned on to high in any room that he had a fire on."
+  },
+  {
+    "start": 1291,
+    "end": 1292,
+    "text": " Wow."
+  },
+  {
+    "start": 1292,
+    "end": 1293,
+    "text": " Yeah, because he just didn't, he was..."
+  },
+  {
+    "start": 1293,
+    "end": 1295,
+    "text": " He just liked the sound and the look of it."
+  },
+  {
+    "start": 1295,
+    "end": 1297,
+    "text": " Yeah, he just wanted a roaring fire."
+  },
+  {
+    "start": 1297,
+    "end": 1298,
+    "text": " Just get a picture."
+  },
+  {
+    "start": 1298,
+    "end": 1299,
+    "text": " You think?"
+  },
+  {
+    "start": 1299,
+    "end": 1301,
+    "text": " Yeah, well, much more environmentally friendly."
+  },
+  {
+    "start": 1301,
+    "end": 1305,
+    "text": " If there's a fire going, it's easier to conceal the noise of the tapes being changed in the machine."
+  },
+  {
+    "start": 1305,
+    "end": 1307,
+    "text": " You're recording people."
+  },
+  {
+    "start": 1307,
+    "end": 1310,
+    "text": " It's offical as ever."
+  },
+  {
+    "start": 1310,
+    "end": 1314,
+    "text": " He also, more weird behavior from Nixon, after his dog checkers died,"
+  },
+  {
+    "start": 1314,
+    "end": 1317,
+    "text": " a secret service agent saw him eating the dog biscuits."
+  },
+  {
+    "start": 1317,
+    "end": 1319,
+    "text": " No, they didn't."
+  },
+  {
+    "start": 1319,
+    "end": 1320,
+    "text": " Really?"
+  },
+  {
+    "start": 1320,
+    "end": 1327,
+    "text": " But the crunching of the dog biscuits helps disguise the sound of the changing of the tapes."
+  },
+  {
+    "start": 1327,
+    "end": 1334,
+    "text": " I'm frostsaid when he came on this on museumic curiosity that when he did the interviews with Nixon,"
+  },
+  {
+    "start": 1334,
+    "end": 1336,
+    "text": " Nixon was the worst person for small talk."
+  },
+  {
+    "start": 1336,
+    "end": 1339,
+    "text": " He had no small talk whatsoever."
+  },
+  {
+    "start": 1339,
+    "end": 1344,
+    "text": " So it was so weird that he used to insist before any interview, five minutes of small talk."
+  },
+  {
+    "start": 1344,
+    "end": 1345,
+    "text": " Nixon would insist."
+  },
+  {
+    "start": 1345,
+    "end": 1348,
+    "text": " Nixon would insist that he had five minutes of small talk with the person before an interview."
+  },
+  {
+    "start": 1348,
+    "end": 1351,
+    "text": " But he just didn't know."
+  },
+  {
+    "start": 1351,
+    "end": 1355,
+    "text": " In theory, that sounds like a good idea because you get to, you know, relax and, you know."
+  },
+  {
+    "start": 1355,
+    "end": 1360,
+    "text": " Yes, but so frost remembers those bits of small talk and he said they were truly awkward"
+  },
+  {
+    "start": 1360,
+    "end": 1362,
+    "text": " because he just didn't know what to say."
+  },
+  {
+    "start": 1362,
+    "end": 1366,
+    "text": " One thing he said when he came up to him was getting he fornicating done on the weekend."
+  },
+  {
+    "start": 1366,
+    "end": 1367,
+    "text": " That was his opening line."
+  },
+  {
+    "start": 1367,
+    "end": 1369,
+    "text": " Actually, he's speaking of fornicating."
+  },
+  {
+    "start": 1369,
+    "end": 1374,
+    "text": " Nixon once had delivered to him a naked woman and a trunk in a suitcase."
+  },
+  {
+    "start": 1374,
+    "end": 1378,
+    "text": " Yes. And this was when he had a couple of kind of hard partying friends."
+  },
+  {
+    "start": 1378,
+    "end": 1381,
+    "text": " So apparently with the only kind of people he properly relaxed in front of."
+  },
+  {
+    "start": 1381,
+    "end": 1383,
+    "text": " He was notoriously uptight usually."
+  },
+  {
+    "start": 1383,
+    "end": 1387,
+    "text": " And there's this guy called Robozo who can't believe that's his name."
+  },
+  {
+    "start": 1387,
+    "end": 1392,
+    "text": " I've just read that and realized how ridiculous that is."
+  },
+  {
+    "start": 1392,
+    "end": 1397,
+    "text": " So there's a guy called Robozo and his friend Amplenalp."
+  },
+  {
+    "start": 1397,
+    "end": 1401,
+    "text": " These guys would never have had the same career as Frosthouse."
+  },
+  {
+    "start": 1401,
+    "end": 1404,
+    "text": " Breakfast with Robozo."
+  },
+  {
+    "start": 1404,
+    "end": 1410,
+    "text": " So yeah, they got a prostitute, I think, and got her into a suitcase and brought her to the White House"
+  },
+  {
+    "start": 1410,
+    "end": 1412,
+    "text": " and bumped into the Secret Service agents."
+  },
+  {
+    "start": 1412,
+    "end": 1414,
+    "text": " And we're like, we've got a delivery for Nixon."
+  },
+  {
+    "start": 1414,
+    "end": 1417,
+    "text": " And unfortunately the Secret Service agent said, what is it?"
+  },
+  {
+    "start": 1417,
+    "end": 1421,
+    "text": " I thought there's a naked woman inside there and turned them away at the door."
+  },
+  {
+    "start": 1421,
+    "end": 1423,
+    "text": " But so he never got his gift."
+  },
+  {
+    "start": 1423,
+    "end": 1430,
+    "text": " A woman to do their job and not letting Robozo and Alpano get one of their capers away."
+  },
+  {
+    "start": 1430,
+    "end": 1435,
+    "text": " There's a series of books about Robozo and Alpano's crazy adventures."
+  },
+  {
+    "start": 1435,
+    "end": 1441,
+    "text": " It's always just another naked prostitute and some other kind."
+  },
+  {
+    "start": 1441,
+    "end": 1444,
+    "text": " We're just here to give this wedding cake."
+  },
+  {
+    "start": 1444,
+    "end": 1451,
+    "text": " We're just here to install this new chimney."
+  },
+  {
+    "start": 1451,
+    "end": 1452,
+    "text": " Okay."
+  },
+  {
+    "start": 1452,
+    "end": 1455,
+    "text": " Time for a final fact of the show and that is James."
+  },
+  {
+    "start": 1455,
+    "end": 1459,
+    "text": " My fact this week is that the original chill pill was a pill that you took"
+  },
+  {
+    "start": 1459,
+    "end": 1460,
+    "text": " when you had a chill."
+  },
+  {
+    "start": 1460,
+    "end": 1461,
+    "text": " Nice."
+  },
+  {
+    "start": 1461,
+    "end": 1465,
+    "text": " That was a very good sort of thing."
+  },
+  {
+    "start": 1465,
+    "end": 1468,
+    "text": " So yeah, this is from, let's say, 19th century."
+  },
+  {
+    "start": 1468,
+    "end": 1471,
+    "text": " It was like a homemade pill that you would make."
+  },
+  {
+    "start": 1471,
+    "end": 1479,
+    "text": " The ingredients would be sulfur quinine, arseneous acid, striccanine, prussian blue, and capsicum."
+  },
+  {
+    "start": 1479,
+    "end": 1482,
+    "text": " And you would shove it all together into a pill form."
+  },
+  {
+    "start": 1482,
+    "end": 1484,
+    "text": " And then you would take it if you had a cold."
+  },
+  {
+    "start": 1484,
+    "end": 1485,
+    "text": " And was it cool?"
+  },
+  {
+    "start": 1485,
+    "end": 1486,
+    "text": " It was called chill pill."
+  },
+  {
+    "start": 1486,
+    "end": 1487,
+    "text": " It was called a chill pill, yeah."
+  },
+  {
+    "start": 1487,
+    "end": 1488,
+    "text": " Cool."
+  },
+  {
+    "start": 1488,
+    "end": 1490,
+    "text": " So yeah, that was the original chill pill."
+  },
+  {
+    "start": 1490,
+    "end": 1495,
+    "text": " And the use of the word chill as in to relax only dates back to 1979."
+  },
+  {
+    "start": 1495,
+    "end": 1502,
+    "text": " It dates back to a song called Rappers Delight, which is apparently by Travis Sicktrix, Isaac."
+  },
+  {
+    "start": 1502,
+    "end": 1504,
+    "text": " Well, Rappers Delight, you will know."
+  },
+  {
+    "start": 1504,
+    "end": 1506,
+    "text": " It's probably the most famous rap song all the time."
+  },
+  {
+    "start": 1506,
+    "end": 1508,
+    "text": " It's like one of the first ever rap songs."
+  },
+  {
+    "start": 1508,
+    "end": 1509,
+    "text": " Yeah, it's a hip hop."
+  },
+  {
+    "start": 1509,
+    "end": 1511,
+    "text": " A hippy, a hippy, a hippy, a hip hop hop."
+  },
+  {
+    "start": 1511,
+    "end": 1512,
+    "text": " You don't stop rapping."
+  },
+  {
+    "start": 1512,
+    "end": 1513,
+    "text": " Yeah."
+  },
+  {
+    "start": 1513,
+    "end": 1515,
+    "text": " It's mentioned 14 times in the OED that song."
+  },
+  {
+    "start": 1515,
+    "end": 1516,
+    "text": " Wow."
+  },
+  {
+    "start": 1516,
+    "end": 1518,
+    "text": " In the Oxford English dictionary."
+  },
+  {
+    "start": 1518,
+    "end": 1525,
+    "text": " It's the first time that anyone used the word rhyme as in a set of lyrics, as in listen to my rhyme."
+  },
+  {
+    "start": 1525,
+    "end": 1532,
+    "text": " The first time anyone used the word rapper to refer to someone who's rapping previously,"
+  },
+  {
+    "start": 1532,
+    "end": 1537,
+    "text": " it would either mean a massive lie, or it would mean someone who like wraps a table or something."
+  },
+  {
+    "start": 1537,
+    "end": 1538,
+    "text": " Wow."
+  },
+  {
+    "start": 1538,
+    "end": 1543,
+    "text": " And it was the first place to use MC as in master of ceremonies."
+  },
+  {
+    "start": 1543,
+    "end": 1544,
+    "text": " Wow."
+  },
+  {
+    "start": 1544,
+    "end": 1549,
+    "text": " So were people just listening to this song at the time going, \"What is this guy talking about?\""
+  },
+  {
+    "start": 1549,
+    "end": 1555,
+    "text": " No, as usual, these things were used, but this is the first citation that they have."
+  },
+  {
+    "start": 1555,
+    "end": 1558,
+    "text": " Also, the first use of the word ill, meaning bad."
+  },
+  {
+    "start": 1558,
+    "end": 1560,
+    "text": " But meaning good?"
+  },
+  {
+    "start": 1560,
+    "end": 1562,
+    "text": " Meaning good, it was seven years later."
+  },
+  {
+    "start": 1562,
+    "end": 1568,
+    "text": " So it took seven years for ill to mean bad as in this is, \"Oh, this is really ill, man.\""
+  },
+  {
+    "start": 1568,
+    "end": 1572,
+    "text": " Two meaning good, which is, \"Oh, this is really ill, man.\""
+  },
+  {
+    "start": 1572,
+    "end": 1577,
+    "text": " I just wanted to point out that you can't pull off either of those phrases."
+  },
+  {
+    "start": 1577,
+    "end": 1581,
+    "text": " Did you say the date of the original chill pill?"
+  },
+  {
+    "start": 1581,
+    "end": 1586,
+    "text": " 1879, but any time over the next 20 years, they still were making it."
+  },
+  {
+    "start": 1586,
+    "end": 1593,
+    "text": " You know, because obviously a lot of wacky medicines were peddled in the 19th century, not all effective, and in pill form."
+  },
+  {
+    "start": 1593,
+    "end": 1599,
+    "text": " And one of the most successful peddlers of these medicines was someone who made brandrists vegetable pills,"
+  },
+  {
+    "start": 1599,
+    "end": 1602,
+    "text": " which could fight off basically everything you'd ever have."
+  },
+  {
+    "start": 1602,
+    "end": 1608,
+    "text": " So fever, sickness, headache, pimples, ulcers, yellow fever, and essentially they were just laxatives."
+  },
+  {
+    "start": 1608,
+    "end": 1613,
+    "text": " And so the whole thing was that the point was that they got all impurities out of you."
+  },
+  {
+    "start": 1613,
+    "end": 1619,
+    "text": " So I think one of the taglines was, \"Brandrists pills put all your pains and impurities out of the system through the bowels.\""
+  },
+  {
+    "start": 1619,
+    "end": 1623,
+    "text": " But it was Charles Brandrist's great grandfather."
+  },
+  {
+    "start": 1623,
+    "end": 1624,
+    "text": " Really?"
+  },
+  {
+    "start": 1624,
+    "end": 1631,
+    "text": " Who got really rich off them? Yeah, he gets, there's a street named after him in New York now, because he became so rich and famous because of these pills."
+  },
+  {
+    "start": 1631,
+    "end": 1633,
+    "text": " And he gets a mention in Moby Dick, apparently."
+  },
+  {
+    "start": 1633,
+    "end": 1634,
+    "text": " Really?"
+  },
+  {
+    "start": 1634,
+    "end": 1635,
+    "text": " Wow."
+  },
+  {
+    "start": 1635,
+    "end": 1637,
+    "text": " Charles Brandrist's great grandfather. Isn't that cool?"
+  },
+  {
+    "start": 1637,
+    "end": 1642,
+    "text": " It's so weird when you hear about celebrities with a great, great, great, great grandfather who was notable."
+  },
+  {
+    "start": 1642,
+    "end": 1643,
+    "text": " Yeah."
+  },
+  {
+    "start": 1643,
+    "end": 1645,
+    "text": " Like you just think, \"Wow, that's just...\""
+  },
+  {
+    "start": 1645,
+    "end": 1650,
+    "text": " I was reading Bear Grills' autobiography on holiday, and his great, great, great, great grandfather."
+  },
+  {
+    "start": 1650,
+    "end": 1653,
+    "text": " I don't know how many grates wrote the very first self-help book."
+  },
+  {
+    "start": 1653,
+    "end": 1655,
+    "text": " And it was called self-help."
+  },
+  {
+    "start": 1655,
+    "end": 1656,
+    "text": " Really?"
+  },
+  {
+    "start": 1656,
+    "end": 1664,
+    "text": " Yeah. And it was so big in its day that it outsold on the origin of species, which is when it came out roughly at the same time."
+  },
+  {
+    "start": 1664,
+    "end": 1664,
+    "text": " Yeah."
+  },
+  {
+    "start": 1664,
+    "end": 1666,
+    "text": " I can remember his name."
+  },
+  {
+    "start": 1666,
+    "end": 1667,
+    "text": " That's it."
+  },
+  {
+    "start": 1667,
+    "end": 1668,
+    "text": " I don't know that he was related to Bear Grills."
+  },
+  {
+    "start": 1668,
+    "end": 1669,
+    "text": " Oh, yeah, yeah."
+  },
+  {
+    "start": 1669,
+    "end": 1670,
+    "text": " Directly related."
+  },
+  {
+    "start": 1670,
+    "end": 1671,
+    "text": " Wow."
+  },
+  {
+    "start": 1671,
+    "end": 1674,
+    "text": " Oh, with a name like Samuel Smiles, it's the ideal profession, isn't it?"
+  },
+  {
+    "start": 1674,
+    "end": 1675,
+    "text": " Yeah."
+  },
+  {
+    "start": 1675,
+    "end": 1678,
+    "text": " As is Bear Grills, if you want to be, you know, someone who lives in the wild."
+  },
+  {
+    "start": 1678,
+    "end": 1679,
+    "text": " There is an amazing..."
+  },
+  {
+    "start": 1679,
+    "end": 1681,
+    "text": " He'd be better if he was called Grills Bear."
+  },
+  {
+    "start": 1681,
+    "end": 1682,
+    "text": " Yes."
+  },
+  {
+    "start": 1682,
+    "end": 1683,
+    "text": " I think he called that."
+  },
+  {
+    "start": 1683,
+    "end": 1684,
+    "text": " He is when he fills in forms."
+  },
+  {
+    "start": 1684,
+    "end": 1686,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1686,
+    "end": 1691,
+    "text": " Another weird relation I found out about speaking of that, actually, the other day, is that..."
+  },
+  {
+    "start": 1691,
+    "end": 1693,
+    "text": " Is it Stephen Dubner, the guy from Freakonomic?"
+  },
+  {
+    "start": 1693,
+    "end": 1694,
+    "text": " Yes."
+  },
+  {
+    "start": 1694,
+    "end": 1696,
+    "text": " Who we love and think is great."
+  },
+  {
+    "start": 1696,
+    "end": 1699,
+    "text": " His grandfather or great-grandfather wrote Rudolph in a Red Nose Reindeer?"
+  },
+  {
+    "start": 1699,
+    "end": 1700,
+    "text": " Did he?"
+  },
+  {
+    "start": 1700,
+    "end": 1701,
+    "text": " Did he?"
+  },
+  {
+    "start": 1701,
+    "end": 1702,
+    "text": " Yeah."
+  },
+  {
+    "start": 1702,
+    "end": 1703,
+    "text": " Wow."
+  },
+  {
+    "start": 1703,
+    "end": 1707,
+    "text": " So I was looking up some slang terms of things that are older than you'd think they are."
+  },
+  {
+    "start": 1707,
+    "end": 1712,
+    "text": " So, for example, the word \"text\" as a verb goes back to 1564."
+  },
+  {
+    "start": 1712,
+    "end": 1713,
+    "text": " Does it?"
+  },
+  {
+    "start": 1713,
+    "end": 1714,
+    "text": " Wow."
+  },
+  {
+    "start": 1714,
+    "end": 1715,
+    "text": " Yeah."
+  },
+  {
+    "start": 1715,
+    "end": 1716,
+    "text": " Obviously, it doesn't mean to write a text on a mother phone."
+  },
+  {
+    "start": 1716,
+    "end": 1719,
+    "text": " It means to quote texts."
+  },
+  {
+    "start": 1719,
+    "end": 1724,
+    "text": " And \"dude\" goes back to 1876, which was originally to make fun of a woman."
+  },
+  {
+    "start": 1724,
+    "end": 1728,
+    "text": " The way a woman was dressed, you'd say, \"Oh, she's a dude.\""
+  },
+  {
+    "start": 1728,
+    "end": 1730,
+    "text": " And there was even a feminine version of it."
+  },
+  {
+    "start": 1730,
+    "end": 1731,
+    "text": " \"Dudeine.\""
+  },
+  {
+    "start": 1731,
+    "end": 1734,
+    "text": " It was after \"Dude became a male word.\""
+  },
+  {
+    "start": 1734,
+    "end": 1736,
+    "text": " And you'd say, \"Right.\""
+  },
+  {
+    "start": 1736,
+    "end": 1739,
+    "text": " And there was this thing, \"Jo went east and married a young dudeine out there.\""
+  },
+  {
+    "start": 1739,
+    "end": 1740,
+    "text": " Wow."
+  },
+  {
+    "start": 1740,
+    "end": 1741,
+    "text": " Can't believe men hogged that."
+  },
+  {
+    "start": 1741,
+    "end": 1745,
+    "text": " One of the few, you know, quite cool, fun nouns that's been applied to us."
+  },
+  {
+    "start": 1745,
+    "end": 1747,
+    "text": " And you guys had to get in there."
+  },
+  {
+    "start": 1747,
+    "end": 1748,
+    "text": " Clutch it away."
+  },
+  {
+    "start": 1748,
+    "end": 1751,
+    "text": " Now we're stuck with \"Dude debt\" or \"Dudeine.\""
+  },
+  {
+    "start": 1751,
+    "end": 1754,
+    "text": " One slang term that I was reading about."
+  },
+  {
+    "start": 1754,
+    "end": 1755,
+    "text": " \"Kawa Bunga.\""
+  },
+  {
+    "start": 1755,
+    "end": 1756,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1756,
+    "end": 1760,
+    "text": " So, what do you associate \"Kawa Bunga\" when it was written into Turtles?"
+  },
+  {
+    "start": 1760,
+    "end": 1761,
+    "text": " Yeah, it was a Japanese word."
+  },
+  {
+    "start": 1761,
+    "end": 1762,
+    "text": " Is it not?"
+  },
+  {
+    "start": 1762,
+    "end": 1766,
+    "text": " So, I haven't done the total origin on this."
+  },
+  {
+    "start": 1766,
+    "end": 1769,
+    "text": " It's just that I watched a documentary on the Ninja Turtles and they said,"
+  },
+  {
+    "start": 1769,
+    "end": 1772,
+    "text": " \"The writers took \"Kawa Bunga\" from Snoopy.\""
+  },
+  {
+    "start": 1772,
+    "end": 1773,
+    "text": " Did that really?"
+  },
+  {
+    "start": 1773,
+    "end": 1776,
+    "text": " It's a \"Kawa Bunga\" first appears in Snoopy."
+  },
+  {
+    "start": 1776,
+    "end": 1777,
+    "text": " Really?"
+  },
+  {
+    "start": 1777,
+    "end": 1778,
+    "text": " Yeah."
+  },
+  {
+    "start": 1778,
+    "end": 1781,
+    "text": " I think on a cover where Snoopy's are on a surfboard as well."
+  },
+  {
+    "start": 1781,
+    "end": 1782,
+    "text": " Wow."
+  },
+  {
+    "start": 1782,
+    "end": 1783,
+    "text": " That's very cool."
+  },
+  {
+    "start": 1783,
+    "end": 1784,
+    "text": " Yeah."
+  },
+  {
+    "start": 1784,
+    "end": 1787,
+    "text": " I looked up a timeline of slang terms."
+  },
+  {
+    "start": 1787,
+    "end": 1791,
+    "text": " By Jonathan Green, who is an amazing slang-lexicographer."
+  },
+  {
+    "start": 1791,
+    "end": 1792,
+    "text": " It's a complete slang dictionary."
+  },
+  {
+    "start": 1792,
+    "end": 1793,
+    "text": " It's so good."
+  },
+  {
+    "start": 1793,
+    "end": 1798,
+    "text": " So, he's done these really cool online slang terms for all sorts of different things."
+  },
+  {
+    "start": 1798,
+    "end": 1802,
+    "text": " So, just idly, I was looking at slang terms for vagina over the centuries."
+  },
+  {
+    "start": 1802,
+    "end": 1805,
+    "text": " These all date from the 19th and 20th century."
+  },
+  {
+    "start": 1805,
+    "end": 1807,
+    "text": " Coffee grinder."
+  },
+  {
+    "start": 1807,
+    "end": 1809,
+    "text": " Front parlor."
+  },
+  {
+    "start": 1809,
+    "end": 1810,
+    "text": " Bumshop."
+  },
+  {
+    "start": 1810,
+    "end": 1812,
+    "text": " Carnal man trap."
+  },
+  {
+    "start": 1812,
+    "end": 1814,
+    "text": " Central office."
+  },
+  {
+    "start": 1814,
+    "end": 1816,
+    "text": " Bit on a fork."
+  },
+  {
+    "start": 1816,
+    "end": 1817,
+    "text": " And my favorite."
+  },
+  {
+    "start": 1817,
+    "end": 1818,
+    "text": " That thing."
+  },
+  {
+    "start": 1818,
+    "end": 1825,
+    "text": " It kind of makes you sound like we used to repurpose vaginas for a lot of other things."
+  },
+  {
+    "start": 1825,
+    "end": 1828,
+    "text": " Well, I sell my wares out a bit in the daytime."
+  },
+  {
+    "start": 1828,
+    "end": 1830,
+    "text": " I sell my coffee grinder out of the front parlor."
+  },
+  {
+    "start": 1830,
+    "end": 1833,
+    "text": " I use it as a central office."
+  },
+  {
+    "start": 1833,
+    "end": 1836,
+    "text": " Off to the bum shop."
+  },
+  {
+    "start": 1836,
+    "end": 1838,
+    "text": " A really interesting thing on pills."
+  },
+  {
+    "start": 1838,
+    "end": 1839,
+    "text": " Here's that."
+  },
+  {
+    "start": 1839,
+    "end": 1844,
+    "text": " So, the colour of the pill you're swallowing can affect how well it works."
+  },
+  {
+    "start": 1844,
+    "end": 1849,
+    "text": " If you take a blue pill you wake up and you're bed and everything's the same."
+  },
+  {
+    "start": 1849,
+    "end": 1852,
+    "text": " If you take the red pill."
+  },
+  {
+    "start": 1852,
+    "end": 1856,
+    "text": " That's where a movie got the matrix."
+  },
+  {
+    "start": 1856,
+    "end": 1858,
+    "text": " I get some of the references."
+  },
+  {
+    "start": 1858,
+    "end": 1860,
+    "text": " Now, this is a placebo effect thing."
+  },
+  {
+    "start": 1860,
+    "end": 1863,
+    "text": " So, red pills are more effective for treating pain."
+  },
+  {
+    "start": 1863,
+    "end": 1864,
+    "text": " It's been found."
+  },
+  {
+    "start": 1864,
+    "end": 1869,
+    "text": " Blue pills are more effective for pills to calm you down to have calming effects."
+  },
+  {
+    "start": 1869,
+    "end": 1871,
+    "text": " And there's an exception to this."
+  },
+  {
+    "start": 1871,
+    "end": 1876,
+    "text": " Blue pills are more effective tranquilizers except for Italian men."
+  },
+  {
+    "start": 1876,
+    "end": 1880,
+    "text": " It's been suggested that this could be because blue is associated with their football team."
+  },
+  {
+    "start": 1880,
+    "end": 1882,
+    "text": " And so, with these football team."
+  },
+  {
+    "start": 1882,
+    "end": 1883,
+    "text": " Italian football teams."
+  },
+  {
+    "start": 1883,
+    "end": 1884,
+    "text": " Yeah."
+  },
+  {
+    "start": 1884,
+    "end": 1891,
+    "text": " So, Italian men see a blue pill and just get really overexcited because it reminds them of their football team."
+  },
+  {
+    "start": 1891,
+    "end": 1893,
+    "text": " That's genuinely what the researchers concluded."
+  },
+  {
+    "start": 1893,
+    "end": 1894,
+    "text": " That is bizarre."
+  },
+  {
+    "start": 1894,
+    "end": 1898,
+    "text": " They're the only people who don't get a karma when they swallow a blue pill."
+  },
+  {
+    "start": 1898,
+    "end": 1900,
+    "text": " That's very cool."
+  },
+  {
+    "start": 1900,
+    "end": 1901,
+    "text": " Very weird."
+  },
+  {
+    "start": 1901,
+    "end": 1907,
+    "text": " John Wesley, who found in Methodism, he had a lot of ideas of curing the cold."
+  },
+  {
+    "start": 1907,
+    "end": 1910,
+    "text": " One of them was to make pills out of cobwebs."
+  },
+  {
+    "start": 1910,
+    "end": 1911,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1911,
+    "end": 1912,
+    "text": " Without that that would work."
+  },
+  {
+    "start": 1912,
+    "end": 1914,
+    "text": " Presumably, it didn't."
+  },
+  {
+    "start": 1914,
+    "end": 1918,
+    "text": " He also thought you could take a very thin rind of an orange."
+  },
+  {
+    "start": 1918,
+    "end": 1921,
+    "text": " Roll it inside out and thrust it into each nostril."
+  },
+  {
+    "start": 1921,
+    "end": 1923,
+    "text": " So, not effective?"
+  },
+  {
+    "start": 1923,
+    "end": 1924,
+    "text": " No, not effective."
+  },
+  {
+    "start": 1924,
+    "end": 1928,
+    "text": " When SARS came out, and when was that?"
+  },
+  {
+    "start": 1928,
+    "end": 1931,
+    "text": " When it was released, the big launch party."
+  },
+  {
+    "start": 1931,
+    "end": 1936,
+    "text": " They shouldn't have invited so many people to the launch party."
+  },
+  {
+    "start": 1936,
+    "end": 1940,
+    "text": " But it was thought in some parts of China that vinegar would solve SARS."
+  },
+  {
+    "start": 1940,
+    "end": 1946,
+    "text": " And what they would do is they put vinegar in the corner of the room and that would supposedly help to cure it."
+  },
+  {
+    "start": 1946,
+    "end": 1948,
+    "text": " And it was like a folk remedy."
+  },
+  {
+    "start": 1948,
+    "end": 1953,
+    "text": " But it was really good news for vinegar salesmen because it meant that they could sell tons of their wares, of course."
+  },
+  {
+    "start": 1953,
+    "end": 1959,
+    "text": " But that was bad news because it meant that the vinegar salesmen were then traveling between village and village and village."
+  },
+  {
+    "start": 1959,
+    "end": 1961,
+    "text": " They were spreading the cold."
+  },
+  {
+    "start": 1961,
+    "end": 1962,
+    "text": " Oh, wow."
+  },
+  {
+    "start": 1962,
+    "end": 1963,
+    "text": " Oh, wow."
+  },
+  {
+    "start": 1963,
+    "end": 1967,
+    "text": " That's kind of like a, I mean, that could be a zombie film, couldn't it?"
+  },
+  {
+    "start": 1967,
+    "end": 1970,
+    "text": " Based on vinegar salesmen spreading the common cold."
+  },
+  {
+    "start": 1970,
+    "end": 1971,
+    "text": " Yeah, that's a really good idea."
+  },
+  {
+    "start": 1971,
+    "end": 1972,
+    "text": " Yeah, not a very exciting film."
+  },
+  {
+    "start": 1972,
+    "end": 1979,
+    "text": " Or it sounds like another one of the brilliant schemes of Robozoo and Alphanel."
+  },
+  {
+    "start": 1979,
+    "end": 1981,
+    "text": " Okay, that's it."
+  },
+  {
+    "start": 1981,
+    "end": 1982,
+    "text": " That's all of our winter facts."
+  },
+  {
+    "start": 1982,
+    "end": 1984,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 1984,
+    "end": 1988,
+    "text": " If you'd like to get in contact with us about any of the things that we've said over the course of this podcast,"
+  },
+  {
+    "start": 1988,
+    "end": 1990,
+    "text": " we can be found on our Twitter accounts."
+  },
+  {
+    "start": 1990,
+    "end": 1991,
+    "text": " I'm on @Sriberland."
+  },
+  {
+    "start": 1991,
+    "end": 1992,
+    "text": " Andy."
+  },
+  {
+    "start": 1992,
+    "end": 1993,
+    "text": " @AndruhunterM."
+  },
+  {
+    "start": 1993,
+    "end": 1994,
+    "text": " James."
+  },
+  {
+    "start": 1994,
+    "end": 1995,
+    "text": " @Xshaped."
+  },
+  {
+    "start": 1995,
+    "end": 1996,
+    "text": " And Shazinsky."
+  },
+  {
+    "start": 1996,
+    "end": 1998,
+    "text": " You can email podcast@QI.com."
+  },
+  {
+    "start": 1998,
+    "end": 1999,
+    "text": " Yep."
+  },
+  {
+    "start": 1999,
+    "end": 2002,
+    "text": " Or you can go to no such thing as a fish.com where we have all of our previous episodes."
+  },
+  {
+    "start": 2002,
+    "end": 2005,
+    "text": " We'll be back again next week with another episode."
+  },
+  {
+    "start": 2005,
+    "end": 2006,
+    "text": " We'll see you then."
+  },
+  {
+    "start": 2006,
+    "end": 2007,
+    "text": " Goodbye."
+  },
+  {
+    "start": 2007,
+    "end": 2017,
+    "text": " [BLANK_AUDIO]"
+  }
+]

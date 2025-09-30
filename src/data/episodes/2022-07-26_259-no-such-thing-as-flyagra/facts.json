@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating topics, including a unique method of predicting the future using asparagus, the surprising uses of composer Haydn's music by his wife, the theft of road signs with humorous numbers in the US, and the social dating habits of flies.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There is only one person in the world who can predict the future using asparagus.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The composer Haydn's wife cared so little about her husband's work that she used to tear up his scores to use as hair curlers and pastry underlays.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:26"
+    },
+    {
+      "fact_number": 3,
+      "fact": "To stop people stealing American road signs with the number 69 on them, Washington State has replaced many of them with signs that now read 68.9.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:20:50"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Flies like to date the same sort of flies as their fly friends.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:28:04"
+    }
+  ]
+}

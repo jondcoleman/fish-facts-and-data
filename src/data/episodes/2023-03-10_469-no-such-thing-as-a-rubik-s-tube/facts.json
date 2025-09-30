@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' features discussions on the Rubik's Cube, the cultural phenomenon of wearing pyjamas outdoors in Shanghai, the immense flow of the Amazon River, and the filming of 'One Flew Over the Cuckoo's Nest'.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "It took the creator of the Rubik's Cube a month to solve it the first time he tried.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:01:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "On at least three occasions in the last 16 years, the government of Shanghai has tried and failed to stop people wearing pyjamas outdoors.",
+      "presenter": "Lucy Porter",
+      "guest": true,
+      "start_time": "00:17:14"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The flow of the Amazon is so big that even a hundred miles into the Atlantic you could drink over the side of your ship and the water would still be fresh.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:30:12"
+    },
+    {
+      "fact_number": 4,
+      "fact": "While playing a psychiatric patient in 'One Flew Over the Cuckoo's Nest', Danny DeVito ended up becoming a psychiatric patient himself.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:41:00"
+    }
+  ]
+}

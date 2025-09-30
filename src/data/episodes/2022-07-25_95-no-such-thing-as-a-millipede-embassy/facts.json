@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating facts, including the lingering effects of the Iron Curtain on Czech deer, the overcrowded roads of Monaco, the long-burning underground fire in Centralia, Pennsylvania, and the first recorded traffic casualty involving a Roman pig.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Czech deer still avoid crossing the Iron Curtain between Germany and the Czech Republic.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "If every car in Monaco decided to go for a drive at the same time, they wouldn't fit on the roads.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:14:14"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The town of Centralia in Pennsylvania has been on fire since 1962.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:18:12"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The first recorded traffic casualty was a Roman pig who was run over by a chariot carrying an ornamental phallus.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:24:06"
+    }
+  ]
+}

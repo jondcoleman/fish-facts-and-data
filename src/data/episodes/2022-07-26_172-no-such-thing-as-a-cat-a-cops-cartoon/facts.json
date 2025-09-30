@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and intriguing topics, including the hiring of 'mistress dispellers' in China, Richard Nixon's preference for a higher chair, the policing of the Paris catacombs, and the surprising popularity of buying CDs at KFC in Indonesia.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In China, you can hire mistress dispellers to lure away your husband's mistress.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Richard Nixon's chair was 2.5 inches higher than everyone else's in the cabinet room.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:12:59"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There is a special police unit in France whose job is to monitor six million dead people.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:23:39"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The number one place to buy CDs in Indonesia now is KFC.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:25"
+    }
+  ]
+}

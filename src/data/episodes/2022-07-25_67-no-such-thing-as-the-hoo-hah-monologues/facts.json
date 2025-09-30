@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and intriguing facts, including the existence of a gift shop at Guantanamo Bay, the Natural History Museum's unique method of controlling moths, the decline in the use of the word 'marvellous', and the security checks performed on pigeons for China's national day.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Guantanamo Bay has a gift shop.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:33"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Natural History Museum is turning moths gay to stop them destroying the exhibits.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:10:35"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The word 'marvellous' has fallen in use from 155 times per million 20 years ago to only 2 times per million today.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:17:29"
+    },
+    {
+      "fact_number": 4,
+      "fact": "To prepare for China's national day, 100,000 pigeons have anal security checks to make sure they're not carrying anything suspicious.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:24:10"
+    }
+  ]
+}

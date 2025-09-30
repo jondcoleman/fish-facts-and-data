@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the ornamental history of tomatoes in England, NASA's ambitious plans to give the moon a moon, the unusual wartime activities of Sherlock Holmes actor Basil Rathbone, and Abraham Lincoln's use of his top hat for storing important documents.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "For 200 years after tomatoes made it to England, they were grown almost entirely for ornamental reasons.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:30"
+    },
+    {
+      "fact_number": 2,
+      "fact": "NASA is planning on giving the moon a moon.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:09:22"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The man who played Sherlock Holmes spent the First World War dressed as a tree.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:18:55"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Abraham Lincoln used his stovepipe hat to keep important documents hidden.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:30:05"
+    }
+  ]
+}

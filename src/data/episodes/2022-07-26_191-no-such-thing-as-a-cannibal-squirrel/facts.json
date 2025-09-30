@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and humorous facts, including the effects of alcohol on language fluency, Calvin Coolidge's unusual exercise habits, the Icelandic Pirate Party's political activities, and the inventor of email's unexpected career shift. The hosts also delve into historical and modern anecdotes about language, politics, and technology.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "It's easier to speak Dutch if you're drunk.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:44"
+    },
+    {
+      "fact_number": 2,
+      "fact": "American president Calvin Coolidge used to ride a robot horse inside the White House three times every day.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "A member of Iceland's pirate party just injured her eye and had to appear on TV wearing an eye patch.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:24:29"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The man who invented email later changed career to become a sheep semen importer.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:34:29"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including Lord Byron's humorous nickname for William Wordsworth, the taste of space-grown lettuce, the regrowth of Van Gogh's ear using DNA, and the unique hunting technique of the larger Pacific striped octopus.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Lord Byron's nickname for William Wordsworth was \"William Terzworth.\"",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:01:53"
+    },
+    {
+      "fact_number": 2,
+      "fact": "If you grow a cos lettuce on a spaceship, it tastes like rocket.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:10:46"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Scientists have grown an ear using Van Gogh's DNA.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:18:19"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The larger Pacific striped octopus catches its prey by sneaking up behind it and tapping it on the shoulder.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:26:11"
+    }
+  ]
+}

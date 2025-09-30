@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of fascinating topics including the near dismantling of the Giza pyramid, the origins and skepticism surrounding the Rorschach inkblot test, the legacy of Robert Falcon Scott's son in founding the World Wildlife Fund, and unusual hangover cures from around the world.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1833, the pyramid at Giza was almost dismantled by the Pasha of Egypt so that he could use the stones to build a dam.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Psychologist Herman Rorschach thought his test wouldn't work on teenagers as they were the same as psychopaths.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:10:34"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Robert Falcon Scott's dying wish was for his son to get into nature; Peter Scott went on to found the World Wildlife Fund and designed its panda logo.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:21:37"
+    },
+    {
+      "fact_number": 4,
+      "fact": "A traditional hangover cure in Mongolia is the Mongolian Mary, which consists of tomato juice with a pickled sheep's eyeball floating inside.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:29:25"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including historical pedestrian etiquette with sedan chairs, the development of the Pap smear test, the physics of ships squatting to pass under bridges, and the extinction of wooden lacrosse stick making in the UK.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Pedestrians used to be expected to give way to sedan chairs.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "A woman called Mary Papa Nicolaou once had a smear test every day for 21 years.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:12:29"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Ships can squat to get under bridges.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:22:52"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The art of wooden lacrosse stick making is extinct in the UK.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:37:10"
+    }
+  ]
+}

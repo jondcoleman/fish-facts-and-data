@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on a humorous conspiracy theory about the Titanic, the exorbitant prices during the Californian Gold Rush, British land ownership in Australia, and a historical proposal to drain the Mediterranean Sea.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Not many people know that the real reason the Titanic sank is not because it hit an iceberg, but because so many time travelers visited at the same time, the weight of all the bodies forced it under the ocean's surface.",
+      "presenter": "John Hodgman",
+      "guest": true,
+      "start_time": "00:03:25"
+    },
+    {
+      "fact_number": 2,
+      "fact": "During the Californian gold rush, a pair of boots could cost the equivalent of $2,300 in today's money.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:19:15"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The area of Australia owned by British people is larger than Britain.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:33:55"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In the first half of the 20th century, multiple countries considered draining the Mediterranean Sea.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:44:15"
+    }
+  ]
+}

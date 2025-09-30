@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features guest Ella Al-Shemahi and covers a range of topics including the history of American beer, the unique biodiversity of the Yemeni island of Socotra, the secretive production of Spitfires during World War II, and the early misconceptions about Neanderthals.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "American beer was so bad in the early 1900s that the US government sent Alexander Graham Bell's son-in-law on a secret mission to Bavaria to steal German hops.",
+      "presenter": "Ella Al-Shemahi",
+      "guest": true,
+      "start_time": "00:02:00"
+    },
+    {
+      "fact_number": 2,
+      "fact": "At one stage of the 17th century, every woman living on the Yemeni island of Socotra was called Maria.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:17:35"
+    },
+    {
+      "fact_number": 3,
+      "fact": "During the Second World War, the making of Spitfires was so secret that one married couple didn't know they were both working on it.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:30:02"
+    },
+    {
+      "fact_number": 4,
+      "fact": "One of the original names proposed for what we now know as Neanderthals was Homo Stupidus.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:45:53"
+    }
+  ]
+}

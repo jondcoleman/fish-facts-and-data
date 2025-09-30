@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and intriguing facts, including historical police practices, unexpected scientific discoveries, celebrity trivia, and unusual uses of scratch and sniff technology.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Before we had the technology to take photos for mug shots, policemen had to visit prisons to memorize all the inmates' appearances.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:01:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Scientists working in the Arctic Ocean have caught Chlamydia and they can't explain how.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:11:12"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Jessica Alba has ridden the London Eye 31 times.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:21:33"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 2003, the County of Ottawa, Michigan released a brochure for would-be residents to prepare them for living in the countryside. It included a scratch and sniff that emitted the smell of manure.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:37:19"
+    }
+  ]
+}

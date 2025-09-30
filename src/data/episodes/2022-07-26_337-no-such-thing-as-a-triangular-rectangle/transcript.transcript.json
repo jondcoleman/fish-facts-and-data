@@ -1,0 +1,5837 @@
+[
+  {
+    "start": 0,
+    "end": 8,
+    "text": " Hey guys, Andy here. Just before we start this week's show, we have an exciting announcement to make which is that we are returning to the stage."
+  },
+  {
+    "start": 8,
+    "end": 15.44,
+    "text": " We have a show. It's a live show booked in and it's going to be at the London podcast festival later this month."
+  },
+  {
+    "start": 15.44,
+    "end": 22.84,
+    "text": " It's going to be on the 27th of September at King's Place, which is in London. It's going to be at 7pm and it is going to be so much fun."
+  },
+  {
+    "start": 22.84,
+    "end": 31.6,
+    "text": " But Andy, I don't live in London and/or I don't want to go to a gig because I'm a bit worried about leaving the house at the moment. Can I see the show?"
+  },
+  {
+    "start": 31.6,
+    "end": 41.48,
+    "text": " Of course you can, James, because not only is it being done very carefully with only a very limited number of tickets being sold to its all-social distance, you can also get streaming tickets."
+  },
+  {
+    "start": 41.48,
+    "end": 48.68,
+    "text": " So you can go online and at that time you can watch us make fools of ourselves with stupid facts on stage."
+  },
+  {
+    "start": 48.68,
+    "end": 51,
+    "text": " So how do I get these tickets, Andrew?"
+  },
+  {
+    "start": 51,
+    "end": 58.52,
+    "text": " James, all you have to do is go to qi.com/fishevents and I'll say that again, qi.com/fishevents."
+  },
+  {
+    "start": 58.52,
+    "end": 62.56,
+    "text": " And when I say events, I mean event because it is the only thing in our diaries."
+  },
+  {
+    "start": 62.56,
+    "end": 68.36,
+    "text": " So for your possibly last ever chance to see us on a stage, just go there."
+  },
+  {
+    "start": 68.36,
+    "end": 69.76,
+    "text": " No, we'll be back on top next year."
+  },
+  {
+    "start": 69.76,
+    "end": 71.76,
+    "text": " Oh, I hope so."
+  },
+  {
+    "start": 71.76,
+    "end": 75.36,
+    "text": " But Andrew, what is going to happen next?"
+  },
+  {
+    "start": 75.36,
+    "end": 78.76,
+    "text": " The show is going to happen next. Oh, I better do that. Yeah, on with the show."
+  },
+  {
+    "start": 78.76,
+    "end": 80.76,
+    "text": " On with the podcast."
+  },
+  {
+    "start": 81.76,
+    "end": 83.76,
+    "text": " [Music]"
+  },
+  {
+    "start": 83.76,
+    "end": 102.76,
+    "text": " Hello and welcome to another episode of No Such Thing As a Fish, a weekly podcast coming to you from four undisclosed locations in the UK."
+  },
+  {
+    "start": 102.76,
+    "end": 104.76,
+    "text": " My name is Dan Schreiber."
+  },
+  {
+    "start": 104.76,
+    "end": 108.76,
+    "text": " I am sitting here with James Harkin, Andrew Honto Murray and Anna Czazinski."
+  },
+  {
+    "start": 108.76,
+    "end": 113.76,
+    "text": " And once again, we have gathered round the microphones with our four favourite facts from the last seven days."
+  },
+  {
+    "start": 113.76,
+    "end": 118.76,
+    "text": " And in no particular order, here we go. Starting with you, Anna."
+  },
+  {
+    "start": 118.76,
+    "end": 126.76,
+    "text": " My fact this week is that by complete coincidence, the centre of North America is called Centre."
+  },
+  {
+    "start": 126.76,
+    "end": 129.76,
+    "text": " It's amazing. It's mad."
+  },
+  {
+    "start": 129.76,
+    "end": 135.76,
+    "text": " So a lot of people weirdly put quite a lot of effort into working out the geographic centre of various places."
+  },
+  {
+    "start": 135.76,
+    "end": 139.76,
+    "text": " And this is the latest research on the centre of the whole of North America."
+  },
+  {
+    "start": 139.76,
+    "end": 144.76,
+    "text": " And it's mainland North America, so not including the islands."
+  },
+  {
+    "start": 144.76,
+    "end": 150.76,
+    "text": " And this research was done by a university of buffalo geologists called Peter Rodgerson."
+  },
+  {
+    "start": 150.76,
+    "end": 156.76,
+    "text": " And he worked out this mathematical way of defining the centre of a place which has never been used before."
+  },
+  {
+    "start": 156.76,
+    "end": 160.76,
+    "text": " And essentially, he ran his sums, ran his algorithms."
+  },
+  {
+    "start": 160.76,
+    "end": 164.76,
+    "text": " And the place that was thrown up was a place called Centre in North Dakota."
+  },
+  {
+    "start": 164.76,
+    "end": 167.76,
+    "text": " It's quite a bit of a total chance. It's insane."
+  },
+  {
+    "start": 167.76,
+    "end": 171.76,
+    "text": " It's tiny, isn't it? It's 1.24 kilometres square."
+  },
+  {
+    "start": 171.76,
+    "end": 174.76,
+    "text": " So it's not even like it's a big place that had a big chance of being it."
+  },
+  {
+    "start": 174.76,
+    "end": 179.76,
+    "text": " No. It is quite weird because there's no way of actually working out the middle of somewhere."
+  },
+  {
+    "start": 179.76,
+    "end": 181.76,
+    "text": " There's no universally agreed way."
+  },
+  {
+    "start": 181.76,
+    "end": 188.76,
+    "text": " So his mathematical definition is that the centre's location minimises the sum of squared distances to all other points in a region."
+  },
+  {
+    "start": 188.76,
+    "end": 191.76,
+    "text": " So if you want to work out the middle of something, there you go. That's how you do it."
+  },
+  {
+    "start": 191.76,
+    "end": 197.76,
+    "text": " The way he changed it is that he realised the way we've worked out the middle of places before hasn't accounted for the curvature of the Earth."
+  },
+  {
+    "start": 197.76,
+    "end": 201.76,
+    "text": " And so that actually affects distances whereabouts on the curvature of the Earth you are."
+  },
+  {
+    "start": 201.76,
+    "end": 203.76,
+    "text": " So he used this special 3D projection."
+  },
+  {
+    "start": 203.76,
+    "end": 209.76,
+    "text": " And I wonder how many different methods he came up with before it yielded somewhere in the centre."
+  },
+  {
+    "start": 209.76,
+    "end": 218.76,
+    "text": " Well, he reckons that his isn't exactly perfect because he hasn't taken into account that the planet is a slight ellipsoid so that it's not a perfect bowl."
+  },
+  {
+    "start": 218.76,
+    "end": 223.76,
+    "text": " So maybe when he moves through, he might find out that the middle is..."
+  },
+  {
+    "start": 223.76,
+    "end": 228.76,
+    "text": " See, this is where they're going to get shot in the foot that they're only 1.24 kilometres."
+  },
+  {
+    "start": 228.76,
+    "end": 233.76,
+    "text": " If they were a bit bigger, they might still be the centre, but this is a very small fraction out of them."
+  },
+  {
+    "start": 233.76,
+    "end": 238.76,
+    "text": " Well, maybe there'll be a massive population boom of people flooding to the area, given this exciting news."
+  },
+  {
+    "start": 238.76,
+    "end": 245.76,
+    "text": " I love it, though. I love the competition between different centres because there is so much skull-duggery going on."
+  },
+  {
+    "start": 245.76,
+    "end": 249.76,
+    "text": " So I'm sure you guys all found the place that was Rugby."
+  },
+  {
+    "start": 249.76,
+    "end": 253.76,
+    "text": " Rugby also in North Dakota, so quite near centre, probably."
+  },
+  {
+    "start": 253.76,
+    "end": 258.76,
+    "text": " They announced that they were the centre of North America in 1931."
+  },
+  {
+    "start": 258.76,
+    "end": 262.76,
+    "text": " And they put up a stone monument and they used to hold a..."
+  },
+  {
+    "start": 262.76,
+    "end": 267.76,
+    "text": " They might even still hold a Miss Geographic Centre beauty pageant every year."
+  },
+  {
+    "start": 267.76,
+    "end": 270.76,
+    "text": " And every September, they have a Geographic Centre Day,"
+  },
+  {
+    "start": 270.76,
+    "end": 275.76,
+    "text": " which features a mechanical bull and a basketball tournament for reasons that are not immediately plain."
+  },
+  {
+    "start": 275.76,
+    "end": 280.76,
+    "text": " I think because they're both quite American things that Americans like to do, isn't it?"
+  },
+  {
+    "start": 280.76,
+    "end": 287.76,
+    "text": " It'd be weird if they had a paella-making competition and a boomerang throwing competition."
+  },
+  {
+    "start": 287.76,
+    "end": 295.76,
+    "text": " So this place, Rugby, it could be that when they take into account the fact that the earth is shaped a little bit like a rugby ball,"
+  },
+  {
+    "start": 295.76,
+    "end": 299.76,
+    "text": " that Rugby then becomes the centre of America. Would that be nice?"
+  },
+  {
+    "start": 299.76,
+    "end": 301.76,
+    "text": " Yeah, I'd love that."
+  },
+  {
+    "start": 301.76,
+    "end": 305.76,
+    "text": " Fingers crossed, calling on mathematicians to force that to be true."
+  },
+  {
+    "start": 305.76,
+    "end": 311.76,
+    "text": " So there's another place which is in North Dakota that also claimed to be the centre of North America called Robinson."
+  },
+  {
+    "start": 311.76,
+    "end": 315.76,
+    "text": " And it was the mayor who declared that it was the centre."
+  },
+  {
+    "start": 315.76,
+    "end": 321.76,
+    "text": " And specifically, a bar that he owns called Hansen's Bar was the absolute centre."
+  },
+  {
+    "start": 321.76,
+    "end": 326.76,
+    "text": " And quite nicely, he had this idea when he was drinking with his buddies in the bar,"
+  },
+  {
+    "start": 326.76,
+    "end": 330.76,
+    "text": " and his name is Bill Bender, which is a perfect going on a Bender drinking."
+  },
+  {
+    "start": 330.76,
+    "end": 333.76,
+    "text": " Yeah, paying the bill."
+  },
+  {
+    "start": 333.76,
+    "end": 342.76,
+    "text": " So both of these two towns, Rugby and Robinson, are furious that it's been calculated that centre is in fact the centre."
+  },
+  {
+    "start": 342.76,
+    "end": 346.76,
+    "text": " Yeah, although you've got to be suspicious of the guy who was randomly drinking with his mates in a bar"
+  },
+  {
+    "start": 346.76,
+    "end": 351.76,
+    "text": " and thought, let's try and work out where the centre of North America is, and it happened to be the bar they were drinking in."
+  },
+  {
+    "start": 351.76,
+    "end": 355.76,
+    "text": " It's his bar. This is a complete con designed to get people to build that bar."
+  },
+  {
+    "start": 355.76,
+    "end": 359.76,
+    "text": " No, it's infuriated because there was a big New York Times piece about it."
+  },
+  {
+    "start": 359.76,
+    "end": 362.76,
+    "text": " And the New York Times, because they're very diligent in fact checkers, they said,"
+  },
+  {
+    "start": 362.76,
+    "end": 366.76,
+    "text": " how did you calculate that you are the exact centre of North America?"
+  },
+  {
+    "start": 366.76,
+    "end": 371.76,
+    "text": " And his words were, it was trial and error. I can't give you an exact formula."
+  },
+  {
+    "start": 371.76,
+    "end": 375.76,
+    "text": " And then he said it was bar room science that they'd used."
+  },
+  {
+    "start": 375.76,
+    "end": 382.76,
+    "text": " And then when Rugby got involved, because Bill Bender registered his bar as the legal owner of the phrase,"
+  },
+  {
+    "start": 382.76,
+    "end": 387.76,
+    "text": " geographical centre of North America, because Rugby had let it lapse in 2009 foolishly."
+  },
+  {
+    "start": 387.76,
+    "end": 390.76,
+    "text": " They took their eyes off the ball and Bill Bender grabbed it."
+  },
+  {
+    "start": 390.76,
+    "end": 394.76,
+    "text": " So when Rugby sent a legal letter to him, he offered to fight the mayor of Rugby."
+  },
+  {
+    "start": 394.76,
+    "end": 398.76,
+    "text": " I don't think he's not reputable enough to own the centre of North America, in my opinion."
+  },
+  {
+    "start": 398.76,
+    "end": 408.76,
+    "text": " I think it sounds like a wily businessman under your jealous that you haven't come up with any such idea to sell your various shows and products over the years."
+  },
+  {
+    "start": 408.76,
+    "end": 412.76,
+    "text": " By the way, I looked on Wikipedia of places in America called centre."
+  },
+  {
+    "start": 412.76,
+    "end": 418.76,
+    "text": " And there are over 15 actual towns and then there's places where no one lives that are called centre,"
+  },
+  {
+    "start": 418.76,
+    "end": 426.76,
+    "text": " but roughly 15 places that are all called centre, all for the exact same reason that they claim to be the centre of Alabama or wherever it is that they are,"
+  },
+  {
+    "start": 426.76,
+    "end": 432.76,
+    "text": " all except one, which is centre in Georgia, which was actually named after a man called Mr Centre."
+  },
+  {
+    "start": 432.76,
+    "end": 434.76,
+    "text": " That's the only one."
+  },
+  {
+    "start": 434.76,
+    "end": 441.76,
+    "text": " It used to be that in America you would put your kind of county hall in exactly the middle of your county,"
+  },
+  {
+    "start": 441.76,
+    "end": 444.76,
+    "text": " because they thought it was like more accessible."
+  },
+  {
+    "start": 444.76,
+    "end": 450.76,
+    "text": " Like for instance, if the parliament in the UK is in London, obviously the people in Scotland have to travel a long way to get there."
+  },
+  {
+    "start": 450.76,
+    "end": 455.76,
+    "text": " But if it was exactly in the middle of the country, the idea is it's more accessible for more people."
+  },
+  {
+    "start": 455.76,
+    "end": 459.76,
+    "text": " Yeah, I think that is sort of the only reason to work out where a centre is."
+  },
+  {
+    "start": 459.76,
+    "end": 465.76,
+    "text": " Isn't it to work out where to put your seat of government and then to satisfy weird facts lovers."
+  },
+  {
+    "start": 465.76,
+    "end": 470.76,
+    "text": " There is a problem with being in the centre of America, someone found out."
+  },
+  {
+    "start": 470.76,
+    "end": 476.76,
+    "text": " There's this massive problem that was generated for someone who lives quite near the centre of the US, in fact."
+  },
+  {
+    "start": 476.76,
+    "end": 479.76,
+    "text": " And this has to do with a company called MaxMind."
+  },
+  {
+    "start": 479.76,
+    "end": 481.76,
+    "text": " Have you read about this story about IP addresses?"
+  },
+  {
+    "start": 481.76,
+    "end": 491.76,
+    "text": " So it's so weird. Basically MaxMind is this company who about just over 10 years ago started calculating the location of loads of IP addresses."
+  },
+  {
+    "start": 491.76,
+    "end": 493.76,
+    "text": " So you know with your computer you've got an IP address."
+  },
+  {
+    "start": 493.76,
+    "end": 500.76,
+    "text": " MaxMind figured out whereabouts they all were geographically and then it could sell that information to companies like Google and Facebook and lots of other people."
+  },
+  {
+    "start": 500.76,
+    "end": 504.76,
+    "text": " But often when you're trying to work out where an IP address is, you can't get it exact."
+  },
+  {
+    "start": 504.76,
+    "end": 508.76,
+    "text": " And sometimes it'll just say this is somewhere in America or somewhere in the US."
+  },
+  {
+    "start": 508.76,
+    "end": 513.76,
+    "text": " And so for all of those, MaxMind just default assumed that they were in the middle."
+  },
+  {
+    "start": 513.76,
+    "end": 517.76,
+    "text": " So they got the coordinates of roughly the middle of America and said,"
+  },
+  {
+    "start": 517.76,
+    "end": 521.76,
+    "text": " OK, all the IP addresses that we can't quite place, they just are here."
+  },
+  {
+    "start": 521.76,
+    "end": 527.76,
+    "text": " And it turns out here is a rural farmhouse belonging to someone called Joyce Taylor,"
+  },
+  {
+    "start": 527.76,
+    "end": 532.76,
+    "text": " who now has 600 million IP addresses registered to her farmhouse."
+  },
+  {
+    "start": 532.76,
+    "end": 539.76,
+    "text": " And it's a complete disaster because basically if there's a troll online or if there's someone who's hacked your company"
+  },
+  {
+    "start": 539.76,
+    "end": 543.76,
+    "text": " or if there's someone doing criminal activity online and the police are tracking them down,"
+  },
+  {
+    "start": 543.76,
+    "end": 548.76,
+    "text": " they chase up their IP address and they constantly find it's at Joyce Taylor's farmhouse."
+  },
+  {
+    "start": 548.76,
+    "end": 554.76,
+    "text": " And she's just inundated with kind of abuse and people writing her threatening letters and had no idea why."
+  },
+  {
+    "start": 554.76,
+    "end": 560.76,
+    "text": " For about eight years she was just like, why am I being, what's happening to me until this journalist tracked her down?"
+  },
+  {
+    "start": 560.76,
+    "end": 565.76,
+    "text": " Are we definitely discounting the fact that Joyce is like a massive cyber criminal?"
+  },
+  {
+    "start": 565.76,
+    "end": 571.76,
+    "text": " She's a criminal mastermind, an 82-year-old criminal mastermind. It's possible."
+  },
+  {
+    "start": 571.76,
+    "end": 574.76,
+    "text": " That's funny. Oh, poor Joyce."
+  },
+  {
+    "start": 574.76,
+    "end": 578.76,
+    "text": " They used to work out the middle of America by doing a cardboard cutout of the whole country"
+  },
+  {
+    "start": 578.76,
+    "end": 581.76,
+    "text": " and then balancing it on their finger."
+  },
+  {
+    "start": 581.76,
+    "end": 584.76,
+    "text": " And wherever it balanced, that's where the center was. Isn't that amazing?"
+  },
+  {
+    "start": 584.76,
+    "end": 586.76,
+    "text": " It seems like, is it quite a good method?"
+  },
+  {
+    "start": 586.76,
+    "end": 591.76,
+    "text": " Yeah, they got this, they got it accurate to within 20 miles of the current center."
+  },
+  {
+    "start": 591.76,
+    "end": 599.76,
+    "text": " What do they do? I know that they use the exact same method for countries that have islands that sit around because they're obviously apart."
+  },
+  {
+    "start": 599.76,
+    "end": 604.76,
+    "text": " Do they include, when they do the cardboard cutout, do they sort of just slam that onto the end or do they include the ocean bit?"
+  },
+  {
+    "start": 604.76,
+    "end": 610.76,
+    "text": " That's difficult, isn't it? Because you couldn't just slam it onto the side because if it's further away from the pivot, it's going to be weighing more."
+  },
+  {
+    "start": 610.76,
+    "end": 614.76,
+    "text": " But then you can't attach it because then the thing you've attached it with weighs something."
+  },
+  {
+    "start": 614.76,
+    "end": 617.76,
+    "text": " So that actually sounds like it might be a slight flaw in the system."
+  },
+  {
+    "start": 617.76,
+    "end": 623.76,
+    "text": " That's true. The UK, I looked up the Ordnance Survey website and found out how they calculate the center."
+  },
+  {
+    "start": 623.76,
+    "end": 631.76,
+    "text": " And they actually said, they say on their website now, we calculate the center of Great Britain using the gravitational method."
+  },
+  {
+    "start": 631.76,
+    "end": 634.76,
+    "text": " So that is the one you're talking about. That is the cardboard cutout."
+  },
+  {
+    "start": 634.76,
+    "end": 636.76,
+    "text": " Wow, really? That's the news, effectively, yeah."
+  },
+  {
+    "start": 636.76,
+    "end": 642.76,
+    "text": " Do they probably do like a simulation of a cardboard cutout using a massive supercomputer?"
+  },
+  {
+    "start": 642.76,
+    "end": 646.76,
+    "text": " They don't go into detail, actually, which makes me think it's probably a cardboard cutout."
+  },
+  {
+    "start": 646.76,
+    "end": 649.76,
+    "text": " Where is the center of the UK? It's in Lancashire, isn't it?"
+  },
+  {
+    "start": 649.76,
+    "end": 653.76,
+    "text": " Yeah, it is. It's the forest of Boland."
+  },
+  {
+    "start": 653.76,
+    "end": 657.76,
+    "text": " Oh, yeah. There's one claim that it's a place called Meridan."
+  },
+  {
+    "start": 657.76,
+    "end": 660.76,
+    "text": " Meridan, I think, is the center of England because I've been to Meridan."
+  },
+  {
+    "start": 660.76,
+    "end": 662.76,
+    "text": " Oh, is the center of England, yes."
+  },
+  {
+    "start": 662.76,
+    "end": 669.76,
+    "text": " Forest of Boland, where my grandfather, I think, was born, is just in North... No, it's central Lancashire, I think."
+  },
+  {
+    "start": 669.76,
+    "end": 674.76,
+    "text": " Right. But there is, in the Meridan one, there is a monument that stands there."
+  },
+  {
+    "start": 674.76,
+    "end": 677.76,
+    "text": " It's been there for 500 years. You can go and visit it."
+  },
+  {
+    "start": 677.76,
+    "end": 679.76,
+    "text": " I have done that, of course. Have you? No way."
+  },
+  {
+    "start": 679.76,
+    "end": 684.76,
+    "text": " Of course I have. I was once within 20 miles of the center of the UK with my long-suffering wife and said,"
+  },
+  {
+    "start": 684.76,
+    "end": 688.76,
+    "text": " \"Oh, like, I've just noticed somewhere I could take a photo.\""
+  },
+  {
+    "start": 688.76,
+    "end": 690.76,
+    "text": " And we drove that extra bit."
+  },
+  {
+    "start": 690.76,
+    "end": 692.76,
+    "text": " Wow. That's really funny."
+  },
+  {
+    "start": 692.76,
+    "end": 695.76,
+    "text": " James, have you been to the center of the EU?"
+  },
+  {
+    "start": 695.76,
+    "end": 697.76,
+    "text": " I don't know. Where is it?"
+  },
+  {
+    "start": 697.76,
+    "end": 701.76,
+    "text": " Oh, yeah. The odds are astronomical."
+  },
+  {
+    "start": 701.76,
+    "end": 706.76,
+    "text": " But basically, there's a real problem with calculating the geographical center of the EU,"
+  },
+  {
+    "start": 706.76,
+    "end": 710.76,
+    "text": " which is that the membership of the EU changes every few years."
+  },
+  {
+    "start": 710.76,
+    "end": 716.76,
+    "text": " So it used to be, in a particular place, then it changed in 1986 when Spain and Portugal joined."
+  },
+  {
+    "start": 716.76,
+    "end": 719.76,
+    "text": " Then in 1990, Germany was reunited and that shifted a little bit."
+  },
+  {
+    "start": 719.76,
+    "end": 723.76,
+    "text": " And so it keeps moving. It's just moved again due to Brexit."
+  },
+  {
+    "start": 723.76,
+    "end": 727.76,
+    "text": " And also, what did you do before Brexit? What did you do with the United Kingdom?"
+  },
+  {
+    "start": 727.76,
+    "end": 730.76,
+    "text": " Do you just sell a taper onto France or do you include the bit in between?"
+  },
+  {
+    "start": 730.76,
+    "end": 732.76,
+    "text": " Right. I can't remember."
+  },
+  {
+    "start": 732.76,
+    "end": 735.76,
+    "text": " And in fact, I suspect I never bothered to find out."
+  },
+  {
+    "start": 735.76,
+    "end": 738.76,
+    "text": " So where is the center then? Where is the current one, do you know?"
+  },
+  {
+    "start": 738.76,
+    "end": 743.76,
+    "text": " Actually, I'm now looking at the one for Europe, which I think might be slightly different to the EU."
+  },
+  {
+    "start": 743.76,
+    "end": 749.76,
+    "text": " But the one for Europe is in Lithuania and it's got five reviews on TripAdvisor."
+  },
+  {
+    "start": 749.76,
+    "end": 755.76,
+    "text": " And they're all from James saying, \"My wife was really pissed off.\""
+  },
+  {
+    "start": 755.76,
+    "end": 757.76,
+    "text": " Sort of ruined the whole experience."
+  },
+  {
+    "start": 757.76,
+    "end": 764.76,
+    "text": " The center of the EU, the new center is going to be, or is now, a field in Gadheim in Germany,"
+  },
+  {
+    "start": 764.76,
+    "end": 770.76,
+    "text": " which has, they've already erected a red and white pole there and various flags flying all around it."
+  },
+  {
+    "start": 770.76,
+    "end": 772.76,
+    "text": " And in fact, they got really impatient."
+  },
+  {
+    "start": 772.76,
+    "end": 774.76,
+    "text": " There was an interview with, I think, the mayor of a nearby area saying,"
+  },
+  {
+    "start": 774.76,
+    "end": 777.76,
+    "text": " \"Because Britain took so long to figure out when it was leaving the EU,"
+  },
+  {
+    "start": 777.76,
+    "end": 780.76,
+    "text": " and they're just desperate to announce themselves as the new middle.\""
+  },
+  {
+    "start": 780.76,
+    "end": 784.76,
+    "text": " They eventually erected a sign saying, \"Future center of the EU.\""
+  },
+  {
+    "start": 784.76,
+    "end": 786.76,
+    "text": " Just to prepare people so it wasn't too much of a shock."
+  },
+  {
+    "start": 786.76,
+    "end": 789.76,
+    "text": " I was just thinking, right, bear with me."
+  },
+  {
+    "start": 789.76,
+    "end": 795.76,
+    "text": " If you wanted to influence an election, say a Brexit election,"
+  },
+  {
+    "start": 795.76,
+    "end": 798.76,
+    "text": " then you might do a lot of online work."
+  },
+  {
+    "start": 798.76,
+    "end": 802.76,
+    "text": " So you might send a load of fake news and fake adverts and stuff like that."
+  },
+  {
+    "start": 802.76,
+    "end": 808.76,
+    "text": " And what would you need? You would need to find a lot of IP addresses to send all these things."
+  },
+  {
+    "start": 808.76,
+    "end": 812.76,
+    "text": " And who would have all those IP addresses, someone in the center of Europe,"
+  },
+  {
+    "start": 812.76,
+    "end": 817.76,
+    "text": " and who has the motivation to want Brexit, the people who are in the center of Europe?"
+  },
+  {
+    "start": 817.76,
+    "end": 823.76,
+    "text": " So you're saying it's the farmers of Gadheim who have clubbed together and swung the election for Brexit."
+  },
+  {
+    "start": 823.76,
+    "end": 824.76,
+    "text": " Exactly what I'm saying."
+  },
+  {
+    "start": 824.76,
+    "end": 828.76,
+    "text": " It's possible. That would be a great crime thriller."
+  },
+  {
+    "start": 828.76,
+    "end": 831.76,
+    "text": " I don't know if it would. I don't know if that's getting made."
+  },
+  {
+    "start": 831.76,
+    "end": 835.76,
+    "text": " They'll get the tourist boost, though. That's what they count on."
+  },
+  {
+    "start": 835.76,
+    "end": 837.76,
+    "text": " They think they'll be flooded."
+  },
+  {
+    "start": 837.76,
+    "end": 840.76,
+    "text": " But the warning comes from the previous center that's now been deposed,"
+  },
+  {
+    "start": 840.76,
+    "end": 845.76,
+    "text": " which was somewhere else called Festingrand, where the local baker there said,"
+  },
+  {
+    "start": 845.76,
+    "end": 849.76,
+    "text": " \"We thought Chinese buses would be coming there every week when we became the center.\""
+  },
+  {
+    "start": 849.76,
+    "end": 852.76,
+    "text": " It didn't really turn out that way."
+  },
+  {
+    "start": 852.76,
+    "end": 858.76,
+    "text": " James, have you and Polina been to the center of the world?"
+  },
+  {
+    "start": 858.76,
+    "end": 861.76,
+    "text": " Where is it? Is it in Russia?"
+  },
+  {
+    "start": 861.76,
+    "end": 862.76,
+    "text": " It's in Ohio."
+  },
+  {
+    "start": 862.76,
+    "end": 864.76,
+    "text": " Oh, no. I haven't been to Ohio."
+  },
+  {
+    "start": 864.76,
+    "end": 865.76,
+    "text": " In America. What's that done?"
+  },
+  {
+    "start": 865.76,
+    "end": 872.76,
+    "text": " Center of the world. It was set up by a sort of eccentric businessman called Randall Wilmot in 1845."
+  },
+  {
+    "start": 872.76,
+    "end": 874.76,
+    "text": " It's when he first moved to this area."
+  },
+  {
+    "start": 874.76,
+    "end": 876.76,
+    "text": " And he set up a business there."
+  },
+  {
+    "start": 876.76,
+    "end": 878.76,
+    "text": " He settled there. Some houses were built."
+  },
+  {
+    "start": 878.76,
+    "end": 882.76,
+    "text": " And he thought to get the attraction of people and give it a name."
+  },
+  {
+    "start": 882.76,
+    "end": 887.76,
+    "text": " He called it the center of the world, which I believe it's still called to this day."
+  },
+  {
+    "start": 887.76,
+    "end": 890.76,
+    "text": " And he just seems like a really fun character."
+  },
+  {
+    "start": 890.76,
+    "end": 896.76,
+    "text": " Before doing that, he lived in New York, where he had an establishment called the beginning of the world."
+  },
+  {
+    "start": 896.76,
+    "end": 900.76,
+    "text": " So when he left the beginning of the world, he went to the center of the world."
+  },
+  {
+    "start": 900.76,
+    "end": 903.76,
+    "text": " And he was there for a very long time."
+  },
+  {
+    "start": 903.76,
+    "end": 909.76,
+    "text": " And then eventually business dried up and he moved 13 miles away to Cortland in Ohio,"
+  },
+  {
+    "start": 909.76,
+    "end": 913.76,
+    "text": " where he set up a grocery store called The End of the World."
+  },
+  {
+    "start": 913.76,
+    "end": 917.76,
+    "text": " And that was the last thing, major thing that he did."
+  },
+  {
+    "start": 917.76,
+    "end": 921.76,
+    "text": " So it's a guy who had in three places, the beginning, center and end of the world."
+  },
+  {
+    "start": 921.76,
+    "end": 925.76,
+    "text": " So he's saying that the end of the world is only 13 miles from the middle of the world."
+  },
+  {
+    "start": 925.76,
+    "end": 926.76,
+    "text": " Yes."
+  },
+  {
+    "start": 926.76,
+    "end": 931.76,
+    "text": " I don't know if those mathematical calculations are rigorous, as the previous ones."
+  },
+  {
+    "start": 931.76,
+    "end": 936.76,
+    "text": " This guy sounds like a distant ancestor of Bill Bender, I have to say."
+  },
+  {
+    "start": 936.76,
+    "end": 939.76,
+    "text": " Actually, you know what the roundest country on the planet is?"
+  },
+  {
+    "start": 939.76,
+    "end": 940.76,
+    "text": " The roundest country on the planet."
+  },
+  {
+    "start": 940.76,
+    "end": 942.76,
+    "text": " I do know that. Is it Ivory Coast or something?"
+  },
+  {
+    "start": 942.76,
+    "end": 944.76,
+    "text": " I don't think you do know."
+  },
+  {
+    "start": 944.76,
+    "end": 946.76,
+    "text": " Is it somewhere in Africa?"
+  },
+  {
+    "start": 946.76,
+    "end": 949.76,
+    "text": " It's not Cote d'Ivoire, no. It's somewhere in Australia."
+  },
+  {
+    "start": 949.76,
+    "end": 950.76,
+    "text": " Oh, so close."
+  },
+  {
+    "start": 950.76,
+    "end": 952.76,
+    "text": " You were so close, isn't it?"
+  },
+  {
+    "start": 952.76,
+    "end": 954.76,
+    "text": " So there are various different ways of working it out."
+  },
+  {
+    "start": 954.76,
+    "end": 956.76,
+    "text": " You can define rectangularity as well,"
+  },
+  {
+    "start": 956.76,
+    "end": 959.76,
+    "text": " which is how much of a country overlaps with a rectangle of the same area."
+  },
+  {
+    "start": 959.76,
+    "end": 963.76,
+    "text": " And you might be able to get this one, the most rectangular country on the planet."
+  },
+  {
+    "start": 963.76,
+    "end": 967.76,
+    "text": " It's very rectangular. That's your clue."
+  },
+  {
+    "start": 967.76,
+    "end": 969.76,
+    "text": " Is it somewhere like Libya?"
+  },
+  {
+    "start": 969.76,
+    "end": 971.76,
+    "text": " Oh, you're so close."
+  },
+  {
+    "start": 971.76,
+    "end": 972.76,
+    "text": " In that case, Egypt."
+  },
+  {
+    "start": 972.76,
+    "end": 974.76,
+    "text": " Yes, Egypt."
+  },
+  {
+    "start": 974.76,
+    "end": 976.76,
+    "text": " Oh, with the pyramids. That's amazing."
+  },
+  {
+    "start": 976.76,
+    "end": 977.76,
+    "text": " Me."
+  },
+  {
+    "start": 977.76,
+    "end": 978.76,
+    "text": " Yeah."
+  },
+  {
+    "start": 978.76,
+    "end": 982.76,
+    "text": " Well, no, it's just amazing that the sort of national shape that we know it"
+  },
+  {
+    "start": 982.76,
+    "end": 983.76,
+    "text": " is the actual shape of the country."
+  },
+  {
+    "start": 983.76,
+    "end": 987.76,
+    "text": " Well, no, because the pyramids are more triangular than square, aren't they?"
+  },
+  {
+    "start": 987.76,
+    "end": 990.76,
+    "text": " Dan, have you seen only half-built pyramids?"
+  },
+  {
+    "start": 990.76,
+    "end": 992.76,
+    "text": " You're talking about ziggalaxes."
+  },
+  {
+    "start": 992.76,
+    "end": 994.76,
+    "text": " No, I thought we said..."
+  },
+  {
+    "start": 994.76,
+    "end": 995.76,
+    "text": " Oh, what did you say?"
+  },
+  {
+    "start": 995.76,
+    "end": 996.76,
+    "text": " You said rectangular."
+  },
+  {
+    "start": 996.76,
+    "end": 997.76,
+    "text": " I did."
+  },
+  {
+    "start": 997.76,
+    "end": 998.76,
+    "text": " Cool."
+  },
+  {
+    "start": 998.76,
+    "end": 999.76,
+    "text": " Nice."
+  },
+  {
+    "start": 999.76,
+    "end": 1001.76,
+    "text": " It just sounds very similar to triangle, doesn't it?"
+  },
+  {
+    "start": 1001.76,
+    "end": 1002.76,
+    "text": " It does."
+  },
+  {
+    "start": 1002.76,
+    "end": 1003.76,
+    "text": " They're very similar."
+  },
+  {
+    "start": 1003.76,
+    "end": 1004.76,
+    "text": " They're all the same, don't they?"
+  },
+  {
+    "start": 1004.76,
+    "end": 1005.76,
+    "text": " Yeah."
+  },
+  {
+    "start": 1005.76,
+    "end": 1009.76,
+    "text": " It's amazing those primary school kids managed to gather this at all."
+  },
+  {
+    "start": 1009.76,
+    "end": 1015.76,
+    "text": " So, any chance the most triangular country is Egypt?"
+  },
+  {
+    "start": 1015.76,
+    "end": 1016.76,
+    "text": " You've got the answer."
+  },
+  {
+    "start": 1016.76,
+    "end": 1017.76,
+    "text": " We'll look into it."
+  },
+  {
+    "start": 1017.76,
+    "end": 1018.76,
+    "text": " I'll get back to you guys."
+  },
+  {
+    "start": 1018.76,
+    "end": 1026.76,
+    "text": " OK, it's time for fact number two, and that is James."
+  },
+  {
+    "start": 1026.76,
+    "end": 1030.76,
+    "text": " OK, my fact this week is that the modern door handle was invented"
+  },
+  {
+    "start": 1030.76,
+    "end": 1032.76,
+    "text": " by Ludwig Wittgenstein."
+  },
+  {
+    "start": 1032.76,
+    "end": 1033.76,
+    "text": " No."
+  },
+  {
+    "start": 1033.76,
+    "end": 1035.76,
+    "text": " It's my favourite fact ever."
+  },
+  {
+    "start": 1035.76,
+    "end": 1036.76,
+    "text": " I love it."
+  },
+  {
+    "start": 1036.76,
+    "end": 1037.76,
+    "text": " That's incredible."
+  },
+  {
+    "start": 1037.76,
+    "end": 1039.76,
+    "text": " I mean, he was quite recent."
+  },
+  {
+    "start": 1039.76,
+    "end": 1041.76,
+    "text": " Yeah, he was more recent than doors."
+  },
+  {
+    "start": 1041.76,
+    "end": 1042.76,
+    "text": " Yeah."
+  },
+  {
+    "start": 1042.76,
+    "end": 1045.76,
+    "text": " I thought no one could get through doors until he gave a lug."
+  },
+  {
+    "start": 1045.76,
+    "end": 1047.76,
+    "text": " They were just walls."
+  },
+  {
+    "start": 1047.76,
+    "end": 1049.76,
+    "text": " Just empty houses."
+  },
+  {
+    "start": 1049.76,
+    "end": 1052.76,
+    "text": " When you say the modern door handle, this is what fascinates me,"
+  },
+  {
+    "start": 1052.76,
+    "end": 1056.76,
+    "text": " because it's as though there was a kind of archaic bad door handle,"
+  },
+  {
+    "start": 1056.76,
+    "end": 1058.76,
+    "text": " and then he fixed it."
+  },
+  {
+    "start": 1058.76,
+    "end": 1060.76,
+    "text": " Well, that's kind of what happened."
+  },
+  {
+    "start": 1060.76,
+    "end": 1065.76,
+    "text": " So, Wittgenstein, philosopher, mid-20th century,"
+  },
+  {
+    "start": 1065.76,
+    "end": 1069.76,
+    "text": " very well-renowned pupil of Bertrand Russell,"
+  },
+  {
+    "start": 1069.76,
+    "end": 1072.76,
+    "text": " and kind of influenced pretty much everyone who came after him,"
+  },
+  {
+    "start": 1072.76,
+    "end": 1076.76,
+    "text": " but also inventor of door handles."
+  },
+  {
+    "start": 1076.76,
+    "end": 1080.76,
+    "text": " Because I read this in an article about door handles"
+  },
+  {
+    "start": 1080.76,
+    "end": 1082.76,
+    "text": " in Apollo Art Magazine."
+  },
+  {
+    "start": 1082.76,
+    "end": 1085.76,
+    "text": " And Wittgenstein was working as a school teacher,"
+  },
+  {
+    "start": 1085.76,
+    "end": 1089.76,
+    "text": " and he'd hit one of the kids because they'd upset him."
+  },
+  {
+    "start": 1089.76,
+    "end": 1092.76,
+    "text": " And he'd had to kind of be taken out of the school"
+  },
+  {
+    "start": 1092.76,
+    "end": 1094.76,
+    "text": " and be suspended and stuff like that."
+  },
+  {
+    "start": 1094.76,
+    "end": 1096.76,
+    "text": " I think he got fired, actually."
+  },
+  {
+    "start": 1096.76,
+    "end": 1099.76,
+    "text": " And so he kind of was sat around feeling sorry for himself,"
+  },
+  {
+    "start": 1099.76,
+    "end": 1101.76,
+    "text": " didn't have anything to do,"
+  },
+  {
+    "start": 1101.76,
+    "end": 1103.76,
+    "text": " but he came from an extremely rich family,"
+  },
+  {
+    "start": 1103.76,
+    "end": 1106.76,
+    "text": " and his sister Gretel decided to distract him from everything"
+  },
+  {
+    "start": 1106.76,
+    "end": 1109.76,
+    "text": " by commissioning him to design the interior of a new house"
+  },
+  {
+    "start": 1109.76,
+    "end": 1111.76,
+    "text": " that she bought."
+  },
+  {
+    "start": 1111.76,
+    "end": 1113.76,
+    "text": " And he was extremely distracted by this"
+  },
+  {
+    "start": 1113.76,
+    "end": 1117.76,
+    "text": " because it took him a year to design the door handle alone."
+  },
+  {
+    "start": 1117.76,
+    "end": 1120.76,
+    "text": " It took him two years to design the radiators."
+  },
+  {
+    "start": 1120.76,
+    "end": 1124.76,
+    "text": " But what he came up with was a really modern kind of,"
+  },
+  {
+    "start": 1124.76,
+    "end": 1127.76,
+    "text": " I want to say, like minimalistic kind of design of a house."
+  },
+  {
+    "start": 1127.76,
+    "end": 1132.76,
+    "text": " And the door handle which he invented was kind of short,"
+  },
+  {
+    "start": 1132.76,
+    "end": 1133.76,
+    "text": " coming out of the door,"
+  },
+  {
+    "start": 1133.76,
+    "end": 1137.76,
+    "text": " and then a long, straight bit with a little kink in it."
+  },
+  {
+    "start": 1137.76,
+    "end": 1139.76,
+    "text": " If that's, it's not a great explanation,"
+  },
+  {
+    "start": 1139.76,
+    "end": 1142.76,
+    "text": " but that's basically, if you look at a door handle now,"
+  },
+  {
+    "start": 1142.76,
+    "end": 1144.76,
+    "text": " most of them will be that kind of design."
+  },
+  {
+    "start": 1144.76,
+    "end": 1147.76,
+    "text": " And until then it was more kind of knobs"
+  },
+  {
+    "start": 1147.76,
+    "end": 1149.76,
+    "text": " or it was straight handles or stuff like that."
+  },
+  {
+    "start": 1149.76,
+    "end": 1153.76,
+    "text": " So all future door handles were kind of influenced by this one"
+  },
+  {
+    "start": 1153.76,
+    "end": 1155.76,
+    "text": " that was invented by Wittgenstein."
+  },
+  {
+    "start": 1155.76,
+    "end": 1159.76,
+    "text": " In much the same way as all future philosophical thought"
+  },
+  {
+    "start": 1159.76,
+    "end": 1161.76,
+    "text": " was influenced by him too."
+  },
+  {
+    "start": 1161.76,
+    "end": 1163.76,
+    "text": " I wonder how much that was seen."
+  },
+  {
+    "start": 1163.76,
+    "end": 1165.76,
+    "text": " You know, like he probably was asked to do a lot of talks"
+  },
+  {
+    "start": 1165.76,
+    "end": 1167.76,
+    "text": " in the way that we have like Ted talks now."
+  },
+  {
+    "start": 1167.76,
+    "end": 1170.76,
+    "text": " And he'd always email back or write back at the time going,"
+  },
+  {
+    "start": 1170.76,
+    "end": 1172.76,
+    "text": " do you want the philosophical chat"
+  },
+  {
+    "start": 1172.76,
+    "end": 1175.76,
+    "text": " or the door handle lecture?"
+  },
+  {
+    "start": 1175.76,
+    "end": 1176.76,
+    "text": " I've got both ready."
+  },
+  {
+    "start": 1176.76,
+    "end": 1178.76,
+    "text": " I think it was probably he'd be giving a talk"
+  },
+  {
+    "start": 1178.76,
+    "end": 1180.76,
+    "text": " and there'd be questions and answers at the end."
+  },
+  {
+    "start": 1180.76,
+    "end": 1182.76,
+    "text": " And everyone only wanted to ask about the door handle."
+  },
+  {
+    "start": 1182.76,
+    "end": 1185.76,
+    "text": " I bet every time he'd be like, come on guys,"
+  },
+  {
+    "start": 1185.76,
+    "end": 1187.76,
+    "text": " talk to your own philosophies."
+  },
+  {
+    "start": 1187.76,
+    "end": 1191.76,
+    "text": " It sounds really different to the house you grew up in."
+  },
+  {
+    "start": 1191.76,
+    "end": 1193.76,
+    "text": " So as James said, it's a very minimalist place,"
+  },
+  {
+    "start": 1193.76,
+    "end": 1195.76,
+    "text": " this place in Vienna."
+  },
+  {
+    "start": 1195.76,
+    "end": 1197.76,
+    "text": " But the house he grew up in was, he grew up in a palace."
+  },
+  {
+    "start": 1197.76,
+    "end": 1199.76,
+    "text": " This was how wealthy his family were."
+  },
+  {
+    "start": 1199.76,
+    "end": 1202.76,
+    "text": " So the forecourt had sculptures in it by Rodin."
+  },
+  {
+    "start": 1202.76,
+    "end": 1204.76,
+    "text": " And there was someone who was employed in the house"
+  },
+  {
+    "start": 1204.76,
+    "end": 1207.76,
+    "text": " for the sole purpose of bowing to visitors."
+  },
+  {
+    "start": 1207.76,
+    "end": 1209.76,
+    "text": " That's what I read, sole purpose."
+  },
+  {
+    "start": 1209.76,
+    "end": 1210.76,
+    "text": " Wow."
+  },
+  {
+    "start": 1210.76,
+    "end": 1211.76,
+    "text": " I know."
+  },
+  {
+    "start": 1211.76,
+    "end": 1213.76,
+    "text": " They had seven pianos this house."
+  },
+  {
+    "start": 1213.76,
+    "end": 1217.76,
+    "text": " It had an organ built in, had a fountain inside it."
+  },
+  {
+    "start": 1217.76,
+    "end": 1218.76,
+    "text": " Wow."
+  },
+  {
+    "start": 1218.76,
+    "end": 1220.76,
+    "text": " They did have, I think they had the largest private fortune"
+  },
+  {
+    "start": 1220.76,
+    "end": 1221.76,
+    "text": " in Europe possibly."
+  },
+  {
+    "start": 1221.76,
+    "end": 1222.76,
+    "text": " He didn't know the Wittgensteins."
+  },
+  {
+    "start": 1222.76,
+    "end": 1223.76,
+    "text": " Wow."
+  },
+  {
+    "start": 1223.76,
+    "end": 1224.76,
+    "text": " Really?"
+  },
+  {
+    "start": 1224.76,
+    "end": 1225.76,
+    "text": " They were loaded."
+  },
+  {
+    "start": 1225.76,
+    "end": 1226.76,
+    "text": " Yeah."
+  },
+  {
+    "start": 1226.76,
+    "end": 1227.76,
+    "text": " So he was really trying to simplify"
+  },
+  {
+    "start": 1227.76,
+    "end": 1228.76,
+    "text": " when he designed this new house,"
+  },
+  {
+    "start": 1228.76,
+    "end": 1231.76,
+    "text": " against the kind of incredibly opulent Viennese style."
+  },
+  {
+    "start": 1231.76,
+    "end": 1232.76,
+    "text": " Yeah."
+  },
+  {
+    "start": 1232.76,
+    "end": 1234.76,
+    "text": " I never thought of it that way about his previous house,"
+  },
+  {
+    "start": 1234.76,
+    "end": 1236.76,
+    "text": " because when he moved to Trinity College,"
+  },
+  {
+    "start": 1236.76,
+    "end": 1238.76,
+    "text": " after he became a famous philosopher,"
+  },
+  {
+    "start": 1238.76,
+    "end": 1241.76,
+    "text": " his rooms were completely devoid of furniture."
+  },
+  {
+    "start": 1241.76,
+    "end": 1242.76,
+    "text": " He had no furniture in them."
+  },
+  {
+    "start": 1242.76,
+    "end": 1244.76,
+    "text": " And when he left Cambridge,"
+  },
+  {
+    "start": 1244.76,
+    "end": 1247.76,
+    "text": " he became an assistant gardener at an Austrian monastery"
+  },
+  {
+    "start": 1247.76,
+    "end": 1249.76,
+    "text": " and slept in a potting shed."
+  },
+  {
+    "start": 1249.76,
+    "end": 1253.76,
+    "text": " So maybe he was just trying to escape from that opulence."
+  },
+  {
+    "start": 1253.76,
+    "end": 1254.76,
+    "text": " Yeah."
+  },
+  {
+    "start": 1254.76,
+    "end": 1255.76,
+    "text": " Like I said."
+  },
+  {
+    "start": 1255.76,
+    "end": 1257.76,
+    "text": " Well, he gave all his money away as well, didn't he?"
+  },
+  {
+    "start": 1257.76,
+    "end": 1258.76,
+    "text": " Yeah."
+  },
+  {
+    "start": 1258.76,
+    "end": 1259.76,
+    "text": " He inherited a lot,"
+  },
+  {
+    "start": 1259.76,
+    "end": 1261.76,
+    "text": " and he just gave it to his brother's and sister."
+  },
+  {
+    "start": 1261.76,
+    "end": 1264.76,
+    "text": " And should have given it to the kid he was hitting at school,"
+  },
+  {
+    "start": 1264.76,
+    "end": 1266.76,
+    "text": " which got him sacked from the job."
+  },
+  {
+    "start": 1266.76,
+    "end": 1268.76,
+    "text": " Well, to be honest, later on,"
+  },
+  {
+    "start": 1268.76,
+    "end": 1273.76,
+    "text": " when he kind of had a bit of severe introspection after the war,"
+  },
+  {
+    "start": 1273.76,
+    "end": 1275.76,
+    "text": " he kind of went to live in Norway,"
+  },
+  {
+    "start": 1275.76,
+    "end": 1277.76,
+    "text": " and he did a lot of confessions."
+  },
+  {
+    "start": 1277.76,
+    "end": 1280.76,
+    "text": " So anything that happened to him previously in life,"
+  },
+  {
+    "start": 1280.76,
+    "end": 1281.76,
+    "text": " which he felt bad about,"
+  },
+  {
+    "start": 1281.76,
+    "end": 1284.76,
+    "text": " he went to those people and apologized for those things."
+  },
+  {
+    "start": 1284.76,
+    "end": 1287.76,
+    "text": " And he apologized to this,"
+  },
+  {
+    "start": 1287.76,
+    "end": 1290.76,
+    "text": " at least to one of the children whose ears he had polled."
+  },
+  {
+    "start": 1290.76,
+    "end": 1291.76,
+    "text": " Did he?"
+  },
+  {
+    "start": 1291.76,
+    "end": 1292.76,
+    "text": " Yeah."
+  },
+  {
+    "start": 1292.76,
+    "end": 1293.76,
+    "text": " She was called."
+  },
+  {
+    "start": 1293.76,
+    "end": 1295.76,
+    "text": " He was the original \"My Name Is Earl\"."
+  },
+  {
+    "start": 1295.76,
+    "end": 1296.76,
+    "text": " Is that what that is?"
+  },
+  {
+    "start": 1296.76,
+    "end": 1297.76,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1297.76,
+    "end": 1299.76,
+    "text": " Yeah, you guys remember \"My Name Is Earl\", right?"
+  },
+  {
+    "start": 1299.76,
+    "end": 1300.76,
+    "text": " No."
+  },
+  {
+    "start": 1300.76,
+    "end": 1302.76,
+    "text": " Is that TV series about that guy who committed loads of crimes"
+  },
+  {
+    "start": 1302.76,
+    "end": 1304.76,
+    "text": " and then spent his life going back apologizing to them?"
+  },
+  {
+    "start": 1304.76,
+    "end": 1306.76,
+    "text": " Well, it sounds like that's exactly what victims are."
+  },
+  {
+    "start": 1306.76,
+    "end": 1308.76,
+    "text": " I think it's based on this."
+  },
+  {
+    "start": 1308.76,
+    "end": 1310.76,
+    "text": " Sounds like \"My Name Is Ludwig Wittgenstein\"."
+  },
+  {
+    "start": 1310.76,
+    "end": 1312.76,
+    "text": " And \"My Father Is An Earl\"."
+  },
+  {
+    "start": 1312.76,
+    "end": 1317.76,
+    "text": " One of the reasons he became a teacher"
+  },
+  {
+    "start": 1317.76,
+    "end": 1320.76,
+    "text": " was that he essentially gave up on philosophy, didn't he?"
+  },
+  {
+    "start": 1320.76,
+    "end": 1325.76,
+    "text": " He wrote this thing called Tractatus logico philosophicus,"
+  },
+  {
+    "start": 1325.76,
+    "end": 1328.76,
+    "text": " and it's a series of numbered bullet points."
+  },
+  {
+    "start": 1328.76,
+    "end": 1329.76,
+    "text": " It's not a..."
+  },
+  {
+    "start": 1329.76,
+    "end": 1331.76,
+    "text": " Well, it's a tough read, I would say."
+  },
+  {
+    "start": 1331.76,
+    "end": 1332.76,
+    "text": " It's a dense read."
+  },
+  {
+    "start": 1332.76,
+    "end": 1333.76,
+    "text": " Tried to get through some of it."
+  },
+  {
+    "start": 1333.76,
+    "end": 1335.76,
+    "text": " He was very a man after our own hearts"
+  },
+  {
+    "start": 1335.76,
+    "end": 1337.76,
+    "text": " because it opened with things like,"
+  },
+  {
+    "start": 1337.76,
+    "end": 1339.76,
+    "text": " \"The world divides into facts."
+  },
+  {
+    "start": 1339.76,
+    "end": 1341.76,
+    "text": " \"The world is the totality of facts."
+  },
+  {
+    "start": 1341.76,
+    "end": 1343.76,
+    "text": " \"The world is determined by facts."
+  },
+  {
+    "start": 1343.76,
+    "end": 1345.76,
+    "text": " \"The facts in logical space are the world.\""
+  },
+  {
+    "start": 1345.76,
+    "end": 1347.76,
+    "text": " He sort of should be our mascot."
+  },
+  {
+    "start": 1347.76,
+    "end": 1348.76,
+    "text": " Wow."
+  },
+  {
+    "start": 1348.76,
+    "end": 1350.76,
+    "text": " But then he wrote this thing"
+  },
+  {
+    "start": 1350.76,
+    "end": 1352.76,
+    "text": " with some impenetrable bullet points in it."
+  },
+  {
+    "start": 1352.76,
+    "end": 1354.76,
+    "text": " And then he believed that Tractatus had cleared up"
+  },
+  {
+    "start": 1354.76,
+    "end": 1356.76,
+    "text": " all the confusions that had tormented philosophy"
+  },
+  {
+    "start": 1356.76,
+    "end": 1357.76,
+    "text": " until that point."
+  },
+  {
+    "start": 1357.76,
+    "end": 1359.76,
+    "text": " And so he decided it was never necessary to write again."
+  },
+  {
+    "start": 1359.76,
+    "end": 1361.76,
+    "text": " And that was when he disappeared off to the Elps"
+  },
+  {
+    "start": 1361.76,
+    "end": 1362.76,
+    "text": " after the First World War."
+  },
+  {
+    "start": 1362.76,
+    "end": 1364.76,
+    "text": " He's like, \"I've solved philosophy"
+  },
+  {
+    "start": 1364.76,
+    "end": 1367.76,
+    "text": " \"now about these doors.\""
+  },
+  {
+    "start": 1367.76,
+    "end": 1369.76,
+    "text": " You're welcome."
+  },
+  {
+    "start": 1369.76,
+    "end": 1371.76,
+    "text": " Although then he decided against that"
+  },
+  {
+    "start": 1371.76,
+    "end": 1373.76,
+    "text": " and I think went back to it by 1929"
+  },
+  {
+    "start": 1373.76,
+    "end": 1375.76,
+    "text": " and wrote his other great work."
+  },
+  {
+    "start": 1375.76,
+    "end": 1378.76,
+    "text": " So he initially studied at Cambridge,"
+  },
+  {
+    "start": 1378.76,
+    "end": 1380.76,
+    "text": " as James said, under Bertrand Russell."
+  },
+  {
+    "start": 1380.76,
+    "end": 1383.76,
+    "text": " And when he arrived there,"
+  },
+  {
+    "start": 1383.76,
+    "end": 1386.76,
+    "text": " he seemed like a bit of a cocky dick"
+  },
+  {
+    "start": 1386.76,
+    "end": 1388.76,
+    "text": " when it came to philosophies."
+  },
+  {
+    "start": 1388.76,
+    "end": 1391.76,
+    "text": " Like, as in, I'm surprised Russell didn't go,"
+  },
+  {
+    "start": 1391.76,
+    "end": 1393.76,
+    "text": " \"Get out of here,\" at some of the stuff he did."
+  },
+  {
+    "start": 1393.76,
+    "end": 1396.76,
+    "text": " I read an obituary that Russell wrote about him"
+  },
+  {
+    "start": 1396.76,
+    "end": 1398.76,
+    "text": " and he describes his first encounter"
+  },
+  {
+    "start": 1398.76,
+    "end": 1400.76,
+    "text": " and he says, \"He maintained, for example,"
+  },
+  {
+    "start": 1400.76,
+    "end": 1402.76,
+    "text": " \"at one time that all existential propositions"
+  },
+  {
+    "start": 1402.76,
+    "end": 1403.76,
+    "text": " \"are meaningless."
+  },
+  {
+    "start": 1403.76,
+    "end": 1404.76,
+    "text": " \"This was in a lecture room"
+  },
+  {
+    "start": 1404.76,
+    "end": 1406.76,
+    "text": " \"and I invited him to consider the proposition"
+  },
+  {
+    "start": 1406.76,
+    "end": 1409.76,
+    "text": " \"there is no hippopotamus in this room at present."
+  },
+  {
+    "start": 1409.76,
+    "end": 1411.76,
+    "text": " \"When he refused to believe this,"
+  },
+  {
+    "start": 1411.76,
+    "end": 1413.76,
+    "text": " \"I looked under all the desks without finding one"
+  },
+  {
+    "start": 1413.76,
+    "end": 1415.76,
+    "text": " \"but he remained unconvinced.\""
+  },
+  {
+    "start": 1415.76,
+    "end": 1417.76,
+    "text": " I mean, if I tried to pull that on you guys,"
+  },
+  {
+    "start": 1417.76,
+    "end": 1419.76,
+    "text": " you'd kick me out of the room, right?"
+  },
+  {
+    "start": 1419.76,
+    "end": 1420.76,
+    "text": " It's true. Like, it was..."
+  },
+  {
+    "start": 1420.76,
+    "end": 1422.76,
+    "text": " Do you remember that time you tried to convince us"
+  },
+  {
+    "start": 1422.76,
+    "end": 1424.76,
+    "text": " that rectangles and rectangles were the same thing?"
+  },
+  {
+    "start": 1424.76,
+    "end": 1429.76,
+    "text": " Oh, that's true. I've still got a job."
+  },
+  {
+    "start": 1429.76,
+    "end": 1431.76,
+    "text": " Yeah, maybe."
+  },
+  {
+    "start": 1431.76,
+    "end": 1435.76,
+    "text": " Isn't there a story about Vic Constine and Russell?"
+  },
+  {
+    "start": 1435.76,
+    "end": 1436.76,
+    "text": " I might be wrong about this"
+  },
+  {
+    "start": 1436.76,
+    "end": 1437.76,
+    "text": " because I haven't written it down,"
+  },
+  {
+    "start": 1437.76,
+    "end": 1439.76,
+    "text": " but did he not go to Cambridge"
+  },
+  {
+    "start": 1439.76,
+    "end": 1441.76,
+    "text": " and Russell said,"
+  },
+  {
+    "start": 1441.76,
+    "end": 1443.76,
+    "text": " \"Tell me why I should take you on as a student,\""
+  },
+  {
+    "start": 1443.76,
+    "end": 1445.76,
+    "text": " and he gave him a piece of paper"
+  },
+  {
+    "start": 1445.76,
+    "end": 1448.76,
+    "text": " with one sentence or one word written on it or something"
+  },
+  {
+    "start": 1448.76,
+    "end": 1450.76,
+    "text": " and Russell looked at it"
+  },
+  {
+    "start": 1450.76,
+    "end": 1452.76,
+    "text": " and then kind of threw it away"
+  },
+  {
+    "start": 1452.76,
+    "end": 1454.76,
+    "text": " but gave him the job based on that,"
+  },
+  {
+    "start": 1454.76,
+    "end": 1456.76,
+    "text": " and no one knows what was on that piece of paper."
+  },
+  {
+    "start": 1456.76,
+    "end": 1458.76,
+    "text": " I think that's true. Wow."
+  },
+  {
+    "start": 1458.76,
+    "end": 1460.76,
+    "text": " That's the story, yeah."
+  },
+  {
+    "start": 1460.76,
+    "end": 1463.76,
+    "text": " It's probably a drawing of a door handle or something."
+  },
+  {
+    "start": 1463.76,
+    "end": 1467.76,
+    "text": " Yeah, that is the story."
+  },
+  {
+    "start": 1467.76,
+    "end": 1469.76,
+    "text": " I don't know if it's apocryphal, but..."
+  },
+  {
+    "start": 1469.76,
+    "end": 1470.76,
+    "text": " It sounds it, does it? Yeah."
+  },
+  {
+    "start": 1470.76,
+    "end": 1472.76,
+    "text": " He had such a full life."
+  },
+  {
+    "start": 1472.76,
+    "end": 1474.76,
+    "text": " It's amazing. I mean, he fought in the First World War,"
+  },
+  {
+    "start": 1474.76,
+    "end": 1475.76,
+    "text": " which we haven't even mentioned,"
+  },
+  {
+    "start": 1475.76,
+    "end": 1478.76,
+    "text": " as, I guess, loads of men of that age had done."
+  },
+  {
+    "start": 1478.76,
+    "end": 1482.76,
+    "text": " He also had been an engineer before being a philosopher,"
+  },
+  {
+    "start": 1482.76,
+    "end": 1485.76,
+    "text": " so he built an aeronautical engine,"
+  },
+  {
+    "start": 1485.76,
+    "end": 1487.76,
+    "text": " which actually proved useful"
+  },
+  {
+    "start": 1487.76,
+    "end": 1489.76,
+    "text": " when helicopters were being designed later on."
+  },
+  {
+    "start": 1489.76,
+    "end": 1492.76,
+    "text": " And so this is a really, really, really full life he had."
+  },
+  {
+    "start": 1492.76,
+    "end": 1494.76,
+    "text": " Yeah, and he was a genius,"
+  },
+  {
+    "start": 1494.76,
+    "end": 1496.76,
+    "text": " but he's basically the philosopher's philosopher, isn't he?"
+  },
+  {
+    "start": 1496.76,
+    "end": 1497.76,
+    "text": " Like all other philosophers said,"
+  },
+  {
+    "start": 1497.76,
+    "end": 1499.76,
+    "text": " \"This is the smartest guy you've ever met, guys.\""
+  },
+  {
+    "start": 1499.76,
+    "end": 1502.76,
+    "text": " So maybe he was justified in that arrogance,"
+  },
+  {
+    "start": 1502.76,
+    "end": 1505.76,
+    "text": " but in his lectures, he used to throw students out"
+  },
+  {
+    "start": 1505.76,
+    "end": 1508.76,
+    "text": " when they didn't insult him, basically."
+  },
+  {
+    "start": 1508.76,
+    "end": 1511.76,
+    "text": " So if students didn't ask him pertinent questions"
+  },
+  {
+    "start": 1511.76,
+    "end": 1513.76,
+    "text": " or lay into him about his arguments,"
+  },
+  {
+    "start": 1513.76,
+    "end": 1514.76,
+    "text": " he'd kick them out of the lectures,"
+  },
+  {
+    "start": 1514.76,
+    "end": 1516.76,
+    "text": " and at one point, there was just one person"
+  },
+  {
+    "start": 1516.76,
+    "end": 1517.76,
+    "text": " left in his lecture at the inn,"
+  },
+  {
+    "start": 1517.76,
+    "end": 1518.76,
+    "text": " because he'd kicked everyone else out"
+  },
+  {
+    "start": 1518.76,
+    "end": 1520.76,
+    "text": " for being too stupid and accepting."
+  },
+  {
+    "start": 1520.76,
+    "end": 1521.76,
+    "text": " Wow."
+  },
+  {
+    "start": 1521.76,
+    "end": 1523.76,
+    "text": " And that was actually a guy called Francis Skinner,"
+  },
+  {
+    "start": 1523.76,
+    "end": 1527.76,
+    "text": " with whom he planned to emigrate to the Soviet Union in 1934."
+  },
+  {
+    "start": 1527.76,
+    "end": 1529.76,
+    "text": " He wanted to become a manual laborer."
+  },
+  {
+    "start": 1529.76,
+    "end": 1530.76,
+    "text": " What?"
+  },
+  {
+    "start": 1530.76,
+    "end": 1532.76,
+    "text": " And he, in fact, visited the Soviet Union"
+  },
+  {
+    "start": 1532.76,
+    "end": 1534.76,
+    "text": " to kind of do a recce of it and be like,"
+  },
+  {
+    "start": 1534.76,
+    "end": 1536.76,
+    "text": " \"Is this place good for manual labor?\""
+  },
+  {
+    "start": 1536.76,
+    "end": 1538.76,
+    "text": " And he came back and decided against it."
+  },
+  {
+    "start": 1538.76,
+    "end": 1539.76,
+    "text": " Very well."
+  },
+  {
+    "start": 1539.76,
+    "end": 1541.76,
+    "text": " As I think you would if you were considering manual labor"
+  },
+  {
+    "start": 1541.76,
+    "end": 1543.76,
+    "text": " in the USSR in 1934."
+  },
+  {
+    "start": 1543.76,
+    "end": 1545.76,
+    "text": " There's another reason why he was a man"
+  },
+  {
+    "start": 1545.76,
+    "end": 1547.76,
+    "text": " after our own hearts, I think,"
+  },
+  {
+    "start": 1547.76,
+    "end": 1550.76,
+    "text": " because one of his famous things that he wrote was,"
+  },
+  {
+    "start": 1550.76,
+    "end": 1551.76,
+    "text": " \"If a lion could speak,"
+  },
+  {
+    "start": 1551.76,
+    "end": 1553.76,
+    "text": " we would not be able to understand him.\""
+  },
+  {
+    "start": 1553.76,
+    "end": 1555.76,
+    "text": " And what he means by that, basically,"
+  },
+  {
+    "start": 1555.76,
+    "end": 1558.76,
+    "text": " is that you can translate one human language"
+  },
+  {
+    "start": 1558.76,
+    "end": 1560.76,
+    "text": " to another human language, and that's fine,"
+  },
+  {
+    "start": 1560.76,
+    "end": 1562.76,
+    "text": " because we've all had the same kind of life."
+  },
+  {
+    "start": 1562.76,
+    "end": 1564.76,
+    "text": " We all have the same experiences."
+  },
+  {
+    "start": 1564.76,
+    "end": 1566.76,
+    "text": " We all feel the same. We all smell the same."
+  },
+  {
+    "start": 1566.76,
+    "end": 1567.76,
+    "text": " We all see the same."
+  },
+  {
+    "start": 1567.76,
+    "end": 1570.76,
+    "text": " And so it's easy to translate those words to other words."
+  },
+  {
+    "start": 1570.76,
+    "end": 1574.76,
+    "text": " But with lions, we just do not know what it's like being a lion."
+  },
+  {
+    "start": 1574.76,
+    "end": 1576.76,
+    "text": " And if they could tell us stuff,"
+  },
+  {
+    "start": 1576.76,
+    "end": 1578.76,
+    "text": " we just wouldn't understand the single thing they were saying."
+  },
+  {
+    "start": 1578.76,
+    "end": 1580.76,
+    "text": " And it was a point he was making about language."
+  },
+  {
+    "start": 1580.76,
+    "end": 1582.76,
+    "text": " But it's the point that I always make,"
+  },
+  {
+    "start": 1582.76,
+    "end": 1584.76,
+    "text": " that a lion doesn't even know it's a lion."
+  },
+  {
+    "start": 1584.76,
+    "end": 1586.76,
+    "text": " Don't try and pass yourself off"
+  },
+  {
+    "start": 1586.76,
+    "end": 1588.76,
+    "text": " with the heir to the great philosophy of the 20th century."
+  },
+  {
+    "start": 1588.76,
+    "end": 1590.76,
+    "text": " We see you."
+  },
+  {
+    "start": 1590.76,
+    "end": 1594.76,
+    "text": " Can we talk a bit about his family as well?"
+  },
+  {
+    "start": 1594.76,
+    "end": 1596.76,
+    "text": " So I'm sure you guys came across this book,"
+  },
+  {
+    "start": 1596.76,
+    "end": 1598.76,
+    "text": " \"The House of Wittgenstein,\""
+  },
+  {
+    "start": 1598.76,
+    "end": 1601.76,
+    "text": " which is a book about the entire clan."
+  },
+  {
+    "start": 1601.76,
+    "end": 1603.76,
+    "text": " And it sounds insane."
+  },
+  {
+    "start": 1603.76,
+    "end": 1606.76,
+    "text": " I mean, the book sounds remarkable, but the family also,"
+  },
+  {
+    "start": 1606.76,
+    "end": 1608.76,
+    "text": " they were dreadfully unhappy as people."
+  },
+  {
+    "start": 1608.76,
+    "end": 1610.76,
+    "text": " So he was one of five brothers,"
+  },
+  {
+    "start": 1610.76,
+    "end": 1612.76,
+    "text": " three of whom took their own lives,"
+  },
+  {
+    "start": 1612.76,
+    "end": 1614.76,
+    "text": " and the other two of whom seriously considered it."
+  },
+  {
+    "start": 1614.76,
+    "end": 1618.76,
+    "text": " So the two brothers who didn't were Ludwig and Paul."
+  },
+  {
+    "start": 1618.76,
+    "end": 1621.76,
+    "text": " And Paul was an amazing..."
+  },
+  {
+    "start": 1621.76,
+    "end": 1625.76,
+    "text": " He was a pianist who lost an arm during the First World War,"
+  },
+  {
+    "start": 1625.76,
+    "end": 1629.76,
+    "text": " but stayed as a pianist, a one-armed pianist."
+  },
+  {
+    "start": 1629.76,
+    "end": 1633.76,
+    "text": " And he commissioned one-handed works from lots and lots of composers."
+  },
+  {
+    "start": 1633.76,
+    "end": 1636.76,
+    "text": " So Strauss, Prokofiev, Britton, Ravel,"
+  },
+  {
+    "start": 1636.76,
+    "end": 1638.76,
+    "text": " which could have been a really nice tool"
+  },
+  {
+    "start": 1638.76,
+    "end": 1640.76,
+    "text": " for other pianists with one arm."
+  },
+  {
+    "start": 1640.76,
+    "end": 1644.76,
+    "text": " But he declined permission to other one-armed pianists"
+  },
+  {
+    "start": 1644.76,
+    "end": 1646.76,
+    "text": " to actually play the pieces."
+  },
+  {
+    "start": 1646.76,
+    "end": 1648.76,
+    "text": " This is the worst thing."
+  },
+  {
+    "start": 1648.76,
+    "end": 1650.76,
+    "text": " Even if he couldn't play them himself,"
+  },
+  {
+    "start": 1650.76,
+    "end": 1652.76,
+    "text": " because he found them difficult,"
+  },
+  {
+    "start": 1652.76,
+    "end": 1654.76,
+    "text": " he would not let other people have a go."
+  },
+  {
+    "start": 1654.76,
+    "end": 1656.76,
+    "text": " He wrote back to Prokofiev,"
+  },
+  {
+    "start": 1656.76,
+    "end": 1658.76,
+    "text": " \"Thank you for your concerto,"
+  },
+  {
+    "start": 1658.76,
+    "end": 1660.76,
+    "text": " but I do not understand a single note,"
+  },
+  {
+    "start": 1660.76,
+    "end": 1662.76,
+    "text": " and I shall not play it.\""
+  },
+  {
+    "start": 1662.76,
+    "end": 1665.76,
+    "text": " But he was, because they came from a rich family,"
+  },
+  {
+    "start": 1665.76,
+    "end": 1667.76,
+    "text": " they were all kind of spoiled brats in a way,"
+  },
+  {
+    "start": 1667.76,
+    "end": 1669.76,
+    "text": " except Wittgenstein, who it seems eschewed all that."
+  },
+  {
+    "start": 1669.76,
+    "end": 1672.76,
+    "text": " So Paul eventually had to flee to America"
+  },
+  {
+    "start": 1672.76,
+    "end": 1674.76,
+    "text": " because he had impregnated this woman"
+  },
+  {
+    "start": 1674.76,
+    "end": 1676.76,
+    "text": " who had a piano lesson, in fact, that he was giving her."
+  },
+  {
+    "start": 1676.76,
+    "end": 1678.76,
+    "text": " And so he fled to America."
+  },
+  {
+    "start": 1678.76,
+    "end": 1680.76,
+    "text": " Sorry, during the first piano lesson, he got her pregnant."
+  },
+  {
+    "start": 1680.76,
+    "end": 1682.76,
+    "text": " He should have been just practicing his fingering."
+  },
+  {
+    "start": 1682.76,
+    "end": 1684.76,
+    "text": " [LAUGHS]"
+  },
+  {
+    "start": 1684.76,
+    "end": 1690.76,
+    "text": " So he played the piano differently then."
+  },
+  {
+    "start": 1690.76,
+    "end": 1692.76,
+    "text": " I had so many piano lessons."
+  },
+  {
+    "start": 1692.76,
+    "end": 1694.76,
+    "text": " I mean, not once did you get pregnant."
+  },
+  {
+    "start": 1694.76,
+    "end": 1696.76,
+    "text": " I didn't."
+  },
+  {
+    "start": 1696.76,
+    "end": 1700.76,
+    "text": " So he impregnated this student, fled to America,"
+  },
+  {
+    "start": 1700.76,
+    "end": 1703.76,
+    "text": " and he didn't have a valid once he was in America,"
+  },
+  {
+    "start": 1703.76,
+    "end": 1705.76,
+    "text": " which he wasn't used to, he didn't know how to live without that."
+  },
+  {
+    "start": 1705.76,
+    "end": 1707.76,
+    "text": " So, for instance, he was staying in a hotel,"
+  },
+  {
+    "start": 1707.76,
+    "end": 1709.76,
+    "text": " and he just took off all his clothes"
+  },
+  {
+    "start": 1709.76,
+    "end": 1711.76,
+    "text": " and left them outside the door of the hotel,"
+  },
+  {
+    "start": 1711.76,
+    "end": 1713.76,
+    "text": " assuming that a valid would come and wash them"
+  },
+  {
+    "start": 1713.76,
+    "end": 1715.76,
+    "text": " and return them to him, and they all got stolen."
+  },
+  {
+    "start": 1715.76,
+    "end": 1717.76,
+    "text": " And so..."
+  },
+  {
+    "start": 1717.76,
+    "end": 1719.76,
+    "text": " Wait, surely outside the door of his room,"
+  },
+  {
+    "start": 1719.76,
+    "end": 1721.76,
+    "text": " not outside the door of the hotel."
+  },
+  {
+    "start": 1721.76,
+    "end": 1723.76,
+    "text": " It's also outside the door of his room."
+  },
+  {
+    "start": 1723.76,
+    "end": 1725.76,
+    "text": " Can I also say, if he decided he wanted to get his clothes"
+  },
+  {
+    "start": 1725.76,
+    "end": 1727.76,
+    "text": " washed by a hotel every single time,"
+  },
+  {
+    "start": 1727.76,
+    "end": 1730.76,
+    "text": " then he would have lost the entire family fortune,"
+  },
+  {
+    "start": 1730.76,
+    "end": 1733.76,
+    "text": " within about three weeks, if your experience is anything to go by."
+  },
+  {
+    "start": 1733.76,
+    "end": 1736.76,
+    "text": " Yeah, look, let's not revisit my hotel bill"
+  },
+  {
+    "start": 1736.76,
+    "end": 1738.76,
+    "text": " from our US tour last year."
+  },
+  {
+    "start": 1738.76,
+    "end": 1741.76,
+    "text": " It is a great way to lose your entire family fortune."
+  },
+  {
+    "start": 1741.76,
+    "end": 1743.76,
+    "text": " So reason the tour lost money."
+  },
+  {
+    "start": 1743.76,
+    "end": 1748.76,
+    "text": " But he sat around wearing bedsheets."
+  },
+  {
+    "start": 1748.76,
+    "end": 1750.76,
+    "text": " He just wore a sheet over himself"
+  },
+  {
+    "start": 1750.76,
+    "end": 1752.76,
+    "text": " until someone eventually sort of heard about it"
+  },
+  {
+    "start": 1752.76,
+    "end": 1754.76,
+    "text": " and said, \"Shot me to be your PA,"
+  },
+  {
+    "start": 1754.76,
+    "end": 1756.76,
+    "text": " 'cause it seems you don't know how to live in the world.\""
+  },
+  {
+    "start": 1756.76,
+    "end": 1758.76,
+    "text": " And she was hired."
+  },
+  {
+    "start": 1758.76,
+    "end": 1760.76,
+    "text": " And there was another anecdote about him"
+  },
+  {
+    "start": 1760.76,
+    "end": 1762.76,
+    "text": " walking out into the street and someone had given him a hat."
+  },
+  {
+    "start": 1762.76,
+    "end": 1764.76,
+    "text": " And he was wearing the hat,"
+  },
+  {
+    "start": 1764.76,
+    "end": 1766.76,
+    "text": " but it was still attached to its hat box."
+  },
+  {
+    "start": 1766.76,
+    "end": 1768.76,
+    "text": " 'Cause he didn't know,"
+  },
+  {
+    "start": 1768.76,
+    "end": 1770.76,
+    "text": " I guess, how to put on his own hat?"
+  },
+  {
+    "start": 1770.76,
+    "end": 1772.76,
+    "text": " Wow, that is posh."
+  },
+  {
+    "start": 1772.76,
+    "end": 1774.76,
+    "text": " What about Gretel, we mentioned her earlier,"
+  },
+  {
+    "start": 1774.76,
+    "end": 1776.76,
+    "text": " who was the person who bought the house"
+  },
+  {
+    "start": 1776.76,
+    "end": 1778.76,
+    "text": " which Wittgenstein designed?"
+  },
+  {
+    "start": 1778.76,
+    "end": 1781.76,
+    "text": " She found it by following a trail of sweets to the door, didn't she?"
+  },
+  {
+    "start": 1781.76,
+    "end": 1787.76,
+    "text": " So Gretel was the subject of a portrait by Gustav Klimt,"
+  },
+  {
+    "start": 1787.76,
+    "end": 1789.76,
+    "text": " and, you know, Klimt"
+  },
+  {
+    "start": 1789.76,
+    "end": 1791.76,
+    "text": " one of the greatest artists of the early 20th century,"
+  },
+  {
+    "start": 1791.76,
+    "end": 1793.76,
+    "text": " but she just hated it,"
+  },
+  {
+    "start": 1793.76,
+    "end": 1795.76,
+    "text": " and so she just kept it in her attic."
+  },
+  {
+    "start": 1795.76,
+    "end": 1797.76,
+    "text": " I mean, you know,"
+  },
+  {
+    "start": 1797.76,
+    "end": 1799.76,
+    "text": " fancy having your portrait drawn by Klimt"
+  },
+  {
+    "start": 1799.76,
+    "end": 1801.76,
+    "text": " and then just thinking, \"I don't like it very much.\""
+  },
+  {
+    "start": 1801.76,
+    "end": 1803.76,
+    "text": " Have we, is it out of the attic yet?"
+  },
+  {
+    "start": 1803.76,
+    "end": 1805.76,
+    "text": " Do we know what it's like?"
+  },
+  {
+    "start": 1805.76,
+    "end": 1807.76,
+    "text": " Maybe he was having a really bad day."
+  },
+  {
+    "start": 1807.76,
+    "end": 1809.76,
+    "text": " No, it's good, I think it's good."
+  },
+  {
+    "start": 1809.76,
+    "end": 1811.76,
+    "text": " I mean, she has quite a long neck in it, but..."
+  },
+  {
+    "start": 1811.76,
+    "end": 1813.76,
+    "text": " That might be."
+  },
+  {
+    "start": 1813.76,
+    "end": 1815.76,
+    "text": " Not the Diddlyani long,"
+  },
+  {
+    "start": 1815.76,
+    "end": 1817.76,
+    "text": " just like it's slightly longer than a normal person's neck."
+  },
+  {
+    "start": 1817.76,
+    "end": 1819.76,
+    "text": " She's still fitting into..."
+  },
+  {
+    "start": 1819.76,
+    "end": 1821.76,
+    "text": " onto the canvas, right?"
+  },
+  {
+    "start": 1821.76,
+    "end": 1823.76,
+    "text": " It's not such a long neck."
+  },
+  {
+    "start": 1823.76,
+    "end": 1825.76,
+    "text": " She had to chop off the top of her head."
+  },
+  {
+    "start": 1825.76,
+    "end": 1827.76,
+    "text": " She had to chop off the hat box at the top."
+  },
+  {
+    "start": 1827.76,
+    "end": 1831.76,
+    "text": " She wasn't very nice, I don't think."
+  },
+  {
+    "start": 1831.76,
+    "end": 1833.76,
+    "text": " Well, she was a bit of a Nazi, wasn't she?"
+  },
+  {
+    "start": 1833.76,
+    "end": 1835.76,
+    "text": " In fact, both the sisters were a bit..."
+  },
+  {
+    "start": 1835.76,
+    "end": 1837.76,
+    "text": " had Nazi tendencies, and in fact,"
+  },
+  {
+    "start": 1837.76,
+    "end": 1839.76,
+    "text": " sided with the fascists against Paul"
+  },
+  {
+    "start": 1839.76,
+    "end": 1841.76,
+    "text": " and gave away a lot of their fortune to the Nazis."
+  },
+  {
+    "start": 1841.76,
+    "end": 1843.76,
+    "text": " And they all kind of hated each other, the siblings."
+  },
+  {
+    "start": 1843.76,
+    "end": 1845.76,
+    "text": " They ended up variously estranged from each other,"
+  },
+  {
+    "start": 1845.76,
+    "end": 1847.76,
+    "text": " as well as all sort of committing suicide."
+  },
+  {
+    "start": 1847.76,
+    "end": 1849.76,
+    "text": " It's a very sad family."
+  },
+  {
+    "start": 1849.76,
+    "end": 1851.76,
+    "text": " There was a lot of, obviously,"
+  },
+  {
+    "start": 1851.76,
+    "end": 1853.76,
+    "text": " there was a lot of Nazism about at the time."
+  },
+  {
+    "start": 1853.76,
+    "end": 1855.76,
+    "text": " Ludwig was actually a classmate of Adolf Hitler's."
+  },
+  {
+    "start": 1855.76,
+    "end": 1857.76,
+    "text": " No. Yeah."
+  },
+  {
+    "start": 1857.76,
+    "end": 1859.76,
+    "text": " Was he? Wow. He was."
+  },
+  {
+    "start": 1859.76,
+    "end": 1861.76,
+    "text": " They were at the same age and they were at the same school,"
+  },
+  {
+    "start": 1861.76,
+    "end": 1863.76,
+    "text": " but Wittgenstein was put forward a year"
+  },
+  {
+    "start": 1863.76,
+    "end": 1865.76,
+    "text": " and Hitler was taken back a year."
+  },
+  {
+    "start": 1865.76,
+    "end": 1867.76,
+    "text": " Dodged a bullet."
+  },
+  {
+    "start": 1867.76,
+    "end": 1869.76,
+    "text": " So... Hitler was taken back a year?"
+  },
+  {
+    "start": 1869.76,
+    "end": 1871.76,
+    "text": " Yeah, yeah. Oh, wow."
+  },
+  {
+    "start": 1871.76,
+    "end": 1873.76,
+    "text": " So they ended up two years apart."
+  },
+  {
+    "start": 1873.76,
+    "end": 1875.76,
+    "text": " Yeah, exactly, even though they're the same age."
+  },
+  {
+    "start": 1875.76,
+    "end": 1877.76,
+    "text": " So they probably wouldn't have known each other."
+  },
+  {
+    "start": 1877.76,
+    "end": 1879.76,
+    "text": " No, they knew each other. It was a small school."
+  },
+  {
+    "start": 1879.76,
+    "end": 1881.76,
+    "text": " Small schools. Oh, OK. That was embarrassing for Hitler."
+  },
+  {
+    "start": 1881.76,
+    "end": 1883.76,
+    "text": " That's like Dom Jollien or Summer bin Laden."
+  },
+  {
+    "start": 1883.76,
+    "end": 1885.76,
+    "text": " Yeah. They were at the same school."
+  },
+  {
+    "start": 1885.76,
+    "end": 1887.76,
+    "text": " Dom Jollien and Summer bin Laden went to the same school."
+  },
+  {
+    "start": 1887.76,
+    "end": 1889.76,
+    "text": " Yeah, they went to the same school."
+  },
+  {
+    "start": 1889.76,
+    "end": 1891.76,
+    "text": " I can see that you're kind of putting Osama bin Laden"
+  },
+  {
+    "start": 1891.76,
+    "end": 1893.76,
+    "text": " and Hitler in the same bracket,"
+  },
+  {
+    "start": 1893.76,
+    "end": 1895.76,
+    "text": " but Dom Jollien, Ludwig Wittgenstein, I'm not..."
+  },
+  {
+    "start": 1895.76,
+    "end": 1897.76,
+    "text": " I mean, he's a great comedian, but..."
+  },
+  {
+    "start": 1897.76,
+    "end": 1899.76,
+    "text": " Trigger Happy TV is the track artist"
+  },
+  {
+    "start": 1899.76,
+    "end": 1901.76,
+    "text": " and Roger Koch is the author because of its date,"
+  },
+  {
+    "start": 1901.76,
+    "end": 1903.76,
+    "text": " in my opinion."
+  },
+  {
+    "start": 1903.76,
+    "end": 1905.76,
+    "text": " He was another one who recorded when he masturbated."
+  },
+  {
+    "start": 1905.76,
+    "end": 1907.76,
+    "text": " Oh, good."
+  },
+  {
+    "start": 1907.76,
+    "end": 1909.76,
+    "text": " Wittgenstein."
+  },
+  {
+    "start": 1909.76,
+    "end": 1911.76,
+    "text": " Before I think."
+  },
+  {
+    "start": 1911.76,
+    "end": 1913.76,
+    "text": " Who did we mention had done it in a previous episode?"
+  },
+  {
+    "start": 1913.76,
+    "end": 1915.76,
+    "text": " Was it Hook?"
+  },
+  {
+    "start": 1915.76,
+    "end": 1917.76,
+    "text": " Yes, that's it."
+  },
+  {
+    "start": 1917.76,
+    "end": 1919.76,
+    "text": " But Wittgenstein continued that tradition"
+  },
+  {
+    "start": 1919.76,
+    "end": 1921.76,
+    "text": " and he wrote in his diary during World War I."
+  },
+  {
+    "start": 1921.76,
+    "end": 1923.76,
+    "text": " He would write in his diary when he'd masturbated."
+  },
+  {
+    "start": 1923.76,
+    "end": 1925.76,
+    "text": " And actually, this is a..."
+  },
+  {
+    "start": 1925.76,
+    "end": 1927.76,
+    "text": " I couldn't find a verification of this"
+  },
+  {
+    "start": 1927.76,
+    "end": 1929.76,
+    "text": " but I think we trust him."
+  },
+  {
+    "start": 1929.76,
+    "end": 1931.76,
+    "text": " And he said that Wittgenstein used to get annoyed"
+  },
+  {
+    "start": 1931.76,
+    "end": 1933.76,
+    "text": " because his fantasies while he was masturbating"
+  },
+  {
+    "start": 1933.76,
+    "end": 1935.76,
+    "text": " kept on being plagued by mass problems."
+  },
+  {
+    "start": 1935.76,
+    "end": 1937.76,
+    "text": " And he found this very annoying."
+  },
+  {
+    "start": 1937.76,
+    "end": 1939.76,
+    "text": " Distracting. I think it's a problem that we've all had."
+  },
+  {
+    "start": 1939.76,
+    "end": 1943.76,
+    "text": " He wouldn't be the first person to be thinking about an ex."
+  },
+  {
+    "start": 1943.76,
+    "end": 1947.76,
+    "text": " Very strong. Wonderful."
+  },
+  {
+    "start": 1947.76,
+    "end": 1956.76,
+    "text": " OK, it is time for fact number three, and that is Andy."
+  },
+  {
+    "start": 1956.76,
+    "end": 1958.76,
+    "text": " My fact is that in 1801,"
+  },
+  {
+    "start": 1958.76,
+    "end": 1962.76,
+    "text": " England had a celebrity ox which had its own coach and horses."
+  },
+  {
+    "start": 1962.76,
+    "end": 1964.76,
+    "text": " Amazing."
+  },
+  {
+    "start": 1964.76,
+    "end": 1967.76,
+    "text": " Yeah, so this is from a great book"
+  },
+  {
+    "start": 1967.76,
+    "end": 1970.76,
+    "text": " called Jane Austen's Country Life by Deirdre Le Fay,"
+  },
+  {
+    "start": 1970.76,
+    "end": 1972.76,
+    "text": " which is all about life in rural England"
+  },
+  {
+    "start": 1972.76,
+    "end": 1974.76,
+    "text": " in the early 19th century."
+  },
+  {
+    "start": 1974.76,
+    "end": 1978.76,
+    "text": " And there was this ox which had been bred"
+  },
+  {
+    "start": 1978.76,
+    "end": 1982.76,
+    "text": " by a man called Charles Colling of Kettenhall in Durham."
+  },
+  {
+    "start": 1982.76,
+    "end": 1985.76,
+    "text": " And it was known as the Kettenhawks at first,"
+  },
+  {
+    "start": 1985.76,
+    "end": 1988.76,
+    "text": " and then it was renamed, so it became the Durham ox."
+  },
+  {
+    "start": 1988.76,
+    "end": 1990.76,
+    "text": " And Colling was interested in cattle breeding,"
+  },
+  {
+    "start": 1990.76,
+    "end": 1992.76,
+    "text": " and he was one of the pioneers of breeding animals"
+  },
+  {
+    "start": 1992.76,
+    "end": 1994.76,
+    "text": " to make them really, really big."
+  },
+  {
+    "start": 1994.76,
+    "end": 1998.76,
+    "text": " And the Durham ox was a huge success,"
+  },
+  {
+    "start": 1998.76,
+    "end": 2001.76,
+    "text": " and I mean that in every sense."
+  },
+  {
+    "start": 2001.76,
+    "end": 2008.76,
+    "text": " It was reported as being between 170 stone and 270 stone."
+  },
+  {
+    "start": 2008.76,
+    "end": 2010.76,
+    "text": " Stones weren't standardized at the time,"
+  },
+  {
+    "start": 2010.76,
+    "end": 2014.76,
+    "text": " but it was well over 1,000 kilos, this bull."
+  },
+  {
+    "start": 2014.76,
+    "end": 2018.76,
+    "text": " And it was about four times the size of a modern cow, basically."
+  },
+  {
+    "start": 2018.76,
+    "end": 2019.76,
+    "text": " It was really big."
+  },
+  {
+    "start": 2019.76,
+    "end": 2021.76,
+    "text": " It was impressive. It sounds impressive."
+  },
+  {
+    "start": 2021.76,
+    "end": 2023.76,
+    "text": " Because cows are big already. They're quite big."
+  },
+  {
+    "start": 2023.76,
+    "end": 2024.76,
+    "text": " Cows are big."
+  },
+  {
+    "start": 2024.76,
+    "end": 2026.76,
+    "text": " Yeah, it's interesting because now there's a lot of pressure"
+  },
+  {
+    "start": 2026.76,
+    "end": 2028.76,
+    "text": " on celebrities to lose weight,"
+  },
+  {
+    "start": 2028.76,
+    "end": 2030.76,
+    "text": " but it sounds like back in the day,"
+  },
+  {
+    "start": 2030.76,
+    "end": 2033.76,
+    "text": " there was a lot of pressure on celebrities to be as heavy as possible."
+  },
+  {
+    "start": 2033.76,
+    "end": 2034.76,
+    "text": " That's very true."
+  },
+  {
+    "start": 2034.76,
+    "end": 2035.76,
+    "text": " So that's something that's changed,"
+  },
+  {
+    "start": 2035.76,
+    "end": 2038.76,
+    "text": " as well as the fact that celebrities have cows back today."
+  },
+  {
+    "start": 2038.76,
+    "end": 2040.76,
+    "text": " Can I just say a fact about a celebrity animal?"
+  },
+  {
+    "start": 2040.76,
+    "end": 2042.76,
+    "text": " Because I was going to do this as my fact next week,"
+  },
+  {
+    "start": 2042.76,
+    "end": 2045.76,
+    "text": " but I think I'll say it now anyway to see what happens."
+  },
+  {
+    "start": 2045.76,
+    "end": 2049.76,
+    "text": " In the third series of French Big Brother,"
+  },
+  {
+    "start": 2049.76,
+    "end": 2053.76,
+    "text": " one of the housemates was a dog."
+  },
+  {
+    "start": 2053.76,
+    "end": 2054.76,
+    "text": " Really?"
+  },
+  {
+    "start": 2054.76,
+    "end": 2056.76,
+    "text": " And it was a dog called Saucisse."
+  },
+  {
+    "start": 2056.76,
+    "end": 2060.76,
+    "text": " And part of the rules were you had to have a secret,"
+  },
+  {
+    "start": 2060.76,
+    "end": 2063.76,
+    "text": " and all of the housemates had to work out what your secret was."
+  },
+  {
+    "start": 2063.76,
+    "end": 2067.76,
+    "text": " And Saucisse's secret was that he once ran for the mayor of Marseille."
+  },
+  {
+    "start": 2067.76,
+    "end": 2070.76,
+    "text": " And did he spill it on the first day?"
+  },
+  {
+    "start": 2070.76,
+    "end": 2076.76,
+    "text": " Did they have to work out what the secret was, did you say?"
+  },
+  {
+    "start": 2076.76,
+    "end": 2078.76,
+    "text": " Yeah, they had to work out each other's secrets."
+  },
+  {
+    "start": 2078.76,
+    "end": 2083.76,
+    "text": " That is absolutely impossible to work out from what the dog's giving you."
+  },
+  {
+    "start": 2083.76,
+    "end": 2086.76,
+    "text": " I know what you mean, but Saucisse, the dog,"
+  },
+  {
+    "start": 2086.76,
+    "end": 2089.76,
+    "text": " doesn't really have an ability to form complex thoughts."
+  },
+  {
+    "start": 2089.76,
+    "end": 2091.76,
+    "text": " So he's also a disadvantage."
+  },
+  {
+    "start": 2091.76,
+    "end": 2093.76,
+    "text": " Well, it's like Vik Gunnstein said."
+  },
+  {
+    "start": 2093.76,
+    "end": 2095.76,
+    "text": " He said, \"If Saucisse the dog could talk,"
+  },
+  {
+    "start": 2095.76,
+    "end": 2100.76,
+    "text": " we wouldn't understand his platform to be the mayor of Marseille.\""
+  },
+  {
+    "start": 2100.76,
+    "end": 2101.76,
+    "text": " Sorry, Andy."
+  },
+  {
+    "start": 2101.76,
+    "end": 2102.76,
+    "text": " We should talk about the arcs."
+  },
+  {
+    "start": 2102.76,
+    "end": 2107.76,
+    "text": " No, actually, genuinely, I'm quite interested in talking more about Saucisse."
+  },
+  {
+    "start": 2107.76,
+    "end": 2108.76,
+    "text": " Where did he place?"
+  },
+  {
+    "start": 2108.76,
+    "end": 2110.76,
+    "text": " Where did he place in the final?"
+  },
+  {
+    "start": 2110.76,
+    "end": 2111.76,
+    "text": " I can't remember."
+  },
+  {
+    "start": 2111.76,
+    "end": 2116.76,
+    "text": " I haven't done the research on it because it isn't one of my facts yet for the show."
+  },
+  {
+    "start": 2116.76,
+    "end": 2120.76,
+    "text": " So, anyway, that's now comparatively dull ox,"
+  },
+  {
+    "start": 2120.76,
+    "end": 2124.76,
+    "text": " which never, as far as I can tell, ran for elected office anywhere, lazy."
+  },
+  {
+    "start": 2124.76,
+    "end": 2128.76,
+    "text": " But it was bought by a man called John Day for a couple of hundred quid."
+  },
+  {
+    "start": 2128.76,
+    "end": 2133.76,
+    "text": " And it had a special carriage, and it was pulled around by four horses."
+  },
+  {
+    "start": 2133.76,
+    "end": 2136.76,
+    "text": " It toured England and Scotland for five years."
+  },
+  {
+    "start": 2136.76,
+    "end": 2140.76,
+    "text": " It played 200 different venues across the UK."
+  },
+  {
+    "start": 2140.76,
+    "end": 2141.76,
+    "text": " It's amazing."
+  },
+  {
+    "start": 2141.76,
+    "end": 2143.76,
+    "text": " Many more gigs than we have done as a podcast."
+  },
+  {
+    "start": 2143.76,
+    "end": 2144.76,
+    "text": " Put it that way."
+  },
+  {
+    "start": 2144.76,
+    "end": 2146.76,
+    "text": " Yeah, it played international gigs as well."
+  },
+  {
+    "start": 2146.76,
+    "end": 2149.76,
+    "text": " It played Madison Square Garden, which it did."
+  },
+  {
+    "start": 2149.76,
+    "end": 2150.76,
+    "text": " Exactly."
+  },
+  {
+    "start": 2150.76,
+    "end": 2151.76,
+    "text": " It played Madison Square Garden."
+  },
+  {
+    "start": 2151.76,
+    "end": 2152.76,
+    "text": " So a couple of weeks ago."
+  },
+  {
+    "start": 2152.76,
+    "end": 2153.76,
+    "text": " Hang on."
+  },
+  {
+    "start": 2153.76,
+    "end": 2156.76,
+    "text": " I've mixed up my famous celebrity oxes."
+  },
+  {
+    "start": 2156.76,
+    "end": 2157.76,
+    "text": " Yeah."
+  },
+  {
+    "start": 2157.76,
+    "end": 2158.76,
+    "text": " It was a different ox."
+  },
+  {
+    "start": 2158.76,
+    "end": 2159.76,
+    "text": " Very sorry."
+  },
+  {
+    "start": 2159.76,
+    "end": 2160.76,
+    "text": " Back out on that one."
+  },
+  {
+    "start": 2160.76,
+    "end": 2161.76,
+    "text": " OK."
+  },
+  {
+    "start": 2161.76,
+    "end": 2163.76,
+    "text": " I can't wait to hear about this other celebrity ox."
+  },
+  {
+    "start": 2163.76,
+    "end": 2166.76,
+    "text": " That's a spoiler for later in the show, yeah."
+  },
+  {
+    "start": 2166.76,
+    "end": 2169.76,
+    "text": " It wasn't just size that it was renowned for."
+  },
+  {
+    "start": 2169.76,
+    "end": 2171.76,
+    "text": " You can't just be big."
+  },
+  {
+    "start": 2171.76,
+    "end": 2173.76,
+    "text": " It was also symmetry, apparently."
+  },
+  {
+    "start": 2173.76,
+    "end": 2174.76,
+    "text": " They're the two attributes."
+  },
+  {
+    "start": 2174.76,
+    "end": 2176.76,
+    "text": " And if you look at news articles from the time,"
+  },
+  {
+    "start": 2176.76,
+    "end": 2178.76,
+    "text": " it's always about its size and its symmetry."
+  },
+  {
+    "start": 2178.76,
+    "end": 2181.76,
+    "text": " So you had to be balanced on each side."
+  },
+  {
+    "start": 2181.76,
+    "end": 2184.76,
+    "text": " And it was, bulls would be advertised as having been"
+  },
+  {
+    "start": 2184.76,
+    "end": 2186.76,
+    "text": " sired by the Durham ox, wouldn't they?"
+  },
+  {
+    "start": 2186.76,
+    "end": 2188.76,
+    "text": " And there was sort of like a type of ox"
+  },
+  {
+    "start": 2188.76,
+    "end": 2190.76,
+    "text": " that was called Durham ox after this."
+  },
+  {
+    "start": 2190.76,
+    "end": 2194.76,
+    "text": " He was so famous that he became his own breed, I suppose."
+  },
+  {
+    "start": 2194.76,
+    "end": 2198.76,
+    "text": " Well, do you know about the breeding of his parentage?"
+  },
+  {
+    "start": 2198.76,
+    "end": 2199.76,
+    "text": " Please tell us."
+  },
+  {
+    "start": 2199.76,
+    "end": 2201.76,
+    "text": " It's very incest heavy."
+  },
+  {
+    "start": 2201.76,
+    "end": 2204.76,
+    "text": " This honestly makes Game of Thrones look like Rosie and Jim."
+  },
+  {
+    "start": 2204.76,
+    "end": 2207.76,
+    "text": " So there was a bull called Favourite,"
+  },
+  {
+    "start": 2207.76,
+    "end": 2209.76,
+    "text": " who was bred with his own mother."
+  },
+  {
+    "start": 2209.76,
+    "end": 2211.76,
+    "text": " His mother was called Phoenix."
+  },
+  {
+    "start": 2211.76,
+    "end": 2213.76,
+    "text": " They produced a cow who was called Young Phoenix."
+  },
+  {
+    "start": 2213.76,
+    "end": 2215.76,
+    "text": " So Favourite had been bred with his own mum"
+  },
+  {
+    "start": 2215.76,
+    "end": 2218.76,
+    "text": " to produce his daughter/sister, Young Phoenix."
+  },
+  {
+    "start": 2218.76,
+    "end": 2221.76,
+    "text": " But then Favourite was bred with his own daughter/sister,"
+  },
+  {
+    "start": 2221.76,
+    "end": 2224.76,
+    "text": " Young Phoenix, to produce the Durham ox."
+  },
+  {
+    "start": 2224.76,
+    "end": 2228.76,
+    "text": " So as far as I can tell, the Durham ox's dad was his grandfather"
+  },
+  {
+    "start": 2228.76,
+    "end": 2230.76,
+    "text": " and his mum was his half-sister."
+  },
+  {
+    "start": 2230.76,
+    "end": 2233.76,
+    "text": " Yeah. Or you could say that Young Phoenix was simultaneously"
+  },
+  {
+    "start": 2233.76,
+    "end": 2236.76,
+    "text": " Favourite's daughter/sister and sexual partner."
+  },
+  {
+    "start": 2236.76,
+    "end": 2238.76,
+    "text": " Oh, boy."
+  },
+  {
+    "start": 2238.76,
+    "end": 2239.76,
+    "text": " Nice."
+  },
+  {
+    "start": 2239.76,
+    "end": 2241.76,
+    "text": " Well, it saves on giving presents a Christmas time, doesn't it?"
+  },
+  {
+    "start": 2241.76,
+    "end": 2245.76,
+    "text": " What are you going to get?"
+  },
+  {
+    "start": 2245.76,
+    "end": 2248.76,
+    "text": " Your daughter/sister mum and sexual partner."
+  },
+  {
+    "start": 2248.76,
+    "end": 2250.76,
+    "text": " Probably just going to a necklace."
+  },
+  {
+    "start": 2250.76,
+    "end": 2252.76,
+    "text": " It worked in breeding."
+  },
+  {
+    "start": 2252.76,
+    "end": 2255.76,
+    "text": " I mean, if what you're going for is massive cow,"
+  },
+  {
+    "start": 2255.76,
+    "end": 2257.76,
+    "text": " then it did well."
+  },
+  {
+    "start": 2257.76,
+    "end": 2259.76,
+    "text": " You didn't want to get any genes involved that were inferior."
+  },
+  {
+    "start": 2259.76,
+    "end": 2260.76,
+    "text": " True."
+  },
+  {
+    "start": 2260.76,
+    "end": 2262.76,
+    "text": " And I think it was pioneered first by a guy called Robert Bakewell,"
+  },
+  {
+    "start": 2262.76,
+    "end": 2265.76,
+    "text": " who was this massive guy in the agricultural revolution"
+  },
+  {
+    "start": 2265.76,
+    "end": 2268.76,
+    "text": " who sort of made all his cows chag each other"
+  },
+  {
+    "start": 2268.76,
+    "end": 2270.76,
+    "text": " within their own families."
+  },
+  {
+    "start": 2270.76,
+    "end": 2273.76,
+    "text": " And he revolutionised selective breeding, really."
+  },
+  {
+    "start": 2273.76,
+    "end": 2275.76,
+    "text": " And Darwin cited him quite a lot."
+  },
+  {
+    "start": 2275.76,
+    "end": 2277.76,
+    "text": " And he was incredible at building cows"
+  },
+  {
+    "start": 2277.76,
+    "end": 2280.76,
+    "text": " to the ideal size and shape."
+  },
+  {
+    "start": 2280.76,
+    "end": 2283.76,
+    "text": " The Durham ox has an entire town in Australia named after it."
+  },
+  {
+    "start": 2283.76,
+    "end": 2284.76,
+    "text": " It's called Durham Ox."
+  },
+  {
+    "start": 2284.76,
+    "end": 2286.76,
+    "text": " It's got 74 people living there."
+  },
+  {
+    "start": 2286.76,
+    "end": 2289.76,
+    "text": " And I went on the Australia's Guide website,"
+  },
+  {
+    "start": 2289.76,
+    "end": 2292.76,
+    "text": " which says there is one thing to do within 20 kilometres,"
+  },
+  {
+    "start": 2292.76,
+    "end": 2295.76,
+    "text": " and that thing is a jumper shop."
+  },
+  {
+    "start": 2295.76,
+    "end": 2297.76,
+    "text": " So it's quiet."
+  },
+  {
+    "start": 2297.76,
+    "end": 2298.76,
+    "text": " Did you say a jumper shop?"
+  },
+  {
+    "start": 2298.76,
+    "end": 2299.76,
+    "text": " Yeah."
+  },
+  {
+    "start": 2299.76,
+    "end": 2300.76,
+    "text": " It's in a shop that sells jumpers."
+  },
+  {
+    "start": 2300.76,
+    "end": 2301.76,
+    "text": " Sorry."
+  },
+  {
+    "start": 2301.76,
+    "end": 2304.76,
+    "text": " The jumper shop is the nearest local attraction."
+  },
+  {
+    "start": 2304.76,
+    "end": 2309.76,
+    "text": " But it's the safest place to live in the state of Victoria."
+  },
+  {
+    "start": 2309.76,
+    "end": 2314.76,
+    "text": " So in 2015, the news reported that there had been just seven crimes"
+  },
+  {
+    "start": 2314.76,
+    "end": 2316.76,
+    "text": " in five years."
+  },
+  {
+    "start": 2316.76,
+    "end": 2317.76,
+    "text": " Wow."
+  },
+  {
+    "start": 2317.76,
+    "end": 2319.76,
+    "text": " This is how it broke down."
+  },
+  {
+    "start": 2319.76,
+    "end": 2320.76,
+    "text": " 2014."
+  },
+  {
+    "start": 2320.76,
+    "end": 2323.76,
+    "text": " There was no jumper theft, as far as I can tell."
+  },
+  {
+    "start": 2323.76,
+    "end": 2325.76,
+    "text": " 2014, there was an arson thing."
+  },
+  {
+    "start": 2325.76,
+    "end": 2327.76,
+    "text": " That was quite a serious crime."
+  },
+  {
+    "start": 2327.76,
+    "end": 2329.76,
+    "text": " 2013, no crimes."
+  },
+  {
+    "start": 2329.76,
+    "end": 2331.76,
+    "text": " 2012, no crimes."
+  },
+  {
+    "start": 2331.76,
+    "end": 2334.76,
+    "text": " 2011, there was one drug offence."
+  },
+  {
+    "start": 2334.76,
+    "end": 2337.76,
+    "text": " But in 2010, there was an abduction."
+  },
+  {
+    "start": 2337.76,
+    "end": 2338.76,
+    "text": " There was arson."
+  },
+  {
+    "start": 2338.76,
+    "end": 2340.76,
+    "text": " There was a weapon and explosives offence."
+  },
+  {
+    "start": 2340.76,
+    "end": 2343.76,
+    "text": " And there were two counts of disorderly and offensive conduct."
+  },
+  {
+    "start": 2343.76,
+    "end": 2346.76,
+    "text": " It sounds like the biggest year in Durham Oaks's history ever."
+  },
+  {
+    "start": 2346.76,
+    "end": 2349.76,
+    "text": " But wait, was that all one event?"
+  },
+  {
+    "start": 2349.76,
+    "end": 2351.76,
+    "text": " Kind of like, \"This is my sister, I love her.\""
+  },
+  {
+    "start": 2351.76,
+    "end": 2356.76,
+    "text": " Didn't mention any incest-related crimes."
+  },
+  {
+    "start": 2356.76,
+    "end": 2362.76,
+    "text": " Do you know what the second most safe place in Victoria is?"
+  },
+  {
+    "start": 2362.76,
+    "end": 2363.76,
+    "text": " No."
+  },
+  {
+    "start": 2363.76,
+    "end": 2365.76,
+    "text": " I thought I might as well check it out."
+  },
+  {
+    "start": 2365.76,
+    "end": 2367.76,
+    "text": " You really go the extra mile."
+  },
+  {
+    "start": 2367.76,
+    "end": 2368.76,
+    "text": " This is brilliant."
+  },
+  {
+    "start": 2368.76,
+    "end": 2371.76,
+    "text": " So this is a place called Speed."
+  },
+  {
+    "start": 2371.76,
+    "end": 2374.76,
+    "text": " Okay, so again, they've had very, very few crimes."
+  },
+  {
+    "start": 2374.76,
+    "end": 2375.76,
+    "text": " It's a very small place."
+  },
+  {
+    "start": 2375.76,
+    "end": 2379.76,
+    "text": " But one thing that they did used to have a problem with was speeding,"
+  },
+  {
+    "start": 2379.76,
+    "end": 2383.76,
+    "text": " because when you drive into speed, it's on a main road,"
+  },
+  {
+    "start": 2383.76,
+    "end": 2386.76,
+    "text": " there's a big sign that says, \"Welcome to speed.\""
+  },
+  {
+    "start": 2386.76,
+    "end": 2390.76,
+    "text": " People took that as an invitation"
+  },
+  {
+    "start": 2390.76,
+    "end": 2393.76,
+    "text": " and would start going really fast in the town."
+  },
+  {
+    "start": 2393.76,
+    "end": 2397.76,
+    "text": " And so in 2011, the residents of Speed started a campaign"
+  },
+  {
+    "start": 2397.76,
+    "end": 2401.76,
+    "text": " to get the name of the town changed to Speed Kills."
+  },
+  {
+    "start": 2401.76,
+    "end": 2403.76,
+    "text": " And they got 32,000 likes on Facebook"
+  },
+  {
+    "start": 2403.76,
+    "end": 2406.76,
+    "text": " to try and get their name changed."
+  },
+  {
+    "start": 2406.76,
+    "end": 2410.76,
+    "text": " And in the end, they renamed the town for one month to Speed Kills."
+  },
+  {
+    "start": 2410.76,
+    "end": 2416.76,
+    "text": " And as part of the campaign, there was a local farmer called Phil Down,"
+  },
+  {
+    "start": 2416.76,
+    "end": 2419.76,
+    "text": " and he changed his name to Phil Slowdown."
+  },
+  {
+    "start": 2424.76,
+    "end": 2428.76,
+    "text": " No, that's the secondest place in Victoria."
+  },
+  {
+    "start": 2428.76,
+    "end": 2432.76,
+    "text": " Durham Ox had a sort of quite sad end in a way."
+  },
+  {
+    "start": 2432.76,
+    "end": 2433.76,
+    "text": " Well, it died, yeah."
+  },
+  {
+    "start": 2433.76,
+    "end": 2438.76,
+    "text": " Yeah, so it dislocated its hip while being let out of the carriage,"
+  },
+  {
+    "start": 2438.76,
+    "end": 2442.76,
+    "text": " the famous carriage that we've spoken about, while in Oxford."
+  },
+  {
+    "start": 2442.76,
+    "end": 2444.76,
+    "text": " And it had to be slaughtered two months later."
+  },
+  {
+    "start": 2444.76,
+    "end": 2448.76,
+    "text": " But day, ever the showman turned that into an event itself."
+  },
+  {
+    "start": 2448.76,
+    "end": 2451.76,
+    "text": " And I believe, correct me if I'm wrong guys,"
+  },
+  {
+    "start": 2451.76,
+    "end": 2454.76,
+    "text": " there was an autopsy which was sort of shown to the public"
+  },
+  {
+    "start": 2454.76,
+    "end": 2457.76,
+    "text": " on the day that it had died."
+  },
+  {
+    "start": 2457.76,
+    "end": 2460.76,
+    "text": " And I think they might have shown,"
+  },
+  {
+    "start": 2460.76,
+    "end": 2463.76,
+    "text": " you might have been able to buy a ticket to watch it die, basically."
+  },
+  {
+    "start": 2463.76,
+    "end": 2465.76,
+    "text": " To watch it die, yeah."
+  },
+  {
+    "start": 2465.76,
+    "end": 2467.76,
+    "text": " But then it was, yeah, and then it was chopped up."
+  },
+  {
+    "start": 2467.76,
+    "end": 2472.76,
+    "text": " And part of the merch stand that he set up was selling offcuts"
+  },
+  {
+    "start": 2472.76,
+    "end": 2474.76,
+    "text": " of the Durham Ox, yeah."
+  },
+  {
+    "start": 2474.76,
+    "end": 2475.76,
+    "text": " I don't think that's cool."
+  },
+  {
+    "start": 2475.76,
+    "end": 2477.76,
+    "text": " When you go to a butcher, I don't think you say,"
+  },
+  {
+    "start": 2477.76,
+    "end": 2479.76,
+    "text": " you know, can you go to a merch stand over there"
+  },
+  {
+    "start": 2479.76,
+    "end": 2481.76,
+    "text": " and get a lot of land, please?"
+  },
+  {
+    "start": 2481.76,
+    "end": 2484.76,
+    "text": " It's not branded."
+  },
+  {
+    "start": 2484.76,
+    "end": 2486.76,
+    "text": " Well, it could be branded if it's a catalog."
+  },
+  {
+    "start": 2486.76,
+    "end": 2487.76,
+    "text": " Somewhere will be, yeah."
+  },
+  {
+    "start": 2487.76,
+    "end": 2489.76,
+    "text": " Yeah, OK."
+  },
+  {
+    "start": 2489.76,
+    "end": 2491.76,
+    "text": " I found another famous ox,"
+  },
+  {
+    "start": 2491.76,
+    "end": 2493.76,
+    "text": " actually a couple of famous oxes,"
+  },
+  {
+    "start": 2493.76,
+    "end": 2494.76,
+    "text": " and this was over in America."
+  },
+  {
+    "start": 2494.76,
+    "end": 2499.76,
+    "text": " There was two oxen called Mount Cotardin and A Granger,"
+  },
+  {
+    "start": 2499.76,
+    "end": 2501.76,
+    "text": " named after the two biggest things."
+  },
+  {
+    "start": 2501.76,
+    "end": 2502.76,
+    "text": " Sorry."
+  },
+  {
+    "start": 2502.76,
+    "end": 2504.76,
+    "text": " Does anyone else feel a Madison Square?"
+  },
+  {
+    "start": 2504.76,
+    "end": 2508.76,
+    "text": " I'm really excited to know what kind of venue they might have made."
+  },
+  {
+    "start": 2508.76,
+    "end": 2513.76,
+    "text": " So they were named after the two largest items in Maine at the time."
+  },
+  {
+    "start": 2513.76,
+    "end": 2515.76,
+    "text": " That's where they got their names from."
+  },
+  {
+    "start": 2515.76,
+    "end": 2517.76,
+    "text": " And they were humongous."
+  },
+  {
+    "start": 2517.76,
+    "end": 2521.76,
+    "text": " They were supposedly, I can't find anything to contradict this,"
+  },
+  {
+    "start": 2521.76,
+    "end": 2524.76,
+    "text": " the biggest and tallest oxen, respectively,"
+  },
+  {
+    "start": 2524.76,
+    "end": 2526.76,
+    "text": " that the world has ever seen."
+  },
+  {
+    "start": 2526.76,
+    "end": 2529.76,
+    "text": " So Mount Cotardin weighed two and a half tons."
+  },
+  {
+    "start": 2529.76,
+    "end": 2530.76,
+    "text": " Wow."
+  },
+  {
+    "start": 2530.76,
+    "end": 2533.76,
+    "text": " So they were tall, they were wide,"
+  },
+  {
+    "start": 2533.76,
+    "end": 2535.76,
+    "text": " and they were celebrities, and they went around,"
+  },
+  {
+    "start": 2535.76,
+    "end": 2537.76,
+    "text": " and they did a lot of gigs,"
+  },
+  {
+    "start": 2537.76,
+    "end": 2540.76,
+    "text": " and eventually they played Madison Square Garden."
+  },
+  {
+    "start": 2540.76,
+    "end": 2541.76,
+    "text": " No."
+  },
+  {
+    "start": 2541.76,
+    "end": 2542.76,
+    "text": " No."
+  },
+  {
+    "start": 2542.76,
+    "end": 2543.76,
+    "text": " Oh, my God."
+  },
+  {
+    "start": 2543.76,
+    "end": 2546.76,
+    "text": " Yeah, Madison Square Garden, which..."
+  },
+  {
+    "start": 2546.76,
+    "end": 2550.76,
+    "text": " We said a couple of weeks ago when Sarah was here, Sarah Pasco,"
+  },
+  {
+    "start": 2550.76,
+    "end": 2553.76,
+    "text": " that, or you said, I think,"
+  },
+  {
+    "start": 2553.76,
+    "end": 2556.76,
+    "text": " that was it, Emmeline Pynkhurst played Madison Square Gardens."
+  },
+  {
+    "start": 2556.76,
+    "end": 2557.76,
+    "text": " That's right."
+  },
+  {
+    "start": 2557.76,
+    "end": 2562.76,
+    "text": " And she had a crowd of 3,000 in a 19,000-seater stadium."
+  },
+  {
+    "start": 2562.76,
+    "end": 2566.76,
+    "text": " Do you know how many people went to see the oxen?"
+  },
+  {
+    "start": 2566.76,
+    "end": 2569.76,
+    "text": " Actually, I assumed that it was the current Madison Square Garden"
+  },
+  {
+    "start": 2569.76,
+    "end": 2572.76,
+    "text": " with the ginormous 18,000 capacity."
+  },
+  {
+    "start": 2572.76,
+    "end": 2575.76,
+    "text": " But actually, it turns out that it's been rebuilt a few times,"
+  },
+  {
+    "start": 2575.76,
+    "end": 2577.76,
+    "text": " and she actually played the second iteration"
+  },
+  {
+    "start": 2577.76,
+    "end": 2579.76,
+    "text": " of the Madison Square Garden,"
+  },
+  {
+    "start": 2579.76,
+    "end": 2581.76,
+    "text": " which had a capacity of 8,000 people."
+  },
+  {
+    "start": 2581.76,
+    "end": 2584.76,
+    "text": " So she still was kind of suffering in the sales department."
+  },
+  {
+    "start": 2584.76,
+    "end": 2587.76,
+    "text": " She only sold 3,000, that's less than 50%,"
+  },
+  {
+    "start": 2587.76,
+    "end": 2591.76,
+    "text": " but it's not as great a discrepancy as 18,000."
+  },
+  {
+    "start": 2591.76,
+    "end": 2594.76,
+    "text": " So, yeah, so apologies to all the people on Twitter"
+  },
+  {
+    "start": 2594.76,
+    "end": 2595.76,
+    "text": " who've pointed this out."
+  },
+  {
+    "start": 2595.76,
+    "end": 2596.76,
+    "text": " Very, very sorry."
+  },
+  {
+    "start": 2596.76,
+    "end": 2599.76,
+    "text": " But this is the very same Madison Square Garden,"
+  },
+  {
+    "start": 2599.76,
+    "end": 2600.76,
+    "text": " Madison Square Garden 2,"
+  },
+  {
+    "start": 2600.76,
+    "end": 2604.76,
+    "text": " where these two giant oxen played in 1906."
+  },
+  {
+    "start": 2604.76,
+    "end": 2606.76,
+    "text": " They must have somewhere..."
+  },
+  {
+    "start": 2606.76,
+    "end": 2608.76,
+    "text": " You know how some venues in the UK"
+  },
+  {
+    "start": 2608.76,
+    "end": 2611.76,
+    "text": " have a book for all the acts that play there to sign?"
+  },
+  {
+    "start": 2611.76,
+    "end": 2612.76,
+    "text": " Yeah."
+  },
+  {
+    "start": 2612.76,
+    "end": 2616.76,
+    "text": " Presumably, somewhere in the basement of Madison Square Gardens,"
+  },
+  {
+    "start": 2616.76,
+    "end": 2618.76,
+    "text": " there is a book which has got the signature"
+  },
+  {
+    "start": 2618.76,
+    "end": 2622.76,
+    "text": " of Emily Pankhurst and a poof print of a giant ox."
+  },
+  {
+    "start": 2622.76,
+    "end": 2626.76,
+    "text": " How cool, yeah."
+  },
+  {
+    "start": 2626.76,
+    "end": 2627.76,
+    "text": " We can only assume."
+  },
+  {
+    "start": 2627.76,
+    "end": 2629.76,
+    "text": " We haven't actually said what Mox is."
+  },
+  {
+    "start": 2629.76,
+    "end": 2630.76,
+    "text": " Oh."
+  },
+  {
+    "start": 2630.76,
+    "end": 2632.76,
+    "text": " It's a castrated male cow."
+  },
+  {
+    "start": 2632.76,
+    "end": 2637.76,
+    "text": " But they used to be really popular for farming,"
+  },
+  {
+    "start": 2637.76,
+    "end": 2639.76,
+    "text": " and they used to be way more popular"
+  },
+  {
+    "start": 2639.76,
+    "end": 2642.76,
+    "text": " as draft animals pulling plows and things than horses."
+  },
+  {
+    "start": 2642.76,
+    "end": 2644.76,
+    "text": " But there were a few disadvantages,"
+  },
+  {
+    "start": 2644.76,
+    "end": 2647.76,
+    "text": " and gradually they went out of fashion a bit slower"
+  },
+  {
+    "start": 2647.76,
+    "end": 2648.76,
+    "text": " and a bit less versatile."
+  },
+  {
+    "start": 2648.76,
+    "end": 2651.76,
+    "text": " One of the problems is you can't change their shoes."
+  },
+  {
+    "start": 2651.76,
+    "end": 2653.76,
+    "text": " Like you can a horse."
+  },
+  {
+    "start": 2653.76,
+    "end": 2656.76,
+    "text": " So horses stand on all four legs."
+  },
+  {
+    "start": 2656.76,
+    "end": 2659.76,
+    "text": " And when you want to change a shoe,"
+  },
+  {
+    "start": 2659.76,
+    "end": 2661.76,
+    "text": " the horse can stand on three legs."
+  },
+  {
+    "start": 2661.76,
+    "end": 2662.76,
+    "text": " It can cope with that."
+  },
+  {
+    "start": 2662.76,
+    "end": 2663.76,
+    "text": " And you can change a shoe,"
+  },
+  {
+    "start": 2663.76,
+    "end": 2665.76,
+    "text": " and then you put that down and you change the other shoes."
+  },
+  {
+    "start": 2665.76,
+    "end": 2666.76,
+    "text": " Oxen can't do that."
+  },
+  {
+    "start": 2666.76,
+    "end": 2668.76,
+    "text": " They can't stand on three legs."
+  },
+  {
+    "start": 2668.76,
+    "end": 2670.76,
+    "text": " So to put shoes on an ox,"
+  },
+  {
+    "start": 2670.76,
+    "end": 2672.76,
+    "text": " which is necessary if you're farming with them,"
+  },
+  {
+    "start": 2672.76,
+    "end": 2675.76,
+    "text": " what you have to do is you have to push it over"
+  },
+  {
+    "start": 2675.76,
+    "end": 2677.76,
+    "text": " onto the ground."
+  },
+  {
+    "start": 2677.76,
+    "end": 2680.76,
+    "text": " And then you have to have basically a massive fork"
+  },
+  {
+    "start": 2680.76,
+    "end": 2683.76,
+    "text": " to gently hold it in place by the neck."
+  },
+  {
+    "start": 2683.76,
+    "end": 2686.76,
+    "text": " And then you tie its feet together so you don't get gourd."
+  },
+  {
+    "start": 2686.76,
+    "end": 2687.76,
+    "text": " A pitchfork."
+  },
+  {
+    "start": 2687.76,
+    "end": 2688.76,
+    "text": " What?"
+  },
+  {
+    "start": 2688.76,
+    "end": 2690.76,
+    "text": " You can't put a fork in its neck?"
+  },
+  {
+    "start": 2690.76,
+    "end": 2691.76,
+    "text": " Around its neck."
+  },
+  {
+    "start": 2691.76,
+    "end": 2694.76,
+    "text": " It's gone either side, so it's like that."
+  },
+  {
+    "start": 2694.76,
+    "end": 2696.76,
+    "text": " It's like in action films"
+  },
+  {
+    "start": 2696.76,
+    "end": 2698.76,
+    "text": " when someone always has a pitchfork thrown at them"
+  },
+  {
+    "start": 2698.76,
+    "end": 2700.76,
+    "text": " and it lands on either side of their neck, doesn't it?"
+  },
+  {
+    "start": 2700.76,
+    "end": 2701.76,
+    "text": " It's exactly like that."
+  },
+  {
+    "start": 2701.76,
+    "end": 2702.76,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 2702.76,
+    "end": 2705.76,
+    "text": " You can never see that in an action film."
+  },
+  {
+    "start": 2705.76,
+    "end": 2706.76,
+    "text": " Is that in Die Hard?"
+  },
+  {
+    "start": 2706.76,
+    "end": 2707.76,
+    "text": " I'm not sure."
+  },
+  {
+    "start": 2707.76,
+    "end": 2708.76,
+    "text": " I don't really remember it."
+  },
+  {
+    "start": 2708.76,
+    "end": 2710.76,
+    "text": " It's in one of the sequels."
+  },
+  {
+    "start": 2710.76,
+    "end": 2712.76,
+    "text": " So that's one method."
+  },
+  {
+    "start": 2712.76,
+    "end": 2714.76,
+    "text": " And that's pretty hardcore."
+  },
+  {
+    "start": 2714.76,
+    "end": 2715.76,
+    "text": " You have to be pretty brave to do that."
+  },
+  {
+    "start": 2715.76,
+    "end": 2718.76,
+    "text": " The alternate method is to use a thing called an ox sling,"
+  },
+  {
+    "start": 2718.76,
+    "end": 2720.76,
+    "text": " which is this massive framework of beams,"
+  },
+  {
+    "start": 2720.76,
+    "end": 2721.76,
+    "text": " and you get the oxen to walk in,"
+  },
+  {
+    "start": 2721.76,
+    "end": 2724.76,
+    "text": " and then you just lift it up off the ground"
+  },
+  {
+    "start": 2724.76,
+    "end": 2726.76,
+    "text": " and you have it hovering in the air,"
+  },
+  {
+    "start": 2726.76,
+    "end": 2728.76,
+    "text": " and then you have to fit the shoes like that."
+  },
+  {
+    "start": 2728.76,
+    "end": 2730.76,
+    "text": " So you can see where they went out of fashion."
+  },
+  {
+    "start": 2730.76,
+    "end": 2731.76,
+    "text": " Yeah."
+  },
+  {
+    "start": 2731.76,
+    "end": 2733.76,
+    "text": " So the ox, though, the sling one,"
+  },
+  {
+    "start": 2733.76,
+    "end": 2735.76,
+    "text": " I prefer that to the lying on your back"
+  },
+  {
+    "start": 2735.76,
+    "end": 2738.76,
+    "text": " with the pitchfork around your neck and your legs tied together."
+  },
+  {
+    "start": 2738.76,
+    "end": 2740.76,
+    "text": " If you had the choice."
+  },
+  {
+    "start": 2740.76,
+    "end": 2743.76,
+    "text": " Next time you're in plaques and buy some new shoes."
+  },
+  {
+    "start": 2743.76,
+    "end": 2748.76,
+    "text": " This is like Die Hard."
+  },
+  {
+    "start": 2748.76,
+    "end": 2757.76,
+    "text": " OK, it's time for our final fact of the show,"
+  },
+  {
+    "start": 2757.76,
+    "end": 2759.76,
+    "text": " and that is my fact."
+  },
+  {
+    "start": 2759.76,
+    "end": 2762.76,
+    "text": " And the fact is that the World's Least Frequently Published"
+  },
+  {
+    "start": 2762.76,
+    "end": 2765.76,
+    "text": " Newspaper is released once every four years on Leap Day."
+  },
+  {
+    "start": 2765.76,
+    "end": 2767.76,
+    "text": " The print edition costs €4.70,"
+  },
+  {
+    "start": 2767.76,
+    "end": 2771.76,
+    "text": " or you can subscribe to it for €100 per century."
+  },
+  {
+    "start": 2771.76,
+    "end": 2774.76,
+    "text": " That's a cool subscription."
+  },
+  {
+    "start": 2774.76,
+    "end": 2777.76,
+    "text": " So this is La Bougie du Saper,"
+  },
+  {
+    "start": 2777.76,
+    "end": 2781.76,
+    "text": " which is a satirical newspaper that began in 1980."
+  },
+  {
+    "start": 2781.76,
+    "end": 2785.76,
+    "text": " Two friends decided that they wanted to do this as a thing,"
+  },
+  {
+    "start": 2785.76,
+    "end": 2787.76,
+    "text": " and they made it a reality."
+  },
+  {
+    "start": 2787.76,
+    "end": 2790.76,
+    "text": " The title translates as The Sapper's Candle,"
+  },
+  {
+    "start": 2790.76,
+    "end": 2793.76,
+    "text": " and it's a reference to a cartoon character"
+  },
+  {
+    "start": 2793.76,
+    "end": 2795.76,
+    "text": " who was called The Sapper Camembert,"
+  },
+  {
+    "start": 2795.76,
+    "end": 2797.76,
+    "text": " and he was born on the 29th of February."
+  },
+  {
+    "start": 2797.76,
+    "end": 2800.76,
+    "text": " He joined the Army just as he celebrated his fourth birthday."
+  },
+  {
+    "start": 2800.76,
+    "end": 2802.76,
+    "text": " That's the reference to the title."
+  },
+  {
+    "start": 2802.76,
+    "end": 2804.76,
+    "text": " But yeah, it's a wonderful newspaper"
+  },
+  {
+    "start": 2804.76,
+    "end": 2806.76,
+    "text": " that is still going to this day,"
+  },
+  {
+    "start": 2806.76,
+    "end": 2809.76,
+    "text": " and it has a huge readership that just keeps growing and growing,"
+  },
+  {
+    "start": 2809.76,
+    "end": 2811.76,
+    "text": " and lots of lovely little in-jokes."
+  },
+  {
+    "start": 2811.76,
+    "end": 2813.76,
+    "text": " They have a last-minute section"
+  },
+  {
+    "start": 2813.76,
+    "end": 2815.76,
+    "text": " that they managed to squeeze in, you know,"
+  },
+  {
+    "start": 2815.76,
+    "end": 2817.76,
+    "text": " and add news into it."
+  },
+  {
+    "start": 2817.76,
+    "end": 2819.76,
+    "text": " Sometimes, obviously, if you've done the crossword,"
+  },
+  {
+    "start": 2819.76,
+    "end": 2823.76,
+    "text": " you've got to wait four years for the answers to appear."
+  },
+  {
+    "start": 2823.76,
+    "end": 2825.76,
+    "text": " And sometimes they make the decision"
+  },
+  {
+    "start": 2825.76,
+    "end": 2827.76,
+    "text": " not to publish it until eight years later,"
+  },
+  {
+    "start": 2827.76,
+    "end": 2829.76,
+    "text": " the answers, and just keep people hanging."
+  },
+  {
+    "start": 2829.76,
+    "end": 2832.76,
+    "text": " So yeah, they're really fun, these guys."
+  },
+  {
+    "start": 2832.76,
+    "end": 2835.76,
+    "text": " I was surprised that you could get that subscription"
+  },
+  {
+    "start": 2835.76,
+    "end": 2838.76,
+    "text": " because there was an interview with the editor in 2012"
+  },
+  {
+    "start": 2838.76,
+    "end": 2840.76,
+    "text": " who said he had considered offering subscriptions,"
+  },
+  {
+    "start": 2840.76,
+    "end": 2842.76,
+    "text": " but it would be too difficult to find people"
+  },
+  {
+    "start": 2842.76,
+    "end": 2844.76,
+    "text": " as the likelihood as they would have moved house"
+  },
+  {
+    "start": 2844.76,
+    "end": 2846.76,
+    "text": " between publication dates."
+  },
+  {
+    "start": 2846.76,
+    "end": 2848.76,
+    "text": " So he's obviously got a better way of tracking his..."
+  },
+  {
+    "start": 2848.76,
+    "end": 2852.76,
+    "text": " Well, it's a good way of getting 100 euros out of people, isn't it?"
+  },
+  {
+    "start": 2852.76,
+    "end": 2855.76,
+    "text": " They had a Sunday supplement in 2004,"
+  },
+  {
+    "start": 2855.76,
+    "end": 2858.76,
+    "text": " and the next one is going to be in 2032."
+  },
+  {
+    "start": 2858.76,
+    "end": 2861.76,
+    "text": " So they kind of like do a kind of each day of the week thing,"
+  },
+  {
+    "start": 2861.76,
+    "end": 2863.76,
+    "text": " which is quite cool, I think."
+  },
+  {
+    "start": 2863.76,
+    "end": 2865.76,
+    "text": " That's really good. And they're not working on this full-time, are they?"
+  },
+  {
+    "start": 2865.76,
+    "end": 2867.76,
+    "text": " They can't be."
+  },
+  {
+    "start": 2867.76,
+    "end": 2869.76,
+    "text": " No, they don't. Once, say, every four years,"
+  },
+  {
+    "start": 2869.76,
+    "end": 2872.76,
+    "text": " they kind of meet up in a restaurant, I think, in Paris"
+  },
+  {
+    "start": 2872.76,
+    "end": 2874.76,
+    "text": " and drink champagne and kind of come up"
+  },
+  {
+    "start": 2874.76,
+    "end": 2876.76,
+    "text": " with what funny ideas they're going to put into it."
+  },
+  {
+    "start": 2876.76,
+    "end": 2878.76,
+    "text": " Brilliant. That's so good."
+  },
+  {
+    "start": 2878.76,
+    "end": 2880.76,
+    "text": " But the editor, the current editor, has been working on it"
+  },
+  {
+    "start": 2880.76,
+    "end": 2883.76,
+    "text": " for, you know, over a decade at least,"
+  },
+  {
+    "start": 2883.76,
+    "end": 2886.76,
+    "text": " and certainly has been the editor for about three issues or so."
+  },
+  {
+    "start": 2886.76,
+    "end": 2889.76,
+    "text": " So it's got, you know, stable staff, which is good."
+  },
+  {
+    "start": 2889.76,
+    "end": 2893.76,
+    "text": " And it does have a print run, I think, this year of 200,000,"
+  },
+  {
+    "start": 2893.76,
+    "end": 2896.76,
+    "text": " which is not to say that's the number that we'll sell,"
+  },
+  {
+    "start": 2896.76,
+    "end": 2900.76,
+    "text": " but that's a print run, so it's got big tickets on itself."
+  },
+  {
+    "start": 2900.76,
+    "end": 2903.76,
+    "text": " Yeah, there's some interesting stories in this week,"
+  },
+  {
+    "start": 2903.76,
+    "end": 2906.76,
+    "text": " in this, not this week's, this, what do you say,"
+  },
+  {
+    "start": 2906.76,
+    "end": 2909.76,
+    "text": " quadrennial edition."
+  },
+  {
+    "start": 2909.76,
+    "end": 2911.76,
+    "text": " They talk about Brexit, of course."
+  },
+  {
+    "start": 2911.76,
+    "end": 2915.76,
+    "text": " There is an interview with Cedric Villani,"
+  },
+  {
+    "start": 2915.76,
+    "end": 2918.76,
+    "text": " the mathematician-commerical candidate."
+  },
+  {
+    "start": 2918.76,
+    "end": 2922.76,
+    "text": " There is a story about Maurice, the cockerel."
+  },
+  {
+    "start": 2922.76,
+    "end": 2924.76,
+    "text": " Do you remember this?"
+  },
+  {
+    "start": 2924.76,
+    "end": 2926.76,
+    "text": " They're basically talking about all the things that have happened"
+  },
+  {
+    "start": 2926.76,
+    "end": 2928.76,
+    "text": " over the last four years."
+  },
+  {
+    "start": 2928.76,
+    "end": 2930.76,
+    "text": " And one of them was Maurice the cockerel,"
+  },
+  {
+    "start": 2930.76,
+    "end": 2934.76,
+    "text": " who became really famous because people were complaining"
+  },
+  {
+    "start": 2934.76,
+    "end": 2936.76,
+    "text": " that he was cockrelling too loud."
+  },
+  {
+    "start": 2936.76,
+    "end": 2939.76,
+    "text": " And the people who lived in the countryside said,"
+  },
+  {
+    "start": 2939.76,
+    "end": 2941.76,
+    "text": " well, this is what the countryside sounds like."
+  },
+  {
+    "start": 2941.76,
+    "end": 2944.76,
+    "text": " So if you don't like it, go back to Paris, kind of thing."
+  },
+  {
+    "start": 2944.76,
+    "end": 2948.76,
+    "text": " And they came up with a law basically protecting"
+  },
+  {
+    "start": 2948.76,
+    "end": 2950.76,
+    "text": " the sound of the French countryside."
+  },
+  {
+    "start": 2950.76,
+    "end": 2952.76,
+    "text": " I'm sure you guys remember that story."
+  },
+  {
+    "start": 2952.76,
+    "end": 2956.76,
+    "text": " I found out that since the magazine came out, Maurice died."
+  },
+  {
+    "start": 2956.76,
+    "end": 2958.76,
+    "text": " He died in June."
+  },
+  {
+    "start": 2958.76,
+    "end": 2960.76,
+    "text": " Is there any merch that we can get hold of of Maurice"
+  },
+  {
+    "start": 2960.76,
+    "end": 2963.76,
+    "text": " since maybe a breast or a leg?"
+  },
+  {
+    "start": 2963.76,
+    "end": 2969.76,
+    "text": " He actually, he died in May, but it was announced in June"
+  },
+  {
+    "start": 2969.76,
+    "end": 2972.76,
+    "text": " because the owner said that what with lockdown,"
+  },
+  {
+    "start": 2972.76,
+    "end": 2974.76,
+    "text": " people already had enough to worry about"
+  },
+  {
+    "start": 2974.76,
+    "end": 2978.76,
+    "text": " without having to think about Maurice the cockerel's death."
+  },
+  {
+    "start": 2978.76,
+    "end": 2981.76,
+    "text": " That just would have been the cherry on the icing, wouldn't it?"
+  },
+  {
+    "start": 2981.76,
+    "end": 2983.76,
+    "text": " Damn you, 2020!"
+  },
+  {
+    "start": 2983.76,
+    "end": 2989.76,
+    "text": " So I was looking into some other interesting"
+  },
+  {
+    "start": 2989.76,
+    "end": 2991.76,
+    "text": " or innovative newspapers."
+  },
+  {
+    "start": 2991.76,
+    "end": 2993.76,
+    "text": " And I don't think we've ever said this."
+  },
+  {
+    "start": 2993.76,
+    "end": 2996.76,
+    "text": " Quite a few newspapers used to have space"
+  },
+  {
+    "start": 2996.76,
+    "end": 2998.76,
+    "text": " that you could add your own news in."
+  },
+  {
+    "start": 2998.76,
+    "end": 3000.76,
+    "text": " This is so cool."
+  },
+  {
+    "start": 3000.76,
+    "end": 3004.76,
+    "text": " So the first ever evening paper was launched in 1696"
+  },
+  {
+    "start": 3004.76,
+    "end": 3007.76,
+    "text": " by a guy called Ichabod Dorks."
+  },
+  {
+    "start": 3009.76,
+    "end": 3011.76,
+    "text": " Such a good name."
+  },
+  {
+    "start": 3011.76,
+    "end": 3015.76,
+    "text": " DAWK, not D-O-R-K, great either way."
+  },
+  {
+    "start": 3015.76,
+    "end": 3016.76,
+    "text": " What a name."
+  },
+  {
+    "start": 3016.76,
+    "end": 3019.76,
+    "text": " It's called Dorks Newsletter, that's the name of it."
+  },
+  {
+    "start": 3019.76,
+    "end": 3023.76,
+    "text": " And basically, there was just space."
+  },
+  {
+    "start": 3023.76,
+    "end": 3027.76,
+    "text": " So the buyer, who might be the grocer or might be the individual,"
+  },
+  {
+    "start": 3027.76,
+    "end": 3029.76,
+    "text": " but you could write your own news in,"
+  },
+  {
+    "start": 3029.76,
+    "end": 3032.76,
+    "text": " or you could say hello to an individual subscriber."
+  },
+  {
+    "start": 3032.76,
+    "end": 3036.76,
+    "text": " But it's amazing that only Dorks are going to be bothered to do that, right?"
+  },
+  {
+    "start": 3036.76,
+    "end": 3039.76,
+    "text": " Wait, but what do you mean you could write a message to a subscriber?"
+  },
+  {
+    "start": 3039.76,
+    "end": 3042.76,
+    "text": " So who was allowed to write the news in the blank bit?"
+  },
+  {
+    "start": 3042.76,
+    "end": 3046.76,
+    "text": " Anyone is, but let's say it's the local news agent."
+  },
+  {
+    "start": 3046.76,
+    "end": 3048.76,
+    "text": " You could say hello, Mr Jenkins,"
+  },
+  {
+    "start": 3048.76,
+    "end": 3051.76,
+    "text": " thought you might like to know that Murray's The Cockerel is Dead,"
+  },
+  {
+    "start": 3051.76,
+    "end": 3054.76,
+    "text": " waited to tell you until now because you would have been sad."
+  },
+  {
+    "start": 3054.76,
+    "end": 3055.76,
+    "text": " And then you could add that in."
+  },
+  {
+    "start": 3055.76,
+    "end": 3057.76,
+    "text": " Or even as the end user of the newspaper,"
+  },
+  {
+    "start": 3057.76,
+    "end": 3060.76,
+    "text": " you can also write in it and then hand it over to your wife saying,"
+  },
+  {
+    "start": 3060.76,
+    "end": 3063.76,
+    "text": " \"I've made you some nice pie,\" if you write in that bit."
+  },
+  {
+    "start": 3063.76,
+    "end": 3065.76,
+    "text": " That's very cool, very nice."
+  },
+  {
+    "start": 3065.76,
+    "end": 3069.76,
+    "text": " I was reading about, it's now online, it's called The Antarctic Sun,"
+  },
+  {
+    "start": 3069.76,
+    "end": 3074.76,
+    "text": " but that used to be a paper that was published for people who live,"
+  },
+  {
+    "start": 3074.76,
+    "end": 3076.76,
+    "text": " the scientists who live in Antarctica,"
+  },
+  {
+    "start": 3076.76,
+    "end": 3078.76,
+    "text": " and it'd be sent round to them all,"
+  },
+  {
+    "start": 3078.76,
+    "end": 3081.76,
+    "text": " and it would cover sort of relevant news to them"
+  },
+  {
+    "start": 3081.76,
+    "end": 3084.76,
+    "text": " as opposed to news from the rest of the world."
+  },
+  {
+    "start": 3084.76,
+    "end": 3086.76,
+    "text": " Was there a weather report?"
+  },
+  {
+    "start": 3086.76,
+    "end": 3091.76,
+    "text": " Getting very slightly warmer."
+  },
+  {
+    "start": 3091.76,
+    "end": 3094.76,
+    "text": " But before them, before they existed,"
+  },
+  {
+    "start": 3094.76,
+    "end": 3097.76,
+    "text": " there was another paper which was called The McMurdo News,"
+  },
+  {
+    "start": 3097.76,
+    "end": 3099.76,
+    "text": " the sort of predecessor to them,"
+  },
+  {
+    "start": 3099.76,
+    "end": 3103.76,
+    "text": " and that was then followed by The McMurdo Sometimes,"
+  },
+  {
+    "start": 3103.76,
+    "end": 3106.76,
+    "text": " because the publishing schedule was so erratic"
+  },
+  {
+    "start": 3106.76,
+    "end": 3109.76,
+    "text": " that they couldn't promise that it would always be consistent."
+  },
+  {
+    "start": 3109.76,
+    "end": 3113.76,
+    "text": " And that lasted from 1960 to 1980 as a paper."
+  },
+  {
+    "start": 3113.76,
+    "end": 3114.76,
+    "text": " I love that."
+  },
+  {
+    "start": 3114.76,
+    "end": 3116.76,
+    "text": " Although did you know that McMurdo Sometimes"
+  },
+  {
+    "start": 3116.76,
+    "end": 3119.76,
+    "text": " changed its name halfway through to The McMurdo Sometimes?"
+  },
+  {
+    "start": 3119.76,
+    "end": 3120.76,
+    "text": " Explain that."
+  },
+  {
+    "start": 3120.76,
+    "end": 3122.76,
+    "text": " It was The McMurdo Sometimes in 1960,"
+  },
+  {
+    "start": 3122.76,
+    "end": 3125.76,
+    "text": " but it was spelled S-O-M-E-T-I-M-E-Z."
+  },
+  {
+    "start": 3125.76,
+    "end": 3127.76,
+    "text": " And then for some reason, in 1972,"
+  },
+  {
+    "start": 3127.76,
+    "end": 3130.76,
+    "text": " they decided to change the name to spell the word Sometimes correctly."
+  },
+  {
+    "start": 3130.76,
+    "end": 3132.76,
+    "text": " That's right, professionalizing."
+  },
+  {
+    "start": 3132.76,
+    "end": 3134.76,
+    "text": " Maybe they got a publisher without a sense of humour."
+  },
+  {
+    "start": 3134.76,
+    "end": 3135.76,
+    "text": " Bizarre."
+  },
+  {
+    "start": 3135.76,
+    "end": 3139.76,
+    "text": " The latest article in the, what is now The Antarctic Sun,"
+  },
+  {
+    "start": 3139.76,
+    "end": 3140.76,
+    "text": " did you see what it was about?"
+  },
+  {
+    "start": 3140.76,
+    "end": 3141.76,
+    "text": " No."
+  },
+  {
+    "start": 3141.76,
+    "end": 3143.76,
+    "text": " Well, I think Andy might want to subscribe,"
+  },
+  {
+    "start": 3143.76,
+    "end": 3144.76,
+    "text": " maybe move to Antarctica,"
+  },
+  {
+    "start": 3144.76,
+    "end": 3147.76,
+    "text": " because it was called Masses of Mosses."
+  },
+  {
+    "start": 3147.76,
+    "end": 3151.76,
+    "text": " It was about the moss that's taking over Antarctica."
+  },
+  {
+    "start": 3151.76,
+    "end": 3153.76,
+    "text": " Get me on a plane."
+  },
+  {
+    "start": 3153.76,
+    "end": 3154.76,
+    "text": " Brilliant."
+  },
+  {
+    "start": 3154.76,
+    "end": 3157.76,
+    "text": " I imagine it's probably also covered in the docks times,"
+  },
+  {
+    "start": 3157.76,
+    "end": 3159.76,
+    "text": " or whatever it was."
+  },
+  {
+    "start": 3159.76,
+    "end": 3161.76,
+    "text": " Anna, as soon as you said that, I thought,"
+  },
+  {
+    "start": 3161.76,
+    "end": 3163.76,
+    "text": " which thing am I going to be slammed for now?"
+  },
+  {
+    "start": 3163.76,
+    "end": 3165.76,
+    "text": " Is it going to be moss or is it going to be funicular railways?"
+  },
+  {
+    "start": 3165.76,
+    "end": 3167.76,
+    "text": " Is it going to be one of the other things I developed"
+  },
+  {
+    "start": 3167.76,
+    "end": 3170.76,
+    "text": " and unlikely crush on in the last six years?"
+  },
+  {
+    "start": 3170.76,
+    "end": 3172.76,
+    "text": " And did you manage, by the time I did the big reveal,"
+  },
+  {
+    "start": 3172.76,
+    "end": 3174.76,
+    "text": " did you manage to have worked out which was more likely"
+  },
+  {
+    "start": 3174.76,
+    "end": 3175.76,
+    "text": " to exist in Antarctica?"
+  },
+  {
+    "start": 3175.76,
+    "end": 3177.76,
+    "text": " I thought they can't be really funicular."
+  },
+  {
+    "start": 3177.76,
+    "end": 3181.76,
+    "text": " OK, that's it."
+  },
+  {
+    "start": 3181.76,
+    "end": 3182.76,
+    "text": " That is all of our facts."
+  },
+  {
+    "start": 3182.76,
+    "end": 3183.76,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3183.76,
+    "end": 3185.76,
+    "text": " If you'd like to get in contact with any of us"
+  },
+  {
+    "start": 3185.76,
+    "end": 3188.76,
+    "text": " about the things that we have said over the course of this podcast,"
+  },
+  {
+    "start": 3188.76,
+    "end": 3190.76,
+    "text": " you can get us on our Twitter accounts."
+  },
+  {
+    "start": 3190.76,
+    "end": 3192.76,
+    "text": " I'm on @Sriberland, James."
+  },
+  {
+    "start": 3192.76,
+    "end": 3193.76,
+    "text": " @JamesHarken."
+  },
+  {
+    "start": 3193.76,
+    "end": 3194.76,
+    "text": " Andy."
+  },
+  {
+    "start": 3194.76,
+    "end": 3195.76,
+    "text": " @AndrewHunterM."
+  },
+  {
+    "start": 3195.76,
+    "end": 3196.76,
+    "text": " And Anna."
+  },
+  {
+    "start": 3196.76,
+    "end": 3198.76,
+    "text": " You can email podcast@qi.com."
+  },
+  {
+    "start": 3198.76,
+    "end": 3199.76,
+    "text": " Yep."
+  },
+  {
+    "start": 3199.76,
+    "end": 3201.76,
+    "text": " You can go to our group account, which is @NoSuchThing,"
+  },
+  {
+    "start": 3201.76,
+    "end": 3202.76,
+    "text": " or go to our website."
+  },
+  {
+    "start": 3202.76,
+    "end": 3204.76,
+    "text": " NoSuchThing is at fish.com."
+  },
+  {
+    "start": 3204.76,
+    "end": 3206.76,
+    "text": " All of our previous episodes are up there,"
+  },
+  {
+    "start": 3206.76,
+    "end": 3208.76,
+    "text": " as well as bits of merchandise and so on."
+  },
+  {
+    "start": 3208.76,
+    "end": 3209.76,
+    "text": " Thanks for listening, guys."
+  },
+  {
+    "start": 3209.76,
+    "end": 3211.76,
+    "text": " We're going to be back again next week with another episode."
+  },
+  {
+    "start": 3211.76,
+    "end": 3212.76,
+    "text": " We hope you're well."
+  },
+  {
+    "start": 3212.76,
+    "end": 3213.76,
+    "text": " We'll see you then."
+  },
+  {
+    "start": 3213.76,
+    "end": 3214.76,
+    "text": " Goodbye."
+  },
+  {
+    "start": 3214.76,
+    "end": 3217.76,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 3217.76,
+    "end": 3220.76,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 3220.76,
+    "end": 3223.34,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3223.34,
+    "end": 3225.92,
+    "text": " (upbeat music)"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features a review of some of the most interesting and humorous facts from the past year, including a mix-up with a FIFA video game, a diplomatic incident involving stolen gems, and the introduction of new scientific units of measurement. The hosts also discuss cultural quirks, such as South Korea's age calculation system, and notable events like the Queen's passing and the infamous Oscars slap.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "40,000 people in France thought they were watching a World Cup match, Germany versus Japan on YouTube, but they were actually watching someone playing FIFA 23.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:01:07"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Saudi Arabian royal family forgave Thailand this year for a 30-year feud caused by a Thai cleaner stealing $20 million worth of gems from the Saudi palace.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:07:54"
+    },
+    {
+      "fact_number": 3,
+      "fact": "South Koreans have just extended their life by one to two years because they usually measure age by considering a newborn as one year old at birth.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:15:20"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The James Webb Space Telescope is so sensitive that it could detect the warmth of a single bee on the moon from Earth.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:33:21"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a range of fascinating topics, including Claude Monet's meticulous care for his water lilies, the mysterious practice of Neolithic Europeans burning their houses, the irony of lost recordings of George Orwell, and medieval punishments for selling adulterated spices.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When the impressionist Claude Monet lived at Giverny, he had six gardeners, one of whose whole job was to dust and wash the water lilies and clean the surface of the water.",
+      "presenter": "John Lloyd",
+      "guest": true,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Neolithic Europeans regularly burned their houses down for no apparent reason.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:25:31"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Despite warning us that everything we say would be recorded, we have lost all the recordings of everything that George Orwell said.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:29:39"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 14th century London, one punishment for selling unclean spices was to be put in the pillory and have the spices set on fire beneath your nose.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:45:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and humorous facts, including the Festival of Britain in 1951, a bank's mishap with placeholder text in letters to wealthy clients, the Norwegian military's policy on recycling undergarments, and the challenges of training dogs to stay still in MRI scanners.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "During the Festival of Britain in London in 1951, children would deliberately go missing because the local police station, where they waited for their parents, had the capital's best collection of comic books.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:51"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the 1990s, a British bank set up a computer system so they could write to all their wealthiest customers at once. Unfortunately, due to a rogue bit of placeholder text, they started sending out letters which began \"Dear Rich Bastard.\"",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:42"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When leaving the Norwegian military, soldiers must now hand over their used underpants and socks for the next recruit to wear.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:03"
+    },
+    {
+      "fact_number": 4,
+      "fact": "It takes two to four months to train a dog to keep still in an MRI scanner.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:34:28"
+    }
+  ]
+}

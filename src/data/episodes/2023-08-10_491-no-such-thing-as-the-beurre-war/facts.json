@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of No Such Thing As A Fish, recorded live at the Soho Theatre, features guest presenter Ella Al-Shamahi. The hosts discuss a variety of topics including the emotional expressions of whales, Campbell's soup cocktails, cosmic rays affecting elections, and a record-breaking underwater living experiment.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "I feel like I must have at some point cried in the ocean and I've felt a bit better for it, you know. That's true, you can see you crying in the ocean is the point, right?",
+      "presenter": "Ella Al-Shamahi",
+      "guest": true,
+      "start_time": "00:02:14"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the 1950s, Campbell's tried to persuade people to start drinking cocktails made out of beef soup.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:14:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 2003, there were 4,096 fraudulent votes in the Belgian election. The culprit, it was later discovered, was the universe.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:28:45"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The man who just broke the world record for living underwater got a visit from his 80-year-old mother halfway through to keep him cheerful.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:40:47"
+    }
+  ]
+}

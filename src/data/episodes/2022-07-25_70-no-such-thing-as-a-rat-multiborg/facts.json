@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including how babies practice their first words, the origin of Nike trainers in a waffle iron, rats dreaming of places they want to visit, and the historical use of milk as paint before it was consumed as a drink.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Babies practice their first words before saying them out loud, which is very sweet.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:34"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The first pair of Nike trainers were made in a waffle iron.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:07:44"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Rats dream of places they want to visit.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:17:52"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Humans used milk as paint for 40,000 years before anyone thought to drink it.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:24:47"
+    }
+  ]
+}

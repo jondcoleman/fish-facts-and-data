@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of topics including the history of umbrellas in London, the physiological changes in men during their partner's pregnancy, the extensive work of coral researcher John Veron, and the first female British playwright, Joanna Lumley.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first man to use an umbrella in London was pelted with rubbish for doing so.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The male brain changes when his partner is pregnant, with testosterone dropping and prolactin increasing, making them less aggressive.",
+      "presenter": "Sarah Pascoe",
+      "guest": true,
+      "start_time": "00:15:18"
+    },
+    {
+      "fact_number": 3,
+      "fact": "A fifth of all the species of coral on the planet have been named by the same man.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:05"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The first female British playwright was called Joanna Lumley.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:39:40"
+    }
+  ]
+}

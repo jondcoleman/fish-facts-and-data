@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features facts about the abundance of scientific papers on dung beetles compared to human extinction, Finnish doctors receiving swords upon graduation, the role of a samurai in starting California's wine industry, and donkeys carrying lambs in their pockets. The hosts explore these topics with humor and delve into related anecdotes and historical contexts.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There are more scientific papers on dung beetles than there are on preventing the extinction of mankind.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:53"
+    },
+    {
+      "fact_number": 2,
+      "fact": "New Finnish doctors are officially issued with a sword.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:11:29"
+    },
+    {
+      "fact_number": 3,
+      "fact": "California's international wine industry was started by a samurai.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:22:02"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Some donkeys keep sheep in their pockets.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:34:16"
+    }
+  ]
+}

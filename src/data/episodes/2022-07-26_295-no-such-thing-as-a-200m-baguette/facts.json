@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features facts about historical punishments in Boston, the types of French baguettes, Saddam Hussein's use of a Whitney Houston song, and the surprising controversies surrounding the game of croquet.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first criminal in Boston to be sent to the stocks was the man who'd actually built the stocks.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:50"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Five of the main types of French baguette are called flute, ficelle, viennoise, sarmentine, and bastard.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:11:58"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Whitney Houston's record label once sent a cease and desist letter to Saddam Hussein asking him to please stop using the song \"I Will Always Love You\" as part of his political campaign.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:23:03"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1898, a Boston magazine described the game of croquet as a source of slumbering depravity and a veritable Frankenstein monster of recreation.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:31:38"
+    }
+  ]
+}

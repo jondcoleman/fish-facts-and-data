@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a special audience fact edition where the hosts share fascinating facts submitted by listeners. Topics include astrophysics, industrial musicals, historical coincidences, and unique animal behaviors.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The more massive a white dwarf becomes, the smaller it gets.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:03:23"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Between the 1940s and 1980s, companies like Ford and General Electric put on Broadway-style productions just for their employees as a team bonding experience.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:15:23"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The great-grandfather of the actor who plays Spock was literally a son of Vulcan.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:28:40"
+    },
+    {
+      "fact_number": 4,
+      "fact": "A bacteriophage is so tiny, but they are so abundant on Earth that if you stacked them all on top of each other, it would be 200 million light years of distance.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:41:06"
+    }
+  ]
+}

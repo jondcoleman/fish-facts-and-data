@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of quirky and intriguing facts, including the unusual death of a children's author, a city in Japan dedicated to haiku, historical debates about cinema lighting, and a humorously named diving club in Ireland.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Children's author, Margaret Wise Brown, died from doing an over-enthusiastic can-can kick.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The city of Matsuyama has over 90 post boxes specifically for mailing haiku.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:17:30"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In the early 1900s there was a debate over whether cinemas should be dark or fully lit.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:31:30"
+    },
+    {
+      "fact_number": 4,
+      "fact": "One of the oldest diving clubs in Ireland is the Muff Diving Club.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:41:19"
+    }
+  ]
+}

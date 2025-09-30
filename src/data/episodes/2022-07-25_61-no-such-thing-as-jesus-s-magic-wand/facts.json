@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including Benjamin Franklin's potential swimming school, the intense traditions of sumo wrestling referees, the creation of the longest movie trailer, and medieval church statues with moving parts.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Instead of being one of the founders of the USA, Benjamin Franklin almost stayed in Britain to found a swimming school on the Thames.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:55"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Sumo wrestling referees carry a knife on them so that in the event that they make a bad decision during a match they can kill themselves.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:12:05"
+    },
+    {
+      "fact_number": 3,
+      "fact": "A trailer for the longest movie ever made has just been released and it's 72 minutes long.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:22:46"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In the Middle Ages, lots of churches had statues of Jesus which had moving arms so that he could be taken down from the cross and carried around the church.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:34:18"
+    }
+  ]
+}

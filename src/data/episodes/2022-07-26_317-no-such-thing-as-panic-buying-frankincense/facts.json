@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of quirky and fascinating facts, including the effects of stomach acid on swallowed coins, the historical use of foot wraps in the Russian army, a man winning the lottery twice with the same numbers, and the existence of a hangover museum in Zagreb.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When people accidentally swallow coins, their stomachs sometimes punch holes in them.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Soldiers in the Russian army weren't issued socks until 2007.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:21"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 2016, a man won the lottery for the second time using the exact same numbers that won it for him the first time.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:31:27"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Zagreb has a museum of hangovers.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:32:32"
+    }
+  ]
+}

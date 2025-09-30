@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a variety of quirky and intriguing facts, including the world's longest conductor's baton, rice balls shaped by women's armpits in Japan, Buddha's aversion to certain games, and the concept of 'catios' for cats. The hosts explore these topics with humor and curiosity, providing insights into cultural practices and historical anecdotes.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The world's longest conductor's baton is actually more than three times longer than Friedrich Chopin.",
+      "presenter": "Leon Buttons-Kirkbeck",
+      "guest": true,
+      "start_time": "00:02:04"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In Japan, you can buy rice bowls that are shaped by women's armpits.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:12:53"
+    },
+    {
+      "fact_number": 3,
+      "fact": "2,500 years ago, Buddha taught the world that the road to enlightenment could be achieved through compassion, mindfulness, and the eradication of the game hopscotch.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:36"
+    },
+    {
+      "fact_number": 4,
+      "fact": "A patio for cats is called a catio.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:39:02"
+    }
+  ]
+}

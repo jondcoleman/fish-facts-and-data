@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing facts, including historical marriage customs in the Byzantine Empire, China's replica of an Austrian village, ants' ability to exhibit self-control, and behind-the-scenes trivia from the filming of 'The Sound of Music.'",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When a prince in the Byzantine Empire was ready to marry, court officials would walk around the land with an imperial shoe that they used to check the foot size of potential princesses.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "China has built an exact replica of an Austrian village, so that tourists don't have to fly all the way to Austria.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:02"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Ants have self-control; they are able to defer gratification and put in more effort to get a bigger treat later on than a smaller treat now.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:20:08"
+    },
+    {
+      "fact_number": 4,
+      "fact": "When filming the famous hill scene at the beginning of The Sound of Music, the helicopter down-draft would knock Julie Andrews over after each take.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:32:17"
+    }
+  ]
+}

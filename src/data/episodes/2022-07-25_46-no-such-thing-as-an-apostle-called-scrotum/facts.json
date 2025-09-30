@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including songs sung in Latin that made it to the British charts, the unique physical characteristics attributed to the Buddha, the invention of the whoopie cushion by a Roman Emperor, and the discovery of an ancient purse decorated with dog's teeth.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There have been three top 50 songs in the British charts, which have been sung exclusively in Latin.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:33"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The way to recognize the Buddha is to look out for his webbed feet, a tongue that can reach his ears, and withdrawn genitalia.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:23"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The whoopie cushion was invented by a Roman Emperor called Basie Anus.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:21:04"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The oldest known purse is decorated with dog's teeth.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:30:58"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' features a variety of quirky facts and discussions, including the origins of pumpkin spice lattes, the peculiarities of sherry production, a baseball team's gravy-drinking superstition, and a Dutch tradition involving pancakes on heads.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When concocting its pumpkin spice latte flavour, Starbucks tried various ratios of pumpkin to spice, before eventually settling on 100% spice, 0% pumpkin.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "When making sherry, it is important that you leave space for two fists inside your bunghole.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:13:12"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The 1894 Baltimore Orioles baseball team had a superstition in which every player would drink a glass of gravy before every match.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:26:26"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Every year, on November 29th, people in the Netherlands put a pancake on their head.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:37:28"
+    }
+  ]
+}

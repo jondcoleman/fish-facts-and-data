@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including a unique language in Papua New Guinea used for nut gathering, the invention of a cheese that doesn't mold by a man from a place called Mold, a suggestion to rewrite Darwin's \"On the Origin of Species\" to focus solely on pigeons, and the role of a royal anagramist in the court of King Louis XIII of France.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There is a special language in Papua New Guinea that is only used when gathering nuts.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The man who worked out how to stop soft cheese going moldy came from a place called Mold.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:13:43"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When Charles Darwin submitted On the Origin of Species to his publisher, the publisher suggested he should rewrite it exclusively about pigeons.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:26:41"
+    },
+    {
+      "fact_number": 4,
+      "fact": "King Louis the 13th of France had a royal anagramist.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:36:43"
+    }
+  ]
+}

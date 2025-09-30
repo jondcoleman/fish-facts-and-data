@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' features facts about a non-French speaking French Scrabble champion, venomous frogs that headbutt their enemies, Joseph Goebbels' disruptive cinema antics, and defunct sports like archery golf and boxing on horseback.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The current French Scrabble Champion doesn't speak a word of French.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:44"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The world's only venomous frogs headbutt their enemies to death.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:10:29"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When the film All Quiet on the Western Front was released in Germany, Goebbels went to see it at the cinema and within 10 minutes, he'd released stink bombs, itching powder and white mice in order to scare everyone out of the cinema.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:19:45"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Defunct sports from the early 20th century include archery golf, boxing on horseback and competitive flag pole sitting.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:32"
+    }
+  ]
+}

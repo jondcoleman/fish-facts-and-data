@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and intriguing topics, including televised Microsoft Excel competitions, the World Poultry Congress, a man who stayed in bed for 30 years due to a fear of fresh air, and a Cameroonian folklore method for defeating chimpanzees.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In America, you can watch televised Microsoft Excel competitions.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1966, the World Chicken Congress happened in Kiev.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:59"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In the 18th century, a Worcestershire man called John Tallis stayed in bed for 30 years with a peg on his nose because he thought fresh air was dangerous.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:26:02"
+    },
+    {
+      "fact_number": 4,
+      "fact": "According to Cameroonian folklore, the best way to beat a chimpanzee in a fight is to pretend to stab yourself with your weapon and then throw it at them.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:38:20"
+    }
+  ]
+}

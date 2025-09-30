@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the world record for breath-holding, Nikola Tesla attending a party with a stripper jumping out of a cake, Queen Louise of Sweden's precautionary card for London visits, and unusual speeding incidents involving children and the elderly in the UK.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The world record for the longest time spent holding one's breath is exactly the same length as this podcast episode.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Nikola Tesla was one of the guests at the first ever party with a stripper jumping out of a cake.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:06:28"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When in London, Queen Louise of Sweden always carried a card saying, \"I am the queen of Sweden\" in case she was hit by a bus.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:12:59"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Last year in the UK, two eight-year-olds were caught speeding.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:17:42"
+    }
+  ]
+}

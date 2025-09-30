@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and historical facts, including the story of a Scottish obstetrician with an unusual name, a Mexican town with an unusually high number of dentists, a unique creation myth from the Yazidi religion, and the tale of a pioneering female motorcyclist and her mother.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The man known as the father of British midwifery was called Willie Smelly.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:48"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There is a town in Mexico where one person in ten is a dentist.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:15:09"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In the Yazidi religion, Adam left paradise when a peacock pecked an anus in him so he could defecate, and you're not allowed to poo in the Garden of Eden.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:26:29"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The first woman to motorcycle from coast to coast in the United States did so with her mother in the sidecar.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:33:55"
+    }
+  ]
+}

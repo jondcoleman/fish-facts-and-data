@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and intriguing facts, including the Queen's numerous birthdays, a Brazilian political mishap involving WhatsApp, a German city's unique approach to combating terrorism, and the surprising movement of the North Pole towards Greenwich, London.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "This week the queen will celebrate her 669th birthday.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:01:10"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Brazilian vice president accidentally released his presidential acceptance speech by sending it to the wrong WhatsApp group.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:10:28"
+    },
+    {
+      "fact_number": 3,
+      "fact": "A German city is fighting global terror by banning number plates starting with IS.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:20:52"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The North Pole is on a head-on collision course with Greenwich London.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:29:21"
+    }
+  ]
+}

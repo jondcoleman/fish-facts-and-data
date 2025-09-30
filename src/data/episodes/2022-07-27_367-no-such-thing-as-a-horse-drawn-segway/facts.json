@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a range of quirky historical and scientific facts. The hosts discuss the world's first electricity power station built for an artificial rainbow, 16th-century dinner knives with sheet music, the two women responsible for approving most drug names in America, and Israel's unique approach to color TV broadcasts until 1981.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The world's first electricity power station was built to power an artificial rainbow.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Some dinner knives in the 16th century had sheet music etched onto the blade so that guests could sing a blessing together before and after the meal.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:54"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Almost all drug names in America have been approved by just two women in Chicago.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:30:29"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Israel manually removed all color from foreign TV broadcasts until 1981, as they were worried that if they broadcast color TV, everyone would rush out and buy new sets, which would crash the economy.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:41:50"
+    }
+  ]
+}

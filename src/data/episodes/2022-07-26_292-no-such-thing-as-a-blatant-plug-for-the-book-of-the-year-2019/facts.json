@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts from the hosts' new book, 'The Book of the Year 2019', covering topics such as Greta Thunberg's middle name, self-driving cars, unique polling stations in India, and a Canadian man's double ticketing incident.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Greta Thunberg's middle name is Tintin.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "You can now be pulled over for drink driving by your own car.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:12:17"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In a country of 1.3 billion people, a polling station was set up in the middle of the jungle for one single man.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:25:04"
+    },
+    {
+      "fact_number": 4,
+      "fact": "A Canadian man who threw his speeding ticket out of his car window was then given a ticket for littering.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:37:46"
+    }
+  ]
+}

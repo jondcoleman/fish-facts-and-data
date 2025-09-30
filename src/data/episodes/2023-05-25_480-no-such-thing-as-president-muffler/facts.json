@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features guest Phil Dunster and covers a range of topics including the unique thatched roof of Shakespeare's Globe Theatre, the distinctive accents of Greater Manchester, the top secret clearance of the White House calligrapher, and a fictional footballer reported as real by major newspapers.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The Shakespeare's Globe Theater is the only building with a thatched roof in London since the great fire of London in 1666.",
+      "presenter": "Phil Dunster",
+      "guest": true,
+      "start_time": "00:02:21"
+    },
+    {
+      "fact_number": 2,
+      "fact": "When residents of Greater Manchester were recently asked, they identified four distinctive accents in the region: Mank, Lancashire, Wigan, and Posh.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:15:57"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Of the few people who have top secret clearance at the White House, one of them is the person who writes all of the party invitations.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:29:11"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1999, The Times newspaper reported that Liverpool FC were about to buy a footballer called Didier Baptiste, who was actually a fictional player in a soap opera.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:42:08"
+    }
+  ]
+}

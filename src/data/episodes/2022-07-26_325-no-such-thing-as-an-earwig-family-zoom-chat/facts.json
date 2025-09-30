@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of historical and cultural topics, including the origins of Paris's first public transport system, the surprising Chinese origins of the Aladdin story, the medieval origins of merry-go-rounds, and the peculiar naming of earwigs in Japan.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Paris's first public transport system failed because wealthy passengers bought all the seats for themselves and then persuaded the government to ban poor people.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Aladdin is Chinese.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:13"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Merry-go-rounds were invented in medieval times for knights to ride on.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:01"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In some parts of Japan, earwigs are known as Chinpo Kiri, literally penis cutters.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:38:18"
+    }
+  ]
+}

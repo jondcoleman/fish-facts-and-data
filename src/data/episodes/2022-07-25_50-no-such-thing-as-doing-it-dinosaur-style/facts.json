@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating topics, including nominative determinism with funny political names, the inventive life of Erasmus Darwin, the non-randomness of Spotify's shuffle feature, and the evolution of sexual reproduction in the animal kingdom.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The 2012 law prohibiting nudity in San Francisco was proposed by a politician called Scott Wiener.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Charles Darwin's grandfather, Erasmus Darwin, got so large that he couldn't fit at his dinner table anymore. Rather than going on an exercise regime, he decided to cut a semi-circle in the table so he could fit his stomach there and continue eating.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:12:37"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Spotify's random function is not random. It used to be random, but then human listeners kept inferring order and seeing patterns where there weren't any patterns, so now they've had to change the algorithm so it's structured, but in such a way that human listeners think that it's random.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:17:17"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The animal kingdom forgot how to have sex for 40 million years.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:33:21"
+    }
+  ]
+}

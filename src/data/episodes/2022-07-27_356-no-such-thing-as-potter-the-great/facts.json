@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including JFK's unique use of a rocking chair on Air Force One, the rescheduling of the T20 Cricket World Cup due to COVID-19, the unusual dual rule of two young Russian half-brothers with their sister's guidance, and the fascinating behavior of octopus arms after detachment.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Whenever JFK flew in Air Force One, he was sat in a rocking chair.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Due to COVID-19, the 2020-2020 Cricket World Cup will be in 2021, and the 2021-2020 will happen in 2022.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:14:37"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 1682, Russia was ruled by two half brothers, aged 16 and 10. A special double throne was built so they could make proclamations together, but it had a secret window behind it so they could get messages from their sister Sophia, who was literally the power behind the throne.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:30:10"
+    },
+    {
+      "fact_number": 4,
+      "fact": "If an octopus's arm comes off, it will keep picking up food and trying to put it where its mouth used to be.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:43:40"
+    }
+  ]
+}

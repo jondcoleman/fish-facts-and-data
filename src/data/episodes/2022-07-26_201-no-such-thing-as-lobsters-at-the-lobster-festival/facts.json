@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and historical facts, including a king's fear on a train, an ice hockey player's unusual allergy, the aftermath of a major music festival, and a unique wartime bookshop strategy.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The King Ferdinand of Bulgaria was so scared of being murdered on the Oriental Express that he locked himself in the toilet.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The new goalie of the ice hockey team, the Belfast Giants, is allergic to ice.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:31"
+    },
+    {
+      "fact_number": 3,
+      "fact": "After every festival, the founder of Glastonbury has to drive around his farm with a giant magnet.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:26:11"
+    },
+    {
+      "fact_number": 4,
+      "fact": "During World War II, the owners of Foils bookshop protected the store from Nazi bombs by covering the roof in copies of Mein Kampf.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:38:12"
+    }
+  ]
+}

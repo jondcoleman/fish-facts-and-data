@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on unusual proposals for the U.S. border wall, North Korea's national airline's ventures into taxis, NASA astronauts using hand-me-down spacesuits, and the legal requirement for Tajikistan's media to use the president's full title.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Ideas proposed for the U.S. border wall include a trench full of nuclear waste, a one-way mirror, and three million hammocks next to each other.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:03:11"
+    },
+    {
+      "fact_number": 2,
+      "fact": "North Korea's national airline, Koreo, owns 10 times more taxis than it owns aeroplanes.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:14:05"
+    },
+    {
+      "fact_number": 3,
+      "fact": "All NASA astronauts are wearing hand-me-downs.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:55"
+    },
+    {
+      "fact_number": 4,
+      "fact": "As of last week, whenever state media in Tajikistan mentions the president, they now legally have to refer to him by his full title, which is, \"The founder of peace and national unity, leader of the nation, president of the Republic of Tajikistan, his excellency, Emma Marley-Raman.\"",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:33:18"
+    }
+  ]
+}

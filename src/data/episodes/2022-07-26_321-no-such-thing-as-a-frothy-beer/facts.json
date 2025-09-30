@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and intriguing topics, including the even number of kernels on a corn cob, the unusual Mayan gods, the use of slugs as grease in pre-industrial Sweden, and a humorous pilgrimage from the Cerne Abbas Giant to CERN in Geneva.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "If you were to take a corn on the cob and remove each kernel in a row while saying she loves me and then she loves me not, then she will always love you not.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Mayan gods include Flying Scab, Gathered Blood, and Pus Demon.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:15:06"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In pre-industrial Sweden, some people used slugs as grease to lubricate their cart wheels.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:22:32"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 2019, 69 pilgrims made a journey from the Cerne Abbas Giant, which is that nude chalk man that's carved into the hillside in England, to CERN in Geneva, or as they put it, from the Large Hard On to the Large Hadron.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:36:09"
+    }
+  ]
+}

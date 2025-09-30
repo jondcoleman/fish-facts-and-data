@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on human navigation and the tendency to walk in circles, Alexander Pope's self-criticism under a pseudonym, the pioneering brain mapping work of Wilder Penfield, and a Samoan king's plot involving a cricket team disguise.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "People who get really lost usually don't travel more than a hundred meters from their starting point, regardless of how long they walk for.",
+      "presenter": "Miles Jupp",
+      "guest": true,
+      "start_time": "00:01:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "One of the fiercest critics of poet Alexander Pope was a writer called Esdras Barnivilt. This was a secret identity, and the real person criticising Alexander Pope was Alexander Pope.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:14:38"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The first person to map the functions of the brain did so by literally sticking labels to different bits of it on a living person.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:24:20"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1885, a Samoan king plotted to kill a rival by disguising his army as a 200 man cricket team.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:35:54"
+    }
+  ]
+}

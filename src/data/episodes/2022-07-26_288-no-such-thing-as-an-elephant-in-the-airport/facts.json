@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a range of fascinating topics, including the incredible olfactory abilities of elephants, Thomas Jefferson's unique approach to the Bible, the history of caviar as a bar snack in 19th century America, and the legendary size and drinking habits of wrestling star Andre the Giant.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Elephants can tell how much of something is in a closed bucket by smell alone.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Thomas Jefferson cut his Bible to pieces and glued it back together in the order he thought it should be written.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:19"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 19th century America, caviar was a free bar snack.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:19:03"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Wrestling star Andre the Giant was so massive that once when he drunkenly passed out in a hotel lobby, staff couldn't move him and had to corner him off with velvet ropes until he woke up.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:34:21"
+    }
+  ]
+}

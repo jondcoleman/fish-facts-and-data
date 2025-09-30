@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky historical and contemporary facts, including the role of tooth pullers as entertainers in 18th century France, the Romanian army's unique makeup regulations during World War I, the non-existent but highly popular children's author Daisy Meadows, and the astronomical cost of building a Death Star.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 18th century France, tooth pullers were entertainers who performed in front of cheering crowds.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the First World War, the Romanian army issued an order that only officers above the rank of major had the right to wear eyeshadow in battle.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:05:16"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The most borrowed children's author from British libraries doesn't exist.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:11:07"
+    },
+    {
+      "fact_number": 4,
+      "fact": "It would cost $850 quadrillion to build the Death Star.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:21:54"
+    }
+  ]
+}

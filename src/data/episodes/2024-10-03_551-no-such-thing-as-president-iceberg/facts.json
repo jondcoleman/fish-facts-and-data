@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and historical topics, including Beethoven's DNA analysis, the humorous name of a Scottish illustrator, a French philosopher's bizarre theory about human descent from frogs, and a pig's nomination as a US presidential candidate by a prankster political group.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "According to DNA analysis, Beethoven wasn't very musical.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "One of Scotland's most eminent 19th century illustrators was called Willie Hull.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:11:15"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The title \"Prince of Thinkers\" was awarded in France to a philosopher whose greatest published work claimed humans were descended from frogs.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:24:40"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1968, a pig was nominated as a US presidential candidate, but was arrested in the middle of his acceptance speech.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:37:02"
+    }
+  ]
+}

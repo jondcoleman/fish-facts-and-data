@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including unique cultural depictions of the Last Supper in Peru, innovative architectural solutions in skyscrapers, a crime writer's unique neurological condition, and Steve Wozniak's quirky personal life and contributions to technology.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In Peru, depictions of the Last Supper show Jesus and His disciples eating a guinea pig.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:32"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There is a skyscraper in New York with a 400-ton weight in the top which moves around to stop the building from falling over.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:09:10"
+    },
+    {
+      "fact_number": 3,
+      "fact": "One of Canada's leading crime writers lost the ability to read without losing the ability to write.",
+      "presenter": "Anna Chazinski",
+      "guest": false,
+      "start_time": "00:18:25"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Steve Wozniak, the co-founder of Apple, met his wife on a dial-up joke call.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:24:27"
+    }
+  ]
+}

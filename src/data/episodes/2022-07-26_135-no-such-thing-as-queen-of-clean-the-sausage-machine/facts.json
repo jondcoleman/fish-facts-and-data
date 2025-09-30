@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating topics, including the use of barcode technology for identifying zebras, Agatha Christie's shyness at her own party, dolphins babysitting each other's young, and Sylvester Stallone's mother practicing rumpology.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Scientists have developed barcodes for zebras.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Agatha Christie was once turned away from a party held in her honour.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:12:30"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Different species of dolphins babysit each other's children.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:24:27"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Sylvester Stallone's mum is a bum-reader.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:32:15"
+    }
+  ]
+}

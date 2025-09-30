@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a variety of intriguing topics, including the anatomy and misconceptions about face mites, the journey of a robot Mayflower ship, the legendary four-minute mile by Roger Bannister, and the censorship history of the film adaptation of 'Ulysses' in New Zealand.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "It's a common misconception that face mites don't have an anus.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "A robot version of the Mayflower has just completed a human-free voyage from England to America.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:10:44"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When the first four-minute miler, Roger Bannister, met his future wife Myra, she knew he was a runner but thought he'd run four miles in one minute.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:23:56"
+    },
+    {
+      "fact_number": 4,
+      "fact": "When the movie Ulysses was released in New Zealand in 1967, censors were so worried about it that men and women weren't allowed to watch it at the same time.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:41:10"
+    }
+  ]
+}

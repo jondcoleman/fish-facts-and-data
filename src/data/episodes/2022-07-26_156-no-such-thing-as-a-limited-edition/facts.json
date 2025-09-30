@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features fascinating facts about the natural world and historical anecdotes. Topics include the extraordinary reproductive biology of vinegar flies, Winston Churchill's unique relationship with his dentures, unconventional art gallery security measures, and the consumption of prehistoric animals by Siberian prisoners.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The vinegar fly's sperm is so long that if humans had the same sperm-to-body ratio, Dan's sperm would be the size of a sperm whale.",
+      "presenter": "Erika McCallister",
+      "guest": true,
+      "start_time": "00:02:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Whenever he got really angry, Winston Churchill would throw his teeth across the room.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:12:57"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Art galleries wedge marbles between paintings and the wall so that if anyone tries to steal the painting, the marbles fall on the floor and make a clattering noise.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:22:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Prisoners in Siberia used to eat prehistoric animals they found frozen in the ice.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:11"
+    }
+  ]
+}

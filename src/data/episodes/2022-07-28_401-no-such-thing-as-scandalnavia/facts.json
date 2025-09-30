@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features facts about a unique piano linked to Benny from ABBA, the creation of a 'daddy short legs' spider, a 246-year-old pot plant at Kew Gardens, and red pandas' preference for artificial sweeteners. The hosts delve into these topics with humor and interesting anecdotes.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There's a special piano that only Benny from ABBA can play and he can only play it if he's six miles away from it.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:46"
+    },
+    {
+      "fact_number": 2,
+      "fact": "By changing the genome of a daddy long legs, scientists have created a daddy short legs.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:12:20"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Kew Gardens has managed to keep the same pot plant alive for 246 years.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:21:39"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Red pandas like artificial sweetener.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:32:44"
+    }
+  ]
+}

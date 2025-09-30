@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This Valentine's Day special episode of \"No Such Thing As A Fish\" features facts about dolphins practicing flirting, a near-death hypothermia recovery leading to romance, ancient Mesopotamian expressions of love, and Australian Aboriginal marriage customs involving mother-in-law avoidance.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Before flirting with females, young male dolphins practice on their male friends.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:01"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The adult who's come closest to freezing to death and being brought back to life got together with the person who resuscitated her.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:34"
+    },
+    {
+      "fact_number": 3,
+      "fact": "If ancient Mesopotamia had Valentine's cards, they would probably contain pictures of knees.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:23:52"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Once married, some Australian Aboriginals spend the rest of their lives actively avoiding their mother-in-law.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:38:37"
+    }
+  ]
+}

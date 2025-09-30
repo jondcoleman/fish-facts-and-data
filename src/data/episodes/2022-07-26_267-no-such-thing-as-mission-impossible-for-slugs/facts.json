@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the deadly plants at the Poison Gardens of Alnwick Castle, the fictional Oscar-nominated editor Roderick Jaynes, the unique architecture of ancient Turkish houses, and the fascinating defense mechanism of the red triangle slug.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Some of the plants at the Poison Gardens at Alnwick Castle are so deadly they are kept in cages.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:49"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The man who got nominated for an Oscar for editing 'No Country for Old Men' doesn't exist.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:08:24"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Houses in ancient Turkey had no doors or windows; you got in by climbing a ladder up to the roof and dropping through a trap door.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:17:35"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The red triangle slug can escape from frogs by supergluing them to trees.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:26:22"
+    }
+  ]
+}

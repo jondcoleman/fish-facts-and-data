@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the surprising fact that millions of people in China live in caves, a Latvian banker who accepts souls as collateral, the fictional Mountains of Kong on African maps, and the mating behaviors of Pennsylvania grass spiders.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "30 million Chinese people live in caves.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There is a banker in Latvia who will lend you money using your immortal soul as security.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:09:28"
+    },
+    {
+      "fact_number": 3,
+      "fact": "For 100 years, almost all the maps we had of Africa contained a mountain range that didn't exist.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:15:03"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Male Pennsylvania grass spiders are much more likely to approach a female for sex if she has recently killed and eaten another male.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:20:25"
+    }
+  ]
+}

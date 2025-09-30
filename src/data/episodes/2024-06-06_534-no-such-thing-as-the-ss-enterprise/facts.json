@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on film parodies, the world's largest manhole cover, the historical meaning of 'spaceman,' and a spider that preys on mosquitoes that have fed on humans.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Jurassic World Dominion is the first film to have its parody movie be released before it itself was released.",
+      "presenter": "Ali Plumb",
+      "guest": true,
+      "start_time": "00:02:48"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Britain is home to the planet's largest manhole cover.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:17:55"
+    },
+    {
+      "fact_number": 3,
+      "fact": "A spaceman was originally a journalist paid according to how much space their writing took up.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:27:18"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There is a spider in East Africa that really wants to eat us, but because it can't, it finds other animals that have eaten us and eats that instead.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:41:48"
+    }
+  ]
+}

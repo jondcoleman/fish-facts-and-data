@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the unique birth process of blue whales, the use of ceramic pillows in ancient China, Oscar Wilde's peculiar habit of eating book pages, and the role of a casting director for police lineups in New York.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Blue whales are born tail first so they don't drown during birth.",
+      "presenter": "Molly Oldfield",
+      "guest": true,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "During the Qing dynasty in China, when the weather got hot in the summer, people would swap their pillows for ceramic ones.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:09:10"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Oscar Wilde ate his books as he read them.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:18:26"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The New York police have a casting director for their lineups.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:30:31"
+    }
+  ]
+}

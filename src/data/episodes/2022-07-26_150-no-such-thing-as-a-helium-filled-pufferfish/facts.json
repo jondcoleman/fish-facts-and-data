@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of fascinating topics, including the unexpected role of baseball players in the construction of Mount Rushmore, the unique seating arrangements on Chinese trains during the Spring Festival, the moon's collection of Earth's particles over billions of years, and the deadly use of Portuguese Man of War venom by the blue dragon sea slug.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the final years of its construction, Mount Rushmore was built by baseball players.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:57"
+    },
+    {
+      "fact_number": 2,
+      "fact": "On some train journeys in China, passengers are forced to take it in turns to use the seats so that everyone gets a chance to sit down for some of the journey.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:09:38"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The moon has been collecting tiny bits of Earth for the last three billion years.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:17:59"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The most deadly user of Portuguese Man of War venom is not the Portuguese Man of War.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:26:45"
+    }
+  ]
+}

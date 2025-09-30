@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a variety of quirky and fascinating topics, including the peculiarities of Siamese twins Chang and Eng, the influence of weather on dating success, the use of robots in crowd control, and the history of Nazi memorabilia collectors. The hosts also delve into the peculiarities of hedgehog Olympic Games, the intricacies of the International Space Station's battery system, and the bizarre rituals of rain-making ceremonies.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Chang and Eng, the original Siamese twins, had a system where they were both married and would spend three nights each with each wife.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:01:31"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In France, there's been robots that have been designed to help out with any kind of fights that might happen between, let's say, football teams who happen to be watching the match in the same area.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:09:09"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The world's flattest floor is owned by NASA, it's in Huntsville, Alabama, and it's made of this kind of resin.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:26:50"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The queen has a bath at 7.30 in the morning, so if the train is going then, the driver is ordered to avoid any bumpy bits of track so that her bath doesn't slosh around too much.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:20:49"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features guest presenter Sarah Pasco and covers topics such as a non-existent German serial killer, the use of floppy disks in Boeing 747s, the challenges women faced voting in the 1920 US election, and a Japanese water beetle that escapes a frog's digestive system.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "For 15 years German police hunted a serial killer who didn't exist.",
+      "presenter": "Sarah Pasco",
+      "guest": true,
+      "start_time": "00:01:15"
+    },
+    {
+      "fact_number": 2,
+      "fact": "To run a Boeing 747 you need a binder full of floppy disks.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:58"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In the 1920 US election, which was the first after women got the vote in America, only one woman in the whole of Georgia managed to cast a vote.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:27:12"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There is a species of Japanese water beetle that survives being swallowed by a frog by crawling through the frog's body and escaping out of its anus.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:39:59"
+    }
+  ]
+}

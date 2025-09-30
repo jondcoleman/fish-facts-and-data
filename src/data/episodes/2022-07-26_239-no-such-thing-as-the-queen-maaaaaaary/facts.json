@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the inventor of the Venn diagram's lesser-known invention, the unusual method of expanding cruise ships, celebrities with unremarkable ancestry, and the unique defensive capabilities of wombats.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The inventor of the Venn diagram also invented a machine that automatically bowls cricket balls.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "If you want to increase capacity on a cruise ship, you just simply have to cut it in half and add a whole new chunk of ship.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:06:47"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Stephen Mangan, Michael Parkinson, Eamonn Holmes, and Cherie Blair have all been dropped from the TV program 'Who Do You Think You Are?' because their ancestry is too boring.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:15:40"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Wombats can kill predators by crushing them with their bottoms.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:22:22"
+    }
+  ]
+}

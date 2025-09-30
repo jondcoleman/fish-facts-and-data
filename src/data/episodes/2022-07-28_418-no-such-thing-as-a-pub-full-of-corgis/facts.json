@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about a mosquito festival in Russia, pigs wearing socks to market, Dean Martin's party trick, and amusing cave names in Tasmania.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There is a town in Russia that hosts an annual festival to celebrate mosquitoes, where the main event is a competition to see how many times girls can get bitten by mosquitoes after standing around for 20 minutes.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:52"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Pigs used to walk to market wearing woolen socks to protect their feet during the journey.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:51"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When hosting parties, singer Dean Martin would sometimes ring the police pretending to be an angry neighbour so that they would ask his guests to go home instead of him.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:24:22"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Caves in Tasmania include Poo Shooter Cave, Itchy Hole, Horrible Accident Cave, and Dead Horse Cave, which was named because at the bottom of it, they found the remains of a cow.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:36:01"
+    }
+  ]
+}

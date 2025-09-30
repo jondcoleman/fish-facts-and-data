@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and fascinating topics, including a study on the indistinguishability of pate and dog food, the explosive history of Heinz's self-heating soup cans during World War II, the use of llamas in the Argentine military, and the peculiar mating habits of lugworms on British beaches.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "If it's served carefully enough, nobody can tell the difference between pate and dog food.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:50"
+    },
+    {
+      "fact_number": 2,
+      "fact": "During World War Two, Heinz developed a self-heating can of soup to work it, it had to be lit like a bomb.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:10:57"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Argentina's armed forces have 47 ships, 139 aircraft, and 20 llamas.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:22:11"
+    },
+    {
+      "fact_number": 4,
+      "fact": "For a few days every year, Britain's beaches are covered in worm sperm.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:32:13"
+    }
+  ]
+}

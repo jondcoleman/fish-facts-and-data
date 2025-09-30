@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky historical and contemporary facts, including unusual Olympic events, a Victorian song named after Tony Blair, the eccentric first president of the UK's Women's Institute, and a study on social priming involving magnets.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The Olympics used to have a race just for old ladies.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:35"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There was a Victorian comic song that was called Tony Blair.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:09:39"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The first president of the UK's Women's Institute used a frying pan as a whip, wore an entire stuffed owl on her head and officially named the city of Canberra.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:18:23"
+    },
+    {
+      "fact_number": 4,
+      "fact": "You can make yourself more attractive to members of the opposite sex by giving them a magnet.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:25:52"
+    }
+  ]
+}

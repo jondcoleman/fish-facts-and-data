@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the reproductive benefits of lightning strikes on the Tonka bean tree, a historical complaint drum in Korea, the phenomenon of pareidolia in art and everyday life, and the niche hobby of collecting airline sick bags.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The komaru is the only species that gets better at reproducing when it has been struck by lightning.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the 1400s, the king of Korea put a big drum outside his palace, and anyone in the kingdom who wanted to complain about something was encouraged to come and bang it.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:15:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The artist George Brack once spent 10 days trying to get rid of a squirrel that kept reappearing in his painting.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:04"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Across the world, there are over a hundred serious collectors of airline sick bags.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:37:43"
+    }
+  ]
+}

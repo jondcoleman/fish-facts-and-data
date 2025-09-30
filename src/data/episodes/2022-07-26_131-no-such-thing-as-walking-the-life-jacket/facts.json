@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and intriguing facts, including Margaret Thatcher's unique method to prevent document leaks, the surprising ineffectiveness of duct tape on actual ducts, historical misconceptions about fossils, and Leonardo da Vinci's lesser-known culinary and artistic endeavors.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When she was Prime Minister, Margaret Thatcher ordered that all government documents should have slightly different word spacing, so that if a document was leaked to the press, they would know who it came from.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Duct tape shouldn't be used on ducts.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:08:06"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Oxford University's first ever professor of chemistry believed that fossils were actually frozen urine.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:17:03"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Leonardo da Vinci made sculptures out of Marzipan and got angry when people ate them.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:27:21"
+    }
+  ]
+}

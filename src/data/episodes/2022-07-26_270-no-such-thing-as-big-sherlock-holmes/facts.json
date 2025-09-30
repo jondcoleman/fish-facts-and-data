@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and intriguing topics, including an academic conference dedicated to the radio drama 'The Archers', innovative biodegradable coffee cups grown from gourds, the Mona Lisa's gaze and its effects, and unusual jobs in ancient Rome such as earlobe care specialists.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "For the last four years, there has been an annual academic conference dedicated to the archers.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:44"
+    },
+    {
+      "fact_number": 2,
+      "fact": "A company in New York has invented coffee cups that grow on trees.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:10:07"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The Mona Lisa effect is where a painting is looking directly at you, but the Mona Lisa effect does not apply to the Mona Lisa.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:21:20"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In ancient Rome there was a job which was to deal with infected earlobes.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:31:00"
+    }
+  ]
+}

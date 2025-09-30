@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the prevalence of ham sandwiches in 1851 London, the surprising amount of cash eaten in the UK since 2003, the unique rotational periods of the sun, and a historical campaign against Morse code swearing via car horns in Halifax, Nova Scotia.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1851, all of the 436,800 sandwiches sold on the streets of London were ham.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Since 2003, the UK has eaten one and a half million pounds in cash.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:12:01"
+    },
+    {
+      "fact_number": 3,
+      "fact": "A day on the sun lasts both 25 and 38 Earth days.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:20:56"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1945, police in Halifax, Nova Scotia initiated a campaign to stop people from beeping their car horns in Morse code to signal out vile and filthy language.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:26:04"
+    }
+  ]
+}

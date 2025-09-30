@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on the Night Witches, a Soviet female bomber regiment during WWII, the cultural differences in returning lost items between Tokyo and New York, the history of railways in New Zealand, and a 1936 incident where a robot shot its inventor.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The most highly decorated Soviet Air Unit of World War II didn't take part in the victory parade because their planes were too slow.",
+      "presenter": "Rhys Darby",
+      "guest": true,
+      "start_time": "00:02:15"
+    },
+    {
+      "fact_number": 2,
+      "fact": "If you drop a wallet containing cash in Tokyo, you're three times more likely to get it back than if you drop it in New York.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:54"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When trains were new in New Zealand, an elderly lady flagged one down by standing on the tracks to see if anyone could give her change for a £1 note.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:07"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1936, a robot in California shot its inventor in the head.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:42:48"
+    }
+  ]
+}

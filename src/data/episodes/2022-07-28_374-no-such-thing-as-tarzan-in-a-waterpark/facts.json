@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a variety of intriguing topics, including the naming of children after service stations, the history of a popular illegal jazz music book, the comparison of a long water slide to a short river, and the development of an Antarctic accent among scientists. The hosts delve into these facts with humor and curiosity, exploring the quirky and unexpected details behind each story.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The founder of the UK's first electric vehicle forecourt was named after a service station.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "From 1975 to 2004, it was illegal to buy the world's most popular collection of jazz music.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:13:55"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The world's longest water slide is almost 20 times longer than the world's shortest river.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:12"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Scientists in the South Pole are starting to speak with an Antarctic accent.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:43:43"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features four guest comedians from the Edinburgh Fringe Festival, each presenting a unique fact. The topics range from a famous clown teacher's harsh feedback, a philosophical rivalry, the origins of punk music, to Andrew Carnegie's attempt at world peace through dinosaur diplomacy.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The great clown teacher, Philip Golia, is so known for his negative feedback that his former students created a Facebook page purely to log all the many ways he's insulted them. The page is called, Philip Golia hit me with a stick.",
+      "presenter": "Elf Lyons",
+      "guest": true,
+      "start_time": "00:03:05"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the 1820s, philosopher Arthur Schopenhauer hated his contemporary Hagel so much he intentionally scheduled his lectures at the same time as Hagel's and had zero people attend.",
+      "presenter": "Ray O'Leary",
+      "guest": true,
+      "start_time": "00:18:31"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The first band to call themselves punk didn't use guitars.",
+      "presenter": "Andrew O'Neill",
+      "guest": true,
+      "start_time": "00:32:18"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Andrew Carnegie tried to achieve world peace by sending countries dinosaurs.",
+      "presenter": "Ahir Shah",
+      "guest": true,
+      "start_time": "00:45:51"
+    }
+  ]
+}

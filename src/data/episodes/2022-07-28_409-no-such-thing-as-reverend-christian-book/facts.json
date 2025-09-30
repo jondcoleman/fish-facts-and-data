@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a range of quirky and fascinating topics, including the resilience of tardigrades, a bizarre crime wave of testicle theft in 1920s Chicago, the economic impact of a famous Indian tiger, and a church in Bournemouth rebranding itself to appeal to a younger audience.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Tardigrades can survive being shot out of a gun, but they're a bit groggy afterwards.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:49"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the 1920s, Chicago was hit by a miniature crime wave of testicle theft, which was nicknamed 'Gland Larsony.'",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:12:54"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Until 2016, the Indian government earned $10 million a year from a single tiger.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:36:37"
+    },
+    {
+      "fact_number": 4,
+      "fact": "St. Michael's Church in Bournemouth has been renamed St. Mike's to make it seem younger and cooler.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:34:16"
+    }
+  ]
+}

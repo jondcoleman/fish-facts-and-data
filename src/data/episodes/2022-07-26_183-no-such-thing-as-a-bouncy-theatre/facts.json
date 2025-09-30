@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics, including the massive global impact of IKEA's wood usage, the unique agricultural practices of the Nazca people, the innovative painting techniques of Thomas Gainsborough, and the surprising use of Xbox controllers in US Navy submarines.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "1% of the entire planet's wood supply is turned into IKEA furniture.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:00:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Nazca people would employ someone to walk around with a dead fox on their head.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:09:22"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Instead of going outside, the painter Gainsborough painted outdoor scenes by making a little model with moss and broccoli.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:19:56"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The US Navy submarines are starting to control their periscopes with Xbox controllers.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:54"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the fashion trend of lightning rod hats in 18th century Paris, the ongoing debate over Heathrow's third runway and its impact on Schiphol Airport, the clever use of sausages by Portuguese Jews during the Inquisition, and the dramatic population cycles of lemmings.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Not long after Benjamin Franklin invented the lightning rod, it took off as a fashion.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:35"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Every time the UK delays a decision on expanding Heathrow, the head of Schiphol Airport in the Netherlands sends Heathrow a congratulatory cake to thank them for all the extra custom.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:18:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In the 16th century, hundreds of lives in Portugal were saved by a special sausage.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:24:24"
+    },
+    {
+      "fact_number": 4,
+      "fact": "If you count the number of lemmings at their peak somewhere, and then you go back four years later and you count them again, there will be a thousand times fewer of them.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:36:05"
+    }
+  ]
+}

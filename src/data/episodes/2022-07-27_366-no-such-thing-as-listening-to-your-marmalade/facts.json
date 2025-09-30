@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of topics including the invention of the personal cassette player, the decision-making processes of baboons, the pitch-perfect voice of Ella Fitzgerald, and the rivalry between Arnold Schwarzenegger and Sylvester Stallone that led to the making of the film \"Stop! Or My Mom Will Shoot.\"",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The prototype personal cassette player was a block of wood which the inventor carried around in his pocket to make sure it would fit.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Baboons can take 45 minutes debating which direction to go in the morning.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:50"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Ella Fitzgerald's voice was so pitch-perfect that musicians would tune their instruments to it.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:54"
+    },
+    {
+      "fact_number": 4,
+      "fact": "As part of their rivalry, Arnold Schwarzenegger tricked Sylvester Stallone into making \"Stop! Or My Mom Will Shoot.\"",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:43:18"
+    }
+  ]
+}

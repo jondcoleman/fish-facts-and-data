@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features guest Neil Gaiman discussing the history of bagels, James Harkin exploring the myth of Sisyphus, Andrew Hunter Murray on the legalization of beekeeping in Minneapolis, and Dan Schreiber sharing a humorous anecdote about Douglas Adams.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The bagel in the form that we know it only ever came to exist through Polish anti-Semitism.",
+      "presenter": "Neil Gaiman",
+      "guest": true,
+      "start_time": "00:03:23"
+    },
+    {
+      "fact_number": 2,
+      "fact": "It's actually not that bad to spend eternity pushing a boulder up a hill for it only to roll down again every time.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:14:22"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Beekeeping was only legalized in Minneapolis in 2009.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:28:50"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The author Douglas Adams once put his back out while buttering a slice of bread.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:40:39"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode, recorded at the Hay Festival, features literary-themed facts. The hosts discuss the first novel ending mid-sentence, Tolkien and Lewis attending a party as polar bears, Agatha Christie's disdain for Poirot, and John Logie Baird's pre-television inventions.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first ever novel ended mid-sentence. This is a Japanese novel called The Tale of Genji, written in the early 11th century.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:57"
+    },
+    {
+      "fact_number": 2,
+      "fact": "JRR Tolkien and CS Lewis went to a party dressed as Polar Bears. It was not a fancy dress party.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:09:40"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Agatha Christie thought that Hercules Poirot, her most famous creation, was a, quote, \"detestable, bombastic, tiresome, egocentric little creep.\"",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:20:43"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Before he invented the television, John Logie Baird invented a pair of socks to wear underneath your socks.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:10"
+    }
+  ]
+}

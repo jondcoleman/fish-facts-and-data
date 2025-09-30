@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a variety of quirky and fascinating topics, including the Lady Godiva parade in Coventry, the surprising coaching record of basketball's inventor, the bacterial impact of blowing out birthday candles, and the ambitious swimming feats of Benoit Lecomte.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the annual Lady Godiva parade, which famously celebrates a lady who rode naked through Coventry, not only does the rider always wear clothes, but one year even the horse wore trousers.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:53"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The worst basketball coach in the history of the University of Kansas is James Naismith, the man who invented basketball.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:11:06"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Blowing out the candles on a birthday cake increases the number of bacteria on it by 1,400%.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:19:56"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The first person to swim the Atlantic said 'Never again' as soon as he was finished. He is now planning to swim the Pacific.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:33:00"
+    }
+  ]
+}

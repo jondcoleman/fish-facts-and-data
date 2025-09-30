@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and historical topics, including theories about the origin of life, the history of postcards, the fashionability of a French executioner, and the high value and security of Sicilian pistachios.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Theories for the origin of life on earth include primordial soup, primordial sandwich, primordial soup and sandwich, primordial pizza, and primordial mayonnaise.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:56"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The world's oldest postcard was sent by a writer called Theodore Hook. He sent it to himself.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:12:56"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The first man to kill people by guillotine was briefly so fashionable that French people would dress up as him.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:24:28"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In Sicily, the pistachios are guarded by the military police.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:32:19"
+    }
+  ]
+}

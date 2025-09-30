@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a range of quirky and intriguing topics, including the role of visitors' breath in museum conservation, a gruesome tug of war accident in Taiwan, medieval election practices, and the surprising story behind the adoption of the American national anthem.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Museums need visitors' breath in order to preserve their exhibits properly.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1997, a mass tug of war went so badly wrong that it ripped two of the contestants' arms off.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:12"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In medieval elections, you were supposed to object to any suggestion that you wanted to win.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:25:18"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The reason America has a national anthem is down to Robert Ripley, believe it or not.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:38:37"
+    }
+  ]
+}

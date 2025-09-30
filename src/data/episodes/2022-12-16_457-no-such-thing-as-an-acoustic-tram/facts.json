@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the surprising origins of the Muppets' designer, a German military uniform mishap, a humorous incident involving a tram named after an actress, and the disputed origins of the banana split dessert.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Many of the Muppets were designed and created by someone called Kermit Love who had absolutely nothing to do with Kermit the Frog.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:02:24"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The German army has just had to tear out some of the size labels from their new uniforms because they read small, short, or SS.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:22:28"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 2015, the actor Vicky McClure was kicked off the Vicky McClure tram for not having a ticket.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:28"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Because nobody can decide where it was invented, there's currently a split in the banana splits world.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:35:41"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of fascinating topics, including the surprising color change of the Australian green frog, the innovative use of mushrooms in creating sustainable materials, the link between allergies to domestic cats and big cats like lions, and the legal restrictions on human pyramids in Japan.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The frog whose Latin name means blue frog is actually green.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:44"
+    },
+    {
+      "fact_number": 2,
+      "fact": "You can surf on mushrooms.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:09:09"
+    },
+    {
+      "fact_number": 3,
+      "fact": "If you're allergic to cats, you're also allergic to lions.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:35"
+    },
+    {
+      "fact_number": 4,
+      "fact": "It's illegal in Japan to make a human pyramid higher than five tiers.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:26:09"
+    }
+  ]
+}

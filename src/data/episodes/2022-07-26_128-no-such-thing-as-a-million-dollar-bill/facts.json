@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the use of bioluminescent fungi in early submarines, Woodrow Wilson's extensive golfing during his presidency, the voyeuristic interest in poets Shelley and Byron during their stay in Lake Geneva, and famous historical games of Go with dramatic names like the blood vomiting game.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The controls in the world's first combat submarine were lit up with glowing mushrooms.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "While he was president, Woodrow Wilson played more than 1200 rounds of golf.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:11:30"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When the poets Shelley and Byron went on a writer's retreat to Lake Geneva in 1816, the hotel opposite them hired out telescopes to their guests so that they could spy on them.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:21:06"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Famous historical games of Go include the blood vomiting game, the ear reddening game, the famous killing game, and the atomic bomb game.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:27:55"
+    }
+  ]
+}

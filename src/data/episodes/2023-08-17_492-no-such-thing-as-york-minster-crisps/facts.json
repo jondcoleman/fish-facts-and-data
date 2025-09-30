@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on unusual facts about Waitrose in Tumbridge Wells, a Zimmer frame amnesty in Scotland, a controversy at the Liars Club Lie of the Year award, and bizarre crisp flavors including Arthur Scargill and vagina. The hosts are joined by guest Richard Osman.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Tumbridge Wells does not have a Waitrose.",
+      "presenter": "Richard Osman",
+      "guest": true,
+      "start_time": "00:02:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "After successful amnesties on knives and guns in 2016, a Scottish council offered an amnesty on Zimmer Frames.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:15:53"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 2010, the annual Liars Club Lie of the Year award was marred with controversy when the winning liar was accused of having lied about his lie.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:28:05"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Unusual crisp flavours in history include prosecco, fish curry, buttered garlic scallop, vagina, and Arthur Scargill.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:37:31"
+    }
+  ]
+}

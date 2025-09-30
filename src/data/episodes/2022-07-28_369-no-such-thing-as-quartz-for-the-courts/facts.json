@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of quirky and intriguing facts, including the invention of a rectal thermometer by a doctor with a fitting name, the use of rear view mirrors in Cold War spy planes to avoid detection, the historical use of sunglasses by judges in 12th century China, and a unique species of rabbit that walks on its front legs due to an inability to hop.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The doctor who invented the first decent thermometer suitable for rectal use was named Thomas Orbutt.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Cold War spy planes were equipped with rear view mirrors so that pilots could check they weren't leaving a trail behind them.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:15:20"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 12th century China, judges used to wear sunglasses in the courtroom.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:28:05"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There is a species of rabbit that can't hop, so if it wants to go fast, it walks on its hands with its legs in the air.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:45:27"
+    }
+  ]
+}

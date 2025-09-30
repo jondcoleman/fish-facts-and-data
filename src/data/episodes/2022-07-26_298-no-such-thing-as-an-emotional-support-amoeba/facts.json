@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of quirky and fascinating topics, including the unique travel arrangements for racehorses, the linguistic peculiarities of the French language, a highly sensitive gravity measuring device, and a humorous pirate anecdote involving Blackbeard's mentor.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When race horses travel by airplane, they're allowed to bring an emotional support goat for no extra cost.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:53"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The French can't decide how to say the word \"pencil\" in their own language.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:22"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There is a gravity measuring device in Maryland so sensitive that it can tell whether or not the scientists working on it have had lunch.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:26:03"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The pirate, who mentored Blackbeard, once attacked a ship purely to steal all of the hats of everyone on board because his crew had drunkenly thrown all of their own hats overboard the night before.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:37:22"
+    }
+  ]
+}

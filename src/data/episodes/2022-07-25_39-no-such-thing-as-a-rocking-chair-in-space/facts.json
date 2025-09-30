@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the unique construction of San Francisco's fire department ladders, the surprising fact about astronauts and snoring, a bizarre historical event involving meat rain in Kentucky, and a Victorian invention of a coat that doubles as a boat.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The San Francisco Fire Department's ladders are made of wood, which is not perhaps the material you think would be good for putting near fire.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Astronauts do not snore.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:10:06"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In March 1876, it rained mutton tasting meat in Kentucky.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:17:59"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The Victorians invented a coat which doubled up as a boat.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:24:51"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features four guest comedians sharing intriguing facts. Topics include a record-breaking jigsaw puzzle completion, a medieval pig trial, the composition of emotional tears, and Jimi Hendrix's unexpected tour with The Monkees.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "At the 2020 British Puzzle Championship, Sarah Mills solved a 1000 piece jigsaw puzzle in one hour and 40 minutes.",
+      "presenter": "Ian Smith",
+      "guest": true,
+      "start_time": "00:03:44"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1386, a pig was put on trial for murder.",
+      "presenter": "Abby Howells",
+      "guest": true,
+      "start_time": "00:16:55"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Emotional tears have more protein in them, so they fall slow, and it's by design so that our tribe can see us cry and comfort us.",
+      "presenter": "Aruj Ashfaq",
+      "guest": true,
+      "start_time": "00:33:09"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1967, for eight dates, Jimi Hendrix supported the Monkees on tour in the United States of America.",
+      "presenter": "Nish Kumar",
+      "guest": true,
+      "start_time": "00:45:52"
+    }
+  ]
+}

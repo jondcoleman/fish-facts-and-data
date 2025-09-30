@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating facts, including the negotiation of bee stings in a horror film, the use of a crash test moose by Volvo, the historical use of radioactive materials in everyday items, and the surprising connection between a former Mexican president and the introduction of chewing gum to the world.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The star of the film Candy Man, where a character has bees coming out of his mouth, negotiated a $1,000 bonus for every time he got stung. He ended up with $23,000.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:47"
+    },
+    {
+      "fact_number": 2,
+      "fact": "As well as using crash test dummies, Volvo tests its cars with a crash test moose, which as far as I can tell is called moose-us.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:10:14"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Americans used to make their slippers radioactive so they could find them in the dark.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:19:49"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The man who introduced chewing gum to the world had already been president of Mexico 11 times.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:28:48"
+    }
+  ]
+}

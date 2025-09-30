@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features facts about Socrates' sneezing spirit, historical methods of food preservation, David Frost's unique broadcasting schedule, and the original meaning of the term 'chill pill'. The hosts explore these topics with humor and delve into related anecdotes and historical tidbits.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Socrates had a spirit who spoke to him through the medium of sneezing.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "People used to hang their fridges from the ceiling.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:08:02"
+    },
+    {
+      "fact_number": 3,
+      "fact": "TV star David Frost used to host live shows eight nights a week.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:34"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The original chill pill was a pill that you took when you had a chill.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:24:15"
+    }
+  ]
+}

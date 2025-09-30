@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a range of quirky and fascinating topics, including predictive technology for falls in the elderly, Lyndon B. Johnson's unusual White House shower, rejected names for British storms, and boxer crabs using sea anemones as boxing gloves.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Scientists can now predict when someone is going to fall over three weeks before it happens.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:53"
+    },
+    {
+      "fact_number": 2,
+      "fact": "When he became president, Lyndon B. Johnson installed a special shower in the White House that fired a jet directly at his penis.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:12:29"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Rejected names for British storms include Baldrick, Noddy, Megatron, and Branch Warbler.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:20:01"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Boxer crabs use sea anemones as boxing gloves.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:28:12"
+    }
+  ]
+}

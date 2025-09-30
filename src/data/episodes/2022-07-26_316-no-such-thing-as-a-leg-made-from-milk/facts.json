@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky historical and scientific facts. Topics include the eccentric inventions of Gail Borden, the economics of surname sharing among economists, the historical bath delivery service in Paris, and the phenomenon of dogs spraining their tails from excessive happiness.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The inventor of condensed milk, Gail Borden, had previously tried inventing a biscuit made of meat.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:04"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 2014, four non-related economists with the surname Goodman published a paper about the economics of surname sharing. The paper was titled A Few Good Men.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:13:01"
+    },
+    {
+      "fact_number": 3,
+      "fact": "If you wanted to have a bath in Paris in the 1820s, you could have one delivered to your door.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:19:44"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Dogs can suffer from a sprained tail if they get too happy.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:27:46"
+    }
+  ]
+}

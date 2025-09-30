@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and intriguing facts, including a billionaire's unique communication method, the historical use of children as scarecrows, the origins of leisure caravanning, and the peculiar gravitational conditions on Mars's smallest moon.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The 95-year-old billionaire who controls Viacom and CBS now communicates via an iPad preloaded with audio clips. His choices include \"Yes, No\" and \"Buck You.\"",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:43"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Before scarecrows were straw dummies, they were living children.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:53"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The first ever leisure caravan had a man on a tricycle going ahead of it to check that the roads were good enough.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:18:38"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The gravity on Mars's smallest moon is so weak that if you built a ramp on it, you could ride your bike into space.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:25:15"
+    }
+  ]
+}

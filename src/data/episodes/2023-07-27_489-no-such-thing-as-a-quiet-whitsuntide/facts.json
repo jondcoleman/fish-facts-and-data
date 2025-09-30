@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of No Such Thing As A Fish, featuring guest Sally Phillips, covers a range of quirky and fascinating topics including the Finnish Hobby Horse Championships, the creation of the 6,666,666th English Wikipedia article, mysterious geological structures named Jason, and the historical use of condoms in ancient Egypt.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The world's best hobby horse jumper can jump high enough to theoretically clear the first two jumps in the Grand National.",
+      "presenter": "Sally Phillips",
+      "guest": true,
+      "start_time": "00:02:13"
+    },
+    {
+      "fact_number": 2,
+      "fact": "This June of 2023, the 6 millionth, 666,666th English language Wikipedia article was created, and that page was an entry for SatanCon.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:02"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Roughly 3% of our entire planet is called Jason.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:24:59"
+    },
+    {
+      "fact_number": 4,
+      "fact": "You could tell the social status of an ancient Egyptian man by the colour of his condom.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:37:43"
+    }
+  ]
+}

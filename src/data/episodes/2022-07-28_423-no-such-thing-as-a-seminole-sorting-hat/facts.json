@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and intriguing facts, including the use of a jet engine to dry a cricket pitch, a legal debate over whether stained glass windows are considered windows, the ownership of Hard Rock Cafe by a Native American tribe, and the unique anatomy of female seals that helps them during mating.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1954, Derbyshire Cricket Club tried drying out its pitch with a jet engine.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:01:29"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There's currently a court case going on in Ireland about whether stained glass windows are actually windows.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:16"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Hard Rock Cafe is owned globally by a group of Native Americans.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:28:17"
+    },
+    {
+      "fact_number": 4,
+      "fact": "When female seals have sex, they have a special muscle in their vagina that can clamp around their partner to stop seawater from getting in.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:41:18"
+    }
+  ]
+}

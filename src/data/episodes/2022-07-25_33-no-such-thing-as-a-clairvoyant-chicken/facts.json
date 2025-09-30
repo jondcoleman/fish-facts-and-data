@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This Halloween special episode of 'No Such Thing As A Fish' explores spooky and bizarre facts related to Halloween traditions, witchcraft, the making of horror films, and unusual scientific studies involving blood transfusions in mice.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Until the year 635 AD, Halloween was on the 12th of May.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Witches used broomsticks to put hallucinogenic drugs up their bums.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:08:32"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The woman who played the voice of Reagan in The Exorcist only agreed to play the part on the grounds that she have two priests in her sound booth at all times, could be constantly drinking whiskey, chain-smoking cigarettes, and eating raw eggs.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:55"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The secret of youth is drinking youngsters' blood, open brackets, if you're a mouse, close brackets.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:24:03"
+    }
+  ]
+}

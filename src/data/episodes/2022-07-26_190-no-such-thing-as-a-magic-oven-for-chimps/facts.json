@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and interesting facts, including Britain's unexpected export of boomerangs to Australia, the Catalan region's efforts to ensure .cat domains are about Catalonia rather than cats, Walmart's cultural missteps in Germany, and chimpanzees' struggles with the game Rock Paper Scissors.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Britain exports over 50,000 boomerangs every year to Australia.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:54"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Catalan region does regular checks of websites that end with .cat to check that they're about Catalonia and not about cats.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:08:38"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When Walmart opened in Germany, it scrapped its policy of making employees smile at customers because the Germans found it too weird.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:18:43"
+    },
+    {
+      "fact_number": 4,
+      "fact": "It is really easy to beat chimpanzees at the game Rock Paper Scissors.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:06"
+    }
+  ]
+}

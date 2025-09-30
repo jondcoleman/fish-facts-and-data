@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a variety of quirky and historical facts, including a cheese riot in Nottingham, the peculiar eating habits of baby robins, Lenin's unexpected Irish accent, and a unique Japanese service where you can hire someone to take the blame for your mistakes at work.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1766, there was a cheese riot in Nottingham, where the mayor of Nottingham was knocked over by a large cheese.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:47"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Baby robins sometimes eat so many caterpillars they turn green.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:11:56"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The Russian Communist leader, Vladimir Lenin, spoke with an Irish accent.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:20:55"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In Japan, if you make a mistake at work, you can hire someone to get told off by your boss so you don't have to.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:26:47"
+    }
+  ]
+}

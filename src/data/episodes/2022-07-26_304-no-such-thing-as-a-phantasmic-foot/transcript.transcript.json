@@ -1,0 +1,5422 @@
+[
+  {
+    "start": 0,
+    "end": 2,
+    "text": " [Bell]"
+  },
+  {
+    "start": 2,
+    "end": 23,
+    "text": " Hello, and welcome to another episode of \"No Such Thing as a Fish\" a weekly podcast coming to you from the QI offices in Coburn, Garden."
+  },
+  {
+    "start": 23,
+    "end": 29,
+    "text": " My name is Dan Schreiber. I am sitting here with Andrew Hunter Murray, James Harkin, and Anna Jizinski."
+  },
+  {
+    "start": 29,
+    "end": 38,
+    "text": " And once again, we have gathered around the microphones with our four favorite facts from the last seven days, and in no particular order, here we go."
+  },
+  {
+    "start": 38,
+    "end": 40,
+    "text": " Starting with you, Andy."
+  },
+  {
+    "start": 40,
+    "end": 49,
+    "text": " My fact is that in Britain alone, unnecessary emails create nearly 24,000 tons of carbon every year."
+  },
+  {
+    "start": 49,
+    "end": 51,
+    "text": " Wow. Yeah."
+  },
+  {
+    "start": 51,
+    "end": 54,
+    "text": " See, and you guys always give me crap for not replying to my emails."
+  },
+  {
+    "start": 54,
+    "end": 57,
+    "text": " I'm the most environmentally conscious of us."
+  },
+  {
+    "start": 57,
+    "end": 66,
+    "text": " To be fair, Dan, the number of emails that you send, which are completely pointless, outweighs the fact that you don't send many."
+  },
+  {
+    "start": 66,
+    "end": 72,
+    "text": " Yeah, you're actually, we often don't get emails in reply to the important stuff from you, and then we'll be like, \"Dan must be away from his computer.\""
+  },
+  {
+    "start": 72,
+    "end": 77,
+    "text": " And then suddenly you'll be like, \"Hey, guys, did you see this ridiculous meme? No one gives a shit about this.\""
+  },
+  {
+    "start": 77,
+    "end": 79,
+    "text": " Okay, I can't listen. I didn't like this."
+  },
+  {
+    "start": 79,
+    "end": 80,
+    "text": " How has you not?"
+  },
+  {
+    "start": 80,
+    "end": 89,
+    "text": " I've just gone against what I was hoping I would be. So what this is, this is a calculation done by an energy company called OVO."
+  },
+  {
+    "start": 89,
+    "end": 92,
+    "text": " And they looked at the carbon footprint of an email, basically."
+  },
+  {
+    "start": 92,
+    "end": 98,
+    "text": " So the figures vary, but it varies between one gram and three or four grams. It's not very much."
+  },
+  {
+    "start": 98,
+    "end": 101,
+    "text": " But they did also look at how many unnecessary emails are sent each day."
+  },
+  {
+    "start": 101,
+    "end": 107,
+    "text": " For example, people writing back to just say, \"Thanks.\" And sending that email through the system."
+  },
+  {
+    "start": 107,
+    "end": 108,
+    "text": " Is that unnecessary?"
+  },
+  {
+    "start": 108,
+    "end": 122,
+    "text": " Well, it depends how good your manners are, I guess. But if we're agreeing that that's a sort of superfluous thing, then what they want us to do is to add a little signature to our door emails, saying something like, \"This is a thanks in advance.\""
+  },
+  {
+    "start": 122,
+    "end": 125,
+    "text": " Now that sounds really passive to me."
+  },
+  {
+    "start": 125,
+    "end": 131,
+    "text": " It's like, \"Hey, Andy, can you please do your QI scripts by the end of the week, thanks in advance.\""
+  },
+  {
+    "start": 131,
+    "end": 133,
+    "text": " Sounds like I've said, \"You better bloody hell do it.\""
+  },
+  {
+    "start": 133,
+    "end": 134,
+    "text": " Yeah."
+  },
+  {
+    "start": 134,
+    "end": 135,
+    "text": " That's a really good point."
+  },
+  {
+    "start": 135,
+    "end": 138,
+    "text": " It'll be better than what you normally so, which is you better bloody hell don't you."
+  },
+  {
+    "start": 138,
+    "end": 144,
+    "text": " But the really cool thing about this research is that the men who advise them on this is a man called Mike Berners-Lee."
+  },
+  {
+    "start": 144,
+    "end": 149,
+    "text": " And you might know that surname. He's the brother of Tim Berners-Lee, who invented the World Wide Web."
+  },
+  {
+    "start": 149,
+    "end": 150,
+    "text": " Yeah."
+  },
+  {
+    "start": 150,
+    "end": 152,
+    "text": " Can we just quickly go through how it does it?"
+  },
+  {
+    "start": 152,
+    "end": 156,
+    "text": " So is it carbon or carbon dioxide? Is it from big servers processing the information?"
+  },
+  {
+    "start": 156,
+    "end": 161,
+    "text": " It's from all these things. So it's from, for example, using electricity in the first place."
+  },
+  {
+    "start": 161,
+    "end": 166,
+    "text": " The cost of running a computer network, the cost of keeping all the data on servers and travelling across the planet."
+  },
+  {
+    "start": 166,
+    "end": 171,
+    "text": " So the whole thing, you know, using your computer while it's on to send us email."
+  },
+  {
+    "start": 171,
+    "end": 174,
+    "text": " It's very hard to quantify, obviously, but there's a rough figure."
+  },
+  {
+    "start": 174,
+    "end": 179,
+    "text": " And the calculations, they depend on how important that email is a little bit."
+  },
+  {
+    "start": 179,
+    "end": 184,
+    "text": " Because let's say I send an email back to Andy just saying, \"Thanks, on low.\""
+  },
+  {
+    "start": 184,
+    "end": 186,
+    "text": " Now you don't spend much time reading it."
+  },
+  {
+    "start": 186,
+    "end": 189,
+    "text": " And so it means that it doesn't use up as much electricity."
+  },
+  {
+    "start": 189,
+    "end": 192,
+    "text": " And it's so it means that the carbon footprint is lower."
+  },
+  {
+    "start": 192,
+    "end": 195,
+    "text": " So for instance, over 70% of emails are sent to spam."
+  },
+  {
+    "start": 195,
+    "end": 198,
+    "text": " But they only use up 22% of your carbon footprint."
+  },
+  {
+    "start": 198,
+    "end": 200,
+    "text": " And that's because you hardly ever read them."
+  },
+  {
+    "start": 200,
+    "end": 203,
+    "text": " And they go straight into your junk folder and then get deleted."
+  },
+  {
+    "start": 203,
+    "end": 205,
+    "text": " So it's like a one-way system."
+  },
+  {
+    "start": 205,
+    "end": 207,
+    "text": " It's only the making of it that uses carbon."
+  },
+  {
+    "start": 207,
+    "end": 211,
+    "text": " Unless you're over the age of 78 and you're a woman living alone."
+  },
+  {
+    "start": 211,
+    "end": 215,
+    "text": " It's just donated to a million phony charities so far."
+  },
+  {
+    "start": 215,
+    "end": 220,
+    "text": " This Mike Berners-Lee has written a book about carbon footprints."
+  },
+  {
+    "start": 220,
+    "end": 222,
+    "text": " And the amount of carbon used for lots of different things."
+  },
+  {
+    "start": 222,
+    "end": 226,
+    "text": " It's called How Bad Are Bananas, the carbon footprint of everything."
+  },
+  {
+    "start": 226,
+    "end": 231,
+    "text": " And one thing that is bad as well as bananas was the 2010 World Cup,"
+  },
+  {
+    "start": 231,
+    "end": 236,
+    "text": " which he says cost was 2.8 million tons of CO2."
+  },
+  {
+    "start": 236,
+    "end": 243,
+    "text": " And to put that into perspective, it's the equivalent of every man, woman, and child in the UK having 20 cheeseburgers."
+  },
+  {
+    "start": 243,
+    "end": 246,
+    "text": " Oh, that's the same amount."
+  },
+  {
+    "start": 246,
+    "end": 248,
+    "text": " In terms of obesity rates or anything."
+  },
+  {
+    "start": 248,
+    "end": 250,
+    "text": " In terms of carbon usage."
+  },
+  {
+    "start": 250,
+    "end": 252,
+    "text": " Yeah, exactly. The amount of carbon."
+  },
+  {
+    "start": 252,
+    "end": 255,
+    "text": " Or 6,000 space shuttle flights."
+  },
+  {
+    "start": 255,
+    "end": 256,
+    "text": " Got football low cup."
+  },
+  {
+    "start": 256,
+    "end": 257,
+    "text": " But it's a good well cup."
+  },
+  {
+    "start": 257,
+    "end": 258,
+    "text": " Right."
+  },
+  {
+    "start": 258,
+    "end": 260,
+    "text": " Don't be worth it."
+  },
+  {
+    "start": 260,
+    "end": 262,
+    "text": " Mike writes a lot of articles online as well."
+  },
+  {
+    "start": 262,
+    "end": 266,
+    "text": " So he has an article series that's called What's the Carbon Footprint of?"
+  },
+  {
+    "start": 266,
+    "end": 267,
+    "text": " Dot, dot, dot."
+  },
+  {
+    "start": 267,
+    "end": 270,
+    "text": " So it's things like the carbon footprint of, say, the Iraq war."
+  },
+  {
+    "start": 270,
+    "end": 272,
+    "text": " He's looked at all the numbers and made an estimate."
+  },
+  {
+    "start": 272,
+    "end": 276,
+    "text": " And then this one's a bit of a guilty sort of, you don't need this really."
+  },
+  {
+    "start": 276,
+    "end": 279,
+    "text": " The carbon footprint of the heart bypass operation."
+  },
+  {
+    "start": 279,
+    "end": 283,
+    "text": " I don't think you need to be thinking about offsetting when you're on your way in."
+  },
+  {
+    "start": 283,
+    "end": 286,
+    "text": " It's going to end up being too hard by passes, isn't it?"
+  },
+  {
+    "start": 286,
+    "end": 290,
+    "text": " If you wake up and they go, do you know how many flies you've ruined with that?"
+  },
+  {
+    "start": 290,
+    "end": 291,
+    "text": " There's 1.1 tons."
+  },
+  {
+    "start": 291,
+    "end": 292,
+    "text": " Wow."
+  },
+  {
+    "start": 292,
+    "end": 293,
+    "text": " Is that bad?"
+  },
+  {
+    "start": 293,
+    "end": 294,
+    "text": " Yeah."
+  },
+  {
+    "start": 294,
+    "end": 296,
+    "text": " It's not, it's not any carbon footprint. It's not great."
+  },
+  {
+    "start": 296,
+    "end": 297,
+    "text": " It's all relative."
+  },
+  {
+    "start": 297,
+    "end": 299,
+    "text": " It is a, you know, a lot of modern life."
+  },
+  {
+    "start": 299,
+    "end": 302,
+    "text": " If you think about one email is one grab."
+  },
+  {
+    "start": 302,
+    "end": 304,
+    "text": " Right. Okay. That's good perspective."
+  },
+  {
+    "start": 304,
+    "end": 306,
+    "text": " Yeah. But if you, obviously, if you sent an email saying,"
+  },
+  {
+    "start": 306,
+    "end": 309,
+    "text": " can I book a heart bypass in, then that's only adding to the footprint."
+  },
+  {
+    "start": 309,
+    "end": 310,
+    "text": " Yeah."
+  },
+  {
+    "start": 310,
+    "end": 311,
+    "text": " So here's one."
+  },
+  {
+    "start": 311,
+    "end": 315,
+    "text": " If you have a BLT sandwich and you want to lower your carbon footprint,"
+  },
+  {
+    "start": 315,
+    "end": 318,
+    "text": " which one ingredient should you throw away the bacon?"
+  },
+  {
+    "start": 318,
+    "end": 319,
+    "text": " Yeah."
+  },
+  {
+    "start": 319,
+    "end": 320,
+    "text": " Throw away the bacon."
+  },
+  {
+    "start": 320,
+    "end": 321,
+    "text": " It's the tomato."
+  },
+  {
+    "start": 321,
+    "end": 322,
+    "text": " The tea."
+  },
+  {
+    "start": 322,
+    "end": 323,
+    "text": " Whoa."
+  },
+  {
+    "start": 323,
+    "end": 324,
+    "text": " It's the tea."
+  },
+  {
+    "start": 324,
+    "end": 325,
+    "text": " Okay. This is nuts."
+  },
+  {
+    "start": 325,
+    "end": 328,
+    "text": " Tomatoes require so much heating and lighting of greenhouses"
+  },
+  {
+    "start": 328,
+    "end": 332,
+    "text": " that apparently their carbon footprint is higher than the bacon."
+  },
+  {
+    "start": 332,
+    "end": 333,
+    "text": " No way."
+  },
+  {
+    "start": 333,
+    "end": 335,
+    "text": " Which I find extraordinary."
+  },
+  {
+    "start": 335,
+    "end": 336,
+    "text": " No."
+  },
+  {
+    "start": 336,
+    "end": 339,
+    "text": " But what if I just get my tomato from a very hot country, many, many miles away,"
+  },
+  {
+    "start": 339,
+    "end": 341,
+    "text": " and it just gets flown over by jet?"
+  },
+  {
+    "start": 341,
+    "end": 342,
+    "text": " That's a great pie."
+  },
+  {
+    "start": 342,
+    "end": 343,
+    "text": " Does it need to be greenhouse?"
+  },
+  {
+    "start": 343,
+    "end": 345,
+    "text": " Is it a private jet that your tomato is being flown in?"
+  },
+  {
+    "start": 345,
+    "end": 346,
+    "text": " Just one tomato."
+  },
+  {
+    "start": 346,
+    "end": 347,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 347,
+    "end": 348,
+    "text": " Yeah. It's one small bunch."
+  },
+  {
+    "start": 348,
+    "end": 349,
+    "text": " One little box."
+  },
+  {
+    "start": 349,
+    "end": 351,
+    "text": " I mean, that I can't, that is amazing."
+  },
+  {
+    "start": 351,
+    "end": 352,
+    "text": " I find extraordinary."
+  },
+  {
+    "start": 352,
+    "end": 354,
+    "text": " There are a few sort of counterintuitive ones."
+  },
+  {
+    "start": 354,
+    "end": 356,
+    "text": " I apparently, a New Zealand lamb."
+  },
+  {
+    "start": 356,
+    "end": 360,
+    "text": " If you imported a New Zealand lamb to England to use,"
+  },
+  {
+    "start": 360,
+    "end": 365,
+    "text": " there's less carbon output than a British lamb because the rearing is so much more"
+  },
+  {
+    "start": 365,
+    "end": 369,
+    "text": " that even if you include the shipping, the lamb is far less if it comes from New Zealand."
+  },
+  {
+    "start": 369,
+    "end": 370,
+    "text": " Really?"
+  },
+  {
+    "start": 370,
+    "end": 374,
+    "text": " And it's not just because the natural climate requires less input."
+  },
+  {
+    "start": 374,
+    "end": 376,
+    "text": " Yeah, it must be just all the procedures that they're doing."
+  },
+  {
+    "start": 376,
+    "end": 378,
+    "text": " Because I would have thought that lambs are not that hard to read."
+  },
+  {
+    "start": 378,
+    "end": 381,
+    "text": " They're one of the few things that the British climate is okay with rearing,"
+  },
+  {
+    "start": 381,
+    "end": 383,
+    "text": " but that's a particular common input."
+  },
+  {
+    "start": 383,
+    "end": 385,
+    "text": " Lamb and beef do have, they're the two highest meats with,"
+  },
+  {
+    "start": 385,
+    "end": 388,
+    "text": " although that's, I think that's total ecological impact, but a lot of that's carbon."
+  },
+  {
+    "start": 388,
+    "end": 392,
+    "text": " But I'm amazed that the New Zealand lamb is somehow requiring less carbon."
+  },
+  {
+    "start": 392,
+    "end": 396,
+    "text": " I mean, they send a lot less emails done they in New Zealand with the lambs."
+  },
+  {
+    "start": 396,
+    "end": 399,
+    "text": " It's mostly just lesser writing for the lamb still."
+  },
+  {
+    "start": 399,
+    "end": 401,
+    "text": " Do you know what the third meat is?"
+  },
+  {
+    "start": 401,
+    "end": 402,
+    "text": " So the first beef."
+  },
+  {
+    "start": 402,
+    "end": 403,
+    "text": " Beef lamb."
+  },
+  {
+    "start": 403,
+    "end": 404,
+    "text": " Second is lamb."
+  },
+  {
+    "start": 404,
+    "end": 405,
+    "text": " Pork?"
+  },
+  {
+    "start": 405,
+    "end": 406,
+    "text": " I actually think the second is pork."
+  },
+  {
+    "start": 406,
+    "end": 407,
+    "text": " Okay."
+  },
+  {
+    "start": 407,
+    "end": 409,
+    "text": " And this thing has a bigger carbon footprint than lamb."
+  },
+  {
+    "start": 409,
+    "end": 410,
+    "text": " Chicken."
+  },
+  {
+    "start": 410,
+    "end": 411,
+    "text": " No, it's crustaceans."
+  },
+  {
+    "start": 411,
+    "end": 413,
+    "text": " So I can't believe this."
+  },
+  {
+    "start": 413,
+    "end": 417,
+    "text": " I always think crustaceans is such an ethical thing to eat in proportion to other meat,"
+  },
+  {
+    "start": 417,
+    "end": 420,
+    "text": " but they use a huge amount of fuel compared to other seafood."
+  },
+  {
+    "start": 420,
+    "end": 423,
+    "text": " So most seafood has a carbon footprint, a bit like chicken,"
+  },
+  {
+    "start": 423,
+    "end": 426,
+    "text": " but shellfish is up there with beef in terms of its footprint."
+  },
+  {
+    "start": 426,
+    "end": 427,
+    "text": " I'm so delighted."
+  },
+  {
+    "start": 427,
+    "end": 429,
+    "text": " I only hate it, don't you?"
+  },
+  {
+    "start": 429,
+    "end": 432,
+    "text": " I hate eating crustaceans, but it's just because I'm a bit fatty."
+  },
+  {
+    "start": 432,
+    "end": 435,
+    "text": " And now I can say it's because I want to save the environment."
+  },
+  {
+    "start": 435,
+    "end": 437,
+    "text": " Oh god, as if you didn't have enough moral high ground."
+  },
+  {
+    "start": 437,
+    "end": 440,
+    "text": " Do you know one thing that has an insanely high carbon footprint?"
+  },
+  {
+    "start": 440,
+    "end": 441,
+    "text": " One practice."
+  },
+  {
+    "start": 441,
+    "end": 444,
+    "text": " I mean lots."
+  },
+  {
+    "start": 444,
+    "end": 445,
+    "text": " Having asthma."
+  },
+  {
+    "start": 445,
+    "end": 449,
+    "text": " Is that because you're breathing out lots of carbon dioxide all the time?"
+  },
+  {
+    "start": 449,
+    "end": 450,
+    "text": " It's not that."
+  },
+  {
+    "start": 450,
+    "end": 451,
+    "text": " It's not that."
+  },
+  {
+    "start": 451,
+    "end": 454,
+    "text": " Okay, again, I don't feel comfortable causing people with asthma to hyperventilate with guilt."
+  },
+  {
+    "start": 454,
+    "end": 455,
+    "text": " No, no, no, no."
+  },
+  {
+    "start": 455,
+    "end": 458,
+    "text": " I used to have asthma, and I don't have it anymore."
+  },
+  {
+    "start": 458,
+    "end": 460,
+    "text": " Is that an ecological position?"
+  },
+  {
+    "start": 460,
+    "end": 463,
+    "text": " No, but I did use to have it."
+  },
+  {
+    "start": 463,
+    "end": 465,
+    "text": " I used to have those, you know, inhalers."
+  },
+  {
+    "start": 465,
+    "end": 466,
+    "text": " Yeah."
+  },
+  {
+    "start": 466,
+    "end": 470,
+    "text": " And you know, they use a gas called hydroflora alcan, which is a propellant."
+  },
+  {
+    "start": 470,
+    "end": 473,
+    "text": " That's what squirts the medicine out, you know, it's like a little gas cartridge."
+  },
+  {
+    "start": 473,
+    "end": 479,
+    "text": " Those inhalers account for 4% of the NHS greenhouse gas expenditure."
+  },
+  {
+    "start": 479,
+    "end": 481,
+    "text": " Those inhalers alone, 4%."
+  },
+  {
+    "start": 481,
+    "end": 482,
+    "text": " Isn't that massive?"
+  },
+  {
+    "start": 482,
+    "end": 488,
+    "text": " So if you replaced one in 10 of those inhalers, you would reduce carbon dioxide equivalent emissions by 58,000 tonnes."
+  },
+  {
+    "start": 488,
+    "end": 491,
+    "text": " What can replace them with, do they have like eco ones?"
+  },
+  {
+    "start": 491,
+    "end": 495,
+    "text": " There are other ecological ones, which some people can have, I think, not everyone."
+  },
+  {
+    "start": 495,
+    "end": 498,
+    "text": " But yeah, 58,000 tonnes, just to replace one in 10 of those, you would say."
+  },
+  {
+    "start": 498,
+    "end": 499,
+    "text": " Wow."
+  },
+  {
+    "start": 499,
+    "end": 500,
+    "text": " That would say."
+  },
+  {
+    "start": 500,
+    "end": 505,
+    "text": " The NHS actually had an incredible carbon mistake quite recently, didn't they?"
+  },
+  {
+    "start": 505,
+    "end": 506,
+    "text": " To speaking of them."
+  },
+  {
+    "start": 506,
+    "end": 507,
+    "text": " So did you read about this?"
+  },
+  {
+    "start": 507,
+    "end": 515,
+    "text": " It had an email storm in 2016, where 186 million useless emails ended up being sent."
+  },
+  {
+    "start": 515,
+    "end": 519,
+    "text": " So this is, the history of email storms is so fun."
+  },
+  {
+    "start": 519,
+    "end": 525,
+    "text": " So basically, this apparently is the industry term for when someone accidentally sends an email to a huge mailing list."
+  },
+  {
+    "start": 525,
+    "end": 528,
+    "text": " And in this case, it was the IT guy who was sending a test email."
+  },
+  {
+    "start": 528,
+    "end": 531,
+    "text": " He sent it to 1.2 million employees."
+  },
+  {
+    "start": 531,
+    "end": 536,
+    "text": " And then they all replied all, saying, please unsubscribe me from this list."
+  },
+  {
+    "start": 536,
+    "end": 540,
+    "text": " And then there are other ones who replied all, saying, stop replying all, everyone, stop replying all."
+  },
+  {
+    "start": 540,
+    "end": 542,
+    "text": " And eventually it ended up being 186 million emails."
+  },
+  {
+    "start": 542,
+    "end": 545,
+    "text": " And I believe it took down the NHS mail system."
+  },
+  {
+    "start": 545,
+    "end": 550,
+    "text": " There was a very funny quote from Spokesperson, the NHS digital Spokesperson, who said,"
+  },
+  {
+    "start": 550,
+    "end": 556,
+    "text": " some users have experienced short delays in the NHS mail system this morning, but the issue has been resolved."
+  },
+  {
+    "start": 556,
+    "end": 560,
+    "text": " But she did have to dictate that over the phone because her email still wasn't working."
+  },
+  {
+    "start": 560,
+    "end": 561,
+    "text": " Wow, wow."
+  },
+  {
+    "start": 561,
+    "end": 565,
+    "text": " So next time the NHS gives you shit about your heart by pass."
+  },
+  {
+    "start": 565,
+    "end": 568,
+    "text": " 2016, mate."
+  },
+  {
+    "start": 568,
+    "end": 572,
+    "text": " There's a guy called Joey M."
+  },
+  {
+    "start": 572,
+    "end": 574,
+    "text": " He's lives in Rhode Island."
+  },
+  {
+    "start": 574,
+    "end": 579,
+    "text": " And he has the world record, most number of unread emails in his inbox."
+  },
+  {
+    "start": 579,
+    "end": 581,
+    "text": " Oh wait, can we guess?"
+  },
+  {
+    "start": 581,
+    "end": 582,
+    "text": " Yeah."
+  },
+  {
+    "start": 582,
+    "end": 584,
+    "text": " In the thousands."
+  },
+  {
+    "start": 584,
+    "end": 585,
+    "text": " What?"
+  },
+  {
+    "start": 585,
+    "end": 586,
+    "text": " 2000, I'm right."
+  },
+  {
+    "start": 586,
+    "end": 589,
+    "text": " I'm pretty sure these two, that's me."
+  },
+  {
+    "start": 589,
+    "end": 591,
+    "text": " Okay."
+  },
+  {
+    "start": 591,
+    "end": 592,
+    "text": " 58 million."
+  },
+  {
+    "start": 592,
+    "end": 594,
+    "text": " Can I go, can I go ridiculous, say a billion?"
+  },
+  {
+    "start": 594,
+    "end": 595,
+    "text": " A billion."
+  },
+  {
+    "start": 595,
+    "end": 596,
+    "text": " I can say a billion."
+  },
+  {
+    "start": 596,
+    "end": 597,
+    "text": " Four billion."
+  },
+  {
+    "start": 597,
+    "end": 598,
+    "text": " Wow!"
+  },
+  {
+    "start": 598,
+    "end": 602,
+    "text": " 294 million, 967,256."
+  },
+  {
+    "start": 602,
+    "end": 610,
+    "text": " And he evidenced it by uploading a video onto recordsetter.com, which allows you to,"
+  },
+  {
+    "start": 610,
+    "end": 614,
+    "text": " if you think you've done more keepy upies than anyone else, you can put a video on this site."
+  },
+  {
+    "start": 614,
+    "end": 615,
+    "text": " Yeah."
+  },
+  {
+    "start": 615,
+    "end": 618,
+    "text": " And he showed it on his phone, just deleting one message to get down."
+  },
+  {
+    "start": 618,
+    "end": 620,
+    "text": " So just over four billion."
+  },
+  {
+    "start": 620,
+    "end": 621,
+    "text": " Oh, what?"
+  },
+  {
+    "start": 621,
+    "end": 622,
+    "text": " But isn't that amazing?"
+  },
+  {
+    "start": 622,
+    "end": 623,
+    "text": " It's a lot of mailing lists."
+  },
+  {
+    "start": 623,
+    "end": 625,
+    "text": " Does he work for the NHS?"
+  },
+  {
+    "start": 625,
+    "end": 634,
+    "text": " And there was a survey done by Adobe, quite recently, about emails that says 55% of people,"
+  },
+  {
+    "start": 634,
+    "end": 642,
+    "text": " whenever they get to zero inbox, say it's relieving, 22%, say it's amazing, and 10%, say it's impossible."
+  },
+  {
+    "start": 642,
+    "end": 648,
+    "text": " And the only reason I bring up this survey is because they categorise people into boomers,"
+  },
+  {
+    "start": 648,
+    "end": 656,
+    "text": " Gen X millennials and Gen Z, and they put millennials starting in 1977, which makes me a millennial."
+  },
+  {
+    "start": 656,
+    "end": 657,
+    "text": " Nice."
+  },
+  {
+    "start": 657,
+    "end": 658,
+    "text": " So that's the other reason I bring up."
+  },
+  {
+    "start": 658,
+    "end": 660,
+    "text": " As a long buildup to emphasise that you're a millennial."
+  },
+  {
+    "start": 660,
+    "end": 661,
+    "text": " That was the price for the record."
+  },
+  {
+    "start": 661,
+    "end": 666,
+    "text": " I was going to ask you about that skateboard you're holding."
+  },
+  {
+    "start": 666,
+    "end": 668,
+    "text": " So just one weird bit of carbon news."
+  },
+  {
+    "start": 668,
+    "end": 673,
+    "text": " So in 1981, Ronald Reagan made this speech, made this statement where he said,"
+  },
+  {
+    "start": 673,
+    "end": 676,
+    "text": " \"Trees produce more pollution than automobiles.\""
+  },
+  {
+    "start": 676,
+    "end": 681,
+    "text": " So he said that, and people thought, \"Well, that's very funny,\" and probably some idiots believed him,"
+  },
+  {
+    "start": 681,
+    "end": 684,
+    "text": " and he probably set the world back by about 100 years."
+  },
+  {
+    "start": 684,
+    "end": 688,
+    "text": " But he said this, \"But trees do emit greenhouse gases.\""
+  },
+  {
+    "start": 688,
+    "end": 691,
+    "text": " So they emit loads of methane, and we've only just discovered this."
+  },
+  {
+    "start": 691,
+    "end": 695,
+    "text": " It was in 2014, there was this huge methane surplus in the atmosphere."
+  },
+  {
+    "start": 695,
+    "end": 697,
+    "text": " People didn't know where it was coming from."
+  },
+  {
+    "start": 697,
+    "end": 701,
+    "text": " And this woman went to the Amazon and tested its trees and figured out they were all pumping out methane."
+  },
+  {
+    "start": 701,
+    "end": 702,
+    "text": " They're all farting."
+  },
+  {
+    "start": 702,
+    "end": 703,
+    "text": " They're all farting."
+  },
+  {
+    "start": 703,
+    "end": 706,
+    "text": " All farting, tree thoughts, and the atmosphere."
+  },
+  {
+    "start": 706,
+    "end": 708,
+    "text": " But this isn't a problem, is it?"
+  },
+  {
+    "start": 708,
+    "end": 713,
+    "text": " It's definitely, definitely offset by the amount of CO2 that they're absorbing."
+  },
+  {
+    "start": 713,
+    "end": 715,
+    "text": " And so we don't want to get rid of the trees."
+  },
+  {
+    "start": 715,
+    "end": 718,
+    "text": " Guys, trees are good thumbs up, but it is a thing that we need to work out why they're doing it."
+  },
+  {
+    "start": 718,
+    "end": 722,
+    "text": " And so it might be more in wetlands, which have a lot of methane within them that they're pumping out."
+  },
+  {
+    "start": 722,
+    "end": 726,
+    "text": " So maybe we don't plant trees on big piles of methane, for instance."
+  },
+  {
+    "start": 726,
+    "end": 727,
+    "text": " Right."
+  },
+  {
+    "start": 727,
+    "end": 730,
+    "text": " Hey, remember we had that fact a long, long time ago about every tree."
+  },
+  {
+    "start": 730,
+    "end": 732,
+    "text": " I think it's in Melbourne that has an email address."
+  },
+  {
+    "start": 732,
+    "end": 733,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 733,
+    "end": 734,
+    "text": " Oh, that's a bit of a..."
+  },
+  {
+    "start": 734,
+    "end": 737,
+    "text": " Oh my god, they're really shooting themselves in the tree, aren't they?"
+  },
+  {
+    "start": 737,
+    "end": 743,
+    "text": " Okay, it's time for fact number two."
+  },
+  {
+    "start": 743,
+    "end": 745,
+    "text": " And that is James."
+  },
+  {
+    "start": 745,
+    "end": 752,
+    "text": " Okay, my fact this week is that hot dogs are called hot dogs because people used to think they contain dog."
+  },
+  {
+    "start": 752,
+    "end": 753,
+    "text": " And did they?"
+  },
+  {
+    "start": 753,
+    "end": 755,
+    "text": " No, don't think so."
+  },
+  {
+    "start": 755,
+    "end": 757,
+    "text": " No, I don't think so."
+  },
+  {
+    "start": 757,
+    "end": 761,
+    "text": " So this is something I read in the Oxford English Dictionary."
+  },
+  {
+    "start": 761,
+    "end": 767,
+    "text": " The word hot dog appears to be college slang from America in the late 19th century."
+  },
+  {
+    "start": 767,
+    "end": 774,
+    "text": " And according to the OED, who cite the Oxford companion to food and drink and the historical dictionary of American slang."
+  },
+  {
+    "start": 774,
+    "end": 778,
+    "text": " The reason people called them hot dogs is one, they were hot."
+  },
+  {
+    "start": 778,
+    "end": 782,
+    "text": " And two, they had this weird meat that they didn't know where it quite came from."
+  },
+  {
+    "start": 782,
+    "end": 785,
+    "text": " And it might as well come from dogs come from anywhere else."
+  },
+  {
+    "start": 785,
+    "end": 786,
+    "text": " Okay."
+  },
+  {
+    "start": 786,
+    "end": 789,
+    "text": " In fact, I think that it could have been in there."
+  },
+  {
+    "start": 789,
+    "end": 793,
+    "text": " So I got two into these three people called Gerald Leonard Cohen."
+  },
+  {
+    "start": 793,
+    "end": 797,
+    "text": " And I'd buy, I don't think he's related, a Barry Poppig."
+  },
+  {
+    "start": 797,
+    "end": 803,
+    "text": " And David Shulman, who have devoted over 20 years of their life to working out the roof, the phrase hot dog."
+  },
+  {
+    "start": 803,
+    "end": 806,
+    "text": " And so they're into it."
+  },
+  {
+    "start": 806,
+    "end": 814,
+    "text": " And Gerald Leonard Cohen says that scandalous but true, some butchers even hired dog killers in the US who were going club some dogs and stuff them in sausages."
+  },
+  {
+    "start": 814,
+    "end": 820,
+    "text": " Even though it wasn't legit, he's found some instances of that and then they'd sell the carcass to the butcher."
+  },
+  {
+    "start": 820,
+    "end": 828,
+    "text": " And yeah, I think what was 1884 that they started calling sausages dogs and then they added the hot in the 1890s."
+  },
+  {
+    "start": 828,
+    "end": 831,
+    "text": " I read a bit about Gerald Leonard Cohen and Barry Poppig."
+  },
+  {
+    "start": 831,
+    "end": 835,
+    "text": " They've written a 300 page book about the origin of the phrase hot dog."
+  },
+  {
+    "start": 835,
+    "end": 839,
+    "text": " And he does this, he publishes his own journal which is called comments on etymology."
+  },
+  {
+    "start": 839,
+    "end": 845,
+    "text": " The circulation is under 100, you have to write to him and send him money and he will then send you a copy of this thing."
+  },
+  {
+    "start": 845,
+    "end": 849,
+    "text": " He wants wrote 167 page paper on just the word jazz."
+  },
+  {
+    "start": 849,
+    "end": 851,
+    "text": " He is a serious etymologist."
+  },
+  {
+    "start": 851,
+    "end": 854,
+    "text": " And he is, we should say, also a professor."
+  },
+  {
+    "start": 854,
+    "end": 861,
+    "text": " So he's a professor for our languages at a university so he does make an income other than from these hundreds of writers."
+  },
+  {
+    "start": 861,
+    "end": 865,
+    "text": " But he said, I think he was interviewed and he said, what else am I going to do with my time?"
+  },
+  {
+    "start": 865,
+    "end": 870,
+    "text": " I'm going to go skiing, I'll probably get hurt. So I guess I've got to just research hot dogs for her."
+  },
+  {
+    "start": 870,
+    "end": 872,
+    "text": " I'm supposed to go skiing this weekend."
+  },
+  {
+    "start": 872,
+    "end": 876,
+    "text": " Well, I suggest you instead devote two decades to researching hot dogs origins."
+  },
+  {
+    "start": 876,
+    "end": 884,
+    "text": " I reckon the first hot dogs must have been quite good actually because the phrase hot dog, which means like something which is really awesome,"
+  },
+  {
+    "start": 884,
+    "end": 889,
+    "text": " is only one year younger than the word hot dog meaning the food stuff."
+  },
+  {
+    "start": 889,
+    "end": 894,
+    "text": " So they had hot dogs for one year and then people thought it was a word that meant this is great."
+  },
+  {
+    "start": 894,
+    "end": 896,
+    "text": " That's Mickey Mouse's first words."
+  },
+  {
+    "start": 896,
+    "end": 898,
+    "text": " Yeah, he goes hot dogs."
+  },
+  {
+    "start": 898,
+    "end": 900,
+    "text": " He plural, he pluralises it."
+  },
+  {
+    "start": 900,
+    "end": 906,
+    "text": " I'm so glad we've done this because I've always wondered in its wonderful life when the James Stewart character says hot dog."
+  },
+  {
+    "start": 906,
+    "end": 909,
+    "text": " And it's when it's something totally unregistered hot dogs has happened."
+  },
+  {
+    "start": 909,
+    "end": 912,
+    "text": " What's the name of this? He said hot."
+  },
+  {
+    "start": 912,
+    "end": 914,
+    "text": " Some people were annoyed about it."
+  },
+  {
+    "start": 914,
+    "end": 916,
+    "text": " So they started at one of the early sites."
+  },
+  {
+    "start": 916,
+    "end": 918,
+    "text": " They were sold with Coney Island."
+  },
+  {
+    "start": 918,
+    "end": 919,
+    "text": " Is that New Jersey?"
+  },
+  {
+    "start": 919,
+    "end": 920,
+    "text": " No, it's New York."
+  },
+  {
+    "start": 920,
+    "end": 921,
+    "text": " New York."
+  },
+  {
+    "start": 921,
+    "end": 923,
+    "text": " Sorry, it's Coney Island, New York."
+  },
+  {
+    "start": 923,
+    "end": 927,
+    "text": " It was so annoyed by the association with hot dogs thinking they were a slightly lower class thing."
+  },
+  {
+    "start": 927,
+    "end": 933,
+    "text": " That in 1913 the Chamber of Commerce passed a law forbidding the use of the phrase hot dog on signs."
+  },
+  {
+    "start": 933,
+    "end": 934,
+    "text": " Really?"
+  },
+  {
+    "start": 934,
+    "end": 935,
+    "text": " You weren't allowed to have a sign up saying hot dog."
+  },
+  {
+    "start": 935,
+    "end": 938,
+    "text": " I think it was not because of the implication that there might be dog meat in them."
+  },
+  {
+    "start": 938,
+    "end": 939,
+    "text": " Slightly, yeah."
+  },
+  {
+    "start": 939,
+    "end": 940,
+    "text": " What's that?"
+  },
+  {
+    "start": 940,
+    "end": 941,
+    "text": " Did you want that?"
+  },
+  {
+    "start": 941,
+    "end": 949,
+    "text": " So we were in New York not too long ago and I went for a walk one day to Central Park and hot dog vendors everywhere along the roads."
+  },
+  {
+    "start": 949,
+    "end": 954,
+    "text": " And I was just reading that in order to park their hot dog vending machines in these spots, do you know what they pay?"
+  },
+  {
+    "start": 954,
+    "end": 956,
+    "text": " The prices there."
+  },
+  {
+    "start": 956,
+    "end": 958,
+    "text": " So just to, should we have a guess?"
+  },
+  {
+    "start": 958,
+    "end": 960,
+    "text": " Yeah, just the American dollars just to be there."
+  },
+  {
+    "start": 960,
+    "end": 962,
+    "text": " Per year or a year, let's say."
+  },
+  {
+    "start": 962,
+    "end": 963,
+    "text": " Per year."
+  },
+  {
+    "start": 963,
+    "end": 968,
+    "text": " Just to park there, I'm going to say it's probably in the region of $10,000 US dollars."
+  },
+  {
+    "start": 968,
+    "end": 969,
+    "text": " I'm going to say about the same."
+  },
+  {
+    "start": 969,
+    "end": 970,
+    "text": " 15, let's say."
+  },
+  {
+    "start": 970,
+    "end": 971,
+    "text": " 15."
+  },
+  {
+    "start": 971,
+    "end": 974,
+    "text": " I'd say they pay in kind and it's like 10 hot dogs a year."
+  },
+  {
+    "start": 974,
+    "end": 976,
+    "text": " We lost it."
+  },
+  {
+    "start": 976,
+    "end": 983,
+    "text": " Okay, so there was one guy who was parked on Fifth Avenue, East 62nd Street, very near Central Park."
+  },
+  {
+    "start": 983,
+    "end": 985,
+    "text": " 289,500."
+  },
+  {
+    "start": 985,
+    "end": 986,
+    "text": " No."
+  },
+  {
+    "start": 986,
+    "end": 987,
+    "text": " For his annual, yeah."
+  },
+  {
+    "start": 987,
+    "end": 993,
+    "text": " And that's, that is, he's got to get that to break even obviously because he's got to push and then everything is proper from there."
+  },
+  {
+    "start": 993,
+    "end": 995,
+    "text": " But they all managed to do it."
+  },
+  {
+    "start": 995,
+    "end": 996,
+    "text": " Yeah."
+  },
+  {
+    "start": 996,
+    "end": 998,
+    "text": " Because hot dogs in New York sell for $10,000."
+  },
+  {
+    "start": 998,
+    "end": 999,
+    "text": " Exactly."
+  },
+  {
+    "start": 999,
+    "end": 1001,
+    "text": " That is quite a lot of money."
+  },
+  {
+    "start": 1001,
+    "end": 1007,
+    "text": " Yeah, so on average, they have to pay the city $200,000 each year."
+  },
+  {
+    "start": 1007,
+    "end": 1013,
+    "text": " I've never been to one of those stands and got a hot dog and I feel incredibly guilty that I've been driving these poor people out of business."
+  },
+  {
+    "start": 1013,
+    "end": 1016,
+    "text": " Do you know one thing that doesn't have to park that is associated with hot dogs?"
+  },
+  {
+    "start": 1016,
+    "end": 1018,
+    "text": " Have you heard of the Weenemobile?"
+  },
+  {
+    "start": 1018,
+    "end": 1020,
+    "text": " Oh, I have maybe half."
+  },
+  {
+    "start": 1020,
+    "end": 1021,
+    "text": " I'm not sure."
+  },
+  {
+    "start": 1021,
+    "end": 1022,
+    "text": " I've never been for a ride in the Weenemobile."
+  },
+  {
+    "start": 1022,
+    "end": 1023,
+    "text": " I haven't."
+  },
+  {
+    "start": 1023,
+    "end": 1026,
+    "text": " Not a jack-up line."
+  },
+  {
+    "start": 1026,
+    "end": 1035,
+    "text": " So, you know, Oscar Mayors, a big hot dog company, they have a fleet, a small fleet of Weenemobiles, which are cars shaped like hot dogs, which have been going since 1936."
+  },
+  {
+    "start": 1035,
+    "end": 1037,
+    "text": " Obviously, they've changed them, you know."
+  },
+  {
+    "start": 1037,
+    "end": 1040,
+    "text": " But basically, they were a huge promotional thing."
+  },
+  {
+    "start": 1040,
+    "end": 1046,
+    "text": " So they would hand out hot dogs, small hot dogs, from inside the big hot dog, because the cars shaped like a hot dog."
+  },
+  {
+    "start": 1046,
+    "end": 1049,
+    "text": " And they would hand out things called Weenow whistles to children."
+  },
+  {
+    "start": 1049,
+    "end": 1055,
+    "text": " So that if a child ever saw the Weenemobile, they would blow their whistle and attract other children to come and get a hot dog."
+  },
+  {
+    "start": 1055,
+    "end": 1057,
+    "text": " And they would have a sort of an ice cream van."
+  },
+  {
+    "start": 1057,
+    "end": 1059,
+    "text": " You're getting the kid to do the job for you."
+  },
+  {
+    "start": 1059,
+    "end": 1060,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 1060,
+    "end": 1063,
+    "text": " And they train their drivers at a place called Hot Dog High."
+  },
+  {
+    "start": 1063,
+    "end": 1069,
+    "text": " And then, once you're in, like, Starfleet Academy for Hot Dog High, you drive around the country."
+  },
+  {
+    "start": 1069,
+    "end": 1072,
+    "text": " It's mostly sort of students and things they hire."
+  },
+  {
+    "start": 1072,
+    "end": 1078,
+    "text": " And you drive in pairs, and one person has to drive, and the other one has to wave to people, which is called Riding Shot Bun."
+  },
+  {
+    "start": 1078,
+    "end": 1079,
+    "text": " Shot Bun?"
+  },
+  {
+    "start": 1079,
+    "end": 1083,
+    "text": " Yeah, and sometimes they let you in, and they ask you to fasten your meat belt."
+  },
+  {
+    "start": 1083,
+    "end": 1085,
+    "text": " Wow, it's disgusting."
+  },
+  {
+    "start": 1085,
+    "end": 1090,
+    "text": " I think someone's driving around, picking up children, and telling them to fasten their meat."
+  },
+  {
+    "start": 1090,
+    "end": 1092,
+    "text": " It's a car-shaped, like a sausage."
+  },
+  {
+    "start": 1092,
+    "end": 1093,
+    "text": " You're defenseless, guys."
+  },
+  {
+    "start": 1093,
+    "end": 1094,
+    "text": " It's not looking good, mate."
+  },
+  {
+    "start": 1094,
+    "end": 1095,
+    "text": " Yeah."
+  },
+  {
+    "start": 1095,
+    "end": 1098,
+    "text": " But he blew up my Weenow whistle."
+  },
+  {
+    "start": 1098,
+    "end": 1105,
+    "text": " There's only ever been one accident involving a Weenemobile, and one of them rammed into a house."
+  },
+  {
+    "start": 1105,
+    "end": 1107,
+    "text": " Imagine that coming through the window."
+  },
+  {
+    "start": 1107,
+    "end": 1109,
+    "text": " Yeah, it'd be like a bad ring ram, as well."
+  },
+  {
+    "start": 1109,
+    "end": 1111,
+    "text": " Take the whole thing down."
+  },
+  {
+    "start": 1111,
+    "end": 1116,
+    "text": " Another famous Hot Dog company in America is Nathan's."
+  },
+  {
+    "start": 1116,
+    "end": 1117,
+    "text": " Okay."
+  },
+  {
+    "start": 1117,
+    "end": 1119,
+    "text": " And that's a really good story about them."
+  },
+  {
+    "start": 1119,
+    "end": 1125,
+    "text": " So there was another Hot Dog maker on Coney Island called Feltmans, and they were really, really huge and really, really popular."
+  },
+  {
+    "start": 1125,
+    "end": 1130,
+    "text": " And they had what some people said was possibly the largest restaurant in the world, which just sold Hot Dogs."
+  },
+  {
+    "start": 1130,
+    "end": 1137,
+    "text": " But then they had a guy who came to work for them, who was a Jewish immigrant from Poland called Nathan Handwerker."
+  },
+  {
+    "start": 1137,
+    "end": 1141,
+    "text": " And Nathan Handwerker was working just slightly, I'd be like, what are you laughing at?"
+  },
+  {
+    "start": 1141,
+    "end": 1143,
+    "text": " To work. Handwerker's a funny name."
+  },
+  {
+    "start": 1143,
+    "end": 1146,
+    "text": " Yeah, but he wasn't masturbating people."
+  },
+  {
+    "start": 1146,
+    "end": 1150,
+    "text": " He was spending his week slicing buns."
+  },
+  {
+    "start": 1150,
+    "end": 1153,
+    "text": " Okay, so he sounds like masturbating people."
+  },
+  {
+    "start": 1153,
+    "end": 1156,
+    "text": " He was working as a bun slicer."
+  },
+  {
+    "start": 1156,
+    "end": 1160,
+    "text": " And then he decided, well, what I'm going to do is I'm going to sell my own company."
+  },
+  {
+    "start": 1160,
+    "end": 1163,
+    "text": " And he needed to get some money together."
+  },
+  {
+    "start": 1163,
+    "end": 1167,
+    "text": " So he lived entirely on Hot Dogs for a year."
+  },
+  {
+    "start": 1167,
+    "end": 1171,
+    "text": " He had nothing but Hot Dogs, and he slept on the kitchen floor of this place."
+  },
+  {
+    "start": 1171,
+    "end": 1173,
+    "text": " So he got all the money together."
+  },
+  {
+    "start": 1173,
+    "end": 1179,
+    "text": " And then eventually he started his own business and then undercut Feltmans by selling his Hot Dogs for half the price."
+  },
+  {
+    "start": 1179,
+    "end": 1186,
+    "text": " And became what's quite synonymous, as well as Oscar Meyers and as well as Feltmans, but kind of synonymous with Hot Dogs in America now."
+  },
+  {
+    "start": 1186,
+    "end": 1187,
+    "text": " Wow."
+  },
+  {
+    "start": 1187,
+    "end": 1190,
+    "text": " But he didn't have to have quadruple heart bypass."
+  },
+  {
+    "start": 1190,
+    "end": 1193,
+    "text": " Oh my god, the carbon, carbon."
+  },
+  {
+    "start": 1193,
+    "end": 1196,
+    "text": " So that's the big competition, isn't it, in America?"
+  },
+  {
+    "start": 1196,
+    "end": 1199,
+    "text": " They have Nathan, it's called Nathan's Famous Hot Dog Eating Contest."
+  },
+  {
+    "start": 1199,
+    "end": 1204,
+    "text": " And the men's champion is a man called Joey Chestnut, who's won it nine times."
+  },
+  {
+    "start": 1204,
+    "end": 1208,
+    "text": " His all-time record is eating 74 Hot Dogs and Buns in 10 minutes."
+  },
+  {
+    "start": 1208,
+    "end": 1211,
+    "text": " That's 7.4 a minute, if my master's correct."
+  },
+  {
+    "start": 1211,
+    "end": 1212,
+    "text": " Yeah."
+  },
+  {
+    "start": 1212,
+    "end": 1214,
+    "text": " And there's such rivalry in the..."
+  },
+  {
+    "start": 1214,
+    "end": 1216,
+    "text": " But you have to eat the buns as well, don't you?"
+  },
+  {
+    "start": 1216,
+    "end": 1217,
+    "text": " You have to eat the buns."
+  },
+  {
+    "start": 1217,
+    "end": 1220,
+    "text": " What's he going to do with the buns? Otherwise you haven't eaten the hot dog eating the dog."
+  },
+  {
+    "start": 1220,
+    "end": 1221,
+    "text": " Yeah, that's true."
+  },
+  {
+    "start": 1221,
+    "end": 1223,
+    "text": " No, that's not hot. It's not a bread."
+  },
+  {
+    "start": 1223,
+    "end": 1226,
+    "text": " It's not a bread. Oh, the bread's keeping this dog warm."
+  },
+  {
+    "start": 1226,
+    "end": 1227,
+    "text": " It's not like a blanket."
+  },
+  {
+    "start": 1227,
+    "end": 1229,
+    "text": " I'm on the Atkins start. I'll just have the dog, please."
+  },
+  {
+    "start": 1229,
+    "end": 1235,
+    "text": " But the previous champion was this guy called Takeru Kobayashi from Japan."
+  },
+  {
+    "start": 1235,
+    "end": 1239,
+    "text": " And no one had ever eaten more than, I can't remember what it was, like 20 or something."
+  },
+  {
+    "start": 1239,
+    "end": 1241,
+    "text": " And then he walked on stage in 2001, he ate 50."
+  },
+  {
+    "start": 1241,
+    "end": 1244,
+    "text": " It completely revolutionized the sport and the art."
+  },
+  {
+    "start": 1244,
+    "end": 1247,
+    "text": " But what was his thing? You know in the Fosbury flop."
+  },
+  {
+    "start": 1247,
+    "end": 1250,
+    "text": " You changed the way that you jumped over, the high jump."
+  },
+  {
+    "start": 1250,
+    "end": 1252,
+    "text": " So one was his training method."
+  },
+  {
+    "start": 1252,
+    "end": 1256,
+    "text": " His training method was he would practice drinking three gallons of water in 90 seconds,"
+  },
+  {
+    "start": 1256,
+    "end": 1259,
+    "text": " meaning that his stomach got used to expanding very quickly."
+  },
+  {
+    "start": 1259,
+    "end": 1260,
+    "text": " Wow."
+  },
+  {
+    "start": 1260,
+    "end": 1263,
+    "text": " Can I say, I tried to do that once and was extreme."
+  },
+  {
+    "start": 1263,
+    "end": 1266,
+    "text": " Like, do not try that at home. Extremely sick."
+  },
+  {
+    "start": 1266,
+    "end": 1268,
+    "text": " Send us your videos of you not trying it at home."
+  },
+  {
+    "start": 1268,
+    "end": 1272,
+    "text": " Oh my goodness. I was just vomiting water for ages afterwards."
+  },
+  {
+    "start": 1272,
+    "end": 1275,
+    "text": " And why did you rejoin to enter this competition?"
+  },
+  {
+    "start": 1275,
+    "end": 1277,
+    "text": " I was young and it was a bet."
+  },
+  {
+    "start": 1277,
+    "end": 1280,
+    "text": " You're a millennial. That's the kind of crazy thing they do."
+  },
+  {
+    "start": 1280,
+    "end": 1285,
+    "text": " So the other thing he did, he invented this method where you split each hot dog in two"
+  },
+  {
+    "start": 1285,
+    "end": 1287,
+    "text": " and you force both ends in your mouth at once."
+  },
+  {
+    "start": 1287,
+    "end": 1290,
+    "text": " Because your mouth is wide enough for two hot dogs."
+  },
+  {
+    "start": 1290,
+    "end": 1293,
+    "text": " I cannot believe that I thought of that before."
+  },
+  {
+    "start": 1293,
+    "end": 1295,
+    "text": " What? I don't understand."
+  },
+  {
+    "start": 1295,
+    "end": 1298,
+    "text": " So you chop each hot dog in half half way along, so you've got the two ends."
+  },
+  {
+    "start": 1298,
+    "end": 1301,
+    "text": " And then you just shove both ends in your mouth at the same time."
+  },
+  {
+    "start": 1301,
+    "end": 1304,
+    "text": " And they called this the Solomon method, which is an illusion to King Solomon"
+  },
+  {
+    "start": 1304,
+    "end": 1308,
+    "text": " because he wants threatened to split a baby in two in a biblical story."
+  },
+  {
+    "start": 1308,
+    "end": 1309,
+    "text": " It is."
+  },
+  {
+    "start": 1309,
+    "end": 1310,
+    "text": " Yeah."
+  },
+  {
+    "start": 1310,
+    "end": 1312,
+    "text": " And it's a very high brow contest, isn't it?"
+  },
+  {
+    "start": 1312,
+    "end": 1314,
+    "text": " So you get a lot of these biblical in-classical references."
+  },
+  {
+    "start": 1314,
+    "end": 1315,
+    "text": " Wow."
+  },
+  {
+    "start": 1315,
+    "end": 1319,
+    "text": " Two parents were arguing over who got custody of a baby and Solomon said,"
+  },
+  {
+    "start": 1319,
+    "end": 1320,
+    "text": " \"Well, we'll cut the baby in two.\""
+  },
+  {
+    "start": 1320,
+    "end": 1322,
+    "text": " And then you guys get the whole thing in his mouth."
+  },
+  {
+    "start": 1322,
+    "end": 1326,
+    "text": " No, no, you didn't. No one ate the baby."
+  },
+  {
+    "start": 1326,
+    "end": 1329,
+    "text": " Baby eating contest. It's in John, part one."
+  },
+  {
+    "start": 1329,
+    "end": 1330,
+    "text": " What was that?"
+  },
+  {
+    "start": 1330,
+    "end": 1332,
+    "text": " One of the parents said, \"Oh, that's fine by me."
+  },
+  {
+    "start": 1332,
+    "end": 1334,
+    "text": " You're a good idea. Let's split the baby in two.\""
+  },
+  {
+    "start": 1334,
+    "end": 1336,
+    "text": " And the other one said, \"No, don't do that.\""
+  },
+  {
+    "start": 1336,
+    "end": 1339,
+    "text": " And then King Solomon said, \"We usually probably have the baby.\""
+  },
+  {
+    "start": 1339,
+    "end": 1340,
+    "text": " Is that what happens?"
+  },
+  {
+    "start": 1340,
+    "end": 1341,
+    "text": " That's right."
+  },
+  {
+    "start": 1341,
+    "end": 1342,
+    "text": " I think that's right."
+  },
+  {
+    "start": 1342,
+    "end": 1343,
+    "text": " Yeah."
+  },
+  {
+    "start": 1343,
+    "end": 1345,
+    "text": " That's amazing, but so obvious."
+  },
+  {
+    "start": 1345,
+    "end": 1346,
+    "text": " I would have split it."
+  },
+  {
+    "start": 1346,
+    "end": 1348,
+    "text": " I don't want to claim that I would have won this competition,"
+  },
+  {
+    "start": 1348,
+    "end": 1349,
+    "text": " but I think it would have had a chance."
+  },
+  {
+    "start": 1349,
+    "end": 1352,
+    "text": " Because obviously you put it in half and shove it in both sides."
+  },
+  {
+    "start": 1352,
+    "end": 1353,
+    "text": " I would say into three parts."
+  },
+  {
+    "start": 1353,
+    "end": 1355,
+    "text": " Well, I was just going to say, where do you stop?"
+  },
+  {
+    "start": 1355,
+    "end": 1358,
+    "text": " Is it possible to cut into three, four, five, six or seven parts?"
+  },
+  {
+    "start": 1358,
+    "end": 1359,
+    "text": " How wide is your mouth?"
+  },
+  {
+    "start": 1359,
+    "end": 1361,
+    "text": " Well, you're looking at me."
+  },
+  {
+    "start": 1361,
+    "end": 1364,
+    "text": " The people at home don't have this option,"
+  },
+  {
+    "start": 1364,
+    "end": 1365,
+    "text": " but I don't think I could fit."
+  },
+  {
+    "start": 1365,
+    "end": 1367,
+    "text": " In fact, I'm not sure I could fit, too, in mine."
+  },
+  {
+    "start": 1367,
+    "end": 1368,
+    "text": " I'm not."
+  },
+  {
+    "start": 1368,
+    "end": 1369,
+    "text": " No, I don't know."
+  },
+  {
+    "start": 1369,
+    "end": 1371,
+    "text": " You're a two-man, three-max."
+  },
+  {
+    "start": 1371,
+    "end": 1373,
+    "text": " I think there's a point at which there are diminishing returns"
+  },
+  {
+    "start": 1373,
+    "end": 1375,
+    "text": " from cutting your hot dogs into an increasing number of pieces"
+  },
+  {
+    "start": 1375,
+    "end": 1377,
+    "text": " before you put them in your mouth."
+  },
+  {
+    "start": 1377,
+    "end": 1380,
+    "text": " Still with a knife and fork on the first hot dog."
+  },
+  {
+    "start": 1380,
+    "end": 1381,
+    "text": " I'll have the competition."
+  },
+  {
+    "start": 1381,
+    "end": 1384,
+    "text": " Those guys are going to feel so stupid as you cut it into the hundred pieces."
+  },
+  {
+    "start": 1384,
+    "end": 1386,
+    "text": " I'm going to get this whole thing on my mouth."
+  },
+  {
+    "start": 1387,
+    "end": 1391,
+    "text": " Do you know that the Pentagon used to have a hot dog stand?"
+  },
+  {
+    "start": 1391,
+    "end": 1396,
+    "text": " There was a rumor, which they tour guides still tell to this day"
+  },
+  {
+    "start": 1396,
+    "end": 1398,
+    "text": " when you get taken around Pentagon."
+  },
+  {
+    "start": 1398,
+    "end": 1400,
+    "text": " It got taken down in 2006."
+  },
+  {
+    "start": 1400,
+    "end": 1404,
+    "text": " But during the Cold War, apparently, the Russians were convinced"
+  },
+  {
+    "start": 1404,
+    "end": 1407,
+    "text": " that some amazing stuff was going their secretive conversations"
+  },
+  {
+    "start": 1407,
+    "end": 1409,
+    "text": " because people would meet there."
+  },
+  {
+    "start": 1409,
+    "end": 1412,
+    "text": " So apparently, they had two missiles aimed at this hot dog stand"
+  },
+  {
+    "start": 1412,
+    "end": 1414,
+    "text": " the entire time of the Cold War."
+  },
+  {
+    "start": 1414,
+    "end": 1417,
+    "text": " And that was the rumor, no one's ever--"
+  },
+  {
+    "start": 1417,
+    "end": 1419,
+    "text": " Imagine if the missile hit."
+  },
+  {
+    "start": 1419,
+    "end": 1422,
+    "text": " How many pieces those hot dogs could be in?"
+  },
+  {
+    "start": 1422,
+    "end": 1424,
+    "text": " You've got to stuff them all that you've got."
+  },
+  {
+    "start": 1424,
+    "end": 1427,
+    "text": " Still strategizing for the next tournament."
+  },
+  {
+    "start": 1427,
+    "end": 1433,
+    "text": " Okay, it is time for fact number three."
+  },
+  {
+    "start": 1433,
+    "end": 1434,
+    "text": " And that is my fact."
+  },
+  {
+    "start": 1434,
+    "end": 1438,
+    "text": " My fact this week is that the oldest recording we have of a poet"
+  },
+  {
+    "start": 1438,
+    "end": 1441,
+    "text": " reading his own poem is of Robert Browning,"
+  },
+  {
+    "start": 1441,
+    "end": 1444,
+    "text": " who forgets the words to the poem halfway through"
+  },
+  {
+    "start": 1444,
+    "end": 1446,
+    "text": " and ends the recording with an apology."
+  },
+  {
+    "start": 1446,
+    "end": 1448,
+    "text": " That's amazing."
+  },
+  {
+    "start": 1448,
+    "end": 1451,
+    "text": " So this was in April of 1889."
+  },
+  {
+    "start": 1451,
+    "end": 1454,
+    "text": " There's only a few months before he died and Robert Browning--"
+  },
+  {
+    "start": 1454,
+    "end": 1458,
+    "text": " I think he was at a party and it was being held by the artist Rudolf Lehman."
+  },
+  {
+    "start": 1458,
+    "end": 1463,
+    "text": " And he had with him one of those Edison wax cylinder talking machines"
+  },
+  {
+    "start": 1463,
+    "end": 1467,
+    "text": " and he got Robert Browning to recite his poem which was called"
+  },
+  {
+    "start": 1467,
+    "end": 1472,
+    "text": " \"How they brought the good news from Ghent to X. I.\""
+  },
+  {
+    "start": 1472,
+    "end": 1473,
+    "text": " No, it's X."
+  },
+  {
+    "start": 1473,
+    "end": 1475,
+    "text": " Yeah, like X number once."
+  },
+  {
+    "start": 1475,
+    "end": 1476,
+    "text": " Yeah."
+  },
+  {
+    "start": 1476,
+    "end": 1479,
+    "text": " Andy was just doing his allergy impression."
+  },
+  {
+    "start": 1479,
+    "end": 1480,
+    "text": " Hi."
+  },
+  {
+    "start": 1480,
+    "end": 1481,
+    "text": " Hi."
+  },
+  {
+    "start": 1481,
+    "end": 1482,
+    "text": " Is it really?"
+  },
+  {
+    "start": 1482,
+    "end": 1483,
+    "text": " Yeah, I did it."
+  },
+  {
+    "start": 1483,
+    "end": 1484,
+    "text": " You should listen to it."
+  },
+  {
+    "start": 1484,
+    "end": 1486,
+    "text": " I don't know why I memorized it when I was ten."
+  },
+  {
+    "start": 1486,
+    "end": 1487,
+    "text": " Did you?"
+  },
+  {
+    "start": 1487,
+    "end": 1488,
+    "text": " I did."
+  },
+  {
+    "start": 1488,
+    "end": 1491,
+    "text": " I had to do it for a recital competition and I--"
+  },
+  {
+    "start": 1491,
+    "end": 1493,
+    "text": " Oh, this actual poem, the Browning."
+  },
+  {
+    "start": 1493,
+    "end": 1495,
+    "text": " Did you get through it without apologising?"
+  },
+  {
+    "start": 1495,
+    "end": 1497,
+    "text": " I did better than Browning did."
+  },
+  {
+    "start": 1497,
+    "end": 1498,
+    "text": " Wow."
+  },
+  {
+    "start": 1498,
+    "end": 1500,
+    "text": " I got through it and then I was rereading it and I was so ashamed"
+  },
+  {
+    "start": 1500,
+    "end": 1502,
+    "text": " at how little of it I could remember."
+  },
+  {
+    "start": 1502,
+    "end": 1505,
+    "text": " I think they all I could remember is because it's such a good poem actually."
+  },
+  {
+    "start": 1505,
+    "end": 1507,
+    "text": " It's done galloping."
+  },
+  {
+    "start": 1507,
+    "end": 1509,
+    "text": " You never really know what the good news is."
+  },
+  {
+    "start": 1509,
+    "end": 1511,
+    "text": " And it's got this great rhythm of horse."
+  },
+  {
+    "start": 1511,
+    "end": 1513,
+    "text": " It's just galloping from Ghent to X."
+  },
+  {
+    "start": 1513,
+    "end": 1517,
+    "text": " And all I remember is they galloped, galloped, we galloped all three."
+  },
+  {
+    "start": 1517,
+    "end": 1518,
+    "text": " You know what?"
+  },
+  {
+    "start": 1518,
+    "end": 1520,
+    "text": " You're embarrassed that you couldn't remember much of it."
+  },
+  {
+    "start": 1520,
+    "end": 1522,
+    "text": " I still think that's pretty impressive."
+  },
+  {
+    "start": 1522,
+    "end": 1524,
+    "text": " I think you almost got further than Browning himself."
+  },
+  {
+    "start": 1524,
+    "end": 1525,
+    "text": " That's right."
+  },
+  {
+    "start": 1525,
+    "end": 1526,
+    "text": " No, you're right."
+  },
+  {
+    "start": 1526,
+    "end": 1529,
+    "text": " And the pace, when you listen to him speak it and this is online."
+  },
+  {
+    "start": 1529,
+    "end": 1534,
+    "text": " So if you go on YouTube and put this in, anyone listening can actually hear the man himself."
+  },
+  {
+    "start": 1534,
+    "end": 1537,
+    "text": " It does feel like it's an old western."
+  },
+  {
+    "start": 1537,
+    "end": 1540,
+    "text": " It's got this fantastic pace to it."
+  },
+  {
+    "start": 1540,
+    "end": 1545,
+    "text": " But he only gets to a few lines in and he suddenly says, I'm most terribly sorry that I can't remember my own verses."
+  },
+  {
+    "start": 1545,
+    "end": 1548,
+    "text": " But then ads, but the one thing I will remember all my life,"
+  },
+  {
+    "start": 1548,
+    "end": 1552,
+    "text": " is this astonishing sensation produced upon me by your wonderful invention."
+  },
+  {
+    "start": 1552,
+    "end": 1555,
+    "text": " And then you hear people cheering for him in the background."
+  },
+  {
+    "start": 1555,
+    "end": 1558,
+    "text": " It's a real politician's answer the way he says, I can't remember the poem."
+  },
+  {
+    "start": 1558,
+    "end": 1561,
+    "text": " You specifically asked me to read, but one thing I can remember."
+  },
+  {
+    "start": 1561,
+    "end": 1563,
+    "text": " It's an amazing pivot."
+  },
+  {
+    "start": 1563,
+    "end": 1564,
+    "text": " It's incredible pivot."
+  },
+  {
+    "start": 1564,
+    "end": 1565,
+    "text": " Yeah."
+  },
+  {
+    "start": 1565,
+    "end": 1570,
+    "text": " And so one nice thing about it was that there were a lot of people recording at the time."
+  },
+  {
+    "start": 1570,
+    "end": 1575,
+    "text": " But supposedly he was one of the first notable people to pass away."
+  },
+  {
+    "start": 1575,
+    "end": 1579,
+    "text": " So soon after the recording, and it was a year after he died when they had a memorial for him"
+  },
+  {
+    "start": 1579,
+    "end": 1584,
+    "text": " that they played his voice at the memorial and they said it was like him coming back from the dead."
+  },
+  {
+    "start": 1584,
+    "end": 1587,
+    "text": " It was this eerie thing that no one had ever experienced before."
+  },
+  {
+    "start": 1587,
+    "end": 1592,
+    "text": " I think it was the first time that anyone's voice had been played or any more notable person anyway after they died,"
+  },
+  {
+    "start": 1592,
+    "end": 1594,
+    "text": " which that must have been pretty weird, right?"
+  },
+  {
+    "start": 1594,
+    "end": 1595,
+    "text": " Yeah."
+  },
+  {
+    "start": 1595,
+    "end": 1596,
+    "text": " That must have been weird."
+  },
+  {
+    "start": 1596,
+    "end": 1598,
+    "text": " But also, it's kind of embarrassing."
+  },
+  {
+    "start": 1598,
+    "end": 1603,
+    "text": " I say, please don't play the recording right, cocked up after I'm dead on my anniversary."
+  },
+  {
+    "start": 1603,
+    "end": 1604,
+    "text": " Yeah."
+  },
+  {
+    "start": 1604,
+    "end": 1605,
+    "text": " It's true."
+  },
+  {
+    "start": 1605,
+    "end": 1609,
+    "text": " It was pointing and laughing."
+  },
+  {
+    "start": 1609,
+    "end": 1612,
+    "text": " Some of his relatives did say it was embarrassing, but they played it."
+  },
+  {
+    "start": 1612,
+    "end": 1613,
+    "text": " Did they?"
+  },
+  {
+    "start": 1613,
+    "end": 1615,
+    "text": " Not everyone was happy that it was there."
+  },
+  {
+    "start": 1615,
+    "end": 1616,
+    "text": " The fans."
+  },
+  {
+    "start": 1616,
+    "end": 1618,
+    "text": " It was at a browning society gathering in London."
+  },
+  {
+    "start": 1618,
+    "end": 1620,
+    "text": " They were all huddled around this."
+  },
+  {
+    "start": 1620,
+    "end": 1621,
+    "text": " They were societies."
+  },
+  {
+    "start": 1621,
+    "end": 1624,
+    "text": " There were societies decades before he died."
+  },
+  {
+    "start": 1624,
+    "end": 1628,
+    "text": " Not maybe not decades, but certainly in the last decade before he died."
+  },
+  {
+    "start": 1628,
+    "end": 1630,
+    "text": " There were people meeting up and he found that embarrassing."
+  },
+  {
+    "start": 1630,
+    "end": 1632,
+    "text": " Oh, everyone was so embarrassed all the time."
+  },
+  {
+    "start": 1632,
+    "end": 1636,
+    "text": " Because he was so popular, I think it was Westminster Abbey where his funeral was held."
+  },
+  {
+    "start": 1636,
+    "end": 1640,
+    "text": " They got over a thousand applications and the dean of Westminster wrote saying,"
+  },
+  {
+    "start": 1640,
+    "end": 1642,
+    "text": " \"Everyone has been trying to get into Browning's funeral."
+  },
+  {
+    "start": 1642,
+    "end": 1645,
+    "text": " I've had to really limit it to people who had a really good reason to be there.\""
+  },
+  {
+    "start": 1645,
+    "end": 1646,
+    "text": " Really?"
+  },
+  {
+    "start": 1646,
+    "end": 1647,
+    "text": " Do you know?"
+  },
+  {
+    "start": 1647,
+    "end": 1650,
+    "text": " Because he wasn't popular throughout most of his life."
+  },
+  {
+    "start": 1650,
+    "end": 1652,
+    "text": " And then he did get very popular towards the end."
+  },
+  {
+    "start": 1652,
+    "end": 1654,
+    "text": " And all these people wanted to go to his funeral."
+  },
+  {
+    "start": 1654,
+    "end": 1657,
+    "text": " And also, he sparked a fashion for dressing in Brown."
+  },
+  {
+    "start": 1657,
+    "end": 1658,
+    "text": " Did he?"
+  },
+  {
+    "start": 1658,
+    "end": 1659,
+    "text": " No."
+  },
+  {
+    "start": 1659,
+    "end": 1665,
+    "text": " He did. Just after he died in America, he sparked a brief fashion for dressing up in Brown items of clothing."
+  },
+  {
+    "start": 1665,
+    "end": 1667,
+    "text": " Just because he was called Browning."
+  },
+  {
+    "start": 1667,
+    "end": 1669,
+    "text": " He didn't dress in Brown himself."
+  },
+  {
+    "start": 1669,
+    "end": 1670,
+    "text": " No, it was just the name, yeah."
+  },
+  {
+    "start": 1670,
+    "end": 1671,
+    "text": " Wow."
+  },
+  {
+    "start": 1671,
+    "end": 1673,
+    "text": " How did they do when Dickens died?"
+  },
+  {
+    "start": 1673,
+    "end": 1676,
+    "text": " A lot of arrests."
+  },
+  {
+    "start": 1676,
+    "end": 1681,
+    "text": " Do you have any more on that about how that came about?"
+  },
+  {
+    "start": 1681,
+    "end": 1682,
+    "text": " I know."
+  },
+  {
+    "start": 1682,
+    "end": 1683,
+    "text": " I've only found it in one place."
+  },
+  {
+    "start": 1683,
+    "end": 1684,
+    "text": " And sorry, it was before he died."
+  },
+  {
+    "start": 1684,
+    "end": 1688,
+    "text": " It was 1979 to 1980 when he just released one of his very popular works."
+  },
+  {
+    "start": 1688,
+    "end": 1689,
+    "text": " 1979, wow."
+  },
+  {
+    "start": 1689,
+    "end": 1691,
+    "text": " So that was just starting out there."
+  },
+  {
+    "start": 1691,
+    "end": 1699,
+    "text": " It was 1879 to 1880 when he just released one of his popular works."
+  },
+  {
+    "start": 1699,
+    "end": 1700,
+    "text": " Wow."
+  },
+  {
+    "start": 1700,
+    "end": 1705,
+    "text": " His romance with Elizabeth Barrett Browning, who he became husband and wife."
+  },
+  {
+    "start": 1705,
+    "end": 1708,
+    "text": " And she was way more famous to start with than him."
+  },
+  {
+    "start": 1708,
+    "end": 1712,
+    "text": " It was really interesting because he started as a correspondence."
+  },
+  {
+    "start": 1712,
+    "end": 1713,
+    "text": " And she was housebound."
+  },
+  {
+    "start": 1713,
+    "end": 1714,
+    "text": " And she was invalid."
+  },
+  {
+    "start": 1714,
+    "end": 1717,
+    "text": " And her father was extremely strict about who she didn't didn't see."
+  },
+  {
+    "start": 1717,
+    "end": 1720,
+    "text": " Despite the fact she was also a famous poet, which I don't really understand."
+  },
+  {
+    "start": 1720,
+    "end": 1723,
+    "text": " But he started writing to her and they started a passionate correspondence."
+  },
+  {
+    "start": 1723,
+    "end": 1726,
+    "text": " And then they eloped and got married."
+  },
+  {
+    "start": 1726,
+    "end": 1728,
+    "text": " And they had a son who they called Penn."
+  },
+  {
+    "start": 1728,
+    "end": 1731,
+    "text": " He was actually called Robert as well."
+  },
+  {
+    "start": 1731,
+    "end": 1732,
+    "text": " But they nicknamed him Penn."
+  },
+  {
+    "start": 1732,
+    "end": 1733,
+    "text": " And that's all they called him."
+  },
+  {
+    "start": 1733,
+    "end": 1736,
+    "text": " No, he was called Vydeman or Weedeman."
+  },
+  {
+    "start": 1736,
+    "end": 1737,
+    "text": " Robert Weedeman."
+  },
+  {
+    "start": 1737,
+    "end": 1738,
+    "text": " Yeah."
+  },
+  {
+    "start": 1738,
+    "end": 1742,
+    "text": " But the reason they called him Penn is because he couldn't pronounce the word Weedeman as a baby."
+  },
+  {
+    "start": 1742,
+    "end": 1744,
+    "text": " Well, that was a baby."
+  },
+  {
+    "start": 1744,
+    "end": 1747,
+    "text": " We couldn't pronounce anything as a baby."
+  },
+  {
+    "start": 1747,
+    "end": 1749,
+    "text": " They had massive arguments about how Penn should grow up."
+  },
+  {
+    "start": 1749,
+    "end": 1750,
+    "text": " Did you read about these?"
+  },
+  {
+    "start": 1750,
+    "end": 1751,
+    "text": " No, no."
+  },
+  {
+    "start": 1751,
+    "end": 1758,
+    "text": " So basically he wanted the child to grow up looking sort of very blokey, Victorian, you know,"
+  },
+  {
+    "start": 1758,
+    "end": 1760,
+    "text": " wearing trousers and having his hair cut short."
+  },
+  {
+    "start": 1760,
+    "end": 1763,
+    "text": " And she wanted petticoats and shoulder length ringlets of hair."
+  },
+  {
+    "start": 1763,
+    "end": 1766,
+    "text": " And she won, maybe because she was more famous or more authoritative."
+  },
+  {
+    "start": 1766,
+    "end": 1769,
+    "text": " But basically until the child was 10, he wore petticoats."
+  },
+  {
+    "start": 1769,
+    "end": 1773,
+    "text": " And then as soon as she died, when Penn was 10 years old,"
+  },
+  {
+    "start": 1773,
+    "end": 1775,
+    "text": " Robert had the child's hair cut really short."
+  },
+  {
+    "start": 1775,
+    "end": 1776,
+    "text": " Yeah, okay."
+  },
+  {
+    "start": 1776,
+    "end": 1777,
+    "text": " So I'm pronouncing it differently."
+  },
+  {
+    "start": 1777,
+    "end": 1778,
+    "text": " There was a big bone of contention between them."
+  },
+  {
+    "start": 1778,
+    "end": 1782,
+    "text": " But he turned out quite different to what she would have wanted then because he,"
+  },
+  {
+    "start": 1782,
+    "end": 1784,
+    "text": " so he did have this quite fade upbringing."
+  },
+  {
+    "start": 1784,
+    "end": 1786,
+    "text": " And he slept in her room until he was 12."
+  },
+  {
+    "start": 1786,
+    "end": 1792,
+    "text": " And I thought, I thought, hang on, I thought Elizabeth Browning died when he was 10."
+  },
+  {
+    "start": 1792,
+    "end": 1795,
+    "text": " And you're saying it was a really tragic last two years."
+  },
+  {
+    "start": 1795,
+    "end": 1796,
+    "text": " Really."
+  },
+  {
+    "start": 1796,
+    "end": 1797,
+    "text": " Very traumatising for him."
+  },
+  {
+    "start": 1797,
+    "end": 1799,
+    "text": " Well, I've gotten until he was 12."
+  },
+  {
+    "start": 1799,
+    "end": 1800,
+    "text": " Okay."
+  },
+  {
+    "start": 1800,
+    "end": 1801,
+    "text": " So we'll fact check that."
+  },
+  {
+    "start": 1801,
+    "end": 1805,
+    "text": " He ended up this real kind of, well, what is described in one of his biography,"
+  },
+  {
+    "start": 1805,
+    "end": 1810,
+    "text": " in one of Browning's biographies, as a beefy and berry middle-aged man in Nicarbockers"
+  },
+  {
+    "start": 1810,
+    "end": 1812,
+    "text": " with a reputation for promiscuity."
+  },
+  {
+    "start": 1812,
+    "end": 1815,
+    "text": " And also his home, his house was just a filthy pigstie."
+  },
+  {
+    "start": 1815,
+    "end": 1817,
+    "text": " He had people around for parties."
+  },
+  {
+    "start": 1817,
+    "end": 1820,
+    "text": " And so his house was nicknamed the Palazzo pigstie."
+  },
+  {
+    "start": 1820,
+    "end": 1822,
+    "text": " The pigstie palace."
+  },
+  {
+    "start": 1822,
+    "end": 1824,
+    "text": " And well, he was called Penn."
+  },
+  {
+    "start": 1824,
+    "end": 1825,
+    "text": " Yeah."
+  },
+  {
+    "start": 1825,
+    "end": 1826,
+    "text": " It's like a pigpen."
+  },
+  {
+    "start": 1826,
+    "end": 1827,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1827,
+    "end": 1828,
+    "text": " Penn's pigpen."
+  },
+  {
+    "start": 1828,
+    "end": 1829,
+    "text": " So he was."
+  },
+  {
+    "start": 1829,
+    "end": 1830,
+    "text": " He was a painter."
+  },
+  {
+    "start": 1830,
+    "end": 1832,
+    "text": " But I think not a great one."
+  },
+  {
+    "start": 1832,
+    "end": 1836,
+    "text": " And apparently, his contract for painting for a luxurious female nude"
+  },
+  {
+    "start": 1836,
+    "end": 1839,
+    "text": " did not encourage sales in Victorian England."
+  },
+  {
+    "start": 1839,
+    "end": 1840,
+    "text": " Well, he was a sculptor, too."
+  },
+  {
+    "start": 1840,
+    "end": 1841,
+    "text": " Oh, was he?"
+  },
+  {
+    "start": 1841,
+    "end": 1845,
+    "text": " Yeah, one of his very few sculpted works is of a woman communing with a python."
+  },
+  {
+    "start": 1845,
+    "end": 1846,
+    "text": " And it's quite sexy."
+  },
+  {
+    "start": 1846,
+    "end": 1850,
+    "text": " It's called Driope or Driope Fascinated by Apollo."
+  },
+  {
+    "start": 1850,
+    "end": 1854,
+    "text": " But during the sculpting process, the python tried to strangle the model that he got."
+  },
+  {
+    "start": 1854,
+    "end": 1856,
+    "text": " And he then had to shoot it."
+  },
+  {
+    "start": 1856,
+    "end": 1857,
+    "text": " Oh, my God."
+  },
+  {
+    "start": 1857,
+    "end": 1858,
+    "text": " The python."
+  },
+  {
+    "start": 1858,
+    "end": 1859,
+    "text": " Yes."
+  },
+  {
+    "start": 1859,
+    "end": 1860,
+    "text": " Wow."
+  },
+  {
+    "start": 1860,
+    "end": 1861,
+    "text": " I know."
+  },
+  {
+    "start": 1861,
+    "end": 1862,
+    "text": " Do they have a paint portrait outtakes?"
+  },
+  {
+    "start": 1862,
+    "end": 1865,
+    "text": " That would have been just a stunning."
+  },
+  {
+    "start": 1865,
+    "end": 1866,
+    "text": " It's interesting."
+  },
+  {
+    "start": 1866,
+    "end": 1872,
+    "text": " The idea of his voice coming back from the death at his funeral, I find interesting."
+  },
+  {
+    "start": 1872,
+    "end": 1876,
+    "text": " Because he was one of the people who was very against spiritualism."
+  },
+  {
+    "start": 1876,
+    "end": 1880,
+    "text": " He used to sit on salances because Elizabeth was really into salances."
+  },
+  {
+    "start": 1880,
+    "end": 1883,
+    "text": " And this was the time where Arthur Conan Doyle was into it and so on."
+  },
+  {
+    "start": 1883,
+    "end": 1884,
+    "text": " And Houdini."
+  },
+  {
+    "start": 1884,
+    "end": 1885,
+    "text": " And Houdini was again."
+  },
+  {
+    "start": 1885,
+    "end": 1886,
+    "text": " Houdini was a skeptic."
+  },
+  {
+    "start": 1886,
+    "end": 1887,
+    "text": " He was a skeptic."
+  },
+  {
+    "start": 1887,
+    "end": 1891,
+    "text": " They just sound like all the most famous people in the world where it sounds like you just go along to a normal sale,"
+  },
+  {
+    "start": 1891,
+    "end": 1892,
+    "text": " to hoping to speak to a relative."
+  },
+  {
+    "start": 1892,
+    "end": 1897,
+    "text": " And then suddenly, Houdini stands up and Arthur Conan Doyle stands up to be a brownings there."
+  },
+  {
+    "start": 1897,
+    "end": 1899,
+    "text": " Well, they were going for the rich people, weren't they?"
+  },
+  {
+    "start": 1899,
+    "end": 1900,
+    "text": " Yeah."
+  },
+  {
+    "start": 1900,
+    "end": 1901,
+    "text": " The mediums."
+  },
+  {
+    "start": 1901,
+    "end": 1903,
+    "text": " Well, this was a very famous medium."
+  },
+  {
+    "start": 1903,
+    "end": 1904,
+    "text": " It was called Daniel Dungless."
+  },
+  {
+    "start": 1904,
+    "end": 1905,
+    "text": " Hume."
+  },
+  {
+    "start": 1905,
+    "end": 1906,
+    "text": " Daniel Dungless."
+  },
+  {
+    "start": 1906,
+    "end": 1907,
+    "text": " Daniel Dungless."
+  },
+  {
+    "start": 1907,
+    "end": 1908,
+    "text": " And Dungless wasn't."
+  },
+  {
+    "start": 1908,
+    "end": 1910,
+    "text": " He was Daniel Hume and he added Dungless."
+  },
+  {
+    "start": 1910,
+    "end": 1911,
+    "text": " And so."
+  },
+  {
+    "start": 1911,
+    "end": 1917,
+    "text": " And it's so weird, isn't it, because it looks like it's a misprint of Dungless."
+  },
+  {
+    "start": 1917,
+    "end": 1920,
+    "text": " It really does."
+  },
+  {
+    "start": 1920,
+    "end": 1923,
+    "text": " And he was, he was someone who was very famous back in the day."
+  },
+  {
+    "start": 1923,
+    "end": 1925,
+    "text": " And he used to do all these salances."
+  },
+  {
+    "start": 1925,
+    "end": 1929,
+    "text": " And one salancy did was with the brownings and they were sitting there."
+  },
+  {
+    "start": 1929,
+    "end": 1931,
+    "text": " And he was really skeptical, Robert."
+  },
+  {
+    "start": 1931,
+    "end": 1932,
+    "text": " And Elizabeth was really into it."
+  },
+  {
+    "start": 1932,
+    "end": 1940,
+    "text": " And Daniel Dungless suddenly said, your son who passed away who was very young is here with us."
+  },
+  {
+    "start": 1940,
+    "end": 1943,
+    "text": " And there was an apparition that was, that was near them."
+  },
+  {
+    "start": 1943,
+    "end": 1945,
+    "text": " And they were like, oh my god, this is amazing."
+  },
+  {
+    "start": 1945,
+    "end": 1946,
+    "text": " And it's so great."
+  },
+  {
+    "start": 1946,
+    "end": 1948,
+    "text": " Browning went, this is not, this is not my son."
+  },
+  {
+    "start": 1948,
+    "end": 1949,
+    "text": " And he grabbed the apparition."
+  },
+  {
+    "start": 1949,
+    "end": 1951,
+    "text": " And it was Hume's naked foot."
+  },
+  {
+    "start": 1951,
+    "end": 1953,
+    "text": " That was hanging in the air."
+  },
+  {
+    "start": 1953,
+    "end": 1954,
+    "text": " Yeah."
+  },
+  {
+    "start": 1954,
+    "end": 1957,
+    "text": " Such a good story."
+  },
+  {
+    "start": 1957,
+    "end": 1961,
+    "text": " It was a bare foot and then he was going, ooh."
+  },
+  {
+    "start": 1961,
+    "end": 1963,
+    "text": " Very embarrassing."
+  },
+  {
+    "start": 1963,
+    "end": 1965,
+    "text": " Literally put his foot in it."
+  },
+  {
+    "start": 1965,
+    "end": 1969,
+    "text": " Wait, the thing was, he didn't have a son."
+  },
+  {
+    "start": 1969,
+    "end": 1970,
+    "text": " No, he didn't have a son."
+  },
+  {
+    "start": 1970,
+    "end": 1972,
+    "text": " Yeah, there was no dead son."
+  },
+  {
+    "start": 1972,
+    "end": 1974,
+    "text": " At least do your research as a medium."
+  },
+  {
+    "start": 1974,
+    "end": 1976,
+    "text": " Do the very basic research."
+  },
+  {
+    "start": 1976,
+    "end": 1979,
+    "text": " If you're going to claim the dead sons come back, make sure there's a dead son."
+  },
+  {
+    "start": 1979,
+    "end": 1982,
+    "text": " Yeah, especially when the people around the table are really famous."
+  },
+  {
+    "start": 1982,
+    "end": 1985,
+    "text": " And he could probably have just gone onto Wikipedia and check."
+  },
+  {
+    "start": 1985,
+    "end": 1991,
+    "text": " Every QI person's favourite poem by Robert Browning is Pippa Passes."
+  },
+  {
+    "start": 1991,
+    "end": 1994,
+    "text": " And that's because it contains the lines."
+  },
+  {
+    "start": 1994,
+    "end": 2001,
+    "text": " Sing to the bats, sleek sisterhoods, full compliance with gallantry, then owls and bats, cows and twats,"
+  },
+  {
+    "start": 2001,
+    "end": 2005,
+    "text": " munks and nuns in a cloister's moods."
+  },
+  {
+    "start": 2005,
+    "end": 2013,
+    "text": " And this is because he thought that the word 'twat' was a kind of headdress worn by a nun."
+  },
+  {
+    "start": 2013,
+    "end": 2019,
+    "text": " He had taken this from a 1660s satirical poem called Vanity of the Vanities,"
+  },
+  {
+    "start": 2019,
+    "end": 2022,
+    "text": " which says they talked of having a cardinal's hat."
+  },
+  {
+    "start": 2022,
+    "end": 2025,
+    "text": " They'd sent him a soon an old nun's twat."
+  },
+  {
+    "start": 2025,
+    "end": 2029,
+    "text": " And he'd read that and thought, well, they could only be talking about a headdress."
+  },
+  {
+    "start": 2029,
+    "end": 2031,
+    "text": " It can't be anything else."
+  },
+  {
+    "start": 2031,
+    "end": 2032,
+    "text": " So it must be that."
+  },
+  {
+    "start": 2032,
+    "end": 2035,
+    "text": " And he'd put it in his, imagine putting it in your own purse."
+  },
+  {
+    "start": 2035,
+    "end": 2036,
+    "text": " So good."
+  },
+  {
+    "start": 2036,
+    "end": 2041,
+    "text": " And what's great is, we only reason we know that is the OED itself chased him up to say,"
+  },
+  {
+    "start": 2041,
+    "end": 2045,
+    "text": " do you have some sort of secret etymology about this that we don't know of?"
+  },
+  {
+    "start": 2045,
+    "end": 2048,
+    "text": " Nope, nope, just onto that."
+  },
+  {
+    "start": 2048,
+    "end": 2051,
+    "text": " Did the OED tell him, you know what you've done here?"
+  },
+  {
+    "start": 2051,
+    "end": 2054,
+    "text": " Well, they must have said we're approaching you because 'twat' doesn't mean that."
+  },
+  {
+    "start": 2054,
+    "end": 2057,
+    "text": " Or they might have just said, we're interested in you all."
+  },
+  {
+    "start": 2057,
+    "end": 2058,
+    "text": " Yeah."
+  },
+  {
+    "start": 2058,
+    "end": 2062,
+    "text": " Anyone who heard that poem, the very first time he read it out has gone to him."
+  },
+  {
+    "start": 2062,
+    "end": 2067,
+    "text": " Robert, did you just say nun's twat?"
+  },
+  {
+    "start": 2067,
+    "end": 2071,
+    "text": " He doesn't need to wait for the OED to come over."
+  },
+  {
+    "start": 2071,
+    "end": 2075,
+    "text": " He's a laughingstock of the whole town."
+  },
+  {
+    "start": 2075,
+    "end": 2078,
+    "text": " Oh, but for a while he would have been going through his town going,"
+  },
+  {
+    "start": 2078,
+    "end": 2082,
+    "text": " Oh, lovely twat, because he pointed to a nun's head."
+  },
+  {
+    "start": 2082,
+    "end": 2085,
+    "text": " It's so annoying, because it's such a good word for rhyming with things."
+  },
+  {
+    "start": 2085,
+    "end": 2086,
+    "text": " Yeah, you're right."
+  },
+  {
+    "start": 2086,
+    "end": 2087,
+    "text": " Yeah."
+  },
+  {
+    "start": 2087,
+    "end": 2088,
+    "text": " Oh, here's the poem."
+  },
+  {
+    "start": 2088,
+    "end": 2090,
+    "text": " Oh, actually, you could have said hats."
+  },
+  {
+    "start": 2090,
+    "end": 2091,
+    "text": " There you go."
+  },
+  {
+    "start": 2091,
+    "end": 2092,
+    "text": " It would have worked."
+  },
+  {
+    "start": 2092,
+    "end": 2094,
+    "text": " The meaning would have been the same."
+  },
+  {
+    "start": 2094,
+    "end": 2095,
+    "text": " Perfect."
+  },
+  {
+    "start": 2095,
+    "end": 2096,
+    "text": " Robert."
+  },
+  {
+    "start": 2096,
+    "end": 2101,
+    "text": " Apparently he's, well, I mean, so his poems at the time were known for being kind of impenetrable"
+  },
+  {
+    "start": 2101,
+    "end": 2102,
+    "text": " and impossible to understand."
+  },
+  {
+    "start": 2102,
+    "end": 2106,
+    "text": " And, you know, really great poets read them and did not get what he was on about."
+  },
+  {
+    "start": 2106,
+    "end": 2113,
+    "text": " So Tennyson said of his poem \"Saudello,\" which was an early one before he'd become a bit more accessible."
+  },
+  {
+    "start": 2113,
+    "end": 2118,
+    "text": " Tennyson said he only understood the first and last lines of the entire thing."
+  },
+  {
+    "start": 2118,
+    "end": 2124,
+    "text": " The first line is, who will, as in who will read this, who will may hear Saudello's story told?"
+  },
+  {
+    "start": 2124,
+    "end": 2128,
+    "text": " And the last line is, who would has read Saudello's story told?"
+  },
+  {
+    "start": 2128,
+    "end": 2130,
+    "text": " And the in between was nonsense."
+  },
+  {
+    "start": 2130,
+    "end": 2134,
+    "text": " And then Henry James, another great author he would have thought would understand most things,"
+  },
+  {
+    "start": 2134,
+    "end": 2139,
+    "text": " said he was comforted on hearing, browning, read his poems in a self to an audience that,"
+  },
+  {
+    "start": 2139,
+    "end": 2143,
+    "text": " at least if you don't understand them, he apparently understands them even less."
+  },
+  {
+    "start": 2143,
+    "end": 2144,
+    "text": " Wow."
+  },
+  {
+    "start": 2144,
+    "end": 2147,
+    "text": " Henry James wrote some of the most complicated sentences in the whole of English literature."
+  },
+  {
+    "start": 2147,
+    "end": 2150,
+    "text": " He's so hard to read, and if he didn't get browning."
+  },
+  {
+    "start": 2150,
+    "end": 2154,
+    "text": " But browning's like, why did Henry James come up to me and call me a nuns?"
+  },
+  {
+    "start": 2154,
+    "end": 2162,
+    "text": " Okay, it's time for our final fact of the show, and that is Chazinski."
+  },
+  {
+    "start": 2162,
+    "end": 2168,
+    "text": " My fact this week is that in 1948 in Idaho, left over World War II parachutes,"
+  },
+  {
+    "start": 2168,
+    "end": 2171,
+    "text": " were used to drop beavers out of airplanes."
+  },
+  {
+    "start": 2171,
+    "end": 2173,
+    "text": " For any particular reason?"
+  },
+  {
+    "start": 2173,
+    "end": 2174,
+    "text": " No, just one."
+  },
+  {
+    "start": 2174,
+    "end": 2175,
+    "text": " Just, yeah, why not?"
+  },
+  {
+    "start": 2175,
+    "end": 2176,
+    "text": " You know, you've got to do something."
+  },
+  {
+    "start": 2176,
+    "end": 2181,
+    "text": " So this was post-war, and people were feeling kind of related in America,"
+  },
+  {
+    "start": 2181,
+    "end": 2186,
+    "text": " because they won, and they started moving to this place in Idaho called Payette Lake,"
+  },
+  {
+    "start": 2186,
+    "end": 2189,
+    "text": " near a place called McCool, and there were beavers there."
+  },
+  {
+    "start": 2189,
+    "end": 2192,
+    "text": " And beavers get in the way of humans sometimes, because they sort of built dams,"
+  },
+  {
+    "start": 2192,
+    "end": 2196,
+    "text": " they disrupt water flows, and they just change the surrounding environment."
+  },
+  {
+    "start": 2196,
+    "end": 2198,
+    "text": " So the people wanted them out."
+  },
+  {
+    "start": 2198,
+    "end": 2202,
+    "text": " And there was this guy called Elmo Hater, who worked for Idaho."
+  },
+  {
+    "start": 2202,
+    "end": 2206,
+    "text": " He really did not like Sesame Street, did he?"
+  },
+  {
+    "start": 2206,
+    "end": 2212,
+    "text": " It was spelled differently, but he did have a problem with puppets."
+  },
+  {
+    "start": 2212,
+    "end": 2216,
+    "text": " He worked for Idaho Fish and Game Association,"
+  },
+  {
+    "start": 2216,
+    "end": 2219,
+    "text": " and he knew of a place called Chamberlain Basin, 200 miles away,"
+  },
+  {
+    "start": 2219,
+    "end": 2221,
+    "text": " which he thought perfect for beavers."
+  },
+  {
+    "start": 2221,
+    "end": 2225,
+    "text": " And he also knew that World War II had just ended, and there were all these leftover parachutes."
+  },
+  {
+    "start": 2225,
+    "end": 2228,
+    "text": " So he was like, let's marry the two."
+  },
+  {
+    "start": 2228,
+    "end": 2229,
+    "text": " Okay."
+  },
+  {
+    "start": 2229,
+    "end": 2233,
+    "text": " And he did, well, he tried, he actually tried taking them to this place by horse and carriage"
+  },
+  {
+    "start": 2233,
+    "end": 2237,
+    "text": " for a horse and cart, because there were no roads going between the two destinations."
+  },
+  {
+    "start": 2237,
+    "end": 2240,
+    "text": " And the horses hated the beavers."
+  },
+  {
+    "start": 2240,
+    "end": 2243,
+    "text": " So apparently horses, if you put two beavers on their cart, they freak out."
+  },
+  {
+    "start": 2243,
+    "end": 2244,
+    "text": " Did you really?"
+  },
+  {
+    "start": 2244,
+    "end": 2245,
+    "text": " His phrase about it."
+  },
+  {
+    "start": 2245,
+    "end": 2246,
+    "text": " No."
+  },
+  {
+    "start": 2246,
+    "end": 2247,
+    "text": " You write this gorgeous phrase."
+  },
+  {
+    "start": 2247,
+    "end": 2250,
+    "text": " He said horses and mules become spooky and quarrelsome when loaded"
+  },
+  {
+    "start": 2250,
+    "end": 2253,
+    "text": " with a struggling, odorous pair of live beavers."
+  },
+  {
+    "start": 2253,
+    "end": 2255,
+    "text": " Spooky and quarrelsome."
+  },
+  {
+    "start": 2255,
+    "end": 2256,
+    "text": " Spooky and quarrelsome."
+  },
+  {
+    "start": 2256,
+    "end": 2257,
+    "text": " So the horses didn't like the beavers."
+  },
+  {
+    "start": 2257,
+    "end": 2258,
+    "text": " Beavers didn't like the horses."
+  },
+  {
+    "start": 2258,
+    "end": 2263,
+    "text": " And so this guy dropped them in boxes into the forest and said."
+  },
+  {
+    "start": 2263,
+    "end": 2264,
+    "text": " Yeah."
+  },
+  {
+    "start": 2264,
+    "end": 2265,
+    "text": " Have you seen the footage of it?"
+  },
+  {
+    "start": 2265,
+    "end": 2266,
+    "text": " Yes."
+  },
+  {
+    "start": 2266,
+    "end": 2267,
+    "text": " It's awesome."
+  },
+  {
+    "start": 2267,
+    "end": 2268,
+    "text": " Yeah."
+  },
+  {
+    "start": 2268,
+    "end": 2270,
+    "text": " So this was only uncovered quite recently, right?"
+  },
+  {
+    "start": 2270,
+    "end": 2272,
+    "text": " So it was lost for a long time."
+  },
+  {
+    "start": 2272,
+    "end": 2274,
+    "text": " It was footage, but no one knew where it was."
+  },
+  {
+    "start": 2274,
+    "end": 2276,
+    "text": " It's been uncovered a few years back, I think."
+  },
+  {
+    "start": 2276,
+    "end": 2280,
+    "text": " And you see the beaver being packed into this box, which is a sort of bite-proof box."
+  },
+  {
+    "start": 2280,
+    "end": 2282,
+    "text": " It's not locked down."
+  },
+  {
+    "start": 2282,
+    "end": 2284,
+    "text": " So the idea is that they're sort of holding it shut."
+  },
+  {
+    "start": 2284,
+    "end": 2288,
+    "text": " And the weight of heading towards the ground is what's holding it shut."
+  },
+  {
+    "start": 2288,
+    "end": 2291,
+    "text": " As soon as they land, it can open up and the leaver can get out."
+  },
+  {
+    "start": 2291,
+    "end": 2293,
+    "text": " But they don't drop from a high height."
+  },
+  {
+    "start": 2293,
+    "end": 2295,
+    "text": " It's a really quick descent."
+  },
+  {
+    "start": 2295,
+    "end": 2296,
+    "text": " It's like only a hundred feet."
+  },
+  {
+    "start": 2296,
+    "end": 2297,
+    "text": " So it's really crazy."
+  },
+  {
+    "start": 2297,
+    "end": 2298,
+    "text": " Yeah."
+  },
+  {
+    "start": 2298,
+    "end": 2300,
+    "text": " Have no idea how they survive the impact."
+  },
+  {
+    "start": 2300,
+    "end": 2301,
+    "text": " Well, they were very happy."
+  },
+  {
+    "start": 2301,
+    "end": 2304,
+    "text": " I think there were 76 that were dropped and 75 survived."
+  },
+  {
+    "start": 2304,
+    "end": 2306,
+    "text": " And it was because they tried it."
+  },
+  {
+    "start": 2306,
+    "end": 2307,
+    "text": " There was a set of story."
+  },
+  {
+    "start": 2307,
+    "end": 2308,
+    "text": " Oh."
+  },
+  {
+    "start": 2308,
+    "end": 2309,
+    "text": " Oh."
+  },
+  {
+    "start": 2309,
+    "end": 2311,
+    "text": " That one, it was very sad."
+  },
+  {
+    "start": 2311,
+    "end": 2312,
+    "text": " That one somehow jumped up."
+  },
+  {
+    "start": 2312,
+    "end": 2313,
+    "text": " Okay, open the lid of the box."
+  },
+  {
+    "start": 2313,
+    "end": 2314,
+    "text": " Open the lid."
+  },
+  {
+    "start": 2314,
+    "end": 2315,
+    "text": " Open the lid."
+  },
+  {
+    "start": 2315,
+    "end": 2316,
+    "text": " Yeah."
+  },
+  {
+    "start": 2316,
+    "end": 2317,
+    "text": " But they had one training beaver."
+  },
+  {
+    "start": 2317,
+    "end": 2318,
+    "text": " They did."
+  },
+  {
+    "start": 2318,
+    "end": 2319,
+    "text": " They called Geronimo."
+  },
+  {
+    "start": 2319,
+    "end": 2320,
+    "text": " And they would..."
+  },
+  {
+    "start": 2320,
+    "end": 2326,
+    "text": " I think that Geronimo has the record for the beaver who's done the most parachute drops in the world."
+  },
+  {
+    "start": 2326,
+    "end": 2329,
+    "text": " I think even if he'd only done it twice, that would be a record."
+  },
+  {
+    "start": 2329,
+    "end": 2331,
+    "text": " That's a lot for the most parachute drops from a beaver."
+  },
+  {
+    "start": 2331,
+    "end": 2332,
+    "text": " But he was this hard."
+  },
+  {
+    "start": 2332,
+    "end": 2334,
+    "text": " I'm not sure if you told him that now."
+  },
+  {
+    "start": 2334,
+    "end": 2335,
+    "text": " You mean I didn't have to do it."
+  },
+  {
+    "start": 2335,
+    "end": 2337,
+    "text": " There's under 350 times."
+  },
+  {
+    "start": 2337,
+    "end": 2343,
+    "text": " In fact, I'd argue if Geronimo had only done it once, he would have had the jite record."
+  },
+  {
+    "start": 2343,
+    "end": 2345,
+    "text": " Well, he was this old tough old male."
+  },
+  {
+    "start": 2345,
+    "end": 2348,
+    "text": " And they thought he's going to be a practice dummy."
+  },
+  {
+    "start": 2348,
+    "end": 2350,
+    "text": " They used dummies first and then they thought we need a live one."
+  },
+  {
+    "start": 2350,
+    "end": 2352,
+    "text": " And every time he climbed out of the box, someone picked him up."
+  },
+  {
+    "start": 2352,
+    "end": 2356,
+    "text": " And then eventually he got so used to it that as soon as they saw him approaching,"
+  },
+  {
+    "start": 2356,
+    "end": 2358,
+    "text": " he crawled back into the box of his own accord."
+  },
+  {
+    "start": 2358,
+    "end": 2360,
+    "text": " Ready for the next jump."
+  },
+  {
+    "start": 2360,
+    "end": 2361,
+    "text": " It's so sweet."
+  },
+  {
+    "start": 2361,
+    "end": 2362,
+    "text": " It's time for that."
+  },
+  {
+    "start": 2362,
+    "end": 2364,
+    "text": " Beavers are cool, are they?"
+  },
+  {
+    "start": 2364,
+    "end": 2365,
+    "text": " So cool."
+  },
+  {
+    "start": 2365,
+    "end": 2366,
+    "text": " Right, love beavers."
+  },
+  {
+    "start": 2366,
+    "end": 2367,
+    "text": " You love most about them."
+  },
+  {
+    "start": 2367,
+    "end": 2371,
+    "text": " Well, one thing is this stuff I didn't know about called castorium."
+  },
+  {
+    "start": 2371,
+    "end": 2373,
+    "text": " I've been pronouncing that right."
+  },
+  {
+    "start": 2373,
+    "end": 2374,
+    "text": " What, they're anal secretions."
+  },
+  {
+    "start": 2374,
+    "end": 2377,
+    "text": " Where that says, what do you love most about beavers?"
+  },
+  {
+    "start": 2377,
+    "end": 2378,
+    "text": " They're anal secretions."
+  },
+  {
+    "start": 2378,
+    "end": 2381,
+    "text": " So it's, right, let's just clear this up."
+  },
+  {
+    "start": 2381,
+    "end": 2382,
+    "text": " It's not anal."
+  },
+  {
+    "start": 2382,
+    "end": 2383,
+    "text": " Is it not?"
+  },
+  {
+    "start": 2383,
+    "end": 2384,
+    "text": " It's not their anal."
+  },
+  {
+    "start": 2384,
+    "end": 2386,
+    "text": " It's just extremely near their anal."
+  },
+  {
+    "start": 2386,
+    "end": 2388,
+    "text": " Is it?"
+  },
+  {
+    "start": 2388,
+    "end": 2390,
+    "text": " They have these glands."
+  },
+  {
+    "start": 2390,
+    "end": 2394,
+    "text": " And if you lift up the tail, it's really close to the bum."
+  },
+  {
+    "start": 2394,
+    "end": 2396,
+    "text": " And it produces a kind of scent."
+  },
+  {
+    "start": 2396,
+    "end": 2398,
+    "text": " It's this kind of brown slime."
+  },
+  {
+    "start": 2398,
+    "end": 2399,
+    "text": " It's not feces."
+  },
+  {
+    "start": 2399,
+    "end": 2401,
+    "text": " It's just very near the feces."
+  },
+  {
+    "start": 2401,
+    "end": 2403,
+    "text": " But it smells heavenly."
+  },
+  {
+    "start": 2403,
+    "end": 2406,
+    "text": " And there was a, it smells so good."
+  },
+  {
+    "start": 2406,
+    "end": 2409,
+    "text": " And it's a product of their diet of the bark and leaves."
+  },
+  {
+    "start": 2409,
+    "end": 2411,
+    "text": " And it's very hard to get hold of."
+  },
+  {
+    "start": 2411,
+    "end": 2414,
+    "text": " You have to knock a beaver out and then basically milk its anus."
+  },
+  {
+    "start": 2414,
+    "end": 2416,
+    "text": " It's not the anal, it's not the anal."
+  },
+  {
+    "start": 2416,
+    "end": 2418,
+    "text": " It's not the anal, it's not the anal."
+  },
+  {
+    "start": 2418,
+    "end": 2420,
+    "text": " You're milking it wrong, no."
+  },
+  {
+    "start": 2420,
+    "end": 2422,
+    "text": " No, it wasn't castar and beavers."
+  },
+  {
+    "start": 2422,
+    "end": 2424,
+    "text": " What's all the slime I've got?"
+  },
+  {
+    "start": 2424,
+    "end": 2426,
+    "text": " But it's, it used to be used to flavour vanilla."
+  },
+  {
+    "start": 2426,
+    "end": 2428,
+    "text": " It used to be a legitimate product."
+  },
+  {
+    "start": 2428,
+    "end": 2432,
+    "text": " And it's, so NPR investigated whether it's still used."
+  },
+  {
+    "start": 2432,
+    "end": 2435,
+    "text": " And it turns out that there is a snaps in Sweden, which does still use it."
+  },
+  {
+    "start": 2435,
+    "end": 2436,
+    "text": " Really?"
+  },
+  {
+    "start": 2436,
+    "end": 2439,
+    "text": " But it's so expensive to produce, because there's only a limited number of beavers."
+  },
+  {
+    "start": 2439,
+    "end": 2443,
+    "text": " And the global consumption these days is only about 132 kilos a year."
+  },
+  {
+    "start": 2443,
+    "end": 2445,
+    "text": " So what's your favourite thing about beavers?"
+  },
+  {
+    "start": 2445,
+    "end": 2447,
+    "text": " No, you've stolen the castorium thing."
+  },
+  {
+    "start": 2447,
+    "end": 2449,
+    "text": " This is a disaster."
+  },
+  {
+    "start": 2449,
+    "end": 2451,
+    "text": " My favourite thing is related."
+  },
+  {
+    "start": 2451,
+    "end": 2455,
+    "text": " It's the beaver myth that was pervasive for about over a thousand years."
+  },
+  {
+    "start": 2455,
+    "end": 2461,
+    "text": " Which is that if you're hunting a beaver, it would bite off its testicles and throw them at you."
+  },
+  {
+    "start": 2461,
+    "end": 2463,
+    "text": " And then run away."
+  },
+  {
+    "start": 2463,
+    "end": 2465,
+    "text": " And people just used to think this."
+  },
+  {
+    "start": 2465,
+    "end": 2466,
+    "text": " Definitely a myth."
+  },
+  {
+    "start": 2466,
+    "end": 2467,
+    "text": " Do you know what?"
+  },
+  {
+    "start": 2467,
+    "end": 2470,
+    "text": " I don't have any first-hand proof that it doesn't happen."
+  },
+  {
+    "start": 2470,
+    "end": 2472,
+    "text": " I think we assume it's a myth now."
+  },
+  {
+    "start": 2472,
+    "end": 2476,
+    "text": " This came up in a text called a physiologous in the second century AD."
+  },
+  {
+    "start": 2476,
+    "end": 2481,
+    "text": " And it's based on the same thing, the castorium glands, which people thought were its testicles."
+  },
+  {
+    "start": 2481,
+    "end": 2483,
+    "text": " Because they look very similar to testicles."
+  },
+  {
+    "start": 2483,
+    "end": 2489,
+    "text": " And people used this delicious smelling fragrance as medicine and there's various other things."
+  },
+  {
+    "start": 2489,
+    "end": 2492,
+    "text": " I think women used to sniff it like snuff."
+  },
+  {
+    "start": 2492,
+    "end": 2495,
+    "text": " And so beavers knew this is the idea."
+  },
+  {
+    "start": 2495,
+    "end": 2498,
+    "text": " And they were like, \"Well, this guy's hunting me. He only wants my testicles.\""
+  },
+  {
+    "start": 2498,
+    "end": 2501,
+    "text": " So he'd bite them off and chuck them at the hunter."
+  },
+  {
+    "start": 2501,
+    "end": 2503,
+    "text": " And then the hunter would give up."
+  },
+  {
+    "start": 2503,
+    "end": 2507,
+    "text": " And as the myth went, if the hunter continued chasing the beaver would turn around,"
+  },
+  {
+    "start": 2507,
+    "end": 2510,
+    "text": " display his antitestical area."
+  },
+  {
+    "start": 2510,
+    "end": 2513,
+    "text": " And be like, \"Look, there's nothing for you here.\""
+  },
+  {
+    "start": 2513,
+    "end": 2514,
+    "text": " That's really interesting."
+  },
+  {
+    "start": 2514,
+    "end": 2522,
+    "text": " Because I read an article that said that the 17th century beavers' testicles were used to cure toothache."
+  },
+  {
+    "start": 2522,
+    "end": 2526,
+    "text": " And when minced, they added delicate flavour to tobacco."
+  },
+  {
+    "start": 2526,
+    "end": 2528,
+    "text": " But now I realise it's not the testicles, is it?"
+  },
+  {
+    "start": 2528,
+    "end": 2529,
+    "text": " Yeah, no."
+  },
+  {
+    "start": 2529,
+    "end": 2530,
+    "text": " It's these anal glands."
+  },
+  {
+    "start": 2530,
+    "end": 2533,
+    "text": " It is. And I think the Algonquins, another American..."
+  },
+  {
+    "start": 2533,
+    "end": 2536,
+    "text": " Native American tribes used to have it in tobacco, because it made it taste delicious."
+  },
+  {
+    "start": 2536,
+    "end": 2538,
+    "text": " In fact, I believe they used to be..."
+  },
+  {
+    "start": 2538,
+    "end": 2540,
+    "text": " It used to be used to flavour camel cigarettes."
+  },
+  {
+    "start": 2540,
+    "end": 2542,
+    "text": " And a few other types of cigarettes."
+  },
+  {
+    "start": 2542,
+    "end": 2543,
+    "text": " I think they used to use castorium."
+  },
+  {
+    "start": 2543,
+    "end": 2544,
+    "text": " Yeah, camels and winstens."
+  },
+  {
+    "start": 2544,
+    "end": 2545,
+    "text": " That was it."
+  },
+  {
+    "start": 2545,
+    "end": 2546,
+    "text": " Yeah."
+  },
+  {
+    "start": 2546,
+    "end": 2548,
+    "text": " Used to have beavers' accretia."
+  },
+  {
+    "start": 2548,
+    "end": 2552,
+    "text": " How many beavers would you have to knock out and milk to get this stuff?"
+  },
+  {
+    "start": 2552,
+    "end": 2553,
+    "text": " It just is amazing."
+  },
+  {
+    "start": 2553,
+    "end": 2555,
+    "text": " I mean, there must have been a lot of..."
+  },
+  {
+    "start": 2555,
+    "end": 2556,
+    "text": " I think there were a lot more back in the day."
+  },
+  {
+    "start": 2556,
+    "end": 2559,
+    "text": " I'm surprised they called it camels if you're getting the good stuff from the beavers."
+  },
+  {
+    "start": 2559,
+    "end": 2560,
+    "text": " Yeah, that's true."
+  },
+  {
+    "start": 2560,
+    "end": 2562,
+    "text": " You've been sucking on a beaver."
+  },
+  {
+    "start": 2562,
+    "end": 2565,
+    "text": " Damn, your favourite thing about beavers?"
+  },
+  {
+    "start": 2565,
+    "end": 2567,
+    "text": " That's a Robert Browning poem, isn't it?"
+  },
+  {
+    "start": 2567,
+    "end": 2568,
+    "text": " Sucking on a beaver."
+  },
+  {
+    "start": 2568,
+    "end": 2573,
+    "text": " Yeah, but he did think it was a lawyer's sleeve."
+  },
+  {
+    "start": 2573,
+    "end": 2577,
+    "text": " Damn, favourite thing about beavers?"
+  },
+  {
+    "start": 2577,
+    "end": 2581,
+    "text": " I like that they have a second set of lips."
+  },
+  {
+    "start": 2581,
+    "end": 2585,
+    "text": " So they've got their normal lips just hanging out there in the front."
+  },
+  {
+    "start": 2585,
+    "end": 2586,
+    "text": " And they've got their teeth."
+  },
+  {
+    "start": 2586,
+    "end": 2587,
+    "text": " And then they've got another set of lips."
+  },
+  {
+    "start": 2587,
+    "end": 2589,
+    "text": " Yeah, sitting right behind."
+  },
+  {
+    "start": 2589,
+    "end": 2590,
+    "text": " No."
+  },
+  {
+    "start": 2590,
+    "end": 2595,
+    "text": " Yeah, and it's for when they've gone underwater and they've picked up a nice bit of wood."
+  },
+  {
+    "start": 2595,
+    "end": 2596,
+    "text": " And they're coming back up."
+  },
+  {
+    "start": 2596,
+    "end": 2599,
+    "text": " So obviously they've got to bite into the wood, but you bite into the wood."
+  },
+  {
+    "start": 2599,
+    "end": 2600,
+    "text": " Your lips are open."
+  },
+  {
+    "start": 2600,
+    "end": 2601,
+    "text": " You're letting the water in."
+  },
+  {
+    "start": 2601,
+    "end": 2602,
+    "text": " Second set of lips."
+  },
+  {
+    "start": 2602,
+    "end": 2604,
+    "text": " You stop the water coming into your body."
+  },
+  {
+    "start": 2604,
+    "end": 2605,
+    "text": " It's a classic."
+  },
+  {
+    "start": 2605,
+    "end": 2607,
+    "text": " How much lipstick must they get through?"
+  },
+  {
+    "start": 2607,
+    "end": 2609,
+    "text": " Hi there."
+  },
+  {
+    "start": 2609,
+    "end": 2613,
+    "text": " Because do you remember in the bee series of QI, we were looking into beavers."
+  },
+  {
+    "start": 2613,
+    "end": 2618,
+    "text": " And we sent Molly Oldfield a good friend to look into what beavers lips look like."
+  },
+  {
+    "start": 2618,
+    "end": 2620,
+    "text": " And she went on to the internet and Googled it."
+  },
+  {
+    "start": 2620,
+    "end": 2621,
+    "text": " No."
+  },
+  {
+    "start": 2621,
+    "end": 2627,
+    "text": " And she suddenly was less innocent than she was at the start of the day."
+  },
+  {
+    "start": 2627,
+    "end": 2630,
+    "text": " Do you think base one and base two and base three and base four?"
+  },
+  {
+    "start": 2630,
+    "end": 2634,
+    "text": " Do you think base one for beavers is snogging their first lips?"
+  },
+  {
+    "start": 2634,
+    "end": 2639,
+    "text": " Base two is snogging their second lips."
+  },
+  {
+    "start": 2639,
+    "end": 2643,
+    "text": " And then I think you'd have two base threes as well."
+  },
+  {
+    "start": 2643,
+    "end": 2646,
+    "text": " Base three is she showed me her nuns head gear."
+  },
+  {
+    "start": 2646,
+    "end": 2649,
+    "text": " Hang on, James."
+  },
+  {
+    "start": 2649,
+    "end": 2651,
+    "text": " What's your favourite thing about beavers?"
+  },
+  {
+    "start": 2651,
+    "end": 2652,
+    "text": " I thought you'd never ask."
+  },
+  {
+    "start": 2652,
+    "end": 2653,
+    "text": " You've been asking all of us."
+  },
+  {
+    "start": 2653,
+    "end": 2654,
+    "text": " I know."
+  },
+  {
+    "start": 2654,
+    "end": 2655,
+    "text": " Let me think."
+  },
+  {
+    "start": 2655,
+    "end": 2658,
+    "text": " You must be so confident you have an obscure one that you allow three beavers."
+  },
+  {
+    "start": 2658,
+    "end": 2659,
+    "text": " I don't."
+  },
+  {
+    "start": 2659,
+    "end": 2660,
+    "text": " Okay, what about this?"
+  },
+  {
+    "start": 2660,
+    "end": 2663,
+    "text": " My favourite is the movie \"Zombievers\"."
+  },
+  {
+    "start": 2663,
+    "end": 2664,
+    "text": " Of course."
+  },
+  {
+    "start": 2664,
+    "end": 2665,
+    "text": " Yes, he's done it."
+  },
+  {
+    "start": 2665,
+    "end": 2666,
+    "text": " He's done it."
+  },
+  {
+    "start": 2666,
+    "end": 2672,
+    "text": " Which I found on IMDb, which is about zombie beavers."
+  },
+  {
+    "start": 2672,
+    "end": 2679,
+    "text": " What I like about it is they mentioned in the script about a Guiardia lamblier parasite,"
+  },
+  {
+    "start": 2679,
+    "end": 2682,
+    "text": " which is actually, beavers actually have it."
+  },
+  {
+    "start": 2682,
+    "end": 2686,
+    "text": " And they used to think that it gave people something called beaver fever."
+  },
+  {
+    "start": 2686,
+    "end": 2687,
+    "text": " It might actually do it."
+  },
+  {
+    "start": 2687,
+    "end": 2689,
+    "text": " It can infect you."
+  },
+  {
+    "start": 2689,
+    "end": 2694,
+    "text": " I saw a review of it that says, \"Zombievers is not a total wash and seen at night"
+  },
+  {
+    "start": 2694,
+    "end": 2698,
+    "text": " under the right combination of low expectations and controlled substances."
+  },
+  {
+    "start": 2698,
+    "end": 2701,
+    "text": " It may even seem better than it really is.\""
+  },
+  {
+    "start": 2701,
+    "end": 2706,
+    "text": " And also, when I went onto IMDb, it said that people who like zombie beavers will also like"
+  },
+  {
+    "start": 2706,
+    "end": 2712,
+    "text": " \"Zombies\", which is when a strange virus quickly spreads through a safari park"
+  },
+  {
+    "start": 2712,
+    "end": 2715,
+    "text": " and turns all the zoo animals into zombies."
+  },
+  {
+    "start": 2715,
+    "end": 2716,
+    "text": " Oh, zoo beavers."
+  },
+  {
+    "start": 2716,
+    "end": 2717,
+    "text": " Oh, zoo beavers."
+  },
+  {
+    "start": 2717,
+    "end": 2719,
+    "text": " I thought it was going to be a zombie bee."
+  },
+  {
+    "start": 2719,
+    "end": 2720,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 2720,
+    "end": 2725,
+    "text": " Well, actually, spoiler alert, at the end credits, after the end credits of Zombievers,"
+  },
+  {
+    "start": 2725,
+    "end": 2729,
+    "text": " there's a brief segment that shows a bee feeding on the corpse of a beaver"
+  },
+  {
+    "start": 2729,
+    "end": 2735,
+    "text": " and the bee flies back to its hive and the implication is that it's become a Zombie."
+  },
+  {
+    "start": 2735,
+    "end": 2736,
+    "text": " Brilliant."
+  },
+  {
+    "start": 2736,
+    "end": 2737,
+    "text": " We were in a sequel."
+  },
+  {
+    "start": 2737,
+    "end": 2738,
+    "text": " That's so exciting."
+  },
+  {
+    "start": 2738,
+    "end": 2739,
+    "text": " Yeah."
+  },
+  {
+    "start": 2739,
+    "end": 2740,
+    "text": " The ruin film for me."
+  },
+  {
+    "start": 2740,
+    "end": 2742,
+    "text": " I won't watch it now."
+  },
+  {
+    "start": 2742,
+    "end": 2743,
+    "text": " It's my night ruined."
+  },
+  {
+    "start": 2743,
+    "end": 2745,
+    "text": " One other thing about beavers."
+  },
+  {
+    "start": 2745,
+    "end": 2749,
+    "text": " For a beaver, the days in winter are longer than they are in the summer."
+  },
+  {
+    "start": 2749,
+    "end": 2750,
+    "text": " For a beaver."
+  },
+  {
+    "start": 2750,
+    "end": 2751,
+    "text": " What?"
+  },
+  {
+    "start": 2751,
+    "end": 2752,
+    "text": " What?"
+  },
+  {
+    "start": 2752,
+    "end": 2753,
+    "text": " They're nocturnal."
+  },
+  {
+    "start": 2753,
+    "end": 2754,
+    "text": " Is that it?"
+  },
+  {
+    "start": 2754,
+    "end": 2757,
+    "text": " Yes, they are nocturnal, but that's not why."
+  },
+  {
+    "start": 2757,
+    "end": 2762,
+    "text": " Imagine if James was just trying to make the idea of a nocturnal animal just sound really"
+  },
+  {
+    "start": 2762,
+    "end": 2763,
+    "text": " exciting suddenly."
+  },
+  {
+    "start": 2763,
+    "end": 2765,
+    "text": " How can we rebrand this?"
+  },
+  {
+    "start": 2765,
+    "end": 2766,
+    "text": " Repackage it."
+  },
+  {
+    "start": 2766,
+    "end": 2772,
+    "text": " This is literal, as literally the days are longer in the winter."
+  },
+  {
+    "start": 2772,
+    "end": 2778,
+    "text": " And that is because they live underground in the dams in winter."
+  },
+  {
+    "start": 2778,
+    "end": 2782,
+    "text": " And without any signals from nature, they don't know when the sun's going up and when the"
+  },
+  {
+    "start": 2782,
+    "end": 2783,
+    "text": " sun's going down."
+  },
+  {
+    "start": 2783,
+    "end": 2789.56,
+    "text": " And so their circadian rhythm changes and they end up living on 27-hour days in the winter"
+  },
+  {
+    "start": 2789.56,
+    "end": 2791.36,
+    "text": " when they're living inside their dams."
+  },
+  {
+    "start": 2791.36,
+    "end": 2794.48,
+    "text": " And then when they come up in the summer, they live on normal days because of the sun going"
+  },
+  {
+    "start": 2794.48,
+    "end": 2795.48,
+    "text": " up and down."
+  },
+  {
+    "start": 2795.48,
+    "end": 2796.48,
+    "text": " Wow."
+  },
+  {
+    "start": 2796.48,
+    "end": 2797.48,
+    "text": " Isn't that amazing?"
+  },
+  {
+    "start": 2797.48,
+    "end": 2804.48,
+    "text": " I cannot believe that given that, that Zombievers was your favourite thing about beavers."
+  },
+  {
+    "start": 2804.48,
+    "end": 2808.8,
+    "text": " Okay, that's it."
+  },
+  {
+    "start": 2808.8,
+    "end": 2809.8,
+    "text": " That is all of our facts."
+  },
+  {
+    "start": 2809.8,
+    "end": 2811.4,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 2811.4,
+    "end": 2814.68,
+    "text": " If you'd like to get in contact with any of us about the things that we have said over"
+  },
+  {
+    "start": 2814.68,
+    "end": 2817.8,
+    "text": " the course of this podcast, we can be found on our Twitter accounts."
+  },
+  {
+    "start": 2817.8,
+    "end": 2823.2,
+    "text": " I'm on @tribaland, Andy, @andruhuntarev, James, @jamesharkin, and Anna."
+  },
+  {
+    "start": 2823.2,
+    "end": 2824.2,
+    "text": " You can email us.qy.com."
+  },
+  {
+    "start": 2824.2,
+    "end": 2825.2,
+    "text": " Yep."
+  },
+  {
+    "start": 2825.2,
+    "end": 2828.96,
+    "text": " You can go to our group account, which is @nosuchthing, or our website \"nosuchthing\" is"
+  },
+  {
+    "start": 2828.96,
+    "end": 2830.28,
+    "text": " a fish.com."
+  },
+  {
+    "start": 2830.28,
+    "end": 2833.52,
+    "text": " We got everything up there from our previous episodes."
+  },
+  {
+    "start": 2833.52,
+    "end": 2836.8,
+    "text": " We don't have upcoming tour dates, but we have a video of us on tour."
+  },
+  {
+    "start": 2836.8,
+    "end": 2838.64,
+    "text": " If you want to see that, it's called Behind the Gills."
+  },
+  {
+    "start": 2838.64,
+    "end": 2839.64,
+    "text": " Do download that."
+  },
+  {
+    "start": 2839.64,
+    "end": 2841.32,
+    "text": " We'll be back again next week."
+  },
+  {
+    "start": 2841.32,
+    "end": 2842.32,
+    "text": " We'll see you then."
+  },
+  {
+    "start": 2842.32,
+    "end": 2843.32,
+    "text": " Goodbye."
+  },
+  {
+    "start": 2843.32,
+    "end": 2856.12,
+    "text": " They've got married, and they had a son who they called Penn."
+  },
+  {
+    "start": 2856.12,
+    "end": 2857.12,
+    "text": " Yeah."
+  },
+  {
+    "start": 2857.12,
+    "end": 2860.24,
+    "text": " He was actually called Robert as well, but they nicknamed him Penn, and that's all they"
+  },
+  {
+    "start": 2860.24,
+    "end": 2861.24,
+    "text": " called him."
+  },
+  {
+    "start": 2861.24,
+    "end": 2864.4,
+    "text": " He was called Vydeman or Weedeman."
+  },
+  {
+    "start": 2864.4,
+    "end": 2865.4,
+    "text": " Robert Weedeman."
+  },
+  {
+    "start": 2865.4,
+    "end": 2866.4,
+    "text": " Yeah."
+  },
+  {
+    "start": 2866.4,
+    "end": 2868.4,
+    "text": " But the reason they called him Penn is because he couldn't pronounce the word Weedeman."
+  },
+  {
+    "start": 2868.4,
+    "end": 2872.24,
+    "text": " It's also called him Penn, because they did some tests and they found out he was mightier"
+  },
+  {
+    "start": 2872.24,
+    "end": 2873.24,
+    "text": " than a sword."
+  },
+  {
+    "start": 2873.24,
+    "end": 2875.68,
+    "text": " Are you going to keep that in?"
+  },
+  {
+    "start": 2875.68,
+    "end": 2876.68,
+    "text": " Yeah."
+  },
+  {
+    "start": 2876.68,
+    "end": 2877.68,
+    "text": " Of course he is."
+  },
+  {
+    "start": 2877.68,
+    "end": 2880.92,
+    "text": " I don't know if that's real quick right now."
+  },
+  {
+    "start": 2880.92,
+    "end": 2881.92,
+    "text": " That's why I left the gap."
+  },
+  {
+    "start": 2881.92,
+    "end": 2882.92,
+    "text": " Sorry."
+  },
+  {
+    "start": 2882.92,
+    "end": 2884.92,
+    "text": " We could have left that hang."
+  },
+  {
+    "start": 2884.92,
+    "end": 2885.92,
+    "text": " Well, I'll get."
+  },
+  {
+    "start": 2885.92,
+    "end": 2887.92,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 2887.92,
+    "end": 2889.92,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 2889.92,
+    "end": 2891.92,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 2891.92,
+    "end": 2893.92,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 2893.92,
+    "end": 2895.92,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 2895.92,
+    "end": 2897.92,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 2897.92,
+    "end": 2899.92,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 2899.92,
+    "end": 2901.92,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 2901.92,
+    "end": 2903.92,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 2903.92,
+    "end": 2906.5,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 2906.5,
+    "end": 2908.56,
+    "text": " (upbeat music)"
+  }
+]

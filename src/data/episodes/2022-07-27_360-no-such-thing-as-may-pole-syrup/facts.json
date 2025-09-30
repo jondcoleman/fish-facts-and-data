@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky historical and cultural facts, including the controversy of animal dances in the 1910s, a rare Sardinian pasta made by only three women, the tradition of buglers in Krakow, and a conservationist's unusual dental appointment for a leopard.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the 1910s, animal dances including the camel walk, the turkey trot, the crab step, the chicken flip, and the kangaroo dip were so controversial they were banned at the White House, condemned by the Pope, and warned against by doctors.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There is a type of pasta that only three women in the world know how to make.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:12:53"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Every hour, the buglers of Krakow have to climb 272 steps, play five notes, then walk back down again.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:23:49"
+    },
+    {
+      "fact_number": 4,
+      "fact": "When the conservationist Amy Dickman booked a dentist appointment in Namibia, she neglected to mention to the dentist that the patient was a leopard.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:37:55"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and historical facts, including unusual events at the Queen's coronation, the banning of fizzy drinks at a puddle jumping championship, the specific use of goose feathers in badminton shuttlecocks, and the discovery of ancient Egyptian spells.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "For the Queen's coronation, people dressed up as television sets.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:35"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The world puddle jumping championships ban fizzy drinks in case they improve participants' performance.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:09:55"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The shuttlecocks used in professional badminton are made using real goose feathers which are always taken from the birds' left wing.",
+      "presenter": "Mark Mason",
+      "guest": true,
+      "start_time": "00:17:05"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The oldest known book containing the word 'fluffers' is an ancient Egyptian text that includes spells for various purposes, such as making someone not annoyed with you.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:10"
+    }
+  ]
+}

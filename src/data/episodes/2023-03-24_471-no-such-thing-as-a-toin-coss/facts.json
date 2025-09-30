@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on Desert Island Discs, a man who made himself a publicly traded person, drinking habits in British pubs, and the history of Mr. Blobby.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Dame Maura Lympany remains the only castaway on Desert Island Discs to have chosen entirely her own recordings to be marooned with.",
+      "presenter": "Rachel Parris",
+      "guest": true,
+      "start_time": "00:02:25"
+    },
+    {
+      "fact_number": 2,
+      "fact": "A man called Mike Merrill found making decisions so hard that he floated himself as a publicly traded person and for over a decade now has had over 800 people making his decisions for him.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:46"
+    },
+    {
+      "fact_number": 3,
+      "fact": "According to a survey of pubs in 1930, the average time someone in Bolton took to drink a pint of beer was 52 minutes. In Liverpool, it was 22 minutes.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:30:12"
+    },
+    {
+      "fact_number": 4,
+      "fact": "When he was approached for the role, the first actor to play Mr. Blobby was simultaneously appearing in Shakespeare's Measure for Measure.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:42:11"
+    }
+  ]
+}

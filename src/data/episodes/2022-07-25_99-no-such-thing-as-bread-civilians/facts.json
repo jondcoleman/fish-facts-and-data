@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and intriguing topics, including an angry robot used for training telemarketers, the prevalence of eating meals in cars in America, the surprising dangers faced by hairdressers, and a riot caused by Elvis Presley inviting fans backstage.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "A New Zealand firm has developed an irrationally angry robot to train telesales staff.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:01:08"
+    },
+    {
+      "fact_number": 2,
+      "fact": "A fifth of America's meals are eaten in cars.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:03"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The most dangerous job in Britain is that of a hairdresser.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:19:30"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Elvis Presley once started a riot at the end of his show by saying to the crowd, 'Girls, I'll see you all backstage.'",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:30"
+    }
+  ]
+}

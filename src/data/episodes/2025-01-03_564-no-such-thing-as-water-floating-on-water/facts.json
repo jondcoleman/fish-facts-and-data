@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' features a compilation of humorous and intriguing facts from the hosts' tour, including anecdotes about historical figures, quirky inventions, and unusual scientific studies. The hosts share a variety of amusing stories and facts, ranging from the peculiarities of animal behavior to the oddities of human history and culture.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Napoleon fell in love with Josephine because she could do a naughty act called the zigzags, and nobody knows what the zigzags were.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:03:14"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Between Heathrow and Rome, from takeoff to touchdown, the flight time is the exact run length time of the 2000 film 'Gladiator.'",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:03:51"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The blue whale produces the largest fart bubble, so large that a zebra who makes the loudest fart can fit in it.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:04:15"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In Tudor England, there was a type of criminal called a bear top trickster, where a woman would flash her breasts to lure men into a house, and once inside, he would be robbed.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:04:29"
+    }
+  ]
+}

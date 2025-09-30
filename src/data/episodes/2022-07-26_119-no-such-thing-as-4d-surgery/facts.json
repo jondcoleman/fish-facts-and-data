@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics, including the use of 3D glasses in heart surgery, the potential future of pigeon milk as a health supplement, historical book storage practices, and a humorous mishap involving an Egyptian government memo. The hosts delve into these facts with their usual blend of humor and insight, providing listeners with both entertainment and education.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Heart surgeons now perform surgery while wearing 3D glasses.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:01:29"
+    },
+    {
+      "fact_number": 2,
+      "fact": "One day we may all be drinking pigeon milk.",
+      "presenter": "Stephen Colgan",
+      "guest": true,
+      "start_time": "00:09:45"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Books used to be stacked with the spines facing inwards.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:15:48"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In May, an internal memo by the Egyptian government on how to crush the press was accidentally sent out to the press.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:23:15"
+    }
+  ]
+}

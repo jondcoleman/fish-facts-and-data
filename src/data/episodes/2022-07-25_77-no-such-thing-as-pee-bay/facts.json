@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and historical facts, including the corrosive effects of dog urine on street lights, the delayed invention of the buttonhole after the button, the miraculous fasting habits of baby St. Nicholas, and Ronald Reagan's fondness for White House squirrels.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Dog pee makes street lights collapse.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "After the button was invented, it took more than 1,000 years for someone to invent the buttonhole.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:11:36"
+    },
+    {
+      "fact_number": 3,
+      "fact": "As a baby, St Nicholas refused to drink his mother's breast milk on fast days.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:22:32"
+    },
+    {
+      "fact_number": 4,
+      "fact": "When Ronald Reagan left office, he left a note on the White House lawn for the squirrels warning them to beware of George Bush's dogs.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:31:18"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of intriguing topics, including the unexpected findings during the Challenger disaster debris search, the empathetic abilities of chimps, the historical use of darts in naval warfare, and the surprising presence of bacterial caterpillars in human mouths.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The 1986 ocean search to recover debris from the Challenger disaster also turned up 25 kilograms of cocaine, the value of which was enough to cover the $13 million cost of the entire search operation.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:02:46"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Chimps will help to break you out of prison, but only if they like you.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:17:41"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In Tudor times, the guy in the crow's nest of a warship had to be really good at darts.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:32:27"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There is a 50 percent chance that you have a caterpillar in your mouth.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:46:28"
+    }
+  ]
+}

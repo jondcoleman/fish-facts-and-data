@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and historical topics, including the ban on nudity in East Germany, the Beanie Baby craze and its impact on eBay, a unique moist towelette museum in Michigan, and a historical controversy in the Miss America pageant.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1954, it became illegal to bathe completely naked in East Germany.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:01:11"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1998, one-tenth of everything sold on eBay was a Beanie Baby.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:14:01"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Due to the interests of its production coordinator, Michigan State University's Planetarium not only dedicates itself to space science education, but also houses the world's only moist towelette museum.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:24:53"
+    },
+    {
+      "fact_number": 4,
+      "fact": "72 years after the first Miss America contest, the runner-up was still claiming 'I won it, hands down.'",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:35:27"
+    }
+  ]
+}

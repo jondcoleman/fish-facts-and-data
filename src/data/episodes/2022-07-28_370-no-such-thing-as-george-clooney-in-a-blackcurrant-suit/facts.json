@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features discussions on the symbolism of a chef's hat, gender perceptions in response to a baby's cry, Ethiopian coffee ceremonies, and the eccentricities of an 18th-century grammarian known as Alexander the Corrector.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The 100 folds of a chef's hat represent the 100 ways in which you can cook an egg.",
+      "presenter": "Athena Koblenu",
+      "guest": true,
+      "start_time": "00:02:16"
+    },
+    {
+      "fact_number": 2,
+      "fact": "When men are played the sound of a baby crying, if they're told it's a boy, they'll think it's in more pain than if they're told it's a girl.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:15:33"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Traditional Ethiopian households can spend up to nine hours a day on coffee ceremonies.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:28:42"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The 18th century grammarian, Alexander the Corrector, carried a sponge wherever he went just in case he spotted any offensive graffiti.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:44:45"
+    }
+  ]
+}

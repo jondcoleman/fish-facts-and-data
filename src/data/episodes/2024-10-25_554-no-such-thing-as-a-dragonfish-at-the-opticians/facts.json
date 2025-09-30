@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and fascinating topics, including a tree hugging competition in Glasgow, the wax coating on apples, the historical figure of Atossa and her connection to mastitis, and the use of snooker balls to determine depth while scuba diving.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The Glasgow Tree Hugging Competition contains three rounds: Speed Hugging, Dedicated Hugging, and Freestyle Hugging.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The wax coating on 6,400 shop-bought apples is enough to make one tea light.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:47"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The first known example of mastitis was in an empress called Atossa, who was cured, and the doctor's payment was to be allowed to invade Greece.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:24:53"
+    },
+    {
+      "fact_number": 4,
+      "fact": "One way to tell how deep you are when scuba diving is to take a set of snooker balls with you.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:38:28"
+    }
+  ]
+}

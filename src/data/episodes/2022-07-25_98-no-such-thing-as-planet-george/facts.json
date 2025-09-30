@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of topics including the discovery of a potential new planet, the origin of the term 'snowmageddon', the discovery of the largest prime number, and a humorous mistake in a British government press release about language tests.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Even though we're not sure it exists, the new planet, planet number nine, is the most planetary planet of all the planets.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The first use of the word snowmageddon came in the same press release as the first apology for the use of the word snowmageddon.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:08:18"
+    },
+    {
+      "fact_number": 3,
+      "fact": "This week we have discovered the largest prime number ever; we would have discovered it in September, but the computer which found it forgot to tell anybody.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:24"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In a press release about the new English language test for migrants, the British government misspelled the word language.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:26:13"
+    }
+  ]
+}

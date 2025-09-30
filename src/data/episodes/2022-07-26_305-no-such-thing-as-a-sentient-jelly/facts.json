@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including Thomas Edison's near-death experience with a badger, unique seaweed-eating animals, the irony of an electric cargo ship transporting coal, and the history of food quality control with a focus on jelly consistency testing.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Thomas Edison was once almost killed by a flying badger.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There are only two groups of animals on Earth that live entirely on seaweed, and they are a type of iguana and a type of sheep.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:10"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 2017, China launched the world's first electric cargo ship, which is now being used exclusively to carry coal to power stations.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:22:08"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The first ever instrument made for food quality control was built to test the consistency of jelly.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:28:17"
+    }
+  ]
+}

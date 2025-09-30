@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features special guest Major Tim Peake, who shares insights about spacewalks, including the necessity of wearing a nappy and the challenges of working in space. The hosts also discuss the vastness of the Sarawak Cave in Borneo, the peculiar taste of Jepsen's Malört, and the creation of an edible Land Rover manual for survival in the desert.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When you do a space walk, you have to wear 16 layers of clothing and a nappy.",
+      "presenter": "Major Tim Peake",
+      "guest": true,
+      "start_time": "00:01:56"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Visitors to the Sarawak Cave in Borneo don't report feeling claustrophobic, they report feeling agriphobic.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:16:07"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Chicago has an alcoholic spirit which tastes so bad that its own founder used to boast that only one in 49 men liked it.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:32:43"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Land Rover once released a manual which was edible, so if you got lost in the desert, you could eat it to survive.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:46:15"
+    }
+  ]
+}

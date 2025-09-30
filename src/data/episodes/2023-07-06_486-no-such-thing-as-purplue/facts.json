@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about camels' mating behaviors, the pioneering female filmmaker Alice Guy, the overconfidence of American men in landing planes, and a quirky fact about John Keats and roast beef sandwiches.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "During their mating season, male camels' stomachs actually shrink so that they can concentrate on chasing females.",
+      "presenter": "Sophie Duker",
+      "guest": true,
+      "start_time": "00:01:56"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The first woman to ever direct a film was a guy.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:50"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Half of American men are confident they could safely land a plane if the pilot was incapacitated.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:31:15"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The first person to use the phrase roast beef sandwich in English had a surname which is an anagram of the word steak.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:45:00"
+    }
+  ]
+}

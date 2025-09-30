@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a compilation of humorous and interesting facts, including stories about a British table tennis player named Tin Tin Ho, the looting of Pekingese dogs during the Second Opium War, the origins of kryptonite in Superman lore, and the use of potatoes to test airplane Wi-Fi. The hosts also discuss various historical anecdotes and quirky scientific facts.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Britain's leading female table tennis player is called Tin Tin Ho, named because her father is obsessed with table tennis, and the initials of table tennis are TT.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:02:27"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1860, during the Second Opium War, the Anglo-French looted and burned the Summer Palace and found five Pekingese dogs guarding a corpse of a lady, and one of them was given to Queen Victoria who renamed her Lootie.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:04:08"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Kryptonite was invented as a plot device to allow the actor playing Superman in the radio series to take holidays, as it would incapacitate Superman and allow the actor to be absent from episodes.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:08:25"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 2012, Boeing fixed their Wi-Fi on planes using 9,000 kilos of potatoes because potatoes block internet signals in much the same way that human bodies do.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:33"
+    }
+  ]
+}

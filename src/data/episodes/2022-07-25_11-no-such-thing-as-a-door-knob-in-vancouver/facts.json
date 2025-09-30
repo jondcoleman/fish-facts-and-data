@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of intriguing topics, including the origins of political terms as insults, a fake drug used in surveys, otters' unique behaviors, and the legality of door knobs in Vancouver. The hosts delve into historical anecdotes, survey inaccuracies, animal behaviors, and peculiar laws, providing a humorous and informative discussion.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The words \"tory\" and \"prime minister\" both started out as being insults.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:49"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In a 2005 questionnaire about substance abuse, almost one in five respondents admitted to taking a drug that doesn't exist.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:07:37"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Sea otters have a secret pocket in their armpit which they like to keep their favourite stones in.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:12:38"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Door knobs have been made illegal in Vancouver.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:19:08"
+    }
+  ]
+}

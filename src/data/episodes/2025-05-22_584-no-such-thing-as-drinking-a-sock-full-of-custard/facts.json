@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' features facts about Picasso's unusual birth and smoking habits, the creation of St. Helena's national song by someone who never visited, the unique staircase at the BBC's Maida Vale studios, and Rwanda's annual gorilla baby naming ceremony. The hosts delve into these topics with humor and interesting anecdotes, including discussions on Picasso's life, the logistics of St. Helena, the intricacies of Foley sound effects, and the conservation efforts for gorillas in Rwanda.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Picasso inhaled his first cigar on the day he was born.",
+      "presenter": "John Lloyd",
+      "guest": true,
+      "start_time": "00:02:01"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The national song of St. Helena was written by a man who had never been there; he based his lyrics on a postcard that he had seen.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:15:04"
+    },
+    {
+      "fact_number": 3,
+      "fact": "To go into the BBC's sound department in Maida Vale, you have to walk down a set of steps that are each one third concrete, one third carpet, and one third wood.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:47"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Every year, tens of thousands of people attend Rwanda's annual gorilla baby naming ceremony.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:37:07"
+    }
+  ]
+}

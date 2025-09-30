@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of topics including the impact of climate change on Winter Olympics host cities, Canada's strategic maple syrup reserve and its theft, the Winter War between Russia and Finland, and the peculiarities of Greek gods, particularly those associated with the ocean.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Due to climate change, nine out of the 21 cities that have hosted the Winter Olympics will be too warm to do so by 2050.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Canada has a strategic maple syrup reserve, and in 2012, a quarter of the maple syrup in it was stolen.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:31"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When Russia invaded Finland in 1940, they were so convinced that they would be welcomed with a celebration that they took musical instruments with them as they invaded.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:22:57"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Greek gods of the ocean include Poseidon, Triton, Oceanus, and Doris, Doris the God who just brought them all tea and biscuits in the afternoon.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:32:22"
+    }
+  ]
+}

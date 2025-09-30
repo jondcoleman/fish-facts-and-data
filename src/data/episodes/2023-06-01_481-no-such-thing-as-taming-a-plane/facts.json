@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about Anne of Green Gables and a giant potato sculpture, a cowboy lassoing a plane, using mirrors to attract puffins, and the effectiveness of trash talk in sports.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Anne of Green Gables is from the same island as the world's largest potato sculpture.",
+      "presenter": "Ann Miller",
+      "guest": true,
+      "start_time": "00:02:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1952, a cowboy successfully lassoed a plane as it flew past his house.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:17:05"
+    },
+    {
+      "fact_number": 3,
+      "fact": "One of the best ways to trick puffins to a new nesting ground is with mirrors, because they like to be in groups and can't tell the difference between a puffin and the reflection of a puffin.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:36"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Trash talk works better on darts players than shot putters.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:44:08"
+    }
+  ]
+}

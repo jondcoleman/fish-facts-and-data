@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the clothing habits of Neanderthals, the chaotic launch of the first ballpoint pen in the US, the censorship history of 'Lady Chatterley's Lover', and the surprising influence of Henry VIII's armor on NASA's spacesuit design.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Neanderthals wore capes.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:48"
+    },
+    {
+      "fact_number": 2,
+      "fact": "When the first ballpoint pen was launched in the US, riot police had to be deployed to restrain the crowds.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:21:30"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Not only was Lady Chatterley's Lover banned from Australia, but a book about the ban was also banned.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:21:53"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Henry VIII contributed to NASA's space suit design.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:26:26"
+    }
+  ]
+}

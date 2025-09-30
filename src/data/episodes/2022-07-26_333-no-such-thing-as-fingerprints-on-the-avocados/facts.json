@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features a variety of quirky and fascinating facts, including the evolution of human hands due to fig squeezing, the use of a ferret to clean a particle accelerator, the history of garden gnomes and their connection to John Major's family, and the accidental brilliance of scientific discoveries like a parasitic aphrodisiac in crickets.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There is a theory that human hands evolved as tools for assessing whether figs are soft or not.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:55"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1971, Fermilab used a ferret named Felicia to clean their particle accelerator tubes.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:03:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Garden gnomes were popularized by Tom Major-Ball, the father of former UK Prime Minister John Major.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:04:51"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The Golden Mole Award for Accidental Brilliance was set up to honor scientists who made accidental discoveries, like a parasitic aphrodisiac found in crickets.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:10:01"
+    }
+  ]
+}

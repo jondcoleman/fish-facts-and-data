@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and historical facts, including a bizarre newspaper promotion for large families, Belgian fishermen using horses, the surprising shapes of mountains, and the ancient origins of 'your mom' jokes.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1921, the News of the World offered a free tea tray to any mother on the birth of her 10th child.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:32"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Belgian fishermen go fishing on horseback, and they drown in their thousands.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:07:12"
+    },
+    {
+      "fact_number": 3,
+      "fact": "68% of mountains don't have pointy peaks.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:13:49"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The oldest 'your mom' joke appears on a 3500-year-old Babylonian tablet.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:23:03"
+    }
+  ]
+}

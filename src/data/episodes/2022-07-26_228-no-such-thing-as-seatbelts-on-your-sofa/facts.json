@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the history of hot air ballooning in Bristol, the popularity of rage rooms and the items people prefer to smash, the story of McDonald's founder Ray Kroc's involvement with the San Diego Padres, and the symbiotic relationship between yellow-billed oxpeckers and giraffes.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first hot air balloon flight in Bristol was indoors.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:01:50"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In rage rooms, where people pay to smash things up, the things people want to smash up the most are printers.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:10:04"
+    },
+    {
+      "fact_number": 3,
+      "fact": "One of the first things that McDonald's founder Ray Kroc did when he bought the baseball team San Diego Padres was to sign a player called Big Mac.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:29"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The yellow-billed oxpecker bird sleeps in giraffe's armpits.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:24:25"
+    }
+  ]
+}

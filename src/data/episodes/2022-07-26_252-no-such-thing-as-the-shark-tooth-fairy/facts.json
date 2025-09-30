@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including innovative road construction materials in Amsterdam, the financial pitfalls of winning the lottery, the lengthy duration of correspondence chess tournaments, and the fascinating birthing behaviors of sharks.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In Amsterdam, the roads are paved with used toilet paper.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "One frequent result of winning the lottery is going bankrupt. This also applies to people who just live near people who have won the lottery.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:12:36"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The 10th Correspondence Chess Olympiad, which is done entirely by post, took so long to complete that the winners of both gold and bronze represented countries that no longer existed.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:23:10"
+    },
+    {
+      "fact_number": 4,
+      "fact": "When they're about to be born, baby sharks sometimes pop their heads out of their mother's cervix before taking a look around, deciding against it, and retreating back into the womb.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:30:56"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of fascinating topics, including the peculiar history of Goya's residence, the concept of fax attacks before cyber attacks, the historical use of urine in wire making, and the antibacterial properties of dragonfly wings.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The artist Goya, who was famously a deaf man, lived in a house called the House of the Deaf Man, which was actually named after a different deaf man who lived in that house.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Before governments experienced cyber attacks, they had to deal with fax attacks.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:47"
+    },
+    {
+      "fact_number": 3,
+      "fact": "For 200 years, humans made wire by soaking steel in urine before realizing that water works just as well.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:29:23"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Dragonfly wings are equipped with tiny knives that physically rip bacteria apart.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:43:35"
+    }
+  ]
+}

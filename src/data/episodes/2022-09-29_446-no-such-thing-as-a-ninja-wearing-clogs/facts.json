@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and historical facts, including a man who walked on water for a bet, zebra spiders that chase laser pointers like cats, a historical law requiring chickens to wear clogs, and the surprising celebrity status of Albert Einstein.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1907, a man named Charles W. Aldrieve won a huge bet, simply by walking 1,500 miles on water.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:50"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Zebra spiders chase laser pointers exactly like a cat does.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:12:56"
+    },
+    {
+      "fact_number": 3,
+      "fact": "According to a law of 1656, chicken owners on the Scottish borders had to give their chickens clogs.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:22:18"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Einstein was so famous that women reportedly fainted in his presence, and a mob once broke down the door of a lecture hall screening one of his films.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:33:15"
+    }
+  ]
+}

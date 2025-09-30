@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features discussions on quirky historical laws, Henry VIII's extravagant rewards, dolphins learning tricks, and medieval German humor. The hosts explore topics ranging from Boston's canoe laws to dolphins moonwalking and the comedic value of replacing flowers with feces in medieval Germany.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1903, it was made illegal in Boston to lie down in a canoe.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:01:00"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Henry VIII once enjoyed a pudding so much that he awarded the woman who made it one of the monasteries that he had seized from the Catholic Church.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:12:18"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Dolphins in the wild have been teaching each other how to moonwalk.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:25:28"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In medieval Germany, the funniest joke anyone had ever heard involved replacing a flower with a poo.",
+      "presenter": "Alex Edelman",
+      "guest": true,
+      "start_time": "00:33:22"
+    }
+  ]
+}

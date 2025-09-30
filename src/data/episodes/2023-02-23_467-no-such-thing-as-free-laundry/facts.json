@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode is a special tribute to Anna Ptaszynski, who is temporarily leaving the show. The hosts share their favorite facts and moments from Anna's time on the podcast, including humorous anecdotes and memorable facts she presented.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In order to get into the United States, Anna Tyshinski had to tell a fact about a dead president.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:04:33"
+    },
+    {
+      "fact_number": 2,
+      "fact": "For the last month of his life, US President James Garfield ate everything through his anus.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:21"
+    },
+    {
+      "fact_number": 3,
+      "fact": "We're sitting here in the Covent Garden office, and it's the last time the four of us are ever going to be in this room together doing the podcast because Anna's going off and the offices are moving.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:37:03"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 2022, Anna and I set a Guinness World Record right here in this room.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:37:24"
+    }
+  ]
+}

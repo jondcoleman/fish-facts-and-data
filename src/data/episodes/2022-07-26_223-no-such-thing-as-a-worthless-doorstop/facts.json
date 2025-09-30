@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' features facts about a cow killed by a meteorite in Venezuela, a unique species of ant in New York City, the financial troubles of the slinky inventor due to religious donations, and the peculiar farting behavior of zebras when chased by lions. The hosts delve into various related topics, including meteorite hunting, unique animal behaviors, and the history of popular toys.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The only known modern death due to meteorite was a cow who was hit in the neck in Venezuela in 1972.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:50"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There is a unique species of ant that only lives in 10 blocks of New York City; they call it the Manhattan.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:12:24"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The slinky business almost went bankrupt because the slinky's inventor kept giving the proceeds away to religious cults.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:22:40"
+    },
+    {
+      "fact_number": 4,
+      "fact": "When zebras are running away from a lion, they fart loudly with every stride.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:32:52"
+    }
+  ]
+}

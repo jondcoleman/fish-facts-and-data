@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including a rat in Tanzania that helped prevent the spread of TB, historical papal conclaves and their peculiar rules, the UK's only grade one listed dog kennel, and the risks faced by reenactment actors on crime shows like America's Most Wanted.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "A rat in Tanzania just retired after preventing 30,000 people from getting TB.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:46"
+    },
+    {
+      "fact_number": 2,
+      "fact": "While locked away to choose a new pope, cardinals used to be banned from eating pies because it was too easy to hide messages in them.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:13:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There is only one grade one listed dog kennel in the UK.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:26:02"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Reenactment actors on America's Most Wanted run a higher risk of being arrested after the show goes out than normal actors.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:36:55"
+    }
+  ]
+}

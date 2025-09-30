@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about Viking grooming habits, a peculiar letter exchange between early U.S. presidents, Steinway pianos being parachuted into WWII battlefields, and the filming of E.T. with a focus on Drew Barrymore's interactions with the animatronic alien.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Viking men dyed their hair blonde, wore makeup, and had grooming kits.",
+      "presenter": "Rachel Parris",
+      "guest": true,
+      "start_time": "00:02:02"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The fourth president of the United States once sent the third president of the United States a letter giving the precise measurement between a weasel's anus and its vulva.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:13:53"
+    },
+    {
+      "fact_number": 3,
+      "fact": "During the Second World War, Steinway parachuted pianos into battlefields.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:10"
+    },
+    {
+      "fact_number": 4,
+      "fact": "When filming E.T., Steven Spielberg kept E.T.'s puppeteers on the clock at lunchtime so that six-year-old Drew Barrymore could eat with him so she kept believing he was real.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:36:38"
+    }
+  ]
+}

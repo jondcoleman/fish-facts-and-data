@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about the origins of Barbie, the unique housekeeping habits of Eastern screech owls, the eccentric life of poet William Blake, and the lengthy orgasms of ladybirds. The hosts explore these topics with humor and interesting anecdotes, including discussions on owl sex and the historical myths surrounding William Blake's inspirations.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Barbie, the lady of the moment, was based on a high-end German cool girl.",
+      "presenter": "Sophie Duker",
+      "guest": true,
+      "start_time": "00:02:15"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Eastern screech owls have live-in snakes as housekeepers, which their children sometimes eat.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:13:03"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The poet William Blake's boss once visited him and his wife only to find them completely naked.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:58"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Ladybird orgasms last for 30 minutes.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:40:15"
+    }
+  ]
+}

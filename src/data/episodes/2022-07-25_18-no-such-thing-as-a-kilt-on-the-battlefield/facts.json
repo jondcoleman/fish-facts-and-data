@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features discussions on Neil Armstrong's moon landing attire, Muhammad Ali's lesser-known comedy album, a historical war over a stolen bucket, and chimpanzees in Zambia using grass as a fashion statement.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When Neil Armstrong stepped on the moon and said \"That's one small step for a man,\" he was wearing ladies underwear.",
+      "presenter": "Rich Turner",
+      "guest": true,
+      "start_time": "00:03:11"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1963, Muhammad Ali released a stand-up comedy album.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:11:50"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 1325 in Italy, war was declared and 2000 people were killed because of a stolen bucket.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:17:53"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There is a group of chimpanzees in Zambia who wear a blade of grass in their left ear as a fashion statement.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:24:17"
+    }
+  ]
+}

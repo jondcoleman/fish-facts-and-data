@@ -1,0 +1,6297 @@
+[
+  {
+    "start": 0.68,
+    "end": 4.44,
+    "text": " Hi everyone, welcome to this week's episode of No Six Things as a fish."
+  },
+  {
+    "start": 4.44,
+    "end": 7,
+    "text": " Well, what can I tell you about this week's show?"
+  },
+  {
+    "start": 7,
+    "end": 11.16,
+    "text": " Dan Schreiber is having a very well-earned little breather."
+  },
+  {
+    "start": 11.16,
+    "end": 13.08,
+    "text": " He'll be back next week, don't you worry."
+  },
+  {
+    "start": 13.08,
+    "end": 20.72,
+    "text": " And Dan is such a behemoth of a podcaster that in his place we have not just one, but two people."
+  },
+  {
+    "start": 20.72,
+    "end": 25.08,
+    "text": " Now, the first person that we'll be replacing Dan is Athena Cablenu."
+  },
+  {
+    "start": 25.08,
+    "end": 28.88,
+    "text": " Now, she is an amazing comedian, a really good friend of ours."
+  },
+  {
+    "start": 28.88,
+    "end": 32.4,
+    "text": " You might remember her from our 20-hour comic relief special."
+  },
+  {
+    "start": 32.4,
+    "end": 35.12,
+    "text": " She was part of the Guilty Feminist team in that."
+  },
+  {
+    "start": 35.12,
+    "end": 39.04,
+    "text": " And actually, when we were on the Guilty Feminist, she was part of that show."
+  },
+  {
+    "start": 39.04,
+    "end": 44.44,
+    "text": " She also has a BBC Radio 4 show called Athena's Cancel Culture,"
+  },
+  {
+    "start": 44.44,
+    "end": 46.8,
+    "text": " which is out right now on Radio 4."
+  },
+  {
+    "start": 46.8,
+    "end": 49.44,
+    "text": " You can find that on the internet as well."
+  },
+  {
+    "start": 49.44,
+    "end": 54.68,
+    "text": " And she has a podcast called Keeping Athena Company, which is absolutely fantastic."
+  },
+  {
+    "start": 54.68,
+    "end": 56.72,
+    "text": " I can't recommend that highly enough."
+  },
+  {
+    "start": 56.72,
+    "end": 58.84,
+    "text": " It's such a brilliant podcast."
+  },
+  {
+    "start": 58.84,
+    "end": 60.48,
+    "text": " Oh, I did say there was a second person."
+  },
+  {
+    "start": 60.48,
+    "end": 67.16,
+    "text": " The second person is Athena's son, who you might hear in the background from time to time,"
+  },
+  {
+    "start": 67.16,
+    "end": 71.52,
+    "text": " really kind of coming in at the exact moments that you would want him to."
+  },
+  {
+    "start": 71.52,
+    "end": 74.68,
+    "text": " So it's almost like we've soundscaped this episode,"
+  },
+  {
+    "start": 74.68,
+    "end": 77.08,
+    "text": " but I promise you it isn't soundscaped."
+  },
+  {
+    "start": 77.08,
+    "end": 80.68,
+    "text": " It was a tiny little human who was in the background of the show."
+  },
+  {
+    "start": 80.68,
+    "end": 81.84,
+    "text": " I really hope you enjoyed it."
+  },
+  {
+    "start": 81.84,
+    "end": 83.04,
+    "text": " We had such fun making it."
+  },
+  {
+    "start": 83.04,
+    "end": 84.12,
+    "text": " We love Athena."
+  },
+  {
+    "start": 84.12,
+    "end": 88.52,
+    "text": " And I suppose all that's left to say is on with the podcast."
+  },
+  {
+    "start": 88.52,
+    "end": 107.84,
+    "text": " Hello and welcome to this week's episode of No Such Thing as a Fish,"
+  },
+  {
+    "start": 107.84,
+    "end": 113.92,
+    "text": " a weekly podcast coming to you from four secret locations somewhere on Earth."
+  },
+  {
+    "start": 114.52,
+    "end": 116.36,
+    "text": " And specifically in London."
+  },
+  {
+    "start": 116.36,
+    "end": 120.84,
+    "text": " My name is Anna Tyszynski, and I am here today with James Harkin and Johanna Murray"
+  },
+  {
+    "start": 120.84,
+    "end": 124.56,
+    "text": " and our very special, exciting guest, Athena Koblenu."
+  },
+  {
+    "start": 124.56,
+    "end": 127.08,
+    "text": " And once again, we've gathered around the microphones"
+  },
+  {
+    "start": 127.08,
+    "end": 129.76,
+    "text": " with our four favorite facts from the last seven days."
+  },
+  {
+    "start": 129.76,
+    "end": 133,
+    "text": " And in no particular order, here we go."
+  },
+  {
+    "start": 133,
+    "end": 136.64,
+    "text": " And starting with you, Athena, what's your facts?"
+  },
+  {
+    "start": 136.64,
+    "end": 138,
+    "text": " So this is my fact."
+  },
+  {
+    "start": 138,
+    "end": 142.44,
+    "text": " The 100 folds of a chef's hat represent the 100 ways"
+  },
+  {
+    "start": 142.44,
+    "end": 145.76,
+    "text": " in which you can cook an egg, right?"
+  },
+  {
+    "start": 145.76,
+    "end": 150.8,
+    "text": " Does that mean, Athena, if you can only cook an egg like one way,"
+  },
+  {
+    "start": 150.8,
+    "end": 154.04,
+    "text": " for instance, then you can only have one fold or get a beret."
+  },
+  {
+    "start": 154.04,
+    "end": 156.64,
+    "text": " Yeah. Chef Beret."
+  },
+  {
+    "start": 156.64,
+    "end": 161.16,
+    "text": " I was going to say you get a little cone, but that's not a good kind of hat to wear."
+  },
+  {
+    "start": 161.16,
+    "end": 164.24,
+    "text": " Big white cone on your head."
+  },
+  {
+    "start": 164.24,
+    "end": 166,
+    "text": " That's not a good hat at all."
+  },
+  {
+    "start": 166,
+    "end": 168,
+    "text": " I mean, I always thought I was an amazing cook."
+  },
+  {
+    "start": 168,
+    "end": 170.8,
+    "text": " I'm like, you know, you see my Instagram, there's lots of food on there."
+  },
+  {
+    "start": 170.8,
+    "end": 173.68,
+    "text": " But when I read that fact, I was like, I can't cook at all."
+  },
+  {
+    "start": 173.68,
+    "end": 175.84,
+    "text": " I know three ways. That's it."
+  },
+  {
+    "start": 175.84,
+    "end": 178.52,
+    "text": " Come on, mate. Even I know more than three ways to cook an egg."
+  },
+  {
+    "start": 178.52,
+    "end": 179.84,
+    "text": " What's your three?"
+  },
+  {
+    "start": 179.84,
+    "end": 183.32,
+    "text": " Scrambled, omelette, fry."
+  },
+  {
+    "start": 183.32,
+    "end": 184.96,
+    "text": " Oh, boil. I know four ways."
+  },
+  {
+    "start": 184.96,
+    "end": 186.24,
+    "text": " Oh, I'm still short."
+  },
+  {
+    "start": 186.24,
+    "end": 188.32,
+    "text": " Not tried puching any time."
+  },
+  {
+    "start": 188.32,
+    "end": 190.84,
+    "text": " Oh, God. Yes. OK."
+  },
+  {
+    "start": 190.84,
+    "end": 192.28,
+    "text": " Fine. Five."
+  },
+  {
+    "start": 192.28,
+    "end": 194.04,
+    "text": " It's still, we're a long way off."
+  },
+  {
+    "start": 194.04,
+    "end": 196.44,
+    "text": " We're five percent of the way there."
+  },
+  {
+    "start": 196.44,
+    "end": 198.76,
+    "text": " And the rest of this section is just going to be us brainstorming"
+  },
+  {
+    "start": 198.76,
+    "end": 200.08,
+    "text": " other possible ways."
+  },
+  {
+    "start": 200.08,
+    "end": 202.92,
+    "text": " Now, I will say, have you guys ever coddled an egg?"
+  },
+  {
+    "start": 202.92,
+    "end": 203.76,
+    "text": " No."
+  },
+  {
+    "start": 203.76,
+    "end": 205.36,
+    "text": " Coddling an egg is lovely."
+  },
+  {
+    "start": 205.36,
+    "end": 208.36,
+    "text": " It sounds like sort of taking it to bed with you, like a teddy."
+  },
+  {
+    "start": 208.36,
+    "end": 211.52,
+    "text": " I think you sort of, you put it in, is it like you give it a bath?"
+  },
+  {
+    "start": 211.52,
+    "end": 212.6,
+    "text": " You put it in a little glass"
+  },
+  {
+    "start": 212.6,
+    "end": 215.28,
+    "text": " ramekin and then you give it a bath and that slowly cooks within that."
+  },
+  {
+    "start": 215.28,
+    "end": 217.4,
+    "text": " And you mix it with spices and they that's very nice."
+  },
+  {
+    "start": 217.4,
+    "end": 219.84,
+    "text": " Anyway, six. That's like a bain-marie."
+  },
+  {
+    "start": 219.84,
+    "end": 221.28,
+    "text": " Yeah, seven."
+  },
+  {
+    "start": 221.28,
+    "end": 222.76,
+    "text": " I think you can bake an egg."
+  },
+  {
+    "start": 222.76,
+    "end": 225.44,
+    "text": " I once saw someone bake an egg."
+  },
+  {
+    "start": 225.44,
+    "end": 227.08,
+    "text": " They put the egg in an oven and I thought."
+  },
+  {
+    "start": 227.08,
+    "end": 228.92,
+    "text": " I've baked an egg before."
+  },
+  {
+    "start": 228.92,
+    "end": 229.88,
+    "text": " Have you, in an oven?"
+  },
+  {
+    "start": 229.88,
+    "end": 233.12,
+    "text": " Yeah, like, like hollowed out a pepper"
+  },
+  {
+    "start": 233.12,
+    "end": 235.16,
+    "text": " and then broken egg in it and just baked it."
+  },
+  {
+    "start": 235.16,
+    "end": 238.16,
+    "text": " Oh, but I've seen that someone put the shell."
+  },
+  {
+    "start": 238.16,
+    "end": 238.76,
+    "text": " You can do this."
+  },
+  {
+    "start": 238.76,
+    "end": 241.56,
+    "text": " You can just put the whole egg in the oven and bake it, which just"
+  },
+  {
+    "start": 241.56,
+    "end": 244.8,
+    "text": " which just for me feels like, like you don't really want the egg."
+  },
+  {
+    "start": 244.8,
+    "end": 248.6,
+    "text": " So you're trying to wait as long as possible before you have to eat it."
+  },
+  {
+    "start": 248.6,
+    "end": 251.96,
+    "text": " Well, do you know something that takes even longer than your boiled oven egg?"
+  },
+  {
+    "start": 251.96,
+    "end": 254.28,
+    "text": " You can do it in the dishwasher as well."
+  },
+  {
+    "start": 254.28,
+    "end": 255.48,
+    "text": " Very nice."
+  },
+  {
+    "start": 255.48,
+    "end": 256.64,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 256.64,
+    "end": 260.72,
+    "text": " Wrap it up or, in fact, leave it in the shell and then just set the dishwasher running."
+  },
+  {
+    "start": 260.72,
+    "end": 264.88,
+    "text": " And another longer way of doing it is the 100 year egg."
+  },
+  {
+    "start": 264.88,
+    "end": 268.48,
+    "text": " Very long cycle in the dish."
+  },
+  {
+    "start": 268.48,
+    "end": 270.44,
+    "text": " Sometimes it's called the thousand year egg."
+  },
+  {
+    "start": 270.44,
+    "end": 274.96,
+    "text": " And sometimes it's just called a really disgusting egg because I've had this egg."
+  },
+  {
+    "start": 274.96,
+    "end": 279.52,
+    "text": " I had it in Singapore and it's kind of what they do is they put it in clay"
+  },
+  {
+    "start": 279.52,
+    "end": 283.16,
+    "text": " and salt and they leave it for a few weeks and it kind of turns"
+  },
+  {
+    "start": 283.48,
+    "end": 286.52,
+    "text": " dark black and really, really sulfurous."
+  },
+  {
+    "start": 286.52,
+    "end": 290.32,
+    "text": " And sometimes they call it horse urine egg because it tastes a bit like horse urine,"
+  },
+  {
+    "start": 290.32,
+    "end": 294.2,
+    "text": " apparently. Yeah, this is one way of eating eggs."
+  },
+  {
+    "start": 294.2,
+    "end": 295,
+    "text": " There is."
+  },
+  {
+    "start": 295,
+    "end": 297.76,
+    "text": " Yeah, they've got a recipe for that in my Chinese cookbook."
+  },
+  {
+    "start": 297.76,
+    "end": 299.4,
+    "text": " I think it looks unappetizing."
+  },
+  {
+    "start": 299.4,
+    "end": 300.52,
+    "text": " It's disgusting."
+  },
+  {
+    "start": 300.52,
+    "end": 302.24,
+    "text": " It's really it looks like."
+  },
+  {
+    "start": 302.24,
+    "end": 304.64,
+    "text": " I think they came out of this because somebody dropped an egg somewhere"
+  },
+  {
+    "start": 304.64,
+    "end": 307.68,
+    "text": " and they found it five weeks later and they're like, wait, it's not what not."
+  },
+  {
+    "start": 307.68,
+    "end": 309.64,
+    "text": " And they said, well, we'll make it a recipe."
+  },
+  {
+    "start": 309.64,
+    "end": 311.64,
+    "text": " And then no one puts me in prison for being disgusting."
+  },
+  {
+    "start": 311.64,
+    "end": 313,
+    "text": " And that's how that works."
+  },
+  {
+    "start": 313,
+    "end": 315.24,
+    "text": " Finally, we hadn't dropped it in this puddle of horse piss."
+  },
+  {
+    "start": 315.24,
+    "end": 318.92,
+    "text": " If life gives you horse piss."
+  },
+  {
+    "start": 318.92,
+    "end": 321.24,
+    "text": " Well, that is the story."
+  },
+  {
+    "start": 321.24,
+    "end": 325.72,
+    "text": " It was like a Chinese guy who had like dropped some eggs,"
+  },
+  {
+    "start": 325.72,
+    "end": 331.28,
+    "text": " stuck eggs in a muddy puddle of water and they had a load of calcium in the water."
+  },
+  {
+    "start": 331.28,
+    "end": 334.76,
+    "text": " And then he pulled them out and he thought, well, I might as well try them."
+  },
+  {
+    "start": 334.76,
+    "end": 336.68,
+    "text": " You know, I might as well try them."
+  },
+  {
+    "start": 336.68,
+    "end": 337.92,
+    "text": " And he's like, these are delicious."
+  },
+  {
+    "start": 337.92,
+    "end": 339.96,
+    "text": " I need to come up with a way of making them."
+  },
+  {
+    "start": 339.96,
+    "end": 343.04,
+    "text": " That is my approach to eating pretty much every encrusted"
+  },
+  {
+    "start": 343.04,
+    "end": 344.96,
+    "text": " ancient bit of food on the back of the fridge."
+  },
+  {
+    "start": 344.96,
+    "end": 348.08,
+    "text": " I might as well just have most of it and see if I die."
+  },
+  {
+    "start": 348.08,
+    "end": 349.76,
+    "text": " Do you know, this is great because when you've got a toddler,"
+  },
+  {
+    "start": 349.76,
+    "end": 352.08,
+    "text": " you find food everywhere, you know."
+  },
+  {
+    "start": 352.08,
+    "end": 354.92,
+    "text": " So now I'm just going to give it a banana that's at the back of the couch"
+  },
+  {
+    "start": 354.92,
+    "end": 356.2,
+    "text": " because it's just cuisine, isn't it?"
+  },
+  {
+    "start": 356.2,
+    "end": 357.76,
+    "text": " It's just a new recipe."
+  },
+  {
+    "start": 357.76,
+    "end": 359.8,
+    "text": " Exactly. It's a delicacy."
+  },
+  {
+    "start": 359.8,
+    "end": 363.44,
+    "text": " I have a slightly exciting advance on the hundred bleeds in the chef's hat,"
+  },
+  {
+    "start": 363.44,
+    "end": 367.36,
+    "text": " which is this is from a book called The Culinary Guide from 1903."
+  },
+  {
+    "start": 367.36,
+    "end": 369.92,
+    "text": " And it's by Georges Escoffier, who was a very famous."
+  },
+  {
+    "start": 369.92,
+    "end": 374.32,
+    "text": " He was an early celebrity chef, not the earliest, but he turned the century."
+  },
+  {
+    "start": 374.32,
+    "end": 379.24,
+    "text": " Anyway, his book lists two hundred and two ways to prepare eggs, excluding omelettes."
+  },
+  {
+    "start": 379.24,
+    "end": 382,
+    "text": " And omelettes is another eighty two."
+  },
+  {
+    "start": 382,
+    "end": 385.96,
+    "text": " And he also says that if you use the basic recipe for omelette norvegienne,"
+  },
+  {
+    "start": 385.96,
+    "end": 389.56,
+    "text": " it is it is possible to produce an almost infinite number of variations"
+  },
+  {
+    "start": 389.56,
+    "end": 390.64,
+    "text": " of this type of omelette."
+  },
+  {
+    "start": 390.64,
+    "end": 392.96,
+    "text": " Then he says in brackets, omelette surprise."
+  },
+  {
+    "start": 392.96,
+    "end": 395.84,
+    "text": " So well, yeah, sounds gross."
+  },
+  {
+    "start": 396.04,
+    "end": 401.28,
+    "text": " Do you know where the word comes from? Oh, gosh, I'd assume from the word for egg."
+  },
+  {
+    "start": 401.28,
+    "end": 405.32,
+    "text": " Does it come from the does it come from the sound of meditation?"
+  },
+  {
+    "start": 405.32,
+    "end": 406.88,
+    "text": " Yes. And that's shut up."
+  },
+  {
+    "start": 406.88,
+    "end": 412.16,
+    "text": " No, no, no, no, no, no, no. It isn't. It isn't."
+  },
+  {
+    "start": 412.16,
+    "end": 413.28,
+    "text": " It both isn't that."
+  },
+  {
+    "start": 413.28,
+    "end": 415.64,
+    "text": " And I think I've just lost hearing in one of my ears."
+  },
+  {
+    "start": 415.64,
+    "end": 423.08,
+    "text": " It comes from the same word as you get amulet omelette amulet."
+  },
+  {
+    "start": 423.08,
+    "end": 425.6,
+    "text": " And also where you get laminate."
+  },
+  {
+    "start": 425.6,
+    "end": 429.16,
+    "text": " So it means something that's something that's flat, basically."
+  },
+  {
+    "start": 429.16,
+    "end": 431.44,
+    "text": " An old French word for something that's flat."
+  },
+  {
+    "start": 431.44,
+    "end": 432.72,
+    "text": " And that's where we get it from."
+  },
+  {
+    "start": 432.72,
+    "end": 435.36,
+    "text": " You know, apparently we've been boiling eggs wrong."
+  },
+  {
+    "start": 435.36,
+    "end": 440,
+    "text": " According to according to we we've been boiling eggs."
+  },
+  {
+    "start": 440,
+    "end": 442.24,
+    "text": " Oh, this whole time we've been boiling them wrong."
+  },
+  {
+    "start": 442.24,
+    "end": 443.64,
+    "text": " I love these headlines."
+  },
+  {
+    "start": 443.64,
+    "end": 445.96,
+    "text": " I once tried to search for all the things, all that you've been"
+  },
+  {
+    "start": 445.96,
+    "end": 448.68,
+    "text": " something wrong your whole life and I love it."
+  },
+  {
+    "start": 448.68,
+    "end": 451.44,
+    "text": " Yeah, I want to say it's always like you've been tying your shoes wrong"
+  },
+  {
+    "start": 451.44,
+    "end": 454.28,
+    "text": " the whole life and then you look at it and some guy on the Internet"
+  },
+  {
+    "start": 454.28,
+    "end": 457.32,
+    "text": " has come up with a ridiculously stupid way of tying his shoes."
+  },
+  {
+    "start": 457.32,
+    "end": 460.04,
+    "text": " Although you shouldn't say that because we actually did a fact"
+  },
+  {
+    "start": 460.04,
+    "end": 462.64,
+    "text": " about three years ago about how we have actually been tying your shoes"
+  },
+  {
+    "start": 462.64,
+    "end": 463.56,
+    "text": " wrong your whole life."
+  },
+  {
+    "start": 463.56,
+    "end": 464.6,
+    "text": " Oh, was that us then?"
+  },
+  {
+    "start": 464.6,
+    "end": 467.32,
+    "text": " That was us on the internet."
+  },
+  {
+    "start": 467.32,
+    "end": 470.48,
+    "text": " Yeah, we've been boiling eggs wrong and doing everything else wrong."
+  },
+  {
+    "start": 470.48,
+    "end": 471.92,
+    "text": " But I tried to do it the right way."
+  },
+  {
+    "start": 471.92,
+    "end": 476.68,
+    "text": " So this is according to MFK Fisher, who I think was this like amazing"
+  },
+  {
+    "start": 476.68,
+    "end": 480.48,
+    "text": " food writer in the 20th century, and she was very, very influential."
+  },
+  {
+    "start": 480.48,
+    "end": 483.56,
+    "text": " And she said the key to boiling eggs is you shouldn't boil them."
+  },
+  {
+    "start": 483.8,
+    "end": 486.36,
+    "text": " And because that cooks it unevenly."
+  },
+  {
+    "start": 486.36,
+    "end": 488.76,
+    "text": " So if you boil it really hard, you drop it straight into boiling water."
+  },
+  {
+    "start": 488.76,
+    "end": 491.48,
+    "text": " It cooks the white really fast."
+  },
+  {
+    "start": 491.48,
+    "end": 494,
+    "text": " And by the time the yolk inside is cooked and the white is massively"
+  },
+  {
+    "start": 494,
+    "end": 495.48,
+    "text": " overcooked and it's all rubbery."
+  },
+  {
+    "start": 495.48,
+    "end": 500.76,
+    "text": " So I tried her way, which is you put it in cold water and then you let"
+  },
+  {
+    "start": 500.76,
+    "end": 504.12,
+    "text": " the cold water boil and as soon as it hits the boil, you take it off."
+  },
+  {
+    "start": 504.12,
+    "end": 505.88,
+    "text": " Oh, yeah, was it good?"
+  },
+  {
+    "start": 505.88,
+    "end": 510.84,
+    "text": " Well, it was the most frustrating 45 minutes of my life."
+  },
+  {
+    "start": 511.96,
+    "end": 513.28,
+    "text": " You should have put it in your oven."
+  },
+  {
+    "start": 513.28,
+    "end": 519.16,
+    "text": " It was, it was 45 minutes because it basically super glues the shell to the white."
+  },
+  {
+    "start": 519.16,
+    "end": 522.6,
+    "text": " So, you know, normally if you appeal a hard boiled egg, then obviously"
+  },
+  {
+    "start": 522.6,
+    "end": 527.08,
+    "text": " the shell comes off and this it doesn't shock the white away from the shell"
+  },
+  {
+    "start": 527.08,
+    "end": 528.6,
+    "text": " when you drop it in boiling water."
+  },
+  {
+    "start": 528.6,
+    "end": 531,
+    "text": " And so it took, I mean, I'm not kidding."
+  },
+  {
+    "start": 531,
+    "end": 532.8,
+    "text": " It took 45 minutes to peel the shell off."
+  },
+  {
+    "start": 532.8,
+    "end": 534.92,
+    "text": " I lost most of the white along the way, don't do it."
+  },
+  {
+    "start": 534.92,
+    "end": 537.28,
+    "text": " MFK Fisher was pretty amazing, wasn't she?"
+  },
+  {
+    "start": 537.28,
+    "end": 542.36,
+    "text": " She was the one who W. H. Odin said was the greatest writer of any style"
+  },
+  {
+    "start": 542.36,
+    "end": 543.6,
+    "text": " in the whole of America."
+  },
+  {
+    "start": 543.6,
+    "end": 547.64,
+    "text": " She was a food writer and she was the one who also said the perfect way"
+  },
+  {
+    "start": 547.64,
+    "end": 550,
+    "text": " to make a sandwich was to sit on it."
+  },
+  {
+    "start": 550,
+    "end": 553.48,
+    "text": " So you make your sandwich and then you have to sit on it for half an hour"
+  },
+  {
+    "start": 553.48,
+    "end": 557.68,
+    "text": " just to kind of warm it up and squash it and then it's going to be a perfect sandwich."
+  },
+  {
+    "start": 557.68,
+    "end": 561.4,
+    "text": " You're going to get a lot of customers returning their sandwiches to the kitchen."
+  },
+  {
+    "start": 561.4,
+    "end": 563.52,
+    "text": " That's why I was fired from my job at prep."
+  },
+  {
+    "start": 565.76,
+    "end": 569.16,
+    "text": " Just on on eggs and sort of how they're laid,"
+  },
+  {
+    "start": 569.16,
+    "end": 573.2,
+    "text": " you know when you've got an egg and you've boiled it and you peel it."
+  },
+  {
+    "start": 573.2,
+    "end": 577.32,
+    "text": " And you know, there's that gap between the white and the shell."
+  },
+  {
+    "start": 577.32,
+    "end": 579,
+    "text": " There's like a little air pocket."
+  },
+  {
+    "start": 579,
+    "end": 581,
+    "text": " Yeah. Do you know what that is?"
+  },
+  {
+    "start": 581,
+    "end": 584.2,
+    "text": " It's I don't know what it is, but I know it makes it really easy to peel them."
+  },
+  {
+    "start": 584.2,
+    "end": 586.6,
+    "text": " That's my. Yeah, it's really handy."
+  },
+  {
+    "start": 586.6,
+    "end": 589.4,
+    "text": " If you find that and you crack the egg there, you can peel your eggs really easily."
+  },
+  {
+    "start": 589.4,
+    "end": 592.24,
+    "text": " Top tip. That's what it's for."
+  },
+  {
+    "start": 592.24,
+    "end": 593.76,
+    "text": " That's that's evolution for you."
+  },
+  {
+    "start": 593.76,
+    "end": 596,
+    "text": " It's evolved to help us peel up all day."
+  },
+  {
+    "start": 596,
+    "end": 600.72,
+    "text": " No, it's a it's a little air hole for the chick."
+  },
+  {
+    "start": 600.72,
+    "end": 605.76,
+    "text": " So in case the egg is fertilised, the chick will be inside and then it needs"
+  },
+  {
+    "start": 605.76,
+    "end": 609,
+    "text": " to practice breathing to inflate its lungs before it cracks out."
+  },
+  {
+    "start": 609,
+    "end": 612.16,
+    "text": " So the way it does that about a day before it cracks out of the shell,"
+  },
+  {
+    "start": 612.16,
+    "end": 617.2,
+    "text": " it pecks its beak into that little air hole and uses it like a snorkeler mask"
+  },
+  {
+    "start": 617.2,
+    "end": 619.8,
+    "text": " and just practices breathing every day."
+  },
+  {
+    "start": 619.8,
+    "end": 623.36,
+    "text": " I take a step closer to veganism and I know."
+  },
+  {
+    "start": 623.92,
+    "end": 625.64,
+    "text": " I mean, how adorable is that?"
+  },
+  {
+    "start": 625.64,
+    "end": 627.88,
+    "text": " And we're here making omelettes out of it."
+  },
+  {
+    "start": 627.88,
+    "end": 629.52,
+    "text": " Yeah, it makes beautiful."
+  },
+  {
+    "start": 629.52,
+    "end": 632.88,
+    "text": " So I'm probably going to upset you now because I've eaten ballot,"
+  },
+  {
+    "start": 632.88,
+    "end": 640.76,
+    "text": " which is a Vietnamese thing where the the egg has a semi fertilised chick"
+  },
+  {
+    "start": 640.76,
+    "end": 642.6,
+    "text": " inside the egg when they cook it."
+  },
+  {
+    "start": 642.6,
+    "end": 646.52,
+    "text": " I must admit, when I tried it, I couldn't."
+  },
+  {
+    "start": 646.52,
+    "end": 649.56,
+    "text": " I could only eat the bit of egg around the."
+  },
+  {
+    "start": 649.56,
+    "end": 651.32,
+    "text": " I'll just I'll just eat around."
+  },
+  {
+    "start": 651.8,
+    "end": 659.36,
+    "text": " It's like it's a real delicacy in Vietnam"
+  },
+  {
+    "start": 659.36,
+    "end": 663.12,
+    "text": " and sometimes used as a way of getting over your hangover as well."
+  },
+  {
+    "start": 663.12,
+    "end": 665.56,
+    "text": " I mean, you can't criticise it, can you?"
+  },
+  {
+    "start": 665.56,
+    "end": 668.64,
+    "text": " If you eat eggs, then there's no it's not really that much different."
+  },
+  {
+    "start": 668.64,
+    "end": 669.88,
+    "text": " But how do you time that?"
+  },
+  {
+    "start": 669.88,
+    "end": 672.76,
+    "text": " Do you get like an ultrasonic scanner?"
+  },
+  {
+    "start": 672.76,
+    "end": 674.32,
+    "text": " You give it like an egg ultrasound."
+  },
+  {
+    "start": 674.32,
+    "end": 675.92,
+    "text": " Then you go, right, it's three weeks."
+  },
+  {
+    "start": 675.92,
+    "end": 676.68,
+    "text": " It's good to go."
+  },
+  {
+    "start": 676.68,
+    "end": 678.68,
+    "text": " Oh, no."
+  },
+  {
+    "start": 678.68,
+    "end": 679.68,
+    "text": " Oh, I don't know if I can."
+  },
+  {
+    "start": 679.68,
+    "end": 682.56,
+    "text": " There's something about the idea of it, so obviously, you know."
+  },
+  {
+    "start": 682.56,
+    "end": 687.72,
+    "text": " Well, if we're anthropomorphising eggs and we are now all eggs in America"
+  },
+  {
+    "start": 687.72,
+    "end": 690.44,
+    "text": " have had a little shampoo before they go into the shops."
+  },
+  {
+    "start": 690.44,
+    "end": 693.24,
+    "text": " Yeah, it's so weird."
+  },
+  {
+    "start": 693.24,
+    "end": 696.08,
+    "text": " So they love in America, they love to wash their eggs."
+  },
+  {
+    "start": 696.08,
+    "end": 699.76,
+    "text": " But that creates a problem because they have this natural bloom on them."
+  },
+  {
+    "start": 699.76,
+    "end": 702.88,
+    "text": " They have this sort of bacterial layer, which we can't see."
+  },
+  {
+    "start": 702.88,
+    "end": 704.84,
+    "text": " But it's a rather it keeps bacteria out."
+  },
+  {
+    "start": 704.84,
+    "end": 706.48,
+    "text": " It's a way of kind of protecting it."
+  },
+  {
+    "start": 706.48,
+    "end": 708.88,
+    "text": " So, you know, if the egg gets a bit of poo on it or whatever,"
+  },
+  {
+    "start": 708.88,
+    "end": 710.08,
+    "text": " as it's being laid, it's fine."
+  },
+  {
+    "start": 710.08,
+    "end": 711.08,
+    "text": " It doesn't matter."
+  },
+  {
+    "start": 711.08,
+    "end": 713.72,
+    "text": " And so in America, they love to give them a little shampoo."
+  },
+  {
+    "start": 713.72,
+    "end": 716.52,
+    "text": " But then the problem is you shampoo them"
+  },
+  {
+    "start": 716.52,
+    "end": 718.64,
+    "text": " and then there are the high odds of bacterial invasion."
+  },
+  {
+    "start": 718.64,
+    "end": 721.48,
+    "text": " So then they have to refrigerate them and spray them with oil as a nightmare."
+  },
+  {
+    "start": 721.48,
+    "end": 723.8,
+    "text": " So we don't do that in Europe."
+  },
+  {
+    "start": 723.8,
+    "end": 727.76,
+    "text": " It is illegal to wash an egg before you sell it to people."
+  },
+  {
+    "start": 727.76,
+    "end": 729.68,
+    "text": " Wow. Yeah."
+  },
+  {
+    "start": 729.68,
+    "end": 733.68,
+    "text": " I always think if you kind of get an egg and there's a little feather on there,"
+  },
+  {
+    "start": 733.68,
+    "end": 737.16,
+    "text": " I always think that's a very probably a fresh egg from a chicken"
+  },
+  {
+    "start": 737.16,
+    "end": 738.72,
+    "text": " who had a very good life or something."
+  },
+  {
+    "start": 738.72,
+    "end": 742.16,
+    "text": " But I reckon there's probably a person in a factory just putting feathers in the egg."
+  },
+  {
+    "start": 742.16,
+    "end": 745.8,
+    "text": " And the poo, yeah, but it's a bone."
+  },
+  {
+    "start": 745.8,
+    "end": 747.6,
+    "text": " Because if you get a bit of chicken poo, you think, oh,"
+  },
+  {
+    "start": 747.6,
+    "end": 749.6,
+    "text": " that's literally just come out of its arse."
+  },
+  {
+    "start": 749.6,
+    "end": 753.08,
+    "text": " I wasn't even had time to lose the poo, but you're right."
+  },
+  {
+    "start": 753.08,
+    "end": 757.8,
+    "text": " I bet someone's just taping it on because they do that with yolks."
+  },
+  {
+    "start": 757.8,
+    "end": 760,
+    "text": " What colour yolks do you guys want?"
+  },
+  {
+    "start": 760,
+    "end": 763.4,
+    "text": " Like orangey, do you crack your egg into the pan?"
+  },
+  {
+    "start": 763.4,
+    "end": 767,
+    "text": " Yeah. I want a bright yellow yolk."
+  },
+  {
+    "start": 767.12,
+    "end": 770.48,
+    "text": " Like literally like the sun, but like really deep rich yellow."
+  },
+  {
+    "start": 770.48,
+    "end": 773.12,
+    "text": " Yeah. Rich. I go with that."
+  },
+  {
+    "start": 773.12,
+    "end": 775.96,
+    "text": " I want one that's more like Donald Trump's skin colour,"
+  },
+  {
+    "start": 775.96,
+    "end": 778.2,
+    "text": " like really deep, dark orange."
+  },
+  {
+    "start": 778.2,
+    "end": 779.56,
+    "text": " You want to go orange?"
+  },
+  {
+    "start": 779.56,
+    "end": 781.52,
+    "text": " Well, people do seem to prefer orange."
+  },
+  {
+    "start": 781.52,
+    "end": 784.92,
+    "text": " And it's because they think the chicken's like healthier."
+  },
+  {
+    "start": 784.92,
+    "end": 787.52,
+    "text": " So, yeah, if it's like really rich yellow or deep orange,"
+  },
+  {
+    "start": 787.52,
+    "end": 790.36,
+    "text": " they're like that shows that it's had a better diet."
+  },
+  {
+    "start": 790.36,
+    "end": 793.72,
+    "text": " And so producers have realised that people prefer that."
+  },
+  {
+    "start": 793.72,
+    "end": 795.96,
+    "text": " And so they just feed them died food."
+  },
+  {
+    "start": 796.24,
+    "end": 800.16,
+    "text": " So whenever you get an egg and it has a rich orange yolk,"
+  },
+  {
+    "start": 800.16,
+    "end": 802.88,
+    "text": " it does not taste better and it is not more nutritious."
+  },
+  {
+    "start": 802.88,
+    "end": 805.68,
+    "text": " It is probably in like 99% of cases."
+  },
+  {
+    "start": 805.68,
+    "end": 808.04,
+    "text": " It's that the farmer has basically put"
+  },
+  {
+    "start": 808.04,
+    "end": 810.64,
+    "text": " usually an additive or some dye in their food."
+  },
+  {
+    "start": 810.64,
+    "end": 813.28,
+    "text": " Sometimes if you're going organic, apparently they'll feed them"
+  },
+  {
+    "start": 813.28,
+    "end": 817.8,
+    "text": " marigold petals or red petals to help the carotenoids, you know,"
+  },
+  {
+    "start": 817.8,
+    "end": 821.4,
+    "text": " the stuff that dyes carrots and stuff orange to help them get into the egg."
+  },
+  {
+    "start": 821.4,
+    "end": 823.08,
+    "text": " I think that is a good sign, though."
+  },
+  {
+    "start": 823.08,
+    "end": 826.52,
+    "text": " If my farmer is willing to pick marigold petals"
+  },
+  {
+    "start": 826.52,
+    "end": 829.2,
+    "text": " in order to feed them to the chicken, it's going right."
+  },
+  {
+    "start": 829.2,
+    "end": 833.84,
+    "text": " Throwing the petals around so that the chickens have a really romantic evening."
+  },
+  {
+    "start": 833.84,
+    "end": 838.4,
+    "text": " You're right. Valentine's Day in the in the heart is a huge deal."
+  },
+  {
+    "start": 838.4,
+    "end": 843.84,
+    "text": " Very quickly on the hat itself, the 100 cleats hat."
+  },
+  {
+    "start": 843.84,
+    "end": 847.24,
+    "text": " Yeah. And so invented by Marie Antoine Karem,"
+  },
+  {
+    "start": 847.24,
+    "end": 852.12,
+    "text": " who was probably the predecessor to a scoffier who Andy mentioned earlier on,"
+  },
+  {
+    "start": 852.48,
+    "end": 855.52,
+    "text": " probably maybe the first celebrity chef, I would say."
+  },
+  {
+    "start": 855.52,
+    "end": 857.8,
+    "text": " I'm not sure. I can't think of anyone earlier."
+  },
+  {
+    "start": 857.8,
+    "end": 861.12,
+    "text": " But he had these big hats because he wanted to have authority."
+  },
+  {
+    "start": 861.12,
+    "end": 866.12,
+    "text": " And he thought the bigger and more erect your hat is the more people take you seriously."
+  },
+  {
+    "start": 866.12,
+    "end": 869.28,
+    "text": " And so the better a chef you were, the taller it was supposed to be."
+  },
+  {
+    "start": 869.28,
+    "end": 871.4,
+    "text": " And his was 18 inches in height."
+  },
+  {
+    "start": 871.4,
+    "end": 876.32,
+    "text": " Yeah. I mean, this is the man's like invention, clearly."
+  },
+  {
+    "start": 876.32,
+    "end": 879.76,
+    "text": " This is like, how can I make people respect me 18 inches? That's respect."
+  },
+  {
+    "start": 879.76,
+    "end": 882.2,
+    "text": " Yeah, I kind of think it was a bit of that."
+  },
+  {
+    "start": 882.28,
+    "end": 885.8,
+    "text": " Alexis Sawyer, who was around the same time, he was the chef of the reform club."
+  },
+  {
+    "start": 885.8,
+    "end": 890.12,
+    "text": " He wore a big black velvet beret with a huge tassel."
+  },
+  {
+    "start": 890.12,
+    "end": 894.92,
+    "text": " And the whole point of that was he was too important to cook with it."
+  },
+  {
+    "start": 894.92,
+    "end": 895.92,
+    "text": " He was like the head chef."
+  },
+  {
+    "start": 895.92,
+    "end": 898.4,
+    "text": " Everyone else, the sous chef and stuff, did all the work."
+  },
+  {
+    "start": 898.4,
+    "end": 900.52,
+    "text": " He was the big head chef."
+  },
+  {
+    "start": 900.52,
+    "end": 903.52,
+    "text": " And if he wore a hat that was too impractical to do any work,"
+  },
+  {
+    "start": 903.52,
+    "end": 905.56,
+    "text": " it showed that he was really important."
+  },
+  {
+    "start": 905.56,
+    "end": 907.84,
+    "text": " That's brilliant. That's so clever."
+  },
+  {
+    "start": 907.84,
+    "end": 910.6,
+    "text": " So, yeah, it's just too difficult for him to cook."
+  },
+  {
+    "start": 910.6,
+    "end": 911.96,
+    "text": " Therefore, he's the boss."
+  },
+  {
+    "start": 911.96,
+    "end": 913.88,
+    "text": " Pretty much. You should try it in the office, Andy."
+  },
+  {
+    "start": 913.88,
+    "end": 917.88,
+    "text": " Come into the office wearing sort of mittens and a balaclava."
+  },
+  {
+    "start": 917.88,
+    "end": 920.64,
+    "text": " And sunglasses, so I can't see any words in front of me."
+  },
+  {
+    "start": 920.64,
+    "end": 922.48,
+    "text": " And gaffer tape your mouth."
+  },
+  {
+    "start": 922.48,
+    "end": 924.96,
+    "text": " This is sounding better and better."
+  },
+  {
+    "start": 924.96,
+    "end": 933.96,
+    "text": " OK, it is time for fact number two."
+  },
+  {
+    "start": 933.96,
+    "end": 935.76,
+    "text": " And that is James Harkin."
+  },
+  {
+    "start": 935.76,
+    "end": 940.56,
+    "text": " OK, my fact this week is that when men are played the sound of a baby crying,"
+  },
+  {
+    "start": 940.76,
+    "end": 943.8,
+    "text": " if they're told it's a boy, they'll think it's in more pain"
+  },
+  {
+    "start": 943.8,
+    "end": 946.2,
+    "text": " than if they're told it's a girl."
+  },
+  {
+    "start": 946.2,
+    "end": 947.2,
+    "text": " Wow."
+  },
+  {
+    "start": 947.2,
+    "end": 952.36,
+    "text": " So what men think male babies are macho, is that?"
+  },
+  {
+    "start": 952.36,
+    "end": 955.88,
+    "text": " Yes, you've kind of got there, Andy, almost."
+  },
+  {
+    "start": 955.88,
+    "end": 959.88,
+    "text": " So this is a new study by researchers at the University of Sussex,"
+  },
+  {
+    "start": 959.88,
+    "end": 964.2,
+    "text": " the University of Leon Santetien and Hunter College City University in New York."
+  },
+  {
+    "start": 964.2,
+    "end": 968.56,
+    "text": " And what they did was they played a load of cries to men and women,"
+  },
+  {
+    "start": 968.92,
+    "end": 972.64,
+    "text": " their parents, actually, and they asked them whether they thought"
+  },
+  {
+    "start": 972.64,
+    "end": 977.52,
+    "text": " the child was in pain or happy or sad or how much pain it was in, etc., etc."
+  },
+  {
+    "start": 977.52,
+    "end": 982.12,
+    "text": " And the thing is that before puberty, the voices of boys and girls,"
+  },
+  {
+    "start": 982.12,
+    "end": 984.88,
+    "text": " and especially babies, the cries of boys and girls are the same."
+  },
+  {
+    "start": 984.88,
+    "end": 986.6,
+    "text": " There's no difference in pitch."
+  },
+  {
+    "start": 986.6,
+    "end": 992.2,
+    "text": " But people, especially men, think that the male baby will have a deeper cry."
+  },
+  {
+    "start": 992.2,
+    "end": 996.4,
+    "text": " And so when they hear the cry, if it's high pitch, they think it's in more pain."
+  },
+  {
+    "start": 996.56,
+    "end": 999.88,
+    "text": " And because they expect the male baby to have a deeper cry,"
+  },
+  {
+    "start": 999.88,
+    "end": 1003,
+    "text": " normally they think that the difference means that it's in more pain."
+  },
+  {
+    "start": 1003,
+    "end": 1006.52,
+    "text": " I think that's really funny that it's like, what's wrong with this child?"
+  },
+  {
+    "start": 1006.52,
+    "end": 1009.2,
+    "text": " And they expect to like bury white to come out of its mouth."
+  },
+  {
+    "start": 1009.2,
+    "end": 1012,
+    "text": " And it's a high pitch, high pitch squeal."
+  },
+  {
+    "start": 1012,
+    "end": 1014.48,
+    "text": " It's like, oh, my gosh, no, it's a baby."
+  },
+  {
+    "start": 1014.48,
+    "end": 1015.8,
+    "text": " There's nothing wrong with your child."
+  },
+  {
+    "start": 1015.8,
+    "end": 1017.56,
+    "text": " That's where it's the beard. Where's his beard?"
+  },
+  {
+    "start": 1017.56,
+    "end": 1021.44,
+    "text": " And yeah, it is quite funny."
+  },
+  {
+    "start": 1021.44,
+    "end": 1025.04,
+    "text": " The thing that the researchers say is it could have implications"
+  },
+  {
+    "start": 1025.04,
+    "end": 1029.84,
+    "text": " for the welfare of children, because it means that if a female child is crying,"
+  },
+  {
+    "start": 1029.84,
+    "end": 1033.24,
+    "text": " you might give it less attention than if a male child is crying."
+  },
+  {
+    "start": 1033.24,
+    "end": 1035.64,
+    "text": " Oh, this is why we have man flu then, clearly,"
+  },
+  {
+    "start": 1035.64,
+    "end": 1038.56,
+    "text": " because boys are so used to being given attention they don't need."
+  },
+  {
+    "start": 1038.56,
+    "end": 1040.84,
+    "text": " Or, you know, then they grow out to be like, oh, got a little cough."
+  },
+  {
+    "start": 1040.84,
+    "end": 1042.36,
+    "text": " Oh, it's the flu. It's the flu."
+  },
+  {
+    "start": 1042.36,
+    "end": 1045.84,
+    "text": " Whereas girls are like, yeah, girls are going to work with like headless"
+  },
+  {
+    "start": 1045.84,
+    "end": 1049,
+    "text": " because that's fine. It's just a scratch."
+  },
+  {
+    "start": 1049,
+    "end": 1051.4,
+    "text": " Oh, my God, I think you might be hit on something there."
+  },
+  {
+    "start": 1051.4,
+    "end": 1052.6,
+    "text": " That feels right, doesn't it?"
+  },
+  {
+    "start": 1052.6,
+    "end": 1055.2,
+    "text": " Yeah, I thought it was that male parents say, you know,"
+  },
+  {
+    "start": 1055.2,
+    "end": 1057.04,
+    "text": " they'll they'll listen to the crying and they'll think,"
+  },
+  {
+    "start": 1057.04,
+    "end": 1060.44,
+    "text": " well, my baby boy wouldn't be making a fuss unless it was something really serious."
+  },
+  {
+    "start": 1060.44,
+    "end": 1062.24,
+    "text": " It wouldn't be disturbing me."
+  },
+  {
+    "start": 1062.24,
+    "end": 1063.48,
+    "text": " Well, that might be true as well,"
+  },
+  {
+    "start": 1063.48,
+    "end": 1066.64,
+    "text": " but this study was specifically about the pitch of the cells."
+  },
+  {
+    "start": 1066.64,
+    "end": 1070.88,
+    "text": " Well, so we just have to start complaining in a deeper voice"
+  },
+  {
+    "start": 1070.88,
+    "end": 1072.96,
+    "text": " in order to have people take notice of us."
+  },
+  {
+    "start": 1072.96,
+    "end": 1076.44,
+    "text": " No, you have to complain in a much, much, much higher voice"
+  },
+  {
+    "start": 1076.44,
+    "end": 1079.36,
+    "text": " to make up for the fact that you have a higher voice already."
+  },
+  {
+    "start": 1079.84,
+    "end": 1083.28,
+    "text": " Oh, sorry. Yeah, we have all we have to speak in deeper voices all the time."
+  },
+  {
+    "start": 1083.28,
+    "end": 1085.4,
+    "text": " And then the contrast to our high complain."
+  },
+  {
+    "start": 1085.4,
+    "end": 1088.12,
+    "text": " Don't go too high because then it will just be dogs that care."
+  },
+  {
+    "start": 1088.12,
+    "end": 1093.36,
+    "text": " Dogs are pretty comforting. I think that might work for me."
+  },
+  {
+    "start": 1093.36,
+    "end": 1097.96,
+    "text": " It's with the response to babies crying, right, that you get."
+  },
+  {
+    "start": 1097.96,
+    "end": 1102.48,
+    "text": " Well, I'm always told that once you become a mother, I guess, specifically,"
+  },
+  {
+    "start": 1102.48,
+    "end": 1105.4,
+    "text": " you have a very instinctive response to babies crying."
+  },
+  {
+    "start": 1105.4,
+    "end": 1107.84,
+    "text": " So I hear babies crying and I think that's a really horrible noise."
+  },
+  {
+    "start": 1107.92,
+    "end": 1112.36,
+    "text": " And I think, actually, there was a study on the noises people find most grating"
+  },
+  {
+    "start": 1112.36,
+    "end": 1115.56,
+    "text": " and babies crying was the worst."
+  },
+  {
+    "start": 1115.56,
+    "end": 1118.08,
+    "text": " But like, is there a difference?"
+  },
+  {
+    "start": 1118.08,
+    "end": 1121.84,
+    "text": " Do you find there was a difference once you had children, Athena,"
+  },
+  {
+    "start": 1121.84,
+    "end": 1124.08,
+    "text": " where like you hear a baby crying and like a bit of you dies?"
+  },
+  {
+    "start": 1124.08,
+    "end": 1125.88,
+    "text": " Yes. Or does it sound lovely?"
+  },
+  {
+    "start": 1125.88,
+    "end": 1127.52,
+    "text": " Does it suddenly sound wonderful?"
+  },
+  {
+    "start": 1127.52,
+    "end": 1128.44,
+    "text": " There's only one difference."
+  },
+  {
+    "start": 1128.44,
+    "end": 1130.64,
+    "text": " And that is when you hear the baby cry, you lactate."
+  },
+  {
+    "start": 1130.64,
+    "end": 1132.4,
+    "text": " That's the only difference really."
+  },
+  {
+    "start": 1132.4,
+    "end": 1134.28,
+    "text": " It never gets more or less annoying."
+  },
+  {
+    "start": 1134.28,
+    "end": 1135.72,
+    "text": " It just you just start leaking."
+  },
+  {
+    "start": 1137.52,
+    "end": 1140.48,
+    "text": " But yeah, there's definitely I think it's I mean, I would speculate"
+  },
+  {
+    "start": 1140.48,
+    "end": 1141.4,
+    "text": " it's evolution, isn't it?"
+  },
+  {
+    "start": 1141.4,
+    "end": 1145,
+    "text": " Because when it's what's really funny is babies have unique cries."
+  },
+  {
+    "start": 1145,
+    "end": 1147.88,
+    "text": " They all do. But sometimes you go out in public and there'll be a baby"
+  },
+  {
+    "start": 1147.88,
+    "end": 1150.88,
+    "text": " that sounds like your baby and that baby will make you lactate"
+  },
+  {
+    "start": 1150.88,
+    "end": 1153.48,
+    "text": " because it will just have a similar pitch or a sound."
+  },
+  {
+    "start": 1153.48,
+    "end": 1156.04,
+    "text": " Right. And I'll be like, oh, that sounds like that sounds like one of my kids."
+  },
+  {
+    "start": 1156.04,
+    "end": 1159.2,
+    "text": " And then it's, oh, dearie me, here we go again."
+  },
+  {
+    "start": 1159.2,
+    "end": 1161.84,
+    "text": " I forgot my pads."
+  },
+  {
+    "start": 1161.84,
+    "end": 1166.8,
+    "text": " Sorry, I can only apologise to any listeners who can hear the baby"
+  },
+  {
+    "start": 1166.8,
+    "end": 1169.36,
+    "text": " in the background and have spontaneously started lactating."
+  },
+  {
+    "start": 1169.36,
+    "end": 1173.88,
+    "text": " Lactation is so weird, though."
+  },
+  {
+    "start": 1173.88,
+    "end": 1175.84,
+    "text": " So there's tons of stuff I didn't know."
+  },
+  {
+    "start": 1175.84,
+    "end": 1178.68,
+    "text": " Like people can lactate when they're not mothers."
+  },
+  {
+    "start": 1178.68,
+    "end": 1181.36,
+    "text": " And this is really, really important in loads of societies."
+  },
+  {
+    "start": 1181.36,
+    "end": 1183.28,
+    "text": " And it seems to be quite under-researched."
+  },
+  {
+    "start": 1183.28,
+    "end": 1187.12,
+    "text": " So they're like hunter-gatherer societies where there's a lot more"
+  },
+  {
+    "start": 1187.12,
+    "end": 1189.52,
+    "text": " aloe parenting, where it's parenting in groups."
+  },
+  {
+    "start": 1189.52,
+    "end": 1192.76,
+    "text": " So there's not even really one specific caregiver."
+  },
+  {
+    "start": 1192.76,
+    "end": 1196.36,
+    "text": " Your baby will be cared for by maybe 12 different people."
+  },
+  {
+    "start": 1196.64,
+    "end": 1198.96,
+    "text": " And grandmothers will be able to lactate."
+  },
+  {
+    "start": 1198.96,
+    "end": 1202.96,
+    "text": " So they'll, and it's just by like having the nipples stimulated very often."
+  },
+  {
+    "start": 1202.96,
+    "end": 1205.44,
+    "text": " Women who have had a baby before at some point,"
+  },
+  {
+    "start": 1205.44,
+    "end": 1209,
+    "text": " they'll just lactate again so they can nurse their infants"
+  },
+  {
+    "start": 1209,
+    "end": 1211.64,
+    "text": " or your friend who's had a baby wants to nurse the infant."
+  },
+  {
+    "start": 1211.64,
+    "end": 1215.76,
+    "text": " Interesting. And the idea is that if you live in like a society,"
+  },
+  {
+    "start": 1215.76,
+    "end": 1218.72,
+    "text": " then it's useful for more than one person to be able to do that."
+  },
+  {
+    "start": 1218.72,
+    "end": 1219.72,
+    "text": " Right. Is that the idea?"
+  },
+  {
+    "start": 1219.72,
+    "end": 1223.44,
+    "text": " Yeah, I think it's a little bit of survival, wasn't as guaranteed."
+  },
+  {
+    "start": 1223.44,
+    "end": 1226.4,
+    "text": " So if your mum dies, then you can just latch on to someone else."
+  },
+  {
+    "start": 1226.4,
+    "end": 1229.68,
+    "text": " But also, I guess it's just a different way cultures develop."
+  },
+  {
+    "start": 1229.68,
+    "end": 1232.64,
+    "text": " Like the Aka people who are in Central Africa,"
+  },
+  {
+    "start": 1232.64,
+    "end": 1233.76,
+    "text": " I don't think we've talked about them before."
+  },
+  {
+    "start": 1233.76,
+    "end": 1237.56,
+    "text": " They're the ones who have fathers who spend as much time with the babies"
+  },
+  {
+    "start": 1237.56,
+    "end": 1240.6,
+    "text": " as the mothers, and they're totally interchangeable, their roles."
+  },
+  {
+    "start": 1240.6,
+    "end": 1243.28,
+    "text": " And they're always holding their kids."
+  },
+  {
+    "start": 1243.28,
+    "end": 1246.72,
+    "text": " So they're in contact with kids up to the age of one and a half"
+  },
+  {
+    "start": 1246.72,
+    "end": 1250.28,
+    "text": " for like 97 percent of the time they're either touching or holding."
+  },
+  {
+    "start": 1250.76,
+    "end": 1254.04,
+    "text": " And the fathers, when they're doing it, which will be about 50 percent of the time,"
+  },
+  {
+    "start": 1254.04,
+    "end": 1256.36,
+    "text": " they will let the babies suckle on their nipples."
+  },
+  {
+    "start": 1256.36,
+    "end": 1259.88,
+    "text": " So when the baby needs comforting, it just suckles on its father's teats."
+  },
+  {
+    "start": 1259.88,
+    "end": 1263,
+    "text": " At least there's a use for male nipples because they have no other function."
+  },
+  {
+    "start": 1263,
+    "end": 1265.48,
+    "text": " So exactly. That makes that makes a lot of sense."
+  },
+  {
+    "start": 1265.48,
+    "end": 1268.68,
+    "text": " There's a great fact about breastfeeding, which I found out first with the first baby."
+  },
+  {
+    "start": 1268.68,
+    "end": 1272.52,
+    "text": " If you do it continuously, it's a form of natural contraception."
+  },
+  {
+    "start": 1272.52,
+    "end": 1276.56,
+    "text": " You know that I didn't know that because you can't the idea."
+  },
+  {
+    "start": 1276.56,
+    "end": 1279.08,
+    "text": " You don't want to conceive children one after the other really quickly."
+  },
+  {
+    "start": 1279.08,
+    "end": 1281.96,
+    "text": " That's quite bad if you're like a woman and you've gone through pregnancy."
+  },
+  {
+    "start": 1281.96,
+    "end": 1284.52,
+    "text": " You want to kind of wait, give it, give yourself a bit of time."
+  },
+  {
+    "start": 1284.52,
+    "end": 1287.76,
+    "text": " You know what I mean? And the lactation helps you do that, which I didn't know."
+  },
+  {
+    "start": 1287.76,
+    "end": 1289.08,
+    "text": " That's really interesting."
+  },
+  {
+    "start": 1289.08,
+    "end": 1291.52,
+    "text": " It's smart. I feel like it's not guaranteed."
+  },
+  {
+    "start": 1291.52,
+    "end": 1294.16,
+    "text": " No, I wouldn't. I wouldn't bank on it."
+  },
+  {
+    "start": 1294.16,
+    "end": 1298.16,
+    "text": " I'd give yourself a safety net if I was used to anyone listening."
+  },
+  {
+    "start": 1298.16,
+    "end": 1300.52,
+    "text": " Like get yourself an insurance policy."
+  },
+  {
+    "start": 1300.52,
+    "end": 1304.6,
+    "text": " However, when I had my first, I didn't have a period for like a year."
+  },
+  {
+    "start": 1304.6,
+    "end": 1306.72,
+    "text": " Like, yeah, it was brilliant."
+  },
+  {
+    "start": 1306.72,
+    "end": 1308.52,
+    "text": " I was like, I'm going to breastfeed forever."
+  },
+  {
+    "start": 1309.04,
+    "end": 1313.36,
+    "text": " You know, it's kind of in the child's interest then to carry on breastfeeding"
+  },
+  {
+    "start": 1313.36,
+    "end": 1317.32,
+    "text": " because then there aren't any more children to kind of like use up the."
+  },
+  {
+    "start": 1317.32,
+    "end": 1319.92,
+    "text": " Oh, yeah, resources. Yeah. Yeah."
+  },
+  {
+    "start": 1319.92,
+    "end": 1321.72,
+    "text": " You don't want any bastard siblings."
+  },
+  {
+    "start": 1321.72,
+    "end": 1323.44,
+    "text": " That's why they want to keep latched on."
+  },
+  {
+    "start": 1323.44,
+    "end": 1328,
+    "text": " So, Athena, you were saying that you can really tell the difference"
+  },
+  {
+    "start": 1328,
+    "end": 1330.68,
+    "text": " between the cries of your baby and someone else's baby."
+  },
+  {
+    "start": 1330.68,
+    "end": 1336.52,
+    "text": " This is interesting because lots of animals and even lots of mammals"
+  },
+  {
+    "start": 1336.52,
+    "end": 1339.6,
+    "text": " can't tell the difference between their young and other animals."
+  },
+  {
+    "start": 1339.6,
+    "end": 1342.68,
+    "text": " So this was an experiment by someone called Susan Lingle"
+  },
+  {
+    "start": 1342.68,
+    "end": 1346.76,
+    "text": " where she played a deer through a speaker,"
+  },
+  {
+    "start": 1346.76,
+    "end": 1351.52,
+    "text": " the noise of other mammals' babies crying and, you know, making a noise."
+  },
+  {
+    "start": 1351.52,
+    "end": 1354.68,
+    "text": " And the deer cannot tell the difference."
+  },
+  {
+    "start": 1354.68,
+    "end": 1358.92,
+    "text": " So they will react very strongly to a baby deer, but also to a baby bat,"
+  },
+  {
+    "start": 1358.92,
+    "end": 1361.44,
+    "text": " a baby marmot, a baby eland."
+  },
+  {
+    "start": 1361.44,
+    "end": 1364.56,
+    "text": " It will just run. It's like, oh, no, there's a young mammal in trouble."
+  },
+  {
+    "start": 1364.84,
+    "end": 1368.84,
+    "text": " And this might be because, I mean, the reason is because mammals"
+  },
+  {
+    "start": 1368.84,
+    "end": 1371.84,
+    "text": " have the same larynx or really similar larynxes until puberty."
+  },
+  {
+    "start": 1371.84,
+    "end": 1374.28,
+    "text": " And then the difference between all the species kicks in."
+  },
+  {
+    "start": 1374.28,
+    "end": 1377.88,
+    "text": " But before puberty, basically, it's like spread betting."
+  },
+  {
+    "start": 1377.88,
+    "end": 1380.24,
+    "text": " You know, you parents need to respond to a cry"
+  },
+  {
+    "start": 1380.24,
+    "end": 1383.56,
+    "text": " which might be their child just in case it's their child in danger."
+  },
+  {
+    "start": 1383.56,
+    "end": 1388.2,
+    "text": " And so if it turns out to be a baby marmot, then, you know, well, such is life."
+  },
+  {
+    "start": 1388.2,
+    "end": 1392.04,
+    "text": " And it's useful for the child because then you might get some if you're in trouble."
+  },
+  {
+    "start": 1392.04,
+    "end": 1395.64,
+    "text": " You might, you know, you might be a dear Bambi sort of getting in trouble"
+  },
+  {
+    "start": 1395.64,
+    "end": 1397.8,
+    "text": " because there's some people coming trying to shoot you."
+  },
+  {
+    "start": 1397.8,
+    "end": 1400.52,
+    "text": " And then a friendly bat might come along to save you."
+  },
+  {
+    "start": 1400.52,
+    "end": 1402.64,
+    "text": " Well, you'd hope for a bear."
+  },
+  {
+    "start": 1402.64,
+    "end": 1404.92,
+    "text": " You'd be like, oh, man, I hope the bear would come."
+  },
+  {
+    "start": 1404.92,
+    "end": 1407.08,
+    "text": " That would be really useful."
+  },
+  {
+    "start": 1407.08,
+    "end": 1411.28,
+    "text": " But this does imply that if, you know, you're walking past a certain fox cub"
+  },
+  {
+    "start": 1411.28,
+    "end": 1413.2,
+    "text": " or something, Athena, then you might start lactating."
+  },
+  {
+    "start": 1413.2,
+    "end": 1417.16,
+    "text": " I would have thought that certain mammals could induce lactation"
+  },
+  {
+    "start": 1417.16,
+    "end": 1419.08,
+    "text": " in the same way that certain babies could, right?"
+  },
+  {
+    "start": 1419.08,
+    "end": 1420.52,
+    "text": " I hadn't considered that."
+  },
+  {
+    "start": 1420.52,
+    "end": 1423.4,
+    "text": " The neighbours have just got a new puppy."
+  },
+  {
+    "start": 1423.4,
+    "end": 1424.08,
+    "text": " You're in trouble."
+  },
+  {
+    "start": 1424.08,
+    "end": 1425.72,
+    "text": " So stock up on pads."
+  },
+  {
+    "start": 1425.72,
+    "end": 1429.08,
+    "text": " I'll have to go outside and I'll just say, get your dog out here for a second."
+  },
+  {
+    "start": 1429.08,
+    "end": 1431.44,
+    "text": " Let's do an experiment."
+  },
+  {
+    "start": 1431.44,
+    "end": 1433.16,
+    "text": " Let's see how that works."
+  },
+  {
+    "start": 1433.16,
+    "end": 1434.44,
+    "text": " Babble is a weird thing."
+  },
+  {
+    "start": 1434.44,
+    "end": 1436,
+    "text": " Baby's babble, right?"
+  },
+  {
+    "start": 1436,
+    "end": 1439.96,
+    "text": " And that it kind of starts to imitate language, I guess."
+  },
+  {
+    "start": 1439.96,
+    "end": 1443.08,
+    "text": " And I think people can tell if babies are babbling in their own language."
+  },
+  {
+    "start": 1443.08,
+    "end": 1447.48,
+    "text": " So if I heard a five month old making nonsense noises,"
+  },
+  {
+    "start": 1447.92,
+    "end": 1452.56,
+    "text": " I should be able to tell whether it's an English speaker or a non-English speaker."
+  },
+  {
+    "start": 1452.56,
+    "end": 1455.96,
+    "text": " Because, again, they imitate the quality of the tone,"
+  },
+  {
+    "start": 1455.96,
+    "end": 1459.2,
+    "text": " the timbre of the voice in which they're speaking."
+  },
+  {
+    "start": 1459.2,
+    "end": 1462.52,
+    "text": " But it's really interesting because babies of deaf parents who speak sign language"
+  },
+  {
+    "start": 1462.52,
+    "end": 1464.2,
+    "text": " babble in sign language."
+  },
+  {
+    "start": 1464.2,
+    "end": 1466.96,
+    "text": " So whereas that you'll have like a five month old baby"
+  },
+  {
+    "start": 1466.96,
+    "end": 1469.2,
+    "text": " who doesn't know any sign language, has never seen sign language."
+  },
+  {
+    "start": 1469.2,
+    "end": 1472.4,
+    "text": " They'll just randomly clench their fists and like, play their hands out."
+  },
+  {
+    "start": 1472.4,
+    "end": 1474.36,
+    "text": " Sign language babies will kind of babble."
+  },
+  {
+    "start": 1474.36,
+    "end": 1477.36,
+    "text": " So they'll make signs a little bit like words,"
+  },
+  {
+    "start": 1477.36,
+    "end": 1479.64,
+    "text": " but that don't specifically mean anything yet."
+  },
+  {
+    "start": 1479.64,
+    "end": 1482.8,
+    "text": " But with like quite deliberate, like they're practicing trying to learn it."
+  },
+  {
+    "start": 1482.8,
+    "end": 1486.52,
+    "text": " But baby sign is a thing that you can teach your babies how to sign."
+  },
+  {
+    "start": 1486.52,
+    "end": 1487,
+    "text": " Right."
+  },
+  {
+    "start": 1487,
+    "end": 1490.92,
+    "text": " Like from about six months onwards, you can get them to tell you when they're hungry."
+  },
+  {
+    "start": 1490.92,
+    "end": 1493.68,
+    "text": " You can get them to tell you when they need to go toilet."
+  },
+  {
+    "start": 1493.68,
+    "end": 1496.44,
+    "text": " It takes like time and effort, but this is a true story."
+  },
+  {
+    "start": 1496.44,
+    "end": 1498.64,
+    "text": " And I keep, I didn't do it with my first song, it's going to be bothered."
+  },
+  {
+    "start": 1498.64,
+    "end": 1501.68,
+    "text": " But this one now, I was like, right,"
+  },
+  {
+    "start": 1501.68,
+    "end": 1503.96,
+    "text": " we're having such a hard time putting train in the first one."
+  },
+  {
+    "start": 1503.96,
+    "end": 1505.64,
+    "text": " I'm like, right, we're learning sign."
+  },
+  {
+    "start": 1505.64,
+    "end": 1506.4,
+    "text": " I'm doing it."
+  },
+  {
+    "start": 1506.4,
+    "end": 1510.92,
+    "text": " I'm investing 20 minutes a day in just, just tell me when you need to toilet."
+  },
+  {
+    "start": 1510.92,
+    "end": 1512.36,
+    "text": " That's all that's the only thing I want."
+  },
+  {
+    "start": 1512.36,
+    "end": 1514.04,
+    "text": " That's the only thing you need to say, isn't it?"
+  },
+  {
+    "start": 1514.04,
+    "end": 1516,
+    "text": " Everything else is fine, but it's distinctive as well."
+  },
+  {
+    "start": 1516,
+    "end": 1517.2,
+    "text": " So they're babies."
+  },
+  {
+    "start": 1517.2,
+    "end": 1520.2,
+    "text": " A lot of the time it's, you just have to learn what they're doing instinctively."
+  },
+  {
+    "start": 1520.2,
+    "end": 1523.52,
+    "text": " So apparently they, if a baby brings their fingers to their mouth, really easy one."
+  },
+  {
+    "start": 1523.52,
+    "end": 1524.76,
+    "text": " I'm hungry."
+  },
+  {
+    "start": 1524.76,
+    "end": 1526.96,
+    "text": " And there's another one which means I need a poo, which I've forgotten."
+  },
+  {
+    "start": 1526.96,
+    "end": 1527.72,
+    "text": " But it can be done."
+  },
+  {
+    "start": 1527.72,
+    "end": 1531.2,
+    "text": " I've been told I've been told I'm going to interview you in six months time."
+  },
+  {
+    "start": 1531.2,
+    "end": 1535.08,
+    "text": " You'll be interviewing the baby."
+  },
+  {
+    "start": 1535.08,
+    "end": 1537.84,
+    "text": " How about that?"
+  },
+  {
+    "start": 1537.84,
+    "end": 1541.72,
+    "text": " That is, I think you mentioned an email, Athena, and I've read this thing as well"
+  },
+  {
+    "start": 1541.72,
+    "end": 1543.8,
+    "text": " about potty training babies."
+  },
+  {
+    "start": 1543.8,
+    "end": 1547.44,
+    "text": " And I actually forgot to go back to it, but there are definitely people who don't"
+  },
+  {
+    "start": 1547.44,
+    "end": 1549.2,
+    "text": " believe in nappies at all."
+  },
+  {
+    "start": 1549.2,
+    "end": 1553.24,
+    "text": " And there's a way of potty training babies where you just kind of let them poo"
+  },
+  {
+    "start": 1553.24,
+    "end": 1555.12,
+    "text": " whenever they want to."
+  },
+  {
+    "start": 1555.12,
+    "end": 1557.84,
+    "text": " And you learn when it looks like they're going to poo."
+  },
+  {
+    "start": 1557.84,
+    "end": 1561.56,
+    "text": " And then you run them to the loo and you never have to use a nappy, which sounds great."
+  },
+  {
+    "start": 1561.56,
+    "end": 1563.44,
+    "text": " And there's a bunch of New York mothers who kind of do that."
+  },
+  {
+    "start": 1563.44,
+    "end": 1566.88,
+    "text": " And they say for the first month or two, you do get some poo on your carpet."
+  },
+  {
+    "start": 1566.88,
+    "end": 1569.04,
+    "text": " Sounds like a lot of jeopardy."
+  },
+  {
+    "start": 1569.04,
+    "end": 1570.36,
+    "text": " Yes."
+  },
+  {
+    "start": 1570.36,
+    "end": 1572.92,
+    "text": " But then you sort of train the babies to give you a sign when they're going to go"
+  },
+  {
+    "start": 1572.92,
+    "end": 1576.16,
+    "text": " to the loo, like you say, there'll be a sort of sign they use, whether they point"
+  },
+  {
+    "start": 1576.16,
+    "end": 1578.36,
+    "text": " at their bum, I don't know, do a little fart."
+  },
+  {
+    "start": 1578.36,
+    "end": 1580.88,
+    "text": " And then it's like you've got to run them to a toilet."
+  },
+  {
+    "start": 1580.88,
+    "end": 1582.24,
+    "text": " You have, yeah, laminate floors."
+  },
+  {
+    "start": 1582.24,
+    "end": 1584.84,
+    "text": " That's what I'd say for that one."
+  },
+  {
+    "start": 1584.84,
+    "end": 1586.04,
+    "text": " That's the real key."
+  },
+  {
+    "start": 1586.04,
+    "end": 1589.16,
+    "text": " If you haven't got laminate, I'd probably just get some pampers."
+  },
+  {
+    "start": 1589.16,
+    "end": 1590.92,
+    "text": " But nappies are really wasteful."
+  },
+  {
+    "start": 1590.92,
+    "end": 1594.92,
+    "text": " Like, I think a baby goes through, you know, in, well, first of all, in the 80s,"
+  },
+  {
+    "start": 1594.92,
+    "end": 1597.4,
+    "text": " babies used to put your train around 18 months."
+  },
+  {
+    "start": 1597.4,
+    "end": 1600.72,
+    "text": " Because at that point, because people used to use terry towels and things like that."
+  },
+  {
+    "start": 1600.72,
+    "end": 1602.12,
+    "text": " And terry towels get wet."
+  },
+  {
+    "start": 1602.12,
+    "end": 1604.28,
+    "text": " So babies are like, oh, this is horrible."
+  },
+  {
+    "start": 1604.28,
+    "end": 1606.36,
+    "text": " And they're like, you know what, let me get me on a toilet."
+  },
+  {
+    "start": 1606.36,
+    "end": 1607.24,
+    "text": " This is disgusting."
+  },
+  {
+    "start": 1607.24,
+    "end": 1608.56,
+    "text": " And they're also harder to crawl in."
+  },
+  {
+    "start": 1608.56,
+    "end": 1610.24,
+    "text": " So they're not as mobile, so uncomfortable."
+  },
+  {
+    "start": 1610.24,
+    "end": 1613.12,
+    "text": " But now we use kind of these nappies that are really comfortable."
+  },
+  {
+    "start": 1613.12,
+    "end": 1614.32,
+    "text": " So I understand they're comfortable."
+  },
+  {
+    "start": 1614.32,
+    "end": 1615.44,
+    "text": " They're really dry."
+  },
+  {
+    "start": 1615.44,
+    "end": 1617.32,
+    "text": " They make, they allow babies to be mobile."
+  },
+  {
+    "start": 1617.32,
+    "end": 1620.44,
+    "text": " The average age for training now is about between two and three."
+  },
+  {
+    "start": 1620.44,
+    "end": 1623,
+    "text": " So you're saying they've been indulged?"
+  },
+  {
+    "start": 1623,
+    "end": 1625.04,
+    "text": " Well, yeah, absolutely."
+  },
+  {
+    "start": 1625.04,
+    "end": 1629,
+    "text": " Well, indulge, obviously, to make more money for companies that make nappies."
+  },
+  {
+    "start": 1629,
+    "end": 1630.08,
+    "text": " But that's incredible, right?"
+  },
+  {
+    "start": 1630.08,
+    "end": 1634.08,
+    "text": " Like babies that used to train at 18 months now train at three years."
+  },
+  {
+    "start": 1634.08,
+    "end": 1635.84,
+    "text": " That's the supervillain plotline."
+  },
+  {
+    "start": 1635.84,
+    "end": 1638.8,
+    "text": " Do you want a company that's investing in making nappies so good"
+  },
+  {
+    "start": 1638.8,
+    "end": 1640.12,
+    "text": " that people never take them off?"
+  },
+  {
+    "start": 1640.12,
+    "end": 1641.48,
+    "text": " I know, that's what I was thinking."
+  },
+  {
+    "start": 1641.48,
+    "end": 1645.28,
+    "text": " There's new smart nappies that have just been invented by pampers."
+  },
+  {
+    "start": 1645.28,
+    "end": 1646.4,
+    "text": " They're called Lumi."
+  },
+  {
+    "start": 1646.4,
+    "end": 1650,
+    "text": " And I reckon once these are in, you're literally until you're in your early 20s,"
+  },
+  {
+    "start": 1650,
+    "end": 1652.12,
+    "text": " you're going to be wearing those."
+  },
+  {
+    "start": 1652.12,
+    "end": 1654.04,
+    "text": " Is this where they text you, James?"
+  },
+  {
+    "start": 1654.04,
+    "end": 1655.72,
+    "text": " Well, they tell you, yeah."
+  },
+  {
+    "start": 1655.72,
+    "end": 1659.4,
+    "text": " They tell you they text the parents saying, I have checked myself."
+  },
+  {
+    "start": 1659.4,
+    "end": 1663.48,
+    "text": " If I'm so far from my baby that I need to be texted,"
+  },
+  {
+    "start": 1663.48,
+    "end": 1665.56,
+    "text": " that means someone, someone else's job."
+  },
+  {
+    "start": 1665.56,
+    "end": 1668.8,
+    "text": " I've paid the sitter to deal with that."
+  },
+  {
+    "start": 1668.8,
+    "end": 1670.04,
+    "text": " What is it to me for?"
+  },
+  {
+    "start": 1670.04,
+    "end": 1673.4,
+    "text": " You should just text the nearest phone, shouldn't it, to the baby?"
+  },
+  {
+    "start": 1673.4,
+    "end": 1675.92,
+    "text": " Yeah."
+  },
+  {
+    "start": 1675.92,
+    "end": 1678.52,
+    "text": " But then everyone, of course, because it's a smart thing,"
+  },
+  {
+    "start": 1678.52,
+    "end": 1682.72,
+    "text": " everyone's worried about hackers and that someone might hack possible."
+  },
+  {
+    "start": 1682.72,
+    "end": 1686.2,
+    "text": " What possible data can the hackers get that's going to help them on this?"
+  },
+  {
+    "start": 1686.2,
+    "end": 1689.2,
+    "text": " Unless they're working for Big Pampa and maybe."
+  },
+  {
+    "start": 1689.2,
+    "end": 1693,
+    "text": " Well, all it can really do is tell you how often this individual child"
+  },
+  {
+    "start": 1693,
+    "end": 1695.52,
+    "text": " shits themselves or pisses themselves."
+  },
+  {
+    "start": 1695.52,
+    "end": 1698.76,
+    "text": " But the idea could be that it might be attached to your phone"
+  },
+  {
+    "start": 1698.76,
+    "end": 1702.8,
+    "text": " and then using your phone, they might be able to get your bank details, maybe."
+  },
+  {
+    "start": 1702.8,
+    "end": 1705.36,
+    "text": " I feel it feels like a stretch."
+  },
+  {
+    "start": 1705.36,
+    "end": 1707.04,
+    "text": " It feels like if I was a hacker,"
+  },
+  {
+    "start": 1707.04,
+    "end": 1710.28,
+    "text": " this wouldn't be the first thing I would hack in order to get to the purse strings."
+  },
+  {
+    "start": 1710.28,
+    "end": 1711.2,
+    "text": " You know, yeah."
+  },
+  {
+    "start": 1711.2,
+    "end": 1714.64,
+    "text": " Getting bank details to a baby's bottom doesn't feel round about way."
+  },
+  {
+    "start": 1714.64,
+    "end": 1722.6,
+    "text": " OK, it is time for fact number three."
+  },
+  {
+    "start": 1722.6,
+    "end": 1724.08,
+    "text": " And that is my fact."
+  },
+  {
+    "start": 1724.08,
+    "end": 1727.68,
+    "text": " My fact this week is that traditional Ethiopian households"
+  },
+  {
+    "start": 1727.68,
+    "end": 1732.08,
+    "text": " can spend up to nine hours a day on coffee ceremonies."
+  },
+  {
+    "start": 1732.08,
+    "end": 1734.68,
+    "text": " Wow. Now I know what you're thinking."
+  },
+  {
+    "start": 1734.68,
+    "end": 1738.4,
+    "text": " Come on, no, no. That's what I'm thinking."
+  },
+  {
+    "start": 1738.4,
+    "end": 1741.44,
+    "text": " They wouldn't get anything done."
+  },
+  {
+    "start": 1741.44,
+    "end": 1746.2,
+    "text": " So I should specify, I asked far too many people about this."
+  },
+  {
+    "start": 1746.2,
+    "end": 1748.8,
+    "text": " I actually ended up interviewing four separate people"
+  },
+  {
+    "start": 1748.8,
+    "end": 1751,
+    "text": " who have lived in Ethiopia or Ethiopian."
+  },
+  {
+    "start": 1751,
+    "end": 1754.76,
+    "text": " And basically coffee ceremonies are a massive part of life in Ethiopia."
+  },
+  {
+    "start": 1754.76,
+    "end": 1757.72,
+    "text": " And they can last up to three hours."
+  },
+  {
+    "start": 1757.72,
+    "end": 1760.4,
+    "text": " So the first hour is roasting the coffee"
+  },
+  {
+    "start": 1760.4,
+    "end": 1762.56,
+    "text": " and then you kind of grind it and make it."
+  },
+  {
+    "start": 1762.56,
+    "end": 1766.48,
+    "text": " And then it's all about sitting around, having a chat, debating politics."
+  },
+  {
+    "start": 1766.48,
+    "end": 1767.68,
+    "text": " What have you."
+  },
+  {
+    "start": 1767.68,
+    "end": 1769.12,
+    "text": " And so you'll do that."
+  },
+  {
+    "start": 1769.12,
+    "end": 1772.8,
+    "text": " And then particularly in rural places, you might do it three times a day."
+  },
+  {
+    "start": 1772.8,
+    "end": 1775.24,
+    "text": " So breakfast, lunch and dinner time."
+  },
+  {
+    "start": 1775.24,
+    "end": 1779.44,
+    "text": " Now, you probably aren't doing it three times a day every day for three hours"
+  },
+  {
+    "start": 1779.44,
+    "end": 1781.76,
+    "text": " because you wouldn't be able to hold down a job."
+  },
+  {
+    "start": 1781.76,
+    "end": 1785.68,
+    "text": " No, maybe they have like a Nespresso machine for day to day stuff."
+  },
+  {
+    "start": 1785.68,
+    "end": 1789.08,
+    "text": " And then for the special occasions, they do the three hour thing."
+  },
+  {
+    "start": 1789.08,
+    "end": 1790.48,
+    "text": " No. Yeah. Yeah."
+  },
+  {
+    "start": 1790.48,
+    "end": 1793.52,
+    "text": " Maybe it's a lockdown thing, you know, it's a lockdown."
+  },
+  {
+    "start": 1793.52,
+    "end": 1796.24,
+    "text": " You might as well spend nine hours a day."
+  },
+  {
+    "start": 1796.24,
+    "end": 1797.96,
+    "text": " Yeah, you're right. It's a good idea."
+  },
+  {
+    "start": 1797.96,
+    "end": 1799.48,
+    "text": " How how do we fill our time?"
+  },
+  {
+    "start": 1799.48,
+    "end": 1801.4,
+    "text": " Let's drag this out for a while."
+  },
+  {
+    "start": 1801.4,
+    "end": 1804.6,
+    "text": " The queues at Starbucks in Ethiopia must be absolutely enormous."
+  },
+  {
+    "start": 1804.6,
+    "end": 1809,
+    "text": " Can you imagine if there's one person in front of you that's two days away?"
+  },
+  {
+    "start": 1809,
+    "end": 1811.76,
+    "text": " And after all that time, they still get your name wrong."
+  },
+  {
+    "start": 1811.76,
+    "end": 1814.52,
+    "text": " Three hours. Come on."
+  },
+  {
+    "start": 1814.52,
+    "end": 1816.8,
+    "text": " I suppose one guy who runs this place called Kaffa Coffee,"
+  },
+  {
+    "start": 1816.8,
+    "end": 1819.36,
+    "text": " which is actually this really nice Ethiopian coffee."
+  },
+  {
+    "start": 1820.36,
+    "end": 1822.36,
+    "text": " Would like Van in Dulston."
+  },
+  {
+    "start": 1822.36,
+    "end": 1823.68,
+    "text": " Anyway, he was great."
+  },
+  {
+    "start": 1823.68,
+    "end": 1827.68,
+    "text": " So he was I was asking him about it and holding up the queue behind me."
+  },
+  {
+    "start": 1827.68,
+    "end": 1831.04,
+    "text": " And he was saying that actually how it would work where he was from anyway,"
+  },
+  {
+    "start": 1831.04,
+    "end": 1835.08,
+    "text": " is that you'd be in your village and you would hear the first person"
+  },
+  {
+    "start": 1835.08,
+    "end": 1838.28,
+    "text": " to get up and start roasting the beans because it makes a really loud noise."
+  },
+  {
+    "start": 1838.28,
+    "end": 1839.52,
+    "text": " You've got a very, very hot pan."
+  },
+  {
+    "start": 1839.52,
+    "end": 1842.72,
+    "text": " And when the beans crash onto it, they really crackle at first."
+  },
+  {
+    "start": 1842.72,
+    "end": 1846.48,
+    "text": " And once you hear that person, you're like, OK, someone else is doing the coffee today."
+  },
+  {
+    "start": 1846.48,
+    "end": 1850.4,
+    "text": " I don't have to. And you're bringing your leftovers from the night before from the meal."
+  },
+  {
+    "start": 1850.4,
+    "end": 1854.52,
+    "text": " If you've got some bread left over and you'll sort of swap that for some coffee"
+  },
+  {
+    "start": 1854.52,
+    "end": 1856.88,
+    "text": " and hang out doing that."
+  },
+  {
+    "start": 1856.88,
+    "end": 1858,
+    "text": " So that makes more sense."
+  },
+  {
+    "start": 1858,
+    "end": 1860.8,
+    "text": " Like it's not every single household is doing that many times a day."
+  },
+  {
+    "start": 1860.8,
+    "end": 1864.6,
+    "text": " Well, Kaffa actually is the name of the region, isn't it?"
+  },
+  {
+    "start": 1864.6,
+    "end": 1868.32,
+    "text": " In Ethiopia, where coffee originated, I think."
+  },
+  {
+    "start": 1868.32,
+    "end": 1872.04,
+    "text": " And actually, it's where we and almost every country in the world"
+  },
+  {
+    "start": 1872.04,
+    "end": 1874.76,
+    "text": " gets the word for coffee is from this place, Kaffa."
+  },
+  {
+    "start": 1875.2,
+    "end": 1877,
+    "text": " Wow. Makes sense."
+  },
+  {
+    "start": 1877,
+    "end": 1880.88,
+    "text": " We have said before, just in case there's a pedant out there that coffee originated"
+  },
+  {
+    "start": 1880.88,
+    "end": 1884.24,
+    "text": " in Yemen and there is some hot debate between those two countries about it."
+  },
+  {
+    "start": 1884.24,
+    "end": 1886.44,
+    "text": " And I think you can engage with that, if you want."
+  },
+  {
+    "start": 1886.44,
+    "end": 1890.84,
+    "text": " What I think and, you know, I don't want to get into a conflict"
+  },
+  {
+    "start": 1890.84,
+    "end": 1894.28,
+    "text": " with the Yemenis or the Ethiopians, but I think the coffee plants"
+  },
+  {
+    "start": 1894.28,
+    "end": 1898.12,
+    "text": " was really found in Ethiopia, but then modern day coffee."
+  },
+  {
+    "start": 1898.12,
+    "end": 1902.04,
+    "text": " Actually, not even modern day coffee, but, you know, early modern coffee"
+  },
+  {
+    "start": 1902.04,
+    "end": 1904.4,
+    "text": " came from Yemen to drink."
+  },
+  {
+    "start": 1904.4,
+    "end": 1905.52,
+    "text": " That sounds right."
+  },
+  {
+    "start": 1905.52,
+    "end": 1908.92,
+    "text": " Well, it sounds like you're determined to not pick a side in this conflict."
+  },
+  {
+    "start": 1908.92,
+    "end": 1913.44,
+    "text": " Quite cool in this coffee ceremony as well."
+  },
+  {
+    "start": 1913.44,
+    "end": 1915.52,
+    "text": " The traditional ceremony has three rounds."
+  },
+  {
+    "start": 1915.52,
+    "end": 1918.6,
+    "text": " And the first round is where you get your strongest cup"
+  },
+  {
+    "start": 1918.6,
+    "end": 1920.6,
+    "text": " and then you re pour the water."
+  },
+  {
+    "start": 1920.6,
+    "end": 1922.48,
+    "text": " So it's a weaker cup for the second round."
+  },
+  {
+    "start": 1922.48,
+    "end": 1924.32,
+    "text": " And then the weakest is the last round."
+  },
+  {
+    "start": 1924.32,
+    "end": 1927.08,
+    "text": " And they're called Abol Tona and Bereka."
+  },
+  {
+    "start": 1927.08,
+    "end": 1931.28,
+    "text": " And that is, according to their legend, the name of the three goats"
+  },
+  {
+    "start": 1931.28,
+    "end": 1934.76,
+    "text": " who invented coffee, according to Ethiopian legend."
+  },
+  {
+    "start": 1934.76,
+    "end": 1937.2,
+    "text": " Again, I did ask this guy and he was like, yeah, yeah, the goats."
+  },
+  {
+    "start": 1937.2,
+    "end": 1938.96,
+    "text": " They're the names of the goats."
+  },
+  {
+    "start": 1938.96,
+    "end": 1941.96,
+    "text": " And the idea is that like over a thousand years ago,"
+  },
+  {
+    "start": 1941.96,
+    "end": 1945.28,
+    "text": " a goat herder saw his goats acting all jumpy and twitchy and weird."
+  },
+  {
+    "start": 1945.28,
+    "end": 1948.88,
+    "text": " And then he saw that they'd eaten these cherries sitting next to them."
+  },
+  {
+    "start": 1948.88,
+    "end": 1950.36,
+    "text": " And they were the coffee cherries."
+  },
+  {
+    "start": 1950.36,
+    "end": 1951.96,
+    "text": " And so he brought them to some monks."
+  },
+  {
+    "start": 1951.96,
+    "end": 1953.88,
+    "text": " See, this is just like the eggs."
+  },
+  {
+    "start": 1953.88,
+    "end": 1956.88,
+    "text": " It's just like the thousand year egg being discovered completely by mistake."
+  },
+  {
+    "start": 1956.88,
+    "end": 1959.76,
+    "text": " No one is ever willing to admit I grew a plant"
+  },
+  {
+    "start": 1959.76,
+    "end": 1962.32,
+    "text": " and I experimented with hundreds of ways of cooking it."
+  },
+  {
+    "start": 1962.32,
+    "end": 1963.64,
+    "text": " And this is the one I discovered."
+  },
+  {
+    "start": 1963.64,
+    "end": 1965.24,
+    "text": " It's my work that's done this."
+  },
+  {
+    "start": 1965.24,
+    "end": 1967,
+    "text": " It's always always a magic plant"
+  },
+  {
+    "start": 1967,
+    "end": 1968.84,
+    "text": " and the goats happen to be sprightly."
+  },
+  {
+    "start": 1968.84,
+    "end": 1971.96,
+    "text": " What makes me laugh about that story is that he saw his goats for dancing."
+  },
+  {
+    "start": 1971.96,
+    "end": 1974.04,
+    "text": " He was like, I want what they're having."
+  },
+  {
+    "start": 1974.04,
+    "end": 1980.32,
+    "text": " I wouldn't go near it personally myself, but thank goodness that person did."
+  },
+  {
+    "start": 1980.32,
+    "end": 1981.72,
+    "text": " Exactly."
+  },
+  {
+    "start": 1981.72,
+    "end": 1985.12,
+    "text": " The mind of a great inventor always wants to mimic the dancing goat."
+  },
+  {
+    "start": 1985.12,
+    "end": 1988.52,
+    "text": " Have you guys heard of the women's petition against coffee?"
+  },
+  {
+    "start": 1989.16,
+    "end": 1995.08,
+    "text": " This was a pamphlet that was published in England in 1674."
+  },
+  {
+    "start": 1995.08,
+    "end": 1998.12,
+    "text": " And it was at a time when coffee was quite controversial"
+  },
+  {
+    "start": 1998.12,
+    "end": 2003.96,
+    "text": " because coffee houses, as I think Anna said, they allow discussion of all sorts."
+  },
+  {
+    "start": 2003.96,
+    "end": 2005.36,
+    "text": " Politics is one thing."
+  },
+  {
+    "start": 2005.36,
+    "end": 2008.48,
+    "text": " So, you know, you might be discussing politics"
+  },
+  {
+    "start": 2008.48,
+    "end": 2011.04,
+    "text": " and you might decide that you don't like the king very much or whatever."
+  },
+  {
+    "start": 2011.04,
+    "end": 2012.6,
+    "text": " So political discussion was dangerous."
+  },
+  {
+    "start": 2012.6,
+    "end": 2016.96,
+    "text": " And anyway, this women's petition against coffee was published in 1674,"
+  },
+  {
+    "start": 2017.12,
+    "end": 2018.76,
+    "text": " which claimed all sorts of stuff."
+  },
+  {
+    "start": 2018.76,
+    "end": 2022.16,
+    "text": " It said coffee makes a man as unfruitful as the deserts"
+  },
+  {
+    "start": 2022.16,
+    "end": 2024.68,
+    "text": " whence that unhappy berry is said to be brought."
+  },
+  {
+    "start": 2024.68,
+    "end": 2027.2,
+    "text": " So it sort of damages men's fertility."
+  },
+  {
+    "start": 2027.2,
+    "end": 2029.56,
+    "text": " Or that when a woman approaches the nuptial bed"
+  },
+  {
+    "start": 2029.56,
+    "end": 2032.64,
+    "text": " expecting a man that should answer the vigor of her flames,"
+  },
+  {
+    "start": 2032.64,
+    "end": 2037.44,
+    "text": " she why should she only meet a bed full of bones and hug a meagre useless corpse?"
+  },
+  {
+    "start": 2037.44,
+    "end": 2039.24,
+    "text": " Strong stuff about coffee."
+  },
+  {
+    "start": 2039.24,
+    "end": 2043.44,
+    "text": " But I know the weird thing is it probably wasn't by women."
+  },
+  {
+    "start": 2044.36,
+    "end": 2047.44,
+    "text": " It's written in a way which implies that it's written by a man,"
+  },
+  {
+    "start": 2047.44,
+    "end": 2050.88,
+    "text": " sort of ventriloquizing women, like, oh, it makes men so gossipy."
+  },
+  {
+    "start": 2050.88,
+    "end": 2053.16,
+    "text": " They're more gossipy than us women who are writing this petition."
+  },
+  {
+    "start": 2053.16,
+    "end": 2055.96,
+    "text": " It's in that kind of vein."
+  },
+  {
+    "start": 2055.96,
+    "end": 2060.52,
+    "text": " And also, was it in the petition, the thing about meeting an old skeleton corpse in bed?"
+  },
+  {
+    "start": 2060.52,
+    "end": 2061.84,
+    "text": " That was in the petition."
+  },
+  {
+    "start": 2061.84,
+    "end": 2064.56,
+    "text": " Yeah. See, that doesn't sound like a woman to me."
+  },
+  {
+    "start": 2064.56,
+    "end": 2069.84,
+    "text": " It's like a relief if what you're meeting is sort of skeletal mess."
+  },
+  {
+    "start": 2069.84,
+    "end": 2071,
+    "text": " He doesn't want to do anything."
+  },
+  {
+    "start": 2071,
+    "end": 2072.52,
+    "text": " That sounded very much a man."
+  },
+  {
+    "start": 2072.52,
+    "end": 2074.32,
+    "text": " And also, coffee is supposed to make you live longer."
+  },
+  {
+    "start": 2074.32,
+    "end": 2075.76,
+    "text": " So you're less likely to meet a skeleton."
+  },
+  {
+    "start": 2075.76,
+    "end": 2077.2,
+    "text": " He'll be full of life."
+  },
+  {
+    "start": 2077.2,
+    "end": 2080.32,
+    "text": " And these are all these are all arguments against the women's petition."
+  },
+  {
+    "start": 2080.32,
+    "end": 2083.56,
+    "text": " I also thought if you drank lots of coffee, you turned into George Clooney."
+  },
+  {
+    "start": 2083.56,
+    "end": 2085.4,
+    "text": " Is that not that's what TV's taught me?"
+  },
+  {
+    "start": 2085.4,
+    "end": 2087.72,
+    "text": " Yeah, that's right. Keep drinking it, James."
+  },
+  {
+    "start": 2087.72,
+    "end": 2089.4,
+    "text": " Keep going."
+  },
+  {
+    "start": 2089.4,
+    "end": 2091.6,
+    "text": " You're nearly there."
+  },
+  {
+    "start": 2091.6,
+    "end": 2094.36,
+    "text": " Is that right? I'm doing nine hours a day, so I shouldn't be right now."
+  },
+  {
+    "start": 2094.36,
+    "end": 2097.16,
+    "text": " That or Anthony Head, do you remember his old adverts?"
+  },
+  {
+    "start": 2097.16,
+    "end": 2099.6,
+    "text": " Oh, yeah, of course."
+  },
+  {
+    "start": 2099.6,
+    "end": 2101.2,
+    "text": " Anthony Head, is he the guy from Buffy?"
+  },
+  {
+    "start": 2101.2,
+    "end": 2102.4,
+    "text": " Yeah."
+  },
+  {
+    "start": 2102.4,
+    "end": 2107.12,
+    "text": " Yeah, but he's the guy from the Nescafé sexy couple flirting adverts, really."
+  },
+  {
+    "start": 2107.12,
+    "end": 2108.96,
+    "text": " Yeah, that does ring a bell."
+  },
+  {
+    "start": 2108.96,
+    "end": 2112.6,
+    "text": " He was quite an anxious character in Buffy, so a bad person to advertise coffee."
+  },
+  {
+    "start": 2112.6,
+    "end": 2115.56,
+    "text": " Whereas George Clooney is much more chill."
+  },
+  {
+    "start": 2115.56,
+    "end": 2117.48,
+    "text": " That's true, but why do you think he was anxious, Anna?"
+  },
+  {
+    "start": 2117.48,
+    "end": 2118.72,
+    "text": " Is that delicious Nescafé, isn't it?"
+  },
+  {
+    "start": 2118.72,
+    "end": 2120.64,
+    "text": " He was off his head on Nescafé all the time."
+  },
+  {
+    "start": 2120.64,
+    "end": 2123.76,
+    "text": " Yeah, that's what it was, all withdrawing."
+  },
+  {
+    "start": 2123.76,
+    "end": 2127.72,
+    "text": " So coffee withdrawal is a thing, which I don't drink enough coffee."
+  },
+  {
+    "start": 2127.72,
+    "end": 2130.88,
+    "text": " I don't think to get serious withdrawal, but you've quit before, Andy, haven't you?"
+  },
+  {
+    "start": 2131.12,
+    "end": 2132.8,
+    "text": " I've quit. I'm currently quit."
+  },
+  {
+    "start": 2132.8,
+    "end": 2133.64,
+    "text": " You're currently quit."
+  },
+  {
+    "start": 2133.64,
+    "end": 2135.56,
+    "text": " You seem like you've got the shakes."
+  },
+  {
+    "start": 2135.56,
+    "end": 2136.76,
+    "text": " You've been very old."
+  },
+  {
+    "start": 2136.76,
+    "end": 2137.84,
+    "text": " Is that is that why?"
+  },
+  {
+    "start": 2137.84,
+    "end": 2140.16,
+    "text": " Have you ever been you've never been properly on it, though?"
+  },
+  {
+    "start": 2140.16,
+    "end": 2141.16,
+    "text": " Have you or have you?"
+  },
+  {
+    "start": 2141.16,
+    "end": 2141.6,
+    "text": " No, I was."
+  },
+  {
+    "start": 2141.6,
+    "end": 2142.4,
+    "text": " I was for years and years."
+  },
+  {
+    "start": 2142.4,
+    "end": 2143.84,
+    "text": " I just drinking several a day."
+  },
+  {
+    "start": 2143.84,
+    "end": 2146.16,
+    "text": " And then when you stop, you just have a headache for two weeks."
+  },
+  {
+    "start": 2146.16,
+    "end": 2148,
+    "text": " And then and then that's that."
+  },
+  {
+    "start": 2148,
+    "end": 2149,
+    "text": " Yeah, I can vouch for that."
+  },
+  {
+    "start": 2149,
+    "end": 2150.56,
+    "text": " I quit drinking coffee."
+  },
+  {
+    "start": 2150.56,
+    "end": 2152.44,
+    "text": " That it's very inconsistently advice."
+  },
+  {
+    "start": 2152.44,
+    "end": 2154.56,
+    "text": " Some people say you can't you can have coffee when you're pregnant."
+  },
+  {
+    "start": 2154.56,
+    "end": 2155.84,
+    "text": " Some people can say you can't."
+  },
+  {
+    "start": 2155.84,
+    "end": 2157.12,
+    "text": " But I just quit anyway."
+  },
+  {
+    "start": 2157.12,
+    "end": 2158.92,
+    "text": " I thought I'd quit and then my teeth has not been yellow."
+  },
+  {
+    "start": 2159.96,
+    "end": 2161.52,
+    "text": " Because that would be the advantage and I got a headache."
+  },
+  {
+    "start": 2161.52,
+    "end": 2165.8,
+    "text": " Yeah, you feel well when you stop drinking that as much caffeine as you used to."
+  },
+  {
+    "start": 2165.8,
+    "end": 2167,
+    "text": " Absolutely."
+  },
+  {
+    "start": 2167,
+    "end": 2171.44,
+    "text": " Did you feel less awake or less alert or less focused or anything?"
+  },
+  {
+    "start": 2171.44,
+    "end": 2175.92,
+    "text": " Yeah, but that's what we do to the fact I was growing up human, you know?"
+  },
+  {
+    "start": 2175.92,
+    "end": 2179.92,
+    "text": " Like, to be honest, I started drinking coffee again recently."
+  },
+  {
+    "start": 2179.92,
+    "end": 2182.32,
+    "text": " And I think it's all a bit of mythology video."
+  },
+  {
+    "start": 2182.32,
+    "end": 2184.68,
+    "text": " I don't think it makes you any more alert or awake."
+  },
+  {
+    "start": 2184.68,
+    "end": 2188.8,
+    "text": " I just think you just get a bit attached to the kind of your brain"
+  },
+  {
+    "start": 2188.8,
+    "end": 2190.76,
+    "text": " getting a bit wired, you know?"
+  },
+  {
+    "start": 2190.76,
+    "end": 2193.4,
+    "text": " But I'm not I'm not more productive when I'm like, I'm not more productive"
+  },
+  {
+    "start": 2193.4,
+    "end": 2195.6,
+    "text": " when I'm shaking like a leaf."
+  },
+  {
+    "start": 2195.6,
+    "end": 2197.4,
+    "text": " If anything, I'm less productive."
+  },
+  {
+    "start": 2197.4,
+    "end": 2199.6,
+    "text": " Well, some people, it does seem to work for some people."
+  },
+  {
+    "start": 2199.6,
+    "end": 2200.28,
+    "text": " I kind of agree."
+  },
+  {
+    "start": 2200.28,
+    "end": 2204.28,
+    "text": " It makes me twitchy and endlessly Google weird health symptoms wrong with me"
+  },
+  {
+    "start": 2204.28,
+    "end": 2205.92,
+    "text": " rather than do actual work."
+  },
+  {
+    "start": 2205.92,
+    "end": 2209,
+    "text": " But Michael Pollan, who's the brilliant food writer"
+  },
+  {
+    "start": 2209,
+    "end": 2211.8,
+    "text": " who wrote a book called Caffeine, which is an audio book, actually."
+  },
+  {
+    "start": 2211.8,
+    "end": 2216.88,
+    "text": " He is a huge coffee fan and he quit while writing the book"
+  },
+  {
+    "start": 2217.08,
+    "end": 2220.16,
+    "text": " and it almost ruined the actual book, which I like a book on caffeine"
+  },
+  {
+    "start": 2220.16,
+    "end": 2222.32,
+    "text": " was almost destroyed by caffeine withdrawal."
+  },
+  {
+    "start": 2222.32,
+    "end": 2227.88,
+    "text": " But he basically said that he felt like he wasn't in writing in his first language anymore."
+  },
+  {
+    "start": 2227.88,
+    "end": 2231.28,
+    "text": " Everything was so like words didn't hang together properly."
+  },
+  {
+    "start": 2231.28,
+    "end": 2233.52,
+    "text": " There was this fog between him and reality."
+  },
+  {
+    "start": 2233.52,
+    "end": 2236.76,
+    "text": " He lost all confidence and he thought this whole book is a completely stupid idea."
+  },
+  {
+    "start": 2236.76,
+    "end": 2238,
+    "text": " I'm going to stop writing it."
+  },
+  {
+    "start": 2238,
+    "end": 2240.04,
+    "text": " I mean, that is a symptom of writing a book."
+  },
+  {
+    "start": 2240.04,
+    "end": 2246.36,
+    "text": " I think he might be blaming the coffee so that he can plug his book about coffee."
+  },
+  {
+    "start": 2246.64,
+    "end": 2248.84,
+    "text": " Yeah, that literally sounds like imposter syndrome."
+  },
+  {
+    "start": 2248.84,
+    "end": 2254.2,
+    "text": " You old cynics, I felt sorry for him."
+  },
+  {
+    "start": 2254.2,
+    "end": 2255.52,
+    "text": " No, I didn't."
+  },
+  {
+    "start": 2255.52,
+    "end": 2258.48,
+    "text": " But he did tell me why coffee apparently does keep you awake,"
+  },
+  {
+    "start": 2258.48,
+    "end": 2260.4,
+    "text": " which again, I've always thought it sends me to sleep."
+  },
+  {
+    "start": 2260.4,
+    "end": 2266.44,
+    "text": " But I didn't know that it was that we basically have a neurotransmitter,"
+  },
+  {
+    "start": 2266.44,
+    "end": 2269.52,
+    "text": " like a chemical which sends your body a signal, which is called adenosine,"
+  },
+  {
+    "start": 2269.52,
+    "end": 2271.96,
+    "text": " which is what tells you to go to sleep."
+  },
+  {
+    "start": 2271.96,
+    "end": 2274.48,
+    "text": " So it slots into a little receptor in your body,"
+  },
+  {
+    "start": 2274.48,
+    "end": 2276.52,
+    "text": " which is just the right size for it."
+  },
+  {
+    "start": 2276.72,
+    "end": 2277.8,
+    "text": " And tells you to go to sleep."
+  },
+  {
+    "start": 2277.8,
+    "end": 2281.8,
+    "text": " And caffeine, the chemical, is exactly the right shape to fit into that receptor."
+  },
+  {
+    "start": 2281.8,
+    "end": 2286.92,
+    "text": " So when you drink caffeine, it slips into there ahead of the sleep chemical."
+  },
+  {
+    "start": 2286.92,
+    "end": 2288.92,
+    "text": " And so it stops the sleep chemical getting in."
+  },
+  {
+    "start": 2288.92,
+    "end": 2291.28,
+    "text": " So it just doesn't tell your body to go to sleep."
+  },
+  {
+    "start": 2291.28,
+    "end": 2292.52,
+    "text": " That's really clever."
+  },
+  {
+    "start": 2292.52,
+    "end": 2294.32,
+    "text": " Yeah, it's so cool, isn't it?"
+  },
+  {
+    "start": 2294.32,
+    "end": 2295.24,
+    "text": " I didn't know that."
+  },
+  {
+    "start": 2295.24,
+    "end": 2296.76,
+    "text": " Do you think, OK, here's a question for you."
+  },
+  {
+    "start": 2296.76,
+    "end": 2299.6,
+    "text": " Do you think you can flush out caffeine by drinking decaf?"
+  },
+  {
+    "start": 2299.6,
+    "end": 2302.6,
+    "text": " No, no, no, no, no."
+  },
+  {
+    "start": 2302.6,
+    "end": 2304.96,
+    "text": " Well, you can't. You're all right in your assumption."
+  },
+  {
+    "start": 2305.8,
+    "end": 2307.96,
+    "text": " Is that a thing?"
+  },
+  {
+    "start": 2307.96,
+    "end": 2311,
+    "text": " What? I was just checking."
+  },
+  {
+    "start": 2311,
+    "end": 2314.2,
+    "text": " I read this online and I thought, well, that seems very obvious and basic to me."
+  },
+  {
+    "start": 2314.2,
+    "end": 2318.04,
+    "text": " But I was hoping one of you would fall into my incredibly obvious trap."
+  },
+  {
+    "start": 2318.04,
+    "end": 2319.12,
+    "text": " Wait, let me tell you. Well done."
+  },
+  {
+    "start": 2319.12,
+    "end": 2322.88,
+    "text": " Did you ask, like, so somebody would drink a cup of like caffeinated coffee"
+  },
+  {
+    "start": 2322.88,
+    "end": 2325.36,
+    "text": " and then drink a decaf and think that balances it out?"
+  },
+  {
+    "start": 2325.36,
+    "end": 2328.32,
+    "text": " That's like having a gin and tonic and then having a Coke and being like,"
+  },
+  {
+    "start": 2328.32,
+    "end": 2329.16,
+    "text": " I'm fine to drive."
+  },
+  {
+    "start": 2330.92,
+    "end": 2335.32,
+    "text": " No, no, don't worry. I've had 15 Cokes."
+  },
+  {
+    "start": 2335.32,
+    "end": 2338.76,
+    "text": " They make a lot of coffee."
+  },
+  {
+    "start": 2338.76,
+    "end": 2341.4,
+    "text": " They grow a lot of coffee in Mastnik, the island."
+  },
+  {
+    "start": 2341.4,
+    "end": 2344.32,
+    "text": " And the story of how they did that is really interesting."
+  },
+  {
+    "start": 2344.32,
+    "end": 2347.04,
+    "text": " There was a naval officer called Gabrielle DeCleur."
+  },
+  {
+    "start": 2347.04,
+    "end": 2350.56,
+    "text": " And he decided, why is that funny?"
+  },
+  {
+    "start": 2350.56,
+    "end": 2352.76,
+    "text": " It's a funny name."
+  },
+  {
+    "start": 2352.76,
+    "end": 2355.68,
+    "text": " It just sounded like you'd seen a long name when you'd given up on it."
+  },
+  {
+    "start": 2355.68,
+    "end": 2360.68,
+    "text": " Maybe I was doing like some French babbling or something."
+  },
+  {
+    "start": 2361.32,
+    "end": 2363.36,
+    "text": " Gabrielle DeCleur."
+  },
+  {
+    "start": 2363.36,
+    "end": 2368.32,
+    "text": " And he decided that he was going to take a plant from Paris"
+  },
+  {
+    "start": 2368.32,
+    "end": 2370.6,
+    "text": " because they had some in the Royal Gardens there."
+  },
+  {
+    "start": 2370.6,
+    "end": 2374,
+    "text": " And he was going to take it down to Martinique and grow some coffee"
+  },
+  {
+    "start": 2374,
+    "end": 2375.84,
+    "text": " plantations down there."
+  },
+  {
+    "start": 2375.84,
+    "end": 2378.8,
+    "text": " But the king didn't really want to give him any of his coffee plants"
+  },
+  {
+    "start": 2378.8,
+    "end": 2380.24,
+    "text": " because they were really valuable."
+  },
+  {
+    "start": 2380.24,
+    "end": 2386.2,
+    "text": " So he kind of sneaked in and stole a little seedling from the Royal Garden."
+  },
+  {
+    "start": 2386.2,
+    "end": 2388.76,
+    "text": " And then he decided to go to Martinique,"
+  },
+  {
+    "start": 2388.76,
+    "end": 2390.88,
+    "text": " which is a long, long way away from Paris."
+  },
+  {
+    "start": 2390.88,
+    "end": 2395.64,
+    "text": " First of all, he was caught in a storm and then they got attacked by pirates."
+  },
+  {
+    "start": 2395.64,
+    "end": 2400,
+    "text": " And all the time he's got this tiny little coffee plant that he's looking after."
+  },
+  {
+    "start": 2400,
+    "end": 2403.16,
+    "text": " There was a spy from the Netherlands who went after him"
+  },
+  {
+    "start": 2403.16,
+    "end": 2404.76,
+    "text": " and tried to kill his seedling."
+  },
+  {
+    "start": 2404.76,
+    "end": 2407.68,
+    "text": " Just one seedling he had."
+  },
+  {
+    "start": 2407.68,
+    "end": 2409.28,
+    "text": " One little seedling, one little plant."
+  },
+  {
+    "start": 2409.28,
+    "end": 2410.24,
+    "text": " That's so funny."
+  },
+  {
+    "start": 2410.24,
+    "end": 2413.04,
+    "text": " And this little plant, like the spy, came and tried to kill him."
+  },
+  {
+    "start": 2413.04,
+    "end": 2416.84,
+    "text": " They, because he was at sea for a long time, they didn't have much rations."
+  },
+  {
+    "start": 2416.84,
+    "end": 2420.48,
+    "text": " And so he took his tiny bit of water that he was allowed to drink"
+  },
+  {
+    "start": 2420.48,
+    "end": 2424.2,
+    "text": " and he would share it with his seedling to keep it alive."
+  },
+  {
+    "start": 2424.2,
+    "end": 2427.28,
+    "text": " And then he got it to Martinique and planted it."
+  },
+  {
+    "start": 2427.28,
+    "end": 2430.88,
+    "text": " And 50 years later, there were 80 million coffee trees on Martinique."
+  },
+  {
+    "start": 2430.88,
+    "end": 2432.76,
+    "text": " I can't even look after my yucca."
+  },
+  {
+    "start": 2432.76,
+    "end": 2435.04,
+    "text": " And even after a coffee plant on a boat."
+  },
+  {
+    "start": 2435.04,
+    "end": 2436.28,
+    "text": " Good for him. Good for him."
+  },
+  {
+    "start": 2436.28,
+    "end": 2441.6,
+    "text": " I think that has the makings of a great film where it's one man and his seedling."
+  },
+  {
+    "start": 2441.6,
+    "end": 2443.4,
+    "text": " And, you know, he's on the boat"
+  },
+  {
+    "start": 2443.4,
+    "end": 2445.8,
+    "text": " and all the other sailors are looking hungrily at the seedling."
+  },
+  {
+    "start": 2445.8,
+    "end": 2448.92,
+    "text": " And they look at it and turns it into a big leg of ham before them or whatever."
+  },
+  {
+    "start": 2448.92,
+    "end": 2453.76,
+    "text": " I can't believe you didn't even bring a spare."
+  },
+  {
+    "start": 2453.76,
+    "end": 2454.8,
+    "text": " Take two."
+  },
+  {
+    "start": 2454.8,
+    "end": 2458.6,
+    "text": " I can't believe that Andy, when he becomes a film director,"
+  },
+  {
+    "start": 2458.6,
+    "end": 2462.52,
+    "text": " his kind of film will have people looking at things"
+  },
+  {
+    "start": 2462.52,
+    "end": 2464.84,
+    "text": " and then turning into massive hams."
+  },
+  {
+    "start": 2464.84,
+    "end": 2467.92,
+    "text": " It's strongly based on the cut, the Looney Tunes."
+  },
+  {
+    "start": 2467.92,
+    "end": 2472.4,
+    "text": " I can't see you getting many Oscar nominations for that kind of movie."
+  },
+  {
+    "start": 2472.4,
+    "end": 2473.36,
+    "text": " We'll see. We'll see."
+  },
+  {
+    "start": 2473.36,
+    "end": 2477.92,
+    "text": " When the best ham category is launched thanks to my extensive lobbying campaign"
+  },
+  {
+    "start": 2477.92,
+    "end": 2480.72,
+    "text": " and the winner for 10 years, the road, John Ham."
+  },
+  {
+    "start": 2480.72,
+    "end": 2485.24,
+    "text": " One more thing."
+  },
+  {
+    "start": 2485.24,
+    "end": 2490,
+    "text": " The coffee filter was invented by a woman called Melita Benz."
+  },
+  {
+    "start": 2490,
+    "end": 2494.48,
+    "text": " And she, according to her son, you'll love this, Andy,"
+  },
+  {
+    "start": 2494.48,
+    "end": 2496.52,
+    "text": " because I know you love your origin stories."
+  },
+  {
+    "start": 2496.52,
+    "end": 2499.2,
+    "text": " She's trying to come up with a way of making coffee."
+  },
+  {
+    "start": 2499.2,
+    "end": 2501,
+    "text": " And she just got really frustrated"
+  },
+  {
+    "start": 2501,
+    "end": 2504.12,
+    "text": " and ripped out a page of her son's notebook from school"
+  },
+  {
+    "start": 2504.12,
+    "end": 2506.04,
+    "text": " and stuck it in an old tin pot."
+  },
+  {
+    "start": 2506.04,
+    "end": 2508.52,
+    "text": " And it just happened to make this perfect coffee."
+  },
+  {
+    "start": 2508.52,
+    "end": 2510.8,
+    "text": " And she decided that, go on."
+  },
+  {
+    "start": 2510.8,
+    "end": 2514.12,
+    "text": " I I like that story because it's an innovator"
+  },
+  {
+    "start": 2514.12,
+    "end": 2517.88,
+    "text": " thinking of looking at her environment, coming up with a thing and adapting it."
+  },
+  {
+    "start": 2517.88,
+    "end": 2520.56,
+    "text": " If it if it was going with the classic format, it would be"
+  },
+  {
+    "start": 2520.56,
+    "end": 2522.2,
+    "text": " she was trying to pour her coffee."
+  },
+  {
+    "start": 2522.2,
+    "end": 2524.64,
+    "text": " And unfortunately, her son dropped his notebook"
+  },
+  {
+    "start": 2524.64,
+    "end": 2528.36,
+    "text": " and a leaf was torn out and landed on top of the cup."
+  },
+  {
+    "start": 2528.36,
+    "end": 2530.24,
+    "text": " And when she poured it, it caught all the ground."
+  },
+  {
+    "start": 2530.24,
+    "end": 2531.48,
+    "text": " You go, oh, my God."
+  },
+  {
+    "start": 2531.48,
+    "end": 2534.04,
+    "text": " So I've applauded Melissa Benz for this."
+  },
+  {
+    "start": 2534.04,
+    "end": 2535.04,
+    "text": " OK, fair enough."
+  },
+  {
+    "start": 2535.04,
+    "end": 2539.44,
+    "text": " Well, during World War Two, the company stopped making any filters"
+  },
+  {
+    "start": 2539.44,
+    "end": 2541.96,
+    "text": " and started making supplies for the Nazis."
+  },
+  {
+    "start": 2541.96,
+    "end": 2544.24,
+    "text": " Oh, OK."
+  },
+  {
+    "start": 2544.24,
+    "end": 2547.6,
+    "text": " When I said I applauded Melita Benz, I'd like to I'd like to clarify."
+  },
+  {
+    "start": 2547.6,
+    "end": 2548.72,
+    "text": " What for a point?"
+  },
+  {
+    "start": 2548.72,
+    "end": 2551.84,
+    "text": " Well, you don't applaud her, Andy, because after the war,"
+  },
+  {
+    "start": 2551.84,
+    "end": 2556.84,
+    "text": " she started a program that compensated victims of a Nazi's forced labor policy."
+  },
+  {
+    "start": 2556.84,
+    "end": 2559.92,
+    "text": " All right. When I said I didn't approve of her, I'd like to clarify."
+  },
+  {
+    "start": 2560.36,
+    "end": 2561.36,
+    "text": " Again."
+  },
+  {
+    "start": 2561.36,
+    "end": 2566.88,
+    "text": " Coffee was officially blessed in the 17th century by the Catholic Church"
+  },
+  {
+    "start": 2566.88,
+    "end": 2570.84,
+    "text": " because the Pope liked it and you could do that."
+  },
+  {
+    "start": 2570.84,
+    "end": 2573.64,
+    "text": " So it was kind of thought as an evil drink."
+  },
+  {
+    "start": 2573.64,
+    "end": 2578.68,
+    "text": " It started in in Africa or in Yemen somewhere and they all drink it around there."
+  },
+  {
+    "start": 2578.68,
+    "end": 2582.56,
+    "text": " Then it got up into the Middle East and the Arabian Peninsula."
+  },
+  {
+    "start": 2582.56,
+    "end": 2583.8,
+    "text": " Everyone's drinking it."
+  },
+  {
+    "start": 2583.8,
+    "end": 2587.04,
+    "text": " So then it came over to Catholic Europe and everyone went, well,"
+  },
+  {
+    "start": 2587.04,
+    "end": 2588.4,
+    "text": " it's the drink of the infidel."
+  },
+  {
+    "start": 2588.4,
+    "end": 2594.16,
+    "text": " And then Pope Clement VIII tasted some and thought, right, I love this."
+  },
+  {
+    "start": 2594.16,
+    "end": 2596.4,
+    "text": " What am I going to do?"
+  },
+  {
+    "start": 2596.4,
+    "end": 2598.24,
+    "text": " Because everyone's saying this is the invention of Satan."
+  },
+  {
+    "start": 2598.24,
+    "end": 2601.2,
+    "text": " It's awful. So he said, look, it's so delicious."
+  },
+  {
+    "start": 2601.2,
+    "end": 2603.8,
+    "text": " It would be awful to just let the infidels have use of it."
+  },
+  {
+    "start": 2603.8,
+    "end": 2608.24,
+    "text": " Let's trick Satan and bless it so we turn it into a Christian drink."
+  },
+  {
+    "start": 2608.24,
+    "end": 2609.8,
+    "text": " And he did."
+  },
+  {
+    "start": 2609.8,
+    "end": 2612.08,
+    "text": " And that's why you go to heaven if you drink coffee."
+  },
+  {
+    "start": 2612.08,
+    "end": 2615.24,
+    "text": " But that's really interesting."
+  },
+  {
+    "start": 2615.24,
+    "end": 2618.8,
+    "text": " Something I realised, I didn't really realise this is how popular coffee is."
+  },
+  {
+    "start": 2618.8,
+    "end": 2622.04,
+    "text": " There's only one thing that's drunk more regularly than coffee and that's water."
+  },
+  {
+    "start": 2622.04,
+    "end": 2624.48,
+    "text": " It's literally the second most popular drink in the world."
+  },
+  {
+    "start": 2624.48,
+    "end": 2625.76,
+    "text": " Wow."
+  },
+  {
+    "start": 2625.76,
+    "end": 2628.08,
+    "text": " Which is incredible because it doesn't taste that nice."
+  },
+  {
+    "start": 2628.08,
+    "end": 2629.72,
+    "text": " I thought it might be Ribena or."
+  },
+  {
+    "start": 2629.72,
+    "end": 2634.2,
+    "text": " But it's the second which means that humans,"
+  },
+  {
+    "start": 2634.2,
+    "end": 2637.72,
+    "text": " we're doing something wrong in life for us to be needed so much caffeine in our life."
+  },
+  {
+    "start": 2637.72,
+    "end": 2641.04,
+    "text": " Like we need to introduce siestas all around the world, basically."
+  },
+  {
+    "start": 2641.04,
+    "end": 2642.76,
+    "text": " This is this is what we need."
+  },
+  {
+    "start": 2642.76,
+    "end": 2644.4,
+    "text": " You're right, because it doesn't taste nice."
+  },
+  {
+    "start": 2644.4,
+    "end": 2645.84,
+    "text": " Whatever anyone's claiming."
+  },
+  {
+    "start": 2645.84,
+    "end": 2648.08,
+    "text": " We are just doing it in order to keep ourselves awake."
+  },
+  {
+    "start": 2648.08,
+    "end": 2650.52,
+    "text": " Let's just start sleeping more."
+  },
+  {
+    "start": 2650.52,
+    "end": 2652.32,
+    "text": " The idea of a Ribena based society."
+  },
+  {
+    "start": 2652.32,
+    "end": 2658.32,
+    "text": " I think it's less sexy if Anthony Head from Buffy is knocking on his neighbour's door at night"
+  },
+  {
+    "start": 2658.32,
+    "end": 2659.44,
+    "text": " saying have you got any Bina?"
+  },
+  {
+    "start": 2659.44,
+    "end": 2662.8,
+    "text": " But he would be dressed like a massive Ribena berry, wouldn't he?"
+  },
+  {
+    "start": 2662.8,
+    "end": 2665.08,
+    "text": " Why is that not sexy?"
+  },
+  {
+    "start": 2665.08,
+    "end": 2667.08,
+    "text": " His little arm sticking out."
+  },
+  {
+    "start": 2667.08,
+    "end": 2673.28,
+    "text": " I don't know, George Clooney and that's still sexy."
+  },
+  {
+    "start": 2673.28,
+    "end": 2674.56,
+    "text": " I think we could all agree."
+  },
+  {
+    "start": 2674.56,
+    "end": 2685.12,
+    "text": " OK, it is time for our final fact of the week and that is Andy."
+  },
+  {
+    "start": 2685.12,
+    "end": 2689.64,
+    "text": " My fact is that the 18th century grammarian, Alexander the Corrector,"
+  },
+  {
+    "start": 2689.64,
+    "end": 2694.04,
+    "text": " carried a sponge wherever he went just in case he spotted any offensive graffiti."
+  },
+  {
+    "start": 2694.04,
+    "end": 2697.2,
+    "text": " He sounds great."
+  },
+  {
+    "start": 2697.2,
+    "end": 2698.12,
+    "text": " He's my hero."
+  },
+  {
+    "start": 2700.68,
+    "end": 2702.2,
+    "text": " He was a Scottish author."
+  },
+  {
+    "start": 2702.2,
+    "end": 2706.2,
+    "text": " His name was Alexander Crudden, C-I-U-D-E-N."
+  },
+  {
+    "start": 2706.2,
+    "end": 2708.44,
+    "text": " He was an author, proofreader and..."
+  },
+  {
+    "start": 2708.44,
+    "end": 2712.28,
+    "text": " You could see why he sort of changed his mnemonic to the Corrector, can't you?"
+  },
+  {
+    "start": 2712.28,
+    "end": 2714.88,
+    "text": " Yeah, he was a bookseller."
+  },
+  {
+    "start": 2714.88,
+    "end": 2715.76,
+    "text": " He was a stationer."
+  },
+  {
+    "start": 2715.76,
+    "end": 2720,
+    "text": " He was eccentric, definitely."
+  },
+  {
+    "start": 2720,
+    "end": 2724.36,
+    "text": " He was famous for having written a concordance to the Bible,"
+  },
+  {
+    "start": 2724.36,
+    "end": 2726.08,
+    "text": " which is an index of the Bible."
+  },
+  {
+    "start": 2726.08,
+    "end": 2728.12,
+    "text": " We'll get on to that later."
+  },
+  {
+    "start": 2728.12,
+    "end": 2729.28,
+    "text": " But also he carried..."
+  },
+  {
+    "start": 2729.28,
+    "end": 2730.72,
+    "text": " Let's get on to it now."
+  },
+  {
+    "start": 2730.72,
+    "end": 2731.72,
+    "text": " Yeah, come on, OK."
+  },
+  {
+    "start": 2731.72,
+    "end": 2734.12,
+    "text": " He wrote an index to the Bible."
+  },
+  {
+    "start": 2734.12,
+    "end": 2736.28,
+    "text": " He wrote a verbal index of the Bible."
+  },
+  {
+    "start": 2736.28,
+    "end": 2738.4,
+    "text": " So he took every single word of the King James Bible,"
+  },
+  {
+    "start": 2738.4,
+    "end": 2743.52,
+    "text": " apart from \"the\" and \"of\" and really sort of nuts and bolts ones."
+  },
+  {
+    "start": 2743.52,
+    "end": 2747.92,
+    "text": " Every single other word, you know, \"shoe\" or \"ham\" or whatever, he made an index."
+  },
+  {
+    "start": 2747.92,
+    "end": 2750.8,
+    "text": " \"Ham\" is a good one because the son of Noah was called Ham."
+  },
+  {
+    "start": 2750.8,
+    "end": 2753.04,
+    "text": " Son of Noah, I knew you were going to bring it up."
+  },
+  {
+    "start": 2753.04,
+    "end": 2756.64,
+    "text": " I don't know if \"ham\" and \"ham\" would have different entries in the Corrector."
+  },
+  {
+    "start": 2756.64,
+    "end": 2757.44,
+    "text": " I suspect a word."
+  },
+  {
+    "start": 2757.44,
+    "end": 2758.44,
+    "text": " He knew what he was doing."
+  },
+  {
+    "start": 2759.2,
+    "end": 2761.64,
+    "text": " Yeah, it's three times as long as the actual Bible."
+  },
+  {
+    "start": 2761.64,
+    "end": 2765.28,
+    "text": " And it just tells you which words appear where in the Bible."
+  },
+  {
+    "start": 2765.28,
+    "end": 2767.68,
+    "text": " That's like only the really hardcore fans read that one."
+  },
+  {
+    "start": 2767.68,
+    "end": 2771.52,
+    "text": " It's like people who've read the Silmarillion over Lord of the Rings, isn't it?"
+  },
+  {
+    "start": 2771.52,
+    "end": 2773.32,
+    "text": " Oh, you might have read the Bible, but..."
+  },
+  {
+    "start": 2773.32,
+    "end": 2774.84,
+    "text": " Have you read it in alphabetical order?"
+  },
+  {
+    "start": 2774.84,
+    "end": 2778.88,
+    "text": " Such a weird thing to do."
+  },
+  {
+    "start": 2778.88,
+    "end": 2780.16,
+    "text": " It took him 12 years, didn't it?"
+  },
+  {
+    "start": 2780.16,
+    "end": 2781.16,
+    "text": " Unsurprising."
+  },
+  {
+    "start": 2781.16,
+    "end": 2785.8,
+    "text": " And it was like all of the word \"all\", for instance, he recorded."
+  },
+  {
+    "start": 2785.8,
+    "end": 2789.48,
+    "text": " So he included some pretty relevant words in there."
+  },
+  {
+    "start": 2789.48,
+    "end": 2791.28,
+    "text": " But the thing is, the Bibles are ready index."
+  },
+  {
+    "start": 2791.28,
+    "end": 2793.4,
+    "text": " It's like Proverbs, Mark, John, Luke."
+  },
+  {
+    "start": 2793.4,
+    "end": 2795,
+    "text": " Like it's already in sections."
+  },
+  {
+    "start": 2795,
+    "end": 2797.64,
+    "text": " Yeah, it's in chapters, you're right."
+  },
+  {
+    "start": 2797.64,
+    "end": 2801.48,
+    "text": " You know, you're making the classic mistake of confusing contents and index."
+  },
+  {
+    "start": 2801.48,
+    "end": 2804.52,
+    "text": " And Alejandro, the Corrector, would be turning in his grave right now."
+  },
+  {
+    "start": 2804.52,
+    "end": 2805.52,
+    "text": " You'd be corrected."
+  },
+  {
+    "start": 2805.52,
+    "end": 2806.6,
+    "text": " Dan wouldn't have done that."
+  },
+  {
+    "start": 2806.6,
+    "end": 2807.6,
+    "text": " Dan wouldn't."
+  },
+  {
+    "start": 2807.6,
+    "end": 2811.32,
+    "text": " It's taken this long for us to feel his loss."
+  },
+  {
+    "start": 2811.32,
+    "end": 2815.32,
+    "text": " Yeah, he was weird."
+  },
+  {
+    "start": 2815.32,
+    "end": 2817.56,
+    "text": " So he didn't like grammar mistakes either."
+  },
+  {
+    "start": 2817.56,
+    "end": 2821.24,
+    "text": " He didn't like grammar mistakes and he didn't like offensive graffiti."
+  },
+  {
+    "start": 2821.24,
+    "end": 2825.8,
+    "text": " And he had his own very idiosyncratic interpretation of what offensive was."
+  },
+  {
+    "start": 2825.8,
+    "end": 2830.08,
+    "text": " So he didn't like the number 45, which at the time, lots of people were writing..."
+  },
+  {
+    "start": 2830.08,
+    "end": 2831.44,
+    "text": " That was the main one, wasn't it?"
+  },
+  {
+    "start": 2831.44,
+    "end": 2834.16,
+    "text": " The number 45 was the main thing that he hated the most."
+  },
+  {
+    "start": 2834.16,
+    "end": 2836.28,
+    "text": " He only liked LPs, didn't he?"
+  },
+  {
+    "start": 2836.28,
+    "end": 2837.28,
+    "text": " He didn't like..."
+  },
+  {
+    "start": 2837.28,
+    "end": 2839.68,
+    "text": " Maybe he predicted..."
+  },
+  {
+    "start": 2839.68,
+    "end": 2841.8,
+    "text": " Did he predict Donald Trump's presidency and hated that?"
+  },
+  {
+    "start": 2841.8,
+    "end": 2842.8,
+    "text": " That's exactly it."
+  },
+  {
+    "start": 2842.8,
+    "end": 2843.8,
+    "text": " He hated that."
+  },
+  {
+    "start": 2843.8,
+    "end": 2845.16,
+    "text": " It's nothing to do with that."
+  },
+  {
+    "start": 2845.16,
+    "end": 2849,
+    "text": " It's because of John Wilkes, the radical."
+  },
+  {
+    "start": 2849,
+    "end": 2853.36,
+    "text": " John Wilkes was a radical author at the time and he had written a work attacking the monarchy,"
+  },
+  {
+    "start": 2853.36,
+    "end": 2859.6,
+    "text": " which had been published in issue number 45 of a magazine called The North Britain, which"
+  },
+  {
+    "start": 2859.6,
+    "end": 2862.12,
+    "text": " published, you know, exciting political content."
+  },
+  {
+    "start": 2862.12,
+    "end": 2865.56,
+    "text": " So 45 became a bit of a rallying cry for anti-monarchists at the time."
+  },
+  {
+    "start": 2865.56,
+    "end": 2869.64,
+    "text": " People would write 45 on walls and doors and floors and things like that."
+  },
+  {
+    "start": 2869.64,
+    "end": 2873.64,
+    "text": " But if Alexander the Corrector spotted it with his sponge, he'd get rid of it immediately."
+  },
+  {
+    "start": 2873.64,
+    "end": 2877.28,
+    "text": " What do you think he would do if, like, just your house number was number 45?"
+  },
+  {
+    "start": 2877.28,
+    "end": 2880.24,
+    "text": " I don't know."
+  },
+  {
+    "start": 2880.24,
+    "end": 2882.36,
+    "text": " And you've got 45 when you've really been."
+  },
+  {
+    "start": 2882.36,
+    "end": 2883.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2883.36,
+    "end": 2887.64,
+    "text": " And just not even looking at it and he keeps coming round and, like, taking it off."
+  },
+  {
+    "start": 2887.64,
+    "end": 2888.64,
+    "text": " Like, \"No!\""
+  },
+  {
+    "start": 2888.64,
+    "end": 2889.64,
+    "text": " That's a good point."
+  },
+  {
+    "start": 2889.64,
+    "end": 2890.64,
+    "text": " That's a good point."
+  },
+  {
+    "start": 2890.64,
+    "end": 2896.52,
+    "text": " Also, the Jacobite raising was 1745, which was another reason why they used this name."
+  },
+  {
+    "start": 2896.52,
+    "end": 2897.52,
+    "text": " Yeah."
+  },
+  {
+    "start": 2897.52,
+    "end": 2898.72,
+    "text": " That's why he did it in that issue."
+  },
+  {
+    "start": 2898.72,
+    "end": 2899.72,
+    "text": " He waited."
+  },
+  {
+    "start": 2899.72,
+    "end": 2903.48,
+    "text": " He printed 44 issues of this pointless magazine, so he'd get to 45 and make an"
+  },
+  {
+    "start": 2903.48,
+    "end": 2905.12,
+    "text": " obscure reference."
+  },
+  {
+    "start": 2905.12,
+    "end": 2907.72,
+    "text": " He was an Iliest."
+  },
+  {
+    "start": 2907.72,
+    "end": 2909.44,
+    "text": " Do you guys know what an Iliest is?"
+  },
+  {
+    "start": 2909.44,
+    "end": 2910.44,
+    "text": " Oh."
+  },
+  {
+    "start": 2910.44,
+    "end": 2911.44,
+    "text": " No."
+  },
+  {
+    "start": 2911.44,
+    "end": 2912.44,
+    "text": " You want to guess?"
+  },
+  {
+    "start": 2912.44,
+    "end": 2914.16,
+    "text": " Oh, did he like the Iliad?"
+  },
+  {
+    "start": 2914.16,
+    "end": 2915.16,
+    "text": " I would guess that."
+  },
+  {
+    "start": 2915.16,
+    "end": 2916.16,
+    "text": " Yeah."
+  },
+  {
+    "start": 2916.16,
+    "end": 2917.16,
+    "text": " That's a good guess."
+  },
+  {
+    "start": 2917.16,
+    "end": 2918.16,
+    "text": " Did he like Ili Coffee?"
+  },
+  {
+    "start": 2918.16,
+    "end": 2919.16,
+    "text": " That's a coffee brand, yes."
+  },
+  {
+    "start": 2919.16,
+    "end": 2920.16,
+    "text": " Yeah."
+  },
+  {
+    "start": 2920.16,
+    "end": 2922.6,
+    "text": " That's actually closer because that's the correct spelling."
+  },
+  {
+    "start": 2922.6,
+    "end": 2926.68,
+    "text": " So you're definitely getting warmer, but still quite cold, so I'm going to tell you."
+  },
+  {
+    "start": 2926.68,
+    "end": 2929.68,
+    "text": " An Iliest is someone who always refers to themselves in the third person."
+  },
+  {
+    "start": 2929.68,
+    "end": 2933.08,
+    "text": " So it's like, \"Ile\", it from Lassen, I-Double-L-E."
+  },
+  {
+    "start": 2933.08,
+    "end": 2934.08,
+    "text": " Okay."
+  },
+  {
+    "start": 2934.08,
+    "end": 2935.08,
+    "text": " I hate him."
+  },
+  {
+    "start": 2935.08,
+    "end": 2936.08,
+    "text": " Yeah."
+  },
+  {
+    "start": 2936.08,
+    "end": 2938,
+    "text": " I just, I just, you've said it all."
+  },
+  {
+    "start": 2938,
+    "end": 2941.16,
+    "text": " He's a grammar police, which, you know, he'd be good on Twitter."
+  },
+  {
+    "start": 2941.16,
+    "end": 2942.16,
+    "text": " Yeah."
+  },
+  {
+    "start": 2942.16,
+    "end": 2945.28,
+    "text": " He keeps getting my really bins nicked, and he speaks in third person."
+  },
+  {
+    "start": 2945.28,
+    "end": 2946.28,
+    "text": " I can't stand the man."
+  },
+  {
+    "start": 2946.28,
+    "end": 2947.28,
+    "text": " Yeah."
+  },
+  {
+    "start": 2947.28,
+    "end": 2948.28,
+    "text": " He's not likable."
+  },
+  {
+    "start": 2948.28,
+    "end": 2949.8,
+    "text": " He wasn't popular at the time either, to be fair."
+  },
+  {
+    "start": 2949.8,
+    "end": 2954.2,
+    "text": " You're matching the opinion of him then because he was, he was institutionalised"
+  },
+  {
+    "start": 2954.2,
+    "end": 2958.76,
+    "text": " several times, and there's lots of debate over whether, you know, was he really ill,"
+  },
+  {
+    "start": 2958.76,
+    "end": 2963.32,
+    "text": " or Henson being put in an institution, or was he being put there by his enemies?"
+  },
+  {
+    "start": 2963.32,
+    "end": 2968.2,
+    "text": " And there's a biographer called Julia Kay, who argues that he was put away not because"
+  },
+  {
+    "start": 2968.2,
+    "end": 2969.2,
+    "text": " he was ill."
+  },
+  {
+    "start": 2969.2,
+    "end": 2974.28,
+    "text": " And I mean, he sounds pretty eccentric, sounds pretty out there, but on one occasion, he"
+  },
+  {
+    "start": 2974.28,
+    "end": 2979.16,
+    "text": " was put away by, I think the brother of a woman he was trying to propose to or trying"
+  },
+  {
+    "start": 2979.16,
+    "end": 2983.76,
+    "text": " to marry, but he had discovered that the woman he was trying to propose to was sleeping with"
+  },
+  {
+    "start": 2983.76,
+    "end": 2987.96,
+    "text": " her own brother, and he raised a big old stink about this, and then was putting an asylum"
+  },
+  {
+    "start": 2987.96,
+    "end": 2988.96,
+    "text": " for it."
+  },
+  {
+    "start": 2988.96,
+    "end": 2989.96,
+    "text": " Yeah."
+  },
+  {
+    "start": 2989.96,
+    "end": 2993.32,
+    "text": " So that was the first time, but then later on, he was putting an asylum for unwelcome"
+  },
+  {
+    "start": 2993.32,
+    "end": 2998.08,
+    "text": " attentions to a widow, and then another time for attacking a man with a shovel, and then"
+  },
+  {
+    "start": 2998.08,
+    "end": 3006.52,
+    "text": " a third time for, he formed an emotional attachment to a woman without even having met her first."
+  },
+  {
+    "start": 3006.52,
+    "end": 3011.68,
+    "text": " And he then called himself, instead of Alexander the Corrector, Alexander the Conqueror, and"
+  },
+  {
+    "start": 3011.68,
+    "end": 3017.6,
+    "text": " decided that this woman was his predestined partner in life, and tried to get together"
+  },
+  {
+    "start": 3017.6,
+    "end": 3019.84,
+    "text": " with her, even though she didn't know who he was."
+  },
+  {
+    "start": 3019.84,
+    "end": 3020.84,
+    "text": " Okay."
+  },
+  {
+    "start": 3020.84,
+    "end": 3021.84,
+    "text": " All right."
+  },
+  {
+    "start": 3021.84,
+    "end": 3022.84,
+    "text": " I mean..."
+  },
+  {
+    "start": 3022.84,
+    "end": 3024.8,
+    "text": " But that first time, it was just an eccentric thing."
+  },
+  {
+    "start": 3024.8,
+    "end": 3028.4,
+    "text": " But there is, like in the Oxford Dictionary of National Biography, they think that they"
+  },
+  {
+    "start": 3028.4,
+    "end": 3032.48,
+    "text": " say that that first time is what kind of threw him over the edge a little bit, and from then"
+  },
+  {
+    "start": 3032.48,
+    "end": 3033.48,
+    "text": " on..."
+  },
+  {
+    "start": 3033.48,
+    "end": 3034.48,
+    "text": " Yeah."
+  },
+  {
+    "start": 3034.48,
+    "end": 3040.4,
+    "text": " Well, he wanted to regulate private madhouses, and supposedly the fact he didn't manage to"
+  },
+  {
+    "start": 3040.4,
+    "end": 3044.28,
+    "text": " improve private madhouse regulation made him very depressed, which then meant he was sent"
+  },
+  {
+    "start": 3044.28,
+    "end": 3045.28,
+    "text": " to bedlam again."
+  },
+  {
+    "start": 3045.28,
+    "end": 3049.04,
+    "text": " Although, as James points out, hitting people with a shovel and forming unwelcome attachments"
+  },
+  {
+    "start": 3049.04,
+    "end": 3050.84,
+    "text": " to women will also do it."
+  },
+  {
+    "start": 3050.84,
+    "end": 3052.4,
+    "text": " That'll do the trick."
+  },
+  {
+    "start": 3052.4,
+    "end": 3053.4,
+    "text": " So he was complicated."
+  },
+  {
+    "start": 3053.4,
+    "end": 3056.8,
+    "text": " He wasn't an unproblematic fave, is what I'm trying to say."
+  },
+  {
+    "start": 3056.8,
+    "end": 3057.8,
+    "text": " Fair."
+  },
+  {
+    "start": 3057.8,
+    "end": 3058.8,
+    "text": " Fair assessment."
+  },
+  {
+    "start": 3058.8,
+    "end": 3062.88,
+    "text": " But I'm impressed that in those days, you were able to form attachments to people you"
+  },
+  {
+    "start": 3062.88,
+    "end": 3065.76,
+    "text": " hadn't met romantically, pre-internet."
+  },
+  {
+    "start": 3065.76,
+    "end": 3066.76,
+    "text": " How are you doing that?"
+  },
+  {
+    "start": 3066.76,
+    "end": 3067.76,
+    "text": " I see what you mean."
+  },
+  {
+    "start": 3067.76,
+    "end": 3072.56,
+    "text": " It was the daughter of Sir Thomas Abney of Newington, who was the Lord Mayor of London."
+  },
+  {
+    "start": 3072.56,
+    "end": 3077.96,
+    "text": " So basically, he'd heard of the Lord Mayor's daughter, possibly seen her in some periodicals,"
+  },
+  {
+    "start": 3077.96,
+    "end": 3080.84,
+    "text": " and decided that that was his future wife."
+  },
+  {
+    "start": 3080.84,
+    "end": 3086.68,
+    "text": " He called her Princess Elizabetha and said that her home was a place called Silesia,"
+  },
+  {
+    "start": 3086.68,
+    "end": 3087.96,
+    "text": " which he would besiege."
+  },
+  {
+    "start": 3087.96,
+    "end": 3092.36,
+    "text": " I have the same thing about Daniel Craig, you know."
+  },
+  {
+    "start": 3092.36,
+    "end": 3094.28,
+    "text": " So I think that's fine."
+  },
+  {
+    "start": 3094.28,
+    "end": 3099.2,
+    "text": " Are you planning to besiege Daniel Craig's house?"
+  },
+  {
+    "start": 3099.2,
+    "end": 3101.16,
+    "text": " Because it's probably a public service we're doing."
+  },
+  {
+    "start": 3101.16,
+    "end": 3102.16,
+    "text": " No, it's not."
+  },
+  {
+    "start": 3102.16,
+    "end": 3103.16,
+    "text": " It's our house."
+  },
+  {
+    "start": 3103.16,
+    "end": 3104.16,
+    "text": " We live together."
+  },
+  {
+    "start": 3104.16,
+    "end": 3109.28,
+    "text": " It's been our happy spousal home for a few years now, actually."
+  },
+  {
+    "start": 3109.28,
+    "end": 3115.48,
+    "text": " Opens the door, dressed as a massive black currant, trying to make Rhybeena for you."
+  },
+  {
+    "start": 3115.48,
+    "end": 3118.88,
+    "text": " Yeah, so that's Alexander."
+  },
+  {
+    "start": 3118.88,
+    "end": 3123.94,
+    "text": " So on, I should say he's an Ilias, sorry, just to go a long way back to him referring"
+  },
+  {
+    "start": 3123.94,
+    "end": 3128.08,
+    "text": " to himself in the third person, because I wouldn't want you to think badly of him."
+  },
+  {
+    "start": 3128.08,
+    "end": 3129.56,
+    "text": " I don't know if he did it in speech."
+  },
+  {
+    "start": 3129.56,
+    "end": 3134.4,
+    "text": " He just did it in the book he wrote, which I read Decent Portion of, which had the catchy"
+  },
+  {
+    "start": 3134.4,
+    "end": 3139.08,
+    "text": " title, \"The Corrector's Earnest Address to the Inhabitants of Great Britain, showing"
+  },
+  {
+    "start": 3139.08,
+    "end": 3143.96,
+    "text": " that the late earthquakes and the fact we are at war with a powerful nation are allowed"
+  },
+  {
+    "start": 3143.96,
+    "end": 3149.12,
+    "text": " to call from divine providence for a speedy and thorough reformation,\" actually it actually"
+  },
+  {
+    "start": 3149.12,
+    "end": 3150.12,
+    "text": " goes on."
+  },
+  {
+    "start": 3150.12,
+    "end": 3154.04,
+    "text": " But it was basically saying, \"Look, we've had some earthquakes, we're at war."
+  },
+  {
+    "start": 3154.04,
+    "end": 3158.24,
+    "text": " This is clearly because you guys aren't abiding by my grammatical correction.\""
+  },
+  {
+    "start": 3158.24,
+    "end": 3162.2,
+    "text": " And that whole thing, he refers to a lot of stuff that's happened in his life, but he"
+  },
+  {
+    "start": 3162.2,
+    "end": 3164.16,
+    "text": " always calls himself the \"corrector.\""
+  },
+  {
+    "start": 3164.16,
+    "end": 3168.64,
+    "text": " He would write pamphlets as well, called things like \"Mr Crudham Greatly Injured\""
+  },
+  {
+    "start": 3168.64,
+    "end": 3173.46,
+    "text": " or \"The Adventures of Alexander the Corrector,\" which is practically a comic book, writing"
+  },
+  {
+    "start": 3173.46,
+    "end": 3176.48,
+    "text": " a pamphlet about yourself and calling it \"The Adventures of.\""
+  },
+  {
+    "start": 3176.48,
+    "end": 3177.48,
+    "text": " It is."
+  },
+  {
+    "start": 3177.48,
+    "end": 3179.92,
+    "text": " And then I think that was just about how his sister tried to have him sectioned or had"
+  },
+  {
+    "start": 3179.92,
+    "end": 3180.92,
+    "text": " him sectioned."
+  },
+  {
+    "start": 3180.92,
+    "end": 3183.96,
+    "text": " So it's disappointing if you think you're getting an adventure book and you get an"
+  },
+  {
+    "start": 3183.96,
+    "end": 3185.2,
+    "text": " annoying sibling rivalry."
+  },
+  {
+    "start": 3185.2,
+    "end": 3187.68,
+    "text": " Yeah, imagine if the Avengers were like that."
+  },
+  {
+    "start": 3187.68,
+    "end": 3193.76,
+    "text": " It was just Iron Man's brother stealing his trainers, like, \"Get your own shoes.\""
+  },
+  {
+    "start": 3193.76,
+    "end": 3199.2,
+    "text": " Captain America turns up with his sponge, yeah."
+  },
+  {
+    "start": 3199.2,
+    "end": 3205.28,
+    "text": " So on graffiti, some stuff on that, I was going through my old files and stuff on graffiti"
+  },
+  {
+    "start": 3205.28,
+    "end": 3211.24,
+    "text": " and the ancient Roman graffiti seemed to so often be about discouraging public excretion."
+  },
+  {
+    "start": 3211.24,
+    "end": 3217.6,
+    "text": " So Roman graffiti includes the phrase, \"Anybody urinating here will incur the wrath of Mars.\""
+  },
+  {
+    "start": 3217.6,
+    "end": 3223.72,
+    "text": " It's to the one defecating here, \"Beware the curse and shit with comfort and good cheer"
+  },
+  {
+    "start": 3223.72,
+    "end": 3225.72,
+    "text": " so long as you don't do it here.\""
+  },
+  {
+    "start": 3225.72,
+    "end": 3226.72,
+    "text": " Wow."
+  },
+  {
+    "start": 3226.72,
+    "end": 3229.64,
+    "text": " And so it seems like graffiti in those days was doing a public good."
+  },
+  {
+    "start": 3229.64,
+    "end": 3231.96,
+    "text": " Yeah, it's like no ball games kind of thing, isn't it?"
+  },
+  {
+    "start": 3231.96,
+    "end": 3235.32,
+    "text": " It's just trying to stop people from doing bad things around your house."
+  },
+  {
+    "start": 3235.32,
+    "end": 3236.32,
+    "text": " Exactly."
+  },
+  {
+    "start": 3236.32,
+    "end": 3237.96,
+    "text": " No turning in this driveway."
+  },
+  {
+    "start": 3237.96,
+    "end": 3241.72,
+    "text": " That's my favorite one that people put up."
+  },
+  {
+    "start": 3241.72,
+    "end": 3243.8,
+    "text": " This gate's permanently in use."
+  },
+  {
+    "start": 3243.8,
+    "end": 3244.8,
+    "text": " Permanently in use."
+  },
+  {
+    "start": 3244.8,
+    "end": 3246.8,
+    "text": " If it was permanently in use, I couldn't read the sign."
+  },
+  {
+    "start": 3246.8,
+    "end": 3248.8,
+    "text": " Get out of here."
+  },
+  {
+    "start": 3248.8,
+    "end": 3254.8,
+    "text": " I was in a really beautiful place in Cotswold recently going for a walk on my own in a wood"
+  },
+  {
+    "start": 3254.8,
+    "end": 3259.2,
+    "text": " and there was a massive tree and it was like, and it's Cotswold's, you know, it's like"
+  },
+  {
+    "start": 3259.2,
+    "end": 3264.8,
+    "text": " David Cameron territory and like Bluebellwood and someone had carved in giant capital letters"
+  },
+  {
+    "start": 3264.8,
+    "end": 3266.8,
+    "text": " into the tree, Millwall."
+  },
+  {
+    "start": 3266.8,
+    "end": 3268.84,
+    "text": " I just thought, \"That is so great."
+  },
+  {
+    "start": 3268.84,
+    "end": 3272.92,
+    "text": " I'm so glad Millwall fans are going that far afield to make their stuff.\""
+  },
+  {
+    "start": 3272.92,
+    "end": 3278.4,
+    "text": " And then it said, \"Get your parliamentary favours here, call Dave on 01.\""
+  },
+  {
+    "start": 3278.4,
+    "end": 3282.56,
+    "text": " Well, that would still be relevant when this goes out, probably."
+  },
+  {
+    "start": 3282.56,
+    "end": 3283.56,
+    "text": " Definitely."
+  },
+  {
+    "start": 3283.56,
+    "end": 3284.56,
+    "text": " It will keep it relevant."
+  },
+  {
+    "start": 3284.56,
+    "end": 3285.56,
+    "text": " We'll keep it in the news."
+  },
+  {
+    "start": 3285.56,
+    "end": 3289.16,
+    "text": " I've seen some celebrity graffiti, which is very exciting."
+  },
+  {
+    "start": 3289.16,
+    "end": 3291.44,
+    "text": " I saw something that Lord Byron wrote."
+  },
+  {
+    "start": 3291.44,
+    "end": 3292.44,
+    "text": " Really?"
+  },
+  {
+    "start": 3292.44,
+    "end": 3297.28,
+    "text": " There's a place in Greece called the Temple of Poseidon and he carved his name really"
+  },
+  {
+    "start": 3297.28,
+    "end": 3304.96,
+    "text": " big and florid into the column of this 4,000-year-old temple, which is pretty disrespectful."
+  },
+  {
+    "start": 3304.96,
+    "end": 3309.96,
+    "text": " But it's surrounded by other names because it was just the thing you did at the time."
+  },
+  {
+    "start": 3309.96,
+    "end": 3310.96,
+    "text": " Byron does it."
+  },
+  {
+    "start": 3310.96,
+    "end": 3311.96,
+    "text": " It's kind of okay, isn't it?"
+  },
+  {
+    "start": 3311.96,
+    "end": 3314.72,
+    "text": " I bet the council got really pissed off with all the other people who did it, but when"
+  },
+  {
+    "start": 3314.72,
+    "end": 3315.72,
+    "text": " Byron..."
+  },
+  {
+    "start": 3315.72,
+    "end": 3317.76,
+    "text": " Yeah, he's like the Banksy of the 19th century."
+  },
+  {
+    "start": 3317.76,
+    "end": 3318.76,
+    "text": " You're right."
+  },
+  {
+    "start": 3318.76,
+    "end": 3319.76,
+    "text": " You're right."
+  },
+  {
+    "start": 3319.76,
+    "end": 3320.76,
+    "text": " Yeah."
+  },
+  {
+    "start": 3320.76,
+    "end": 3325.76,
+    "text": " That Banksy, he did a load of graffiti just in Waterloo, in that tunnel in Waterloo."
+  },
+  {
+    "start": 3325.76,
+    "end": 3326.76,
+    "text": " I don't know if you remember."
+  },
+  {
+    "start": 3326.76,
+    "end": 3328.88,
+    "text": " It's like one of the first things."
+  },
+  {
+    "start": 3328.88,
+    "end": 3333.64,
+    "text": " And then I went to see it when it happened and then we started filming QI and I saw"
+  },
+  {
+    "start": 3333.64,
+    "end": 3334.64,
+    "text": " it right at the start."
+  },
+  {
+    "start": 3334.64,
+    "end": 3337.56,
+    "text": " By the time we finished filming it, it had already been covered, I think, three or four"
+  },
+  {
+    "start": 3337.56,
+    "end": 3339.6,
+    "text": " times by other people putting graffiti on."
+  },
+  {
+    "start": 3339.6,
+    "end": 3340.6,
+    "text": " And that was kind of the point."
+  },
+  {
+    "start": 3340.6,
+    "end": 3346.04,
+    "text": " He was like, \"This is now a graffiti place and just put whatever you want here.\""
+  },
+  {
+    "start": 3346.04,
+    "end": 3350.92,
+    "text": " But we've come up with a new way of using hydrogel, which is like this amazing kind"
+  },
+  {
+    "start": 3350.92,
+    "end": 3351.92,
+    "text": " of substance."
+  },
+  {
+    "start": 3351.92,
+    "end": 3356.08,
+    "text": " And you put it on the wall and it just sticks to the top covering of paint."
+  },
+  {
+    "start": 3356.08,
+    "end": 3360.96,
+    "text": " And it can take that off and you can see the graffiti that's underneath that graffiti."
+  },
+  {
+    "start": 3360.96,
+    "end": 3361.96,
+    "text": " No."
+  },
+  {
+    "start": 3361.96,
+    "end": 3366,
+    "text": " So, in theory, you could keep going, taking layers and layers and layers off this, I think"
+  },
+  {
+    "start": 3366,
+    "end": 3367.92,
+    "text": " it's called leaky passage or something, isn't it?"
+  },
+  {
+    "start": 3367.92,
+    "end": 3368.92,
+    "text": " Leaky tunnel or something."
+  },
+  {
+    "start": 3368.92,
+    "end": 3369.92,
+    "text": " I think you're right."
+  },
+  {
+    "start": 3369.92,
+    "end": 3370.92,
+    "text": " Yeah."
+  },
+  {
+    "start": 3370.92,
+    "end": 3373.2,
+    "text": " And you'll be able to get to the Banksy's again."
+  },
+  {
+    "start": 3373.2,
+    "end": 3374.2,
+    "text": " That would be awesome."
+  },
+  {
+    "start": 3374.2,
+    "end": 3375.2,
+    "text": " Cool."
+  },
+  {
+    "start": 3375.2,
+    "end": 3379.88,
+    "text": " I used to work for Camden Council and Banksy did some graffiti on the side of a shop."
+  },
+  {
+    "start": 3379.88,
+    "end": 3383.64,
+    "text": " And I used to work in a street team that used to do with waste and street cleaning."
+  },
+  {
+    "start": 3383.64,
+    "end": 3385.72,
+    "text": " Obviously, our guys cleaned that off, right?"
+  },
+  {
+    "start": 3385.72,
+    "end": 3387.52,
+    "text": " And the shop owners tried to sue Camden."
+  },
+  {
+    "start": 3387.52,
+    "end": 3391.76,
+    "text": " They were like, \"You got rid of a Banksy, we're going to cover it with glass and like"
+  },
+  {
+    "start": 3391.76,
+    "end": 3392.76,
+    "text": " make loads of money.\""
+  },
+  {
+    "start": 3392.76,
+    "end": 3393.76,
+    "text": " I don't know how that's so funny."
+  },
+  {
+    "start": 3393.76,
+    "end": 3397.4,
+    "text": " I find it really incredible that the point of graffiti is that it sort of lives out"
+  },
+  {
+    "start": 3397.4,
+    "end": 3398.4,
+    "text": " in public."
+  },
+  {
+    "start": 3398.4,
+    "end": 3400.92,
+    "text": " But now because it's because of capitalism, people are like, \"No, no, we're going to"
+  },
+  {
+    "start": 3400.92,
+    "end": 3401.92,
+    "text": " preserve that."
+  },
+  {
+    "start": 3401.92,
+    "end": 3406.56,
+    "text": " We're going to get perspex on it and we're going to make it get rich off of it, which"
+  },
+  {
+    "start": 3406.56,
+    "end": 3407.56,
+    "text": " is hilarious.\""
+  },
+  {
+    "start": 3407.56,
+    "end": 3410.12,
+    "text": " I can't believe you were, that's always reported on."
+  },
+  {
+    "start": 3410.12,
+    "end": 3412.72,
+    "text": " I can't believe you were one of those people who cleaned a Banksy off."
+  },
+  {
+    "start": 3412.72,
+    "end": 3415.32,
+    "text": " It always creates this massive controversy, doesn't it?"
+  },
+  {
+    "start": 3415.32,
+    "end": 3417.96,
+    "text": " And Banksy's just there in the sidelines, chuckling away."
+  },
+  {
+    "start": 3417.96,
+    "end": 3421.88,
+    "text": " But whenever Banksy does anything, Athena goes along with her sponge, doesn't she?"
+  },
+  {
+    "start": 3421.88,
+    "end": 3422.88,
+    "text": " Yes."
+  },
+  {
+    "start": 3422.88,
+    "end": 3427.84,
+    "text": " Well, not just Banksy, everybody."
+  },
+  {
+    "start": 3427.84,
+    "end": 3433.08,
+    "text": " Can I correct some, just correct some grammar broadly before we finish?"
+  },
+  {
+    "start": 3433.08,
+    "end": 3434.08,
+    "text": " Which is..."
+  },
+  {
+    "start": 3434.08,
+    "end": 3435.84,
+    "text": " Whose grammar are you going to correct?"
+  },
+  {
+    "start": 3435.84,
+    "end": 3438.36,
+    "text": " This thing that I'm pointing to here."
+  },
+  {
+    "start": 3438.36,
+    "end": 3439.36,
+    "text": " Bicep."
+  },
+  {
+    "start": 3439.36,
+    "end": 3440.36,
+    "text": " What is it?"
+  },
+  {
+    "start": 3440.36,
+    "end": 3441.36,
+    "text": " I'd say bicep."
+  },
+  {
+    "start": 3441.36,
+    "end": 3442.36,
+    "text": " Yeah, bicep."
+  },
+  {
+    "start": 3442.36,
+    "end": 3443.36,
+    "text": " That's really incorrect, guys."
+  },
+  {
+    "start": 3443.36,
+    "end": 3444.36,
+    "text": " Oh, God."
+  },
+  {
+    "start": 3444.36,
+    "end": 3445.36,
+    "text": " This is not a bicep."
+  },
+  {
+    "start": 3445.36,
+    "end": 3446.36,
+    "text": " This is a biceps."
+  },
+  {
+    "start": 3446.36,
+    "end": 3451.76,
+    "text": " And whenever you hear someone refer to a singular bicep, you can correct them and stick that"
+  },
+  {
+    "start": 3451.76,
+    "end": 3452.76,
+    "text": " S on the end."
+  },
+  {
+    "start": 3452.76,
+    "end": 3457.2,
+    "text": " Biceps literally means two-headed, two-biceps-headed."
+  },
+  {
+    "start": 3457.2,
+    "end": 3460.08,
+    "text": " There are always two heads, it's never just unicep."
+  },
+  {
+    "start": 3460.08,
+    "end": 3461.08,
+    "text": " Wow."
+  },
+  {
+    "start": 3461.08,
+    "end": 3463.48,
+    "text": " And it's just because the muscle's got two, like, connecting bits."
+  },
+  {
+    "start": 3463.48,
+    "end": 3465.48,
+    "text": " James, you've just been paninode."
+  },
+  {
+    "start": 3465.48,
+    "end": 3467.8,
+    "text": " I can't believe it."
+  },
+  {
+    "start": 3467.8,
+    "end": 3468.8,
+    "text": " I..."
+  },
+  {
+    "start": 3468.8,
+    "end": 3469.8,
+    "text": " That was an amazing moment."
+  },
+  {
+    "start": 3469.8,
+    "end": 3474.32,
+    "text": " Well, if Anna didn't have such impressive biceps, then maybe I wouldn't have done..."
+  },
+  {
+    "start": 3474.32,
+    "end": 3477.08,
+    "text": " Yeah, I drew you off your game with that."
+  },
+  {
+    "start": 3477.08,
+    "end": 3482.76,
+    "text": " You said bicep implying that you think they're so small, it only qualifies as one."
+  },
+  {
+    "start": 3482.76,
+    "end": 3483.76,
+    "text": " Good point."
+  },
+  {
+    "start": 3483.76,
+    "end": 3484.76,
+    "text": " Yeah."
+  },
+  {
+    "start": 3484.76,
+    "end": 3485.76,
+    "text": " There's only one on each side."
+  },
+  {
+    "start": 3485.76,
+    "end": 3489.36,
+    "text": " So you have to say I pulled my left biceps, as opposed to..."
+  },
+  {
+    "start": 3489.36,
+    "end": 3490.36,
+    "text": " Exactly."
+  },
+  {
+    "start": 3490.36,
+    "end": 3491.36,
+    "text": " Hmm."
+  },
+  {
+    "start": 3491.36,
+    "end": 3492.36,
+    "text": " Even if you pulled your right one."
+  },
+  {
+    "start": 3492.36,
+    "end": 3493.6,
+    "text": " No, that's not true."
+  },
+  {
+    "start": 3493.6,
+    "end": 3495,
+    "text": " I just pulled mine guns."
+  },
+  {
+    "start": 3495,
+    "end": 3501.56,
+    "text": " I've won all of that."
+  },
+  {
+    "start": 3501.56,
+    "end": 3503.4,
+    "text": " OK, that's all of our facts."
+  },
+  {
+    "start": 3503.4,
+    "end": 3506,
+    "text": " Thank you so much for listening, everybody."
+  },
+  {
+    "start": 3506,
+    "end": 3507.56,
+    "text": " We will be back again next week."
+  },
+  {
+    "start": 3507.56,
+    "end": 3510.08,
+    "text": " If you're lucky, you might get another guest."
+  },
+  {
+    "start": 3510.08,
+    "end": 3513.2,
+    "text": " If you're unlucky, you might get Dan Shriver back."
+  },
+  {
+    "start": 3513.2,
+    "end": 3518.12,
+    "text": " But until then, you can find these guys on their Twitter accounts, James."
+  },
+  {
+    "start": 3518.12,
+    "end": 3519.12,
+    "text": " At James Harkin."
+  },
+  {
+    "start": 3519.12,
+    "end": 3520.12,
+    "text": " Andi."
+  },
+  {
+    "start": 3520.12,
+    "end": 3521.12,
+    "text": " At Andrew Hunter M."
+  },
+  {
+    "start": 3521.12,
+    "end": 3522.12,
+    "text": " Athena."
+  },
+  {
+    "start": 3522.12,
+    "end": 3523.12,
+    "text": " Have you got Twitter?"
+  },
+  {
+    "start": 3523.12,
+    "end": 3524.12,
+    "text": " I do."
+  },
+  {
+    "start": 3524.12,
+    "end": 3525.12,
+    "text": " I do."
+  },
+  {
+    "start": 3525.12,
+    "end": 3526.12,
+    "text": " I think they can learn new."
+  },
+  {
+    "start": 3526.12,
+    "end": 3528.92,
+    "text": " And you can contact me by emailing podcast@QI.com."
+  },
+  {
+    "start": 3528.92,
+    "end": 3532.38,
+    "text": " You can also go to our website, no such thing as a fish.com, to listen to all our other"
+  },
+  {
+    "start": 3532.38,
+    "end": 3539.46,
+    "text": " episodes, pick up a hoodie, or a cap, or a vinyl, whatever bit of merch you like."
+  },
+  {
+    "start": 3539.46,
+    "end": 3543.04,
+    "text": " And you can also book tickets to the podcast stop festival show we're going to be doing."
+  },
+  {
+    "start": 3543.04,
+    "end": 3545.68,
+    "text": " So go to QI.com/FishEvents for that."
+  },
+  {
+    "start": 3545.68,
+    "end": 3547.72,
+    "text": " OK, thanks so much for listening, everyone."
+  },
+  {
+    "start": 3547.72,
+    "end": 3549.4,
+    "text": " We'll see you again next week."
+  },
+  {
+    "start": 3549.4,
+    "end": 3556.4,
+    "text": " Bye."
+  },
+  {
+    "start": 3556.4,
+    "end": 3558.98,
+    "text": " (upbeat music)"
+  }
+]

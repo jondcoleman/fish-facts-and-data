@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features discussions on a variety of topics including the history of BBC radio presenters, the cultural impact of Kenny G's music in China, the intense rivalry between 19th-century paleontologists, and the translation of computer terms in different languages.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first BBC radio presenter with a northern accent was given the job to make it more difficult for the Nazis to impersonate news readers.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:01:28"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In China, if you want to empty a building full of people, you play the song 'Going Home' by Kenny G.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:17:01"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The two leading paleontologists in the 19th century used to destroy their fossil sites after excavating them so that their rival wasn't able to find anything on them.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:29:45"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Mozilla Firefox translates its computer systems into hundreds of different languages, but lots of the metaphors don't translate, so in Senegal, in the Fula language, a computer crash is known as a hooky, which means a cow falling over but not dying.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:40:40"
+    }
+  ]
+}

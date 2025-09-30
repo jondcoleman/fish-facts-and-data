@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode, recorded live at the British Library, features facts about mythical creatures in the British Library's collection, the aggressive behavior of hungry caterpillars, the misnomer of the false gecko, and the transformative experience of wearing yeti costumes by the band Super Furry Animals. The hosts and guest Sally Phillips explore these topics with humor and curiosity.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The British Library's Fantastic Beasts collection originally included accounts of a nine-foot dragon terrorizing Essex and an army of horses that teleported to rural Wales.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:02:56"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In real life, the very hungry caterpillar would have gone around headbutting his mates.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:21:09"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The false gecko, which has the Latin name pseudo gecko, is a gecko.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:42:34"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The band the Super Furry Animals wore yeti costumes for a year and they said it really changed their personalities.",
+      "presenter": "Sally Phillips",
+      "guest": true,
+      "start_time": "00:43:54"
+    }
+  ]
+}

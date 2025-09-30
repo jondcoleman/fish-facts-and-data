@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and intriguing topics, including the surprising number of people on the London Underground during rush hour, the popularity of slime and its cultural impact, the historical use of Old Faithful geyser as a washing machine, and the curious case of multiple 'world's largest' porch swings that aren't on porches.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "At rush hour, there are more people under the ground in London than there are above the ground in Edinburgh.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Every month, the same number of people on average Google how to make love as how to make slime.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:16:48"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Old Faithful Geyser in Yellowstone used to be used as a washing machine.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:26:49"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There are three world's largest porch swings in Nebraska, Louisiana, and Ontario, and none of them is on a porch.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:33:25"
+    }
+  ]
+}

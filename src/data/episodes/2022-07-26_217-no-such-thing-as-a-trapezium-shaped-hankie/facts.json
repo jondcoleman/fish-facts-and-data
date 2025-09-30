@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky historical and modern facts, including ancient Greek hygiene practices, a unique job in 19th-century Paris, the introduction of avocados to the UK, and a humorous domain name exchange involving Microsoft.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The ancient Greeks wiped their bottoms with pebbles.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1860 there was a woman in Paris who made a living by blowing the noses of war veterans who had lost their arms in battle.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:09:37"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When avocados were first sold in the UK, they came with a leaflet explaining what they were and how to eat them.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:25"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In the late '90s, Microsoft successfully acquired the extremely valuable domain name Windows2000.com from a man called Bob Kirsten. In exchange, they gave him Bob.com.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:23:29"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' features discussions on a variety of intriguing topics, including the history of a famous painting, a peculiar animal behavior, an unusual historical event, and a surprising scientific discovery.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The Mona Lisa has no eyebrows because it was the fashion in Renaissance Florence to shave them off.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "unknown"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Cows have best friends and get stressed when they are separated from them.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "unknown"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 1815, the eruption of Mount Tambora caused a 'year without a summer' in Europe and North America.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "unknown"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Bananas are berries, but strawberries are not.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "unknown"
+    }
+  ]
+}

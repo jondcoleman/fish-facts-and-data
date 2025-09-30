@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on the history of pirates, particularly Steed Bonnet, the behavior of goats, the origins of Tintin's iconic hairstyle, and the elusive search for moose in New Zealand.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact is that pirate Steed Bonnet invented the idea of walking the plank.",
+      "presenter": "Reese Darby",
+      "guest": true,
+      "start_time": "00:02:21"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Okay, my fact this week is that goats like it when you smile at them, but only if you approach them from the right-hand side.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:15:08"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that Tin Tin's hair originally lay flat on his head until it got blown upwards in an early comic strip and it never came back down.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:30:33"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that for over 50 years now the author of a nearly complete history of the moose in New Zealand has been looking for moose in New Zealand, despite there being no moose in New Zealand.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:47:43"
+    }
+  ]
+}

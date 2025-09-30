@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about a unique tennis match between Federer and Nadal, the polite British invasion of Iceland during WWII, Aaron Burr's final legal defeat by Alexander Hamilton Jr., and the elite rollerblading police unit in Paris.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 2007, tennis legends Roger Federer and Rafael Nadal played a match on a court that was 50% grass and 50% clay.",
+      "presenter": "Jamie Morton",
+      "guest": true,
+      "start_time": "00:01:56"
+    },
+    {
+      "fact_number": 2,
+      "fact": "When Britain invaded Iceland in 1940, they knocked on all the doors before breaking them down and officially apologized for the inconvenience.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:15:45"
+    },
+    {
+      "fact_number": 3,
+      "fact": "32 years after he defeated Alexander Hamilton in a duel, the last thing to happen to Aaron Burr on the day he died was that he was defeated in a court case by Alexander Hamilton Jr.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:15"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The police in Paris have an elite unit of cops who are armed, but also on roller blades.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:37:41"
+    }
+  ]
+}

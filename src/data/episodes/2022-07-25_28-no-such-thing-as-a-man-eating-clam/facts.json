@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the peculiar morning routine of King Louis XIV, a Picasso artwork eaten by a dog, the US Navy's instructions for escaping giant clams, and the historical use of the number 100 to mean 120.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Over 100 people used to watch King Louis XIV get up and get dressed every day.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There is an original Picasso that no one will ever see because it was eaten by the dog.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:14:18"
+    },
+    {
+      "fact_number": 3,
+      "fact": "During World War II, the US Navy diving manual contained detailed instructions for what to do if eaten by a giant clam.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:17"
+    },
+    {
+      "fact_number": 4,
+      "fact": "100 used to be 120.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:22:48"
+    }
+  ]
+}

@@ -1,0 +1,2652 @@
+[
+  {
+    "start": 0,
+    "end": 5.12,
+    "text": " Hi everyone, welcome to this week's episode of Fish. Before we get going, we just want to let you"
+  },
+  {
+    "start": 5.12,
+    "end": 10.72,
+    "text": " know that we have a very special guest on this week. So Andy's off away, God knows where, but in"
+  },
+  {
+    "start": 10.72,
+    "end": 16.4,
+    "text": " his place we have the wonderful Robin Ince. If you're not aware of Robin Ince, you can't really"
+  },
+  {
+    "start": 16.4,
+    "end": 22.16,
+    "text": " call yourself a true nerd. Robin is the great godfather of nerdery. He is the co-host of the"
+  },
+  {
+    "start": 22.16,
+    "end": 28.64,
+    "text": " brilliant Infinite Monkey Cage, the BBC Radio 4 show with Brian Cox. He is also the person who"
+  },
+  {
+    "start": 28.64,
+    "end": 34.24,
+    "text": " sort of gathers together all the dorks and geeks of the UK and gives them a platform and a place to"
+  },
+  {
+    "start": 34.24,
+    "end": 40.72,
+    "text": " be heard. One of those places is called CosmicShambles.com. Robin of course as well is an author. He's"
+  },
+  {
+    "start": 40.72,
+    "end": 45.44,
+    "text": " published numerous books in his latest book. The Importance of Being Interested, Adventures in"
+  },
+  {
+    "start": 45.44,
+    "end": 51.84,
+    "text": " Scientific Curiosity, is coming out this October, the 7th of October. Do get it, he's an amazing"
+  },
+  {
+    "start": 51.84,
+    "end": 56.24,
+    "text": " writer. I've read all of his previous books and I can't wait to read this one as well. Also he's"
+  },
+  {
+    "start": 56.24,
+    "end": 62.32,
+    "text": " going to be doing something quite astounding to promote the book. He is going on a hundred date"
+  },
+  {
+    "start": 62.32,
+    "end": 69.04,
+    "text": " tour of the UK to all the independent bookshops around the UK to do little talks and signings and"
+  },
+  {
+    "start": 69.04,
+    "end": 76.96,
+    "text": " so on and you can find the dates for those on CosmicShambles.com/100Bookshops and honestly"
+  },
+  {
+    "start": 76.96,
+    "end": 82.08,
+    "text": " you must see Robin Ince live. He's such a wonder to behold. He is such a fantastic guy and a really"
+  },
+  {
+    "start": 82.08,
+    "end": 86.64,
+    "text": " nice guy on top of everything else. We've wanted him on the show for years. We're so glad we finally"
+  },
+  {
+    "start": 86.64,
+    "end": 91.36,
+    "text": " got him so we hope you enjoy this episode. Do get his book, The Importance of Being Interested,"
+  },
+  {
+    "start": 91.36,
+    "end": 95.36,
+    "text": " but for now enjoy him on No Such Thing as a Fish. On with the show."
+  },
+  {
+    "start": 110,
+    "end": 115.84,
+    "text": " Hello and welcome to another episode of No Such Thing as a Fish, a weekly podcast coming to you"
+  },
+  {
+    "start": 115.84,
+    "end": 121.44,
+    "text": " from four undisclosed locations in the UK. My name is Dan Schreiber. I'm sitting here with Anna"
+  },
+  {
+    "start": 121.44,
+    "end": 127.36,
+    "text": " Tyshinski, James Harkin and special guest it is Robin Ince and once again we have gathered"
+  },
+  {
+    "start": 127.36,
+    "end": 132,
+    "text": " around the microphones with our four favorite facts from the last seven days and in no particular"
+  },
+  {
+    "start": 132,
+    "end": 139.12,
+    "text": " order here we go. Starting with fact number one that is Robin. The Nobel Prize winning scientist"
+  },
+  {
+    "start": 139.12,
+    "end": 145.44,
+    "text": " Richard Feynman was allowed to investigate the entirety of the universe except the Aurora"
+  },
+  {
+    "start": 145.44,
+    "end": 152,
+    "text": " Borealis which is a very beautiful thing. It has a beautiful story attached to it which is the fact"
+  },
+  {
+    "start": 152,
+    "end": 157.92,
+    "text": " that his sister Joan loved science. This is one of the few times that golf courses play an interesting"
+  },
+  {
+    "start": 157.92,
+    "end": 163.92,
+    "text": " part in the future of physics. Now this might be entirely wrong. One of the great lines about golf"
+  },
+  {
+    "start": 163.92,
+    "end": 169.28,
+    "text": " courses is Steve Eyelit, the writer who once said the only proof of the existence of God is that once"
+  },
+  {
+    "start": 169.28,
+    "end": 177.28,
+    "text": " a year a golfer is electrocuted in a thunderstorm. Oh God I can feel James getting wound up as you're"
+  },
+  {
+    "start": 177.28,
+    "end": 182.56,
+    "text": " speaking. But think of all those golfers who don't get hit by lightning. I know how evil is the one"
+  },
+  {
+    "start": 182.56,
+    "end": 189.04,
+    "text": " who God decides must die. So what's this about golf? I'm really interested. What's golf? Well"
+  },
+  {
+    "start": 189.04,
+    "end": 195.2,
+    "text": " in fact actually I've realised there is a oh no there is another golf link to science which is"
+  },
+  {
+    "start": 195.2,
+    "end": 201.12,
+    "text": " Fred Hoyle's steady state theory was partly influenced by the Ealing horror film Portmanteau"
+  },
+  {
+    "start": 201.12,
+    "end": 205.76,
+    "text": " horror film Dead of Night but we can get back to that I think at another time. No let's let's go there"
+  },
+  {
+    "start": 205.76,
+    "end": 210.72,
+    "text": " and let's end this whole section on you finally explaining your facts going along. It's like the"
+  },
+  {
+    "start": 210.72,
+    "end": 215.12,
+    "text": " other day I was doing a show about reality and I suddenly realised that Alice Cooper connected"
+  },
+  {
+    "start": 215.12,
+    "end": 218.88,
+    "text": " everything that I was going to talk about and this is the trouble isn't it with tangential thinking."
+  },
+  {
+    "start": 218.88,
+    "end": 223.84,
+    "text": " But yeah Portmanteau horror film Dead of Night and I warn you there's a spoiler alert here so if"
+  },
+  {
+    "start": 223.84,
+    "end": 228.08,
+    "text": " you haven't seen it yet it did come out in 1945 but if you haven't seen it yet I'm going to give"
+  },
+  {
+    "start": 228.08,
+    "end": 232.16,
+    "text": " out something about it at the end. So it's about a man who visits a house and when he gets to the"
+  },
+  {
+    "start": 232.16,
+    "end": 236.88,
+    "text": " house he's like I'm sure I've been here before and everyone in the house has a different story"
+  },
+  {
+    "start": 236.88,
+    "end": 241.92,
+    "text": " including a terrifying story involving a ventriloquist possessed by his dummy or not we're not entirely"
+  },
+  {
+    "start": 241.92,
+    "end": 245.52,
+    "text": " sure played by Michael Redgrove and there's also a beautiful golfing story from the great"
+  },
+  {
+    "start": 246.08,
+    "end": 250.8,
+    "text": " Basil Radford and Norton Wayne two golfers who play golf to win over a woman's heart and it all"
+  },
+  {
+    "start": 250.8,
+    "end": 257.36,
+    "text": " goes horribly wrong but at the end of the film the man wakes up from his terrible nightmare and has"
+  },
+  {
+    "start": 257.36,
+    "end": 263.84,
+    "text": " to drive to the house which we then realise is the house where we began and he is in this cycle"
+  },
+  {
+    "start": 263.84,
+    "end": 270.32,
+    "text": " of reality and that led to Fred Hoyle thinking about now the theory of the universe this kind of"
+  },
+  {
+    "start": 270.32,
+    "end": 276.24,
+    "text": " cycle of size that we see so um to that I've suddenly realised is the other place golfing"
+  },
+  {
+    "start": 276.24,
+    "end": 280.96,
+    "text": " actually may have played a much bigger part in refuted physics of the 20th century so first"
+  },
+  {
+    "start": 280.96,
+    "end": 284.48,
+    "text": " of all I'd like to apologise I'm not normally on this show as everyone realises so I tell you the"
+  },
+  {
+    "start": 284.48,
+    "end": 290.16,
+    "text": " story now I'm sorry this is so yes so basically that's the thing Robin the problem with golf is"
+  },
+  {
+    "start": 290.16,
+    "end": 295.76,
+    "text": " there's links oh man I can't believe it's five minutes to a pun but when one like that comes out"
+  },
+  {
+    "start": 295.76,
+    "end": 301.12,
+    "text": " that is fantastic what a beautiful fantasy these two had practiced that for hours beforehand it's"
+  },
+  {
+    "start": 301.12,
+    "end": 308.56,
+    "text": " worth the build up I can't even remember what the golf link was so Joan Feynman woke up his"
+  },
+  {
+    "start": 308.56,
+    "end": 312.8,
+    "text": " young sister Joan and took her to the golf course because this was the darkest place to go because"
+  },
+  {
+    "start": 312.8,
+    "end": 319.2,
+    "text": " that night they could witness from just outside New York the Aurora Borealis and a deal was made"
+  },
+  {
+    "start": 319.2,
+    "end": 325.52,
+    "text": " and the deal was he could have the whole of the rest of the universe to investigate but Joan"
+  },
+  {
+    "start": 325.52,
+    "end": 330.56,
+    "text": " was allowed to have the Aurora Borealis and he could not go near it we should just explain who"
+  },
+  {
+    "start": 330.56,
+    "end": 336.08,
+    "text": " Richard Feynman was he was an extraordinary character in the world of science the Nobel prize"
+  },
+  {
+    "start": 336.08,
+    "end": 342.32,
+    "text": " winning physicist he was very much one of the fathers of quantum mechanics and as a child the"
+  },
+  {
+    "start": 342.32,
+    "end": 348.72,
+    "text": " stories that you have to read his autobiography and um genius by James Glyke it is just full of him"
+  },
+  {
+    "start": 348.72,
+    "end": 355.04,
+    "text": " just doing experiments including on his sitster and so he rigged up her cot so that it was sort of"
+  },
+  {
+    "start": 355.04,
+    "end": 359.84,
+    "text": " electrically generated so that it would go back and forth he paid her pocket money four cents to"
+  },
+  {
+    "start": 359.84,
+    "end": 366,
+    "text": " be sticking her finger in electrical sockets and sorry dad I think she was paid to press switches"
+  },
+  {
+    "start": 366,
+    "end": 371.28,
+    "text": " and she might have put her finger in the socket just for fun to kind of show off to his friends right"
+  },
+  {
+    "start": 371.28,
+    "end": 377.92,
+    "text": " I don't think he paid her well some reports from her are that he would occasionally say when his"
+  },
+  {
+    "start": 377.92,
+    "end": 382.24,
+    "text": " friends were around pop your finger in that so I think there's there's some wonderful interviews"
+  },
+  {
+    "start": 382.24,
+    "end": 386.56,
+    "text": " that she did with Christopher Sykes who was the maker of Pleasure of Finding Things Out the"
+  },
+  {
+    "start": 386.56,
+    "end": 392.08,
+    "text": " horizon documentary about Richard Feynman and she just talks about its play you know even in her 90s"
+  },
+  {
+    "start": 392.08,
+    "end": 396.88,
+    "text": " when someone would say what is science Joan she said it's play and it's something that gets missed"
+  },
+  {
+    "start": 396.88,
+    "end": 402,
+    "text": " out so much in a lot of the science education in the UK you know I'm sure all of us have the"
+  },
+  {
+    "start": 402,
+    "end": 406.88,
+    "text": " experience of working with scientists and we're asking the excitement when they see a new idea"
+  },
+  {
+    "start": 406.88,
+    "end": 411.68,
+    "text": " or they see a new snail shell it's filled with excitement and play and joy I like that it extends"
+  },
+  {
+    "start": 411.68,
+    "end": 416,
+    "text": " to going to the cinema and watching ealing horrors and you come out going oh I've just invented a"
+  },
+  {
+    "start": 416,
+    "end": 420.32,
+    "text": " model of how the universe functions I like how golf tells you a lot about physics as well okay I"
+  },
+  {
+    "start": 420.32,
+    "end": 424.24,
+    "text": " can I can now see that Dan's gonna go to the cinema and James is gonna go to the golf course both"
+  },
+  {
+    "start": 424.24,
+    "end": 429.28,
+    "text": " expecting to come back Nobel Prize winners and you're gonna be sorely disappointed so Richard"
+  },
+  {
+    "start": 429.28,
+    "end": 434.4,
+    "text": " Feynman was great at encouraging science communication right and this is obviously partly what"
+  },
+  {
+    "start": 434.4,
+    "end": 438.48,
+    "text": " inspired Joan and he even used to come into her room at night kind of annoying actually"
+  },
+  {
+    "start": 438.48,
+    "end": 442,
+    "text": " for instance she'd cry out for a glass of water in the middle of the night and he'd come to her"
+  },
+  {
+    "start": 442,
+    "end": 446.4,
+    "text": " bedroom and rather than give her the water he'd always swill it around in the glass apparently"
+  },
+  {
+    "start": 446.4,
+    "end": 451.76,
+    "text": " to demonstrate centrifugal forces which does sound annoying and also at one point it did fly out of"
+  },
+  {
+    "start": 451.76,
+    "end": 460.08,
+    "text": " his hand and smash against the wall so fun fun and dangerous Richard was very very supportive of her"
+  },
+  {
+    "start": 460.08,
+    "end": 465.68,
+    "text": " but the world wasn't when she was trying to do her dissertation one of the professors who was"
+  },
+  {
+    "start": 465.68,
+    "end": 469.68,
+    "text": " teaching her said why don't you write it on cobwebs because that's going to help when you're"
+  },
+  {
+    "start": 469.68,
+    "end": 474.08,
+    "text": " cleaning houses you mean sorry you mean why don't you write about cobwebs right not on as in sort of"
+  },
+  {
+    "start": 474.08,
+    "end": 479.76,
+    "text": " like trying in a tiny tiny pen yeah it turns out he was really supportive when he was trying to innovate"
+  },
+  {
+    "start": 479.76,
+    "end": 484.8,
+    "text": " and she actually wrote it in the end on the absorption of infrared radiation in crystals"
+  },
+  {
+    "start": 484.8,
+    "end": 491.44,
+    "text": " of diamond type lattice structure just kind of cobwebs infrared radiation it's not much"
+  },
+  {
+    "start": 491.44,
+    "end": 495.2,
+    "text": " I've got to be honest and I don't want to be the bad guy here but I would have been more likely to"
+  },
+  {
+    "start": 495.2,
+    "end": 500.96,
+    "text": " read the cobwebs one than the lattice structure one just small catchy isn't it I love a cobweb"
+  },
+  {
+    "start": 500.96,
+    "end": 505.52,
+    "text": " ironically that phd dissertation is now covered in cobwebs I didn't know he's never read it have"
+  },
+  {
+    "start": 505.52,
+    "end": 511.12,
+    "text": " but no she was brilliant yeah and the mother was quite progressive but still said to her"
+  },
+  {
+    "start": 511.12,
+    "end": 515.92,
+    "text": " oh women don't have the minds to do science you know that's how deep the belief was she was only"
+  },
+  {
+    "start": 515.92,
+    "end": 520.48,
+    "text": " eight when her mum said women don't have the brains for science and she sort of sat in her chair"
+  },
+  {
+    "start": 520.48,
+    "end": 524.88,
+    "text": " sobbing incessantly which is quite impressive at eight no you want to be a scientist I think"
+  },
+  {
+    "start": 524.88,
+    "end": 528.4,
+    "text": " all I knew was I wanted to climb a tree yeah I think there's an interesting thing to learn from"
+  },
+  {
+    "start": 528.4,
+    "end": 533.76,
+    "text": " both the Feynman's here in terms of looking at progress Richard Feynman didn't get into his first"
+  },
+  {
+    "start": 533.76,
+    "end": 540.08,
+    "text": " choice university because at that point in the 1930s there was a Jewish quota and that is an"
+  },
+  {
+    "start": 540.08,
+    "end": 545.76,
+    "text": " incredible thing to know I think and in the same way what Joan Feynman had to deal with was also"
+  },
+  {
+    "start": 545.76,
+    "end": 550.56,
+    "text": " the fact that women can't do this and we're not going to allow and sometimes even as a professional"
+  },
+  {
+    "start": 550.56,
+    "end": 555.44,
+    "text": " scientist there were rooms where she was told oh women aren't allowed to go up there and she had"
+  },
+  {
+    "start": 555.44,
+    "end": 559.84,
+    "text": " but she did keep on trying to get into the men's bathroom didn't she which but that was only because"
+  },
+  {
+    "start": 559.84,
+    "end": 564.48,
+    "text": " her brother kept coming into her bed yeah and she was only going into the men's bathroom show"
+  },
+  {
+    "start": 564.48,
+    "end": 568.16,
+    "text": " centrifugal force which of course made a right old mess but in a men's bathroom you can't really"
+  },
+  {
+    "start": 568.16,
+    "end": 572.48,
+    "text": " tell that much because they're always in such a state in the first place but I think the importance"
+  },
+  {
+    "start": 572.48,
+    "end": 577.44,
+    "text": " of role models it must not be forgotten because I think in science this is still going on it's getting"
+  },
+  {
+    "start": 577.44,
+    "end": 583.28,
+    "text": " better but we still need that going on all of the time because science is for everyone and it would"
+  },
+  {
+    "start": 583.28,
+    "end": 588.8,
+    "text": " be crazy not to realize that you know the excitement of curiosity is not limited by you know an x or"
+  },
+  {
+    "start": 588.8,
+    "end": 594.4,
+    "text": " a y chromosome yeah yeah I think she had an amazing psychiatrist actually because she went to a"
+  },
+  {
+    "start": 594.4,
+    "end": 598.96,
+    "text": " psychiatrist to say what shall I do whereas usually I guess you'd say have these antidepressants and"
+  },
+  {
+    "start": 598.96,
+    "end": 603.76,
+    "text": " maybe try some CBT the psychiatrist basically said why don't you apply to this earth observatory at"
+  },
+  {
+    "start": 603.76,
+    "end": 610.4,
+    "text": " Columbia University and that's what you need isn't it so great psychiatry is terrible rabbi"
+  },
+  {
+    "start": 610.4,
+    "end": 616,
+    "text": " because the rabbi said what right do you have to have these science jobs that are meant for men some"
+  },
+  {
+    "start": 616,
+    "end": 620.48,
+    "text": " of them haven't got a job so there we go there's a great the battle there some of them haven't got a"
+  },
+  {
+    "start": 620.48,
+    "end": 627.76,
+    "text": " job you've got to wait till all the men have a job and then you can start applying should we talk"
+  },
+  {
+    "start": 627.76,
+    "end": 632.64,
+    "text": " about what she discovered because it was pretty cool I mean she did hog quite a cool thing and"
+  },
+  {
+    "start": 632.64,
+    "end": 639.04,
+    "text": " hogging the auroras she essentially realized that it was these kind of charged particles that are"
+  },
+  {
+    "start": 639.04,
+    "end": 643.68,
+    "text": " flying out of the sun and when the sun's having a particularly turbulent time when there's a"
+  },
+  {
+    "start": 643.68,
+    "end": 647.76,
+    "text": " little bunch of storms on the surface of the sun then the northern lights get bigger and so she"
+  },
+  {
+    "start": 647.76,
+    "end": 652.88,
+    "text": " equated those two and thought one must be causing the other and I hadn't actually realized these"
+  },
+  {
+    "start": 652.88,
+    "end": 659.44,
+    "text": " cycles that the sun goes through it's got an 11 year cycle of high and low activity and that's"
+  },
+  {
+    "start": 659.44,
+    "end": 665.12,
+    "text": " caused by its magnetic poles switching around every 11 years which is very often given the earth"
+  },
+  {
+    "start": 665.12,
+    "end": 670.8,
+    "text": " it has been ages hasn't it since we did it but also it's got this 88 year cycle that's kind of"
+  },
+  {
+    "start": 670.8,
+    "end": 675.68,
+    "text": " running underneath that where the 11 year peaks and troughs kind of get higher and lower there is"
+  },
+  {
+    "start": 675.68,
+    "end": 680.48,
+    "text": " another cycle that I know of which is there's always a trough whenever I go to Iceland to see"
+  },
+  {
+    "start": 680.48,
+    "end": 685.2,
+    "text": " the northern lights which has been on two occasions and every single time they were like oh if you"
+  },
+  {
+    "start": 685.2,
+    "end": 689.44,
+    "text": " were here last week it was amazing see I think that that's a correlation causation issue I don't"
+  },
+  {
+    "start": 689.44,
+    "end": 694.72,
+    "text": " know if your presence is causing a difference you have to time it right because if they know that"
+  },
+  {
+    "start": 694.72,
+    "end": 699.04,
+    "text": " Joanna Lumley is going to be making one of her documentaries where she goes I've always been"
+  },
+  {
+    "start": 699.04,
+    "end": 704.56,
+    "text": " fascinated in the aurora borealis then the magnetosphere the solar winds go hold back"
+  },
+  {
+    "start": 704.56,
+    "end": 709.52,
+    "text": " Joanna Lumley is coming next week James is mainly doing audio based stuff it's really not important"
+  },
+  {
+    "start": 709.52,
+    "end": 715.68,
+    "text": " to get involved um do you know what the oldest depiction of the northern nights is we think"
+  },
+  {
+    "start": 715.68,
+    "end": 721.6,
+    "text": " is it like on a cave painting well it is but it's specifically a macaroni"
+  },
+  {
+    "start": 721.6,
+    "end": 728.8,
+    "text": " a penguin snow no so this is a cave painting it's 30 000 years old which is very cool I'm"
+  },
+  {
+    "start": 728.8,
+    "end": 731.28,
+    "text": " not convinced it's the northern lights because you know when you look at cave paintings and it"
+  },
+  {
+    "start": 731.28,
+    "end": 735.84,
+    "text": " all looks like smears on a cave and then everyone goes well this is clearly a walrus and this is a"
+  },
+  {
+    "start": 736.4,
+    "end": 743.84,
+    "text": " aurora borealis but these are chromagnon cave paintings in France and it's a specific type"
+  },
+  {
+    "start": 743.84,
+    "end": 749.36,
+    "text": " of paleolithic finger tracings in clay which is called macaroni which I'd never heard of so the"
+  },
+  {
+    "start": 749.36,
+    "end": 753.36,
+    "text": " first northern nights is a macaroni but it is quite remarkable when you think you know that cave"
+  },
+  {
+    "start": 753.36,
+    "end": 757.52,
+    "text": " whether it's true or not and I think your right to probably be skeptical because there's so much"
+  },
+  {
+    "start": 757.52,
+    "end": 763.04,
+    "text": " new investigation in terms of what cave paintings mean but I do think you know that that moment of"
+  },
+  {
+    "start": 763.04,
+    "end": 767.52,
+    "text": " experiencing something like that I don't know if you ever went there with the tape modern"
+  },
+  {
+    "start": 767.52,
+    "end": 772.32,
+    "text": " about probably 15 years ago there was an artist who created this piece which was basically just the"
+  },
+  {
+    "start": 772.32,
+    "end": 778.08,
+    "text": " sun rising and what he wanted to create was something that had the impact of what it must"
+  },
+  {
+    "start": 778.08,
+    "end": 784.16,
+    "text": " have been like each morning to see this thing which you know was almost like a godlike experience"
+  },
+  {
+    "start": 784.16,
+    "end": 788.72,
+    "text": " and he did really create that I've got to say standing in that turbine hall the way that it"
+  },
+  {
+    "start": 788.72,
+    "end": 793.6,
+    "text": " connected to was just remarkable and when you talk about the aurora borealis I think you know"
+  },
+  {
+    "start": 793.6,
+    "end": 798.48,
+    "text": " I've never experienced it I'm I had the same as you in Iceland I think Paul O'Grady was going to"
+  },
+  {
+    "start": 798.48,
+    "end": 803.12,
+    "text": " be there the next week so the aurora borealis stayed off for me as well but that experience"
+  },
+  {
+    "start": 803.12,
+    "end": 810.16,
+    "text": " should really hit you in the gut every now and again to go that is up there what is going on"
+  },
+  {
+    "start": 810.16,
+    "end": 815.28,
+    "text": " how is it that a universe exists that creates these things that we have somehow evolved to find"
+  },
+  {
+    "start": 815.28,
+    "end": 820.24,
+    "text": " beautiful and fascinating and mesmeric yeah although I had exactly the same thing as you"
+  },
+  {
+    "start": 820.24,
+    "end": 823.6,
+    "text": " too in Norway so I'm starting to suspect the northern lights actually don't exist and it's a huge"
+  },
+  {
+    "start": 823.6,
+    "end": 836.24,
+    "text": " conspiracy okay it is time for fact number two and that is Anna my fact this week is that at the"
+  },
+  {
+    "start": 836.24,
+    "end": 842.56,
+    "text": " turn of the 20th century women wore pedometers to balls to track how many miles they were dancing"
+  },
+  {
+    "start": 842.56,
+    "end": 847.84,
+    "text": " well miles a single ball that's a lot of dancing isn't it oh god they were dancing"
+  },
+  {
+    "start": 847.84,
+    "end": 854,
+    "text": " miles and miles well one dance was about a mile a mile and a half and this was all the rage women"
+  },
+  {
+    "start": 854,
+    "end": 859.28,
+    "text": " would strap pedometers to their knees or their feet and they'd go to a ball and there would be"
+  },
+  {
+    "start": 859.28,
+    "end": 864.08,
+    "text": " competitions over who would dance a furthest so you'd show your pedometer at the end of the night"
+  },
+  {
+    "start": 864.08,
+    "end": 869.52,
+    "text": " and I think the winner of one contestor was reading dance 25 miles in a night wow which"
+  },
+  {
+    "start": 869.52,
+    "end": 875.76,
+    "text": " that girl has not gone without a partner for the evening yeah with these those those dancers"
+  },
+  {
+    "start": 875.76,
+    "end": 880.48,
+    "text": " whereas a big group they were dancing together with a one-on-one with partners you know partner"
+  },
+  {
+    "start": 880.48,
+    "end": 885.68,
+    "text": " dancers at the balls yeah you're technically supposed to be going I think to find a husband"
+  },
+  {
+    "start": 885.68,
+    "end": 891.04,
+    "text": " back in the day it was a debutante era but one of the complaints about the pedometers in one of"
+  },
+  {
+    "start": 891.04,
+    "end": 895.36,
+    "text": " the newspaper articles I read is that it was distracting the women from seducing their husbands"
+  },
+  {
+    "start": 895.36,
+    "end": 900,
+    "text": " because they were so into counting their number of steps and competing over that that they forgot"
+  },
+  {
+    "start": 900,
+    "end": 905.68,
+    "text": " to do their duty that's amazing did anyone sort of just quickly leave the venue and just go for a"
+  },
+  {
+    "start": 905.68,
+    "end": 910.88,
+    "text": " mad dash you know and just clock up the numbers and come back was there I don't I don't think a mad"
+  },
+  {
+    "start": 910.88,
+    "end": 914.64,
+    "text": " dash would help because dancing you're dancing almost as fast as you I mean you can't really"
+  },
+  {
+    "start": 914.64,
+    "end": 920.56,
+    "text": " run for 25 miles straight true have you just watched the marathon just watched the Olympic"
+  },
+  {
+    "start": 920.56,
+    "end": 926.88,
+    "text": " marathon that's just happened I just think it's much harder in heels and a corset it's probably"
+  },
+  {
+    "start": 926.88,
+    "end": 932.56,
+    "text": " easier to do a bit of jigging do you think that in the bathrooms when you went into the ladies"
+  },
+  {
+    "start": 932.56,
+    "end": 937.28,
+    "text": " bathroom everyone would just be kind of jiggling around to keep the pedometer going you know like"
+  },
+  {
+    "start": 937.28,
+    "end": 941.68,
+    "text": " if you really need the toilet you kind of do that little jiggly run on the spot don't you"
+  },
+  {
+    "start": 941.68,
+    "end": 946.08,
+    "text": " that's where that comes from actually yeah yeah what would be the best tap dancing I guess would be"
+  },
+  {
+    "start": 946.08,
+    "end": 952.56,
+    "text": " the most or like river dance yeah definitely you're wasting a lot of leg time in the air though"
+  },
+  {
+    "start": 952.56,
+    "end": 957.92,
+    "text": " with one of them legs well I think a ska music festival would work very well because you would"
+  },
+  {
+    "start": 957.92,
+    "end": 964.48,
+    "text": " something like lip up fatty from the band bad manners there's a lot of movement as in which is"
+  },
+  {
+    "start": 964.48,
+    "end": 969.12,
+    "text": " kind of a walkie movement so I would say if you perhaps set up this experiment in a series of"
+  },
+  {
+    "start": 969.12,
+    "end": 973.52,
+    "text": " different butlins holiday camps across the south coast you would take various different genres I"
+  },
+  {
+    "start": 973.52,
+    "end": 978.72,
+    "text": " think northern soul would go well but northern soul as you said before the high kick element of"
+  },
+  {
+    "start": 978.72,
+    "end": 984,
+    "text": " that possibly means that you're not traveling as far as you imagine that the leg is going high but"
+  },
+  {
+    "start": 984,
+    "end": 989.44,
+    "text": " it's only traveling a you know a meter or so I think in terms of rave culture of the of the late"
+  },
+  {
+    "start": 989.44,
+    "end": 994.24,
+    "text": " 80s early 90s so any of those come back that seems to be quite a stoical thing it's a mainly upper"
+  },
+  {
+    "start": 994.24,
+    "end": 998.48,
+    "text": " body stuff so I think there's a lot of research to be done here yeah yeah I'm sure Shakira could"
+  },
+  {
+    "start": 998.48,
+    "end": 1003.36,
+    "text": " clock up some numbers with a bum shake I'm sure if it was attached to the thigh that would give"
+  },
+  {
+    "start": 1003.36,
+    "end": 1008.4,
+    "text": " vigorous well you're going to get a really accurate reading because our hips don't lie of course"
+  },
+  {
+    "start": 1008.4,
+    "end": 1014.88,
+    "text": " well this is do you remember the film that they shoot horses don't they which was it was about"
+  },
+  {
+    "start": 1014.88,
+    "end": 1020.32,
+    "text": " marath this terrible thing that was done during the depression in America which was marathon dance"
+  },
+  {
+    "start": 1020.32,
+    "end": 1025.92,
+    "text": " competitions where you just danced and the winner would then get some money when everyone was desperate"
+  },
+  {
+    "start": 1025.92,
+    "end": 1031.68,
+    "text": " for money but they would go on for days and days people actually died dancing yeah I would imagine"
+  },
+  {
+    "start": 1031.68,
+    "end": 1035.44,
+    "text": " no one if they'd had a pedometer that would have already gone down to the pawnbroker so they wouldn't"
+  },
+  {
+    "start": 1035.44,
+    "end": 1038.96,
+    "text": " have had that on that because that was why they were there but it's just that fascinating thing"
+  },
+  {
+    "start": 1038.96,
+    "end": 1043.6,
+    "text": " where you know dance becomes torture and I think when you talk about 25 mars I mean that amount of"
+  },
+  {
+    "start": 1043.6,
+    "end": 1050.8,
+    "text": " dancing I'm reckoning if we went for a walk that's what seven to eight hours of walking uh six"
+  },
+  {
+    "start": 1050.8,
+    "end": 1056,
+    "text": " six hours probably I walk fast because I have places to go and I believe life is finite but there's a"
+  },
+  {
+    "start": 1056,
+    "end": 1061.44,
+    "text": " lot of dawdlers and I would say between dawdlers and then kind of people like me I reckon it's about"
+  },
+  {
+    "start": 1061.6,
+    "end": 1068.16,
+    "text": " 3.2 miles an hour so that's a lot yeah wow because Anna and I have been for a walk in the park every"
+  },
+  {
+    "start": 1068.16,
+    "end": 1073.04,
+    "text": " now and then just to kind of chat work and I must say that is probably the best workout I've had in"
+  },
+  {
+    "start": 1073.04,
+    "end": 1078.56,
+    "text": " the last two years trying to keep up with Anna walking around a park it's ridiculous yeah it was"
+  },
+  {
+    "start": 1078.56,
+    "end": 1085.28,
+    "text": " awkward when I realized you'd collapsed so are you one of those people like me which is I don't"
+  },
+  {
+    "start": 1085.28,
+    "end": 1090,
+    "text": " mind stopping and looking at things and I don't mind having a slow walk if there's things around but"
+  },
+  {
+    "start": 1090,
+    "end": 1094.48,
+    "text": " the dawdle is something which because you know there's a certain way that some people what where"
+  },
+  {
+    "start": 1094.48,
+    "end": 1101.68,
+    "text": " you go you have no ambition you know that there's a way that you just I am like you yes I judge someone's"
+  },
+  {
+    "start": 1101.68,
+    "end": 1106.48,
+    "text": " entire character a level of ambition based on their walk and then I'm furious with them and kind"
+  },
+  {
+    "start": 1106.48,
+    "end": 1111.28,
+    "text": " of want to push them in front of a car and they deserve it well the worst thing was you had to"
+  },
+  {
+    "start": 1111.28,
+    "end": 1117.28,
+    "text": " push me half a mile out of the park to get to the road I did yeah really went for it but yeah I would"
+  },
+  {
+    "start": 1117.28,
+    "end": 1122.08,
+    "text": " have been clocking up those those 25 miles and they said even at the time these women said that"
+  },
+  {
+    "start": 1122.08,
+    "end": 1126.16,
+    "text": " it was really addictive just like it is today whenever anyone has step counters because it made"
+  },
+  {
+    "start": 1126.16,
+    "end": 1131.6,
+    "text": " a little tick every time you stepped and so you couldn't resist making this tick happen and people"
+  },
+  {
+    "start": 1131.6,
+    "end": 1136,
+    "text": " were worried their mother said they're dancing too much it's dangerous and I think some of them"
+  },
+  {
+    "start": 1136,
+    "end": 1140.4,
+    "text": " maybe rigged it because there's this thing with pedometers about whether it's about steps or whether"
+  },
+  {
+    "start": 1140.4,
+    "end": 1145.6,
+    "text": " it's about distance and of course this would tell you how much distance you traveled but that was"
+  },
+  {
+    "start": 1145.6,
+    "end": 1150.16,
+    "text": " because you had to set it to your step length so I think you could set it to anywhere between 15"
+  },
+  {
+    "start": 1150.16,
+    "end": 1157.36,
+    "text": " and 41 inch step length so if as a cheating lady you said every step you step 41 inches then that's"
+  },
+  {
+    "start": 1157.36,
+    "end": 1161.68,
+    "text": " going to say you've traveled further isn't it wow so the modern day pedometers came after the"
+  },
+  {
+    "start": 1161.68,
+    "end": 1169.28,
+    "text": " Tokyo Olympics in the 1960s and there was a Japanese company called Yamatsa the Yamatsa company"
+  },
+  {
+    "start": 1169.28,
+    "end": 1173.68,
+    "text": " and they came up with this new kind of pedometer and they thought that everyone should walk 10,000"
+  },
+  {
+    "start": 1173.68,
+    "end": 1178.8,
+    "text": " steps a day and there's a lot of controversy whether that is just a completely random number"
+  },
+  {
+    "start": 1178.8,
+    "end": 1183.6,
+    "text": " that they made up or whether there's actually any science to it whatsoever and there is a"
+  },
+  {
+    "start": 1183.6,
+    "end": 1189.12,
+    "text": " professor of epidemiology at Harvard called Aimin Lee and she reckons having spoken to the people"
+  },
+  {
+    "start": 1189.12,
+    "end": 1194.08,
+    "text": " who came up with the idea that they chose 10,000 because the Japanese character for 10,000 looks"
+  },
+  {
+    "start": 1194.08,
+    "end": 1199.36,
+    "text": " a little bit like a man walking and they thought it would be a really good way of publicizing it"
+  },
+  {
+    "start": 1199.36,
+    "end": 1203.2,
+    "text": " but then there are other people who say well actually they did a bit of maths about it and"
+  },
+  {
+    "start": 1203.2,
+    "end": 1208.72,
+    "text": " worked out how many people would have less mortality due to more exercise and stuff so"
+  },
+  {
+    "start": 1208.72,
+    "end": 1214.96,
+    "text": " yeah pedometers are the subject of the longest movie ever made I discovered the longest movie"
+  },
+  {
+    "start": 1214.96,
+    "end": 1220.24,
+    "text": " ever now previously on fish we spoke about the longest movie ever made being called ambience"
+  },
+  {
+    "start": 1220.24,
+    "end": 1227.36,
+    "text": " which was 720 hours long the trailer itself was 72 minutes that has since been overtaken by a movie"
+  },
+  {
+    "start": 1228.32,
+    "end": 1236.88,
+    "text": " which is 857 hours long so this was made in 2008 by Erica Magnussen and Daniel Anderson"
+  },
+  {
+    "start": 1236.88,
+    "end": 1241.36,
+    "text": " and they wanted to look at where the pedometer came from so they had this idea of following the"
+  },
+  {
+    "start": 1241.36,
+    "end": 1247.92,
+    "text": " production cycle but in reverse chronological order so basically it's an 857 hour long movie"
+  },
+  {
+    "start": 1247.92,
+    "end": 1253.44,
+    "text": " backwards wow this this sounds actually I would almost rather read Joan Feynman's dissertation"
+  },
+  {
+    "start": 1253.44,
+    "end": 1260.64,
+    "text": " than watch that that's amazing there's a lot of reviews on imdb you know as it starts off slow"
+  },
+  {
+    "start": 1260.64,
+    "end": 1265.68,
+    "text": " says one person post three and a half days of runtime kind of boring but oh my god by the"
+  },
+  {
+    "start": 1265.68,
+    "end": 1270.96,
+    "text": " fourth through to the 25th days things really pick up so you know check it out what do we know"
+  },
+  {
+    "start": 1270.96,
+    "end": 1275.92,
+    "text": " what the point is was it some sort of artistic experiment was it a bet it's definitely an"
+  },
+  {
+    "start": 1275.92,
+    "end": 1279.68,
+    "text": " artistic experiment yeah they didn't just plan to make a feature length film and it got out of"
+  },
+  {
+    "start": 1279.68,
+    "end": 1285.84,
+    "text": " hand they just had so much material and a bad editor they can be dangerous can't they pedometers"
+  },
+  {
+    "start": 1285.84,
+    "end": 1292.16,
+    "text": " and Fitbits and stuff there was a a pig in northern england the Eta pedometer pood it out"
+  },
+  {
+    "start": 1292.16,
+    "end": 1298.64,
+    "text": " and it was in a bit of warm poo and hay and because it had a lithium ion battery it exploded"
+  },
+  {
+    "start": 1298.64,
+    "end": 1304.08,
+    "text": " and set fire to the entire farm there luckily no animals were hurt sounds so much like an"
+  },
+  {
+    "start": 1304.08,
+    "end": 1309.04,
+    "text": " insurance scam to me I'm sorry but you know when you go when you know when the farmers making up the"
+  },
+  {
+    "start": 1309.04,
+    "end": 1313.6,
+    "text": " story when they just had things haven't really worked out on my pig farm and you will not believe"
+  },
+  {
+    "start": 1313.6,
+    "end": 1318.72,
+    "text": " what happened right so I left the pedometer over there and he's always been 100 I would not pay out"
+  },
+  {
+    "start": 1318.72,
+    "end": 1323.76,
+    "text": " on that one surely that's more likely to be true than I dropped it in the toilet or something for"
+  },
+  {
+    "start": 1323.76,
+    "end": 1328.72,
+    "text": " your like it's it's who would make that no no but I'm not I'm not talking about the claiming"
+  },
+  {
+    "start": 1328.72,
+    "end": 1333.84,
+    "text": " insurance on the pedometer I'm talking about claiming insurance on the entire farm cause yeah"
+  },
+  {
+    "start": 1333.84,
+    "end": 1338.8,
+    "text": " you've got to get bigger ambition James yeah yeah you need an arsonist don't you but you can't say"
+  },
+  {
+    "start": 1338.8,
+    "end": 1343.2,
+    "text": " there was a crime committed because then the police get involved so if you say it was the pig then"
+  },
+  {
+    "start": 1343.2,
+    "end": 1348.56,
+    "text": " who's going to arrest a pig oh in France and I'm sure you've covered many pig trials on this show"
+  },
+  {
+    "start": 1348.56,
+    "end": 1353.52,
+    "text": " still one of my one of the greatest films if people haven't seen the hour of the pig it's"
+  },
+  {
+    "start": 1354.4,
+    "end": 1358.64,
+    "text": " brilliant for it's all about a pig trial and was it is it a pedometer based crime no it's"
+  },
+  {
+    "start": 1358.64,
+    "end": 1364.16,
+    "text": " it's pre-pedometer and it starts off beautifully with a man and his donkey about to be hanged for"
+  },
+  {
+    "start": 1364.16,
+    "end": 1370.16,
+    "text": " some sexual shenanigans so there's a donkey with a noose around it and the man with a noose"
+  },
+  {
+    "start": 1370.16,
+    "end": 1374.72,
+    "text": " around it and this man running through and he's going stop stop stop and you see the man go"
+  },
+  {
+    "start": 1374.72,
+    "end": 1381.04,
+    "text": " and he goes the donkey has been pardoned everyone in the town has said it is on good character"
+  },
+  {
+    "start": 1381.04,
+    "end": 1384.8,
+    "text": " and then you see the donkey's news taken off and the man dropped from the gallows"
+  },
+  {
+    "start": 1384.8,
+    "end": 1389.84,
+    "text": " I mean I'm definitely watching that and I think that's going to be the one takeaway from this podcast"
+  },
+  {
+    "start": 1389.84,
+    "end": 1391.84,
+    "text": " yeah"
+  },
+  {
+    "start": 1391.84,
+    "end": 1402.16,
+    "text": " okay it is time for fact number three and that is James okay my fact this week is that"
+  },
+  {
+    "start": 1402.16,
+    "end": 1409.12,
+    "text": " Charles Darwin invented the office chair did he well did he that's a great question Anna did"
+  },
+  {
+    "start": 1409.12,
+    "end": 1415.52,
+    "text": " yeah so that's my skepticism I'm gonna go on I'm gonna say that he invented the kind of"
+  },
+  {
+    "start": 1415.52,
+    "end": 1421.36,
+    "text": " wheelie office chair that you have and I'm saying that because his chair had wheels on and this is"
+  },
+  {
+    "start": 1421.36,
+    "end": 1426.88,
+    "text": " the first example we know of I was reading an article in the New York Times it was a review"
+  },
+  {
+    "start": 1426.88,
+    "end": 1433.44,
+    "text": " of a book called a taxonomy of office chairs by Jonathan Olivares and he talked about all the"
+  },
+  {
+    "start": 1433.44,
+    "end": 1438.88,
+    "text": " history of office chairs and he said that Charles Darwin had a customized wooden armchair in his"
+  },
+  {
+    "start": 1438.88,
+    "end": 1444.08,
+    "text": " home and he would wheel around his front room looking from specimen to specimen and then I"
+  },
+  {
+    "start": 1444.08,
+    "end": 1449.04,
+    "text": " went onto the welcome collections website and they have a photograph of this very chair so it"
+  },
+  {
+    "start": 1449.04,
+    "end": 1454.48,
+    "text": " definitely did exist they have a photo of the interior of Charles Darwin's study which shows"
+  },
+  {
+    "start": 1454.48,
+    "end": 1460,
+    "text": " that it's kind of just like an old armchair with just casters on the bottom of it okay but yeah"
+  },
+  {
+    "start": 1460,
+    "end": 1465.76,
+    "text": " the evolution of the chair started from there yeah the origin of this species of chair yes"
+  },
+  {
+    "start": 1466.8,
+    "end": 1470.96,
+    "text": " Robin I assume you've been to Darwin's house have you seen this chair no I haven't that's what I was"
+  },
+  {
+    "start": 1470.96,
+    "end": 1475.68,
+    "text": " thinking about I kind of flash back think have I seen that a downhouse and and I don't remember"
+  },
+  {
+    "start": 1475.68,
+    "end": 1479.76,
+    "text": " seeing that but they don't let you have a go on the furniture so that's the thing is it depends how"
+  },
+  {
+    "start": 1479.76,
+    "end": 1484,
+    "text": " discreet it is you know and especially they would have all known I'm a big Starlight Express fan so"
+  },
+  {
+    "start": 1484,
+    "end": 1488.88,
+    "text": " of course that would have crashed yeah I mean I love the idea of that wheelchair going around his"
+  },
+  {
+    "start": 1488.88,
+    "end": 1492.8,
+    "text": " wonderful thought pathway he would go round and round and I think there's something rather"
+  },
+  {
+    "start": 1492.8,
+    "end": 1496.88,
+    "text": " attractive about that idea so what is that he used to walk around just to think of things"
+  },
+  {
+    "start": 1496.88,
+    "end": 1500.48,
+    "text": " throughout the day he would have these moments when he would basically have some stones in his"
+  },
+  {
+    "start": 1500.48,
+    "end": 1504.96,
+    "text": " pocket and he would make a little pile of stones so he would know roughly how many times he'd walked"
+  },
+  {
+    "start": 1504.96,
+    "end": 1511.76,
+    "text": " round and it would just be to take himself into somewhere else to just mull over whatever he'd"
+  },
+  {
+    "start": 1511.76,
+    "end": 1516.08,
+    "text": " recently found out about a pigeon skeleton or whatever else had been boiled down but I mean"
+  },
+  {
+    "start": 1516.08,
+    "end": 1520.4,
+    "text": " going back to what we talked about with Joan Feynman as well that curiosity and that play"
+  },
+  {
+    "start": 1520.4,
+    "end": 1523.84,
+    "text": " yeah now I want to go and have a look at this particular crab that's over there and now I'll"
+  },
+  {
+    "start": 1523.84,
+    "end": 1528.56,
+    "text": " look at this barnacle over there and that lovely thing when he would go to London Zoo and and he"
+  },
+  {
+    "start": 1528.56,
+    "end": 1533.44,
+    "text": " would look at some of the viper snakes and he would see if he could stop himself from reacting"
+  },
+  {
+    "start": 1533.44,
+    "end": 1538.16,
+    "text": " so obviously the snake can't get to him and he would just stand and just look at the snake wait"
+  },
+  {
+    "start": 1538.16,
+    "end": 1542.96,
+    "text": " for it to strike and they are I still react you know and that that's just plain people would have"
+  },
+  {
+    "start": 1542.96,
+    "end": 1547.2,
+    "text": " walked past them and who's the guy over there with the big sideboards who's looks like he's goading"
+  },
+  {
+    "start": 1547.2,
+    "end": 1552.8,
+    "text": " snakes but I've just recently been to London Zoo and my experience is very different that the"
+  },
+  {
+    "start": 1552.8,
+    "end": 1557.92,
+    "text": " snakes just kind of hide and you spend half your time going is that a twig or is it a snake I'm"
+  },
+  {
+    "start": 1557.92,
+    "end": 1562.24,
+    "text": " not sure they didn't do much of the attacking when I was there although I did that's that's that's"
+  },
+  {
+    "start": 1562.24,
+    "end": 1567.84,
+    "text": " the fun thing isn't it of I mean Edinburgh Zoo I think used to be the zoo that had the most hiding"
+  },
+  {
+    "start": 1567.84,
+    "end": 1574.8,
+    "text": " animals to the point where you began to think this is predominantly hay but I love that reptile"
+  },
+  {
+    "start": 1574.8,
+    "end": 1580.56,
+    "text": " house is such a delight I think because you see that you know the old structure of the zoo there"
+  },
+  {
+    "start": 1580.56,
+    "end": 1583.44,
+    "text": " I absolutely love looking at the snakes I don't know I'm starting to think the zoos might be"
+  },
+  {
+    "start": 1583.44,
+    "end": 1589.12,
+    "text": " in other northern lights they're just a huge con only when Joanna Lumley goes so the snakes emerge"
+  },
+  {
+    "start": 1589.12,
+    "end": 1596.24,
+    "text": " but yeah he was from like a super early age crazily curious wasn't he and not a very good"
+  },
+  {
+    "start": 1596.24,
+    "end": 1600,
+    "text": " student so I hadn't realized that Darwin's dad thought he was a bit useless said that you know"
+  },
+  {
+    "start": 1600,
+    "end": 1604.56,
+    "text": " this boy will never concentrate on anything but he just was obsessed with collecting stuff"
+  },
+  {
+    "start": 1604.72,
+    "end": 1610,
+    "text": " there was one story where he found two unusual looking beetles that he thought were new species"
+  },
+  {
+    "start": 1610,
+    "end": 1614.96,
+    "text": " and then he found the third one and so he put one of the two in his mouth so he could carry the third"
+  },
+  {
+    "start": 1614.96,
+    "end": 1619.84,
+    "text": " one home as well I don't know why he couldn't just carry two beetles in one hand but he put it in his"
+  },
+  {
+    "start": 1619.84,
+    "end": 1624.24,
+    "text": " mouth and he accidentally bit down on it or it squirted some disgusting poison into his mouth"
+  },
+  {
+    "start": 1624.24,
+    "end": 1629.76,
+    "text": " so sadly lost his beetles on that occasion wow always collecting it's like with his his barnacles"
+  },
+  {
+    "start": 1629.76,
+    "end": 1635.2,
+    "text": " which is Steve Jones who's a wonderful writer I'm sure you know and he is a great expert on"
+  },
+  {
+    "start": 1635.2,
+    "end": 1639.12,
+    "text": " Darwin and I once said to him are there any books by Darwin that I shouldn't read and he said don't"
+  },
+  {
+    "start": 1639.12,
+    "end": 1645.28,
+    "text": " bother with these books about barnacles he became overly obsessed so there's a story of I forget which"
+  },
+  {
+    "start": 1645.28,
+    "end": 1652.96,
+    "text": " son it was who was so used to seeing Charles just looking at barnacles all the time and they were"
+  },
+  {
+    "start": 1652.96,
+    "end": 1657.44,
+    "text": " being delivered from around the world people sending specimens barnacles to him that when he"
+  },
+  {
+    "start": 1657.44,
+    "end": 1662.16,
+    "text": " went around to a friend's house he started running around all the rooms and became increasingly"
+  },
+  {
+    "start": 1662.16,
+    "end": 1667.04,
+    "text": " confused and rather upset because he couldn't find the room where his friend's father did his"
+  },
+  {
+    "start": 1667.04,
+    "end": 1672.72,
+    "text": " barnacles and that was when it had to be explained that not all parents spend most of their time"
+  },
+  {
+    "start": 1672.72,
+    "end": 1678.4,
+    "text": " examining barnacles I think that's you know there's a all father doing barnacles don't I know I was"
+  },
+  {
+    "start": 1678.4,
+    "end": 1684.32,
+    "text": " reading about what happened when his son William was born he just started measuring everything"
+  },
+  {
+    "start": 1684.32,
+    "end": 1689.36,
+    "text": " the sneezing the hiccuping the yawning the stretching right but the papers are amazing"
+  },
+  {
+    "start": 1689.36,
+    "end": 1694.64,
+    "text": " because they really read like a very proud father who kind of thinks that his children are so advanced"
+  },
+  {
+    "start": 1694.64,
+    "end": 1701.92,
+    "text": " he's like um of course sucking and screaming were well performed by my infant he wrote at one stage"
+  },
+  {
+    "start": 1701.92,
+    "end": 1706.4,
+    "text": " and then he said I touched the naked stole of his foot with a bit of paper and he jerked it away"
+  },
+  {
+    "start": 1706.4,
+    "end": 1711.52,
+    "text": " much like an older child would do when tickled oh no he's one of the parents at the school gate"
+  },
+  {
+    "start": 1711.52,
+    "end": 1716.88,
+    "text": " my child's two good children I used to work in a children's bookshop where you would always get"
+  },
+  {
+    "start": 1716.88,
+    "end": 1723.2,
+    "text": " people coming in and going uh my um son is four but he has a reading age of 10 and of course you"
+  },
+  {
+    "start": 1723.2,
+    "end": 1727.2,
+    "text": " would show them a book for a 10 year old go well I don't think he'll quite be able to manage that"
+  },
+  {
+    "start": 1727.2,
+    "end": 1731.68,
+    "text": " and then eventually when you sold them a book for a two year old uh but you know but that was"
+  },
+  {
+    "start": 1731.68,
+    "end": 1737.12,
+    "text": " we're often told that Victorian parents were quite detached from their children I think it's"
+  },
+  {
+    "start": 1737.12,
+    "end": 1742.64,
+    "text": " kind of quite a myth and you would see that the relationship that Charles and Emma Darwin had"
+  },
+  {
+    "start": 1742.64,
+    "end": 1749.44,
+    "text": " with their children was incredible closeness there's so many beautiful letters between Emma and Charles"
+  },
+  {
+    "start": 1749.44,
+    "end": 1753.84,
+    "text": " which are filled with love and which entirely disintegrate some of the illusions that we have"
+  },
+  {
+    "start": 1753.84,
+    "end": 1760.24,
+    "text": " about Victorian behavior right wow um he had a really cool uncle who sadly died quite young who"
+  },
+  {
+    "start": 1760.24,
+    "end": 1764.64,
+    "text": " looked like he might have made a lot of innovations in the medical world and he was called Charles"
+  },
+  {
+    "start": 1764.64,
+    "end": 1770.72,
+    "text": " Darwin as well and Charles Darwin the one we're talking about was fascinated by him even visiting"
+  },
+  {
+    "start": 1770.72,
+    "end": 1775.76,
+    "text": " the university where he worked at to meet his professors to say hi because he never met him"
+  },
+  {
+    "start": 1775.76,
+    "end": 1782.16,
+    "text": " he died before Charles was born but when he was young he had a stammer and there was a theory"
+  },
+  {
+    "start": 1782.16,
+    "end": 1787.84,
+    "text": " that his father had that if he taught his son French he would get rid of the stammer so he was"
+  },
+  {
+    "start": 1787.84,
+    "end": 1793.04,
+    "text": " packed off to Paris where he learned and studied under a reverend who taught him to speak French"
+  },
+  {
+    "start": 1793.04,
+    "end": 1798.56,
+    "text": " fluently and it got rid of his stammer but only in French so he always had a stammer in English"
+  },
+  {
+    "start": 1798.56,
+    "end": 1802.88,
+    "text": " but never in French it's quite weird to picture Darwin's trip on the beagle right because that"
+  },
+  {
+    "start": 1802.88,
+    "end": 1807.36,
+    "text": " was just one huge massacre and for someone who was kind of too squeamish to be a doctor when he"
+  },
+  {
+    "start": 1807.36,
+    "end": 1811.68,
+    "text": " was training to be a doctor he once ran from the room because someone was being operated on"
+  },
+  {
+    "start": 1811.68,
+    "end": 1817.36,
+    "text": " but he did love shooting and like we'll just go around like bashing things on the head strangling"
+  },
+  {
+    "start": 1817.36,
+    "end": 1823.6,
+    "text": " them you know poisoning them and eating them all for science all for science and a bit for fun"
+  },
+  {
+    "start": 1823.6,
+    "end": 1830.16,
+    "text": " one of the things he did was he ate lots of tortoises which we've probably mentioned before"
+  },
+  {
+    "start": 1830.16,
+    "end": 1835.6,
+    "text": " and this was one of the things that tipped him off to evolution he ate a tortoise on one island"
+  },
+  {
+    "start": 1835.6,
+    "end": 1839.52,
+    "text": " and then he ate what seemed to be the same tortoise on another island really close by"
+  },
+  {
+    "start": 1839.52,
+    "end": 1843.6,
+    "text": " and it tasted a bit sweeter and this is one of the things he recorded he was like why is the"
+  },
+  {
+    "start": 1843.6,
+    "end": 1848,
+    "text": " tortoise on this island sweeter than the tortoise on this island how have they diverged you know"
+  },
+  {
+    "start": 1848,
+    "end": 1852.96,
+    "text": " why would God do this make these tiny little differences so close together but wait a minute"
+  },
+  {
+    "start": 1852.96,
+    "end": 1858,
+    "text": " how come everything has evolved to taste like chicken then he didn't actually didn't address that"
+  },
+  {
+    "start": 1858,
+    "end": 1862.16,
+    "text": " there's a line that i've often repeated in fact the most recent book i wrote originally this is"
+  },
+  {
+    "start": 1862.16,
+    "end": 1865.68,
+    "text": " what i wanted to call it because it's something that i love which is when he talks about being around"
+  },
+  {
+    "start": 1865.68,
+    "end": 1870.8,
+    "text": " the rainforest and he says one's eyes attempt to follow the flight of a gaudy butterfly but"
+  },
+  {
+    "start": 1870.8,
+    "end": 1876.48,
+    "text": " is soon distracted by some strange tree or fruit today my mind was a chaos of delight"
+  },
+  {
+    "start": 1876.48,
+    "end": 1880.48,
+    "text": " and i think that's the thing chaos of delight which is a phrase i've used many many times"
+  },
+  {
+    "start": 1880.48,
+    "end": 1887.28,
+    "text": " is such a good way of explaining what the truly curious are always being attracted to yeah well"
+  },
+  {
+    "start": 1887.28,
+    "end": 1892.56,
+    "text": " and also as well as delighting in your discoveries getting so angry when things go wrong you know"
+  },
+  {
+    "start": 1892.56,
+    "end": 1897.6,
+    "text": " just being passionate generally like one of my favorite letters i read of darwin's recently"
+  },
+  {
+    "start": 1897.6,
+    "end": 1903.68,
+    "text": " was when he'd been looking into bees that pollinate red clover some had a long proboscis some had a"
+  },
+  {
+    "start": 1903.68,
+    "end": 1908,
+    "text": " short one and they got nectar in different ways quite a niche discovery he thought he'd made"
+  },
+  {
+    "start": 1908,
+    "end": 1913.36,
+    "text": " he told his friend john lubeck said i'm really excited about this and then he wrote a follow-up"
+  },
+  {
+    "start": 1913.36,
+    "end": 1917.68,
+    "text": " saying he'd realized that he was wrong and he said i do hope you haven't wasted any time for"
+  },
+  {
+    "start": 1917.68,
+    "end": 1926.72,
+    "text": " my stupid blunder i hate myself i hate clover and i hate bees and that's yeah speaking of finding"
+  },
+  {
+    "start": 1926.72,
+    "end": 1932.96,
+    "text": " beauty in the banal what about office chairs we quickly talk about those maybe"
+  },
+  {
+    "start": 1932.96,
+    "end": 1941.36,
+    "text": " chairs are killing us chairs are killing us what because chair sitting puts 30 more pressure"
+  },
+  {
+    "start": 1941.36,
+    "end": 1947.76,
+    "text": " on your spinal discs than standing up varicose veins only exist in cultures that do lots of chair"
+  },
+  {
+    "start": 1947.76,
+    "end": 1952.88,
+    "text": " sitting if you sit down for long periods it means your muscles and your legs don't fire which means"
+  },
+  {
+    "start": 1952.88,
+    "end": 1958.16,
+    "text": " your pancreas doesn't get the message to produce lipase which is the enzyme that you need in your"
+  },
+  {
+    "start": 1958.16,
+    "end": 1965.52,
+    "text": " liver to digest fat and there is an amazing person called professor galen cramps who says basically"
+  },
+  {
+    "start": 1965.52,
+    "end": 1971.76,
+    "text": " we all need to stop sitting down too much because it's killing us and i spoke to professor cramps"
+  },
+  {
+    "start": 1971.76,
+    "end": 1978.16,
+    "text": " this morning and she was basically telling me that there's loads of massive studies with epidemiologists"
+  },
+  {
+    "start": 1978.16,
+    "end": 1984.16,
+    "text": " looking at really really really massive data sets and they have found correlation with premature"
+  },
+  {
+    "start": 1984.16,
+    "end": 1990.88,
+    "text": " mortality and sitting down which is greater than the correlation for being old being fat or being a"
+  },
+  {
+    "start": 1990.88,
+    "end": 1999.28,
+    "text": " smoker so sitting down according to some studies is more dangerous than that and for that reason"
+  },
+  {
+    "start": 1999.28,
+    "end": 2005.04,
+    "text": " professor cramps doesn't have any chairs in her house i read this in an article she's a terrible"
+  },
+  {
+    "start": 2005.04,
+    "end": 2010.24,
+    "text": " host doesn't she if you go around yeah okay in fairness she has a couple for when guests come"
+  },
+  {
+    "start": 2010.24,
+    "end": 2015.52,
+    "text": " round she did say i read this in an article from new scientists about 20 years ago and i emailed"
+  },
+  {
+    "start": 2015.52,
+    "end": 2021.04,
+    "text": " professor cramps says is it still true that you don't have any chairs in your house and she says"
+  },
+  {
+    "start": 2021.04,
+    "end": 2027.68,
+    "text": " yeah she's continued that experiment for over 20 years and she perches at the kitchen island when"
+  },
+  {
+    "start": 2027.68,
+    "end": 2032,
+    "text": " she wants to eat she thinks that perching is a good way it's like half sitting and half standing"
+  },
+  {
+    "start": 2032.8,
+    "end": 2036.08,
+    "text": " whenever she's doing any work on her computer she always uses a she's long"
+  },
+  {
+    "start": 2036.08,
+    "end": 2042.4,
+    "text": " even as a guest if she did put the two chairs out you'd feel so judged sitting in them wouldn't you"
+  },
+  {
+    "start": 2042.4,
+    "end": 2048.32,
+    "text": " wouldn't risk it but yeah like so there's obviously a lot of chat about how sitting's"
+  },
+  {
+    "start": 2048.32,
+    "end": 2054.32,
+    "text": " bad for you now and standing desk which i have are useful and i also try squatting because i think"
+  },
+  {
+    "start": 2054.32,
+    "end": 2058.4,
+    "text": " about a quarter of people when they're at rest or when they're at work they will adopt a squat"
+  },
+  {
+    "start": 2058.4,
+    "end": 2062.56,
+    "text": " rather than a seat so a quarter of people in the world that's around the world yeah absolutely"
+  },
+  {
+    "start": 2063.2,
+    "end": 2068.32,
+    "text": " sorry not in the office but i've tried squatting and you can't do it for long or i can't"
+  },
+  {
+    "start": 2068.32,
+    "end": 2073.6,
+    "text": " i always try working in a squat at a low table and i think once you've had 30 years of not doing it"
+  },
+  {
+    "start": 2073.6,
+    "end": 2077.84,
+    "text": " it's pretty hard to get back isn't it well yeah that is the problem actually it's like all these"
+  },
+  {
+    "start": 2077.84,
+    "end": 2083.04,
+    "text": " things about not sitting down really once you've been sitting down for 30 years doing anything"
+  },
+  {
+    "start": 2083.04,
+    "end": 2087.44,
+    "text": " else can put a lot of pressure on your body and give you pain and discomfort but we know that in"
+  },
+  {
+    "start": 2087.44,
+    "end": 2092.32,
+    "text": " history people have squatted more than they've sat and not least because we haven't found many"
+  },
+  {
+    "start": 2092.32,
+    "end": 2099.84,
+    "text": " chairs from history but also because when you squat down the end of your shin bone kind of presses"
+  },
+  {
+    "start": 2099.84,
+    "end": 2104.8,
+    "text": " into a little bone on your ankle and it gets a little indentation and we can see by lots of old"
+  },
+  {
+    "start": 2104.8,
+    "end": 2109.2,
+    "text": " skeletons that that's how people must have spent a lot of their time so we know that in history"
+  },
+  {
+    "start": 2109.2,
+    "end": 2115.2,
+    "text": " squatting has been the standard way of resting okay you know one thing i really loved about this fact"
+  },
+  {
+    "start": 2115.2,
+    "end": 2120.8,
+    "text": " was such a seminal character is the person who we have the oldest example of a of an office chair"
+  },
+  {
+    "start": 2120.8,
+    "end": 2127.04,
+    "text": " from but also a bit further back in history the oldest example that we have of the swivel chair"
+  },
+  {
+    "start": 2127.04,
+    "end": 2132.48,
+    "text": " is from thomas jefferson the story goes is that he wrote up the declaration of independence while"
+  },
+  {
+    "start": 2132.48,
+    "end": 2137.44,
+    "text": " sitting on this swivel chair because it has a little table that is attached to it and a revolutionary"
+  },
+  {
+    "start": 2137.44,
+    "end": 2145.04,
+    "text": " chair very nice he also had a pedometer thomas jefferson yeah the earliest ones we know about"
+  },
+  {
+    "start": 2145.04,
+    "end": 2150.96,
+    "text": " yeah he had it made by an expert watchmaker in paris and he even sent one to one of the"
+  },
+  {
+    "start": 2150.96,
+    "end": 2156.72,
+    "text": " early presidents i think it was madison maybe yeah but he gave his swivel chair to martha"
+  },
+  {
+    "start": 2156.72,
+    "end": 2161.84,
+    "text": " didn't he his daughter and she said that she thinks he did indeed write the declaration of"
+  },
+  {
+    "start": 2161.84,
+    "end": 2167.2,
+    "text": " independence on it and his opponents took the piss out of him for his stupid chairs and called them"
+  },
+  {
+    "start": 2167.2,
+    "end": 2173.12,
+    "text": " whirligigs and said you know they look at thomas and his stupid whirligig that allows him to look"
+  },
+  {
+    "start": 2173.12,
+    "end": 2178.4,
+    "text": " in all directions at once isn't he and moron they didn't say that that's my addition"
+  },
+  {
+    "start": 2178.4,
+    "end": 2190.64,
+    "text": " okay it is time for our final fact of the show and that is my fact my fact this week is that horror"
+  },
+  {
+    "start": 2190.64,
+    "end": 2199.2,
+    "text": " movies often have two soundtracks one you can hear and one you can't oh well i know that sounds"
+  },
+  {
+    "start": 2199.2,
+    "end": 2207.84,
+    "text": " spooky but it is literally for spooky reasons so this is the idea of infrasound and infrasound is"
+  },
+  {
+    "start": 2207.84,
+    "end": 2215.12,
+    "text": " any frequency that is sort of 19 hertz below so humans can hear 20 hertz and above as soon as you"
+  },
+  {
+    "start": 2215.12,
+    "end": 2221.12,
+    "text": " get lower it becomes out of earshot but your body can sort of feel the sensation of the sound if"
+  },
+  {
+    "start": 2221.12,
+    "end": 2226.16,
+    "text": " there's a big sound system in the room you can give you a sense of sort of oh what's going on here"
+  },
+  {
+    "start": 2226.16,
+    "end": 2230.72,
+    "text": " you know it it can give you the shivers do you know any examples of movies that have done this"
+  },
+  {
+    "start": 2230.72,
+    "end": 2237.68,
+    "text": " like sound of music presumably not but well it's mainly the examples that they give are for thriller"
+  },
+  {
+    "start": 2237.68,
+    "end": 2243.36,
+    "text": " slash horror movies so irreversible was said to have used it and paranormal activity is rumored"
+  },
+  {
+    "start": 2243.36,
+    "end": 2250.24,
+    "text": " to have used it as well they sometimes are sounds that are like i don't know a fan going or an air"
+  },
+  {
+    "start": 2250.24,
+    "end": 2255.28,
+    "text": " conditioner but they play with the bass as such that it creates an eerie noise i did read the air"
+  },
+  {
+    "start": 2255.28,
+    "end": 2260.24,
+    "text": " conditioning can achieve this effect which maybe explains why being in the office is such a scary"
+  },
+  {
+    "start": 2260.24,
+    "end": 2267.2,
+    "text": " experience peacocks can do it if a peacock kind of wiggles its tail it makes this really really"
+  },
+  {
+    "start": 2267.2,
+    "end": 2272.32,
+    "text": " deep sound that humans can't hear but if you were able to hear it it'd be about as loud as a car"
+  },
+  {
+    "start": 2272.32,
+    "end": 2277.68,
+    "text": " driving past you and they do it to kind of signal to each other but yeah i guess if you walk past"
+  },
+  {
+    "start": 2277.68,
+    "end": 2282.48,
+    "text": " a peacock you might feel a bit uneasy does that happen you feel like a lot of eyes are watching"
+  },
+  {
+    "start": 2282.48,
+    "end": 2288.96,
+    "text": " you well that's the famous darwin line the sight of the feathers in a peacock tail make me sick"
+  },
+  {
+    "start": 2288.96,
+    "end": 2296.88,
+    "text": " really yeah he felt that the that expenditure felt like such a waste for the nature of survival"
+  },
+  {
+    "start": 2296.88,
+    "end": 2301.76,
+    "text": " but you have to have that huge expenditure and and it's such a lovely line because it feels like"
+  },
+  {
+    "start": 2301.76,
+    "end": 2307.6,
+    "text": " a very modern line you don't expect to suddenly find that in in darwin no as a horror movie fan"
+  },
+  {
+    "start": 2307.6,
+    "end": 2312.24,
+    "text": " i'm not keen on this idea because i'm a big fan of atmospheric horror films which really get"
+  },
+  {
+    "start": 2312.24,
+    "end": 2316.64,
+    "text": " under your skin in fact brilliantly you mentioned sound and music isn't it amazing how quickly"
+  },
+  {
+    "start": 2316.64,
+    "end": 2321.52,
+    "text": " you can create some kind of sense of synchronicity in any of these programs yeah you know i think it"
+  },
+  {
+    "start": 2321.52,
+    "end": 2326,
+    "text": " was it was it uh it was robert wise i think he directed sound and music and he also directed"
+  },
+  {
+    "start": 2326,
+    "end": 2332.64,
+    "text": " the haunting and that is one of those films where so much of the unsettling nature of it is not that"
+  },
+  {
+    "start": 2332.64,
+    "end": 2339.68,
+    "text": " you ever see a ghost but you hear noises there's a sense that there is something wrong with the house"
+  },
+  {
+    "start": 2339.68,
+    "end": 2344.16,
+    "text": " yeah well it's whenever i watch horror films i was watching horror film on my own recently"
+  },
+  {
+    "start": 2344.16,
+    "end": 2348.4,
+    "text": " actually and the way to find it not scary is absolutely not to close your eyes it's to just"
+  },
+  {
+    "start": 2348.4,
+    "end": 2353.84,
+    "text": " cover up your ears and immediately a horror film will become completely innocuous it's so weird i"
+  },
+  {
+    "start": 2353.84,
+    "end": 2360.16,
+    "text": " think it's more about the sound hitchcock said that 33 percent of the effect of psycho was entirely"
+  },
+  {
+    "start": 2360.16,
+    "end": 2365.04,
+    "text": " due to the music yeah they did do test audiences with the movie where in the shower scene there was"
+  },
+  {
+    "start": 2365.04,
+    "end": 2369.44,
+    "text": " no music originally and it just didn't have the impact and then they put the music on and suddenly"
+  },
+  {
+    "start": 2369.44,
+    "end": 2373.76,
+    "text": " the scariest scene in cinema to that point yeah that's really interesting what was the horror"
+  },
+  {
+    "start": 2373.76,
+    "end": 2380.88,
+    "text": " film you were watching by the way uh it was called his house my house her house it's fantastic it's"
+  },
+  {
+    "start": 2380.88,
+    "end": 2385.44,
+    "text": " really good yeah his house if yeah anyone listen to this if you've not seen it i think it was nominated"
+  },
+  {
+    "start": 2385.44,
+    "end": 2390.32,
+    "text": " for about the very deservedly i was just watching it at home and i was like i hope it stops being"
+  },
+  {
+    "start": 2390.32,
+    "end": 2394.96,
+    "text": " scary because i want to go to the loo and i'm not sure i can risk going down these stairs now because"
+  },
+  {
+    "start": 2394.96,
+    "end": 2399.04,
+    "text": " the changing understanding of the narrative in it and that's why i find that kind of use of"
+  },
+  {
+    "start": 2399.04,
+    "end": 2404,
+    "text": " infrasound to me that feels like a very hollywood thing which is going oh we can do this thing instead"
+  },
+  {
+    "start": 2404,
+    "end": 2408.4,
+    "text": " no do you know what film something brilliantly yeah but then do you want to get rid of soundtracks"
+  },
+  {
+    "start": 2408.4,
+    "end": 2412.4,
+    "text": " altogether then for that reason as well no i love i love soundtracks because i think when"
+  },
+  {
+    "start": 2412.4,
+    "end": 2417.84,
+    "text": " they're well used when you get uh i mean like i rewatch dawn of the dead which it has a really"
+  },
+  {
+    "start": 2417.84,
+    "end": 2425.28,
+    "text": " upbeat and you go this is far too upbeat for the number of guts that are being eaten but"
+  },
+  {
+    "start": 2425.28,
+    "end": 2430.48,
+    "text": " it works by being this meeting of two very different worlds but that marriage reminds"
+  },
+  {
+    "start": 2430.48,
+    "end": 2437.2,
+    "text": " me of tubular bells to me it is terrifying and that's not a frightening tune that's just because"
+  },
+  {
+    "start": 2437.2,
+    "end": 2442.16,
+    "text": " it was in the exorcist and that's actually quite a plinky plonky you know the tune the terrifying"
+  },
+  {
+    "start": 2442.16,
+    "end": 2449.28,
+    "text": " bit from the exorcist like it's quite hard to hum um but yeah it's marrying that slightly chirpy"
+  },
+  {
+    "start": 2449.28,
+    "end": 2454,
+    "text": " with the terrifying do you think we're going to get sued do you think um michael field's gonna"
+  },
+  {
+    "start": 2454,
+    "end": 2458.72,
+    "text": " come in he's coming for us yeah after anna sang that thank god his daughter used to work for qi so"
+  },
+  {
+    "start": 2458.72,
+    "end": 2464.64,
+    "text": " that she's she's been on fish chat to her she has molly back in the day i love that way though"
+  },
+  {
+    "start": 2464.64,
+    "end": 2470.48,
+    "text": " how can we get away with uh playing a tune and not having to pay copyright by not really remembering"
+  },
+  {
+    "start": 2470.48,
+    "end": 2480,
+    "text": " it very well you can't play it you know it's that michael field um just on um horror films in their"
+  },
+  {
+    "start": 2480,
+    "end": 2486,
+    "text": " soundtracks i didn't know that instruments have specifically been built for horror movies so in"
+  },
+  {
+    "start": 2486,
+    "end": 2492,
+    "text": " harmonic instruments basically instruments that do the opposite of what good instruments do and"
+  },
+  {
+    "start": 2492,
+    "end": 2497.2,
+    "text": " they create notes that don't go together very naturally when you sort of all my instruments"
+  },
+  {
+    "start": 2497.2,
+    "end": 2504.16,
+    "text": " do that oh yeah yeah no there are many reasons why you might make in harmonic sounds but the most"
+  },
+  {
+    "start": 2504.16,
+    "end": 2509.76,
+    "text": " famous in harmonic instrument is probably the waterphone and so it's like a bowl and it's got"
+  },
+  {
+    "start": 2509.76,
+    "end": 2514.08,
+    "text": " like bronze rods that stick up out of the edges of the bowl and they're all different lengths"
+  },
+  {
+    "start": 2514.08,
+    "end": 2520.56,
+    "text": " and like diameters and stuff and you get a violin bow or something maybe to tap it and you bow the"
+  },
+  {
+    "start": 2520.56,
+    "end": 2525.36,
+    "text": " rods and they just make a very non-harmonic sound and it's used in lots of films it's used"
+  },
+  {
+    "start": 2525.36,
+    "end": 2531.68,
+    "text": " in poltergeist let the right one in aliens but what i like about it as well is that the waterphone"
+  },
+  {
+    "start": 2531.68,
+    "end": 2536,
+    "text": " involves a little bit of water in the bowl which is why it's called that it was invented by richard"
+  },
+  {
+    "start": 2536,
+    "end": 2543.28,
+    "text": " waters and used in the horror film dark water amazing oh wow three totally unrelated waters in one"
+  },
+  {
+    "start": 2543.28,
+    "end": 2549.2,
+    "text": " fact that's so cool the other thing's the tritone kind of two notes that one comes after the other"
+  },
+  {
+    "start": 2549.2,
+    "end": 2553.28,
+    "text": " and it kind of makes you feel uneasy because you think that should be something next it's in the"
+  },
+  {
+    "start": 2553.28,
+    "end": 2558.72,
+    "text": " theme to the simpsons so you know when it goes the simpsons it's kind of you think well where are"
+  },
+  {
+    "start": 2558.72,
+    "end": 2563.36,
+    "text": " you going after that it's weird it's just kind of a weird kind of two notes coming after each other"
+  },
+  {
+    "start": 2563.36,
+    "end": 2567.36,
+    "text": " is that the one banned in churches james or is that a different one well that's the one that the"
+  },
+  {
+    "start": 2567.36,
+    "end": 2572.4,
+    "text": " internet says was banned in churches for sure whether it was actually banned i personally don't"
+  },
+  {
+    "start": 2572.4,
+    "end": 2577.76,
+    "text": " think so but definitely western musicians really shied away from it for hundreds and hundreds"
+  },
+  {
+    "start": 2577.76,
+    "end": 2582.56,
+    "text": " of years because they thought it was slightly demonic it is objectively spooky because i've"
+  },
+  {
+    "start": 2582.56,
+    "end": 2586.56,
+    "text": " never thought about it before but the theme tune to the simpsons which is not a spooky show except"
+  },
+  {
+    "start": 2586.56,
+    "end": 2592.24,
+    "text": " for the halloween specials is kind of scary regardless of content i don't know why they did"
+  },
+  {
+    "start": 2592.24,
+    "end": 2599.2,
+    "text": " that weird danny elfman of oingo boingo which is still one of the greatest names for a band really"
+  },
+  {
+    "start": 2599.2,
+    "end": 2604.24,
+    "text": " yeah so funny doesn't he sing he sings that bit of the simpsons doesn't he and as a result the"
+  },
+  {
+    "start": 2604.24,
+    "end": 2608.8,
+    "text": " royalties that he's received ever since uh so far greater than any other work that he's done"
+  },
+  {
+    "start": 2608.8,
+    "end": 2613.2,
+    "text": " basically did i sing it close enough to the actual theme tune that i'm gonna have to send him a tenor"
+  },
+  {
+    "start": 2613.2,
+    "end": 2618.48,
+    "text": " in the post yeah dammit like yeah i remember doing a thing with i've forgotten her name who's"
+  },
+  {
+    "start": 2618.48,
+    "end": 2625.12,
+    "text": " who's the voice of uh bart nancy nancy cartwright yeah i remember doing a radio show with her and"
+  },
+  {
+    "start": 2625.12,
+    "end": 2628.56,
+    "text": " there was someone in the audience who had a birthday like a little child and they said oh can you"
+  },
+  {
+    "start": 2628.56,
+    "end": 2635.04,
+    "text": " say happy birthday as as bart simpsons she went no i can't for copyright reasons really wow really"
+  },
+  {
+    "start": 2635.04,
+    "end": 2640.08,
+    "text": " weird thing that's what would and i tell you guys about the most recent um horror movie i watched"
+  },
+  {
+    "start": 2640.08,
+    "end": 2647.6,
+    "text": " perhaps we're doing that um it was called slacks have you heard of this s la xx can you guess what"
+  },
+  {
+    "start": 2647.6,
+    "end": 2652.8,
+    "text": " the murderer is in this case i'll give you a clue it's a non-human is it a pair of it's a pair of"
+  },
+  {
+    "start": 2652.8,
+    "end": 2659.44,
+    "text": " shoes it's not oh it's not a pair of slacks it's a pair of slacks but that's not what slacks are"
+  },
+  {
+    "start": 2659.44,
+    "end": 2667.04,
+    "text": " for many oh god there's trousers on there it's about a killer pair of jeans uh and i was just"
+  },
+  {
+    "start": 2667.04,
+    "end": 2671.2,
+    "text": " googling about it see if there's anything interesting about it and it comes up on a lot of lists of"
+  },
+  {
+    "start": 2671.2,
+    "end": 2680.24,
+    "text": " horror movies where the antagonist is a non-human or non-animal so there was one in 2001 called the"
+  },
+  {
+    "start": 2680.24,
+    "end": 2688.96,
+    "text": " shaft can you guess what the killer was there yes a um elevator shaft but why is the shaft itself"
+  },
+  {
+    "start": 2688.96,
+    "end": 2693.76,
+    "text": " the killer well it was originally called the lift but it got remade in america they called"
+  },
+  {
+    "start": 2693.76,
+    "end": 2699.68,
+    "text": " it the shaft and also they were going to call it just down uh and the tagline for that movie reads"
+  },
+  {
+    "start": 2699.68,
+    "end": 2706.88,
+    "text": " take the stairs for god's sake take the stairs sounds amazing anyone going to see it imagining"
+  },
+  {
+    "start": 2706.88,
+    "end": 2712.72,
+    "text": " it's a remake of the film shaft they'll find themselves very confused i hope isek hay still"
+  },
+  {
+    "start": 2712.72,
+    "end": 2718.72,
+    "text": " did the music of the wires yeah that'd be amazing has anyone seen the movie this is relatively famous"
+  },
+  {
+    "start": 2718.72,
+    "end": 2723.6,
+    "text": " called rubber is that a tire that goes through the desert and goes yeah yeah yeah that's a great"
+  },
+  {
+    "start": 2723.6,
+    "end": 2729.44,
+    "text": " idea yeah it's about a sentient tire that goes around and it has psychokinesis we never learned"
+  },
+  {
+    "start": 2729.44,
+    "end": 2734.64,
+    "text": " why it has psychokinesis but it could just look at you and start vibrating and then it explodes you"
+  },
+  {
+    "start": 2734.64,
+    "end": 2739.76,
+    "text": " uh and there was the final one which was a korean movie i think and it's called the red shoes can you"
+  },
+  {
+    "start": 2739.76,
+    "end": 2746.24,
+    "text": " guess what the killer is there oh it is is this a trick is it purple Dorothy it's a pair of purple"
+  },
+  {
+    "start": 2746.24,
+    "end": 2752,
+    "text": " shoes literally no idea why they call it the red shoes but this woman finds a pair of purple high"
+  },
+  {
+    "start": 2752,
+    "end": 2758.8,
+    "text": " heels uh and then jealousy greed and death follows her wherever she walks in them right but the"
+  },
+  {
+    "start": 2758.8,
+    "end": 2764.64,
+    "text": " original red shoes based on the kind of folktale which is a pal and press burger film is a very"
+  },
+  {
+    "start": 2764.64,
+    "end": 2771.04,
+    "text": " haunting piece of work Robert Heltman famously the the child catcher who for many of my generation"
+  },
+  {
+    "start": 2771.04,
+    "end": 2776.08,
+    "text": " is one of the scariest characters in chit chit bang bang you know come come and get your sweeties"
+  },
+  {
+    "start": 2776.08,
+    "end": 2781.04,
+    "text": " children come and get your sweeties and there's a lovely story of when a friend of Robert Heltman"
+  },
+  {
+    "start": 2781.04,
+    "end": 2785.84,
+    "text": " took his kids to go and see chit chit bang bang and uh then he he rang up Robert Heltman he said"
+  },
+  {
+    "start": 2785.84,
+    "end": 2791.2,
+    "text": " Robert i've got a bit of a problem you're coming around for sunday lunch and uh well my kids i've"
+  },
+  {
+    "start": 2791.2,
+    "end": 2795.76,
+    "text": " just taken chit chit bang bang and they were absolutely terrified of you and he went oh yes"
+  },
+  {
+    "start": 2795.76,
+    "end": 2800.16,
+    "text": " he said well could you say something to them over the phone now just so that they know you're an actor"
+  },
+  {
+    "start": 2800.16,
+    "end": 2803.52,
+    "text": " and that you're not really the child's catcher you went of course just bring the children to the"
+  },
+  {
+    "start": 2803.52,
+    "end": 2806.88,
+    "text": " phone and when the children got to the phone you went i'm coming to catch you chit chit bang"
+  },
+  {
+    "start": 2806.88,
+    "end": 2816.56,
+    "text": " okay that's it that is all of our facts thank you so much for listening if you'd like to get"
+  },
+  {
+    "start": 2816.56,
+    "end": 2820.16,
+    "text": " in contact with any of us about the things that we have said over the course of this podcast"
+  },
+  {
+    "start": 2820.16,
+    "end": 2827.76,
+    "text": " we can all be found on our twitter accounts i am on at shribeland james at james harkin robin at"
+  },
+  {
+    "start": 2827.76,
+    "end": 2833.6,
+    "text": " robin ins and anna you can email podcast at qi.com yep but you can go to our group account which"
+  },
+  {
+    "start": 2833.6,
+    "end": 2839.44,
+    "text": " is at no such thing or go to our website no such thing as a fish.com and check out everything that"
+  },
+  {
+    "start": 2839.44,
+    "end": 2844.72,
+    "text": " is up there from all of our previous episodes as well as all of our upcoming tour dates and if"
+  },
+  {
+    "start": 2844.72,
+    "end": 2848.88,
+    "text": " you're online you're looking at websites why not go over to cosmic shambles.com as well that's"
+  },
+  {
+    "start": 2848.88,
+    "end": 2855.76,
+    "text": " robin's site and it's a huge network of amazing scientists and and general communicators of every"
+  },
+  {
+    "start": 2855.76,
+    "end": 2861.28,
+    "text": " field a comedy you know geology blah blah they're all their artists it's an amazing place full of"
+  },
+  {
+    "start": 2861.28,
+    "end": 2867.76,
+    "text": " amazing people uh check out robin's live dates on robinins.com as well um and go see him for his"
+  },
+  {
+    "start": 2867.76,
+    "end": 2873.6,
+    "text": " book tours his live shows and his tours with with brian cox and god the guy does a hundred things"
+  },
+  {
+    "start": 2873.6,
+    "end": 2877.68,
+    "text": " check out it's all up there anyway we're going to be back again next week with another episode"
+  },
+  {
+    "start": 2877.68,
+    "end": 2893.6,
+    "text": " we'll see you then goodbye"
+  },
+  {
+    "start": 2893.6,
+    "end": 2896.18,
+    "text": " (upbeat music)"
+  }
+]

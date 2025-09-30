@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the historical evolution of the acronym LOL, the pain-relieving effects of listening to Billy Connolly, the adventurous story of the first woman to cycle around the world, and the unique defense mechanisms of squirrels against snakes.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "L-O-L, the acronym that people now use to signify the fact that they're weak-minded and words are inadequate for their own need, used to mean not laugh out loud or even lots of love but little old lady.",
+      "presenter": "Helen Zaltzman",
+      "guest": true,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "According to researchers at Glasgow Caledonian University, listening to Billy Connolly can substantially increase your tolerance to pain.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:08:42"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The first woman to cycle around the world learned to ride a bike the day before she set off.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:13:29"
+    },
+    {
+      "fact_number": 4,
+      "fact": "When squirrels are attacked by snakes, they increase their blood pressure so much that the tail gives off more infrared radiation and it makes them look bigger.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:21:41"
+    }
+  ]
+}

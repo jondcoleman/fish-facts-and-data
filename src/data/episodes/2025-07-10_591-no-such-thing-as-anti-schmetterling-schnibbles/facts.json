@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating topics, including conservation efforts involving glitter to track water voles, a Tongan myth involving a god with a shining anus, the peculiar case of Tom Baker's gravestone, and the rich vocabulary of the Basque language for butterflies.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Scientists are trying to save water voles by feeding them glitter.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "According to Tongan mythology, the island of Kao was almost stolen one night, but the god Tafakula bent over and the light shone out of his anus so brightly that the thieves fled in fear.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:15:57"
+    },
+    {
+      "fact_number": 3,
+      "fact": "For over 20 years now, fans of the Doctor Who actor Tom Baker have been regularly visiting his gravestone at a cemetery in Kent, despite the fact that he isn't yet dead.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:28:06"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The Basque language has at least 50 words for butterfly, one of which means 'soul of a donkey'.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:39:00"
+    }
+  ]
+}

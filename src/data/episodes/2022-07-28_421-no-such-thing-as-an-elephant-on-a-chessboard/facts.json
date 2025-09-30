@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on a doctor who experimented with scurvy, the rarity of skilled chess knight carvers, the unique cleaning practices in Ecuador involving stinging nettles, and the curious behaviors of the inhabitants of St. Kilda to attract tourists.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1939, a young doctor at Boston City Hospital went on a scurvy producing diet to see what would happen.",
+      "presenter": "Tim Harford",
+      "guest": true,
+      "start_time": "00:01:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There are more people alive today who have been world chess champion than there are people skillful enough to carve a knight for use in a world championship chess match.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:16:08"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In Ecuador, cleaners are people who rub you down with stinging nettles.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:33:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The people of the remote island of St. Kilda used to yell if they saw themselves in a visiting tourist's mirror.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:46:26"
+    }
+  ]
+}

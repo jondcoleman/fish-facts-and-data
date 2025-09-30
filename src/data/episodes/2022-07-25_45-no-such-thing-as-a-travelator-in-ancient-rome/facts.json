@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' features discussions on historical timekeeping, limpet defense mechanisms, Buzz Aldrin's post-moon landing career, and the Cathars' misunderstood practices. The hosts explore quirky facts about time zones, animal behaviors, and historical sects, with guest Greg Jenner contributing insights from his book.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the 1960s in America, there was one particular bus route that was only 35 miles long, but during that time passengers passed through seven different time zones.",
+      "presenter": "Greg Jenner",
+      "guest": true,
+      "start_time": "00:01:03"
+    },
+    {
+      "fact_number": 2,
+      "fact": "If a predator gets too close to a limpet, the limpet will lift up its shell and then stamp on the predator's foot.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:10:32"
+    },
+    {
+      "fact_number": 3,
+      "fact": "After landing on the moon, Buzz Aldrin worked in a car dealership where he failed to sell a single car.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:25:11"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The Cathars get their name from the fact that they are thought to be pure, like Catharsis, but during the Middle Ages, some people thought that they got their name Cathars from the fact that they like to kiss a cat's ass.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:32:51"
+    }
+  ]
+}

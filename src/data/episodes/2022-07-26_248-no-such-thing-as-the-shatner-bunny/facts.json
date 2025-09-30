@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the surprising longevity of krill, Franklin D. Roosevelt's unique cocktail parties during wartime, the unexpected historical value of a prop bed from a British comedy film, and the early start of Christmas celebrations in the Philippines.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The world's oldest krill was nine years old and was called Alan.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:54"
+    },
+    {
+      "fact_number": 2,
+      "fact": "FDR used to hold cocktail parties during the war, where the only rule was don't mention the war.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:10:34"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The prop bed in the classic British comedy film Carry On Dick is worth £20 million.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:22:14"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Shops in the Philippines put their Christmas decorations up on the 1st of September.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:33:13"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the excavation of old Hollywood film sets, the peculiar actions of a landlady with a deceased tenant, a unique UNICEF ambassador with an unusual name, and the inventive origins of the sports bra.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Archaeologists have just dug up in the middle of the desert an enormous sphinx statue. It is believed to be anywhere up to 95 years old.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "When British author William Hazlitt died, his landlady was so keen to re-let his room that she hid his body under the bed while she showed new tenants around.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:18"
+    },
+    {
+      "fact_number": 3,
+      "fact": "UNICEF has a nutrition ambassador called Pupi.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:24:25"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The first ever sports bra was two jock straps.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:33:16"
+    }
+  ]
+}

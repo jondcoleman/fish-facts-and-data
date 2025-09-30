@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a variety of quirky and intriguing facts, including the transportation of Anton Chekov's body, the use of albatrosses to track illegal fishing, the peculiarities of cheetah behavior, and the history of time zones in Spain. The hosts also delve into topics like the naming of drugs, the history of washing machines, and the peculiarities of animal behavior.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "After his death, Anton Chekov was brought back to Russia in a refrigerator.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:35"
+    },
+    {
+      "fact_number": 2,
+      "fact": "At the moment right now there are 200 spy albatrosses in the world which are flying around logging illegal fishing vessels.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:06:31"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There used to be cheetahs in America, like not pet cheetahs, but real kind of wild cheetahs.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:15:48"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1942, General Franco changed the country's clocks in Spain to match Berlin's time zone in solidarity with Hitler, and no one ever changed them back.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:23:30"
+    }
+  ]
+}

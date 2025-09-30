@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of quirky and fascinating topics, including swimming elephants in the Andaman Islands, a French parliamentary maneuver involving MPs hiding behind curtains, a Chinese theme park ride simulating cremation, and Peter O'Toole's unusual method of smuggling earrings.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Logs used to be carried around the Andaman Islands by swimming elephants.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:46"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There is a French parliamentary manoeuvre which involves MPs hiding behind a curtain and then bursting out to vote at the last minute.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:15:20"
+    },
+    {
+      "fact_number": 3,
+      "fact": "One of the biggest theme parks in China has a ride that puts visitors in a coffin, rolls them into a chamber, and then simulates their cremation.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:28:32"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The actor, Peter O'Toole, once smuggled a pair of earrings out of Greece by hiding them in his foreskin.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:40:22"
+    }
+  ]
+}

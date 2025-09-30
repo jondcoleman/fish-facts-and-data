@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating topics, including the belief that chess was brought to Earth by aliens, the slow-moving Greenland shark, the bizarre reasons for asylum admissions in the 19th century, and the Yakuza's unique approach to crime and recruitment.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The head of the International Chess Federation believes that chess was brought to earth by aliens.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:43"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Greenland shark is so slow that it basically needs all of its food to be asleep in order to eat it.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:11:09"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In the 19th century, you could be committed to an asylum for novel reading.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:18:02"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The Japanese Yakuza crime syndicate has its own website, which has a theme tune designed to attract new members.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:24:23"
+    }
+  ]
+}

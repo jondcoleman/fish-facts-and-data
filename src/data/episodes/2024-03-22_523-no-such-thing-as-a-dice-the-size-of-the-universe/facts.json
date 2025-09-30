@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on the first computer to discover a shape and its appearances in TV shows, the origins of the trolley problem and its philosophical implications, the challenges faced during the first road trip across America, and a board game that accidentally included a fictional character created by a New Zealand farmer.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first computer to ever discover a shape starred in an episode of the 1980s sitcom Laverne and Shirley.",
+      "presenter": "Matt Parker",
+      "guest": true,
+      "start_time": "00:02:23"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The woman who invented the trolley problem was the daughter of a man who made railway tracks for a living.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:19:23"
+    },
+    {
+      "fact_number": 3,
+      "fact": "On the first ever road trip across America, multiple bridges collapsed under the weight of the cars and had to be rebuilt along the way.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:33:33"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In the board game Rising Sun, players are able to collect monsters that are inspired by both Japanese mythology and, by complete accident, a New Zealand farmer.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:46:03"
+    }
+  ]
+}

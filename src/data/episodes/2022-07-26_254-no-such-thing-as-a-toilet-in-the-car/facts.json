@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and intriguing topics, including the invention of the rear-view mirror for racing cars, the impact of surname order on academic and professional success, the use of silent props in Hollywood, and the effects of ginger on moral and disgust responses.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The rear-view mirror was invented so that racing drivers didn't have to have a person sitting next to them in the car explaining what was going on behind them.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "A 2018 paper suggesting that people who have a surname which occurs towards the end of the alphabet are more likely to end up academically and professionally undistinguished, was co-authored by Professor Jeffrey Zachs.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:12:34"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Grocery bags used in Hollywood movies don't rustle.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:19:38"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Eating ginger can make you feel better about drinking out of a toilet.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:28:13"
+    }
+  ]
+}

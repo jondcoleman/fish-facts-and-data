@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of fascinating topics, including the unique water sourcing methods of Easter Island's indigenous people, a prolific noise complainer at Dublin Airport, Emily Dickinson's lesser-known reputation as a baker, and animals that use mimicry for survival.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There's hardly any fresh water on Easter Island, so the indigenous people drank straight from the sea.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Last year, Dublin Airport received 13,569 noise complaints; 12,272 of those were made by one person.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:13:57"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In her lifetime, Emily Dickinson was better known as a baker than as a poet.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:26:32"
+    },
+    {
+      "fact_number": 4,
+      "fact": "As well as a caterpillar which avoids predators by pretending to be a bird, there is a bird which avoids predators by pretending to be a caterpillar.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:38:07"
+    }
+  ]
+}

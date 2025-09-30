@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of fascinating topics, including the unique relationship between lobsters and jellyfish, the construction of an impractical telescope in France, the origins of America's first gentleman's club centered around turtle soup, and the surprising use of a stunt double by daredevil Evel Knievel in a film.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Smooth fan lobsters travel around the sea inside jellyfish, eating their rides as they go.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:47"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1892, France built a telescope which was so long it couldn't actually be pointed at the sky.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:09:08"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The first gentleman's club in America was formed for the purpose of eating turtle soup.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:20:41"
+    },
+    {
+      "fact_number": 4,
+      "fact": "When Evel Knievel starred in the 1977 film \"Viva Knievel,\" he used a stunt double.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:16"
+    }
+  ]
+}

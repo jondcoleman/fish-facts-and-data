@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating topics, including a posthumous appearance by Sir Arthur Conan Doyle, Dutch trains using lasers to clear leaves, the malaria-repelling properties of chickens, and the six-toed sandals of the Pueblo people.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "On July 13, 1930, Sir Arthur Conan Doyle headlined a show at the Royal Albert Hall, despite having died six days before.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Dutch trains are fitted with lasers to fire at leaves on the line.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:10:54"
+    },
+    {
+      "fact_number": 3,
+      "fact": "To avoid catching malaria, you should carry a chicken with you at all times.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:21:01"
+    },
+    {
+      "fact_number": 4,
+      "fact": "All of the sandals worn by the Pueblo people of New Mexico had enough space for six toes.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:27:18"
+    }
+  ]
+}

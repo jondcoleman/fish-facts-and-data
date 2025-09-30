@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and historical facts, including the BBC's extensive sound effects archive, the peculiarities of the first Olympic marathon, burial customs in ancient Denmark, and the early career of magician P.T. Selbit.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The BBC has sound effects, including indisposed chicken, more or less normal chicken, standard orgy, and comedy orgy.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:52"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the first Olympic marathon in 1896, the same stopwatch was used at the start and finish line, so had to be carried from one to the other ahead of the runners by bicycle.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:10:23"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In first century Denmark, if you were really rich, you were buried with a chicken; if you were really, really rich, you were buried with a goose.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:20:34"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Before magician P.T. Selbit invented the famous 'Sawing a Woman in Half' illusion, his big trick was called the Mighty Cheese, which saw him daring members of the audience onto the stage to try and push over his massive block of cheese.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:35:03"
+    }
+  ]
+}

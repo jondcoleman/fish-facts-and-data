@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the original name of 'The Very Hungry Caterpillar', the pun-filled operations of the Double Cross Committee during World War II, the unique architectural practices in Bali, and Isaac Newton's prediction of the world's end in 2060. The hosts delve into these facts with humor and additional anecdotes, making for an engaging and informative discussion.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The Very Hungry Caterpillar was originally called 'A Week with Willie the Worm'.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:34"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In World War II, the 20 Committee was in charge of turning German spies and in Roman numerals that made them the XX Committee or the Double Cross Committee.",
+      "presenter": "Ann Miller",
+      "guest": true,
+      "start_time": "00:08:08"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Houses in Bali are built in proportion to the owner's body.",
+      "presenter": "Anitzo Zinski",
+      "guest": true,
+      "start_time": "00:18:42"
+    },
+    {
+      "fact_number": 4,
+      "fact": "According to Isaac Newton, the world is going to end in 2060.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:45"
+    }
+  ]
+}

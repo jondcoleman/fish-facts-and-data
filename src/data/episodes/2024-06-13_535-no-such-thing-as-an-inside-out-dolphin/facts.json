@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a special guest, marine biologist Helen Scales, who shares fascinating insights about marine life and environmental issues. The hosts discuss playful interactions with octopuses, the unique challenges faced by emperor penguins during winter, the peculiar wedding gifts received by Queen Elizabeth II, and the housing crisis affecting hermit crabs due to environmental changes.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "You can play peek-a-boo with an octopus.",
+      "presenter": "Helen Scales",
+      "guest": true,
+      "start_time": "00:02:47"
+    },
+    {
+      "fact_number": 2,
+      "fact": "During winter, the ground is too cold for male emperor penguins' feet, so they spend two months leaning back and balancing on their heels.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:15:07"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When Queen Elizabeth II got married, the people of Leamington Spa clubbed together and bought her a washing machine.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:25:59"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Hermit crabs are facing a housing crisis.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:42:37"
+    }
+  ]
+}

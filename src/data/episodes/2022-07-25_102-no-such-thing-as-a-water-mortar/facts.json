@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the invention of water balloons, the inefficiencies of French computer keyboards, the impressive archery skills at the Battle of Agincourt, and the surprising behavioral traits of right-handed versus left-handed marmosets.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first water balloons were made out of socks.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:01:01"
+    },
+    {
+      "fact_number": 2,
+      "fact": "You can't write in French on French computer keyboards.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:10:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Archers at the Battle of Agincourt had three arrows in the air at any given moment.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:15:17"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Right-handed marmosets are braver than left-handed marmosets.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:21:36"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a wide range of quirky and fascinating topics, including the peculiarities of international week numbering, the challenges faced by an Indian luger, the history of Old McDonald variations, and the bizarre story of a farmhouse with millions of IP addresses linked to it. The hosts also delve into the history of temperance bars, the peculiarities of chess cheating, and the humorous tale of a naval battle between a Venezuelan patrol vessel and a cruise ship.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The definition of week one of the year is the week with the year's first Thursday in it.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:02:00"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The earliest version of 'Old McDonald Had a Farm' was actually 'Old Missouri Had a Mule.'",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:06:22"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The CIA collected jokes in the Soviet Union in the 1980s as a way to gauge public sentiment.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:11:10"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The definition of week one of the year is the week with the year's first Thursday in it.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:02:00"
+    }
+  ]
+}

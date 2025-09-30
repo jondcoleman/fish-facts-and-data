@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on the Beatles' accents and their impact on American audiences, the sugar content in bananas affecting zoo monkeys, a Nobel Prize winner's invention inspired by seismology, and a historical public toilet in London destroyed by the Great Fire.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The studio that made A Hard Day's Night demanded the Beatles' voices be dubbed because they thought Americans wouldn't understand their accents.",
+      "presenter": "Paul Smith",
+      "guest": true,
+      "start_time": "00:01:28"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Monkeys in Melbourne Zoo are no longer allowed to eat bananas because humans have bred them to have so much sugar that the monkeys were getting obese.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:15"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Nobel Prize winner Barry Marshall has developed a belt that senses stomach rumblings, inspired by his son, who's a seismologist who makes devices that sense vibrations on the ocean floor.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:28:21"
+    },
+    {
+      "fact_number": 4,
+      "fact": "One building that burned down in the Great Fire of London was a public toilet that could be used by 128 people at the same time.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:43:52"
+    }
+  ]
+}

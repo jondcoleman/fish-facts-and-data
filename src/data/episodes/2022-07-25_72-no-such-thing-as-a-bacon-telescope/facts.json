@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and fascinating topics, including the history of pneumatic tube systems, the creation of bacon-flavored algae, the challenges of telescope maintenance in space, and a peculiar museum in North Korea featuring a scaled-down replica of the world's largest table.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first item to be sent via New York's pneumatic tube postal system was an artificial peach, and the second was a live black cat.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:34"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Scientists have made algae that taste like bacon.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:10:04"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Telescopes have a new telescope smell that can break them.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:38"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There is a museum in North Korea that has a scaled down replica of the world's largest table.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:24:29"
+    }
+  ]
+}

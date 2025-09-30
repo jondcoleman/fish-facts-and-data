@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and intriguing topics, including the legal status of clotheslines in the USA, a secret order for Canadian engineers, the history of McDonald's Filet-O-Fish sandwich, and a footballer with an amusing name.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "19 states in the USA have banned the banning of clotheslines.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Canadian engineers are part of a secret order designed by Rudyard Kipling.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:38"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When McDonald's launched the Filet-O-Fish sandwich, its main competition was the Hula Burger, which was a slice of pineapple in a bun with cheese.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:23:23"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There is a professional footballer called Naughty Naughty who has never been sent off.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:41:45"
+    }
+  ]
+}

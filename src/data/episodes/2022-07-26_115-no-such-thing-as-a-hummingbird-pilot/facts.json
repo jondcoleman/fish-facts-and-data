@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the peculiarities of alarm clocks on the Mir space station, the surprising similarities between national anthems and movie themes, the intelligence and memory of crows, and a unique record set by swimming the Panama Canal.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The alarm clock on the Mir space station made the same noise as their emergency alarm.",
+      "presenter": "Ann Miller",
+      "guest": true,
+      "start_time": "00:00:33"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Bosnian National Anthem is almost identical in melody to the theme for the movie National Lampoon's Animal House.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:10:30"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Crows can bear a grudge for nine years and two generations.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:20:04"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1959, the man who set the record time for swimming the Panama Canal was declared an honorary ship by the Panama Canal Authority.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:29:34"
+    }
+  ]
+}

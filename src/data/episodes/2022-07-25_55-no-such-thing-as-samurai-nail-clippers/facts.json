@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the use of 'wetter water' by firefighters, the concept of a plant internet made of fungus, historical school riots over beer rations, and the discovery of the clitoris by a 16th-century anatomist.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Firefighters use wetter water than we do.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:23"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Plants have their own internet, and it's made of fungus.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:20"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 1710, the boys of Winchester College rioted over insufficient beer rations.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:18:36"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The first man to discover the clitoris was Colombo.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:06"
+    }
+  ]
+}

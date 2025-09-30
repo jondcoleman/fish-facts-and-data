@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and historical facts, including the invention of round shredded wheat, a study on how often people touch each other in different countries, a historical law involving the word 'Soho' to avoid castration, and the story of the 'happiest man in the world' who is ironically unhappy about the title.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that the son of the man who invented shredded wheat was also an inventor. He invented round shredded wheat.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is that in the 1960s, a Canadian psychologist visited cafes across the world counting how much couples touched each other. In Puerto Rico, it was 180 times in an hour. In Paris, it was 110. In London, it was zero.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:13:25"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Okay, my fact this week is that in a very particular time and place in history, you could avoid castration by shouting the word 'soho'.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:22:26"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact is that Matthew Ricard, the man who's labeled 'the happiest man in the world,' is unhappy people call him that.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:32:45"
+    }
+  ]
+}

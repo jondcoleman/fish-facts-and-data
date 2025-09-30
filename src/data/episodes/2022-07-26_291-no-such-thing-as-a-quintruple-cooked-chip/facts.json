@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the first all-female spacewalk and the unique preparation of one of the astronauts, a restaurant on the border of the Netherlands and Belgium where you can switch countries by moving tables, a village in India that married and then divorced frogs to control rain, and the curious case of Sainsbury's triple-cooked chips that require further cooking.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "One of the women about to take part in the first all-female spacewalk has spent the last eight years hand-rearing a flock of geese.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Netherlands has a restaurant where if you move tables, there is a chance you'll end up in Belgium.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:14:44"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In order to stop drought, an Indian village married two frogs; two months later, they had to be divorced because it would not stop raining.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:24:24"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Sainsbury's sells triple cooked chips, which you then have to cook.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:37:24"
+    }
+  ]
+}

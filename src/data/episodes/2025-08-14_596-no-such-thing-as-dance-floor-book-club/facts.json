@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky historical and modern facts, including Hungarian moustaches, the use of a club song for road safety, the benefits of soundproof classrooms, and the unexpected utility of WWII bomb sites for parking.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the 19th century, some Hungarian cavalry officers got extra pay specifically because they had to spend so much money on wax for their enormous moustaches.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:49"
+    },
+    {
+      "fact_number": 2,
+      "fact": "One of the most successful club songs of all time is mostly used to stop people from wanting to dance.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:36"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Children could learn to read faster if all lessons were held in a podcast studio.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:25:56"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Second World War bombings were useful for freeing up parking spaces.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:36:40"
+    }
+  ]
+}

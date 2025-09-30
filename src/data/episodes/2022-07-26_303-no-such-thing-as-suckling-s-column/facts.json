@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including a windsurfer breaking into Alcatraz during a movie premiere, Horatio Nelson's lesser-known brother, the historical practice of paying rent with eels, and the mythological tale of Maui's unusual demise. The hosts delve into these facts with humor and additional trivia, exploring historical and cultural contexts.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1996, a windsurfer successfully broke into Alcatraz prison while it was hosting the movie premiere of The Rock, a film about people trying to break into Alcatraz.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Horatio Nelson had a brother whose name was Suckling Nelson.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:13:11"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In the 11th century, hundreds of people in the UK paid their rent in eels.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:22:40"
+    },
+    {
+      "fact_number": 4,
+      "fact": "According to Polynesian mythology, Maui, who is the god in the Disney film Moana, died by climbing into a goddess's vagina and being crushed to death by the obsidian teeth in there.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:34:22"
+    }
+  ]
+}

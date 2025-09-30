@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the historical origins of trampolines, innovative ideas for marking nuclear waste sites, Karl Marx's surprising pub crawl habits, and the fascinating hunting techniques of New Zealand glowworms.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first trampolines were made of wool or skin, and this is a thing that's called blanket tossing, and it's been practiced for thousands of years.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:33"
+    },
+    {
+      "fact_number": 2,
+      "fact": "One suggested solution to the problem of storing nuclear waste for thousands of years is putting up warning signs with Edvard Munch's The Scream on them.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:10:48"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Karl Marx used to do London pub crawls.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:17:54"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There is an insect in New Zealand that catches its prey by pretending to be a star.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:23:56"
+    }
+  ]
+}

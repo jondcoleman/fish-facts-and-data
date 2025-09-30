@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of fascinating topics, including the iridescent fur of golden moles, the history of the glass armonica invented by Benjamin Franklin, the ancient use of clay envelopes in Babylonian times, and the story of a massive snow cruiser built to traverse Antarctica that ultimately failed due to its lack of tread on the tires.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Golden moles shine in all the colors of the rainbow, and they'll never know it.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Mozart and Beethoven both composed music for an instrument made entirely of glass, invented by Benjamin Franklin.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:12:08"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Envelopes used to be made of clay.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:41:41"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1939, America made a huge vehicle to drive across Antarctica, but they put no tread on the tires so it couldn't drive on ice.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:35:28"
+    }
+  ]
+}

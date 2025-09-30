@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics, including the peculiar childhood of naturalist Frank Buckland, the relocation of buildings in Romania during the 1980s, Freddie Mercury's choice of bed, and the surprising pain of walking on Lego compared to fire and glass walking.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "As a child, the naturalist Frank Buckland learned to differentiate different kinds of animal urine by taste alone.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:48"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the 1980s, Romania lifted up and relocated dozens of buildings, often with their residents still inside them.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:06:42"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When at home Freddie Mercury slept in a queen-size bed.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:19:27"
+    },
+    {
+      "fact_number": 4,
+      "fact": "According to people who make their livings walking on fire and walking on broken glass, neither is as painful as walking on Lego.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:27:29"
+    }
+  ]
+}

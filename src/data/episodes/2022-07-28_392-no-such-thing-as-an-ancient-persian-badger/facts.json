@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on unique Guinness World Records, the Da Vinci Code plagiarism case, ancient Persian cooling systems, and the longevity of balloons. Special guest Craig Glenday, editor-in-chief of Guinness World Records, shares insights into record-breaking feats and the process of verifying records.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The world's most tattooed person finally proved that they had the Guinness World Records title by gouging out strips of their scalp and posting it to the Guinness World Records headquarters in a matchbox.",
+      "presenter": "Craig Glenday",
+      "guest": true,
+      "start_time": "00:02:21"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The judge who presided over the Da Vinci Code plagiarism case hid his own code in the actual text of the judgment.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:57"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In ancient Persia, instead of sitting in front of a fireplace to warm you up, you'd sit in front of a wind place to cool you down.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:31:31"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The world's oldest balloon has been blown up for nearly 30 years.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:43:57"
+    }
+  ]
+}

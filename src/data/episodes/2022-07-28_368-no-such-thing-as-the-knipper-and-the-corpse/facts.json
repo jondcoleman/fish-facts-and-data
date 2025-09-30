@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the unusual transportation of Anton Chekhov's body, a rare medical condition causing a woman to bleed from her eyes, the use of muffins to operate touchscreens, and a butterfly's journey facilitated by an airline. The hosts delve into these facts with humor and curiosity, exploring the historical, scientific, and quirky aspects of each story.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "After his death, Anton Chekhov was brought back to Russia in a refrigerated railway car labelled Fresh Oysters.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Earlier this year, a woman reported that she was bleeding from her eyes whenever she was on her period.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:18:38"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Touch screens can now be operated using muffins.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:29:23"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 2012, Southwest Airlines agreed to fly a single butterfly 2000 miles after it overslept and missed its ride.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:39:17"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a man in Nepal who can lick his own forehead, the history of chocolate gramophone records, a fraudulent guide to Formosa by George Psalmanazar, and Iceland's RAM Registry cataloging the country's most eligible sheep.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There is a man in Nepal who can lick his own forehead.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:01:49"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1903, you could buy a gramophone record made of chocolate, which you could play a song on and then eat the disc.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:12:03"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In the early 1700s, the most popular British guide to the history, language, and culture of Taiwan was written by a man who didn't speak the language, had never been there, and knew nothing about it.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:18:12"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Ahead of breeding season, Iceland publishes an illustrated catalogue of the country's most eligible sheep.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:28:28"
+    }
+  ]
+}

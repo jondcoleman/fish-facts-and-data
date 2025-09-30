@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including Kaiser Wilhelm's unusual behavior, the unintended consequences of pickpocket warning signs, the pronunciation mystery of Louis Armstrong's name, and the extraordinary vocal abilities of a man with the lowest voice on record.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Kaiser Wilhelm once lost a valuable arms contract for Germany because he slapped the King of Bulgaria on the bottom.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:35"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Beware of pickpockets signs attract pickpockets.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:10:03"
+    },
+    {
+      "fact_number": 3,
+      "fact": "No one is quite sure how to say the name Louis Armstrong, or Louis Armstrong.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:20:08"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The man who holds the Guinness World Record for the lowest voice can hit notes that are so low, only elephants can hear them.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:26"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky historical and contemporary facts, including unusual childcare practices, a man living in a sandcastle, a conspiracy theory about Queen Elizabeth I, and humorous AI-generated love heart messages.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Until the 17th century, mothers hung their babies up on hooks while they worked.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:48"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There's a man in Brazil who's been living in a sand castle for 22 years.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:10:24"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Queen Elizabeth the first was a man, according to the Dracula author, Bram Stoker.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:17:47"
+    },
+    {
+      "fact_number": 4,
+      "fact": "When a computer tried to come up with romantic messages for love heart sweets based on existing ones, it came up with bear wig, meat mate, bong love, and you are bag.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:28:00"
+    }
+  ]
+}

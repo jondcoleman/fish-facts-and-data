@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of fascinating topics, including the surprising use of sticky rice in the construction of the Great Wall of China, the existence of a massive single-celled organism, the deadly effects of a boomslang snake bite, and the posthumous social media presence of Albert Einstein.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The Great Wall of China is held together by Sticky Rice.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:34"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The world's largest single-celled organism can get up to 12 inches long.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:11:49"
+    },
+    {
+      "fact_number": 3,
+      "fact": "If you're bitten by the boomslang snake, you bleed from every orifice.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:28:01"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Albert Einstein has a social media team.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:37:17"
+    }
+  ]
+}

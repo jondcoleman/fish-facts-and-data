@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of quirky and fascinating topics, including the frequent changes in Australian Prime Ministers, a mishap at a Titanic Museum, the unexpected items left on the moon by Apollo missions, and the peculiarities of the deer pizzle market in New Zealand.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 2015, paramedics in Australia stopped asking patients to name the Prime Minister as a test of mental capacity because the answer changes so often, it's no longer considered a reliable indicator.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:53"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Three people were recently hospitalized after being hit by an iceberg at a Titanic Museum.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:11:02"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There are nine hammocks on the moon.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:22:21"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Deer penises are often sold with the pelvis attached, so the buyer knows they're not being ripped off with a seal's penis.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:33:53"
+    }
+  ]
+}

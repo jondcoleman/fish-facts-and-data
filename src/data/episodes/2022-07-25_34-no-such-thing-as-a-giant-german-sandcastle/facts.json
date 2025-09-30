@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the surprising smells of comets, the adventurous life of explorer Sir Ranulph Fiennes, the changing height requirements for Ryanair cabin crew, and a curious claim about Steven Seagal's involvement in dismantling a nuclear device.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Comets stink. The Rosetta probe found that comets smell like a mixture of rotten eggs, cat urine, and bitter almonds.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The explorer Sir Ranulph Fiennes, who is the oldest Briton ever to have climbed Mount Everest, used to get such bad vertigo that he would ask his wife to climb ladders to clear the gutters instead of him.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:09:55"
+    },
+    {
+      "fact_number": 3,
+      "fact": "A Ryanair crew member recruited today could not possibly be the same height as a crew member from the first Ryanair cabin crew.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:15:15"
+    },
+    {
+      "fact_number": 4,
+      "fact": "According to his website, Steven Seagal is the only private citizen to destroy a nuclear device.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:24:42"
+    }
+  ]
+}

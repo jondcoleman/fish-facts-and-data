@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the meticulous gardening habits of Yves Saint Laurent's gardener, the massive and subsequently destroyed Chinese treasure fleet of the 1400s, the innovative use of surplus wind energy in Hamburg, and the amusingly named co-author of a classic editing textbook.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Yves Saint Laurent's gardener used hair clippers to keep his cactuses perfectly trimmed.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:11"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the early 1400s, China had ships four times larger than anything else in Europe. By the 1500s, it had deliberately destroyed them.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:16:22"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The largest kettle in Hamburg is called Caroline.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:30:16"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The classic textbook, The Art of Editing, was co-written by Jack Scissors.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:44:40"
+    }
+  ]
+}

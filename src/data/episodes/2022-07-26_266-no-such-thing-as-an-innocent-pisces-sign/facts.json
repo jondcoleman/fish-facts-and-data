@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and fascinating facts, including the use of Comic Sans on the Coppa Del Rey trophy, the misleading name of Chock full o'Nuts coffee, Robert Hooke's detailed diary entries, and the unique defecation process of warty comb jellies.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The oldest football cup competition in Spain is the Coppa Del Rey, and each year the winner gets their name engraved in the trophy in Comic Sans.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:46"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The American product 'Chock full o'Nuts' contains no nuts.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:11:06"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The scientist Robert Hooke recorded in his diary every time he had an orgasm.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:19:57"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Warty comb jellies grow a brand new anus every time they need to defecate.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:29:03"
+    }
+  ]
+}

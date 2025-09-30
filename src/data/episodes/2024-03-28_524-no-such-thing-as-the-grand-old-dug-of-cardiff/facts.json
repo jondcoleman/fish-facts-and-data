@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features facts about a pregnant golfer who played in the US Open, the historical debate over the barnacle goose's classification, first-class passengers on the Titanic organizing snowball fights, and businesses naming themselves 'near me' to manipulate search results.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Golfer Brenda Keane took part in the 2001 Women's US Open while eight months pregnant and started contractions on one of her back swings.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:59"
+    },
+    {
+      "fact_number": 2,
+      "fact": "For almost a thousand years, Christians have debated whether to treat the barnacle goose as a barnacle or a goose.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:17:01"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Just after the Titanic hit the iceberg, many of the first class passengers sprung into action and immediately organized snowball fights for the next morning.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:32:52"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Entrepreneurs have been ending their business's names with 'near me' in an attempt to appear near the top of search results.",
+      "presenter": "Lydia Maison",
+      "guest": true,
+      "start_time": "00:46:49"
+    }
+  ]
+}

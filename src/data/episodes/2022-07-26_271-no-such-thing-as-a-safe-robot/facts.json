@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and humorous topics, including a robot hitchhiker's ill-fated journey, a Hungarian entrepreneur's fine for not building a dog treadmill, Elizabeth Taylor's posthumous punctuality, and Mexico's national championship of double entendres.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Hitchbott was a robot invented to see how far human kindness would take a mechanical Hitchhiker. In 2015 he was left on the side of the road in Boston and was found dismembered in a ditch 17 days later.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:48"
+    },
+    {
+      "fact_number": 2,
+      "fact": "A Hungarian entrepreneur has been fined for not building an underwater treadmill for dogs.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:09:24"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The late actress Elizabeth Taylor, who was notorious for always being late, arranged to arrive at her own funeral 15 minutes late.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:19:35"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Mexico has a national championship of double entendres.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:27:51"
+    }
+  ]
+}

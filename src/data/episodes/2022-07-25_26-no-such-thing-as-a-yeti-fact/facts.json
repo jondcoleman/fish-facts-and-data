@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features discussions on Coco the gorilla and her pet cats, the peculiarities of Yetis, the diverse arts suggested by the Kama Sutra, and the vast amount of water in Earth's atmosphere. The hosts explore these topics with humor and curiosity, alongside guest Simon Rich.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Coco the gorilla, who knows sign language, has owned and cared for three pet cats over her lifetime.",
+      "presenter": "Simon Rich",
+      "guest": true,
+      "start_time": "00:01:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "According to Yeti experts, it is easier to escape a female Yeti than a male Yeti because female Yetis have such long dangling boobs that before they can chase you, they need to chuck them over their shoulders like a scarf.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:11:06"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The Kama Sutra suggests 64 arts to practice alongside sex, including solving word puzzles and teaching birds how to talk.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:19:19"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There are more than 15 trillion tons of water above the Earth at any given moment.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:31:21"
+    }
+  ]
+}

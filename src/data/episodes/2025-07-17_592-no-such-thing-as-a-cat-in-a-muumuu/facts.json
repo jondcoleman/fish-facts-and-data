@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a variety of quirky and historical topics, including the unique tradition of foot ironing in Egypt, a medieval battle involving a mysterious 'earth horn', the first TV advertisement made specifically for cats, and the life of a notable nudist named Dick Bacon.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Ironing in Egypt is traditionally a man's job, and they do it with their feet.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "900 years ago, England beat Scotland in a battle with an earth horn super weapon, which scattered the Scots by frightening their cows.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:13:56"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 1999, the first ever TV ad made for cats was broadcast on ITV and had an estimated viewership of three million cats.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:26:05"
+    },
+    {
+      "fact_number": 4,
+      "fact": "America's nudist of the year, 1973, who also invented a contraption that allowed him to sunbathe in sub-zero temperatures, was a man called Dick Bacon.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:42:23"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of intriguing topics, including the ownership of the UFC by the UAE, a new law in Palau requiring all hotels to be five-star, the availability of free portraits of the Queen for Canadian citizens, and the classification of humans in the first edition of the Encyclopedia Britannica.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "10% of the UFC is owned by the UAE.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Palau is about to pass a law, meaning that every hotel in the country has to be five star.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:13:16"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Every Canadian citizen is entitled to a free government issue portrait of the Queen.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:18:23"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The first ever Encyclopedia Britannica said that humans were divided into five categories: American, European, Asian, African, and monstrous.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:25:33"
+    }
+  ]
+}

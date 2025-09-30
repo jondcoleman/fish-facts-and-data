@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on historical and modern handshakes, Amelia Earhart's legacy and mysterious disappearance, the use of particle accelerators to study fossilized feces, and the fictional backstory of Frasier Crane's wealth. Special guest Ella Al-Shemahi shares insights from her book on handshakes.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "An anti-handshake society was formed in Baku, Azerbaijan in 1894 because of a cholera outbreak.",
+      "presenter": "Ella Al-Shemahi",
+      "guest": true,
+      "start_time": "00:02:06"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The 2013 recipient of the Amelia Earhart pioneering achievement award, who later successfully completed Amelia Earhart's fatal circumnavigation of the world, is called Amelia Earhart.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:52"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Scientists have started putting fossilised poos in particle accelerators.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:31:28"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Frasier Crane was an early investor in Microsoft.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:44:58"
+    }
+  ]
+}

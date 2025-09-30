@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the origin of the Doomsday Clock's initial setting, villagers in the Central African Republic who coexist with lions to scavenge their kills, a Victorian time capsule in London containing photos of the era's beauties, and the self-cleaning process of women's breasts after breastfeeding.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The Doomsday Clock was originally set at seven minutes to midnight because the artist responsible for it thought it looked good.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:17"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Some villagers in the Central African Republic deliberately allow lions to live nearby so they can steal their food.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:11:09"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There is a Victorian time capsule buried in London that contains photographs of the 12 best looking women in England.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:18:57"
+    },
+    {
+      "fact_number": 4,
+      "fact": "After women stop breastfeeding, their breasts eat themselves.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:31:02"
+    }
+  ]
+}

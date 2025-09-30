@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on the optimal number of people for a conversation, the advantages of fake diamond rings, historical math duels in Italy, and a boxing match influenced by hypnosis.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "If this conversation had one extra person it would be substantially less funny.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:04"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Fake diamond rings are better than real ones.",
+      "presenter": "Hannah Fry",
+      "guest": true,
+      "start_time": "00:19:20"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 16th century Italy, duels often took place where the chosen weapon was very hard maths questions.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:32:10"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Boxer Chris Eubank once lobbied to cancel a championship match just hours before it began because he believed his opponent had been hypnotized to feel no pain and also so that he could see punches coming at him three times slower than normal.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:46:25"
+    }
+  ]
+}

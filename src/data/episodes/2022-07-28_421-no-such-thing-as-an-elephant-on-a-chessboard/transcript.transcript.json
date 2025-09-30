@@ -1,0 +1,5667 @@
+[
+  {
+    "start": 0,
+    "end": 4.26,
+    "text": " Hi everybody, just before we start this week's show, we want to let you know we have a very exciting guest on."
+  },
+  {
+    "start": 4.26,
+    "end": 8.56,
+    "text": " It's none other than the undercover economist himself, Tim Harford."
+  },
+  {
+    "start": 8.56,
+    "end": 12.16,
+    "text": " Tim Harford is a brilliant writer, thinker."
+  },
+  {
+    "start": 12.16,
+    "end": 14.12,
+    "text": " He makes books, he makes radio shows."
+  },
+  {
+    "start": 14.12,
+    "end": 15.78,
+    "text": " He makes books. He's a bookmaker."
+  },
+  {
+    "start": 15.78,
+    "end": 16.62,
+    "text": " He's a book binder."
+  },
+  {
+    "start": 16.62,
+    "end": 18.12,
+    "text": " He makes, he turns trees into paper."
+  },
+  {
+    "start": 18.12,
+    "end": 20.12,
+    "text": " He's bound a million books."
+  },
+  {
+    "start": 20.12,
+    "end": 21.32,
+    "text": " It's so amazing."
+  },
+  {
+    "start": 21.32,
+    "end": 27.56,
+    "text": " You know, if you've heard of Messi or 50 things that made the modern economy or the undercover economist, all of these books, they're by him."
+  },
+  {
+    "start": 27.56,
+    "end": 31.84,
+    "text": " They are, and he's got a podcast called Cautionary Tales, which I would massively recommend."
+  },
+  {
+    "start": 31.84,
+    "end": 33.6,
+    "text": " I've just been listening to a bunch of them."
+  },
+  {
+    "start": 33.6,
+    "end": 39.44,
+    "text": " They are brilliant and true life stories, which teach you things about how humans behave."
+  },
+  {
+    "start": 39.44,
+    "end": 41.76,
+    "text": " I've been listening to one about the mummy's curse."
+  },
+  {
+    "start": 41.76,
+    "end": 44.88,
+    "text": " There's an excellent one on Hansel and Gretel, which is really amazing."
+  },
+  {
+    "start": 44.88,
+    "end": 48.24,
+    "text": " And they often have a little twist at the end and really well told."
+  },
+  {
+    "start": 48.24,
+    "end": 49.88,
+    "text": " So check out that podcast."
+  },
+  {
+    "start": 49.88,
+    "end": 51.7,
+    "text": " But first of all, listen to this one."
+  },
+  {
+    "start": 51.7,
+    "end": 52.68,
+    "text": " On with the show."
+  },
+  {
+    "start": 52.68,
+    "end": 53.66,
+    "text": " On with the show."
+  },
+  {
+    "start": 53.66,
+    "end": 79.74,
+    "text": ". Hello and welcome to another episode of No Such Thing as a Fish, the weekly podcast coming to you this week from four top secret underground undisclosed locations."
+  },
+  {
+    "start": 79.74,
+    "end": 88.62,
+    "text": " My name is Anna Toshinsky, and I am sitting here today with James Harkin, Andrew Hunter Murray and our very special guest, Tim Harford."
+  },
+  {
+    "start": 88.62,
+    "end": 98.18,
+    "text": " And once again, we've gathered around our microphones with our four favorite facts from the last seven days, and in no particular order, here we go, starting with you, Tim."
+  },
+  {
+    "start": 98.18,
+    "end": 108.06,
+    "text": " My fact is that in 1939, a young doctor at Boston City Hospital went on a scurvy producing diet to see what would happen."
+  },
+  {
+    "start": 108.06,
+    "end": 118.26,
+    "text": " In May 1940, his fellow doctors staged an intervention after his skin started to bleed from his follicles and an old post-operative scar reopened."
+  },
+  {
+    "start": 118.26,
+    "end": 119.94,
+    "text": " Oh, no."
+  },
+  {
+    "start": 119.94,
+    "end": 120.98,
+    "text": " Lovely."
+  },
+  {
+    "start": 120.98,
+    "end": 125.42,
+    "text": " Why did because the people sort of knew what happened when he got scurvy at that point, right?"
+  },
+  {
+    "start": 125.42,
+    "end": 127.46,
+    "text": " Why? Why was he doing this?"
+  },
+  {
+    "start": 127.46,
+    "end": 129.9,
+    "text": " They did. So he survived, by the way."
+  },
+  {
+    "start": 129.9,
+    "end": 134.7,
+    "text": " So I read the medical paper that he and a colleague wrote after this experiment."
+  },
+  {
+    "start": 134.7,
+    "end": 137.58,
+    "text": " So the puzzle was, I mean, people had been suffering from scurvy."
+  },
+  {
+    "start": 137.58,
+    "end": 142.82,
+    "text": " And worrying about scurvy for hundreds of years and kind of discovering cures and then forgetting cures."
+  },
+  {
+    "start": 142.82,
+    "end": 143.82,
+    "text": " It's all very fascinating."
+  },
+  {
+    "start": 143.82,
+    "end": 150.3,
+    "text": " But by the 1930s, they'd figured out that scurvy is caused by not having enough vitamin C."
+  },
+  {
+    "start": 150.3,
+    "end": 155.9,
+    "text": " But the puzzle was, if you deprive people of vitamin C, it very quickly leaves the body."
+  },
+  {
+    "start": 155.9,
+    "end": 159.34,
+    "text": " So after a week or so, you've got no vitamin C, but then everything's fine."
+  },
+  {
+    "start": 159.34,
+    "end": 163.38,
+    "text": " And people don't actually develop any symptoms for weeks or even months."
+  },
+  {
+    "start": 163.38,
+    "end": 168.5,
+    "text": " And so this guy, his name was John Crandon and his colleagues were just trying to figure out,"
+  },
+  {
+    "start": 168.5,
+    "end": 175.7,
+    "text": " well, how long can you go and what happens and what order do these terrible symptoms appear in?"
+  },
+  {
+    "start": 175.7,
+    "end": 177.9,
+    "text": " And he said, well, no one else is going to do it."
+  },
+  {
+    "start": 177.9,
+    "end": 180.14,
+    "text": " So I'm going to do it. And so he did."
+  },
+  {
+    "start": 180.14,
+    "end": 184.5,
+    "text": " And yeah, he was absolutely fine for two or three months."
+  },
+  {
+    "start": 184.5,
+    "end": 188.5,
+    "text": " And then I read the description of what happened."
+  },
+  {
+    "start": 188.5,
+    "end": 191.7,
+    "text": " He started on October the 19th, 1939."
+  },
+  {
+    "start": 191.7,
+    "end": 194.5,
+    "text": " His scurvy producing diet was actually his hands."
+  },
+  {
+    "start": 194.5,
+    "end": 200.74,
+    "text": " OK, it's eggs, cheese, bread, butter, chocolate and coffee gets a bit boring after a little bit."
+  },
+  {
+    "start": 200.74,
+    "end": 201.86,
+    "text": " But it's fine for a while."
+  },
+  {
+    "start": 201.86,
+    "end": 204.5,
+    "text": " Genuinely, that is my diet."
+  },
+  {
+    "start": 204.5,
+    "end": 206.38,
+    "text": " You can add some red wine in there."
+  },
+  {
+    "start": 206.38,
+    "end": 208.54,
+    "text": " And then that's basically it after we finish this."
+  },
+  {
+    "start": 208.54,
+    "end": 212.7,
+    "text": " You're really going to start wanting some orange juice to add to that, James, I think."
+  },
+  {
+    "start": 212.7,
+    "end": 216.26,
+    "text": " So he says he says after about four and a half months,"
+  },
+  {
+    "start": 216.26,
+    "end": 219.58,
+    "text": " hyperkeratotic papules had developed on the buttocks."
+  },
+  {
+    "start": 219.58,
+    "end": 221.94,
+    "text": " Now, that doesn't sound good at all."
+  },
+  {
+    "start": 221.94,
+    "end": 227.78,
+    "text": " I was going to Google hyperkeratotic buttock papules and then I decided I wasn't going to do that."
+  },
+  {
+    "start": 227.78,
+    "end": 231.46,
+    "text": " Don't worry, Tim, I've been eating nothing but chocolate and bread for the last six months."
+  },
+  {
+    "start": 231.46,
+    "end": 235.3,
+    "text": " I can tell you exactly what they are."
+  },
+  {
+    "start": 235.3,
+    "end": 236.46,
+    "text": " Oh, please don't."
+  },
+  {
+    "start": 236.46,
+    "end": 239.86,
+    "text": " James has just taken his trousers down and shown us his buttocks."
+  },
+  {
+    "start": 239.86,
+    "end": 242.26,
+    "text": " And it is disgusting."
+  },
+  {
+    "start": 242.26,
+    "end": 246.94,
+    "text": " It's really I'm not going to be able to take that image out of my mind now."
+  },
+  {
+    "start": 246.94,
+    "end": 252.26,
+    "text": " And then after five months, he started just started bleeding around the hair follicles on his legs."
+  },
+  {
+    "start": 252.26,
+    "end": 254.38,
+    "text": " He got incredibly tired."
+  },
+  {
+    "start": 254.38,
+    "end": 260.06,
+    "text": " He used to run on a treadmill and by the end of this, he could do 50 meters on a treadmill."
+  },
+  {
+    "start": 260.06,
+    "end": 263.7,
+    "text": " It took him 16 seconds to do 50 meters, which is not very fast."
+  },
+  {
+    "start": 263.7,
+    "end": 265.38,
+    "text": " And then that was too much."
+  },
+  {
+    "start": 265.38,
+    "end": 267.1,
+    "text": " And he was quite a young man."
+  },
+  {
+    "start": 267.1,
+    "end": 272.82,
+    "text": " And at six months, they made a surgical incision basically just to see whether it would heal."
+  },
+  {
+    "start": 272.82,
+    "end": 274.02,
+    "text": " And it didn't."
+  },
+  {
+    "start": 274.02,
+    "end": 275.9,
+    "text": " And I think they probably shouldn't have been surprised at that"
+  },
+  {
+    "start": 275.9,
+    "end": 281.98,
+    "text": " because he had a scar from a 15-year-old appendectomy that was reopening by this point."
+  },
+  {
+    "start": 281.98,
+    "end": 284.5,
+    "text": " And then they said, \"All right, you've done enough."
+  },
+  {
+    "start": 284.5,
+    "end": 285.38,
+    "text": " You've done enough.\""
+  },
+  {
+    "start": 285.38,
+    "end": 288.98,
+    "text": " And they started giving him intravenous vitamin C and he was fine."
+  },
+  {
+    "start": 288.98,
+    "end": 293.78,
+    "text": " That's so scientific to say, well, your old scar has reopened."
+  },
+  {
+    "start": 293.78,
+    "end": 296.9,
+    "text": " But just in case, we're going to have to make another scar"
+  },
+  {
+    "start": 296.9,
+    "end": 298.62,
+    "text": " and see if that also fails to heal."
+  },
+  {
+    "start": 298.62,
+    "end": 301.9,
+    "text": " Like, that's so impressive, the scientific method, I think."
+  },
+  {
+    "start": 301.9,
+    "end": 302.98,
+    "text": " Is it?"
+  },
+  {
+    "start": 302.98,
+    "end": 304.06,
+    "text": " I think so."
+  },
+  {
+    "start": 304.06,
+    "end": 310.1,
+    "text": " I find that one of the most kind of morbid things about scurvy"
+  },
+  {
+    "start": 310.1,
+    "end": 312.18,
+    "text": " is the whole wounds reopening."
+  },
+  {
+    "start": 312.18,
+    "end": 315.66,
+    "text": " It takes you back in time, but in just a way that you really don't want to go back in time,"
+  },
+  {
+    "start": 315.66,
+    "end": 319.86,
+    "text": " the idea that these ancient and bone breaks re-break, don't they?"
+  },
+  {
+    "start": 319.86,
+    "end": 323.94,
+    "text": " Because I think you start making collagen, which basically holds your body together."
+  },
+  {
+    "start": 323.94,
+    "end": 326.94,
+    "text": " And so, I don't know, the idea of all these ancient wounds"
+  },
+  {
+    "start": 326.94,
+    "end": 330.18,
+    "text": " you'd completely forgotten about reopening is pretty fine."
+  },
+  {
+    "start": 330.18,
+    "end": 333.38,
+    "text": " All your exes ring up and break up with you all over again."
+  },
+  {
+    "start": 333.38,
+    "end": 336.06,
+    "text": " It's another unknown symptom."
+  },
+  {
+    "start": 336.06,
+    "end": 339.54,
+    "text": " It's really mad that it's two or three months that you're fine for,"
+  },
+  {
+    "start": 339.54,
+    "end": 342.9,
+    "text": " because I guess that explains why in the age of sale,"
+  },
+  {
+    "start": 342.9,
+    "end": 349.06,
+    "text": " sailors got scurvy because it was just long enough to get really, really, really far away from the nearest lemon."
+  },
+  {
+    "start": 349.06,
+    "end": 352.98,
+    "text": " As in, if you've got it within a day of not having any vitamin C,"
+  },
+  {
+    "start": 352.98,
+    "end": 357.66,
+    "text": " then everyone would immediately come back to port and say, \"Well, we die at sea, so we're not going to go.\""
+  },
+  {
+    "start": 357.66,
+    "end": 360.7,
+    "text": " It's quite cool. It's almost like a lemon detector, isn't it?"
+  },
+  {
+    "start": 360.7,
+    "end": 366.94,
+    "text": " You can tell how far away you are from a lemon, just by how much blood is coming out of your paws."
+  },
+  {
+    "start": 366.94,
+    "end": 369.86,
+    "text": " Not very. You can only tell to within three months away."
+  },
+  {
+    "start": 369.86,
+    "end": 372.26,
+    "text": " I mean, it's not that accurate."
+  },
+  {
+    "start": 372.26,
+    "end": 375.42,
+    "text": " There are easier ways to detect lemons, and actually, it's..."
+  },
+  {
+    "start": 375.42,
+    "end": 377.06,
+    "text": " - Are there? - It's difficult."
+  },
+  {
+    "start": 377.06,
+    "end": 382.18,
+    "text": " The reason I got interested in this is because I discovered that"
+  },
+  {
+    "start": 382.18,
+    "end": 386.18,
+    "text": " Scott of the Antarctic suffered from scurvy."
+  },
+  {
+    "start": 386.18,
+    "end": 389.66,
+    "text": " It's controversial as to whether his final mission was affected by scurvy,"
+  },
+  {
+    "start": 389.66,
+    "end": 393.3,
+    "text": " but certainly earlier missions were, and some of the people he went to"
+  },
+  {
+    "start": 393.3,
+    "end": 395.86,
+    "text": " who tried to get to the South Pole with were affected by scurvy."
+  },
+  {
+    "start": 395.86,
+    "end": 399.02,
+    "text": " And I thought, \"Hang on a minute. He's a British Navy captain.\""
+  },
+  {
+    "start": 399.02,
+    "end": 402.54,
+    "text": " And didn't the British Navy figure all this out in 1747?"
+  },
+  {
+    "start": 402.54,
+    "end": 407.1,
+    "text": " James Lindes famously did this, the first ever randomized controlled trial, people say,"
+  },
+  {
+    "start": 407.1,
+    "end": 409.62,
+    "text": " and discovered that you could prevent scurvy with lemons."
+  },
+  {
+    "start": 409.62,
+    "end": 413.98,
+    "text": " And then they started calling British sailors limies because they used to have lime juice."
+  },
+  {
+    "start": 413.98,
+    "end": 418.22,
+    "text": " And so, what happened? How could the British Navy forget this?"
+  },
+  {
+    "start": 418.22,
+    "end": 422.02,
+    "text": " And it is partly because it's not a very good lemon detector."
+  },
+  {
+    "start": 422.02,
+    "end": 424.34,
+    "text": " It turns out there's vitamin C in almost everything."
+  },
+  {
+    "start": 424.34,
+    "end": 426.1,
+    "text": " You have to work quite hard."
+  },
+  {
+    "start": 426.1,
+    "end": 427.74,
+    "text": " I mean, James is doing this hard work."
+  },
+  {
+    "start": 427.74,
+    "end": 431.06,
+    "text": " You have to work quite hard to completely deprive yourself of vitamin C."
+  },
+  {
+    "start": 431.06,
+    "end": 434.7,
+    "text": " So people get confused, so basically the signals get very mixed."
+  },
+  {
+    "start": 434.7,
+    "end": 438.06,
+    "text": " And what Andy was saying about these sea voyages,"
+  },
+  {
+    "start": 438.06,
+    "end": 440.7,
+    "text": " another reason the British Navy started getting confused"
+  },
+  {
+    "start": 440.7,
+    "end": 444.5,
+    "text": " is because they switched to steamships."
+  },
+  {
+    "start": 444.5,
+    "end": 449.66,
+    "text": " And so they were still taking a remedy for scurvy that turns out wasn't working."
+  },
+  {
+    "start": 449.66,
+    "end": 453.1,
+    "text": " But because they were all on steamships, steamships travel quite quickly."
+  },
+  {
+    "start": 453.1,
+    "end": 454.62,
+    "text": " They have to refuel."
+  },
+  {
+    "start": 454.62,
+    "end": 457.18,
+    "text": " Every time you refuel, you take on fresh food."
+  },
+  {
+    "start": 457.18,
+    "end": 460.9,
+    "text": " And so they were sticking to this cure for scurvy they thought was working."
+  },
+  {
+    "start": 460.9,
+    "end": 461.82,
+    "text": " It wasn't working."
+  },
+  {
+    "start": 461.82,
+    "end": 465.42,
+    "text": " It didn't matter because there wasn't time for anybody to develop scurvy."
+  },
+  {
+    "start": 465.42,
+    "end": 469.54,
+    "text": " And then suddenly these Arctic and Antarctic explorers all started coming down with scurvy."
+  },
+  {
+    "start": 469.54,
+    "end": 472.14,
+    "text": " And everybody got monumentally confused at that point."
+  },
+  {
+    "start": 472.14,
+    "end": 474.46,
+    "text": " So the lemons and limes don't really work that well."
+  },
+  {
+    "start": 474.46,
+    "end": 475.66,
+    "text": " Is that what we're saying?"
+  },
+  {
+    "start": 475.66,
+    "end": 476.78,
+    "text": " So there's two things."
+  },
+  {
+    "start": 476.78,
+    "end": 480.82,
+    "text": " One is that limes, although they're more acidic, have less vitamin C in."
+  },
+  {
+    "start": 480.82,
+    "end": 481.86,
+    "text": " So they still work."
+  },
+  {
+    "start": 481.86,
+    "end": 485.46,
+    "text": " They used to be using Sicilian lemons and they're really juicy"
+  },
+  {
+    "start": 485.46,
+    "end": 488.62,
+    "text": " and got loads of vitamin C, and then they switched for geopolitical reasons"
+  },
+  {
+    "start": 488.62,
+    "end": 492.86,
+    "text": " to West Indian limes and that they're less effective."
+  },
+  {
+    "start": 492.86,
+    "end": 495.74,
+    "text": " But the other thing is vitamin C is destroyed really easily."
+  },
+  {
+    "start": 495.74,
+    "end": 497.58,
+    "text": " It's destroyed by contact with copper."
+  },
+  {
+    "start": 497.58,
+    "end": 499.9,
+    "text": " And a lot of these ships had copper vessels."
+  },
+  {
+    "start": 499.9,
+    "end": 502.1,
+    "text": " It's destroyed by contact with sunlight."
+  },
+  {
+    "start": 502.1,
+    "end": 503.78,
+    "text": " It's destroyed by heat."
+  },
+  {
+    "start": 503.78,
+    "end": 507.22,
+    "text": " And so you had this sort of old lime juice that was going a bit rancid."
+  },
+  {
+    "start": 507.22,
+    "end": 511.22,
+    "text": " And there wasn't any vitamin C in it anymore, but people were still taking it."
+  },
+  {
+    "start": 511.22,
+    "end": 516.22,
+    "text": " And so then when they started taking lime juice on Arctic expeditions and it didn't work,"
+  },
+  {
+    "start": 516.22,
+    "end": 518.14,
+    "text": " they lost faith and they started there."
+  },
+  {
+    "start": 518.14,
+    "end": 521.1,
+    "text": " And at the same time, there's germ theory being developed."
+  },
+  {
+    "start": 521.1,
+    "end": 524.78,
+    "text": " And they started going, oh, maybe scurvy is nothing to do with lemons and limes at all."
+  },
+  {
+    "start": 524.78,
+    "end": 527.54,
+    "text": " Maybe it's to do with some kind of germ that we can't see,"
+  },
+  {
+    "start": 527.54,
+    "end": 530.62,
+    "text": " which of course was completely up the wrong tree."
+  },
+  {
+    "start": 530.62,
+    "end": 533.7,
+    "text": " It's just crazy when you read about the history of scurvy,"
+  },
+  {
+    "start": 533.7,
+    "end": 538.3,
+    "text": " how early on they suggested that citrus was a cure and how many hundreds of years"
+  },
+  {
+    "start": 538.3,
+    "end": 540.54,
+    "text": " they skirt around it, skirt around it."
+  },
+  {
+    "start": 540.54,
+    "end": 541.9,
+    "text": " And sort of just like, yeah, I think it is."
+  },
+  {
+    "start": 541.9,
+    "end": 543.3,
+    "text": " And then go, actually, maybe not."
+  },
+  {
+    "start": 543.3,
+    "end": 548.78,
+    "text": " It's so frustrating because it's so easy to sort out once you definitely know."
+  },
+  {
+    "start": 548.78,
+    "end": 550.26,
+    "text": " But I found, you know, it's really quick."
+  },
+  {
+    "start": 550.26,
+    "end": 555.46,
+    "text": " You know, Scott, one of the people on his expeditions who got scurvy was Shackleton,"
+  },
+  {
+    "start": 555.46,
+    "end": 558.34,
+    "text": " which I didn't know that they did an expedition together."
+  },
+  {
+    "start": 558.34,
+    "end": 560.54,
+    "text": " But yeah, there was a bit of bad blood."
+  },
+  {
+    "start": 560.54,
+    "end": 561.54,
+    "text": " They didn't like each other."
+  },
+  {
+    "start": 561.54,
+    "end": 562.62,
+    "text": " It was quite a rivalry."
+  },
+  {
+    "start": 562.62,
+    "end": 567.54,
+    "text": " Indeed, there seems to be a bit of a conspiracy theory that maybe Shackleton wasn't that ill"
+  },
+  {
+    "start": 567.54,
+    "end": 571.14,
+    "text": " and Scott sort of kicked him off the expedition because he wasn't really getting along with him."
+  },
+  {
+    "start": 571.14,
+    "end": 574.38,
+    "text": " Shackleton was like the fun, spontaneous one, wasn't he?"
+  },
+  {
+    "start": 574.38,
+    "end": 576.42,
+    "text": " And Scott was a bit more of a serious bore."
+  },
+  {
+    "start": 576.42,
+    "end": 579.5,
+    "text": " Really? So Scott said, oh, you're definitely, you're far too ill."
+  },
+  {
+    "start": 579.5,
+    "end": 580.54,
+    "text": " You've definitely got scurvy."
+  },
+  {
+    "start": 580.54,
+    "end": 585.34,
+    "text": " And Shackleton was like, well, I haven't even got any hyperkinetic papules."
+  },
+  {
+    "start": 585.34,
+    "end": 588.58,
+    "text": " The point where Shackleton pulled down his pants to display his buttocks."
+  },
+  {
+    "start": 588.58,
+    "end": 589.58,
+    "text": " Look at this."
+  },
+  {
+    "start": 589.58,
+    "end": 591.74,
+    "text": " And that's when he got chucked off the expedition."
+  },
+  {
+    "start": 591.74,
+    "end": 593.62,
+    "text": " And guinea pigs get scurvy."
+  },
+  {
+    "start": 593.62,
+    "end": 594.62,
+    "text": " Do they?"
+  },
+  {
+    "start": 594.62,
+    "end": 595.62,
+    "text": " Yeah."
+  },
+  {
+    "start": 595.62,
+    "end": 600.46,
+    "text": " Because they mean, if I eat guinea pig, then I would not get any vitamin C."
+  },
+  {
+    "start": 600.46,
+    "end": 604.42,
+    "text": " I think if you eat a healthy guinea pig, you'll be fine."
+  },
+  {
+    "start": 604.42,
+    "end": 606.42,
+    "text": " Because I know James did as well as the diet you eat."
+  },
+  {
+    "start": 606.42,
+    "end": 607.66,
+    "text": " I have eaten a guinea pig."
+  },
+  {
+    "start": 607.66,
+    "end": 614.42,
+    "text": " But you occasionally have guinea pig mints on your bread and with your coffee."
+  },
+  {
+    "start": 614.42,
+    "end": 619.82,
+    "text": " No, because they, they can't make their own vitamin C and that's, we can't do that either."
+  },
+  {
+    "start": 619.82,
+    "end": 623.98,
+    "text": " And we're all, there's this weird club of crap animals, including humans,"
+  },
+  {
+    "start": 623.98,
+    "end": 625.46,
+    "text": " which can't make their own vitamin C."
+  },
+  {
+    "start": 625.46,
+    "end": 630.34,
+    "text": " So it's fruit bats, guinea pigs, some of the apes and humans are the ones that can't do it."
+  },
+  {
+    "start": 630.34,
+    "end": 633.94,
+    "text": " Every other animal doesn't get scurvy because they can just generate vitamin C."
+  },
+  {
+    "start": 633.94,
+    "end": 637.06,
+    "text": " I guess from internally, somehow they're generating it."
+  },
+  {
+    "start": 637.06,
+    "end": 639.98,
+    "text": " Like, well, like we generate, you know, we basically, what a vitamin is,"
+  },
+  {
+    "start": 639.98,
+    "end": 642.3,
+    "text": " is the things that we need from our diet, because we can't generate them"
+  },
+  {
+    "start": 642.3,
+    "end": 643.66,
+    "text": " and everything else we can generate."
+  },
+  {
+    "start": 643.66,
+    "end": 645.38,
+    "text": " And I suppose these animals can."
+  },
+  {
+    "start": 645.38,
+    "end": 649.62,
+    "text": " But maybe we should form that club with those guys, like a really sad rejects club."
+  },
+  {
+    "start": 649.62,
+    "end": 650.26,
+    "text": " Like, what are those people?"
+  },
+  {
+    "start": 650.26,
+    "end": 653.62,
+    "text": " What's that club called of some men who've decided that they've abandoned women"
+  },
+  {
+    "start": 653.62,
+    "end": 655.62,
+    "text": " because women hate them in cells."
+  },
+  {
+    "start": 655.62,
+    "end": 657.42,
+    "text": " This could be the new in cells."
+  },
+  {
+    "start": 657.42,
+    "end": 659.02,
+    "text": " Us fruit bats, guinea pigs."
+  },
+  {
+    "start": 659.02,
+    "end": 660.82,
+    "text": " I'm just a bit worried the guinea pigs won't let me in"
+  },
+  {
+    "start": 660.82,
+    "end": 663.18,
+    "text": " because I've just admitted that I won't say some guinea pig."
+  },
+  {
+    "start": 664.18,
+    "end": 666.02,
+    "text": " It turned out to be really important."
+  },
+  {
+    "start": 666.02,
+    "end": 671.22,
+    "text": " So people were being confused, as Anna says, just getting confused about scurvy"
+  },
+  {
+    "start": 671.22,
+    "end": 673.46,
+    "text": " and what causes it and how to cure it for centuries."
+  },
+  {
+    "start": 673.46,
+    "end": 676.82,
+    "text": " And they keep sort of figuring it out and then not figuring it out"
+  },
+  {
+    "start": 676.82,
+    "end": 678.34,
+    "text": " and getting confused and forgetting."
+  },
+  {
+    "start": 678.34,
+    "end": 684.18,
+    "text": " And then finally, in 1907, these two Norwegian scientists,"
+  },
+  {
+    "start": 684.18,
+    "end": 689.46,
+    "text": " Holst and Fröhlich, figure out that guinea pigs also get scurvy,"
+  },
+  {
+    "start": 689.46,
+    "end": 691.82,
+    "text": " which is this absolute breakthrough moment."
+  },
+  {
+    "start": 691.82,
+    "end": 696.06,
+    "text": " And then once you can do that, how can you tell that a guinea pig has scurvy?"
+  },
+  {
+    "start": 696.06,
+    "end": 699.14,
+    "text": " Is it because it can only run 50 meters on its little bowl?"
+  },
+  {
+    "start": 699.14,
+    "end": 703.42,
+    "text": " That must be it. That and the papules."
+  },
+  {
+    "start": 703.42,
+    "end": 705.26,
+    "text": " I think it's those two things."
+  },
+  {
+    "start": 705.26,
+    "end": 709.46,
+    "text": " Once they figured that out, it was it was easy to clear up this massive confusion"
+  },
+  {
+    "start": 709.46,
+    "end": 713.5,
+    "text": " about whether scurvy was caused by some kind of toxin or some kind of bacteria"
+  },
+  {
+    "start": 713.5,
+    "end": 715.62,
+    "text": " or whether it was a deficiency."
+  },
+  {
+    "start": 715.62,
+    "end": 716.86,
+    "text": " And they figured it all out."
+  },
+  {
+    "start": 716.86,
+    "end": 720.34,
+    "text": " And then they turned around and they told Fritschhoff Nansen,"
+  },
+  {
+    "start": 720.34,
+    "end": 724.58,
+    "text": " who's a great Norwegian polar explorer and a mentor to both Robert Scott"
+  },
+  {
+    "start": 724.58,
+    "end": 726.74,
+    "text": " and Rold Amundsen."
+  },
+  {
+    "start": 726.74,
+    "end": 729.26,
+    "text": " And Nansen said, yeah, no, I don't believe any of that."
+  },
+  {
+    "start": 729.26,
+    "end": 730.7,
+    "text": " You can't learn anything from guinea pigs."
+  },
+  {
+    "start": 730.7,
+    "end": 732.66,
+    "text": " Trust me, it's fresh seal meat you need."
+  },
+  {
+    "start": 732.66,
+    "end": 735.18,
+    "text": " And so he basically told them to bugger off"
+  },
+  {
+    "start": 735.18,
+    "end": 738.42,
+    "text": " and both Amundsen and Scott then went to the Antarctica gear later."
+  },
+  {
+    "start": 738.42,
+    "end": 742.46,
+    "text": " And and Scott's whole crew probably got scurvy."
+  },
+  {
+    "start": 742.46,
+    "end": 746.18,
+    "text": " If there was ever a lesson to listen to the scientists, people,"
+  },
+  {
+    "start": 746.18,
+    "end": 748.06,
+    "text": " it really is the history of scurvy."
+  },
+  {
+    "start": 748.06,
+    "end": 750.58,
+    "text": " It's wild how much people ignore them."
+  },
+  {
+    "start": 750.58,
+    "end": 755.34,
+    "text": " So the reason that this is all puzzling is because the the story"
+  },
+  {
+    "start": 755.34,
+    "end": 759.54,
+    "text": " that randomized controlled trials nerds tell is that in 1747,"
+  },
+  {
+    "start": 759.54,
+    "end": 763.62,
+    "text": " this guy, James Lind, who was a surgeon on the HMS Salisbury,"
+  },
+  {
+    "start": 763.62,
+    "end": 766.18,
+    "text": " figured it all out. That's the story they tell."
+  },
+  {
+    "start": 766.18,
+    "end": 769.1,
+    "text": " And and and he did sort of run a controlled trial."
+  },
+  {
+    "start": 769.1,
+    "end": 772.7,
+    "text": " He gave to had a whole bunch of sailors who had scurvy."
+  },
+  {
+    "start": 772.7,
+    "end": 775.3,
+    "text": " He gave two of them a quarter of cider a day."
+  },
+  {
+    "start": 775.3,
+    "end": 777.7,
+    "text": " Sounds quite nice, but it's not going to work."
+  },
+  {
+    "start": 777.7,
+    "end": 781.42,
+    "text": " He gave two of them 75 drops a day of sulfuric acid."
+  },
+  {
+    "start": 781.42,
+    "end": 785.42,
+    "text": " He gave two of them vinegar, gave two of them a paste of garlic,"
+  },
+  {
+    "start": 785.42,
+    "end": 788.14,
+    "text": " mustard, horseradish and aromatic plant extracts,"
+  },
+  {
+    "start": 788.14,
+    "end": 790.06,
+    "text": " which sounds like it might be nice."
+  },
+  {
+    "start": 790.06,
+    "end": 791.46,
+    "text": " But but none of that worked."
+  },
+  {
+    "start": 791.46,
+    "end": 795.18,
+    "text": " But he gave he gave the last two two oranges and a lemon"
+  },
+  {
+    "start": 795.18,
+    "end": 796.86,
+    "text": " each day for six days."
+  },
+  {
+    "start": 796.86,
+    "end": 799.02,
+    "text": " And at that point, they made a complete recovery."
+  },
+  {
+    "start": 799.02,
+    "end": 802.42,
+    "text": " Unfortunately, that was the ship's entire stock of lemons."
+  },
+  {
+    "start": 802.42,
+    "end": 805.86,
+    "text": " So it was unfortunate for everybody else."
+  },
+  {
+    "start": 805.86,
+    "end": 808.82,
+    "text": " But the weird thing is that even James Lind, I mean, you would have thought,"
+  },
+  {
+    "start": 808.82,
+    "end": 811.38,
+    "text": " OK, brilliant, you ran a randomized trial, you figured it all out."
+  },
+  {
+    "start": 811.38,
+    "end": 813.22,
+    "text": " Perfect. But then he published this book"
+  },
+  {
+    "start": 813.22,
+    "end": 816.82,
+    "text": " all about how to cure scurvy, which had this write up of this trial,"
+  },
+  {
+    "start": 816.82,
+    "end": 820.5,
+    "text": " but had loads of other stuff about, oh, like, maybe it's excess sweating"
+  },
+  {
+    "start": 820.5,
+    "end": 822.9,
+    "text": " or maybe it's to do with ventilation or this or that."
+  },
+  {
+    "start": 822.9,
+    "end": 825.18,
+    "text": " It's the whole who who can say?"
+  },
+  {
+    "start": 825.18,
+    "end": 827.5,
+    "text": " I mean, it was bizarre what the conclusion he came to."
+  },
+  {
+    "start": 827.5,
+    "end": 830.46,
+    "text": " And in the end, he said, anyway, my cure for scurvy is"
+  },
+  {
+    "start": 830.46,
+    "end": 834.7,
+    "text": " lemon juice that's been boiled into a syrup preserved under olive oil."
+  },
+  {
+    "start": 835.1,
+    "end": 837.5,
+    "text": " And it turns out that doesn't work because if you boil lemon juice"
+  },
+  {
+    "start": 837.5,
+    "end": 839.34,
+    "text": " into a syrup, you've destroyed all the vitamin C."
+  },
+  {
+    "start": 839.34,
+    "end": 841.14,
+    "text": " So he runs this randomized trial."
+  },
+  {
+    "start": 841.14,
+    "end": 842.62,
+    "text": " He doesn't understand what he's done."
+  },
+  {
+    "start": 842.62,
+    "end": 846.42,
+    "text": " And then the conclusion he draws is this completely ineffective remedy."
+  },
+  {
+    "start": 846.42,
+    "end": 848.78,
+    "text": " And there you go. That's science 1747."
+  },
+  {
+    "start": 848.78,
+    "end": 852.98,
+    "text": " I just can't believe that one of the groups was given sulfuric acid,"
+  },
+  {
+    "start": 852.98,
+    "end": 857.7,
+    "text": " which feels like, you know, you could literally give the other group"
+  },
+  {
+    "start": 857.7,
+    "end": 860.78,
+    "text": " American cheese and white bread and they're going to do better than the group"
+  },
+  {
+    "start": 860.78,
+    "end": 862.94,
+    "text": " you gave sulfuric acid to. Sure. Yes."
+  },
+  {
+    "start": 862.94,
+    "end": 864.62,
+    "text": " Throatless Jimmy, we call him."
+  },
+  {
+    "start": 865.02,
+    "end": 866.02,
+    "text": " Yeah."
+  },
+  {
+    "start": 866.02,
+    "end": 871.7,
+    "text": " I really like the the old theory about how to cure scurvy,"
+  },
+  {
+    "start": 871.7,
+    "end": 874.42,
+    "text": " which was to bury yourself in soil."
+  },
+  {
+    "start": 874.42,
+    "end": 876.7,
+    "text": " And that was such a good idea."
+  },
+  {
+    "start": 876.7,
+    "end": 879.1,
+    "text": " It's such, you know, it really does make sense"
+  },
+  {
+    "start": 879.1,
+    "end": 882.3,
+    "text": " because you were getting scurvy when you were away from earth, right?"
+  },
+  {
+    "start": 882.3,
+    "end": 886.62,
+    "text": " You were on the on the water, you were thousands of miles from 11."
+  },
+  {
+    "start": 886.62,
+    "end": 888.22,
+    "text": " You're going to get sick."
+  },
+  {
+    "start": 888.22,
+    "end": 890.54,
+    "text": " And so what was obviously the thing that you were missing?"
+  },
+  {
+    "start": 890.54,
+    "end": 892.1,
+    "text": " You were missing dry land."
+  },
+  {
+    "start": 892.1,
+    "end": 895.42,
+    "text": " And so they used to just bury people up to the neck in soil"
+  },
+  {
+    "start": 895.42,
+    "end": 898.26,
+    "text": " and think that this would make them better."
+  },
+  {
+    "start": 898.26,
+    "end": 899.94,
+    "text": " So funny. It's such a good idea."
+  },
+  {
+    "start": 899.94,
+    "end": 903.82,
+    "text": " And what they would do is they would take boxes of earth with them on the voyages."
+  },
+  {
+    "start": 903.82,
+    "end": 907.34,
+    "text": " And if someone got sick, they would bury them on the ship in the in the earth."
+  },
+  {
+    "start": 907.34,
+    "end": 911.3,
+    "text": " There was one captain called Thomas Melville, who found that it actually worked"
+  },
+  {
+    "start": 911.3,
+    "end": 913.54,
+    "text": " and it made people feel better."
+  },
+  {
+    "start": 913.54,
+    "end": 917.58,
+    "text": " But he was feeding people vegetables while they were in the earth all the time."
+  },
+  {
+    "start": 917.58,
+    "end": 919.98,
+    "text": " So probably the other thing, though,"
+  },
+  {
+    "start": 920.06,
+    "end": 924.34,
+    "text": " it's so good because it means you can also, as well as getting vegetables,"
+  },
+  {
+    "start": 924.34,
+    "end": 926.5,
+    "text": " you can disguise your ship as a small island."
+  },
+  {
+    "start": 926.5,
+    "end": 929.78,
+    "text": " And so you can sneak up on other ships undetected"
+  },
+  {
+    "start": 929.78,
+    "end": 931.26,
+    "text": " because they just see a load of soil."
+  },
+  {
+    "start": 931.26,
+    "end": 933.42,
+    "text": " Well, they see a load of soil, don't they? You know."
+  },
+  {
+    "start": 933.42,
+    "end": 936.94,
+    "text": " Yeah, clever. Get a donkey, a little windmill."
+  },
+  {
+    "start": 936.94,
+    "end": 940.22,
+    "text": " Palm tree, maybe?"
+  },
+  {
+    "start": 940.22,
+    "end": 942.7,
+    "text": " Yes, I'm just thinking my idea of like"
+  },
+  {
+    "start": 942.7,
+    "end": 949.18,
+    "text": " my idea of the islands is more like palm trees and hammocks, not donkeys and windmills."
+  },
+  {
+    "start": 949.54,
+    "end": 954.62,
+    "text": " A donkey and a windmill and a famous cartoon trope of someone on a desert island."
+  },
+  {
+    "start": 954.62,
+    "end": 956.22,
+    "text": " How can you tell they're on a desert island?"
+  },
+  {
+    "start": 956.22,
+    "end": 958.1,
+    "text": " There's a donkey and a windmill."
+  },
+  {
+    "start": 958.1,
+    "end": 959.86,
+    "text": " Yeah, it's a classic."
+  },
+  {
+    "start": 959.86,
+    "end": 968.9,
+    "text": " OK, it is time for fact number two, and that is James."
+  },
+  {
+    "start": 968.9,
+    "end": 972.78,
+    "text": " OK, my fact this week is that there are more people alive today"
+  },
+  {
+    "start": 972.78,
+    "end": 977.18,
+    "text": " who have been world chess champion than there are people skillful enough"
+  },
+  {
+    "start": 977.18,
+    "end": 981.38,
+    "text": " to carve a knight for use in a world championship chess match."
+  },
+  {
+    "start": 981.38,
+    "end": 986.42,
+    "text": " Amazing. What are the numbers?"
+  },
+  {
+    "start": 986.42,
+    "end": 987.62,
+    "text": " What are we talking about?"
+  },
+  {
+    "start": 987.62,
+    "end": 991.02,
+    "text": " Well, the numbers are 10 who can do the night."
+  },
+  {
+    "start": 991.02,
+    "end": 996.1,
+    "text": " This is according to a video which I saw, which was posted by Business Insider"
+  },
+  {
+    "start": 996.1,
+    "end": 999.74,
+    "text": " called Why Championship Chess Sets Are So Expensive."
+  },
+  {
+    "start": 999.74,
+    "end": 1002.7,
+    "text": " As part of that, they said there are only 10 people alive"
+  },
+  {
+    "start": 1002.7,
+    "end": 1005.34,
+    "text": " who can make the little horses that you use in chess."
+  },
+  {
+    "start": 1005.94,
+    "end": 1009.1,
+    "text": " And so I thought I wonder how that compares with people who have won the world"
+  },
+  {
+    "start": 1009.1,
+    "end": 1012.98,
+    "text": " championship and I went on to the on to Wikipedia and looked at the list"
+  },
+  {
+    "start": 1012.98,
+    "end": 1016.18,
+    "text": " of the people who are still alive and there's more than 10 as it doesn't."
+  },
+  {
+    "start": 1016.18,
+    "end": 1018.98,
+    "text": " I think how good do these things have to be?"
+  },
+  {
+    "start": 1018.98,
+    "end": 1020.82,
+    "text": " I mean, because I would have thought it's quite easy to carve a night."
+  },
+  {
+    "start": 1020.82,
+    "end": 1023.5,
+    "text": " Most professional whittlers, I know, which is a lot,"
+  },
+  {
+    "start": 1023.5,
+    "end": 1027.38,
+    "text": " could probably do a passable chess night."
+  },
+  {
+    "start": 1027.38,
+    "end": 1029.66,
+    "text": " What's so special about these ones?"
+  },
+  {
+    "start": 1029.66,
+    "end": 1031.94,
+    "text": " Well, you you take all of the whittlers."
+  },
+  {
+    "start": 1031.94,
+    "end": 1033.94,
+    "text": " Some of them can do it."
+  },
+  {
+    "start": 1033.94,
+    "end": 1036.22,
+    "text": " Some of them can and you go down and down and down."
+  },
+  {
+    "start": 1036.22,
+    "end": 1038.22,
+    "text": " And eventually you get the 10."
+  },
+  {
+    "start": 1038.22,
+    "end": 1040.54,
+    "text": " Yeah, you got it, Andy. You can see what I'm going there."
+  },
+  {
+    "start": 1040.54,
+    "end": 1043.62,
+    "text": " No, they're made."
+  },
+  {
+    "start": 1043.62,
+    "end": 1047.66,
+    "text": " These nights are made in a place called Amritsar, which is in India."
+  },
+  {
+    "start": 1047.66,
+    "end": 1050.1,
+    "text": " Very specific factory makes them."
+  },
+  {
+    "start": 1050.1,
+    "end": 1052.5,
+    "text": " They only make two hundred and fifty per year."
+  },
+  {
+    "start": 1052.5,
+    "end": 1056.98,
+    "text": " One night to kind of whittle it down takes two hours."
+  },
+  {
+    "start": 1056.98,
+    "end": 1061.06,
+    "text": " And it takes five to six years to learn how to make this night."
+  },
+  {
+    "start": 1061.54,
+    "end": 1064.7,
+    "text": " All the other pieces take about four to five months to make."
+  },
+  {
+    "start": 1064.7,
+    "end": 1069.1,
+    "text": " And so if you were to buy a very, very high end chess set,"
+  },
+  {
+    "start": 1069.1,
+    "end": 1073.46,
+    "text": " the nights are worth approximately 50 percent of the entire set."
+  },
+  {
+    "start": 1073.46,
+    "end": 1076.66,
+    "text": " The value comes from just the nights."
+  },
+  {
+    "start": 1076.66,
+    "end": 1078.7,
+    "text": " That's what this is so funny."
+  },
+  {
+    "start": 1078.7,
+    "end": 1081.82,
+    "text": " It's about it's about five hundred dollars for one of these sets."
+  },
+  {
+    "start": 1081.82,
+    "end": 1084.62,
+    "text": " They sound I think I read the same piece, James."
+  },
+  {
+    "start": 1084.62,
+    "end": 1088.62,
+    "text": " It says this that the the blocks of wood that they use for the pieces"
+  },
+  {
+    "start": 1089.1,
+    "end": 1092.38,
+    "text": " were once large trunks dried for three to six months,"
+  },
+  {
+    "start": 1092.38,
+    "end": 1095.54,
+    "text": " cut down a shape to the necessary size, which does make it sound like they're"
+  },
+  {
+    "start": 1095.54,
+    "end": 1098.82,
+    "text": " using one large tree trunk."
+  },
+  {
+    "start": 1098.82,
+    "end": 1102.94,
+    "text": " Yeah. Knocked down a giant redwood for one pawn."
+  },
+  {
+    "start": 1102.94,
+    "end": 1108.7,
+    "text": " They are really beautiful to watch them being carved on the on the lathe."
+  },
+  {
+    "start": 1108.7,
+    "end": 1110.7,
+    "text": " And it's a little bit like watching pottery."
+  },
+  {
+    "start": 1110.7,
+    "end": 1115.38,
+    "text": " It's that kind of beautiful sort of hypnotic view of this thing taking shape."
+  },
+  {
+    "start": 1115.38,
+    "end": 1118.1,
+    "text": " But I have to say it's all nonsense, isn't it?"
+  },
+  {
+    "start": 1118.1,
+    "end": 1122.3,
+    "text": " Because when this I saw this this short film and at one point they say,"
+  },
+  {
+    "start": 1122.3,
+    "end": 1126.9,
+    "text": " oh, yeah, it helps these grandmasters to not make any mistakes."
+  },
+  {
+    "start": 1126.9,
+    "end": 1128.7,
+    "text": " That's just nonsense."
+  },
+  {
+    "start": 1128.7,
+    "end": 1130.74,
+    "text": " Grandmasters, they can play blindfold."
+  },
+  {
+    "start": 1130.74,
+    "end": 1135.26,
+    "text": " I mean, you literally don't actually need the chessboard or the chess pieces."
+  },
+  {
+    "start": 1135.26,
+    "end": 1137.3,
+    "text": " They can play blindfold. What is this?"
+  },
+  {
+    "start": 1137.3,
+    "end": 1139.38,
+    "text": " I don't know what you're talking about."
+  },
+  {
+    "start": 1139.38,
+    "end": 1143.06,
+    "text": " The video I've I've drunk the cool aid and I believe this."
+  },
+  {
+    "start": 1143.06,
+    "end": 1147.42,
+    "text": " It's they say that because if you don't make the chess pieces properly"
+  },
+  {
+    "start": 1147.42,
+    "end": 1151.3,
+    "text": " and the king isn't the tallest piece, then you might accidentally move"
+  },
+  {
+    "start": 1151.3,
+    "end": 1154.46,
+    "text": " one of the other pawns, maybe thinking it's the king."
+  },
+  {
+    "start": 1154.46,
+    "end": 1158.06,
+    "text": " Or if they're not weighted correctly, they might fall over"
+  },
+  {
+    "start": 1158.06,
+    "end": 1160.02,
+    "text": " and you accidentally kind of resign."
+  },
+  {
+    "start": 1160.02,
+    "end": 1162.5,
+    "text": " You're OK. OK, OK, it's not. No, no, no, no, it's true."
+  },
+  {
+    "start": 1162.5,
+    "end": 1165.42,
+    "text": " No, the thing about chess players is that they're very stupid people."
+  },
+  {
+    "start": 1165.42,
+    "end": 1172.06,
+    "text": " James, that falling over thing I read that, too, is that"
+  },
+  {
+    "start": 1172.06,
+    "end": 1175.18,
+    "text": " if you accidentally knock your piece over and then you press, you know,"
+  },
+  {
+    "start": 1175.18,
+    "end": 1177.34,
+    "text": " because they're playing timed against each other in some matches."
+  },
+  {
+    "start": 1177.34,
+    "end": 1180.5,
+    "text": " So you you knock a piece over and then you press the timer"
+  },
+  {
+    "start": 1180.5,
+    "end": 1183.86,
+    "text": " to move it onto your opponent's turn and then you pick your piece back up."
+  },
+  {
+    "start": 1183.86,
+    "end": 1186.86,
+    "text": " You can be disqualified from the whole match"
+  },
+  {
+    "start": 1186.86,
+    "end": 1189.06,
+    "text": " because you're technically eating into your opponent's time there."
+  },
+  {
+    "start": 1189.06,
+    "end": 1190.42,
+    "text": " And that has happened recently."
+  },
+  {
+    "start": 1190.42,
+    "end": 1192.98,
+    "text": " There was a game in 2016 where a grandmaster,"
+  },
+  {
+    "start": 1192.98,
+    "end": 1196.58,
+    "text": " very good chess player, lost because he dropped his queen and then did that."
+  },
+  {
+    "start": 1196.58,
+    "end": 1199.9,
+    "text": " Really? And we we we're claiming that these these 10 people"
+  },
+  {
+    "start": 1199.9,
+    "end": 1202.02,
+    "text": " who can make the night are the only people who can make a night"
+  },
+  {
+    "start": 1202.02,
+    "end": 1204.3,
+    "text": " that can successfully stand up if you can't."
+  },
+  {
+    "start": 1204.34,
+    "end": 1208.74,
+    "text": " If you can't feel the bridle on the night is positioned correctly,"
+  },
+  {
+    "start": 1208.74,
+    "end": 1210.1,
+    "text": " it'll completely throw off your game."
+  },
+  {
+    "start": 1210.1,
+    "end": 1212.54,
+    "text": " That's why Casparov lost against Deep Blue."
+  },
+  {
+    "start": 1212.54,
+    "end": 1214.9,
+    "text": " So there's a slight discrepancy in the reins."
+  },
+  {
+    "start": 1214.9,
+    "end": 1219.66,
+    "text": " I want to see the chess grandmasters rant when he like sort of a tennis player"
+  },
+  {
+    "start": 1219.66,
+    "end": 1223.14,
+    "text": " with a broken racket when he seizes a night waving at the umpire."
+  },
+  {
+    "start": 1223.14,
+    "end": 1226.06,
+    "text": " What the hell is this shit?"
+  },
+  {
+    "start": 1226.06,
+    "end": 1230.26,
+    "text": " I would love to see these artisans, these craftspeople from Amritsar."
+  },
+  {
+    "start": 1230.5,
+    "end": 1235.14,
+    "text": " I would love to see them wrestle with a classic Prussian"
+  },
+  {
+    "start": 1235.14,
+    "end": 1239.7,
+    "text": " wargame chess crossovers because there are some amazing kind of chess"
+  },
+  {
+    "start": 1239.7,
+    "end": 1243.46,
+    "text": " mutations from a few hundred years ago that I think would pose a real challenge."
+  },
+  {
+    "start": 1243.46,
+    "end": 1249.42,
+    "text": " So any of you have heard of Gross's Konigspiel, which is a 1664 chess variant?"
+  },
+  {
+    "start": 1249.42,
+    "end": 1251.66,
+    "text": " Well, I mean, you can play with a number of players."
+  },
+  {
+    "start": 1251.66,
+    "end": 1253.34,
+    "text": " There's a six player variant."
+  },
+  {
+    "start": 1253.34,
+    "end": 1256.7,
+    "text": " The board looks a bit like a snowflake, but the eight player variant,"
+  },
+  {
+    "start": 1256.7,
+    "end": 1259.7,
+    "text": " I think would give everyone gets very sensitive in that game."
+  },
+  {
+    "start": 1260.3,
+    "end": 1262.14,
+    "text": " Yeah, no one wins."
+  },
+  {
+    "start": 1262.14,
+    "end": 1264.34,
+    "text": " It's just a tie at the end, regardless."
+  },
+  {
+    "start": 1264.34,
+    "end": 1268.18,
+    "text": " So the eight player variant has 240 pieces."
+  },
+  {
+    "start": 1268.18,
+    "end": 1274.18,
+    "text": " It has pieces, including the king, the marshal, the colonel, the captain,"
+  },
+  {
+    "start": 1274.18,
+    "end": 1278.66,
+    "text": " the chancellor, the herald, the chaplain, the knight, the courier,"
+  },
+  {
+    "start": 1278.66,
+    "end": 1283.66,
+    "text": " the adjutant, bodyguards, halbadiers, and there are private soldiers"
+  },
+  {
+    "start": 1283.66,
+    "end": 1286.26,
+    "text": " and 240 pieces in total."
+  },
+  {
+    "start": 1286.26,
+    "end": 1287.42,
+    "text": " But that is nothing."
+  },
+  {
+    "start": 1287.42,
+    "end": 1291.06,
+    "text": " The Duke of Rutland's chess variant has the concubine,"
+  },
+  {
+    "start": 1291.06,
+    "end": 1295.18,
+    "text": " which is a rook night mix, and even that pales into insignificance"
+  },
+  {
+    "start": 1295.18,
+    "end": 1299.62,
+    "text": " compared to the game that was developed by Johann Christian Ludwig Helwig."
+  },
+  {
+    "start": 1299.62,
+    "end": 1302.66,
+    "text": " He was alive in the late 1700s, early 1800s."
+  },
+  {
+    "start": 1302.66,
+    "end": 1305.18,
+    "text": " He he was a successful academic."
+  },
+  {
+    "start": 1305.18,
+    "end": 1309.38,
+    "text": " He taught maths to Gauss, the most brilliant mathematician of all time."
+  },
+  {
+    "start": 1309.38,
+    "end": 1311.66,
+    "text": " Actually, in fairness, he sort of said to Gauss, to be honest,"
+  },
+  {
+    "start": 1311.66,
+    "end": 1314.86,
+    "text": " you don't need to bother turning up to the lectures because he seemed to have it all sorted."
+  },
+  {
+    "start": 1315.3,
+    "end": 1318.1,
+    "text": " He collected he collected so many insects,"
+  },
+  {
+    "start": 1318.1,
+    "end": 1324.06,
+    "text": " it formed the the heart of the University of Berlin's museum of entomology."
+  },
+  {
+    "start": 1324.06,
+    "end": 1328.02,
+    "text": " And and his chess variant, which is called Creekspiel, which means war game,"
+  },
+  {
+    "start": 1328.02,
+    "end": 1330.94,
+    "text": " it includes the elephant, which is a rook night combo."
+  },
+  {
+    "start": 1330.94,
+    "end": 1335.18,
+    "text": " The jumping bishop, which is a bishop night, the jumping queen,"
+  },
+  {
+    "start": 1335.18,
+    "end": 1338.38,
+    "text": " not to be confused with the dancing queen of Aberfeen, that's a night queen."
+  },
+  {
+    "start": 1338.38,
+    "end": 1344.74,
+    "text": " It contains 40 pawns, four rooks, four bishops, 30 knights,"
+  },
+  {
+    "start": 1345.02,
+    "end": 1348.74,
+    "text": " work on that one in Amaritsa, six queens, five jumping queens,"
+  },
+  {
+    "start": 1348.74,
+    "end": 1353.34,
+    "text": " eight jumping bishops and seven elephants and the borders up to 2000 squares."
+  },
+  {
+    "start": 1353.34,
+    "end": 1355.86,
+    "text": " So what does the partridge in the poetry make?"
+  },
+  {
+    "start": 1355.86,
+    "end": 1359.58,
+    "text": " That's the that's the hardest to carve, actually, the partridge."
+  },
+  {
+    "start": 1359.58,
+    "end": 1361.1,
+    "text": " That is absolutely amazing."
+  },
+  {
+    "start": 1361.1,
+    "end": 1365.5,
+    "text": " Do you think he invented this amazingly complicated chess game"
+  },
+  {
+    "start": 1365.5,
+    "end": 1368.66,
+    "text": " because his main job was teaching Gauss how to do maths?"
+  },
+  {
+    "start": 1368.66,
+    "end": 1371.66,
+    "text": " And he's like, I have so much spare time now."
+  },
+  {
+    "start": 1371.66,
+    "end": 1375.22,
+    "text": " I might as well collect every single insect in the world."
+  },
+  {
+    "start": 1375.22,
+    "end": 1378.06,
+    "text": " And I mean, they must take forever a game."
+  },
+  {
+    "start": 1378.06,
+    "end": 1379.22,
+    "text": " I think it does."
+  },
+  {
+    "start": 1379.22,
+    "end": 1381.54,
+    "text": " I mean, I suppose it's before TV, wasn't it?"
+  },
+  {
+    "start": 1381.54,
+    "end": 1384.42,
+    "text": " But it feels like there's no need to make chess more complicated."
+  },
+  {
+    "start": 1384.42,
+    "end": 1386.66,
+    "text": " It's already quite challenging for most people."
+  },
+  {
+    "start": 1386.66,
+    "end": 1390.86,
+    "text": " So there was this movement to make chess more like actual war,"
+  },
+  {
+    "start": 1390.86,
+    "end": 1393.1,
+    "text": " because chess is quite stylized, really."
+  },
+  {
+    "start": 1393.1,
+    "end": 1396.46,
+    "text": " I mean, it's you're not going to learn that much about military tactics from playing chess."
+  },
+  {
+    "start": 1396.46,
+    "end": 1399.26,
+    "text": " So in I mean, this is a Prussian thing."
+  },
+  {
+    "start": 1399.54,
+    "end": 1404.78,
+    "text": " They're trying to teach their young officers how to make decisions on the battlefield."
+  },
+  {
+    "start": 1404.78,
+    "end": 1410.02,
+    "text": " And so there's this tendency towards more and more complex versions of chess."
+  },
+  {
+    "start": 1410.02,
+    "end": 1413.22,
+    "text": " And in the end, they kind of went to these war games or role playing games."
+  },
+  {
+    "start": 1413.22,
+    "end": 1415.06,
+    "text": " But you've got different pieces."
+  },
+  {
+    "start": 1415.06,
+    "end": 1417.1,
+    "text": " You've got you've got different terrains."
+  },
+  {
+    "start": 1417.1,
+    "end": 1419.66,
+    "text": " And and they're trying to train people how to make military decisions."
+  },
+  {
+    "start": 1419.66,
+    "end": 1422.38,
+    "text": " It's good. It's really I think it's really good because I do think that,"
+  },
+  {
+    "start": 1422.38,
+    "end": 1425.94,
+    "text": " you know, war game exercises are like they are good up to a point,"
+  },
+  {
+    "start": 1425.94,
+    "end": 1428.58,
+    "text": " but they're never enough concubines."
+  },
+  {
+    "start": 1428.58,
+    "end": 1432.38,
+    "text": " It just it's not realistic without the concubines or elephants."
+  },
+  {
+    "start": 1432.38,
+    "end": 1435.02,
+    "text": " It's the elephants and concubines that really make a war."
+  },
+  {
+    "start": 1435.02,
+    "end": 1437.74,
+    "text": " Yeah, I thought Chancellor was a weird one as well."
+  },
+  {
+    "start": 1437.74,
+    "end": 1438.98,
+    "text": " What does he like?"
+  },
+  {
+    "start": 1438.98,
+    "end": 1442.02,
+    "text": " He just does some photo option that takes 20 percent of all your money."
+  },
+  {
+    "start": 1442.02,
+    "end": 1448.3,
+    "text": " Well, the thing is about chess didn't used to be military at all."
+  },
+  {
+    "start": 1448.3,
+    "end": 1451.94,
+    "text": " So and I don't think it should be. It used to be sexy."
+  },
+  {
+    "start": 1451.94,
+    "end": 1455.94,
+    "text": " This it was this was back and actually the person who ruined it"
+  },
+  {
+    "start": 1455.94,
+    "end": 1458.42,
+    "text": " and turned it into a military game initially was the queen."
+  },
+  {
+    "start": 1458.62,
+    "end": 1462.14,
+    "text": " Sadly, as we've talked before about how the queen was introduced"
+  },
+  {
+    "start": 1462.14,
+    "end": 1464.7,
+    "text": " at various moments in history in various different countries"
+  },
+  {
+    "start": 1464.7,
+    "end": 1467.98,
+    "text": " from about like fourteen hundred onwards, thirteen hundred onwards."
+  },
+  {
+    "start": 1467.98,
+    "end": 1472.22,
+    "text": " But instead of a queen before that, you had the Vizier as in the royal as in Jafar."
+  },
+  {
+    "start": 1472.22,
+    "end": 1478.34,
+    "text": " And the Vizier couldn't move as broadly and widely as the queen"
+  },
+  {
+    "start": 1478.34,
+    "end": 1481.3,
+    "text": " was much more limited and it made chess a much slower game."
+  },
+  {
+    "start": 1481.3,
+    "end": 1484.02,
+    "text": " And so I was reading that back in medieval times,"
+  },
+  {
+    "start": 1484.02,
+    "end": 1486.42,
+    "text": " it was a completely gender equal game."
+  },
+  {
+    "start": 1486.42,
+    "end": 1488.14,
+    "text": " Women and men played at equal amount."
+  },
+  {
+    "start": 1488.14,
+    "end": 1491.14,
+    "text": " And it was more a thing you'd have and play throughout a day"
+  },
+  {
+    "start": 1491.14,
+    "end": 1493.7,
+    "text": " at a or a soiree of a drinks and chats."
+  },
+  {
+    "start": 1493.7,
+    "end": 1497.62,
+    "text": " And it became really associated with romance and sex."
+  },
+  {
+    "start": 1497.62,
+    "end": 1501.62,
+    "text": " And because there were lots of stories of people falling in love over a game of chess,"
+  },
+  {
+    "start": 1501.62,
+    "end": 1504.7,
+    "text": " you know, opponents would fall in love in in fourteen hundred."
+  },
+  {
+    "start": 1504.7,
+    "end": 1508.82,
+    "text": " There was a famous book at the time called The Edifying Book of Erotic Chess,"
+  },
+  {
+    "start": 1508.82,
+    "end": 1511.58,
+    "text": " which sort of talked about that."
+  },
+  {
+    "start": 1511.58,
+    "end": 1514.38,
+    "text": " Yeah, is that is that why we call it Pond?"
+  },
+  {
+    "start": 1516.22,
+    "end": 1518.18,
+    "text": " Yeah, that's correct."
+  },
+  {
+    "start": 1518.18,
+    "end": 1520.58,
+    "text": " That's why they're all naked if you look closely at the pawns."
+  },
+  {
+    "start": 1520.58,
+    "end": 1523.26,
+    "text": " But yeah, then the queen came on board"
+  },
+  {
+    "start": 1523.26,
+    "end": 1525.82,
+    "text": " and it became very martial and competitive and serious."
+  },
+  {
+    "start": 1525.82,
+    "end": 1528.14,
+    "text": " And it was thought to be unsuitable for women."
+  },
+  {
+    "start": 1528.14,
+    "end": 1531.9,
+    "text": " Do you know the rules, the ten rules of whittling?"
+  },
+  {
+    "start": 1531.9,
+    "end": 1534.26,
+    "text": " Have you memorized those, everyone?"
+  },
+  {
+    "start": 1534.26,
+    "end": 1536.42,
+    "text": " I've only got the first four. Sorry."
+  },
+  {
+    "start": 1536.42,
+    "end": 1539.7,
+    "text": " Oh, you know, 40 percent. It's it's just about a pass."
+  },
+  {
+    "start": 1539.7,
+    "end": 1542.7,
+    "text": " This is according to Master Carver, Chris Loopcoman,"
+  },
+  {
+    "start": 1543.02,
+    "end": 1546.66,
+    "text": " who actually has the Guinness World Record for what he describes"
+  },
+  {
+    "start": 1546.66,
+    "end": 1550.5,
+    "text": " as the smallest rooster in the world on his YouTube channel."
+  },
+  {
+    "start": 1550.5,
+    "end": 1552.9,
+    "text": " What's another word for rooster?"
+  },
+  {
+    "start": 1552.9,
+    "end": 1558.66,
+    "text": " I think of any because I'm pretty sure I have that record."
+  },
+  {
+    "start": 1558.66,
+    "end": 1562.78,
+    "text": " I wonder why I had to be over 18 to access that video."
+  },
+  {
+    "start": 1562.78,
+    "end": 1566.42,
+    "text": " It's it's not the smallest rooster."
+  },
+  {
+    "start": 1566.42,
+    "end": 1567.1,
+    "text": " It's not even a thing."
+  },
+  {
+    "start": 1567.1,
+    "end": 1570.74,
+    "text": " It's the smallest wooden carved thing in the world, according to Guinness."
+  },
+  {
+    "start": 1570.74,
+    "end": 1572.9,
+    "text": " It's a tiny little rooster, an eighth of an inch tall."
+  },
+  {
+    "start": 1573.02,
+    "end": 1574.98,
+    "text": " Anyway, he's an amazing whittler."
+  },
+  {
+    "start": 1574.98,
+    "end": 1579.1,
+    "text": " His ten rules is rule number one is actually make sure your knife is sharp."
+  },
+  {
+    "start": 1579.1,
+    "end": 1582.26,
+    "text": " A rule number two, any guesses?"
+  },
+  {
+    "start": 1582.26,
+    "end": 1584.7,
+    "text": " Don't run with scissors."
+  },
+  {
+    "start": 1584.7,
+    "end": 1586.82,
+    "text": " You're you're actually close."
+  },
+  {
+    "start": 1586.82,
+    "end": 1589.14,
+    "text": " It's your knife must be really sharp."
+  },
+  {
+    "start": 1589.14,
+    "end": 1591.58,
+    "text": " It's rule number two. Oh, what?"
+  },
+  {
+    "start": 1591.58,
+    "end": 1593.62,
+    "text": " Anna, is this Fight Club?"
+  },
+  {
+    "start": 1593.62,
+    "end": 1597.22,
+    "text": " Could I just check out the other eight rules also to do with sharp knives?"
+  },
+  {
+    "start": 1597.22,
+    "end": 1601.66,
+    "text": " I'm so I'm so glad that you've saved me having to read all of the other rules."
+  },
+  {
+    "start": 1602.1,
+    "end": 1605.66,
+    "text": " They're all different ways of saying before starting to carve."
+  },
+  {
+    "start": 1605.66,
+    "end": 1607.14,
+    "text": " Check to see if your knife is sharp."
+  },
+  {
+    "start": 1607.14,
+    "end": 1608.82,
+    "text": " If your knife is really sharp, it'll cut much better."
+  },
+  {
+    "start": 1608.82,
+    "end": 1611.26,
+    "text": " Rule number ten is refer back to rules one to nine,"
+  },
+  {
+    "start": 1611.26,
+    "end": 1613.66,
+    "text": " which are indeed different ways of saying have a sharp knife."
+  },
+  {
+    "start": 1613.66,
+    "end": 1616.7,
+    "text": " Very good. So whittlers out there, take note."
+  },
+  {
+    "start": 1616.7,
+    "end": 1622.1,
+    "text": " Modern board games often have these little carved wooden pieces."
+  },
+  {
+    "start": 1622.1,
+    "end": 1622.94,
+    "text": " They're quite simple."
+  },
+  {
+    "start": 1622.94,
+    "end": 1627.86,
+    "text": " They look a little bit like if you carved the the sign for the gents toilets,"
+  },
+  {
+    "start": 1627.86,
+    "end": 1631.7,
+    "text": " the little man, if you carved those into wood and painted them different colors."
+  },
+  {
+    "start": 1631.7,
+    "end": 1632.54,
+    "text": " That's what they look like."
+  },
+  {
+    "start": 1632.54,
+    "end": 1634.1,
+    "text": " Does anybody know what they're called?"
+  },
+  {
+    "start": 1634.1,
+    "end": 1636.26,
+    "text": " There was there was a there was a term of art for these things."
+  },
+  {
+    "start": 1636.26,
+    "end": 1638.86,
+    "text": " Wait for what for modern chess pieces?"
+  },
+  {
+    "start": 1638.86,
+    "end": 1641.94,
+    "text": " Well, modern board game pieces, not chess pieces, just board games in general."
+  },
+  {
+    "start": 1641.94,
+    "end": 1645.26,
+    "text": " I didn't even know what they were, but no, gone."
+  },
+  {
+    "start": 1645.26,
+    "end": 1650.34,
+    "text": " They're called Meeples, which is which is a sort of shortening of my people."
+  },
+  {
+    "start": 1650.34,
+    "end": 1653.26,
+    "text": " And so the so Meeples is a board game thing."
+  },
+  {
+    "start": 1653.26,
+    "end": 1657.66,
+    "text": " And there are, you know, their cafes based on Meeples and Meeple's clubs and so on."
+  },
+  {
+    "start": 1658.38,
+    "end": 1661.74,
+    "text": " But I think they're like tiny, tiny cafes that Meeples attend."
+  },
+  {
+    "start": 1661.74,
+    "end": 1663.82,
+    "text": " Yeah, but this one I'm speaking to you from Oxford."
+  },
+  {
+    "start": 1663.82,
+    "end": 1667.7,
+    "text": " And there's there's a cafe about two minutes walk away from me called Thirsty Meeples."
+  },
+  {
+    "start": 1667.7,
+    "end": 1670.14,
+    "text": " And you can go you can have your hot chocolate or a cup of coffee."
+  },
+  {
+    "start": 1670.14,
+    "end": 1673.3,
+    "text": " Then you can play board games surrounded by my by Meeples."
+  },
+  {
+    "start": 1673.3,
+    "end": 1678.42,
+    "text": " But I I reckon this whole this whole kind of chess piece carving thing."
+  },
+  {
+    "start": 1678.42,
+    "end": 1681.5,
+    "text": " It's basically a conspiracy by Big Meeple."
+  },
+  {
+    "start": 1681.5,
+    "end": 1683.74,
+    "text": " Because there is."
+  },
+  {
+    "start": 1683.74,
+    "end": 1687.3,
+    "text": " Wait, hang on, Tim, Tim, Tim, Big Meeples are just people, aren't they?"
+  },
+  {
+    "start": 1687.58,
+    "end": 1689.38,
+    "text": " You could be right."
+  },
+  {
+    "start": 1689.38,
+    "end": 1693.1,
+    "text": " You're absolutely right. You've caught me there."
+  },
+  {
+    "start": 1693.1,
+    "end": 1694.38,
+    "text": " Anyway, it's a conspiracy."
+  },
+  {
+    "start": 1694.38,
+    "end": 1697.62,
+    "text": " I'll figure out who's behind it sooner or later, because there's a problem"
+  },
+  {
+    "start": 1697.62,
+    "end": 1701.22,
+    "text": " with a lot of games that if you're trying to make money selling the game,"
+  },
+  {
+    "start": 1701.22,
+    "end": 1703.02,
+    "text": " the game is actually quite cheap."
+  },
+  {
+    "start": 1703.02,
+    "end": 1705.78,
+    "text": " And you buy a game like chess, it just cost a few pounds."
+  },
+  {
+    "start": 1705.78,
+    "end": 1707.66,
+    "text": " And then you could just play forever."
+  },
+  {
+    "start": 1707.66,
+    "end": 1708.74,
+    "text": " So how do you make money?"
+  },
+  {
+    "start": 1708.74,
+    "end": 1715.02,
+    "text": " And so there's this increased focus on getting very, very fancy pieces,"
+  },
+  {
+    "start": 1715.02,
+    "end": 1716.18,
+    "text": " very expensive pieces."
+  },
+  {
+    "start": 1716.18,
+    "end": 1718.62,
+    "text": " So these guys in Amritsar, this is an example of this."
+  },
+  {
+    "start": 1718.62,
+    "end": 1723.1,
+    "text": " But I think the the most striking example is Games Workshop."
+  },
+  {
+    "start": 1723.1,
+    "end": 1726.46,
+    "text": " So Games Workshop is this company that I remember from the 1980s,"
+  },
+  {
+    "start": 1726.46,
+    "end": 1729.54,
+    "text": " when I was a young nerd used to sell Dungeons and Dragons"
+  },
+  {
+    "start": 1729.54,
+    "end": 1731.26,
+    "text": " and used to sell all kinds of games."
+  },
+  {
+    "start": 1731.26,
+    "end": 1736.18,
+    "text": " And then they basically got taken over by a division of the inside the company"
+  },
+  {
+    "start": 1736.18,
+    "end": 1740.54,
+    "text": " called Citadel Miniatures, which just made toy soldiers and toy and miniature figures."
+  },
+  {
+    "start": 1740.54,
+    "end": 1744.06,
+    "text": " And these miniature figures were so profitable that during lockdown,"
+  },
+  {
+    "start": 1744.26,
+    "end": 1747.58,
+    "text": " Games Workshop had a higher profit margin than Google."
+  },
+  {
+    "start": 1747.58,
+    "end": 1751.22,
+    "text": " And Henry Cavill, the actor who plays Superman,"
+  },
+  {
+    "start": 1751.22,
+    "end": 1754.38,
+    "text": " described these these little miniature figures as plastic crack"
+  },
+  {
+    "start": 1754.38,
+    "end": 1757.7,
+    "text": " so that all the money is in the pieces, the money is not in the games."
+  },
+  {
+    "start": 1757.7,
+    "end": 1761.1,
+    "text": " That's true. I mean, I used to collect those pieces."
+  },
+  {
+    "start": 1761.1,
+    "end": 1764.54,
+    "text": " And there were some which were simply unaffordable for me with my 14 year old's budget."
+  },
+  {
+    "start": 1764.54,
+    "end": 1767.66,
+    "text": " Really? I used to have I used to collect them a little bit, not much."
+  },
+  {
+    "start": 1767.66,
+    "end": 1770.9,
+    "text": " But I was always really scared that I was going to die of lead poisoning"
+  },
+  {
+    "start": 1770.9,
+    "end": 1772.58,
+    "text": " because there was lead in them."
+  },
+  {
+    "start": 1772.58,
+    "end": 1775.94,
+    "text": " And I don't know, someone had once told me that you could die of lead poisoning"
+  },
+  {
+    "start": 1775.94,
+    "end": 1777.54,
+    "text": " and these pieces had lead in them."
+  },
+  {
+    "start": 1777.54,
+    "end": 1779.86,
+    "text": " And I was just I was convinced that I was going to die."
+  },
+  {
+    "start": 1779.86,
+    "end": 1781.54,
+    "text": " No, I think you're eating them."
+  },
+  {
+    "start": 1781.54,
+    "end": 1784.62,
+    "text": " No, but I was like because I was painting them and stuff"
+  },
+  {
+    "start": 1784.62,
+    "end": 1787.14,
+    "text": " and I didn't want to lick my fingers and stuff."
+  },
+  {
+    "start": 1787.14,
+    "end": 1791.02,
+    "text": " And you're closing your huff huffing away, you know, huffing away a little."
+  },
+  {
+    "start": 1791.02,
+    "end": 1793.22,
+    "text": " Paints used to be water based."
+  },
+  {
+    "start": 1793.22,
+    "end": 1794.5,
+    "text": " Well, the paints still are water based."
+  },
+  {
+    "start": 1794.5,
+    "end": 1797.86,
+    "text": " So you could you'd sort of paint and then you'd kind of lick your paintbrush"
+  },
+  {
+    "start": 1797.86,
+    "end": 1801.06,
+    "text": " to get a fine point on the paintbrush and the paint is non-toxic."
+  },
+  {
+    "start": 1801.34,
+    "end": 1803.26,
+    "text": " But the but you're painting these lead figures."
+  },
+  {
+    "start": 1803.26,
+    "end": 1804.42,
+    "text": " So they probably were very dangerous."
+  },
+  {
+    "start": 1804.42,
+    "end": 1806.42,
+    "text": " But anyway, they're all they're all made of plastic crack."
+  },
+  {
+    "start": 1806.42,
+    "end": 1809.9,
+    "text": " Now, as as as Henry Cavill puts it."
+  },
+  {
+    "start": 1809.9,
+    "end": 1811.18,
+    "text": " You're a bunch of crackheads."
+  },
+  {
+    "start": 1811.18,
+    "end": 1813.1,
+    "text": " It's the least cool kind of being a crackhead."
+  },
+  {
+    "start": 1813.1,
+    "end": 1814.5,
+    "text": " And being a crackhead isn't cool."
+  },
+  {
+    "start": 1814.5,
+    "end": 1816.98,
+    "text": " I want to emphasize, but this is even less cool."
+  },
+  {
+    "start": 1816.98,
+    "end": 1821.14,
+    "text": " It's so annoying when people tell you that it's like just like you were saying,"
+  },
+  {
+    "start": 1821.14,
+    "end": 1824.14,
+    "text": " James, with the the lead and the paint and the danger thing."
+  },
+  {
+    "start": 1824.14,
+    "end": 1827.46,
+    "text": " Well, I always remember my friend Christopher when I was about, I don't know,"
+  },
+  {
+    "start": 1827.46,
+    "end": 1830.66,
+    "text": " 18, telling me that if I kept drawing on my hand, I'd die."
+  },
+  {
+    "start": 1830.9,
+    "end": 1833.5,
+    "text": " Yeah, because the ink would get into my bloodstream somehow."
+  },
+  {
+    "start": 1833.5,
+    "end": 1838.46,
+    "text": " And I just wanted to say a big old fuck you to Christopher writing notes"
+  },
+  {
+    "start": 1838.46,
+    "end": 1840.86,
+    "text": " on my hand since then. And I'm as fit as a fiddle."
+  },
+  {
+    "start": 1840.86,
+    "end": 1842.78,
+    "text": " Yeah, I don't know."
+  },
+  {
+    "start": 1842.78,
+    "end": 1847.06,
+    "text": " I think that explains something about it could be like a conceal."
+  },
+  {
+    "start": 1847.06,
+    "end": 1848.62,
+    "text": " It could be a John Crandon thing."
+  },
+  {
+    "start": 1848.62,
+    "end": 1849.78,
+    "text": " It could be just a matter of time."
+  },
+  {
+    "start": 1849.78,
+    "end": 1850.9,
+    "text": " You're fine, you're fine, you're fine."
+  },
+  {
+    "start": 1850.9,
+    "end": 1853.86,
+    "text": " And then suddenly he's actually dropped dead."
+  },
+  {
+    "start": 1853.86,
+    "end": 1858.38,
+    "text": " Here's one thing on people who carve wood for a living."
+  },
+  {
+    "start": 1858.38,
+    "end": 1862.18,
+    "text": " Oh, yeah. You guys, I'm sure, have heard of Grindling Gibbons."
+  },
+  {
+    "start": 1862.18,
+    "end": 1864.46,
+    "text": " Oh, yeah. Yeah. Who hasn't?"
+  },
+  {
+    "start": 1864.46,
+    "end": 1866.62,
+    "text": " But just for anyone who's."
+  },
+  {
+    "start": 1866.62,
+    "end": 1869.1,
+    "text": " It's a horrible thing you do to great apes, isn't it?"
+  },
+  {
+    "start": 1869.1,
+    "end": 1872.58,
+    "text": " You've been outlawed in most places."
+  },
+  {
+    "start": 1872.58,
+    "end": 1875.06,
+    "text": " It's such a weird name. You're right."
+  },
+  {
+    "start": 1875.06,
+    "end": 1876.82,
+    "text": " I think it was Dutch."
+  },
+  {
+    "start": 1876.82,
+    "end": 1879.58,
+    "text": " It was basically the most famous woodcarver in history."
+  },
+  {
+    "start": 1879.58,
+    "end": 1882.46,
+    "text": " And I know that he's quite an obscure figure now."
+  },
+  {
+    "start": 1882.46,
+    "end": 1885.54,
+    "text": " But in the late 17th and early 18th centuries, he was catnip."
+  },
+  {
+    "start": 1886.54,
+    "end": 1889.5,
+    "text": " He's all over the UK, because he worked in England mostly."
+  },
+  {
+    "start": 1889.5,
+    "end": 1891.14,
+    "text": " There are these incredible woodcarvings."
+  },
+  {
+    "start": 1891.14,
+    "end": 1893.86,
+    "text": " I've seen some of them and they're amazing."
+  },
+  {
+    "start": 1893.86,
+    "end": 1898.1,
+    "text": " As in he could he could do the fuzz on a peach, but carved in wood, you know?"
+  },
+  {
+    "start": 1898.1,
+    "end": 1899.22,
+    "text": " Wow, really?"
+  },
+  {
+    "start": 1899.22,
+    "end": 1903.18,
+    "text": " He's called the Michelangelo of Wood by some people, by some people."
+  },
+  {
+    "start": 1903.18,
+    "end": 1906.18,
+    "text": " And yeah, why his mum?"
+  },
+  {
+    "start": 1906.18,
+    "end": 1908.98,
+    "text": " He lives with. Anyway, one of his crowning."
+  },
+  {
+    "start": 1908.98,
+    "end": 1912.26,
+    "text": " It was really, he was extremely famous."
+  },
+  {
+    "start": 1912.46,
+    "end": 1916.62,
+    "text": " I mean, it's not fair. Why would somebody who whittles be regarded"
+  },
+  {
+    "start": 1916.62,
+    "end": 1920.18,
+    "text": " as less admirable than someone like Michelangelo who works in stone?"
+  },
+  {
+    "start": 1920.18,
+    "end": 1922.18,
+    "text": " It doesn't make. Exactly, exactly."
+  },
+  {
+    "start": 1922.18,
+    "end": 1924.38,
+    "text": " Get this, could Michelangelo do this?"
+  },
+  {
+    "start": 1924.38,
+    "end": 1928.82,
+    "text": " I bet he couldn't. In 1690, he made a wooden cravat."
+  },
+  {
+    "start": 1928.82,
+    "end": 1931.22,
+    "text": " I have a wooden bow tie."
+  },
+  {
+    "start": 1931.22,
+    "end": 1934.22,
+    "text": " It's completely different."
+  },
+  {
+    "start": 1934.22,
+    "end": 1936.3,
+    "text": " Is it?"
+  },
+  {
+    "start": 1936.3,
+    "end": 1938.18,
+    "text": " He really deflated Andy there."
+  },
+  {
+    "start": 1938.18,
+    "end": 1939.74,
+    "text": " The bow tie is designed to be stiff."
+  },
+  {
+    "start": 1939.74,
+    "end": 1942.98,
+    "text": " You could any any any chump can make a bow tie out of wood."
+  },
+  {
+    "start": 1942.98,
+    "end": 1945.06,
+    "text": " Just two two cross bits of wood."
+  },
+  {
+    "start": 1945.06,
+    "end": 1949.1,
+    "text": " They like to get the fine the cravat, the most flowing of all ice."
+  },
+  {
+    "start": 1949.1,
+    "end": 1952.58,
+    "text": " I quite like I quite like how you just accepted that I have a wooden bow tie."
+  },
+  {
+    "start": 1952.58,
+    "end": 1954.22,
+    "text": " Oh, yeah. Oh, yeah."
+  },
+  {
+    "start": 1954.22,
+    "end": 1956.22,
+    "text": " Sorry, there's a there's a much better point."
+  },
+  {
+    "start": 1956.22,
+    "end": 1960.62,
+    "text": " What I just went to the place in Portugal where all the cork trees are"
+  },
+  {
+    "start": 1960.62,
+    "end": 1963.5,
+    "text": " and they sell a lot of merch and one of them is a bow tie."
+  },
+  {
+    "start": 1963.5,
+    "end": 1966.34,
+    "text": " And I thought it'd be really cool, but I've never found the outfits."
+  },
+  {
+    "start": 1966.34,
+    "end": 1967.66,
+    "text": " I go with it. I must admit."
+  },
+  {
+    "start": 1967.66,
+    "end": 1969.22,
+    "text": " It's so weird, so weird."
+  },
+  {
+    "start": 1969.22,
+    "end": 1972.54,
+    "text": " You need the full wooden suit to go with it, didn't you, really?"
+  },
+  {
+    "start": 1972.54,
+    "end": 1975.86,
+    "text": " Well, James, if you tell you what, if you if you stand next to a donkey"
+  },
+  {
+    "start": 1975.86,
+    "end": 1978.5,
+    "text": " and you put on your wooden bow tie and you make it rotate,"
+  },
+  {
+    "start": 1978.5,
+    "end": 1980.66,
+    "text": " Anna will think you're a desert island."
+  },
+  {
+    "start": 1980.66,
+    "end": 1987.9,
+    "text": " OK, it is time for fact number three."
+  },
+  {
+    "start": 1987.9,
+    "end": 1989.22,
+    "text": " And that is my fact."
+  },
+  {
+    "start": 1989.22,
+    "end": 1991.66,
+    "text": " My fact this week is that in Ecuador,"
+  },
+  {
+    "start": 1991.66,
+    "end": 1995.62,
+    "text": " cleaners are people who rub you down with stinging nettles."
+  },
+  {
+    "start": 1997.06,
+    "end": 2000.82,
+    "text": " And it's not as people pay for this service."
+  },
+  {
+    "start": 2000.82,
+    "end": 2001.54,
+    "text": " Yeah, people."
+  },
+  {
+    "start": 2001.54,
+    "end": 2004.62,
+    "text": " I think people pay maybe even more than cleaners in the UK,"
+  },
+  {
+    "start": 2004.62,
+    "end": 2007.34,
+    "text": " which is not even more than cleaners in the UK."
+  },
+  {
+    "start": 2007.34,
+    "end": 2010.18,
+    "text": " The highest paid bracket in the country."
+  },
+  {
+    "start": 2010.18,
+    "end": 2012.94,
+    "text": " It's not possible, Anna."
+  },
+  {
+    "start": 2012.94,
+    "end": 2015.26,
+    "text": " It's a travesty and you'll spin off podcasts."
+  },
+  {
+    "start": 2015.26,
+    "end": 2017.26,
+    "text": " Our cleaners paid too much."
+  },
+  {
+    "start": 2017.26,
+    "end": 2019.34,
+    "text": " I wish you all the best."
+  },
+  {
+    "start": 2019.34,
+    "end": 2024.42,
+    "text": " But these are Olympiadores in Ecuador and they are spiritual cleaners."
+  },
+  {
+    "start": 2024.42,
+    "end": 2028.38,
+    "text": " But Olympiadores just means a cleaner, like it's just the word for a cleaner."
+  },
+  {
+    "start": 2028.38,
+    "end": 2031.42,
+    "text": " But these are people who sort of cleanse your aura."
+  },
+  {
+    "start": 2031.42,
+    "end": 2035.26,
+    "text": " And it's a deep rooted tradition in traditional cultures,"
+  },
+  {
+    "start": 2035.26,
+    "end": 2037.54,
+    "text": " particularly up in the mountains."
+  },
+  {
+    "start": 2037.54,
+    "end": 2041.26,
+    "text": " A lot of people have this service and it's you're rubbed up and down"
+  },
+  {
+    "start": 2041.26,
+    "end": 2046.06,
+    "text": " with stinging nettles and it removes all your bad energy and bad luck."
+  },
+  {
+    "start": 2046.06,
+    "end": 2047.98,
+    "text": " And it hurts quite a lot."
+  },
+  {
+    "start": 2047.98,
+    "end": 2050.86,
+    "text": " And that just shows that it's working, apparently."
+  },
+  {
+    "start": 2050.86,
+    "end": 2053.62,
+    "text": " Is it like cleaners in the UK where they come around?"
+  },
+  {
+    "start": 2053.62,
+    "end": 2056.42,
+    "text": " They sort of do an initial site visit of your aura and they say,"
+  },
+  {
+    "start": 2056.42,
+    "end": 2059.94,
+    "text": " well, this aura probably is going to need about a couple of hours a week."
+  },
+  {
+    "start": 2059.94,
+    "end": 2064.7,
+    "text": " I'd say maybe two visits, actually, because it's prone to become disgusting quite fast."
+  },
+  {
+    "start": 2064.7,
+    "end": 2069.42,
+    "text": " Yeah. Is it like cleaners in the UK where when they whip you with nettles,"
+  },
+  {
+    "start": 2069.42,
+    "end": 2072.74,
+    "text": " they sometimes miss the corners?"
+  },
+  {
+    "start": 2072.74,
+    "end": 2074.58,
+    "text": " Yeah. And you're too embarrassed to say anything about it"
+  },
+  {
+    "start": 2074.58,
+    "end": 2076.1,
+    "text": " because you don't you don't want to make a fuss."
+  },
+  {
+    "start": 2076.1,
+    "end": 2078.18,
+    "text": " But so I just whip my own corners."
+  },
+  {
+    "start": 2080.98,
+    "end": 2083.7,
+    "text": " Anyone else got any complaints about their cleaners?"
+  },
+  {
+    "start": 2083.7,
+    "end": 2087.58,
+    "text": " It's very first world problems little interaction we're having now."
+  },
+  {
+    "start": 2087.58,
+    "end": 2088.7,
+    "text": " No. OK."
+  },
+  {
+    "start": 2088.7,
+    "end": 2093.78,
+    "text": " So I think with these guys, they they're professionals."
+  },
+  {
+    "start": 2093.78,
+    "end": 2096.14,
+    "text": " The best ones, they don't miss any spots."
+  },
+  {
+    "start": 2096.14,
+    "end": 2099.9,
+    "text": " And in fact, they have an extra service where if you're actually ill"
+  },
+  {
+    "start": 2099.9,
+    "end": 2104.82,
+    "text": " and you go to, again, Olympia service, then they have a diagnostic tool"
+  },
+  {
+    "start": 2104.82,
+    "end": 2109.22,
+    "text": " first where you get rubbed with an egg and a dead black guinea pig."
+  },
+  {
+    "start": 2109.66,
+    "end": 2112.02,
+    "text": " And that. Did it die of scurvy?"
+  },
+  {
+    "start": 2112.02,
+    "end": 2115.94,
+    "text": " Yeah. What?"
+  },
+  {
+    "start": 2115.94,
+    "end": 2118.34,
+    "text": " Egg and a dead black guinea pig."
+  },
+  {
+    "start": 2118.34,
+    "end": 2120.78,
+    "text": " Yeah. And somehow that diagnoses the problem."
+  },
+  {
+    "start": 2120.78,
+    "end": 2123.42,
+    "text": " Then you sort of inspect the egg is weird."
+  },
+  {
+    "start": 2123.42,
+    "end": 2125.34,
+    "text": " Obviously, the guinea pig makes no sense."
+  },
+  {
+    "start": 2125.34,
+    "end": 2129.5,
+    "text": " So this nettle stuff might have could it have helped like nettles?"
+  },
+  {
+    "start": 2129.5,
+    "end": 2131.06,
+    "text": " Are they good for you or not?"
+  },
+  {
+    "start": 2131.06,
+    "end": 2133.14,
+    "text": " I don't not not in this way."
+  },
+  {
+    "start": 2133.14,
+    "end": 2137.94,
+    "text": " It's just a it's a traditional herbal treatment, very popular."
+  },
+  {
+    "start": 2137.94,
+    "end": 2140.26,
+    "text": " And it's but it is still used quite widely."
+  },
+  {
+    "start": 2140.26,
+    "end": 2144.1,
+    "text": " So even in hospitals in the big cities in Ecuador, apparently, doctors"
+  },
+  {
+    "start": 2144.1,
+    "end": 2147.3,
+    "text": " will let these limpia doris work alongside them."
+  },
+  {
+    "start": 2147.3,
+    "end": 2149.82,
+    "text": " And, you know, so the doctors will give the conventional treatment"
+  },
+  {
+    "start": 2149.82,
+    "end": 2152.7,
+    "text": " and then will accept that the patient will also ask for a rub down with the nettles."
+  },
+  {
+    "start": 2152.7,
+    "end": 2154.86,
+    "text": " I think it is good for you. I think a little bit."
+  },
+  {
+    "start": 2154.86,
+    "end": 2158.46,
+    "text": " Yeah, I read something in a few rubbed nettles onto an arthritic thumb."
+  },
+  {
+    "start": 2158.46,
+    "end": 2163.1,
+    "text": " The nettles will sting you, but you may get some relief from the arthritis."
+  },
+  {
+    "start": 2163.1,
+    "end": 2164.66,
+    "text": " There are quite a lot of claims."
+  },
+  {
+    "start": 2164.66,
+    "end": 2168.34,
+    "text": " Yeah, is is that I don't know how much has been scientifically proven,"
+  },
+  {
+    "start": 2168.34,
+    "end": 2169.86,
+    "text": " but that's not to say it doesn't work."
+  },
+  {
+    "start": 2169.86,
+    "end": 2172.58,
+    "text": " There was a person who died of nettle stings."
+  },
+  {
+    "start": 2172.58,
+    "end": 2174.38,
+    "text": " I found one. Right."
+  },
+  {
+    "start": 2174.38,
+    "end": 2178.42,
+    "text": " This was a tree nettle in New Zealand called Ertica ferrox."
+  },
+  {
+    "start": 2178.42,
+    "end": 2181.02,
+    "text": " Ertica is like the family of nettles."
+  },
+  {
+    "start": 2181.02,
+    "end": 2184.42,
+    "text": " And apparently there was a lightly clad hunter"
+  },
+  {
+    "start": 2184.42,
+    "end": 2188.14,
+    "text": " who died five hours after walking through a dense patch of nettles."
+  },
+  {
+    "start": 2188.14,
+    "end": 2190.22,
+    "text": " We don't really know what happened to him."
+  },
+  {
+    "start": 2190.22,
+    "end": 2191.98,
+    "text": " Apart from that, I guess it could be anaphylaxis."
+  },
+  {
+    "start": 2191.98,
+    "end": 2194.18,
+    "text": " You can get that through nettles."
+  },
+  {
+    "start": 2194.18,
+    "end": 2199.14,
+    "text": " But yeah, and apparently this nettle in New Zealand, according to Maori folklore,"
+  },
+  {
+    "start": 2199.14,
+    "end": 2205.1,
+    "text": " one of their kind of gods, Kupe, kind of used them to hinder pursuers"
+  },
+  {
+    "start": 2205.1,
+    "end": 2208.02,
+    "text": " when he stole their wives so he would steal their wives."
+  },
+  {
+    "start": 2208.02,
+    "end": 2210.46,
+    "text": " He would run away and he would throw down nettles"
+  },
+  {
+    "start": 2210.46,
+    "end": 2212.1,
+    "text": " so that people couldn't follow him."
+  },
+  {
+    "start": 2212.1,
+    "end": 2215.3,
+    "text": " I'm feeling more guilty about something I did at primary school."
+  },
+  {
+    "start": 2215.3,
+    "end": 2218.58,
+    "text": " I've actually never confessed this to anybody, but just between the four of us."
+  },
+  {
+    "start": 2218.58,
+    "end": 2222.34,
+    "text": " So a friend of mine, I've got very vague memories of this,"
+  },
+  {
+    "start": 2222.34,
+    "end": 2225.18,
+    "text": " but a friend of mine and I decided that for some reason"
+  },
+  {
+    "start": 2225.18,
+    "end": 2228.78,
+    "text": " we were going to set a nettle trap, which I now realise could have been fatal."
+  },
+  {
+    "start": 2228.78,
+    "end": 2231.9,
+    "text": " And this nettle trap involves we've got some nettles"
+  },
+  {
+    "start": 2231.9,
+    "end": 2235.22,
+    "text": " and we just put them somewhere on the playground where somebody might find them."
+  },
+  {
+    "start": 2235.22,
+    "end": 2238.54,
+    "text": " And then and then I think my friend said, oh, they only sting you on the edge."
+  },
+  {
+    "start": 2238.54,
+    "end": 2240.26,
+    "text": " I don't know if that's true or not."
+  },
+  {
+    "start": 2240.26,
+    "end": 2242.5,
+    "text": " And we thought, but maybe people won't."
+  },
+  {
+    "start": 2242.5,
+    "end": 2243.82,
+    "text": " I don't know why we thought this is a good idea."
+  },
+  {
+    "start": 2243.82,
+    "end": 2246.82,
+    "text": " But we thought maybe people won't pick up the nettles and they won't be stung."
+  },
+  {
+    "start": 2246.82,
+    "end": 2251.62,
+    "text": " So we then letter, we wrote a little note that said, please touch these leaves."
+  },
+  {
+    "start": 2252.1,
+    "end": 2254.46,
+    "text": " And then then my friend is like, but they only sting on the edge."
+  },
+  {
+    "start": 2254.46,
+    "end": 2257.38,
+    "text": " So then we added, please touch these leaves on the edge."
+  },
+  {
+    "start": 2257.38,
+    "end": 2261.18,
+    "text": " I don't know if there were any fatalities, but I'm burdened by guilt."
+  },
+  {
+    "start": 2261.18,
+    "end": 2265.66,
+    "text": " What a genius ruse, master criminal."
+  },
+  {
+    "start": 2265.66,
+    "end": 2268.02,
+    "text": " I assume it's just no fell for it."
+  },
+  {
+    "start": 2268.02,
+    "end": 2270.26,
+    "text": " Yeah, there's just no trick there, is there really?"
+  },
+  {
+    "start": 2270.26,
+    "end": 2273.94,
+    "text": " It's like you're not trying to disguise them as anything or anything like that."
+  },
+  {
+    "start": 2273.94,
+    "end": 2276.06,
+    "text": " It's like literally straight on the nose."
+  },
+  {
+    "start": 2276.06,
+    "end": 2278.62,
+    "text": " Please injure yourself with our trap."
+  },
+  {
+    "start": 2278.62,
+    "end": 2280.34,
+    "text": " Put a hand in Mousetrap."
+  },
+  {
+    "start": 2281.22,
+    "end": 2283.1,
+    "text": " Oh, I love that."
+  },
+  {
+    "start": 2283.1,
+    "end": 2287.62,
+    "text": " You I'm sure I'm sure in the course of your research,"
+  },
+  {
+    "start": 2287.62,
+    "end": 2290.1,
+    "text": " you guys came across the world nettle eating championships."
+  },
+  {
+    "start": 2290.1,
+    "end": 2292.98,
+    "text": " No. Oh, it sounds really crazy."
+  },
+  {
+    "start": 2292.98,
+    "end": 2294.78,
+    "text": " Well, they happen in they happen in Dorset."
+  },
+  {
+    "start": 2294.78,
+    "end": 2298.98,
+    "text": " Of course, very near Bridport, which we've mentioned before on the podcast,"
+  },
+  {
+    "start": 2298.98,
+    "end": 2301.22,
+    "text": " has the world's only thatched brewery."
+  },
+  {
+    "start": 2301.22,
+    "end": 2304.42,
+    "text": " But we don't there's no time to rake over that old boom."
+  },
+  {
+    "start": 2306.26,
+    "end": 2310.66,
+    "text": " So it's basically happened at a pub called The Bottle Inn until 2019."
+  },
+  {
+    "start": 2310.66,
+    "end": 2312.26,
+    "text": " But the pub's been closed lots on and off."
+  },
+  {
+    "start": 2312.26,
+    "end": 2313.22,
+    "text": " But it is happening this year."
+  },
+  {
+    "start": 2313.22,
+    "end": 2315.66,
+    "text": " It's moving to a farm nearby."
+  },
+  {
+    "start": 2315.66,
+    "end": 2318.82,
+    "text": " And the competition is because of nettle based fatalities"
+  },
+  {
+    "start": 2318.82,
+    "end": 2321.46,
+    "text": " shot down by health and safety at this point."
+  },
+  {
+    "start": 2321.46,
+    "end": 2327.38,
+    "text": " So the the farm is taking it over, taking the reins this year, which is great."
+  },
+  {
+    "start": 2327.38,
+    "end": 2329.22,
+    "text": " And the the measure is by length."
+  },
+  {
+    "start": 2329.22,
+    "end": 2332.5,
+    "text": " That's how you measure whether you're successful at eating nettles or not."
+  },
+  {
+    "start": 2332.5,
+    "end": 2333.78,
+    "text": " Is how long in feet?"
+  },
+  {
+    "start": 2333.78,
+    "end": 2337.34,
+    "text": " Time. Oh, no, as in literally got it."
+  },
+  {
+    "start": 2337.34,
+    "end": 2339.34,
+    "text": " How yeah, how many how many feet of now do you can eat?"
+  },
+  {
+    "start": 2339.34,
+    "end": 2343.22,
+    "text": " So that and so it's the length of stalk that is that remains"
+  },
+  {
+    "start": 2343.22,
+    "end": 2346.06,
+    "text": " after you've stripped all the little nettle leaves off it and eat."
+  },
+  {
+    "start": 2346.06,
+    "end": 2349.9,
+    "text": " Well, do you work your way down like a the side of a road"
+  },
+  {
+    "start": 2349.9,
+    "end": 2353.5,
+    "text": " and just eat as many?"
+  },
+  {
+    "start": 2353.5,
+    "end": 2357.18,
+    "text": " It's I understand it's the stalk because I understand it was originally"
+  },
+  {
+    "start": 2357.18,
+    "end": 2360.38,
+    "text": " two farmers got into an argument about who had the biggest nettles."
+  },
+  {
+    "start": 2360.38,
+    "end": 2364.26,
+    "text": " And it was and they said, if you can grow a longer nettle"
+  },
+  {
+    "start": 2364.26,
+    "end": 2366.58,
+    "text": " than I've got growing on my farm, I'll eat it."
+  },
+  {
+    "start": 2366.58,
+    "end": 2369.7,
+    "text": " Yeah. And so I think the idea is you strip the leaves off."
+  },
+  {
+    "start": 2369.7,
+    "end": 2373.1,
+    "text": " And then you it's the stalk that remains is your measure of nettle."
+  },
+  {
+    "start": 2373.1,
+    "end": 2376.02,
+    "text": " It's I think that I think that argument was about more than I think"
+  },
+  {
+    "start": 2376.02,
+    "end": 2377.86,
+    "text": " that was about the length of the farmer's roosters."
+  },
+  {
+    "start": 2377.86,
+    "end": 2383.42,
+    "text": " I mean, when I when I encountered this, I thought, oh, yeah,"
+  },
+  {
+    "start": 2383.42,
+    "end": 2386.3,
+    "text": " can be competitive nettle eating, it's crazy."
+  },
+  {
+    "start": 2386.3,
+    "end": 2388.14,
+    "text": " But it's like, you know, the competitive chili eating"
+  },
+  {
+    "start": 2388.14,
+    "end": 2389.86,
+    "text": " or the competitive hot dog eating or so on."
+  },
+  {
+    "start": 2389.86,
+    "end": 2391.86,
+    "text": " So it's like, oh, how many can you eat in one minute?"
+  },
+  {
+    "start": 2391.86,
+    "end": 2393.54,
+    "text": " Or how many can you eat in three minutes?"
+  },
+  {
+    "start": 2393.54,
+    "end": 2399.7,
+    "text": " But no, it's how many can you eat in an hour to spend an hour eating nettles?"
+  },
+  {
+    "start": 2399.7,
+    "end": 2401.78,
+    "text": " And it's too long."
+  },
+  {
+    "start": 2401.78,
+    "end": 2404.7,
+    "text": " It doesn't count if you don't keep the nettles down."
+  },
+  {
+    "start": 2404.7,
+    "end": 2407.5,
+    "text": " And there was one guy a few years ago who was way ahead."
+  },
+  {
+    "start": 2407.5,
+    "end": 2411.54,
+    "text": " And at 57 minutes, he went to just threw up in the pub car park"
+  },
+  {
+    "start": 2411.54,
+    "end": 2413.78,
+    "text": " and he was disqualified. Can you imagine?"
+  },
+  {
+    "start": 2413.78,
+    "end": 2417.3,
+    "text": " It's the winner, the all time record winner is called Philip Thorn."
+  },
+  {
+    "start": 2418.26,
+    "end": 2423.02,
+    "text": " Now, nettles don't have thorns, admittedly, but it's quite close."
+  },
+  {
+    "start": 2423.02,
+    "end": 2426.22,
+    "text": " His record 104 feet."
+  },
+  {
+    "start": 2426.22,
+    "end": 2429.26,
+    "text": " So impressive, which is long."
+  },
+  {
+    "start": 2429.26,
+    "end": 2432.86,
+    "text": " Do you know what I find most amazing about that is what it says"
+  },
+  {
+    "start": 2432.86,
+    "end": 2435.22,
+    "text": " about the human capacity to improve?"
+  },
+  {
+    "start": 2435.22,
+    "end": 2439.58,
+    "text": " Because about 10 years before he got the record, which was in 2018,"
+  },
+  {
+    "start": 2439.58,
+    "end": 2443.98,
+    "text": " the winner of the same competition, eight 48 feet of nettles."
+  },
+  {
+    "start": 2443.98,
+    "end": 2448.14,
+    "text": " Now, in just a decade, Phil Thorn has more than doubled that."
+  },
+  {
+    "start": 2448.14,
+    "end": 2451.9,
+    "text": " How have humans got so much better at nettle eating in the space of ten years?"
+  },
+  {
+    "start": 2451.9,
+    "end": 2455.3,
+    "text": " That's like if in ten years time, we can do the hundred meters in four and a half"
+  },
+  {
+    "start": 2455.3,
+    "end": 2457.18,
+    "text": " seconds, isn't it? Exactly."
+  },
+  {
+    "start": 2457.18,
+    "end": 2458.86,
+    "text": " Yeah."
+  },
+  {
+    "start": 2458.86,
+    "end": 2461.06,
+    "text": " Well, get Phil Thorn in the hundred meters."
+  },
+  {
+    "start": 2461.06,
+    "end": 2464.5,
+    "text": " So there's nettles at the end at the finish line."
+  },
+  {
+    "start": 2464.5,
+    "end": 2466.5,
+    "text": " You're not allowed to cook them, I guess, right?"
+  },
+  {
+    "start": 2466.5,
+    "end": 2468.34,
+    "text": " You just have to eat them raw."
+  },
+  {
+    "start": 2468.34,
+    "end": 2469.5,
+    "text": " They're raw, freshly picked."
+  },
+  {
+    "start": 2469.5,
+    "end": 2471.5,
+    "text": " Your tongue goes black from all the iron in them."
+  },
+  {
+    "start": 2471.5,
+    "end": 2473.82,
+    "text": " It's painful, apparently, almost immediately."
+  },
+  {
+    "start": 2473.82,
+    "end": 2475.86,
+    "text": " Within 20 seconds, it's very painful."
+  },
+  {
+    "start": 2475.86,
+    "end": 2479.86,
+    "text": " And you then only got another 3,580 seconds to get through."
+  },
+  {
+    "start": 2479.86,
+    "end": 2481.34,
+    "text": " That's horrific."
+  },
+  {
+    "start": 2481.34,
+    "end": 2482.9,
+    "text": " I don't know how people do it."
+  },
+  {
+    "start": 2482.9,
+    "end": 2486.26,
+    "text": " And you're not allowed to bring your own nettles and you're not allowed to bring"
+  },
+  {
+    "start": 2486.26,
+    "end": 2489.94,
+    "text": " any substances that might numb your mouth, although I'm sure some people have"
+  },
+  {
+    "start": 2489.94,
+    "end": 2492.78,
+    "text": " been tempted to try and smear Vaseline on."
+  },
+  {
+    "start": 2492.78,
+    "end": 2496.3,
+    "text": " I don't know, because I just thought of a trick, but then I only thought of the trick"
+  },
+  {
+    "start": 2496.3,
+    "end": 2498.38,
+    "text": " after you told me the thing you're not allowed to do."
+  },
+  {
+    "start": 2498.38,
+    "end": 2499.9,
+    "text": " So that's that's not going to work."
+  },
+  {
+    "start": 2499.9,
+    "end": 2504.42,
+    "text": " But I think from memory in Hawaii, I think the nettles don't have stings on them."
+  },
+  {
+    "start": 2504.94,
+    "end": 2508.9,
+    "text": " I think you turn you turn up wearing your lay with your with your"
+  },
+  {
+    "start": 2508.9,
+    "end": 2511.42,
+    "text": " sun hat on in your in your tropical shirt."
+  },
+  {
+    "start": 2511.42,
+    "end": 2512.42,
+    "text": " Whatever you like."
+  },
+  {
+    "start": 2512.42,
+    "end": 2518.46,
+    "text": " Just just just exeter, you know, I think I was smuggling some broccoli"
+  },
+  {
+    "start": 2518.46,
+    "end": 2520.3,
+    "text": " or something and say, oh, no, it's definitely nettles."
+  },
+  {
+    "start": 2520.3,
+    "end": 2524.42,
+    "text": " I think that they might have evolved to have no sting"
+  },
+  {
+    "start": 2524.42,
+    "end": 2528.54,
+    "text": " because they don't have any animals that eat them or something."
+  },
+  {
+    "start": 2528.54,
+    "end": 2530.54,
+    "text": " Oh, really? So they don't need to repel."
+  },
+  {
+    "start": 2530.54,
+    "end": 2531.94,
+    "text": " That's amazing."
+  },
+  {
+    "start": 2531.94,
+    "end": 2534.14,
+    "text": " What you can do at the nettle eating championships"
+  },
+  {
+    "start": 2534.14,
+    "end": 2538.06,
+    "text": " is drink, you can either drink water or you can drink beer."
+  },
+  {
+    "start": 2538.06,
+    "end": 2542.42,
+    "text": " I don't know if it has to be beer sourced from a thatch brewery or not."
+  },
+  {
+    "start": 2542.42,
+    "end": 2544.82,
+    "text": " It's going to be cider now that it's a cider farm."
+  },
+  {
+    "start": 2544.82,
+    "end": 2545.94,
+    "text": " Cider is allowed."
+  },
+  {
+    "start": 2545.94,
+    "end": 2549.5,
+    "text": " Cider is allowed because I think that would help go on."
+  },
+  {
+    "start": 2549.5,
+    "end": 2553.06,
+    "text": " So one, in fact, as we're talking about incredible moments"
+  },
+  {
+    "start": 2553.06,
+    "end": 2556.26,
+    "text": " in the history of nettle eating in 2019, the women's winner,"
+  },
+  {
+    "start": 2556.26,
+    "end": 2559.62,
+    "text": " Lindy Rogers, I don't know why the competition is divided by sex."
+  },
+  {
+    "start": 2559.62,
+    "end": 2561.62,
+    "text": " I have no idea."
+  },
+  {
+    "start": 2561.62,
+    "end": 2563.34,
+    "text": " But there's a men's and a women's championship."
+  },
+  {
+    "start": 2563.34,
+    "end": 2565.78,
+    "text": " The women's winner, Lindy Rogers, had an incredible"
+  },
+  {
+    "start": 2565.78,
+    "end": 2569.54,
+    "text": " Fosbury flop moment because she dipped her nettles inside her."
+  },
+  {
+    "start": 2569.54,
+    "end": 2574.74,
+    "text": " Inside her or inside."
+  },
+  {
+    "start": 2574.74,
+    "end": 2576.62,
+    "text": " I mean, first of all, that's disgusting."
+  },
+  {
+    "start": 2576.62,
+    "end": 2579.1,
+    "text": " Second of all, I feel like it would hurt just as much."
+  },
+  {
+    "start": 2579.1,
+    "end": 2582.9,
+    "text": " In apple cider."
+  },
+  {
+    "start": 2582.9,
+    "end": 2585.22,
+    "text": " Oh, sorry. Exactly."
+  },
+  {
+    "start": 2585.22,
+    "end": 2588.42,
+    "text": " And so that's that's a method that apparently helps to take"
+  },
+  {
+    "start": 2588.42,
+    "end": 2589.94,
+    "text": " take a bit of the sting out of it."
+  },
+  {
+    "start": 2589.94,
+    "end": 2591.22,
+    "text": " That feels like a loophole."
+  },
+  {
+    "start": 2591.22,
+    "end": 2592.54,
+    "text": " Because they've got to close that one."
+  },
+  {
+    "start": 2592.54,
+    "end": 2595.58,
+    "text": " That should be a loophole, you know, it's all it's all loopholes."
+  },
+  {
+    "start": 2595.58,
+    "end": 2597.9,
+    "text": " It's all loopholes on here on here."
+  },
+  {
+    "start": 2597.9,
+    "end": 2599.38,
+    "text": " Yeah. Yeah. Wow."
+  },
+  {
+    "start": 2599.38,
+    "end": 2602.7,
+    "text": " So the in the war in the First World War,"
+  },
+  {
+    "start": 2602.7,
+    "end": 2605.66,
+    "text": " the Germans were encouraged to collect nettles."
+  },
+  {
+    "start": 2605.66,
+    "end": 2612.14,
+    "text": " Can you guess why, maybe ammunition shortage is really biting."
+  },
+  {
+    "start": 2612.14,
+    "end": 2615.62,
+    "text": " We're just going to have to thrash the British with our nettle bundles."
+  },
+  {
+    "start": 2615.62,
+    "end": 2618.66,
+    "text": " Were they planning to steal everybody's wives"
+  },
+  {
+    "start": 2618.66,
+    "end": 2621.46,
+    "text": " and then throw the nettles down to foil the pursuers?"
+  },
+  {
+    "start": 2621.46,
+    "end": 2622.42,
+    "text": " Very good."
+  },
+  {
+    "start": 2622.42,
+    "end": 2624.5,
+    "text": " Just setting a nettle trap in the playground,"
+  },
+  {
+    "start": 2624.5,
+    "end": 2626.9,
+    "text": " taking literally a leaf out of Tim's book."
+  },
+  {
+    "start": 2626.9,
+    "end": 2629.9,
+    "text": " Better touch and see here."
+  },
+  {
+    "start": 2629.9,
+    "end": 2633.34,
+    "text": " No, it was to make uniforms."
+  },
+  {
+    "start": 2633.34,
+    "end": 2636.94,
+    "text": " So you can take the stocks off nettles"
+  },
+  {
+    "start": 2636.94,
+    "end": 2640.18,
+    "text": " and you can make like kind of material with it."
+  },
+  {
+    "start": 2640.18,
+    "end": 2642.1,
+    "text": " The month at university in Leicester"
+  },
+  {
+    "start": 2642.1,
+    "end": 2644.06,
+    "text": " have got a thing called the Sting Project"
+  },
+  {
+    "start": 2644.06,
+    "end": 2646.62,
+    "text": " and they've been trying to find things that you can do with nettles."
+  },
+  {
+    "start": 2646.9,
+    "end": 2650.02,
+    "text": " And one of their team, a designer called Alex Deer,"
+  },
+  {
+    "start": 2650.02,
+    "end": 2653.14,
+    "text": " has invented underwear that's made from nettles."
+  },
+  {
+    "start": 2653.14,
+    "end": 2658.06,
+    "text": " They made a pink camisole top and pants made from nettles."
+  },
+  {
+    "start": 2658.06,
+    "end": 2663.22,
+    "text": " And according to Alex Deer, they said, it is quite a hairy fibre."
+  },
+  {
+    "start": 2663.22,
+    "end": 2666.18,
+    "text": " So you probably wouldn't want all of your underwear made of it."
+  },
+  {
+    "start": 2666.18,
+    "end": 2670.02,
+    "text": " But we are trying to make a point of what is possible with this plant."
+  },
+  {
+    "start": 2670.02,
+    "end": 2671.02,
+    "text": " Wow."
+  },
+  {
+    "start": 2671.02,
+    "end": 2674.22,
+    "text": " I don't want to dip them inside it, wouldn't you?"
+  },
+  {
+    "start": 2675.42,
+    "end": 2678.22,
+    "text": " Or have sex with someone who wears dockleaf pants."
+  },
+  {
+    "start": 2678.22,
+    "end": 2681.82,
+    "text": " Oh, James, come on."
+  },
+  {
+    "start": 2681.82,
+    "end": 2682.62,
+    "text": " You know, that's a myth."
+  },
+  {
+    "start": 2682.62,
+    "end": 2684.38,
+    "text": " Don't propagate it for the kids."
+  },
+  {
+    "start": 2684.38,
+    "end": 2685.62,
+    "text": " Some myths are nice, Anna."
+  },
+  {
+    "start": 2685.62,
+    "end": 2686.38,
+    "text": " Some myths are nice."
+  },
+  {
+    "start": 2686.38,
+    "end": 2687.22,
+    "text": " It's good."
+  },
+  {
+    "start": 2687.22,
+    "end": 2689.26,
+    "text": " It takes your mind off the stinging agony"
+  },
+  {
+    "start": 2689.26,
+    "end": 2690.54,
+    "text": " when looking for a dockleaf."
+  },
+  {
+    "start": 2690.54,
+    "end": 2692.26,
+    "text": " So I maintain there's a placebo effect."
+  },
+  {
+    "start": 2692.26,
+    "end": 2694.94,
+    "text": " I go to the dockleaf eating championships"
+  },
+  {
+    "start": 2694.94,
+    "end": 2697.42,
+    "text": " and I got to say, my record is pretty strong."
+  },
+  {
+    "start": 2697.42,
+    "end": 2702.06,
+    "text": " Have you guys heard of the Hornet ordeal?"
+  },
+  {
+    "start": 2702.58,
+    "end": 2706.14,
+    "text": " This is the El Gayo people in Kenya do this."
+  },
+  {
+    "start": 2706.14,
+    "end": 2709.18,
+    "text": " This was an article by a guy called F.B."
+  },
+  {
+    "start": 2709.18,
+    "end": 2712.18,
+    "text": " Wellborn, who underwent the initiation, who's Kenyan."
+  },
+  {
+    "start": 2712.18,
+    "end": 2715.94,
+    "text": " And what it is, is that boys are forced to crawl"
+  },
+  {
+    "start": 2715.94,
+    "end": 2718.3,
+    "text": " through tunnels made of stinging nettles."
+  },
+  {
+    "start": 2718.3,
+    "end": 2721.62,
+    "text": " And then once you get out of this tunnel of stinging nettles,"
+  },
+  {
+    "start": 2721.62,
+    "end": 2723.82,
+    "text": " then you have the nettles rubbed on your genitals."
+  },
+  {
+    "start": 2723.82,
+    "end": 2727.3,
+    "text": " And then you have live Hornets dropped on your back."
+  },
+  {
+    "start": 2727.3,
+    "end": 2732.1,
+    "text": " And the reason that they do all this is that the nettles are there"
+  },
+  {
+    "start": 2732.1,
+    "end": 2734.58,
+    "text": " to prepare you for the Hornets."
+  },
+  {
+    "start": 2734.58,
+    "end": 2737.18,
+    "text": " So like the pain is to prepare you for the Hornet pain."
+  },
+  {
+    "start": 2737.18,
+    "end": 2739.54,
+    "text": " And then the Hornet pain is there to prepare you"
+  },
+  {
+    "start": 2739.54,
+    "end": 2741.78,
+    "text": " for the circumcision that comes straight afterwards."
+  },
+  {
+    "start": 2741.78,
+    "end": 2742.38,
+    "text": " Wow."
+  },
+  {
+    "start": 2742.38,
+    "end": 2745.86,
+    "text": " I think the world nettle eating championship should should go for this."
+  },
+  {
+    "start": 2745.86,
+    "end": 2748.82,
+    "text": " So after me and the nettles, then the Hornets."
+  },
+  {
+    "start": 2748.82,
+    "end": 2752.18,
+    "text": " And then that would explain why there's a separate category"
+  },
+  {
+    "start": 2752.18,
+    "end": 2752.86,
+    "text": " for men and women."
+  },
+  {
+    "start": 2752.86,
+    "end": 2754.94,
+    "text": " How is the circumcision contest judged?"
+  },
+  {
+    "start": 2754.94,
+    "end": 2755.94,
+    "text": " Is that by length?"
+  },
+  {
+    "start": 2755.94,
+    "end": 2756.94,
+    "text": " How's that working?"
+  },
+  {
+    "start": 2756.94,
+    "end": 2760.34,
+    "text": " I haven't worked out all the details yet."
+  },
+  {
+    "start": 2761.46,
+    "end": 2764.78,
+    "text": " Wow, that sounds really horrible, James."
+  },
+  {
+    "start": 2764.78,
+    "end": 2765.94,
+    "text": " Yeah, no, it is."
+  },
+  {
+    "start": 2765.94,
+    "end": 2768.22,
+    "text": " It's the second. What is the circumcision prepare you for?"
+  },
+  {
+    "start": 2768.22,
+    "end": 2770.62,
+    "text": " Life as an animal."
+  },
+  {
+    "start": 2770.62,
+    "end": 2772.26,
+    "text": " Oh, boy."
+  },
+  {
+    "start": 2772.26,
+    "end": 2774.46,
+    "text": " Gets worse."
+  },
+  {
+    "start": 2774.46,
+    "end": 2776.54,
+    "text": " Dealing with a bloody council."
+  },
+  {
+    "start": 2776.54,
+    "end": 2786.3,
+    "text": " All right, it is time for our final fact, and that is Andy's fact."
+  },
+  {
+    "start": 2786.3,
+    "end": 2789.66,
+    "text": " My fact this week is that the people of the remote island"
+  },
+  {
+    "start": 2789.66,
+    "end": 2792.58,
+    "text": " of St. Kilda used to yell if they saw themselves"
+  },
+  {
+    "start": 2792.58,
+    "end": 2794.54,
+    "text": " in a visiting tourist's mirror."
+  },
+  {
+    "start": 2794.54,
+    "end": 2796.14,
+    "text": " They actually had plenty of mirrors."
+  },
+  {
+    "start": 2796.14,
+    "end": 2797.94,
+    "text": " They just wanted to keep the tourists coming."
+  },
+  {
+    "start": 2797.94,
+    "end": 2804.34,
+    "text": " So this is about the remote, very remote"
+  },
+  {
+    "start": 2804.34,
+    "end": 2805.9,
+    "text": " island of St. Kilda."
+  },
+  {
+    "start": 2805.9,
+    "end": 2808.62,
+    "text": " And it features in a new book called Shadowlands by Matthew Green,"
+  },
+  {
+    "start": 2808.62,
+    "end": 2811.5,
+    "text": " which is about various forgotten, fascinating places."
+  },
+  {
+    "start": 2811.5,
+    "end": 2815.26,
+    "text": " And St. Kilda had people on it for about a thousand years."
+  },
+  {
+    "start": 2815.26,
+    "end": 2817.7,
+    "text": " They lived there until 1930."
+  },
+  {
+    "start": 2817.7,
+    "end": 2819.46,
+    "text": " The island was evacuated in 1930."
+  },
+  {
+    "start": 2819.46,
+    "end": 2821.18,
+    "text": " In the 19th century, they started getting visitors"
+  },
+  {
+    "start": 2821.18,
+    "end": 2824.3,
+    "text": " by ship Victorian tourists, not very many, because it's so far away."
+  },
+  {
+    "start": 2824.3,
+    "end": 2828.7,
+    "text": " But they played up to it massively and they would do this thing."
+  },
+  {
+    "start": 2828.7,
+    "end": 2830.74,
+    "text": " They would, you know, they would scream or pretend"
+  },
+  {
+    "start": 2830.74,
+    "end": 2833.22,
+    "text": " to be incredibly surprised if someone showed them a mirror."
+  },
+  {
+    "start": 2833.22,
+    "end": 2836.42,
+    "text": " They would look behind the mirror saying, what, there's no one behind?"
+  },
+  {
+    "start": 2836.42,
+    "end": 2837.26,
+    "text": " What's going on?"
+  },
+  {
+    "start": 2837.26,
+    "end": 2838.78,
+    "text": " I mean, they were literally they were clean shaven."
+  },
+  {
+    "start": 2838.78,
+    "end": 2841.46,
+    "text": " They had mirrors. They had shaved that morning."
+  },
+  {
+    "start": 2841.46,
+    "end": 2845.14,
+    "text": " I read this was in an article by Neil McKenzie,"
+  },
+  {
+    "start": 2845.14,
+    "end": 2847.46,
+    "text": " who was the person who was kind of in charge."
+  },
+  {
+    "start": 2847.86,
+    "end": 2850.5,
+    "text": " He was like the Reverend who kind of went there"
+  },
+  {
+    "start": 2850.5,
+    "end": 2852.14,
+    "text": " and he's kind of in charge of anything"
+  },
+  {
+    "start": 2852.14,
+    "end": 2854.22,
+    "text": " and helped the islanders for quite a long time."
+  },
+  {
+    "start": 2854.22,
+    "end": 2856.58,
+    "text": " And he said they would pick up pieces of coal"
+  },
+  {
+    "start": 2856.58,
+    "end": 2859.34,
+    "text": " and affect surprise at not being able to eat them."
+  },
+  {
+    "start": 2859.34,
+    "end": 2861.7,
+    "text": " And when they came in front of a looking glass,"
+  },
+  {
+    "start": 2861.7,
+    "end": 2863.94,
+    "text": " they would start and express great surprise"
+  },
+  {
+    "start": 2863.94,
+    "end": 2866.78,
+    "text": " at not being able to find the person who appeared behind it."
+  },
+  {
+    "start": 2866.78,
+    "end": 2869.58,
+    "text": " It's so fun. It's like they really work out."
+  },
+  {
+    "start": 2869.58,
+    "end": 2874.06,
+    "text": " Sometimes they would go on a border yacht, a visiting tourist yacht,"
+  },
+  {
+    "start": 2874.06,
+    "end": 2877.3,
+    "text": " and they pretended that they thought all the brass on it was gold."
+  },
+  {
+    "start": 2878.18,
+    "end": 2879.54,
+    "text": " You've got all this gold."
+  },
+  {
+    "start": 2879.54,
+    "end": 2881.58,
+    "text": " You must be the richest man in the world."
+  },
+  {
+    "start": 2881.58,
+    "end": 2882.86,
+    "text": " And they knew they knew about brass."
+  },
+  {
+    "start": 2882.86,
+    "end": 2885.02,
+    "text": " You know, they were hamming it up."
+  },
+  {
+    "start": 2885.02,
+    "end": 2886.34,
+    "text": " Did it did it work?"
+  },
+  {
+    "start": 2886.34,
+    "end": 2888.66,
+    "text": " Were the tourists locking to St Kilda"
+  },
+  {
+    "start": 2888.66,
+    "end": 2890.82,
+    "text": " to see these people be amazed at their own reflection?"
+  },
+  {
+    "start": 2890.82,
+    "end": 2892.14,
+    "text": " Because it's hard to get to."
+  },
+  {
+    "start": 2892.14,
+    "end": 2893.38,
+    "text": " I don't know if I take a holiday."
+  },
+  {
+    "start": 2893.38,
+    "end": 2895.3,
+    "text": " Fucking it didn't become a major tourist economy,"
+  },
+  {
+    "start": 2895.3,
+    "end": 2896.82,
+    "text": " which is why the island economy fell apart."
+  },
+  {
+    "start": 2896.82,
+    "end": 2898.58,
+    "text": " The place was evacuated in 1930,"
+  },
+  {
+    "start": 2898.58,
+    "end": 2900.86,
+    "text": " but they were doing their best to keep some money coming in."
+  },
+  {
+    "start": 2900.86,
+    "end": 2902.82,
+    "text": " Yeah, apparently, according to McKenzie,"
+  },
+  {
+    "start": 2902.82,
+    "end": 2904.46,
+    "text": " they would all the time when they were doing this,"
+  },
+  {
+    "start": 2904.46,
+    "end": 2906.3,
+    "text": " they'd be talking to each other in Gaelic"
+  },
+  {
+    "start": 2906.3,
+    "end": 2909.38,
+    "text": " and they'd be saying, if we seem to be paying great attention"
+  },
+  {
+    "start": 2909.38,
+    "end": 2911.06,
+    "text": " and make them believe we are simple,"
+  },
+  {
+    "start": 2911.06,
+    "end": 2914.82,
+    "text": " they will be sure before they go away to give us something even better."
+  },
+  {
+    "start": 2914.82,
+    "end": 2916.7,
+    "text": " Yeah, so they just did this"
+  },
+  {
+    "start": 2916.7,
+    "end": 2918.94,
+    "text": " and they thought if they kind of make them think we're stupid,"
+  },
+  {
+    "start": 2918.94,
+    "end": 2921.46,
+    "text": " then eventually we'll get some really awesome booty from them."
+  },
+  {
+    "start": 2921.46,
+    "end": 2924.02,
+    "text": " Yeah, smart guys. Yeah."
+  },
+  {
+    "start": 2924.02,
+    "end": 2928.66,
+    "text": " So so I'm trying to work out what they were what they were pretending to be."
+  },
+  {
+    "start": 2928.66,
+    "end": 2932.7,
+    "text": " And so is it that they're pretending that they thought they were vampires"
+  },
+  {
+    "start": 2932.7,
+    "end": 2936.14,
+    "text": " and were surprised to realise that they weren't actually vampires?"
+  },
+  {
+    "start": 2936.38,
+    "end": 2937.82,
+    "text": " The mirror didn't."
+  },
+  {
+    "start": 2937.82,
+    "end": 2940.46,
+    "text": " They were surprised. Oh, I thought I didn't leave a reflection in a mirror"
+  },
+  {
+    "start": 2940.46,
+    "end": 2942.74,
+    "text": " because I was a vampire, but I realised I'm human after all."
+  },
+  {
+    "start": 2942.74,
+    "end": 2944.02,
+    "text": " That would surprise me. That's what it was."
+  },
+  {
+    "start": 2944.02,
+    "end": 2946.86,
+    "text": " And that's actually why the island broke down. Everyone was scared off."
+  },
+  {
+    "start": 2946.86,
+    "end": 2950.06,
+    "text": " One of my favourite short poems is by John Hegley."
+  },
+  {
+    "start": 2950.06,
+    "end": 2954.98,
+    "text": " And it has the title, A Vampire Considered Buying a New Mirror."
+  },
+  {
+    "start": 2954.98,
+    "end": 2959.38,
+    "text": " And the poem is simply on reflection."
+  },
+  {
+    "start": 2959.38,
+    "end": 2962.5,
+    "text": " No, brilliant. Very nice."
+  },
+  {
+    "start": 2962.5,
+    "end": 2965.14,
+    "text": " That's really good, isn't it?"
+  },
+  {
+    "start": 2965.14,
+    "end": 2969.58,
+    "text": " It's also a good one to be able to memorise back myself to remember that."
+  },
+  {
+    "start": 2969.58,
+    "end": 2973.18,
+    "text": " For the school, like the citation competition."
+  },
+  {
+    "start": 2973.18,
+    "end": 2974.54,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 2974.54,
+    "end": 2975.38,
+    "text": " I was trying to look it up."
+  },
+  {
+    "start": 2975.38,
+    "end": 2977.98,
+    "text": " I saw it about 25 years ago and I was trying to look it up somewhere"
+  },
+  {
+    "start": 2977.98,
+    "end": 2979.26,
+    "text": " and I can't find it on the internet."
+  },
+  {
+    "start": 2979.26,
+    "end": 2981.86,
+    "text": " And then I thought, you know, I can actually remember that joke."
+  },
+  {
+    "start": 2981.86,
+    "end": 2983.22,
+    "text": " That's fine."
+  },
+  {
+    "start": 2983.22,
+    "end": 2987.46,
+    "text": " It's been it's held fascination for people for hundreds of years,"
+  },
+  {
+    "start": 2987.46,
+    "end": 2989.94,
+    "text": " hasn't it, St Kilda? People have been visiting it."
+  },
+  {
+    "start": 2989.94,
+    "end": 2993.62,
+    "text": " And it is it's over 100 miles off the coast of Scotland."
+  },
+  {
+    "start": 2993.78,
+    "end": 2996.06,
+    "text": " And it's a rocky ride to get there."
+  },
+  {
+    "start": 2996.06,
+    "end": 2999.74,
+    "text": " And it's quite unclear when people have lived there and when they haven't."
+  },
+  {
+    "start": 2999.74,
+    "end": 3005.46,
+    "text": " But there was definitely a society established by the 16th century wasn't there."
+  },
+  {
+    "start": 3005.46,
+    "end": 3007.18,
+    "text": " That's when we know that there was like a community of people"
+  },
+  {
+    "start": 3007.18,
+    "end": 3008.46,
+    "text": " who are living there successfully."
+  },
+  {
+    "start": 3008.46,
+    "end": 3010.34,
+    "text": " So it's not like it's been populated forever."
+  },
+  {
+    "start": 3010.34,
+    "end": 3013.54,
+    "text": " And then people have travelled there ever since."
+  },
+  {
+    "start": 3013.54,
+    "end": 3017.22,
+    "text": " There was the first proper account of the islanders was written in 1698"
+  },
+  {
+    "start": 3017.22,
+    "end": 3021.9,
+    "text": " called A Late Voyage to St Kilda, which I still don't know what he meant by late."
+  },
+  {
+    "start": 3022.42,
+    "end": 3026.26,
+    "text": " I don't know if he meant to go 10 years earlier and died about five years earlier."
+  },
+  {
+    "start": 3026.26,
+    "end": 3030.98,
+    "text": " Anyway, this is a writer called Martin Martin."
+  },
+  {
+    "start": 3030.98,
+    "end": 3034.18,
+    "text": " Brilliant. I actually I read his book."
+  },
+  {
+    "start": 3034.18,
+    "end": 3035.26,
+    "text": " It's fascinating."
+  },
+  {
+    "start": 3035.26,
+    "end": 3037.74,
+    "text": " One of the things he says is they're extremely good climbers."
+  },
+  {
+    "start": 3037.74,
+    "end": 3042.62,
+    "text": " And so they they live by hunting the birds, mostly the island birds."
+  },
+  {
+    "start": 3042.62,
+    "end": 3045.1,
+    "text": " So they'll climb up and then they'll catch the birds."
+  },
+  {
+    "start": 3045.1,
+    "end": 3048.82,
+    "text": " And he described a particularly very high rock called the thumb,"
+  },
+  {
+    "start": 3048.82,
+    "end": 3050.9,
+    "text": " which was as high as a tall steeple."
+  },
+  {
+    "start": 3050.9,
+    "end": 3052.94,
+    "text": " And he said that the only way that you could get to the top"
+  },
+  {
+    "start": 3052.94,
+    "end": 3058.18,
+    "text": " of the thumb is by at one point you swing your entire body sort of up"
+  },
+  {
+    "start": 3058.18,
+    "end": 3061.34,
+    "text": " onto a ledge by holding onto a protruding bit of rock,"
+  },
+  {
+    "start": 3061.34,
+    "end": 3063.22,
+    "text": " which is only big enough to accommodate your thumb."
+  },
+  {
+    "start": 3063.22,
+    "end": 3063.94,
+    "text": " Oh, my God."
+  },
+  {
+    "start": 3063.94,
+    "end": 3067.02,
+    "text": " So you've got to get your whole body"
+  },
+  {
+    "start": 3067.02,
+    "end": 3071.34,
+    "text": " bouncing on your thumb as you propel it up onto the next bit of rock."
+  },
+  {
+    "start": 3071.34,
+    "end": 3072.34,
+    "text": " Quite impressive."
+  },
+  {
+    "start": 3072.34,
+    "end": 3074.66,
+    "text": " And then the person who swung his way up there onto the thumb"
+  },
+  {
+    "start": 3074.66,
+    "end": 3076.98,
+    "text": " gets drops of rope down and hoist the others up."
+  },
+  {
+    "start": 3076.98,
+    "end": 3080.58,
+    "text": " And then that person gets an extra four foul at the end of the day."
+  },
+  {
+    "start": 3080.82,
+    "end": 3083.82,
+    "text": " For his achievements in the birds, right?"
+  },
+  {
+    "start": 3083.82,
+    "end": 3085.22,
+    "text": " Because that's what the people of St."
+  },
+  {
+    "start": 3085.22,
+    "end": 3087.9,
+    "text": " Kilda mostly lived off birds and stuff."
+  },
+  {
+    "start": 3087.9,
+    "end": 3089.66,
+    "text": " Yes, what birds and poo, of course."
+  },
+  {
+    "start": 3089.66,
+    "end": 3092.38,
+    "text": " So it's left hand big, why wouldn't they just leave the rope up?"
+  },
+  {
+    "start": 3092.38,
+    "end": 3096.38,
+    "text": " It takes a lot of the fun out of it, isn't it?"
+  },
+  {
+    "start": 3096.38,
+    "end": 3097.5,
+    "text": " It is such a fascinating place."
+  },
+  {
+    "start": 3097.5,
+    "end": 3099.46,
+    "text": " And it was unbelievably inhospitable."
+  },
+  {
+    "start": 3099.46,
+    "end": 3102.22,
+    "text": " And it's amazing that people managed to scratch out a living there at all."
+  },
+  {
+    "start": 3102.22,
+    "end": 3105.3,
+    "text": " So sometimes it would just rain for three weeks without stopping."
+  },
+  {
+    "start": 3105.3,
+    "end": 3107.58,
+    "text": " Not once. It just rained for three weeks on end."
+  },
+  {
+    "start": 3107.78,
+    "end": 3114.38,
+    "text": " I mean, in fairness, in Bolton or even in Manchester, I think I could survive."
+  },
+  {
+    "start": 3114.38,
+    "end": 3115.74,
+    "text": " All right. All right."
+  },
+  {
+    "start": 3115.74,
+    "end": 3118.46,
+    "text": " There was once a storm that was so fierce that everyone on the island"
+  },
+  {
+    "start": 3118.46,
+    "end": 3121.18,
+    "text": " was left deaf for a week."
+  },
+  {
+    "start": 3121.18,
+    "end": 3124.46,
+    "text": " It's it was like I read that."
+  },
+  {
+    "start": 3124.46,
+    "end": 3126.06,
+    "text": " It's just not true. It can't be true."
+  },
+  {
+    "start": 3126.06,
+    "end": 3127.62,
+    "text": " Can it? It's not. I think it can."
+  },
+  {
+    "start": 3127.62,
+    "end": 3128.26,
+    "text": " I think it can."
+  },
+  {
+    "start": 3128.26,
+    "end": 3130.14,
+    "text": " It was so windy."
+  },
+  {
+    "start": 3130.14,
+    "end": 3132.94,
+    "text": " The island of sheep would sometimes just be blown over the cliffs."
+  },
+  {
+    "start": 3132.94,
+    "end": 3134.38,
+    "text": " I cannot. Yeah."
+  },
+  {
+    "start": 3134.38,
+    "end": 3135.74,
+    "text": " That is understandable."
+  },
+  {
+    "start": 3135.74,
+    "end": 3139.18,
+    "text": " But everyone on the island going deaf for a week, that doesn't make that."
+  },
+  {
+    "start": 3139.18,
+    "end": 3141.7,
+    "text": " Can't be true. It's just not a thing."
+  },
+  {
+    "start": 3141.7,
+    "end": 3144.62,
+    "text": " We should mention the amazing way that they used to communicate"
+  },
+  {
+    "start": 3144.62,
+    "end": 3150.26,
+    "text": " with the mainland, the St Kildons, in the 19th century, which was via mailboats."
+  },
+  {
+    "start": 3150.26,
+    "end": 3152.62,
+    "text": " They didn't have a postal service until the early 20th century."
+  },
+  {
+    "start": 3152.62,
+    "end": 3157.62,
+    "text": " And so they would just get a letter, write it, pop it on a homemade mailboat,"
+  },
+  {
+    "start": 3157.62,
+    "end": 3161.98,
+    "text": " like a hollowed out bit of wood with a little tin placed inside into which"
+  },
+  {
+    "start": 3161.98,
+    "end": 3166.5,
+    "text": " they'd put their letter and then they'd burn onto the surface of this tiny boat."
+  },
+  {
+    "start": 3166.5,
+    "end": 3170.98,
+    "text": " The words please open and they'd inflate a sheep's bladder, attach it to the boat,"
+  },
+  {
+    "start": 3170.98,
+    "end": 3175.22,
+    "text": " send it off and hope that it got to land somewhere."
+  },
+  {
+    "start": 3175.22,
+    "end": 3178.78,
+    "text": " And according to one report I read, two thirds of messages"
+  },
+  {
+    "start": 3178.78,
+    "end": 3182.3,
+    "text": " reached their destination as in they'd reach a destination,"
+  },
+  {
+    "start": 3182.3,
+    "end": 3184.7,
+    "text": " either the coast of Scotland or Scandinavia sometimes."
+  },
+  {
+    "start": 3184.7,
+    "end": 3187.62,
+    "text": " And then those people would open the message"
+  },
+  {
+    "start": 3187.62,
+    "end": 3190.5,
+    "text": " and find the actual address inside and post it on."
+  },
+  {
+    "start": 3190.5,
+    "end": 3191.66,
+    "text": " It's very good."
+  },
+  {
+    "start": 3191.66,
+    "end": 3194.22,
+    "text": " It's roughly the same strike rate as the Royal Mail at the moment."
+  },
+  {
+    "start": 3194.22,
+    "end": 3196.66,
+    "text": " So yeah, that's really cool."
+  },
+  {
+    "start": 3196.66,
+    "end": 3200.94,
+    "text": " Pyrography, it's called when you burn words onto bits of wood."
+  },
+  {
+    "start": 3200.94,
+    "end": 3203.98,
+    "text": " It's kind of a subsection of whittling."
+  },
+  {
+    "start": 3203.98,
+    "end": 3207.9,
+    "text": " I don't know if you can across it in your whittling research."
+  },
+  {
+    "start": 3207.9,
+    "end": 3211.62,
+    "text": " It used to be a very male dominated area."
+  },
+  {
+    "start": 3211.62,
+    "end": 3215.14,
+    "text": " And then in the turn of the 20th century, there's a Melbourne architect"
+  },
+  {
+    "start": 3215.14,
+    "end": 3219.3,
+    "text": " called Alfred Smart, who invented a new way of pyrography,"
+  },
+  {
+    "start": 3219.3,
+    "end": 3222.54,
+    "text": " pyrographising a new type of pyrography."
+  },
+  {
+    "start": 3222.54,
+    "end": 3227.54,
+    "text": " And the way that he did that, he had a pencil with like some fuel attached to it."
+  },
+  {
+    "start": 3227.54,
+    "end": 3231.42,
+    "text": " And so you could use and you could change the amount of fuel that came in and out."
+  },
+  {
+    "start": 3231.42,
+    "end": 3235.34,
+    "text": " So you could start doing shading and stuff like that and do amazing patterns."
+  },
+  {
+    "start": 3235.34,
+    "end": 3239.7,
+    "text": " And then it became a kind of a relatively not very common,"
+  },
+  {
+    "start": 3239.7,
+    "end": 3244.98,
+    "text": " but a relatively common hobby for women at the in the start of the 20th century."
+  },
+  {
+    "start": 3245.98,
+    "end": 3250.62,
+    "text": " And I was reading about someone called Joe Schwartz, who's a wood burner."
+  },
+  {
+    "start": 3250.62,
+    "end": 3254.9,
+    "text": " And she was the first person to ever teach wood burning in Antarctica."
+  },
+  {
+    "start": 3254.9,
+    "end": 3261.14,
+    "text": " I mean, it's it's right down on the list of survivability skills."
+  },
+  {
+    "start": 3261.14,
+    "end": 3265.34,
+    "text": " Especially in a continent with no trees."
+  },
+  {
+    "start": 3265.34,
+    "end": 3269.3,
+    "text": " But, you know, she's got a record."
+  },
+  {
+    "start": 3269.3,
+    "end": 3271.58,
+    "text": " So that's good being the second person."
+  },
+  {
+    "start": 3271.58,
+    "end": 3274.26,
+    "text": " Imagine going to Antarctica when I teach them wood burning."
+  },
+  {
+    "start": 3274.38,
+    "end": 3276.82,
+    "text": " What is that? Oh, not even the first one to do this."
+  },
+  {
+    "start": 3276.82,
+    "end": 3281.14,
+    "text": " You see the Schwartz panel being hung up over the tent nightmare."
+  },
+  {
+    "start": 3281.14,
+    "end": 3284.26,
+    "text": " Can I tell you one quick thing about the the evacuation of us at Kilda?"
+  },
+  {
+    "start": 3284.26,
+    "end": 3284.94,
+    "text": " Yes, please."
+  },
+  {
+    "start": 3284.94,
+    "end": 3286.5,
+    "text": " Because when they because life got harder and harder"
+  },
+  {
+    "start": 3286.5,
+    "end": 3289.14,
+    "text": " and a lot of able-bodied young men went to the mainland"
+  },
+  {
+    "start": 3289.14,
+    "end": 3296.1,
+    "text": " and as it was largely a subsistence economy, so like hunting birds and farming sheep."
+  },
+  {
+    "start": 3296.1,
+    "end": 3298.58,
+    "text": " That was a big problem for the island's survival."
+  },
+  {
+    "start": 3298.58,
+    "end": 3300.74,
+    "text": " In fact, they got close to starving on several occasions."
+  },
+  {
+    "start": 3301.7,
+    "end": 3304.82,
+    "text": " And so in 1930, they they contacted the mainland and said,"
+  },
+  {
+    "start": 3304.82,
+    "end": 3308.06,
+    "text": " look, we're going to tap out with this horrible, we don't like it."
+  },
+  {
+    "start": 3308.06,
+    "end": 3309.62,
+    "text": " We're all deaf."
+  },
+  {
+    "start": 3309.62,
+    "end": 3311.82,
+    "text": " They the government said, yeah, of course, we'll bring you over."
+  },
+  {
+    "start": 3311.82,
+    "end": 3314.3,
+    "text": " By that point, two thirds of the population"
+  },
+  {
+    "start": 3314.3,
+    "end": 3318.3,
+    "text": " shared the same two surnames as in the diversity of families"
+  },
+  {
+    "start": 3318.3,
+    "end": 3321.42,
+    "text": " had really been, you know, whittled down over the years."
+  },
+  {
+    "start": 3321.42,
+    "end": 3326.9,
+    "text": " And at the end of it, in 1930, they ceremonially closed down the post office."
+  },
+  {
+    "start": 3326.9,
+    "end": 3328.02,
+    "text": " I think it's amazing."
+  },
+  {
+    "start": 3328.02,
+    "end": 3332.42,
+    "text": " They held one final church service and they drowned their dogs off the pier."
+  },
+  {
+    "start": 3332.42,
+    "end": 3334.7,
+    "text": " Oh, my God. I don't know why."
+  },
+  {
+    "start": 3334.7,
+    "end": 3336.1,
+    "text": " I don't know why."
+  },
+  {
+    "start": 3336.1,
+    "end": 3336.86,
+    "text": " Oh, no."
+  },
+  {
+    "start": 3336.86,
+    "end": 3338.98,
+    "text": " They must have been sad."
+  },
+  {
+    "start": 3338.98,
+    "end": 3341.94,
+    "text": " That took such a horrible turn at the end of that sentence."
+  },
+  {
+    "start": 3341.94,
+    "end": 3342.86,
+    "text": " Really? Sorry."
+  },
+  {
+    "start": 3342.86,
+    "end": 3343.86,
+    "text": " They must have been guys."
+  },
+  {
+    "start": 3343.86,
+    "end": 3345.62,
+    "text": " There's room on the boat for the dogs."
+  },
+  {
+    "start": 3345.62,
+    "end": 3346.98,
+    "text": " But then when they got to the mainland,"
+  },
+  {
+    "start": 3346.98,
+    "end": 3350.46,
+    "text": " the government arranged for most of the men to be given jobs in the Forestry Commission."
+  },
+  {
+    "start": 3350.46,
+    "end": 3353.86,
+    "text": " But unfortunately, most of them had never seen a tree"
+  },
+  {
+    "start": 3353.86,
+    "end": 3356.06,
+    "text": " because there are no trees on Sir Kilda."
+  },
+  {
+    "start": 3356.06,
+    "end": 3357.66,
+    "text": " We're just chopping everything down, weren't they?"
+  },
+  {
+    "start": 3357.66,
+    "end": 3360.22,
+    "text": " They'd chop down lampposts, tulips."
+  },
+  {
+    "start": 3360.22,
+    "end": 3363.38,
+    "text": " Well, presumably, they were going to get jobs at the RSPCA."
+  },
+  {
+    "start": 3363.38,
+    "end": 3365.7,
+    "text": " Hurriedly rearranged."
+  },
+  {
+    "start": 3365.7,
+    "end": 3371.98,
+    "text": " All right, that's it."
+  },
+  {
+    "start": 3371.98,
+    "end": 3373.02,
+    "text": " That's all of our facts."
+  },
+  {
+    "start": 3373.02,
+    "end": 3375.58,
+    "text": " Thank you so much, everybody, for listening."
+  },
+  {
+    "start": 3375.58,
+    "end": 3377.82,
+    "text": " Thanks so much, Tim, for coming on."
+  },
+  {
+    "start": 3377.82,
+    "end": 3379.7,
+    "text": " If you want to get in touch with any of us,"
+  },
+  {
+    "start": 3379.7,
+    "end": 3382.26,
+    "text": " you can find these guys on Twitter, I believe."
+  },
+  {
+    "start": 3382.26,
+    "end": 3383.42,
+    "text": " James, you're on."
+  },
+  {
+    "start": 3383.42,
+    "end": 3384.34,
+    "text": " That's James Harkin."
+  },
+  {
+    "start": 3384.34,
+    "end": 3384.94,
+    "text": " Andy."
+  },
+  {
+    "start": 3384.94,
+    "end": 3385.86,
+    "text": " At Andrew Hunter M."
+  },
+  {
+    "start": 3385.86,
+    "end": 3389.26,
+    "text": " And Tim, have you fallen prey to the scourge that is Twitter?"
+  },
+  {
+    "start": 3389.26,
+    "end": 3392.62,
+    "text": " I'm Tim Harford on Twitter, but I don't really pay any attention."
+  },
+  {
+    "start": 3392.62,
+    "end": 3395.78,
+    "text": " I think people should just listen to the Cautionary Tales podcast instead"
+  },
+  {
+    "start": 3395.78,
+    "end": 3396.66,
+    "text": " and not tweet me."
+  },
+  {
+    "start": 3396.66,
+    "end": 3399.46,
+    "text": " Great. So if you want to be completely ignored,"
+  },
+  {
+    "start": 3399.46,
+    "end": 3401.7,
+    "text": " then tweet @timharford."
+  },
+  {
+    "start": 3401.7,
+    "end": 3405.14,
+    "text": " But do definitely go and listen to his Cautionary Tales podcast."
+  },
+  {
+    "start": 3405.14,
+    "end": 3406.42,
+    "text": " It is brilliant."
+  },
+  {
+    "start": 3406.42,
+    "end": 3408.94,
+    "text": " And if you want to know anything more about this podcast,"
+  },
+  {
+    "start": 3408.94,
+    "end": 3412.38,
+    "text": " no such thing as a fish, go to nosuchthingasafish.com,"
+  },
+  {
+    "start": 3412.38,
+    "end": 3414.66,
+    "text": " where you'll find all of our previous episodes"
+  },
+  {
+    "start": 3414.66,
+    "end": 3417.9,
+    "text": " and any other interesting news about us."
+  },
+  {
+    "start": 3417.9,
+    "end": 3419.3,
+    "text": " OK, that's all for this week."
+  },
+  {
+    "start": 3419.3,
+    "end": 3421.34,
+    "text": " We will see you again next week with another episode."
+  },
+  {
+    "start": 3421.34,
+    "end": 3422.5,
+    "text": " Goodbye."
+  },
+  {
+    "start": 3422.5,
+    "end": 3425.86,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 3425.86,
+    "end": 3429.22,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 3429.22,
+    "end": 3431.8,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3431.8,
+    "end": 3434.38,
+    "text": " (upbeat music)"
+  }
+]

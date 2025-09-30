@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and intriguing topics, including the effects of polyester pants on rats, entertainment activities for troops during World War I, the extreme heat on Venus, and a unique Icelandic app to prevent accidental incest.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Rats wearing polyester pants can't get directions.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "During the First World War, entertainment for the troops included organised pillow fights, wheelbarrow races and wrestling on the backs of mules.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:06:05"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The atmosphere on Venus is so hot that if you took a pizza out of a freezer, it would cook in three seconds.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:12:07"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In Iceland, there is a phone app that tells you if you're related to the person that you're hitting on.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:19:54"
+    }
+  ]
+}

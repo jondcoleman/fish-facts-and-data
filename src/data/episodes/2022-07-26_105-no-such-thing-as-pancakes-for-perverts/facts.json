@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and historical facts, including the unrealistic portrayal of working-class characters in children's movies, the ancient Roman tradition of giving party bags, Ernest Hemingway's theft of a urinal, and the peculiarities of medical diagnosis codes.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Grumpy from the Seven Dwarfs is not nearly Grumpy enough.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:44"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The ancient Romans had party bags.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:07:52"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Ernest Hemingway once stole a urinal from a bar, saying that he pissed away so much of his money into it that he owned it.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:19"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The official medical diagnosis code for being struck by a chicken is different to the official medical diagnosis code for being pecked by a chicken.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:23:44"
+    }
+  ]
+}

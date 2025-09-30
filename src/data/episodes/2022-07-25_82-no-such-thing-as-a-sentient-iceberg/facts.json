@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and fascinating topics, including the benefits of wearing socks over shoes in icy conditions, ancient Jerusalem's unique lost property system, the peculiar experiments of Charles Blackson to understand sweating, and the lengthy mating habits of stick insects.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In winter, we should all wear our socks outside our shoes.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:53"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Ancient Jerusalem's lost property office just involved shouting about what you had lost in the hope that somebody had found it.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:10:50"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The man who discovered why we sweat did so by getting in a sauna with a dog, a steak and an egg.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:19:07"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Stick insect sex can last for 79 days and the insects are stuck together the whole time.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:17"
+    }
+  ]
+}

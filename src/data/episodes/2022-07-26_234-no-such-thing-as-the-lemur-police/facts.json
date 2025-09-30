@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the unusual mating habits of armadillos, a unique ear-cleaning practice by the Korowai people of New Guinea, the challenges faced by scientists in a noisy open-plan laboratory, and the unexpected closure of a sunflower farm due to selfie-seeking visitors.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "It's very hard for scientists to spot armadillos having sex because armadillos have sex while running.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Korowai people of New Guinea put grubs in their ears to eat their earwax.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:11:25"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The biggest single biomedical laboratory in Europe designed to encourage scientists to chat more to each other is so noisy that scientists are actually complaining it's too hard to concentrate.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:23:07"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The largest sunflower farm in Ontario has been forced to shut because so many people were taking selfies there.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:32:47"
+    }
+  ]
+}

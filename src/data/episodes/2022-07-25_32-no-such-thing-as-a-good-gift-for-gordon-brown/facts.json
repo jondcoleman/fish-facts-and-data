@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features facts about the relocation of an ancient Egyptian city, a unique Christmas gift to Charles Dickens, the ability to identify musicians by their brain structure, and a clever wartime tactic by Jack Warner to protect his studio.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1060 BCE, the Egyptian city of Pyramsys was moved 20 kilometers to the north, including obelisks, sphinxes, temples, and stelae.",
+      "presenter": "Ash Gardner",
+      "guest": true,
+      "start_time": "00:01:05"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1864, one of Charles Dickens' friends had a flat-packed Swiss chalet delivered to his home as a Christmas present.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:04"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Neuroscientists can tell if you are a musician simply by looking at your brain.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:19:55"
+    },
+    {
+      "fact_number": 4,
+      "fact": "During World War II, Jack Warner had a giant arrow painted on the rooftop of his Hollywood studio with the words 'Lockheed that away' to avoid bombing.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:13"
+    }
+  ]
+}

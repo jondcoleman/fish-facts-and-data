@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers fascinating facts about ants, a unique cultural practice in Cambodia, the discovery of a massive canyon in Greenland, and the self-replicating capabilities of 3D printers.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Apparently, ants' nests can get infested by ants.",
+      "presenter": "Leven Skyra",
+      "guest": true,
+      "start_time": "00:00:47"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In Cambodia, a teenage girl's parents might build her a love hut, where her parents encourage her to sleep with as many boys as she wants until she finds the one that she likes.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:45"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The longest canyon in the world is 50% longer than the Grand Canyon, and we didn't know about it until August last year.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:19:24"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 2008, the University of Bath invented a 3D printer that could print a copy of itself.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:33:03"
+    }
+  ]
+}

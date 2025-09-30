@@ -1,0 +1,5382 @@
+[
+  {
+    "start": 0,
+    "end": 2,
+    "text": " *Bell*"
+  },
+  {
+    "start": 2,
+    "end": 4,
+    "text": " *Bell*"
+  },
+  {
+    "start": 4,
+    "end": 6,
+    "text": " *Bell*"
+  },
+  {
+    "start": 6,
+    "end": 8,
+    "text": " *Bell*"
+  },
+  {
+    "start": 8,
+    "end": 10,
+    "text": " *Bell*"
+  },
+  {
+    "start": 10,
+    "end": 18,
+    "text": " Hello and welcome to another episode of No Such Thing as a Fish, a weekly podcast brought to you from the QI offices in Covent Garden."
+  },
+  {
+    "start": 18,
+    "end": 24,
+    "text": " My name's Anna, I'm joined today by fellow QI elves James Harkin and Andrew Hunter Murray,"
+  },
+  {
+    "start": 24,
+    "end": 32,
+    "text": " and also special guest today, historian and horrible histories writer Greg Jenner, who has a book to plug, correct?"
+  },
+  {
+    "start": 32,
+    "end": 38,
+    "text": " Yes, plug, plug, plug, it's called a million years in a day and it's out like now, and it's quite good."
+  },
+  {
+    "start": 38,
+    "end": 42,
+    "text": " It is good, some of us have read at least bits of it, it's amazing."
+  },
+  {
+    "start": 42,
+    "end": 44,
+    "text": " I wouldn't go that far, but it's alright."
+  },
+  {
+    "start": 44,
+    "end": 46,
+    "text": " It's above average."
+  },
+  {
+    "start": 46,
+    "end": 50,
+    "text": " I would say it's definitely sort of top 70 percentile, you know, like you know, it's a 2-1."
+  },
+  {
+    "start": 50,
+    "end": 54,
+    "text": " Okay, a high 2-1 book by it."
+  },
+  {
+    "start": 54,
+    "end": 56,
+    "text": " Okay, let's get on with the show."
+  },
+  {
+    "start": 56,
+    "end": 63,
+    "text": " And for fact number one, let's go to you, Greg."
+  },
+  {
+    "start": 63,
+    "end": 70,
+    "text": " Okay, so my fact is from my book because I am that unimaginative, and my fact is in the 1960s in America,"
+  },
+  {
+    "start": 70,
+    "end": 74,
+    "text": " there was one particular bus route that was only 35 miles long,"
+  },
+  {
+    "start": 74,
+    "end": 78,
+    "text": " but during that time passengers passed through seven different time zones."
+  },
+  {
+    "start": 78,
+    "end": 80,
+    "text": " Wow, that's amazing."
+  },
+  {
+    "start": 80,
+    "end": 81,
+    "text": " How does that work?"
+  },
+  {
+    "start": 81,
+    "end": 84,
+    "text": " Right, so it's fairly complicated, so I'm going to have to give you probably a bit of context."
+  },
+  {
+    "start": 84,
+    "end": 85,
+    "text": " Okay."
+  },
+  {
+    "start": 85,
+    "end": 89,
+    "text": " So this is all to do with day-like saving time, which is something we have here, of course, in Britain,"
+  },
+  {
+    "start": 89,
+    "end": 91,
+    "text": " and it's a familiar concept to all of us."
+  },
+  {
+    "start": 91,
+    "end": 96,
+    "text": " But it was an idea first put forward about a hundred years ago by William Willett,"
+  },
+  {
+    "start": 96,
+    "end": 98,
+    "text": " who was a moustache old Englishman."
+  },
+  {
+    "start": 98,
+    "end": 103,
+    "text": " He was also the ancestor of Chris Martin from Coldplay, you know, for your fans at the year."
+  },
+  {
+    "start": 103,
+    "end": 104,
+    "text": " Who wrote clocks?"
+  },
+  {
+    "start": 104,
+    "end": 106,
+    "text": " Exactly, there we go, see."
+  },
+  {
+    "start": 106,
+    "end": 113,
+    "text": " So he put that forward in about 1909, I think, and he was arguing for trying to get more daylight into the time."
+  },
+  {
+    "start": 113,
+    "end": 118,
+    "text": " So everyone was like, \"Well, this is a nice idea in principle, but it sounds very complicated, we're not going to do it.\""
+  },
+  {
+    "start": 118,
+    "end": 123,
+    "text": " And then in 1915 he died, and everyone was sort of mocking him, and the idea was going nowhere."
+  },
+  {
+    "start": 123,
+    "end": 126,
+    "text": " And then Germany picked up with the idea and said, \"This is a brilliant idea, we will do this.\""
+  },
+  {
+    "start": 126,
+    "end": 128,
+    "text": " They did it during the war, didn't they?"
+  },
+  {
+    "start": 128,
+    "end": 129,
+    "text": " They did it during the war."
+  },
+  {
+    "start": 129,
+    "end": 131,
+    "text": " And it was like, \"It saved them energy.\""
+  },
+  {
+    "start": 131,
+    "end": 137,
+    "text": " Yeah, because that extra hour of daylight meant you didn't have to burn loads and loads of gas and oil, and that could then go to the war effort."
+  },
+  {
+    "start": 137,
+    "end": 143,
+    "text": " When he died, did everyone miss his funeral by an hour?"
+  },
+  {
+    "start": 143,
+    "end": 148,
+    "text": " So as soon as Germany adopted it, Britain very sheepishly went, \"Yeah, maybe we should do that as well.\""
+  },
+  {
+    "start": 148,
+    "end": 153,
+    "text": " And it became known as Willett Time, which is like Hammer Time, but looking with the stash, I think."
+  },
+  {
+    "start": 153,
+    "end": 160,
+    "text": " And anyway, it then spread around the world, and America adopted it, and the problem with America is it's a much bigger nation than Britain."
+  },
+  {
+    "start": 160,
+    "end": 167,
+    "text": " And so America has loads of time zones, and it's too big, and so the government says, \"All right, come on, let's be sensible here."
+  },
+  {
+    "start": 167,
+    "end": 171,
+    "text": " We're a federal nation, so each state can decide if they're going to opt in or opt out.\""
+  },
+  {
+    "start": 171,
+    "end": 172,
+    "text": " Yeah."
+  },
+  {
+    "start": 172,
+    "end": 178,
+    "text": " And then the problem is that each of the states then said to the towns and cities, \"Okay, you guys can also decide if you're going to opt in or opt out.\""
+  },
+  {
+    "start": 178,
+    "end": 186,
+    "text": " And so 28 of the states opted in to DST, and then the various cities were then decided, \"Oh, we can do what we're not going to do it.\""
+  },
+  {
+    "start": 186,
+    "end": 196,
+    "text": " And so what happened is you ended up with this incredibly chaotic system. It's the point that, in Idaho, shops that were next door to each other might be on different times."
+  },
+  {
+    "start": 196,
+    "end": 199,
+    "text": " So in the same building, like you could literally go that next door to the corner shops."
+  },
+  {
+    "start": 199,
+    "end": 200,
+    "text": " This is amazing."
+  },
+  {
+    "start": 200,
+    "end": 202,
+    "text": " This was in 1950s and 1960s."
+  },
+  {
+    "start": 202,
+    "end": 204,
+    "text": " Until 1966, this was happening."
+  },
+  {
+    "start": 204,
+    "end": 209,
+    "text": " I just want to say, how did it work with the two shops that were next to each other?"
+  },
+  {
+    "start": 209,
+    "end": 214,
+    "text": " It reminds me of a place I went to called Bal Hurtog on the border of the Netherlands and Belgium."
+  },
+  {
+    "start": 214,
+    "end": 215,
+    "text": " Oh, yeah, the exclave place."
+  },
+  {
+    "start": 215,
+    "end": 220,
+    "text": " Yeah, so there's loads of exclaves and the border between the two countries is really, really complicated."
+  },
+  {
+    "start": 220,
+    "end": 224,
+    "text": " And they have the lines you can see on the pavements you can see where the lines are."
+  },
+  {
+    "start": 224,
+    "end": 228,
+    "text": " So you can like work from Belgium to Netherlands and back into Belgium and then back into Netherlands again."
+  },
+  {
+    "start": 228,
+    "end": 234,
+    "text": " And it's something like the Netherlands rules on selling pornography are supposed to be so much better than Belgium."
+  },
+  {
+    "start": 234,
+    "end": 239,
+    "text": " So all the pornographic shops are in Netherlands and all the firework shops are in Belgium."
+  },
+  {
+    "start": 239,
+    "end": 241,
+    "text": " Even though they're in the same town, they're all put in different buildings."
+  },
+  {
+    "start": 241,
+    "end": 247,
+    "text": " I mean, I think that's a mad idea, isn't it? But I think that certainly kids in Michigan go to Canada to go drinking."
+  },
+  {
+    "start": 247,
+    "end": 251,
+    "text": " Other than this, I think it's 18, it's legal age in America at 21."
+  },
+  {
+    "start": 251,
+    "end": 259,
+    "text": " This is, in fact, there was a golf club set up on the border of the US in Canada during prohibition as a way for Americans to be able to drink."
+  },
+  {
+    "start": 259,
+    "end": 263,
+    "text": " So the drinking club within the golf club was on the Canadian side of the border."
+  },
+  {
+    "start": 263,
+    "end": 268,
+    "text": " So you could enter the golf club in America and then you kind of wander over to the side which had a pub."
+  },
+  {
+    "start": 268,
+    "end": 269,
+    "text": " Go drinking."
+  },
+  {
+    "start": 269,
+    "end": 270,
+    "text": " That's a brilliant idea."
+  },
+  {
+    "start": 270,
+    "end": 276,
+    "text": " But I think William Willetts, one of the reasons people thought he was crazy because his system was quite complicated."
+  },
+  {
+    "start": 276,
+    "end": 280,
+    "text": " So he was suggesting going forward by 20 minutes of daylight a day, right?"
+  },
+  {
+    "start": 280,
+    "end": 281,
+    "text": " Yeah, he suggested."
+  },
+  {
+    "start": 281,
+    "end": 282,
+    "text": " Which is very complicated."
+  },
+  {
+    "start": 282,
+    "end": 287,
+    "text": " I think he suggested, I can't remember exact details, but he suggested changing the clock something like six or seven times a year."
+  },
+  {
+    "start": 287,
+    "end": 289,
+    "text": " Which is just a bit too much faffing."
+  },
+  {
+    "start": 289,
+    "end": 298,
+    "text": " And also people had only just got uniform time because until the sort of coming of the railways, every town in Britain had its own time."
+  },
+  {
+    "start": 298,
+    "end": 301,
+    "text": " I think Barth and Bristol, I think about seven or eight minutes behind London."
+  },
+  {
+    "start": 301,
+    "end": 305,
+    "text": " And so when the trains arrived, that became chaotic because people missed their trains obviously."
+  },
+  {
+    "start": 305,
+    "end": 308,
+    "text": " And then William Willetts, I know, when, hey guys, what if we all changed the clock?"
+  },
+  {
+    "start": 308,
+    "end": 310,
+    "text": " Loads enough to times."
+  },
+  {
+    "start": 310,
+    "end": 311,
+    "text": " You know, I've really annoying dates."
+  },
+  {
+    "start": 311,
+    "end": 312,
+    "text": " And we'd all get an hour back."
+  },
+  {
+    "start": 312,
+    "end": 315,
+    "text": " It was the railways which actually made the first time zone."
+  },
+  {
+    "start": 315,
+    "end": 316,
+    "text": " It's called railway time."
+  },
+  {
+    "start": 316,
+    "end": 317,
+    "text": " Railway time."
+  },
+  {
+    "start": 317,
+    "end": 318,
+    "text": " It's so cool."
+  },
+  {
+    "start": 318,
+    "end": 321,
+    "text": " And all the really interesting legal implications over what could happen."
+  },
+  {
+    "start": 321,
+    "end": 325,
+    "text": " So if babies were born at the same time, but in different places,"
+  },
+  {
+    "start": 325,
+    "end": 330,
+    "text": " that you know, a whole inheritance could be changed because technically, you know,"
+  },
+  {
+    "start": 330,
+    "end": 334,
+    "text": " the chart had been born earlier, therefore it's got the will of inheritance or whatever."
+  },
+  {
+    "start": 334,
+    "end": 339,
+    "text": " So all of this happened only because of fast speed communication."
+  },
+  {
+    "start": 339,
+    "end": 342,
+    "text": " So trains, telegraphs, that kind of thing."
+  },
+  {
+    "start": 342,
+    "end": 346,
+    "text": " The amazing thing is, I mean, so I've going back to my original fact, this 35 mile route."
+  },
+  {
+    "start": 346,
+    "end": 350,
+    "text": " You had to change your watch, I think, every eight minutes."
+  },
+  {
+    "start": 350,
+    "end": 352,
+    "text": " I mean, did people actually do that?"
+  },
+  {
+    "start": 352,
+    "end": 353,
+    "text": " No, I don't think so."
+  },
+  {
+    "start": 353,
+    "end": 356,
+    "text": " I mean, I think, you know, maybe if you were really into timekeeping."
+  },
+  {
+    "start": 356,
+    "end": 358,
+    "text": " Yeah, I bet there was a really nerdy school boy."
+  },
+  {
+    "start": 358,
+    "end": 360,
+    "text": " But it's just sort of an amazing idea that you'd get on a bus."
+  },
+  {
+    "start": 360,
+    "end": 361,
+    "text": " And it was only 35 miles."
+  },
+  {
+    "start": 361,
+    "end": 365,
+    "text": " It's between a Moundsville, West Virginia and Stubmanville, Ohio."
+  },
+  {
+    "start": 365,
+    "end": 369,
+    "text": " And during that time, you would pass in and out of time zones back and forth back and forth back and forth back and forth."
+  },
+  {
+    "start": 369,
+    "end": 370,
+    "text": " That's cool."
+  },
+  {
+    "start": 370,
+    "end": 372,
+    "text": " What you guys were saying about different towns having their own times."
+  },
+  {
+    "start": 372,
+    "end": 374,
+    "text": " That was in America as well."
+  },
+  {
+    "start": 374,
+    "end": 382,
+    "text": " And in the 1870s, North America had 144 official times in all the different towns and stuff."
+  },
+  {
+    "start": 382,
+    "end": 383,
+    "text": " 144."
+  },
+  {
+    "start": 383,
+    "end": 390,
+    "text": " Yeah, and if you went from Washington to San Francisco and you wanted to be this nerdy school boy who changes watch all the time,"
+  },
+  {
+    "start": 390,
+    "end": 392,
+    "text": " you'd have to change it over 200 times."
+  },
+  {
+    "start": 392,
+    "end": 394,
+    "text": " No way."
+  },
+  {
+    "start": 394,
+    "end": 398,
+    "text": " But in fairness, it's a long journey and you need to do something to take up the time."
+  },
+  {
+    "start": 398,
+    "end": 399,
+    "text": " Of course, to not be an advantage."
+  },
+  {
+    "start": 399,
+    "end": 400,
+    "text": " No, to be less than two in traffic."
+  },
+  {
+    "start": 400,
+    "end": 402,
+    "text": " No, to do so, yeah, it's just watches."
+  },
+  {
+    "start": 402,
+    "end": 405,
+    "text": " But I mean, the problem of timekeeping is a really ancient one."
+  },
+  {
+    "start": 405,
+    "end": 407,
+    "text": " And this is something I sort of tried to cover in the book of it."
+  },
+  {
+    "start": 407,
+    "end": 413,
+    "text": " Is that, you know, the ancient Egyptians, you know, trying to work out what time it was by the stars and by solar clocks."
+  },
+  {
+    "start": 413,
+    "end": 417,
+    "text": " But back then, there was no standard 60 minute hours."
+  },
+  {
+    "start": 417,
+    "end": 422,
+    "text": " Is it true that in the middle ages, they used to, they would have, say, 12 hours in a day."
+  },
+  {
+    "start": 422,
+    "end": 424,
+    "text": " And that would be from sunrise to sunset."
+  },
+  {
+    "start": 424,
+    "end": 428,
+    "text": " And so if it was a longer day in the summer, then the hours would just be longer."
+  },
+  {
+    "start": 428,
+    "end": 429,
+    "text": " Yeah, so that'd be right."
+  },
+  {
+    "start": 429,
+    "end": 433,
+    "text": " Yeah, they basically, I mean, there were scholars who kind of went, hey, guys, I think we should have actual equal hours."
+  },
+  {
+    "start": 433,
+    "end": 434,
+    "text": " But it didn't really work."
+  },
+  {
+    "start": 434,
+    "end": 437,
+    "text": " It didn't really work. It doesn't point being smug if you're stumbling around the dark."
+  },
+  {
+    "start": 437,
+    "end": 438,
+    "text": " That's so interesting."
+  },
+  {
+    "start": 438,
+    "end": 442,
+    "text": " So when it seemed like in the summer term, the hours were going really slowly,"
+  },
+  {
+    "start": 442,
+    "end": 444,
+    "text": " because you're waiting for the holidays. It's because they were."
+  },
+  {
+    "start": 444,
+    "end": 445,
+    "text": " Yeah."
+  },
+  {
+    "start": 445,
+    "end": 450,
+    "text": " Because until the invention of gas lights and stuff, when people actually could have artificial lighting,"
+  },
+  {
+    "start": 450,
+    "end": 452,
+    "text": " people just went to bed when they got dark."
+  },
+  {
+    "start": 452,
+    "end": 455,
+    "text": " How do people know how long it was? Like, how did they know in advance?"
+  },
+  {
+    "start": 455,
+    "end": 457,
+    "text": " Sand timers and water timers."
+  },
+  {
+    "start": 457,
+    "end": 461,
+    "text": " The ancient Chinese, although medieval Chinese, had clocks that you could smell."
+  },
+  {
+    "start": 461,
+    "end": 463,
+    "text": " So each hour was a different incense."
+  },
+  {
+    "start": 463,
+    "end": 467,
+    "text": " So it burned down and so you'd be like, oh, it must be lunchtime because I can smell ginger."
+  },
+  {
+    "start": 467,
+    "end": 469,
+    "text": " Oh, it's a fan of times."
+  },
+  {
+    "start": 469,
+    "end": 470,
+    "text": " What's a lunch?"
+  },
+  {
+    "start": 470,
+    "end": 471,
+    "text": " Ginger."
+  },
+  {
+    "start": 471,
+    "end": 473,
+    "text": " So yeah, the history of timekeeping is really, really confusing."
+  },
+  {
+    "start": 473,
+    "end": 476,
+    "text": " It wasn't until I think the 14th century that it was a Muslim scholar."
+  },
+  {
+    "start": 476,
+    "end": 478,
+    "text": " I think it's Syria."
+  },
+  {
+    "start": 478,
+    "end": 480,
+    "text": " It came up with the first equal hours clock."
+  },
+  {
+    "start": 480,
+    "end": 482,
+    "text": " Before that, it would have played out with things like women's hour."
+  },
+  {
+    "start": 482,
+    "end": 484,
+    "text": " Yes."
+  },
+  {
+    "start": 484,
+    "end": 486,
+    "text": " Welcome to women's 72 minutes."
+  },
+  {
+    "start": 486,
+    "end": 491,
+    "text": " It still is really complicated time zones and timekeeping and everything, isn't it?"
+  },
+  {
+    "start": 491,
+    "end": 493,
+    "text": " Like, some countries have the most eccentric systems."
+  },
+  {
+    "start": 493,
+    "end": 498,
+    "text": " When I live in Australia, they have various bits of Australia that have it in half hour increments,"
+  },
+  {
+    "start": 498,
+    "end": 499,
+    "text": " rather than in our increments."
+  },
+  {
+    "start": 499,
+    "end": 501,
+    "text": " And some places have it in quarter of an hour increments."
+  },
+  {
+    "start": 501,
+    "end": 507,
+    "text": " I think there's a town of 200 people in Australia, which is decided to be GMT+8 and 3/4."
+  },
+  {
+    "start": 507,
+    "end": 508,
+    "text": " Brilliant."
+  },
+  {
+    "start": 508,
+    "end": 511,
+    "text": " So the town of Bloody Awkwoodsville, Australia."
+  },
+  {
+    "start": 511,
+    "end": 513,
+    "text": " I'm trying to work out."
+  },
+  {
+    "start": 513,
+    "end": 515,
+    "text": " So how many times zones do we think there are in the world?"
+  },
+  {
+    "start": 515,
+    "end": 519,
+    "text": " So if you just count an hour, they divide it along 15 degrees across the world."
+  },
+  {
+    "start": 519,
+    "end": 521,
+    "text": " Since the 1880s, I think it is."
+  },
+  {
+    "start": 521,
+    "end": 522,
+    "text": " So there should only be 24?"
+  },
+  {
+    "start": 522,
+    "end": 523,
+    "text": " I think so, yeah."
+  },
+  {
+    "start": 523,
+    "end": 527,
+    "text": " Except there are 26, because there's a little group of islands, which decided to put themselves,"
+  },
+  {
+    "start": 527,
+    "end": 529,
+    "text": " because they did more trading with America."
+  },
+  {
+    "start": 529,
+    "end": 530,
+    "text": " A really?"
+  },
+  {
+    "start": 530,
+    "end": 531,
+    "text": " decided to join America's time."
+  },
+  {
+    "start": 531,
+    "end": 535,
+    "text": " So if you look down the international date line, it's got a really weird kink in it."
+  },
+  {
+    "start": 535,
+    "end": 538,
+    "text": " It's not aligned at all, because it scoops these islands in."
+  },
+  {
+    "start": 538,
+    "end": 540,
+    "text": " Is that Samoa or American Samoa or Tonga?"
+  },
+  {
+    "start": 540,
+    "end": 541,
+    "text": " No, it was different."
+  },
+  {
+    "start": 541,
+    "end": 543,
+    "text": " Samoa is the one that went in 2011."
+  },
+  {
+    "start": 543,
+    "end": 546,
+    "text": " It decided to go back a day, didn't it?"
+  },
+  {
+    "start": 546,
+    "end": 548,
+    "text": " So it missed out the 30th of December 2011."
+  },
+  {
+    "start": 548,
+    "end": 554,
+    "text": " Sorry, I went forward a day, but I did get an extra day on the 4th of July 1882."
+  },
+  {
+    "start": 554,
+    "end": 555,
+    "text": " Or 1892."
+  },
+  {
+    "start": 555,
+    "end": 556,
+    "text": " Use it wisely."
+  },
+  {
+    "start": 556,
+    "end": 557,
+    "text": " Yeah."
+  },
+  {
+    "start": 557,
+    "end": 561,
+    "text": " So I reckon what would happen is everyone would celebrate the day before, because it's like a big event."
+  },
+  {
+    "start": 561,
+    "end": 564,
+    "text": " Everyone would be hungover to hell on that day."
+  },
+  {
+    "start": 564,
+    "end": 566,
+    "text": " And no one would do anything on that day at all."
+  },
+  {
+    "start": 566,
+    "end": 568,
+    "text": " And then the next day they go, \"What do you do on your extra day?\""
+  },
+  {
+    "start": 568,
+    "end": 569,
+    "text": " \"Oh, I just stayed in bed.\""
+  },
+  {
+    "start": 569,
+    "end": 574,
+    "text": " I just love there to be like a doctor who episode that's set in the last days."
+  },
+  {
+    "start": 574,
+    "end": 577,
+    "text": " Oh, yeah, yeah."
+  },
+  {
+    "start": 577,
+    "end": 579,
+    "text": " Some sort of weird quasi-universe wear."
+  },
+  {
+    "start": 579,
+    "end": 580,
+    "text": " That's great."
+  },
+  {
+    "start": 580,
+    "end": 583,
+    "text": " Yeah, I don't actually watch Doctor Who's, I don't know how it works, but it would be..."
+  },
+  {
+    "start": 583,
+    "end": 584,
+    "text": " It's like that."
+  },
+  {
+    "start": 584,
+    "end": 585,
+    "text": " Like that, basically, yeah."
+  },
+  {
+    "start": 585,
+    "end": 588,
+    "text": " If I had that made a lot more sense than a lot of the doctors."
+  },
+  {
+    "start": 588,
+    "end": 590,
+    "text": " Anyone else?"
+  },
+  {
+    "start": 590,
+    "end": 591,
+    "text": " Some things on buses?"
+  },
+  {
+    "start": 591,
+    "end": 592,
+    "text": " Oh, yeah, buses."
+  },
+  {
+    "start": 592,
+    "end": 594,
+    "text": " As soon as we were talking about the start."
+  },
+  {
+    "start": 594,
+    "end": 599,
+    "text": " So there is a bus driver in Moscow called Alexey Volkov, who is known as the Punisher,"
+  },
+  {
+    "start": 599,
+    "end": 602,
+    "text": " because he deliberately rams people who cut him up."
+  },
+  {
+    "start": 602,
+    "end": 603,
+    "text": " Really?"
+  },
+  {
+    "start": 603,
+    "end": 604,
+    "text": " Oh, wow."
+  },
+  {
+    "start": 604,
+    "end": 607,
+    "text": " When you say cut him up, do you mean people who slap him with a knife?"
+  },
+  {
+    "start": 607,
+    "end": 608,
+    "text": " I'm going to cut him up."
+  },
+  {
+    "start": 608,
+    "end": 609,
+    "text": " I'm afraid not."
+  },
+  {
+    "start": 609,
+    "end": 611,
+    "text": " If you're driven in Moscow, it's like that."
+  },
+  {
+    "start": 611,
+    "end": 612,
+    "text": " Yeah, it's everyone's cutting you up all the time."
+  },
+  {
+    "start": 612,
+    "end": 613,
+    "text": " That is a weirdly visceral metaphor, isn't it?"
+  },
+  {
+    "start": 613,
+    "end": 614,
+    "text": " Yeah."
+  },
+  {
+    "start": 614,
+    "end": 616,
+    "text": " For just someone driving in front of you a bit close."
+  },
+  {
+    "start": 616,
+    "end": 617,
+    "text": " Yeah."
+  },
+  {
+    "start": 617,
+    "end": 618,
+    "text": " Going to cut you up."
+  },
+  {
+    "start": 618,
+    "end": 621,
+    "text": " I wonder if there's ever been a confusion in a police station on that."
+  },
+  {
+    "start": 621,
+    "end": 624,
+    "text": " If anyone's ever got a really long prison sentence unnecessarily,"
+  },
+  {
+    "start": 624,
+    "end": 625,
+    "text": " for just slipping in front of somebody."
+  },
+  {
+    "start": 625,
+    "end": 628,
+    "text": " All I do is cut him up, gaff, gaff, gaff."
+  },
+  {
+    "start": 628,
+    "end": 632,
+    "text": " All right, now it's time for fact number two."
+  },
+  {
+    "start": 632,
+    "end": 633,
+    "text": " And that is Andy."
+  },
+  {
+    "start": 633,
+    "end": 636,
+    "text": " My fact is that if a predator gets too close to a limpet,"
+  },
+  {
+    "start": 636,
+    "end": 640,
+    "text": " the limpet will lift up its shell and then stamp on the predator's foot."
+  },
+  {
+    "start": 640,
+    "end": 642,
+    "text": " So cool is that."
+  },
+  {
+    "start": 642,
+    "end": 644,
+    "text": " So how fast does it do that?"
+  },
+  {
+    "start": 644,
+    "end": 646,
+    "text": " Because I think a limpet is being quite slow moving."
+  },
+  {
+    "start": 646,
+    "end": 647,
+    "text": " They are slow."
+  },
+  {
+    "start": 647,
+    "end": 651,
+    "text": " They generally get about a meter away from their home before going back."
+  },
+  {
+    "start": 651,
+    "end": 652,
+    "text": " Brilliant."
+  },
+  {
+    "start": 652,
+    "end": 653,
+    "text": " That's the gousing."
+  },
+  {
+    "start": 653,
+    "end": 654,
+    "text": " Yeah, it's a long weekend."
+  },
+  {
+    "start": 654,
+    "end": 656,
+    "text": " And they have to get back before the tide comes in."
+  },
+  {
+    "start": 656,
+    "end": 658,
+    "text": " So, you know, why do they leave their home then?"
+  },
+  {
+    "start": 658,
+    "end": 660,
+    "text": " If they're only going on meter, what are they looking for?"
+  },
+  {
+    "start": 660,
+    "end": 661,
+    "text": " They are looking for food."
+  },
+  {
+    "start": 661,
+    "end": 664,
+    "text": " They are hungry for algae."
+  },
+  {
+    "start": 664,
+    "end": 665,
+    "text": " They love an algae."
+  },
+  {
+    "start": 665,
+    "end": 670,
+    "text": " The other thing is they'll stamp on your foot if you go to near them."
+  },
+  {
+    "start": 670,
+    "end": 672,
+    "text": " But they only have one foot, don't they?"
+  },
+  {
+    "start": 672,
+    "end": 673,
+    "text": " They're just a foot."
+  },
+  {
+    "start": 673,
+    "end": 674,
+    "text": " That's all a limpet."
+  },
+  {
+    "start": 674,
+    "end": 675,
+    "text": " They are the foot."
+  },
+  {
+    "start": 675,
+    "end": 677,
+    "text": " But they've got the shell all around them."
+  },
+  {
+    "start": 677,
+    "end": 678,
+    "text": " So that's the painful bit."
+  },
+  {
+    "start": 678,
+    "end": 680,
+    "text": " So the muscle, the foot muscle is in the middle."
+  },
+  {
+    "start": 680,
+    "end": 682,
+    "text": " And then obviously the shell, you know,"
+  },
+  {
+    "start": 682,
+    "end": 684,
+    "text": " crunching down between the predator and the rock."
+  },
+  {
+    "start": 684,
+    "end": 686,
+    "text": " Things like starfish like to eat them."
+  },
+  {
+    "start": 686,
+    "end": 687,
+    "text": " Yeah, I don't think they can do it very fast."
+  },
+  {
+    "start": 687,
+    "end": 688,
+    "text": " But it's called mushrooming."
+  },
+  {
+    "start": 688,
+    "end": 691,
+    "text": " Why is it called mushrooming?"
+  },
+  {
+    "start": 691,
+    "end": 692,
+    "text": " Mushrooms don't stamp on you."
+  },
+  {
+    "start": 692,
+    "end": 696,
+    "text": " I suppose when they go up on their foot and the shell is around them,"
+  },
+  {
+    "start": 696,
+    "end": 698,
+    "text": " they look like a mushroom if you're from the side."
+  },
+  {
+    "start": 698,
+    "end": 699,
+    "text": " But that's just a theory."
+  },
+  {
+    "start": 699,
+    "end": 701,
+    "text": " I don't know, that's true."
+  },
+  {
+    "start": 701,
+    "end": 702,
+    "text": " Yeah."
+  },
+  {
+    "start": 702,
+    "end": 703,
+    "text": " And so, yeah, anyway, they move across."
+  },
+  {
+    "start": 703,
+    "end": 705,
+    "text": " They go commuting basically for algae."
+  },
+  {
+    "start": 705,
+    "end": 707,
+    "text": " And they move across very, very slowly."
+  },
+  {
+    "start": 707,
+    "end": 710,
+    "text": " And they have this tongue called a radula."
+  },
+  {
+    "start": 710,
+    "end": 712,
+    "text": " Which they scrape over the rock."
+  },
+  {
+    "start": 712,
+    "end": 715,
+    "text": " And it's got 1,920 teeth on it."
+  },
+  {
+    "start": 715,
+    "end": 719,
+    "text": " Yeah, with hardened with iron compounds."
+  },
+  {
+    "start": 719,
+    "end": 722,
+    "text": " Basically, if these things ever decide to grow bigger, we are stuffed."
+  },
+  {
+    "start": 722,
+    "end": 725,
+    "text": " The compound is called girthite, I think."
+  },
+  {
+    "start": 725,
+    "end": 726,
+    "text": " Is it?"
+  },
+  {
+    "start": 726,
+    "end": 728,
+    "text": " Named after girthite, the author."
+  },
+  {
+    "start": 728,
+    "end": 729,
+    "text": " Right."
+  },
+  {
+    "start": 729,
+    "end": 731,
+    "text": " Well, it's quite a long story."
+  },
+  {
+    "start": 731,
+    "end": 734,
+    "text": " So it was named by a guy called George Lentz,"
+  },
+  {
+    "start": 734,
+    "end": 736,
+    "text": " who was a friend of girthite."
+  },
+  {
+    "start": 736,
+    "end": 740,
+    "text": " And if you read any books, it says that it was named in his honour."
+  },
+  {
+    "start": 740,
+    "end": 741,
+    "text": " Yeah."
+  },
+  {
+    "start": 741,
+    "end": 744,
+    "text": " But actually, these two guys fell out quite early."
+  },
+  {
+    "start": 744,
+    "end": 747,
+    "text": " He introduced Lentz to his sister."
+  },
+  {
+    "start": 747,
+    "end": 749,
+    "text": " And we don't know, his sister was married."
+  },
+  {
+    "start": 749,
+    "end": 751,
+    "text": " And we don't know what happened."
+  },
+  {
+    "start": 751,
+    "end": 755,
+    "text": " But then a little bit later, Lentz was kicked out of the court of Vimer."
+  },
+  {
+    "start": 755,
+    "end": 760,
+    "text": " And then later on, Lentz then named this mineral after girthite."
+  },
+  {
+    "start": 760,
+    "end": 763,
+    "text": " But it says it's in his honour, but these two didn't get on."
+  },
+  {
+    "start": 763,
+    "end": 767,
+    "text": " And so I think that it was named against him because he didn't like him."
+  },
+  {
+    "start": 767,
+    "end": 770,
+    "text": " And it's this thing which is found in the tongue of Olympia."
+  },
+  {
+    "start": 770,
+    "end": 772,
+    "text": " But it's also found in mud."
+  },
+  {
+    "start": 772,
+    "end": 775,
+    "text": " And I think he was like literally making his name mud."
+  },
+  {
+    "start": 775,
+    "end": 776,
+    "text": " Nice."
+  },
+  {
+    "start": 776,
+    "end": 777,
+    "text": " Good theory."
+  },
+  {
+    "start": 777,
+    "end": 778,
+    "text": " It's a limpit then."
+  },
+  {
+    "start": 778,
+    "end": 779,
+    "text": " Limpits."
+  },
+  {
+    "start": 779,
+    "end": 781,
+    "text": " They're commutes."
+  },
+  {
+    "start": 781,
+    "end": 782,
+    "text": " Sounds thrilling."
+  },
+  {
+    "start": 782,
+    "end": 783,
+    "text": " Yeah, it is."
+  },
+  {
+    "start": 783,
+    "end": 785,
+    "text": " But doesn't algae come to them?"
+  },
+  {
+    "start": 785,
+    "end": 786,
+    "text": " No."
+  },
+  {
+    "start": 786,
+    "end": 787,
+    "text": " Right."
+  },
+  {
+    "start": 787,
+    "end": 788,
+    "text": " Well, in a way, yes."
+  },
+  {
+    "start": 788,
+    "end": 790,
+    "text": " I think they filter water through their gills."
+  },
+  {
+    "start": 790,
+    "end": 794,
+    "text": " But they do also definitely go across the rocks in search of food."
+  },
+  {
+    "start": 794,
+    "end": 795,
+    "text": " Very, very slowly."
+  },
+  {
+    "start": 795,
+    "end": 796,
+    "text": " They also migrate."
+  },
+  {
+    "start": 796,
+    "end": 797,
+    "text": " Limpits."
+  },
+  {
+    "start": 797,
+    "end": 799,
+    "text": " How far?"
+  },
+  {
+    "start": 799,
+    "end": 800,
+    "text": " Not very far."
+  },
+  {
+    "start": 800,
+    "end": 801,
+    "text": " A few metres."
+  },
+  {
+    "start": 801,
+    "end": 802,
+    "text": " About a metre, yeah."
+  },
+  {
+    "start": 802,
+    "end": 803,
+    "text": " But in the winter."
+  },
+  {
+    "start": 803,
+    "end": 804,
+    "text": " Do they go south?"
+  },
+  {
+    "start": 804,
+    "end": 806,
+    "text": " Do they go south for winter?"
+  },
+  {
+    "start": 806,
+    "end": 807,
+    "text": " Three metres."
+  },
+  {
+    "start": 807,
+    "end": 810,
+    "text": " They move up the shore."
+  },
+  {
+    "start": 810,
+    "end": 812,
+    "text": " So it depends which direction the shore is."
+  },
+  {
+    "start": 812,
+    "end": 816,
+    "text": " If you ever see a flock of limpits in a V shape, that's my greatest."
+  },
+  {
+    "start": 816,
+    "end": 819,
+    "text": " It's for better aerodynamics than it is."
+  },
+  {
+    "start": 819,
+    "end": 823,
+    "text": " So when they go, they leave a trail of mucus behind them."
+  },
+  {
+    "start": 823,
+    "end": 824,
+    "text": " Right."
+  },
+  {
+    "start": 824,
+    "end": 828,
+    "text": " And then they go across scraping the rock with their tongue and getting all the algae up off the rock."
+  },
+  {
+    "start": 828,
+    "end": 832,
+    "text": " But then the mucus they leave behind them actually encourages more algae to grow on it."
+  },
+  {
+    "start": 832,
+    "end": 833,
+    "text": " But that's basically farming."
+  },
+  {
+    "start": 833,
+    "end": 836,
+    "text": " They are encouraging more food to grow in the path they have been in."
+  },
+  {
+    "start": 836,
+    "end": 837,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 837,
+    "end": 838,
+    "text": " Yeah."
+  },
+  {
+    "start": 838,
+    "end": 839,
+    "text": " So not only is it quite advanced farming."
+  },
+  {
+    "start": 839,
+    "end": 841,
+    "text": " If they were to eat it, are they in close?"
+  },
+  {
+    "start": 841,
+    "end": 842,
+    "text": " Well, it's just in close."
+  },
+  {
+    "start": 842,
+    "end": 843,
+    "text": " Come on, man."
+  },
+  {
+    "start": 843,
+    "end": 844,
+    "text": " This does, is it?"
+  },
+  {
+    "start": 844,
+    "end": 846,
+    "text": " So they do get subsidies from the EU."
+  },
+  {
+    "start": 846,
+    "end": 848,
+    "text": " Do they have a butter mountain?"
+  },
+  {
+    "start": 848,
+    "end": 849,
+    "text": " An algae mountain."
+  },
+  {
+    "start": 849,
+    "end": 850,
+    "text": " Right."
+  },
+  {
+    "start": 850,
+    "end": 851,
+    "text": " Here's a question."
+  },
+  {
+    "start": 851,
+    "end": 853,
+    "text": " And you may know the answer to it."
+  },
+  {
+    "start": 853,
+    "end": 854,
+    "text": " I'm going off topic here."
+  },
+  {
+    "start": 854,
+    "end": 857,
+    "text": " But how many bacteria would you have to have?"
+  },
+  {
+    "start": 857,
+    "end": 859,
+    "text": " Before you could see them in a lump."
+  },
+  {
+    "start": 859,
+    "end": 861,
+    "text": " What would a mountain of bacteria look like?"
+  },
+  {
+    "start": 861,
+    "end": 863,
+    "text": " It would look like a lot of pus, basically."
+  },
+  {
+    "start": 863,
+    "end": 864,
+    "text": " Really?"
+  },
+  {
+    "start": 864,
+    "end": 865,
+    "text": " But how do you know that?"
+  },
+  {
+    "start": 865,
+    "end": 866,
+    "text": " Just before we get onto that."
+  },
+  {
+    "start": 866,
+    "end": 867,
+    "text": " How do you know that?"
+  },
+  {
+    "start": 867,
+    "end": 868,
+    "text": " Do you have anything that would look like a mountain of pus?"
+  },
+  {
+    "start": 868,
+    "end": 874,
+    "text": " I think I might have read that in one of XKCD's things."
+  },
+  {
+    "start": 874,
+    "end": 876,
+    "text": " Everyone in the book or on their website."
+  },
+  {
+    "start": 876,
+    "end": 879,
+    "text": " I would surely it would depend on the kind of bacteria."
+  },
+  {
+    "start": 879,
+    "end": 880,
+    "text": " Some of it."
+  },
+  {
+    "start": 880,
+    "end": 881,
+    "text": " Yeah, and some things."
+  },
+  {
+    "start": 881,
+    "end": 882,
+    "text": " All of the same."
+  },
+  {
+    "start": 882,
+    "end": 886,
+    "text": " No, it would look like a big shimmery silvery greenish bluish."
+  },
+  {
+    "start": 886,
+    "end": 889,
+    "text": " So let the blob come from like classic fighting the movies in the 60s or whatever."
+  },
+  {
+    "start": 889,
+    "end": 892,
+    "text": " But I mean James, I think I've actually done some research on this."
+  },
+  {
+    "start": 892,
+    "end": 893,
+    "text": " I think I've said this before."
+  },
+  {
+    "start": 893,
+    "end": 895,
+    "text": " The blob is based on a real police report."
+  },
+  {
+    "start": 895,
+    "end": 896,
+    "text": " I might have said this before, actually."
+  },
+  {
+    "start": 896,
+    "end": 897,
+    "text": " Really?"
+  },
+  {
+    "start": 897,
+    "end": 898,
+    "text": " Yeah."
+  },
+  {
+    "start": 898,
+    "end": 901,
+    "text": " It was based on a police report in America in the 1950s about a mysterious blob."
+  },
+  {
+    "start": 901,
+    "end": 904,
+    "text": " Would you turn out to be a giant cluster of bacteria?"
+  },
+  {
+    "start": 904,
+    "end": 906,
+    "text": " If you haven't seen the blob, it's such a good film."
+  },
+  {
+    "start": 906,
+    "end": 907,
+    "text": " It's got Steve McQueen in it."
+  },
+  {
+    "start": 907,
+    "end": 908,
+    "text": " Yeah."
+  },
+  {
+    "start": 908,
+    "end": 909,
+    "text": " A really, really young Steve McQueen."
+  },
+  {
+    "start": 909,
+    "end": 911,
+    "text": " And the blob eats everyone."
+  },
+  {
+    "start": 911,
+    "end": 912,
+    "text": " Oh."
+  },
+  {
+    "start": 912,
+    "end": 913,
+    "text": " Spoiler alert."
+  },
+  {
+    "start": 913,
+    "end": 914,
+    "text": " Spoiler alert."
+  },
+  {
+    "start": 914,
+    "end": 917,
+    "text": " So just swallowed things up and digested them."
+  },
+  {
+    "start": 917,
+    "end": 918,
+    "text": " Yeah."
+  },
+  {
+    "start": 918,
+    "end": 921,
+    "text": " There's a great bit where a farmer gets hungry with it and fires a gun into it."
+  },
+  {
+    "start": 921,
+    "end": 922,
+    "text": " I bet it doesn't work."
+  },
+  {
+    "start": 922,
+    "end": 923,
+    "text": " Doesn't work."
+  },
+  {
+    "start": 923,
+    "end": 924,
+    "text": " Doesn't work."
+  },
+  {
+    "start": 924,
+    "end": 925,
+    "text": " It just eats the bullets and gets a fraction bigger."
+  },
+  {
+    "start": 925,
+    "end": 927,
+    "text": " Again, guys, spoiler alert."
+  },
+  {
+    "start": 927,
+    "end": 928,
+    "text": " Sorry."
+  },
+  {
+    "start": 928,
+    "end": 929,
+    "text": " Come on."
+  },
+  {
+    "start": 929,
+    "end": 930,
+    "text": " We were talking about bacteria."
+  },
+  {
+    "start": 930,
+    "end": 932,
+    "text": " Yeah, there's a bacteria that you can see, I think."
+  },
+  {
+    "start": 932,
+    "end": 938,
+    "text": " The biggest bacterium, I think, might be nicknamed Conan the bacterium by the most papers."
+  },
+  {
+    "start": 938,
+    "end": 939,
+    "text": " And I think it's bigger."
+  },
+  {
+    "start": 939,
+    "end": 940,
+    "text": " Is it visible to the naked eye?"
+  },
+  {
+    "start": 940,
+    "end": 941,
+    "text": " I think it is."
+  },
+  {
+    "start": 941,
+    "end": 942,
+    "text": " Just one of them."
+  },
+  {
+    "start": 942,
+    "end": 943,
+    "text": " I believe so."
+  },
+  {
+    "start": 943,
+    "end": 947,
+    "text": " We've mentioned in one of our books that bacteria can get viruses."
+  },
+  {
+    "start": 947,
+    "end": 948,
+    "text": " Viruses can get viruses."
+  },
+  {
+    "start": 948,
+    "end": 949,
+    "text": " And the viruses can get viruses."
+  },
+  {
+    "start": 949,
+    "end": 951,
+    "text": " Big viruses can get some more ones."
+  },
+  {
+    "start": 951,
+    "end": 952,
+    "text": " They found a big virus."
+  },
+  {
+    "start": 952,
+    "end": 955,
+    "text": " It was in a cooling tower somewhere in the UK, I think."
+  },
+  {
+    "start": 955,
+    "end": 957,
+    "text": " And it was a massive, massive virus."
+  },
+  {
+    "start": 957,
+    "end": 958,
+    "text": " And then they found another one."
+  },
+  {
+    "start": 958,
+    "end": 960,
+    "text": " And it was orbiting the original virus."
+  },
+  {
+    "start": 960,
+    "end": 961,
+    "text": " And it's called Sputnik."
+  },
+  {
+    "start": 961,
+    "end": 962,
+    "text": " They called it."
+  },
+  {
+    "start": 962,
+    "end": 963,
+    "text": " Really?"
+  },
+  {
+    "start": 963,
+    "end": 964,
+    "text": " Wow."
+  },
+  {
+    "start": 964,
+    "end": 965,
+    "text": " They get it might be a newspaper nickname."
+  },
+  {
+    "start": 965,
+    "end": 966,
+    "text": " I don't know."
+  },
+  {
+    "start": 966,
+    "end": 967,
+    "text": " Especially like a satellite virus."
+  },
+  {
+    "start": 967,
+    "end": 968,
+    "text": " Yeah."
+  },
+  {
+    "start": 968,
+    "end": 969,
+    "text": " Just going round and round it."
+  },
+  {
+    "start": 969,
+    "end": 972,
+    "text": " If you dropped a load of bacteria out of a plate."
+  },
+  {
+    "start": 972,
+    "end": 973,
+    "text": " Yeah."
+  },
+  {
+    "start": 973,
+    "end": 974,
+    "text": " How much a blobsworth?"
+  },
+  {
+    "start": 974,
+    "end": 975,
+    "text": " Yeah, a blobsworth, say."
+  },
+  {
+    "start": 975,
+    "end": 977,
+    "text": " Would they fall?"
+  },
+  {
+    "start": 977,
+    "end": 980,
+    "text": " Or would the air currents be enough to just keep them up there forever?"
+  },
+  {
+    "start": 980,
+    "end": 981,
+    "text": " Oh, interesting."
+  },
+  {
+    "start": 981,
+    "end": 983,
+    "text": " That's what a cloud is, Andy."
+  },
+  {
+    "start": 983,
+    "end": 984,
+    "text": " Just a load of bacteria."
+  },
+  {
+    "start": 984,
+    "end": 985,
+    "text": " Yeah."
+  },
+  {
+    "start": 985,
+    "end": 990,
+    "text": " Well, a cloud needs something for the water droplets to nucleate around."
+  },
+  {
+    "start": 990,
+    "end": 992,
+    "text": " And sometimes that would be bacteria, originally."
+  },
+  {
+    "start": 992,
+    "end": 993,
+    "text": " Yeah."
+  },
+  {
+    "start": 993,
+    "end": 994,
+    "text": " I imagine."
+  },
+  {
+    "start": 994,
+    "end": 995,
+    "text": " It would usually be like dust or sand."
+  },
+  {
+    "start": 995,
+    "end": 997,
+    "text": " But I bet it could work with bacteria."
+  },
+  {
+    "start": 997,
+    "end": 999,
+    "text": " They've just done a trial of cloud seeding."
+  },
+  {
+    "start": 999,
+    "end": 1001,
+    "text": " Or they've done a study of studies of cloud seeding."
+  },
+  {
+    "start": 1001,
+    "end": 1004,
+    "text": " Which is where you drop a little divide in crystals from a plane."
+  },
+  {
+    "start": 1004,
+    "end": 1008,
+    "text": " And then those are the tiny, tiny crystals which the water droplets form around"
+  },
+  {
+    "start": 1008,
+    "end": 1009,
+    "text": " and then you get rain."
+  },
+  {
+    "start": 1009,
+    "end": 1010,
+    "text": " No."
+  },
+  {
+    "start": 1010,
+    "end": 1011,
+    "text": " And they found that it does have a small positive effect."
+  },
+  {
+    "start": 1011,
+    "end": 1015,
+    "text": " They don't think that it's currently good enough to deliberately do anything to weather."
+  },
+  {
+    "start": 1015,
+    "end": 1016,
+    "text": " Yeah."
+  },
+  {
+    "start": 1016,
+    "end": 1018,
+    "text": " Like you could probably make a difference, but it's not reliable enough."
+  },
+  {
+    "start": 1018,
+    "end": 1019,
+    "text": " Yeah, you can't just wake up."
+  },
+  {
+    "start": 1019,
+    "end": 1020,
+    "text": " It's a sunny day."
+  },
+  {
+    "start": 1020,
+    "end": 1021,
+    "text": " That was me."
+  },
+  {
+    "start": 1021,
+    "end": 1022,
+    "text": " That was my cloud seeding."
+  },
+  {
+    "start": 1022,
+    "end": 1025,
+    "text": " We did cloud seeding just before some of this year."
+  },
+  {
+    "start": 1025,
+    "end": 1028,
+    "text": " And we were very proud to report it to be that barbecue summer."
+  },
+  {
+    "start": 1028,
+    "end": 1031,
+    "text": " Can you tell we haven't done any limpit research?"
+  },
+  {
+    "start": 1031,
+    "end": 1033,
+    "text": " I've got lots of limpit research."
+  },
+  {
+    "start": 1033,
+    "end": 1034,
+    "text": " Let's hear this one."
+  },
+  {
+    "start": 1034,
+    "end": 1036,
+    "text": " I'm keen to talk about limpits."
+  },
+  {
+    "start": 1036,
+    "end": 1039,
+    "text": " Limpits are all, there's basically no such thing as a limpit."
+  },
+  {
+    "start": 1039,
+    "end": 1040,
+    "text": " It was just good."
+  },
+  {
+    "start": 1040,
+    "end": 1041,
+    "text": " Yeah."
+  },
+  {
+    "start": 1041,
+    "end": 1043,
+    "text": " So limpits don't really exist."
+  },
+  {
+    "start": 1043,
+    "end": 1045,
+    "text": " I think they do."
+  },
+  {
+    "start": 1045,
+    "end": 1046,
+    "text": " I think they don't."
+  },
+  {
+    "start": 1046,
+    "end": 1053,
+    "text": " Because it's just a name for aquatic snails with basically conical shells."
+  },
+  {
+    "start": 1053,
+    "end": 1054,
+    "text": " That's all it is."
+  },
+  {
+    "start": 1054,
+    "end": 1056,
+    "text": " It's a very informal term."
+  },
+  {
+    "start": 1056,
+    "end": 1062,
+    "text": " Lots of different things that we call limpits come from different filers."
+  },
+  {
+    "start": 1062,
+    "end": 1064,
+    "text": " There was a thing called a common limpit, isn't it?"
+  },
+  {
+    "start": 1064,
+    "end": 1065,
+    "text": " I think."
+  },
+  {
+    "start": 1065,
+    "end": 1066,
+    "text": " Yes, there is."
+  },
+  {
+    "start": 1066,
+    "end": 1067,
+    "text": " And that'll be a specific speech."
+  },
+  {
+    "start": 1067,
+    "end": 1068,
+    "text": " And that's very informal."
+  },
+  {
+    "start": 1068,
+    "end": 1069,
+    "text": " That's a way of jeans."
+  },
+  {
+    "start": 1069,
+    "end": 1070,
+    "text": " Yeah."
+  },
+  {
+    "start": 1070,
+    "end": 1072,
+    "text": " It doesn't take issues off when it comes in."
+  },
+  {
+    "start": 1072,
+    "end": 1074,
+    "text": " The Wikipedia describes limpit."
+  },
+  {
+    "start": 1074,
+    "end": 1075,
+    "text": " It's exactly how I've just described it."
+  },
+  {
+    "start": 1075,
+    "end": 1076,
+    "text": " It's exactly how I've described it."
+  },
+  {
+    "start": 1076,
+    "end": 1077,
+    "text": " Because this is where I got it."
+  },
+  {
+    "start": 1077,
+    "end": 1078,
+    "text": " You missed off the bit that it adds."
+  },
+  {
+    "start": 1078,
+    "end": 1082,
+    "text": " So a limpit is a commonly implied aquatic snails with shells broadly conical in shape,"
+  },
+  {
+    "start": 1082,
+    "end": 1084,
+    "text": " rather like the conical Asian hat."
+  },
+  {
+    "start": 1084,
+    "end": 1088,
+    "text": " Which I've never seen Wikipedia open with a similarly."
+  },
+  {
+    "start": 1088,
+    "end": 1090,
+    "text": " Nora slightly racist similarly."
+  },
+  {
+    "start": 1090,
+    "end": 1092,
+    "text": " What's the conical Asian hat?"
+  },
+  {
+    "start": 1092,
+    "end": 1097,
+    "text": " You know if you took a slightly racist picture of someone from Asia from the 1950s."
+  },
+  {
+    "start": 1097,
+    "end": 1098,
+    "text": " Yeah."
+  },
+  {
+    "start": 1098,
+    "end": 1100,
+    "text": " And they'd be like a rice farmer with their hat."
+  },
+  {
+    "start": 1100,
+    "end": 1101,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 1101,
+    "end": 1102,
+    "text": " A conical."
+  },
+  {
+    "start": 1102,
+    "end": 1103,
+    "text": " It brought lots of shade."
+  },
+  {
+    "start": 1103,
+    "end": 1104,
+    "text": " Yeah."
+  },
+  {
+    "start": 1104,
+    "end": 1107,
+    "text": " Because if you're working outdoors as a rice farmer, then that keeps the sound of your head."
+  },
+  {
+    "start": 1107,
+    "end": 1108,
+    "text": " Yeah."
+  },
+  {
+    "start": 1108,
+    "end": 1110,
+    "text": " So your so starfish eat limpits, didn't they?"
+  },
+  {
+    "start": 1110,
+    "end": 1111,
+    "text": " Or try to."
+  },
+  {
+    "start": 1111,
+    "end": 1112,
+    "text": " They do."
+  },
+  {
+    "start": 1112,
+    "end": 1113,
+    "text": " Sometimes eat things."
+  },
+  {
+    "start": 1113,
+    "end": 1116,
+    "text": " They sort of make their stomach go to them, I think, rather than them going to their stomach."
+  },
+  {
+    "start": 1116,
+    "end": 1121,
+    "text": " So I think starfish expel their stomachs out of themselves and then swallow them up into their stomach."
+  },
+  {
+    "start": 1121,
+    "end": 1127,
+    "text": " So I guess like a limpit when it's trying to defend itself might stamp on a starfish stomach."
+  },
+  {
+    "start": 1127,
+    "end": 1129,
+    "text": " Is that what it does?"
+  },
+  {
+    "start": 1129,
+    "end": 1130,
+    "text": " I think it might do."
+  },
+  {
+    "start": 1130,
+    "end": 1131,
+    "text": " Yeah."
+  },
+  {
+    "start": 1131,
+    "end": 1134,
+    "text": " I assume there are starfish stopped by the stomach somewhere by a limpit."
+  },
+  {
+    "start": 1134,
+    "end": 1137,
+    "text": " Have you heard of starfish wasting disease?"
+  },
+  {
+    "start": 1137,
+    "end": 1138,
+    "text": " No."
+  },
+  {
+    "start": 1138,
+    "end": 1139,
+    "text": " Yeah, it's very sad."
+  },
+  {
+    "start": 1139,
+    "end": 1147,
+    "text": " It's a disease which is kind of getting a bit bigger at the moment and it basically gets starfish to waste themselves by ripping their own arms off."
+  },
+  {
+    "start": 1147,
+    "end": 1148,
+    "text": " What?"
+  },
+  {
+    "start": 1148,
+    "end": 1149,
+    "text": " Yeah."
+  },
+  {
+    "start": 1149,
+    "end": 1150,
+    "text": " They rip their own arms off."
+  },
+  {
+    "start": 1150,
+    "end": 1151,
+    "text": " Yeah."
+  },
+  {
+    "start": 1151,
+    "end": 1153,
+    "text": " How do they rip off the last arm?"
+  },
+  {
+    "start": 1153,
+    "end": 1159,
+    "text": " The arms continue to crawl around for a while after they rip them off."
+  },
+  {
+    "start": 1159,
+    "end": 1160,
+    "text": " It's pretty creepy."
+  },
+  {
+    "start": 1160,
+    "end": 1162,
+    "text": " Maybe they all gang up and rip the last one off as well."
+  },
+  {
+    "start": 1162,
+    "end": 1164,
+    "text": " Did I hear on my podcast?"
+  },
+  {
+    "start": 1164,
+    "end": 1169,
+    "text": " Or maybe an episode of Kiwai about a plant that's so painful when you touch it, a guy shot himself."
+  },
+  {
+    "start": 1169,
+    "end": 1170,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 1170,
+    "end": 1171,
+    "text": " Oh, it's a metal."
+  },
+  {
+    "start": 1171,
+    "end": 1174,
+    "text": " It's so painful, you just can't even tolerate living anymore."
+  },
+  {
+    "start": 1174,
+    "end": 1175,
+    "text": " Yeah."
+  },
+  {
+    "start": 1175,
+    "end": 1176,
+    "text": " Maybe that's how it works."
+  },
+  {
+    "start": 1176,
+    "end": 1178,
+    "text": " But didn't he use it accidentally as a loop paper?"
+  },
+  {
+    "start": 1178,
+    "end": 1179,
+    "text": " He did."
+  },
+  {
+    "start": 1179,
+    "end": 1180,
+    "text": " He's in Australia."
+  },
+  {
+    "start": 1180,
+    "end": 1182,
+    "text": " This is a reporting Australian geographic."
+  },
+  {
+    "start": 1182,
+    "end": 1186,
+    "text": " And yeah, it stings so much it's like being electrocuted."
+  },
+  {
+    "start": 1186,
+    "end": 1187,
+    "text": " He electrocuted on the bump."
+  },
+  {
+    "start": 1187,
+    "end": 1188,
+    "text": " Yeah."
+  },
+  {
+    "start": 1188,
+    "end": 1189,
+    "text": " It's horrible."
+  },
+  {
+    "start": 1189,
+    "end": 1193,
+    "text": " He picked it up, wiped himself and in so much pain he shot himself."
+  },
+  {
+    "start": 1193,
+    "end": 1194,
+    "text": " Wow."
+  },
+  {
+    "start": 1194,
+    "end": 1199,
+    "text": " Well, speaking of people who've electrocuted their bombs, that's reminded me of one of my favourite ever stories in history."
+  },
+  {
+    "start": 1199,
+    "end": 1202,
+    "text": " And it was a famous guy actually."
+  },
+  {
+    "start": 1202,
+    "end": 1204,
+    "text": " So this is Alexander von Humboldt."
+  },
+  {
+    "start": 1204,
+    "end": 1205,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 1205,
+    "end": 1206,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 1206,
+    "end": 1207,
+    "text": " He might have heard him."
+  },
+  {
+    "start": 1207,
+    "end": 1208,
+    "text": " He was mega famous."
+  },
+  {
+    "start": 1208,
+    "end": 1209,
+    "text": " He was like a proper famous."
+  },
+  {
+    "start": 1209,
+    "end": 1210,
+    "text": " He was a polymurf and exactly."
+  },
+  {
+    "start": 1210,
+    "end": 1211,
+    "text": " Yeah."
+  },
+  {
+    "start": 1211,
+    "end": 1212,
+    "text": " Enlightenment scholar."
+  },
+  {
+    "start": 1212,
+    "end": 1213,
+    "text": " Proper Prussian chap."
+  },
+  {
+    "start": 1213,
+    "end": 1216,
+    "text": " He has, does he have more things named after species named after than anyone else?"
+  },
+  {
+    "start": 1216,
+    "end": 1217,
+    "text": " Really."
+  },
+  {
+    "start": 1217,
+    "end": 1218,
+    "text": " I think he's got a lot."
+  },
+  {
+    "start": 1218,
+    "end": 1219,
+    "text": " I think he's got a lot."
+  },
+  {
+    "start": 1219,
+    "end": 1222,
+    "text": " I wouldn't sound like it would be more, but I'm not sure."
+  },
+  {
+    "start": 1222,
+    "end": 1223,
+    "text": " He did loads of research in South America."
+  },
+  {
+    "start": 1223,
+    "end": 1227,
+    "text": " And in his 20s, he got really obsessed with electricity because it was kind of galvanic."
+  },
+  {
+    "start": 1227,
+    "end": 1231,
+    "text": " He had just been electrocuting stuff and everyone was going, \"Electricity is the new thing.\""
+  },
+  {
+    "start": 1231,
+    "end": 1237,
+    "text": " And so one day, he and his assistant were sort of wondering, \"I wonder what electricity does to dead things?\""
+  },
+  {
+    "start": 1237,
+    "end": 1240,
+    "text": " And they found, I think, a dead bird and he reanimated it."
+  },
+  {
+    "start": 1240,
+    "end": 1243,
+    "text": " And with electricity, it came back to life for 10 minutes and he went, \"Oh, amazing, brilliant."
+  },
+  {
+    "start": 1243,
+    "end": 1244,
+    "text": " That's electricity."
+  },
+  {
+    "start": 1244,
+    "end": 1245,
+    "text": " He can revive the dead.\""
+  },
+  {
+    "start": 1245,
+    "end": 1248,
+    "text": " It probably died of heart disease or something and it restarted the heart and the heart was bleeding."
+  },
+  {
+    "start": 1248,
+    "end": 1250,
+    "text": " Oh, maybe it was a sleep."
+  },
+  {
+    "start": 1250,
+    "end": 1251,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1251,
+    "end": 1253,
+    "text": " Just woke it up."
+  },
+  {
+    "start": 1253,
+    "end": 1257,
+    "text": " But having electrocuted the bird, he then thought, \"Well, electricity is clearly amazing."
+  },
+  {
+    "start": 1257,
+    "end": 1259,
+    "text": " I wonder what else I can electrocute."
+  },
+  {
+    "start": 1259,
+    "end": 1260,
+    "text": " I know myself.\""
+  },
+  {
+    "start": 1260,
+    "end": 1265,
+    "text": " And so he put one electrode in his mouth and then he inserted the other one into his anus."
+  },
+  {
+    "start": 1265,
+    "end": 1267,
+    "text": " And then electrocuted himself."
+  },
+  {
+    "start": 1267,
+    "end": 1273,
+    "text": " And one of my favourite ever quotes in history is his description of the outcome."
+  },
+  {
+    "start": 1273,
+    "end": 1277,
+    "text": " He put about four inches into his rectum and he described it as this."
+  },
+  {
+    "start": 1277,
+    "end": 1282,
+    "text": " The introduction of a charge into the armatures produced nauseating cramps and discomforting stomach contractions."
+  },
+  {
+    "start": 1282,
+    "end": 1287,
+    "text": " Then abdominal pain, the severe magnitude, followed by involuntary evacuation of the bladder."
+  },
+  {
+    "start": 1287,
+    "end": 1291,
+    "text": " What struck me more is that by inserting the silver more deeply into the rectum."
+  },
+  {
+    "start": 1291,
+    "end": 1293,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1293,
+    "end": 1296,
+    "text": " Having evacuated my health, I thought, \"I'd just do that further in.\""
+  },
+  {
+    "start": 1296,
+    "end": 1300,
+    "text": " More deeply into the rectum, a bright light appears behind both eyes."
+  },
+  {
+    "start": 1300,
+    "end": 1303,
+    "text": " So he basically went, \"Wow, this is really painful and I've pissed myself."
+  },
+  {
+    "start": 1303,
+    "end": 1305,
+    "text": " But what if I keep going?\""
+  },
+  {
+    "start": 1305,
+    "end": 1308,
+    "text": " And then he just basically had to sort of blind this behind his eyes."
+  },
+  {
+    "start": 1308,
+    "end": 1309,
+    "text": " That is a scientist."
+  },
+  {
+    "start": 1309,
+    "end": 1311,
+    "text": " And then what about when he went deeper?"
+  },
+  {
+    "start": 1311,
+    "end": 1313,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1313,
+    "end": 1314,
+    "text": " I see what you mean."
+  },
+  {
+    "start": 1314,
+    "end": 1316,
+    "text": " It's like he saw a bright light."
+  },
+  {
+    "start": 1316,
+    "end": 1317,
+    "text": " Yeah."
+  },
+  {
+    "start": 1317,
+    "end": 1319,
+    "text": " I was kind of picturing lasers coming out of his eyes."
+  },
+  {
+    "start": 1319,
+    "end": 1320,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1320,
+    "end": 1323,
+    "text": " But I think what he's describing is basically just like a flash of electricity."
+  },
+  {
+    "start": 1323,
+    "end": 1325,
+    "text": " You can find it like, you know, like a pure blinding."
+  },
+  {
+    "start": 1325,
+    "end": 1328,
+    "text": " And the lovely thing is that that input him off electricity at all."
+  },
+  {
+    "start": 1328,
+    "end": 1332,
+    "text": " He then went to South America and did various research where he came across, I think, an electric eel."
+  },
+  {
+    "start": 1332,
+    "end": 1335,
+    "text": " And the first thing he did shove it up his ass."
+  },
+  {
+    "start": 1335,
+    "end": 1337,
+    "text": " Thankfully he didn't do that, but he did pick it up and go, \"Zah!\""
+  },
+  {
+    "start": 1337,
+    "end": 1338,
+    "text": " All right, you try."
+  },
+  {
+    "start": 1338,
+    "end": 1340,
+    "text": " Gave it to his assistant, he went, \"Zah!\""
+  },
+  {
+    "start": 1340,
+    "end": 1342,
+    "text": " And gave it back to him, and they'd electrocute themselves all day long."
+  },
+  {
+    "start": 1342,
+    "end": 1344,
+    "text": " We were just testing how paper and watch to be an electric eel."
+  },
+  {
+    "start": 1344,
+    "end": 1347,
+    "text": " They used to put eels up horses, bumps, didn't they?"
+  },
+  {
+    "start": 1347,
+    "end": 1350,
+    "text": " So you would go to the market and you would want to sell your horse,"
+  },
+  {
+    "start": 1350,
+    "end": 1353,
+    "text": " but you want people to think it was better than it was."
+  },
+  {
+    "start": 1353,
+    "end": 1357,
+    "text": " You put either some ginger or an eel up their buns and it would make them all lively."
+  },
+  {
+    "start": 1357,
+    "end": 1360,
+    "text": " You should never look a gift horse in the mouth, but you should look in the anus."
+  },
+  {
+    "start": 1360,
+    "end": 1362,
+    "text": " Just in case."
+  },
+  {
+    "start": 1362,
+    "end": 1366,
+    "text": " I think the Romans also used electric eels as a cure for headaches."
+  },
+  {
+    "start": 1366,
+    "end": 1368,
+    "text": " I think the memory says, \"I think...\""
+  },
+  {
+    "start": 1368,
+    "end": 1369,
+    "text": " Was that why I work?"
+  },
+  {
+    "start": 1369,
+    "end": 1371,
+    "text": " I think because they definitely had eels, and they were really interested in eels."
+  },
+  {
+    "start": 1371,
+    "end": 1375,
+    "text": " They used to have man-eating eels in their ponds and slaves used to be thrown into them."
+  },
+  {
+    "start": 1375,
+    "end": 1378,
+    "text": " Man-eating eels, that really, really aggressive."
+  },
+  {
+    "start": 1378,
+    "end": 1380,
+    "text": " Well, really aggressive eels that would just eat any flesh."
+  },
+  {
+    "start": 1380,
+    "end": 1384,
+    "text": " And if a Roman aristocrat didn't like a slave or a slave had broken a nice cup or something,"
+  },
+  {
+    "start": 1384,
+    "end": 1386,
+    "text": " they'd throw into the eels and eat them."
+  },
+  {
+    "start": 1386,
+    "end": 1390,
+    "text": " Did they have cups? I suppose they must have done that."
+  },
+  {
+    "start": 1390,
+    "end": 1392,
+    "text": " I think of them as an empire."
+  },
+  {
+    "start": 1392,
+    "end": 1395,
+    "text": " I think you're not bothered about the man-eating eels, but..."
+  },
+  {
+    "start": 1395,
+    "end": 1397,
+    "text": " Where do cups, you say?"
+  },
+  {
+    "start": 1397,
+    "end": 1398,
+    "text": " No."
+  },
+  {
+    "start": 1398,
+    "end": 1399,
+    "text": " Are they out of aqueducts?"
+  },
+  {
+    "start": 1399,
+    "end": 1400,
+    "text": " Yeah."
+  },
+  {
+    "start": 1400,
+    "end": 1405,
+    "text": " We've got all this water all the way here from the mountains."
+  },
+  {
+    "start": 1405,
+    "end": 1408,
+    "text": " Right, everyone, get your hands together at the time of the tea."
+  },
+  {
+    "start": 1408,
+    "end": 1410,
+    "text": " What I mean was..."
+  },
+  {
+    "start": 1410,
+    "end": 1412,
+    "text": " Oh, God."
+  },
+  {
+    "start": 1412,
+    "end": 1414,
+    "text": " I don't think of them having cups with handles."
+  },
+  {
+    "start": 1414,
+    "end": 1418,
+    "text": " I think of them having little handle as goblets, things like that."
+  },
+  {
+    "start": 1418,
+    "end": 1422,
+    "text": " But actually, I mean, there was one very famous Roman aristocrat who was so in love with his eels."
+  },
+  {
+    "start": 1422,
+    "end": 1427,
+    "text": " His pet eels, actually, that he put earrings on them and painted their faces like a lady."
+  },
+  {
+    "start": 1427,
+    "end": 1433,
+    "text": " So, apparently, when the eel died, he cried bitterly, you know, more so than when his own sort of slaves or family died."
+  },
+  {
+    "start": 1433,
+    "end": 1435,
+    "text": " But when the eels snuffed it, he was really..."
+  },
+  {
+    "start": 1435,
+    "end": 1438,
+    "text": " All the cute Roman buzzfeed pictures were not of dogs and jumpers."
+  },
+  {
+    "start": 1438,
+    "end": 1440,
+    "text": " They were of eels with makeup on."
+  },
+  {
+    "start": 1440,
+    "end": 1443,
+    "text": " Yeah, eels."
+  },
+  {
+    "start": 1443,
+    "end": 1445,
+    "text": " That's creepy as hell."
+  },
+  {
+    "start": 1445,
+    "end": 1447,
+    "text": " Animal defense mechanisms."
+  },
+  {
+    "start": 1447,
+    "end": 1449,
+    "text": " We ever talked about the pygmy sperm whale."
+  },
+  {
+    "start": 1449,
+    "end": 1450,
+    "text": " No."
+  },
+  {
+    "start": 1450,
+    "end": 1451,
+    "text": " I think I'd remember."
+  },
+  {
+    "start": 1451,
+    "end": 1453,
+    "text": " We had talked about all those three things separately."
+  },
+  {
+    "start": 1453,
+    "end": 1456,
+    "text": " But I don't think we've talked about the combo."
+  },
+  {
+    "start": 1456,
+    "end": 1458,
+    "text": " This is okay."
+  },
+  {
+    "start": 1458,
+    "end": 1462,
+    "text": " So, it's really quite sweet."
+  },
+  {
+    "start": 1462,
+    "end": 1463,
+    "text": " It's tiny."
+  },
+  {
+    "start": 1463,
+    "end": 1465,
+    "text": " And B is a defense mechanism."
+  },
+  {
+    "start": 1465,
+    "end": 1469,
+    "text": " It's another animal that shoots, like, syrupy stuff out of its anus."
+  },
+  {
+    "start": 1469,
+    "end": 1474,
+    "text": " Which things are trying to chase it, kind of get stuck in and disoriented by."
+  },
+  {
+    "start": 1474,
+    "end": 1478,
+    "text": " It's a deep-colored syrup into the water and spreads it around with its tail."
+  },
+  {
+    "start": 1478,
+    "end": 1480,
+    "text": " So, it mixes it around with paint."
+  },
+  {
+    "start": 1480,
+    "end": 1481,
+    "text": " It's a syrup species, though, isn't it, right?"
+  },
+  {
+    "start": 1481,
+    "end": 1482,
+    "text": " Simply."
+  },
+  {
+    "start": 1482,
+    "end": 1483,
+    "text": " Is it feces?"
+  },
+  {
+    "start": 1483,
+    "end": 1486,
+    "text": " Well, if it's dark and syrupy and coming out of its anus."
+  },
+  {
+    "start": 1486,
+    "end": 1490,
+    "text": " I always say if it looks like feces, tastes like feces, it's probably feces."
+  },
+  {
+    "start": 1490,
+    "end": 1492,
+    "text": " I prefer to call mine syrup."
+  },
+  {
+    "start": 1492,
+    "end": 1497,
+    "text": " And, yes, wishes it around in the water, like a painter mixing his paints."
+  },
+  {
+    "start": 1497,
+    "end": 1500,
+    "text": " That's a really weird painter."
+  },
+  {
+    "start": 1500,
+    "end": 1503,
+    "text": " Like Paci M&E mixing their paints."
+  },
+  {
+    "start": 1503,
+    "end": 1511,
+    "text": " So, time for fact number three, and that is my fact."
+  },
+  {
+    "start": 1511,
+    "end": 1514,
+    "text": " And my fact is that, after landing on the moon,"
+  },
+  {
+    "start": 1514,
+    "end": 1518,
+    "text": " Buzz Aldrin worked in a car dealership way he failed to sell a single car."
+  },
+  {
+    "start": 1518,
+    "end": 1520,
+    "text": " I'm not surprised if he's selling them on the moon."
+  },
+  {
+    "start": 1520,
+    "end": 1521,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 1521,
+    "end": 1524,
+    "text": " To be fair, they would have had a massive mileage on the clock as well."
+  },
+  {
+    "start": 1524,
+    "end": 1527,
+    "text": " And the only so one type, which is a rover."
+  },
+  {
+    "start": 1527,
+    "end": 1531,
+    "text": " He came home first, right?"
+  },
+  {
+    "start": 1531,
+    "end": 1534,
+    "text": " Sorry, after returning from the moon,"
+  },
+  {
+    "start": 1534,
+    "end": 1537,
+    "text": " Buzz Aldrin worked in a car dealership and failed to sell a car."
+  },
+  {
+    "start": 1537,
+    "end": 1539,
+    "text": " Yeah, so this is, so it was in Beverly Hills."
+  },
+  {
+    "start": 1539,
+    "end": 1540,
+    "text": " And he worked there for six months."
+  },
+  {
+    "start": 1540,
+    "end": 1541,
+    "text": " I think it was a Cadillac dealership."
+  },
+  {
+    "start": 1541,
+    "end": 1544,
+    "text": " But I was reading this is a really interesting article about how"
+  },
+  {
+    "start": 1544,
+    "end": 1547,
+    "text": " after Buzz Aldrin and Armstrong landed on the moon,"
+  },
+  {
+    "start": 1547,
+    "end": 1550,
+    "text": " a year later, almost no Americans knew who they were."
+  },
+  {
+    "start": 1550,
+    "end": 1552,
+    "text": " They completely slipped out of the public eye."
+  },
+  {
+    "start": 1552,
+    "end": 1555,
+    "text": " The nationwide survey is done, New York Times ran a lot of them."
+  },
+  {
+    "start": 1555,
+    "end": 1558,
+    "text": " And yeah, one in 12 or one in 10 people would be able to name Buzz Aldrin on Neil Armstrong."
+  },
+  {
+    "start": 1558,
+    "end": 1559,
+    "text": " That's unbelievable."
+  },
+  {
+    "start": 1559,
+    "end": 1560,
+    "text": " It's weird, isn't it?"
+  },
+  {
+    "start": 1560,
+    "end": 1561,
+    "text": " Yeah."
+  },
+  {
+    "start": 1561,
+    "end": 1562,
+    "text": " That's so weird."
+  },
+  {
+    "start": 1562,
+    "end": 1563,
+    "text": " Yeah. And they think it's at the time."
+  },
+  {
+    "start": 1563,
+    "end": 1567,
+    "text": " So one series at the time, because it was like a race between the Soviets and America"
+  },
+  {
+    "start": 1567,
+    "end": 1568,
+    "text": " to get to the moon."
+  },
+  {
+    "start": 1568,
+    "end": 1570,
+    "text": " Once they'd got there, it was like, well, we've done that now."
+  },
+  {
+    "start": 1570,
+    "end": 1571,
+    "text": " We've won that race."
+  },
+  {
+    "start": 1571,
+    "end": 1573,
+    "text": " Tickbox moving on."
+  },
+  {
+    "start": 1573,
+    "end": 1578,
+    "text": " And another theory put forward is that neither Buzz Aldrin or Neil Armstrong"
+  },
+  {
+    "start": 1578,
+    "end": 1580,
+    "text": " are particularly good orators."
+  },
+  {
+    "start": 1580,
+    "end": 1584,
+    "text": " And so this guy thinks that because they weren't able to like maximize their experiences"
+  },
+  {
+    "start": 1584,
+    "end": 1586,
+    "text": " and they just kept on saying, yeah, it's really great."
+  },
+  {
+    "start": 1586,
+    "end": 1589,
+    "text": " How could Norritor do you need to be to say, I've been to the moon?"
+  },
+  {
+    "start": 1589,
+    "end": 1592,
+    "text": " But it's not an arresting opening line."
+  },
+  {
+    "start": 1592,
+    "end": 1593,
+    "text": " Yeah."
+  },
+  {
+    "start": 1593,
+    "end": 1595,
+    "text": " Friends, Romans, countrymen, I've been to the moon."
+  },
+  {
+    "start": 1595,
+    "end": 1597,
+    "text": " So he didn't sell a single car."
+  },
+  {
+    "start": 1597,
+    "end": 1601,
+    "text": " Surely, like, even crap salesmen sell like one car a year."
+  },
+  {
+    "start": 1601,
+    "end": 1603,
+    "text": " He must have been really bad."
+  },
+  {
+    "start": 1603,
+    "end": 1604,
+    "text": " Yeah, you're right."
+  },
+  {
+    "start": 1604,
+    "end": 1605,
+    "text": " People presumably came in wanting to buy a car."
+  },
+  {
+    "start": 1605,
+    "end": 1606,
+    "text": " Yeah."
+  },
+  {
+    "start": 1606,
+    "end": 1607,
+    "text": " They go to a Cadillac dealership."
+  },
+  {
+    "start": 1607,
+    "end": 1608,
+    "text": " That's what you're in the market for."
+  },
+  {
+    "start": 1608,
+    "end": 1609,
+    "text": " Yeah."
+  },
+  {
+    "start": 1609,
+    "end": 1611,
+    "text": " Well, they just talked about the moon the whole time."
+  },
+  {
+    "start": 1611,
+    "end": 1612,
+    "text": " Yeah."
+  },
+  {
+    "start": 1612,
+    "end": 1614,
+    "text": " And then they left forgotten what they got him for."
+  },
+  {
+    "start": 1614,
+    "end": 1615,
+    "text": " Damn it."
+  },
+  {
+    "start": 1615,
+    "end": 1617,
+    "text": " What did I mean to get from that Cadillac dealership?"
+  },
+  {
+    "start": 1617,
+    "end": 1619,
+    "text": " I think it was an anecdote about the moon."
+  },
+  {
+    "start": 1619,
+    "end": 1620,
+    "text": " Yeah."
+  },
+  {
+    "start": 1620,
+    "end": 1621,
+    "text": " Yes, it was."
+  },
+  {
+    "start": 1621,
+    "end": 1624,
+    "text": " But no, I think he was quite depressed after he landed on the moon for a while."
+  },
+  {
+    "start": 1624,
+    "end": 1628,
+    "text": " Wasn't him and Neil Armstrong were both very disappointed for a while at the fact that they'd been forgotten."
+  },
+  {
+    "start": 1628,
+    "end": 1636,
+    "text": " If you Google Buzz Aldrin car, the first thing that comes up is Buzz Aldrin car board cut out."
+  },
+  {
+    "start": 1636,
+    "end": 1638,
+    "text": " And there are some great reviews of it online."
+  },
+  {
+    "start": 1638,
+    "end": 1641,
+    "text": " I want to tell you about a couple of them."
+  },
+  {
+    "start": 1641,
+    "end": 1642,
+    "text": " Great product."
+  },
+  {
+    "start": 1642,
+    "end": 1647,
+    "text": " I accidentally scared the wife as I set it up in the living room and was adjusting the support when she walked in."
+  },
+  {
+    "start": 1647,
+    "end": 1650,
+    "text": " She actually thought it was a real person for a few seconds."
+  },
+  {
+    "start": 1650,
+    "end": 1652,
+    "text": " Is this why people didn't think he was good orator?"
+  },
+  {
+    "start": 1652,
+    "end": 1653,
+    "text": " Yeah."
+  },
+  {
+    "start": 1653,
+    "end": 1655,
+    "text": " Fusing them."
+  },
+  {
+    "start": 1655,
+    "end": 1656,
+    "text": " Yeah."
+  },
+  {
+    "start": 1656,
+    "end": 1657,
+    "text": " Neil Armstrong."
+  },
+  {
+    "start": 1657,
+    "end": 1663,
+    "text": " Did you know that his hairdresser sold a lock of his hair and Neil Armstrong sued him for $3,000?"
+  },
+  {
+    "start": 1663,
+    "end": 1664,
+    "text": " Really?"
+  },
+  {
+    "start": 1664,
+    "end": 1667,
+    "text": " He went back to his barber and found out his barber had just been selling locks."
+  },
+  {
+    "start": 1667,
+    "end": 1668,
+    "text": " I would definitely sue him."
+  },
+  {
+    "start": 1668,
+    "end": 1670,
+    "text": " Yeah, I think I was a little bit weird."
+  },
+  {
+    "start": 1670,
+    "end": 1675,
+    "text": " I think Harry Styles from One Direction vomited out the side of a car."
+  },
+  {
+    "start": 1675,
+    "end": 1677,
+    "text": " And the vomit went on eBay for thousands of pounds."
+  },
+  {
+    "start": 1677,
+    "end": 1678,
+    "text": " Oh my god."
+  },
+  {
+    "start": 1678,
+    "end": 1680,
+    "text": " You're not allowed to sell biological stuff on eBay."
+  },
+  {
+    "start": 1680,
+    "end": 1682,
+    "text": " Cost me a fortune and delivery."
+  },
+  {
+    "start": 1682,
+    "end": 1685,
+    "text": " But we've long since venerated."
+  },
+  {
+    "start": 1685,
+    "end": 1688,
+    "text": " You know, the saints bones, you know, the finger of some people or whatever."
+  },
+  {
+    "start": 1688,
+    "end": 1690,
+    "text": " People have always wanted little bits of body from it."
+  },
+  {
+    "start": 1690,
+    "end": 1693,
+    "text": " So it's a holy vomit."
+  },
+  {
+    "start": 1693,
+    "end": 1694,
+    "text": " It's a secular relic."
+  },
+  {
+    "start": 1694,
+    "end": 1696,
+    "text": " It really is true and gum has gone on eBay in the past."
+  },
+  {
+    "start": 1696,
+    "end": 1698,
+    "text": " And Elvis's cup of water."
+  },
+  {
+    "start": 1698,
+    "end": 1699,
+    "text": " Yeah."
+  },
+  {
+    "start": 1699,
+    "end": 1701,
+    "text": " The guy sold the water but not the cup."
+  },
+  {
+    "start": 1701,
+    "end": 1702,
+    "text": " Genius."
+  },
+  {
+    "start": 1702,
+    "end": 1704,
+    "text": " So he was keeping all these things."
+  },
+  {
+    "start": 1704,
+    "end": 1705,
+    "text": " He was from ancient Rome."
+  },
+  {
+    "start": 1705,
+    "end": 1708,
+    "text": " He said there's not many of these in the house."
+  },
+  {
+    "start": 1708,
+    "end": 1711,
+    "text": " Who owns the hair when you go to the hairdresser and then they cast it off."
+  },
+  {
+    "start": 1711,
+    "end": 1713,
+    "text": " And then you leave the shop."
+  },
+  {
+    "start": 1713,
+    "end": 1714,
+    "text": " Where does it..."
+  },
+  {
+    "start": 1714,
+    "end": 1719,
+    "text": " I think if someone cuts your hair without your permission that is technically assault, I believe."
+  },
+  {
+    "start": 1719,
+    "end": 1720,
+    "text": " Really?"
+  },
+  {
+    "start": 1720,
+    "end": 1721,
+    "text": " Yeah, I think so."
+  },
+  {
+    "start": 1721,
+    "end": 1722,
+    "text": " I think so."
+  },
+  {
+    "start": 1722,
+    "end": 1724,
+    "text": " But if it's your hairdresser, then that's not so."
+  },
+  {
+    "start": 1724,
+    "end": 1730,
+    "text": " Well, if your hairdresser is cutting your hair without your permission, then you need to have a good odd look at your life."
+  },
+  {
+    "start": 1730,
+    "end": 1731,
+    "text": " How is it at the back of your life?"
+  },
+  {
+    "start": 1731,
+    "end": 1734,
+    "text": " I did not give you permission from that."
+  },
+  {
+    "start": 1734,
+    "end": 1737,
+    "text": " They used to sell hair from hairdressers to wig makers."
+  },
+  {
+    "start": 1737,
+    "end": 1738,
+    "text": " I still do."
+  },
+  {
+    "start": 1738,
+    "end": 1739,
+    "text": " You can sell your own hair."
+  },
+  {
+    "start": 1739,
+    "end": 1741,
+    "text": " There are nuns who sell their hair."
+  },
+  {
+    "start": 1741,
+    "end": 1743,
+    "text": " So that implies that it belongs to the hairdresser?"
+  },
+  {
+    "start": 1743,
+    "end": 1744,
+    "text": " Yeah."
+  },
+  {
+    "start": 1744,
+    "end": 1749,
+    "text": " I mean, in ancient Rome, blond slaves were very fashionable. You get German and British blond slaves."
+  },
+  {
+    "start": 1749,
+    "end": 1756,
+    "text": " They would be bought almost exclusively to have their hair, which you would then cut off and turn into a wig for fashionable Roman ladies who were maybe round head."
+  },
+  {
+    "start": 1756,
+    "end": 1757,
+    "text": " Wow."
+  },
+  {
+    "start": 1757,
+    "end": 1758,
+    "text": " That's so strange."
+  },
+  {
+    "start": 1758,
+    "end": 1759,
+    "text": " Yeah."
+  },
+  {
+    "start": 1759,
+    "end": 1762,
+    "text": " Okay, so some people who have gone on to do different things."
+  },
+  {
+    "start": 1762,
+    "end": 1763,
+    "text": " Yeah."
+  },
+  {
+    "start": 1763,
+    "end": 1765,
+    "text": " You know the TV show Gladiators."
+  },
+  {
+    "start": 1765,
+    "end": 1766,
+    "text": " Yes."
+  },
+  {
+    "start": 1766,
+    "end": 1767,
+    "text": " So I went on to..."
+  },
+  {
+    "start": 1767,
+    "end": 1769,
+    "text": " I found a website of where are they now?"
+  },
+  {
+    "start": 1769,
+    "end": 1770,
+    "text": " Of the Gladiators."
+  },
+  {
+    "start": 1770,
+    "end": 1772,
+    "text": " And there's a few people."
+  },
+  {
+    "start": 1772,
+    "end": 1776,
+    "text": " One of them was Shadow and he had a bit of a bad time afterwards."
+  },
+  {
+    "start": 1776,
+    "end": 1783,
+    "text": " His lowest point was he was arrested for attempting to use an elderly person's bus pass despite being 43 years old."
+  },
+  {
+    "start": 1783,
+    "end": 1785,
+    "text": " That was his lowest moment."
+  },
+  {
+    "start": 1785,
+    "end": 1790,
+    "text": " Yeah, he sadly had like a drug addiction, but he's got through it now and he's a rehabilitation counselor."
+  },
+  {
+    "start": 1790,
+    "end": 1791,
+    "text": " Good."
+  },
+  {
+    "start": 1791,
+    "end": 1797,
+    "text": " There was three members of the Gladiators team in the 2000 movie Gladiator."
+  },
+  {
+    "start": 1797,
+    "end": 1798,
+    "text": " Really?"
+  },
+  {
+    "start": 1798,
+    "end": 1799,
+    "text": " Really?"
+  },
+  {
+    "start": 1799,
+    "end": 1802,
+    "text": " But isn't that just amazing?"
+  },
+  {
+    "start": 1802,
+    "end": 1805,
+    "text": " Did they misunderstand the job up?"
+  },
+  {
+    "start": 1805,
+    "end": 1808,
+    "text": " They're getting the gang back together."
+  },
+  {
+    "start": 1808,
+    "end": 1810,
+    "text": " Turning out with a huge pewdial stick."
+  },
+  {
+    "start": 1810,
+    "end": 1813,
+    "text": " So that pillows would either end."
+  },
+  {
+    "start": 1813,
+    "end": 1814,
+    "text": " That's amazing."
+  },
+  {
+    "start": 1814,
+    "end": 1815,
+    "text": " Yeah."
+  },
+  {
+    "start": 1815,
+    "end": 1816,
+    "text": " Guys, stop demanding."
+  },
+  {
+    "start": 1816,
+    "end": 1817,
+    "text": " I'd travel later."
+  },
+  {
+    "start": 1817,
+    "end": 1820,
+    "text": " There's nothing existing in ancient Rome."
+  },
+  {
+    "start": 1820,
+    "end": 1821,
+    "text": " Yeah."
+  },
+  {
+    "start": 1821,
+    "end": 1822,
+    "text": " Rockets, Rio and Rebel."
+  },
+  {
+    "start": 1822,
+    "end": 1823,
+    "text": " I don't even remember that thing."
+  },
+  {
+    "start": 1823,
+    "end": 1824,
+    "text": " Rockets."
+  },
+  {
+    "start": 1824,
+    "end": 1825,
+    "text": " I remember Rebel."
+  },
+  {
+    "start": 1825,
+    "end": 1826,
+    "text": " I don't remember Rocket."
+  },
+  {
+    "start": 1826,
+    "end": 1827,
+    "text": " It was Rocket."
+  },
+  {
+    "start": 1827,
+    "end": 1828,
+    "text": " Isn't he a salad?"
+  },
+  {
+    "start": 1828,
+    "end": 1828,
+    "text": " What?"
+  },
+  {
+    "start": 1828,
+    "end": 1833,
+    "text": " It's some stuff about salesmen because that's what Buzz became."
+  },
+  {
+    "start": 1833,
+    "end": 1836,
+    "text": " There was a survey done in America."
+  },
+  {
+    "start": 1836,
+    "end": 1843,
+    "text": " They took a load of unpleasant things and they asked people whether you preferred this unpleasant thing or Congress."
+  },
+  {
+    "start": 1843,
+    "end": 1846,
+    "text": " And you mean American Congress, not sexual Congress?"
+  },
+  {
+    "start": 1846,
+    "end": 1847,
+    "text": " Yes."
+  },
+  {
+    "start": 1847,
+    "end": 1848,
+    "text": " Okay, cool."
+  },
+  {
+    "start": 1848,
+    "end": 1850,
+    "text": " I couldn't do the same thing in some cases, I suppose."
+  },
+  {
+    "start": 1850,
+    "end": 1851,
+    "text": " No, I suppose so."
+  },
+  {
+    "start": 1851,
+    "end": 1853,
+    "text": " But then you would probably be fired for impropriety at work."
+  },
+  {
+    "start": 1853,
+    "end": 1854,
+    "text": " Yeah, quite."
+  },
+  {
+    "start": 1854,
+    "end": 1855,
+    "text": " And if you're Bill Clinton."
+  },
+  {
+    "start": 1855,
+    "end": 1862,
+    "text": " So they were given use car salesmen or people in Congress."
+  },
+  {
+    "start": 1862,
+    "end": 1868,
+    "text": " And 32% of people preferred Congress and 57% of people preferred use car salesmen."
+  },
+  {
+    "start": 1868,
+    "end": 1869,
+    "text": " Wow."
+  },
+  {
+    "start": 1869,
+    "end": 1873,
+    "text": " But that's a bit of a strange thing to ask because it's do you prefer them in the abstracts?"
+  },
+  {
+    "start": 1873,
+    "end": 1874,
+    "text": " Yeah, it is."
+  },
+  {
+    "start": 1874,
+    "end": 1876,
+    "text": " Would you rather, you know, have one to supper?"
+  },
+  {
+    "start": 1876,
+    "end": 1877,
+    "text": " Exactly."
+  },
+  {
+    "start": 1877,
+    "end": 1879,
+    "text": " I'll give you a list of some of the other things that they gave."
+  },
+  {
+    "start": 1879,
+    "end": 1880,
+    "text": " Will you prefer it?"
+  },
+  {
+    "start": 1880,
+    "end": 1882,
+    "text": " People preferred all of these things to Congress."
+  },
+  {
+    "start": 1882,
+    "end": 1883,
+    "text": " Okay."
+  },
+  {
+    "start": 1883,
+    "end": 1888,
+    "text": " Root canal surgery, head lice, the rock band nickel back."
+  },
+  {
+    "start": 1888,
+    "end": 1889,
+    "text": " Wow."
+  },
+  {
+    "start": 1889,
+    "end": 1890,
+    "text": " That was quite close."
+  },
+  {
+    "start": 1890,
+    "end": 1891,
+    "text": " That is extreme."
+  },
+  {
+    "start": 1891,
+    "end": 1899,
+    "text": " That is a real colonoscopies, traffic jams, cockroaches, Donald Trump, France, Genghis Khan,"
+  },
+  {
+    "start": 1899,
+    "end": 1900,
+    "text": " and Brussels sprouts."
+  },
+  {
+    "start": 1900,
+    "end": 1901,
+    "text": " Genghis Khan is my favourite."
+  },
+  {
+    "start": 1901,
+    "end": 1902,
+    "text": " That's amazing."
+  },
+  {
+    "start": 1902,
+    "end": 1904,
+    "text": " What do you prefer?"
+  },
+  {
+    "start": 1904,
+    "end": 1907,
+    "text": " Congress or a 13th century warlord from Hong Kong?"
+  },
+  {
+    "start": 1907,
+    "end": 1908,
+    "text": " Yeah."
+  },
+  {
+    "start": 1908,
+    "end": 1914,
+    "text": " People are really hating Genghis Khan these days, really."
+  },
+  {
+    "start": 1914,
+    "end": 1915,
+    "text": " Exactly."
+  },
+  {
+    "start": 1915,
+    "end": 1916,
+    "text": " You know what?"
+  },
+  {
+    "start": 1916,
+    "end": 1920,
+    "text": " I think we should let it lie now with Genghis Khan."
+  },
+  {
+    "start": 1920,
+    "end": 1921,
+    "text": " Do they do any combos?"
+  },
+  {
+    "start": 1921,
+    "end": 1926,
+    "text": " So do they say would you rather have Congress or a colonoscopy from Genghis Khan?"
+  },
+  {
+    "start": 1926,
+    "end": 1927,
+    "text": " Use car salesmen."
+  },
+  {
+    "start": 1927,
+    "end": 1929,
+    "text": " Yeah, I don't know anything about them."
+  },
+  {
+    "start": 1929,
+    "end": 1931,
+    "text": " No, except the generally unpopular."
+  },
+  {
+    "start": 1931,
+    "end": 1932,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1932,
+    "end": 1933,
+    "text": " That's just the trope, isn't it?"
+  },
+  {
+    "start": 1933,
+    "end": 1934,
+    "text": " Because Matilda's dad is one, isn't he?"
+  },
+  {
+    "start": 1934,
+    "end": 1935,
+    "text": " Yeah."
+  },
+  {
+    "start": 1935,
+    "end": 1936,
+    "text": " Yeah."
+  },
+  {
+    "start": 1936,
+    "end": 1937,
+    "text": " It was a use car salesman."
+  },
+  {
+    "start": 1937,
+    "end": 1938,
+    "text": " Or they knew cars."
+  },
+  {
+    "start": 1938,
+    "end": 1939,
+    "text": " It was a Buzz Aldrin."
+  },
+  {
+    "start": 1939,
+    "end": 1940,
+    "text": " I said Buzz Lightyear."
+  },
+  {
+    "start": 1940,
+    "end": 1941,
+    "text": " You did."
+  },
+  {
+    "start": 1941,
+    "end": 1942,
+    "text": " That's a fantastically weird."
+  },
+  {
+    "start": 1942,
+    "end": 1944,
+    "text": " I actually kept on moving Buzz Lightyear."
+  },
+  {
+    "start": 1944,
+    "end": 1945,
+    "text": " Yeah."
+  },
+  {
+    "start": 1945,
+    "end": 1946,
+    "text": " Yeah."
+  },
+  {
+    "start": 1946,
+    "end": 1948,
+    "text": " And he was a bit annoyed about that."
+  },
+  {
+    "start": 1948,
+    "end": 1949,
+    "text": " Was he?"
+  },
+  {
+    "start": 1949,
+    "end": 1950,
+    "text": " Yeah."
+  },
+  {
+    "start": 1950,
+    "end": 1951,
+    "text": " Buzz Lightyear was furious."
+  },
+  {
+    "start": 1951,
+    "end": 1952,
+    "text": " Yeah."
+  },
+  {
+    "start": 1952,
+    "end": 1953,
+    "text": " Not being associated with Buzz Aldrin."
+  },
+  {
+    "start": 1953,
+    "end": 1954,
+    "text": " Yeah."
+  },
+  {
+    "start": 1954,
+    "end": 1957,
+    "text": " Buzz Lightyear has been to infinity and beyond."
+  },
+  {
+    "start": 1957,
+    "end": 1960,
+    "text": " And Buzz Aldrin's just gone as far as the moon."
+  },
+  {
+    "start": 1960,
+    "end": 1961,
+    "text": " I can totally understand."
+  },
+  {
+    "start": 1961,
+    "end": 1971,
+    "text": " All right, moving on to our final facts, which is from you, James."
+  },
+  {
+    "start": 1971,
+    "end": 1972,
+    "text": " Okay."
+  },
+  {
+    "start": 1972,
+    "end": 1974,
+    "text": " My fact this week is also from Greg's book."
+  },
+  {
+    "start": 1974,
+    "end": 1975,
+    "text": " Right."
+  },
+  {
+    "start": 1975,
+    "end": 1976,
+    "text": " Excellent book."
+  },
+  {
+    "start": 1976,
+    "end": 1980,
+    "text": " And it is about the Catholic sect called the Cathars."
+  },
+  {
+    "start": 1980,
+    "end": 1986,
+    "text": " And the Cathars get their name from the fact that they are thought to be pure, like Catharsis."
+  },
+  {
+    "start": 1986,
+    "end": 1993,
+    "text": " But during the Middle Ages, some people thought that they got their name Cathars from the fact that they like to kiss a cat's ass."
+  },
+  {
+    "start": 1993,
+    "end": 1998,
+    "text": " If they did like to do that is understandable that people assumed that was where the name came from."
+  },
+  {
+    "start": 1998,
+    "end": 2000,
+    "text": " I don't think they did like to do it."
+  },
+  {
+    "start": 2000,
+    "end": 2002,
+    "text": " So just making that clear."
+  },
+  {
+    "start": 2002,
+    "end": 2004,
+    "text": " It was said that they did, but of course."
+  },
+  {
+    "start": 2004,
+    "end": 2007,
+    "text": " Was that just rumour mongering by a rival sex?"
+  },
+  {
+    "start": 2007,
+    "end": 2013,
+    "text": " It was rumour mongering amongst the whole of the Catholic church, really, because everyone hated them."
+  },
+  {
+    "start": 2013,
+    "end": 2014,
+    "text": " Why did everyone hate them?"
+  },
+  {
+    "start": 2014,
+    "end": 2018,
+    "text": " They were very popular in the South of France at the time."
+  },
+  {
+    "start": 2018,
+    "end": 2022,
+    "text": " But they had different views to the rest of the Catholic church."
+  },
+  {
+    "start": 2022,
+    "end": 2029,
+    "text": " One of the main ones being that there were two gods, one good one and one evil one, like a satan and a normal god."
+  },
+  {
+    "start": 2029,
+    "end": 2030,
+    "text": " Right."
+  },
+  {
+    "start": 2030,
+    "end": 2034,
+    "text": " And that was something that was completely thought to be a terrible thing by the Vatican."
+  },
+  {
+    "start": 2034,
+    "end": 2037,
+    "text": " And so they tried to put them down in any way they could."
+  },
+  {
+    "start": 2037,
+    "end": 2041,
+    "text": " And it wasn't just by killing them, it was also by saying that they like to kiss Catharsis."
+  },
+  {
+    "start": 2041,
+    "end": 2045,
+    "text": " Would you rather be killed or would you rather I told you you like to kiss Catharsis?"
+  },
+  {
+    "start": 2045,
+    "end": 2050,
+    "text": " Which would prefer Congress or Congress with a Catharsis?"
+  },
+  {
+    "start": 2050,
+    "end": 2051,
+    "text": " They were."
+  },
+  {
+    "start": 2051,
+    "end": 2054,
+    "text": " So it was also spread, I think, that they were sodomites, wasn't it?"
+  },
+  {
+    "start": 2054,
+    "end": 2055,
+    "text": " Which was really unfair."
+  },
+  {
+    "start": 2055,
+    "end": 2059,
+    "text": " That was like the most common accusation that was leveled at them."
+  },
+  {
+    "start": 2059,
+    "end": 2065,
+    "text": " Because they didn't like, I think sex from the front was how I read and scribed somewhere."
+  },
+  {
+    "start": 2065,
+    "end": 2067,
+    "text": " Because they thought all sex to procreate was sinful."
+  },
+  {
+    "start": 2067,
+    "end": 2072,
+    "text": " Because I think they thought that bringing anything into a world that was so full of sin was not a good thing."
+  },
+  {
+    "start": 2072,
+    "end": 2076,
+    "text": " So people just went, well, if you're not having sex from the front, you must be doing it from the back."
+  },
+  {
+    "start": 2076,
+    "end": 2077,
+    "text": " And we're against that."
+  },
+  {
+    "start": 2077,
+    "end": 2078,
+    "text": " So."
+  },
+  {
+    "start": 2078,
+    "end": 2082,
+    "text": " In fact, I was wondering, because I came across this researching your fact where the word \"boga\" comes from."
+  },
+  {
+    "start": 2082,
+    "end": 2083,
+    "text": " To Bulgaria."
+  },
+  {
+    "start": 2083,
+    "end": 2087,
+    "text": " Yes, I think it was either Catharsis or there was another sex that was similar in Bulgaria."
+  },
+  {
+    "start": 2087,
+    "end": 2088,
+    "text": " The Boga Mills was it?"
+  },
+  {
+    "start": 2088,
+    "end": 2089,
+    "text": " Yeah."
+  },
+  {
+    "start": 2089,
+    "end": 2090,
+    "text": " And they were the same."
+  },
+  {
+    "start": 2090,
+    "end": 2093,
+    "text": " They were like, we're so pure, we don't believe in having sex to procreate."
+  },
+  {
+    "start": 2093,
+    "end": 2096,
+    "text": " And so everyone went, well, that must mean that you're having anal sex."
+  },
+  {
+    "start": 2096,
+    "end": 2097,
+    "text": " And that's where we get Boga."
+  },
+  {
+    "start": 2097,
+    "end": 2098,
+    "text": " Wow."
+  },
+  {
+    "start": 2098,
+    "end": 2099,
+    "text": " Yeah."
+  },
+  {
+    "start": 2099,
+    "end": 2100,
+    "text": " I did not know this."
+  },
+  {
+    "start": 2100,
+    "end": 2103,
+    "text": " It's an interesting time as well."
+  },
+  {
+    "start": 2103,
+    "end": 2106,
+    "text": " Because they're sort of around the 1200s, 1300s and so forth."
+  },
+  {
+    "start": 2106,
+    "end": 2110,
+    "text": " And so they are kind of, they're this hot new sex that's gaining momentum."
+  },
+  {
+    "start": 2110,
+    "end": 2111,
+    "text": " Hot sex."
+  },
+  {
+    "start": 2111,
+    "end": 2112,
+    "text": " Hot sex."
+  },
+  {
+    "start": 2112,
+    "end": 2115,
+    "text": " They seem to be quite an ancient sex as well."
+  },
+  {
+    "start": 2115,
+    "end": 2116,
+    "text": " They suddenly they gain momentum."
+  },
+  {
+    "start": 2116,
+    "end": 2117,
+    "text": " Yeah."
+  },
+  {
+    "start": 2117,
+    "end": 2120,
+    "text": " And I think they end up being a bit of a threat to the Catholic."
+  },
+  {
+    "start": 2120,
+    "end": 2121,
+    "text": " Yeah."
+  },
+  {
+    "start": 2121,
+    "end": 2125,
+    "text": " And so the Catholic church use both violence, horribly murdering all of them."
+  },
+  {
+    "start": 2125,
+    "end": 2126,
+    "text": " And then also propaganda."
+  },
+  {
+    "start": 2126,
+    "end": 2127,
+    "text": " Got the best way."
+  },
+  {
+    "start": 2127,
+    "end": 2132,
+    "text": " Yeah, the best way to, you know, destroy someone's credibility is to basically just..."
+  },
+  {
+    "start": 2132,
+    "end": 2135,
+    "text": " And honestly, really did just read an advert that said hot new sex."
+  },
+  {
+    "start": 2135,
+    "end": 2139,
+    "text": " And then it was next to an advertising hot new sex."
+  },
+  {
+    "start": 2139,
+    "end": 2141,
+    "text": " And they got confused between the two."
+  },
+  {
+    "start": 2141,
+    "end": 2143,
+    "text": " And one was an anal sex ad."
+  },
+  {
+    "start": 2143,
+    "end": 2144,
+    "text": " One was a..."
+  },
+  {
+    "start": 2144,
+    "end": 2146,
+    "text": " What kind of magazines do you read?"
+  },
+  {
+    "start": 2146,
+    "end": 2150,
+    "text": " I read and I..."
+  },
+  {
+    "start": 2150,
+    "end": 2152,
+    "text": " So I don't know if this is true of the Cathars."
+  },
+  {
+    "start": 2152,
+    "end": 2154,
+    "text": " There was one blog that said it was true of the Cathars."
+  },
+  {
+    "start": 2154,
+    "end": 2160,
+    "text": " And it was definitely true of the Maniqueians, which were quite similar, also dualistic sex."
+  },
+  {
+    "start": 2160,
+    "end": 2165,
+    "text": " They believe that there were good heavenly particles that were trapped in plants and trees."
+  },
+  {
+    "start": 2165,
+    "end": 2170,
+    "text": " And they thought that the way we could get the good heavenly particles to go back up to heaven,"
+  },
+  {
+    "start": 2170,
+    "end": 2173,
+    "text": " it was our human juicy to eat plants and trees."
+  },
+  {
+    "start": 2173,
+    "end": 2179,
+    "text": " And then expel their heavenly air by farting and burping."
+  },
+  {
+    "start": 2179,
+    "end": 2184,
+    "text": " And by every time you farted or you burped, then that was sending the good particles back up to heaven where they belonged."
+  },
+  {
+    "start": 2184,
+    "end": 2185,
+    "text": " So you were doing your godly duty."
+  },
+  {
+    "start": 2185,
+    "end": 2188,
+    "text": " Would you fart in the direction of heaven?"
+  },
+  {
+    "start": 2188,
+    "end": 2190,
+    "text": " Maybe you had to, yes, stick your bum in the air."
+  },
+  {
+    "start": 2190,
+    "end": 2193,
+    "text": " Maybe that's where the other rumours came around."
+  },
+  {
+    "start": 2193,
+    "end": 2196,
+    "text": " Our farter who art in heaven."
+  },
+  {
+    "start": 2196,
+    "end": 2198,
+    "text": " It would be that name."
+  },
+  {
+    "start": 2198,
+    "end": 2199,
+    "text": " Wow."
+  },
+  {
+    "start": 2199,
+    "end": 2204,
+    "text": " It's like an interesting bunch. Yeah. They had quite good gender roles, didn't they?"
+  },
+  {
+    "start": 2204,
+    "end": 2208,
+    "text": " They thought that you would be reincarnated all the time."
+  },
+  {
+    "start": 2208,
+    "end": 2212,
+    "text": " But they thought the men could be reincarnated into women and women could be reincarnated into men."
+  },
+  {
+    "start": 2212,
+    "end": 2215,
+    "text": " So they didn't really see any difference between the two sexes."
+  },
+  {
+    "start": 2215,
+    "end": 2218,
+    "text": " Yeah, because this is a period in history where women get a bum deal."
+  },
+  {
+    "start": 2218,
+    "end": 2221,
+    "text": " I think it was a cat that were getting a bum deal."
+  },
+  {
+    "start": 2221,
+    "end": 2222,
+    "text": " Exactly."
+  },
+  {
+    "start": 2222,
+    "end": 2225,
+    "text": " It's Eve who is responsible for the fall."
+  },
+  {
+    "start": 2225,
+    "end": 2230,
+    "text": " Adam was just like a slightly clumsy human who will, you know, a bit taken in, but Eve is the one who gets punished."
+  },
+  {
+    "start": 2230,
+    "end": 2234,
+    "text": " So she has a menstrual cycle given to her and pain and during childbirth."
+  },
+  {
+    "start": 2234,
+    "end": 2235,
+    "text": " Yeah."
+  },
+  {
+    "start": 2235,
+    "end": 2237,
+    "text": " It's a kind of a slightly misogynistic theology."
+  },
+  {
+    "start": 2237,
+    "end": 2238,
+    "text": " We took all the flak."
+  },
+  {
+    "start": 2238,
+    "end": 2241,
+    "text": " But the ultimate villain in the Bible story."
+  },
+  {
+    "start": 2241,
+    "end": 2244,
+    "text": " So yeah, Adam was okay. He was kind of evil."
+  },
+  {
+    "start": 2244,
+    "end": 2247,
+    "text": " But obviously the real bad guy in Genesis was a snake."
+  },
+  {
+    "start": 2247,
+    "end": 2251,
+    "text": " According to most people, but there was a question set called the offites."
+  },
+  {
+    "start": 2251,
+    "end": 2261,
+    "text": " They were snake worshipers and they actually believed that the snake was a good guy because God was trying to withhold from Adam and Eve the truth and wisdom about the world."
+  },
+  {
+    "start": 2261,
+    "end": 2265,
+    "text": " And the snake was there and like offered the apple and said look and revealed wisdom and truth to them."
+  },
+  {
+    "start": 2265,
+    "end": 2271,
+    "text": " The equivalent of the Eucharist was they'd arranged bread on a table and then they'd have to charm a snake and lure it to the table."
+  },
+  {
+    "start": 2271,
+    "end": 2274,
+    "text": " And then they'd kiss the snake and then they'd eat the bread."
+  },
+  {
+    "start": 2274,
+    "end": 2276,
+    "text": " So that could be what we were doing in church."
+  },
+  {
+    "start": 2276,
+    "end": 2282,
+    "text": " The first thing the snake doesn't say, well, first of all, it sounds like a euphemism. It doesn't sound like a very good thing to be doing."
+  },
+  {
+    "start": 2282,
+    "end": 2286,
+    "text": " Maybe that's why the snake died out and did make it as well."
+  },
+  {
+    "start": 2286,
+    "end": 2289,
+    "text": " Just take to this lovely eel wearing mascara instead."
+  },
+  {
+    "start": 2289,
+    "end": 2295,
+    "text": " But in America at the moment that there are sort of, I think there are kind of cults or maybe cults, but sort of like extreme Christian sex."
+  },
+  {
+    "start": 2295,
+    "end": 2299,
+    "text": " What they do to snake charming and snake worship I think in the deep self."
+  },
+  {
+    "start": 2299,
+    "end": 2301,
+    "text": " For the same reason."
+  },
+  {
+    "start": 2301,
+    "end": 2303,
+    "text": " I think that's where that comes from."
+  },
+  {
+    "start": 2303,
+    "end": 2306,
+    "text": " There's definitely a similar place in Greece."
+  },
+  {
+    "start": 2306,
+    "end": 2308,
+    "text": " If I can find it."
+  },
+  {
+    "start": 2308,
+    "end": 2310,
+    "text": " Yeah, it's just south of Macedonia."
+  },
+  {
+    "start": 2310,
+    "end": 2312,
+    "text": " Hey!"
+  },
+  {
+    "start": 2312,
+    "end": 2314,
+    "text": " Again, sounds like a euphemism."
+  },
+  {
+    "start": 2314,
+    "end": 2315,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 2315,
+    "end": 2319,
+    "text": " There's this thing they do on a Greek on the Greek island of Kefalonia."
+  },
+  {
+    "start": 2319,
+    "end": 2323,
+    "text": " And it's to celebrate the falling asleep of the Virgin Mary which is the death of the Virgin Mary."
+  },
+  {
+    "start": 2323,
+    "end": 2332,
+    "text": " And there's this village where every year a whole bunch of snakes enter the church and slither up to the Virgin Mary who statues at the front and then slither on to her hand and the snakes."
+  },
+  {
+    "start": 2332,
+    "end": 2334,
+    "text": " And then slither away."
+  },
+  {
+    "start": 2334,
+    "end": 2337,
+    "text": " And apparently it's bad luck if they don't do this every year."
+  },
+  {
+    "start": 2337,
+    "end": 2340,
+    "text": " So before World War II broke out, the snakes didn't do it."
+  },
+  {
+    "start": 2340,
+    "end": 2344,
+    "text": " And I've tried to find like a journalist who's been war."
+  },
+  {
+    "start": 2344,
+    "end": 2347,
+    "text": " Because that is a massive turn up for the history books."
+  },
+  {
+    "start": 2347,
+    "end": 2350,
+    "text": " Everyone thought it was the Poland thing, but no."
+  },
+  {
+    "start": 2350,
+    "end": 2352,
+    "text": " It was snakes and things you learn on this podcast."
+  },
+  {
+    "start": 2352,
+    "end": 2354,
+    "text": " In a Kefalonian church."
+  },
+  {
+    "start": 2354,
+    "end": 2360,
+    "text": " But if anyone's been there and seen the snakes do this thing, every year of slithering into the church, then I want to know about it."
+  },
+  {
+    "start": 2360,
+    "end": 2361,
+    "text": " When is it? I want to go."
+  },
+  {
+    "start": 2361,
+    "end": 2363,
+    "text": " 15th of August. I want to go too."
+  },
+  {
+    "start": 2363,
+    "end": 2364,
+    "text": " It's not time. Cool."
+  },
+  {
+    "start": 2364,
+    "end": 2367,
+    "text": " Another sec that I like is the Carpo Creations."
+  },
+  {
+    "start": 2367,
+    "end": 2373,
+    "text": " A second century religious sec, so I just like because they thought that you'd be reborn constantly."
+  },
+  {
+    "start": 2373,
+    "end": 2378,
+    "text": " They believed that man had to experience everything that was possible to experience on earth."
+  },
+  {
+    "start": 2378,
+    "end": 2383,
+    "text": " So had to pass through every condition of earthly life before we could go up to heaven and didn't have to reincarnate anymore."
+  },
+  {
+    "start": 2383,
+    "end": 2386,
+    "text": " So they decided that they had to just do as much as they could."
+  },
+  {
+    "start": 2386,
+    "end": 2390,
+    "text": " Commit as many sins as they could in their lives, sleep with many people as they could."
+  },
+  {
+    "start": 2390,
+    "end": 2392,
+    "text": " They're always going to be good stuff, actually."
+  },
+  {
+    "start": 2392,
+    "end": 2395,
+    "text": " So they just lived this incredibly hedonistic life, saying the only way I'm going to heaven."
+  },
+  {
+    "start": 2395,
+    "end": 2396,
+    "text": " Sounds good to me that one."
+  },
+  {
+    "start": 2396,
+    "end": 2398,
+    "text": " Is if I tick off, it's fun, isn't it?"
+  },
+  {
+    "start": 2398,
+    "end": 2401,
+    "text": " Well, there are a lot of things that can be done in a human life."
+  },
+  {
+    "start": 2401,
+    "end": 2402,
+    "text": " And not all of them are fun."
+  },
+  {
+    "start": 2402,
+    "end": 2403,
+    "text": " You know, taxes turn, that's quite boring."
+  },
+  {
+    "start": 2403,
+    "end": 2406,
+    "text": " So I think they might just sort of sidestep that over the argument."
+  },
+  {
+    "start": 2406,
+    "end": 2409,
+    "text": " I think it's just drinking insects, actually."
+  },
+  {
+    "start": 2409,
+    "end": 2413,
+    "text": " Well, the other thing is you have a list of everything that there is possible to do."
+  },
+  {
+    "start": 2413,
+    "end": 2417,
+    "text": " And of course you put the sex and the drinking of the talc and the tax return at the end."
+  },
+  {
+    "start": 2417,
+    "end": 2420,
+    "text": " It's the people who lived till 120 years old who are going, oh shit."
+  },
+  {
+    "start": 2420,
+    "end": 2423,
+    "text": " Well, tax returns now."
+  },
+  {
+    "start": 2423,
+    "end": 2426,
+    "text": " That's an amazing bucket list, though, isn't it?"
+  },
+  {
+    "start": 2426,
+    "end": 2428,
+    "text": " Everything they could ever happen ever."
+  },
+  {
+    "start": 2428,
+    "end": 2429,
+    "text": " It's a more bucket list."
+  },
+  {
+    "start": 2429,
+    "end": 2431,
+    "text": " Okay, kissing Katz Anises."
+  },
+  {
+    "start": 2431,
+    "end": 2432,
+    "text": " Yeah."
+  },
+  {
+    "start": 2432,
+    "end": 2437,
+    "text": " One group of things that do kiss Katz Anises are other cats."
+  },
+  {
+    "start": 2437,
+    "end": 2442,
+    "text": " Because when you have a newborn kitten, it must be stimulated to urinate and defecate."
+  },
+  {
+    "start": 2442,
+    "end": 2445,
+    "text": " So it's mother will lick its anise to stimulate that."
+  },
+  {
+    "start": 2445,
+    "end": 2446,
+    "text": " Really?"
+  },
+  {
+    "start": 2446,
+    "end": 2447,
+    "text": " Yeah."
+  },
+  {
+    "start": 2447,
+    "end": 2448,
+    "text": " That's good, isn't it?"
+  },
+  {
+    "start": 2448,
+    "end": 2449,
+    "text": " I've forgotten that."
+  },
+  {
+    "start": 2449,
+    "end": 2450,
+    "text": " That's really..."
+  },
+  {
+    "start": 2450,
+    "end": 2451,
+    "text": " So they would know to urinate."
+  },
+  {
+    "start": 2451,
+    "end": 2455,
+    "text": " If a mother forgot to lick its kitten's anise, the kitten would just explode with way of life."
+  },
+  {
+    "start": 2455,
+    "end": 2457,
+    "text": " Like Tyko Brahi."
+  },
+  {
+    "start": 2457,
+    "end": 2458,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 2458,
+    "end": 2460,
+    "text": " That is a niche referendum."
+  },
+  {
+    "start": 2460,
+    "end": 2461,
+    "text": " That's very good."
+  },
+  {
+    "start": 2461,
+    "end": 2464,
+    "text": " There will be people listed to this who got that reference."
+  },
+  {
+    "start": 2464,
+    "end": 2465,
+    "text": " You can talk about him."
+  },
+  {
+    "start": 2465,
+    "end": 2466,
+    "text": " I'm not talking about him."
+  },
+  {
+    "start": 2466,
+    "end": 2468,
+    "text": " He's a Danish astronomer."
+  },
+  {
+    "start": 2468,
+    "end": 2469,
+    "text": " And with a silver nose."
+  },
+  {
+    "start": 2469,
+    "end": 2472,
+    "text": " With a silver nose, he lost the tip of his nose in a duel."
+  },
+  {
+    "start": 2472,
+    "end": 2474,
+    "text": " And Patelk, die falling downstairs drunk."
+  },
+  {
+    "start": 2474,
+    "end": 2475,
+    "text": " Yeah."
+  },
+  {
+    "start": 2475,
+    "end": 2476,
+    "text": " Which is amazing."
+  },
+  {
+    "start": 2476,
+    "end": 2479,
+    "text": " And then one other thing about kissing the anus of a cat."
+  },
+  {
+    "start": 2479,
+    "end": 2480,
+    "text": " Yeah."
+  },
+  {
+    "start": 2480,
+    "end": 2484,
+    "text": " Kiss the anus of a black cat is the name of a band from Gent."
+  },
+  {
+    "start": 2484,
+    "end": 2485,
+    "text": " From Gent."
+  },
+  {
+    "start": 2485,
+    "end": 2486,
+    "text": " Yeah, they sound good, don't they?"
+  },
+  {
+    "start": 2486,
+    "end": 2487,
+    "text": " Wow."
+  },
+  {
+    "start": 2487,
+    "end": 2490,
+    "text": " But that's a good name for a band kiss the anus of a black cat."
+  },
+  {
+    "start": 2490,
+    "end": 2491,
+    "text": " Yeah."
+  },
+  {
+    "start": 2491,
+    "end": 2492,
+    "text": " Yeah."
+  },
+  {
+    "start": 2492,
+    "end": 2495,
+    "text": " I mean, it's not signing up to your label."
+  },
+  {
+    "start": 2495,
+    "end": 2498,
+    "text": " Maybe do you think that was a nod to the cathars."
+  },
+  {
+    "start": 2498,
+    "end": 2500,
+    "text": " It's a nod to witches, I think."
+  },
+  {
+    "start": 2500,
+    "end": 2502,
+    "text": " Yeah, I was going to say his demonology and heresy at the time."
+  },
+  {
+    "start": 2502,
+    "end": 2505,
+    "text": " It was believed that Satan would take the form of a black cat."
+  },
+  {
+    "start": 2505,
+    "end": 2506,
+    "text": " That's right."
+  },
+  {
+    "start": 2506,
+    "end": 2510,
+    "text": " Which is why it was believed that the kissing of the bum hole that the cathars were alleged to have done"
+  },
+  {
+    "start": 2510,
+    "end": 2512,
+    "text": " was believed to be worshipping a Satan."
+  },
+  {
+    "start": 2512,
+    "end": 2516,
+    "text": " I think you know that you're worshipping the wrong guy when he makes you kiss his anus."
+  },
+  {
+    "start": 2516,
+    "end": 2520,
+    "text": " There's like this other sect at a drinker and having sex all the time."
+  },
+  {
+    "start": 2520,
+    "end": 2522,
+    "text": " Why am I kissing a black cat's anus?"
+  },
+  {
+    "start": 2522,
+    "end": 2525,
+    "text": " I'm kissing your bum."
+  },
+  {
+    "start": 2525,
+    "end": 2528,
+    "text": " Well, that is an obscene fact."
+  },
+  {
+    "start": 2528,
+    "end": 2534,
+    "text": " Speaking of anuses, oh good, I don't have a link because I want to talk about like etymology"
+  },
+  {
+    "start": 2534,
+    "end": 2540,
+    "text": " that we've got wrong and that we should start spelling things like sovereign differently."
+  },
+  {
+    "start": 2540,
+    "end": 2545,
+    "text": " So we've added the G into sovereign wrongly because that comes from the Latin super anus,"
+  },
+  {
+    "start": 2545,
+    "end": 2548,
+    "text": " which means highest one and there's no G anywhere in that."
+  },
+  {
+    "start": 2548,
+    "end": 2553,
+    "text": " And we've just assumed at some point that it's related to reigning and so we've called it sovereign."
+  },
+  {
+    "start": 2553,
+    "end": 2555,
+    "text": " We should be calling the queen the super anus of the country."
+  },
+  {
+    "start": 2555,
+    "end": 2556,
+    "text": " The super anus?"
+  },
+  {
+    "start": 2556,
+    "end": 2557,
+    "text": " Yeah, she's the super anus."
+  },
+  {
+    "start": 2557,
+    "end": 2559,
+    "text": " That we cannot broadcast."
+  },
+  {
+    "start": 2559,
+    "end": 2561,
+    "text": " I am in favour of free speech."
+  },
+  {
+    "start": 2561,
+    "end": 2564,
+    "text": " Can I just say as well that sounds like the best superhero ever."
+  },
+  {
+    "start": 2564,
+    "end": 2567,
+    "text": " That's all this is the anus."
+  },
+  {
+    "start": 2567,
+    "end": 2569,
+    "text": " I don't know what he does."
+  },
+  {
+    "start": 2569,
+    "end": 2572,
+    "text": " He fires lasers out of his eyes."
+  },
+  {
+    "start": 2572,
+    "end": 2582,
+    "text": " Okay, that's all our facts, thanks very much for listening."
+  },
+  {
+    "start": 2582,
+    "end": 2586,
+    "text": " If you want to get in touch with any of us, you can get hold of us on our Twitter feed,"
+  },
+  {
+    "start": 2586,
+    "end": 2588,
+    "text": " some of us, Andy Yorzes."
+  },
+  {
+    "start": 2588,
+    "end": 2589,
+    "text": " @AndrewHondaM"
+  },
+  {
+    "start": 2589,
+    "end": 2590,
+    "text": " James"
+  },
+  {
+    "start": 2590,
+    "end": 2591,
+    "text": " @EggShaped"
+  },
+  {
+    "start": 2591,
+    "end": 2592,
+    "text": " Your Twitter feed"
+  },
+  {
+    "start": 2592,
+    "end": 2594,
+    "text": " @Greg_Gener"
+  },
+  {
+    "start": 2594,
+    "end": 2598,
+    "text": " And you can email me at podcastacui.com"
+  },
+  {
+    "start": 2598,
+    "end": 2601,
+    "text": " And Greg, what was your book again, which is out this week?"
+  },
+  {
+    "start": 2601,
+    "end": 2603,
+    "text": " It's called a million years in a day."
+  },
+  {
+    "start": 2603,
+    "end": 2605,
+    "text": " Curious history of everyday life from stone age to phone age."
+  },
+  {
+    "start": 2605,
+    "end": 2609,
+    "text": " So it's like a history of all the stuff you do in a day and where it comes from."
+  },
+  {
+    "start": 2609,
+    "end": 2610,
+    "text": " And it's great."
+  },
+  {
+    "start": 2610,
+    "end": 2611,
+    "text": " That's all right."
+  },
+  {
+    "start": 2611,
+    "end": 2613,
+    "text": " Thanks very much for listening."
+  },
+  {
+    "start": 2613,
+    "end": 2615,
+    "text": " We'll be back here next week."
+  },
+  {
+    "start": 2615,
+    "end": 2616,
+    "text": " Goodbye."
+  },
+  {
+    "start": 2616,
+    "end": 2631,
+    "text": " ♪ I'm sure we can do you hold on to me, I'm hopeful for you. ♪"
+  },
+  {
+    "start": 2631,
+    "end": 2641,
+    "text": " ♪ I'm sure we can do you hold on to me, I'm hopeful for you. ♪"
+  },
+  {
+    "start": 2641,
+    "end": 2651,
+    "text": " [BLANK_AUDIO]"
+  }
+]

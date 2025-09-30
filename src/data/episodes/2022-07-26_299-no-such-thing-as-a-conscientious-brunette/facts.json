@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating facts, including the dental requirements for joining the US Army during World War I, the use of goats to protect the Ronald Reagan Presidential Library from wildfires, the faked Apollo 12 moon landing footage due to a camera malfunction, and wallabies creating crop circles in Australian poppy fields by getting high and jumping around.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "One of the main reasons people failed to get into the US Army in the First World War was because the military required recruits to have a minimum of six teeth.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:52"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Ronald Reagan Presidential Library has been protected from wildfires by a herd of goats that includes Vincent van Goet, Salina goatmez, and goatzart.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:11"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The Apollo 12 moon landing footage was faked.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:24"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Australian poppy fields have crop circles that are caused by wallabies getting high and jumping around in circles.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:38:11"
+    }
+  ]
+}

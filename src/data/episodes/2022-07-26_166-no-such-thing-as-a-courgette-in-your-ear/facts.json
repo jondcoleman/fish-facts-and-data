@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the peculiar behavior of chicken eggs before hatching, the unusual hobby of a former Georgian prime minister collecting trees, the need for longer needles in the US military due to muscular soldiers, and the fascinating journey of earwax from the eardrum to the outer ear.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Chicken's eggs turn from pointy end first to the blunt end first just before they come out.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:49"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The former prime minister of Georgia has started taking famous trees from around his country, digging them up, and then planting them in his own garden.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:10:24"
+    },
+    {
+      "fact_number": 3,
+      "fact": "US military medics use longer needles than normal because soldiers are often too buff for the regular ones.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:23:55"
+    },
+    {
+      "fact_number": 4,
+      "fact": "If you drew a dot in indelible ink on your eardrum, it would appear on the outside of your ear within a few weeks.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:36:13"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on historical celebrity Edmund Kean, the invention of stainless steel cutlery, the unique feeding habits of ants, and ancient Egyptian egg incubation techniques. The hosts are joined by historian Greg Jenner, who shares insights into these fascinating topics.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1825, Britain's most famous actor was nearly murdered by his own furious audience.",
+      "presenter": "Greg Jenner",
+      "guest": true,
+      "start_time": "00:01:49"
+    },
+    {
+      "fact_number": 2,
+      "fact": "It wasn't until 1913 that we finally figured out how to stop our food tasting like our cutlery.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:03"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Ants have a special stomach, which is just to contain food, to throw up into the mouths of other ants.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:38:39"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Ancient Egyptians had artificial egg incubators, but they didn't have thermometers, so they measured the temperature of the eggs by holding them to their eyelids.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:39:49"
+    }
+  ]
+}

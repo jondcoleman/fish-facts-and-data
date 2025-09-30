@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a variety of quirky and humorous facts, including the creative names of roller derby players, the viral success of a sea shanty singer who suffers from seasickness, Iceland's efficient use of cod, and an app that alerts you when your fly is down. The hosts are joined by guest Lou Sanders, adding her comedic flair to the discussions.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Names of registered competitive roller derby players include Skatebush, Venus Thytrap, Camille Toe, Alice in Wunderland and Weird Al Spankabitch.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:02:27"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The TikTok singer who went viral with The Seashunty is unable to perform his song on the boats because he suffers from terrible seasickness.",
+      "presenter": "Lou Sanders",
+      "guest": true,
+      "start_time": "00:15:28"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The people of Iceland can think of a good use for 95% of a cod.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:27:55"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There is an app that can tell you when your fly is down.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:38:14"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of topics including the German order of temperance, Bob Dylan's admiration for Jimi Hendrix's cover of his song, a US government lottery to watch fireflies, and a humorous exploration of nominative determinism in scientific research.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The German order of temperance was founded in 1600, and members had to pledge to drink no more than 14 glasses of wine a day.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:51"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Bob Dylan found Jimi Hendrix's cover of one of his songs to be so much better than the original that whenever he plays the song live now, he plays a cover of the cover.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:12:47"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The US government runs a lottery where if you win, you get to go and watch fireflies light up.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:26:47"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The scientific paper, \"Detection of Noda Virus in Barramundi\" was co-authored by Dr. Barry Munday.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:39:43"
+    }
+  ]
+}

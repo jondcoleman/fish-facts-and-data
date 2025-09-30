@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the global popularity of Tupperware parties, the theatrical trend of train scenes in 19th-century plays, the unique sleeping habits of walruses, and the rediscovery of a lost horror film due to a cataloging error.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 2016, Tupperware claimed to be holding a party somewhere in the world every 1.3 seconds.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:35"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1868, there were five different plays on in London's West End simultaneously where a train burst onto the stage and threatened to run somebody over.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:14:50"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When it wants to sleep, a walrus will sometimes hook its tusks onto a small iceberg and sleep while floating along in the water.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:05"
+    },
+    {
+      "fact_number": 4,
+      "fact": "For many years, the horror film The Unknown was missing because the last surviving print was accidentally placed into a pile of hundreds of film cans all marked unknown.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:39:53"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of fascinating topics including scientists creating lava, the etymology of Timbuktu, the synchronization of lovers' heartbeats, and the sale of the Playboy Mansion with Hugh Hefner included.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "A group of scientists is currently making their own lava.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:33"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The word Timbuktu means woman with a sticky out belly button.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:07:13"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Lovers' hearts beat in sync.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:21:16"
+    },
+    {
+      "fact_number": 4,
+      "fact": "This year, Hugh Hefner sold the Playboy Mansion; it comes with 30 rooms, a pool, a tennis court, a zoo license, and Hugh Hefner.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:50"
+    }
+  ]
+}

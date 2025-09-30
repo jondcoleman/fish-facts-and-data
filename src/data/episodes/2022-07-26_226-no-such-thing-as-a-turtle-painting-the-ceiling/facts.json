@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky historical and scientific facts, including the banning of kissing among Moscow politicians, the camouflage of the Northern Ireland Assembly Building during WWII, a study on how often men think about sex, and the addition of underwear to Michelangelo's Sistine Chapel fresco by a later artist.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 2004, Moscow's politicians were told to stop kissing each other because it took up valuable time that could be spent having more meetings.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Northern Ireland Assembly Building was camouflaged during World War II by covering it in cow manure.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:11:14"
+    },
+    {
+      "fact_number": 3,
+      "fact": "According to the best available study, men think about sex between once a day and 388 times a day.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:23:19"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1565, Pope Pius IV commissioned artist Daniela Del Volterra to add to Michelangelo's Sistine Chapel fresco by painting underwear on all the naked people.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:30:34"
+    }
+  ]
+}

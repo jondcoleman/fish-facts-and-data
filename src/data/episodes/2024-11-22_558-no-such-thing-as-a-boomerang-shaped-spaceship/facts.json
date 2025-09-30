@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features discussions on unusual military inventions, mathematical terminology, the translation of Ray Bradbury's \"Fahrenheit 451,\" and the fascinating behaviors of ants. The hosts explore quirky facts about boomerang-shaped grenades, the origins of the equals sign, the unique Danish translation of a classic novel, and the hygienic cannibalism practiced by ants.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "During World War I, Australia invented a hand grenade that was shaped like a boomerang.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The number four is two squared, the number eight is two cubed, and the number 256 is two zenzi-zenzi-zenzigt.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:13:17"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Ray Bradbury's Fahrenheit 451 has been translated into over 30 languages under the same title, except in Denmark, where it was published as 233 Celsius.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:23:52"
+    },
+    {
+      "fact_number": 4,
+      "fact": "When young ants are sick, their mothers immediately eat them and recycle them into more ants.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:35:42"
+    }
+  ]
+}

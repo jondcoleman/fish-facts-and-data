@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the Bronte sisters' potential cause of death from graveyard water, the dangers of swimming near icebergs, the presence of insect DNA in mint tea, and the construction of Greenland's first railway to transport a meteorite.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There's a theory that the Bronte sisters all died young because they spent a lot of their life drinking graveyard water.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:35"
+    },
+    {
+      "fact_number": 2,
+      "fact": "If you swim too close to an iceberg you can get sucked in.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:16:19"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Every cup of mint tea you drink contains the essence of a hundred insects.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:31:57"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The first railway in Greenland was built to transport a meteorite.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:45:41"
+    }
+  ]
+}

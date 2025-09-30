@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating facts, including the unusual method of counting pandas through their excrement, a dedicated Wikipedia editor's mission to correct a common grammatical error, the world's largest saw used in Kazakhstan, and the history of race walking with its peculiar rules.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Until the mid-2000s, the best method for finding out how many pandas were alive was to sift through their poo.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:31"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Since 2007, the Wikipedia editor Brian Henderson has made more than 50,000 edits and all of them are exactly the same: tracking down articles using the words 'comprised of' and changing them to 'consists of'.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:08:42"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The world's largest saw is used to cut through mountains in Kazakhstan.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:16:28"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In the early days of race walking or speed walking, the competitors were allowed to jog as necessary to relieve cramp.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:23:27"
+    }
+  ]
+}

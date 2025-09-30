@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the Aztecs' use of popcorn, China's use of Top Gun footage as propaganda, the loss of master keys at a national laboratory, and the classification of Ken as an accessory to Barbie.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The Aztecs wore necklaces made from popcorn.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 2011, China tried to pass off a scene from the film Top Gun as footage of its own Air Force.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:06:48"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 2003, somebody misplaced the master keys to the Lawrence Livermore National Laboratory, which is the home of the fastest computer in the world.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:13:13"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Ken is officially an accessory to Barbie.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:20:37"
+    }
+  ]
+}

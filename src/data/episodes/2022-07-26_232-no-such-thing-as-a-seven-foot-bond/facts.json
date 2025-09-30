@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the unusual methods sumo wrestlers have used to meet height requirements, the frequent biblical pairing of teeth and gnashing, historical land ownership laws in Australia, and the mating behaviors of jumping spiders.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The legendary sumo wrestler, Mainoumi Shuhei, injected silicone into his scalp so that he could meet the height requirements to become a sumo.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "A quarter of all mentions of teeth in the Bible also include the word gnashing.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:10:33"
+    },
+    {
+      "fact_number": 3,
+      "fact": "If you bought land in Australia before 1891, you had the legal right to the land stretching all the way to the centre of the Earth.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:17:50"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Jumping spiders that wear eyeliner are more likely to be eaten by their mate.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:23:20"
+    }
+  ]
+}

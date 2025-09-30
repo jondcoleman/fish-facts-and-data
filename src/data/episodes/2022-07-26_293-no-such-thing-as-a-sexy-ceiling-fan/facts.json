@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing historical and cultural facts, including the antics of a famous Moulin Rouge dancer, a publicity stunt involving transporting ice from the Arctic to the equator, the discovery of prehistoric sippy cups, and the legal case that led to the standard movie disclaimer about fictional characters.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The Moulin Rouge had a can-can dancer who would distract patrons by kicking off their hats before promptly downing their drinks.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1959, as a publicity stunt, a three-ton block of ice was driven from the Arctic Circle to the equator.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:13:13"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Prehistoric babies drank from animal-shaped sippy cups.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:27:31"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The reason movies include that all persons fictitious disclaimer at the front is because one of Rasputin's assassins successfully sued MGM for not accurately depicting the events of Rasputin's murder.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:38:09"
+    }
+  ]
+}

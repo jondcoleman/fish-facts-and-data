@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode, recorded live at the London Podcast Festival, covers a range of fascinating topics including Theodore Roosevelt's survival from a gunshot due to a speech in his pocket, the unique hibernation habits of Arctic ground squirrels, a medieval court case over identical coats of arms, and the concept of 'bird-splaining' in birdwatching communities.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Theodore Roosevelt once was shot in the chest but survived thanks to a 50 page long speech tucked into his coat pocket.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:01:49"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Some squirrels can put themselves in a deep freeze for the winter, then thaw themselves out to have a pee, and then freeze themselves again.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:15:53"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 1385, a four year court case began after two knights embarrassingly turned up to a battle wearing the same coat of arms.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:04"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The Audubon Bird Protection Society has warned its members against bird-splaining.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:40:35"
+    }
+  ]
+}

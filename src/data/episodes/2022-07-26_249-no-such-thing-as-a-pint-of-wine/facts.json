@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a collection of humorous and intriguing facts, including the origins of the first nativity scene, the unique breathing method of horses, and the peculiarities of parking rules in Sweden. The hosts also discuss the history of the first aircraft carrier and the unusual tradition of weighing royal family members before and after Christmas dinner.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first ever aircraft carrier was for hot air balloons.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:03:08"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Horses can only breathe through their noses.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:05:23"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The story of the first nativity was created by Francis of Assisi in 1223.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:03:58"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In Sweden, parking rules require you to park on alternate sides of the street depending on the date.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:06:26"
+    }
+  ]
+}

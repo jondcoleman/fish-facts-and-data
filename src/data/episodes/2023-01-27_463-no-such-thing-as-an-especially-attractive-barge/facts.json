@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky historical and cultural facts. The hosts discuss the role of sluggard wakers in churches, a prank by the Queen of France, the Minions' fictional history avoiding World War II, and the unique whistling system used by barge firms on the River Thames.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that to combat people sleeping during church, priests used to employ a sluggered waker who would walk around the congregation poking people awake with a very long stick.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that the Queen of France once pranked a girl at court by secretly taking in her clothes to make her think she was pregnant.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:42"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Okay, my fact this week is that according to their origin story, the Minions serve the most evil person on earth, but they were conveniently frozen in a cave and unable to serve anyone between 1933 and 1945.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:29:06"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact is that every barge firm on the River Thames used to have its own signature whistle.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:44:39"
+    }
+  ]
+}

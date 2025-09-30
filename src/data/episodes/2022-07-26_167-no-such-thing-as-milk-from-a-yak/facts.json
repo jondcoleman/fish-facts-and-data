@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including a shortage of butter sculptors in Tibet, the ability to email trees in Melbourne, the world's hottest chili used as an anesthetic, and a French admiral who lost three legs in battle.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Tibet is suffering from a shortage of butter sculptors.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "You can email any one of the 70,000 trees in Melbourne, Australia.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:09:22"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The world's hottest chili is not meant to be eaten; it's meant to be used as an anesthetic.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:23:45"
+    },
+    {
+      "fact_number": 4,
+      "fact": "One of Napoleon's admirals lost three legs in battle.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:33:33"
+    }
+  ]
+}

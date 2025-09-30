@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a range of quirky and fascinating topics, including a shouting bomb developed by America in 1957, a library book returned 100 years late, the invention of crowd control barriers due to a giant balloon, and Volkswagen's surprising sausage sales surpassing their car sales.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1957, America developed a shouting bomb that would lecture the enemy for three minutes as it dropped from the sky.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:44"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Earlier this year, a book called '40 Minutes Late' was returned to a library in San Francisco 100 years late.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:09:45"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The person who invented crowd control barriers did so because so many people were flocking to see his giant balloon.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:17:01"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Volkswagen sells more sausages than cars.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:30:53"
+    }
+  ]
+}

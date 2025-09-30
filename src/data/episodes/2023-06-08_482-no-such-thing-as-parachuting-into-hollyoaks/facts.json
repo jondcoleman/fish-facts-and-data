@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about a Paralympic equestrian with a horse allergy, a man who changed his name to protest against a bank, the mystery of female whale sharks' habitats, and a historical site in Jerusalem becoming a zipline attraction. The hosts are joined by guest Rosie Jones, who shares her experiences with the Paralympics and discusses various quirky topics related to Yorkshire.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The world's greatest Paralympic equestrian, with 14 gold medals under his belt, is also allergic to horses.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:01:50"
+    },
+    {
+      "fact_number": 2,
+      "fact": "A man from Yorkshire once changed his name by deed poll to Yorkshire Bank PLC Are Fascist Bastards.",
+      "presenter": "Rosie Jones",
+      "guest": true,
+      "start_time": "00:17:17"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Despite them being one of the largest fish on the planet, nobody knows where female whale sharks live.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:30:45"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The place where Judas plotted to betray Jesus is about to become a ziplining site.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:42:54"
+    }
+  ]
+}

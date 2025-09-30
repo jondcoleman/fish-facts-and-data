@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the surprising effects of breakdancing on hair loss, unusual laws in North Korea regarding the treatment of images of their leaders, a unique football competition between war and peace studies departments, and the linguistic peculiarities of Spanish in distinguishing between afternoon and evening.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Break dancing can make you go bald.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In North Korea, it's illegal to rest your cup of tea on a newspaper if that newspaper has a picture of Kim Il-sung on it.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:53"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In the UK, there is a football competition called the Tolstoy Cup, in which the War Studies Department at King's College London takes on the Peace Studies Department at the University of Bradford.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:24:40"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Spanish people have no way of telling the afternoon from the evening.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:36:17"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating topics, including a Swedish art project offering eternal employment, the ingenious adaptations of ninjas, the mishaps of urban climbers, and the peculiar rules and history of the Eurovision Song Contest.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Sweden's public art body has just commissioned an artwork, which will hire someone to do nothing at Gothenburg's course of art and train station for the next 120 years.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:49"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Ninjas' sword sheaths had removable tips so that if they ever had to hide underwater, they could use them like a snorkel to breathe.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:59"
+    },
+    {
+      "fact_number": 3,
+      "fact": "One month before the French Spider Man successfully climbed the second tallest building in the world, he was hospitalised after falling from a seven foot tall traffic light.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:16"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In the early Eurovision Song Contests, songs could not be performed in public before the event. One Danish song was banned after the composer whistled it in a TV broadcaster's canteen.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:29:43"
+    }
+  ]
+}

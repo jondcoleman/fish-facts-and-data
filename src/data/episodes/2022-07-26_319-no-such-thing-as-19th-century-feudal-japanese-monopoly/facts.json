@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the edibility and uses of loofahs, the creation of the game Jumanji as a response to a dislike of Monopoly, the isolation of an uncontacted tribe member in Brazil, and historical rights to human waste in 19th century Osaka.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Loofas are edible.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:02:58"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The man who invented Jumanji did so because he hated Monopoly.",
+      "presenter": "Anne Miller",
+      "guest": true,
+      "start_time": "00:12:19"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There is a man in Brazil who nobody is allowed to go within five miles of.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:27"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 19th century Osaka, flat residents owned the rights to their own urine, but the rights to their poo belonged to their landlord.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:42:32"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a variety of quirky and fascinating facts, including stories about self-experimentation, unusual survival techniques, and bizarre historical anecdotes. The hosts also discuss unique cultural practices, strange competitions, and humorous misunderstandings across languages.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Alain Bombard was a French doctor who shipwrecked himself to prove that one could survive without food or water by living off fish and plankton.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:03:02"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1920, a man named Arthur Cobcroft died from laughter after comparing commodity prices from 1915 to 1920 and finding the difference hilarious.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:05:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Bungay in East Anglia has the highest number of Satanists in the UK, according to a census.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:08:02"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1996, the Swedish Navy admitted that they had mistaken otters splashing for Russian submarines in their waters.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:23:20"
+    }
+  ]
+}

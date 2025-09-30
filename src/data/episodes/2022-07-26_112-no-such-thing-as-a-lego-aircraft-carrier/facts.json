@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating topics, including the export of used toilet paper from Antarctica, the mechanics of launching planes from aircraft carriers, an award at Apple for standing up to Steve Jobs, and amusing names of Japanese rock bands.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Antarctica exports used toilet paper.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Planes are launched off aircraft carriers by catapult.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:08:54"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Apple used to give an annual award to the employee who best stood up to Steve Jobs.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:18:58"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There are Japanese rock bands called Abingdon Boys School, Mass of the Fermenting Dregs, and Seagull Screaming Kiss Her Kiss Her.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:25:06"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on strobe lighting and its effects, Paris's historical pneumatic clock system, a penguin entertained by watching Pingu, and the measurement of the world's tallest tree.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "From the 1880s until 1927, Paris had an underground clock system which ran on puffs of air.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:17:57"
+    },
+    {
+      "fact_number": 2,
+      "fact": "After a penguin had to be isolated due to health issues, zookeepers in Perth are keeping him entertained by letting him binge watch Pingu.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:29:47"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The person who measured the world's tallest tree did so by climbing to the top of it and dropping a tape measure down.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:44:16"
+    },
+    {
+      "fact_number": 4,
+      "fact": "It's possible that the neuralyzer from Men in Black might exist.",
+      "presenter": "Tom Scott",
+      "guest": true,
+      "start_time": "00:14:36"
+    }
+  ]
+}

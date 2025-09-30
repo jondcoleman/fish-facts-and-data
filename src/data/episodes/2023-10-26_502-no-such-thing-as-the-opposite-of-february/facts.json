@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on historical events and quirky facts, including King Stephen's rise to the throne due to a shipwreck, sea turtles' long-standing dining habits, the prevalence of street musicians in 19th century London, and a bungled glue theft in Brazil.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact is that King Stephen owed his throne to food poisoning or, you know, the shit.",
+      "presenter": "David Mitchell",
+      "guest": true,
+      "start_time": "00:02:23"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is that sea turtles have been going to the same restaurant for 3,000 years.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:22:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Okay, my fact this week is that in 1861, there was one street musician for every ten streets in London.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:33:51"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact is that in 1993, a man in Brazil who robbed a factory of its glue was arrested 36 hours later, still in the factory he was robbing, because he was stuck to the glue he was stealing.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:48:03"
+    }
+  ]
+}

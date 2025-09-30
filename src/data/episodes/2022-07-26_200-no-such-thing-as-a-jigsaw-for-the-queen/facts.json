@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' features facts about a statue commemorating Peter the Great's vomiting in Brussels, a study on gender differences in recognizing Transformers and Barbie faces, a woman who stands in for the Queen to help TV cameras get the right angle, and Jimmy Carter accidentally sending nuclear launch codes to the dry cleaner. The hosts delve into historical anecdotes, scientific studies, and quirky jobs related to these facts.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In Brussels, there is a commemorative statue to where Peter the Great once vomited.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:01:51"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Only one study has ever found that men are better than women at recognising faces; it was a study looking at the recognition of the Transformers.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:14:30"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There is a woman whose job for the last 30 years has been squatting above the Queen's throne so the TV cameras can get their angle right.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:25:22"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The US president, Jimmy Carter, once sent the nuclear launch codes to his dry cleaner.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:38:33"
+    }
+  ]
+}

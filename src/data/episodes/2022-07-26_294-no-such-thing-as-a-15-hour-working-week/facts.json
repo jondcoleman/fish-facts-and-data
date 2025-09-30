@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of topics including the vulnerability of the US Navy's Doomsday aircraft to bird strikes, the creative solutions women used during WWII when nylon stockings were rationed, the unexpected raccoon problem in Japan due to a popular TV show, and the story of economist John Maynard Keynes hiding a priceless painting in a hedge.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The US Navy's Doomsday aircraft, which was designed to survive a nuclear attack, was recently taken out by a single bird.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:01:31"
+    },
+    {
+      "fact_number": 2,
+      "fact": "When nylon stockings became rationed during World War II, department stores set up leg makeup bars where women could have stockings drawn onto their legs instead.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:17:18"
+    },
+    {
+      "fact_number": 3,
+      "fact": "More than 80% of Japan's temples have suffered from raccoon damage.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:28:09"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The economist John Maynard Keynes once bought a priceless Cézanne painting and then hid it in a hedge.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:35:22"
+    }
+  ]
+}

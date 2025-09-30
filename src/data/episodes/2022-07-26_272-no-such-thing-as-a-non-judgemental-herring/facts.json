@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a range of fascinating topics, including superstitions about herring in 18th century Scotland, the fashion-forward life of a 16th-century German accountant, the rapid movement of the North Pole, and the origins of the British vegetarian movement.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 18th century Scotland, people believed that herring would punish people for adultery by leaving the area where the adultery had occurred.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:46"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The most fashionable person of the 16th century was an accountant from Germany.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:11:11"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The North Pole is moving so fast that we can't keep up.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:22:09"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The British vegetarian movement was started 200 years ago by a man called Reverend Calhard.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:30:58"
+    }
+  ]
+}

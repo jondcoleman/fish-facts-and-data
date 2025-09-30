@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of topics including the challenges of translating Agatha Christie's work into Icelandic, the intricacies of authentic Camembert cheese production, the extensive coastline of Norway, and the historical connections of the Stroganov family to beef stroganoff and human chess.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The Icelandic version of Agatha Christie's Lord Edgewear Dies took over 10 years to complete because the translator couldn't work out how to translate two words.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Out of the 360 million wheels of Camembert produced every year, only 1% are actually Camembert.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:12:01"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Norway's coastline is so long that if you took a piece of string along it and then stretched it out, it would run around the whole planet two and a half times.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:22:05"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Beef stroganoff is named after the great-grandson of the person who brought human chess to Russia.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:31:52"
+    }
+  ]
+}

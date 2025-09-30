@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of quirky historical and scientific facts, including the invention of the first hydraulic lift for sheep, Pope Leo XIII's endorsement of a cocaine-infused wine, the explosive nature of Tunnock's Tea Cakes in RAF planes, and the extensive preparations for King Louis XIV's medical operation.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first hydraulic lift was invented to carry sheep onto a roof.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Pope Leo the 13th was once the face of a wine and cocaine cocktail.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:08:25"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Tonux T-Cakes aren't allowed in RAF planes in case they explode.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:18:14"
+    },
+    {
+      "fact_number": 4,
+      "fact": "When Louis XIV, the French king, needed an operation, his doctor was so nervous that he practised it on 75 people beforehand, many of whom did not have the condition the operation was meant to cure.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:25:51"
+    }
+  ]
+}

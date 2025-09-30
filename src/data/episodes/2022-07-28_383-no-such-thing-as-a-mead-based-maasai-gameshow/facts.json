@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the world's longest golf putt set on Concorde, fish using sharks as scratching posts, the Maasai people's unique phone call friendships, and the British government's purchase of pubs during World War I to curb drinking.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The world's longest golf putt took 26 seconds for the ball to reach the hole. In that time it covered a distance of over nine miles.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Some fish use sharks as scratching posts.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:17:07"
+    },
+    {
+      "fact_number": 3,
+      "fact": "46 percent of Maasai men have become friends with someone who got the wrong number and mistakenly called their phone.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:28"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Halfway through the First World War, the British government bought nearly 400 pubs in an attempt to stop people drinking.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:42:26"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of topics including the massive amount of clothing waste in Ghana, Ford's patent for a self-repossessing car, the healthiest way to eat broccoli, and a hospital's accidental text message about terminal illness. The hosts discuss the implications of fast fashion, innovative car technologies, the nutritional benefits of broccoli, and the chaos caused by a mistaken text message.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "15 million clothing items are dumped in Ghana every week.",
+      "presenter": "Athena Cablenu",
+      "guest": true,
+      "start_time": "00:02:14"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Ford has just got a patent for a car which can repossess itself if the owner falls behind with payments.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:14:50"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The healthiest way to eat broccoli is to stir fry it after chopping it into two millimeter pieces and leaving it to stand for an hour and a half.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:51"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Last year on December 23rd, a hospital in Doncaster accidentally sent a text message to thousands of its patients informing them that they had an aggressive terminal disease.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:40:30"
+    }
+  ]
+}

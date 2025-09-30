@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the productivity effects of weather on employees, the unique mating behaviors of cuttlefish, historical recipes for unusual alcoholic beverages, and a remarkable forensic recovery of lost writing by a blind novelist.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Harvard Business School recommends companies locate their headquarters in rainier places because it makes employees more productive.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Male cuttlefish can flirt with one side of their body and simultaneously pretend to be a female with the other side of their body.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:12:14"
+    },
+    {
+      "fact_number": 3,
+      "fact": "William of Orange's favourite drink was cock ale, which was a drink made of ale with a cock in it, a cockerel, a rooster.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:20:02"
+    },
+    {
+      "fact_number": 4,
+      "fact": "After five months of forensically analyzing the indents made by a pen on paper, Dorset Police managed to recover 26 pages of lost words by a blind novelist who hadn't realized that her pen had run out of ink.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:31:03"
+    }
+  ]
+}

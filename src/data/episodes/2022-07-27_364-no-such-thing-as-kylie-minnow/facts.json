@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and intriguing topics, including the invention of edible crayons by a US Marine, the history of a police tea van called Teapot One, a soap opera created to sell soap, and the benefits of napping for memory retention.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "US Marines are considered to be so stupid that members of the other armed forces called them crayon eaters. This year, a Marine has invented an actual edible crayon.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The London Metropolitan Police used to have a van called teapot one exclusively to deliver cups of tea to officers stuck at the scene of a crime.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:03"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The ninth longest running British soap ever was designed exclusively to sell soap.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:30:02"
+    },
+    {
+      "fact_number": 4,
+      "fact": "If you take an hour long nap after listening to this show, you will remember five times as many facts from it.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:38:35"
+    }
+  ]
+}

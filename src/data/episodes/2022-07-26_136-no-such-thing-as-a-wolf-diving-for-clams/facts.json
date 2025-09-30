@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the first recorded purchase of a pornographic book in England by Samuel Pepys, the theoretical physics of boiling a swimming pool with human activity, the Welsh tradition of determining garden size by axe throwing, and the unique social behaviors of caterpillars involving anal drumming.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first person recorded ever buying a pornographic book in England was Samuel Pepys.",
+      "presenter": "Justin Pollard",
+      "guest": true,
+      "start_time": "00:00:50"
+    },
+    {
+      "fact_number": 2,
+      "fact": "If 50 people swam continuously for 15 months in an Olympic-sized swimming pool, the water would boil.",
+      "presenter": "Piers Fletcher",
+      "guest": true,
+      "start_time": "00:08:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In Wales, the size of your garden used to be determined by how far you could throw an axe.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:19:10"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Some caterpillars find new friends by drumming on their anuses.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:28:01"
+    }
+  ]
+}

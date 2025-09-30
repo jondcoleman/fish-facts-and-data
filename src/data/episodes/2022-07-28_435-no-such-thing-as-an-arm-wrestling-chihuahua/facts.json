@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and historical facts, including the unusual physical characteristics of the author George Eliot, the culinary habits of cricketers at Lord's, the unique upside-down lighthouse in Northern Ireland, and a dangerous arm wrestling arcade machine in Japan.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The author, George Elliott, had a massive head.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The chef who cooked for Lord's Cricketers on match days for 35 years was once asked to limit their meals to five courses, and she refused.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:13:13"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Northern Ireland contains the world's only upside-down lighthouse.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:25:32"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 2007, a Japanese arm wrestling arcade machine was recalled when it broke three players' arms.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:38:27"
+    }
+  ]
+}

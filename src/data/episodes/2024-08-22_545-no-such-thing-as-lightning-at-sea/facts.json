@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including a persistent thundercloud in Australia, a Polish pilot's unexpected tennis match during WWII, the many things named after Mae West, and the surprising influence of Finnish death metal on language studies.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that for at least 80 years, the same thundercloud has been raining off the north coast of Australia. It's called Hector the Convector.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is that during the Second World War, a Polish pilot was shot down over Southern England and he and his parachute landed in the grounds of a very respectable tennis club. He was immediately then signed in as a guest, offered a racket, lent some white flannels and thrashed his opponents until the RAF came to collect him.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:13:29"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Okay, my fact this week is that things named after Mae West include a soda bottle, a gas pump, a parachute malfunction, and a graph that explains the nuclear fission of uranium.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:25:01"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that in 2013, a survey revealed that 97% of students studying Finnish at Vienna University were mainly doing so because of their love for the country's death metal bands.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:36:46"
+    }
+  ]
+}

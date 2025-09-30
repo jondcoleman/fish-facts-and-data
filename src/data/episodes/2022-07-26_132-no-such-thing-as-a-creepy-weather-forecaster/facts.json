@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and intriguing topics, including a study on the creepiness of various professions, the use of Grand Theft Auto to train self-driving cars, the violent sibling rivalry among kookaburras, and the historical uses of paper, including its first mention as a remedy for frizzy hair.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The least creepy job is that of a weather forecaster.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:05"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Self-driving cars are playing Grand Theft Auto in order to learn how to drive better.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:39"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Kookaburras are born with a hook in their upper beak, which is specifically for murdering their siblings.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:26:11"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The first ever mention of paper recommended it as a cure for frizzy hair.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:34:17"
+    }
+  ]
+}

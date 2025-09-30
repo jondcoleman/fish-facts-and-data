@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features facts about Blaise Pascal curing his toothache with math, Stonehenge not being a true henge, synchronized swimming having a high rate of concussions, and early phone boxes having attendants inside. The hosts explore these topics with humor and delve into historical anecdotes and modern implications.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Mathematician Blaise Pascal once cured his toothache by thinking about maths.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:13"
+    },
+    {
+      "fact_number": 2,
+      "fact": "It turns out, Stonehenge isn't a henge.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:40"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The sport with the highest rate of concussion is synchronized swimming.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:26:35"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Early phone boxes came with a little man inside who would arrange the call for you, then wait outside until it was over.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:37:21"
+    }
+  ]
+}

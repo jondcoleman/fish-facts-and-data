@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the firing of the original voice of Porky Pig due to his stutter, the historical bus route from London to Calcutta, the invention of hockey masks due to chronic sinusitis, and the cultural practices of the Lesseroo people of Papua New Guinea during pig-farrowing season.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The original voice of Porky Pig got fired for having a stutter.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the 1950s, you could catch a bus from London to Calcutta.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:14:37"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Hockey masks were invented thanks to chronic sinusitis.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:47"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The Lesseroo people of Papua New Guinea all avoid having sex during the pig-farrowing season.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:44:23"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the surprising fact that bananas emit antimatter, the mysterious annual disappearance of Slovenia's largest lake, the alarming decline of the saiga antelope population, and Barbara Streisand's private shopping mall under her house.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Bananas emit antimatter.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:31"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Slovenia's largest lake, Lake Cerknica, disappears every year.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:10:55"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Half the world's saigas have died in the last month, and nobody knows why.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:07"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Barbara Streisand had a shopping mall built for her sole use and it's under her house.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:22:10"
+    }
+  ]
+}

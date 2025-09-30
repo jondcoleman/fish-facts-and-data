@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about classified dust at GCHQ, a survey on driving behavior with pavlovas, Ringo Starr's unique drumming style due to exorcisms, and the lengthy hatching process of albatross chicks.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Even the dust at GCHQ is classified.",
+      "presenter": "Anne Miller",
+      "guest": true,
+      "start_time": "00:02:22"
+    },
+    {
+      "fact_number": 2,
+      "fact": "People drive more carefully if they have a pavlova in the car than their own child.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:11:26"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Ringo Starr's grandmother performed exorcisms on him to cure him from being left-handed.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:19:17"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Baby albatrosses can take up to six days to peck their way out of their eggs.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:28:24"
+    }
+  ]
+}

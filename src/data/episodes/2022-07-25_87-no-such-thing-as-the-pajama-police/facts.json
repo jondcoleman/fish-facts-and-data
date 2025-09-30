@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and intriguing facts, including the existence of a Cornish Pasty Museum in Mexico, the phenomenon of people waking up with fewer clothes than they went to bed with, the practice of mining for vintage jeans in abandoned mines, and historical descriptions of Jesus suggesting he had a monobrow.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The world's only Cornish Pasty Museum is in Mexico.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:52"
+    },
+    {
+      "fact_number": 2,
+      "fact": "20% of people wake up wearing fewer clothes than they went to bed with.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:09:46"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There are people who mine for jeans.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:18:48"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Jesus had a monobrow.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:01"
+    }
+  ]
+}

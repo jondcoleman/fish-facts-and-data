@@ -1,0 +1,5357 @@
+[
+  {
+    "start": 0,
+    "end": 6,
+    "text": " Hey everyone, before we start this week's show, we just want to remind you that we have a little documentary on the internet, don't we?"
+  },
+  {
+    "start": 6,
+    "end": 11,
+    "text": " We sure do. It's not quite as hard-hitting as Louis the Roof, but there may be a couple more gags in it."
+  },
+  {
+    "start": 11,
+    "end": 19,
+    "text": " It's the behind-the-scenes look at our tour from last year when we were stalked with the camera and they filmed us doing japes and stuff."
+  },
+  {
+    "start": 19,
+    "end": 26,
+    "text": " Yeah, there's loads of behind-the-scenes, bits and pieces, there's loads of interviews with us, there's little bits from the show, it's really, really fun."
+  },
+  {
+    "start": 26,
+    "end": 36,
+    "text": " You can get it on the internet, it's called Behind the Gills, you can get it on Apple, Google, Amazon, Ask Jeeps, MySpace and all those places where you get stuff from."
+  },
+  {
+    "start": 36,
+    "end": 38,
+    "text": " Yeah, okay, I'm on the show."
+  },
+  {
+    "start": 52,
+    "end": 59,
+    "text": " Hello and welcome to another episode of Moxupt's Thing as a Fish, a weekly podcast coming to you from the QI offices in Covent Garden."
+  },
+  {
+    "start": 59,
+    "end": 64,
+    "text": " My name is Andrew Hunter Murray and I'm sitting here with James Harkin, Anna Tajinsky and Alex Bell."
+  },
+  {
+    "start": 64,
+    "end": 73,
+    "text": " And once again, we have gathered around the microphones with our four favourite facts from the last seven days, starting with James."
+  },
+  {
+    "start": 73,
+    "end": 80,
+    "text": " Okay, my fact this week is that if all the bacteria in the world disappeared, we wouldn't notice for about a week."
+  },
+  {
+    "start": 80,
+    "end": 86,
+    "text": " Would scientists notice in a lab if they were studying bacteria?"
+  },
+  {
+    "start": 86,
+    "end": 88,
+    "text": " Yes."
+  },
+  {
+    "start": 88,
+    "end": 91,
+    "text": " Would they just think that they must be down the other end of the Petri dish today?"
+  },
+  {
+    "start": 91,
+    "end": 93,
+    "text": " They are small."
+  },
+  {
+    "start": 93,
+    "end": 98,
+    "text": " But I think I'm talking more of the day-to-day person going about their life."
+  },
+  {
+    "start": 98,
+    "end": 105,
+    "text": " So this anyway is from a paper it's called Life in a World Without Microbes by Jack A. Gilbert and Josh D. Neufeld."
+  },
+  {
+    "start": 105,
+    "end": 107,
+    "text": " And it's absolutely brilliant, I love it."
+  },
+  {
+    "start": 107,
+    "end": 117,
+    "text": " In this paper they say it would take us nearly a week to realise what had happened and then that they predict complete societal collapse only within a year or so."
+  },
+  {
+    "start": 117,
+    "end": 118,
+    "text": " Oh, that's good."
+  },
+  {
+    "start": 118,
+    "end": 122,
+    "text": " So the first week, you don't know to say anything and then 51 weeks later..."
+  },
+  {
+    "start": 122,
+    "end": 123,
+    "text": " I thought downhill."
+  },
+  {
+    "start": 123,
+    "end": 125,
+    "text": " The whole of society collapses."
+  },
+  {
+    "start": 125,
+    "end": 127,
+    "text": " So that 51 weeks is really horrible."
+  },
+  {
+    "start": 127,
+    "end": 130,
+    "text": " I reckon it would be, probably get progressively worse."
+  },
+  {
+    "start": 130,
+    "end": 132,
+    "text": " And you know the end is night."
+  },
+  {
+    "start": 132,
+    "end": 144,
+    "text": " They say then annihilation of most humans and non-microscopic life on the planet would follow a prolonged period of starvation disease unrest, civil war, anarchy, and global biogeochemical asphyxiation."
+  },
+  {
+    "start": 144,
+    "end": 147,
+    "text": " But would you then 90% of that already with the bacteria?"
+  },
+  {
+    "start": 147,
+    "end": 148,
+    "text": " That's true."
+  },
+  {
+    "start": 148,
+    "end": 150,
+    "text": " But for the first week, it's fine."
+  },
+  {
+    "start": 150,
+    "end": 151,
+    "text": " We're okay."
+  },
+  {
+    "start": 151,
+    "end": 152,
+    "text": " Yeah."
+  },
+  {
+    "start": 152,
+    "end": 157,
+    "text": " So the thing is, let's think, what is there that we need microbes for and bacteria?"
+  },
+  {
+    "start": 157,
+    "end": 159,
+    "text": " So they're in your stomach, right?"
+  },
+  {
+    "start": 159,
+    "end": 160,
+    "text": " And they help you digest things."
+  },
+  {
+    "start": 160,
+    "end": 161,
+    "text": " Okay."
+  },
+  {
+    "start": 161,
+    "end": 165,
+    "text": " But I found it really weird that you don't need, humans don't actually need them."
+  },
+  {
+    "start": 165,
+    "end": 166,
+    "text": " Exactly."
+  },
+  {
+    "start": 166,
+    "end": 170,
+    "text": " We could be unwell without them or we could find it harder to digest things, but we can survive without bacteria."
+  },
+  {
+    "start": 170,
+    "end": 173,
+    "text": " I read that and I can quite believe it, because I thought we sure we must need them."
+  },
+  {
+    "start": 173,
+    "end": 175,
+    "text": " I think we just get constipated, wouldn't we?"
+  },
+  {
+    "start": 175,
+    "end": 176,
+    "text": " Yeah."
+  },
+  {
+    "start": 176,
+    "end": 178,
+    "text": " So there are some animals which do need them, aren't there?"
+  },
+  {
+    "start": 178,
+    "end": 180,
+    "text": " Although no one has said that."
+  },
+  {
+    "start": 180,
+    "end": 182,
+    "text": " Okay, for the first week we might be constipated."
+  },
+  {
+    "start": 182,
+    "end": 183,
+    "text": " Okay."
+  },
+  {
+    "start": 183,
+    "end": 189,
+    "text": " But at least it's not prolonged period of starvation disease unrest, civil war, anarchy, and global biogeochemical asphyxiation."
+  },
+  {
+    "start": 189,
+    "end": 193,
+    "text": " Depends how bad your constipation is as well, you know?"
+  },
+  {
+    "start": 193,
+    "end": 200,
+    "text": " So yes, animals do need it, so cows would need it, for instance, because they can't digest cellulose without microbes."
+  },
+  {
+    "start": 200,
+    "end": 203,
+    "text": " And a few other animals would as well."
+  },
+  {
+    "start": 203,
+    "end": 207,
+    "text": " But basically, eventually what would happen is all the nitrogen wouldn't be able to be fixed."
+  },
+  {
+    "start": 207,
+    "end": 211,
+    "text": " The nitrogen cycle would stop, which is something that we need for life."
+  },
+  {
+    "start": 211,
+    "end": 216,
+    "text": " So the plant all plants use that and then so the plants are going to die out."
+  },
+  {
+    "start": 216,
+    "end": 222,
+    "text": " Yeah, basically that life needs nitrogen and it goes around in the cycle like what it does."
+  },
+  {
+    "start": 222,
+    "end": 229,
+    "text": " But without the microbes that would stop, which means that the oceans would get full of nitrogen, which means all the fish would die."
+  },
+  {
+    "start": 229,
+    "end": 232,
+    "text": " We'd struggle to make oxygen as well because a lot of microbes make oxygen."
+  },
+  {
+    "start": 232,
+    "end": 234,
+    "text": " So a lot of bad things would happen."
+  },
+  {
+    "start": 234,
+    "end": 236,
+    "text": " And there's been a week too."
+  },
+  {
+    "start": 236,
+    "end": 243,
+    "text": " And there's been oftentimes everything is dying, and so nitrogen isn't being produced, but all the dead things just stay there."
+  },
+  {
+    "start": 243,
+    "end": 248,
+    "text": " Yes, it basically means that we need the mushrooms, and I hate to say this."
+  },
+  {
+    "start": 248,
+    "end": 249,
+    "text": " Well, we need the fungi."
+  },
+  {
+    "start": 249,
+    "end": 253,
+    "text": " If all the microbes die and they can't break anything down, the only thing left to break things down is the mushrooms."
+  },
+  {
+    "start": 253,
+    "end": 255,
+    "text": " They step in and save us."
+  },
+  {
+    "start": 255,
+    "end": 256,
+    "text": " Who'd have thought it?"
+  },
+  {
+    "start": 256,
+    "end": 259,
+    "text": " It's not an action film. I especially want to say."
+  },
+  {
+    "start": 259,
+    "end": 261,
+    "text": " Would your poo stop smelling?"
+  },
+  {
+    "start": 261,
+    "end": 263,
+    "text": " Well, and your sweat."
+  },
+  {
+    "start": 263,
+    "end": 265,
+    "text": " I think that's one of the real bonuses of week one."
+  },
+  {
+    "start": 265,
+    "end": 268,
+    "text": " Is that the smell of sweat is just caused by all the bacteria."
+  },
+  {
+    "start": 268,
+    "end": 269,
+    "text": " That's true."
+  },
+  {
+    "start": 269,
+    "end": 270,
+    "text": " And so we would smell great from you."
+  },
+  {
+    "start": 270,
+    "end": 275,
+    "text": " You're constipated, so it doesn't really matter whether your poo smells or not."
+  },
+  {
+    "start": 275,
+    "end": 277,
+    "text": " No, that is true."
+  },
+  {
+    "start": 277,
+    "end": 278,
+    "text": " That would happen."
+  },
+  {
+    "start": 278,
+    "end": 282,
+    "text": " So Louis Pasteur, the famous guy, scientist guy."
+  },
+  {
+    "start": 282,
+    "end": 284,
+    "text": " For the sound of this Wikipedia page."
+  },
+  {
+    "start": 284,
+    "end": 291,
+    "text": " He thought that we needed bacteria to live in microorganisms, otherwise we'd all die."
+  },
+  {
+    "start": 291,
+    "end": 294,
+    "text": " And then a bit after him, two guys came along."
+  },
+  {
+    "start": 294,
+    "end": 298,
+    "text": " Ten years later, two guys came along called George Nuttall and Hans Thurfelder."
+  },
+  {
+    "start": 298,
+    "end": 303,
+    "text": " He disproved it by getting a guinea pig and getting rid of all its bacteria and microbes"
+  },
+  {
+    "start": 303,
+    "end": 305,
+    "text": " and the guinea pig still managed to live."
+  },
+  {
+    "start": 305,
+    "end": 307,
+    "text": " How did they do that?"
+  },
+  {
+    "start": 307,
+    "end": 310,
+    "text": " Well, I reckon there was probably a lot of antibiotics involved."
+  },
+  {
+    "start": 310,
+    "end": 312,
+    "text": " They didn't just give it a shower."
+  },
+  {
+    "start": 312,
+    "end": 314,
+    "text": " I reckon there was a shower involved."
+  },
+  {
+    "start": 314,
+    "end": 316,
+    "text": " Yeah, you might as well soak it down."
+  },
+  {
+    "start": 316,
+    "end": 317,
+    "text": " There must have been, right?"
+  },
+  {
+    "start": 317,
+    "end": 318,
+    "text": " Yeah."
+  },
+  {
+    "start": 318,
+    "end": 320,
+    "text": " And this is called nobiotic living."
+  },
+  {
+    "start": 320,
+    "end": 322,
+    "text": " G-N-O, nobiotic."
+  },
+  {
+    "start": 322,
+    "end": 323,
+    "text": " Get this."
+  },
+  {
+    "start": 323,
+    "end": 325,
+    "text": " There is a place in the world where this has kind of happened."
+  },
+  {
+    "start": 325,
+    "end": 329,
+    "text": " Your horror scenario, James, so it's in Chernobyl."
+  },
+  {
+    "start": 329,
+    "end": 334,
+    "text": " Lots of microbes and fungi got contamination and they died."
+  },
+  {
+    "start": 334,
+    "end": 338,
+    "text": " And as a result, there are loads of trees in this place called the red forest,"
+  },
+  {
+    "start": 338,
+    "end": 341,
+    "text": " which is where all the trees turned red and died, and they're not decaying."
+  },
+  {
+    "start": 341,
+    "end": 346,
+    "text": " So there's leaf litter, you know, there's sort of leaf mulch on the ground."
+  },
+  {
+    "start": 346,
+    "end": 351,
+    "text": " It's three times thicker in the hottest bit of Chernobyl radiation-wise than it is in areas without radiation."
+  },
+  {
+    "start": 351,
+    "end": 354,
+    "text": " It's quite cool, isn't it?"
+  },
+  {
+    "start": 354,
+    "end": 357,
+    "text": " Because leaf litter is quite a nice thing to walk through and kick it up in the area."
+  },
+  {
+    "start": 357,
+    "end": 360,
+    "text": " So you'd go for some really nice, awesome walks, because it's still going to be raining."
+  },
+  {
+    "start": 360,
+    "end": 362,
+    "text": " So it's still going to get wet and soggy and nasty."
+  },
+  {
+    "start": 362,
+    "end": 364,
+    "text": " It's just going to be pretty hard to dust."
+  },
+  {
+    "start": 364,
+    "end": 365,
+    "text": " Yeah, he's right."
+  },
+  {
+    "start": 365,
+    "end": 366,
+    "text": " It's going to be really gross."
+  },
+  {
+    "start": 366,
+    "end": 367,
+    "text": " Yeah, it's going to be mulch, isn't it?"
+  },
+  {
+    "start": 367,
+    "end": 368,
+    "text": " Yeah, it is mulch on the face."
+  },
+  {
+    "start": 368,
+    "end": 370,
+    "text": " That's not a romantic walk through the woods, is it?"
+  },
+  {
+    "start": 370,
+    "end": 372,
+    "text": " When you kick it up."
+  },
+  {
+    "start": 372,
+    "end": 374,
+    "text": " So bacteria are really cool, right?"
+  },
+  {
+    "start": 374,
+    "end": 377,
+    "text": " And you do, actually, when you do our job, you get really bored, actually,"
+  },
+  {
+    "start": 377,
+    "end": 382,
+    "text": " of reading all the journalists you say, we have to do too much of it."
+  },
+  {
+    "start": 382,
+    "end": 386,
+    "text": " But all journalists say, everyone thinks bacteria just disease-causing bastards"
+  },
+  {
+    "start": 386,
+    "end": 389,
+    "text": " and actually some of them are really great, but some of them are really great."
+  },
+  {
+    "start": 389,
+    "end": 391,
+    "text": " And some of them are just cool."
+  },
+  {
+    "start": 391,
+    "end": 395,
+    "text": " So I learned about this one, which is the, let's see if I can bring out this,"
+  },
+  {
+    "start": 395,
+    "end": 399,
+    "text": " Aciditheobaculous, and you find it in caves."
+  },
+  {
+    "start": 399,
+    "end": 403,
+    "text": " And it only comes like a lot of bacteria in kind of microbial mats."
+  },
+  {
+    "start": 403,
+    "end": 405,
+    "text": " So they hang out together, bacteria often work together,"
+  },
+  {
+    "start": 405,
+    "end": 409,
+    "text": " comes in these microbial mats with, you know, many millions of them,"
+  },
+  {
+    "start": 409,
+    "end": 411,
+    "text": " all squashed up together, and it hangs off the ceiling,"
+  },
+  {
+    "start": 411,
+    "end": 414,
+    "text": " and it looks exactly like a staluck mite."
+  },
+  {
+    "start": 414,
+    "end": 415,
+    "text": " Tite scoot."
+  },
+  {
+    "start": 415,
+    "end": 418,
+    "text": " I always thought tight was off the ceiling, and then someone told me it was the other way around."
+  },
+  {
+    "start": 418,
+    "end": 419,
+    "text": " Yeah, it's tights come down."
+  },
+  {
+    "start": 419,
+    "end": 420,
+    "text": " Yeah."
+  },
+  {
+    "start": 420,
+    "end": 422,
+    "text": " That's what I always thought, and someone told me I was wrong."
+  },
+  {
+    "start": 422,
+    "end": 424,
+    "text": " Well, we're telling you, you're right."
+  },
+  {
+    "start": 424,
+    "end": 425,
+    "text": " Static tight, hold on tight."
+  },
+  {
+    "start": 425,
+    "end": 427,
+    "text": " Exactly, and staluck mite might, because it grows up."
+  },
+  {
+    "start": 427,
+    "end": 429,
+    "text": " Or mite, poke you in the bum."
+  },
+  {
+    "start": 429,
+    "end": 431,
+    "text": " That's what I might follow your head."
+  },
+  {
+    "start": 431,
+    "end": 433,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 433,
+    "end": 436,
+    "text": " Tite to the ground is hard, isn't it?"
+  },
+  {
+    "start": 436,
+    "end": 438,
+    "text": " The monarchs are hard."
+  },
+  {
+    "start": 438,
+    "end": 440,
+    "text": " Well, anyway, this stuff looks like a staluck tight,"
+  },
+  {
+    "start": 440,
+    "end": 442,
+    "text": " and it hangs off the roof of caves,"
+  },
+  {
+    "start": 442,
+    "end": 445,
+    "text": " but it's got the exact consistency of bogies."
+  },
+  {
+    "start": 445,
+    "end": 446,
+    "text": " And if you read about it in..."
+  },
+  {
+    "start": 446,
+    "end": 448,
+    "text": " Is that a scientific term?"
+  },
+  {
+    "start": 448,
+    "end": 451,
+    "text": " Yeah, because bogies have lots of different consistencies."
+  },
+  {
+    "start": 451,
+    "end": 453,
+    "text": " Of a healthy bogie, James."
+  },
+  {
+    "start": 453,
+    "end": 456,
+    "text": " A country bogie, not one of these horrible London polluted bogies."
+  },
+  {
+    "start": 456,
+    "end": 458,
+    "text": " What would happen to your bogies, if all the bacteria disappeared?"
+  },
+  {
+    "start": 458,
+    "end": 459,
+    "text": " Great question."
+  },
+  {
+    "start": 459,
+    "end": 460,
+    "text": " Would they get stuck in your nose, like your poo?"
+  },
+  {
+    "start": 460,
+    "end": 461,
+    "text": " No, no."
+  },
+  {
+    "start": 461,
+    "end": 462,
+    "text": " No, no."
+  },
+  {
+    "start": 462,
+    "end": 464,
+    "text": " You're going to get stuck in your nose."
+  },
+  {
+    "start": 464,
+    "end": 466,
+    "text": " The nasal concentration is what I'm asking."
+  },
+  {
+    "start": 466,
+    "end": 470,
+    "text": " They would not be colourful, like bogies are now."
+  },
+  {
+    "start": 470,
+    "end": 473,
+    "text": " I know, your pink bogies are always impressed me."
+  },
+  {
+    "start": 473,
+    "end": 475,
+    "text": " But the colours are the bacteria, aren't they?"
+  },
+  {
+    "start": 475,
+    "end": 477,
+    "text": " So you would still have mucus, but it would be..."
+  },
+  {
+    "start": 477,
+    "end": 478,
+    "text": " Really?"
+  },
+  {
+    "start": 478,
+    "end": 480,
+    "text": " But what would it gather around?"
+  },
+  {
+    "start": 480,
+    "end": 483,
+    "text": " I thought the bacteria was the start of a mucus party."
+  },
+  {
+    "start": 483,
+    "end": 485,
+    "text": " Yes, well, you might have hairs in your nose."
+  },
+  {
+    "start": 485,
+    "end": 486,
+    "text": " I have got hairs on my nose."
+  },
+  {
+    "start": 486,
+    "end": 488,
+    "text": " And they could be used as a nucleus?"
+  },
+  {
+    "start": 488,
+    "end": 489,
+    "text": " Yes, I see that now."
+  },
+  {
+    "start": 489,
+    "end": 491,
+    "text": " But, I mean, it's cleaner."
+  },
+  {
+    "start": 491,
+    "end": 493,
+    "text": " It's your first week of your body."
+  },
+  {
+    "start": 493,
+    "end": 494,
+    "text": " It's great."
+  },
+  {
+    "start": 494,
+    "end": 496,
+    "text": " You don't smell no mucus, no pooing."
+  },
+  {
+    "start": 496,
+    "end": 498,
+    "text": " Oh, it's got some soft stops."
+  },
+  {
+    "start": 498,
+    "end": 499,
+    "text": " It's brilliant."
+  },
+  {
+    "start": 499,
+    "end": 500,
+    "text": " You got glassy smell."
+  },
+  {
+    "start": 500,
+    "end": 501,
+    "text": " I can't think of it."
+  },
+  {
+    "start": 501,
+    "end": 502,
+    "text": " We've gone off topic."
+  },
+  {
+    "start": 502,
+    "end": 503,
+    "text": " Sorry, we have something."
+  },
+  {
+    "start": 503,
+    "end": 504,
+    "text": " We've strayed."
+  },
+  {
+    "start": 504,
+    "end": 506,
+    "text": " What I'm saying is, there's a lot of bacteria,"
+  },
+  {
+    "start": 506,
+    "end": 508,
+    "text": " which are basically bogies hanging from the ceiling."
+  },
+  {
+    "start": 508,
+    "end": 510,
+    "text": " And if you read journal articles about them,"
+  },
+  {
+    "start": 510,
+    "end": 513,
+    "text": " they're referred to snottites as \"insalactites\"."
+  },
+  {
+    "start": 513,
+    "end": 515,
+    "text": " So, you know, scientific journals."
+  },
+  {
+    "start": 515,
+    "end": 516,
+    "text": " It's talking about the snottites."
+  },
+  {
+    "start": 516,
+    "end": 520,
+    "text": " And they're actually really cool because they excrete sulfuric acid."
+  },
+  {
+    "start": 520,
+    "end": 522,
+    "text": " And that dissolves the limestone."
+  },
+  {
+    "start": 522,
+    "end": 523,
+    "text": " And it makes caves go sparkly."
+  },
+  {
+    "start": 523,
+    "end": 525,
+    "text": " So, you get really sparkly caves,"
+  },
+  {
+    "start": 525,
+    "end": 529,
+    "text": " because it creates gypsum, which is like gypsum crystals."
+  },
+  {
+    "start": 529,
+    "end": 530,
+    "text": " It's very cool."
+  },
+  {
+    "start": 530,
+    "end": 531,
+    "text": " But they are called snottites."
+  },
+  {
+    "start": 531,
+    "end": 533,
+    "text": " That sounds like an ancient people."
+  },
+  {
+    "start": 533,
+    "end": 534,
+    "text": " It does, isn't it?"
+  },
+  {
+    "start": 534,
+    "end": 535,
+    "text": " Yeah."
+  },
+  {
+    "start": 535,
+    "end": 537,
+    "text": " They're fighting against their tights."
+  },
+  {
+    "start": 537,
+    "end": 541,
+    "text": " So, I looked up a few other what-ifs."
+  },
+  {
+    "start": 541,
+    "end": 542,
+    "text": " Oh, good idea."
+  },
+  {
+    "start": 542,
+    "end": 544,
+    "text": " So, this is a bit off topic, I know."
+  },
+  {
+    "start": 544,
+    "end": 547,
+    "text": " But I just basically went to Google and started going through what?"
+  },
+  {
+    "start": 547,
+    "end": 549,
+    "text": " I just, what if X happened?"
+  },
+  {
+    "start": 549,
+    "end": 551,
+    "text": " And there are loads of amazing results."
+  },
+  {
+    "start": 551,
+    "end": 554,
+    "text": " So, what would happen if there was no number six?"
+  },
+  {
+    "start": 554,
+    "end": 556,
+    "text": " This is on 538.com."
+  },
+  {
+    "start": 556,
+    "end": 558,
+    "text": " I just got straight from 5 to 7."
+  },
+  {
+    "start": 558,
+    "end": 559,
+    "text": " Well, no, this is the..."
+  },
+  {
+    "start": 559,
+    "end": 560,
+    "text": " I would."
+  },
+  {
+    "start": 560,
+    "end": 561,
+    "text": " You might."
+  },
+  {
+    "start": 561,
+    "end": 564,
+    "text": " But basically, this was a question asked by a child who was five and a half years old."
+  },
+  {
+    "start": 564,
+    "end": 566,
+    "text": " And clearly, interested in what happens next."
+  },
+  {
+    "start": 566,
+    "end": 569,
+    "text": " And they went to mathematics professors at Duke University."
+  },
+  {
+    "start": 569,
+    "end": 571,
+    "text": " And they said, well, everything would fall apart."
+  },
+  {
+    "start": 571,
+    "end": 572,
+    "text": " They said."
+  },
+  {
+    "start": 572,
+    "end": 573,
+    "text": " They said."
+  },
+  {
+    "start": 573,
+    "end": 575,
+    "text": " I imagine they said, stop wasting my time."
+  },
+  {
+    "start": 575,
+    "end": 576,
+    "text": " I have no more important research to be getting on with."
+  },
+  {
+    "start": 576,
+    "end": 577,
+    "text": " They said it's really interesting."
+  },
+  {
+    "start": 577,
+    "end": 581,
+    "text": " Because basically, if there's no six, there can't be any numbers higher than six."
+  },
+  {
+    "start": 581,
+    "end": 582,
+    "text": " You can't have seven."
+  },
+  {
+    "start": 582,
+    "end": 583,
+    "text": " That's true."
+  },
+  {
+    "start": 583,
+    "end": 586,
+    "text": " This is a math professor who said all the other integers are out."
+  },
+  {
+    "start": 586,
+    "end": 587,
+    "text": " It's very detrimental."
+  },
+  {
+    "start": 587,
+    "end": 590,
+    "text": " If you think about it, how do you define six?"
+  },
+  {
+    "start": 590,
+    "end": 592,
+    "text": " One more than five."
+  },
+  {
+    "start": 592,
+    "end": 594,
+    "text": " How do you define seven?"
+  },
+  {
+    "start": 594,
+    "end": 595,
+    "text": " Two more than five."
+  },
+  {
+    "start": 595,
+    "end": 596,
+    "text": " Then you're five."
+  },
+  {
+    "start": 596,
+    "end": 597,
+    "text": " Oh, exactly."
+  },
+  {
+    "start": 597,
+    "end": 600,
+    "text": " So, if you define it as one more than six, you're in trouble."
+  },
+  {
+    "start": 600,
+    "end": 603,
+    "text": " But if you define it as two more than five, you're absolutely fine."
+  },
+  {
+    "start": 603,
+    "end": 607,
+    "text": " But then, if you start working that way, how do you define 11?"
+  },
+  {
+    "start": 607,
+    "end": 608,
+    "text": " Six more than five."
+  },
+  {
+    "start": 608,
+    "end": 609,
+    "text": " Yeah."
+  },
+  {
+    "start": 609,
+    "end": 610,
+    "text": " But there's no six."
+  },
+  {
+    "start": 610,
+    "end": 611,
+    "text": " So now 11's in trouble."
+  },
+  {
+    "start": 611,
+    "end": 612,
+    "text": " Exactly."
+  },
+  {
+    "start": 612,
+    "end": 615,
+    "text": " This is an actual math professor who said, we are screwed if we lose six."
+  },
+  {
+    "start": 615,
+    "end": 618,
+    "text": " I think to reassure him, you just get low."
+  },
+  {
+    "start": 618,
+    "end": 621,
+    "text": " You just bump seven down, don't you?"
+  },
+  {
+    "start": 621,
+    "end": 622,
+    "text": " And then you bump eight down."
+  },
+  {
+    "start": 622,
+    "end": 625,
+    "text": " Everyone gets a bump down one."
+  },
+  {
+    "start": 625,
+    "end": 629,
+    "text": " Or you could promote everyone from zero to five."
+  },
+  {
+    "start": 629,
+    "end": 631,
+    "text": " And then you promote zero to one."
+  },
+  {
+    "start": 631,
+    "end": 632,
+    "text": " Zero is always wanted to be one."
+  },
+  {
+    "start": 632,
+    "end": 634,
+    "text": " Zero is just sitting there uselessly."
+  },
+  {
+    "start": 634,
+    "end": 638,
+    "text": " The concept of zero is a useless one as established by all that."
+  },
+  {
+    "start": 638,
+    "end": 640,
+    "text": " But it didn't exist until, you know."
+  },
+  {
+    "start": 640,
+    "end": 642,
+    "text": " It wasn't about the seventh century."
+  },
+  {
+    "start": 642,
+    "end": 644,
+    "text": " How do we get to the seventh century without zero?"
+  },
+  {
+    "start": 644,
+    "end": 645,
+    "text": " It's impossible."
+  },
+  {
+    "start": 645,
+    "end": 646,
+    "text": " Exactly."
+  },
+  {
+    "start": 646,
+    "end": 648,
+    "text": " It was the sixth century then, all the eight."
+  },
+  {
+    "start": 648,
+    "end": 652,
+    "text": " Anyway, I was looking at some motive stuff as well."
+  },
+  {
+    "start": 652,
+    "end": 654,
+    "text": " Mainly because you said you were."
+  },
+  {
+    "start": 654,
+    "end": 656,
+    "text": " And I thought, I'll copy Andy."
+  },
+  {
+    "start": 656,
+    "end": 657,
+    "text": " That's what I do."
+  },
+  {
+    "start": 657,
+    "end": 660,
+    "text": " So there's the what if everyone thinks about if we all jumped at the same time,"
+  },
+  {
+    "start": 660,
+    "end": 661,
+    "text": " what would happen?"
+  },
+  {
+    "start": 661,
+    "end": 664,
+    "text": " And if we all gathered together in the same place and jumped at the same time,"
+  },
+  {
+    "start": 664,
+    "end": 668,
+    "text": " then we would push the earth in the opposite direction to the way we jumped"
+  },
+  {
+    "start": 668,
+    "end": 674,
+    "text": " by a hundred the radius of a hydrogen atom, which I think is actually decent."
+  },
+  {
+    "start": 674,
+    "end": 677,
+    "text": " Yeah, that's not bad."
+  },
+  {
+    "start": 677,
+    "end": 679,
+    "text": " Is it worth the organisation required?"
+  },
+  {
+    "start": 679,
+    "end": 681,
+    "text": " Yeah, that's not, I think that's not much actually."
+  },
+  {
+    "start": 681,
+    "end": 682,
+    "text": " We could jump."
+  },
+  {
+    "start": 682,
+    "end": 688,
+    "text": " As soon as you come back down, the earth comes back up to meet you, doesn't it?"
+  },
+  {
+    "start": 688,
+    "end": 689,
+    "text": " Yeah, so it's not long-lasting."
+  },
+  {
+    "start": 689,
+    "end": 693,
+    "text": " It's a very rare circumstance in which we need the earth to move that little distance"
+  },
+  {
+    "start": 693,
+    "end": 694,
+    "text": " for that shorter time."
+  },
+  {
+    "start": 694,
+    "end": 696,
+    "text": " Would everyone at the other end of the earth go, \"Well, what was that?\""
+  },
+  {
+    "start": 696,
+    "end": 697,
+    "text": " No, we're all."
+  },
+  {
+    "start": 697,
+    "end": 700,
+    "text": " No one's even there to experience."
+  },
+  {
+    "start": 700,
+    "end": 703,
+    "text": " It would be amazing, Alex, if you were the only person on the other side of the earth."
+  },
+  {
+    "start": 703,
+    "end": 705,
+    "text": " No, we just did it as the elaborate."
+  },
+  {
+    "start": 705,
+    "end": 706,
+    "text": " Where is everyone?"
+  },
+  {
+    "start": 706,
+    "end": 708,
+    "text": " I must have missed a memo."
+  },
+  {
+    "start": 708,
+    "end": 710,
+    "text": " You're like, \"Where is everyone?\""
+  },
+  {
+    "start": 710,
+    "end": 713,
+    "text": " And why have I just moved one half of the hydrogen atom?"
+  },
+  {
+    "start": 713,
+    "end": 715,
+    "text": " I have a two-way hydrogen atom."
+  },
+  {
+    "start": 715,
+    "end": 718,
+    "text": " The entire world's jumping in a party and it's like on Facebook."
+  },
+  {
+    "start": 718,
+    "end": 720,
+    "text": " Oh, that's where they are."
+  },
+  {
+    "start": 720,
+    "end": 722,
+    "text": " Seven billion, attending."
+  },
+  {
+    "start": 722,
+    "end": 725,
+    "text": " One has not replied."
+  },
+  {
+    "start": 725,
+    "end": 726,
+    "text": " Great."
+  },
+  {
+    "start": 726,
+    "end": 728,
+    "text": " Can I give you one more what if?"
+  },
+  {
+    "start": 728,
+    "end": 730,
+    "text": " Then I'm done."
+  },
+  {
+    "start": 730,
+    "end": 734,
+    "text": " I didn't know if you shot a powerful gun, like a sort of a cannon gun,"
+  },
+  {
+    "start": 734,
+    "end": 737,
+    "text": " but a gun that exists today, a modern gun, on the moon,"
+  },
+  {
+    "start": 737,
+    "end": 739,
+    "text": " you can shoot yourself in the back."
+  },
+  {
+    "start": 739,
+    "end": 741,
+    "text": " It's so cool."
+  },
+  {
+    "start": 741,
+    "end": 743,
+    "text": " It's an elaborate suicide method, isn't it?"
+  },
+  {
+    "start": 743,
+    "end": 745,
+    "text": " If you want to fox the detective."
+  },
+  {
+    "start": 745,
+    "end": 747,
+    "text": " One of Agatha Christie's later, great stories."
+  },
+  {
+    "start": 747,
+    "end": 751,
+    "text": " The man has found dead a lone on the moon."
+  },
+  {
+    "start": 751,
+    "end": 753,
+    "text": " I'm just saying."
+  },
+  {
+    "start": 753,
+    "end": 756,
+    "text": " So hang on, does the bullet go all the way around the moon?"
+  },
+  {
+    "start": 756,
+    "end": 759,
+    "text": " It does, so the moon's small enough that the gravitation of the pool isn't too much."
+  },
+  {
+    "start": 759,
+    "end": 762,
+    "text": " It basically goes, you have to be on top of a hill or something."
+  },
+  {
+    "start": 762,
+    "end": 763,
+    "text": " On a mountain, yeah."
+  },
+  {
+    "start": 763,
+    "end": 767,
+    "text": " It kind of stays in very, very low orbit if you get the right velocity."
+  },
+  {
+    "start": 767,
+    "end": 772,
+    "text": " You obviously have to have a very precise shot to make sure you do hit yourself."
+  },
+  {
+    "start": 772,
+    "end": 777,
+    "text": " Does it only work its way on once, but if you shot it and then you felt it go past your it,"
+  },
+  {
+    "start": 777,
+    "end": 778,
+    "text": " would it go around against you?"
+  },
+  {
+    "start": 778,
+    "end": 780,
+    "text": " Have time to stand one click for that."
+  },
+  {
+    "start": 780,
+    "end": 782,
+    "text": " No, I think you've only got one chance."
+  },
+  {
+    "start": 782,
+    "end": 783,
+    "text": " Really?"
+  },
+  {
+    "start": 783,
+    "end": 785,
+    "text": " Because then you'd lose momentum, wouldn't you?"
+  },
+  {
+    "start": 785,
+    "end": 786,
+    "text": " It does still have a gravitation."
+  },
+  {
+    "start": 786,
+    "end": 789,
+    "text": " Yeah, it might still hit you, but it might hit you lower down like in the testicles."
+  },
+  {
+    "start": 789,
+    "end": 790,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 790,
+    "end": 791,
+    "text": " In height."
+  },
+  {
+    "start": 791,
+    "end": 792,
+    "text": " In height."
+  },
+  {
+    "start": 792,
+    "end": 799,
+    "text": " I've found shot in the testicles on the moon alone."
+  },
+  {
+    "start": 799,
+    "end": 800,
+    "text": " That is a great what if."
+  },
+  {
+    "start": 800,
+    "end": 801,
+    "text": " That's incredible."
+  },
+  {
+    "start": 801,
+    "end": 802,
+    "text": " It's probably all from Randall Monroe."
+  },
+  {
+    "start": 802,
+    "end": 804,
+    "text": " Who knows when you're looking up stuff, hypothetical stuff on the internet?"
+  },
+  {
+    "start": 804,
+    "end": 806,
+    "text": " How many of them were originally Randall Monroe?"
+  },
+  {
+    "start": 806,
+    "end": 808,
+    "text": " So we should credit him just in case."
+  },
+  {
+    "start": 808,
+    "end": 811,
+    "text": " Randall Monroe basically invented the two words, what an if."
+  },
+  {
+    "start": 811,
+    "end": 812,
+    "text": " He did, yeah."
+  },
+  {
+    "start": 812,
+    "end": 813,
+    "text": " Yeah."
+  },
+  {
+    "start": 813,
+    "end": 814,
+    "text": " No, he, that's ridiculous."
+  },
+  {
+    "start": 814,
+    "end": 815,
+    "text": " He just invented putting them together."
+  },
+  {
+    "start": 815,
+    "end": 817,
+    "text": " What if he did?"
+  },
+  {
+    "start": 817,
+    "end": 821,
+    "text": " Okay, it's time for fact number two, and that is my fact."
+  },
+  {
+    "start": 821,
+    "end": 826,
+    "text": " My fact is the world's largest wine cellar has tunnels 150 miles long,"
+  },
+  {
+    "start": 826,
+    "end": 831,
+    "text": " and it's so big it has to have traffic rules for people who drive through it."
+  },
+  {
+    "start": 831,
+    "end": 832,
+    "text": " That is very cool."
+  },
+  {
+    "start": 832,
+    "end": 833,
+    "text": " Yeah, it's incredible."
+  },
+  {
+    "start": 833,
+    "end": 834,
+    "text": " It's incredible."
+  },
+  {
+    "start": 834,
+    "end": 837,
+    "text": " It's in Moldova, and it's got streets, and all the streets are named after different grapes."
+  },
+  {
+    "start": 837,
+    "end": 841,
+    "text": " And you can drive a car through it, and a lot of employees there."
+  },
+  {
+    "start": 841,
+    "end": 844,
+    "text": " They just cycle around all the time, which is something it's called."
+  },
+  {
+    "start": 844,
+    "end": 849,
+    "text": " It's called Milesty Michi, and it's in, it's near the capital of Chiznau."
+  },
+  {
+    "start": 849,
+    "end": 852,
+    "text": " Yeah, it's incredible."
+  },
+  {
+    "start": 852,
+    "end": 856,
+    "text": " Yeah, who knew, I mean, James, obviously, but who knew of the rest of humanity"
+  },
+  {
+    "start": 856,
+    "end": 858,
+    "text": " about Moldova's wine industry?"
+  },
+  {
+    "start": 858,
+    "end": 861,
+    "text": " I know, because I've had Moldova wine."
+  },
+  {
+    "start": 861,
+    "end": 862,
+    "text": " Yeah, you don't."
+  },
+  {
+    "start": 862,
+    "end": 863,
+    "text": " You love it, don't you?"
+  },
+  {
+    "start": 863,
+    "end": 867,
+    "text": " Well, I do not rate it very highly on my list of wines by country."
+  },
+  {
+    "start": 867,
+    "end": 868,
+    "text": " I must say."
+  },
+  {
+    "start": 868,
+    "end": 869,
+    "text": " Drunk a lot in Russia."
+  },
+  {
+    "start": 869,
+    "end": 872,
+    "text": " They drink a lot in Russia, and the same way they drink Georgian wines."
+  },
+  {
+    "start": 872,
+    "end": 876,
+    "text": " I was reading that they really messed up the Moldova wine trade."
+  },
+  {
+    "start": 876,
+    "end": 881,
+    "text": " In fact, I think it was about 2005, when Putin imposed some sanctions on Moldova,"
+  },
+  {
+    "start": 881,
+    "end": 884,
+    "text": " and he banned all imports of their wine from going into Russia"
+  },
+  {
+    "start": 884,
+    "end": 886,
+    "text": " because they were a bit too pro-EU for him."
+  },
+  {
+    "start": 886,
+    "end": 890,
+    "text": " Or I think he said it was some other reason, but I think it was because they were too pro-EU."
+  },
+  {
+    "start": 890,
+    "end": 893,
+    "text": " And they're just loosening it, so that really damaged their wine trade."
+  },
+  {
+    "start": 893,
+    "end": 895,
+    "text": " Because about 40% of their exports went to Russia."
+  },
+  {
+    "start": 895,
+    "end": 902,
+    "text": " That's so weird, because Vladimir Putin, he has his own cave in the second largest wine seller in Moldova."
+  },
+  {
+    "start": 902,
+    "end": 903,
+    "text": " That was really pissing off."
+  },
+  {
+    "start": 903,
+    "end": 905,
+    "text": " No, no, no, it's a nice fight."
+  },
+  {
+    "start": 905,
+    "end": 908,
+    "text": " That's only 120 kilometers, but he has his own cave there."
+  },
+  {
+    "start": 908,
+    "end": 911,
+    "text": " And lots of celebrities or wealthy people have their own special little zone."
+  },
+  {
+    "start": 911,
+    "end": 913,
+    "text": " Oh, I thought it was Beverly Hills, but for wine."
+  },
+  {
+    "start": 913,
+    "end": 918,
+    "text": " Yeah, but he had his 50th birthday party in that second largest wine seller in Cricova."
+  },
+  {
+    "start": 918,
+    "end": 919,
+    "text": " So cool."
+  },
+  {
+    "start": 919,
+    "end": 920,
+    "text": " The wine seller at Cricova."
+  },
+  {
+    "start": 920,
+    "end": 922,
+    "text": " Have you heard about this? They have a race there?"
+  },
+  {
+    "start": 922,
+    "end": 923,
+    "text": " No."
+  },
+  {
+    "start": 923,
+    "end": 927,
+    "text": " So it hosts a 10 kilometer race around the wine seller."
+  },
+  {
+    "start": 927,
+    "end": 931,
+    "text": " And you wear a headlamp, because obviously it's quite dark, a lot of the place."
+  },
+  {
+    "start": 931,
+    "end": 933,
+    "text": " And at the end of it, you get a glass of Mold wine."
+  },
+  {
+    "start": 933,
+    "end": 939,
+    "text": " But during the race, they hire someone to dress up as the grim reaper and chase you."
+  },
+  {
+    "start": 939,
+    "end": 940,
+    "text": " No, hey."
+  },
+  {
+    "start": 940,
+    "end": 943,
+    "text": " It sounds to me like the prizes get in the wine, right?"
+  },
+  {
+    "start": 943,
+    "end": 944,
+    "text": " Yeah."
+  },
+  {
+    "start": 944,
+    "end": 945,
+    "text": " Kind of."
+  },
+  {
+    "start": 945,
+    "end": 947,
+    "text": " But you're running around next to a load of wine."
+  },
+  {
+    "start": 947,
+    "end": 948,
+    "text": " Yeah."
+  },
+  {
+    "start": 948,
+    "end": 950,
+    "text": " No one ever gets to the end."
+  },
+  {
+    "start": 950,
+    "end": 953,
+    "text": " They also realise that it's like building an Olympic stadium out of gold medals."
+  },
+  {
+    "start": 953,
+    "end": 962,
+    "text": " We should say that that second largest wine tunnel or cave or seller in Moldova is also the second largest in the world."
+  },
+  {
+    "start": 962,
+    "end": 963,
+    "text": " Oh, yeah, absolutely."
+  },
+  {
+    "start": 963,
+    "end": 966,
+    "text": " It majors in this thing, having big wine sellers."
+  },
+  {
+    "start": 966,
+    "end": 969,
+    "text": " And this one, the biggest one, Milesty Meatsy."
+  },
+  {
+    "start": 969,
+    "end": 974,
+    "text": " Two million bottles it has, which is more than the next 10 sellers combined."
+  },
+  {
+    "start": 974,
+    "end": 975,
+    "text": " Wow."
+  },
+  {
+    "start": 975,
+    "end": 976,
+    "text": " No."
+  },
+  {
+    "start": 976,
+    "end": 977,
+    "text": " It's a big sellermate."
+  },
+  {
+    "start": 977,
+    "end": 978,
+    "text": " Jesus."
+  },
+  {
+    "start": 978,
+    "end": 979,
+    "text": " That is really big."
+  },
+  {
+    "start": 979,
+    "end": 980,
+    "text": " Yeah."
+  },
+  {
+    "start": 980,
+    "end": 981,
+    "text": " Try some."
+  },
+  {
+    "start": 981,
+    "end": 983,
+    "text": " We are actually drinking wine now, aren't we?"
+  },
+  {
+    "start": 983,
+    "end": 984,
+    "text": " To celebrate this fact."
+  },
+  {
+    "start": 984,
+    "end": 985,
+    "text": " That's pretty good."
+  },
+  {
+    "start": 985,
+    "end": 985,
+    "text": " We are."
+  },
+  {
+    "start": 985,
+    "end": 987,
+    "text": " I was thinking to celebrate, nice one, James."
+  },
+  {
+    "start": 987,
+    "end": 989,
+    "text": " You've earned yourself another glass for that."
+  },
+  {
+    "start": 989,
+    "end": 990,
+    "text": " That's good."
+  },
+  {
+    "start": 990,
+    "end": 993,
+    "text": " That's really going to help my performance later on."
+  },
+  {
+    "start": 993,
+    "end": 995,
+    "text": " I'll cave in and have a glass too."
+  },
+  {
+    "start": 995,
+    "end": 996,
+    "text": " Very strong."
+  },
+  {
+    "start": 996,
+    "end": 999,
+    "text": " Alex, have you got a pun that will earn you a glass of this red wine?"
+  },
+  {
+    "start": 999,
+    "end": 1002,
+    "text": " I don't have to have one because I'm the banker."
+  },
+  {
+    "start": 1002,
+    "end": 1004,
+    "text": " I've got nothing."
+  },
+  {
+    "start": 1004,
+    "end": 1005,
+    "text": " Oh, well."
+  },
+  {
+    "start": 1005,
+    "end": 1007,
+    "text": " Well, we've got some beer here."
+  },
+  {
+    "start": 1007,
+    "end": 1008,
+    "text": " Yeah."
+  },
+  {
+    "start": 1008,
+    "end": 1009,
+    "text": " What else can we say?"
+  },
+  {
+    "start": 1009,
+    "end": 1013,
+    "text": " So in Moldova, you will find the world's largest building in the shape of a bottle."
+  },
+  {
+    "start": 1013,
+    "end": 1015,
+    "text": " And it is."
+  },
+  {
+    "start": 1015,
+    "end": 1018,
+    "text": " It hosts the Strong Drinks Museum."
+  },
+  {
+    "start": 1018,
+    "end": 1019,
+    "text": " Wow."
+  },
+  {
+    "start": 1019,
+    "end": 1021,
+    "text": " It sounds like an awesome museum, right?"
+  },
+  {
+    "start": 1021,
+    "end": 1022,
+    "text": " Yeah."
+  },
+  {
+    "start": 1022,
+    "end": 1023,
+    "text": " Hello, welcome to this."
+  },
+  {
+    "start": 1023,
+    "end": 1026,
+    "text": " What did you like the audio guy?"
+  },
+  {
+    "start": 1026,
+    "end": 1031,
+    "text": " The audio guy was the same guy as me."
+  },
+  {
+    "start": 1031,
+    "end": 1032,
+    "text": " My wife."
+  },
+  {
+    "start": 1032,
+    "end": 1034,
+    "text": " Is it all I've ever understood?"
+  },
+  {
+    "start": 1034,
+    "end": 1037,
+    "text": " When you say the largest building shape, like a bottle,"
+  },
+  {
+    "start": 1037,
+    "end": 1040,
+    "text": " it's not that it's the largest building in the world and it's shaped like a bottle."
+  },
+  {
+    "start": 1040,
+    "end": 1041,
+    "text": " No, mate."
+  },
+  {
+    "start": 1041,
+    "end": 1044,
+    "text": " It's just that there are some buildings in the world, shaped like bottles, and Moldova has the biggest one."
+  },
+  {
+    "start": 1044,
+    "end": 1045,
+    "text": " Yeah."
+  },
+  {
+    "start": 1045,
+    "end": 1048,
+    "text": " So the largest building in the world is somewhere in Dubai or something, isn't it?"
+  },
+  {
+    "start": 1048,
+    "end": 1049,
+    "text": " No, it's not Taipei."
+  },
+  {
+    "start": 1049,
+    "end": 1051,
+    "text": " And we would probably know if it was shaped like a white bottle."
+  },
+  {
+    "start": 1051,
+    "end": 1052,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1052,
+    "end": 1053,
+    "text": " Well, kind of odd."
+  },
+  {
+    "start": 1053,
+    "end": 1055,
+    "text": " Scrape is all shaped a bit like wine bottle."
+  },
+  {
+    "start": 1055,
+    "end": 1056,
+    "text": " Wow."
+  },
+  {
+    "start": 1056,
+    "end": 1058,
+    "text": " It's a great philosophical point for another time."
+  },
+  {
+    "start": 1058,
+    "end": 1059,
+    "text": " A bit."
+  },
+  {
+    "start": 1059,
+    "end": 1060,
+    "text": " The Gurkin, isn't."
+  },
+  {
+    "start": 1060,
+    "end": 1062,
+    "text": " Uh, no, that's true."
+  },
+  {
+    "start": 1062,
+    "end": 1064,
+    "text": " That's shaped like a Gurkin, the walkie-talkie."
+  },
+  {
+    "start": 1064,
+    "end": 1065,
+    "text": " No, true."
+  },
+  {
+    "start": 1065,
+    "end": 1068,
+    "text": " The entire state building is shaped like a novelty liquor bottle, I would say."
+  },
+  {
+    "start": 1068,
+    "end": 1072,
+    "text": " The shot is shaped like a tiny bit of broken wine bottle."
+  },
+  {
+    "start": 1072,
+    "end": 1077,
+    "text": " But we didn't bottle wine until 1860."
+  },
+  {
+    "start": 1077,
+    "end": 1078,
+    "text": " I think it was."
+  },
+  {
+    "start": 1078,
+    "end": 1083,
+    "text": " So it was illegal to sell wine by the bottle between 1636 and 1860."
+  },
+  {
+    "start": 1083,
+    "end": 1087,
+    "text": " And the reason was that people who were doing it before that, when glass first came in,"
+  },
+  {
+    "start": 1087,
+    "end": 1089,
+    "text": " it was really easy to cheat on the sides."
+  },
+  {
+    "start": 1089,
+    "end": 1091,
+    "text": " So you could sell someone a bottle that wasn't enough wine."
+  },
+  {
+    "start": 1091,
+    "end": 1094,
+    "text": " So you sold it by the barrel and then you took it home and you put it in your own bottle."
+  },
+  {
+    "start": 1094,
+    "end": 1096,
+    "text": " There were bottles of wine that existed."
+  },
+  {
+    "start": 1096,
+    "end": 1097,
+    "text": " Yeah, yeah, they had them at home."
+  },
+  {
+    "start": 1097,
+    "end": 1099,
+    "text": " I didn't know how you siphoned it in."
+  },
+  {
+    "start": 1099,
+    "end": 1100,
+    "text": " You couldn't buy a bottle."
+  },
+  {
+    "start": 1100,
+    "end": 1101,
+    "text": " Yeah."
+  },
+  {
+    "start": 1101,
+    "end": 1104,
+    "text": " Because I get a bit annoyed when there's not a reasonable size option at a bar."
+  },
+  {
+    "start": 1104,
+    "end": 1108,
+    "text": " And if I had to choose between a glass of wine and a barrel of wine, I'd be very annoyed."
+  },
+  {
+    "start": 1108,
+    "end": 1110,
+    "text": " I'd like a large glass."
+  },
+  {
+    "start": 1110,
+    "end": 1111,
+    "text": " No, we don't do that."
+  },
+  {
+    "start": 1111,
+    "end": 1113,
+    "text": " We're 125 ml or a barrel."
+  },
+  {
+    "start": 1113,
+    "end": 1116,
+    "text": " I'll have a barrel."
+  },
+  {
+    "start": 1116,
+    "end": 1118,
+    "text": " Have you heard about the government's wine seller?"
+  },
+  {
+    "start": 1118,
+    "end": 1119,
+    "text": " No."
+  },
+  {
+    "start": 1119,
+    "end": 1125,
+    "text": " So the government of this country has a wine seller and it's for when they host parties or receptions"
+  },
+  {
+    "start": 1125,
+    "end": 1128,
+    "text": " or dignitaries or big dinners, you know, they do loads of official occasions."
+  },
+  {
+    "start": 1128,
+    "end": 1133,
+    "text": " And so they have to have a wine seller and it's got about 34,000 bottles of wine in it."
+  },
+  {
+    "start": 1133,
+    "end": 1136,
+    "text": " Valued, I think about £800,000."
+  },
+  {
+    "start": 1136,
+    "end": 1138,
+    "text": " But it's really clever."
+  },
+  {
+    "start": 1138,
+    "end": 1142,
+    "text": " They try and sell fund by selling off every year or every few years."
+  },
+  {
+    "start": 1142,
+    "end": 1144,
+    "text": " They sell off some really good wines."
+  },
+  {
+    "start": 1144,
+    "end": 1148,
+    "text": " You know, they sell one bottle of a great wine which allows them to throw an entire party with rubbish wine."
+  },
+  {
+    "start": 1148,
+    "end": 1149,
+    "text": " Sure."
+  },
+  {
+    "start": 1149,
+    "end": 1155,
+    "text": " And during the Second World War, one of the first aggressive actions of Britain and the entire wall"
+  },
+  {
+    "start": 1155,
+    "end": 1158,
+    "text": " was to requisition the wine from the German Embassy."
+  },
+  {
+    "start": 1158,
+    "end": 1165,
+    "text": " Similarly, I didn't know about the Bolshevik revolution and it's running into wine problems."
+  },
+  {
+    "start": 1165,
+    "end": 1168,
+    "text": " So this was when the Bolshevik stormed the Winter Palace."
+  },
+  {
+    "start": 1168,
+    "end": 1172,
+    "text": " The Winter Palace obviously had this enormous wine seller which they all discovered"
+  },
+  {
+    "start": 1172,
+    "end": 1174,
+    "text": " or the red guard had been sent in."
+  },
+  {
+    "start": 1174,
+    "end": 1176,
+    "text": " And they got really drunk immediately."
+  },
+  {
+    "start": 1176,
+    "end": 1181,
+    "text": " Was there a rosé guard as well who were not as popular?"
+  },
+  {
+    "start": 1181,
+    "end": 1184,
+    "text": " So yeah, they went and got really drunk and then they'd send others in."
+  },
+  {
+    "start": 1184,
+    "end": 1189,
+    "text": " So the leaders, the Bolshevik leaders, your Lenin's, they're quite annoyed because they really want to get on with the job."
+  },
+  {
+    "start": 1189,
+    "end": 1193,
+    "text": " And they keep sending in more guards and more people in their revolutionary lot."
+  },
+  {
+    "start": 1193,
+    "end": 1194,
+    "text": " And they kept getting drunk."
+  },
+  {
+    "start": 1194,
+    "end": 1200,
+    "text": " And I was reading an extract from this guy called Antonov Of Sienko who was a Bolshevik commander."
+  },
+  {
+    "start": 1200,
+    "end": 1204,
+    "text": " And he remembered repeatedly sending troops in and them succumbing."
+  },
+  {
+    "start": 1204,
+    "end": 1208,
+    "text": " Eventually, he said we sent armoured cars to drive away other crowds."
+  },
+  {
+    "start": 1208,
+    "end": 1212,
+    "text": " But the armoured cars started weaving suspiciously after a short amount of time."
+  },
+  {
+    "start": 1212,
+    "end": 1217,
+    "text": " And then he said they tried to flood the sellers so that this wine issue was totally removed."
+  },
+  {
+    "start": 1217,
+    "end": 1220,
+    "text": " And the firemen they deployed to flood the sellers ended up getting drunk."
+  },
+  {
+    "start": 1220,
+    "end": 1222,
+    "text": " So they failed to do that."
+  },
+  {
+    "start": 1222,
+    "end": 1223,
+    "text": " It was just havoc."
+  },
+  {
+    "start": 1223,
+    "end": 1224,
+    "text": " That is amazing."
+  },
+  {
+    "start": 1224,
+    "end": 1225,
+    "text": " Yeah, very undisciplined."
+  },
+  {
+    "start": 1225,
+    "end": 1226,
+    "text": " That's so funny."
+  },
+  {
+    "start": 1226,
+    "end": 1230,
+    "text": " Have you had Octavian vaults?"
+  },
+  {
+    "start": 1230,
+    "end": 1231,
+    "text": " No."
+  },
+  {
+    "start": 1231,
+    "end": 1233,
+    "text": " It's another mine actually and it's in Wiltshire."
+  },
+  {
+    "start": 1233,
+    "end": 1236,
+    "text": " And it's got five million bottles of wine in it."
+  },
+  {
+    "start": 1236,
+    "end": 1237,
+    "text": " What?"
+  },
+  {
+    "start": 1237,
+    "end": 1238,
+    "text": " No."
+  },
+  {
+    "start": 1238,
+    "end": 1240,
+    "text": " But this one that's of the world's biggest has got two million."
+  },
+  {
+    "start": 1240,
+    "end": 1241,
+    "text": " No, you're right."
+  },
+  {
+    "start": 1241,
+    "end": 1242,
+    "text": " I'm looking at that and doubting it now."
+  },
+  {
+    "start": 1242,
+    "end": 1244,
+    "text": " But it's under caution in Wiltshire."
+  },
+  {
+    "start": 1244,
+    "end": 1245,
+    "text": " I mean, it's not..."
+  },
+  {
+    "start": 1245,
+    "end": 1248,
+    "text": " Wait, caution is where the secret nuclear bunker is as well."
+  },
+  {
+    "start": 1248,
+    "end": 1250,
+    "text": " It got a lot on the ground, man."
+  },
+  {
+    "start": 1250,
+    "end": 1253,
+    "text": " It's basically for wealthy people or famous people."
+  },
+  {
+    "start": 1253,
+    "end": 1258,
+    "text": " But it's the size of 20 football pitches and they hold a huge amount of wine there."
+  },
+  {
+    "start": 1258,
+    "end": 1260,
+    "text": " Which people have as investments and things like that."
+  },
+  {
+    "start": 1260,
+    "end": 1263,
+    "text": " I think I should go and check it out for research purposes."
+  },
+  {
+    "start": 1263,
+    "end": 1266,
+    "text": " If I don't come out for a while, I'll not come along."
+  },
+  {
+    "start": 1266,
+    "end": 1267,
+    "text": " Just make sure I'm..."
+  },
+  {
+    "start": 1267,
+    "end": 1269,
+    "text": " I think they'll send me in."
+  },
+  {
+    "start": 1269,
+    "end": 1270,
+    "text": " I think they'll send in Alex as well."
+  },
+  {
+    "start": 1270,
+    "end": 1273,
+    "text": " I'm gonna send it back and find that Anna's finished it all off."
+  },
+  {
+    "start": 1273,
+    "end": 1275,
+    "text": " You're gonna be waiting to end one of these things."
+  },
+  {
+    "start": 1275,
+    "end": 1279,
+    "text": " If Anna had been in the Russian Revolution, it would have all been over a lot faster."
+  },
+  {
+    "start": 1279,
+    "end": 1283,
+    "text": " Well, I quite like about wine is how French wine has just always been the best wine."
+  },
+  {
+    "start": 1283,
+    "end": 1284,
+    "text": " So..."
+  },
+  {
+    "start": 1284,
+    "end": 1287,
+    "text": " Just the one-kissing you've ever said on a podcast."
+  },
+  {
+    "start": 1287,
+    "end": 1289,
+    "text": " What I love about it..."
+  },
+  {
+    "start": 1289,
+    "end": 1294,
+    "text": " When the Greeks first met the goals and tasted what the grapes were like, what the wine was like."
+  },
+  {
+    "start": 1294,
+    "end": 1296,
+    "text": " They were like, this is obviously the only wine we're gonna drink."
+  },
+  {
+    "start": 1296,
+    "end": 1301,
+    "text": " The same with the Romans from the start of the Roman Empire, the invasion of the goals in like the 50s BC."
+  },
+  {
+    "start": 1301,
+    "end": 1305,
+    "text": " They immediately started making sure all their wine was imported from there."
+  },
+  {
+    "start": 1305,
+    "end": 1313,
+    "text": " To the extent that by 92 AD, the Emperor Demission said that he wasn't gonna allow any new planting in France."
+  },
+  {
+    "start": 1313,
+    "end": 1315,
+    "text": " So they had they possessed France in France by that point."
+  },
+  {
+    "start": 1315,
+    "end": 1320,
+    "text": " He said, you're not allowed to plant vines here because it's ruining the industry back home."
+  },
+  {
+    "start": 1320,
+    "end": 1323,
+    "text": " It's ruining the Roman industry because people only want to drink French wine."
+  },
+  {
+    "start": 1323,
+    "end": 1329,
+    "text": " So there must be an objective quality to French wine that must be better?"
+  },
+  {
+    "start": 1329,
+    "end": 1336,
+    "text": " Well, there's an objective quality to Moldovan wine that says it's not as good in my opinion."
+  },
+  {
+    "start": 1336,
+    "end": 1340,
+    "text": " They weren't banning any Moldovan from growing their own vines and export them."
+  },
+  {
+    "start": 1340,
+    "end": 1343,
+    "text": " Sure, feel free to try to sell this to your wine."
+  },
+  {
+    "start": 1343,
+    "end": 1344,
+    "text": " Yeah."
+  },
+  {
+    "start": 1344,
+    "end": 1347,
+    "text": " So, obviously wine sellers can have rat problems."
+  },
+  {
+    "start": 1347,
+    "end": 1353,
+    "text": " Yeah, they can, as Incas, they're sellers. And a lot of French wine sellers have rat problems."
+  },
+  {
+    "start": 1353,
+    "end": 1356,
+    "text": " And you get populations of alcoholic rats."
+  },
+  {
+    "start": 1356,
+    "end": 1362,
+    "text": " To the extent where there is a traditional Bordeaux recipe for rat that you want?"
+  },
+  {
+    "start": 1362,
+    "end": 1363,
+    "text": " What?"
+  },
+  {
+    "start": 1363,
+    "end": 1364,
+    "text": " Real alcoholic rats."
+  },
+  {
+    "start": 1364,
+    "end": 1368,
+    "text": " It specifies alcoholic rats as part of the recipe because they've drunk rats."
+  },
+  {
+    "start": 1368,
+    "end": 1373,
+    "text": " How do you identify whether a rat is an alcoholic or not?"
+  },
+  {
+    "start": 1373,
+    "end": 1379,
+    "text": " If you notice the rat drinking in the morning, is that when you know that you can cook the rat?"
+  },
+  {
+    "start": 1379,
+    "end": 1381,
+    "text": " They've got shaky paws."
+  },
+  {
+    "start": 1381,
+    "end": 1384,
+    "text": " Can we rat identify that it's an alcoholic?"
+  },
+  {
+    "start": 1384,
+    "end": 1388,
+    "text": " I think there's a big stage denial of rats."
+  },
+  {
+    "start": 1388,
+    "end": 1391,
+    "text": " Admitting you have a problem is the first step."
+  },
+  {
+    "start": 1391,
+    "end": 1395,
+    "text": " Admitting you are a rat at the best step."
+  },
+  {
+    "start": 1395,
+    "end": 1400,
+    "text": " Well, on stage 12, the cooking is you skin them and eviscerate them."
+  },
+  {
+    "start": 1400,
+    "end": 1406,
+    "text": " With a thick sauce of olive oil and crushed shallots and grill them over fire of broken wine barrels."
+  },
+  {
+    "start": 1406,
+    "end": 1410,
+    "text": " So, I mean, there is a sort of element of remapsism about the wine, including that picture."
+  },
+  {
+    "start": 1410,
+    "end": 1412,
+    "text": " Yeah, it's about a wine barrel as well."
+  },
+  {
+    "start": 1412,
+    "end": 1413,
+    "text": " But, like, that's kind of cool, right?"
+  },
+  {
+    "start": 1413,
+    "end": 1414,
+    "text": " That's very subtle."
+  },
+  {
+    "start": 1414,
+    "end": 1415,
+    "text": " Real mansicism."
+  },
+  {
+    "start": 1415,
+    "end": 1418,
+    "text": " It does sound post-apocalyptic as well."
+  },
+  {
+    "start": 1418,
+    "end": 1419,
+    "text": " That's true."
+  },
+  {
+    "start": 1419,
+    "end": 1421,
+    "text": " I think it's a shame Valentine's Day is over otherwise."
+  },
+  {
+    "start": 1421,
+    "end": 1425,
+    "text": " We'd all be serenading our partners with this kind of recipe."
+  },
+  {
+    "start": 1425,
+    "end": 1435,
+    "text": " Okay, it's time for fact number three, and that is Anna."
+  },
+  {
+    "start": 1435,
+    "end": 1439,
+    "text": " Yep, my fact this week is that, before they settled on the name Windsor,"
+  },
+  {
+    "start": 1439,
+    "end": 1442,
+    "text": " surnames that were considered for the royal family,"
+  },
+  {
+    "start": 1442,
+    "end": 1449,
+    "text": " included gulf, whipper, wetting, chewed a steward, and England."
+  },
+  {
+    "start": 1449,
+    "end": 1454,
+    "text": " I like chewed a steward because it's like a double barrel where they've taken both sides of the family."
+  },
+  {
+    "start": 1454,
+    "end": 1457,
+    "text": " I know, but I think they were worried it might sound a bit posh,"
+  },
+  {
+    "start": 1457,
+    "end": 1460,
+    "text": " and the royal family knew how they liked to not give that impression."
+  },
+  {
+    "start": 1460,
+    "end": 1462,
+    "text": " Yeah, they went really old, good old winds."
+  },
+  {
+    "start": 1462,
+    "end": 1463,
+    "text": " Sort of, yeah."
+  },
+  {
+    "start": 1463,
+    "end": 1465,
+    "text": " I like gulf and wetting, especially."
+  },
+  {
+    "start": 1465,
+    "end": 1468,
+    "text": " I've been in a lot of, you know, first idea brainstorming meetings,"
+  },
+  {
+    "start": 1468,
+    "end": 1471,
+    "text": " where there's no bad ideas, and that really sounds like it's one of those."
+  },
+  {
+    "start": 1471,
+    "end": 1472,
+    "text": " What is gulf?"
+  },
+  {
+    "start": 1472,
+    "end": 1473,
+    "text": " How do you spell gulf?"
+  },
+  {
+    "start": 1473,
+    "end": 1478,
+    "text": " So, it's G-U-E-L-P-H, so I don't know if that's the right pronunciation, actually."
+  },
+  {
+    "start": 1478,
+    "end": 1483,
+    "text": " Well, the house of gulf sounds so rubber."
+  },
+  {
+    "start": 1483,
+    "end": 1486,
+    "text": " So there was reasoning for all of this. This was in 1917."
+  },
+  {
+    "start": 1486,
+    "end": 1489,
+    "text": " So the royal family descended from Queen Victoria, who'd married Albert,"
+  },
+  {
+    "start": 1489,
+    "end": 1491,
+    "text": " were really officially the Saxkobergotha family,"
+  },
+  {
+    "start": 1491,
+    "end": 1493,
+    "text": " which had a bit of a German ring to it,"
+  },
+  {
+    "start": 1493,
+    "end": 1497,
+    "text": " and in 1917, for obvious reasons, Germany wasn't everyone's favourite country,"
+  },
+  {
+    "start": 1497,
+    "end": 1501,
+    "text": " and they decided to change their name, and they changed it to Windsor,"
+  },
+  {
+    "start": 1501,
+    "end": 1504,
+    "text": " and all of these other names genuinely were justified."
+  },
+  {
+    "start": 1504,
+    "end": 1508,
+    "text": " So, Albert's house, the Saxon royal house,"
+  },
+  {
+    "start": 1508,
+    "end": 1511,
+    "text": " had the names wetting and whipper in it,"
+  },
+  {
+    "start": 1511,
+    "end": 1514,
+    "text": " and then gulf came from the Hannah Varian royal house,"
+  },
+  {
+    "start": 1514,
+    "end": 1516,
+    "text": " and then, yeah, people threw in Tudor Stuart, why not?"
+  },
+  {
+    "start": 1516,
+    "end": 1518,
+    "text": " Everyone loved the Tudors, everyone loved the Stuart."
+  },
+  {
+    "start": 1518,
+    "end": 1521,
+    "text": " Who gets had over is in Germany."
+  },
+  {
+    "start": 1521,
+    "end": 1524,
+    "text": " Right, so people would have picked up. That's probably why I was dismissed quite early on."
+  },
+  {
+    "start": 1524,
+    "end": 1527,
+    "text": " I think you've buried the most hilarious lead in the story,"
+  },
+  {
+    "start": 1527,
+    "end": 1529,
+    "text": " and that they took the name from Windsor Castle,"
+  },
+  {
+    "start": 1529,
+    "end": 1533,
+    "text": " so the royal family was named after Windsor Castle rather than vice versa."
+  },
+  {
+    "start": 1533,
+    "end": 1535,
+    "text": " I think that's insane. That is very weird."
+  },
+  {
+    "start": 1535,
+    "end": 1536,
+    "text": " It's so funny."
+  },
+  {
+    "start": 1536,
+    "end": 1538,
+    "text": " But nobody knew what the official surname was,"
+  },
+  {
+    "start": 1538,
+    "end": 1541,
+    "text": " because they'd never been used. They didn't really know if they had a surname or not."
+  },
+  {
+    "start": 1541,
+    "end": 1542,
+    "text": " Yeah."
+  },
+  {
+    "start": 1542,
+    "end": 1544,
+    "text": " And when they got rid of the surname, it wasn't just the surname,"
+  },
+  {
+    "start": 1544,
+    "end": 1547,
+    "text": " it was the use of degree styles, dignitaries, titles,"
+  },
+  {
+    "start": 1547,
+    "end": 1550,
+    "text": " and honours of dukes and duchess of Saxony and princes"
+  },
+  {
+    "start": 1550,
+    "end": 1552,
+    "text": " and princesses of the Sax, Cobra, and Gotha,"
+  },
+  {
+    "start": 1552,
+    "end": 1555,
+    "text": " and all other German degree styles, dignitaries, titles, honours and appellations,"
+  },
+  {
+    "start": 1555,
+    "end": 1558,
+    "text": " because they have all this crap, like at the beginning of the end of their name."
+  },
+  {
+    "start": 1558,
+    "end": 1560,
+    "text": " So, they had to completely re-brand themselves."
+  },
+  {
+    "start": 1560,
+    "end": 1562,
+    "text": " It's not just case changing your name, it's not."
+  },
+  {
+    "start": 1562,
+    "end": 1564,
+    "text": " But isn't the Queen now Windsor Mount Baton?"
+  },
+  {
+    "start": 1564,
+    "end": 1565,
+    "text": " Yes."
+  },
+  {
+    "start": 1565,
+    "end": 1569,
+    "text": " Because you of Philip took, he wanted to say it. No, it's for a favourite cake."
+  },
+  {
+    "start": 1569,
+    "end": 1572,
+    "text": " Is it, even though you're always all in there,"
+  },
+  {
+    "start": 1572,
+    "end": 1574,
+    "text": " when she's just a man with your thing of Mount Batonburg?"
+  },
+  {
+    "start": 1574,
+    "end": 1579,
+    "text": " It's like horseshoe or more Batonburgs on top of it."
+  },
+  {
+    "start": 1579,
+    "end": 1584,
+    "text": " That is weird though, because the Batonburgs were the Batonburgs,"
+  },
+  {
+    "start": 1584,
+    "end": 1586,
+    "text": " but they changed to the Batonburgs of Philip's family,"
+  },
+  {
+    "start": 1586,
+    "end": 1589,
+    "text": " and at the same time, they thought we need to sound a bit less German,"
+  },
+  {
+    "start": 1589,
+    "end": 1591,
+    "text": " so they changed to Mount Baton."
+  },
+  {
+    "start": 1591,
+    "end": 1592,
+    "text": " So, get this."
+  },
+  {
+    "start": 1592,
+    "end": 1594,
+    "text": " Do you know the exact thing which prompted them to change?"
+  },
+  {
+    "start": 1594,
+    "end": 1598,
+    "text": " Because we'd had three years of total war against Germany before they thought,"
+  },
+  {
+    "start": 1598,
+    "end": 1600,
+    "text": " \"Oh, maybe we should be sounding so German.\""
+  },
+  {
+    "start": 1600,
+    "end": 1603,
+    "text": " The thing which prompted it was that there was a bombing raid on London."
+  },
+  {
+    "start": 1603,
+    "end": 1606,
+    "text": " And before that, there were some bombs from Zeppelin's,"
+  },
+  {
+    "start": 1606,
+    "end": 1611,
+    "text": " but this is the first time there was a heavy bomber plane dropping bombs on the British population."
+  },
+  {
+    "start": 1611,
+    "end": 1615,
+    "text": " June 1917, and the bomber planes were called Gotha Plains."
+  },
+  {
+    "start": 1615,
+    "end": 1616,
+    "text": " That was the name."
+  },
+  {
+    "start": 1616,
+    "end": 1620,
+    "text": " And people looked and thought, hang on, if they're called Gotha Plains,"
+  },
+  {
+    "start": 1620,
+    "end": 1624,
+    "text": " and those guys are called Bessachsikober Gothas, something's not right."
+  },
+  {
+    "start": 1624,
+    "end": 1627,
+    "text": " And it was within a month, they changed the name."
+  },
+  {
+    "start": 1627,
+    "end": 1629,
+    "text": " That was how first the turnaround was, which is quite a speedy..."
+  },
+  {
+    "start": 1629,
+    "end": 1630,
+    "text": " We still have Goths."
+  },
+  {
+    "start": 1630,
+    "end": 1632,
+    "text": " Yeah, that's true, yeah."
+  },
+  {
+    "start": 1632,
+    "end": 1634,
+    "text": " Why didn't they rebrand it?"
+  },
+  {
+    "start": 1634,
+    "end": 1637,
+    "text": " Imagine, oh, look, there's a pack of winters over there."
+  },
+  {
+    "start": 1637,
+    "end": 1638,
+    "text": " It was pretty good."
+  },
+  {
+    "start": 1638,
+    "end": 1643,
+    "text": " But the other thing is, why didn't the Germans then just rename their planes, winters?"
+  },
+  {
+    "start": 1643,
+    "end": 1647,
+    "text": " Just every time the Queen changed her name, they just renamed the planes."
+  },
+  {
+    "start": 1647,
+    "end": 1653,
+    "text": " I think the priority of the German Luftwaffe was to gently troll the Royal family into submission."
+  },
+  {
+    "start": 1653,
+    "end": 1655,
+    "text": " I think they were trying to just blow up the whole country."
+  },
+  {
+    "start": 1655,
+    "end": 1659,
+    "text": " I agree with that, but then on the other hand, there is a certain kind of propaganda thing"
+  },
+  {
+    "start": 1659,
+    "end": 1661,
+    "text": " that they're trying to do all the time, isn't it?"
+  },
+  {
+    "start": 1661,
+    "end": 1662,
+    "text": " Yeah, I reckon it would work that."
+  },
+  {
+    "start": 1662,
+    "end": 1664,
+    "text": " I do agree, they miss the trick."
+  },
+  {
+    "start": 1664,
+    "end": 1669,
+    "text": " Do you know why Elizabeth is Windsor Mountbatten rather than just Windsor,"
+  },
+  {
+    "start": 1669,
+    "end": 1670,
+    "text": " which was the suggestion?"
+  },
+  {
+    "start": 1670,
+    "end": 1673,
+    "text": " No, it's Mountbatten something to do with Prince Philip or something."
+  },
+  {
+    "start": 1673,
+    "end": 1677,
+    "text": " It certainly is, but they were the Windsor House and actually when they were born Charles and Anne,"
+  },
+  {
+    "start": 1677,
+    "end": 1682,
+    "text": " weren't born Windsor Mountbatten, but then a, what's described as an expert amateur,"
+  },
+  {
+    "start": 1682,
+    "end": 1685,
+    "text": " wrote to the Royal family or wrote to the government and said,"
+  },
+  {
+    "start": 1685,
+    "end": 1688,
+    "text": " if this Prince Andrew who was about to be born,"
+  },
+  {
+    "start": 1688,
+    "end": 1692,
+    "text": " if this baby that the Queen's pregnant with is born, not with his father's name,"
+  },
+  {
+    "start": 1692,
+    "end": 1697,
+    "text": " then he will have the badge of bastardry upon him."
+  },
+  {
+    "start": 1697,
+    "end": 1698,
+    "text": " Wow."
+  },
+  {
+    "start": 1698,
+    "end": 1700,
+    "text": " Because, you know, it's a piss embarrassing to not have your father."
+  },
+  {
+    "start": 1700,
+    "end": 1702,
+    "text": " The implies your parents might not be married."
+  },
+  {
+    "start": 1702,
+    "end": 1707,
+    "text": " And this causes huge consternation and there was an official parliamentary investigation into it"
+  },
+  {
+    "start": 1707,
+    "end": 1710,
+    "text": " where they decided eventually that they had to add Mountbatten to the name,"
+  },
+  {
+    "start": 1710,
+    "end": 1714,
+    "text": " because otherwise it would people would just assume Prince Andrew was a bastard born out of wedlock."
+  },
+  {
+    "start": 1714,
+    "end": 1716,
+    "text": " I mean, and of course, clearly people knew, didn't they?"
+  },
+  {
+    "start": 1716,
+    "end": 1719,
+    "text": " It was literally his parents with the Queen and Prince Philip."
+  },
+  {
+    "start": 1719,
+    "end": 1720,
+    "text": " You would have thought."
+  },
+  {
+    "start": 1720,
+    "end": 1723,
+    "text": " At least at that point on the Royal family went on to avoid any control of these two parities."
+  },
+  {
+    "start": 1723,
+    "end": 1725,
+    "text": " Thank God that was down the line."
+  },
+  {
+    "start": 1725,
+    "end": 1727,
+    "text": " Well, Prince Andrew, have a course."
+  },
+  {
+    "start": 1727,
+    "end": 1731,
+    "text": " But Prince Charles calls himself Charles Wales, doesn't he?"
+  },
+  {
+    "start": 1731,
+    "end": 1734,
+    "text": " Yeah, they still put it pretty fast at loose with their surnames, don't they?"
+  },
+  {
+    "start": 1734,
+    "end": 1737,
+    "text": " Which would have been even more embarrassing if they'd been called England."
+  },
+  {
+    "start": 1737,
+    "end": 1738,
+    "text": " Yeah."
+  },
+  {
+    "start": 1738,
+    "end": 1739,
+    "text": " Yeah, you're right."
+  },
+  {
+    "start": 1739,
+    "end": 1740,
+    "text": " Especially like we call it."
+  },
+  {
+    "start": 1740,
+    "end": 1741,
+    "text": " Would you have hibernated to England Wales?"
+  },
+  {
+    "start": 1741,
+    "end": 1743,
+    "text": " If it's like a football match."
+  },
+  {
+    "start": 1743,
+    "end": 1749,
+    "text": " What was that thing that you said they would have if the child was born with?"
+  },
+  {
+    "start": 1749,
+    "end": 1751,
+    "text": " At the badge of bastardry."
+  },
+  {
+    "start": 1751,
+    "end": 1754,
+    "text": " That weirdly is my only boy scout achievement."
+  },
+  {
+    "start": 1754,
+    "end": 1759,
+    "text": " For the other lads club together and gone over me, it's pretty proud."
+  },
+  {
+    "start": 1759,
+    "end": 1763,
+    "text": " What was the guy, what was he an amateur or what was he called?"
+  },
+  {
+    "start": 1763,
+    "end": 1764,
+    "text": " Expert amateur."
+  },
+  {
+    "start": 1764,
+    "end": 1766,
+    "text": " He was an expert amateur."
+  },
+  {
+    "start": 1766,
+    "end": 1770,
+    "text": " I feel like we get quite a lot of those actually writing into QI and we love them by the way."
+  },
+  {
+    "start": 1770,
+    "end": 1773,
+    "text": " He was a real expert, wasn't it?"
+  },
+  {
+    "start": 1773,
+    "end": 1776,
+    "text": " I think he'd previously embarrassed the government on other occasions by pointing out,"
+  },
+  {
+    "start": 1776,
+    "end": 1779,
+    "text": " \"Actually, if you do that, then genealogically you're screwed.\""
+  },
+  {
+    "start": 1779,
+    "end": 1781,
+    "text": " So he was good."
+  },
+  {
+    "start": 1781,
+    "end": 1784,
+    "text": " Yeah, and it wasn't that tone of voice, would you have fun and joy?"
+  },
+  {
+    "start": 1784,
+    "end": 1790,
+    "text": " Did you know that another role surname, Stuart, way further back, like Mary Queen of Scots,"
+  },
+  {
+    "start": 1790,
+    "end": 1794,
+    "text": " was originally steward, as in like an S steward, as in Steward."
+  },
+  {
+    "start": 1794,
+    "end": 1796,
+    "text": " That's where he got a role."
+  },
+  {
+    "start": 1796,
+    "end": 1798,
+    "text": " He was somewhere for Ryanair, didn't he?"
+  },
+  {
+    "start": 1798,
+    "end": 1803,
+    "text": " Yeah, he would, after his coronation, he would push the royal trolley all the way down Westminster Abbey,"
+  },
+  {
+    "start": 1803,
+    "end": 1805,
+    "text": " offering due to free on the left of the right."
+  },
+  {
+    "start": 1805,
+    "end": 1808,
+    "text": " To the pews."
+  },
+  {
+    "start": 1808,
+    "end": 1813,
+    "text": " So Mary Queen of Scots changed her name from Steward to Steward, S-T-U-A-R-T."
+  },
+  {
+    "start": 1813,
+    "end": 1817,
+    "text": " Yeah, because the French wouldn't have been able to pronounce it, they would have pronounced the W as a V,"
+  },
+  {
+    "start": 1817,
+    "end": 1819,
+    "text": " and it would have been steward."
+  },
+  {
+    "start": 1819,
+    "end": 1821,
+    "text": " She would have been Mary Steward."
+  },
+  {
+    "start": 1821,
+    "end": 1824,
+    "text": " Are you serious? That's why Stuart doesn't have a W now."
+  },
+  {
+    "start": 1824,
+    "end": 1825,
+    "text": " Yeah, and she just did it."
+  },
+  {
+    "start": 1825,
+    "end": 1828,
+    "text": " And they just do it just because people weren't pronouncing it correctly, so they're just like, \"Well, fine.\""
+  },
+  {
+    "start": 1828,
+    "end": 1832,
+    "text": " But the French wouldn't pronounce the D all the T at the end of that word, would they?"
+  },
+  {
+    "start": 1832,
+    "end": 1834,
+    "text": " Because they miss out the..."
+  },
+  {
+    "start": 1834,
+    "end": 1837,
+    "text": " So it doesn't really matter if it's Steward or Steward."
+  },
+  {
+    "start": 1837,
+    "end": 1839,
+    "text": " No, it's weird that you change the D to a T."
+  },
+  {
+    "start": 1839,
+    "end": 1843,
+    "text": " No, yeah, that makes sense. But then she would be Steward. It's the Steward."
+  },
+  {
+    "start": 1843,
+    "end": 1847,
+    "text": " But maybe it was just those rhino jokes that just got to her agenda."
+  },
+  {
+    "start": 1847,
+    "end": 1852,
+    "text": " I think there may be a change in the Royal Family's name coming up soon."
+  },
+  {
+    "start": 1852,
+    "end": 1853,
+    "text": " Oh, hello."
+  },
+  {
+    "start": 1853,
+    "end": 1854,
+    "text": " I'm all certain about this."
+  },
+  {
+    "start": 1854,
+    "end": 1856,
+    "text": " Sorry. You do say that."
+  },
+  {
+    "start": 1856,
+    "end": 1857,
+    "text": " I know I do."
+  },
+  {
+    "start": 1857,
+    "end": 1858,
+    "text": " Come on."
+  },
+  {
+    "start": 1858,
+    "end": 1860,
+    "text": " What are you saying the other day?"
+  },
+  {
+    "start": 1860,
+    "end": 1863,
+    "text": " I use the word \"hello\" sometimes to me."
+  },
+  {
+    "start": 1863,
+    "end": 1864,
+    "text": " Oh, hello."
+  },
+  {
+    "start": 1864,
+    "end": 1865,
+    "text": " Did you do that?"
+  },
+  {
+    "start": 1865,
+    "end": 1866,
+    "text": " I didn't believe him."
+  },
+  {
+    "start": 1866,
+    "end": 1867,
+    "text": " I didn't believe it either."
+  },
+  {
+    "start": 1867,
+    "end": 1868,
+    "text": " Yeah, I do sometimes."
+  },
+  {
+    "start": 1868,
+    "end": 1869,
+    "text": " I do."
+  },
+  {
+    "start": 1869,
+    "end": 1872,
+    "text": " But I think that that was the original meaning of the word \"hello\", wasn't it?"
+  },
+  {
+    "start": 1872,
+    "end": 1873,
+    "text": " Yeah."
+  },
+  {
+    "start": 1873,
+    "end": 1874,
+    "text": " I'm not making a point. It's just what I say."
+  },
+  {
+    "start": 1874,
+    "end": 1875,
+    "text": " No, I know."
+  },
+  {
+    "start": 1875,
+    "end": 1876,
+    "text": " I just didn't believe you."
+  },
+  {
+    "start": 1876,
+    "end": 1877,
+    "text": " And I'm really sorry for interrupting Andy."
+  },
+  {
+    "start": 1877,
+    "end": 1879,
+    "text": " When you guys are quite finished."
+  },
+  {
+    "start": 1879,
+    "end": 1884,
+    "text": " So when the throne is inherited from a queen, i.e. down a matrilineal line, right?"
+  },
+  {
+    "start": 1884,
+    "end": 1889,
+    "text": " The Royal House often changes to reflect the patrilineal descent of the new monarch."
+  },
+  {
+    "start": 1889,
+    "end": 1890,
+    "text": " It's a bit naughty."
+  },
+  {
+    "start": 1890,
+    "end": 1891,
+    "text": " But..."
+  },
+  {
+    "start": 1891,
+    "end": 1896,
+    "text": " So Queen Elizabeth is in the wet in Dynasty, as you say, from a branch of the House of the"
+  },
+  {
+    "start": 1896,
+    "end": 1898,
+    "text": " Saxco-Bergotha line, okay?"
+  },
+  {
+    "start": 1898,
+    "end": 1903,
+    "text": " But Prince Charles, his father's line, is Prince Philip, obviously."
+  },
+  {
+    "start": 1903,
+    "end": 1908,
+    "text": " And Prince Philip is a member of the House of Schleswig-Holstein-Sonderburg-Gluckstburg."
+  },
+  {
+    "start": 1908,
+    "end": 1909,
+    "text": " So genealogically..."
+  },
+  {
+    "start": 1909,
+    "end": 1912,
+    "text": " Goodness, we won't have the German problem again."
+  },
+  {
+    "start": 1912,
+    "end": 1919,
+    "text": " So Charles William, everybody down that line, because of that sort of ancient, slightly sexist,"
+  },
+  {
+    "start": 1919,
+    "end": 1922,
+    "text": " you know, tradition of the patrilineal thing, they are all members of that dynasty."
+  },
+  {
+    "start": 1922,
+    "end": 1926,
+    "text": " They probably will not change to make themselves the Schleswig-Holstein-Sonderburg-Gluckstburgs,"
+  },
+  {
+    "start": 1926,
+    "end": 1928,
+    "text": " but there's an outside chance."
+  },
+  {
+    "start": 1928,
+    "end": 1931,
+    "text": " That's like all of the names they brainstormed put together."
+  },
+  {
+    "start": 1931,
+    "end": 1933,
+    "text": " It's really weird that they have a hype..."
+  },
+  {
+    "start": 1933,
+    "end": 1935,
+    "text": " Like, their surname is a hypothetical surname."
+  },
+  {
+    "start": 1935,
+    "end": 1937,
+    "text": " They're like, \"Well, this is what our surname would be if we ever really used it.\""
+  },
+  {
+    "start": 1937,
+    "end": 1938,
+    "text": " Yeah, because they don't use them, don't they?"
+  },
+  {
+    "start": 1938,
+    "end": 1940,
+    "text": " But they don't because they have time they literally never use them."
+  },
+  {
+    "start": 1940,
+    "end": 1942,
+    "text": " So this whole thing is pointless."
+  },
+  {
+    "start": 1942,
+    "end": 1944,
+    "text": " Don't need them. It's like Madonna. Don't need a surname."
+  },
+  {
+    "start": 1944,
+    "end": 1945,
+    "text": " Yeah."
+  },
+  {
+    "start": 1945,
+    "end": 1946,
+    "text": " Same thing."
+  },
+  {
+    "start": 1946,
+    "end": 1947,
+    "text": " She's made Chicone, you mean?"
+  },
+  {
+    "start": 1947,
+    "end": 1948,
+    "text": " I was sort of..."
+  },
+  {
+    "start": 1948,
+    "end": 1952,
+    "text": " Hey, in royal news."
+  },
+  {
+    "start": 1952,
+    "end": 1953,
+    "text": " Yeah."
+  },
+  {
+    "start": 1953,
+    "end": 1955,
+    "text": " This is the thing that's happened this week, which you probably read about,"
+  },
+  {
+    "start": 1955,
+    "end": 1960,
+    "text": " is the thing about Prince Henrik, who was the Danish Queen Margaret's husband"
+  },
+  {
+    "start": 1960,
+    "end": 1962,
+    "text": " who died this week or last week."
+  },
+  {
+    "start": 1962,
+    "end": 1966,
+    "text": " But it's just a thing that's in the news this week, so I was reminded of it."
+  },
+  {
+    "start": 1966,
+    "end": 1970,
+    "text": " But I find it really weird that Prince Henrik of Denmark has been annoyed his whole life"
+  },
+  {
+    "start": 1970,
+    "end": 1974,
+    "text": " that he hasn't been promoted to the same level as his wife."
+  },
+  {
+    "start": 1974,
+    "end": 1978,
+    "text": " Like, he has made no secret of the fact that he's furious that he's not King Consort."
+  },
+  {
+    "start": 1978,
+    "end": 1979,
+    "text": " He's Prince Consort."
+  },
+  {
+    "start": 1979,
+    "end": 1980,
+    "text": " That is weird."
+  },
+  {
+    "start": 1980,
+    "end": 1983,
+    "text": " He doesn't have the same status as his son or his wife."
+  },
+  {
+    "start": 1983,
+    "end": 1989,
+    "text": " So he's just died and he has refused to be buried next to his wife, the Danish Queen Margaret,"
+  },
+  {
+    "start": 1989,
+    "end": 1993,
+    "text": " because he's like, \"Well, if you don't think we're equal in life, I suppose we're not equal in life.\""
+  },
+  {
+    "start": 1993,
+    "end": 1994,
+    "text": " But she's still alive."
+  },
+  {
+    "start": 1994,
+    "end": 1995,
+    "text": " Yeah."
+  },
+  {
+    "start": 1995,
+    "end": 1998,
+    "text": " Well, I think she can make the decision for now, can I say?"
+  },
+  {
+    "start": 1998,
+    "end": 2001,
+    "text": " I'm sorry to be crude about it, but..."
+  },
+  {
+    "start": 2001,
+    "end": 2006,
+    "text": " She's been... she's done the graceful thing and allowed him not to be buried in the graceful mind."
+  },
+  {
+    "start": 2006,
+    "end": 2011,
+    "text": " I mean, you could have a compromise and he would just be buried facing away with his arms crossed."
+  },
+  {
+    "start": 2011,
+    "end": 2014,
+    "text": " Clutching the TV remote."
+  },
+  {
+    "start": 2014,
+    "end": 2018,
+    "text": " Did you know all Spanish people have a secret surname?"
+  },
+  {
+    "start": 2018,
+    "end": 2019,
+    "text": " I'm not even joking."
+  },
+  {
+    "start": 2019,
+    "end": 2020,
+    "text": " Is it the same for everyone?"
+  },
+  {
+    "start": 2020,
+    "end": 2021,
+    "text": " No, it's different for everyone."
+  },
+  {
+    "start": 2021,
+    "end": 2022,
+    "text": " Right, okay."
+  },
+  {
+    "start": 2022,
+    "end": 2023,
+    "text": " Different."
+  },
+  {
+    "start": 2023,
+    "end": 2024,
+    "text": " For everyone."
+  },
+  {
+    "start": 2024,
+    "end": 2027,
+    "text": " Well, no, logically, I've boxed myself into a corner of that."
+  },
+  {
+    "start": 2027,
+    "end": 2032,
+    "text": " Do you know the Thai in Thailand? Sorry to interrupt, but we'll get back to that, but in Thailand."
+  },
+  {
+    "start": 2032,
+    "end": 2034,
+    "text": " Every family has to have a different surname."
+  },
+  {
+    "start": 2034,
+    "end": 2038,
+    "text": " You just knocked Andy off the fact stool with your feet and then jumped on it."
+  },
+  {
+    "start": 2038,
+    "end": 2039,
+    "text": " Oh, no."
+  },
+  {
+    "start": 2039,
+    "end": 2040,
+    "text": " This is, it's extremely relevant."
+  },
+  {
+    "start": 2040,
+    "end": 2041,
+    "text": " Yeah."
+  },
+  {
+    "start": 2041,
+    "end": 2042,
+    "text": " Okay."
+  },
+  {
+    "start": 2042,
+    "end": 2043,
+    "text": " You don't know if it's relevant or not."
+  },
+  {
+    "start": 2043,
+    "end": 2044,
+    "text": " I haven't told you about facts."
+  },
+  {
+    "start": 2044,
+    "end": 2045,
+    "text": " I think I'm going to be a nice follow-on fact."
+  },
+  {
+    "start": 2045,
+    "end": 2046,
+    "text": " How have Andy finished his?"
+  },
+  {
+    "start": 2046,
+    "end": 2050,
+    "text": " No, it's relevant to the little stupid joke that I made in the middle of Andy's thing,"
+  },
+  {
+    "start": 2050,
+    "end": 2051,
+    "text": " which wasn't really relevant."
+  },
+  {
+    "start": 2051,
+    "end": 2052,
+    "text": " Yeah."
+  },
+  {
+    "start": 2052,
+    "end": 2056,
+    "text": " Yeah, but a single family has to have a given family name, but it's not allowed to be the same as anyone else."
+  },
+  {
+    "start": 2056,
+    "end": 2058,
+    "text": " Wait, so everyone's got a different surname."
+  },
+  {
+    "start": 2058,
+    "end": 2059,
+    "text": " How do you know someone's your cousin?"
+  },
+  {
+    "start": 2059,
+    "end": 2060,
+    "text": " You don't."
+  },
+  {
+    "start": 2060,
+    "end": 2061,
+    "text": " Oh."
+  },
+  {
+    "start": 2061,
+    "end": 2063,
+    "text": " Why don't they're going to run out?"
+  },
+  {
+    "start": 2063,
+    "end": 2065,
+    "text": " Well, they're quite long Thai names, aren't they?"
+  },
+  {
+    "start": 2065,
+    "end": 2066,
+    "text": " They aren't."
+  },
+  {
+    "start": 2066,
+    "end": 2067,
+    "text": " That's why they're so, that's probably why they're so long, yeah?"
+  },
+  {
+    "start": 2067,
+    "end": 2069,
+    "text": " Just like your password for your computer."
+  },
+  {
+    "start": 2069,
+    "end": 2070,
+    "text": " The name is long enough."
+  },
+  {
+    "start": 2070,
+    "end": 2071,
+    "text": " No one else is going to have the same name."
+  },
+  {
+    "start": 2071,
+    "end": 2073,
+    "text": " We all live with this issue online every day."
+  },
+  {
+    "start": 2073,
+    "end": 2074,
+    "text": " We have to have unique codes for it."
+  },
+  {
+    "start": 2074,
+    "end": 2078,
+    "text": " But you then have to have a surname plus one, two, three and then the cat's name."
+  },
+  {
+    "start": 2078,
+    "end": 2079,
+    "text": " What's your name?"
+  },
+  {
+    "start": 2079,
+    "end": 2082,
+    "text": " It's Andrew Smith, 1986."
+  },
+  {
+    "start": 2082,
+    "end": 2083,
+    "text": " Right."
+  },
+  {
+    "start": 2083,
+    "end": 2088,
+    "text": " Did you know that all Spanish people have a secret second surname that no one outside Spain knows about?"
+  },
+  {
+    "start": 2088,
+    "end": 2089,
+    "text": " What?"
+  },
+  {
+    "start": 2089,
+    "end": 2090,
+    "text": " Yeah."
+  },
+  {
+    "start": 2090,
+    "end": 2094,
+    "text": " So children inherit two surnames, one from their mother, one from their father."
+  },
+  {
+    "start": 2094,
+    "end": 2096,
+    "text": " So there are Spanish people who are called."
+  },
+  {
+    "start": 2096,
+    "end": 2097,
+    "text": " You'll have heard of them."
+  },
+  {
+    "start": 2097,
+    "end": 2102,
+    "text": " Raphael Nadel Pereira, Enrique Iglesias Prasler and Fernando Alonso Diaz."
+  },
+  {
+    "start": 2102,
+    "end": 2104,
+    "text": " These are all their actual names."
+  },
+  {
+    "start": 2104,
+    "end": 2105,
+    "text": " So there's third ones."
+  },
+  {
+    "start": 2105,
+    "end": 2106,
+    "text": " Why aren't they?"
+  },
+  {
+    "start": 2106,
+    "end": 2108,
+    "text": " Why don't we know about the third ones?"
+  },
+  {
+    "start": 2108,
+    "end": 2109,
+    "text": " It's not common."
+  },
+  {
+    "start": 2109,
+    "end": 2110,
+    "text": " It's not reported."
+  },
+  {
+    "start": 2110,
+    "end": 2112,
+    "text": " And how did you get the scoop?"
+  },
+  {
+    "start": 2112,
+    "end": 2119,
+    "text": " Well, here's the interesting thing is that until recently, automatically the first one would be from the husband,"
+  },
+  {
+    "start": 2119,
+    "end": 2123,
+    "text": " from the male parent and the second one from the female parent, the mother."
+  },
+  {
+    "start": 2123,
+    "end": 2129,
+    "text": " And children would only inherit properly the first surname of each parent."
+  },
+  {
+    "start": 2129,
+    "end": 2133,
+    "text": " So there's over time there's a trend towards keeping male surnames and not female ones."
+  },
+  {
+    "start": 2133,
+    "end": 2135,
+    "text": " And as of last year, parents get to choose."
+  },
+  {
+    "start": 2135,
+    "end": 2137,
+    "text": " So that will now be bounced out of them."
+  },
+  {
+    "start": 2137,
+    "end": 2138,
+    "text": " True in Russia as well."
+  },
+  {
+    "start": 2138,
+    "end": 2139,
+    "text": " They have secret surnames."
+  },
+  {
+    "start": 2139,
+    "end": 2142,
+    "text": " So Vladimir Vich Putin."
+  },
+  {
+    "start": 2142,
+    "end": 2143,
+    "text": " That's his real name."
+  },
+  {
+    "start": 2143,
+    "end": 2145,
+    "text": " I can see what he cut the unnecessary."
+  },
+  {
+    "start": 2145,
+    "end": 2146,
+    "text": " Yeah."
+  },
+  {
+    "start": 2146,
+    "end": 2148,
+    "text": " That's why Russian novels are so confusing to read."
+  },
+  {
+    "start": 2148,
+    "end": 2149,
+    "text": " Yes."
+  },
+  {
+    "start": 2149,
+    "end": 2150,
+    "text": " So many different bloody names."
+  },
+  {
+    "start": 2150,
+    "end": 2158,
+    "text": " The Spanish one was quite interesting because it's kind of like natural selection through surnames because the nicer surname, from now on, the nicer surname will be picked."
+  },
+  {
+    "start": 2158,
+    "end": 2160,
+    "text": " So you'll get lovely surnames."
+  },
+  {
+    "start": 2160,
+    "end": 2161,
+    "text": " That's true, actually."
+  },
+  {
+    "start": 2161,
+    "end": 2165,
+    "text": " Because it's unlikely you're going to be called, you know, tick-face cockhead."
+  },
+  {
+    "start": 2165,
+    "end": 2169,
+    "text": " And then I even got two shit names to pay for them, which one they do."
+  },
+  {
+    "start": 2169,
+    "end": 2171,
+    "text": " Yeah, that is an unlikely name."
+  },
+  {
+    "start": 2171,
+    "end": 2172,
+    "text": " Road names are dying out."
+  },
+  {
+    "start": 2172,
+    "end": 2176,
+    "text": " So in 1881, there were 3,211 cocks in the UK."
+  },
+  {
+    "start": 2176,
+    "end": 2178,
+    "text": " And now there are only 785."
+  },
+  {
+    "start": 2178,
+    "end": 2180,
+    "text": " And they're all in the House of Commons."
+  },
+  {
+    "start": 2180,
+    "end": 2181,
+    "text": " Yeah."
+  },
+  {
+    "start": 2181,
+    "end": 2183,
+    "text": " That's a joke. It's 650 capacity."
+  },
+  {
+    "start": 2183,
+    "end": 2184,
+    "text": " Sorry, it doesn't work."
+  },
+  {
+    "start": 2184,
+    "end": 2186,
+    "text": " It doesn't make any sense."
+  },
+  {
+    "start": 2186,
+    "end": 2187,
+    "text": " Wow, only 785."
+  },
+  {
+    "start": 2187,
+    "end": 2191,
+    "text": " Yeah, same with a lot of surnames like Shuffle Bottom."
+  },
+  {
+    "start": 2191,
+    "end": 2192,
+    "text": " That's massively declined."
+  },
+  {
+    "start": 2192,
+    "end": 2196,
+    "text": " Only 322 of those left darts are going down."
+  },
+  {
+    "start": 2196,
+    "end": 2198,
+    "text": " It's about 75% decline in these names."
+  },
+  {
+    "start": 2198,
+    "end": 2199,
+    "text": " That's a shame."
+  },
+  {
+    "start": 2199,
+    "end": 2204,
+    "text": " I tell you the way to protect a name is by giving people money to have the name."
+  },
+  {
+    "start": 2204,
+    "end": 2206,
+    "text": " The University of Glasgow."
+  },
+  {
+    "start": 2206,
+    "end": 2209,
+    "text": " How much money would you need to be called Alex Cock?"
+  },
+  {
+    "start": 2209,
+    "end": 2211,
+    "text": " That's a good point."
+  },
+  {
+    "start": 2211,
+    "end": 2217,
+    "text": " If I gave you £10,000, but you had to keep Alex Cock for the rest of your life."
+  },
+  {
+    "start": 2217,
+    "end": 2218,
+    "text": " No."
+  },
+  {
+    "start": 2218,
+    "end": 2219,
+    "text": " You serious?"
+  },
+  {
+    "start": 2219,
+    "end": 2220,
+    "text": " Are you kidding me?"
+  },
+  {
+    "start": 2220,
+    "end": 2221,
+    "text": " James, I'll do it for a tenor."
+  },
+  {
+    "start": 2221,
+    "end": 2224,
+    "text": " Oh, I'm not going to bargain up to a tenor immediately."
+  },
+  {
+    "start": 2224,
+    "end": 2225,
+    "text": " We have a winner."
+  },
+  {
+    "start": 2225,
+    "end": 2227,
+    "text": " Great."
+  },
+  {
+    "start": 2227,
+    "end": 2229,
+    "text": " It's just a name cock."
+  },
+  {
+    "start": 2229,
+    "end": 2230,
+    "text": " No, no, no, no, no."
+  },
+  {
+    "start": 2230,
+    "end": 2231,
+    "text": " I got cocked."
+  },
+  {
+    "start": 2231,
+    "end": 2232,
+    "text": " Yeah, but that's still..."
+  },
+  {
+    "start": 2232,
+    "end": 2235,
+    "text": " Like in Bolton, that's just a nice way of saying hello to Emma."
+  },
+  {
+    "start": 2235,
+    "end": 2236,
+    "text": " All right, Emma cock."
+  },
+  {
+    "start": 2236,
+    "end": 2237,
+    "text": " Okay."
+  },
+  {
+    "start": 2237,
+    "end": 2238,
+    "text": " Is it?"
+  },
+  {
+    "start": 2238,
+    "end": 2239,
+    "text": " Yeah."
+  },
+  {
+    "start": 2239,
+    "end": 2242,
+    "text": " That sounds like the kind of thing you're telling me now."
+  },
+  {
+    "start": 2242,
+    "end": 2249,
+    "text": " Anyway, the University of Glasgow offer a grant of up to £500 for anyone with a surname Graham."
+  },
+  {
+    "start": 2249,
+    "end": 2251,
+    "text": " It's called the Graham Trust."
+  },
+  {
+    "start": 2251,
+    "end": 2256,
+    "text": " And they offer it because traditionally Graham was a name for poor people a long time ago."
+  },
+  {
+    "start": 2256,
+    "end": 2257,
+    "text": " Are you joking?"
+  },
+  {
+    "start": 2257,
+    "end": 2258,
+    "text": " I know."
+  },
+  {
+    "start": 2258,
+    "end": 2259,
+    "text": " You still get that."
+  },
+  {
+    "start": 2259,
+    "end": 2260,
+    "text": " It's just on their website."
+  },
+  {
+    "start": 2260,
+    "end": 2266,
+    "text": " And there's just a paragraph saying that the original name from 1759 was the distribution to persons of the name of Graham,"
+  },
+  {
+    "start": 2266,
+    "end": 2272,
+    "text": " or descendants of persons of that name, such sums that they shall just requisite and to put poor boys of the same name,"
+  },
+  {
+    "start": 2272,
+    "end": 2275,
+    "text": " or descendants of such Bavara to enable the..."
+  },
+  {
+    "start": 2275,
+    "end": 2277,
+    "text": " But then that is not a poor name now, is it?"
+  },
+  {
+    "start": 2277,
+    "end": 2278,
+    "text": " No, but it's carried on."
+  },
+  {
+    "start": 2278,
+    "end": 2279,
+    "text": " But is it..."
+  },
+  {
+    "start": 2279,
+    "end": 2281,
+    "text": " So it's for how much money?"
+  },
+  {
+    "start": 2281,
+    "end": 2282,
+    "text": " £500."
+  },
+  {
+    "start": 2282,
+    "end": 2287,
+    "text": " Well, Heather Graham, if you're listening, and we know you do, your quid's in now."
+  },
+  {
+    "start": 2287,
+    "end": 2290,
+    "text": " For an Arsenal manager, George Graham."
+  },
+  {
+    "start": 2290,
+    "end": 2291,
+    "text": " Yeah."
+  },
+  {
+    "start": 2291,
+    "end": 2295,
+    "text": " For another reference, I guess you didn't get the Heather Graham one."
+  },
+  {
+    "start": 2295,
+    "end": 2296,
+    "text": " Do you know any of the Graham's?"
+  },
+  {
+    "start": 2296,
+    "end": 2298,
+    "text": " I was trying to think of like a rich Graham."
+  },
+  {
+    "start": 2298,
+    "end": 2299,
+    "text": " I can't really think of them."
+  },
+  {
+    "start": 2299,
+    "end": 2300,
+    "text": " No, it's good."
+  },
+  {
+    "start": 2300,
+    "end": 2301,
+    "text": " Heather Graham's got to be worth a bubble too."
+  },
+  {
+    "start": 2301,
+    "end": 2302,
+    "text": " I don't know who that is."
+  },
+  {
+    "start": 2302,
+    "end": 2303,
+    "text": " Heather Graham's."
+  },
+  {
+    "start": 2303,
+    "end": 2304,
+    "text": " I'm Austin Powers."
+  },
+  {
+    "start": 2304,
+    "end": 2305,
+    "text": " She's in the second Austin Powers film."
+  },
+  {
+    "start": 2305,
+    "end": 2306,
+    "text": " She plays Felicity Shagwell."
+  },
+  {
+    "start": 2306,
+    "end": 2308,
+    "text": " That's an unusual segment."
+  },
+  {
+    "start": 2308,
+    "end": 2312,
+    "text": " There aren't that many Shagwells these days."
+  },
+  {
+    "start": 2312,
+    "end": 2318,
+    "text": " Actually, if you're called Shagwell, you can get a £50 grant from the University of Kiel."
+  },
+  {
+    "start": 2318,
+    "end": 2330,
+    "text": " Okay, it's time for fact number four, and that is Alex."
+  },
+  {
+    "start": 2330,
+    "end": 2337,
+    "text": " My fact of this week is that in 2012, thieves stole an entire ski lift from the Czech Republic."
+  },
+  {
+    "start": 2337,
+    "end": 2342,
+    "text": " I'm glad that you specified it was thieves because imagine if it was law-abiding people who stole it."
+  },
+  {
+    "start": 2342,
+    "end": 2343,
+    "text": " It has to be thieves."
+  },
+  {
+    "start": 2343,
+    "end": 2344,
+    "text": " Yes, I'm sorry."
+  },
+  {
+    "start": 2344,
+    "end": 2345,
+    "text": " That's amazing."
+  },
+  {
+    "start": 2345,
+    "end": 2350,
+    "text": " Sorry, just one of the things on the lift or the whole tyre lift."
+  },
+  {
+    "start": 2350,
+    "end": 2354,
+    "text": " So all of the pylons, the cables, all of the gondola chairs on it."
+  },
+  {
+    "start": 2354,
+    "end": 2357,
+    "text": " The whole thing was just taken away overnight."
+  },
+  {
+    "start": 2357,
+    "end": 2359,
+    "text": " It wasn't that crazy."
+  },
+  {
+    "start": 2359,
+    "end": 2365,
+    "text": " Was there another ski resort that opened its magical new lift two days later?"
+  },
+  {
+    "start": 2365,
+    "end": 2369,
+    "text": " The thing is, I reckon more than one person was involved in this theft, right?"
+  },
+  {
+    "start": 2369,
+    "end": 2370,
+    "text": " I'm pretty anxious."
+  },
+  {
+    "start": 2370,
+    "end": 2372,
+    "text": " I'm pretty anxious not to chuck around."
+  },
+  {
+    "start": 2372,
+    "end": 2373,
+    "text": " I just don't think so."
+  },
+  {
+    "start": 2373,
+    "end": 2376,
+    "text": " James walking around with his note pad and his face is coming out."
+  },
+  {
+    "start": 2376,
+    "end": 2378,
+    "text": " I think this is more than one person."
+  },
+  {
+    "start": 2378,
+    "end": 2380,
+    "text": " Certainly, I'm putting my Sherlock Holmes hat on."
+  },
+  {
+    "start": 2380,
+    "end": 2383,
+    "text": " But I think, you know, you can't do it on your own."
+  },
+  {
+    "start": 2383,
+    "end": 2388,
+    "text": " No, that would be another great agatha Christy, where Poirot calls them all together in the drawing room."
+  },
+  {
+    "start": 2388,
+    "end": 2390,
+    "text": " Actually, you all sculled it."
+  },
+  {
+    "start": 2390,
+    "end": 2394,
+    "text": " Where is the jealous now on the moon?"
+  },
+  {
+    "start": 2394,
+    "end": 2399,
+    "text": " That's incredible."
+  },
+  {
+    "start": 2399,
+    "end": 2400,
+    "text": " Yeah, I don't know how they did it."
+  },
+  {
+    "start": 2400,
+    "end": 2404,
+    "text": " I don't sure you'd need, sort of, like, jamburget to take it away and stuff or huge lorries."
+  },
+  {
+    "start": 2404,
+    "end": 2405,
+    "text": " It's unbelievable."
+  },
+  {
+    "start": 2405,
+    "end": 2409,
+    "text": " I think, well, I think, because if you think about ski lifts, you can take them apart."
+  },
+  {
+    "start": 2409,
+    "end": 2412,
+    "text": " I suppose you have the right equipment and you're able to chop up all the pylons."
+  },
+  {
+    "start": 2412,
+    "end": 2415,
+    "text": " A lot of it, you know, getting the right equipment, you can take anything apart."
+  },
+  {
+    "start": 2415,
+    "end": 2416,
+    "text": " That's true, but it is."
+  },
+  {
+    "start": 2416,
+    "end": 2419,
+    "text": " It's all, like, if you think about it, they're quite simply made things."
+  },
+  {
+    "start": 2419,
+    "end": 2421,
+    "text": " They're huge, just lots and lots and lots of metal."
+  },
+  {
+    "start": 2421,
+    "end": 2423,
+    "text": " It's not rumbly, really complicated, dense stuff."
+  },
+  {
+    "start": 2423,
+    "end": 2424,
+    "text": " You've got hollow pylons."
+  },
+  {
+    "start": 2424,
+    "end": 2427,
+    "text": " You've got a long, long strands of cable."
+  },
+  {
+    "start": 2427,
+    "end": 2429,
+    "text": " And you've got lots of individual stackable gauntletes."
+  },
+  {
+    "start": 2429,
+    "end": 2432,
+    "text": " You can just wind up the cable onto a reel or something, can't you?"
+  },
+  {
+    "start": 2432,
+    "end": 2434,
+    "text": " Well, I'd wind it around one of the gauntletes."
+  },
+  {
+    "start": 2434,
+    "end": 2435,
+    "text": " I think that's probably the easiest way."
+  },
+  {
+    "start": 2435,
+    "end": 2437,
+    "text": " When Christmas lights, when you wind up the fog."
+  },
+  {
+    "start": 2439,
+    "end": 2442,
+    "text": " But as soon as you put it away, it gets gnawed."
+  },
+  {
+    "start": 2442,
+    "end": 2444,
+    "text": " That's why they haven't set it up yet."
+  },
+  {
+    "start": 2444,
+    "end": 2445,
+    "text": " They're still trying to get it apart."
+  },
+  {
+    "start": 2445,
+    "end": 2448,
+    "text": " They sort of got all the pylons together and tied it together with a string."
+  },
+  {
+    "start": 2448,
+    "end": 2449,
+    "text": " Yeah."
+  },
+  {
+    "start": 2449,
+    "end": 2451,
+    "text": " So that, that, that happens."
+  },
+  {
+    "start": 2451,
+    "end": 2454,
+    "text": " Are we going to talk about ski lifts or massive things that have been stolen?"
+  },
+  {
+    "start": 2454,
+    "end": 2458,
+    "text": " Can I tell you my one favourite, amazing, my favourite fact about lifts?"
+  },
+  {
+    "start": 2458,
+    "end": 2460,
+    "text": " And then that's the only thing I've got on a big ski lift."
+  },
+  {
+    "start": 2460,
+    "end": 2461,
+    "text": " Yeah."
+  },
+  {
+    "start": 2461,
+    "end": 2464,
+    "text": " Well, cable calls specifically, because there's no skiing involved in this one."
+  },
+  {
+    "start": 2464,
+    "end": 2468,
+    "text": " But this is potentially my favourite fact, if it's true."
+  },
+  {
+    "start": 2468,
+    "end": 2470,
+    "text": " And I rang TFL to find out today and they haven't got back to me yet."
+  },
+  {
+    "start": 2470,
+    "end": 2473,
+    "text": " So Coco may yet run in with a note telling me it's true."
+  },
+  {
+    "start": 2473,
+    "end": 2474,
+    "text": " Well, there's the last fact."
+  },
+  {
+    "start": 2474,
+    "end": 2477,
+    "text": " So, yeah, it's not looking good for this combination."
+  },
+  {
+    "start": 2477,
+    "end": 2479,
+    "text": " Well, either way, it's a cool idea."
+  },
+  {
+    "start": 2479,
+    "end": 2481,
+    "text": " And it's sort of half interesting anyway."
+  },
+  {
+    "start": 2481,
+    "end": 2483,
+    "text": " Is that the Emirates cable car, Emirates airline,"
+  },
+  {
+    "start": 2483,
+    "end": 2487,
+    "text": " the gauntlet, which goes from Grennage to the Docklands over the River Thames."
+  },
+  {
+    "start": 2487,
+    "end": 2489,
+    "text": " It's about 90 metres above the water."
+  },
+  {
+    "start": 2489,
+    "end": 2493,
+    "text": " The fact that I read was that that's tall enough for most ships to go under."
+  },
+  {
+    "start": 2493,
+    "end": 2495,
+    "text": " But, you know, just like with Tower Bridge,"
+  },
+  {
+    "start": 2495,
+    "end": 2499,
+    "text": " they have the capabilities to lift the road for tall ships to get through."
+  },
+  {
+    "start": 2499,
+    "end": 2501,
+    "text": " The same capability exists with this cable car,"
+  },
+  {
+    "start": 2501,
+    "end": 2504,
+    "text": " which is that if you take off all the gauntlets off the cable car,"
+  },
+  {
+    "start": 2504,
+    "end": 2508,
+    "text": " then the reduction in weight means that the cable raises by a few metres,"
+  },
+  {
+    "start": 2508,
+    "end": 2511,
+    "text": " meaning that even ships are just all of them that can get through."
+  },
+  {
+    "start": 2511,
+    "end": 2514,
+    "text": " I would say if you're wanting to steal that cable car,"
+  },
+  {
+    "start": 2514,
+    "end": 2517,
+    "text": " then you turn up and you take all of the bits first, don't you?"
+  },
+  {
+    "start": 2517,
+    "end": 2519,
+    "text": " You take all of these bubbles first and you say,"
+  },
+  {
+    "start": 2519,
+    "end": 2522,
+    "text": " \"Oh, no, I'm just doing it because there's a ship on its way.\""
+  },
+  {
+    "start": 2522,
+    "end": 2524,
+    "text": " And then after that, all you have to do is wind up the rope."
+  },
+  {
+    "start": 2524,
+    "end": 2529.96,
+    "text": " Very driving the Eastway would be to put a hook on top of a 90-meter high ship and just drive it as fast as you can"
+  },
+  {
+    "start": 2529.96,
+    "end": 2536.56,
+    "text": " Actually, to be honest if this is we're doing this in a karting universe then you probably would stretch and then you go"
+  },
+  {
+    "start": 2536.56,
+    "end": 2541,
+    "text": " Straight back into central. That's the old dog taking a string of sausages"
+  },
+  {
+    "start": 2541,
+    "end": 2544.68,
+    "text": " All you need is one of the sausages to be in your mouth"
+  },
+  {
+    "start": 2544.68,
+    "end": 2550.34,
+    "text": " I googled biggest things ever stolen and the internet seems to think it's a mountain"
+  },
+  {
+    "start": 2551.56,
+    "end": 2553.56,
+    "text": " a mountain called Humta Pahad"
+  },
+  {
+    "start": 2553.56,
+    "end": 2560.76,
+    "text": " Which is in eastern India and apparently what's happened is locals have just climbed up there and start chiseling bits off the top"
+  },
+  {
+    "start": 2560.76,
+    "end": 2565.4,
+    "text": " And so now if you go there, it's like got a flat top, but it used to have a peeked top"
+  },
+  {
+    "start": 2565.4,
+    "end": 2568.62,
+    "text": " And so they stolen the difference from stealing the whole mountain"
+  },
+  {
+    "start": 2568.62,
+    "end": 2572.1,
+    "text": " They stolen some of them. That's like stealing one gondola and saying I've stolen the whole"
+  },
+  {
+    "start": 2572.1,
+    "end": 2574.1,
+    "text": " You've got to make a start somewhere"
+  },
+  {
+    "start": 2574.1,
+    "end": 2576.1,
+    "text": " Not all these things could be stolen overnight"
+  },
+  {
+    "start": 2578.94,
+    "end": 2585.82,
+    "text": " Actually Scarfell Pike had a bit of a theft problem as well speaking of stealing mountains. Yeah, there was is it in 2015"
+  },
+  {
+    "start": 2585.82,
+    "end": 2589.62,
+    "text": " And an artist took the top of Scarfell Pike. He took"
+  },
+  {
+    "start": 2589.62,
+    "end": 2593.82,
+    "text": " He took a bit of rock which I think was about inch squared"
+  },
+  {
+    "start": 2593.82,
+    "end": 2600.84,
+    "text": " It was in an art exhibition called the intruder about how humans like impose our incategories on nature and so he"
+  },
+  {
+    "start": 2600.84,
+    "end": 2605.54,
+    "text": " Mounted this rock. They take him to the top of Scarfell Pike and he got a nose of trouble for it"
+  },
+  {
+    "start": 2605.54,
+    "end": 2610.62,
+    "text": " And like the head of Cumbria tourism said this is taking the Mickey and we want the top of our mountain back"
+  },
+  {
+    "start": 2610.62,
+    "end": 2615.7,
+    "text": " Yeah, yeah, what are you going to say if you're the head of Cumbria tourism? What are you gonna say? Yeah, come and have a bit more of Cumbria"
+  },
+  {
+    "start": 2615.7,
+    "end": 2618.1,
+    "text": " He's got to preserve Cumbria"
+  },
+  {
+    "start": 2618.1,
+    "end": 2624.26,
+    "text": " That's his job. It's his job. He can't have a laissez faire attitude to this. His neck is on the line"
+  },
+  {
+    "start": 2624.26,
+    "end": 2628.58,
+    "text": " And he's not even got the DA busting his ass over losing the top of Scarfell Pike all right"
+  },
+  {
+    "start": 2628.58,
+    "end": 2633.98,
+    "text": " He's the most important part of Cumbria. The worst part of Cumbria is a lose to finding we come into work and find you're missing one bit"
+  },
+  {
+    "start": 2633.98,
+    "end": 2636.78,
+    "text": " It's not unreasonable to think that he's going to be pissed off with this"
+  },
+  {
+    "start": 2636.78,
+    "end": 2640.82,
+    "text": " Headline from the bomb the feco in 2013"
+  },
+  {
+    "start": 2640.82,
+    "end": 2645.84,
+    "text": " Stolen prosthetic arm discovered in second hand shop in"
+  },
+  {
+    "start": 2645.84,
+    "end": 2658.74,
+    "text": " In 2012 police apprehended a woman after she hobbled to the exit from a shop in Oslo in Norway"
+  },
+  {
+    "start": 2658.74,
+    "end": 2662.1,
+    "text": " And she was wearing a long skirt covering a 42-inch television"
+  },
+  {
+    "start": 2662.1,
+    "end": 2666.94,
+    "text": " That she was carrying between her legs. I think you go for a smaller TV, don't you?"
+  },
+  {
+    "start": 2666.94,
+    "end": 2670.1,
+    "text": " It's I think her eyes are bigger than her groin in this"
+  },
+  {
+    "start": 2670.1,
+    "end": 2678.94,
+    "text": " In 2012 Jamie Oliver complained that 30,000 napkins were stolen from his restaurants every month"
+  },
+  {
+    "start": 2678.94,
+    "end": 2682.78,
+    "text": " And so I was looking at restaurants there some people do steal stuff from restaurants"
+  },
+  {
+    "start": 2682.78,
+    "end": 2686.02,
+    "text": " So the Jamie Oliver ones just to say they have his branding on don't they?"
+  },
+  {
+    "start": 2686.02,
+    "end": 2688.74,
+    "text": " They're like they're nice kind of they look a bit like tea towels"
+  },
+  {
+    "start": 2688.74,
+    "end": 2693.34,
+    "text": " But they got Jamie Oliver branding so the police should go for so for people who also called Jamie Oliver"
+  },
+  {
+    "start": 2693.34,
+    "end": 2697.3,
+    "text": " No, no, it's people who like Jamie Oliver not people who were named Jamie"
+  },
+  {
+    "start": 2697.3,
+    "end": 2702.14,
+    "text": " I can't say Connor Jamie, you know, it's not a name tag Jamie Oliver doesn't put that name on his towel"
+  },
+  {
+    "start": 2702.14,
+    "end": 2707.94,
+    "text": " So that if he loses and they get returned to him. Do you put your name on all your napkins? Yes, I put them on on"
+  },
+  {
+    "start": 2707.94,
+    "end": 2709.94,
+    "text": " I put it on all my tissues"
+  },
+  {
+    "start": 2709.94,
+    "end": 2713.74,
+    "text": " Takes ages to monogram and then you play in those ones"
+  },
+  {
+    "start": 2713.74,
+    "end": 2718.46,
+    "text": " Have you had of the South American endoscopy gangs?"
+  },
+  {
+    "start": 2718.86,
+    "end": 2723.7,
+    "text": " Are they thieves? They must be in this section and what are they stealing with their endoscopes?"
+  },
+  {
+    "start": 2723.7,
+    "end": 2725.7,
+    "text": " Well, no, they are stealing endoscopes"
+  },
+  {
+    "start": 2725.7,
+    "end": 2729.46,
+    "text": " This is a gang who go around hospitals in Europe"
+  },
+  {
+    "start": 2729.46,
+    "end": 2734.82,
+    "text": " Stealing specifically endoscopy equipment i.e. things that you put up people's bottoms to look inside them"
+  },
+  {
+    "start": 2734.82,
+    "end": 2736.82,
+    "text": " Are they really daring thefts like while they're in use?"
+  },
+  {
+    "start": 2736.82,
+    "end": 2740.58,
+    "text": " That's weird. I'm not getting a feed on it"
+  },
+  {
+    "start": 2740.58,
+    "end": 2745.9,
+    "text": " So when all the lights come out, so all the feeds go down"
+  },
+  {
+    "start": 2745.9,
+    "end": 2749.5,
+    "text": " In the hospital, they've just got a massive bank of monitor and they're all going out, what am I doing?"
+  },
+  {
+    "start": 2749.5,
+    "end": 2752.5,
+    "text": " A bank of monitor is all showing boasting guards"
+  },
+  {
+    "start": 2752.5,
+    "end": 2756.5,
+    "text": " It's going on, that means that is the worst security catch up in the world"
+  },
+  {
+    "start": 2756.5,
+    "end": 2765.7,
+    "text": " 2005 in York, £300,000 worth of endoscopes, less to the same year, £250,000"
+  },
+  {
+    "start": 2765.7,
+    "end": 2767.7,
+    "text": " How much are they? Do you reckon? I don't know"
+  },
+  {
+    "start": 2767.7,
+    "end": 2774.3,
+    "text": " They must be expensive, but 2017 last year a gang took 1.2 million, I think it was Canadian dollars worth of kit"
+  },
+  {
+    "start": 2774.3,
+    "end": 2778.1,
+    "text": " 2014 to 17, 16 million euro is worth of Germany"
+  },
+  {
+    "start": 2778.1,
+    "end": 2783.1,
+    "text": " Well, what they think is that it's so that you can check that drug meals have swallowed the drugs"
+  },
+  {
+    "start": 2783.1,
+    "end": 2786.1,
+    "text": " Got it? Oh, wow"
+  },
+  {
+    "start": 2786.1,
+    "end": 2790.1,
+    "text": " I was thinking who's getting backstreet endoscopes in this game?"
+  },
+  {
+    "start": 2790.1,
+    "end": 2792.1,
+    "text": " Every endoscope is a back alley"
+  },
+  {
+    "start": 2792.1,
+    "end": 2798.1,
+    "text": " Should we wrap up?"
+  },
+  {
+    "start": 2798.1,
+    "end": 2800.5,
+    "text": " Yeah, do you want to know one amazing thing about a ski lift?"
+  },
+  {
+    "start": 2800.5,
+    "end": 2802.1,
+    "text": " I would like to know that, yes please"
+  },
+  {
+    "start": 2802.1,
+    "end": 2807.5,
+    "text": " Okay, cool, so one amazing thing about a ski lift I learned is that in the last couple of years a snowball"
+  },
+  {
+    "start": 2807.5,
+    "end": 2811.3,
+    "text": " I got stuck on a ski lift, he was stuck for six hours and this was in the Austrian Alps"
+  },
+  {
+    "start": 2811.3,
+    "end": 2813.9,
+    "text": " It was incredibly cold, it was -18 degrees"
+  },
+  {
+    "start": 2813.9,
+    "end": 2817.1,
+    "text": " He was going to be, he didn't know how long he was going to be stuck for, they closed it for the night"
+  },
+  {
+    "start": 2817.1,
+    "end": 2819.1,
+    "text": " So yeah, he's been there for six hours"
+  },
+  {
+    "start": 2819.1,
+    "end": 2823.9,
+    "text": " And he's getting really, really cold, he said he kept falling asleep into some cold and juice stupor"
+  },
+  {
+    "start": 2823.9,
+    "end": 2826.5,
+    "text": " And he realised that he had a lighter on him"
+  },
+  {
+    "start": 2826.5,
+    "end": 2829.7,
+    "text": " So the only thing he could do was burn anything flammable on him"
+  },
+  {
+    "start": 2829.7,
+    "end": 2834.3,
+    "text": " And so he's not burning everything he had, so he burned he had a bunch of tissues, he burned them"
+  },
+  {
+    "start": 2834.3,
+    "end": 2836.3,
+    "text": " Then he burned some business cards he had"
+  },
+  {
+    "start": 2836.3,
+    "end": 2838.7,
+    "text": " So it's business cards on a snowballing trip?"
+  },
+  {
+    "start": 2838.7,
+    "end": 2840.7,
+    "text": " Boy, you might meet an executive"
+  },
+  {
+    "start": 2840.7,
+    "end": 2841.7,
+    "text": " Sorry"
+  },
+  {
+    "start": 2841.7,
+    "end": 2843.7,
+    "text": " I'd like to give you a room"
+  },
+  {
+    "start": 2843.7,
+    "end": 2847.7,
+    "text": " He must have had them in his wallet or something, right?"
+  },
+  {
+    "start": 2847.7,
+    "end": 2851.7,
+    "text": " Yeah, but I mean, you probably will meet an executive, you're on a skiing club"
+  },
+  {
+    "start": 2851.7,
+    "end": 2855.7,
+    "text": " I agree, you start off with tissues less important than business cards"
+  },
+  {
+    "start": 2855.7,
+    "end": 2860.7,
+    "text": " Yeah, right? Both my tissues at my business cards have my name and I'm on a ground on them"
+  },
+  {
+    "start": 2860.7,
+    "end": 2864.7,
+    "text": " Okay, so what did he burn next?"
+  },
+  {
+    "start": 2864.7,
+    "end": 2866.7,
+    "text": " Then he had about 100 euros in bank notes"
+  },
+  {
+    "start": 2866.7,
+    "end": 2868.7,
+    "text": " And he burned each bank note one by one"
+  },
+  {
+    "start": 2868.7,
+    "end": 2872.7,
+    "text": " And he was on the last bank note when someone on the snow reveal saw him"
+  },
+  {
+    "start": 2872.7,
+    "end": 2875.7,
+    "text": " The bad news is he was then stolen by some guys from the chatroom"
+  },
+  {
+    "start": 2875.7,
+    "end": 2884.7,
+    "text": " Okay, that's it, that's all of our facts"
+  },
+  {
+    "start": 2884.7,
+    "end": 2889.7,
+    "text": " Thank you so much for listening, if you'd like to get in contact with any of us, we can be found on our Twitter accounts"
+  },
+  {
+    "start": 2889.7,
+    "end": 2894.7,
+    "text": " I'm on @AndruHunterM, James, @JamesHarkin, Alex, @AlexBell"
+  },
+  {
+    "start": 2894.7,
+    "end": 2896.7,
+    "text": " Anna, you can email podcast@ky.com"
+  },
+  {
+    "start": 2896.7,
+    "end": 2899.7,
+    "text": " There's also our group account, which is @nosuchthing"
+  },
+  {
+    "start": 2899.7,
+    "end": 2903.7,
+    "text": " There are details there about our tour, we're going all over the UK, the Republic of Ireland"
+  },
+  {
+    "start": 2903.7,
+    "end": 2905.7,
+    "text": " And Australia, a New Zealand in May"
+  },
+  {
+    "start": 2905.7,
+    "end": 2907.7,
+    "text": " There are details there of our book"
+  },
+  {
+    "start": 2907.7,
+    "end": 2911.7,
+    "text": " And of course behind the gills of documentary about us"
+  },
+  {
+    "start": 2911.7,
+    "end": 2913.7,
+    "text": " That's it for this week, we will see you next time with another bunch of facts"
+  },
+  {
+    "start": 2913.7,
+    "end": 2915.7,
+    "text": " Until then, goodbye"
+  },
+  {
+    "start": 2915.7,
+    "end": 2927.7,
+    "text": " [Music]"
+  },
+  {
+    "start": 2927.7,
+    "end": 2937.7,
+    "text": " [BLANK_AUDIO]"
+  }
+]

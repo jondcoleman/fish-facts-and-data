@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on defensive vomiting in birds, the use of PCR tests in truffle farming, the story of Ham the chimpanzee's space journey, and the innovative method of sending sperm on postcards. The hosts are joined by guest Mary Roach, who shares insights from her books and experiences.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When feeling threatened, gulls practice a maneuver called defensive vomiting, the point of which experts say is not to disgust and repel the predator, but to offer it an alternative meal.",
+      "presenter": "Mary Roach",
+      "guest": true,
+      "start_time": "00:02:59"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Any truffle farmer worth their salt will do regular PCR tests on their truffles.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:15:27"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There are signed copies of Life Magazine circulating on auction sites that are said to be autographed by Ham, the first chimpanzee in space, but are in fact forgeries signed by other chimps.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:51"
+    },
+    {
+      "fact_number": 4,
+      "fact": "You can now send sperm on a postcard.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:39:22"
+    }
+  ]
+}

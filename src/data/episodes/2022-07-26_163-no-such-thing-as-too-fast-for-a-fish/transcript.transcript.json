@@ -1,0 +1,5272 @@
+[
+  {
+    "start": 0,
+    "end": 5.84,
+    "text": " Hey everyone, welcome to this week's No Switch Things A Fish. Before we start, I just have a quick announcement to make."
+  },
+  {
+    "start": 5.84,
+    "end": 9.74,
+    "text": " Very excitingly, we have one of our favorite friends in the world,"
+  },
+  {
+    "start": 9.74,
+    "end": 13.94,
+    "text": " American comic, John Hodgman, guesting on this episode."
+  },
+  {
+    "start": 13.94,
+    "end": 19.24,
+    "text": " Now, before he came on our show, Anner and I actually went on to his show, Judge John Hodgman,"
+  },
+  {
+    "start": 19.24,
+    "end": 24.72,
+    "text": " that just went out this week, in it, he settles a dispute that is specific about our relationship"
+  },
+  {
+    "start": 24.72,
+    "end": 29.36,
+    "text": " between Anner and I on the podcast. And before we begin this show, we're going to play you"
+  },
+  {
+    "start": 29.36,
+    "end": 33.56,
+    "text": " a little excerpt from that night, because it's relevant to what happens later in Arsha."
+  },
+  {
+    "start": 33.56,
+    "end": 38.36,
+    "text": " So, without further ado, previously, on someone else's podcast."
+  },
+  {
+    "start": 38.36,
+    "end": 45.56,
+    "text": " Our final dispute on stage from the hit podcast No Such Thing Is A Fish."
+  },
+  {
+    "start": 45.56,
+    "end": 50.36,
+    "text": " Here with the dispute, please welcome Dan Schreiber and Anna Toshinsky."
+  },
+  {
+    "start": 50.36,
+    "end": 57.76,
+    "text": " Dan and Anna, No Such Thing Is A Fish is one of my very favorite podcasts."
+  },
+  {
+    "start": 57.76,
+    "end": 61.36,
+    "text": " And it's a real, I've met you before, Dan, where old friends were practically brothers"
+  },
+  {
+    "start": 61.36,
+    "end": 63.76,
+    "text": " and I look forward to seeing you at Christmas."
+  },
+  {
+    "start": 63.76,
+    "end": 66.76,
+    "text": " And I've never met you before, and it's a pleasure to see you in person."
+  },
+  {
+    "start": 66.76,
+    "end": 69.96,
+    "text": " But let's get to the dispute. What is the problem, Anna?"
+  },
+  {
+    "start": 69.96,
+    "end": 74.36,
+    "text": " The problem is that we present a factual podcast that people actually listen to."
+  },
+  {
+    "start": 74.36,
+    "end": 76.36,
+    "text": " You buzz marketing your podcast on my podcast."
+  },
+  {
+    "start": 76.36,
+    "end": 80.36,
+    "text": " Yeah, that's the reason we're here. We're having a show tomorrow, a few tickets."
+  },
+  {
+    "start": 80.36,
+    "end": 86.76,
+    "text": " No. And every week, Dan has to provide us with one fact and to present on the podcast."
+  },
+  {
+    "start": 86.76,
+    "end": 93.36,
+    "text": " And I keep having to reject his facts on the grounds that they're not interesting and they're not facts."
+  },
+  {
+    "start": 93.36,
+    "end": 96.76,
+    "text": " Yeah. And I argue that they are."
+  },
+  {
+    "start": 96.76,
+    "end": 102.76,
+    "text": " Well, you and I both know that non-facts are usually more interesting than facts."
+  },
+  {
+    "start": 102.76,
+    "end": 107.36,
+    "text": " But do you dispute, I mean, you're disputing the factuality of what he is asserting, is that correct?"
+  },
+  {
+    "start": 107.36,
+    "end": 108.36,
+    "text": " Let me give you an example."
+  },
+  {
+    "start": 108.36,
+    "end": 113.16,
+    "text": " So, one fact that Dan's presented for consideration is that the real reason"
+  },
+  {
+    "start": 113.16,
+    "end": 118.96,
+    "text": " that Titanic sank is not that it hid in iceberg, but that so many time travelers visited it"
+  },
+  {
+    "start": 118.96,
+    "end": 122.36,
+    "text": " at the same time that the weight of them all pushed it underwater."
+  },
+  {
+    "start": 122.36,
+    "end": 128.96,
+    "text": " Is your problem with him that he puts forward these facts or beliefs?"
+  },
+  {
+    "start": 128.96,
+    "end": 132.76,
+    "text": " No, my problem is that I think it's very dangerous for us to be spreading these facts."
+  },
+  {
+    "start": 132.76,
+    "end": 136.36,
+    "text": " You know, if Donald Trump has thought of anything, it's that people hear tiny little random bits of stuff"
+  },
+  {
+    "start": 136.36,
+    "end": 138.56,
+    "text": " that they half-remember and then cling to them for life."
+  },
+  {
+    "start": 138.56,
+    "end": 142.36,
+    "text": " And I think they'll half-remember what Dan said and then think it was the truth"
+  },
+  {
+    "start": 142.36,
+    "end": 145.16,
+    "text": " and then go away with these insane convictions."
+  },
+  {
+    "start": 145.16,
+    "end": 148.16,
+    "text": " Go, you can understand in our country we've given up on facts."
+  },
+  {
+    "start": 148.16,
+    "end": 151.36,
+    "text": " Did you end up discussing this on the podcast?"
+  },
+  {
+    "start": 151.36,
+    "end": 153.36,
+    "text": " No. No. He's tried, we cut it out."
+  },
+  {
+    "start": 153.36,
+    "end": 158.76,
+    "text": " Right. Well, I am going to be a guest on the podcast this Monday, and that's the fact that I'm going to bring."
+  },
+  {
+    "start": 158.76,
+    "end": 160.96,
+    "text": " So, I look forward to discussing it then."
+  },
+  {
+    "start": 160.96,
+    "end": 163.56,
+    "text": " I find in favor of Dan just because it's a great theory."
+  },
+  {
+    "start": 163.56,
+    "end": 164.56,
+    "text": " Sorry, Anna."
+  },
+  {
+    "start": 164.56,
+    "end": 186.36,
+    "text": " Hello, and welcome to another episode of No Such Thing as a Fish, a weekly podcast coming to you from the QI offices in Covert Garden."
+  },
+  {
+    "start": 186.36,
+    "end": 192.36,
+    "text": " My name is Dan Schreiber and I'm sitting here with Anna Chazinski, James Harkin, Andrew Hunter Murray,"
+  },
+  {
+    "start": 192.36,
+    "end": 194.76,
+    "text": " and special guest John Hodgman."
+  },
+  {
+    "start": 194.76,
+    "end": 200.16,
+    "text": " And once again, we have gathered around the microphones with our four favorite facts from the last seven days"
+  },
+  {
+    "start": 200.16,
+    "end": 203.16,
+    "text": " and in no particular order, here we go."
+  },
+  {
+    "start": 203.16,
+    "end": 205.36,
+    "text": " Starting with you, Hodgman."
+  },
+  {
+    "start": 205.36,
+    "end": 212.56,
+    "text": " Hello. My fact is not many people know that the real reason the Titanic sank is not because it hit an iceberg,"
+  },
+  {
+    "start": 212.56,
+    "end": 219.36,
+    "text": " but because so many time travelers visited at the same time, the weight of all the bodies forced it under the ocean's surface."
+  },
+  {
+    "start": 219.36,
+    "end": 221.36,
+    "text": " And this is a verified fact."
+  },
+  {
+    "start": 221.36,
+    "end": 224.36,
+    "text": " I can't believe we're doing this."
+  },
+  {
+    "start": 224.36,
+    "end": 227.36,
+    "text": " We're torturing Anna with this one."
+  },
+  {
+    "start": 227.36,
+    "end": 234.36,
+    "text": " So, John invited Dan and I to go on his podcast at the weekend called Judge John Hodgman where he settles a dispute."
+  },
+  {
+    "start": 234.36,
+    "end": 239.36,
+    "text": " The dispute was my problem with the fact that dance facts aren't real facts."
+  },
+  {
+    "start": 239.36,
+    "end": 245.36,
+    "text": " And instead of settling in my favor, he settled in Dan's favor and has presented this ridiculous fact to the class."
+  },
+  {
+    "start": 245.36,
+    "end": 246.36,
+    "text": " Well, there's no question that you--"
+  },
+  {
+    "start": 246.36,
+    "end": 247.36,
+    "text": " Which is obviously one of Dan's."
+  },
+  {
+    "start": 247.36,
+    "end": 255.36,
+    "text": " You were correct, this is not a fact other than, I think, Dan your argument was, it's a fact that some people think this."
+  },
+  {
+    "start": 255.36,
+    "end": 257.36,
+    "text": " Yeah, it's a fact that there is a theory."
+  },
+  {
+    "start": 257.36,
+    "end": 260.36,
+    "text": " There is a theory, a completely untestable theory."
+  },
+  {
+    "start": 260.36,
+    "end": 262.36,
+    "text": " Do you think anyone thinks it?"
+  },
+  {
+    "start": 262.36,
+    "end": 264.36,
+    "text": " I mean, really thinks it."
+  },
+  {
+    "start": 264.36,
+    "end": 269.36,
+    "text": " So, the first time I heard this was by Neil deGrasse Tyson, he's the American scientist."
+  },
+  {
+    "start": 269.36,
+    "end": 274.36,
+    "text": " He has this podcast, it's called Star Talk, and it's a theory that someone had sent in to him."
+  },
+  {
+    "start": 274.36,
+    "end": 278.36,
+    "text": " And so, he discussed it, and yeah, that's where I first heard it."
+  },
+  {
+    "start": 278.36,
+    "end": 282.36,
+    "text": " So, yeah, if it's good enough for Neil deGrasse Tyson, it's--"
+  },
+  {
+    "start": 282.36,
+    "end": 284.36,
+    "text": " Well, I'm not sure it's good enough."
+  },
+  {
+    "start": 284.36,
+    "end": 285.36,
+    "text": " I'm not sure."
+  },
+  {
+    "start": 285.36,
+    "end": 291.36,
+    "text": " I also went back and watched that video and I'm not sure it's good enough for him either."
+  },
+  {
+    "start": 291.36,
+    "end": 294.36,
+    "text": " If we watch it now, it's him saying good enough for me."
+  },
+  {
+    "start": 294.36,
+    "end": 299.36,
+    "text": " I did attempt to reach out to him through his co-host of that podcast, The Great Comedian Eugene Merman."
+  },
+  {
+    "start": 299.36,
+    "end": 301.36,
+    "text": " But so far, I've not heard back."
+  },
+  {
+    "start": 301.36,
+    "end": 306.36,
+    "text": " Neil deGrasse Tyson, if you're listening to this in the future, please use Time Travel"
+  },
+  {
+    "start": 306.36,
+    "end": 310.36,
+    "text": " to tell us the source of where you heard this conspiracy theory."
+  },
+  {
+    "start": 310.36,
+    "end": 317.36,
+    "text": " Stephen Hawking, you may know, held a dinner party in 2008 for future Time Travelers."
+  },
+  {
+    "start": 317.36,
+    "end": 324.36,
+    "text": " He put out-- and no one attended, except for him, because he sent out the invitations after the party was over."
+  },
+  {
+    "start": 324.36,
+    "end": 327.36,
+    "text": " Yeah, but it could be that everyone in the future really hates him."
+  },
+  {
+    "start": 327.36,
+    "end": 332.36,
+    "text": " Well, I mean, there are a lot of reasons why it was not proof, although he took it as proof."
+  },
+  {
+    "start": 332.36,
+    "end": 338.36,
+    "text": " And he-- he actually sat there in this room with glasses of champagne and canapes"
+  },
+  {
+    "start": 338.36,
+    "end": 341.36,
+    "text": " and a big banner saying, \"Welcome Time Travelers.\""
+  },
+  {
+    "start": 341.36,
+    "end": 347.36,
+    "text": " And talked about how this-- this undeniably proved it on a TV special that he made."
+  },
+  {
+    "start": 347.36,
+    "end": 350.36,
+    "text": " And I have to say, I watched that segment and Stephen Hawking."
+  },
+  {
+    "start": 350.36,
+    "end": 353.36,
+    "text": " I never thought I'd say this seemed a little bit of a smug asshole about it."
+  },
+  {
+    "start": 353.36,
+    "end": 357.36,
+    "text": " Because I mean, no offense, Dr. Hawking, you're obvious."
+  },
+  {
+    "start": 357.36,
+    "end": 362.36,
+    "text": " But I mean, you know, maybe no one wants to have dinner with you, especially after--"
+  },
+  {
+    "start": 362.36,
+    "end": 366.36,
+    "text": " especially after this smug display of self-righteous--"
+  },
+  {
+    "start": 366.36,
+    "end": 369.36,
+    "text": " There is a short story by E.M. Forster where exactly this happens."
+  },
+  {
+    "start": 369.36,
+    "end": 373.36,
+    "text": " Time Travelers come back and they come from the, you know, a few centuries ahead"
+  },
+  {
+    "start": 373.36,
+    "end": 378.36,
+    "text": " and they're just passing through a little village and they're on a sort of coach tour looking at people."
+  },
+  {
+    "start": 378.36,
+    "end": 384.36,
+    "text": " And people get so annoyed by it in our time that they make a tourist attraction out of the time travelers."
+  },
+  {
+    "start": 384.36,
+    "end": 388.36,
+    "text": " They say, \"Come and look at the time travelers and put up big signs of good audiences.\""
+  },
+  {
+    "start": 388.36,
+    "end": 390.36,
+    "text": " And that annoys the time travelers so much. They stop coming."
+  },
+  {
+    "start": 390.36,
+    "end": 393.36,
+    "text": " That's a good way to get rid of them, for sure."
+  },
+  {
+    "start": 393.36,
+    "end": 400.36,
+    "text": " But, you know, another explanation for why Stephen Hawking didn't have dinner guests that night is the many world's theory."
+  },
+  {
+    "start": 400.36,
+    "end": 405.36,
+    "text": " Which is that, in fact, there is a universe in which time travelers did come back"
+  },
+  {
+    "start": 405.36,
+    "end": 412.36,
+    "text": " and that every time we travel through time, we resolve paradoxes by creating a new, entirely new timeline, a new universe."
+  },
+  {
+    "start": 412.36,
+    "end": 415.36,
+    "text": " And this is a real theory."
+  },
+  {
+    "start": 415.36,
+    "end": 427.36,
+    "text": " And more generally scientifically accepted, the many world's interpretation of quantum mechanics was first proposed by Hugh Everett in '57 or so."
+  },
+  {
+    "start": 427.36,
+    "end": 436.36,
+    "text": " You see, a relation of Rupert? No, but he is the father of Mark Oliver Everett of the band Eels."
+  },
+  {
+    "start": 436.36,
+    "end": 446.36,
+    "text": " Really? Yeah. And, in fact, Mark Oliver Everett made a documentary about his father called Parallel World's Parallel Lives."
+  },
+  {
+    "start": 446.36,
+    "end": 450.36,
+    "text": " And the theory, before we get into that, is that the many world's interpretation."
+  },
+  {
+    "start": 450.36,
+    "end": 455.36,
+    "text": " Now, this is a little bit above my, I don't, I did a lot of reading on quantum mechanics today."
+  },
+  {
+    "start": 455.36,
+    "end": 458.36,
+    "text": " No, I will, I will be able to explain it. Thank you very much."
+  },
+  {
+    "start": 458.36,
+    "end": 464.36,
+    "text": " But the idea is that the every quantum effect exists in all possible states until it is observed."
+  },
+  {
+    "start": 464.36,
+    "end": 468.36,
+    "text": " And then it settles to one state, and that's called wave function collapse, right?"
+  },
+  {
+    "start": 468.36,
+    "end": 476.36,
+    "text": " And the idea of many world's interpretation is that there is no wave function collapse because every possible universe that exists exists."
+  },
+  {
+    "start": 476.36,
+    "end": 479.36,
+    "text": " Do I understand that more or less correctly? Yeah, pretty much."
+  },
+  {
+    "start": 479.36,
+    "end": 488.36,
+    "text": " This is also where Schrodinger's cat comes into things. So, an object can occur in two possible states until you actually look at it."
+  },
+  {
+    "start": 488.36,
+    "end": 490.36,
+    "text": " And then when you look at it, it goes in one way or the other."
+  },
+  {
+    "start": 490.36,
+    "end": 493.36,
+    "text": " Wave function collapse. Exactly that."
+  },
+  {
+    "start": 493.36,
+    "end": 499.36,
+    "text": " And then so if you have a cat in a box, then it's both alive and dead at the same time until you actually look at it."
+  },
+  {
+    "start": 499.36,
+    "end": 501.36,
+    "text": " And then you'll find out whether it's alive or dead."
+  },
+  {
+    "start": 501.36,
+    "end": 506.36,
+    "text": " And whatever it was saying was that there is a universe in which it is alive, there is a universe in which it is dead."
+  },
+  {
+    "start": 506.36,
+    "end": 512.36,
+    "text": " There is a universe where it is not a cat, there is a universe where it is a live cat dead cat hybrid."
+  },
+  {
+    "start": 512.36,
+    "end": 520.36,
+    "text": " His interesting thing about that is if you are the cat, then in some universes you will be dead and some you will be alive."
+  },
+  {
+    "start": 520.36,
+    "end": 523.36,
+    "text": " But the only ones you will ever know about are the ones where you are alive."
+  },
+  {
+    "start": 523.36,
+    "end": 532.36,
+    "text": " So actually in these kind of theories it could be that when we're experiencing things, we're only experiencing the universes where we're still alive."
+  },
+  {
+    "start": 532.36,
+    "end": 542.36,
+    "text": " So there are lots of universes where we're dead, so the final you which is still kind of extents and still understanding things will be the last one which possibly lived."
+  },
+  {
+    "start": 542.36,
+    "end": 551.36,
+    "text": " And every time you cross the street, you are hit by a car and you die, except in the universe that you experience."
+  },
+  {
+    "start": 551.36,
+    "end": 554.36,
+    "text": " I'm a survivor just like Destiny's Child said."
+  },
+  {
+    "start": 554.36,
+    "end": 566.36,
+    "text": " Yeah, that's what I was talking about. This is a good argument for John Hodgman exceptionalism. I feel like this is why I'm virtuous and that is why I've lived to this elderly age."
+  },
+  {
+    "start": 566.36,
+    "end": 572.36,
+    "text": " About Schrodinger, his idea of the cat thing was he was taking the piss out of the theory."
+  },
+  {
+    "start": 572.36,
+    "end": 577.36,
+    "text": " He was saying how can this even be true because then this thing, the cat would be true."
+  },
+  {
+    "start": 577.36,
+    "end": 590.36,
+    "text": " So he kind of didn't really like the theory and he had another thing called Schrodinger's Flea which he did like and which he used to explain how electrons can go from one level of energy to another."
+  },
+  {
+    "start": 590.36,
+    "end": 592.36,
+    "text": " They kind of jump up quickly like a flea."
+  },
+  {
+    "start": 592.36,
+    "end": 596.36,
+    "text": " So the theory that he likes was Schrodinger's Flea but the one that he didn't like was Schrodinger's cat."
+  },
+  {
+    "start": 596.36,
+    "end": 601.36,
+    "text": " I can tell you why that Schrodinger's Flea didn't take off, not enough cats."
+  },
+  {
+    "start": 601.36,
+    "end": 610.36,
+    "text": " He had a extremely popular. Yeah, he did the animals definitely the wrong way around. He did also, I think he lived with two women for a while."
+  },
+  {
+    "start": 610.36,
+    "end": 615.36,
+    "text": " Did he? Which is possibly him putting his quantum experiments into action."
+  },
+  {
+    "start": 615.36,
+    "end": 622.36,
+    "text": " But yes, it is true. And you know, Everett was essentially laughed out of mainstream science initially for this theory."
+  },
+  {
+    "start": 622.36,
+    "end": 629.36,
+    "text": " He was summoned to Copenhagen to meet Niels Bohr and Niels Bohr called him incredibly stupid to his face, I believe."
+  },
+  {
+    "start": 629.36,
+    "end": 642.36,
+    "text": " He was invited to meet Niels Bohr in Copenhagen and Niels Bohr rejected the idea outright and he quit being a physicist and became a defense contractor."
+  },
+  {
+    "start": 642.36,
+    "end": 649.36,
+    "text": " And then it was only later that the idea, which is now more or less considered to be feasible at least, is now accepted."
+  },
+  {
+    "start": 649.36,
+    "end": 659.36,
+    "text": " I've only researched the Titanic. Well, I found out a real conspiracy theory about the Titanic that it was switched with its sister ship the Olympic in an massive insurance scam."
+  },
+  {
+    "start": 659.36,
+    "end": 675.36,
+    "text": " This is not true. I'd like straight. But loads of people have proposed this for a very long time because the Olympic had been in an accident and there are all these theories that the ships were kind of given the old switcheroo and that actually one of them was a thousand tons lighter than it should have been."
+  },
+  {
+    "start": 675.36,
+    "end": 685.36,
+    "text": " And that's because the Olympic was actually a bit of a lighter ship and the Titanic had been bogged up. So yeah, it's it's complete bunk, but there are so many theories about the Titanic."
+  },
+  {
+    "start": 685.36,
+    "end": 695.36,
+    "text": " My favorite Titanic conspiracy theory is the one about the film that actually Titanic the film is about Jack Dawson traveling in time."
+  },
+  {
+    "start": 695.36,
+    "end": 696.36,
+    "text": " Yes."
+  },
+  {
+    "start": 696.36,
+    "end": 706.36,
+    "text": " Because he accidentally makes constant reference to stuff that happened after the Titanic sank. There's that famous one where he talks about ice fishing on a lake."
+  },
+  {
+    "start": 706.36,
+    "end": 713.36,
+    "text": " Lake was so tough. Lake was so so, which yeah, wasn't built until about four years later. That's right. It's a man-made lake in Wisconsin."
+  },
+  {
+    "start": 713.36,
+    "end": 724.36,
+    "text": " His backpack is a Swedish army issue from 1939. And his haircut is clearly from the 90s."
+  },
+  {
+    "start": 724.36,
+    "end": 732.36,
+    "text": " The first thing he refers to is a roller coaster on Santa Monica Bay, Santa Monica Beach, which again wasn't built until three years after was he says he's going to take rows on it."
+  },
+  {
+    "start": 732.36,
+    "end": 737.36,
+    "text": " And, you know, he may have been planning to take rows on it, but how did he know it was going to exist?"
+  },
+  {
+    "start": 737.36,
+    "end": 739.36,
+    "text": " So it was to be in plans though."
+  },
+  {
+    "start": 739.36,
+    "end": 742.36,
+    "text": " Oh, you say he's gone through the planning of Santa Monica Bay."
+  },
+  {
+    "start": 742.36,
+    "end": 745.36,
+    "text": " There's more feasible than he's the time traveller to be honest."
+  },
+  {
+    "start": 745.36,
+    "end": 753.36,
+    "text": " I read some of the same websites as you did, obviously, and the problem with the theory is that he saves rows from committing suicide."
+  },
+  {
+    "start": 753.36,
+    "end": 761.36,
+    "text": " If she had gone overboard, they probably would have stopped the ship and looked for her, and that might have prevented them from hitting that iceberg."
+  },
+  {
+    "start": 761.36,
+    "end": 765.36,
+    "text": " So he basically cared more about rows than every single other person on that ship put together?"
+  },
+  {
+    "start": 765.36,
+    "end": 769.36,
+    "text": " You know, some people just want to watch the world burn."
+  },
+  {
+    "start": 769.36,
+    "end": 774.36,
+    "text": " Maybe he was the first titanic tourist. Maybe he was just there to see it happen."
+  },
+  {
+    "start": 774.36,
+    "end": 784.36,
+    "text": " But it did have a collision, almost collision, just as it was leaving Southampton. It was so big that it pulled another ship towards it, the titanic."
+  },
+  {
+    "start": 784.36,
+    "end": 786.36,
+    "text": " And it was because of gravitational fields?"
+  },
+  {
+    "start": 786.36,
+    "end": 789.36,
+    "text": " No, because of the wash from that."
+  },
+  {
+    "start": 789.36,
+    "end": 797.36,
+    "text": " But the captain, he very craftily navigated and so avoided a smash and set off on the voyage."
+  },
+  {
+    "start": 797.36,
+    "end": 801.36,
+    "text": " So if he hadn't, obviously, they would have been delayed by a few hours or a day or something."
+  },
+  {
+    "start": 801.36,
+    "end": 804.36,
+    "text": " Well, they would have met the ice in daylight, perhaps."
+  },
+  {
+    "start": 804.36,
+    "end": 810.36,
+    "text": " Hey, speaking of the movie, do you guys know when the first ever movie was made about the titanic?"
+  },
+  {
+    "start": 810.36,
+    "end": 812.36,
+    "text": " Is that a night to remember?"
+  },
+  {
+    "start": 812.36,
+    "end": 814.36,
+    "text": " There's no really soon afterwards."
+  },
+  {
+    "start": 814.36,
+    "end": 823.36,
+    "text": " Okay, it was called \"saved from the titanic.\" It was made in 1912, and it was made 29 days after the event happened, after the titanic sank."
+  },
+  {
+    "start": 823.36,
+    "end": 828.36,
+    "text": " It starred this lady called Dorothy Gibson, and she was an actual survivor of the titanic."
+  },
+  {
+    "start": 828.36,
+    "end": 834.36,
+    "text": " They talked to Rinsuit, they make her wear the actual dress that she was wearing when she was on the titanic."
+  },
+  {
+    "start": 834.36,
+    "end": 840.36,
+    "text": " You can even see that there's all these press photos that they've released at the time where she's in the dress to promote the movie."
+  },
+  {
+    "start": 840.36,
+    "end": 846.36,
+    "text": " And yeah, that exists. Some people said it was amazing. Others said too soon."
+  },
+  {
+    "start": 846.36,
+    "end": 848.36,
+    "text": " Too soon."
+  },
+  {
+    "start": 848.36,
+    "end": 851.36,
+    "text": " Look, I don't blame her. She saw her opportunity."
+  },
+  {
+    "start": 851.36,
+    "end": 860.36,
+    "text": " You know what I mean? I've been on some cruises, I've been an entertainer on some Caribbean cruises, and I don't know."
+  },
+  {
+    "start": 860.36,
+    "end": 872.36,
+    "text": " I was on a cruise at the same time that the Carnival Triumph cruise ship ended up being the most ironically named cruise ship because it was not a party, and it was a pure failure."
+  },
+  {
+    "start": 872.36,
+    "end": 881.36,
+    "text": " Where their electrics went out, and they drifted at sea for five or six days, and it almost immediately turned to Ann or cannibalism."
+  },
+  {
+    "start": 881.36,
+    "end": 883.36,
+    "text": " Yeah, practically so."
+  },
+  {
+    "start": 883.36,
+    "end": 889.36,
+    "text": " People were urinating and defecating in the halls because apparently they didn't realize they were surrounded by an ocean."
+  },
+  {
+    "start": 889.36,
+    "end": 898.36,
+    "text": " And sleeping on deck, because they didn't have air conditioning anymore, and it was a big news story, and I was so angry that I was on this functioning cruise ship."
+  },
+  {
+    "start": 898.36,
+    "end": 905.36,
+    "text": " Rather than this poop cruise, as it came to be known, because then as soon as I got back, I would be on the today show."
+  },
+  {
+    "start": 905.36,
+    "end": 906.36,
+    "text": " You would."
+  },
+  {
+    "start": 906.36,
+    "end": 909.36,
+    "text": " Minor television personality suffers poop cruising."
+  },
+  {
+    "start": 909.36,
+    "end": 914.36,
+    "text": " Plus, you could have claimed payment, presumably, for the extra five days that you would have been forced to entertain everyone."
+  },
+  {
+    "start": 914.36,
+    "end": 929.36,
+    "text": " I have this image of me in a fool's carb dancing in front of the self-appointed king of the ship after society has broken down."
+  },
+  {
+    "start": 929.36,
+    "end": 931.36,
+    "text": " Skating on feces."
+  },
+  {
+    "start": 931.36,
+    "end": 933.36,
+    "text": " Yes, exactly."
+  },
+  {
+    "start": 933.36,
+    "end": 942.36,
+    "text": " Have we ever mentioned the fact, just on Titanic films, that there wasn't any footage when the Titanic left, because it wasn't really that big a deal."
+  },
+  {
+    "start": 942.36,
+    "end": 946.36,
+    "text": " So people were more excited about the Olympic, which left the year before."
+  },
+  {
+    "start": 946.36,
+    "end": 959.36,
+    "text": " And so there wasn't any actual footage, and when they showed the newsreels of, you know, the Titanic's sunk in cinemas, then they had to use footage of the Olympic, and they just scratched out all the names on it, because they didn't have any footage of Titanic."
+  },
+  {
+    "start": 959.36,
+    "end": 961.36,
+    "text": " So when they were like, look at this guy leaving."
+  },
+  {
+    "start": 961.36,
+    "end": 963.36,
+    "text": " And they added a license plate that said sink, right?"
+  },
+  {
+    "start": 963.36,
+    "end": 964.36,
+    "text": " Yes."
+  },
+  {
+    "start": 964.36,
+    "end": 965.36,
+    "text": " Oh, that's the one."
+  },
+  {
+    "start": 965.36,
+    "end": 976.36,
+    "text": " Maybe that contributed to the conspiracy about them switching. Yeah. Yeah. That's amazing, because all the stuff I read is that it was a huge event, you know, they said that lots of people turned out to wave it off."
+  },
+  {
+    "start": 976.36,
+    "end": 977.36,
+    "text": " I think there was, I think there was a big old policy."
+  },
+  {
+    "start": 977.36,
+    "end": 982.36,
+    "text": " People turned out, you turned out, yeah, but it was probably like, you know, all the families of the people who were actually going moving to America."
+  },
+  {
+    "start": 982.36,
+    "end": 984.36,
+    "text": " People were waving off the poop crews, too."
+  },
+  {
+    "start": 984.36,
+    "end": 989.36,
+    "text": " If it was marketed as the poop crews, I would wave it off."
+  },
+  {
+    "start": 989.36,
+    "end": 999.36,
+    "text": " And when the Titanic took off, 22 tons of soap and beef and mutton fat were smeared on the slipway to get it into the sea."
+  },
+  {
+    "start": 999.36,
+    "end": 1001.36,
+    "text": " That sounds delicious."
+  },
+  {
+    "start": 1001.36,
+    "end": 1002.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 1002.36,
+    "end": 1005.36,
+    "text": " So there is a man named Andrew Basiago."
+  },
+  {
+    "start": 1005.36,
+    "end": 1012.36,
+    "text": " I don't know if I'm pronouncing his name correctly, but it's like a Asiago cheese or Asiago cheese with a bar in front of it."
+  },
+  {
+    "start": 1012.36,
+    "end": 1025.36,
+    "text": " He is a website called Project Pegasus. He claims that when he was a seven-year-old child in the late 70s, he was recruited by DARPA, which is the Defense Advanced Research Projects Agency,"
+  },
+  {
+    "start": 1025.36,
+    "end": 1028.36,
+    "text": " to be part of Project Pegasus where there were training children to become time travelers."
+  },
+  {
+    "start": 1028.36,
+    "end": 1033.36,
+    "text": " And he was sent back through time several times. He visited Gettysburg."
+  },
+  {
+    "start": 1033.36,
+    "end": 1043.36,
+    "text": " He went to the Ford Theatre during the time of Lincoln's assassination three times and met himself once there as a child, but he never actually saw the assassination."
+  },
+  {
+    "start": 1043.36,
+    "end": 1046.36,
+    "text": " He never made it up to the box in time."
+  },
+  {
+    "start": 1046.36,
+    "end": 1053.36,
+    "text": " And so that's the thing. You could travel back in time to 1912 to go see the Titanic, but you could get on the wrong ship."
+  },
+  {
+    "start": 1053.36,
+    "end": 1055.36,
+    "text": " I mean, maybe, yeah."
+  },
+  {
+    "start": 1055.36,
+    "end": 1058.36,
+    "text": " I think just keep going back until you get the right ship."
+  },
+  {
+    "start": 1058.36,
+    "end": 1062.36,
+    "text": " Keep going back and tip us Wade and Usher to take you up to the box, guys."
+  },
+  {
+    "start": 1062.36,
+    "end": 1066.36,
+    "text": " But DARPA, of course, did create a whole bunch of crazy things that are not time travel."
+  },
+  {
+    "start": 1066.36,
+    "end": 1068.36,
+    "text": " Didn't DARPA invent the internet pretty much?"
+  },
+  {
+    "start": 1068.36,
+    "end": 1073.36,
+    "text": " Yeah, the ARPA net, it was originally called. The back one, DARPA was ARPA."
+  },
+  {
+    "start": 1073.36,
+    "end": 1078.36,
+    "text": " It's changed its name twice, from ARPA to DARPA, then to ARPA, and back to DARPA."
+  },
+  {
+    "start": 1078.36,
+    "end": 1083.36,
+    "text": " It sounds like it's invented by Dutz Aseus."
+  },
+  {
+    "start": 1083.36,
+    "end": 1085.36,
+    "text": " And arguably, it's both at the same time."
+  },
+  {
+    "start": 1085.36,
+    "end": 1091.36,
+    "text": " Alex Bell, who's in the QI office right now, he's wearing a DARPA t-shirt."
+  },
+  {
+    "start": 1091.36,
+    "end": 1093.36,
+    "text": " So what's that in reference?"
+  },
+  {
+    "start": 1093.36,
+    "end": 1104.36,
+    "text": " No, he's wearing a DARPA initiative t-shirt from the TV show Lost, which also dealt with a lot of time travel."
+  },
+  {
+    "start": 1104.36,
+    "end": 1115.36,
+    "text": " And in specifically, it embraced a kind of obscure principle about time travel, because obviously time travel introduces a lot of paradoxes in the various thought experiments."
+  },
+  {
+    "start": 1115.36,
+    "end": 1128.36,
+    "text": " And one of the explanations to get around paradoxes is the Novikov self-consistency principle, which was used in Lost to explain you can't change the past, because we were here."
+  },
+  {
+    "start": 1128.36,
+    "end": 1130.36,
+    "text": " That's the time travel happened, and we were here."
+  },
+  {
+    "start": 1130.36,
+    "end": 1132.36,
+    "text": " So what we did is what happened."
+  },
+  {
+    "start": 1132.36,
+    "end": 1136.36,
+    "text": " And nothing, it's basically, there's, do you see what I mean?"
+  },
+  {
+    "start": 1136.36,
+    "end": 1144.36,
+    "text": " I do, but I'd like to refer you to back to the future too, which makes it very clear how you can end up in a different future where Donald Trump is president."
+  },
+  {
+    "start": 1144.36,
+    "end": 1155.36,
+    "text": " Okay, it is time for fact number two, and that is James."
+  },
+  {
+    "start": 1155.36,
+    "end": 1164.36,
+    "text": " Okay, my fact this week is that during the Californian gold rush, a pair of boots could cost the equivalent of $2,300 in today's money."
+  },
+  {
+    "start": 1164.36,
+    "end": 1166.36,
+    "text": " Was it one specific pair?"
+  },
+  {
+    "start": 1166.36,
+    "end": 1167.36,
+    "text": " Oh, it was."
+  },
+  {
+    "start": 1167.36,
+    "end": 1168.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 1168.36,
+    "end": 1179.36,
+    "text": " No, it was any pair, and this is what happened, because they were so much in the middle of nowhere, and because the population had got so high and sort of shot them out of time, and they just didn't have provisions."
+  },
+  {
+    "start": 1179.36,
+    "end": 1181.36,
+    "text": " People just had to pay top dollar for everything."
+  },
+  {
+    "start": 1181.36,
+    "end": 1183.36,
+    "text": " And there's loads of examples of this."
+  },
+  {
+    "start": 1183.36,
+    "end": 1187.36,
+    "text": " An individual lemon would sell for the equivalent of $20 today."
+  },
+  {
+    "start": 1187.36,
+    "end": 1188.36,
+    "text": " What is this?"
+  },
+  {
+    "start": 1188.36,
+    "end": 1189.36,
+    "text": " Yes."
+  },
+  {
+    "start": 1189.36,
+    "end": 1198.36,
+    "text": " Presumably, most people hadn't found gold, right? Because it was only as small percentage of people who actually struck really lucky. So did most people just not go without lemons?"
+  },
+  {
+    "start": 1198.36,
+    "end": 1206.36,
+    "text": " People would find bits of gold, but yeah, basically you could become rich doing anything, apart from looking for gold."
+  },
+  {
+    "start": 1206.36,
+    "end": 1214.36,
+    "text": " Really, in that time, everyone else made a shitloads of money, and the people who actually went looking for gold, one or two people did, but mostly struggled."
+  },
+  {
+    "start": 1214.36,
+    "end": 1219.36,
+    "text": " They would do just as badly as they did when they were doing whatever else they did."
+  },
+  {
+    "start": 1219.36,
+    "end": 1226.36,
+    "text": " So for instance, there was a farmer who sold onions, who made $160,000 in 1849, just for selling onions."
+  },
+  {
+    "start": 1226.36,
+    "end": 1230.36,
+    "text": " How do you know how much that is per onion, and how that compares to the lemon?"
+  },
+  {
+    "start": 1230.36,
+    "end": 1231.36,
+    "text": " I don't know."
+  },
+  {
+    "start": 1231.36,
+    "end": 1233.36,
+    "text": " Lemon has to be more than I think, right?"
+  },
+  {
+    "start": 1233.36,
+    "end": 1236.36,
+    "text": " The good thing about lemons is it cures scurvy, or stops scurvy."
+  },
+  {
+    "start": 1236.36,
+    "end": 1237.36,
+    "text": " Right, exactly."
+  },
+  {
+    "start": 1237.36,
+    "end": 1238.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 1238.36,
+    "end": 1240.36,
+    "text": " How long did this last for?"
+  },
+  {
+    "start": 1240.36,
+    "end": 1249.36,
+    "text": " So everyone was broke? Well, so it started the gold rush in '48, 1848, and it went on for about three or four years."
+  },
+  {
+    "start": 1249.36,
+    "end": 1252.36,
+    "text": " But you know, there's still some people looking for gold out there now."
+  },
+  {
+    "start": 1252.36,
+    "end": 1253.36,
+    "text": " Still have to try."
+  },
+  {
+    "start": 1253.36,
+    "end": 1256.36,
+    "text": " I bought these boots."
+  },
+  {
+    "start": 1256.36,
+    "end": 1260.36,
+    "text": " I'm going to get the bloody mullies where all the farms were abandoned, weren't they?"
+  },
+  {
+    "start": 1260.36,
+    "end": 1263.36,
+    "text": " So this has been another reason why food was really expensive is people just left their farms."
+  },
+  {
+    "start": 1263.36,
+    "end": 1267.36,
+    "text": " So as a result, land goes followed, all the food has to be imported."
+  },
+  {
+    "start": 1267.36,
+    "end": 1272.36,
+    "text": " The other thing is there were basically no women around, and they at that time were doing all the cooking."
+  },
+  {
+    "start": 1272.36,
+    "end": 1275.36,
+    "text": " So the men were just going out to eat all the time, they weren't going home."
+  },
+  {
+    "start": 1275.36,
+    "end": 1280.36,
+    "text": " Yeah, 75% of men in California gave up their jobs to become gold prospectors."
+  },
+  {
+    "start": 1280.36,
+    "end": 1281.36,
+    "text": " Whoa!"
+  },
+  {
+    "start": 1281.36,
+    "end": 1289.36,
+    "text": " And one in 100 men in the whole of America became gold prospectors, whether that was already living in California or making the trek."
+  },
+  {
+    "start": 1289.36,
+    "end": 1294.36,
+    "text": " San Francisco was built with wood from the ships that people took to get to the gold rush."
+  },
+  {
+    "start": 1294.36,
+    "end": 1295.36,
+    "text": " Yeah, that's so cool."
+  },
+  {
+    "start": 1295.36,
+    "end": 1300.36,
+    "text": " They abandoned their boats as soon as they got there, and there was such a housing boom they ran out of lumber,"
+  },
+  {
+    "start": 1300.36,
+    "end": 1302.36,
+    "text": " and they chopped the ships up."
+  },
+  {
+    "start": 1302.36,
+    "end": 1303.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 1303.36,
+    "end": 1306.36,
+    "text": " That would be the one guy who actually was coming back for your ship."
+  },
+  {
+    "start": 1306.36,
+    "end": 1308.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 1308.36,
+    "end": 1310.36,
+    "text": " And we parked in harbors sea."
+  },
+  {
+    "start": 1310.36,
+    "end": 1311.36,
+    "text": " We're in harbors sea."
+  },
+  {
+    "start": 1311.36,
+    "end": 1313.36,
+    "text": " This is number five."
+  },
+  {
+    "start": 1313.36,
+    "end": 1316.36,
+    "text": " It's become a house."
+  },
+  {
+    "start": 1316.36,
+    "end": 1320.36,
+    "text": " So the first millionaire in California was a guy called Sam Brannon."
+  },
+  {
+    "start": 1320.36,
+    "end": 1321.36,
+    "text": " He was a journalist."
+  },
+  {
+    "start": 1321.36,
+    "end": 1326.36,
+    "text": " He owned a star, and he also had a star which kind of sold provisions."
+  },
+  {
+    "start": 1326.36,
+    "end": 1331.36,
+    "text": " And then someone came into his star with some gold to buy some, you know, shovels and whatever."
+  },
+  {
+    "start": 1331.36,
+    "end": 1333.36,
+    "text": " And he realized that they had found gold."
+  },
+  {
+    "start": 1333.36,
+    "end": 1340.36,
+    "text": " And so what he did, instead of going out to find gold himself, he smartly went round all the shops, bought all the shovels,"
+  },
+  {
+    "start": 1340.36,
+    "end": 1347.36,
+    "text": " all the pickaxes, all the pans, everything that you would need, put them in his shop, and then went into town going this gold and then their hills."
+  },
+  {
+    "start": 1347.36,
+    "end": 1353.36,
+    "text": " Everyone went crazy, went, \"Oh no, we need a shovel.\" He's like, \"Well, I know where you can get a shovel, my shop.\""
+  },
+  {
+    "start": 1353.36,
+    "end": 1356.36,
+    "text": " And so he became a millionaire from selling provisions to idiots."
+  },
+  {
+    "start": 1356.36,
+    "end": 1358.36,
+    "text": " The shovel millionaire."
+  },
+  {
+    "start": 1358.36,
+    "end": 1359.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 1359.36,
+    "end": 1360.36,
+    "text": " Very clever."
+  },
+  {
+    "start": 1360.36,
+    "end": 1361.36,
+    "text": " That's not."
+  },
+  {
+    "start": 1361.36,
+    "end": 1363.36,
+    "text": " Not as exciting as going and mining for gold though."
+  },
+  {
+    "start": 1363.36,
+    "end": 1364.36,
+    "text": " No."
+  },
+  {
+    "start": 1364.36,
+    "end": 1365.36,
+    "text": " I would have been one of the gold idiots."
+  },
+  {
+    "start": 1365.36,
+    "end": 1367.36,
+    "text": " I went mining for gold the other day."
+  },
+  {
+    "start": 1367.36,
+    "end": 1368.36,
+    "text": " Did you?"
+  },
+  {
+    "start": 1368.36,
+    "end": 1369.36,
+    "text": " In Alaska, yeah."
+  },
+  {
+    "start": 1369.36,
+    "end": 1370.36,
+    "text": " How did you do it?"
+  },
+  {
+    "start": 1370.36,
+    "end": 1371.36,
+    "text": " Were you panning?"
+  },
+  {
+    "start": 1371.36,
+    "end": 1372.36,
+    "text": " Panning, yeah."
+  },
+  {
+    "start": 1372.36,
+    "end": 1373.36,
+    "text": " Nice. Did you find any?"
+  },
+  {
+    "start": 1373.36,
+    "end": 1376.36,
+    "text": " I only found the ones that they deliberately put in for tourists to fight."
+  },
+  {
+    "start": 1376.36,
+    "end": 1378.36,
+    "text": " It is chocolate gold, not guys."
+  },
+  {
+    "start": 1378.36,
+    "end": 1380.36,
+    "text": " They put light-tidy flakes in."
+  },
+  {
+    "start": 1380.36,
+    "end": 1382.36,
+    "text": " How much did the pan cost? $5,000."
+  },
+  {
+    "start": 1382.36,
+    "end": 1386.36,
+    "text": " Were you in chicken by any chance?"
+  },
+  {
+    "start": 1386.36,
+    "end": 1388.36,
+    "text": " Chicken, no, I was in Juneau."
+  },
+  {
+    "start": 1388.36,
+    "end": 1391.36,
+    "text": " Oh, chicken is another place in Alaska where you get a lot of panning for gold."
+  },
+  {
+    "start": 1391.36,
+    "end": 1392.36,
+    "text": " Is it?"
+  },
+  {
+    "start": 1392.36,
+    "end": 1395.36,
+    "text": " As a population is 23 in winter?"
+  },
+  {
+    "start": 1395.36,
+    "end": 1396.36,
+    "text": " Seven."
+  },
+  {
+    "start": 1396.36,
+    "end": 1397.36,
+    "text": " But when is..."
+  },
+  {
+    "start": 1397.36,
+    "end": 1399.36,
+    "text": " But when is..."
+  },
+  {
+    "start": 1399.36,
+    "end": 1401.36,
+    "text": " But in panning season, it goes up to hundreds."
+  },
+  {
+    "start": 1401.36,
+    "end": 1405.36,
+    "text": " Juneau, Alaska, which is the capital of Alaska, is not accessible by road from the United States."
+  },
+  {
+    "start": 1405.36,
+    "end": 1406.36,
+    "text": " That's right."
+  },
+  {
+    "start": 1406.36,
+    "end": 1407.36,
+    "text": " You can only fly there."
+  },
+  {
+    "start": 1407.36,
+    "end": 1408.36,
+    "text": " Or get a boat."
+  },
+  {
+    "start": 1408.36,
+    "end": 1409.36,
+    "text": " Or get a boat."
+  },
+  {
+    "start": 1409.36,
+    "end": 1410.36,
+    "text": " Or get a boat, yes, I suppose."
+  },
+  {
+    "start": 1410.36,
+    "end": 1412.36,
+    "text": " If you've still got a boat, I'm right."
+  },
+  {
+    "start": 1412.36,
+    "end": 1414.36,
+    "text": " So you haven't turned it into a house in San Francisco."
+  },
+  {
+    "start": 1414.36,
+    "end": 1415.36,
+    "text": " You can supposedly take a boat."
+  },
+  {
+    "start": 1415.36,
+    "end": 1424.36,
+    "text": " Actually, when I was in Juneau, you kind of see that all the cruise ships come in and the population just goes massive during the day."
+  },
+  {
+    "start": 1424.36,
+    "end": 1428.36,
+    "text": " And then everyone gets back on the boats and then even in its empty."
+  },
+  {
+    "start": 1428.36,
+    "end": 1431.36,
+    "text": " And is that paranoia about people turning their boats into houses?"
+  },
+  {
+    "start": 1431.36,
+    "end": 1433.36,
+    "text": " It's like if we don't go back here every day."
+  },
+  {
+    "start": 1433.36,
+    "end": 1437.36,
+    "text": " No, you've got to have a poo somewhere and you've got to go on the deck of your ship."
+  },
+  {
+    "start": 1437.36,
+    "end": 1442.36,
+    "text": " Just going back to Juneau because I was there last week."
+  },
+  {
+    "start": 1442.36,
+    "end": 1444.36,
+    "text": " There's a bar there."
+  },
+  {
+    "start": 1444.36,
+    "end": 1445.36,
+    "text": " It's very old bar."
+  },
+  {
+    "start": 1445.36,
+    "end": 1449.36,
+    "text": " And they've kind of got a history of gold miners used to go there."
+  },
+  {
+    "start": 1449.36,
+    "end": 1451.36,
+    "text": " And they have sawdust on the floor."
+  },
+  {
+    "start": 1451.36,
+    "end": 1453.36,
+    "text": " And apparently this is what they always used to do."
+  },
+  {
+    "start": 1453.36,
+    "end": 1455.36,
+    "text": " Have sawdust on the floor of miners' bars."
+  },
+  {
+    "start": 1455.36,
+    "end": 1457.36,
+    "text": " I thought that was a so-called vomit."
+  },
+  {
+    "start": 1457.36,
+    "end": 1458.36,
+    "text": " Yeah, right."
+  },
+  {
+    "start": 1458.36,
+    "end": 1459.36,
+    "text": " You would think that."
+  },
+  {
+    "start": 1459.36,
+    "end": 1464.36,
+    "text": " But actually, apparently the reason was, so they would pay for their drinks with little bits of gold."
+  },
+  {
+    "start": 1464.36,
+    "end": 1468.36,
+    "text": " But obviously, once you're drunk, you're going to drop your bits of gold, aren't you?"
+  },
+  {
+    "start": 1468.36,
+    "end": 1471.36,
+    "text": " But if you drop them into sawdust, then you won't be able to find them."
+  },
+  {
+    "start": 1471.36,
+    "end": 1473.36,
+    "text": " So you would drop them there."
+  },
+  {
+    "start": 1473.36,
+    "end": 1477.36,
+    "text": " And then the next morning, the owner of the tavern would kind of sweep up all of the sawdust."
+  },
+  {
+    "start": 1477.36,
+    "end": 1481.36,
+    "text": " To put it in water, the sawdust would float, but the gold would sink."
+  },
+  {
+    "start": 1481.36,
+    "end": 1484.36,
+    "text": " And they'd get the gold out and they'd get loads more gold."
+  },
+  {
+    "start": 1484.36,
+    "end": 1489.36,
+    "text": " The same principle as why all entertainment for the gold miners was ball ponds."
+  },
+  {
+    "start": 1489.36,
+    "end": 1493.36,
+    "text": " Get the miners in the ball ponds, they drop all their gold."
+  },
+  {
+    "start": 1493.36,
+    "end": 1495.36,
+    "text": " Can't find them among the balls."
+  },
+  {
+    "start": 1495.36,
+    "end": 1498.36,
+    "text": " There was a little moment of cultural translation there."
+  },
+  {
+    "start": 1498.36,
+    "end": 1499.36,
+    "text": " Yeah, sorry."
+  },
+  {
+    "start": 1499.36,
+    "end": 1500.36,
+    "text": " What are they?"
+  },
+  {
+    "start": 1500.36,
+    "end": 1501.36,
+    "text": " Ball pits."
+  },
+  {
+    "start": 1501.36,
+    "end": 1502.36,
+    "text": " Would their ball pits here as well?"
+  },
+  {
+    "start": 1502.36,
+    "end": 1503.36,
+    "text": " I would say that."
+  },
+  {
+    "start": 1503.36,
+    "end": 1504.36,
+    "text": " Really?"
+  },
+  {
+    "start": 1504.36,
+    "end": 1505.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 1505.36,
+    "end": 1507.36,
+    "text": " We had one in my garden as a boy."
+  },
+  {
+    "start": 1507.36,
+    "end": 1508.36,
+    "text": " We had a ball pit."
+  },
+  {
+    "start": 1508.36,
+    "end": 1509.36,
+    "text": " Ball ponds."
+  },
+  {
+    "start": 1509.36,
+    "end": 1511.36,
+    "text": " It sounds the ball lake was further down at the end of the ground."
+  },
+  {
+    "start": 1511.36,
+    "end": 1515.36,
+    "text": " That sounds much more gracious than ball pit."
+  },
+  {
+    "start": 1515.36,
+    "end": 1517.36,
+    "text": " Ball ponds, surely."
+  },
+  {
+    "start": 1517.36,
+    "end": 1522.36,
+    "text": " Okay, I'll go through those children in the ball hole."
+  },
+  {
+    "start": 1522.36,
+    "end": 1527.36,
+    "text": " Another one of these businessmen who set up a business to profit was Levi Strauss."
+  },
+  {
+    "start": 1527.36,
+    "end": 1528.36,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1528.36,
+    "end": 1529.36,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1529.36,
+    "end": 1530.36,
+    "text": " So he came over."
+  },
+  {
+    "start": 1530.36,
+    "end": 1533.36,
+    "text": " He was selling canvas tarps so that they could take out there."
+  },
+  {
+    "start": 1533.36,
+    "end": 1535.36,
+    "text": " And then as a result, the business started booming."
+  },
+  {
+    "start": 1535.36,
+    "end": 1537.36,
+    "text": " And then he got into Levi jeans."
+  },
+  {
+    "start": 1537.36,
+    "end": 1541.36,
+    "text": " Now we have your presumably wearing Levi jeans."
+  },
+  {
+    "start": 1541.36,
+    "end": 1542.36,
+    "text": " Oh, no."
+  },
+  {
+    "start": 1542.36,
+    "end": 1544.36,
+    "text": " Why would you presume that?"
+  },
+  {
+    "start": 1544.36,
+    "end": 1545.36,
+    "text": " I assume all jeans are Levi jeans."
+  },
+  {
+    "start": 1545.36,
+    "end": 1546.36,
+    "text": " What?"
+  },
+  {
+    "start": 1546.36,
+    "end": 1548.36,
+    "text": " I presume it's fashion for me."
+  },
+  {
+    "start": 1548.36,
+    "end": 1549.36,
+    "text": " Misplaced."
+  },
+  {
+    "start": 1549.36,
+    "end": 1550.36,
+    "text": " Yeah, so Levi jeans."
+  },
+  {
+    "start": 1550.36,
+    "end": 1551.36,
+    "text": " Sort of an option."
+  },
+  {
+    "start": 1551.36,
+    "end": 1553.36,
+    "text": " Because the miners were very fashion conscious."
+  },
+  {
+    "start": 1553.36,
+    "end": 1554.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 1554.36,
+    "end": 1556.36,
+    "text": " Got a bit good with your gold."
+  },
+  {
+    "start": 1556.36,
+    "end": 1558.36,
+    "text": " They needed clothes with rivets on them."
+  },
+  {
+    "start": 1558.36,
+    "end": 1561.36,
+    "text": " It's okay just to remove the crotch rivet, I think."
+  },
+  {
+    "start": 1561.36,
+    "end": 1562.36,
+    "text": " Didn't they?"
+  },
+  {
+    "start": 1562.36,
+    "end": 1563.36,
+    "text": " There was a crotch rivet."
+  },
+  {
+    "start": 1563.36,
+    "end": 1564.36,
+    "text": " Oh, you mean the decades?"
+  },
+  {
+    "start": 1564.36,
+    "end": 1566.36,
+    "text": " They kept the tradition of having the crotch rivet."
+  },
+  {
+    "start": 1566.36,
+    "end": 1569.36,
+    "text": " As opposed to it took actual hours to get lost."
+  },
+  {
+    "start": 1569.36,
+    "end": 1572.36,
+    "text": " Let me just slip out of these trousers."
+  },
+  {
+    "start": 1572.36,
+    "end": 1573.36,
+    "text": " One match."
+  },
+  {
+    "start": 1573.36,
+    "end": 1577.36,
+    "text": " Another item of clothing that people needed actually"
+  },
+  {
+    "start": 1577.36,
+    "end": 1580.36,
+    "text": " was egg carrying jackets."
+  },
+  {
+    "start": 1580.36,
+    "end": 1584.36,
+    "text": " Because the gold rush was quickly followed by the egg rush."
+  },
+  {
+    "start": 1584.36,
+    "end": 1585.36,
+    "text": " And this was."
+  },
+  {
+    "start": 1585.36,
+    "end": 1587.36,
+    "text": " Gold."
+  },
+  {
+    "start": 1587.36,
+    "end": 1590.36,
+    "text": " That's everyone running back to the cruise ship, isn't it?"
+  },
+  {
+    "start": 1590.36,
+    "end": 1591.36,
+    "text": " Yes."
+  },
+  {
+    "start": 1591.36,
+    "end": 1592.36,
+    "text": " No, this was."
+  },
+  {
+    "start": 1592.36,
+    "end": 1594.36,
+    "text": " They needed some protein to get their mining done."
+  },
+  {
+    "start": 1594.36,
+    "end": 1596.36,
+    "text": " And so they ran out of eggs quite quickly."
+  },
+  {
+    "start": 1596.36,
+    "end": 1598.36,
+    "text": " And someone spotted that on the Ferralan Islands,"
+  },
+  {
+    "start": 1598.36,
+    "end": 1601.36,
+    "text": " which was just off San Francisco, there were these seabirds"
+  },
+  {
+    "start": 1601.36,
+    "end": 1603.36,
+    "text": " that laid these gigantic eggs."
+  },
+  {
+    "start": 1603.36,
+    "end": 1605.36,
+    "text": " Apparently they were twice the size of chickens' eggs."
+  },
+  {
+    "start": 1605.36,
+    "end": 1608.36,
+    "text": " And they laid red-yoke and transparent-wited eggs."
+  },
+  {
+    "start": 1608.36,
+    "end": 1610.36,
+    "text": " But they were in high demand."
+  },
+  {
+    "start": 1610.36,
+    "end": 1613.36,
+    "text": " And it was incredibly dangerous to get to these islands."
+  },
+  {
+    "start": 1613.36,
+    "end": 1616.36,
+    "text": " They were full of great white sharks, the waters around them."
+  },
+  {
+    "start": 1616.36,
+    "end": 1618.36,
+    "text": " And extremely turbulent seas."
+  },
+  {
+    "start": 1618.36,
+    "end": 1620.36,
+    "text": " But people went there and they harvested these eggs."
+  },
+  {
+    "start": 1620.36,
+    "end": 1622.36,
+    "text": " And obviously they could sell the eggs."
+  },
+  {
+    "start": 1622.36,
+    "end": 1625.36,
+    "text": " It was a huge price because no one else was getting eggs."
+  },
+  {
+    "start": 1625.36,
+    "end": 1626.36,
+    "text": " Like lemon-style prices."
+  },
+  {
+    "start": 1626.36,
+    "end": 1627.36,
+    "text": " Exactly."
+  },
+  {
+    "start": 1627.36,
+    "end": 1630.36,
+    "text": " They were up there with the lemon island was next door."
+  },
+  {
+    "start": 1630.36,
+    "end": 1632.36,
+    "text": " But what they used to do was they used to get there,"
+  },
+  {
+    "start": 1632.36,
+    "end": 1635.36,
+    "text": " get all the eggs they could into their specially-made egg jackets,"
+  },
+  {
+    "start": 1635.36,
+    "end": 1636.36,
+    "text": " which had lots of pockets for eggs."
+  },
+  {
+    "start": 1636.36,
+    "end": 1639.36,
+    "text": " And then they'd smash all the other eggs on the island"
+  },
+  {
+    "start": 1639.36,
+    "end": 1646.36,
+    "text": " because they wanted to keep it scarce."
+  },
+  {
+    "start": 1646.36,
+    "end": 1649.36,
+    "text": " No, in fact, because they'd come back the next day."
+  },
+  {
+    "start": 1649.36,
+    "end": 1651.36,
+    "text": " But they needed to know which ones were the fresh ones."
+  },
+  {
+    "start": 1651.36,
+    "end": 1654.36,
+    "text": " So they smashed the ones that had been there before."
+  },
+  {
+    "start": 1654.36,
+    "end": 1656.36,
+    "text": " Yeah, there was."
+  },
+  {
+    "start": 1656.36,
+    "end": 1657.36,
+    "text": " Oh yeah, clever, right?"
+  },
+  {
+    "start": 1657.36,
+    "end": 1660.36,
+    "text": " Anyway, then there were these egg wars in the early 50s"
+  },
+  {
+    "start": 1660.36,
+    "end": 1662.36,
+    "text": " because it was taken over by one private company,"
+  },
+  {
+    "start": 1662.36,
+    "end": 1665.36,
+    "text": " this island, and then another company tried to invade."
+  },
+  {
+    "start": 1665.36,
+    "end": 1666.36,
+    "text": " Do they still exist?"
+  },
+  {
+    "start": 1666.36,
+    "end": 1667.36,
+    "text": " I'm sorry to interrupt you a bit."
+  },
+  {
+    "start": 1667.36,
+    "end": 1668.36,
+    "text": " Do they still exist?"
+  },
+  {
+    "start": 1668.36,
+    "end": 1669.36,
+    "text": " I really want to know."
+  },
+  {
+    "start": 1669.36,
+    "end": 1671.36,
+    "text": " I don't know if anyone's ever had one of these giant--"
+  },
+  {
+    "start": 1671.36,
+    "end": 1673.36,
+    "text": " And what kind of seabird are we talking about here?"
+  },
+  {
+    "start": 1673.36,
+    "end": 1675.36,
+    "text": " It's a kind of-- it looks like a penguin."
+  },
+  {
+    "start": 1675.36,
+    "end": 1677.36,
+    "text": " And it's called a common-mer."
+  },
+  {
+    "start": 1677.36,
+    "end": 1678.36,
+    "text": " M-U-D-R-E."
+  },
+  {
+    "start": 1678.36,
+    "end": 1679.36,
+    "text": " Common-mer."
+  },
+  {
+    "start": 1679.36,
+    "end": 1682.36,
+    "text": " Yeah, it's kind of an unpleasant name for what provided"
+  },
+  {
+    "start": 1682.36,
+    "end": 1683.36,
+    "text": " quite a valuable--"
+  },
+  {
+    "start": 1683.36,
+    "end": 1685.36,
+    "text": " I guess that's where the name Moralats comes from."
+  },
+  {
+    "start": 1685.36,
+    "end": 1686.36,
+    "text": " We'll be a small version."
+  },
+  {
+    "start": 1686.36,
+    "end": 1687.36,
+    "text": " Is it a demo?"
+  },
+  {
+    "start": 1687.36,
+    "end": 1688.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 1688.36,
+    "end": 1690.36,
+    "text": " Have you heard of a Hangtown Fry?"
+  },
+  {
+    "start": 1690.36,
+    "end": 1691.36,
+    "text": " No."
+  },
+  {
+    "start": 1691.36,
+    "end": 1694.36,
+    "text": " The Hangtown Fry is something you get in San Francisco."
+  },
+  {
+    "start": 1694.36,
+    "end": 1698.36,
+    "text": " And it is-- it's derived from the Gold Rush."
+  },
+  {
+    "start": 1698.36,
+    "end": 1700.36,
+    "text": " It's an egg dish."
+  },
+  {
+    "start": 1700.36,
+    "end": 1703.36,
+    "text": " And the legend, again, we're dealing with legends here,"
+  },
+  {
+    "start": 1703.36,
+    "end": 1706.36,
+    "text": " is that when someone struck it big in the Gold Rush,"
+  },
+  {
+    "start": 1706.36,
+    "end": 1709.36,
+    "text": " they would-- someone went in and ordered--"
+  },
+  {
+    "start": 1709.36,
+    "end": 1712.36,
+    "text": " I'd just give me anything that involves the most expensive things"
+  },
+  {
+    "start": 1712.36,
+    "end": 1713.36,
+    "text": " you have."
+  },
+  {
+    "start": 1713.36,
+    "end": 1718.36,
+    "text": " So a Hangtown Fry was an omelette made of expensive eggs"
+  },
+  {
+    "start": 1718.36,
+    "end": 1722.36,
+    "text": " and mixed with bacon, which was shipped in from the east,"
+  },
+  {
+    "start": 1722.36,
+    "end": 1724.36,
+    "text": " and fried oysters on top."
+  },
+  {
+    "start": 1724.36,
+    "end": 1725.36,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1725.36,
+    "end": 1727.36,
+    "text": " And served in a pair of boots."
+  },
+  {
+    "start": 1727.36,
+    "end": 1730.36,
+    "text": " Serve in a pair of golden boots."
+  },
+  {
+    "start": 1730.36,
+    "end": 1732.36,
+    "text": " And it was originally in Placerville, California,"
+  },
+  {
+    "start": 1732.36,
+    "end": 1735.36,
+    "text": " which was then known as Hangtown,"
+  },
+  {
+    "start": 1735.36,
+    "end": 1738.36,
+    "text": " because they hanged a lot of people there."
+  },
+  {
+    "start": 1738.36,
+    "end": 1740.36,
+    "text": " Justice was harsh in Placerville."
+  },
+  {
+    "start": 1740.36,
+    "end": 1743.36,
+    "text": " I'd give my desirable breakfast a different name, I think,"
+  },
+  {
+    "start": 1743.36,
+    "end": 1746.36,
+    "text": " that didn't have so much association with kidding people."
+  },
+  {
+    "start": 1746.36,
+    "end": 1748.36,
+    "text": " It's kind of got cowboys sound to it, I suppose."
+  },
+  {
+    "start": 1748.36,
+    "end": 1750.36,
+    "text": " I suppose people of the west are weird."
+  },
+  {
+    "start": 1750.36,
+    "end": 1752.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 1752.36,
+    "end": 1756.36,
+    "text": " They want vengeance with their breakfast."
+  },
+  {
+    "start": 1756.36,
+    "end": 1758.36,
+    "text": " That sounds a good film name."
+  },
+  {
+    "start": 1758.36,
+    "end": 1759.36,
+    "text": " Vengeance with breakfast."
+  },
+  {
+    "start": 1759.36,
+    "end": 1760.36,
+    "text": " Vengeance for breakfast."
+  },
+  {
+    "start": 1760.36,
+    "end": 1761.36,
+    "text": " I'm going to cook it."
+  },
+  {
+    "start": 1761.36,
+    "end": 1762.36,
+    "text": " They smash all the other eggs in the kitchen."
+  },
+  {
+    "start": 1762.36,
+    "end": 1763.36,
+    "text": " That's right."
+  },
+  {
+    "start": 1763.36,
+    "end": 1766.36,
+    "text": " Just to make sure."
+  },
+  {
+    "start": 1766.36,
+    "end": 1769.36,
+    "text": " So were there a lot of rushes in that period?"
+  },
+  {
+    "start": 1769.36,
+    "end": 1771.36,
+    "text": " Like egg rush, gold rush?"
+  },
+  {
+    "start": 1771.36,
+    "end": 1775.36,
+    "text": " I read that there was a silver rush, which was in Calico,"
+  },
+  {
+    "start": 1775.36,
+    "end": 1777.36,
+    "text": " which is now a ghost town."
+  },
+  {
+    "start": 1777.36,
+    "end": 1778.36,
+    "text": " Anything else?"
+  },
+  {
+    "start": 1778.36,
+    "end": 1781.36,
+    "text": " There was another gold rush, which Melbourne was casually"
+  },
+  {
+    "start": 1781.36,
+    "end": 1783.36,
+    "text": " not making too much fuss about down under,"
+  },
+  {
+    "start": 1783.36,
+    "end": 1787.36,
+    "text": " but Melbourne became the richest city in the world in the 1850s,"
+  },
+  {
+    "start": 1787.36,
+    "end": 1789.36,
+    "text": " I think, because they had a gold rush."
+  },
+  {
+    "start": 1789.36,
+    "end": 1790.36,
+    "text": " Gold was found there."
+  },
+  {
+    "start": 1790.36,
+    "end": 1792.36,
+    "text": " And people did better in Melbourne than in San Francisco."
+  },
+  {
+    "start": 1792.36,
+    "end": 1794.36,
+    "text": " It seems like there were fewer of them."
+  },
+  {
+    "start": 1794.36,
+    "end": 1795.36,
+    "text": " So maybe that helps."
+  },
+  {
+    "start": 1795.36,
+    "end": 1798.36,
+    "text": " There was a thing in Australia where in the west of Australia,"
+  },
+  {
+    "start": 1798.36,
+    "end": 1801.36,
+    "text": " in Calgurli, sorry, Calgurli."
+  },
+  {
+    "start": 1801.36,
+    "end": 1803.36,
+    "text": " I can't say it."
+  },
+  {
+    "start": 1803.36,
+    "end": 1804.36,
+    "text": " Calgurli."
+  },
+  {
+    "start": 1804.36,
+    "end": 1805.36,
+    "text": " Calgurli."
+  },
+  {
+    "start": 1805.36,
+    "end": 1806.36,
+    "text": " Calgurli?"
+  },
+  {
+    "start": 1806.36,
+    "end": 1807.36,
+    "text": " Calgurli."
+  },
+  {
+    "start": 1807.36,
+    "end": 1808.36,
+    "text": " I thought it was Calgurli."
+  },
+  {
+    "start": 1808.36,
+    "end": 1809.36,
+    "text": " Chicago."
+  },
+  {
+    "start": 1809.36,
+    "end": 1815.36,
+    "text": " Calgurli wouldn't be what I said."
+  },
+  {
+    "start": 1815.36,
+    "end": 1816.36,
+    "text": " Calgurli."
+  },
+  {
+    "start": 1816.36,
+    "end": 1818.36,
+    "text": " So this in western Australia,"
+  },
+  {
+    "start": 1818.36,
+    "end": 1821.36,
+    "text": " and they had a similar sort of gold rush,"
+  },
+  {
+    "start": 1821.36,
+    "end": 1824.36,
+    "text": " but what they didn't notice was there's a different type of gold,"
+  },
+  {
+    "start": 1824.36,
+    "end": 1826.36,
+    "text": " which is it just wasn't recognized as gold,"
+  },
+  {
+    "start": 1826.36,
+    "end": 1829.36,
+    "text": " probably at the time, because it wasn't shiny and it wasn't gold."
+  },
+  {
+    "start": 1829.36,
+    "end": 1832.36,
+    "text": " Anyway, the point is, is that they thought it was a bit of a waste rock,"
+  },
+  {
+    "start": 1832.36,
+    "end": 1833.36,
+    "text": " so they were paving the streets with it."
+  },
+  {
+    "start": 1833.36,
+    "end": 1837.36,
+    "text": " And suddenly they discovered that it was an element of gold inside it,"
+  },
+  {
+    "start": 1837.36,
+    "end": 1840.36,
+    "text": " so suddenly they realized that they'd been paving the streets with gold effectively."
+  },
+  {
+    "start": 1840.36,
+    "end": 1842.36,
+    "text": " And so all the roads would dug up,"
+  },
+  {
+    "start": 1842.36,
+    "end": 1845.36,
+    "text": " and they would then collecting it and making lots of money."
+  },
+  {
+    "start": 1845.36,
+    "end": 1849.36,
+    "text": " Are you sure that sounds a bit like a lie you've been spun by your jewelry dealer"
+  },
+  {
+    "start": 1849.36,
+    "end": 1851.36,
+    "text": " for the engagement ring?"
+  },
+  {
+    "start": 1851.36,
+    "end": 1853.36,
+    "text": " It's a different type of gold."
+  },
+  {
+    "start": 1853.36,
+    "end": 1854.36,
+    "text": " It's not shiny."
+  },
+  {
+    "start": 1854.36,
+    "end": 1857.36,
+    "text": " It may look like Tom Act to you, sir, but actually..."
+  },
+  {
+    "start": 1857.36,
+    "end": 1859.36,
+    "text": " She'll love it."
+  },
+  {
+    "start": 1859.36,
+    "end": 1861.36,
+    "text": " I have heard of that Calgurli thing, actually."
+  },
+  {
+    "start": 1861.36,
+    "end": 1862.36,
+    "text": " I think it is."
+  },
+  {
+    "start": 1862.36,
+    "end": 1864.36,
+    "text": " If you do ever go on a Caribbean cruise,"
+  },
+  {
+    "start": 1864.36,
+    "end": 1866.36,
+    "text": " prepare for a lot of seminars on Tanzanite,"
+  },
+  {
+    "start": 1866.36,
+    "end": 1868.36,
+    "text": " the mineral of the future."
+  },
+  {
+    "start": 1868.36,
+    "end": 1869.36,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1869.36,
+    "end": 1870.36,
+    "text": " They are really?"
+  },
+  {
+    "start": 1870.36,
+    "end": 1871.36,
+    "text": " They are really pushing Tanzanite hard."
+  },
+  {
+    "start": 1871.36,
+    "end": 1874.36,
+    "text": " Is that what you were entertaining people with on your cruise?"
+  },
+  {
+    "start": 1874.36,
+    "end": 1876.36,
+    "text": " I was a Tanzanite salesman."
+  },
+  {
+    "start": 1876.36,
+    "end": 1879.36,
+    "text": " I just thought of another rush."
+  },
+  {
+    "start": 1879.36,
+    "end": 1882.36,
+    "text": " There was an Alpaca rush in America."
+  },
+  {
+    "start": 1882.36,
+    "end": 1883.36,
+    "text": " Oh, no."
+  },
+  {
+    "start": 1883.36,
+    "end": 1885.36,
+    "text": " Let me tell you, yeah, that was a big deal."
+  },
+  {
+    "start": 1885.36,
+    "end": 1888.36,
+    "text": " I think a lot of people lost a lot of money on the Alpaca rush."
+  },
+  {
+    "start": 1888.36,
+    "end": 1891.36,
+    "text": " Yeah, and that's not that long ago, maybe 15 years ago or so."
+  },
+  {
+    "start": 1891.36,
+    "end": 1893.36,
+    "text": " How do you mind for Alpacas?"
+  },
+  {
+    "start": 1893.36,
+    "end": 1896.36,
+    "text": " This is people's Alpaca rights, it's called."
+  },
+  {
+    "start": 1896.36,
+    "end": 1899.36,
+    "text": " I'm from New England, and in Western New England,"
+  },
+  {
+    "start": 1899.36,
+    "end": 1902.36,
+    "text": " there was a huge llama and Alpaca boom."
+  },
+  {
+    "start": 1902.36,
+    "end": 1908.36,
+    "text": " People started raising Alpacas and llamas for their fur"
+  },
+  {
+    "start": 1908.36,
+    "end": 1910.36,
+    "text": " to make into textiles and yarn and junk."
+  },
+  {
+    "start": 1910.36,
+    "end": 1913.36,
+    "text": " And they're also adorably dumb to look at."
+  },
+  {
+    "start": 1913.36,
+    "end": 1914.36,
+    "text": " Oh, my God."
+  },
+  {
+    "start": 1914.36,
+    "end": 1915.36,
+    "text": " They're my favorite animal."
+  },
+  {
+    "start": 1915.36,
+    "end": 1917.36,
+    "text": " If any fans want to get me a present, get me a llama."
+  },
+  {
+    "start": 1917.36,
+    "end": 1919.36,
+    "text": " Well, they found them quite intensively,"
+  },
+  {
+    "start": 1919.36,
+    "end": 1921.36,
+    "text": " and so they're not that intensively."
+  },
+  {
+    "start": 1921.36,
+    "end": 1922.36,
+    "text": " You don't see it all this."
+  },
+  {
+    "start": 1922.36,
+    "end": 1923.36,
+    "text": " It's a country alpha."
+  },
+  {
+    "start": 1923.36,
+    "end": 1924.36,
+    "text": " Yeah, shit."
+  },
+  {
+    "start": 1924.36,
+    "end": 1925.36,
+    "text": " It's full of Alpacas."
+  },
+  {
+    "start": 1925.36,
+    "end": 1926.36,
+    "text": " It's totally the stuff."
+  },
+  {
+    "start": 1926.36,
+    "end": 1929.36,
+    "text": " You did see them, though, in Western Massachusetts and throughout the United States."
+  },
+  {
+    "start": 1929.36,
+    "end": 1932.36,
+    "text": " There was a huge boom in Alpaca farming."
+  },
+  {
+    "start": 1932.36,
+    "end": 1934.36,
+    "text": " And then it went Alpaca bust."
+  },
+  {
+    "start": 1934.36,
+    "end": 1940.36,
+    "text": " And people were buying Alpacas from South America for tens of thousands of dollars,"
+  },
+  {
+    "start": 1940.36,
+    "end": 1943.36,
+    "text": " and then they were selling them for $1,500 or something like that,"
+  },
+  {
+    "start": 1943.36,
+    "end": 1945.36,
+    "text": " just for all the market collapse."
+  },
+  {
+    "start": 1945.36,
+    "end": 1949.36,
+    "text": " Yeah, it was the case that you would be able to buy a young Alpaca"
+  },
+  {
+    "start": 1949.36,
+    "end": 1952.36,
+    "text": " and then grow it up, and then you make a load of money."
+  },
+  {
+    "start": 1952.36,
+    "end": 1954.36,
+    "text": " But that was only for about a couple of years."
+  },
+  {
+    "start": 1954.36,
+    "end": 1956.36,
+    "text": " And then suddenly people realized these things"
+  },
+  {
+    "start": 1956.36,
+    "end": 1959.36,
+    "text": " that definitely not worth that much money."
+  },
+  {
+    "start": 1959.36,
+    "end": 1961.36,
+    "text": " I'm a bit like Chewlick Bay near, I guess."
+  },
+  {
+    "start": 1961.36,
+    "end": 1963.36,
+    "text": " But I'll pay anything for them, seriously."
+  },
+  {
+    "start": 1963.36,
+    "end": 1965.36,
+    "text": " Do you live in an apartment?"
+  },
+  {
+    "start": 1965.36,
+    "end": 1966.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 1966.36,
+    "end": 1967.36,
+    "text": " Let me recommend a Vaikunya."
+  },
+  {
+    "start": 1967.36,
+    "end": 1968.36,
+    "text": " What's that?"
+  },
+  {
+    "start": 1968.36,
+    "end": 1970.36,
+    "text": " It's the smallest of the llamas."
+  },
+  {
+    "start": 1970.36,
+    "end": 1971.36,
+    "text": " Okay."
+  },
+  {
+    "start": 1971.36,
+    "end": 1972.36,
+    "text": " Thank you."
+  },
+  {
+    "start": 1972.36,
+    "end": 1975.36,
+    "text": " It's more of a lap llama."
+  },
+  {
+    "start": 1975.36,
+    "end": 1976.36,
+    "text": " You know what I mean?"
+  },
+  {
+    "start": 1976.36,
+    "end": 1977.36,
+    "text": " It's such a good tip."
+  },
+  {
+    "start": 1977.36,
+    "end": 1979.36,
+    "text": " Yeah, because we've only got one small sofa,"
+  },
+  {
+    "start": 1979.36,
+    "end": 1980.36,
+    "text": " and there's already two of us."
+  },
+  {
+    "start": 1980.36,
+    "end": 1982.36,
+    "text": " It's a little happily with a Vaikunya."
+  },
+  {
+    "start": 1982.36,
+    "end": 1983.36,
+    "text": " Okay."
+  },
+  {
+    "start": 1983.36,
+    "end": 1984.36,
+    "text": " Thank you."
+  },
+  {
+    "start": 1984.36,
+    "end": 1987.36,
+    "text": " Just sit on the llama that you've got two sofas right there."
+  },
+  {
+    "start": 1987.36,
+    "end": 1988.36,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1988.36,
+    "end": 1989.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 1989.36,
+    "end": 1990.36,
+    "text": " That's a really good, but a llama is a sofa."
+  },
+  {
+    "start": 1990.36,
+    "end": 1992.36,
+    "text": " You're not really allowed to use them."
+  },
+  {
+    "start": 1992.36,
+    "end": 1994.36,
+    "text": " You shouldn't use them as sofas."
+  },
+  {
+    "start": 1994.36,
+    "end": 1996.36,
+    "text": " But also, I don't think you're allowed to sit on their backs"
+  },
+  {
+    "start": 1996.36,
+    "end": 1998.36,
+    "text": " because they snap."
+  },
+  {
+    "start": 1998.36,
+    "end": 2000.36,
+    "text": " Oh, yeah, they're mean creatures."
+  },
+  {
+    "start": 2000.36,
+    "end": 2001.36,
+    "text": " No, sorry."
+  },
+  {
+    "start": 2001.36,
+    "end": 2007.36,
+    "text": " Get the fuck off me."
+  },
+  {
+    "start": 2007.36,
+    "end": 2010.36,
+    "text": " You're saying that I would break a llama in half"
+  },
+  {
+    "start": 2010.36,
+    "end": 2011.36,
+    "text": " if I sat on that thing?"
+  },
+  {
+    "start": 2011.36,
+    "end": 2015.36,
+    "text": " I'm not saying anything about anybody, but I am saying that you can damage their backs."
+  },
+  {
+    "start": 2015.36,
+    "end": 2018.36,
+    "text": " There are photos of Edwardian gentlemen having a great time sitting on llamas,"
+  },
+  {
+    "start": 2018.36,
+    "end": 2022.36,
+    "text": " but I think the current medical advice says we shouldn't."
+  },
+  {
+    "start": 2022.36,
+    "end": 2025.36,
+    "text": " They're among the gentlest of the vertebrates."
+  },
+  {
+    "start": 2025.36,
+    "end": 2026.36,
+    "text": " [laughter]"
+  },
+  {
+    "start": 2026.36,
+    "end": 2031.36,
+    "text": " [music]"
+  },
+  {
+    "start": 2031.36,
+    "end": 2035.36,
+    "text": " Okay, it is time for fact number three, and that is Andy."
+  },
+  {
+    "start": 2035.36,
+    "end": 2038.36,
+    "text": " My fact is that the area of Australia owned by British people"
+  },
+  {
+    "start": 2038.36,
+    "end": 2041.36,
+    "text": " is larger than Britain."
+  },
+  {
+    "start": 2041.36,
+    "end": 2042.36,
+    "text": " That's amazing."
+  },
+  {
+    "start": 2042.36,
+    "end": 2045.36,
+    "text": " Oh, fucking car parker, my fact."
+  },
+  {
+    "start": 2045.36,
+    "end": 2046.36,
+    "text": " I was a real car parker."
+  },
+  {
+    "start": 2046.36,
+    "end": 2047.36,
+    "text": " I'll take this moment apart."
+  },
+  {
+    "start": 2047.36,
+    "end": 2048.36,
+    "text": " You made your opinion."
+  },
+  {
+    "start": 2048.36,
+    "end": 2049.36,
+    "text": " Oh, that's alright."
+  },
+  {
+    "start": 2049.36,
+    "end": 2052.36,
+    "text": " [laughter]"
+  },
+  {
+    "start": 2052.36,
+    "end": 2053.36,
+    "text": " Mm-hmm."
+  },
+  {
+    "start": 2053.36,
+    "end": 2054.36,
+    "text": " I see."
+  },
+  {
+    "start": 2054.36,
+    "end": 2055.36,
+    "text": " That's a great fact, Andy."
+  },
+  {
+    "start": 2055.36,
+    "end": 2056.36,
+    "text": " Thank you very much, James."
+  },
+  {
+    "start": 2056.36,
+    "end": 2058.36,
+    "text": " What I'll tell you."
+  },
+  {
+    "start": 2058.36,
+    "end": 2062.36,
+    "text": " So what this means is basically Australia is absolutely massive"
+  },
+  {
+    "start": 2062.36,
+    "end": 2066.36,
+    "text": " and they've just done a survey of sort of foreign land ownership"
+  },
+  {
+    "start": 2066.36,
+    "end": 2069.36,
+    "text": " because there's been a lot of gaffafel about this in Australia."
+  },
+  {
+    "start": 2069.36,
+    "end": 2075.36,
+    "text": " And the amount owned by British companies is 27.5 million hectares"
+  },
+  {
+    "start": 2075.36,
+    "end": 2079.36,
+    "text": " and Britain itself is only 24 million hectares."
+  },
+  {
+    "start": 2079.36,
+    "end": 2084.36,
+    "text": " Although, I mean, technically one British person owns the whole of Australia, right?"
+  },
+  {
+    "start": 2084.36,
+    "end": 2086.36,
+    "text": " Technically, none of these people own the land."
+  },
+  {
+    "start": 2086.36,
+    "end": 2089.36,
+    "text": " They're just leasing it from Her Majesty the Queen."
+  },
+  {
+    "start": 2089.36,
+    "end": 2090.36,
+    "text": " To the Queen, yes, yes."
+  },
+  {
+    "start": 2090.36,
+    "end": 2091.36,
+    "text": " That's true."
+  },
+  {
+    "start": 2091.36,
+    "end": 2097.36,
+    "text": " The largest non-state non-monarchy private land holding on earth"
+  },
+  {
+    "start": 2097.36,
+    "end": 2103.36,
+    "text": " is this family called the Kidmans, who they own a bit of Australia,"
+  },
+  {
+    "start": 2103.36,
+    "end": 2105.36,
+    "text": " which is larger than Scotland."
+  },
+  {
+    "start": 2105.36,
+    "end": 2106.36,
+    "text": " It's larger than Hungary."
+  },
+  {
+    "start": 2106.36,
+    "end": 2108.36,
+    "text": " It's three quarters of the size of England."
+  },
+  {
+    "start": 2108.36,
+    "end": 2109.36,
+    "text": " Wow."
+  },
+  {
+    "start": 2109.36,
+    "end": 2111.36,
+    "text": " And they recently tried to put it up a sale."
+  },
+  {
+    "start": 2111.36,
+    "end": 2114.36,
+    "text": " It was founded by a man called Sidney Kidman in 1899,"
+  },
+  {
+    "start": 2114.36,
+    "end": 2117.36,
+    "text": " who went off as a teenager with a one-eyed horse."
+  },
+  {
+    "start": 2117.36,
+    "end": 2119.36,
+    "text": " We founded a load of these castle stations all over Australia."
+  },
+  {
+    "start": 2119.36,
+    "end": 2121.36,
+    "text": " It went up for sale last year."
+  },
+  {
+    "start": 2121.36,
+    "end": 2124.36,
+    "text": " It would have taken about a week, just to visit the property,"
+  },
+  {
+    "start": 2124.36,
+    "end": 2126.36,
+    "text": " because it's in a few different places."
+  },
+  {
+    "start": 2126.36,
+    "end": 2128.36,
+    "text": " You'd have to have a plane between them all."
+  },
+  {
+    "start": 2128.36,
+    "end": 2130.36,
+    "text": " Yeah, only 150 people live there."
+  },
+  {
+    "start": 2130.36,
+    "end": 2133.36,
+    "text": " It's basically a series of massive cattle stations out in the..."
+  },
+  {
+    "start": 2133.36,
+    "end": 2134.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2134.36,
+    "end": 2135.36,
+    "text": " I think it's the Outback."
+  },
+  {
+    "start": 2135.36,
+    "end": 2137.36,
+    "text": " I'm not quite sure where the Outback begins and ends."
+  },
+  {
+    "start": 2137.36,
+    "end": 2138.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2138.36,
+    "end": 2139.36,
+    "text": " And didn't they try and sell it recently?"
+  },
+  {
+    "start": 2139.36,
+    "end": 2140.36,
+    "text": " They tried to sell it, but the stock denied."
+  },
+  {
+    "start": 2140.36,
+    "end": 2144.36,
+    "text": " It was blocked, because they were selling it to a Chinese majority owned consortium."
+  },
+  {
+    "start": 2144.36,
+    "end": 2146.36,
+    "text": " And the Australian government said, \"No, no, you're not allowed to do that."
+  },
+  {
+    "start": 2146.36,
+    "end": 2147.36,
+    "text": " I'm trying to keep it Australian owned.\""
+  },
+  {
+    "start": 2147.36,
+    "end": 2152.36,
+    "text": " I read a headline about the largest foreign landowner in China being IKEA."
+  },
+  {
+    "start": 2152.36,
+    "end": 2153.36,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 2153.36,
+    "end": 2157.36,
+    "text": " I'm not really sure what this means, but according to a Reuters report"
+  },
+  {
+    "start": 2157.36,
+    "end": 2160.36,
+    "text": " from a couple of years ago, IKEA was the biggest foreign landowner in China"
+  },
+  {
+    "start": 2160.36,
+    "end": 2163.36,
+    "text": " with 6.89 million square feet,"
+  },
+  {
+    "start": 2163.36,
+    "end": 2166.36,
+    "text": " which doesn't seem like very much compared to 29 million hectares."
+  },
+  {
+    "start": 2166.36,
+    "end": 2167.36,
+    "text": " No."
+  },
+  {
+    "start": 2167.36,
+    "end": 2169.36,
+    "text": " But maybe it's bullshit."
+  },
+  {
+    "start": 2169.36,
+    "end": 2172.36,
+    "text": " That might just be one massive branch of IKEA."
+  },
+  {
+    "start": 2172.36,
+    "end": 2173.36,
+    "text": " Yeah, right."
+  },
+  {
+    "start": 2173.36,
+    "end": 2175.36,
+    "text": " It actually takes a week to get round the hole."
+  },
+  {
+    "start": 2175.36,
+    "end": 2177.36,
+    "text": " Yeah, exactly, yeah."
+  },
+  {
+    "start": 2177.36,
+    "end": 2181.36,
+    "text": " The largest electoral district in Australia is bigger than Mongolia."
+  },
+  {
+    "start": 2181.36,
+    "end": 2182.36,
+    "text": " What a swap."
+  },
+  {
+    "start": 2182.36,
+    "end": 2183.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2183.36,
+    "end": 2186.36,
+    "text": " It's called Jirak, and it's in Westerns in WA."
+  },
+  {
+    "start": 2186.36,
+    "end": 2187.36,
+    "text": " Uh-huh."
+  },
+  {
+    "start": 2187.36,
+    "end": 2189.36,
+    "text": " And yeah, it's slightly bigger than Mongolia."
+  },
+  {
+    "start": 2189.36,
+    "end": 2190.36,
+    "text": " I should have written down those figures."
+  },
+  {
+    "start": 2190.36,
+    "end": 2194.36,
+    "text": " It's about 1,000 km squared, bigger than the square plumber area of Mongolia."
+  },
+  {
+    "start": 2194.36,
+    "end": 2195.36,
+    "text": " Wow."
+  },
+  {
+    "start": 2195.36,
+    "end": 2197.36,
+    "text": " I just can't believe it, because Mongolia is massive."
+  },
+  {
+    "start": 2197.36,
+    "end": 2198.36,
+    "text": " It's huge."
+  },
+  {
+    "start": 2198.36,
+    "end": 2199.36,
+    "text": " I know."
+  },
+  {
+    "start": 2199.36,
+    "end": 2200.36,
+    "text": " I don't get it."
+  },
+  {
+    "start": 2200.36,
+    "end": 2204.36,
+    "text": " I read in 1933 that Western Australia voted to leave Australia."
+  },
+  {
+    "start": 2204.36,
+    "end": 2207.36,
+    "text": " So like a Brexit, they just said we don't want to be a part of Australia anymore."
+  },
+  {
+    "start": 2207.36,
+    "end": 2208.36,
+    "text": " They did the vote."
+  },
+  {
+    "start": 2208.36,
+    "end": 2209.36,
+    "text": " It was successful."
+  },
+  {
+    "start": 2209.36,
+    "end": 2212.36,
+    "text": " And then they just Australia said, no, we're not letting you do it."
+  },
+  {
+    "start": 2212.36,
+    "end": 2214.36,
+    "text": " It was a poll, I think, wasn't it?"
+  },
+  {
+    "start": 2214.36,
+    "end": 2215.36,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 2215.36,
+    "end": 2217.36,
+    "text": " So it wasn't a vote."
+  },
+  {
+    "start": 2217.36,
+    "end": 2218.36,
+    "text": " It was to see if they would want to leave."
+  },
+  {
+    "start": 2218.36,
+    "end": 2220.36,
+    "text": " And then I think they said they would."
+  },
+  {
+    "start": 2220.36,
+    "end": 2223.36,
+    "text": " So the government was like, cool, let's not have an election on that."
+  },
+  {
+    "start": 2223.36,
+    "end": 2225.36,
+    "text": " It was just advisory."
+  },
+  {
+    "start": 2225.36,
+    "end": 2226.36,
+    "text": " Yes."
+  },
+  {
+    "start": 2226.36,
+    "end": 2230.36,
+    "text": " Western Australia, I wrote down that it's got 2.6 million people,"
+  },
+  {
+    "start": 2230.36,
+    "end": 2233.36,
+    "text": " over 2.5 million square kilometers."
+  },
+  {
+    "start": 2233.36,
+    "end": 2237.36,
+    "text": " And most of those people are all crammed into."
+  },
+  {
+    "start": 2237.36,
+    "end": 2238.36,
+    "text": " Is Perth Western Australia?"
+  },
+  {
+    "start": 2238.36,
+    "end": 2239.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2239.36,
+    "end": 2241.36,
+    "text": " So basically everyone there is in Perth."
+  },
+  {
+    "start": 2241.36,
+    "end": 2242.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2242.36,
+    "end": 2245.36,
+    "text": " And there's a town called Kimberley, which has a population of 3rd,"
+  },
+  {
+    "start": 2245.36,
+    "end": 2247.36,
+    "text": " the size of Wembley Stadium, Wemful,"
+  },
+  {
+    "start": 2247.36,
+    "end": 2250.36,
+    "text": " but is 3 times the size of England."
+  },
+  {
+    "start": 2250.36,
+    "end": 2251.36,
+    "text": " Oh, cool."
+  },
+  {
+    "start": 2251.36,
+    "end": 2252.36,
+    "text": " I've stayed in Kimberley."
+  },
+  {
+    "start": 2252.36,
+    "end": 2253.36,
+    "text": " I have you."
+  },
+  {
+    "start": 2253.36,
+    "end": 2254.36,
+    "text": " Yeah, my grandmother lived there."
+  },
+  {
+    "start": 2254.36,
+    "end": 2255.36,
+    "text": " Did she?"
+  },
+  {
+    "start": 2255.36,
+    "end": 2256.36,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 2256.36,
+    "end": 2257.36,
+    "text": " And I went panning for gold there."
+  },
+  {
+    "start": 2257.36,
+    "end": 2258.36,
+    "text": " Did you?"
+  },
+  {
+    "start": 2258.36,
+    "end": 2259.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2259.36,
+    "end": 2260.36,
+    "text": " What a weird connection."
+  },
+  {
+    "start": 2260.36,
+    "end": 2261.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2261.36,
+    "end": 2263.36,
+    "text": " So it's a place where they get uples."
+  },
+  {
+    "start": 2263.36,
+    "end": 2266.36,
+    "text": " And I think they have a lot of people living underground there,"
+  },
+  {
+    "start": 2266.36,
+    "end": 2267.36,
+    "text": " because it's so hot."
+  },
+  {
+    "start": 2267.36,
+    "end": 2268.36,
+    "text": " Oh, yes."
+  },
+  {
+    "start": 2268.36,
+    "end": 2270.36,
+    "text": " All the opal miners all live underground."
+  },
+  {
+    "start": 2270.36,
+    "end": 2272.36,
+    "text": " Yeah, so the heat is so great that they've decided,"
+  },
+  {
+    "start": 2272.36,
+    "end": 2274.36,
+    "text": " okay, let's actually just build underground."
+  },
+  {
+    "start": 2274.36,
+    "end": 2278.36,
+    "text": " So you go and you can see these amazing pictures online of just everyone's houses."
+  },
+  {
+    "start": 2278.36,
+    "end": 2281.36,
+    "text": " I mean, they're not that amazing, because they just look like a lounge room,"
+  },
+  {
+    "start": 2281.36,
+    "end": 2282.36,
+    "text": " but they're underground."
+  },
+  {
+    "start": 2282.36,
+    "end": 2286.36,
+    "text": " So it's, yeah, you have to picture that bit in your head when you're going."
+  },
+  {
+    "start": 2286.36,
+    "end": 2288.36,
+    "text": " I was feeling they might have a golf course,"
+  },
+  {
+    "start": 2288.36,
+    "end": 2291.36,
+    "text": " you'd only play at night time, because it's too hot during the day."
+  },
+  {
+    "start": 2291.36,
+    "end": 2293.36,
+    "text": " But I might have made that up."
+  },
+  {
+    "start": 2293.36,
+    "end": 2295.36,
+    "text": " Well, at least golf survives."
+  },
+  {
+    "start": 2295.36,
+    "end": 2298.36,
+    "text": " It is the ultimate survivor."
+  },
+  {
+    "start": 2298.36,
+    "end": 2299.36,
+    "text": " It'll be there after the apocalypse."
+  },
+  {
+    "start": 2299.36,
+    "end": 2300.36,
+    "text": " It's so hot."
+  },
+  {
+    "start": 2300.36,
+    "end": 2301.36,
+    "text": " Do they have grass?"
+  },
+  {
+    "start": 2301.36,
+    "end": 2303.36,
+    "text": " Or is it one massive bunker?"
+  },
+  {
+    "start": 2303.36,
+    "end": 2305.36,
+    "text": " Yeah, it's a sand course."
+  },
+  {
+    "start": 2305.36,
+    "end": 2307.36,
+    "text": " I think it's compacted sand, yeah."
+  },
+  {
+    "start": 2307.36,
+    "end": 2310.36,
+    "text": " They also have a ball pond, but all the balls evaporated."
+  },
+  {
+    "start": 2310.36,
+    "end": 2317.36,
+    "text": " Because Australia sells sand to Saudi Arabia, isn't it?"
+  },
+  {
+    "start": 2317.36,
+    "end": 2320.36,
+    "text": " Sand and camels, because Saudi Arabia's sand doesn't work for building in."
+  },
+  {
+    "start": 2320.36,
+    "end": 2322.36,
+    "text": " And its camels don't work for easing."
+  },
+  {
+    "start": 2322.36,
+    "end": 2324.36,
+    "text": " So Australia's got plenty extra."
+  },
+  {
+    "start": 2324.36,
+    "end": 2328.36,
+    "text": " I saw, I saw, I went, my sister lives in Abu Dhabi,"
+  },
+  {
+    "start": 2328.36,
+    "end": 2332.36,
+    "text": " and we went on a kind of desert trek, and you can go and ride on camels and see the camels."
+  },
+  {
+    "start": 2332.36,
+    "end": 2335.36,
+    "text": " So you go on these four by four cars, you get to the bit."
+  },
+  {
+    "start": 2335.36,
+    "end": 2338.36,
+    "text": " And what they have is this kind of edge of a huge sand june,"
+  },
+  {
+    "start": 2338.36,
+    "end": 2341.36,
+    "text": " where they lead the camel to, and they point it backwards,"
+  },
+  {
+    "start": 2341.36,
+    "end": 2343.36,
+    "text": " and the camel poos off the edge."
+  },
+  {
+    "start": 2343.36,
+    "end": 2346.36,
+    "text": " And they tell you, go look at the amazing toilet of the camels,"
+  },
+  {
+    "start": 2346.36,
+    "end": 2348.36,
+    "text": " and you walk to the edge of this sand june,"
+  },
+  {
+    "start": 2348.36,
+    "end": 2353.36,
+    "text": " and you just see this terrifying shit world just below you."
+  },
+  {
+    "start": 2353.36,
+    "end": 2355.36,
+    "text": " But what they don't tell you is that obviously..."
+  },
+  {
+    "start": 2355.36,
+    "end": 2358.36,
+    "text": " They're very much the ships of the desert."
+  },
+  {
+    "start": 2358.36,
+    "end": 2364.36,
+    "text": " But yeah, some people were almost falling off the edge right into it,"
+  },
+  {
+    "start": 2364.36,
+    "end": 2366.36,
+    "text": " because you're on the lip of a sand june."
+  },
+  {
+    "start": 2366.36,
+    "end": 2368.36,
+    "text": " If someone said, sorry, I don't mean to interrupt."
+  },
+  {
+    "start": 2368.36,
+    "end": 2371.36,
+    "text": " If someone said to me, go over to that cliff,"
+  },
+  {
+    "start": 2371.36,
+    "end": 2374.36,
+    "text": " and look at a bunch of camel poos."
+  },
+  {
+    "start": 2374.36,
+    "end": 2376.36,
+    "text": " I would say no, thank you."
+  },
+  {
+    "start": 2376.36,
+    "end": 2377.36,
+    "text": " I'm fine here."
+  },
+  {
+    "start": 2377.36,
+    "end": 2379.36,
+    "text": " I believe you that it's there."
+  },
+  {
+    "start": 2379.36,
+    "end": 2382.36,
+    "text": " To us, the traction is a few and far between there, I believe."
+  },
+  {
+    "start": 2382.36,
+    "end": 2383.36,
+    "text": " I suppose so."
+  },
+  {
+    "start": 2383.36,
+    "end": 2385.36,
+    "text": " Was it impressive, that, what'd you say?"
+  },
+  {
+    "start": 2385.36,
+    "end": 2386.36,
+    "text": " Yeah, it was amazing."
+  },
+  {
+    "start": 2386.36,
+    "end": 2387.36,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 2387.36,
+    "end": 2390.36,
+    "text": " It was a huge mound of poos."
+  },
+  {
+    "start": 2390.36,
+    "end": 2393.36,
+    "text": " On the edge of a sand june, it was incredible."
+  },
+  {
+    "start": 2393.36,
+    "end": 2394.36,
+    "text": " Sounds good."
+  },
+  {
+    "start": 2394.36,
+    "end": 2399.36,
+    "text": " Some more bits about Australia's level of hugeness and isolation."
+  },
+  {
+    "start": 2399.36,
+    "end": 2404.36,
+    "text": " The most isolated post office in Australia is also in Western Australia."
+  },
+  {
+    "start": 2404.36,
+    "end": 2407.36,
+    "text": " It's 32 kilometres from the nearest customer."
+  },
+  {
+    "start": 2407.36,
+    "end": 2412.36,
+    "text": " So everyone who uses that post office is having to drive 32 kilometres."
+  },
+  {
+    "start": 2412.36,
+    "end": 2413.36,
+    "text": " Wow."
+  },
+  {
+    "start": 2413.36,
+    "end": 2414.36,
+    "text": " Might as well just keep going."
+  },
+  {
+    "start": 2414.36,
+    "end": 2416.36,
+    "text": " Delivery already yourself."
+  },
+  {
+    "start": 2416.36,
+    "end": 2420.36,
+    "text": " Have you heard of the School of the Air?"
+  },
+  {
+    "start": 2420.36,
+    "end": 2421.36,
+    "text": " No."
+  },
+  {
+    "start": 2421.36,
+    "end": 2424.36,
+    "text": " This is a school for Australian children who live in such remote places"
+  },
+  {
+    "start": 2424.36,
+    "end": 2427.36,
+    "text": " that it's absolutely impossible to get them to a school, basically."
+  },
+  {
+    "start": 2427.36,
+    "end": 2430.36,
+    "text": " And it used to be done over the radio."
+  },
+  {
+    "start": 2430.36,
+    "end": 2432.36,
+    "text": " You'd have an hour of lessons."
+  },
+  {
+    "start": 2432.36,
+    "end": 2435.36,
+    "text": " And then you'd have a workbook which you would complete with an older brother"
+  },
+  {
+    "start": 2435.36,
+    "end": 2437.36,
+    "text": " or a parent or something like that."
+  },
+  {
+    "start": 2437.36,
+    "end": 2439.36,
+    "text": " And now, these days, of course, they do it over the internet."
+  },
+  {
+    "start": 2439.36,
+    "end": 2440.36,
+    "text": " But this is the thing that happens."
+  },
+  {
+    "start": 2440.36,
+    "end": 2441.36,
+    "text": " There are children educated this day."
+  },
+  {
+    "start": 2441.36,
+    "end": 2444.36,
+    "text": " But did a teacher then have to drive 200,000 miles around everyone's houses"
+  },
+  {
+    "start": 2444.36,
+    "end": 2445.36,
+    "text": " to do the marketing?"
+  },
+  {
+    "start": 2445.36,
+    "end": 2446.36,
+    "text": " Yes."
+  },
+  {
+    "start": 2446.36,
+    "end": 2452.36,
+    "text": " I have a hat for a place that's called Mystery Island, which is off of Vanuatu."
+  },
+  {
+    "start": 2452.36,
+    "end": 2454.36,
+    "text": " And it's a hat that says Mystery Island."
+  },
+  {
+    "start": 2454.36,
+    "end": 2456.36,
+    "text": " They have a big sign of seeing pictures of it."
+  },
+  {
+    "start": 2456.36,
+    "end": 2457.36,
+    "text": " They have to go there."
+  },
+  {
+    "start": 2457.36,
+    "end": 2458.36,
+    "text": " And he used to do cruises."
+  },
+  {
+    "start": 2458.36,
+    "end": 2459.36,
+    "text": " So he was the comedian on a cruise."
+  },
+  {
+    "start": 2459.36,
+    "end": 2462.36,
+    "text": " Last time he went, they were told that Mystery Island no longer exists."
+  },
+  {
+    "start": 2462.36,
+    "end": 2465.36,
+    "text": " There was something to do with a tsunami that had hit somewhere"
+  },
+  {
+    "start": 2465.36,
+    "end": 2468.36,
+    "text": " and the ocean level, it just took it down."
+  },
+  {
+    "start": 2468.36,
+    "end": 2471.36,
+    "text": " What made it mysterious before it disappeared?"
+  },
+  {
+    "start": 2471.36,
+    "end": 2474.36,
+    "text": " That's pretty much the most mysterious thing I can think of."
+  },
+  {
+    "start": 2474.36,
+    "end": 2477.36,
+    "text": " I think it was because the way it was positioned that if you came into rough seas,"
+  },
+  {
+    "start": 2477.36,
+    "end": 2480.36,
+    "text": " the seas were so rough that it was impossible to get to the land."
+  },
+  {
+    "start": 2480.36,
+    "end": 2481.36,
+    "text": " And the land was actually--"
+  },
+  {
+    "start": 2481.36,
+    "end": 2482.36,
+    "text": " Oh, I see."
+  },
+  {
+    "start": 2482.36,
+    "end": 2486.36,
+    "text": " Smash, so it's a Mystery Island because you never knew when you could get on board it."
+  },
+  {
+    "start": 2486.36,
+    "end": 2489.36,
+    "text": " Oh, a time traveler resisted it and named it from the future,"
+  },
+  {
+    "start": 2489.36,
+    "end": 2491.36,
+    "text": " knowing that it was going to mysterious things."
+  },
+  {
+    "start": 2491.36,
+    "end": 2493.36,
+    "text": " Yeah, yeah, yeah, possibly."
+  },
+  {
+    "start": 2493.36,
+    "end": 2494.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2494.36,
+    "end": 2496.36,
+    "text": " But I went on TripAdvisor and it's reappeared."
+  },
+  {
+    "start": 2496.36,
+    "end": 2497.36,
+    "text": " So Mystery Island is back."
+  },
+  {
+    "start": 2497.36,
+    "end": 2499.36,
+    "text": " Do you know something that's under Australia?"
+  },
+  {
+    "start": 2499.36,
+    "end": 2500.36,
+    "text": " New Zealand."
+  },
+  {
+    "start": 2500.36,
+    "end": 2501.36,
+    "text": " No."
+  },
+  {
+    "start": 2501.36,
+    "end": 2502.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2502.36,
+    "end": 2505.36,
+    "text": " It's the world's longest natural electric current."
+  },
+  {
+    "start": 2505.36,
+    "end": 2508.36,
+    "text": " It's more than 6,000 kilometers long."
+  },
+  {
+    "start": 2508.36,
+    "end": 2509.36,
+    "text": " You can see a map of it."
+  },
+  {
+    "start": 2509.36,
+    "end": 2512.36,
+    "text": " The enormous line stretching all the way under the continent and then carving out."
+  },
+  {
+    "start": 2512.36,
+    "end": 2513.36,
+    "text": " Wow."
+  },
+  {
+    "start": 2513.36,
+    "end": 2515.36,
+    "text": " Yeah, it's caused by the Earth's magnetic field as it shifts."
+  },
+  {
+    "start": 2515.36,
+    "end": 2517.36,
+    "text": " It generates this current."
+  },
+  {
+    "start": 2517.36,
+    "end": 2520.36,
+    "text": " Unfortunately, it's very weak and could not light a lamp."
+  },
+  {
+    "start": 2520.36,
+    "end": 2521.36,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 2521.36,
+    "end": 2523.36,
+    "text": " So it's really pathetic, but it is there."
+  },
+  {
+    "start": 2523.36,
+    "end": 2524.36,
+    "text": " It is massive."
+  },
+  {
+    "start": 2524.36,
+    "end": 2525.36,
+    "text": " Wow."
+  },
+  {
+    "start": 2525.36,
+    "end": 2527.36,
+    "text": " Did you see in the news that Australia's GPS is five feet off?"
+  },
+  {
+    "start": 2527.36,
+    "end": 2528.36,
+    "text": " Yes."
+  },
+  {
+    "start": 2528.36,
+    "end": 2529.36,
+    "text": " It's incredible."
+  },
+  {
+    "start": 2529.36,
+    "end": 2532.36,
+    "text": " So it's been shifting faster than people were expecting."
+  },
+  {
+    "start": 2532.36,
+    "end": 2534.36,
+    "text": " So it's something like seven centimeters a year."
+  },
+  {
+    "start": 2534.36,
+    "end": 2535.36,
+    "text": " Yes."
+  },
+  {
+    "start": 2535.36,
+    "end": 2536.36,
+    "text": " It's been going."
+  },
+  {
+    "start": 2536.36,
+    "end": 2538.36,
+    "text": " So now it's five feet in the wrong spots."
+  },
+  {
+    "start": 2538.36,
+    "end": 2540.36,
+    "text": " So you have now reached your destination."
+  },
+  {
+    "start": 2540.36,
+    "end": 2541.36,
+    "text": " No, I haven't."
+  },
+  {
+    "start": 2541.36,
+    "end": 2542.36,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 2542.36,
+    "end": 2545.36,
+    "text": " All of Australia's moving seven centimeters a year."
+  },
+  {
+    "start": 2545.36,
+    "end": 2546.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2546.36,
+    "end": 2547.36,
+    "text": " They knew it was going to happen."
+  },
+  {
+    "start": 2547.36,
+    "end": 2550.36,
+    "text": " It's just that GPS is aware of this and knows it has to update regularly."
+  },
+  {
+    "start": 2550.36,
+    "end": 2552.36,
+    "text": " So the last amount of data was 1992, I think."
+  },
+  {
+    "start": 2552.36,
+    "end": 2554.36,
+    "text": " Oh, people kept on clicking delay."
+  },
+  {
+    "start": 2554.36,
+    "end": 2555.36,
+    "text": " I'll update later."
+  },
+  {
+    "start": 2555.36,
+    "end": 2556.36,
+    "text": " I'll do it tomorrow."
+  },
+  {
+    "start": 2556.36,
+    "end": 2557.36,
+    "text": " Yes, particularly."
+  },
+  {
+    "start": 2557.36,
+    "end": 2558.36,
+    "text": " Since 1992."
+  },
+  {
+    "start": 2558.36,
+    "end": 2559.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2559.36,
+    "end": 2563.36,
+    "text": " But it could be quite dangerous because if there's a robot trucks in future, for instance,"
+  },
+  {
+    "start": 2563.36,
+    "end": 2566.36,
+    "text": " could use GPS to be transported around."
+  },
+  {
+    "start": 2566.36,
+    "end": 2569.36,
+    "text": " And they could be driving on the wrong side of the road if they're a few centimeters out."
+  },
+  {
+    "start": 2569.36,
+    "end": 2570.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2570.36,
+    "end": 2571.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2571.36,
+    "end": 2572.36,
+    "text": " Head on collisions."
+  },
+  {
+    "start": 2572.36,
+    "end": 2573.36,
+    "text": " Is it the case?"
+  },
+  {
+    "start": 2573.36,
+    "end": 2575.36,
+    "text": " Did you read in the story that that's faster than most other places?"
+  },
+  {
+    "start": 2575.36,
+    "end": 2576.36,
+    "text": " All other continents."
+  },
+  {
+    "start": 2576.36,
+    "end": 2577.36,
+    "text": " Is the fastest moving continent."
+  },
+  {
+    "start": 2577.36,
+    "end": 2578.36,
+    "text": " Really?"
+  },
+  {
+    "start": 2578.36,
+    "end": 2579.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2579.36,
+    "end": 2580.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2580.36,
+    "end": 2583.36,
+    "text": " It's running a escarper from New Zealand like nobody's business."
+  },
+  {
+    "start": 2583.36,
+    "end": 2584.36,
+    "text": " Seven centimeters a year."
+  },
+  {
+    "start": 2584.36,
+    "end": 2585.36,
+    "text": " I think it was that."
+  },
+  {
+    "start": 2585.36,
+    "end": 2586.36,
+    "text": " That's what I read."
+  },
+  {
+    "start": 2586.36,
+    "end": 2587.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2587.36,
+    "end": 2588.36,
+    "text": " Still very much."
+  },
+  {
+    "start": 2588.36,
+    "end": 2589.36,
+    "text": " It's not too much."
+  },
+  {
+    "start": 2589.36,
+    "end": 2590.36,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 2590.36,
+    "end": 2592.36,
+    "text": " You know you're a huge continent."
+  },
+  {
+    "start": 2592.36,
+    "end": 2594.36,
+    "text": " You know it's some credit."
+  },
+  {
+    "start": 2594.36,
+    "end": 2597.36,
+    "text": " Does Australia have any land ownership anywhere else in the world?"
+  },
+  {
+    "start": 2597.36,
+    "end": 2599.36,
+    "text": " They have some islands, don't they?"
+  },
+  {
+    "start": 2599.36,
+    "end": 2601.36,
+    "text": " Yeah, but in kind of surround."
+  },
+  {
+    "start": 2601.36,
+    "end": 2605.36,
+    "text": " Is there any, like, just Canada, somewhere in Canada, kind of thing?"
+  },
+  {
+    "start": 2605.36,
+    "end": 2606.36,
+    "text": " Have we got anything?"
+  },
+  {
+    "start": 2606.36,
+    "end": 2607.36,
+    "text": " Yeah, I don't know."
+  },
+  {
+    "start": 2607.36,
+    "end": 2608.36,
+    "text": " Yeah, just a little--"
+  },
+  {
+    "start": 2608.36,
+    "end": 2609.36,
+    "text": " I think they own Slau."
+  },
+  {
+    "start": 2609.36,
+    "end": 2610.36,
+    "text": " Supes on all of Australia?"
+  },
+  {
+    "start": 2610.36,
+    "end": 2611.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2611.36,
+    "end": 2613.36,
+    "text": " Oh, just curious."
+  },
+  {
+    "start": 2613.36,
+    "end": 2614.36,
+    "text": " No, I don't think so."
+  },
+  {
+    "start": 2614.36,
+    "end": 2619.36,
+    "text": " Oh, they claim a kind of a pie piece of Antarctica."
+  },
+  {
+    "start": 2619.36,
+    "end": 2620.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2620.36,
+    "end": 2621.36,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 2621.36,
+    "end": 2622.36,
+    "text": " Well, actually--"
+  },
+  {
+    "start": 2622.36,
+    "end": 2623.36,
+    "text": " There's a bunch of others."
+  },
+  {
+    "start": 2623.36,
+    "end": 2628.36,
+    "text": " If you add together that and all the rest of the stuff, the Queenones,"
+  },
+  {
+    "start": 2628.36,
+    "end": 2633.36,
+    "text": " then the Russian Federation is no longer the largest single political entity on Earth."
+  },
+  {
+    "start": 2633.36,
+    "end": 2637.36,
+    "text": " But Russia also claims all of the North Pole and some of the South Pole as well."
+  },
+  {
+    "start": 2637.36,
+    "end": 2638.36,
+    "text": " Yes."
+  },
+  {
+    "start": 2638.36,
+    "end": 2639.36,
+    "text": " Oh, well, there we go."
+  },
+  {
+    "start": 2639.36,
+    "end": 2640.36,
+    "text": " I boast of Eastern Europe."
+  },
+  {
+    "start": 2640.36,
+    "end": 2643.36,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 2643.36,
+    "end": 2644.36,
+    "text": " You'll move, Queenie."
+  },
+  {
+    "start": 2644.36,
+    "end": 2646.36,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 2646.36,
+    "end": 2652.36,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 2652.36,
+    "end": 2655.36,
+    "text": " OK, it's time for our final fact of the show."
+  },
+  {
+    "start": 2655.36,
+    "end": 2657.36,
+    "text": " And that is Chazinski."
+  },
+  {
+    "start": 2657.36,
+    "end": 2664.36,
+    "text": " My fact is that in the first half of the 20th century, multiple countries considered draining the Mediterranean Sea."
+  },
+  {
+    "start": 2664.36,
+    "end": 2665.36,
+    "text": " And this is something--"
+  },
+  {
+    "start": 2665.36,
+    "end": 2666.36,
+    "text": " Sure."
+  },
+  {
+    "start": 2666.36,
+    "end": 2667.36,
+    "text": " Yeah, why not?"
+  },
+  {
+    "start": 2667.36,
+    "end": 2670.36,
+    "text": " Were they looking for the lost city of Atlantis?"
+  },
+  {
+    "start": 2670.36,
+    "end": 2675.36,
+    "text": " They weren't, although weirdly, the new continent that it created was going to be called Atlantropa."
+  },
+  {
+    "start": 2675.36,
+    "end": 2678.36,
+    "text": " So this was the brainchild of an architect."
+  },
+  {
+    "start": 2678.36,
+    "end": 2680.36,
+    "text": " A German architect called Herman Sorgl."
+  },
+  {
+    "start": 2680.36,
+    "end": 2684.36,
+    "text": " And he was promoting this from 1928 until he died in 1952."
+  },
+  {
+    "start": 2684.36,
+    "end": 2689.36,
+    "text": " And he had this vision of world peace and thought almost emptying the med was the way to do it."
+  },
+  {
+    "start": 2689.36,
+    "end": 2691.36,
+    "text": " So he wouldn't completely empty it."
+  },
+  {
+    "start": 2691.36,
+    "end": 2695.36,
+    "text": " But it would decrease in level by like 100 to 200 meters."
+  },
+  {
+    "start": 2695.36,
+    "end": 2700.36,
+    "text": " Is this the idea of, like, will all come together if I cause an ecological catastrophe?"
+  },
+  {
+    "start": 2700.36,
+    "end": 2703.36,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 2703.36,
+    "end": 2706.36,
+    "text": " In a crisis, people work together."
+  },
+  {
+    "start": 2706.36,
+    "end": 2709.36,
+    "text": " It was the idea that we could use a lot of the land."
+  },
+  {
+    "start": 2709.36,
+    "end": 2714.36,
+    "text": " So obviously, we know there was a problem with Laban Schraum and living space around that time."
+  },
+  {
+    "start": 2714.36,
+    "end": 2717.36,
+    "text": " And Europe wanted to expand its population into different places."
+  },
+  {
+    "start": 2717.36,
+    "end": 2720.36,
+    "text": " So it was the idea of creating all this new land."
+  },
+  {
+    "start": 2720.36,
+    "end": 2723.36,
+    "text": " I'd say there was a perceived problem with that."
+  },
+  {
+    "start": 2723.36,
+    "end": 2726.36,
+    "text": " All right, we know who's side you're on."
+  },
+  {
+    "start": 2726.36,
+    "end": 2728.36,
+    "text": " The Allies?"
+  },
+  {
+    "start": 2728.36,
+    "end": 2729.36,
+    "text": " Exactly."
+  },
+  {
+    "start": 2729.36,
+    "end": 2730.36,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 2730.36,
+    "end": 2732.36,
+    "text": " Still going with that old team?"
+  },
+  {
+    "start": 2732.36,
+    "end": 2735.36,
+    "text": " Getting an inkling as to who's side you're on, eh?"
+  },
+  {
+    "start": 2735.36,
+    "end": 2738.36,
+    "text": " To be fair, Faradah, they're also called the Allies."
+  },
+  {
+    "start": 2738.36,
+    "end": 2740.36,
+    "text": " They're just her allies."
+  },
+  {
+    "start": 2740.36,
+    "end": 2744.36,
+    "text": " Well, actually, so this guy wrote a bunch of books promoting this idea."
+  },
+  {
+    "start": 2744.36,
+    "end": 2749.36,
+    "text": " And he had a quote from Hitler on the fly leaf of one of his books in 1938, which was..."
+  },
+  {
+    "start": 2749.36,
+    "end": 2751.36,
+    "text": " Could not put it down."
+  },
+  {
+    "start": 2751.36,
+    "end": 2756.36,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 2756.36,
+    "end": 2759.36,
+    "text": " So how were they going to drain the Mediterranean pull the plug?"
+  },
+  {
+    "start": 2759.36,
+    "end": 2763.36,
+    "text": " Um, he was going to... it was going to take a long time."
+  },
+  {
+    "start": 2763.36,
+    "end": 2765.36,
+    "text": " I think it was going to take 150 years."
+  },
+  {
+    "start": 2765.36,
+    "end": 2767.36,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 2767.36,
+    "end": 2768.36,
+    "text": " Just buckets."
+  },
+  {
+    "start": 2768.36,
+    "end": 2770.36,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 2770.36,
+    "end": 2773.36,
+    "text": " The idea was damning up all the places where water could get in."
+  },
+  {
+    "start": 2773.36,
+    "end": 2780.36,
+    "text": " So dam up the strait of Gibraltar, dam up the Dardanelles, dam up the bit between Tunisia and Sicily."
+  },
+  {
+    "start": 2780.36,
+    "end": 2783.36,
+    "text": " And eventually, water would stop coming into the Mediterranean, it would dry up."
+  },
+  {
+    "start": 2783.36,
+    "end": 2788.36,
+    "text": " And also, all these dams would be the locations of huge hydroelectric power plants."
+  },
+  {
+    "start": 2788.36,
+    "end": 2792.36,
+    "text": " And so the power generated by them would provide power for everyone."
+  },
+  {
+    "start": 2792.36,
+    "end": 2797.36,
+    "text": " And the final advantage of his plan was that it would be so costly for all countries that signed up"
+  },
+  {
+    "start": 2797.36,
+    "end": 2801.36,
+    "text": " and all countries would have to sign up that they wouldn't have any money to fight each other after that."
+  },
+  {
+    "start": 2801.36,
+    "end": 2803.36,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 2803.36,
+    "end": 2809.36,
+    "text": " And he said, if any country starts threatening peace, then their hydroelectric power would be cut off."
+  },
+  {
+    "start": 2809.36,
+    "end": 2811.36,
+    "text": " The idea was that the power would be a central control."
+  },
+  {
+    "start": 2811.36,
+    "end": 2812.36,
+    "text": " Exactly."
+  },
+  {
+    "start": 2812.36,
+    "end": 2813.36,
+    "text": " The U.N."
+  },
+  {
+    "start": 2813.36,
+    "end": 2820.36,
+    "text": " It's literally administered. Yeah, yeah. So there wasn't disadvantage. Wasn't it going to turn a lot of North Africa into a massive inland lake?"
+  },
+  {
+    "start": 2820.36,
+    "end": 2821.36,
+    "text": " Yes, it was."
+  },
+  {
+    "start": 2821.36,
+    "end": 2823.36,
+    "text": " So I need to have advantage, though."
+  },
+  {
+    "start": 2823.36,
+    "end": 2826.36,
+    "text": " Well, it didn't enter into his plans that quite a lot of people lived in North Africa."
+  },
+  {
+    "start": 2826.36,
+    "end": 2827.36,
+    "text": " Sure."
+  },
+  {
+    "start": 2827.36,
+    "end": 2829.36,
+    "text": " Well, I'm not sure he thought of it that way."
+  },
+  {
+    "start": 2829.36,
+    "end": 2833.36,
+    "text": " But actually, there have been plans to turn a lot of North Africa into a lake."
+  },
+  {
+    "start": 2833.36,
+    "end": 2835.36,
+    "text": " Anyway, like separate plants."
+  },
+  {
+    "start": 2835.36,
+    "end": 2836.36,
+    "text": " Really?"
+  },
+  {
+    "start": 2836.36,
+    "end": 2839.36,
+    "text": " So how and see people have been suggesting this."
+  },
+  {
+    "start": 2839.36,
+    "end": 2844.36,
+    "text": " Actually, the French government, when they owned a lot of North Africa, looked into it properly."
+  },
+  {
+    "start": 2844.36,
+    "end": 2850.36,
+    "text": " And what they found is there's quite a few depressions in the Sahara that are under kind of sea level."
+  },
+  {
+    "start": 2850.36,
+    "end": 2852.36,
+    "text": " And they thought maybe we could get some water in there."
+  },
+  {
+    "start": 2852.36,
+    "end": 2857.36,
+    "text": " And it would instead of being a desert, would become a place where people could live more comfortably."
+  },
+  {
+    "start": 2857.36,
+    "end": 2859.36,
+    "text": " It would be a desert with a lake in it."
+  },
+  {
+    "start": 2859.36,
+    "end": 2861.36,
+    "text": " That's probably true."
+  },
+  {
+    "start": 2861.36,
+    "end": 2868.36,
+    "text": " But they actually had some funding, but it was withdrawn when surveys revealed that many areas were not as far below sea level as had been believed."
+  },
+  {
+    "start": 2868.36,
+    "end": 2873.36,
+    "text": " So they thought these depressions were below sea level, but actually they were higher because they were in high land."
+  },
+  {
+    "start": 2873.36,
+    "end": 2876.36,
+    "text": " Do you know about the last time that the Mediterranean dried up?"
+  },
+  {
+    "start": 2876.36,
+    "end": 2877.36,
+    "text": " No."
+  },
+  {
+    "start": 2877.36,
+    "end": 2882.36,
+    "text": " This was a thing called the Messinian Salinity Crisis, which happened six million years."
+  },
+  {
+    "start": 2882.36,
+    "end": 2883.36,
+    "text": " It was right off the tongue."
+  },
+  {
+    "start": 2883.36,
+    "end": 2884.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2884.36,
+    "end": 2886.36,
+    "text": " They need some branding."
+  },
+  {
+    "start": 2886.36,
+    "end": 2888.36,
+    "text": " It became a landlock."
+  },
+  {
+    "start": 2888.36,
+    "end": 2889.36,
+    "text": " That's it."
+  },
+  {
+    "start": 2889.36,
+    "end": 2891.36,
+    "text": " Spain and Morocco crashed into each other, basically."
+  },
+  {
+    "start": 2891.36,
+    "end": 2893.36,
+    "text": " Seven centimeters per year."
+  },
+  {
+    "start": 2893.36,
+    "end": 2894.36,
+    "text": " Yeah, pretty slow."
+  },
+  {
+    "start": 2894.36,
+    "end": 2899.36,
+    "text": " But the line was seven centimeters away from them."
+  },
+  {
+    "start": 2899.36,
+    "end": 2901.36,
+    "text": " You just don't think ahead, darling."
+  },
+  {
+    "start": 2901.36,
+    "end": 2904.36,
+    "text": " And so the climate is really dry."
+  },
+  {
+    "start": 2904.36,
+    "end": 2907.36,
+    "text": " And so the med is proged a lot of evaporation."
+  },
+  {
+    "start": 2907.36,
+    "end": 2912.36,
+    "text": " And as a result of that drying process, there are salt deposits on the bottom of the med,"
+  },
+  {
+    "start": 2912.36,
+    "end": 2915.36,
+    "text": " which in some places are two miles thick."
+  },
+  {
+    "start": 2915.36,
+    "end": 2916.36,
+    "text": " Whoa."
+  },
+  {
+    "start": 2916.36,
+    "end": 2917.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2917.36,
+    "end": 2919.36,
+    "text": " And during the time it was closing when they were moving towards each other,"
+  },
+  {
+    "start": 2919.36,
+    "end": 2924.36,
+    "text": " the basin of the med evaporated and then re-flooded 69 separate times."
+  },
+  {
+    "start": 2924.36,
+    "end": 2925.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2925.36,
+    "end": 2928.36,
+    "text": " And then it finally was cut off completely 5.6 million years ago."
+  },
+  {
+    "start": 2928.36,
+    "end": 2934.36,
+    "text": " The theory is that one of these flooding could have been what caused a lot of the flood myths"
+  },
+  {
+    "start": 2934.36,
+    "end": 2936.36,
+    "text": " in various religions, isn't it?"
+  },
+  {
+    "start": 2936.36,
+    "end": 2937.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2937.36,
+    "end": 2938.36,
+    "text": " But that's so pre-human."
+  },
+  {
+    "start": 2938.36,
+    "end": 2939.36,
+    "text": " It's so pre-human years ago."
+  },
+  {
+    "start": 2939.36,
+    "end": 2944.36,
+    "text": " It's fine because it eventually re-flooded properly 5.3 million years ago."
+  },
+  {
+    "start": 2944.36,
+    "end": 2947.36,
+    "text": " And that's the biggest flood that Earth has ever seen."
+  },
+  {
+    "start": 2947.36,
+    "end": 2951.36,
+    "text": " And that flooded in the space of I think a few months or maybe a year."
+  },
+  {
+    "start": 2951.36,
+    "end": 2954.36,
+    "text": " And the flood waters would move at 100 kilometres per hour, I think,"
+  },
+  {
+    "start": 2954.36,
+    "end": 2956.36,
+    "text": " because they seeped back in."
+  },
+  {
+    "start": 2956.36,
+    "end": 2960.36,
+    "text": " And it was caused by a bit of land just caving in at one of the little joints."
+  },
+  {
+    "start": 2960.36,
+    "end": 2961.36,
+    "text": " Gibraltar, wasn't it?"
+  },
+  {
+    "start": 2961.36,
+    "end": 2963.36,
+    "text": " That was when the Straits of Gibraltar were created."
+  },
+  {
+    "start": 2963.36,
+    "end": 2966.36,
+    "text": " It was that gradually tipping over and then gradually, you know,"
+  },
+  {
+    "start": 2966.36,
+    "end": 2968.36,
+    "text": " war away more of the bridge that gets faster and faster."
+  },
+  {
+    "start": 2968.36,
+    "end": 2970.36,
+    "text": " And it sounds amazing."
+  },
+  {
+    "start": 2970.36,
+    "end": 2974.36,
+    "text": " What happens to you if you're a fish in that sort of just in that moment?"
+  },
+  {
+    "start": 2974.36,
+    "end": 2977.36,
+    "text": " Yeah. Like, do you die? Is that too fast? Is there too fast for a fish?"
+  },
+  {
+    "start": 2977.36,
+    "end": 2978.36,
+    "text": " No, it is."
+  },
+  {
+    "start": 2978.36,
+    "end": 2980.36,
+    "text": " A few kilometres in that hour isn't too fast?"
+  },
+  {
+    "start": 2980.36,
+    "end": 2981.36,
+    "text": " Yeah, sure."
+  },
+  {
+    "start": 2981.36,
+    "end": 2983.36,
+    "text": " But there certainly is too fast for a fish."
+  },
+  {
+    "start": 2983.36,
+    "end": 2984.36,
+    "text": " Is it?"
+  },
+  {
+    "start": 2984.36,
+    "end": 2985.36,
+    "text": " I would say so."
+  },
+  {
+    "start": 2985.36,
+    "end": 2986.36,
+    "text": " Yeah, in the same--"
+  },
+  {
+    "start": 2986.36,
+    "end": 2987.36,
+    "text": " It's a spin-off podcast."
+  },
+  {
+    "start": 2987.36,
+    "end": 2990.36,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 2990.36,
+    "end": 2991.36,
+    "text": " What speed would it be?"
+  },
+  {
+    "start": 2991.36,
+    "end": 2992.36,
+    "text": " Well, I don't know what the speed is."
+  },
+  {
+    "start": 2992.36,
+    "end": 2995.36,
+    "text": " But like, for instance, there's too windy for a human."
+  },
+  {
+    "start": 2995.36,
+    "end": 2996.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 2996.36,
+    "end": 3000.36,
+    "text": " For instance, like, you know, if something's hitting you at a certain speed,"
+  },
+  {
+    "start": 3000.36,
+    "end": 3004.36,
+    "text": " but molecules are water molecules or anything, or a wall,"
+  },
+  {
+    "start": 3004.36,
+    "end": 3006.36,
+    "text": " there is too fast for a fish."
+  },
+  {
+    "start": 3006.36,
+    "end": 3009.36,
+    "text": " But if you're going with the tide, if you're going with--"
+  },
+  {
+    "start": 3009.36,
+    "end": 3011.36,
+    "text": " If you're going with the wind, though."
+  },
+  {
+    "start": 3011.36,
+    "end": 3012.36,
+    "text": " No, but--"
+  },
+  {
+    "start": 3012.36,
+    "end": 3013.36,
+    "text": " No, with Dan on this one."
+  },
+  {
+    "start": 3013.36,
+    "end": 3016.36,
+    "text": " Wouldn't GeForce, wouldn't-- you're going with the GeForce."
+  },
+  {
+    "start": 3016.36,
+    "end": 3019.36,
+    "text": " If the medium in which you are traveling is carrying you along"
+  },
+  {
+    "start": 3019.36,
+    "end": 3023.36,
+    "text": " 100 kilometres per hour, it's like you're fishing a car at that point."
+  },
+  {
+    "start": 3023.36,
+    "end": 3024.36,
+    "text": " Yes, that's what I'm thinking."
+  },
+  {
+    "start": 3024.36,
+    "end": 3025.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 3025.36,
+    "end": 3027.36,
+    "text": " The turbulence of the water, but that might cause some stress."
+  },
+  {
+    "start": 3027.36,
+    "end": 3028.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 3028.36,
+    "end": 3029.36,
+    "text": " It's going to be a fish mate."
+  },
+  {
+    "start": 3029.36,
+    "end": 3030.36,
+    "text": " Yeah, right."
+  },
+  {
+    "start": 3030.36,
+    "end": 3032.36,
+    "text": " You wouldn't experience it as moving at 100 miles an hour"
+  },
+  {
+    "start": 3032.36,
+    "end": 3034.36,
+    "text": " because you're in the car."
+  },
+  {
+    "start": 3034.36,
+    "end": 3035.36,
+    "text": " Right."
+  },
+  {
+    "start": 3035.36,
+    "end": 3039.36,
+    "text": " And then what's weird is that when the fish got back home,"
+  },
+  {
+    "start": 3039.36,
+    "end": 3042.36,
+    "text": " all the fish at home would be thousands of years later for them."
+  },
+  {
+    "start": 3042.36,
+    "end": 3043.36,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 3043.36,
+    "end": 3045.36,
+    "text": " That's called time dilation."
+  },
+  {
+    "start": 3045.36,
+    "end": 3048.36,
+    "text": " It's the only scientifically proven form of time travel at work."
+  },
+  {
+    "start": 3048.36,
+    "end": 3049.36,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 3049.36,
+    "end": 3055.36,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 3055.36,
+    "end": 3056.36,
+    "text": " OK, that's it."
+  },
+  {
+    "start": 3056.36,
+    "end": 3057.36,
+    "text": " That's all of our facts."
+  },
+  {
+    "start": 3057.36,
+    "end": 3058.36,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3058.36,
+    "end": 3061.36,
+    "text": " If you'd like to get in contact with any of us about the things that we have said"
+  },
+  {
+    "start": 3061.36,
+    "end": 3064.36,
+    "text": " over the course of this podcast, we can be found on our Twitter accounts."
+  },
+  {
+    "start": 3064.36,
+    "end": 3066.36,
+    "text": " I'm on @Streiberland."
+  },
+  {
+    "start": 3066.36,
+    "end": 3067.36,
+    "text": " Andy."
+  },
+  {
+    "start": 3067.36,
+    "end": 3068.36,
+    "text": " @AndryHunterM."
+  },
+  {
+    "start": 3068.36,
+    "end": 3069.36,
+    "text": " James."
+  },
+  {
+    "start": 3069.36,
+    "end": 3070.36,
+    "text": " @Xshaped."
+  },
+  {
+    "start": 3070.36,
+    "end": 3072.36,
+    "text": " Hodgman@HodgmanHODGMAM."
+  },
+  {
+    "start": 3072.36,
+    "end": 3073.36,
+    "text": " And Chazinski."
+  },
+  {
+    "start": 3073.36,
+    "end": 3075.36,
+    "text": " You can email podcast@QI.com."
+  },
+  {
+    "start": 3075.36,
+    "end": 3076.36,
+    "text": " Yep."
+  },
+  {
+    "start": 3076.36,
+    "end": 3080.36,
+    "text": " Or you can go to our group account, which is @QIPodcast, or go to our website."
+  },
+  {
+    "start": 3080.36,
+    "end": 3083.36,
+    "text": " No such thing as a fish.com, which has all of our previous episodes."
+  },
+  {
+    "start": 3083.36,
+    "end": 3086.36,
+    "text": " We will be back again next week with another episode."
+  },
+  {
+    "start": 3086.36,
+    "end": 3087.36,
+    "text": " We'll see you then."
+  },
+  {
+    "start": 3087.36,
+    "end": 3088.36,
+    "text": " Goodbye."
+  },
+  {
+    "start": 3088.36,
+    "end": 3090.36,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 3091.36,
+    "end": 3094.36,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 3094.36,
+    "end": 3096.94,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3096.94,
+    "end": 3106.94,
+    "text": " [BLANK_AUDIO]"
+  }
+]

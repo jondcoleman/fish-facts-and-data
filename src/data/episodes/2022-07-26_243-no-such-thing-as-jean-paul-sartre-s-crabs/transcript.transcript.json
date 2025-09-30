@@ -1,0 +1,5352 @@
+[
+  {
+    "start": 0,
+    "end": 2.58,
+    "text": " - Hey guys, we have a few exciting bits of news"
+  },
+  {
+    "start": 2.58,
+    "end": 3.88,
+    "text": " before we start today's show."
+  },
+  {
+    "start": 3.88,
+    "end": 8.72,
+    "text": " One is, next week, we have a special guest on the show."
+  },
+  {
+    "start": 8.72,
+    "end": 9.88,
+    "text": " Do you wanna say it, Dan?"
+  },
+  {
+    "start": 9.88,
+    "end": 11.68,
+    "text": " - It's Stephen Fry."
+  },
+  {
+    "start": 11.68,
+    "end": 12.52,
+    "text": " - Oh!"
+  },
+  {
+    "start": 12.52,
+    "end": 16.28,
+    "text": " - Yes, Stephen Fry, he brought a fact and he sat with us"
+  },
+  {
+    "start": 16.28,
+    "end": 18.72,
+    "text": " for a couple of hours to just chew over"
+  },
+  {
+    "start": 18.72,
+    "end": 20.76,
+    "text": " the best, facty stuff we could think."
+  },
+  {
+    "start": 20.76,
+    "end": 22.56,
+    "text": " - It's great, it's next Friday, don't miss it."
+  },
+  {
+    "start": 22.56,
+    "end": 25.32,
+    "text": " And to celebrate that, actually, next Friday at 5 p.m.,"
+  },
+  {
+    "start": 25.32,
+    "end": 27.72,
+    "text": " GMT, we're gonna be doing a Reddit AMA."
+  },
+  {
+    "start": 27.72,
+    "end": 30.48,
+    "text": " So, that's Reddit, R-E-D-I-T."
+  },
+  {
+    "start": 30.48,
+    "end": 32.76,
+    "text": " We're gonna be answering questions from all over the world"
+  },
+  {
+    "start": 32.76,
+    "end": 35.76,
+    "text": " about everything that you might want to know about us"
+  },
+  {
+    "start": 35.76,
+    "end": 37.72,
+    "text": " and also everything else in the world."
+  },
+  {
+    "start": 37.72,
+    "end": 41.4,
+    "text": " So, if you go to no such thing as a fish.com/reddit,"
+  },
+  {
+    "start": 41.4,
+    "end": 42.96,
+    "text": " we will be there, check it out."
+  },
+  {
+    "start": 42.96,
+    "end": 44.24,
+    "text": " - That's right, we'll be there for an hour"
+  },
+  {
+    "start": 44.24,
+    "end": 46.44,
+    "text": " just answering every single question you have."
+  },
+  {
+    "start": 46.44,
+    "end": 49.48,
+    "text": " And lastly, just to remind you, in case you haven't"
+  },
+  {
+    "start": 49.48,
+    "end": 51.28,
+    "text": " been listening to the episodes for the last few weeks,"
+  },
+  {
+    "start": 51.28,
+    "end": 53.72,
+    "text": " we have a book out, such a book."
+  },
+  {
+    "start": 53.72,
+    "end": 55.32,
+    "text": " It's such a book, I mean, it's the book of the year."
+  },
+  {
+    "start": 55.32,
+    "end": 56.52,
+    "text": " It's the book of the year, 2018."
+  },
+  {
+    "start": 56.52,
+    "end": 57.6,
+    "text": " - People have been calling at that."
+  },
+  {
+    "start": 57.6,
+    "end": 58.88,
+    "text": " - That's the title."
+  },
+  {
+    "start": 58.88,
+    "end": 60.08,
+    "text": " - Yeah, we've not given them much option,"
+  },
+  {
+    "start": 60.08,
+    "end": 62,
+    "text": " but that's what they've been calling it anyway."
+  },
+  {
+    "start": 62,
+    "end": 64.52,
+    "text": " - It's a fabulous book, it contains all the weirdest"
+  },
+  {
+    "start": 64.52,
+    "end": 66.6,
+    "text": " and most bizarre and wonderful and funny things"
+  },
+  {
+    "start": 66.6,
+    "end": 68.68,
+    "text": " that have happened around the entire world this year."
+  },
+  {
+    "start": 68.68,
+    "end": 70.72,
+    "text": " And honestly, guys, if you want to do one thing"
+  },
+  {
+    "start": 70.72,
+    "end": 74.08,
+    "text": " to support the podcast, this is a perfect thing to do."
+  },
+  {
+    "start": 74.08,
+    "end": 76.08,
+    "text": " It's on Amazon, it's in Waterstones,"
+  },
+  {
+    "start": 76.08,
+    "end": 77.76,
+    "text": " it's in all good indie book shops,"
+  },
+  {
+    "start": 77.76,
+    "end": 79.76,
+    "text": " it's called The Book of the Year 2018."
+  },
+  {
+    "start": 79.76,
+    "end": 81.16,
+    "text": " Please do get yourself a copy,"
+  },
+  {
+    "start": 81.16,
+    "end": 83.24,
+    "text": " it makes a perfect Christmas present."
+  },
+  {
+    "start": 83.24,
+    "end": 84.88,
+    "text": " - Outside of that, come back Friday."
+  },
+  {
+    "start": 84.88,
+    "end": 87.6,
+    "text": " - Stephen Fry is gonna be on Stephen Fry Day."
+  },
+  {
+    "start": 87.6,
+    "end": 88.44,
+    "text": " - I love it."
+  },
+  {
+    "start": 88.44,
+    "end": 89.44,
+    "text": " - Stephen Fry Day."
+  },
+  {
+    "start": 89.44,
+    "end": 92,
+    "text": " - I love it even more the second time you said it."
+  },
+  {
+    "start": 92,
+    "end": 93.64,
+    "text": " - Okay, on with the show."
+  },
+  {
+    "start": 93.64,
+    "end": 95.98,
+    "text": " (horn honking)"
+  },
+  {
+    "start": 95.98,
+    "end": 97.92,
+    "text": " - Do you know what the, who the, what the, what the, what the,"
+  },
+  {
+    "start": 97.92,
+    "end": 100.76,
+    "text": " what the, who the, what the, what the, what the, what the,"
+  },
+  {
+    "start": 100.76,
+    "end": 105.48,
+    "text": " do you know what the, what the, what the, what the, what the, what the, what the, what the, what the, what the, what the, what the, what the, what the, what the, what the, what the, what the, what the, what the, what the, what the."
+  },
+  {
+    "start": 105.48,
+    "end": 109.04,
+    "text": " - Hello and welcome to another episode of No Such Thing"
+  },
+  {
+    "start": 109.04,
+    "end": 118.04,
+    "text": " - This is a fish a weekly podcast this week coming to you from our book of the year 2018 tour live at the Union Chapel in London."
+  },
+  {
+    "start": 118.04,
+    "end": 120.04,
+    "text": " (cheering)"
+  },
+  {
+    "start": 120.04,
+    "end": 132.04,
+    "text": " - My name is Dan Schreiber and I am sitting here with Aniches Zinski, Andrew Hunter Murray and James Harkin."
+  },
+  {
+    "start": 132.04,
+    "end": 137.04,
+    "text": " - And once again, we have gathered around the microphones with our four favorite facts from the last seven days."
+  },
+  {
+    "start": 137.04,
+    "end": 142.04,
+    "text": " - And in no particular order, here we go, starting with you, Chazinski."
+  },
+  {
+    "start": 142.04,
+    "end": 152.04,
+    "text": " - My fact this week is that when you went to the toilet on a World War II U-boat, you had to summon a specially trained member of the crew to flush it after you'd been."
+  },
+  {
+    "start": 152.04,
+    "end": 154.04,
+    "text": " (laughing)"
+  },
+  {
+    "start": 154.04,
+    "end": 158.04,
+    "text": " - This is one of the jobs on German U-boats in the second World War."
+  },
+  {
+    "start": 158.04,
+    "end": 160.04,
+    "text": " - Well, I would just never go, ever."
+  },
+  {
+    "start": 160.04,
+    "end": 161.04,
+    "text": " (laughing)"
+  },
+  {
+    "start": 161.04,
+    "end": 164.04,
+    "text": " - Yeah, there must have been a lot of people going, I didn't actually use it."
+  },
+  {
+    "start": 164.04,
+    "end": 167.04,
+    "text": " - I just came and someone's not flushed that. (laughing)"
+  },
+  {
+    "start": 167.04,
+    "end": 169.04,
+    "text": " - Walsers, that's disgusting."
+  },
+  {
+    "start": 169.04,
+    "end": 175.04,
+    "text": " - It was because it was quite a complicated thing to do because the pressure outside in a submarine is a lot of water on you often."
+  },
+  {
+    "start": 175.04,
+    "end": 178.04,
+    "text": " And so it's quite hard to force something out into that water."
+  },
+  {
+    "start": 178.04,
+    "end": 184.04,
+    "text": " And so for a long, and the German U-boats had no storage tanks, so you had to just flush it straight out into the ocean."
+  },
+  {
+    "start": 184.04,
+    "end": 188.04,
+    "text": " And so for a long time, you could only use the toilets on them when they were right on the surface."
+  },
+  {
+    "start": 188.04,
+    "end": 191.04,
+    "text": " And then as soon as you went down, it was like, hold it in."
+  },
+  {
+    "start": 191.04,
+    "end": 196.04,
+    "text": " - Wow. - But there must have been some really desperate people going, we need to go up now."
+  },
+  {
+    "start": 196.04,
+    "end": 197.04,
+    "text": " - Yeah. (laughing)"
+  },
+  {
+    "start": 197.04,
+    "end": 201.04,
+    "text": " - I need to fire a torpedo. (laughing)"
+  },
+  {
+    "start": 201.04,
+    "end": 204.04,
+    "text": " (laughing)"
+  },
+  {
+    "start": 204.04,
+    "end": 210.04,
+    "text": " - But then they developed this system which meant the lose could be flushed to a lower depth."
+  },
+  {
+    "start": 210.04,
+    "end": 212.04,
+    "text": " But it was very complex to do so."
+  },
+  {
+    "start": 212.04,
+    "end": 215.04,
+    "text": " So there was a series of levers to pull you out to do it in the right order."
+  },
+  {
+    "start": 215.04,
+    "end": 219.04,
+    "text": " And these things were called Thunderboxes, these new toilets that they designed."
+  },
+  {
+    "start": 219.04,
+    "end": 223.04,
+    "text": " - Wow. - And if you pulled the wrong lever, you literally got drenched in sewage."
+  },
+  {
+    "start": 223.04,
+    "end": 227.04,
+    "text": " Or something worse could happen. You know, you could open a hole in the submarine and the whole thing goes down."
+  },
+  {
+    "start": 227.04,
+    "end": 232.04,
+    "text": " So people had to be specially trained to use them. And when you did go to the loop, you had to do someone one of those people."
+  },
+  {
+    "start": 232.04,
+    "end": 238.04,
+    "text": " - But I think it is still quite dangerous, isn't it? Well, not dangerous so much as, like you might get a face full of poo."
+  },
+  {
+    "start": 238.04,
+    "end": 243.04,
+    "text": " - Yeah. - Because I read that the current ones, it's like a big slot machine, like a big lever."
+  },
+  {
+    "start": 243.04,
+    "end": 248.04,
+    "text": " And you pull down the lever, and the poo might go down, or you might get a face full of it."
+  },
+  {
+    "start": 248.04,
+    "end": 254.04,
+    "text": " - What? - Which is the worst. I mean, the worst you can have in a slot machine is you lose your pound, isn't it?"
+  },
+  {
+    "start": 254.04,
+    "end": 257.04,
+    "text": " - But yeah, that apparently happens. - That's pretty right."
+  },
+  {
+    "start": 257.04,
+    "end": 259.04,
+    "text": " - Give you a modern submarine. - Modern submarines, yeah."
+  },
+  {
+    "start": 259.04,
+    "end": 261.04,
+    "text": " - Do they not have lids for the toilet?"
+  },
+  {
+    "start": 261.04,
+    "end": 263.04,
+    "text": " - No. - Do they not know?"
+  },
+  {
+    "start": 263.04,
+    "end": 266.04,
+    "text": " - We know how, like, my toilet has a lid, right?"
+  },
+  {
+    "start": 266.04,
+    "end": 269.04,
+    "text": " - So I was doing all right for themselves."
+  },
+  {
+    "start": 269.04,
+    "end": 274.04,
+    "text": " - All that podcast money rolling in."
+  },
+  {
+    "start": 277.04,
+    "end": 281.04,
+    "text": " - There did used to be actual disasters that happened when people screwed this up."
+  },
+  {
+    "start": 281.04,
+    "end": 288.04,
+    "text": " So in 1945, there was a particularly bad moment where the captain of the U-1026 submarine tried to use the loo."
+  },
+  {
+    "start": 288.04,
+    "end": 291.04,
+    "text": " And because he was captain, he thought, \"I'm sure I can flush this myself.\""
+  },
+  {
+    "start": 291.04,
+    "end": 293.04,
+    "text": " So he tried to interpret the flushing manual."
+  },
+  {
+    "start": 293.04,
+    "end": 295.04,
+    "text": " Next to it, he mess it up. He failed."
+  },
+  {
+    "start": 295.04,
+    "end": 303.04,
+    "text": " It started flooding. He had to call the specialist in, who opened a valve in a panic, which started letting water in from outside and just flooding all the batteries."
+  },
+  {
+    "start": 303.04,
+    "end": 309.04,
+    "text": " This released chlorine gas into the submarine. They had to surface. They all got spotted by the enemy."
+  },
+  {
+    "start": 309.04,
+    "end": 311.04,
+    "text": " They were off the coast of Scotland, actually, I think."
+  },
+  {
+    "start": 311.04,
+    "end": 313.04,
+    "text": " And so they were all either killed or taken prisoner."
+  },
+  {
+    "start": 313.04,
+    "end": 316.04,
+    "text": " - Oh, my God. - So that's the worst thing that can happen if you screw up going to the loo."
+  },
+  {
+    "start": 316.04,
+    "end": 322.04,
+    "text": " - Having the flushing manual, beside the toilet, it's a bit of a conundrum when you run out of toilet paper."
+  },
+  {
+    "start": 322.04,
+    "end": 328.04,
+    "text": " I looked into the submarine toilets in general."
+  },
+  {
+    "start": 328.04,
+    "end": 333.04,
+    "text": " So I didn't know this. Some Marines or German U-boats in the second one bore."
+  },
+  {
+    "start": 333.04,
+    "end": 338.04,
+    "text": " They had two toilets, generally, but they had about 50 men on them."
+  },
+  {
+    "start": 338.04,
+    "end": 340.04,
+    "text": " So that's already, you know, 20 minutes. - A managed toilet."
+  },
+  {
+    "start": 340.04,
+    "end": 343.04,
+    "text": " Well, no."
+  },
+  {
+    "start": 343.04,
+    "end": 348.04,
+    "text": " So you've got 25 men sharing each small toilet."
+  },
+  {
+    "start": 348.04,
+    "end": 353.04,
+    "text": " And the problem was, in the early days of a cruise, there was so little space."
+  },
+  {
+    "start": 353.04,
+    "end": 356.04,
+    "text": " They were all in an area about the size of a double-dacker bus."
+  },
+  {
+    "start": 356.04,
+    "end": 361.04,
+    "text": " So one of the toilets at the beginning of a cruise would be used to store fresh food."
+  },
+  {
+    "start": 361.04,
+    "end": 364.04,
+    "text": " So all the fresh food stuff would be in the toilet."
+  },
+  {
+    "start": 364.04,
+    "end": 367.04,
+    "text": " So you'd have 50 men sharing the other small toilet."
+  },
+  {
+    "start": 367.04,
+    "end": 371.04,
+    "text": " - Yeah. - And then, and it all went moldy in there because it's so damp all the time."
+  },
+  {
+    "start": 371.04,
+    "end": 374.04,
+    "text": " - Yeah. - And you weren't allowed more than one change of pants and socks."
+  },
+  {
+    "start": 374.04,
+    "end": 376.04,
+    "text": " And all the other clothes you only had one of."
+  },
+  {
+    "start": 376.04,
+    "end": 379.04,
+    "text": " - But you can do it inside out as many times as you like, right?"
+  },
+  {
+    "start": 379.04,
+    "end": 382.04,
+    "text": " - You would have fit in really well."
+  },
+  {
+    "start": 382.04,
+    "end": 387.04,
+    "text": " - I make that 12 pairs of pants you've got effectively."
+  },
+  {
+    "start": 387.04,
+    "end": 391.04,
+    "text": " You also couldn't use the loo when you were anywhere near the enemy."
+  },
+  {
+    "start": 391.04,
+    "end": 394.04,
+    "text": " So if you were stalking the enemy, it was feared that using the toilet"
+  },
+  {
+    "start": 394.04,
+    "end": 396.04,
+    "text": " would make such a loud noise of clanking metal."
+  },
+  {
+    "start": 396.04,
+    "end": 400.04,
+    "text": " And then it would cause floating debris to appear outside of your submarine."
+  },
+  {
+    "start": 400.04,
+    "end": 402.04,
+    "text": " And so it was thought that they could spot you."
+  },
+  {
+    "start": 402.04,
+    "end": 405.04,
+    "text": " And so you could, as soon as you were actually fighting, you couldn't go."
+  },
+  {
+    "start": 405.04,
+    "end": 408.04,
+    "text": " And I would have thought the time you were going to really need the loo is when they go."
+  },
+  {
+    "start": 408.04,
+    "end": 409.04,
+    "text": " Okay, we're attacking now."
+  },
+  {
+    "start": 409.04,
+    "end": 415.04,
+    "text": " - Yeah, also what, so an enemy ship would spot just a popping turse."
+  },
+  {
+    "start": 415.04,
+    "end": 418.04,
+    "text": " - What kind of binoculars?"
+  },
+  {
+    "start": 418.04,
+    "end": 423.04,
+    "text": " - What could happen is, and this happens with current submarines,"
+  },
+  {
+    "start": 423.04,
+    "end": 427.04,
+    "text": " is they fire out the waste and then loads of fish and crabs and stuff like that"
+  },
+  {
+    "start": 427.04,
+    "end": 430.04,
+    "text": " all kind of flock toward it because they all want the nutrients."
+  },
+  {
+    "start": 430.04,
+    "end": 434.04,
+    "text": " So that could work. Like Seagulls coming down to eat that one solitary turd."
+  },
+  {
+    "start": 434.04,
+    "end": 435.04,
+    "text": " - Yes."
+  },
+  {
+    "start": 435.04,
+    "end": 436.04,
+    "text": " - Oh man."
+  },
+  {
+    "start": 436.04,
+    "end": 438.04,
+    "text": " - But yeah, life on board submarines."
+  },
+  {
+    "start": 438.04,
+    "end": 439.04,
+    "text": " - That was nice fun."
+  },
+  {
+    "start": 439.04,
+    "end": 441.04,
+    "text": " - They do have fun sometimes."
+  },
+  {
+    "start": 441.04,
+    "end": 444.04,
+    "text": " They have a thing called angles and dangles."
+  },
+  {
+    "start": 444.04,
+    "end": 445.04,
+    "text": " - Okay."
+  },
+  {
+    "start": 445.04,
+    "end": 449.04,
+    "text": " - They go in a 25 degree angle when they're kind of going down into the water."
+  },
+  {
+    "start": 449.04,
+    "end": 454.04,
+    "text": " And what they do is they put the slippiest, slipperyest thing they can find all over the ship"
+  },
+  {
+    "start": 454.04,
+    "end": 457.04,
+    "text": " and then just slide down all the corridors."
+  },
+  {
+    "start": 457.04,
+    "end": 458.04,
+    "text": " - No!"
+  },
+  {
+    "start": 458.04,
+    "end": 459.04,
+    "text": " - That sounds amazing, isn't it?"
+  },
+  {
+    "start": 459.04,
+    "end": 461.04,
+    "text": " - Wow. That sounds incredible."
+  },
+  {
+    "start": 461.04,
+    "end": 463.04,
+    "text": " - Yeah. They used to play good games as well."
+  },
+  {
+    "start": 463.04,
+    "end": 464.04,
+    "text": " I think it was quite boring, like a lot of war."
+  },
+  {
+    "start": 464.04,
+    "end": 467.04,
+    "text": " You know, you did nothing for a long time, but then you died."
+  },
+  {
+    "start": 467.04,
+    "end": 468.04,
+    "text": " And so..."
+  },
+  {
+    "start": 468.04,
+    "end": 470.04,
+    "text": " - That's life, I know."
+  },
+  {
+    "start": 470.04,
+    "end": 471.04,
+    "text": " - Oh."
+  },
+  {
+    "start": 471.04,
+    "end": 476.04,
+    "text": " - But yeah, I was reading some logs of the games they used to play."
+  },
+  {
+    "start": 476.04,
+    "end": 482.04,
+    "text": " The captain of One You Boat organized a guess a number of P's in the bag game, which sounds very fun."
+  },
+  {
+    "start": 482.04,
+    "end": 486.04,
+    "text": " Or guess the number of rotations the propeller would make in a certain amount of time."
+  },
+  {
+    "start": 486.04,
+    "end": 491.04,
+    "text": " And then if you won that, if you were the one who got closest and the captain would take over your roles, your duties for the day."
+  },
+  {
+    "start": 491.04,
+    "end": 494.04,
+    "text": " So if you were the toilet flusher, the captain would have to do that."
+  },
+  {
+    "start": 494.04,
+    "end": 500.04,
+    "text": " They had frequent singing, limerick, ing, and lying competitions, apparently."
+  },
+  {
+    "start": 500.04,
+    "end": 502.04,
+    "text": " - Lying, as in telling lies."
+  },
+  {
+    "start": 502.04,
+    "end": 506.04,
+    "text": " - I guess so, yeah, or just being prostrate, telling lies, yeah."
+  },
+  {
+    "start": 506.04,
+    "end": 512.04,
+    "text": " - They had to share their bunks with what beneath their bunks were torpedoes at the beginning of the voyage, because there was just no space."
+  },
+  {
+    "start": 512.04,
+    "end": 513.04,
+    "text": " - Did they?"
+  },
+  {
+    "start": 513.04,
+    "end": 515.04,
+    "text": " - Yes, they would just be lying next to a torpedo."
+  },
+  {
+    "start": 515.04,
+    "end": 517.04,
+    "text": " - Oh, very careful, yeah."
+  },
+  {
+    "start": 517.04,
+    "end": 523.04,
+    "text": " - I do like how makeshift some of the adventures that some Marines have as a result of things like a toilet breaking or..."
+  },
+  {
+    "start": 523.04,
+    "end": 526.04,
+    "text": " Or just as so many things can go wrong on a submarine."
+  },
+  {
+    "start": 526.04,
+    "end": 531.04,
+    "text": " I read this amazing story, there was the R14, it was a submarine back in 1921."
+  },
+  {
+    "start": 531.04,
+    "end": 538.04,
+    "text": " And basically what happened is, is its engine died, and it didn't have enough battery in order to propel it back to land."
+  },
+  {
+    "start": 538.04,
+    "end": 540.04,
+    "text": " And they were off the coast of Hawaii."
+  },
+  {
+    "start": 540.04,
+    "end": 545.04,
+    "text": " And so they were stuck, they were above surface, and they didn't know how to move."
+  },
+  {
+    "start": 545.04,
+    "end": 546.04,
+    "text": " They were at a standstill."
+  },
+  {
+    "start": 546.04,
+    "end": 552.04,
+    "text": " And so the captain ordered for them to go down and get all of the hammocks and all the material from bunks and come back up."
+  },
+  {
+    "start": 552.04,
+    "end": 556.04,
+    "text": " And they put them up, and all the bedsheets came up, and they set these huge sails."
+  },
+  {
+    "start": 556.04,
+    "end": 559.04,
+    "text": " They manufacture these giant sails, yeah."
+  },
+  {
+    "start": 559.04,
+    "end": 563.04,
+    "text": " And within 64 hours, they managed to sail to the coastline of Hawaii."
+  },
+  {
+    "start": 563.04,
+    "end": 566.04,
+    "text": " They picked up enough wind to go at like one hour."
+  },
+  {
+    "start": 566.04,
+    "end": 567.04,
+    "text": " - Is that nice?"
+  },
+  {
+    "start": 567.04,
+    "end": 568.04,
+    "text": " - Yeah, no way."
+  },
+  {
+    "start": 568.04,
+    "end": 569.04,
+    "text": " - Yeah, is that awesome?"
+  },
+  {
+    "start": 569.04,
+    "end": 573.04,
+    "text": " - So all that practice they'd done as kind of seven-year-old boys on their beds."
+  },
+  {
+    "start": 573.04,
+    "end": 576.04,
+    "text": " You know, when you made your bed into a boat."
+  },
+  {
+    "start": 576.04,
+    "end": 577.04,
+    "text": " - Oh."
+  },
+  {
+    "start": 577.04,
+    "end": 579.04,
+    "text": " - It came in handy."
+  },
+  {
+    "start": 579.04,
+    "end": 581.04,
+    "text": " - It's very hard with a fitted sheet, I find."
+  },
+  {
+    "start": 581.04,
+    "end": 586.04,
+    "text": " So this fact is at least partly about toilets."
+  },
+  {
+    "start": 586.04,
+    "end": 587.04,
+    "text": " - Yes."
+  },
+  {
+    "start": 587.04,
+    "end": 592.04,
+    "text": " - So in order to find out about it, I searched online, and I found a website called toiletguru.com."
+  },
+  {
+    "start": 592.04,
+    "end": 594.04,
+    "text": " I cannot recommend it highly enough."
+  },
+  {
+    "start": 594.04,
+    "end": 595.04,
+    "text": " It's so good."
+  },
+  {
+    "start": 595.04,
+    "end": 598.04,
+    "text": " It's just a guy called Bob Cromwell, who has a website about toilets."
+  },
+  {
+    "start": 598.04,
+    "end": 602.04,
+    "text": " And he has an FAQ page about why he's doing it, because he photographs toilets all over the world."
+  },
+  {
+    "start": 602.04,
+    "end": 606.04,
+    "text": " And they're not brilliant photos, but they're good."
+  },
+  {
+    "start": 606.04,
+    "end": 609.04,
+    "text": " But they're good, and the website is very informative and interesting."
+  },
+  {
+    "start": 609.04,
+    "end": 612.04,
+    "text": " So I just want to say, I'm pro toiletguru.com."
+  },
+  {
+    "start": 612.04,
+    "end": 617.04,
+    "text": " But the FAQ, it's so clear that he's written the questions."
+  },
+  {
+    "start": 617.04,
+    "end": 619.04,
+    "text": " Like a guru, really?"
+  },
+  {
+    "start": 619.04,
+    "end": 622.04,
+    "text": " He says, it's purely a self-appointed title."
+  },
+  {
+    "start": 622.04,
+    "end": 624.04,
+    "text": " There is no formal sanctioning body."
+  },
+  {
+    "start": 624.04,
+    "end": 627.04,
+    "text": " [laughter]"
+  },
+  {
+    "start": 627.04,
+    "end": 628.04,
+    "text": " Next question."
+  },
+  {
+    "start": 628.04,
+    "end": 631.04,
+    "text": " Am I obsessed with toilets?"
+  },
+  {
+    "start": 631.04,
+    "end": 634.04,
+    "text": " No, I'm just willing to admit I find the topic somewhat interesting."
+  },
+  {
+    "start": 634.04,
+    "end": 638.04,
+    "text": " So why a site just on toilets?"
+  },
+  {
+    "start": 638.04,
+    "end": 640.04,
+    "text": " He says, \"Why not?\""
+  },
+  {
+    "start": 640.04,
+    "end": 643.04,
+    "text": " But a site about toilets, I must be obsessed, right?"
+  },
+  {
+    "start": 643.04,
+    "end": 645.04,
+    "text": " And here he really goes for it."
+  },
+  {
+    "start": 645.04,
+    "end": 647.04,
+    "text": " He says, \"I don't see it that way."
+  },
+  {
+    "start": 647.04,
+    "end": 650.04,
+    "text": " I'm just the guy with a silly site that spun off a collection of travel pictures."
+  },
+  {
+    "start": 650.04,
+    "end": 655.04,
+    "text": " I regularly get messages from people saying, \"I have spent the last four hours reading about toilets on your website,"
+  },
+  {
+    "start": 655.04,
+    "end": 657.04,
+    "text": " and I would like to know why you are so obsessed."
+  },
+  {
+    "start": 657.04,
+    "end": 658.04,
+    "text": " Excuse me."
+  },
+  {
+    "start": 658.04,
+    "end": 661.04,
+    "text": " You just spent how long thinking about toilets and reading my site?"
+  },
+  {
+    "start": 661.04,
+    "end": 664.04,
+    "text": " And you think, \"I am fixated on the topic.\""
+  },
+  {
+    "start": 664.04,
+    "end": 667.04,
+    "text": " [laughter]"
+  },
+  {
+    "start": 667.04,
+    "end": 673.04,
+    "text": " One of the spun off from just his holiday photos is everything."
+  },
+  {
+    "start": 673.04,
+    "end": 674.04,
+    "text": " Who does that?"
+  },
+  {
+    "start": 674.04,
+    "end": 676.04,
+    "text": " In the holiday pictures."
+  },
+  {
+    "start": 676.04,
+    "end": 678.04,
+    "text": " You go and show the album to your family."
+  },
+  {
+    "start": 678.04,
+    "end": 679.04,
+    "text": " That's so true."
+  },
+  {
+    "start": 679.04,
+    "end": 681.04,
+    "text": " This is the number two I left in Tokyo."
+  },
+  {
+    "start": 681.04,
+    "end": 682.04,
+    "text": " [laughter]"
+  },
+  {
+    "start": 682.04,
+    "end": 687.04,
+    "text": " I too was looking into toilets, but specifically because the job of this person was to avoid disaster."
+  },
+  {
+    "start": 687.04,
+    "end": 690.04,
+    "text": " So I looked into dangerous toilets."
+  },
+  {
+    "start": 690.04,
+    "end": 692.04,
+    "text": " And I found one."
+  },
+  {
+    "start": 692.04,
+    "end": 694.04,
+    "text": " This goes back to 10-16."
+  },
+  {
+    "start": 694.04,
+    "end": 699.04,
+    "text": " And this is the death of King Edmund."
+  },
+  {
+    "start": 699.04,
+    "end": 701.04,
+    "text": " King Edmund died on the toilet."
+  },
+  {
+    "start": 701.04,
+    "end": 703.04,
+    "text": " And so he sat on the toilet and he died."
+  },
+  {
+    "start": 703.04,
+    "end": 706.04,
+    "text": " And the way he died was at the time, Knut of Denmark,"
+  },
+  {
+    "start": 706.04,
+    "end": 709.04,
+    "text": " he was trying to extend his empire into the Britain."
+  },
+  {
+    "start": 709.04,
+    "end": 712.04,
+    "text": " And so he sent someone, one of his Vikings,"
+  },
+  {
+    "start": 712.04,
+    "end": 717.04,
+    "text": " who broke into the bathroom of King Edmund,"
+  },
+  {
+    "start": 717.04,
+    "end": 720.04,
+    "text": " hid inside the toilet underneath it."
+  },
+  {
+    "start": 720.04,
+    "end": 729.04,
+    "text": " And when he sat down, he raised a sword right through the bum hole all the way up."
+  },
+  {
+    "start": 729.04,
+    "end": 732.04,
+    "text": " And killed him."
+  },
+  {
+    "start": 732.04,
+    "end": 733.04,
+    "text": " No."
+  },
+  {
+    "start": 733.04,
+    "end": 734.04,
+    "text": " Yes."
+  },
+  {
+    "start": 734.04,
+    "end": 738.04,
+    "text": " [laughter]"
+  },
+  {
+    "start": 738.04,
+    "end": 740.04,
+    "text": " Sorry, the Vikings got access to his toilet."
+  },
+  {
+    "start": 740.04,
+    "end": 743.04,
+    "text": " Why does he have to hide under the toilet for the King?"
+  },
+  {
+    "start": 743.04,
+    "end": 745.04,
+    "text": " I would just like to find the door."
+  },
+  {
+    "start": 745.04,
+    "end": 747.04,
+    "text": " That's how you get into the bum hole most easy."
+  },
+  {
+    "start": 747.04,
+    "end": 751.04,
+    "text": " Stopped being on top of a cupboard."
+  },
+  {
+    "start": 751.04,
+    "end": 753.04,
+    "text": " It's perfect vantage point."
+  },
+  {
+    "start": 753.04,
+    "end": 757.04,
+    "text": " But you can kill, you don't have to kill someone."
+  },
+  {
+    "start": 757.04,
+    "end": 759.04,
+    "text": " That, yeah."
+  },
+  {
+    "start": 759.04,
+    "end": 760.04,
+    "text": " Cool."
+  },
+  {
+    "start": 760.04,
+    "end": 761.04,
+    "text": " That's a good fact."
+  },
+  {
+    "start": 761.04,
+    "end": 763.04,
+    "text": " He might have got into the toilet and thought I'll hide somewhere else."
+  },
+  {
+    "start": 763.04,
+    "end": 765.04,
+    "text": " And there were no cupboards or anything, you know."
+  },
+  {
+    "start": 765.04,
+    "end": 768.04,
+    "text": " And he heard Edmund kind of walking down the corridor."
+  },
+  {
+    "start": 768.04,
+    "end": 769.04,
+    "text": " And he looked frantically around."
+  },
+  {
+    "start": 769.04,
+    "end": 770.04,
+    "text": " Oh, it was sick."
+  },
+  {
+    "start": 770.04,
+    "end": 771.04,
+    "text": " No."
+  },
+  {
+    "start": 771.04,
+    "end": 772.04,
+    "text": " Oh, the B-Day."
+  },
+  {
+    "start": 772.04,
+    "end": 773.04,
+    "text": " No, not big enough."
+  },
+  {
+    "start": 773.04,
+    "end": 776.04,
+    "text": " That's one of those amazing scenes in the film with the door open."
+  },
+  {
+    "start": 776.04,
+    "end": 777.04,
+    "text": " And there's no one in there."
+  },
+  {
+    "start": 777.04,
+    "end": 778.04,
+    "text": " That's an audience."
+  },
+  {
+    "start": 778.04,
+    "end": 779.04,
+    "text": " You're like, where's he going?"
+  },
+  {
+    "start": 779.04,
+    "end": 781.04,
+    "text": " He's like, oh, Faggot, he's got a toilet cover."
+  },
+  {
+    "start": 781.04,
+    "end": 782.04,
+    "text": " Hi, he's doing all right for himself."
+  },
+  {
+    "start": 782.04,
+    "end": 785.04,
+    "text": " [laughter]"
+  },
+  {
+    "start": 785.04,
+    "end": 788.04,
+    "text": " What could be more dangerous speaking of dangerous toilets"
+  },
+  {
+    "start": 788.04,
+    "end": 790.04,
+    "text": " than Hitler's toilet?"
+  },
+  {
+    "start": 790.04,
+    "end": 791.04,
+    "text": " Hmm."
+  },
+  {
+    "start": 791.04,
+    "end": 792.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 792.04,
+    "end": 793.04,
+    "text": " Ooh."
+  },
+  {
+    "start": 793.04,
+    "end": 796.04,
+    "text": " And so Hitler's toilet, Hitler's ship's toilet"
+  },
+  {
+    "start": 796.04,
+    "end": 800.04,
+    "text": " is a tourist attraction in New Jersey at the moment."
+  },
+  {
+    "start": 800.04,
+    "end": 803.04,
+    "text": " So at the end of the war, Hitler had a yacht and he was going to"
+  },
+  {
+    "start": 803.04,
+    "end": 807.04,
+    "text": " sail up the tents, kind of, loading it over the British."
+  },
+  {
+    "start": 807.04,
+    "end": 810.04,
+    "text": " And what happened was the British took it off him and then"
+  },
+  {
+    "start": 810.04,
+    "end": 812.04,
+    "text": " dismantled it and sold it for scrap."
+  },
+  {
+    "start": 812.04,
+    "end": 816.04,
+    "text": " And the toilet happened to end up in a shop in New Jersey."
+  },
+  {
+    "start": 816.04,
+    "end": 819.04,
+    "text": " And there's a guy called Greg Koffelt."
+  },
+  {
+    "start": 819.04,
+    "end": 821.04,
+    "text": " And if you go down to his shop and say,"
+  },
+  {
+    "start": 821.04,
+    "end": 822.04,
+    "text": " can I see Hitler's toilet please?"
+  },
+  {
+    "start": 822.04,
+    "end": 824.04,
+    "text": " He'll just show you around."
+  },
+  {
+    "start": 824.04,
+    "end": 825.04,
+    "text": " Oh."
+  },
+  {
+    "start": 825.04,
+    "end": 826.04,
+    "text": " And again, here it is."
+  },
+  {
+    "start": 826.04,
+    "end": 829.04,
+    "text": " And he says, it's not something to be proud of, but it exists."
+  },
+  {
+    "start": 829.04,
+    "end": 831.04,
+    "text": " [laughter]"
+  },
+  {
+    "start": 831.04,
+    "end": 834.04,
+    "text": " Apparently, it wasn't in his shop for a little while"
+  },
+  {
+    "start": 834.04,
+    "end": 837.04,
+    "text": " because he took it to the UK in an attempt to sell it"
+  },
+  {
+    "start": 837.04,
+    "end": 839.04,
+    "text": " on a TV game show."
+  },
+  {
+    "start": 839.04,
+    "end": 840.04,
+    "text": " Which game?"
+  },
+  {
+    "start": 840.04,
+    "end": 841.04,
+    "text": " I don't know."
+  },
+  {
+    "start": 841.04,
+    "end": 843.04,
+    "text": " All I could think is bargain hum."
+  },
+  {
+    "start": 843.04,
+    "end": 844.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 844.04,
+    "end": 845.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 845.04,
+    "end": 846.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 846.04,
+    "end": 848.04,
+    "text": " That doesn't sound like it does."
+  },
+  {
+    "start": 848.04,
+    "end": 849.04,
+    "text": " [laughter]"
+  },
+  {
+    "start": 849.04,
+    "end": 850.04,
+    "text": " Antique's Roadshow?"
+  },
+  {
+    "start": 850.04,
+    "end": 852.04,
+    "text": " [laughter]"
+  },
+  {
+    "start": 852.04,
+    "end": 854.04,
+    "text": " One of those nice, stately home guards."
+  },
+  {
+    "start": 854.04,
+    "end": 857.04,
+    "text": " That's a really low-rend edition of Antique's Roadshow."
+  },
+  {
+    "start": 857.04,
+    "end": 860.04,
+    "text": " And we need to move on to our next act."
+  },
+  {
+    "start": 860.04,
+    "end": 862.04,
+    "text": " Just one more submarine."
+  },
+  {
+    "start": 862.04,
+    "end": 863.04,
+    "text": " I didn't know this."
+  },
+  {
+    "start": 863.04,
+    "end": 864.04,
+    "text": " I thought it was incredible."
+  },
+  {
+    "start": 864.04,
+    "end": 868.04,
+    "text": " So did you know that the Brits had to find a way in World War II"
+  },
+  {
+    "start": 868.04,
+    "end": 870.04,
+    "text": " of defeating the German U-Boats."
+  },
+  {
+    "start": 870.04,
+    "end": 871.04,
+    "text": " They were a massive danger."
+  },
+  {
+    "start": 871.04,
+    "end": 873.04,
+    "text": " And so they planned to make an aircraft carrier"
+  },
+  {
+    "start": 873.04,
+    "end": 876.04,
+    "text": " that was more effective because our aircraft didn't have the range"
+  },
+  {
+    "start": 876.04,
+    "end": 878.04,
+    "text": " to hit the U-Boats from land."
+  },
+  {
+    "start": 878.04,
+    "end": 881.04,
+    "text": " And so a guy called Jeffrey Pike, working for the government,"
+  },
+  {
+    "start": 881.04,
+    "end": 884.04,
+    "text": " proposed, and this is a thing called Operation Haber Cook."
+  },
+  {
+    "start": 884.04,
+    "end": 885.04,
+    "text": " It was approved by Churchill."
+  },
+  {
+    "start": 885.04,
+    "end": 888.04,
+    "text": " He proposed that we build an aircraft carrier"
+  },
+  {
+    "start": 888.04,
+    "end": 890.04,
+    "text": " made completely of ice."
+  },
+  {
+    "start": 890.04,
+    "end": 892.04,
+    "text": " So this massive ice ship."
+  },
+  {
+    "start": 892.04,
+    "end": 893.04,
+    "text": " Wow."
+  },
+  {
+    "start": 893.04,
+    "end": 894.04,
+    "text": " And yeah, so he went to Churchill."
+  },
+  {
+    "start": 894.04,
+    "end": 895.04,
+    "text": " He took this pan to Churchill."
+  },
+  {
+    "start": 895.04,
+    "end": 897.04,
+    "text": " He said, \"Can I do this, make this ice thing?\""
+  },
+  {
+    "start": 897.04,
+    "end": 900.04,
+    "text": " And then, after researching further, Pike realised it was unsuitable"
+  },
+  {
+    "start": 900.04,
+    "end": 902.04,
+    "text": " because it would melt."
+  },
+  {
+    "start": 902.04,
+    "end": 905.04,
+    "text": " [laughter]"
+  },
+  {
+    "start": 905.04,
+    "end": 908.04,
+    "text": " That's the kind of thinking that won us the war, Anna."
+  },
+  {
+    "start": 908.04,
+    "end": 909.04,
+    "text": " [laughter]"
+  },
+  {
+    "start": 909.04,
+    "end": 910.04,
+    "text": " But then, so I remember this story."
+  },
+  {
+    "start": 910.04,
+    "end": 913.04,
+    "text": " And what happened was he then started putting stuff in the ice, didn't he?"
+  },
+  {
+    "start": 913.04,
+    "end": 914.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 914.04,
+    "end": 916.04,
+    "text": " Like little bits of soda, star something."
+  },
+  {
+    "start": 916.04,
+    "end": 918.04,
+    "text": " And then that stopped it from melting."
+  },
+  {
+    "start": 918.04,
+    "end": 919.04,
+    "text": " It did."
+  },
+  {
+    "start": 919.04,
+    "end": 920.04,
+    "text": " And is it right?"
+  },
+  {
+    "start": 920.04,
+    "end": 921.04,
+    "text": " This is probably a myth."
+  },
+  {
+    "start": 921.04,
+    "end": 923.04,
+    "text": " But did he go and see Churchill again?"
+  },
+  {
+    "start": 923.04,
+    "end": 925.04,
+    "text": " And Churchill was in the bath."
+  },
+  {
+    "start": 925.04,
+    "end": 926.04,
+    "text": " Is that true or not?"
+  },
+  {
+    "start": 926.04,
+    "end": 927.04,
+    "text": " He didn't."
+  },
+  {
+    "start": 927.04,
+    "end": 929.04,
+    "text": " But yeah, it was called Pike Crete, named after him."
+  },
+  {
+    "start": 929.04,
+    "end": 932.04,
+    "text": " And yeah, he convinced Lord Mountain Baton that it was a good idea."
+  },
+  {
+    "start": 932.04,
+    "end": 934.04,
+    "text": " And Mountain Baton really liked it."
+  },
+  {
+    "start": 934.04,
+    "end": 936.04,
+    "text": " So he said, \"I'll go and talk to Churchill.\""
+  },
+  {
+    "start": 936.04,
+    "end": 939.04,
+    "text": " And Mountain Baton used to tell this story after dinner, after dinner parties."
+  },
+  {
+    "start": 939.04,
+    "end": 943.04,
+    "text": " He said he went to checkers to show Churchill this special Pike Crete"
+  },
+  {
+    "start": 943.04,
+    "end": 945.04,
+    "text": " that was so good at floating."
+  },
+  {
+    "start": 945.04,
+    "end": 948.04,
+    "text": " And he was told that Churchill was in the bath, so he'd have to wait."
+  },
+  {
+    "start": 948.04,
+    "end": 951.04,
+    "text": " And Mountain Baton said, \"Good, that's exactly where I want him to be.\""
+  },
+  {
+    "start": 951.04,
+    "end": 955.04,
+    "text": " And he marched straight up into his bathroom, pushed the door open, and said,"
+  },
+  {
+    "start": 955.04,
+    "end": 958.04,
+    "text": " \"Hey, Churchill, I do mind if I put this bit of thing in the bath with you"
+  },
+  {
+    "start": 958.04,
+    "end": 961.04,
+    "text": " and show you how effective it will be as an aircraft carrier.\""
+  },
+  {
+    "start": 961.04,
+    "end": 962.04,
+    "text": " And that's what he did."
+  },
+  {
+    "start": 962.04,
+    "end": 966.04,
+    "text": " And that was the last ever ridiculous plan to come out of checkers, wasn't it?"
+  },
+  {
+    "start": 966.04,
+    "end": 968.04,
+    "text": " [laughter]"
+  },
+  {
+    "start": 968.04,
+    "end": 969.04,
+    "text": " Very nice."
+  },
+  {
+    "start": 972.04,
+    "end": 977.04,
+    "text": " Okay, it is time for fact number two, and that is James."
+  },
+  {
+    "start": 977.04,
+    "end": 982.04,
+    "text": " Okay, my fact this week is that Alexander Graham Bell taught his dog to say,"
+  },
+  {
+    "start": 982.04,
+    "end": 984.04,
+    "text": " \"How are you, Gragmama?\""
+  },
+  {
+    "start": 984.04,
+    "end": 985.04,
+    "text": " No."
+  },
+  {
+    "start": 985.04,
+    "end": 988.04,
+    "text": " [laughter]"
+  },
+  {
+    "start": 988.04,
+    "end": 991.04,
+    "text": " I'm going out on a limb and saying, \"No, he didn't.\""
+  },
+  {
+    "start": 991.04,
+    "end": 993.04,
+    "text": " [laughter]"
+  },
+  {
+    "start": 993.04,
+    "end": 997.04,
+    "text": " He's so dead, he's so absolutely dead, kind of."
+  },
+  {
+    "start": 997.04,
+    "end": 998.04,
+    "text": " Boy."
+  },
+  {
+    "start": 998.04,
+    "end": 1003.04,
+    "text": " If anyone could record the evidence, he could, so where is it?"
+  },
+  {
+    "start": 1003.04,
+    "end": 1006.04,
+    "text": " Well, this was before all of the telephone stuff that he did."
+  },
+  {
+    "start": 1006.04,
+    "end": 1007.04,
+    "text": " It was when he was quite young."
+  },
+  {
+    "start": 1007.04,
+    "end": 1011.04,
+    "text": " So when he was really young, his father devised a system of transcribing words"
+  },
+  {
+    "start": 1011.04,
+    "end": 1014.04,
+    "text": " by just the shape that you make of your mouth."
+  },
+  {
+    "start": 1014.04,
+    "end": 1016.04,
+    "text": " So he would say, \"If you make your mouth like this, like this,"
+  },
+  {
+    "start": 1016.04,
+    "end": 1018.04,
+    "text": " it will make these kind of sounds.\""
+  },
+  {
+    "start": 1018.04,
+    "end": 1021.04,
+    "text": " If you make someone's face go wider, it goes more of an e-sound."
+  },
+  {
+    "start": 1021.04,
+    "end": 1024.04,
+    "text": " If you make it go narrow, it's more of an o-sound."
+  },
+  {
+    "start": 1024.04,
+    "end": 1027.04,
+    "text": " And so once he kind of learned this, when he got a bit older,"
+  },
+  {
+    "start": 1027.04,
+    "end": 1030.04,
+    "text": " he decided to try it on his dog."
+  },
+  {
+    "start": 1030.04,
+    "end": 1034.04,
+    "text": " And so first of all, he organised so that the dog would growl on command"
+  },
+  {
+    "start": 1034.04,
+    "end": 1037.04,
+    "text": " by giving him treats and things like that."
+  },
+  {
+    "start": 1037.04,
+    "end": 1040.04,
+    "text": " And then, as the dog would growl, he would kind of move his face."
+  },
+  {
+    "start": 1040.04,
+    "end": 1043.04,
+    "text": " And he managed to get the dog to say, \"Mama.\""
+  },
+  {
+    "start": 1043.04,
+    "end": 1045.04,
+    "text": " So he got, \"Mama.\""
+  },
+  {
+    "start": 1045.04,
+    "end": 1047.04,
+    "text": " So he made the lips go down like that."
+  },
+  {
+    "start": 1047.04,
+    "end": 1051.04,
+    "text": " Then he got to say, \"Ga-a-au-an-u.\""
+  },
+  {
+    "start": 1051.04,
+    "end": 1054.04,
+    "text": " And when you put it all together, it sounded a bit like,"
+  },
+  {
+    "start": 1054.04,
+    "end": 1057.04,
+    "text": " \"Ga-a-au-a-au-gamama.\""
+  },
+  {
+    "start": 1057.04,
+    "end": 1060.04,
+    "text": " And this was his party trick, and he did it all the time."
+  },
+  {
+    "start": 1060.04,
+    "end": 1063.04,
+    "text": " And what a patient dog."
+  },
+  {
+    "start": 1063.04,
+    "end": 1068.04,
+    "text": " Well, the thing is that he then tried to get the dog to do it"
+  },
+  {
+    "start": 1068.04,
+    "end": 1070.04,
+    "text": " without any kind of movements of the lips"
+  },
+  {
+    "start": 1070.04,
+    "end": 1072.04,
+    "text": " and just see if he could do it by himself."
+  },
+  {
+    "start": 1072.04,
+    "end": 1073.04,
+    "text": " Right."
+  },
+  {
+    "start": 1073.04,
+    "end": 1076.04,
+    "text": " And he said that even though he took kind of an interest in the experiments,"
+  },
+  {
+    "start": 1076.04,
+    "end": 1081.04,
+    "text": " he was never able alone to do anything but growl."
+  },
+  {
+    "start": 1081.04,
+    "end": 1086.04,
+    "text": " What did I express taking an interest in the experiments?"
+  },
+  {
+    "start": 1086.04,
+    "end": 1089.04,
+    "text": " I have another fact about Alexander Graham Bell as a boy."
+  },
+  {
+    "start": 1089.04,
+    "end": 1090.04,
+    "text": " Okay."
+  },
+  {
+    "start": 1090.04,
+    "end": 1091.04,
+    "text": " So he was born Alexander Bell."
+  },
+  {
+    "start": 1091.04,
+    "end": 1092.04,
+    "text": " Okay."
+  },
+  {
+    "start": 1092.04,
+    "end": 1094.04,
+    "text": " He didn't have a middle name until he was 10 years old."
+  },
+  {
+    "start": 1094.04,
+    "end": 1097.04,
+    "text": " And then he got jealous of his brothers who did have middle names."
+  },
+  {
+    "start": 1097.04,
+    "end": 1100.04,
+    "text": " And he asked his father, \"Can I have a middle name?\""
+  },
+  {
+    "start": 1100.04,
+    "end": 1101.04,
+    "text": " And his father said, \"Yes.\""
+  },
+  {
+    "start": 1101.04,
+    "end": 1102.04,
+    "text": " Which one would he like?"
+  },
+  {
+    "start": 1102.04,
+    "end": 1103.04,
+    "text": " He said Graham."
+  },
+  {
+    "start": 1103.04,
+    "end": 1106.04,
+    "text": " And that was his 11th birthday present."
+  },
+  {
+    "start": 1106.04,
+    "end": 1107.04,
+    "text": " Wow."
+  },
+  {
+    "start": 1107.04,
+    "end": 1109.04,
+    "text": " It was a middle name."
+  },
+  {
+    "start": 1109.04,
+    "end": 1110.04,
+    "text": " I did that."
+  },
+  {
+    "start": 1110.04,
+    "end": 1113.04,
+    "text": " When I was 12, I asked for a new middle name."
+  },
+  {
+    "start": 1113.04,
+    "end": 1116.04,
+    "text": " Because I didn't really have one properly."
+  },
+  {
+    "start": 1116.04,
+    "end": 1118.04,
+    "text": " So my name is Daniel Craig Schreiber."
+  },
+  {
+    "start": 1118.04,
+    "end": 1121.04,
+    "text": " But everyone else in my family, including my sister,"
+  },
+  {
+    "start": 1121.04,
+    "end": 1122.04,
+    "text": " has Craig as her middle name."
+  },
+  {
+    "start": 1122.04,
+    "end": 1124.04,
+    "text": " And we'd moved to Australia from Hong Kong."
+  },
+  {
+    "start": 1124.04,
+    "end": 1127.04,
+    "text": " And I said, \"When I go to school, I want to have a new middle name.\""
+  },
+  {
+    "start": 1127.04,
+    "end": 1130.04,
+    "text": " And no one will know that it was never there before."
+  },
+  {
+    "start": 1130.04,
+    "end": 1131.04,
+    "text": " And they said, \"Yes.\""
+  },
+  {
+    "start": 1131.04,
+    "end": 1132.04,
+    "text": " And I did it."
+  },
+  {
+    "start": 1132.04,
+    "end": 1133.04,
+    "text": " What was it?"
+  },
+  {
+    "start": 1133.04,
+    "end": 1134.04,
+    "text": " So it was a full name."
+  },
+  {
+    "start": 1134.04,
+    "end": 1137.04,
+    "text": " Daniel Indiana Craig Schreiber."
+  },
+  {
+    "start": 1137.04,
+    "end": 1141.04,
+    "text": " And I swear to God, that's true."
+  },
+  {
+    "start": 1141.04,
+    "end": 1144.04,
+    "text": " It was on my opening school report,"
+  },
+  {
+    "start": 1144.04,
+    "end": 1146.04,
+    "text": " it's Daniel Indiana Craig Schreiber."
+  },
+  {
+    "start": 1146.04,
+    "end": 1149.04,
+    "text": " And then someone pointed out that that was really uncool."
+  },
+  {
+    "start": 1149.04,
+    "end": 1152.04,
+    "text": " And also it spells out Dix."
+  },
+  {
+    "start": 1152.04,
+    "end": 1163.04,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1163.04,
+    "end": 1165.04,
+    "text": " No wonder they called me that."
+  },
+  {
+    "start": 1165.04,
+    "end": 1166.04,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1166.04,
+    "end": 1168.04,
+    "text": " There are many reasons."
+  },
+  {
+    "start": 1168.04,
+    "end": 1171.04,
+    "text": " Also as a kid, he used to help his dad."
+  },
+  {
+    "start": 1171.04,
+    "end": 1174.04,
+    "text": " So he came from a long line of people who experimented with--"
+  },
+  {
+    "start": 1174.04,
+    "end": 1175.04,
+    "text": " Middle names."
+  },
+  {
+    "start": 1175.04,
+    "end": 1176.04,
+    "text": " Middle names."
+  },
+  {
+    "start": 1176.04,
+    "end": 1177.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 1177.04,
+    "end": 1179.04,
+    "text": " With sound and with how we speak and with speech."
+  },
+  {
+    "start": 1179.04,
+    "end": 1183.04,
+    "text": " And so his father invented kind of a system of notating"
+  },
+  {
+    "start": 1183.04,
+    "end": 1186.04,
+    "text": " the different sounds that humans can make and writing it on a board."
+  },
+  {
+    "start": 1186.04,
+    "end": 1189.04,
+    "text": " And he said that you could make any sound in any language."
+  },
+  {
+    "start": 1189.04,
+    "end": 1191.04,
+    "text": " And he could write the notation for it."
+  },
+  {
+    "start": 1191.04,
+    "end": 1193.04,
+    "text": " And this could be a universal language."
+  },
+  {
+    "start": 1193.04,
+    "end": 1196.04,
+    "text": " And he used to deploy his son to help him."
+  },
+  {
+    "start": 1196.04,
+    "end": 1200.04,
+    "text": " So he'd be giving a lecture to a big lecture theatre of people."
+  },
+  {
+    "start": 1200.04,
+    "end": 1204.04,
+    "text": " And he'd say someone in the audience, preferably someone who's from a different country."
+  },
+  {
+    "start": 1204.04,
+    "end": 1205.04,
+    "text": " You know, a Russian person."
+  },
+  {
+    "start": 1205.04,
+    "end": 1207.04,
+    "text": " Why don't you give me one of your words in Russian."
+  },
+  {
+    "start": 1207.04,
+    "end": 1209.04,
+    "text": " And this Russian person would give him the word."
+  },
+  {
+    "start": 1209.04,
+    "end": 1214.04,
+    "text": " And then Alexander's dad would write on the board his special notation for that word."
+  },
+  {
+    "start": 1214.04,
+    "end": 1218.04,
+    "text": " And then he'd call his little 10-year-old son in who'd trot in and look at the board."
+  },
+  {
+    "start": 1218.04,
+    "end": 1220.04,
+    "text": " And he'd be able to make that sound."
+  },
+  {
+    "start": 1220.04,
+    "end": 1222.04,
+    "text": " And it was like a weird kind of magic trick."
+  },
+  {
+    "start": 1222.04,
+    "end": 1226.04,
+    "text": " So he did do a lot of work with the deaf."
+  },
+  {
+    "start": 1226.04,
+    "end": 1231.04,
+    "text": " I think he's kind of a controversial figure because he argued for eugenics."
+  },
+  {
+    "start": 1231.04,
+    "end": 1235.04,
+    "text": " And he was president of the Second International Eugenics Congress."
+  },
+  {
+    "start": 1235.04,
+    "end": 1239.04,
+    "text": " But he also came from, so his mother was deaf, his fiance was deaf."
+  },
+  {
+    "start": 1239.04,
+    "end": 1241.04,
+    "text": " And he taught deaf children a lot."
+  },
+  {
+    "start": 1241.04,
+    "end": 1246.04,
+    "text": " He almost missed the big debut of the telephone because he wanted to teach a class of deaf children."
+  },
+  {
+    "start": 1246.04,
+    "end": 1247.04,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 1247.04,
+    "end": 1250.04,
+    "text": " So he had a very mixed opinion."
+  },
+  {
+    "start": 1250.04,
+    "end": 1252.04,
+    "text": " I can't quite understand."
+  },
+  {
+    "start": 1252.04,
+    "end": 1258.04,
+    "text": " Also, he's controversial just because, I think, as is semi well accepted now, he didn't invent the telephone."
+  },
+  {
+    "start": 1258.04,
+    "end": 1261.04,
+    "text": " And so that's, I know, I hate to break it to you."
+  },
+  {
+    "start": 1261.04,
+    "end": 1264.04,
+    "text": " Well, this is all bollocks then, my notes."
+  },
+  {
+    "start": 1264.04,
+    "end": 1266.04,
+    "text": " Yeah, you're thinking of a different guy."
+  },
+  {
+    "start": 1266.04,
+    "end": 1270.04,
+    "text": " No, the US House of Representatives actually voted on this in 2002, which I didn't realize."
+  },
+  {
+    "start": 1270.04,
+    "end": 1274.04,
+    "text": " So actually, it turns out sort of two other people invented it before him."
+  },
+  {
+    "start": 1274.04,
+    "end": 1277.04,
+    "text": " So Miyuchi was an Italian who invented the telephone,"
+  },
+  {
+    "start": 1277.04,
+    "end": 1279.04,
+    "text": " but then he couldn't afford to keep wow."
+  },
+  {
+    "start": 1279.04,
+    "end": 1281.04,
+    "text": " And he's in tonight."
+  },
+  {
+    "start": 1281.04,
+    "end": 1284.04,
+    "text": " Big fan."
+  },
+  {
+    "start": 1284.04,
+    "end": 1289.04,
+    "text": " But yeah, the House of Representatives in the US voted on whether or not he invented the telephone."
+  },
+  {
+    "start": 1289.04,
+    "end": 1292.04,
+    "text": " And they voted for the fact that Bell actually didn't invent it."
+  },
+  {
+    "start": 1292.04,
+    "end": 1293.04,
+    "text": " It was Miyuchi."
+  },
+  {
+    "start": 1293.04,
+    "end": 1298.04,
+    "text": " And then, actually, 10 days later, Canada voted, and unanimously said, Bell did invent it."
+  },
+  {
+    "start": 1298.04,
+    "end": 1302.04,
+    "text": " And that is the cause of all tensions between those countries."
+  },
+  {
+    "start": 1302.04,
+    "end": 1305.04,
+    "text": " Well, Bell did have the patents in America, didn't he?"
+  },
+  {
+    "start": 1305.04,
+    "end": 1306.04,
+    "text": " Yes."
+  },
+  {
+    "start": 1306.04,
+    "end": 1308.04,
+    "text": " Miyuchi couldn't afford to keep up the patent."
+  },
+  {
+    "start": 1308.04,
+    "end": 1310.04,
+    "text": " But yes, he did."
+  },
+  {
+    "start": 1310.04,
+    "end": 1314.04,
+    "text": " He tried to sell the patents to Western Union for $100,000."
+  },
+  {
+    "start": 1314.04,
+    "end": 1321.04,
+    "text": " And his thinking behind that was that one day there will be a telephone in every American city."
+  },
+  {
+    "start": 1321.04,
+    "end": 1322.04,
+    "text": " Cool."
+  },
+  {
+    "start": 1322.04,
+    "end": 1327.04,
+    "text": " And Western Union rejected the idea as idiotic."
+  },
+  {
+    "start": 1327.04,
+    "end": 1329.04,
+    "text": " I like as well though."
+  },
+  {
+    "start": 1329.04,
+    "end": 1333.04,
+    "text": " He obviously, he may not have invented it, but he definitely knew the technology."
+  },
+  {
+    "start": 1333.04,
+    "end": 1336.04,
+    "text": " He understood how it worked, and he built his own versions."
+  },
+  {
+    "start": 1336.04,
+    "end": 1340.04,
+    "text": " And there are stories of him where if he was passing someone using the telephone and it wasn't working,"
+  },
+  {
+    "start": 1340.04,
+    "end": 1344.04,
+    "text": " he would just go up to them, take the phone off them, and fix it for them."
+  },
+  {
+    "start": 1344.04,
+    "end": 1348.04,
+    "text": " So there's a case of a town that he retired to called Baddock."
+  },
+  {
+    "start": 1348.04,
+    "end": 1351.04,
+    "text": " And when he was living there, he passed someone who couldn't make it work."
+  },
+  {
+    "start": 1351.04,
+    "end": 1354.04,
+    "text": " He unscrewed a bit of the phone, and there was a fly trapped on the inside."
+  },
+  {
+    "start": 1354.04,
+    "end": 1357.04,
+    "text": " That was just, you know, somehow it was messing it up."
+  },
+  {
+    "start": 1357.04,
+    "end": 1361.04,
+    "text": " Took the fly out, put the phone back on, and the guy went, wow, how did you know that?"
+  },
+  {
+    "start": 1361.04,
+    "end": 1364.04,
+    "text": " He went, I invented this."
+  },
+  {
+    "start": 1364.04,
+    "end": 1367.04,
+    "text": " I guess that's why he did it, just for the punchline, but yeah."
+  },
+  {
+    "start": 1367.04,
+    "end": 1370.04,
+    "text": " Imagine Steve Jobs walking up to you and fixing your Mac."
+  },
+  {
+    "start": 1370.04,
+    "end": 1371.04,
+    "text": " It would be amazing."
+  },
+  {
+    "start": 1371.04,
+    "end": 1372.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 1372.04,
+    "end": 1374.04,
+    "text": " And extremely impressive now."
+  },
+  {
+    "start": 1374.04,
+    "end": 1380.04,
+    "text": " So Belle didn't have a phone in his study towards the end of his life, and he retired."
+  },
+  {
+    "start": 1380.04,
+    "end": 1382.04,
+    "text": " Yeah, he completely changed course."
+  },
+  {
+    "start": 1382.04,
+    "end": 1384.04,
+    "text": " He invented a lot of other things as well."
+  },
+  {
+    "start": 1384.04,
+    "end": 1387.04,
+    "text": " But I think we've briefly mentioned this on QA."
+  },
+  {
+    "start": 1387.04,
+    "end": 1391.04,
+    "text": " Anyway, he did want people to answer the phone, a Hoi Hoi, and he campaigned."
+  },
+  {
+    "start": 1391.04,
+    "end": 1394.04,
+    "text": " And he said a Hoi, when he answered the phone, till the end of his life."
+  },
+  {
+    "start": 1394.04,
+    "end": 1397.04,
+    "text": " So Mr Burns is the only one doing it correctly."
+  },
+  {
+    "start": 1397.04,
+    "end": 1402.04,
+    "text": " The other thing is what advice was on ending a call."
+  },
+  {
+    "start": 1402.04,
+    "end": 1405.04,
+    "text": " So the first ever phone book, it wasn't really a book actually,"
+  },
+  {
+    "start": 1405.04,
+    "end": 1408.04,
+    "text": " because there were only 50 numbers in it, because almost no one had a phone."
+  },
+  {
+    "start": 1408.04,
+    "end": 1414.04,
+    "text": " But it said that users should begin chats with a firm and chery holler."
+  },
+  {
+    "start": 1414.04,
+    "end": 1420.04,
+    "text": " And the advice for ending a call is to end the call by saying firmly that is all."
+  },
+  {
+    "start": 1420.04,
+    "end": 1426.04,
+    "text": " And I'm going to start doing it."
+  },
+  {
+    "start": 1426.04,
+    "end": 1431.04,
+    "text": " Okay, love you, love you, that is all."
+  },
+  {
+    "start": 1431.04,
+    "end": 1440.04,
+    "text": " He did some weird experiments before the whole phone, seeing the phone idea."
+  },
+  {
+    "start": 1440.04,
+    "end": 1444.04,
+    "text": " So he wants stolen ear off a corpse, and this is actually one of the most important things he did."
+  },
+  {
+    "start": 1444.04,
+    "end": 1447.04,
+    "text": " He stole an ear off a corpse."
+  },
+  {
+    "start": 1447.04,
+    "end": 1449.04,
+    "text": " He actually always makes you do it, I think."
+  },
+  {
+    "start": 1449.04,
+    "end": 1452.04,
+    "text": " He stole an ear off a cadaver, and it was to create a phonograph."
+  },
+  {
+    "start": 1452.04,
+    "end": 1456.04,
+    "text": " So he then linked this ear up to a stylus, like a recording stylus."
+  },
+  {
+    "start": 1456.04,
+    "end": 1462.04,
+    "text": " And then he got it to inscribe lines in a glass plate, and he'd shout into this dead person's ear."
+  },
+  {
+    "start": 1462.04,
+    "end": 1466.04,
+    "text": " Whoever that person was, and the stylus would sort of write what he was shouting."
+  },
+  {
+    "start": 1466.04,
+    "end": 1473.04,
+    "text": " Or, you know, write with the vibrations, the waveforms that he was shouting, because it was using the bones of the ear to do that."
+  },
+  {
+    "start": 1473.04,
+    "end": 1476.04,
+    "text": " And this was the thing he had in his house that he kept this dead guy's in."
+  },
+  {
+    "start": 1476.04,
+    "end": 1478.04,
+    "text": " Wow, did it work?"
+  },
+  {
+    "start": 1478.04,
+    "end": 1479.04,
+    "text": " Yeah, it worked."
+  },
+  {
+    "start": 1479.04,
+    "end": 1480.04,
+    "text": " Did it?"
+  },
+  {
+    "start": 1480.04,
+    "end": 1482.04,
+    "text": " I mean, the dead guy couldn't hear anything."
+  },
+  {
+    "start": 1482.04,
+    "end": 1485.04,
+    "text": " What's it like on the other side?"
+  },
+  {
+    "start": 1485.04,
+    "end": 1489.04,
+    "text": " Oh, we've got to get the mouth back."
+  },
+  {
+    "start": 1491.04,
+    "end": 1495.04,
+    "text": " Trim number two to the morgue."
+  },
+  {
+    "start": 1495.04,
+    "end": 1498.04,
+    "text": " We're going to have to move on shortly to our next facts."
+  },
+  {
+    "start": 1498.04,
+    "end": 1502.04,
+    "text": " Oh, some things on clever dogs."
+  },
+  {
+    "start": 1502.04,
+    "end": 1506.04,
+    "text": " So there's an amazing book by John Bonderson, all about, like, really clever dogs."
+  },
+  {
+    "start": 1506.04,
+    "end": 1511.04,
+    "text": " And he says that in the 1920s, Germany had a load of animal psychologists"
+  },
+  {
+    "start": 1511.04,
+    "end": 1514.04,
+    "text": " who thought that dogs were nearly as intelligent as humans."
+  },
+  {
+    "start": 1514.04,
+    "end": 1518.04,
+    "text": " And Hitler believed this, Hitler believed it, and that he had these kind of schools"
+  },
+  {
+    "start": 1518.04,
+    "end": 1523.04,
+    "text": " where the dogs could go in and hopefully learn how to speak and communicate."
+  },
+  {
+    "start": 1523.04,
+    "end": 1528.04,
+    "text": " I mean, he was Hitler, so he wasn't entirely saying we know that much."
+  },
+  {
+    "start": 1528.04,
+    "end": 1532.04,
+    "text": " But he thought that they'd be able to communicate with the masters and become more effective soldiers."
+  },
+  {
+    "start": 1532.04,
+    "end": 1535.04,
+    "text": " It was claimed, and I don't believe any of these things."
+  },
+  {
+    "start": 1535.04,
+    "end": 1538.04,
+    "text": " I do believe the grammar, I think, that I don't think any of these are true."
+  },
+  {
+    "start": 1538.04,
+    "end": 1542.04,
+    "text": " But it was claimed that they could write poetry."
+  },
+  {
+    "start": 1542.04,
+    "end": 1549.04,
+    "text": " One apparently could reply mine furrow when asked who Hitler was."
+  },
+  {
+    "start": 1549.04,
+    "end": 1554.04,
+    "text": " And another one mastered the alphabet using a different number of barks for each letter"
+  },
+  {
+    "start": 1554.04,
+    "end": 1559.04,
+    "text": " and announced that he would be voting for Hindenburg in the next election."
+  },
+  {
+    "start": 1559.04,
+    "end": 1561.04,
+    "text": " Here's another weird thing."
+  },
+  {
+    "start": 1561.04,
+    "end": 1567.04,
+    "text": " There's a place called Port Lim, which is near Folkston, and they have this beautiful zoo."
+  },
+  {
+    "start": 1567.04,
+    "end": 1571.04,
+    "text": " And none of the baboons were responding to what they were saying every time they spoke to them."
+  },
+  {
+    "start": 1571.04,
+    "end": 1574.04,
+    "text": " They just were like, well, that's not following that command."
+  },
+  {
+    "start": 1574.04,
+    "end": 1577.04,
+    "text": " And it turns out it's because these baboons were from France."
+  },
+  {
+    "start": 1577.04,
+    "end": 1582.04,
+    "text": " So the Port Lim, zoo people had to learn French in order to speak to the baboons"
+  },
+  {
+    "start": 1582.04,
+    "end": 1585.04,
+    "text": " with the commands that they were used to in a previous zoo."
+  },
+  {
+    "start": 1585.04,
+    "end": 1586.04,
+    "text": " I think that's lazy."
+  },
+  {
+    "start": 1586.04,
+    "end": 1589.04,
+    "text": " If they're going to come here, they can bloody well learn all of them."
+  },
+  {
+    "start": 1589.04,
+    "end": 1594.04,
+    "text": " Wow."
+  },
+  {
+    "start": 1594.04,
+    "end": 1598.04,
+    "text": " Well, that answers one question I've always wanted to know the answer to."
+  },
+  {
+    "start": 1598.04,
+    "end": 1606.04,
+    "text": " OK, it's time for back number three."
+  },
+  {
+    "start": 1606.04,
+    "end": 1608.04,
+    "text": " And that is Andy."
+  },
+  {
+    "start": 1608.04,
+    "end": 1617.04,
+    "text": " My fact is that to stop being eaten by predators, some crustaceans were disgusting tasting snails as backpacks."
+  },
+  {
+    "start": 1617.04,
+    "end": 1621.04,
+    "text": " This is in the southern ocean around Antarctica."
+  },
+  {
+    "start": 1621.04,
+    "end": 1626.04,
+    "text": " And there are these tiny little crustaceans like creatures they are called amphipods."
+  },
+  {
+    "start": 1626.04,
+    "end": 1629.04,
+    "text": " And these guys are called hyperiola dillatata."
+  },
+  {
+    "start": 1629.04,
+    "end": 1631.04,
+    "text": " I hope that's how it's pronounced."
+  },
+  {
+    "start": 1631.04,
+    "end": 1633.04,
+    "text": " If you're one of these listening."
+  },
+  {
+    "start": 1633.04,
+    "end": 1636.04,
+    "text": " Wow."
+  },
+  {
+    "start": 1636.04,
+    "end": 1638.04,
+    "text": " And so scientists found them."
+  },
+  {
+    "start": 1638.04,
+    "end": 1640.04,
+    "text": " And they found them over a number of decades."
+  },
+  {
+    "start": 1640.04,
+    "end": 1641.04,
+    "text": " They've observed this."
+  },
+  {
+    "start": 1641.04,
+    "end": 1642.04,
+    "text": " They've got these mollusks."
+  },
+  {
+    "start": 1642.04,
+    "end": 1643.04,
+    "text": " They're these little creatures."
+  },
+  {
+    "start": 1643.04,
+    "end": 1646.04,
+    "text": " They're called sea butterflies or sea angels sometimes."
+  },
+  {
+    "start": 1646.04,
+    "end": 1648.04,
+    "text": " They're quite sweet little things."
+  },
+  {
+    "start": 1648.04,
+    "end": 1650.04,
+    "text": " And they're clamped on their backs like a backpack."
+  },
+  {
+    "start": 1650.04,
+    "end": 1651.04,
+    "text": " And they're being held in position."
+  },
+  {
+    "start": 1651.04,
+    "end": 1657.04,
+    "text": " The amphipod is spending two pairs of legs just holding its backpack on."
+  },
+  {
+    "start": 1657.04,
+    "end": 1660.04,
+    "text": " So it's a big expenditure of energy to keep this thing on you."
+  },
+  {
+    "start": 1660.04,
+    "end": 1665.04,
+    "text": " And it turns out that these little mollusks are eating chemicals."
+  },
+  {
+    "start": 1665.04,
+    "end": 1669.04,
+    "text": " Or they have chemicals inside them which taste horrible to fish."
+  },
+  {
+    "start": 1669.04,
+    "end": 1672.04,
+    "text": " And so the fish will approach an amphipod."
+  },
+  {
+    "start": 1672.04,
+    "end": 1677.04,
+    "text": " And if it's got a snail backpack on, it will say, no, I know that tastes disgusting."
+  },
+  {
+    "start": 1677.04,
+    "end": 1678.04,
+    "text": " I will not eat it."
+  },
+  {
+    "start": 1678.04,
+    "end": 1679.04,
+    "text": " And they swim away."
+  },
+  {
+    "start": 1679.04,
+    "end": 1680.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 1680.04,
+    "end": 1681.04,
+    "text": " And the amphipods are vives."
+  },
+  {
+    "start": 1681.04,
+    "end": 1685.04,
+    "text": " And it's so bad for the little snails because usually when there's a partnership like that,"
+  },
+  {
+    "start": 1685.04,
+    "end": 1687.04,
+    "text": " usually they both slightly benefit."
+  },
+  {
+    "start": 1687.04,
+    "end": 1689.04,
+    "text": " In this case, the snails actually trapped."
+  },
+  {
+    "start": 1689.04,
+    "end": 1692.04,
+    "text": " And it starves while it's there, unfortunately."
+  },
+  {
+    "start": 1692.04,
+    "end": 1694.04,
+    "text": " And it starves to death even."
+  },
+  {
+    "start": 1694.04,
+    "end": 1695.04,
+    "text": " So yeah."
+  },
+  {
+    "start": 1695.04,
+    "end": 1697.04,
+    "text": " Yeah, it's not all fun and games, Andy."
+  },
+  {
+    "start": 1697.04,
+    "end": 1699.04,
+    "text": " That's the one."
+  },
+  {
+    "start": 1699.04,
+    "end": 1701.04,
+    "text": " Those guys sea angels."
+  },
+  {
+    "start": 1701.04,
+    "end": 1703.04,
+    "text": " They are quite cute little animals, aren't they?"
+  },
+  {
+    "start": 1703.04,
+    "end": 1706.04,
+    "text": " They get the name because their shape resembles a snow angel."
+  },
+  {
+    "start": 1706.04,
+    "end": 1708.04,
+    "text": " You know, when you do that in the snow, that's really nice."
+  },
+  {
+    "start": 1708.04,
+    "end": 1714.04,
+    "text": " And when they find, when two sea angels find each other and they want to have little baby sea angels,"
+  },
+  {
+    "start": 1714.04,
+    "end": 1722.04,
+    "text": " they stab each other with suckers to stick together, leaving scars on their bodies."
+  },
+  {
+    "start": 1722.04,
+    "end": 1727.04,
+    "text": " So you can tell how many sexual partners a sea angel has had by the number of physical scars on their body,"
+  },
+  {
+    "start": 1727.04,
+    "end": 1731.04,
+    "text": " not just the mental scars that we laugh."
+  },
+  {
+    "start": 1731.04,
+    "end": 1736.04,
+    "text": " So slouch aiming in their world is probably rife, I would imagine."
+  },
+  {
+    "start": 1736.04,
+    "end": 1739.04,
+    "text": " Maybe."
+  },
+  {
+    "start": 1739.04,
+    "end": 1741.04,
+    "text": " You can see how promiscuous someone is."
+  },
+  {
+    "start": 1741.04,
+    "end": 1748.04,
+    "text": " I bet they have real feminist issues with that in the cross-station world."
+  },
+  {
+    "start": 1748.04,
+    "end": 1754.04,
+    "text": " I don't know if we've mentioned before that they're not the only undersea creatures to create backpacks for themselves."
+  },
+  {
+    "start": 1754.04,
+    "end": 1760.04,
+    "text": " So sponge crabs are called that because they wear sponges."
+  },
+  {
+    "start": 1760.04,
+    "end": 1762.04,
+    "text": " They wear sea sponges."
+  },
+  {
+    "start": 1762.04,
+    "end": 1769.04,
+    "text": " And it's for a similar reason for evading predators, so they wear them as hats, but they look so cool."
+  },
+  {
+    "start": 1769.04,
+    "end": 1773.04,
+    "text": " What's on their back and shoulders is hat come rucksack."
+  },
+  {
+    "start": 1773.04,
+    "end": 1776.04,
+    "text": " And it's a disguise, but also sponges release chemicals."
+  },
+  {
+    "start": 1776.04,
+    "end": 1781.04,
+    "text": " And so it's often chemicals that protect them from predators because they taste gross or they poison them."
+  },
+  {
+    "start": 1781.04,
+    "end": 1787.04,
+    "text": " And if you look them up, they look so weird because they often replace their hats if they find a better one."
+  },
+  {
+    "start": 1787.04,
+    "end": 1794.04,
+    "text": " If there's like a more colorful, fun-looking sponge, then they will take that back back off and put the new one on."
+  },
+  {
+    "start": 1794.04,
+    "end": 1798.04,
+    "text": " They'll take it back, they'll get a refund, they'll put the new sponge on."
+  },
+  {
+    "start": 1798.04,
+    "end": 1805.04,
+    "text": " Yeah, and it's mainly to find the best fitting sponge, so they need to find a sponge that exactly fits the shape of their back."
+  },
+  {
+    "start": 1805.04,
+    "end": 1806.04,
+    "text": " You do, actually."
+  },
+  {
+    "start": 1806.04,
+    "end": 1809.04,
+    "text": " They're so creative with their defense mechanisms."
+  },
+  {
+    "start": 1809.04,
+    "end": 1813.04,
+    "text": " When you read about it, I was reading one, this one's pretty exciting."
+  },
+  {
+    "start": 1813.04,
+    "end": 1823.04,
+    "text": " This is a crustacean called the ostracod, and the ostracod does this thing where it doesn't use its defense mechanism until it's actually in the mouth of the predator."
+  },
+  {
+    "start": 1823.04,
+    "end": 1824.04,
+    "text": " That's trying to kill it."
+  },
+  {
+    "start": 1824.04,
+    "end": 1826.04,
+    "text": " Yeah, so wait for it."
+  },
+  {
+    "start": 1826.04,
+    "end": 1829.04,
+    "text": " I'm really not sure about this."
+  },
+  {
+    "start": 1829.04,
+    "end": 1831.04,
+    "text": " Wait for it."
+  },
+  {
+    "start": 1831.04,
+    "end": 1837.04,
+    "text": " So what happens is there's a cardinal fish which eat these particular crustaceans, the ostracod."
+  },
+  {
+    "start": 1837.04,
+    "end": 1841.04,
+    "text": " So they eat them and they're in the mouth and they close up the mouth."
+  },
+  {
+    "start": 1841.04,
+    "end": 1843.04,
+    "text": " They realize that they've been eaten."
+  },
+  {
+    "start": 1843.04,
+    "end": 1849.04,
+    "text": " And so what these little crustaceans do is they shake up like crazy and they go by a luminescent."
+  },
+  {
+    "start": 1849.04,
+    "end": 1853.04,
+    "text": " Now, the cardinal fish is transparent."
+  },
+  {
+    "start": 1853.04,
+    "end": 1859.04,
+    "text": " So the one thing you don't want when you're in the deep is to be spotted by other predators by this huge light."
+  },
+  {
+    "start": 1859.04,
+    "end": 1867.04,
+    "text": " So suddenly from inside their body they were glowing orb and they immediately vomit up these little crustaceans who then swim away."
+  },
+  {
+    "start": 1867.04,
+    "end": 1872.04,
+    "text": " And the cardinal fish swims the hell out of there because he doesn't want to be near any of the other predators."
+  },
+  {
+    "start": 1872.04,
+    "end": 1873.04,
+    "text": " How amazing is that?"
+  },
+  {
+    "start": 1873.04,
+    "end": 1874.04,
+    "text": " That's so good."
+  },
+  {
+    "start": 1874.04,
+    "end": 1875.04,
+    "text": " That's amazing."
+  },
+  {
+    "start": 1875.04,
+    "end": 1876.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 1876.04,
+    "end": 1880.04,
+    "text": " It's only just this light bulbs lit up in them saying I'm food."
+  },
+  {
+    "start": 1880.04,
+    "end": 1885.04,
+    "text": " It would be so cool to see your food after you're eating it inside you."
+  },
+  {
+    "start": 1885.04,
+    "end": 1888.04,
+    "text": " But not if it's then going to attract something to make you food."
+  },
+  {
+    "start": 1888.04,
+    "end": 1890.04,
+    "text": " No, no, no, no."
+  },
+  {
+    "start": 1890.04,
+    "end": 1892.04,
+    "text": " But no, yeah, it would be cool."
+  },
+  {
+    "start": 1892.04,
+    "end": 1897.04,
+    "text": " So salmon eat crustaceans."
+  },
+  {
+    "start": 1897.04,
+    "end": 1900.04,
+    "text": " And it's because of that that they are the color they are."
+  },
+  {
+    "start": 1900.04,
+    "end": 1902.04,
+    "text": " So salmon, wild salmon, a pink."
+  },
+  {
+    "start": 1902.04,
+    "end": 1906.04,
+    "text": " And they are lots of different shades of pink and that's all about the crustaceans they eat."
+  },
+  {
+    "start": 1906.04,
+    "end": 1907.04,
+    "text": " It's the same with flamingos."
+  },
+  {
+    "start": 1907.04,
+    "end": 1914.04,
+    "text": " So some salmon will eat like lots and lots of a certain type of prawn, let's say, or a bit of krill."
+  },
+  {
+    "start": 1914.04,
+    "end": 1916.04,
+    "text": " And that will make them very pink."
+  },
+  {
+    "start": 1916.04,
+    "end": 1922.04,
+    "text": " So I think the Alaskan Sokai salmon is the reddest of all."
+  },
+  {
+    "start": 1922.04,
+    "end": 1924.04,
+    "text": " Because it eats slightly different stuff."
+  },
+  {
+    "start": 1924.04,
+    "end": 1926.04,
+    "text": " But farm salmon doesn't eat any of this."
+  },
+  {
+    "start": 1926.04,
+    "end": 1934.04,
+    "text": " Because they're just fed like farming pellets of apparently ground up feathers and soybeans and chicken fat and weird stuff like that."
+  },
+  {
+    "start": 1934.04,
+    "end": 1937.04,
+    "text": " But obviously people are used to seeing salmon being pink."
+  },
+  {
+    "start": 1937.04,
+    "end": 1940.04,
+    "text": " So farm salmon that you buy would normally be gray."
+  },
+  {
+    "start": 1940.04,
+    "end": 1945.04,
+    "text": " But the farmers add pigment to their food to make them the right color that people expect them to be."
+  },
+  {
+    "start": 1945.04,
+    "end": 1951.04,
+    "text": " And they have a thing called a salmon fan, which was invented by a farm's youthful company."
+  },
+  {
+    "start": 1951.04,
+    "end": 1954.04,
+    "text": " And it's basically the, what's the paint?"
+  },
+  {
+    "start": 1954.04,
+    "end": 1957.04,
+    "text": " It's like the paint range, but for salmon color."
+  },
+  {
+    "start": 1957.04,
+    "end": 1964.04,
+    "text": " So if you're salmon farming, you go to the salmon fan and you pick the exact shade of pink that you want your salmon to be."
+  },
+  {
+    "start": 1964.04,
+    "end": 1967.04,
+    "text": " And then they can send you the matching food for it."
+  },
+  {
+    "start": 1967.04,
+    "end": 1968.04,
+    "text": " That's not good."
+  },
+  {
+    "start": 1968.04,
+    "end": 1969.04,
+    "text": " It is amazing."
+  },
+  {
+    "start": 1969.04,
+    "end": 1971.04,
+    "text": " You think everyone would just go for the same color, wouldn't they?"
+  },
+  {
+    "start": 1971.04,
+    "end": 1979.04,
+    "text": " But it depends if you want, if you want to be selling, you know, you're a lask and expensive salmon or some cheaper, more mass produced salmon."
+  },
+  {
+    "start": 1979.04,
+    "end": 1980.04,
+    "text": " That is amazing."
+  },
+  {
+    "start": 1980.04,
+    "end": 1986.04,
+    "text": " But apparently if salmon goes beyond a certain lightness, people just won't eat it at all regardless of what type it is."
+  },
+  {
+    "start": 1986.04,
+    "end": 1987.04,
+    "text": " Because there it is."
+  },
+  {
+    "start": 1987.04,
+    "end": 1995.04,
+    "text": " If any food that I expect to be a different color is gray, I will sniff it at least."
+  },
+  {
+    "start": 1995.04,
+    "end": 1998.04,
+    "text": " Just on color and crustaceans."
+  },
+  {
+    "start": 1998.04,
+    "end": 2000.04,
+    "text": " Do you know that the mentis shrimp?"
+  },
+  {
+    "start": 2000.04,
+    "end": 2003.04,
+    "text": " Do you know how many colors a mentis shrimp can see?"
+  },
+  {
+    "start": 2003.04,
+    "end": 2006.04,
+    "text": " Oh, so how many do you reckon we can see?"
+  },
+  {
+    "start": 2006.04,
+    "end": 2008.04,
+    "text": " Oh, lots."
+  },
+  {
+    "start": 2008.04,
+    "end": 2009.04,
+    "text": " 10,000."
+  },
+  {
+    "start": 2009.04,
+    "end": 2010.04,
+    "text": " 10,000."
+  },
+  {
+    "start": 2010.04,
+    "end": 2011.04,
+    "text": " Okay."
+  },
+  {
+    "start": 2011.04,
+    "end": 2014.04,
+    "text": " The mentis shrimp, I mean, that was just a complete guess."
+  },
+  {
+    "start": 2014.04,
+    "end": 2017.04,
+    "text": " Yeah, I'd like to say more than that."
+  },
+  {
+    "start": 2017.04,
+    "end": 2019.04,
+    "text": " I'll say 11,000."
+  },
+  {
+    "start": 2019.04,
+    "end": 2022.04,
+    "text": " Okay, Anna, do you want to get in on this?"
+  },
+  {
+    "start": 2022.04,
+    "end": 2024.04,
+    "text": " I couldn't name all of them by the way."
+  },
+  {
+    "start": 2024.04,
+    "end": 2026.04,
+    "text": " I don't want to be put on the spot later."
+  },
+  {
+    "start": 2026.04,
+    "end": 2030.04,
+    "text": " Richard of your gave battle in vain, 7 in the rainbow, I think at 7."
+  },
+  {
+    "start": 2030.04,
+    "end": 2033.04,
+    "text": " Okay, 7, 10,000, 11,000."
+  },
+  {
+    "start": 2033.04,
+    "end": 2039.04,
+    "text": " So the mentis shrimp is able to perceive 100 septillion different types of color."
+  },
+  {
+    "start": 2039.04,
+    "end": 2042.04,
+    "text": " That's 10 to the power 26."
+  },
+  {
+    "start": 2042.04,
+    "end": 2043.04,
+    "text": " Wow."
+  },
+  {
+    "start": 2043.04,
+    "end": 2045.04,
+    "text": " I can name every single one of them."
+  },
+  {
+    "start": 2045.04,
+    "end": 2052.04,
+    "text": " Just much of going to be in queue with that guy."
+  },
+  {
+    "start": 2052.04,
+    "end": 2054.04,
+    "text": " Pretty crazy though."
+  },
+  {
+    "start": 2054.04,
+    "end": 2056.04,
+    "text": " Oh, the nest there."
+  },
+  {
+    "start": 2056.04,
+    "end": 2060.04,
+    "text": " You didn't say how many we can see."
+  },
+  {
+    "start": 2060.04,
+    "end": 2066.04,
+    "text": " You know, that in fact means nothing to us."
+  },
+  {
+    "start": 2066.04,
+    "end": 2068.04,
+    "text": " That's very cool."
+  },
+  {
+    "start": 2068.04,
+    "end": 2073.04,
+    "text": " There's a kind of terrapod, which is the same as this little animal called a filefish,"
+  },
+  {
+    "start": 2073.04,
+    "end": 2078.04,
+    "text": " and they eat coral and live in coral, and they get the smell of the coral from the coral."
+  },
+  {
+    "start": 2078.04,
+    "end": 2083.04,
+    "text": " And it stops predators from being able to find them because they smell like their house."
+  },
+  {
+    "start": 2083.04,
+    "end": 2085.04,
+    "text": " If you know anything, that's good."
+  },
+  {
+    "start": 2085.04,
+    "end": 2092.04,
+    "text": " It's like if you ate nothing but onions, and you lived in a bag of onions."
+  },
+  {
+    "start": 2092.04,
+    "end": 2096.04,
+    "text": " I would question the life choices that have brought me to this point."
+  },
+  {
+    "start": 2096.04,
+    "end": 2101.04,
+    "text": " Also, are you going, \"The onions haven't noticed me yet?\""
+  },
+  {
+    "start": 2101.04,
+    "end": 2102.04,
+    "text": " Who's spotting you there?"
+  },
+  {
+    "start": 2102.04,
+    "end": 2104.04,
+    "text": " No, it's the people who want to eat you."
+  },
+  {
+    "start": 2104.04,
+    "end": 2106.04,
+    "text": " It's not that the coral wants to eat them, I don't think."
+  },
+  {
+    "start": 2106.04,
+    "end": 2111.04,
+    "text": " But if you went to France, it would be a disaster because they'd love to eat you."
+  },
+  {
+    "start": 2111.04,
+    "end": 2117.04,
+    "text": " I found the most bizarre thing about crustaceans, a certain type of crustacean, which is a crab."
+  },
+  {
+    "start": 2117.04,
+    "end": 2120.04,
+    "text": " I found out a thing about crabs."
+  },
+  {
+    "start": 2120.04,
+    "end": 2122.04,
+    "text": " I found that."
+  },
+  {
+    "start": 2122.04,
+    "end": 2128.04,
+    "text": " So, Sartre, Jean-Paul Sartre, I'm sure you've all read his complete works."
+  },
+  {
+    "start": 2128.04,
+    "end": 2133.04,
+    "text": " He took mescaline in 1929, so mescaline like a hallucinogenic drug."
+  },
+  {
+    "start": 2133.04,
+    "end": 2140.04,
+    "text": " And he was, as a result of that, followed around by a team of crabs for years."
+  },
+  {
+    "start": 2140.04,
+    "end": 2143.04,
+    "text": " The French have very strict rules about mescaline, don't they?"
+  },
+  {
+    "start": 2143.04,
+    "end": 2148.04,
+    "text": " They have a special crab police division, which they set to observing."
+  },
+  {
+    "start": 2148.04,
+    "end": 2149.04,
+    "text": " They do."
+  },
+  {
+    "start": 2149.04,
+    "end": 2153.04,
+    "text": " So, are you saying, which I think you are, that he thought he was being followed by crabs?"
+  },
+  {
+    "start": 2153.04,
+    "end": 2155.04,
+    "text": " He said, he gave an interview."
+  },
+  {
+    "start": 2155.04,
+    "end": 2158.04,
+    "text": " I can't remember who he first gave the interview to, but he said he took mescaline."
+  },
+  {
+    "start": 2158.04,
+    "end": 2161.04,
+    "text": " And he suddenly realized that there were just crabs all around him."
+  },
+  {
+    "start": 2161.04,
+    "end": 2163.04,
+    "text": " And then the interviewer said, \"What loads of them?\""
+  },
+  {
+    "start": 2163.04,
+    "end": 2166.04,
+    "text": " He said, \"Yeah, well, like four or five.\""
+  },
+  {
+    "start": 2166.04,
+    "end": 2169.04,
+    "text": " So, he just has four or five crabs, and they followed him everywhere."
+  },
+  {
+    "start": 2169.04,
+    "end": 2172.04,
+    "text": " And he would say, when he was writing, sometimes he'd be able to get rid of them."
+  },
+  {
+    "start": 2172.04,
+    "end": 2175.04,
+    "text": " But as soon as he got up to go anywhere, they'd follow him."
+  },
+  {
+    "start": 2175.04,
+    "end": 2177.04,
+    "text": " So, he would go to university."
+  },
+  {
+    "start": 2177.04,
+    "end": 2182.04,
+    "text": " He would give lectures, get up in the morning, and he'd walk, and they'd walk with him."
+  },
+  {
+    "start": 2182.04,
+    "end": 2183.04,
+    "text": " And this was for years."
+  },
+  {
+    "start": 2183.04,
+    "end": 2187.04,
+    "text": " And he said, how many seats would you like for the film, sir?"
+  },
+  {
+    "start": 2187.04,
+    "end": 2190.04,
+    "text": " Six."
+  },
+  {
+    "start": 2190.04,
+    "end": 2194.04,
+    "text": " No, they could sit on each other's laps, I think."
+  },
+  {
+    "start": 2194.04,
+    "end": 2196.04,
+    "text": " But yeah, he started talking to them."
+  },
+  {
+    "start": 2196.04,
+    "end": 2199.04,
+    "text": " And he got really used to them. He would wake up every morning and say,"
+  },
+  {
+    "start": 2199.04,
+    "end": 2202.04,
+    "text": " \"Good morning, my little ones. How did you sleep?\""
+  },
+  {
+    "start": 2202.04,
+    "end": 2204.04,
+    "text": " And..."
+  },
+  {
+    "start": 2204.04,
+    "end": 2205.04,
+    "text": " Did they talk back?"
+  },
+  {
+    "start": 2205.04,
+    "end": 2207.04,
+    "text": " Yeah, they chapsed it away."
+  },
+  {
+    "start": 2207.04,
+    "end": 2210.04,
+    "text": " But then, when he went to class, he knew that it had to be quiet."
+  },
+  {
+    "start": 2210.04,
+    "end": 2213.04,
+    "text": " So, he said, he used to tell them to be quiet in lectures."
+  },
+  {
+    "start": 2213.04,
+    "end": 2214.04,
+    "text": " So, he could work."
+  },
+  {
+    "start": 2214.04,
+    "end": 2215.04,
+    "text": " And they would be."
+  },
+  {
+    "start": 2215.04,
+    "end": 2218.04,
+    "text": " But the lecture ended, and then they start chatting away again."
+  },
+  {
+    "start": 2218.04,
+    "end": 2219.04,
+    "text": " Wow."
+  },
+  {
+    "start": 2219.04,
+    "end": 2221.04,
+    "text": " And yeah, happened for years."
+  },
+  {
+    "start": 2221.04,
+    "end": 2223.04,
+    "text": " He had some therapy in the end."
+  },
+  {
+    "start": 2223.04,
+    "end": 2226.04,
+    "text": " They went away."
+  },
+  {
+    "start": 2226.04,
+    "end": 2230.04,
+    "text": " Okay, it is time for our final fact of the show."
+  },
+  {
+    "start": 2230.04,
+    "end": 2231.04,
+    "text": " And that is my fact."
+  },
+  {
+    "start": 2231.04,
+    "end": 2239.04,
+    "text": " My fact this week is that there is a rock band made up entirely of NASA astronauts called MaxQ."
+  },
+  {
+    "start": 2239.04,
+    "end": 2247.04,
+    "text": " The band has a constantly rotating lineup as they can't be sure that all members will be on Earth at the same time."
+  },
+  {
+    "start": 2247.04,
+    "end": 2249.04,
+    "text": " There's just so many of them."
+  },
+  {
+    "start": 2249.04,
+    "end": 2252.04,
+    "text": " And it does extend beyond going up into space."
+  },
+  {
+    "start": 2252.04,
+    "end": 2254.04,
+    "text": " Sometimes they're in training to go into space."
+  },
+  {
+    "start": 2254.04,
+    "end": 2256.04,
+    "text": " Sometimes they're retired."
+  },
+  {
+    "start": 2256.04,
+    "end": 2259.04,
+    "text": " Sometimes just doing other busy."
+  },
+  {
+    "start": 2259.04,
+    "end": 2263.04,
+    "text": " But yeah, so this is a fact that I stumbled on."
+  },
+  {
+    "start": 2263.04,
+    "end": 2267.04,
+    "text": " In fact, it was while we were researching the book this year."
+  },
+  {
+    "start": 2267.04,
+    "end": 2270.04,
+    "text": " Because we have a fact about one of its members, one of MaxQ's members."
+  },
+  {
+    "start": 2270.04,
+    "end": 2272.04,
+    "text": " And it's Andrew Foistel."
+  },
+  {
+    "start": 2272.04,
+    "end": 2275.04,
+    "text": " And he was the captain of the International Space Station this year."
+  },
+  {
+    "start": 2275.04,
+    "end": 2277.04,
+    "text": " And he's in the band."
+  },
+  {
+    "start": 2277.04,
+    "end": 2286.04,
+    "text": " And the fact about him that's in the book is that NASA sent him up to space despite the fact that he has a fear of heights."
+  },
+  {
+    "start": 2286.04,
+    "end": 2290.04,
+    "text": " But he admitted that it's fine once he gets to space, the fear of heights."
+  },
+  {
+    "start": 2290.04,
+    "end": 2291.04,
+    "text": " It's the way up."
+  },
+  {
+    "start": 2291.04,
+    "end": 2293.04,
+    "text": " And even ladders, he's just like, whoa."
+  },
+  {
+    "start": 2293.04,
+    "end": 2297.04,
+    "text": " When you say NASA sent him up despite the fact, it sounds like they sort of forced him to go up."
+  },
+  {
+    "start": 2297.04,
+    "end": 2300.04,
+    "text": " He was saying, no, please, really, I just want to be in the lab."
+  },
+  {
+    "start": 2300.04,
+    "end": 2304.04,
+    "text": " Just keep going up the ladder. It'll be fine eventually."
+  },
+  {
+    "start": 2304.04,
+    "end": 2309.04,
+    "text": " That's so weird. Because if I, you know, I don't really like spiders."
+  },
+  {
+    "start": 2309.04,
+    "end": 2312.04,
+    "text": " But if you presented me with a spider the size of a house, I would like it even less."
+  },
+  {
+    "start": 2312.04,
+    "end": 2314.04,
+    "text": " I wouldn't make my peace with it."
+  },
+  {
+    "start": 2314.04,
+    "end": 2315.04,
+    "text": " Right."
+  },
+  {
+    "start": 2315.04,
+    "end": 2318.04,
+    "text": " But if you were in space, it would look so tiny, you wouldn't even see it."
+  },
+  {
+    "start": 2318.04,
+    "end": 2319.04,
+    "text": " And then that's..."
+  },
+  {
+    "start": 2319.04,
+    "end": 2321.04,
+    "text": " That's not the same logic, is it?"
+  },
+  {
+    "start": 2321.04,
+    "end": 2322.04,
+    "text": " No, I've..."
+  },
+  {
+    "start": 2322.04,
+    "end": 2325.04,
+    "text": " He brought work on a bad analogy to start with."
+  },
+  {
+    "start": 2325.04,
+    "end": 2328.04,
+    "text": " So people play music in space."
+  },
+  {
+    "start": 2328.04,
+    "end": 2330.04,
+    "text": " Sometimes these guys are mostly on Earth, aren't they?"
+  },
+  {
+    "start": 2330.04,
+    "end": 2331.04,
+    "text": " These guys are on Earth."
+  },
+  {
+    "start": 2331.04,
+    "end": 2333.04,
+    "text": " Yeah, yeah, this is, yeah, they're an Earth band."
+  },
+  {
+    "start": 2333.04,
+    "end": 2337.04,
+    "text": " But people do play music in space. Chris Hadfield famously did it."
+  },
+  {
+    "start": 2337.04,
+    "end": 2341.04,
+    "text": " There was an astronaut called Ellen Achoa, who plays the flute in space."
+  },
+  {
+    "start": 2341.04,
+    "end": 2344.04,
+    "text": " But she has to keep her feet in the foot loops."
+  },
+  {
+    "start": 2344.04,
+    "end": 2348.04,
+    "text": " Because even the tiny amount of blowing on the flute will move her around."
+  },
+  {
+    "start": 2348.04,
+    "end": 2349.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 2349.04,
+    "end": 2350.04,
+    "text": " That is amazing, isn't it?"
+  },
+  {
+    "start": 2350.04,
+    "end": 2354.04,
+    "text": " What a great way to sort of exit a conversation, just..."
+  },
+  {
+    "start": 2354.04,
+    "end": 2357.04,
+    "text": " Well, that'd be awesome."
+  },
+  {
+    "start": 2357.04,
+    "end": 2359.04,
+    "text": " I've fluted my way out of that."
+  },
+  {
+    "start": 2359.04,
+    "end": 2360.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 2360.04,
+    "end": 2361.04,
+    "text": " Take that."
+  },
+  {
+    "start": 2361.04,
+    "end": 2365.04,
+    "text": " You know, that's not what a flute looks like."
+  },
+  {
+    "start": 2365.04,
+    "end": 2367.04,
+    "text": " What's a flute, look back?"
+  },
+  {
+    "start": 2367.04,
+    "end": 2368.04,
+    "text": " Did you do the clarinet?"
+  },
+  {
+    "start": 2368.04,
+    "end": 2370.04,
+    "text": " Oh, you did the flute sideways."
+  },
+  {
+    "start": 2370.04,
+    "end": 2371.04,
+    "text": " Oh, you did the flute sideways."
+  },
+  {
+    "start": 2371.04,
+    "end": 2372.04,
+    "text": " I'm going to float into you."
+  },
+  {
+    "start": 2372.04,
+    "end": 2375.04,
+    "text": " Worst getaway ever."
+  },
+  {
+    "start": 2375.04,
+    "end": 2379.04,
+    "text": " Do you know, they've had backpipes on the International Space Station."
+  },
+  {
+    "start": 2379.04,
+    "end": 2380.04,
+    "text": " Wow."
+  },
+  {
+    "start": 2380.04,
+    "end": 2382.04,
+    "text": " So there's a lot of instruments that have been there."
+  },
+  {
+    "start": 2382.04,
+    "end": 2383.04,
+    "text": " I cannot think of something..."
+  },
+  {
+    "start": 2383.04,
+    "end": 2385.04,
+    "text": " You're in a very confined space."
+  },
+  {
+    "start": 2385.04,
+    "end": 2386.04,
+    "text": " Oh."
+  },
+  {
+    "start": 2386.04,
+    "end": 2389.04,
+    "text": " I cannot imagine that being good for everyone's mental health."
+  },
+  {
+    "start": 2389.04,
+    "end": 2390.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 2390.04,
+    "end": 2392.04,
+    "text": " Do you want to hear something even worse?"
+  },
+  {
+    "start": 2392.04,
+    "end": 2395.04,
+    "text": " Ages ago, instead of, you know, an instrument being played,"
+  },
+  {
+    "start": 2395.04,
+    "end": 2397.04,
+    "text": " in order to get the astronauts to calm down,"
+  },
+  {
+    "start": 2397.04,
+    "end": 2400.04,
+    "text": " they would play in the International Space Station just to calm them."
+  },
+  {
+    "start": 2400.04,
+    "end": 2402.04,
+    "text": " You know, elevator music?"
+  },
+  {
+    "start": 2402.04,
+    "end": 2404.04,
+    "text": " That used to just be played."
+  },
+  {
+    "start": 2404.04,
+    "end": 2405.04,
+    "text": " Wow."
+  },
+  {
+    "start": 2405.04,
+    "end": 2406.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 2406.04,
+    "end": 2408.04,
+    "text": " Can you imagine being stuck in an elevator?"
+  },
+  {
+    "start": 2408.04,
+    "end": 2409.04,
+    "text": " That's what it would have been like."
+  },
+  {
+    "start": 2409.04,
+    "end": 2411.04,
+    "text": " They still play the music sometimes."
+  },
+  {
+    "start": 2411.04,
+    "end": 2417.04,
+    "text": " So the music that wakes them up in the morning is picked by the capsule communicator,"
+  },
+  {
+    "start": 2417.04,
+    "end": 2420.04,
+    "text": " also known as the Capcom, who is an astronaut who's on the ground."
+  },
+  {
+    "start": 2420.04,
+    "end": 2423.04,
+    "text": " So they don't have responsibility for the music that they pick."
+  },
+  {
+    "start": 2423.04,
+    "end": 2424.04,
+    "text": " Wow."
+  },
+  {
+    "start": 2424.04,
+    "end": 2425.04,
+    "text": " What?"
+  },
+  {
+    "start": 2425.04,
+    "end": 2426.04,
+    "text": " To wake people up."
+  },
+  {
+    "start": 2426.04,
+    "end": 2427.04,
+    "text": " Surely."
+  },
+  {
+    "start": 2427.04,
+    "end": 2428.04,
+    "text": " I think they do pick things they like."
+  },
+  {
+    "start": 2428.04,
+    "end": 2429.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 2429.04,
+    "end": 2430.04,
+    "text": " And they do."
+  },
+  {
+    "start": 2430.04,
+    "end": 2432.04,
+    "text": " They ask, you know, if it's going to be a poor McCartney song,"
+  },
+  {
+    "start": 2432.04,
+    "end": 2434.04,
+    "text": " they might ask poor McCartney to record a, you know,"
+  },
+  {
+    "start": 2434.04,
+    "end": 2435.04,
+    "text": " \"Hello, wake up. You're in space.\""
+  },
+  {
+    "start": 2435.04,
+    "end": 2437.04,
+    "text": " And then they wake up and..."
+  },
+  {
+    "start": 2437.04,
+    "end": 2440.04,
+    "text": " That was good."
+  },
+  {
+    "start": 2440.04,
+    "end": 2441.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 2441.04,
+    "end": 2445.04,
+    "text": " And it would be songs sometimes relevant to certain missions."
+  },
+  {
+    "start": 2445.04,
+    "end": 2448.04,
+    "text": " So when Chris Fatt had fielded, had to do his first spacewalk."
+  },
+  {
+    "start": 2448.04,
+    "end": 2450.04,
+    "text": " He was the first Canadian, I believe, to do that."
+  },
+  {
+    "start": 2450.04,
+    "end": 2452.04,
+    "text": " His wife was able to pick that morning's song."
+  },
+  {
+    "start": 2452.04,
+    "end": 2454.04,
+    "text": " And she picked a song that was dear to him."
+  },
+  {
+    "start": 2454.04,
+    "end": 2457.04,
+    "text": " And the lyrics suggested going out into the frontiers."
+  },
+  {
+    "start": 2457.04,
+    "end": 2459.04,
+    "text": " And so it's quite a cool tradition."
+  },
+  {
+    "start": 2459.04,
+    "end": 2460.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 2460.04,
+    "end": 2462.04,
+    "text": " Voice still actually started on another band while he was in space."
+  },
+  {
+    "start": 2462.04,
+    "end": 2464.04,
+    "text": " So Max Q, he had on Earth."
+  },
+  {
+    "start": 2464.04,
+    "end": 2466.04,
+    "text": " And up in space, he had Astro Hawaii."
+  },
+  {
+    "start": 2466.04,
+    "end": 2468.04,
+    "text": " That was the name of the band."
+  },
+  {
+    "start": 2468.04,
+    "end": 2472.04,
+    "text": " And it had five of the ISS' astronauts, as well as cosmonauts."
+  },
+  {
+    "start": 2472.04,
+    "end": 2475.04,
+    "text": " And so the instruments included two guitars, two flutes,"
+  },
+  {
+    "start": 2475.04,
+    "end": 2478.04,
+    "text": " which I now know what that is."
+  },
+  {
+    "start": 2478.04,
+    "end": 2483.04,
+    "text": " And an improvised drum, which was played using the metallic unit"
+  },
+  {
+    "start": 2483.04,
+    "end": 2486.04,
+    "text": " that usually stores Russian cosmonauts' feces."
+  },
+  {
+    "start": 2486.04,
+    "end": 2487.04,
+    "text": " So that was there."
+  },
+  {
+    "start": 2487.04,
+    "end": 2488.04,
+    "text": " Nice."
+  },
+  {
+    "start": 2488.04,
+    "end": 2489.04,
+    "text": " That was their drum."
+  },
+  {
+    "start": 2489.04,
+    "end": 2490.04,
+    "text": " They've had so many, oh, in space."
+  },
+  {
+    "start": 2490.04,
+    "end": 2492.04,
+    "text": " They're all kind of music lovers, aren't they?"
+  },
+  {
+    "start": 2492.04,
+    "end": 2493.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 2493.04,
+    "end": 2495.04,
+    "text": " Even from, like, really early flight, so in 1965,"
+  },
+  {
+    "start": 2495.04,
+    "end": 2498.04,
+    "text": " it was a classic, you know, back before NASA started clamping down"
+  },
+  {
+    "start": 2498.04,
+    "end": 2500.04,
+    "text": " on smuggling stuff into space."
+  },
+  {
+    "start": 2500.04,
+    "end": 2502.04,
+    "text": " Everyone just took loads of shit up there."
+  },
+  {
+    "start": 2502.04,
+    "end": 2506.04,
+    "text": " And Walter Shira, Jr., and Thomas Stafford,"
+  },
+  {
+    "start": 2506.04,
+    "end": 2508.04,
+    "text": " snuck bells and a harmonica up there."
+  },
+  {
+    "start": 2508.04,
+    "end": 2510.04,
+    "text": " And they'd practice what they were going to do before."
+  },
+  {
+    "start": 2510.04,
+    "end": 2512.04,
+    "text": " So they'd met together for secret rehearsals."
+  },
+  {
+    "start": 2512.04,
+    "end": 2515.04,
+    "text": " And they thought, well, we'll prank ground control on the way down."
+  },
+  {
+    "start": 2515.04,
+    "end": 2517.04,
+    "text": " And tell them that we can hear something weird,"
+  },
+  {
+    "start": 2517.04,
+    "end": 2519.04,
+    "text": " and then crack him to song."
+  },
+  {
+    "start": 2519.04,
+    "end": 2521.04,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 2521.04,
+    "end": 2523.04,
+    "text": " And they did it."
+  },
+  {
+    "start": 2523.04,
+    "end": 2526.04,
+    "text": " And I just never know where they're hiding these things."
+  },
+  {
+    "start": 2526.04,
+    "end": 2530.04,
+    "text": " Well, surely some-- You can hide them harmonica very easily."
+  },
+  {
+    "start": 2530.04,
+    "end": 2531.04,
+    "text": " No, you could."
+  },
+  {
+    "start": 2531.04,
+    "end": 2535.04,
+    "text": " Is it where I think, like, every time you farted, they'd notice."
+  },
+  {
+    "start": 2535.04,
+    "end": 2538.04,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 2538.04,
+    "end": 2544.04,
+    "text": " They-- yeah, it is a big part of their culture, apparently."
+  },
+  {
+    "start": 2544.04,
+    "end": 2547.04,
+    "text": " To the point where there's an inside thing that has said"
+  },
+  {
+    "start": 2547.04,
+    "end": 2549.04,
+    "text": " that whenever astronauts are being interviewed,"
+  },
+  {
+    "start": 2549.04,
+    "end": 2551.04,
+    "text": " potential astronauts are being interviewed by NASA,"
+  },
+  {
+    "start": 2551.04,
+    "end": 2553.04,
+    "text": " one of the questions that comes up is,"
+  },
+  {
+    "start": 2553.04,
+    "end": 2555.04,
+    "text": " do you play a musical instrument?"
+  },
+  {
+    "start": 2555.04,
+    "end": 2557.04,
+    "text": " It's that much of a thing."
+  },
+  {
+    "start": 2557.04,
+    "end": 2559.04,
+    "text": " Does it affect your chances of getting in?"
+  },
+  {
+    "start": 2559.04,
+    "end": 2560.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 2560.04,
+    "end": 2562.04,
+    "text": " No, no, no."
+  },
+  {
+    "start": 2562.04,
+    "end": 2563.04,
+    "text": " I said it does."
+  },
+  {
+    "start": 2563.04,
+    "end": 2564.04,
+    "text": " It's just like, yes, the organ."
+  },
+  {
+    "start": 2564.04,
+    "end": 2566.04,
+    "text": " And I'd love one up there."
+  },
+  {
+    "start": 2566.04,
+    "end": 2567.04,
+    "text": " Exactly."
+  },
+  {
+    "start": 2567.04,
+    "end": 2570.04,
+    "text": " Well, we'll give you a call if anything opens up."
+  },
+  {
+    "start": 2570.04,
+    "end": 2571.04,
+    "text": " It's not like Buzz Alder."
+  },
+  {
+    "start": 2571.04,
+    "end": 2572.04,
+    "text": " We would have let you go on first."
+  },
+  {
+    "start": 2572.04,
+    "end": 2574.04,
+    "text": " But Neil plays the banjo."
+  },
+  {
+    "start": 2574.04,
+    "end": 2577.04,
+    "text": " He's just more qualified to step out first."
+  },
+  {
+    "start": 2577.04,
+    "end": 2581.04,
+    "text": " But it's quite a nice story about how Max Q came about"
+  },
+  {
+    "start": 2581.04,
+    "end": 2584.04,
+    "text": " to begin with, because the ban was set up"
+  },
+  {
+    "start": 2584.04,
+    "end": 2586.04,
+    "text": " after the disaster of the challenger,"
+  },
+  {
+    "start": 2586.04,
+    "end": 2588.04,
+    "text": " when the challenger rocket exploded on the way to space."
+  },
+  {
+    "start": 2588.04,
+    "end": 2592.04,
+    "text": " And actually, there was an astronaut on board"
+  },
+  {
+    "start": 2592.04,
+    "end": 2595.04,
+    "text": " who was going to be the first person to record music up in space"
+  },
+  {
+    "start": 2595.04,
+    "end": 2596.04,
+    "text": " for an album."
+  },
+  {
+    "start": 2596.04,
+    "end": 2598.04,
+    "text": " So he was on board the challenger,"
+  },
+  {
+    "start": 2598.04,
+    "end": 2600.04,
+    "text": " and he had his saxophone with him."
+  },
+  {
+    "start": 2600.04,
+    "end": 2601.04,
+    "text": " And that obviously exploded."
+  },
+  {
+    "start": 2601.04,
+    "end": 2603.04,
+    "text": " So, unfortunately, that never happened."
+  },
+  {
+    "start": 2603.04,
+    "end": 2605.04,
+    "text": " And so, what they ended up deciding to do was,"
+  },
+  {
+    "start": 2605.04,
+    "end": 2607.04,
+    "text": " why didn't they throw a big fun day to get morale up"
+  },
+  {
+    "start": 2607.04,
+    "end": 2610.04,
+    "text": " and throw a big party and they'll have acts come on stage"
+  },
+  {
+    "start": 2610.04,
+    "end": 2611.04,
+    "text": " and they'll do stuff."
+  },
+  {
+    "start": 2611.04,
+    "end": 2613.04,
+    "text": " And Max Q was formed in that moment."
+  },
+  {
+    "start": 2613.04,
+    "end": 2615.04,
+    "text": " I was looking at what some other things"
+  },
+  {
+    "start": 2615.04,
+    "end": 2616.04,
+    "text": " that astronauts do to relax."
+  },
+  {
+    "start": 2616.04,
+    "end": 2618.04,
+    "text": " So, here's one thing that they do."
+  },
+  {
+    "start": 2618.04,
+    "end": 2620.04,
+    "text": " They play Scrabble."
+  },
+  {
+    "start": 2620.04,
+    "end": 2623.04,
+    "text": " But obviously they travel Scrabble, right?"
+  },
+  {
+    "start": 2623.04,
+    "end": 2625.04,
+    "text": " Well, they're in a microgravity environment."
+  },
+  {
+    "start": 2625.04,
+    "end": 2628.04,
+    "text": " So, they have Velcroed onto the back of every single piece."
+  },
+  {
+    "start": 2628.04,
+    "end": 2629.04,
+    "text": " A tiny patch."
+  },
+  {
+    "start": 2629.04,
+    "end": 2631.04,
+    "text": " A tiny patch of Velcro on."
+  },
+  {
+    "start": 2631.04,
+    "end": 2634.04,
+    "text": " And the board is attached to the ceiling in the dining room."
+  },
+  {
+    "start": 2634.04,
+    "end": 2637.04,
+    "text": " So, you can just look up while you eat and ponder your next move."
+  },
+  {
+    "start": 2637.04,
+    "end": 2639.04,
+    "text": " With the microgravity thing,"
+  },
+  {
+    "start": 2639.04,
+    "end": 2642.04,
+    "text": " I was really interviewed with Samantha Christopher Rattie,"
+  },
+  {
+    "start": 2642.04,
+    "end": 2645.04,
+    "text": " who broke the record for the longest time a woman has spent in space"
+  },
+  {
+    "start": 2645.04,
+    "end": 2646.04,
+    "text": " a few years ago."
+  },
+  {
+    "start": 2646.04,
+    "end": 2647.04,
+    "text": " It was 200 days."
+  },
+  {
+    "start": 2647.04,
+    "end": 2649.04,
+    "text": " And she was talking about when you come back"
+  },
+  {
+    "start": 2649.04,
+    "end": 2654.04,
+    "text": " after being in a zero gravity environment and how it feels."
+  },
+  {
+    "start": 2654.04,
+    "end": 2658.04,
+    "text": " And she did say, I step out of the module"
+  },
+  {
+    "start": 2658.04,
+    "end": 2660.04,
+    "text": " and it feels like there's some kind of evil giant"
+  },
+  {
+    "start": 2660.04,
+    "end": 2662.04,
+    "text": " trying to press me into the ground."
+  },
+  {
+    "start": 2662.04,
+    "end": 2664.04,
+    "text": " And for weeks and weeks, you're like that."
+  },
+  {
+    "start": 2664.04,
+    "end": 2666.04,
+    "text": " And I think it took her a couple of years to get back to normal."
+  },
+  {
+    "start": 2666.04,
+    "end": 2669.04,
+    "text": " And she said, walking is like lifting tree trunks."
+  },
+  {
+    "start": 2669.04,
+    "end": 2674.8,
+    "text": " But also, you have trouble speaking, because your tongue is so used to being weightless,"
+  },
+  {
+    "start": 2674.8,
+    "end": 2678.76,
+    "text": " that lifting it up off the bottom of your mouth is too much effort."
+  },
+  {
+    "start": 2678.76,
+    "end": 2683.76,
+    "text": " So you just say, errrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr."
+  },
+  {
+    "start": 2683.76,
+    "end": 2686.96,
+    "text": " There's a lot, yeah, there's a lot of things they have to read accustomed to when they come back down."
+  },
+  {
+    "start": 2686.96,
+    "end": 2693.6,
+    "text": " So, a lot of astronauts who return are known to just drop their cup of tea in the air."
+  },
+  {
+    "start": 2693.6,
+    "end": 2696.08,
+    "text": " Just have it, yeah, just have it smash everywhere."
+  },
+  {
+    "start": 2696.08,
+    "end": 2699.6,
+    "text": " You've been to a real asshole in space, Frank."
+  },
+  {
+    "start": 2699.6,
+    "end": 2705.92,
+    "text": " You mentioned the moon astronauts, the Apollo 11 astronauts."
+  },
+  {
+    "start": 2705.92,
+    "end": 2709.52,
+    "text": " Yeah. When they got back, I didn't realise they filled in a custom declaration form."
+  },
+  {
+    "start": 2709.52,
+    "end": 2710.08,
+    "text": " Yes."
+  },
+  {
+    "start": 2710.08,
+    "end": 2717.92,
+    "text": " Yeah, it's so great, when you look at it, it's basically, it's a custom declaration that lists the origin and the destination."
+  },
+  {
+    "start": 2717.92,
+    "end": 2722.72,
+    "text": " So the origin is Cape Kennedy, the destination was Honolulu, which they actually missed by a few hundred miles,"
+  },
+  {
+    "start": 2722.72,
+    "end": 2728.24,
+    "text": " but not important. And then it has to list a stop-off. So it says stop-off moon."
+  },
+  {
+    "start": 2728.24,
+    "end": 2735.76,
+    "text": " And it's just so great on this like normal little bit of paper, Honolulu, get going to eat moon."
+  },
+  {
+    "start": 2735.76,
+    "end": 2739.12,
+    "text": " And then it says anything to declare, you know, you've got to declare anything you're carrying."
+  },
+  {
+    "start": 2739.12,
+    "end": 2742.72,
+    "text": " And they've just had to write moon, rock, and moon dust samples."
+  },
+  {
+    "start": 2742.72,
+    "end": 2745.44,
+    "text": " Oh, and these crabs that we found up there."
+  },
+  {
+    "start": 2748.4,
+    "end": 2752.72,
+    "text": " I'm sorry. Was, was that a harmonica I just heard?"
+  },
+  {
+    "start": 2752.72,
+    "end": 2760.96,
+    "text": " I find this amazing about when you're in the ISS."
+  },
+  {
+    "start": 2760.96,
+    "end": 2765.04,
+    "text": " So you're always kind of your weightless and you're always pushing yourself off things."
+  },
+  {
+    "start": 2765.04,
+    "end": 2769.2,
+    "text": " But one of the rooms is so big that sometimes you can get stuck in the middle of the room."
+  },
+  {
+    "start": 2769.2,
+    "end": 2775.28,
+    "text": " Oh, my God, you've got nothing to push out of you."
+  },
+  {
+    "start": 2775.28,
+    "end": 2778.96,
+    "text": " Oh, you're just like, basically, you're right, waiting for someone to get you."
+  },
+  {
+    "start": 2778.96,
+    "end": 2781.2,
+    "text": " Oh, you kind of, I guess you could blow your way."
+  },
+  {
+    "start": 2781.2,
+    "end": 2783.28,
+    "text": " You could have emergency flute on you at all times."
+  },
+  {
+    "start": 2783.28,
+    "end": 2791.36,
+    "text": " So what you were saying about playing the flute and having to rip your feet under,"
+  },
+  {
+    "start": 2791.36,
+    "end": 2794.16,
+    "text": " one of the harder instruments to play is the keyboard."
+  },
+  {
+    "start": 2794.16,
+    "end": 2798.32,
+    "text": " Because every time you press one of the keys, you push the instrument away from you."
+  },
+  {
+    "start": 2798.32,
+    "end": 2801.92,
+    "text": " So often when they're playing it, if they haven't got a proper grip,"
+  },
+  {
+    "start": 2801.92,
+    "end": 2806.48,
+    "text": " they just have to chase the keyboard as they're, as they're playing their song."
+  },
+  {
+    "start": 2806.48,
+    "end": 2810.24,
+    "text": " Another thing they do to kind of wind down, they do a lot of this exercise."
+  },
+  {
+    "start": 2810.24,
+    "end": 2814.4,
+    "text": " Because you need to keep your muscles okay, because otherwise, the atrophy,"
+  },
+  {
+    "start": 2814.4,
+    "end": 2815.36,
+    "text": " the atrophy, sorry."
+  },
+  {
+    "start": 2815.36,
+    "end": 2819.04,
+    "text": " But the problem is if you're doing your exercise and you're sweating,"
+  },
+  {
+    "start": 2819.04,
+    "end": 2823.04,
+    "text": " the sweat hangs around your body because it's got nowhere to go."
+  },
+  {
+    "start": 2823.04,
+    "end": 2824.8,
+    "text": " There's no gravity pulling it down."
+  },
+  {
+    "start": 2824.8,
+    "end": 2827.52,
+    "text": " And you could end up with a big blob of sweat around there."
+  },
+  {
+    "start": 2827.52,
+    "end": 2829.6,
+    "text": " And if you move your head really quickly,"
+  },
+  {
+    "start": 2829.6,
+    "end": 2832.48,
+    "text": " the sweat blob just slowly moves in space."
+  },
+  {
+    "start": 2832.48,
+    "end": 2838.64,
+    "text": " And then it could smash your friend in the face, a big, like a water balloon of sweat."
+  },
+  {
+    "start": 2838.64,
+    "end": 2841.68,
+    "text": " That's awesome."
+  },
+  {
+    "start": 2841.68,
+    "end": 2846.56,
+    "text": " We're going to have to wrap up shortly."
+  },
+  {
+    "start": 2846.56,
+    "end": 2852.4,
+    "text": " Some stuff on bands and concerts and stuff like that in unusual places."
+  },
+  {
+    "start": 2853.76,
+    "end": 2861.44,
+    "text": " The Institute Marquez had a concert quite recently featuring Alex Ubego and Sharon Call from the Cause."
+  },
+  {
+    "start": 2861.44,
+    "end": 2866.8,
+    "text": " And they had the youngest ever audience because it was a live concert for embryos."
+  },
+  {
+    "start": 2866.8,
+    "end": 2869.04,
+    "text": " What?"
+  },
+  {
+    "start": 2869.04,
+    "end": 2874.32,
+    "text": " Yeah, apparently it helps the development of the embryos if they're getting lots of music,"
+  },
+  {
+    "start": 2874.32,
+    "end": 2876,
+    "text": " according to Sharon Call from the Cause."
+  },
+  {
+    "start": 2876,
+    "end": 2877.84,
+    "text": " I'm sorry."
+  },
+  {
+    "start": 2877.84,
+    "end": 2880,
+    "text": " And who am I to doubt Sharon Call from the Cause?"
+  },
+  {
+    "start": 2880,
+    "end": 2882.96,
+    "text": " How do they applaud?"
+  },
+  {
+    "start": 2883.52,
+    "end": 2885.52,
+    "text": " [laughter]"
+  },
+  {
+    "start": 2885.52,
+    "end": 2887.2,
+    "text": " Wait, are they in..."
+  },
+  {
+    "start": 2887.2,
+    "end": 2888,
+    "text": " Wums?"
+  },
+  {
+    "start": 2888,
+    "end": 2890.96,
+    "text": " Uh, no, they're not there in the lab."
+  },
+  {
+    "start": 2890.96,
+    "end": 2891.76,
+    "text": " They're fricking there."
+  },
+  {
+    "start": 2891.76,
+    "end": 2893.76,
+    "text": " Yeah, it's in vitro stuff."
+  },
+  {
+    "start": 2893.76,
+    "end": 2895.12,
+    "text": " Oh, cool."
+  },
+  {
+    "start": 2895.12,
+    "end": 2897.52,
+    "text": " That's a weird gik."
+  },
+  {
+    "start": 2897.52,
+    "end": 2901.52,
+    "text": " It had to be weird."
+  },
+  {
+    "start": 2901.52,
+    "end": 2902.96,
+    "text": " I'm saying it on the podcast."
+  },
+  {
+    "start": 2902.96,
+    "end": 2905.84,
+    "text": " I'm not going to say, \"Hey, the Cause was did a gig in Dublin.\""
+  },
+  {
+    "start": 2905.84,
+    "end": 2909.36,
+    "text": " To a load of normal humans."
+  },
+  {
+    "start": 2909.36,
+    "end": 2910.48,
+    "text": " But it's just..."
+  },
+  {
+    "start": 2910.48,
+    "end": 2911.52,
+    "text": " No, you're right, though."
+  },
+  {
+    "start": 2911.52,
+    "end": 2915.12,
+    "text": " It's sort of like, \"How so since the Cause broke up, how's your solo career going?\""
+  },
+  {
+    "start": 2915.12,
+    "end": 2917.52,
+    "text": " Actually, some exciting gigs coming up."
+  },
+  {
+    "start": 2917.52,
+    "end": 2921.12,
+    "text": " I'm playing to unborn embryos."
+  },
+  {
+    "start": 2921.12,
+    "end": 2924,
+    "text": " Actually, that is exciting when you think about it."
+  },
+  {
+    "start": 2924,
+    "end": 2928.32,
+    "text": " I did find one space band thing."
+  },
+  {
+    "start": 2928.32,
+    "end": 2929.44,
+    "text": " So this was in 2010."
+  },
+  {
+    "start": 2929.44,
+    "end": 2932,
+    "text": " It was a London synth pop band called Monarchy."
+  },
+  {
+    "start": 2932,
+    "end": 2934.64,
+    "text": " And they announced that they were going to play their debut gig,"
+  },
+  {
+    "start": 2934.64,
+    "end": 2938,
+    "text": " their debut gig in Cape Canaveral and beam it into space."
+  },
+  {
+    "start": 2938,
+    "end": 2940.8,
+    "text": " And the Guardian reported on it."
+  },
+  {
+    "start": 2940.8,
+    "end": 2944.8,
+    "text": " They said all that really means is sending a signal out of the atmosphere"
+  },
+  {
+    "start": 2944.8,
+    "end": 2946.96,
+    "text": " without it being bounced back by a satellite."
+  },
+  {
+    "start": 2946.96,
+    "end": 2950.24,
+    "text": " So because they weren't allowed into the actual NASA site."
+  },
+  {
+    "start": 2950.24,
+    "end": 2953.84,
+    "text": " So the Guardian reported that it was not interstellar communication."
+  },
+  {
+    "start": 2953.84,
+    "end": 2956.16,
+    "text": " It was simply a gig broadcast to no one."
+  },
+  {
+    "start": 2956.16,
+    "end": 2962.08,
+    "text": " Not long after, Monarchy were dropped by Mercury Records"
+  },
+  {
+    "start": 2962.08,
+    "end": 2964,
+    "text": " before their album had been released."
+  },
+  {
+    "start": 2964,
+    "end": 2969.92,
+    "text": " Can I just say my fact that I really like and it's about,"
+  },
+  {
+    "start": 2969.92,
+    "end": 2972.72,
+    "text": " you know, people, unexpected people being in bands."
+  },
+  {
+    "start": 2972.72,
+    "end": 2974.32,
+    "text": " So people you don't expect to be in bands."
+  },
+  {
+    "start": 2974.32,
+    "end": 2976.32,
+    "text": " And I know it's a favorite fact of someone in the audience"
+  },
+  {
+    "start": 2976.32,
+    "end": 2979.52,
+    "text": " who's our colleague, James, other James."
+  },
+  {
+    "start": 2979.52,
+    "end": 2981.6,
+    "text": " We call him, which is good for his ego."
+  },
+  {
+    "start": 2981.6,
+    "end": 2986.56,
+    "text": " James Rosson, yeah, this is James Rosson."
+  },
+  {
+    "start": 2986.56,
+    "end": 2990.32,
+    "text": " McCauley Culkin plays in a band, played in a band."
+  },
+  {
+    "start": 2990.32,
+    "end": 2992.32,
+    "text": " And it's called the Pizza Underground."
+  },
+  {
+    "start": 2992.32,
+    "end": 2995.52,
+    "text": " And what they do is they do covers of Velvet Underground."
+  },
+  {
+    "start": 2995.52,
+    "end": 2997.36,
+    "text": " But instead of the Velvet Underground lyrics,"
+  },
+  {
+    "start": 2997.36,
+    "end": 2998.56,
+    "text": " they're all about pizza."
+  },
+  {
+    "start": 2998.96,
+    "end": 3003.76,
+    "text": " And I was reading about the inspiration for it."
+  },
+  {
+    "start": 3003.76,
+    "end": 3006.8,
+    "text": " And the Glock player in the band explained that..."
+  },
+  {
+    "start": 3006.8,
+    "end": 3012.24,
+    "text": " Is that Glock a kind of pistol?"
+  },
+  {
+    "start": 3012.24,
+    "end": 3017.28,
+    "text": " It's a very, very, very dangerous gig to attend."
+  },
+  {
+    "start": 3017.28,
+    "end": 3019.92,
+    "text": " The Glock player in the band, she explained that"
+  },
+  {
+    "start": 3019.92,
+    "end": 3023.92,
+    "text": " actually all of Velvet Underground songs were originally written about pizza."
+  },
+  {
+    "start": 3023.92,
+    "end": 3027.12,
+    "text": " But they had to be re-worded to accommodate the standards of their day."
+  },
+  {
+    "start": 3027.84,
+    "end": 3031.36,
+    "text": " And so McCauley Culkin, is there writing that wrong?"
+  },
+  {
+    "start": 3031.36,
+    "end": 3032.64,
+    "text": " That is amazing."
+  },
+  {
+    "start": 3032.64,
+    "end": 3036.32,
+    "text": " These NASA people, they need all of their people to be on earth"
+  },
+  {
+    "start": 3036.32,
+    "end": 3037.76,
+    "text": " otherwise they can't do a gig."
+  },
+  {
+    "start": 3037.76,
+    "end": 3040.48,
+    "text": " So I thought I'd look at a few reasons that people couldn't do gigs."
+  },
+  {
+    "start": 3040.48,
+    "end": 3040.96,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 3040.96,
+    "end": 3044.8,
+    "text": " Neil Jung once had to cancel an entire tour"
+  },
+  {
+    "start": 3044.8,
+    "end": 3047.28,
+    "text": " after cutting this finger while making a ham sandwich."
+  },
+  {
+    "start": 3047.28,
+    "end": 3053.04,
+    "text": " And the Kings of Leon abandoned a show halfway through in July 2010"
+  },
+  {
+    "start": 3053.04,
+    "end": 3056.16,
+    "text": " after pigeons began shitting in Jared's mouth."
+  },
+  {
+    "start": 3056.8,
+    "end": 3058.8,
+    "text": " [laughter]"
+  },
+  {
+    "start": 3058.8,
+    "end": 3063.76,
+    "text": " I'm with the pigeons."
+  },
+  {
+    "start": 3063.76,
+    "end": 3069.44,
+    "text": " Okay, that's it. That is all of our facts."
+  },
+  {
+    "start": 3069.44,
+    "end": 3071.44,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3071.44,
+    "end": 3074.56,
+    "text": " If you'd like to get in contact with any of us about the things that we have said"
+  },
+  {
+    "start": 3074.56,
+    "end": 3078.32,
+    "text": " over the course of this podcast, we can be found on our Twitter accounts."
+  },
+  {
+    "start": 3078.32,
+    "end": 3079.92,
+    "text": " I'm on @Sriberland."
+  },
+  {
+    "start": 3079.92,
+    "end": 3080.4,
+    "text": " Andy."
+  },
+  {
+    "start": 3080.4,
+    "end": 3081.36,
+    "text": " @AndreyHunterM."
+  },
+  {
+    "start": 3081.36,
+    "end": 3081.84,
+    "text": " James."
+  },
+  {
+    "start": 3081.84,
+    "end": 3082.88,
+    "text": " @JamesHuckin."
+  },
+  {
+    "start": 3082.88,
+    "end": 3083.6,
+    "text": " And Shazinsky."
+  },
+  {
+    "start": 3083.6,
+    "end": 3085.76,
+    "text": " You can email podcast@kywai.com."
+  },
+  {
+    "start": 3085.76,
+    "end": 3087.92,
+    "text": " Yep, or you can go to our group account at no such thing."
+  },
+  {
+    "start": 3087.92,
+    "end": 3089.04,
+    "text": " You can go to our website."
+  },
+  {
+    "start": 3089.04,
+    "end": 3090.8,
+    "text": " No such thing as a fish.com."
+  },
+  {
+    "start": 3090.8,
+    "end": 3094.16,
+    "text": " We have everything up there linked to this book that everyone in the audience has."
+  },
+  {
+    "start": 3094.16,
+    "end": 3095.04,
+    "text": " You don't need that anymore."
+  },
+  {
+    "start": 3095.04,
+    "end": 3098,
+    "text": " We have future tour dates."
+  },
+  {
+    "start": 3098,
+    "end": 3100,
+    "text": " And we have all of our previous episodes."
+  },
+  {
+    "start": 3100,
+    "end": 3104,
+    "text": " And just quickly, we are now going to give away a book"
+  },
+  {
+    "start": 3104,
+    "end": 3107.52,
+    "text": " to the best fact of our audience here tonight."
+  },
+  {
+    "start": 3107.52,
+    "end": 3109.6,
+    "text": " This fact is from Daniel Simon."
+  },
+  {
+    "start": 3109.6,
+    "end": 3111.52,
+    "text": " Are you all okay?"
+  },
+  {
+    "start": 3111.52,
+    "end": 3113.2,
+    "text": " Hey, Daniel."
+  },
+  {
+    "start": 3113.2,
+    "end": 3114,
+    "text": " And the fact is this."
+  },
+  {
+    "start": 3114.88,
+    "end": 3119.36,
+    "text": " In 2015, France called on its allies for more help in Marley."
+  },
+  {
+    "start": 3119.36,
+    "end": 3123.6,
+    "text": " Luxembourg agreed to double their military presence in the country"
+  },
+  {
+    "start": 3123.6,
+    "end": 3125.6,
+    "text": " and promptly added one more soldier."
+  },
+  {
+    "start": 3125.6,
+    "end": 3133.68,
+    "text": " And okay, we'll be back again next week with more facts."
+  },
+  {
+    "start": 3133.68,
+    "end": 3134.32,
+    "text": " We'll see you then."
+  },
+  {
+    "start": 3134.32,
+    "end": 3135.28,
+    "text": " Goodbye."
+  },
+  {
+    "start": 3135.28,
+    "end": 3137.28,
+    "text": " [Applause]"
+  },
+  {
+    "start": 3137.28,
+    "end": 3147.28,
+    "text": " [Music]"
+  }
+]

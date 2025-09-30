@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics, including the unique reproductive anatomy of spiny anteaters, a peculiar real estate deal involving a centenarian, the transformation of a record-breaking hailstone into margaritas, and the surprising amount of cocaine found in London's sewage.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Spiny anteaters only use half their penis during sex.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the 1960s, a 47-year-old man paid a 90-year-old woman 2,500 francs a month so that he could own her apartment when she passed away. Unfortunately for him, she outlived him by not dying and making it to be 122 years old.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:09:35"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The largest hailstone in Texan history was broken up by locals and turned into margaritas.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:21:55"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The average Londoner poos out 1/100th of a line of cocaine every weekend.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:31:21"
+    }
+  ]
+}

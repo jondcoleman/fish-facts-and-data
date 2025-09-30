@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This special 300th episode of \"No Such Thing As A Fish\" was recorded live in Vienna, where the hosts received the Heinz Oberhume Award for Scientific Communication. The episode features facts about Heinz Oberhume's last TV show, early laser eye surgery, Inuit sleds made of fish, and the high cost of Vienna Standard Mean Ocean Water.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The last TV show that the award-winning eminent physicist Heinz Oberhume made before he passed away was called The Universe is a shithole.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:02:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Early laser eye surgery was performed in a trailer next to a trash compactor that whenever it was switched on would vibrate the trailer as the doctors were trying to operate.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:20:32"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Some Inuits, if they got extremely hungry, would have been able to eat their own sleds.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:35:23"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Some bottled water in Vienna costs 9,000 euros per liter.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:47:40"
+    }
+  ]
+}

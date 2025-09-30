@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and fascinating facts, including historical news singing in Europe, the surprising bite force of finches compared to T-Rexes, pollution in Kanpur, and unusual dog laws in Beijing.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 17th century Europe, people used to sing each other the news.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:50"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Pound for pound, a 33 gram finch can bite you 320 times harder than a T-Rex could.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:09:05"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The most polluted city in the world is Kanpur, which is nicknamed the Manchester of the East.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:20:15"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Dogs over 35 centimeters tall are banned from Beijing.",
+      "presenter": "Ani Chazinski",
+      "guest": true,
+      "start_time": "00:28:13"
+    }
+  ]
+}

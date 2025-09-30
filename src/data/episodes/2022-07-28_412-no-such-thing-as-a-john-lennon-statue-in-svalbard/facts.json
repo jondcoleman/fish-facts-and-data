@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about Tallulah Bankhead's eccentric pets and lifestyle, an invisible statue auctioned for thousands, the Svalbard Global Seed Vault receiving unusual requests, and Tina Turner suing a lookalike for being too similar.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Actress Tallulah Bankhead had a parrot which she taught to say 'birds can't talk.'",
+      "presenter": "Debra Francis White",
+      "guest": true,
+      "start_time": "00:01:55"
+    },
+    {
+      "fact_number": 2,
+      "fact": "This year, an invisible statue made of air went to auction with an estimate of five thousand pounds.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:10:32"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The Doomsday Vault in Svalbard, which keeps backups of more than a million of the world's seeds, gets regular requests by men who wish to deposit their own seed there.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:20:33"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Tina Turner is currently suing a Tina Turner lookalike for looking too much like Tina Turner.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:06"
+    }
+  ]
+}

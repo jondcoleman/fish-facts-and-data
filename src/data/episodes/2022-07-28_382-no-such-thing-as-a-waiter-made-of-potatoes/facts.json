@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and intriguing topics, including the unique naming coincidence among members of Girls Aloud and potato varieties, the unexpected hunger medical students experience during cadaver dissections, the historical reopening of the Gibraltar-Spain border, and the curious case of a book falsely attributed to Aristotle that became a popular sex manual.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Cheryl Tweedy is the only member of Girls Aloud who doesn't share her name with a type of potato.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Dissecting cadavers doesn't put you off your food; in fact, it actually makes you hungrier.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:54"
+    },
+    {
+      "fact_number": 3,
+      "fact": "On the day that the border between Spain and Gibraltar opened, the key to the gate didn't work, and they had to call a locksmith to let people through.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:27:13"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Aristotle's masterpiece was written more than 2,000 years after Aristotle died.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:39:15"
+    }
+  ]
+}

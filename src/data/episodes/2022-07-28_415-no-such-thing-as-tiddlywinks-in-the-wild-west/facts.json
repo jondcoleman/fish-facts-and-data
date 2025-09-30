@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the dangers of bathing in the Roman baths due to brain-eating amoebas, the unique job of ham sniffers in Spain, the rediscovery of a Donatello sculpture being used as an ashtray, and the existence of bendy rocks.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The reason you can no longer bathe in the Roman baths at Bath is because they contain brain-eating amoeba.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:48"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There is a Spanish firm which has six official ham sniffers; their job is to poke pork loins, sniff them, and make sure they're good.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:15:59"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Until it was identified by an art dealer in 1975, Donatello's bronze, the Madonna and Child, was being used as an ashtray and a tiddlywink bowl.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:26:36"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There is such a thing as bendy rocks.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:40:36"
+    }
+  ]
+}

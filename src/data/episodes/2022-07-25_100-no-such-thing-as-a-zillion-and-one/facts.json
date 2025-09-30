@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on the vast differences between million and billion seconds, the near cancellation of Star Trek due to its pilot being deemed too erotic, the banning of silent discos in Lausanne for being too loud, and the peculiar anatomy of giant squids, including their brain being wrapped around their throat.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "A million seconds is 11.5 days; a billion seconds is 32 years.",
+      "presenter": "Corey Taylor",
+      "guest": true,
+      "start_time": "00:01:03"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Star Trek was almost not commissioned because the pilot was considered too erotic.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:10:45"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The Swiss city of Lausanne has banned silent discos for being too loud.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:20:20"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The giant squid's brain is wrapped around its throat, so if it eats anything too large, it risks brain injury.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:32:04"
+    }
+  ]
+}

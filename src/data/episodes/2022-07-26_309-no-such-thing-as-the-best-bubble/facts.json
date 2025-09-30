@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and fascinating topics, including historical exercise recommendations, the creation of a massive soap bubble, Marilyn Monroe's early titles, and a stationary salamander in Bosnia.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There is a 16th century exercise manual which recommends exercises including running, tennis, and loud reading.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Scientists in Georgia just blew a six metre wide soap bubble.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:09:06"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Before she became famous, Marilyn Monroe was named the Artichoke Queen of Castroville, California, Miss Cheesecake by Stars and Stripes magazine, and Queen of the radio plane company where she worked assembling military drones during World War II.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:23:58"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There is a salamander in Bosnia who hasn't moved from the same spot since 2010.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:32:59"
+    }
+  ]
+}

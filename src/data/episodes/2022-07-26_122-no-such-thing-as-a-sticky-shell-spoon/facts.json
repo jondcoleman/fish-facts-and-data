@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and intriguing facts, including innovative methods to protect livestock from predators, the surprising speed of snowflakes compared to humans in armor, the challenges faced by archaeologists due to an abundance of historical artifacts, and inventive anti-theft measures in restaurants.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Farmers in Botswana have started painting eyes on their cows' bottoms to stop lions from attacking them.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My top speed running in armor is the same as the top speed of a snowflake falling to earth.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:09:20"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Archaeologists have started throwing artifacts into skips because there is now too much history for them to store.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:52"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Restaurants in 1950s Vietnam punched holes in their soup spoons to stop people stealing them.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:24:31"
+    }
+  ]
+}

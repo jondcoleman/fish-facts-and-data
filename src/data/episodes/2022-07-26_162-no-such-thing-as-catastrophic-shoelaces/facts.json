@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the naming of a large Russian diamond, the mystery of why shoelaces untie themselves, the near mishap of HMS Victory's launch, and the surprising fact about chocolate hobnobs.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The largest diamond ever found in Russia is called the 26th Congress of the Communist Party of the Soviet Union.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Scientists have announced that they finally know why shoelaces untie themselves.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:11:07"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Nelson's ship HMS Victory nearly didn't get out of the dock it was built in because it was too big.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:26:12"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In a chocolate hobnob, the chocolate is on the bottom.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:34:58"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This Halloween-themed episode of \"No Such Thing As A Fish\" features facts about a swearing mongoose influencing BBC policies, Alistair Crowley's spicy glacier curries, the Yakuza's ban from trick-or-treating, and ghost crabs using stomach teeth to growl.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the 1930s, the ghost of a swearing mongoose led the BBC to revise its working conditions.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:57"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Famous occultist, Alistair Crowley, used to make a curry so hot that he only served it on glaciers, so the diners could use the snow to cool their mouth down afterwards.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:17:15"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Japan's Yakuza have been told they are no longer allowed to join in trick-or-treating.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:30:49"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Ghost crabs use teeth in their stomachs to growl at their enemies.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:38:09"
+    }
+  ]
+}

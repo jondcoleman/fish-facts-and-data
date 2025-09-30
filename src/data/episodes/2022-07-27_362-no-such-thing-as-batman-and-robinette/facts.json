@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including a scientist studying cosmic dust, the rigorous training of power line workers, the high value of a cow named Posh Spice, and a U.S. senator's love for Batman movies.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There is a scientist at Imperial College who's been studying the same bag of dust for 15 years.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Every year power line repair workers have to pass a test where they rescue a 12 stone dummy from the top of a telegraph pole.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:40"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The most expensive cow in the UK is called Posh Spice.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:27:27"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The person who has acted in more Batman movie reboots than anyone else is also the third in line to be President of the United States.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:38:29"
+    }
+  ]
+}

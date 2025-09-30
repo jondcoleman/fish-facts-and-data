@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about the maximum size of a PDF file, a 17th-century law requiring burial in wool, restrictions on women visiting museums in 1914, and innovative recycling of cow dung into furniture.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The maximum PDF file you can send is bigger than Belgium.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:26"
+    },
+    {
+      "fact_number": 2,
+      "fact": "During the 17th century, when you died, your relatives were legally forced to bury you wearing wool, whether you liked it or not.",
+      "presenter": "Kariad Lloyd",
+      "guest": true,
+      "start_time": "00:15:49"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 1914, women were only allowed to visit the Natural History Museum if a man agreed to sign a note promising that they would behave themselves.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:30:04"
+    },
+    {
+      "fact_number": 4,
+      "fact": "A designer from Indonesia who recycles cow dung has found a way to make stools from stools.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:39:31"
+    }
+  ]
+}

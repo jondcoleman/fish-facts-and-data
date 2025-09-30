@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the surprising statistic of how many people in the UK have seen the Queen, a historical naval battle where a Dutch captain cheekily asked the enemy for ammunition, the unique challenges faced by vanilla farmers in Madagascar, and the extreme travel distances faced by a remote Russian football team.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "One in three people in the UK has seen the Queen in real life.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:35"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1714, when a Dutch ship ran out of ammunition 14 hours into a battle, the captain sent a boat over to the enemy asking to borrow some gunpowder and cannonballs so they could continue the fight.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:37:02"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Vanilla farmers in Madagascar stamp their names on each individual pod on the vine.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:42:42"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Russian football team FC Sakhalin are based in such a remote town that to get to their closest away game, they have to travel one-sixth of the circumference of the earth.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:44:42"
+    }
+  ]
+}

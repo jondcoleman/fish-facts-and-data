@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and historical facts, including John Adams' unusual interest in manure, the peculiarities of Swiss citizenship laws, fire safety measures in the UK Parliament, and the surprising dietary restrictions of the Cookie Monster.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The second president of the United States of America used to inspect London's Dung.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:34"
+    },
+    {
+      "fact_number": 2,
+      "fact": "You can be blocked from getting a Swiss passport if your neighbours find you too annoying.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:09:29"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There are people in the houses of parliament constantly looking for fire.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:14:59"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The Cookie Monster isn't allowed to eat cookies.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:20:31"
+    }
+  ]
+}

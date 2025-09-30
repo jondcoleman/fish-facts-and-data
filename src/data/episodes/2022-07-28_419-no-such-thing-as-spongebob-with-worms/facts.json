@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of quirky and historical facts, including a scandalous figure skating incident from the 1920 Winter Olympics, the installation of telephones in trees by the US government in the early 1900s, a worm that can grow multiple bottoms for reproduction, and the frequent arrests of comedian Lenny Bruce during his performances.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the 1920 Winter Olympics, US skater, Teresa Weld, was the only woman in the figure skating who performed jumps, but she was marked down every time she did because her skirt rose above her knees, which was considered too scandalous.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the early 1900s, the US government installed telephones at the top of trees.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:18:11"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There is a worm which can grow multiple bottoms, which then fires off to have sex without it.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:26"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Comedian Lenny Bruce was arrested so often during his sets that he would go on stage wearing his coat just so he was ready to leave with the police immediately.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:41:43"
+    }
+  ]
+}

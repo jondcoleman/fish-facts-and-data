@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "In this episode, the hosts share a variety of intriguing facts submitted by listeners, ranging from the peculiarities of animal behavior to historical anecdotes. They discuss the last Carolina parakeet and passenger pigeon sharing a cage, the unique anatomy of the water opossum, astronaut Steve Hawley's disguised launches, and the mummified cod at the New England Aquarium.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Inkus, the last Carolina parakeet, died in the same cage as Martha, the last passenger pigeon.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:01:09"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There is one extant species of marsupial, the water opossum, in which the males have pouches. These pouches are not used to host joeys, but serve the exclusive purpose of storing the male genitalia to prevent them from getting tangled in weeds while swimming.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:02:53"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Astronaut Steve Hawley's space shuttle launches kept getting scrubbed. After one scrub prior to his fourth mission, he remarked that the space shuttle obviously knew he was aboard, so it was refusing to launch. His crewmates agreed, so they made him wear a disguise during the next launch attempt, and it worked.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:05:30"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There is a mummified cod buried in the foundation of the New England Aquarium. The fish started the construction of the entire aquarium as the star of the aquarium's groundbreaking ceremony in 1965, when a scuba diver holding him emerged from nearby Boston Harbor and dropped him into a tank of water.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:07:42"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about a ghostly skeleton used for interrogations, E.B. White's connection to spiders, a renowned choreographer named Mr. Millipede, and a Cabbage Patch doll that was recalled for eating children.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1927, a patent was filed for an apparatus designed to scare criminals into confessing their crimes by creating an optical illusion of a ghost skeleton.",
+      "presenter": "Beck Hill",
+      "guest": true,
+      "start_time": "00:02:16"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In real life, the author of Charlotte's Web became the foster parent to the spider children he based Charlotte on.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:35"
+    },
+    {
+      "fact_number": 3,
+      "fact": "One of the world's best dance choreographers is called Mr. Millipede.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:53"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1997, Mattel recalled one of its Cabbage Patch dolls because its head started eating children.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:34:34"
+    }
+  ]
+}

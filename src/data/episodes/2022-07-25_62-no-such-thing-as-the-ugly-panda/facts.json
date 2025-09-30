@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features discussions on historical and unusual facts about American presidents and their sheep, a Russian village where everyone can tightrope walk, pedestrian behavior in different countries, and the conservation efforts for California condors using glove puppets.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Twice in its history, America has been run by a shepherd.",
+      "presenter": "Rufus Hound",
+      "guest": true,
+      "start_time": "00:00:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There is a village in Russia where every single person knows how to tightrope walk.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:09:46"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In Britain, pedestrians step to the right to avoid each other, and in Japan, they step to the left.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:20:39"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Half of all California condors were raised by glove puppets.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:30:30"
+    }
+  ]
+}

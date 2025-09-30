@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and fascinating topics, including the creative disguises used by prohibition agents, the cultural phenomenon of spider wrestling in the Philippines, the surprising number of virtual Vikings compared to historical ones, and the eccentricities of rock stars like Ozzy Osbourne.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "During prohibition in America, the cops responsible for busting speakeasies did so dressed as grave diggers, farmers, statues, opera goers, cowboys, judges, bums, and old Italian matrons.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:44"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Spider wrestling was banned in the Philippines because children found it more entertaining than going to lessons.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:24"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There are more people pretending to be Vikings in the game 'Vikings War of Clans' than there were ever actual Vikings on Earth.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:23:16"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Ozzy Osbourne's 1992 tour was called No More Tours; his 2018 tour is called No More Tours 2.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:30:47"
+    }
+  ]
+}

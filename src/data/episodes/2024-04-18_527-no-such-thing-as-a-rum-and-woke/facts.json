@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features fascinating discussions on the unique reproductive traits of flies, the history of rum and its cultural significance, the human influence on the Amazon rainforest, and the invention of the karaoke machine. Guest presenter Dr. Erica McAllister shares her expertise on insects, adding depth to the conversation.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Some flies have tits on the inside.",
+      "presenter": "Erica McAllister",
+      "guest": true,
+      "start_time": "00:02:09"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The oldest rum brand in the world was founded by a man named Cumberbatch Sober.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:16:36"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The Amazon rainforest is man-made.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:31:08"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The man who invented the karaoke machine also invented a device you could throw at robbers as they ran away, so they would be indelibly dyed.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:41:35"
+    }
+  ]
+}

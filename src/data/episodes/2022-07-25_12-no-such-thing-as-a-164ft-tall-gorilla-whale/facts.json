@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating topics, including the hypothetical urine output of Godzilla, the real-life inspirations behind Long John Silver and Wendy Darling, the ineffectiveness of tinfoil hats in blocking brain signals, and the unusual flight behavior of geese.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "If the new Godzilla existed, it would produce 12.9 million gallons of urine a day.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:52"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The real Long John Silver from Treasure Island was father to the real Wendy Darling from Peter Pan.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:08:20"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The tinfoil hats that conspiracy theorists wear in order to stop the government from sending messages into their brain actually does the opposite; it amplifies the signal.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:49"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Geese sometimes fly upside down to lose height quickly when they're coming into land, rather than doing a long, slow descent.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:21:04"
+    }
+  ]
+}

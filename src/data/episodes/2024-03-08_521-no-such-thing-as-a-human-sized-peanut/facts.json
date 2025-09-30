@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including a unique ballet featuring atomic particles, a historical challenge involving lions to determine the rightful king of France, Buzz Aldrin's father's protest over a moon landing stamp, and the mysterious migration of moss balls in the Arctic.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1950, a ballet was performed at the Waldorf Hotel where the main characters were protons, electrons, neutrons and a Geiger counter.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1340, at the beginning of the Hundred Years' War, Edward III challenged King Philip VI of France to settle who was the rightful heir to the French throne by exposing themselves to hungry lions.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:14:15"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Buzz Aldrin's dad once got so angry that his son wasn't featured on a US post stamp commemorating the moon landing that he went and stood outside the White House holding a placard that read, \"My son was first too.\"",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:28:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "If you go to the Arctic at the right time, you can view huge herds of moss balls migrating across the plains.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:42:48"
+    }
+  ]
+}

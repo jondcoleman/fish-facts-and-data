@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on Richard Feynman's scientific curiosity, the historical use of pedometers by women at balls, Charles Darwin's invention of the office chair, and the use of infrasound in horror movies.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The Nobel Prize winning scientist Richard Feynman was allowed to investigate the entirety of the universe except the Aurora Borealis.",
+      "presenter": "Robin Ince",
+      "guest": true,
+      "start_time": "00:02:19"
+    },
+    {
+      "fact_number": 2,
+      "fact": "At the turn of the 20th century, women wore pedometers to balls to track how many miles they were dancing.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:13:56"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Charles Darwin invented the office chair.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:22:22"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Horror movies often have two soundtracks: one you can hear and one you can't.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:36:30"
+    }
+  ]
+}

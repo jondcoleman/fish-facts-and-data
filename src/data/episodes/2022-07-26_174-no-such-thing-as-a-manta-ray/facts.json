@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and intriguing topics, including unusual Guinness World Records involving tongues, the hiring of mimes to manage traffic in Bogota, the reclassification of manta rays, and the rental of a Popemobile for stag and hen parties.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Guinness World Records have entries for most mouse traps released on the tongue, most matchsticks extinguished by the tongue, and most fan blades stopped by the tongue.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:01:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Pope John Paul II's Popemobile can be hired out for stag do's and hen do's.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:11"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There is no such thing as a manta ray.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:24:41"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The former mayor of Bogota once hired 420 mime artists to make fun of traffic violators because he believed Colombians fear ridicule more than they fear punishment.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:34:23"
+    }
+  ]
+}

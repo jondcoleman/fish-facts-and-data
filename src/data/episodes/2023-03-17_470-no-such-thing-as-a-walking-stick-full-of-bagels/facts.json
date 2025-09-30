@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on historical divorce laws, the life of percussionist Emil Richards, the history of Dracula theater productions, and a humorous mix-up involving the Canadian Prime Minister and a cat named Thatcher.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In ancient Hebrew times, men could get a divorce if their wife had been alone in a room with another man.",
+      "presenter": "Monica Heisey",
+      "guest": true,
+      "start_time": "00:02:04"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The same fingers are responsible for the clicks in the Adams Family theme, the bongos in the Mission Impossible theme, and the xylophone in the Simpsons theme.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:13:22"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 2024, the first ever theater production of Dracula will celebrate its hundredth anniversary.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:34:13"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 2008, the Canadian Prime Minister called 10 Downing Street to offer condolences for the death of Margaret Thatcher, who was not dead; it was a misunderstanding due to the death of the Canadian Transport Minister's cat, also named Thatcher.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:44:31"
+    }
+  ]
+}

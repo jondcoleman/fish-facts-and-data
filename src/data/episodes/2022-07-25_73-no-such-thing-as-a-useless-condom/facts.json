@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the use of condoms in military operations, the frequency of star explosions in the universe, the culinary practices of ancient Mexican cannibals, and a humorous loophole involving a dog at Cambridge University.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "As part of the preparation for the D-Day landings, the Allies used condoms to collect soil and sand from the Normandy beaches.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:35"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Every second, a star in the universe explodes.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:12:03"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The Tlatelolco cannibals of ancient Mexico ate human flesh with chili sauce.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:19:54"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Dogs aren't allowed at Selwyn College in Cambridge, so the master's basset hound has been reclassified as a very large cat.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:23"
+    }
+  ]
+}

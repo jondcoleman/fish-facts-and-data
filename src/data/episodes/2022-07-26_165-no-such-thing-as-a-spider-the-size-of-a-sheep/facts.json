@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and intriguing facts, including China's plan to regulate the speed of their national anthem, the anthrax contamination in shaving brushes in 1921 New York, the impressive size of the largest plane's cargo hold compared to the Wright brothers' first flight, and the perception of distance when viewing unpleasant objects like poo.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The Chinese government are planning on giving their national anthem a speed limit.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1921, 78% of shaving brushes sold in New York contained anthrax.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:09:06"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The cargo hold of the largest plane in service is longer than the first flight of the Wright brothers.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:15:01"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Poo on a table will look closer to you than it actually is.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:23:44"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of fascinating topics, including a daredevil pilot from the 1930s, a study on people's overestimation of their knowledge, the use of taxis in World War I, and the loud mating calls of the Gulf Corvina fish.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There was a showman in the 1930s whose act consisted of repeatedly crashing his plane into the ground.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:16"
+    },
+    {
+      "fact_number": 2,
+      "fact": "A new scientific study has shown that people who claim to know a lot of facts don't actually know as many facts as they think they do.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:13:30"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In the first major battle of World War I, the soldiers arrived by taxi.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:22:34"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The Gulf Corvina fish has such loud sex that it can deafen dolphins.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:31:18"
+    }
+  ]
+}

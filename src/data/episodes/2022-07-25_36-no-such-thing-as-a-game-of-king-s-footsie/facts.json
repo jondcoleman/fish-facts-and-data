@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including historical blame on camels in Abyssinia, the ancient Greek use of yo-yos, the mobile lifestyle of honey bees in the USA, and the frequent calls to police from people lost in a large corn maze.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "If you got into an argument in 18th century Abyssinia, you could resolve it by blaming everything on the camel.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In ancient Greece, they used to play with yo-yos.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:08:48"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Most honey bee hives in the USA live on trucks, on flatbed trucks.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:40"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The Sacramento Police Department get at least one call a week from people stuck in the world's largest corn maze.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:21:45"
+    }
+  ]
+}

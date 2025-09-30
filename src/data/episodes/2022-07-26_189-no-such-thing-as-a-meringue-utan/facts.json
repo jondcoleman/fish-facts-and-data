@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode, recorded at the Cheltenham Literature Festival, features facts about unusual uses of the phrase 'Make America Great Again', a marathon runner beaten by costumed competitors, the Queen's nickname, and a police strategy to lower crime rates by discouraging crime reporting.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "This year the phrase \"Make America Great Again\" adorned half a million hats and one anus.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:52"
+    },
+    {
+      "fact_number": 2,
+      "fact": "EastEnders star Adam Woodyatt was beaten in the London marathon this year by a man in a sleeping bag, a woman in a full-body dinosaur suit, and a man carrying a tumble dryer.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:11:07"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The Queen's nickname is Gary.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:17:18"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Queensland, Australian police successfully lowered crime rates this year by asking victims to stop reporting crimes.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:27"
+    }
+  ]
+}

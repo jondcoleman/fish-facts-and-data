@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the historical use of the Colosseum as an apartment block, the fines for swearing in Australia, the challenges of the first transatlantic cable, and a humorous attempt by PETA to rename a town for World Vegan Day.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "From the year 800 to the year 1349 the Colosseum was used as an apartment block.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:44"
+    },
+    {
+      "fact_number": 2,
+      "fact": "You can be fined for swearing in Australia and in the last financial year people in Australia's Northern Territory paid $48,372 in fines.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:11:13"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When the first transatlantic cable was laid in 1858, the reception on it was so bad that it took 17 hours to send the first message across.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:17:45"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Last year, to celebrate World Vegan Day, PETA, the animal charity, asked Fryup in Yorkshire to change its name to Vegan Fryup.",
+      "presenter": "Ann Miller",
+      "guest": false,
+      "start_time": "00:24:16"
+    }
+  ]
+}

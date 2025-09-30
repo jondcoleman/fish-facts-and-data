@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics, including a historical mishap during Britain's declaration of war in 1914, a bacterium used in artificial snow production, the rigorous selection process for Qing Dynasty concubines, and the phenomenon of meteors skimming off Earth's atmosphere.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When Britain declared war in 1914, they accidentally did it in the wrong format and had to swap the letters, otherwise Britain would not technically be at war.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There's a bacterium that can freeze water just by touching it, and these bacteria are used to make artificial snow in ski resorts.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:13:03"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Women who were applying to be Qing Dynasty concubines had to spend a night sleeping with the Emperor's mother first, so that she could check they didn't snore.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:18:37"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Some meteors skim off the earth as if they were a stone skimming across the waters.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:31:11"
+    }
+  ]
+}

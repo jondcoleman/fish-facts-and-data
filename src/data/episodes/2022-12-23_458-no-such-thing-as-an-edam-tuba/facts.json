@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "In this Christmas special episode of 'No Such Thing As A Fish', the hosts present a selection of quirky and fascinating facts submitted by their live audience. The episode features discussions on unusual topics such as hairy tongues, a dog from 'Gladiator' appearing in 'EastEnders', the density of frozen meatballs setting off metal detectors, and the secretive nature of the Angostura bitters recipe.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Some people can grow hair on their tongues.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:04:07"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In Gladiator, released in 2000, Russell Crowe had a dog, quite ferocious dog, played by a dog called Kite, who was a Belgian shepherd, apparently a terveur in Belgian shepherd. Anyway, she went on to be well-arred in EastEnders.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:07:13"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In Switzerland it's illegal to flush the toilet after 10 p.m.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:08:44"
+    },
+    {
+      "fact_number": 4,
+      "fact": "It is possible to make a tuba out of material other than brass, and somebody once made one from cheese. And it sounded okay.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:11:42"
+    }
+  ]
+}

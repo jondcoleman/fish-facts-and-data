@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and fascinating facts, including the auction of the oldest surviving Sooty puppet, the role of salmon in shaping mountains, the Archbishop of Canterbury's concerns about broadcasting a royal wedding, and the unique mating call of the Pumpkin Toadlet frog.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The oldest surviving Sooty puppet has just been bought at auction, and it was bought by Sooty.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:47"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Mountains are partly shaped by salmon.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:06:50"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When King George VI married the Queen Mother, the Archbishop of Canterbury wouldn't let them broadcast the ceremony on the radio in case people listened in the pub without removing their hats.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:15:56"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The Brazilian frog, known as the Pumpkin Toadlet, has a mating call that can be heard by every animal out there, except for other Pumpkin Toadlets.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:26:50"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features discussions on a variety of topics including the mishaps in the production of the film Howling 2, the peculiar death of author Elizabeth Gaskell, Ovid's ancient seduction tips, and the surprising art collection of Nando's restaurants.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "All the werewolves in the film Howling 2 are actually monkeys because the wrong costumes were delivered.",
+      "presenter": "Rosie Holt",
+      "guest": true,
+      "start_time": "00:02:48"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The author Elizabeth Gaskell died in the middle of saying, \"When I am dead,\" but only got as far as \"when...\"",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:05"
+    },
+    {
+      "fact_number": 3,
+      "fact": "One of Ovid's tips for seducing a woman you fancied was to pretend you'd seen dust on her cleavage and then go to brush it off.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:29:09"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The largest collection of contemporary South African art in the world is in Nando's.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:41:20"
+    }
+  ]
+}

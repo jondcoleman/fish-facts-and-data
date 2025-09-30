@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the logistics of dog sled racing, a peculiar monument related to Victor Hugo, a study on zombie apocalypse survival, and the eccentricities of a 1930s actor.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Every competitor at the world's longest dog sled race brings about 600 spare pairs of shoes with them. And they're for the dogs.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:01:59"
+    },
+    {
+      "fact_number": 2,
+      "fact": "3,000 feet up a mountain in France is a block of sandstone commemorating the exact spot where the author Victor Hugo's parents conceived him.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:12:49"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In the event of a zombie apocalypse, only one country will survive. And that country is North Korea.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:19:19"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The 1930s actor, George Arliss, once booked himself into the left luggage office at Charing Cross as a parcel in order to escape people who wanted his autograph.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:31:41"
+    }
+  ]
+}

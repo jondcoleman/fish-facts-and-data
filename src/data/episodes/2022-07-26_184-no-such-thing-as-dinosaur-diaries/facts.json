@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of topics including the dangers of searching for certain celebrities online, the peculiarities of certain dinosaur fossils, the eating habits of snakes, and the historical use of Arabic numbers in Europe.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Avril Lavigne is the celebrity most likely to give you a virus.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There is a type of dinosaur which is almost always found on its back.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:13:30"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Snakes that eat snakes can eat snakes that are 139% of their body length.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:21:59"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Medieval street performers multiplied numbers together in public for entertainment.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:29:39"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating facts, including historical bus systems in London, the psychological effects of power posing, a futuristic library project involving Margaret Atwood, and Japan's innovative approach to earthquake preparedness in elevators.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the 1840s, London buses had straps attached to the driver's arms that you would yank if you wanted to stop.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Standing like Superman can make you more successful.",
+      "presenter": "Ann Miller",
+      "guest": true,
+      "start_time": "00:10:52"
+    },
+    {
+      "fact_number": 3,
+      "fact": "This year Margaret Atwood submitted her latest novel and it's going to hit the bookshops in the year 2,114.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:24"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Japan is considering installing toilets in its lifts.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:24:59"
+    }
+  ]
+}

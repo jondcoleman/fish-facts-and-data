@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a variety of intriguing topics, including the misunderstood reputation of the IK people of Uganda, the eccentric life and literary work of Timothy Dexter, the peculiar habits of Christians regarding Sunday activities, and the surprising connection between Wayne Rooney and the funding of the film Avatar.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The IK people of Uganda are the standard textbook example of a selfish society where members only look after themselves. It turns out they've just been misunderstood this whole time.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:31"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1797, an author was so criticized for the lack of punctuation in his book that in its next printing, he included a page at the end of nothing but full stops, commas, and exclamation marks for the readers to slot in wherever they liked.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:18:11"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Christians watch less porn on Sundays, but they do make up for it throughout the rest of the week.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:31:33"
+    },
+    {
+      "fact_number": 4,
+      "fact": "At least four seconds of the film Avatar was funded by Wayne Rooney.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:41:02"
+    }
+  ]
+}

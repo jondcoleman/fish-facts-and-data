@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including a mysterious donut hole measurer from the 1940s, the use of ancient poetry to track porpoise habitats, the unconventional use of beet juice in Canadian tractor tires, and a library in San Francisco designed to help rebuild civilization in the event of an apocalypse.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the 1940s, a mystery man traveled America measuring the holes in donuts and passing a ruling on what size they should be.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Scientists are using poetry from the past to protect porpoises.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:16:17"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In Canada, tractor tires are filled up with vegetable juice.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:34"
+    },
+    {
+      "fact_number": 4,
+      "fact": "If civilization comes to an end, one of the best places to be is a cafe in Fort Mason, San Francisco.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:38:11"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features discussions on memory champions and their techniques, the life and execution of Walter Raleigh, the use of the word 'poop' in Turing tests, and how moths react to the sound of keys, mistaking it for bats.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that three times memory champion, Ben Pridmore, is up to his fourth lucky hat, as he forgot where he left the other way.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:03:01"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is that before he was executed, Walter Raleigh delivered a 45-minute improvised speech telling the crowd about his life.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:15:46"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that, according to a new scientific study, the single most convincing word a human can use to prove that they are human, and not a robot is the word poop.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:28:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that if you shake your keys at a moth, it thinks you're a bat and drops out of the sky.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:45:08"
+    }
+  ]
+}

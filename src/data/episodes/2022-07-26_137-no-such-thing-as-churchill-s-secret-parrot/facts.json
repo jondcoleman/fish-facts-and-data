@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts from the hosts' new book, covering topics such as the rarity of four-year-old mice compared to centenarians, the Pinkerton Detective Agency's work for Coca-Cola, the magnetic properties of Mauritania's highest point, and a plane's emergency landing due to farting sheep.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Four-year-old mice are less common than 100-year-old humans.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:49"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The detective agency that hunted Butch Cassidy also worked for Coca-Cola.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:15:24"
+    },
+    {
+      "fact_number": 3,
+      "fact": "You cannot get to the highest point of Mauritania with a compass.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:23:36"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 2015, a plane had to make an emergency landing after the smoke alarm was triggered by farting sheep.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:31:23"
+    }
+  ]
+}

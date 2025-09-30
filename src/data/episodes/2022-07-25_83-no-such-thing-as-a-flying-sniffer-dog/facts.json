@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of quirky and fascinating topics, including a park ranger's repeated lightning strikes, a cat winning a dog award, ancient parking penalties, and the unique mating habits of insects.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The seventh time Park Ranger Roy Sullivan was struck by lightning coincided with the 22nd time he fought off a bear with a stick.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:01:50"
+    },
+    {
+      "fact_number": 2,
+      "fact": "This year, America's Hero Dog of the Year award was won by a cat.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:10:59"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The earliest known penalty for illegal parking was to be impaled on a stake.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:20:08"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Female corn earworm moths go invisible after sex.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:27:36"
+    }
+  ]
+}

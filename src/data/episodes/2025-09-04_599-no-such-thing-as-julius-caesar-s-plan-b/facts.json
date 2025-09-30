@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on ancient Roman charioteers, the eccentricities of Confederate General Stonewall Jackson, a 19th-century Latin poetry machine, and the scandalous life of 7th-century French King Dagobert I.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The highest earning sportsperson of all time measured in prize money is a Roman champion charioteer named Gaius Apuleius Diocles.",
+      "presenter": "Mary Beard",
+      "guest": true,
+      "start_time": "00:03:19"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Because the Confederate General Stonewall Jackson believed that one of his arms was much larger than the other, he used to walk around with it held in the air just so that he could redistribute all of the blood it was hogging.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:17:01"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 1845, there was an exhibition in London where for a shilling, you could pull a lever on a giant machine which would produce a brand new line of poetry for you in Latin.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:33:04"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The biographer of 7th century French king, Dagobert I, didn't include a list of his lovers because they said it would make the book too long to read.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:46:35"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about a doctor in India prescribing Charlie Chaplin DVDs for mood disorders, the confusion over the reading order of the Chronicles of Narnia, a Jack Russell Terrier that traveled to both poles, and the inspiration behind the character of Don Corleone in The Godfather.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "A doctor in India, Ashok Aswani, would prescribe DVDs of Charlie Chaplin to his patients to convince them that joy and laughter was the remedy to their malady.",
+      "presenter": "Shaperak Korsandi",
+      "guest": true,
+      "start_time": "00:01:51"
+    },
+    {
+      "fact_number": 2,
+      "fact": "No one really knows what order the Chronicles of Narnia should be read in, not even C.S. Lewis knew.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:32"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The only dog to have been to both the North and South Poles was not a husky nor any kind of adventure dog, but a small Jack Russell terrier.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:24:38"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The character of Don Corleone in the novel The Godfather was based on the author's mother.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:37:46"
+    }
+  ]
+}

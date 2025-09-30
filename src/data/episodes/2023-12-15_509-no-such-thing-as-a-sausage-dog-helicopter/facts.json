@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a look back at some of the most interesting facts from 2023, including NASA's asteroid mission, Silvio Berlusconi's unusual inheritance, a footballer's ironic initials, and crocodiles' unexpected reaction to helicopters.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "After a journey of 60 million miles this year, NASA finally brought a fragment of an asteroid back to Earth in a special capsule. Unfortunately, they can't get into it because they don't have the right screwdriver.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The heirs who inherited Silvio Berlusconi's properties had to deal with the 20 bunga bunga showgirls still living in them.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:19:02"
+    },
+    {
+      "fact_number": 3,
+      "fact": "England footballer Ivan Toney, who was suspended for gambling in May, has the middle names Benjamin Elijah, meaning his initials spell out I bet.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:32:42"
+    },
+    {
+      "fact_number": 4,
+      "fact": "This year we discovered that crocodiles are horny for helicopters.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:38:38"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of intriguing topics, including the peculiar last words of Socrates, the surprising influence of BBC Radio 4 on UK heating systems, Andy Warhol's unique approach to wig maintenance, and the amusingly named village of Ugly, which played a role in the planning of Stansted Airport.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that when Socrates lost feeling in his penis, he asked his friend to sacrifice a cock.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is that a lot of people in the UK have their heating controlled by BBC Radio 4.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:25:33"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that Andy Warhol would regularly have his wig cut by a barber and then return the following month wearing a new longer wig.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:30:51"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Okay, my fact this week is that when Stansted Airport was being planned, locals, complaining to maintain the area's natural beauty, often met in a village called Ugly.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:45:19"
+    }
+  ]
+}

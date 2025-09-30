@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics, including a historical ice skating incident in the Netherlands, the superstitions surrounding former Argentinian president Carlos Menem, the engineering mishaps of Isambard Kingdom Brunel, and the unique methods of Japanese police in handling offenders.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1683, some people were ice skating in the Netherlands when the ice broke away and they floated all the way to Essex.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Former Argentinian president Carlos Menem had such a reputation for bad luck that people would touch their left breast or testicle while shaking his hand.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:10:04"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Isambard Kingdom Brunel once spent six weeks with a coin stuck in his windpipe as a result of a magic trick that backfired.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:18:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "To deal with violent or drunk people, Japanese police carry massive futons and roll the offender up in them to calm them down.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:28:21"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics, including a music producer collaborating with bridges, the historical size of dragonflies, a fictional German politician, and the origins of the term 'powder room.'",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Nate Mercerow, who produced the most recent album of Grammy-winning R&B star Leon Bridges, has now started collaborating with actual Bridges.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:21"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Dragonflies used to be the same size as modern-day pigeons.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:17:02"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Germany's parliament has 709 real politicians and one fictional one.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:30:17"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Before it was somewhere to go to powder your nose, a powder room was a room where you stuck your head through the wall to get your wig powdered.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:39:37"
+    }
+  ]
+}

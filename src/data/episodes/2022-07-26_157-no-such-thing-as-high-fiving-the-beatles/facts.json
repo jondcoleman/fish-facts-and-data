@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the origin of the high five, NASA's early attempts to accommodate female astronauts, the backlog in the Indian justice system, and efforts to preserve glacial ice in Antarctica.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The man who popularized the high five only has four fingers.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:50"
+    },
+    {
+      "fact_number": 2,
+      "fact": "When the first American woman went into space, NASA designed a makeup kit for her.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:33"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The Indian justice system has a backlog of 31 million cases.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:21:13"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Scientists are building a special bunker in Antarctica to store bits of glacier from the Alps.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:30:06"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on historical figures and events, including Captain Scott's Antarctic expedition, Eleanor of Aquitaine's influence on fireplaces, the Roman Empire's use of Britain as a place of exile, and America's tree witness protection program.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When Captain Scott, the infamous British expedition leader, got to the South Pole, he saw in the distance a little flag fluttering and his heart sank, and then he saw a tent and inside that tent, there was a letter addressed very neatly to King Harkon of Norway.",
+      "presenter": "Dan Snow",
+      "guest": true,
+      "start_time": "00:03:09"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Eleanor of Aquitaine gave us fireplaces.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:16:30"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When the Romans defeated barbarian tribes, they would often send them to Britain as punishment.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:30:44"
+    },
+    {
+      "fact_number": 4,
+      "fact": "America has a witness protection program for their trees.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:40:28"
+    }
+  ]
+}

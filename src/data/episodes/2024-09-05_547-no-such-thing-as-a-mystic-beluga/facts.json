@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features facts about a midge invasion in a small English town, the complex world of radar detectors, the historical role of bards in Wales, and how beluga whales communicate by wobbling their melons. The hosts explore these topics with humor and interesting anecdotes, including discussions on the economic impact of midges, the evolution of radar technology, the cultural significance of bards, and the unique communication methods of beluga whales.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Earlier this year, the town of Midgeham was invaded by midges.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:47"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There are radar detectors, and there are radar detector detectors, and there are radar detector detector detectors.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:31"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 16th century Wales, there was a financial crisis which meant that lots of families could no longer afford to keep a household bard.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:24:03"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Some whales communicate by wobbling their melons.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:36:47"
+    }
+  ]
+}

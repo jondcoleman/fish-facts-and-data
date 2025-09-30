@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and intriguing topics, including a Star Wars costume designer who created a moose suit for scientists, Switzerland's unique political system with multiple ex-presidents, a New Zealand scientist's innovative method to search for the Loch Ness monster using eDNA, and the fascinating fact that the human liver grows and shrinks by 40% every day.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "One of the costume designers on Star Wars also made a moose suit for scientists to help them sneak up on moose.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Switzerland has 18 living ex-presidents.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:12:32"
+    },
+    {
+      "fact_number": 3,
+      "fact": "A New Zealand scientist is planning to hunt for the Loch Ness monster inside of a cup.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:23:58"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Your liver grows and shrinks by 40% every 24 hours.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:33:24"
+    }
+  ]
+}

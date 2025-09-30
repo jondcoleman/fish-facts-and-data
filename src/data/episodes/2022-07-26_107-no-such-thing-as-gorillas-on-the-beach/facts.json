@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and humorous topics, including unusual legal allowances in Utah, Victorian beach customs, the dietary changes of a comic character due to mad cow disease, and the discovery of ancient worm sperm.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In Utah, it is illegal to wear a hat in your driving license photo, but you can wear a colander.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:53"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There was a Victorian job that consisted solely of pushing people into the sea.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:09:57"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Desperate Dan stopped eating cow pie because of mad cow disease.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:17:44"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The oldest sperm is worm sperm.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:33"
+    }
+  ]
+}

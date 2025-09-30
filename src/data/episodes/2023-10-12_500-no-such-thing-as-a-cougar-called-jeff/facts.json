@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This special 500th episode of \"No Such Thing As A Fish\" features the return of Anna Ptaszynski and covers a variety of intriguing topics, including the cleaning of Michelangelo's David, the benefits of having ten fingers for piano playing, the life of Cougar Annie, and the mystery of the world's largest crocodile.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In preparation for the 500th anniversary of the creation of Michelangelo's David, the people in charge of cleaning him had a huge falling out because they couldn't agree if he should be washed or dry cleaned.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:07:01"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Having 10 fingers and no thumbs is very useful for playing the piano.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:19:33"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In the late 1950s, a woman called Cougar Annie put an advert in a newspaper looking for a younger man to marry, but that isn't why she got her nickname. She was just really good at killing Cougars.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:33:16"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Nobody knows how large the world's largest crocodile is.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:46:26"
+    }
+  ]
+}

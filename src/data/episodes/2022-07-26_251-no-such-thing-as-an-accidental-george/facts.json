@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the incredible strength of cockroaches, the early days of the Orient Express, the discovery of the largest known prime number, and the secretive lives of Michelin restaurant reviewers.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Cockroaches can carry 900 times their own body weight on their backs.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:34"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The first British travellers aboard the Orient Express were advised to bring a revolver and a teapot with them.",
+      "presenter": "Anne Miller",
+      "guest": true,
+      "start_time": "00:11:15"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The largest known prime number has 24,862,048 digits.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:20:16"
+    },
+    {
+      "fact_number": 4,
+      "fact": "To preserve their anonymity, Michelin restaurant reviewers are advised to not tell even their parents what they do for a living.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:30:38"
+    }
+  ]
+}

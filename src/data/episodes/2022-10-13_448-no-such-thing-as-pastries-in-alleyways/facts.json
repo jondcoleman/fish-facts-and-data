@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and intriguing topics, including the surprising taste difference between croissant shapes, the role of a menstrual cycle coach in women's football, the coincidental names of archaeologists involved in the discovery of King Richard III's remains, and the unique behavior of the sarcastic fringe-head fish.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Croissant shaped croissants taste worse than non-croissant shaped croissants.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:02:14"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Manchester City women's football team has a menstrual cycle coach.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:14:10"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Two of the leading archaeologists to dig up King Richard III's bones were called King and Richard.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:26:36"
+    },
+    {
+      "fact_number": 4,
+      "fact": "To establish dominance, the sarcastic fringe-head fish will engage in kissing competitions with rival males.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:37:00"
+    }
+  ]
+}

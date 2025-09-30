@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features discussions on unique historical facts, including a theater that paid playwrights in ham, the varying historical perceptions of Monday as a day of the week, the early days of electric cars, and a dog in France that faked heroism for rewards.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When Virginia's Barter Theatre first opened in 1933, it paid playwrights their royalties exclusively in ham except for George Bernard Shaw who was a vegetarian and managed to negotiate his payment to be in spinach.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:02:09"
+    },
+    {
+      "fact_number": 2,
+      "fact": "At different times in history, Mondays have been considered the first day of the week, the second, the third and the seventh.",
+      "presenter": "Greg Jenner",
+      "guest": true,
+      "start_time": "00:16:44"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The first electric cars were taken away each night and delivered back to your door fully charged in the morning.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:27:05"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1908, the New York Times reported on a dog in France that was deliberately knocking children into the Seine before rescuing them and claiming a reward.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:39:19"
+    }
+  ]
+}

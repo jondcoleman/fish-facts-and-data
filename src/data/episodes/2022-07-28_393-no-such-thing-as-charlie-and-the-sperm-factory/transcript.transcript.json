@@ -1,0 +1,5022 @@
+[
+  {
+    "start": 0,
+    "end": 3.68,
+    "text": " Hi everyone, welcome to this week's episode of No Such Thing as a Fish."
+  },
+  {
+    "start": 3.68,
+    "end": 9.18,
+    "text": " Now, before I remind you about our tour, which is about to begin in places such as"
+  },
+  {
+    "start": 9.18,
+    "end": 13.68,
+    "text": " Tumbridge Wells, Nottingham Richmond, Reading, Peterborough and a whole load of other places,"
+  },
+  {
+    "start": 13.68,
+    "end": 19.12,
+    "text": " I want to tell you about the very, very, very special guest that we have on today's show."
+  },
+  {
+    "start": 19.12,
+    "end": 24.48,
+    "text": " Anna is away at the moment, she's on holiday, I'm not sure exactly where she's gone, probably"
+  },
+  {
+    "start": 24.48,
+    "end": 26.18,
+    "text": " somewhere very sunny."
+  },
+  {
+    "start": 26.18,
+    "end": 30.24,
+    "text": " Last day saw she was removing lots of the holiday clothes from her bag and replacing"
+  },
+  {
+    "start": 30.24,
+    "end": 33.96,
+    "text": " them with 19th century literature, so I'm sure she's having a great time."
+  },
+  {
+    "start": 33.96,
+    "end": 41.36,
+    "text": " But in her place, we have the incredible journalist and author, Mary Roach."
+  },
+  {
+    "start": 41.36,
+    "end": 45.12,
+    "text": " Now I don't know if you'll know about Mary, you really should if you don't."
+  },
+  {
+    "start": 45.12,
+    "end": 50.16,
+    "text": " She is, well, what I would say is if you were to take QI, the TV show, and No Such Thing"
+  },
+  {
+    "start": 50.16,
+    "end": 56.16,
+    "text": " as a Fish, and squish it all together in a tiny little ball, send it over to America,"
+  },
+  {
+    "start": 56.16,
+    "end": 60.94,
+    "text": " and then reconstitute it as a single human, then pretty much you're going to end up with"
+  },
+  {
+    "start": 60.94,
+    "end": 61.94,
+    "text": " Mary Roach."
+  },
+  {
+    "start": 61.94,
+    "end": 67.3,
+    "text": " She has written some of the greatest popular science books in history."
+  },
+  {
+    "start": 67.3,
+    "end": 73.38,
+    "text": " Books such as Stiff, The Curious Lives of Human Cadavers, Bonk, The Curious Coupling"
+  },
+  {
+    "start": 73.38,
+    "end": 78.94,
+    "text": " of Science and Sex, I think you can see probably why we get on very well with Mary, Packing"
+  },
+  {
+    "start": 78.94,
+    "end": 84.98,
+    "text": " for Mars, The Curious Science of Life in the Void, Gulp, Adventures on the Elementary Canal,"
+  },
+  {
+    "start": 84.98,
+    "end": 91.52,
+    "text": " and her latest book is in America, it's called Fuzz When Nature Breaks the Law, and in the"
+  },
+  {
+    "start": 91.52,
+    "end": 97.12,
+    "text": " UK it is known as Animal Vegetable Criminal, and it is a book all about times when the"
+  },
+  {
+    "start": 97.12,
+    "end": 100.36,
+    "text": " natural world came up against the legal world."
+  },
+  {
+    "start": 100.36,
+    "end": 104.24,
+    "text": " I haven't read it yet, Dan has read it, and he assures me it's absolutely brilliant, and"
+  },
+  {
+    "start": 104.24,
+    "end": 108.36,
+    "text": " I can definitely believe that because I've read all of Mary's other books, and to a"
+  },
+  {
+    "start": 108.36,
+    "end": 113.92,
+    "text": " tome, they are incredible, so really do enjoy the show, I'm sure you will."
+  },
+  {
+    "start": 113.92,
+    "end": 119.78,
+    "text": " Buy Mary's new book, and pretty much all of her old books if you're interested in stuff,"
+  },
+  {
+    "start": 119.78,
+    "end": 121.38,
+    "text": " and do come to our live shows."
+  },
+  {
+    "start": 121.38,
+    "end": 126.22,
+    "text": " If you live in any of the aforementioned places that I mentioned earlier on, then come along"
+  },
+  {
+    "start": 126.22,
+    "end": 129.74,
+    "text": " in the next couple of weeks, or if you live anywhere in the UK and Ireland, then go to"
+  },
+  {
+    "start": 129.74,
+    "end": 134.3,
+    "text": " qi.com/fishevents and you can see where we'll be playing near you."
+  },
+  {
+    "start": 134.3,
+    "end": 150.88,
+    "text": " Okay, on with the podcast."
+  },
+  {
+    "start": 150.88,
+    "end": 156.44,
+    "text": " Hello and welcome to another episode of No Such Thing as a Fish, a weekly podcast coming"
+  },
+  {
+    "start": 156.44,
+    "end": 160.6,
+    "text": " to you from four undisclosed locations globally."
+  },
+  {
+    "start": 160.6,
+    "end": 165.82,
+    "text": " My name is Dan Schreiber, I'm sitting here with Andrew Hunter Murray, James Harkin,"
+  },
+  {
+    "start": 165.82,
+    "end": 170.3,
+    "text": " and our very special guest, it is Mary Roach, and once again we have gathered round the microphones"
+  },
+  {
+    "start": 170.3,
+    "end": 175.14,
+    "text": " with our four favorite facts from the last seven days, and in no particular order, here"
+  },
+  {
+    "start": 175.14,
+    "end": 176.82,
+    "text": " we go."
+  },
+  {
+    "start": 176.82,
+    "end": 179.94,
+    "text": " Starting with fact number one, and that is Mary."
+  },
+  {
+    "start": 179.94,
+    "end": 185.66,
+    "text": " When feeling threatened, gulls practice a maneuver called defensive vomiting, the point"
+  },
+  {
+    "start": 185.66,
+    "end": 192.16,
+    "text": " of which experts say is not to discuss and repel the predator, but to offer it an alternative"
+  },
+  {
+    "start": 192.16,
+    "end": 193.16,
+    "text": " meal."
+  },
+  {
+    "start": 193.16,
+    "end": 198.52,
+    "text": " Wow, what possibly could they offer that is better than what the animal was coming for"
+  },
+  {
+    "start": 198.52,
+    "end": 199.68,
+    "text": " in the first place?"
+  },
+  {
+    "start": 199.68,
+    "end": 200.68,
+    "text": " Is it vomit?"
+  },
+  {
+    "start": 200.68,
+    "end": 201.68,
+    "text": " Is it actual vomit?"
+  },
+  {
+    "start": 201.68,
+    "end": 205.64,
+    "text": " It is, it's vomit, and I think that is a service because it's partially digested."
+  },
+  {
+    "start": 205.64,
+    "end": 206.64,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 206.64,
+    "end": 212.08,
+    "text": " It saves effort, so when I first heard about defensive vomiting, I actually heard about"
+  },
+  {
+    "start": 212.08,
+    "end": 219.34,
+    "text": " it in a vulture, because vultures do this too, and I thought, oh, they do this to be lighter,"
+  },
+  {
+    "start": 219.34,
+    "end": 223.58,
+    "text": " so when they flee, when they fly away, they'll have less weight, and then the guy said, no,"
+  },
+  {
+    "start": 223.58,
+    "end": 224.98,
+    "text": " no, that's not why they do it."
+  },
+  {
+    "start": 224.98,
+    "end": 229.78,
+    "text": " The other thing I thought would be to discuss to them, because you hear about women feeling"
+  },
+  {
+    "start": 229.78,
+    "end": 234.94,
+    "text": " threatened and like vomiting to discuss to their attacker, so I thought it was that,"
+  },
+  {
+    "start": 234.94,
+    "end": 240.26,
+    "text": " in fact, no, it's just to offer them something more appealing to eat."
+  },
+  {
+    "start": 240.26,
+    "end": 246.08,
+    "text": " I was reading in your book that you were talking to an expert, and specifically the items that"
+  },
+  {
+    "start": 246.08,
+    "end": 253.36,
+    "text": " she has seen been vomited up before her include ants, strawberry shortcake, a large mackerel."
+  },
+  {
+    "start": 253.36,
+    "end": 256.4,
+    "text": " Yeah, but Dan, think about it, that does make sense, right?"
+  },
+  {
+    "start": 256.4,
+    "end": 260.88,
+    "text": " If you're coming over to eat a gull, but you get some strawberry shortcake instead, then"
+  },
+  {
+    "start": 260.88,
+    "end": 262.56,
+    "text": " that's obviously way tastier, though."
+  },
+  {
+    "start": 262.56,
+    "end": 263.56,
+    "text": " That's a big win."
+  },
+  {
+    "start": 263.56,
+    "end": 268.04,
+    "text": " Well, it looks like from the list that sometimes it's a very awesome cuisine, like spaghetti"
+  },
+  {
+    "start": 268.04,
+    "end": 272.3,
+    "text": " marinara with mussels, and the other times, it's a loaded diaper."
+  },
+  {
+    "start": 272.3,
+    "end": 273.3,
+    "text": " Wow."
+  },
+  {
+    "start": 273.3,
+    "end": 278.86,
+    "text": " I wonder if the predator ever waits sitting there in front of a diaper that's just been"
+  },
+  {
+    "start": 278.86,
+    "end": 282.18,
+    "text": " vomited up in front of it, and it's saying, no, I'm still going to eat you unless you"
+  },
+  {
+    "start": 282.18,
+    "end": 283.82,
+    "text": " can come up with something a little bit better."
+  },
+  {
+    "start": 283.82,
+    "end": 287.42,
+    "text": " The guy was saying, hang on, hang on, I've got some shortcake, I'm sure I had some shortcake"
+  },
+  {
+    "start": 287.42,
+    "end": 288.42,
+    "text": " earlier."
+  },
+  {
+    "start": 288.42,
+    "end": 290.98,
+    "text": " I read of one bird, the full mar."
+  },
+  {
+    "start": 290.98,
+    "end": 291.98,
+    "text": " Do you know this one?"
+  },
+  {
+    "start": 291.98,
+    "end": 297.1,
+    "text": " It's very oily, the full mar, and in the olden days, they used to use them as torches."
+  },
+  {
+    "start": 297.1,
+    "end": 299.24,
+    "text": " They would set them on fire because they were so oily."
+  },
+  {
+    "start": 299.24,
+    "end": 306,
+    "text": " I read that they sometimes vomit very, very oily sick onto another animal, and it might"
+  },
+  {
+    "start": 306,
+    "end": 310.16,
+    "text": " stop their feathers from working and stop them from being able to fly and swim and stuff"
+  },
+  {
+    "start": 310.16,
+    "end": 311.16,
+    "text": " like that."
+  },
+  {
+    "start": 311.16,
+    "end": 312.16,
+    "text": " Right."
+  },
+  {
+    "start": 312.16,
+    "end": 313.16,
+    "text": " Yeah, that's a very cool idea."
+  },
+  {
+    "start": 313.16,
+    "end": 315.84,
+    "text": " So many things you can do with vomit."
+  },
+  {
+    "start": 315.84,
+    "end": 318.36,
+    "text": " I think we underutilize our own vomit."
+  },
+  {
+    "start": 318.36,
+    "end": 319.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 319.36,
+    "end": 320.36,
+    "text": " Are there powers?"
+  },
+  {
+    "start": 320.36,
+    "end": 322.96,
+    "text": " Do we have extra powers to our vomit that we're not utilizing?"
+  },
+  {
+    "start": 322.96,
+    "end": 324.36,
+    "text": " I don't know if we do."
+  },
+  {
+    "start": 324.36,
+    "end": 325.36,
+    "text": " Maybe so."
+  },
+  {
+    "start": 325.36,
+    "end": 326.8,
+    "text": " You're really interested in that, aren't you?"
+  },
+  {
+    "start": 326.8,
+    "end": 330.2,
+    "text": " Because just this morning, you messaged us saying that you'd just been vomited on."
+  },
+  {
+    "start": 330.2,
+    "end": 331.2,
+    "text": " Yes."
+  },
+  {
+    "start": 331.2,
+    "end": 334.04,
+    "text": " This wasn't me doing research for the show."
+  },
+  {
+    "start": 334.04,
+    "end": 339.36,
+    "text": " My son vomited on me this morning in pure coincidence, he's a bit ill, but yeah, it"
+  },
+  {
+    "start": 339.36,
+    "end": 340.36,
+    "text": " is."
+  },
+  {
+    "start": 340.36,
+    "end": 341.36,
+    "text": " I couldn't fly afterwards."
+  },
+  {
+    "start": 341.36,
+    "end": 342.36,
+    "text": " I was very stagey."
+  },
+  {
+    "start": 342.36,
+    "end": 343.36,
+    "text": " I really like it."
+  },
+  {
+    "start": 343.36,
+    "end": 347.24,
+    "text": " It's not bird related, but it's a Nigerian bit of folklore that there are snakes which"
+  },
+  {
+    "start": 347.24,
+    "end": 349.84,
+    "text": " will vomit up a diamond, okay?"
+  },
+  {
+    "start": 349.84,
+    "end": 355.28,
+    "text": " If they're hunting at night, they need a bit of light, and so they throw up a diamond,"
+  },
+  {
+    "start": 355.28,
+    "end": 358.44,
+    "text": " and the light will refract around inside it and light up the local area."
+  },
+  {
+    "start": 358.44,
+    "end": 362.72,
+    "text": " That's really interesting, because do you know those little bits of glass in Rhodes'"
+  },
+  {
+    "start": 362.72,
+    "end": 363.72,
+    "text": " cat size?"
+  },
+  {
+    "start": 363.72,
+    "end": 366.96,
+    "text": " Well, they were supposed to have been invented in the 20th century, right?"
+  },
+  {
+    "start": 366.96,
+    "end": 370.08,
+    "text": " But it seems like maybe snakes invented them way before."
+  },
+  {
+    "start": 370.08,
+    "end": 371.08,
+    "text": " Yes."
+  },
+  {
+    "start": 371.08,
+    "end": 372.92,
+    "text": " The snakes don't do this, unfortunately."
+  },
+  {
+    "start": 372.92,
+    "end": 376.2,
+    "text": " It would be amazing if they did."
+  },
+  {
+    "start": 376.2,
+    "end": 379.6,
+    "text": " The reason the myth came about is they've got these little mineral deposits, I think"
+  },
+  {
+    "start": 379.6,
+    "end": 382.6,
+    "text": " they're called calculi, or calculi, I don't know how you pronounce it."
+  },
+  {
+    "start": 382.6,
+    "end": 386.84,
+    "text": " They're like kidney stones basically in their bodies, and so they are there, but they're"
+  },
+  {
+    "start": 386.84,
+    "end": 388.84,
+    "text": " not diamonds, and the snakes don't throw them up."
+  },
+  {
+    "start": 388.84,
+    "end": 392,
+    "text": " But I guess people have cut open the snakes and said, \"Ah, look, here's the magical diamond"
+  },
+  {
+    "start": 392,
+    "end": 393.16,
+    "text": " it uses as a torch.\""
+  },
+  {
+    "start": 393.16,
+    "end": 395.68,
+    "text": " But don't you need a light source?"
+  },
+  {
+    "start": 395.68,
+    "end": 397.92,
+    "text": " Do they also throw up a flashlight?"
+  },
+  {
+    "start": 397.92,
+    "end": 400.08,
+    "text": " I mean, where are they?"
+  },
+  {
+    "start": 400.08,
+    "end": 404.74,
+    "text": " It's like the diamond is no good if you don't have the right kind of light."
+  },
+  {
+    "start": 404.74,
+    "end": 405.74,
+    "text": " So true."
+  },
+  {
+    "start": 405.74,
+    "end": 407.08,
+    "text": " So vultures do it as well."
+  },
+  {
+    "start": 407.08,
+    "end": 408.08,
+    "text": " Any other birds?"
+  },
+  {
+    "start": 408.08,
+    "end": 409.6,
+    "text": " Any other animals do this?"
+  },
+  {
+    "start": 409.6,
+    "end": 412.96,
+    "text": " I've only heard of vultures and gulls."
+  },
+  {
+    "start": 412.96,
+    "end": 416.72,
+    "text": " Vultures are problematic because they like to roost on, you know, those giant communications"
+  },
+  {
+    "start": 416.72,
+    "end": 417.72,
+    "text": " towers."
+  },
+  {
+    "start": 417.72,
+    "end": 423.04,
+    "text": " They have a lot of places for vultures to just sit there and hang out, which they like"
+  },
+  {
+    "start": 423.04,
+    "end": 424.36,
+    "text": " to do."
+  },
+  {
+    "start": 424.36,
+    "end": 429.52,
+    "text": " And so it makes it really, if you're someone whose job is to climb the communications tower"
+  },
+  {
+    "start": 429.52,
+    "end": 436.4,
+    "text": " and do work, you, first of all, are stepping a lot of vultures shit all over the struts"
+  },
+  {
+    "start": 436.4,
+    "end": 442.88,
+    "text": " of the communications tower, but also you have like 50 vultures vomiting down this rain of"
+  },
+  {
+    "start": 442.88,
+    "end": 443.88,
+    "text": " vomit."
+  },
+  {
+    "start": 443.88,
+    "end": 445.52,
+    "text": " Oh my goodness."
+  },
+  {
+    "start": 445.52,
+    "end": 446.52,
+    "text": " Yeah."
+  },
+  {
+    "start": 446.52,
+    "end": 452.48,
+    "text": " I heard that when I first read about gulls spewing out, I thought it was a thing about,"
+  },
+  {
+    "start": 452.48,
+    "end": 455.48,
+    "text": " you know, just getting weight off so that they could fly away faster."
+  },
+  {
+    "start": 455.48,
+    "end": 459.4,
+    "text": " And that's, that turns out to be a myth, but apparently it's not a myth within Komodo"
+  },
+  {
+    "start": 459.4,
+    "end": 460.4,
+    "text": " Dragons."
+  },
+  {
+    "start": 460.4,
+    "end": 461.4,
+    "text": " They can't fly."
+  },
+  {
+    "start": 461.4,
+    "end": 463.4,
+    "text": " That's a different dragon you're thinking of, Dan."
+  },
+  {
+    "start": 463.4,
+    "end": 464.4,
+    "text": " Sorry, yeah."
+  },
+  {
+    "start": 464.4,
+    "end": 468.52,
+    "text": " But you know, if they need to make a speedy getaway, they will just quickly have a vomit"
+  },
+  {
+    "start": 468.52,
+    "end": 472.84,
+    "text": " and it will lighten their load a bit, just allowing them that extra bit of speed."
+  },
+  {
+    "start": 472.84,
+    "end": 476.68,
+    "text": " And also, I'm sorry, how do we really know what the answer is?"
+  },
+  {
+    "start": 476.68,
+    "end": 477.92,
+    "text": " Nobody's asked the gulls."
+  },
+  {
+    "start": 477.92,
+    "end": 478.92,
+    "text": " Yes."
+  },
+  {
+    "start": 478.92,
+    "end": 483.36,
+    "text": " We've got different theories and I kind of like the, you know, speedy getaway."
+  },
+  {
+    "start": 483.36,
+    "end": 484.72,
+    "text": " Let me lighten the load."
+  },
+  {
+    "start": 484.72,
+    "end": 486.32,
+    "text": " Have we even tested that as a theory?"
+  },
+  {
+    "start": 486.32,
+    "end": 490.16,
+    "text": " Like, surely Usain Bolt should have had a quick vomit before he ran some of those hundred"
+  },
+  {
+    "start": 490.16,
+    "end": 493.12,
+    "text": " meters to really smash the record."
+  },
+  {
+    "start": 493.12,
+    "end": 496.72,
+    "text": " You do get that sports people sometimes do vomit before the sporting events."
+  },
+  {
+    "start": 496.72,
+    "end": 500.72,
+    "text": " I've heard of a few soccer players doing it, but usually I think it's like nerves and"
+  },
+  {
+    "start": 500.72,
+    "end": 501.72,
+    "text": " stuff like that, right?"
+  },
+  {
+    "start": 501.72,
+    "end": 502.72,
+    "text": " Adrenaline and stuff."
+  },
+  {
+    "start": 502.72,
+    "end": 505.96,
+    "text": " And of course, there was the marathon runner, what she called Paula Radcliffe."
+  },
+  {
+    "start": 505.96,
+    "end": 510.2,
+    "text": " Paula Radcliffe, she had a poo halfway through, which might have lightened her load and."
+  },
+  {
+    "start": 510.2,
+    "end": 511.2,
+    "text": " Did she win?"
+  },
+  {
+    "start": 511.2,
+    "end": 512.2,
+    "text": " Yeah, she did."
+  },
+  {
+    "start": 512.2,
+    "end": 513.2,
+    "text": " She did."
+  },
+  {
+    "start": 513.2,
+    "end": 514.2,
+    "text": " See, it works."
+  },
+  {
+    "start": 514.2,
+    "end": 517.56,
+    "text": " I think though, in the long run, she probably would think, maybe I wouldn't take that poo."
+  },
+  {
+    "start": 517.56,
+    "end": 521.96,
+    "text": " Maybe it wasn't worth the win because it's all anyone talks about."
+  },
+  {
+    "start": 521.96,
+    "end": 525.88,
+    "text": " It's the greatest speed marathon run out of all time, and that's all we ever talk about"
+  },
+  {
+    "start": 525.88,
+    "end": 526.88,
+    "text": " anyway."
+  },
+  {
+    "start": 526.88,
+    "end": 527.88,
+    "text": " Exactly."
+  },
+  {
+    "start": 527.88,
+    "end": 531.76,
+    "text": " Like, three of us knew that she definitely had a poo, but I did not know if she won that"
+  },
+  {
+    "start": 531.76,
+    "end": 532.76,
+    "text": " race."
+  },
+  {
+    "start": 532.76,
+    "end": 538.16,
+    "text": " This example of the gull vomiting, which is in your book, which I was reading about, it"
+  },
+  {
+    "start": 538.16,
+    "end": 543.48,
+    "text": " kind of was leading into this story about how there was huge problems at the Vatican when"
+  },
+  {
+    "start": 543.48,
+    "end": 547.76,
+    "text": " the Pope was going to have a big celebration and they had all these daffodils there and"
+  },
+  {
+    "start": 547.76,
+    "end": 552.44,
+    "text": " all the gulls were coming in and they don't eat flowers, but they were pissed off and seemed"
+  },
+  {
+    "start": 552.44,
+    "end": 557.74,
+    "text": " to be knocking them over and they thought maybe they were going in to pick the worms,"
+  },
+  {
+    "start": 557.74,
+    "end": 561.44,
+    "text": " but there was no obvious sign that there was happening and you sort of were questioning"
+  },
+  {
+    "start": 561.44,
+    "end": 565.6,
+    "text": " whether or not this is just a dickhead species of gull, maybe."
+  },
+  {
+    "start": 565.6,
+    "end": 566.6,
+    "text": " Exactly."
+  },
+  {
+    "start": 566.6,
+    "end": 571.68,
+    "text": " As we learned, gulls will eat just about anything, but they don't eat flowers and daffodils."
+  },
+  {
+    "start": 571.68,
+    "end": 574.16,
+    "text": " I read somewhere a poisonous, so and they didn't eat."
+  },
+  {
+    "start": 574.16,
+    "end": 575.16,
+    "text": " They weren't eating them."
+  },
+  {
+    "start": 575.16,
+    "end": 578.96,
+    "text": " They were just sort of pulling them up and throwing them around and the people who set"
+  },
+  {
+    "start": 578.96,
+    "end": 582.96,
+    "text": " this floral display up, they come down from the Netherlands and they spend like the entire"
+  },
+  {
+    "start": 582.96,
+    "end": 587.4,
+    "text": " day before setting it up, so they were pretty pissed at the gulls, but there wasn't any"
+  },
+  {
+    "start": 587.4,
+    "end": 592.64,
+    "text": " obvious reason gulls do a defensive thing where they pull up grass to just be macho"
+  },
+  {
+    "start": 592.64,
+    "end": 598.92,
+    "text": " and say, \"This is my territory,\" but that's why I just sort of thought, \"Well, is it just"
+  },
+  {
+    "start": 598.92,
+    "end": 599.92,
+    "text": " that they're dicks?"
+  },
+  {
+    "start": 599.92,
+    "end": 600.92,
+    "text": " I don't know.\""
+  },
+  {
+    "start": 600.92,
+    "end": 605.14,
+    "text": " Mary, I was reading about the training that you did because I know the book is all about"
+  },
+  {
+    "start": 605.14,
+    "end": 610.88,
+    "text": " wildlife and humans and the sort of vexed legal areas between them, and you did this."
+  },
+  {
+    "start": 610.88,
+    "end": 611.88,
+    "text": " Is it what?"
+  },
+  {
+    "start": 611.88,
+    "end": 612.88,
+    "text": " Yes."
+  },
+  {
+    "start": 612.88,
+    "end": 613.88,
+    "text": " Wildlife, human, attack, response training."
+  },
+  {
+    "start": 613.88,
+    "end": 618,
+    "text": " Yeah, it's kind of a, I don't know if you guys have forensics shows, like people go"
+  },
+  {
+    "start": 618,
+    "end": 620.16,
+    "text": " into the crime scene and collect evidence."
+  },
+  {
+    "start": 620.16,
+    "end": 621.16,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 621.16,
+    "end": 624.48,
+    "text": " It's kind of that, but when wild animals killed someone."
+  },
+  {
+    "start": 624.48,
+    "end": 628.8,
+    "text": " So they still have the yellow tape, you know, and the people come in with their evidence"
+  },
+  {
+    "start": 628.8,
+    "end": 632.7,
+    "text": " bags, the little evidence flags, and they're looking for blood spatter patterns and all"
+  },
+  {
+    "start": 632.7,
+    "end": 633.7,
+    "text": " that stuff."
+  },
+  {
+    "start": 633.7,
+    "end": 637.52,
+    "text": " I love it though, because the thing you wrote about is we do think, okay, so they're coming"
+  },
+  {
+    "start": 637.52,
+    "end": 641.16,
+    "text": " in and they're looking at, say, like a cougar that's killed a young man, but then it turns"
+  },
+  {
+    "start": 641.16,
+    "end": 642.68,
+    "text": " out that's all a setup."
+  },
+  {
+    "start": 642.68,
+    "end": 646.56,
+    "text": " The cougar has been framed, and actually it was a human killer that they didn't identify"
+  },
+  {
+    "start": 646.56,
+    "end": 650.52,
+    "text": " at the time only years later because they see puncture marks, but those have been framed,"
+  },
+  {
+    "start": 650.52,
+    "end": 655.28,
+    "text": " and I just love the idea that they're there to sort of suss out, okay, it looks like they"
+  },
+  {
+    "start": 655.28,
+    "end": 657.68,
+    "text": " were mauled by a cougar, but were they really?"
+  },
+  {
+    "start": 657.68,
+    "end": 658.68,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 658.68,
+    "end": 664.62,
+    "text": " It was a dude with an ice pick who stabbed somebody in the neck, and some doofus wildlife"
+  },
+  {
+    "start": 664.62,
+    "end": 670.42,
+    "text": " person who didn't take wart training, he's like, yeah, that looks like a cougar because"
+  },
+  {
+    "start": 670.42,
+    "end": 671.42,
+    "text": " they go right for the neck."
+  },
+  {
+    "start": 671.42,
+    "end": 675.78,
+    "text": " Yeah, they do go for the neck, but they have an upper jaw and a lower jaw, and the teeth"
+  },
+  {
+    "start": 675.78,
+    "end": 679.56,
+    "text": " marks are look a certain way, they don't look like an ice pick anyway."
+  },
+  {
+    "start": 679.56,
+    "end": 683.78,
+    "text": " So that guy finally did get busted like 10 years later, he was bragging about the crime"
+  },
+  {
+    "start": 683.78,
+    "end": 685.78,
+    "text": " in prison or something else."
+  },
+  {
+    "start": 685.78,
+    "end": 686.78,
+    "text": " In prison."
+  },
+  {
+    "start": 686.78,
+    "end": 687.78,
+    "text": " Oh, there we go."
+  },
+  {
+    "start": 687.78,
+    "end": 692.48,
+    "text": " So the advice I read about what to do if you have to shoot a bear because it's attacking"
+  },
+  {
+    "start": 692.48,
+    "end": 696.88,
+    "text": " someone, and it said, I can't believe this, but I wanted to check it with you, your advice"
+  },
+  {
+    "start": 696.88,
+    "end": 701.84,
+    "text": " to run up to the bear, plant the barrel on it, and then shoot upwards, and it's because"
+  },
+  {
+    "start": 701.84,
+    "end": 705.16,
+    "text": " you can't aim under those circumstances because it's so stressful."
+  },
+  {
+    "start": 705.16,
+    "end": 706.16,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 706.16,
+    "end": 710.56,
+    "text": " And also, there's a whole thing about if a bear is attacking somebody and they're going"
+  },
+  {
+    "start": 710.56,
+    "end": 715.64,
+    "text": " at it, and you're trying to shoot the bear, how do you make sure you don't shoot the guy?"
+  },
+  {
+    "start": 715.64,
+    "end": 719.74,
+    "text": " So there was this story of this, I forget the guy's name, Wharf or something, or Wolf,"
+  },
+  {
+    "start": 719.74,
+    "end": 724.9,
+    "text": " I don't know, anyway, he killed the bear, but he also shot the guy in the leg, but,"
+  },
+  {
+    "start": 724.9,
+    "end": 727.38,
+    "text": " you know, a small price to pay, I suppose."
+  },
+  {
+    "start": 727.38,
+    "end": 730.94,
+    "text": " I suppose you can't really outrun a bear if it's going to come after you, right?"
+  },
+  {
+    "start": 730.94,
+    "end": 732.78,
+    "text": " So you might as well go towards it."
+  },
+  {
+    "start": 732.78,
+    "end": 735.66,
+    "text": " But if it's busy attacking your friend, you've got a chance."
+  },
+  {
+    "start": 735.66,
+    "end": 738.66,
+    "text": " Yes, you do."
+  },
+  {
+    "start": 738.66,
+    "end": 740.78,
+    "text": " Always give a second slowest person."
+  },
+  {
+    "start": 740.78,
+    "end": 741.78,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 741.78,
+    "end": 743.74,
+    "text": " Well, you could try the vomit."
+  },
+  {
+    "start": 743.74,
+    "end": 744.74,
+    "text": " What?"
+  },
+  {
+    "start": 744.74,
+    "end": 745.74,
+    "text": " It's busy."
+  },
+  {
+    "start": 745.74,
+    "end": 747.92,
+    "text": " Your friend's being mauled by the bear."
+  },
+  {
+    "start": 747.92,
+    "end": 750.4,
+    "text": " You just throw it throwing up in the background."
+  },
+  {
+    "start": 750.4,
+    "end": 756.6,
+    "text": " Mary, did you do any arson stuff or arson dog stuff in the course of the book?"
+  },
+  {
+    "start": 756.6,
+    "end": 757.6,
+    "text": " Any arson?"
+  },
+  {
+    "start": 757.6,
+    "end": 761.68,
+    "text": " Sorry, I was reading about the arson dogs that they have in America."
+  },
+  {
+    "start": 761.68,
+    "end": 763.28,
+    "text": " Have you heard of these?"
+  },
+  {
+    "start": 763.28,
+    "end": 764.28,
+    "text": " It's insane."
+  },
+  {
+    "start": 764.28,
+    "end": 767.8,
+    "text": " There's a place in Connecticut called the Accelerant Detection Canine School."
+  },
+  {
+    "start": 767.8,
+    "end": 769.4,
+    "text": " Oh, the Accelerant?"
+  },
+  {
+    "start": 769.4,
+    "end": 770.4,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 770.4,
+    "end": 775.62,
+    "text": " All the anything used to get a fire going, they can identify 17 different types of Accelerant."
+  },
+  {
+    "start": 775.62,
+    "end": 777.74,
+    "text": " And this is the amazing thing."
+  },
+  {
+    "start": 777.74,
+    "end": 782.3,
+    "text": " Sometimes they will bring the dogs to the fire while it's still burning, because often"
+  },
+  {
+    "start": 782.3,
+    "end": 784.66,
+    "text": " when there's a fire, there's a crowd of onlookers, right?"
+  },
+  {
+    "start": 784.66,
+    "end": 788.52,
+    "text": " But sometimes the people who set the fire are in the crowd watching it, and they will"
+  },
+  {
+    "start": 788.52,
+    "end": 794.1,
+    "text": " turn up and the dog will sniff a few drops of petrol or whatever they used on them and"
+  },
+  {
+    "start": 794.1,
+    "end": 795.1,
+    "text": " then they get busted."
+  },
+  {
+    "start": 795.1,
+    "end": 796.1,
+    "text": " Wow."
+  },
+  {
+    "start": 796.1,
+    "end": 797.1,
+    "text": " That's incredible."
+  },
+  {
+    "start": 797.1,
+    "end": 799.14,
+    "text": " We should probably move on in a sec to our next fact."
+  },
+  {
+    "start": 799.14,
+    "end": 801.64,
+    "text": " Does anyone else want to add anything before we do?"
+  },
+  {
+    "start": 801.64,
+    "end": 803.52,
+    "text": " Can I say something about fly vomit?"
+  },
+  {
+    "start": 803.52,
+    "end": 804.52,
+    "text": " Yeah."
+  },
+  {
+    "start": 804.52,
+    "end": 810.8,
+    "text": " Most people vomit after they eat, but flies will vomit onto the food that they're planning"
+  },
+  {
+    "start": 810.8,
+    "end": 817.2,
+    "text": " to eat and digest it outside the body, kind of turn it into soup and then basically put"
+  },
+  {
+    "start": 817.2,
+    "end": 819.2,
+    "text": " a straw in it and suck it up."
+  },
+  {
+    "start": 819.2,
+    "end": 820.2,
+    "text": " Fround on."
+  },
+  {
+    "start": 820.2,
+    "end": 821.2,
+    "text": " Yeah, we frowned on."
+  },
+  {
+    "start": 821.2,
+    "end": 822.2,
+    "text": " Up the face."
+  },
+  {
+    "start": 822.2,
+    "end": 831.26,
+    "text": " I once went to New Zealand and I was in a cave and it was pitch black and you kind of float"
+  },
+  {
+    "start": 831.26,
+    "end": 835.54,
+    "text": " on these rubber rings and on the ceiling, it looks like stars."
+  },
+  {
+    "start": 835.54,
+    "end": 837.46,
+    "text": " It looks like you're looking at the heavens."
+  },
+  {
+    "start": 837.46,
+    "end": 838.46,
+    "text": " I've seen it."
+  },
+  {
+    "start": 838.46,
+    "end": 839.46,
+    "text": " Have you seen it?"
+  },
+  {
+    "start": 839.46,
+    "end": 840.46,
+    "text": " Yeah."
+  },
+  {
+    "start": 840.46,
+    "end": 841.46,
+    "text": " So the glowworms, right?"
+  },
+  {
+    "start": 841.46,
+    "end": 844.54,
+    "text": " But what they don't, well, what they do tell you, but what I'd forgotten is that actually"
+  },
+  {
+    "start": 844.54,
+    "end": 849.3,
+    "text": " it's glowworm vomit that is hanging down from the ceiling."
+  },
+  {
+    "start": 849.3,
+    "end": 854.46,
+    "text": " And what they do is they vomit out these strands and then animals get caught in it and then"
+  },
+  {
+    "start": 854.46,
+    "end": 856.92,
+    "text": " they can gobble it up a bit like flypaper."
+  },
+  {
+    "start": 856.92,
+    "end": 862.68,
+    "text": " They did some analysis on the vomit and they found that it was 99% water and 1% something"
+  },
+  {
+    "start": 862.68,
+    "end": 863.68,
+    "text": " else."
+  },
+  {
+    "start": 863.68,
+    "end": 869.2,
+    "text": " And that something else turns out to be urea, which is basically glowworm piss."
+  },
+  {
+    "start": 869.2,
+    "end": 873.32,
+    "text": " And they're not quite sure how the piss gets into the vomit, but it does seem like they're"
+  },
+  {
+    "start": 873.32,
+    "end": 877.4,
+    "text": " vomiting out pissy water to collect these insects."
+  },
+  {
+    "start": 877.4,
+    "end": 880.38,
+    "text": " James, just quickly, the New Zealand cave you went to."
+  },
+  {
+    "start": 880.38,
+    "end": 881.38,
+    "text": " Is it called the Waikiki?"
+  },
+  {
+    "start": 881.38,
+    "end": 882.38,
+    "text": " Yeah."
+  },
+  {
+    "start": 882.38,
+    "end": 883.38,
+    "text": " Waikiki, I think."
+  },
+  {
+    "start": 883.38,
+    "end": 884.38,
+    "text": " Yeah."
+  },
+  {
+    "start": 884.38,
+    "end": 885.38,
+    "text": " Something like that."
+  },
+  {
+    "start": 885.38,
+    "end": 887.82,
+    "text": " We went on tour to Australia and New Zealand and that's what you did with your time after"
+  },
+  {
+    "start": 887.82,
+    "end": 888.82,
+    "text": " the tour ended."
+  },
+  {
+    "start": 888.82,
+    "end": 890.5,
+    "text": " Yes, it is actually, as it happens."
+  },
+  {
+    "start": 890.5,
+    "end": 891.98,
+    "text": " I also went to the Hobbit World."
+  },
+  {
+    "start": 891.98,
+    "end": 895.54,
+    "text": " No, it's good, but just I had a few days extra, but I didn't have the means to travel."
+  },
+  {
+    "start": 895.54,
+    "end": 898.7,
+    "text": " So I just went to the Wellington Funicular Railway Museum instead."
+  },
+  {
+    "start": 898.7,
+    "end": 902.42,
+    "text": " I have to say, yours does sound more exciting."
+  },
+  {
+    "start": 902.42,
+    "end": 906.78,
+    "text": " I've got to say both of these sound very much on brand, don't they?"
+  },
+  {
+    "start": 906.78,
+    "end": 910.28,
+    "text": " I went to World of Socks."
+  },
+  {
+    "start": 910.28,
+    "end": 911.28,
+    "text": " What?"
+  },
+  {
+    "start": 911.28,
+    "end": 912.28,
+    "text": " I heard about it."
+  },
+  {
+    "start": 912.28,
+    "end": 918,
+    "text": " I saw signs before and I made my husband take a detour for World of Socks."
+  },
+  {
+    "start": 918,
+    "end": 919.5,
+    "text": " That's amazing."
+  },
+  {
+    "start": 919.5,
+    "end": 921.5,
+    "text": " It's just a store."
+  },
+  {
+    "start": 921.5,
+    "end": 927.32,
+    "text": " It's a store that sells socks."
+  },
+  {
+    "start": 927.32,
+    "end": 936.08,
+    "text": " Okay, it is time for fact number two, and that is James."
+  },
+  {
+    "start": 936.08,
+    "end": 937.08,
+    "text": " Okay."
+  },
+  {
+    "start": 937.08,
+    "end": 942.94,
+    "text": " My fact this week is that any truffle farmer worth their salt will do regular PCR tests"
+  },
+  {
+    "start": 942.94,
+    "end": 946.44,
+    "text": " on their truffles."
+  },
+  {
+    "start": 946.44,
+    "end": 952.62,
+    "text": " Are they testing them for COVID and do they have to go into isolation, blah, blah, blah."
+  },
+  {
+    "start": 952.62,
+    "end": 958.42,
+    "text": " So this is basically me playing off the fact that PCR tests are just a very common widely"
+  },
+  {
+    "start": 958.42,
+    "end": 961.46,
+    "text": " used thing in biology and chemistry."
+  },
+  {
+    "start": 961.46,
+    "end": 967.52,
+    "text": " They are tests where you make billions and billions of copies of the DNA of a sample"
+  },
+  {
+    "start": 967.52,
+    "end": 970.56,
+    "text": " and it just means that you can test it a lot easier."
+  },
+  {
+    "start": 970.56,
+    "end": 978.36,
+    "text": " I went very recently to the Echomuse de la Trouffe in the village of Soge in France,"
+  },
+  {
+    "start": 978.36,
+    "end": 982.72,
+    "text": " which is the big truffle museum in France, and this is something I learned while I was"
+  },
+  {
+    "start": 982.72,
+    "end": 983.72,
+    "text": " there."
+  },
+  {
+    "start": 983.72,
+    "end": 988.08,
+    "text": " Is this whole podcast, you just doing tax deductible trips by mentioning it as work?"
+  },
+  {
+    "start": 988.08,
+    "end": 989.56,
+    "text": " Is that what's going on?"
+  },
+  {
+    "start": 989.56,
+    "end": 994.06,
+    "text": " I've been doing that for eight years now, I surprise you haven't noticed by now."
+  },
+  {
+    "start": 994.06,
+    "end": 996.66,
+    "text": " Yeah, so there's a few reasons why you might do it."
+  },
+  {
+    "start": 996.66,
+    "end": 1001.46,
+    "text": " So first of all, you might want to check your truffles to make sure that there's no other"
+  },
+  {
+    "start": 1001.46,
+    "end": 1006.9,
+    "text": " funguses coming into your farm yard because a truffle for anyone who doesn't know, it's"
+  },
+  {
+    "start": 1006.9,
+    "end": 1011.58,
+    "text": " like a mushroom, but it's from the fungal family, but unlike a normal mushroom, it doesn't"
+  },
+  {
+    "start": 1011.58,
+    "end": 1012.58,
+    "text": " send out spores."
+  },
+  {
+    "start": 1012.58,
+    "end": 1016.9,
+    "text": " The spores all grow on the inside and they grow underground and you can pull them out"
+  },
+  {
+    "start": 1016.9,
+    "end": 1020.28,
+    "text": " and they're delicious to eat, but they're very, very expensive."
+  },
+  {
+    "start": 1020.28,
+    "end": 1024.08,
+    "text": " And so when you're growing them, you need to know that they're growing properly and"
+  },
+  {
+    "start": 1024.08,
+    "end": 1027.92,
+    "text": " the PCR tests can check if there's any other fungus in the area."
+  },
+  {
+    "start": 1027.92,
+    "end": 1031.68,
+    "text": " And the other way that they're useful is you get a lot of cheap funguses coming in from"
+  },
+  {
+    "start": 1031.68,
+    "end": 1034.44,
+    "text": " different parts of the world, especially from China."
+  },
+  {
+    "start": 1034.44,
+    "end": 1039.36,
+    "text": " And so when you are selling your truffles, you can do a PCR test to show they're the"
+  },
+  {
+    "start": 1039.36,
+    "end": 1043.16,
+    "text": " real deal and they're not cheap truffles from elsewhere in the world."
+  },
+  {
+    "start": 1043.16,
+    "end": 1048.58,
+    "text": " And what's amazing as well is those cheap truffles are so identical to a real truffle"
+  },
+  {
+    "start": 1048.58,
+    "end": 1053.14,
+    "text": " that even if you held them under a microscope, the spores are just not different enough for"
+  },
+  {
+    "start": 1053.14,
+    "end": 1054.74,
+    "text": " you to be able to tell the difference."
+  },
+  {
+    "start": 1054.74,
+    "end": 1055.74,
+    "text": " Yeah, it's incredible."
+  },
+  {
+    "start": 1055.74,
+    "end": 1061.9,
+    "text": " So there's two ways of telling, one on a molecular level, or the other way is by tasting it,"
+  },
+  {
+    "start": 1061.9,
+    "end": 1068.54,
+    "text": " because according to French truffle aficionado Eduardo Manazares, it tastes like a turnip."
+  },
+  {
+    "start": 1068.54,
+    "end": 1074.92,
+    "text": " Whereas a truffle has this amazing kind of earthy flavor, doesn't it, like actual truffles,"
+  },
+  {
+    "start": 1074.92,
+    "end": 1078.36,
+    "text": " but these ones taste like potatoes, uncooked, unsalted potatoes."
+  },
+  {
+    "start": 1078.36,
+    "end": 1079.36,
+    "text": " But you know what?"
+  },
+  {
+    "start": 1079.36,
+    "end": 1084.16,
+    "text": " I think probably you ship them over here to America, the fake ones, and then nobody will"
+  },
+  {
+    "start": 1084.16,
+    "end": 1085.16,
+    "text": " know."
+  },
+  {
+    "start": 1085.16,
+    "end": 1088,
+    "text": " I'm not sure I've ever eaten any truffles."
+  },
+  {
+    "start": 1088,
+    "end": 1091.92,
+    "text": " I did think, oh, no, once a few years ago I had some chips which had truffle oil on"
+  },
+  {
+    "start": 1091.92,
+    "end": 1092.92,
+    "text": " them."
+  },
+  {
+    "start": 1092.92,
+    "end": 1096.12,
+    "text": " Imagine my surprise researching this fact, most truffle oil has never even been near"
+  },
+  {
+    "start": 1096.12,
+    "end": 1097.12,
+    "text": " a truffle."
+  },
+  {
+    "start": 1097.12,
+    "end": 1102.74,
+    "text": " It's made of something called bis-meltilio-methane, which is derived from petroleum, and the"
+  },
+  {
+    "start": 1102.74,
+    "end": 1105.56,
+    "text": " only reason it's used is that it smells a bit like truffle."
+  },
+  {
+    "start": 1105.56,
+    "end": 1106.56,
+    "text": " No."
+  },
+  {
+    "start": 1106.56,
+    "end": 1107.56,
+    "text": " Wait."
+  },
+  {
+    "start": 1107.56,
+    "end": 1109,
+    "text": " You did put a petrol on your chips."
+  },
+  {
+    "start": 1109,
+    "end": 1114.32,
+    "text": " Yeah, I wonder why they were burned all the time."
+  },
+  {
+    "start": 1114.32,
+    "end": 1119.72,
+    "text": " So they use, we're talking about arson dogs earlier, they use truffle dogs to find them,"
+  },
+  {
+    "start": 1119.72,
+    "end": 1125.08,
+    "text": " but not only do they use truffle dogs, they use truffle hogs."
+  },
+  {
+    "start": 1125.08,
+    "end": 1126.08,
+    "text": " Truffle hogs are amazing."
+  },
+  {
+    "start": 1126.08,
+    "end": 1131.56,
+    "text": " These are domesticated pigs that go around smelling out the truffles, and the reason"
+  },
+  {
+    "start": 1131.56,
+    "end": 1136.6,
+    "text": " they're able to smell them is because they share the natural sex hormones that the male"
+  },
+  {
+    "start": 1136.6,
+    "end": 1141.28,
+    "text": " pigs produce in their testicles, which they somehow bring up to their mouth and salivate"
+  },
+  {
+    "start": 1141.28,
+    "end": 1143.4,
+    "text": " out for the female pig to smell."
+  },
+  {
+    "start": 1143.4,
+    "end": 1149.08,
+    "text": " It's got a very similar smell, and so they're basically smelling the ground for male hogs,"
+  },
+  {
+    "start": 1149.08,
+    "end": 1150.48,
+    "text": " but finding truffles."
+  },
+  {
+    "start": 1150.48,
+    "end": 1151.48,
+    "text": " That's amazing."
+  },
+  {
+    "start": 1151.48,
+    "end": 1158.88,
+    "text": " I encountered some amazing boar technology that involved those pheromones and that saliva"
+  },
+  {
+    "start": 1158.88,
+    "end": 1163.28,
+    "text": " in Denmark in order to figure out which pigs are ready for mating."
+  },
+  {
+    "start": 1163.28,
+    "end": 1168.8,
+    "text": " You can do it by just taking around a teaser boar, and the boar kind of salivates and makes"
+  },
+  {
+    "start": 1168.8,
+    "end": 1174,
+    "text": " these horrible, retching, grunting sounds, and the females that get aroused, they know,"
+  },
+  {
+    "start": 1174,
+    "end": 1179.24,
+    "text": " \"Okay, these females are ready for insemination,\" but instead of the teaser boar, somebody, the"
+  },
+  {
+    "start": 1179.24,
+    "end": 1186.04,
+    "text": " Danish Pig Production Council, I think it was, they developed this boar on wheels, remote"
+  },
+  {
+    "start": 1186.04,
+    "end": 1191.16,
+    "text": " controlled, that was doused with boar mate, which is the pheromone of the boar."
+  },
+  {
+    "start": 1191.16,
+    "end": 1192.16,
+    "text": " It's a spray."
+  },
+  {
+    "start": 1192.16,
+    "end": 1196.48,
+    "text": " So it was doused with that, and they had an MP3 of it playing the retching horrible grunting"
+  },
+  {
+    "start": 1196.48,
+    "end": 1202.4,
+    "text": " sounds, and they would make it go around to all the females to see which ones were ready,"
+  },
+  {
+    "start": 1202.4,
+    "end": 1206.44,
+    "text": " but it didn't work very well, and the farmers didn't like it."
+  },
+  {
+    "start": 1206.44,
+    "end": 1207.44,
+    "text": " This name was Skippy."
+  },
+  {
+    "start": 1207.44,
+    "end": 1213.4,
+    "text": " Oh, boy, you'd feel really disappointed if you'd called for Skippy the bush kangaroo"
+  },
+  {
+    "start": 1213.4,
+    "end": 1217.72,
+    "text": " and Skippy the wheeled sex boar turned up."
+  },
+  {
+    "start": 1217.72,
+    "end": 1221.2,
+    "text": " The thing is about the pigs, Dan, you were saying, is that they don't really use pigs"
+  },
+  {
+    "start": 1221.2,
+    "end": 1227,
+    "text": " anymore because of the hogs, because they basically will eat the truffles if they find"
+  },
+  {
+    "start": 1227,
+    "end": 1229.24,
+    "text": " them, whereas the dogs will just sniff them."
+  },
+  {
+    "start": 1229.24,
+    "end": 1234.24,
+    "text": " And the other thing is, if you have a really good area where your truffles are, then you"
+  },
+  {
+    "start": 1234.24,
+    "end": 1237.36,
+    "text": " don't want anyone else to know about them, you want to keep it secret."
+  },
+  {
+    "start": 1237.36,
+    "end": 1240.44,
+    "text": " If you drive up there with a dog in your car, then people will think, oh, he's just taking"
+  },
+  {
+    "start": 1240.44,
+    "end": 1241.44,
+    "text": " his dog for a walk."
+  },
+  {
+    "start": 1241.44,
+    "end": 1245.72,
+    "text": " But if you drive up there with a pig in your car, then people are like, well, I know what"
+  },
+  {
+    "start": 1245.72,
+    "end": 1246.72,
+    "text": " this guy's up to."
+  },
+  {
+    "start": 1246.72,
+    "end": 1251.84,
+    "text": " Well, I've got a good idea what this guy might be up to."
+  },
+  {
+    "start": 1251.84,
+    "end": 1256.28,
+    "text": " That's exactly it, because the idea is, as soon as the pig finds it, you basically have"
+  },
+  {
+    "start": 1256.28,
+    "end": 1260.2,
+    "text": " to wrestle the 20 stone pig, and you have to wrestle the truffle out of its mouth."
+  },
+  {
+    "start": 1260.2,
+    "end": 1263.44,
+    "text": " That's impossible to do, whereas dogs will swap the sausages, apparently."
+  },
+  {
+    "start": 1263.44,
+    "end": 1266.84,
+    "text": " They kind of notify you, and then they say, okay."
+  },
+  {
+    "start": 1266.84,
+    "end": 1270.88,
+    "text": " But actually the best thing to find truffles is truffle flies."
+  },
+  {
+    "start": 1270.88,
+    "end": 1276.92,
+    "text": " So truffle flies can find truffles better than dogs and pigs, and that's because female"
+  },
+  {
+    "start": 1276.92,
+    "end": 1282,
+    "text": " truffle flies like to lay their eggs in truffles, so they need to be able to find them."
+  },
+  {
+    "start": 1282,
+    "end": 1285.84,
+    "text": " And the way that you do that is you walk around, because these flies are really, really tiny"
+  },
+  {
+    "start": 1285.84,
+    "end": 1289.6,
+    "text": " and they're almost see-through, so you can hardly see them, and you just prod the grass"
+  },
+  {
+    "start": 1289.6,
+    "end": 1293.28,
+    "text": " with the little stick, and then if you get the right moment, then they'll all kind of"
+  },
+  {
+    "start": 1293.28,
+    "end": 1297.16,
+    "text": " fly up, and they'll hover over the area where your truffles are, and then you can dig in"
+  },
+  {
+    "start": 1297.16,
+    "end": 1298.16,
+    "text": " and get them."
+  },
+  {
+    "start": 1298.16,
+    "end": 1301.96,
+    "text": " Would you eat a truffle which had truffle flies in it, James?"
+  },
+  {
+    "start": 1301.96,
+    "end": 1302.96,
+    "text": " In it?"
+  },
+  {
+    "start": 1302.96,
+    "end": 1303.96,
+    "text": " Hmm."
+  },
+  {
+    "start": 1303.96,
+    "end": 1307.52,
+    "text": " Well, I must say, I'm not a big fan of any kind of mushrooms, so probably not."
+  },
+  {
+    "start": 1307.52,
+    "end": 1308.52,
+    "text": " No, not really."
+  },
+  {
+    "start": 1308.52,
+    "end": 1309.52,
+    "text": " Okay."
+  },
+  {
+    "start": 1309.52,
+    "end": 1310.52,
+    "text": " Because apparently that does happen."
+  },
+  {
+    "start": 1310.52,
+    "end": 1312.68,
+    "text": " It's not always treated as a bad thing if there are truffle flies in there."
+  },
+  {
+    "start": 1312.68,
+    "end": 1317.36,
+    "text": " So there was a doctor at the University of Nancy called Dr. Francis Martin, who said that"
+  },
+  {
+    "start": 1317.36,
+    "end": 1321.24,
+    "text": " if you collect it just at the right time, the truffle will have eggs and larvae in"
+  },
+  {
+    "start": 1321.24,
+    "end": 1326.32,
+    "text": " it, which adds proteins and aroma to the truffle."
+  },
+  {
+    "start": 1326.32,
+    "end": 1328.6,
+    "text": " Have you ever eaten any weird stuff like that, Mary?"
+  },
+  {
+    "start": 1328.6,
+    "end": 1331.12,
+    "text": " I kind of get the feeling you might have done that."
+  },
+  {
+    "start": 1331.12,
+    "end": 1332.88,
+    "text": " I have had some weird food."
+  },
+  {
+    "start": 1332.88,
+    "end": 1338.76,
+    "text": " Yeah, I was up in the Arctic, in an Inuit town, because I had this idea, like, if you"
+  },
+  {
+    "start": 1338.76,
+    "end": 1341.88,
+    "text": " only eat meat, how do you get your vitamins?"
+  },
+  {
+    "start": 1341.88,
+    "end": 1347.08,
+    "text": " And the answer is the organ meats, so they basically eat the whole entity."
+  },
+  {
+    "start": 1347.08,
+    "end": 1352.44,
+    "text": " I went to this community feast, and they had this Arctic char lying there, and the guy"
+  },
+  {
+    "start": 1352.44,
+    "end": 1356.48,
+    "text": " who was hosting me said, \"We're going to give you the best part,\" and I could see"
+  },
+  {
+    "start": 1356.48,
+    "end": 1361.48,
+    "text": " you sort of cutting something that looks like the forehead, and I was like, \"Oh, okay, great,"
+  },
+  {
+    "start": 1361.48,
+    "end": 1365.96,
+    "text": " because I know cheeks, you know, cheeks are good, so probably forehead is pretty good,\""
+  },
+  {
+    "start": 1365.96,
+    "end": 1371.28,
+    "text": " but it was the raw eye, and it's a fairly sizable fish, though it has a fairly sizable"
+  },
+  {
+    "start": 1371.28,
+    "end": 1376.2,
+    "text": " eye, and it had that, you know, that thing hanging in the muscular thing in the back."
+  },
+  {
+    "start": 1376.2,
+    "end": 1379.12,
+    "text": " I don't know if you know that the back of the eye has this, it's kind of like when"
+  },
+  {
+    "start": 1379.12,
+    "end": 1384.8,
+    "text": " you eat a chicken leg, that hard, awful, tendony bit, it was like that, and I said, \"Oh, thank"
+  },
+  {
+    "start": 1384.8,
+    "end": 1388.44,
+    "text": " you,\" and all the elders were standing around, like, nodding like, and I don't know if they"
+  },
+  {
+    "start": 1388.44,
+    "end": 1392.12,
+    "text": " were just, it was a prank, or it really is the best part, but I said, \"It's not going"
+  },
+  {
+    "start": 1392.12,
+    "end": 1394.76,
+    "text": " to be like a cherry tomato, is it?\""
+  },
+  {
+    "start": 1394.76,
+    "end": 1400.68,
+    "text": " They don't eat cherry tomatoes, he's like, he's like, \"No, no, no, it was like a cherry"
+  },
+  {
+    "start": 1400.68,
+    "end": 1406.4,
+    "text": " tomato, it just exploded in my mouth,\" because you'd have to eat the whole thing at once,"
+  },
+  {
+    "start": 1406.4,
+    "end": 1408.24,
+    "text": " you know, take a bite because it would dribble."
+  },
+  {
+    "start": 1408.24,
+    "end": 1409.8,
+    "text": " Oh my goodness."
+  },
+  {
+    "start": 1409.8,
+    "end": 1415.52,
+    "text": " I've never had truffle, I mean, I guess I've had shaved truffle, shavings, so, you know,"
+  },
+  {
+    "start": 1415.52,
+    "end": 1418.68,
+    "text": " but that's, yeah, I don't know, I don't know what all that fuss is."
+  },
+  {
+    "start": 1418.68,
+    "end": 1423.24,
+    "text": " I know, I sell for so much, so like a pound of black truffle, you can get white and black"
+  },
+  {
+    "start": 1423.24,
+    "end": 1426.96,
+    "text": " truffle, you can sell for like 400 American dollars a pound."
+  },
+  {
+    "start": 1426.96,
+    "end": 1430.56,
+    "text": " Do you guys know, is it the case that it's not just about eating, but if you can get"
+  },
+  {
+    "start": 1430.56,
+    "end": 1435.64,
+    "text": " a truffle, you can breed it, is that the thing, or is it not, is it purely just eating?"
+  },
+  {
+    "start": 1435.64,
+    "end": 1439.36,
+    "text": " Some of them are cultivated, in fact, there are some kinds that you can and some you can't,"
+  },
+  {
+    "start": 1439.36,
+    "end": 1443.6,
+    "text": " so I think it's Italian white truffles, they're still wild and they're really hard to find,"
+  },
+  {
+    "start": 1443.6,
+    "end": 1447.16,
+    "text": " but French black truffles, pretty much all of those are cultivated, so."
+  },
+  {
+    "start": 1447.16,
+    "end": 1451.88,
+    "text": " Yeah, something like 95% now of all the French truffles are cultivated these days, they cultivate"
+  },
+  {
+    "start": 1451.88,
+    "end": 1455.32,
+    "text": " them all over the world, in America they certainly do, for sure."
+  },
+  {
+    "start": 1455.32,
+    "end": 1459.64,
+    "text": " It takes 10 years for them to grow, and it might be that you just plant your farm then"
+  },
+  {
+    "start": 1459.64,
+    "end": 1462.44,
+    "text": " 10 years later, you find out you've got a load of turnips."
+  },
+  {
+    "start": 1462.44,
+    "end": 1464.4,
+    "text": " Well, not if you use your PCR test."
+  },
+  {
+    "start": 1464.4,
+    "end": 1466.64,
+    "text": " A lot of your PCR tests, absolutely."
+  },
+  {
+    "start": 1466.64,
+    "end": 1468.64,
+    "text": " Have you guys heard of Helen Gilkey?"
+  },
+  {
+    "start": 1468.64,
+    "end": 1469.64,
+    "text": " No."
+  },
+  {
+    "start": 1469.64,
+    "end": 1470.64,
+    "text": " No."
+  },
+  {
+    "start": 1470.64,
+    "end": 1475.4,
+    "text": " So Helen Gilkey was the first woman to receive a PhD in botany at the University of California"
+  },
+  {
+    "start": 1475.4,
+    "end": 1483,
+    "text": " in Berkeley, and she was the world expert on truffles, probably throughout the 1930s,"
+  },
+  {
+    "start": 1483,
+    "end": 1485.32,
+    "text": " 1940s and into the 1950s."
+  },
+  {
+    "start": 1485.32,
+    "end": 1490.92,
+    "text": " She named a whole load of truffles, but whenever she named them she also drew them, as she"
+  },
+  {
+    "start": 1490.92,
+    "end": 1495.4,
+    "text": " would also write a poem about them, and the poems that she wrote were amazing, so here's"
+  },
+  {
+    "start": 1495.4,
+    "end": 1496.68,
+    "text": " a poem that she wrote."
+  },
+  {
+    "start": 1496.68,
+    "end": 1503.84,
+    "text": " Now here comes Hidnotriah, it's hymenium lush, lining the walls with a deep piled plush,"
+  },
+  {
+    "start": 1503.84,
+    "end": 1509.2,
+    "text": " gradually merging at entrances wide into the pattern of surface outside."
+  },
+  {
+    "start": 1509.2,
+    "end": 1514.36,
+    "text": " American species we have not a few, and both those in Europe we likewise have two."
+  },
+  {
+    "start": 1514.36,
+    "end": 1521.28,
+    "text": " For example, H. Tulasnei of Old World Fame by mycologist Berkeley, given its name, its"
+  },
+  {
+    "start": 1521.28,
+    "end": 1527.16,
+    "text": " presence in US regarded as myth, until here discovered by Alex H. Smith."
+  },
+  {
+    "start": 1527.16,
+    "end": 1528.16,
+    "text": " Very nice."
+  },
+  {
+    "start": 1528.16,
+    "end": 1529.16,
+    "text": " That's great."
+  },
+  {
+    "start": 1529.16,
+    "end": 1531.4,
+    "text": " It's a bit of dogarole, but I think that's really nice."
+  },
+  {
+    "start": 1531.4,
+    "end": 1532.4,
+    "text": " I love it."
+  },
+  {
+    "start": 1532.4,
+    "end": 1536.44,
+    "text": " I love it when a poem is like a Wikipedia article for you, like we just got the story of the"
+  },
+  {
+    "start": 1536.44,
+    "end": 1537.44,
+    "text": " truffle."
+  },
+  {
+    "start": 1537.44,
+    "end": 1542.32,
+    "text": " She must lean very heavily on the words snuffle, scuffle and ruffle though."
+  },
+  {
+    "start": 1542.32,
+    "end": 1548.16,
+    "text": " Can I tell you one thing about the truffle of the year?"
+  },
+  {
+    "start": 1548.16,
+    "end": 1549.16,
+    "text": " Oh, yes."
+  },
+  {
+    "start": 1549.16,
+    "end": 1552.28,
+    "text": " This was a thing in the '40s and '50s, and it was a PR campaign."
+  },
+  {
+    "start": 1552.28,
+    "end": 1557.36,
+    "text": " There was a guy called Jacomo Mora who was trying to make white truffles fashionable,"
+  },
+  {
+    "start": 1557.36,
+    "end": 1561.24,
+    "text": " which they weren't at the time, it was all about the black truffles then, and he launched"
+  },
+  {
+    "start": 1561.24,
+    "end": 1565.64,
+    "text": " this campaign where he would send the best truffle of the year to a global celebrity."
+  },
+  {
+    "start": 1565.64,
+    "end": 1571.96,
+    "text": " So in 1949, Rita Hayworth received the best truffle of the year."
+  },
+  {
+    "start": 1571.96,
+    "end": 1579.6,
+    "text": " 53, Winston Churchill, 1954, Marilyn Monroe, Paul VI in 1965, Emperor Haile Selassie got"
+  },
+  {
+    "start": 1579.6,
+    "end": 1583.16,
+    "text": " one, or just this weird club of people who've received the best truffle."
+  },
+  {
+    "start": 1583.16,
+    "end": 1584.16,
+    "text": " That's incredible."
+  },
+  {
+    "start": 1584.16,
+    "end": 1588.48,
+    "text": " Do we know that they received them as in they didn't just receive some weird thing in the"
+  },
+  {
+    "start": 1588.48,
+    "end": 1589.48,
+    "text": " mail and chuck it away?"
+  },
+  {
+    "start": 1589.48,
+    "end": 1594.4,
+    "text": " I'm sure it was recorded delivery, but I don't really find their reactions."
+  },
+  {
+    "start": 1594.4,
+    "end": 1598.56,
+    "text": " We haven't got photos of Marilyn with the truffle of Haile Selassie."
+  },
+  {
+    "start": 1598.56,
+    "end": 1602.32,
+    "text": " Even if it wasn't recorded delivery, he probably had a letter with it explaining what it was."
+  },
+  {
+    "start": 1602.32,
+    "end": 1605.04,
+    "text": " It probably wasn't just a truffle through the past."
+  },
+  {
+    "start": 1605.04,
+    "end": 1610.48,
+    "text": " Hopefully, they were given some kind of warning before it showed up, because I used to work"
+  },
+  {
+    "start": 1610.48,
+    "end": 1613.32,
+    "text": " at the SPCA, the Prevention of Cruelty to Animals."
+  },
+  {
+    "start": 1613.32,
+    "end": 1618.6,
+    "text": " I was in the public affairs office, and my boss at one year, for Christmas presents for"
+  },
+  {
+    "start": 1618.6,
+    "end": 1623.76,
+    "text": " people in the media, she had these cookies in the shape of a bone, human cookies, and"
+  },
+  {
+    "start": 1623.76,
+    "end": 1627.44,
+    "text": " she just left them in a bag on the doorstep."
+  },
+  {
+    "start": 1627.44,
+    "end": 1629.88,
+    "text": " She went around and delivered them, but she didn't tell people."
+  },
+  {
+    "start": 1629.88,
+    "end": 1638.4,
+    "text": " Someone called the bombs squad and blew off the cookies."
+  },
+  {
+    "start": 1638.4,
+    "end": 1641.76,
+    "text": " On truffles and how much people love them, I just love this line."
+  },
+  {
+    "start": 1641.76,
+    "end": 1647.6,
+    "text": " The composer Rossini, he claimed that he had only cried three times in his entire life."
+  },
+  {
+    "start": 1647.6,
+    "end": 1648.6,
+    "text": " Okay?"
+  },
+  {
+    "start": 1648.6,
+    "end": 1649.6,
+    "text": " Here's the quote."
+  },
+  {
+    "start": 1649.6,
+    "end": 1652.08,
+    "text": " He said, \"Once when my first opera failed."
+  },
+  {
+    "start": 1652.08,
+    "end": 1657.64,
+    "text": " Once again, the first time I heard Paganini play the violin, and once when a truffle's"
+  },
+  {
+    "start": 1657.64,
+    "end": 1661.76,
+    "text": " turkey fell overboard at a boating picnic.\""
+  },
+  {
+    "start": 1661.76,
+    "end": 1671.44,
+    "text": " Okay, it is time for fact number three, and that is my fact."
+  },
+  {
+    "start": 1671.44,
+    "end": 1676.92,
+    "text": " My fact this week is that there are signed copies of Life Magazine circulating on auction"
+  },
+  {
+    "start": 1676.92,
+    "end": 1682.48,
+    "text": " sites that are said to be autographed by Ham, the first chimpanzee in space, but are in"
+  },
+  {
+    "start": 1682.48,
+    "end": 1685.92,
+    "text": " fact forgeries signed by other chimps."
+  },
+  {
+    "start": 1685.92,
+    "end": 1686.92,
+    "text": " Wow."
+  },
+  {
+    "start": 1686.92,
+    "end": 1691.2,
+    "text": " Other chimps that have been in space or just other chimps?"
+  },
+  {
+    "start": 1691.2,
+    "end": 1692.2,
+    "text": " No."
+  },
+  {
+    "start": 1692.2,
+    "end": 1693.2,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 1693.2,
+    "end": 1694.4,
+    "text": " Just boring other chimps."
+  },
+  {
+    "start": 1694.4,
+    "end": 1695.4,
+    "text": " This is true."
+  },
+  {
+    "start": 1695.4,
+    "end": 1702.4,
+    "text": " I talked to Ham's trainer and vet, Bill Brits, when I was working on Packing for Mars, and"
+  },
+  {
+    "start": 1702.4,
+    "end": 1707.28,
+    "text": " he said, he's talking about how Ham was this beloved world famous on the cover of Life"
+  },
+  {
+    "start": 1707.28,
+    "end": 1713.28,
+    "text": " Magazine to the extent that people were sending flowers and letters to Ham, and they started"
+  },
+  {
+    "start": 1713.28,
+    "end": 1717.2,
+    "text": " requesting autographs for Ham the chimpanzee."
+  },
+  {
+    "start": 1717.2,
+    "end": 1722.08,
+    "text": " So Bill tried to oblige them, you know, they would send their copy, and Ham the chimp was"
+  },
+  {
+    "start": 1722.08,
+    "end": 1727.2,
+    "text": " not signing with a pen, it was a paw print, and at a certain point he said, \"I was afraid"
+  },
+  {
+    "start": 1727.2,
+    "end": 1728.8,
+    "text": " we would wear him out.\""
+  },
+  {
+    "start": 1728.8,
+    "end": 1734.2,
+    "text": " So at a certain point we just took any chimpanzee and used their palms, so it is true."
+  },
+  {
+    "start": 1734.2,
+    "end": 1738.8,
+    "text": " The other chimps are actually, I've accused them of forging signatures here, they are"
+  },
+  {
+    "start": 1738.8,
+    "end": 1742.32,
+    "text": " innocent bystanders whose palms have been pressed onto paper."
+  },
+  {
+    "start": 1742.32,
+    "end": 1746.56,
+    "text": " I was quite benevolent then, that's nice, I didn't know that background, that's a"
+  },
+  {
+    "start": 1746.56,
+    "end": 1747.56,
+    "text": " relief."
+  },
+  {
+    "start": 1747.56,
+    "end": 1750,
+    "text": " Yeah, as in it was done for Ham's benefit, you know."
+  },
+  {
+    "start": 1750,
+    "end": 1754.88,
+    "text": " Part of it was, you know, because the Soviets had put dogs up in space and successfully"
+  },
+  {
+    "start": 1754.88,
+    "end": 1759.44,
+    "text": " landed them, the U.S. was trying to make a really big deal about, \"Look, we did it too!\""
+  },
+  {
+    "start": 1759.44,
+    "end": 1763.88,
+    "text": " It was like he was a short hairy astronaut, they dressed him up in a pressure suit, which"
+  },
+  {
+    "start": 1763.88,
+    "end": 1769.8,
+    "text": " he didn't need, the capsule was pressurized to these photo shoots, and he was a very"
+  },
+  {
+    "start": 1769.8,
+    "end": 1776.12,
+    "text": " friendly outgoing chimp, unlike the second chimp, Enos, that nobody ever talks about."
+  },
+  {
+    "start": 1776.12,
+    "end": 1778.48,
+    "text": " So what was wrong with Enos?"
+  },
+  {
+    "start": 1778.48,
+    "end": 1784.68,
+    "text": " He was a very ornery, aggressive, unpleasant, and kind of ugly chimpanzee."
+  },
+  {
+    "start": 1784.68,
+    "end": 1787.08,
+    "text": " The Buzz Aldrin, yes."
+  },
+  {
+    "start": 1787.08,
+    "end": 1788.08,
+    "text": " Wow."
+  },
+  {
+    "start": 1788.08,
+    "end": 1792.8,
+    "text": " Just your buzz is grumpy."
+  },
+  {
+    "start": 1792.8,
+    "end": 1798.84,
+    "text": " Yeah, his trainer, Dr. Finney, you know, people would ask him about him, this is how he described"
+  },
+  {
+    "start": 1798.84,
+    "end": 1804.68,
+    "text": " him in public, instead of saying he was ornery, he was cussed, he was horrible, he said he"
+  },
+  {
+    "start": 1804.68,
+    "end": 1808.36,
+    "text": " was a taciturn pillar of the community kind of guy."
+  },
+  {
+    "start": 1808.36,
+    "end": 1812.4,
+    "text": " Oh, do you know these handprints?"
+  },
+  {
+    "start": 1812.4,
+    "end": 1816.76,
+    "text": " Can you tell the difference between a ham one and a sham one?"
+  },
+  {
+    "start": 1816.76,
+    "end": 1819.84,
+    "text": " Is it possible to tell the difference or not?"
+  },
+  {
+    "start": 1819.84,
+    "end": 1824.32,
+    "text": " Probably if you had a real one and you compared it, I mean, they're probably fingerprints,"
+  },
+  {
+    "start": 1824.32,
+    "end": 1825.32,
+    "text": " right?"
+  },
+  {
+    "start": 1825.32,
+    "end": 1826.32,
+    "text": " Oh, yeah, I guess so."
+  },
+  {
+    "start": 1826.32,
+    "end": 1830.8,
+    "text": " I would imagine it would be pretty easy, but you'd need to have an actual ham print, yeah."
+  },
+  {
+    "start": 1830.8,
+    "end": 1834.64,
+    "text": " I've seen a photo, they do look quite hard to distinguish, they're quite inky, they're"
+  },
+  {
+    "start": 1834.64,
+    "end": 1839.44,
+    "text": " quite thick, so the one that I found was sold on an auction site back in, I think around"
+  },
+  {
+    "start": 1839.44,
+    "end": 1846.52,
+    "text": " 2008 and sold for surprisingly little, in my opinion, it was $2,100 and they sell other"
+  },
+  {
+    "start": 1846.52,
+    "end": 1852.04,
+    "text": " things like, you know, like on lots of animals, you'll have the identifying name on a little"
+  },
+  {
+    "start": 1852.04,
+    "end": 1853.04,
+    "text": " metal sign."
+  },
+  {
+    "start": 1853.04,
+    "end": 1855.36,
+    "text": " What do you mean, Dan, do you mean like a dog tag?"
+  },
+  {
+    "start": 1855.36,
+    "end": 1859.56,
+    "text": " A dog tag, sorry, but it was a chimp tag, yeah, actually just very quickly because a lot"
+  },
+  {
+    "start": 1859.56,
+    "end": 1864.4,
+    "text": " of people listening might actually not be aware that we sent primates to space before"
+  },
+  {
+    "start": 1864.4,
+    "end": 1867.48,
+    "text": " we sent humans, and in fact, Ham has that honour."
+  },
+  {
+    "start": 1867.48,
+    "end": 1873,
+    "text": " Ham is the first primate to go into space, beat Alan Shepard, the American, beat Yuri"
+  },
+  {
+    "start": 1873,
+    "end": 1877.92,
+    "text": " Gagarin, the Russian, and this was on the 31st of January 1961."
+  },
+  {
+    "start": 1877.92,
+    "end": 1883.48,
+    "text": " It was a test for the Americans to make sure that everything would go right ahead of their"
+  },
+  {
+    "start": 1883.48,
+    "end": 1887.76,
+    "text": " trip with Alan Shepard, which actually cost them the honour of getting the first man in"
+  },
+  {
+    "start": 1887.76,
+    "end": 1893.04,
+    "text": " space because Yuri Gagarin got in there in that time, but Ham was a huge celebrity back"
+  },
+  {
+    "start": 1893.04,
+    "end": 1894.04,
+    "text": " in the day."
+  },
+  {
+    "start": 1894.04,
+    "end": 1899.16,
+    "text": " It was obviously a big deal, and as Mary was saying, just a really charismatic chimp."
+  },
+  {
+    "start": 1899.16,
+    "end": 1905.72,
+    "text": " And you know who got no publicity at all was the five Alberts who went up before Ham."
+  },
+  {
+    "start": 1905.72,
+    "end": 1906.72,
+    "text": " What?"
+  },
+  {
+    "start": 1906.72,
+    "end": 1909.8,
+    "text": " Yeah, the Alberts, and then there was Patricia and Michael."
+  },
+  {
+    "start": 1909.8,
+    "end": 1914.2,
+    "text": " These were all monkeys, they weren't apes, you know, chimps and apes were monkeys that"
+  },
+  {
+    "start": 1914.2,
+    "end": 1919,
+    "text": " were launched in a suborbital flight and came back down."
+  },
+  {
+    "start": 1919,
+    "end": 1921.4,
+    "text": " Right, but wow, I've never heard of them."
+  },
+  {
+    "start": 1921.4,
+    "end": 1922.4,
+    "text": " Yeah, the Alberts."
+  },
+  {
+    "start": 1922.4,
+    "end": 1925.4,
+    "text": " The first Alberts ended catastrophically."
+  },
+  {
+    "start": 1925.4,
+    "end": 1929.56,
+    "text": " They didn't survive, so at a certain point somebody realised, you know, maybe we should"
+  },
+  {
+    "start": 1929.56,
+    "end": 1931.44,
+    "text": " stop calling them Alberts."
+  },
+  {
+    "start": 1931.44,
+    "end": 1934.2,
+    "text": " They switched to Michael and Patricia."
+  },
+  {
+    "start": 1934.2,
+    "end": 1936.96,
+    "text": " It's a bit weird naming them in the first place, because it does humanise them a bit"
+  },
+  {
+    "start": 1936.96,
+    "end": 1941.52,
+    "text": " more when you hear that, you know, Michael and Patricia have not survived their space"
+  },
+  {
+    "start": 1941.52,
+    "end": 1942.52,
+    "text": " journey."
+  },
+  {
+    "start": 1942.52,
+    "end": 1943.76,
+    "text": " It's much sadder."
+  },
+  {
+    "start": 1943.76,
+    "end": 1948.36,
+    "text": " But so Ham was retrospectively named because for that exact reason, Andy, so when I say"
+  },
+  {
+    "start": 1948.36,
+    "end": 1953.16,
+    "text": " that the dog tag was sold, I didn't say the word Ham on it, it just had the number 65,"
+  },
+  {
+    "start": 1953.16,
+    "end": 1957.8,
+    "text": " because that was the number of chimpanzees he was in a big number of, I think around"
+  },
+  {
+    "start": 1957.8,
+    "end": 1960.28,
+    "text": " 80 chimpanzees who were auditioned for the role."
+  },
+  {
+    "start": 1960.28,
+    "end": 1962.32,
+    "text": " What kind of audition was it?"
+  },
+  {
+    "start": 1962.32,
+    "end": 1965.28,
+    "text": " You had to sing a song, then you had to do your party trick."
+  },
+  {
+    "start": 1965.28,
+    "end": 1966.28,
+    "text": " In a 2-2."
+  },
+  {
+    "start": 1966.28,
+    "end": 1971.4,
+    "text": " Yeah, there was a swimsuit round, yeah, it was bizarre, the training wasn't bizarre,"
+  },
+  {
+    "start": 1971.4,
+    "end": 1975.72,
+    "text": " it was very soundively worked out, but you had to push a lever after seeing a light."
+  },
+  {
+    "start": 1975.72,
+    "end": 1979.28,
+    "text": " That was the mission, and then that's what Ham had to do in space."
+  },
+  {
+    "start": 1979.28,
+    "end": 1984.6,
+    "text": " Yeah, it was basically to make sure that they were still functioning, that something horrible"
+  },
+  {
+    "start": 1984.6,
+    "end": 1989.2,
+    "text": " wasn't happening to their cognitive abilities in zero gravity, that they were able to do"
+  },
+  {
+    "start": 1989.2,
+    "end": 1991.76,
+    "text": " the training that they'd been trained to do."
+  },
+  {
+    "start": 1991.76,
+    "end": 1994.12,
+    "text": " Ham did do a breast briefing after his trip."
+  },
+  {
+    "start": 1994.12,
+    "end": 1999.52,
+    "text": " He was wheeled out, as you say, in the suit, or certainly he was asked to get into the"
+  },
+  {
+    "start": 1999.52,
+    "end": 2003.8,
+    "text": " metal couch that was like the one he'd been in on the space flight, and he very vigorously"
+  },
+  {
+    "start": 2003.8,
+    "end": 2005.12,
+    "text": " refused to get in there."
+  },
+  {
+    "start": 2005.12,
+    "end": 2007.88,
+    "text": " So it seems to imply he didn't have a wonderful time."
+  },
+  {
+    "start": 2007.88,
+    "end": 2011.8,
+    "text": " It's a thing that's sort of being rewritten in the sort of perception of Ham, because"
+  },
+  {
+    "start": 2011.8,
+    "end": 2016.52,
+    "text": " the footage that always gets shown of Ham is him having, let's say, a quite pleasant"
+  },
+  {
+    "start": 2016.52,
+    "end": 2021.16,
+    "text": " trip up into space, but the extended version of it, and I've not seen the footage myself,"
+  },
+  {
+    "start": 2021.16,
+    "end": 2025.44,
+    "text": " but there's a lot of talk about there being a lot of distress in his face and him being"
+  },
+  {
+    "start": 2025.44,
+    "end": 2030.16,
+    "text": " quite scared, and Jane Goodall, who did see the footage when it happened, said she's never"
+  },
+  {
+    "start": 2030.16,
+    "end": 2034.92,
+    "text": " seen a chimpanzee look so scared in her life with the facial expressions, and I think at"
+  },
+  {
+    "start": 2034.92,
+    "end": 2040,
+    "text": " the time, as Mary, you point out in the book, no one knew how to place Ham."
+  },
+  {
+    "start": 2040,
+    "end": 2045.96,
+    "text": " Was Ham an astronaut who was going there as part of a heroic adventure, or was it an animal"
+  },
+  {
+    "start": 2045.96,
+    "end": 2047.92,
+    "text": " who had no idea what was going on?"
+  },
+  {
+    "start": 2047.92,
+    "end": 2051.84,
+    "text": " And obviously it was an animal that had no idea, but the perception was that it was"
+  },
+  {
+    "start": 2051.84,
+    "end": 2054.04,
+    "text": " a hero for America."
+  },
+  {
+    "start": 2054.04,
+    "end": 2058.16,
+    "text": " And so the narrative was that, and it's being reassessed a lot now to say, actually, it"
+  },
+  {
+    "start": 2058.16,
+    "end": 2060.2,
+    "text": " was animal cruelty."
+  },
+  {
+    "start": 2060.2,
+    "end": 2064.96,
+    "text": " I have a refrigerator magnet of Ham, and he looks like he's smiling."
+  },
+  {
+    "start": 2064.96,
+    "end": 2071.94,
+    "text": " In fact, that's not a smile, that's a sort of a grimace of stress, but people looked"
+  },
+  {
+    "start": 2071.94,
+    "end": 2074.28,
+    "text": " at it and thought, oh, look, he looks so happy."
+  },
+  {
+    "start": 2074.28,
+    "end": 2079,
+    "text": " But I have a photo of myself doing that on a log flume, right, on a theme park, and again,"
+  },
+  {
+    "start": 2079,
+    "end": 2082,
+    "text": " it does look like a smile, but I'm not happy."
+  },
+  {
+    "start": 2082,
+    "end": 2088.34,
+    "text": " I was looking at other Ham's in space."
+  },
+  {
+    "start": 2088.34,
+    "end": 2089.34,
+    "text": " Go on."
+  },
+  {
+    "start": 2089.34,
+    "end": 2090.8,
+    "text": " Well, I found a few."
+  },
+  {
+    "start": 2090.8,
+    "end": 2095.36,
+    "text": " So we've mentioned on the podcast before, the first ever meal eaten on the moon was"
+  },
+  {
+    "start": 2095.36,
+    "end": 2096.36,
+    "text": " a Ham sandwich."
+  },
+  {
+    "start": 2096.36,
+    "end": 2099.2,
+    "text": " So, you know, Ham is quite an iconic thing."
+  },
+  {
+    "start": 2099.2,
+    "end": 2100.2,
+    "text": " By Buzz Aldrin."
+  },
+  {
+    "start": 2100.2,
+    "end": 2101.2,
+    "text": " By Buzz Aldrin."
+  },
+  {
+    "start": 2101.2,
+    "end": 2102.2,
+    "text": " The ugly one."
+  },
+  {
+    "start": 2102.2,
+    "end": 2103.2,
+    "text": " Oh, no."
+  },
+  {
+    "start": 2103.2,
+    "end": 2104.2,
+    "text": " The grumpy one."
+  },
+  {
+    "start": 2104.2,
+    "end": 2105.2,
+    "text": " Oh, my God."
+  },
+  {
+    "start": 2105.2,
+    "end": 2110.48,
+    "text": " So that would be a little dehydrated cubed Ham sandwich, about one inch square, I believe."
+  },
+  {
+    "start": 2110.48,
+    "end": 2111.48,
+    "text": " Oh, what's that?"
+  },
+  {
+    "start": 2111.48,
+    "end": 2112.48,
+    "text": " Yeah."
+  },
+  {
+    "start": 2112.48,
+    "end": 2114.96,
+    "text": " We're not talking rye and mustard and lettuce and tomato."
+  },
+  {
+    "start": 2114.96,
+    "end": 2119.7,
+    "text": " Well, you see, in my head, it was always like, yeah, like a 12-inch sub."
+  },
+  {
+    "start": 2119.7,
+    "end": 2120.7,
+    "text": " Definitely."
+  },
+  {
+    "start": 2120.7,
+    "end": 2121.7,
+    "text": " Yeah."
+  },
+  {
+    "start": 2121.7,
+    "end": 2126.2,
+    "text": " The ones that went to the moon, the space sandwiches then were like, they were little"
+  },
+  {
+    "start": 2126.2,
+    "end": 2131.18,
+    "text": " dehydrated cubes that you would pop the whole sandwich in your mouth at once so there would"
+  },
+  {
+    "start": 2131.18,
+    "end": 2132.18,
+    "text": " be no crumbs."
+  },
+  {
+    "start": 2132.18,
+    "end": 2135.7,
+    "text": " Because if you had crumbs and they floated around and they get into the electronics and"
+  },
+  {
+    "start": 2135.7,
+    "end": 2140.66,
+    "text": " they could cause problems and they were so dry that you would have to moisten them with"
+  },
+  {
+    "start": 2140.66,
+    "end": 2141.66,
+    "text": " your own saliva."
+  },
+  {
+    "start": 2141.66,
+    "end": 2148.1,
+    "text": " You'd have to hold them in your mouth and kind of gather up the spit to make them swallowable."
+  },
+  {
+    "start": 2148.1,
+    "end": 2149.1,
+    "text": " Wow."
+  },
+  {
+    "start": 2149.1,
+    "end": 2153.42,
+    "text": " They were so, they tended, this stuff tended to travel up into space and come right back"
+  },
+  {
+    "start": 2153.42,
+    "end": 2154.42,
+    "text": " down."
+  },
+  {
+    "start": 2154.42,
+    "end": 2158.64,
+    "text": " And they also didn't want to eat because they didn't have a toilet, they just had the bag,"
+  },
+  {
+    "start": 2158.64,
+    "end": 2159.64,
+    "text": " the fecal bag."
+  },
+  {
+    "start": 2159.64,
+    "end": 2160.64,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 2160.64,
+    "end": 2164,
+    "text": " A lot of times they, on these shorter missions particularly, Gemini, they just didn't eat"
+  },
+  {
+    "start": 2164,
+    "end": 2165.78,
+    "text": " because they didn't want to use the bag."
+  },
+  {
+    "start": 2165.78,
+    "end": 2166.78,
+    "text": " So, yeah."
+  },
+  {
+    "start": 2166.78,
+    "end": 2167.78,
+    "text": " That makes sense."
+  },
+  {
+    "start": 2167.78,
+    "end": 2168.78,
+    "text": " That makes sense."
+  },
+  {
+    "start": 2168.78,
+    "end": 2171.62,
+    "text": " Just on that, do you remember we had Tim Beacon about a year ago talking about his"
+  },
+  {
+    "start": 2171.62,
+    "end": 2172.62,
+    "text": " time in space?"
+  },
+  {
+    "start": 2172.62,
+    "end": 2176.26,
+    "text": " I don't think we ever mentioned, they do this training where you're underwater for a while,"
+  },
+  {
+    "start": 2176.26,
+    "end": 2178.06,
+    "text": " the special underwater base."
+  },
+  {
+    "start": 2178.06,
+    "end": 2182.54,
+    "text": " And they had a problem with their toilet and for whatever reason, the answer became you"
+  },
+  {
+    "start": 2182.54,
+    "end": 2189.78,
+    "text": " had to stick your bum out of this underwater base and just sort of poo into the open ocean."
+  },
+  {
+    "start": 2189.78,
+    "end": 2194.1,
+    "text": " But the problem was that lots of fish got the message that this was dinner time and"
+  },
+  {
+    "start": 2194.1,
+    "end": 2198,
+    "text": " they would turn up and they'd start nibbling your bum if you didn't have a poo quickly"
+  },
+  {
+    "start": 2198,
+    "end": 2201.54,
+    "text": " enough."
+  },
+  {
+    "start": 2201.54,
+    "end": 2207.14,
+    "text": " Is that a nice thing when people like go into shopping centers sometimes and get fished"
+  },
+  {
+    "start": 2207.14,
+    "end": 2209.42,
+    "text": " and nibble on their feet, right?"
+  },
+  {
+    "start": 2209.42,
+    "end": 2212.26,
+    "text": " People say that's a nice feeling, do you think it's the same on the bum bum?"
+  },
+  {
+    "start": 2212.26,
+    "end": 2217.42,
+    "text": " James is actually banned from every shopping center in the UK for misuse of those facilities."
+  },
+  {
+    "start": 2217.42,
+    "end": 2222.34,
+    "text": " And I think they tried to solve the problem by putting up this curtain of bubbles to give"
+  },
+  {
+    "start": 2222.34,
+    "end": 2225,
+    "text": " the astronauts in training a kind of privacy screen, right?"
+  },
+  {
+    "start": 2225,
+    "end": 2228.82,
+    "text": " But unfortunately, it was just a massive dinner gong and all the fish would see the"
+  },
+  {
+    "start": 2228.82,
+    "end": 2232.22,
+    "text": " bubbles from miles away and go, \"Oh, great, there's going to be an astronaut poking their"
+  },
+  {
+    "start": 2232.22,
+    "end": 2233.22,
+    "text": " arse out.\""
+  },
+  {
+    "start": 2233.22,
+    "end": 2238.9,
+    "text": " I suppose it's all right if there's a little kind of nibbling fish, but if you get a huge"
+  },
+  {
+    "start": 2238.9,
+    "end": 2242.1,
+    "text": " like great white shark coming along, you don't want that, do you?"
+  },
+  {
+    "start": 2242.1,
+    "end": 2243.18,
+    "text": " What a death, though."
+  },
+  {
+    "start": 2243.18,
+    "end": 2250.5,
+    "text": " What to report there, Tim Peake died when a shark ate him anus first."
+  },
+  {
+    "start": 2250.5,
+    "end": 2258.32,
+    "text": " Do you guys know, you might probably do know her actually, Peggy Whitson."
+  },
+  {
+    "start": 2258.32,
+    "end": 2264.2,
+    "text": " She's an astronaut, so she has the record for the most time that any American has been"
+  },
+  {
+    "start": 2264.2,
+    "end": 2266.32,
+    "text": " in space and any woman has been in space."
+  },
+  {
+    "start": 2266.32,
+    "end": 2275.72,
+    "text": " She was in space for 665 days and she was the first person to do a real-time kind of"
+  },
+  {
+    "start": 2275.72,
+    "end": 2282.3,
+    "text": " DNA test to find species while in the ISS."
+  },
+  {
+    "start": 2282.3,
+    "end": 2287.54,
+    "text": " So basically, they would scrape a bit of the table and they would put it in and they would"
+  },
+  {
+    "start": 2287.54,
+    "end": 2290.98,
+    "text": " be able to tell which species are there and that's obviously really, really important,"
+  },
+  {
+    "start": 2290.98,
+    "end": 2291.98,
+    "text": " especially in the future."
+  },
+  {
+    "start": 2291.98,
+    "end": 2296.22,
+    "text": " It might be really important when we're trying to find, you know, if there is life on other"
+  },
+  {
+    "start": 2296.22,
+    "end": 2298.22,
+    "text": " planets or wherever."
+  },
+  {
+    "start": 2298.22,
+    "end": 2301.9,
+    "text": " But she did that, of course, using a PCR test."
+  },
+  {
+    "start": 2301.9,
+    "end": 2308.06,
+    "text": " So in the future, any astronaut worth their salt will be doing a PCR test wherever they"
+  },
+  {
+    "start": 2308.06,
+    "end": 2309.06,
+    "text": " go."
+  },
+  {
+    "start": 2309.06,
+    "end": 2310.06,
+    "text": " Wow."
+  },
+  {
+    "start": 2310.06,
+    "end": 2312.64,
+    "text": " I interviewed Commander Whitson, Peggy from Mars."
+  },
+  {
+    "start": 2312.64,
+    "end": 2313.64,
+    "text": " I did."
+  },
+  {
+    "start": 2313.64,
+    "end": 2315.88,
+    "text": " She's just really badass fabulous."
+  },
+  {
+    "start": 2315.88,
+    "end": 2321.72,
+    "text": " So she told me this story about, she was coming back from the ISS on Soyuz, you know, the"
+  },
+  {
+    "start": 2321.72,
+    "end": 2324.04,
+    "text": " capsule, and they do, they don't do a splashdown."
+  },
+  {
+    "start": 2324.04,
+    "end": 2329.16,
+    "text": " They come down on land while they, it was kind of an off-nominal as they say."
+  },
+  {
+    "start": 2329.16,
+    "end": 2333.34,
+    "text": " Things didn't go quite right and she didn't land where she was meant to land."
+  },
+  {
+    "start": 2333.34,
+    "end": 2340.7,
+    "text": " She lands in this field out on the steps and she gets out and then this farmer comes over"
+  },
+  {
+    "start": 2340.7,
+    "end": 2344.94,
+    "text": " and he's like, \"Where did you come from?\""
+  },
+  {
+    "start": 2344.94,
+    "end": 2347.18,
+    "text": " And she's like, \"I came from space.\""
+  },
+  {
+    "start": 2347.18,
+    "end": 2350.1,
+    "text": " He's just like, \"Walks away.\""
+  },
+  {
+    "start": 2350.1,
+    "end": 2351.7,
+    "text": " That's amazing."
+  },
+  {
+    "start": 2351.7,
+    "end": 2362.16,
+    "text": " Okay, it is time for our final fact of the show and that is Andy."
+  },
+  {
+    "start": 2362.16,
+    "end": 2365.88,
+    "text": " My fact is that you can now send sperm on a postcard."
+  },
+  {
+    "start": 2365.88,
+    "end": 2372.36,
+    "text": " Andy's address is..."
+  },
+  {
+    "start": 2372.36,
+    "end": 2373.76,
+    "text": " So I couldn't do it before."
+  },
+  {
+    "start": 2373.76,
+    "end": 2374.76,
+    "text": " Could I not?"
+  },
+  {
+    "start": 2374.76,
+    "end": 2378.04,
+    "text": " Well, it's just been proved that it can be done."
+  },
+  {
+    "start": 2378.04,
+    "end": 2379.76,
+    "text": " So you mean like, and it survives?"
+  },
+  {
+    "start": 2379.76,
+    "end": 2384.82,
+    "text": " I mean, it's a dead sperm on a postcard forever."
+  },
+  {
+    "start": 2384.82,
+    "end": 2385.82,
+    "text": " Yes."
+  },
+  {
+    "start": 2385.82,
+    "end": 2386.82,
+    "text": " Absolutely."
+  },
+  {
+    "start": 2386.82,
+    "end": 2390.7,
+    "text": " Since the invention of the medium, yeah, it's been, I'm sure."
+  },
+  {
+    "start": 2390.7,
+    "end": 2392.82,
+    "text": " Probably one of the first things they said, I would have thought."
+  },
+  {
+    "start": 2392.82,
+    "end": 2393.82,
+    "text": " Absolutely."
+  },
+  {
+    "start": 2393.82,
+    "end": 2394.82,
+    "text": " Wish you were here."
+  },
+  {
+    "start": 2394.82,
+    "end": 2404.86,
+    "text": " Okay, so this is an experiment that some scientists in Japan at Yamanashi University"
+  },
+  {
+    "start": 2404.86,
+    "end": 2405.86,
+    "text": " have been doing."
+  },
+  {
+    "start": 2405.86,
+    "end": 2411.28,
+    "text": " Normally, sperm gets sent around the place in glass vials and it's vulnerable to breaking"
+  },
+  {
+    "start": 2411.28,
+    "end": 2416.4,
+    "text": " and some freezing methods are things like freezing with liquid nitrogen, which it's"
+  },
+  {
+    "start": 2416.4,
+    "end": 2418.76,
+    "text": " not a great system for sending sperm around the place."
+  },
+  {
+    "start": 2418.76,
+    "end": 2424.2,
+    "text": " And they have been working on ways to make sperm viable in transit in more convenient"
+  },
+  {
+    "start": 2424.2,
+    "end": 2425.2,
+    "text": " ways."
+  },
+  {
+    "start": 2425.2,
+    "end": 2429.32,
+    "text": " And they've been freeze-drying sperm for some years now and now they are getting to the"
+  },
+  {
+    "start": 2429.32,
+    "end": 2431.84,
+    "text": " bit of their experiments where they are sending it around."
+  },
+  {
+    "start": 2431.84,
+    "end": 2437.14,
+    "text": " So what they did was they freeze-dried some sperm, mouse sperm in this case, onto a single"
+  },
+  {
+    "start": 2437.14,
+    "end": 2442.5,
+    "text": " sheet of paper and they sandwiched the paper between two little sheets of plastic, but"
+  },
+  {
+    "start": 2442.5,
+    "end": 2446.7,
+    "text": " then they just attached that to a postcard and they sent it through the post."
+  },
+  {
+    "start": 2446.7,
+    "end": 2453.22,
+    "text": " And it was absolutely fine and they were able to get viable mice bred from this sperm and"
+  },
+  {
+    "start": 2453.22,
+    "end": 2454.7,
+    "text": " they would really test themselves as well."
+  },
+  {
+    "start": 2454.7,
+    "end": 2460.34,
+    "text": " They sent it a new year when the postal system is under a lot of stress because lots of people"
+  },
+  {
+    "start": 2460.34,
+    "end": 2461.84,
+    "text": " are writing to each other."
+  },
+  {
+    "start": 2461.84,
+    "end": 2464.28,
+    "text": " And what was on the back of the postcard?"
+  },
+  {
+    "start": 2464.28,
+    "end": 2466.88,
+    "text": " Was it a scenic view?"
+  },
+  {
+    "start": 2466.88,
+    "end": 2468.48,
+    "text": " One of them was a happy new year card."
+  },
+  {
+    "start": 2468.48,
+    "end": 2474.4,
+    "text": " We do know that from the experiment, but they haven't clarified what else was on the exciting"
+  },
+  {
+    "start": 2474.4,
+    "end": 2475.4,
+    "text": " bits."
+  },
+  {
+    "start": 2475.4,
+    "end": 2476.4,
+    "text": " Oh, I don't know if it was the front or the back, actually."
+  },
+  {
+    "start": 2476.4,
+    "end": 2478.64,
+    "text": " I assume that it was on the bit where you write the message."
+  },
+  {
+    "start": 2478.64,
+    "end": 2479.64,
+    "text": " Yeah."
+  },
+  {
+    "start": 2479.64,
+    "end": 2480.64,
+    "text": " You would think so."
+  },
+  {
+    "start": 2480.64,
+    "end": 2481.64,
+    "text": " Yeah."
+  },
+  {
+    "start": 2481.64,
+    "end": 2482.64,
+    "text": " Right."
+  },
+  {
+    "start": 2482.64,
+    "end": 2487.88,
+    "text": " But the bigger challenge here is possibly how to get the sperm out of the mouse."
+  },
+  {
+    "start": 2487.88,
+    "end": 2489.94,
+    "text": " That is a bit of a challenge for scientists."
+  },
+  {
+    "start": 2489.94,
+    "end": 2495.88,
+    "text": " I talked to a woman who was looking into a male birth control and they were testing it"
+  },
+  {
+    "start": 2495.88,
+    "end": 2503.34,
+    "text": " on macaques and she said, \"We had a heck of a time getting them to, you know, they wanted"
+  },
+  {
+    "start": 2503.34,
+    "end": 2506.18,
+    "text": " them to masturbate and produce a sample.\""
+  },
+  {
+    "start": 2506.18,
+    "end": 2508.02,
+    "text": " And it was very, very difficult."
+  },
+  {
+    "start": 2508.02,
+    "end": 2510.74,
+    "text": " They had to end up using a sort of ejaculator thing."
+  },
+  {
+    "start": 2510.74,
+    "end": 2512.26,
+    "text": " But anyway, she had this great line."
+  },
+  {
+    "start": 2512.26,
+    "end": 2517.14,
+    "text": " She said, \"A monkey is not smart enough to know what we want, but too smart to have sex"
+  },
+  {
+    "start": 2517.14,
+    "end": 2518.84,
+    "text": " with an artificial vagina.\""
+  },
+  {
+    "start": 2518.84,
+    "end": 2524.22,
+    "text": " Because that's what they were trying to get them to mount the artificial monkey vagina."
+  },
+  {
+    "start": 2524.22,
+    "end": 2525.94,
+    "text": " So that was the challenge."
+  },
+  {
+    "start": 2525.94,
+    "end": 2526.94,
+    "text": " So a mouse?"
+  },
+  {
+    "start": 2526.94,
+    "end": 2527.94,
+    "text": " Yeah."
+  },
+  {
+    "start": 2527.94,
+    "end": 2530.52,
+    "text": " Well, maybe this is the answer to your postcard question because maybe on the other side"
+  },
+  {
+    "start": 2530.52,
+    "end": 2534.68,
+    "text": " was a sexy picture of a mouse and they just got them looking at it and as they ejaculated,"
+  },
+  {
+    "start": 2534.68,
+    "end": 2535.68,
+    "text": " just swap it around."
+  },
+  {
+    "start": 2535.68,
+    "end": 2540.48,
+    "text": " If you know how they got sperm out of a mouse, then send your answers on a postcard to Andra"
+  },
+  {
+    "start": 2540.48,
+    "end": 2543.24,
+    "text": " Kuntamari."
+  },
+  {
+    "start": 2543.24,
+    "end": 2549.48,
+    "text": " Maybe they just wheel in a little mouse on wheels, you know, playing some noise."
+  },
+  {
+    "start": 2549.48,
+    "end": 2550.48,
+    "text": " Skippy."
+  },
+  {
+    "start": 2550.48,
+    "end": 2551.48,
+    "text": " Skippy, what is this?"
+  },
+  {
+    "start": 2551.48,
+    "end": 2552.48,
+    "text": " Korea's really dropped."
+  },
+  {
+    "start": 2552.48,
+    "end": 2555.92,
+    "text": " Well, you've got a new gig, mate."
+  },
+  {
+    "start": 2555.92,
+    "end": 2560.58,
+    "text": " No, but Mary, you're absolutely right about the, because I know that for bigger animals,"
+  },
+  {
+    "start": 2560.58,
+    "end": 2563.06,
+    "text": " they sometimes use a little..."
+  },
+  {
+    "start": 2563.06,
+    "end": 2564.56,
+    "text": " Artificial vagina."
+  },
+  {
+    "start": 2564.56,
+    "end": 2567.32,
+    "text": " Oh, oh, oh, oh, ejaculator, yeah."
+  },
+  {
+    "start": 2567.32,
+    "end": 2568.32,
+    "text": " Yes."
+  },
+  {
+    "start": 2568.32,
+    "end": 2572.24,
+    "text": " Which goes, I think, into up the bum."
+  },
+  {
+    "start": 2572.24,
+    "end": 2575.84,
+    "text": " And then, yeah, quick blast of that, and away you go."
+  },
+  {
+    "start": 2575.84,
+    "end": 2579.68,
+    "text": " But no, you're right, they use the artificial ones too, but for a mouse, I don't know if"
+  },
+  {
+    "start": 2579.68,
+    "end": 2580.68,
+    "text": " anyone makes a..."
+  },
+  {
+    "start": 2580.68,
+    "end": 2581.68,
+    "text": " It's tiny."
+  },
+  {
+    "start": 2581.68,
+    "end": 2582.68,
+    "text": " More tiny."
+  },
+  {
+    "start": 2582.68,
+    "end": 2583.68,
+    "text": " Yeah."
+  },
+  {
+    "start": 2583.68,
+    "end": 2584.68,
+    "text": " It was interesting."
+  },
+  {
+    "start": 2584.68,
+    "end": 2588.68,
+    "text": " They tried lots of different types of paper, didn't they, to see which was the best."
+  },
+  {
+    "start": 2588.68,
+    "end": 2593.12,
+    "text": " They tried washi, which is like that traditional Japanese wrapping paper."
+  },
+  {
+    "start": 2593.12,
+    "end": 2595.04,
+    "text": " They also tried like a vinyl sheet."
+  },
+  {
+    "start": 2595.04,
+    "end": 2599.08,
+    "text": " They tried weighing paper, which turned out to be the best filter paper, a few different"
+  },
+  {
+    "start": 2599.08,
+    "end": 2600.08,
+    "text": " things."
+  },
+  {
+    "start": 2600.08,
+    "end": 2603.76,
+    "text": " And that even though some of them were, it's like, for instance, weighing paper, were particularly"
+  },
+  {
+    "start": 2603.76,
+    "end": 2608.08,
+    "text": " well, some of them didn't work because the paper would stick together with the sperm,"
+  },
+  {
+    "start": 2608.08,
+    "end": 2610.08,
+    "text": " and so you wouldn't be able to get it back afterwards."
+  },
+  {
+    "start": 2610.08,
+    "end": 2611.08,
+    "text": " Interesting."
+  },
+  {
+    "start": 2611.08,
+    "end": 2612.08,
+    "text": " Right."
+  },
+  {
+    "start": 2612.08,
+    "end": 2615.12,
+    "text": " I might be wrong about this, but I think from what I was reading in the paper, the sperm"
+  },
+  {
+    "start": 2615.12,
+    "end": 2618.08,
+    "text": " mattozoa die, but you can still get the DNA."
+  },
+  {
+    "start": 2618.08,
+    "end": 2622.28,
+    "text": " The DNA remains intact, and then you can take the DNA and then you can inject it into like"
+  },
+  {
+    "start": 2622.28,
+    "end": 2623.28,
+    "text": " a..."
+  },
+  {
+    "start": 2623.28,
+    "end": 2624.28,
+    "text": " Right."
+  },
+  {
+    "start": 2624.28,
+    "end": 2627.04,
+    "text": " I don't know what an oocyte or whatever they inject stuff into."
+  },
+  {
+    "start": 2627.04,
+    "end": 2628.04,
+    "text": " I see."
+  },
+  {
+    "start": 2628.04,
+    "end": 2629.04,
+    "text": " Okay."
+  },
+  {
+    "start": 2629.04,
+    "end": 2630.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 2630.04,
+    "end": 2635.2,
+    "text": " The sperm, it's not like in Star Wars where they bring back Han Solo after he's been frozen"
+  },
+  {
+    "start": 2635.2,
+    "end": 2637,
+    "text": " in position in the thing."
+  },
+  {
+    "start": 2637,
+    "end": 2639.2,
+    "text": " How do they get the sperm out of Han Solo?"
+  },
+  {
+    "start": 2639.2,
+    "end": 2641.8,
+    "text": " Is it a solo Han thing?"
+  },
+  {
+    "start": 2641.8,
+    "end": 2645.68,
+    "text": " They are very nice."
+  },
+  {
+    "start": 2645.68,
+    "end": 2652.48,
+    "text": " Some mouse sperm, they think are saboteurs, which kind of act as cock blockers for other"
+  },
+  {
+    "start": 2652.48,
+    "end": 2655,
+    "text": " sperm or for rival mouse sperm."
+  },
+  {
+    "start": 2655,
+    "end": 2659.32,
+    "text": " They seem to block the sense of direction systems in other mouse sperm, which is just"
+  },
+  {
+    "start": 2659.32,
+    "end": 2660.32,
+    "text": " remarkable."
+  },
+  {
+    "start": 2660.32,
+    "end": 2661.32,
+    "text": " That's interesting."
+  },
+  {
+    "start": 2661.32,
+    "end": 2667.24,
+    "text": " I remember someone did a study testing this theory that the corona of the glands, the penis"
+  },
+  {
+    "start": 2667.24,
+    "end": 2673.68,
+    "text": " was a sperm displacement device, like, in other words, if you go in right after another"
+  },
+  {
+    "start": 2673.68,
+    "end": 2680.28,
+    "text": " guy's been in there, this ridge would kind of remove the other person's sperm."
+  },
+  {
+    "start": 2680.28,
+    "end": 2686.44,
+    "text": " And what I enjoyed about this study is that they had to come up with a recipe for semen"
+  },
+  {
+    "start": 2686.44,
+    "end": 2688.2,
+    "text": " simulant in order to test this."
+  },
+  {
+    "start": 2688.2,
+    "end": 2696.6,
+    "text": " They also had to buy a bunch of dildos, and in my book, actually I had two recipes for"
+  },
+  {
+    "start": 2696.6,
+    "end": 2701.88,
+    "text": " semen simulant and one with cornstarch base, one fire-based."
+  },
+  {
+    "start": 2701.88,
+    "end": 2705.84,
+    "text": " What I liked a lot was that, you know how in a recipe it'll be like, yield two dozen"
+  },
+  {
+    "start": 2705.84,
+    "end": 2706.84,
+    "text": " cookies?"
+  },
+  {
+    "start": 2706.84,
+    "end": 2710.28,
+    "text": " This is what it said, yield one ejaculate."
+  },
+  {
+    "start": 2710.28,
+    "end": 2711.28,
+    "text": " Wow."
+  },
+  {
+    "start": 2711.28,
+    "end": 2720.88,
+    "text": " Speaking of semen recipes, have you guys happened to come across, wrong word, the wrong phrasing."
+  },
+  {
+    "start": 2720.88,
+    "end": 2724.16,
+    "text": " Have you guys seen the book Natural Harvest?"
+  },
+  {
+    "start": 2724.16,
+    "end": 2725.16,
+    "text": " No."
+  },
+  {
+    "start": 2725.16,
+    "end": 2732.12,
+    "text": " Interesting book, published by a guy called Paul Fotenhauer, Foti, this is his nickname,"
+  },
+  {
+    "start": 2732.12,
+    "end": 2734.96,
+    "text": " and it's basically a collection of semen-based recipes."
+  },
+  {
+    "start": 2734.96,
+    "end": 2735.96,
+    "text": " Oh, damn."
+  },
+  {
+    "start": 2735.96,
+    "end": 2739.88,
+    "text": " It's released in 2008, it's a real book, you can buy it, he's done a sequel, which"
+  },
+  {
+    "start": 2739.88,
+    "end": 2742.44,
+    "text": " is a sort of cocktail bartender's handbook."
+  },
+  {
+    "start": 2742.44,
+    "end": 2746.96,
+    "text": " So what kind of tale?"
+  },
+  {
+    "start": 2746.96,
+    "end": 2751.16,
+    "text": " So here's the description, he says, \"semen is not only nutritious, but also has a wonderful"
+  },
+  {
+    "start": 2751.16,
+    "end": 2753.56,
+    "text": " texture and amazing cooking properties."
+  },
+  {
+    "start": 2753.56,
+    "end": 2757.6,
+    "text": " Like fine wine and cheeses, the taste of semen is complex and dynamic."
+  },
+  {
+    "start": 2757.6,
+    "end": 2762.64,
+    "text": " Semen is inexpensive to produce and is commonly available in many, if not most, homes and"
+  },
+  {
+    "start": 2762.64,
+    "end": 2763.64,
+    "text": " restaurants."
+  },
+  {
+    "start": 2763.64,
+    "end": 2769.08,
+    "text": " Despite all of these positive qualities, semen remains neglected as a food, and it's an entire"
+  },
+  {
+    "start": 2769.08,
+    "end": 2773.6,
+    "text": " book that you can get where semen is sort of just added in the recipe as a little twist."
+  },
+  {
+    "start": 2773.6,
+    "end": 2778.64,
+    "text": " So is it a lot of normal recipes, just with, you know, like Shepherd's Pie with semen?"
+  },
+  {
+    "start": 2778.64,
+    "end": 2780.64,
+    "text": " Oh my god."
+  },
+  {
+    "start": 2780.64,
+    "end": 2781.64,
+    "text": " Really?"
+  },
+  {
+    "start": 2781.64,
+    "end": 2784.84,
+    "text": " I mean, because I was thinking it has proteins in it, doesn't it?"
+  },
+  {
+    "start": 2784.84,
+    "end": 2789.04,
+    "text": " So you could whip it up like egg whites, I was thinking for cocktails, for instance."
+  },
+  {
+    "start": 2789.04,
+    "end": 2790.04,
+    "text": " I don't know."
+  },
+  {
+    "start": 2790.04,
+    "end": 2792.32,
+    "text": " Like a very small meringue."
+  },
+  {
+    "start": 2792.32,
+    "end": 2795.88,
+    "text": " Very small meringue though."
+  },
+  {
+    "start": 2795.88,
+    "end": 2798.72,
+    "text": " No, do you remember \"Midget Gems\", Andy?"
+  },
+  {
+    "start": 2798.72,
+    "end": 2799.72,
+    "text": " I do."
+  },
+  {
+    "start": 2799.72,
+    "end": 2803.48,
+    "text": " They were like little bits of biscuit with a tiny meringue on top."
+  },
+  {
+    "start": 2803.48,
+    "end": 2806.44,
+    "text": " I thought they had very complex flavours when I was growing up."
+  },
+  {
+    "start": 2806.44,
+    "end": 2807.44,
+    "text": " I had no idea."
+  },
+  {
+    "start": 2807.44,
+    "end": 2809.44,
+    "text": " I don't know what you're talking about."
+  },
+  {
+    "start": 2809.44,
+    "end": 2812.84,
+    "text": " No, you had to grow up in the UK in the 1980s to get that."
+  },
+  {
+    "start": 2812.84,
+    "end": 2816,
+    "text": " \"Midget Gems\", I swear to God, the Peter K demographic has just lost their minds for"
+  },
+  {
+    "start": 2816,
+    "end": 2817,
+    "text": " that bit."
+  },
+  {
+    "start": 2817,
+    "end": 2819.48,
+    "text": " That's good."
+  },
+  {
+    "start": 2819.48,
+    "end": 2824.84,
+    "text": " So when you're sending semen from one place to another, you obviously need it to be in"
+  },
+  {
+    "start": 2824.84,
+    "end": 2829.96,
+    "text": " as good condition as possible and that's why you might need something called an extender."
+  },
+  {
+    "start": 2829.96,
+    "end": 2835.44,
+    "text": " And an extender is a nutrition rich liquid which you can add to your semen from, let's"
+  },
+  {
+    "start": 2835.44,
+    "end": 2839.6,
+    "text": " say, a horse or from whatever and it will make it last for longer."
+  },
+  {
+    "start": 2839.6,
+    "end": 2842.04,
+    "text": " So you can get human extender."
+  },
+  {
+    "start": 2842.04,
+    "end": 2847.36,
+    "text": " There's one company called Sperm Prep which they make this thing out of egg yolks and"
+  },
+  {
+    "start": 2847.36,
+    "end": 2850.48,
+    "text": " you can kind of mix it in and it'll make sperm last for longer."
+  },
+  {
+    "start": 2850.48,
+    "end": 2855,
+    "text": " One of them is called Excel which obviously make sure you get the right Excel if you're"
+  },
+  {
+    "start": 2855,
+    "end": 2858.24,
+    "text": " trying to get something on your computer, don't go for the wrong thing."
+  },
+  {
+    "start": 2858.24,
+    "end": 2861.24,
+    "text": " And also another one called BTS."
+  },
+  {
+    "start": 2861.24,
+    "end": 2865.92,
+    "text": " So if you're ever trying to buy a Korean pop groups record, make sure you get the right"
+  },
+  {
+    "start": 2865.92,
+    "end": 2866.92,
+    "text": " BTS."
+  },
+  {
+    "start": 2866.92,
+    "end": 2872.34,
+    "text": " And so what it just sort of keeps it in good nick and yeah, it's nutrition, right?"
+  },
+  {
+    "start": 2872.34,
+    "end": 2877.64,
+    "text": " Like it's the one that James is talking about with the yolk is that's called a TYB, a test"
+  },
+  {
+    "start": 2877.64,
+    "end": 2882.16,
+    "text": " yolk buffer and it's basically the same, it's the same principles of when a person is ovulating,"
+  },
+  {
+    "start": 2882.16,
+    "end": 2883.84,
+    "text": " they obviously have to feed."
+  },
+  {
+    "start": 2883.84,
+    "end": 2889.48,
+    "text": " It helps the sperm to get fed as it's trying to fertilize and this is the exact same principle."
+  },
+  {
+    "start": 2889.48,
+    "end": 2894,
+    "text": " So it's like chicken egg yolk or a type of chicken egg yolk that is just feeding it as"
+  },
+  {
+    "start": 2894,
+    "end": 2895,
+    "text": " it's in the mail."
+  },
+  {
+    "start": 2895,
+    "end": 2896,
+    "text": " It's really clever."
+  },
+  {
+    "start": 2896,
+    "end": 2897,
+    "text": " It's really interesting."
+  },
+  {
+    "start": 2897,
+    "end": 2903.1,
+    "text": " This whole situation with sperm donors in the pandemic, because the supply has not been"
+  },
+  {
+    "start": 2903.1,
+    "end": 2904.42,
+    "text": " as great as the demand."
+  },
+  {
+    "start": 2904.42,
+    "end": 2908.18,
+    "text": " The demand has been huge because a lot of people as they've been sitting at home think"
+  },
+  {
+    "start": 2908.18,
+    "end": 2911.98,
+    "text": " actually I maybe I do want a kid and maybe they haven't been able to do it and so they"
+  },
+  {
+    "start": 2911.98,
+    "end": 2917.9,
+    "text": " need the donations, but they haven't been able to get enough into the actual sperm banks"
+  },
+  {
+    "start": 2917.9,
+    "end": 2918.9,
+    "text": " to distribute them."
+  },
+  {
+    "start": 2918.9,
+    "end": 2924.38,
+    "text": " So there's been this whole kind of black market that is a black market that exists on Facebook"
+  },
+  {
+    "start": 2924.38,
+    "end": 2926.04,
+    "text": " pages for example."
+  },
+  {
+    "start": 2926.04,
+    "end": 2930.74,
+    "text": " And there were these, what are kind of known as these kind of like mega sperm donors, these"
+  },
+  {
+    "start": 2930.74,
+    "end": 2937.48,
+    "text": " specific men in the US who famously have fathered, you know, hundreds of kids, they've been flying"
+  },
+  {
+    "start": 2937.48,
+    "end": 2943.2,
+    "text": " all over the country since the lockdown has stopped and been sort of like handing over"
+  },
+  {
+    "start": 2943.2,
+    "end": 2944.2,
+    "text": " their sperm basically."
+  },
+  {
+    "start": 2944.2,
+    "end": 2948.24,
+    "text": " Also, these guys are kind of like, they used to have, before there was artificial insemination,"
+  },
+  {
+    "start": 2948.24,
+    "end": 2953.04,
+    "text": " they had what's called the bore truck and it was just a bore with good genes that would"
+  },
+  {
+    "start": 2953.04,
+    "end": 2956.14,
+    "text": " travel from farm to farm and inseminate the sounds."
+  },
+  {
+    "start": 2956.14,
+    "end": 2957.14,
+    "text": " Wow."
+  },
+  {
+    "start": 2957.14,
+    "end": 2958.14,
+    "text": " Exactly that."
+  },
+  {
+    "start": 2958.14,
+    "end": 2959.14,
+    "text": " The bore truck."
+  },
+  {
+    "start": 2959.14,
+    "end": 2962.62,
+    "text": " And it's what, the most interesting thing about it is you know who the donor is, which"
+  },
+  {
+    "start": 2962.62,
+    "end": 2965.1,
+    "text": " apparently has been a big thing for a long time."
+  },
+  {
+    "start": 2965.1,
+    "end": 2969.3,
+    "text": " You have a lot of people going, I wish I could know the name and the genetics of the family"
+  },
+  {
+    "start": 2969.3,
+    "end": 2972.22,
+    "text": " that I'll be inheriting through the father's sperm."
+  },
+  {
+    "start": 2972.22,
+    "end": 2973.78,
+    "text": " And this is the quick way of doing it."
+  },
+  {
+    "start": 2973.78,
+    "end": 2975.74,
+    "text": " You don't have to wait till a child is 18."
+  },
+  {
+    "start": 2975.74,
+    "end": 2976.74,
+    "text": " You suddenly can do it."
+  },
+  {
+    "start": 2976.74,
+    "end": 2977.74,
+    "text": " Yeah."
+  },
+  {
+    "start": 2977.74,
+    "end": 2978.74,
+    "text": " Remember there's a story about the guy."
+  },
+  {
+    "start": 2978.74,
+    "end": 2984.56,
+    "text": " Like a genius sperm bank, you know, supposedly all these well-bred Ivy League school types"
+  },
+  {
+    "start": 2984.56,
+    "end": 2989.48,
+    "text": " would come in and donate sperm and there was a waiting list and it turned out in the end,"
+  },
+  {
+    "start": 2989.48,
+    "end": 2991.94,
+    "text": " it's just the guys started the company."
+  },
+  {
+    "start": 2991.94,
+    "end": 2993.48,
+    "text": " It's just all his sperm."
+  },
+  {
+    "start": 2993.48,
+    "end": 2995.48,
+    "text": " No way."
+  },
+  {
+    "start": 2995.48,
+    "end": 2996.48,
+    "text": " Just one guy."
+  },
+  {
+    "start": 2996.48,
+    "end": 2997.48,
+    "text": " Yeah."
+  },
+  {
+    "start": 2997.48,
+    "end": 2998.48,
+    "text": " A lot of it was one guy."
+  },
+  {
+    "start": 2998.48,
+    "end": 2999.48,
+    "text": " Yeah."
+  },
+  {
+    "start": 2999.48,
+    "end": 3000.48,
+    "text": " They charged him a lot of money."
+  },
+  {
+    "start": 3000.48,
+    "end": 3001.48,
+    "text": " It was quite a scam."
+  },
+  {
+    "start": 3001.48,
+    "end": 3002.48,
+    "text": " Yeah."
+  },
+  {
+    "start": 3002.48,
+    "end": 3003.48,
+    "text": " Gosh."
+  },
+  {
+    "start": 3003.48,
+    "end": 3005.92,
+    "text": " I think he found it hard to get Nobel Prize winners to donate, didn't he?"
+  },
+  {
+    "start": 3005.92,
+    "end": 3010.7,
+    "text": " And also a lot of them are in their 60s and 70s and 80s and perhaps aren't giving the"
+  },
+  {
+    "start": 3010.7,
+    "end": 3012.74,
+    "text": " full cup full at that age."
+  },
+  {
+    "start": 3012.74,
+    "end": 3014.7,
+    "text": " But also you want their dads, don't you?"
+  },
+  {
+    "start": 3014.7,
+    "end": 3016.98,
+    "text": " You want the dads of the Nobel Prize winners."
+  },
+  {
+    "start": 3016.98,
+    "end": 3017.98,
+    "text": " So..."
+  },
+  {
+    "start": 3017.98,
+    "end": 3018.98,
+    "text": " Oh, good point."
+  },
+  {
+    "start": 3018.98,
+    "end": 3019.98,
+    "text": " You want Mozart's dad."
+  },
+  {
+    "start": 3019.98,
+    "end": 3020.98,
+    "text": " You don't want Mozart."
+  },
+  {
+    "start": 3020.98,
+    "end": 3021.98,
+    "text": " This is..."
+  },
+  {
+    "start": 3021.98,
+    "end": 3024.16,
+    "text": " A lot of this is the plot of a Roald Dahl novel."
+  },
+  {
+    "start": 3024.16,
+    "end": 3028.3,
+    "text": " Roald Dahl's readers novel and Roald Dahl's least family appropriate novel."
+  },
+  {
+    "start": 3028.3,
+    "end": 3031.58,
+    "text": " James and the Giant Sperm, was it?"
+  },
+  {
+    "start": 3031.58,
+    "end": 3033.06,
+    "text": " Oh my gosh."
+  },
+  {
+    "start": 3033.06,
+    "end": 3035.22,
+    "text": " Charlie and the Sperm Factory."
+  },
+  {
+    "start": 3035.22,
+    "end": 3038.4,
+    "text": " George's Marvelous Medicine."
+  },
+  {
+    "start": 3038.4,
+    "end": 3039.96,
+    "text": " No, it was..."
+  },
+  {
+    "start": 3039.96,
+    "end": 3041.2,
+    "text": " It's called My Uncle Oswald."
+  },
+  {
+    "start": 3041.2,
+    "end": 3042.2,
+    "text": " Oh."
+  },
+  {
+    "start": 3042.2,
+    "end": 3044.4,
+    "text": " And it is extremely rude."
+  },
+  {
+    "start": 3044.4,
+    "end": 3046.48,
+    "text": " It's hilarious and very..."
+  },
+  {
+    "start": 3046.48,
+    "end": 3051.56,
+    "text": " It's absolutely scandalous and it was before he started becoming cuddly Uncle Roald."
+  },
+  {
+    "start": 3051.56,
+    "end": 3055.52,
+    "text": " Here's something that I didn't know about Sperm until I was researching this week."
+  },
+  {
+    "start": 3055.52,
+    "end": 3061.92,
+    "text": " And that is post-ejaculatory modifications to Sperm, otherwise known as Pems."
+  },
+  {
+    "start": 3061.92,
+    "end": 3066.14,
+    "text": " This is, in lots of animals, we're kind of just starting to learn about it so we don't"
+  },
+  {
+    "start": 3066.14,
+    "end": 3067.62,
+    "text": " know how common it is."
+  },
+  {
+    "start": 3067.62,
+    "end": 3073.78,
+    "text": " But in lots of animals, a male sperm, once it gets into the female reproductive system,"
+  },
+  {
+    "start": 3073.78,
+    "end": 3080.38,
+    "text": " will change and will gain proteins and gain changes from the reproductive tract of the"
+  },
+  {
+    "start": 3080.38,
+    "end": 3081.38,
+    "text": " female."
+  },
+  {
+    "start": 3081.38,
+    "end": 3082.94,
+    "text": " So it will actually completely change."
+  },
+  {
+    "start": 3082.94,
+    "end": 3088.18,
+    "text": " So there are some animals where the sperm will be a certain size and then once it gets"
+  },
+  {
+    "start": 3088.18,
+    "end": 3093.12,
+    "text": " into the female, she will add some kind of proteins or whatever and it will grow in size."
+  },
+  {
+    "start": 3093.12,
+    "end": 3095.16,
+    "text": " Some of them they will turn inside out."
+  },
+  {
+    "start": 3095.16,
+    "end": 3099.74,
+    "text": " The scientists who were writing about this were saying basically the problem is that"
+  },
+  {
+    "start": 3099.74,
+    "end": 3104.14,
+    "text": " all of our biology over the last 500 years, people have basically only looked at male"
+  },
+  {
+    "start": 3104.14,
+    "end": 3105.94,
+    "text": " subjects all the way through."
+  },
+  {
+    "start": 3105.94,
+    "end": 3110,
+    "text": " And now that we're starting to look at more of the female reproductive system, we're starting"
+  },
+  {
+    "start": 3110,
+    "end": 3112.74,
+    "text": " to learn a whole load of stuff that we didn't know before."
+  },
+  {
+    "start": 3112.74,
+    "end": 3113.74,
+    "text": " That's crazy."
+  },
+  {
+    "start": 3113.74,
+    "end": 3114.74,
+    "text": " Isn't that amazing?"
+  },
+  {
+    "start": 3114.74,
+    "end": 3116.4,
+    "text": " I've never heard of that."
+  },
+  {
+    "start": 3116.4,
+    "end": 3117.4,
+    "text": " That's insane."
+  },
+  {
+    "start": 3117.4,
+    "end": 3122.3,
+    "text": " It's like having a different outfit for when you're trying to get into a club versus an"
+  },
+  {
+    "start": 3122.3,
+    "end": 3126.78,
+    "text": " outfit that you're comfortable dancing in."
+  },
+  {
+    "start": 3126.78,
+    "end": 3127.78,
+    "text": " We should wrap up shortly."
+  },
+  {
+    "start": 3127.78,
+    "end": 3130.34,
+    "text": " Do you guys have anything else before we go?"
+  },
+  {
+    "start": 3130.34,
+    "end": 3133.7,
+    "text": " William Shatner got all of the horse semen in his recent divorce."
+  },
+  {
+    "start": 3133.7,
+    "end": 3135.74,
+    "text": " That's just a fact."
+  },
+  {
+    "start": 3135.74,
+    "end": 3136.74,
+    "text": " Wow."
+  },
+  {
+    "start": 3136.74,
+    "end": 3137.74,
+    "text": " Yeah."
+  },
+  {
+    "start": 3137.74,
+    "end": 3138.74,
+    "text": " There's not much more to say about that."
+  },
+  {
+    "start": 3138.74,
+    "end": 3143.3,
+    "text": " Apart from he and his wife got divorced, they have horses and she's allowed to visit"
+  },
+  {
+    "start": 3143.3,
+    "end": 3147.56,
+    "text": " the horses, but explicitly in the settlement, he gets all the sperm."
+  },
+  {
+    "start": 3147.56,
+    "end": 3148.56,
+    "text": " Okay."
+  },
+  {
+    "start": 3148.56,
+    "end": 3149.88,
+    "text": " So he gets the horses as well."
+  },
+  {
+    "start": 3149.88,
+    "end": 3151.6,
+    "text": " It's not like he just collects."
+  },
+  {
+    "start": 3151.6,
+    "end": 3152.6,
+    "text": " No."
+  },
+  {
+    "start": 3152.6,
+    "end": 3156.92,
+    "text": " He doesn't just go once every few months and collects it."
+  },
+  {
+    "start": 3156.92,
+    "end": 3157.92,
+    "text": " Wow."
+  },
+  {
+    "start": 3157.92,
+    "end": 3158.92,
+    "text": " No."
+  },
+  {
+    "start": 3158.92,
+    "end": 3160.46,
+    "text": " That's a kind of weird future custody element almost."
+  },
+  {
+    "start": 3160.46,
+    "end": 3162.36,
+    "text": " I don't know if it's custody."
+  },
+  {
+    "start": 3162.36,
+    "end": 3164.8,
+    "text": " They didn't say anything about the consistency."
+  },
+  {
+    "start": 3164.8,
+    "end": 3170.8,
+    "text": " What is he doing with it is the question."
+  },
+  {
+    "start": 3170.8,
+    "end": 3172.9,
+    "text": " While making more horses, I think."
+  },
+  {
+    "start": 3172.9,
+    "end": 3173.9,
+    "text": " Making more horses."
+  },
+  {
+    "start": 3173.9,
+    "end": 3174.9,
+    "text": " Okay."
+  },
+  {
+    "start": 3174.9,
+    "end": 3175.9,
+    "text": " Oh, he's got natural harvest."
+  },
+  {
+    "start": 3175.9,
+    "end": 3176.9,
+    "text": " Paul."
+  },
+  {
+    "start": 3176.9,
+    "end": 3177.9,
+    "text": " Paul."
+  },
+  {
+    "start": 3177.9,
+    "end": 3178.9,
+    "text": " Okay."
+  },
+  {
+    "start": 3178.9,
+    "end": 3181.9,
+    "text": " That is it."
+  },
+  {
+    "start": 3181.9,
+    "end": 3183.82,
+    "text": " That is all of our facts."
+  },
+  {
+    "start": 3183.82,
+    "end": 3185.3,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3185.3,
+    "end": 3188.5,
+    "text": " If you would like to get in contact with any of us about the things that we have said over"
+  },
+  {
+    "start": 3188.5,
+    "end": 3191.62,
+    "text": " the course of this podcast, we can be found on our Twitter accounts."
+  },
+  {
+    "start": 3191.62,
+    "end": 3193.3,
+    "text": " I'm on at Shriverland."
+  },
+  {
+    "start": 3193.3,
+    "end": 3194.3,
+    "text": " Andy."
+  },
+  {
+    "start": 3194.3,
+    "end": 3195.3,
+    "text": " At Andrew Hunter M."
+  },
+  {
+    "start": 3195.3,
+    "end": 3196.3,
+    "text": " James."
+  },
+  {
+    "start": 3196.3,
+    "end": 3197.3,
+    "text": " At James Harkin."
+  },
+  {
+    "start": 3197.3,
+    "end": 3198.3,
+    "text": " And Mary."
+  },
+  {
+    "start": 3198.3,
+    "end": 3199.3,
+    "text": " Mary_Roach."
+  },
+  {
+    "start": 3199.3,
+    "end": 3200.3,
+    "text": " Yep."
+  },
+  {
+    "start": 3200.3,
+    "end": 3204.14,
+    "text": " Where you can go to our group account, which is @NoSuchThing or go to our website."
+  },
+  {
+    "start": 3204.14,
+    "end": 3205.14,
+    "text": " NoSuchThingIsAfish.com."
+  },
+  {
+    "start": 3205.14,
+    "end": 3208.5,
+    "text": " You'll find all of our previous episodes up there."
+  },
+  {
+    "start": 3208.5,
+    "end": 3211,
+    "text": " You'll also find links to our tour, which we're about to start."
+  },
+  {
+    "start": 3211,
+    "end": 3214.44,
+    "text": " We're going to 26 different places in the UK and Ireland."
+  },
+  {
+    "start": 3214.44,
+    "end": 3217.34,
+    "text": " We're even playing crazy places like the London Palladium."
+  },
+  {
+    "start": 3217.34,
+    "end": 3219.42,
+    "text": " So do go and check it out."
+  },
+  {
+    "start": 3219.42,
+    "end": 3224.68,
+    "text": " But the most important thing of all is you need to get Mary's latest book in America."
+  },
+  {
+    "start": 3224.68,
+    "end": 3227,
+    "text": " If you're listening over there, it's called Fuzz."
+  },
+  {
+    "start": 3227,
+    "end": 3230.42,
+    "text": " If you're in the UK, it is called Animal Vegetable Criminal."
+  },
+  {
+    "start": 3230.42,
+    "end": 3234.46,
+    "text": " This is genuinely, and I don't care that she's here with us right now listening to this."
+  },
+  {
+    "start": 3234.46,
+    "end": 3236.06,
+    "text": " This is the best author out there."
+  },
+  {
+    "start": 3236.06,
+    "end": 3237.42,
+    "text": " She's the best we've got."
+  },
+  {
+    "start": 3237.42,
+    "end": 3239.02,
+    "text": " Such an honor to have her on our show."
+  },
+  {
+    "start": 3239.02,
+    "end": 3240.02,
+    "text": " Do get this new book."
+  },
+  {
+    "start": 3240.02,
+    "end": 3242.34,
+    "text": " We're reading at the moment and it's just fucking awesome."
+  },
+  {
+    "start": 3242.34,
+    "end": 3243.34,
+    "text": " All right."
+  },
+  {
+    "start": 3243.34,
+    "end": 3246.4,
+    "text": " We will be back again next week with another episode and we'll see you then."
+  },
+  {
+    "start": 3246.4,
+    "end": 3246.9,
+    "text": " Goodbye."
+  },
+  {
+    "start": 3246.9,
+    "end": 3247.4,
+    "text": " Bye."
+  },
+  {
+    "start": 3247.4,
+    "end": 3250.46,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 3250.46,
+    "end": 3253.82,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 3253.82,
+    "end": 3256.4,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3256.4,
+    "end": 3258.98,
+    "text": " (upbeat music)"
+  }
+]

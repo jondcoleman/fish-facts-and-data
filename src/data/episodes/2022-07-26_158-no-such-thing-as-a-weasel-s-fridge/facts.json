@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of quirky and intriguing topics, including the peculiarities of ferret racing, Venezuelan bread laws, GCHQ's ghost hunting club, and washing machines in India designed to tackle curry stains.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Sometimes racing ferrets fall asleep halfway along the course, so it's a bit like the tortoise and the hare story, so that the hare is a ferret.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "According to Venezuelan law, 90% of wheat must be made into loaves of bread rather than cakes or pastries.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:14:38"
+    },
+    {
+      "fact_number": 3,
+      "fact": "GCHQ has an internal ghost hunting club.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:20:46"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There are now washing machines in India that have a button specifically for curry stains.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:29:41"
+    }
+  ]
+}

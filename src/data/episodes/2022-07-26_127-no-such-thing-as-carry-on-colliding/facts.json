@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including a Kickstarter project to send a podcast episode to the moon, geologists creating earthquakes by dropping heavy objects, the history of men-only flights in America, and the announcement of the Higgs Boson discovery in Comic Sans font.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "This episode of No Such Thing As A Fish is going to the moon.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:00:35"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Geologists have made an earthquake by dropping something heavy from somewhere high.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:10:57"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Until 1970, you could still buy men-only flights in America.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:16:19"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The discovery of the Higgs Boson was announced in Comic Sans.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:22:03"
+    }
+  ]
+}

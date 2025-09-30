@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of quirky and historical facts, including the origins of the 'Made in Germany' label, a bizarre proposal to blow up the moon, historical traffic light systems in New York City, and the practice of lassoing icebergs to protect oil rigs.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Made in Germany product labels were originally intended to put people off buying the product.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:44"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1991, a professor at Iowa State University proposed that we could solve virtually every problem of human existence by blowing up the moon.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:07:10"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In New York City until 1925, drivers going east or west stopped to the number light and drove on green, while drivers going north or south drove on the number light and stopped on green.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:17:12"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There are companies which lasso icebergs to stop them hitting oil rigs.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:24:53"
+    }
+  ]
+}

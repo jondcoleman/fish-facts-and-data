@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and intriguing topics, including the surprising effectiveness of performing CPR to the beat of the Macarena, Donald Trump's poor negotiation skills in his book deal, the significance of horse anatomy in the Bayeux Tapestry, and the painful defecation process of sloths.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "According to a new scientific study, the best way to perform CPR is to do it while humming the Macarena.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:48"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Donald Trump negotiated an extremely bad deal for himself when he wrote the art of the deal.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:44"
+    },
+    {
+      "fact_number": 3,
+      "fact": "On the Bayeux Tapestry, you can tell how important someone is by the size of their horse's penis.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:18:26"
+    },
+    {
+      "fact_number": 4,
+      "fact": "If you're a sloth, every time you go for a poo, it's more painful than childbirth.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:26:54"
+    }
+  ]
+}

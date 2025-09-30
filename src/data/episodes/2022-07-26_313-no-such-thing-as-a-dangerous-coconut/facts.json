@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including Charles Babbage's unusual experiments, the toxic properties of the Manchineel tree, the logistics and science behind cryonic freezing, and the historical cost of lemons in the 16th century.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Computer pioneer Charles Babbage once cooked himself in an oven for four minutes at 265 degrees just to see what would happen.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:01:29"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Manchineel tree is so toxic that if you park under it and it rains, the drips from the branches can strip the paint from your car.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:18:10"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Cryonic freezing chambers are built to store up to four bodies and five heads.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:28:28"
+    },
+    {
+      "fact_number": 4,
+      "fact": "If Hamlet had wanted to buy a lemon, it would have cost him 700 euros.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:30:30"
+    }
+  ]
+}

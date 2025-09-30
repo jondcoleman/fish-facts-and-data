@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on unique libraries where you can borrow people, the legality of trout tickling in the UK, the challenges of food supply in Antarctica, and a dramatic story of a pilot being sucked out of a plane window.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "You can borrow a person from the Lismore library in Australia.",
+      "presenter": "Alan Davies",
+      "guest": true,
+      "start_time": "00:02:13"
+    },
+    {
+      "fact_number": 2,
+      "fact": "It's illegal in the UK to tickle a trout.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:17:04"
+    },
+    {
+      "fact_number": 3,
+      "fact": "All of the cheese eaten on Antarctica is past its expiration date.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:34:56"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1990, a British Airways flight landed with one pilot in the cockpit and the other hanging by his legs outside the front window.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:46:06"
+    }
+  ]
+}

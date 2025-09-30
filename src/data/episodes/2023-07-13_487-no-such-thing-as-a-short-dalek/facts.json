@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on Doctor Who, the Manhattan Project, John Candy, and the unique abilities of dogs to detect newts. The hosts are joined by guest Jenny Colgan, who shares insights into her writing and Doctor Who connections.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There is a Dalek named after a Dickens character.",
+      "presenter": "Jenny Colgan",
+      "guest": true,
+      "start_time": "00:02:05"
+    },
+    {
+      "fact_number": 2,
+      "fact": "When the atom bomb was dropped on Hiroshima, George Bernard Shaw wrote to The Times in disgust, upset that there was an unnecessary 'B' at the end of the word 'bomb'.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:16:44"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The actor John Candy was born on Halloween.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:29:19"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There are only three newt-detecting dogs on the planet.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:47:06"
+    }
+  ]
+}

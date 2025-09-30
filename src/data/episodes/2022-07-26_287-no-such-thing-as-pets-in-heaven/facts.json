@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics, including the peculiar story of Pope Leo X's pet elephant, the lesser-known musical career of Johnny Cash's brother, the innovative methods used by De Beers to mine diamonds from the sea, and the unique way North Koreans purchase phone apps.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Pope Leo the 10th had a pet elephant who was killed when doctors gave it a gold enema.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Johnny Cash, who released the song \"Walk the Line,\" had a lesser known musician brother called Tommy Cash, who released a song called \"I Didn't Walk the Line.\"",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:11:48"
+    },
+    {
+      "fact_number": 3,
+      "fact": "De Beers use a giant vacuum cleaner to get diamonds from the bottom of the sea.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:20:39"
+    },
+    {
+      "fact_number": 4,
+      "fact": "If you want to buy a phone app in North Korea, you have to go to a physical app store.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:30:29"
+    }
+  ]
+}

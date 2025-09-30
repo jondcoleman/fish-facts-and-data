@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including a bizarre chess cheating accusation involving yogurt, the many imitators of Harry Houdini, a Finnish prison where gates are locked to keep tourists out, and Hawaii's annual Spam festival.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1978, chess player Victor Kochnoy accused Anatoly Karpov of cheating using an elaborate yoghurt based code.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Imitators of Harry Houdini included Howdyny, Boudini, Houdini, Houdini, Houdini, Houdini, Bernadie and cunning the jailbreaker.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:14:40"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When the gates at Surman Lena Prison in Finland are locked, it's to keep tourists out, not to keep prisoners in.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:26:39"
+    },
+    {
+      "fact_number": 4,
+      "fact": "One of Hawaii's biggest annual festivals is devoted entirely to spam.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:39:51"
+    }
+  ]
+}

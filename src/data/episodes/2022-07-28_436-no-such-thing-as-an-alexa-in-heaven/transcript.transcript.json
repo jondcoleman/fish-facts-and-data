@@ -1,0 +1,6052 @@
+[
+  {
+    "start": 0.68,
+    "end": 3.52,
+    "text": " Hey everyone, welcome to this week's episode of Fish!"
+  },
+  {
+    "start": 3.52,
+    "end": 9.08,
+    "text": " Before we get going, I just want to let you know that we have a really exciting guest on the show this week."
+  },
+  {
+    "start": 9.08,
+    "end": 16.52,
+    "text": " So Anna Tyshinski unfortunately is away, but in her place we have an absolute big dog of the popular science writing world."
+  },
+  {
+    "start": 16.52,
+    "end": 19.56,
+    "text": " It is the wonderful Ed Yong."
+  },
+  {
+    "start": 19.56,
+    "end": 21.76,
+    "text": " Ed Yong, I'm sure you must be aware of him."
+  },
+  {
+    "start": 21.76,
+    "end": 26.56,
+    "text": " We've certainly been littering his work all through the last eight years of fish recordings"
+  },
+  {
+    "start": 26.56,
+    "end": 30.56,
+    "text": " and anywhere that we can get our hands on any bit of writing from the guy we do."
+  },
+  {
+    "start": 30.56,
+    "end": 37.56,
+    "text": " Be it his tweets, his books, his articles for the Atlantic, which are absolutely just perfect science writing."
+  },
+  {
+    "start": 37.56,
+    "end": 40.68,
+    "text": " We track them all down and we mow through them."
+  },
+  {
+    "start": 40.68,
+    "end": 44.08,
+    "text": " Ed is also recently a Pulitzer Prize winner."
+  },
+  {
+    "start": 44.08,
+    "end": 50.6,
+    "text": " He got it for the category of explanatory journalism and it was for his coverage of the COVID-19 pandemic."
+  },
+  {
+    "start": 50.6,
+    "end": 62.36,
+    "text": " And then on top of that, he's also a best-selling New York Times author with his latest book which is called \"An Immense World - How Animal Senses Reveal the Hidden Realms Around Us\"."
+  },
+  {
+    "start": 62.36,
+    "end": 69.76,
+    "text": " And you've got to say the subtitle in that slightly mysterious and I hope not too creepy kind of way because the book is just awesome."
+  },
+  {
+    "start": 69.76,
+    "end": 72.6,
+    "text": " It's like a science fiction book, but everything is real."
+  },
+  {
+    "start": 72.6,
+    "end": 77.6,
+    "text": " It's all about how animals perceive the world differently to us and all the incredible abilities that they have."
+  },
+  {
+    "start": 77.6,
+    "end": 85.6,
+    "text": " It's also the story of how scientists are looking into all of their abilities and trying to work out this any way that we can harness them and apply them to our own lives."
+  },
+  {
+    "start": 85.6,
+    "end": 93.6,
+    "text": " It's just classic Ed Yong writing, it's so interesting, it's funny, it distills really hard science into really interesting anecdotes."
+  },
+  {
+    "start": 93.6,
+    "end": 96.6,
+    "text": " And it's just a wonderful book to read and have on your shelf."
+  },
+  {
+    "start": 96.6,
+    "end": 98.6,
+    "text": " So make sure to get your copy today."
+  },
+  {
+    "start": 98.6,
+    "end": 100.6,
+    "text": " Okay, on with the show."
+  },
+  {
+    "start": 101.6,
+    "end": 115.6,
+    "text": " [Music]"
+  },
+  {
+    "start": 115.6,
+    "end": 125.6,
+    "text": " Hello and welcome to another episode of No Such Thing as a Fish, a weekly podcast coming to you from four undisclosed locations around the world."
+  },
+  {
+    "start": 125.6,
+    "end": 132.6,
+    "text": " My name is Dan Shriver, I am sitting here with James Harkin, Andrew Hunter Murray and special guest, it's Ed Yong."
+  },
+  {
+    "start": 132.6,
+    "end": 140.6,
+    "text": " And once again, we have gathered around the microphones with our four favorite facts from the last seven days and in no particular order, here we go."
+  },
+  {
+    "start": 140.6,
+    "end": 144.6,
+    "text": " Starting with fact number one, that is Ed."
+  },
+  {
+    "start": 144.6,
+    "end": 150.6,
+    "text": " My fact today is that when hummingbirds drink, their tongues split in two."
+  },
+  {
+    "start": 150.6,
+    "end": 152.6,
+    "text": " What?"
+  },
+  {
+    "start": 152.6,
+    "end": 154.6,
+    "text": " Yeah, that's also what I thought."
+  },
+  {
+    "start": 154.6,
+    "end": 157.6,
+    "text": " So this was a, hang on Ed, you mean snakes?"
+  },
+  {
+    "start": 157.6,
+    "end": 161.6,
+    "text": " No, I know you're a very eminent biological animal."
+  },
+  {
+    "start": 161.6,
+    "end": 169.6,
+    "text": " And the other thing is, when they split in two, if they had like a bottle of Coca-Cola and a bottle of Fanta, would they be able to drink a little bit of each?"
+  },
+  {
+    "start": 169.6,
+    "end": 176.6,
+    "text": " They could not, unfortunately, because the splitting in two trick only works when the tongue actually hits nectar."
+  },
+  {
+    "start": 176.6,
+    "end": 183.6,
+    "text": " So they can't like force the tongue to turn into a fork in midair. It's something that automatically happens whenever they take a drink."
+  },
+  {
+    "start": 183.6,
+    "end": 185.6,
+    "text": " It's amazing."
+  },
+  {
+    "start": 185.6,
+    "end": 190.6,
+    "text": " It is amazing and it's also completely different to how I think people thought that hummingbirds drink."
+  },
+  {
+    "start": 190.6,
+    "end": 195.6,
+    "text": " I don't know if like any of you spend much of your time going around thinking, how do hummingbirds drink?"
+  },
+  {
+    "start": 195.6,
+    "end": 202.6,
+    "text": " But the traditional idea is that it worked through capillary action, which is what happens when you take a really thin straw and you put it in water."
+  },
+  {
+    "start": 202.6,
+    "end": 205.6,
+    "text": " A lot of the liquid just automatically rises up."
+  },
+  {
+    "start": 205.6,
+    "end": 208.6,
+    "text": " And that was like the textbook version for a long time."
+  },
+  {
+    "start": 208.6,
+    "end": 217.6,
+    "text": " But an ornithologist named Margaret Rubega realized that that just couldn't work because capillary action is very slow."
+  },
+  {
+    "start": 217.6,
+    "end": 219.6,
+    "text": " Hummingbirds are like famously very fast."
+  },
+  {
+    "start": 219.6,
+    "end": 228.6,
+    "text": " So she and her student, Alejandro Rico Guevara, set up this really convoluted filming system where they got these artificial glass flowers."
+  },
+  {
+    "start": 228.6,
+    "end": 232.6,
+    "text": " And then they use high-speed cameras to film hummingbirds drinking from that."
+  },
+  {
+    "start": 232.6,
+    "end": 240.6,
+    "text": " And when they looked at the footage, what they saw was that when the tongue hits the nectar, it splits in two."
+  },
+  {
+    "start": 240.6,
+    "end": 242.6,
+    "text": " It's like two halves that are zipped together."
+  },
+  {
+    "start": 242.6,
+    "end": 251.6,
+    "text": " And then each half has like these little flanges that are like an enclosed fist and the fist opens up into these splayed fingertips."
+  },
+  {
+    "start": 251.6,
+    "end": 255.6,
+    "text": " And then when the bird retracts its tongue, all of that closes up."
+  },
+  {
+    "start": 255.6,
+    "end": 259.6,
+    "text": " So the fingertips close back up and the tongue knits back together."
+  },
+  {
+    "start": 259.6,
+    "end": 267.6,
+    "text": " So it's like the hummingbird is reaching forward with two hands, grabbing like two fistfuls of nectar and then yanking that into its face."
+  },
+  {
+    "start": 267.6,
+    "end": 277.6,
+    "text": " Can I ask, how can scientists sort of have assumed that they used the method of how they were drinking, as you said before, was sort of like a straw, right?"
+  },
+  {
+    "start": 277.6,
+    "end": 280.6,
+    "text": " Basically, are we not checking stuff out in science anymore?"
+  },
+  {
+    "start": 280.6,
+    "end": 282.6,
+    "text": " Like, what's going on?"
+  },
+  {
+    "start": 282.6,
+    "end": 285.6,
+    "text": " Yeah, that is theoretically what we're meant to do."
+  },
+  {
+    "start": 285.6,
+    "end": 298.6,
+    "text": " But it's really interesting how like with a lot of nature stuff, there are all these facts, quote unquote, that get taken as dogma and that people just sort of don't check."
+  },
+  {
+    "start": 298.6,
+    "end": 307.6,
+    "text": " This isn't the first time I've written about something like this, where like a little bit of textbook knowledge gets like passed down through the generations."
+  },
+  {
+    "start": 307.6,
+    "end": 312.6,
+    "text": " And then someone actually goes, wait a minute, maybe we should do that step where we actually check it."
+  },
+  {
+    "start": 312.6,
+    "end": 316.6,
+    "text": " Wasn't there a thing where Aristotle wrote that flies had four legs?"
+  },
+  {
+    "start": 316.6,
+    "end": 325.6,
+    "text": " And pretty much that just got copied down textbook by textbook for hundreds and hundreds of years until someone went, wait a minute, last one I saw had six legs."
+  },
+  {
+    "start": 325.6,
+    "end": 330.6,
+    "text": " Right, I feel like Aristotle is the progenitor of a lot of these things."
+  },
+  {
+    "start": 330.6,
+    "end": 339.6,
+    "text": " Sorry to Aristotle stands listening to this podcast, but yeah, half our audience gone. Thanks."
+  },
+  {
+    "start": 339.6,
+    "end": 348.6,
+    "text": " I read that when a hummingbird drinks in a flower, its tongue goes in and out of its mouth 15 or 20 times a second."
+  },
+  {
+    "start": 348.6,
+    "end": 349.6,
+    "text": " What?"
+  },
+  {
+    "start": 349.6,
+    "end": 350.6,
+    "text": " Is that right?"
+  },
+  {
+    "start": 350.6,
+    "end": 351.6,
+    "text": " Incredible."
+  },
+  {
+    "start": 351.6,
+    "end": 353.6,
+    "text": " So is that what that punch movement?"
+  },
+  {
+    "start": 353.6,
+    "end": 357.6,
+    "text": " Well, you don't kiss the band, they always stick the tongue out and go in and out loads of times."
+  },
+  {
+    "start": 357.6,
+    "end": 358.6,
+    "text": " Gene Simmons, yes."
+  },
+  {
+    "start": 358.6,
+    "end": 359.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 359.6,
+    "end": 370.6,
+    "text": " Gene Simmons has a very long tongue and basically majority of his life as a once he started in the band, there's just been rumors that he's had his tongue extended in order to have that done."
+  },
+  {
+    "start": 370.6,
+    "end": 374.6,
+    "text": " So having a bit of the bottom of the tongue cut so that he can flop it out even longer."
+  },
+  {
+    "start": 374.6,
+    "end": 380.6,
+    "text": " But then there was another idea that he had a cow's tongue grafted into his existing tongue."
+  },
+  {
+    "start": 380.6,
+    "end": 381.6,
+    "text": " Just on top."
+  },
+  {
+    "start": 381.6,
+    "end": 388.6,
+    "text": " But yeah, and that was a rumor that he said it's his favorite kiss rumor of all time that he somehow had surgery."
+  },
+  {
+    "start": 388.6,
+    "end": 393.6,
+    "text": " You should get a hummingbird tongue grafted into the end of the cow tongue."
+  },
+  {
+    "start": 393.6,
+    "end": 396.6,
+    "text": " Have you noticed my tongue can now split in half?"
+  },
+  {
+    "start": 396.6,
+    "end": 398.6,
+    "text": " I can't really see it, Gene."
+  },
+  {
+    "start": 398.6,
+    "end": 403.6,
+    "text": " If you were to put a cow's tongue into your body, grass, right, would taste quite good."
+  },
+  {
+    "start": 403.6,
+    "end": 405.6,
+    "text": " But then other things would taste different."
+  },
+  {
+    "start": 405.6,
+    "end": 407.6,
+    "text": " Or is that not true with animals?"
+  },
+  {
+    "start": 407.6,
+    "end": 408.6,
+    "text": " Do they all taste the same?"
+  },
+  {
+    "start": 408.6,
+    "end": 411.6,
+    "text": " No, animals do taste really differently."
+  },
+  {
+    "start": 411.6,
+    "end": 415.6,
+    "text": " So like cats don't have a sweet tooth, for example."
+  },
+  {
+    "start": 415.6,
+    "end": 419.6,
+    "text": " And a lot of birds can't taste sugar either."
+  },
+  {
+    "start": 419.6,
+    "end": 424.6,
+    "text": " And the exceptions to that are hummingbirds and songbirds."
+  },
+  {
+    "start": 424.6,
+    "end": 432.6,
+    "text": " So like all the like really familiar backyard birds like finches and tits and all the like, they can taste sugar."
+  },
+  {
+    "start": 432.6,
+    "end": 436.6,
+    "text": " And there was a really interesting study that came out, I think last year,"
+  },
+  {
+    "start": 436.6,
+    "end": 443.6,
+    "text": " that linked the evolution of sweet sugar tasting in these birds with like their evolutionary success."
+  },
+  {
+    "start": 443.6,
+    "end": 447.6,
+    "text": " So all of those songbirds originated in Australia, of all places."
+  },
+  {
+    "start": 447.6,
+    "end": 452.6,
+    "text": " And Australia is a place that is just loaded with sugar in plants."
+  },
+  {
+    "start": 452.6,
+    "end": 455.6,
+    "text": " Like the flowers have tons of nectar."
+  },
+  {
+    "start": 455.6,
+    "end": 461.6,
+    "text": " Some of the trees are like just they're so rich in sugar that they're exuding it in sap from their box."
+  },
+  {
+    "start": 461.6,
+    "end": 467.6,
+    "text": " So one idea is that this family of birds, because they managed to re-evolve the ability to sense sugar,"
+  },
+  {
+    "start": 467.6,
+    "end": 473.6,
+    "text": " were really able to take advantage of this like bountiful source of calories"
+  },
+  {
+    "start": 473.6,
+    "end": 478.6,
+    "text": " and could then spread all around the world and do the same wherever they landed up."
+  },
+  {
+    "start": 478.6,
+    "end": 485.6,
+    "text": " So maybe the evolution of sugar sensing was one of the secrets of the success of this group of birds,"
+  },
+  {
+    "start": 485.6,
+    "end": 489.6,
+    "text": " which is now like all over the world and I think is like half of all bird species."
+  },
+  {
+    "start": 489.6,
+    "end": 490.6,
+    "text": " Wow."
+  },
+  {
+    "start": 490.6,
+    "end": 491.6,
+    "text": " Wow."
+  },
+  {
+    "start": 491.6,
+    "end": 493.6,
+    "text": " But I'm afraid that you haven't heard about these birds."
+  },
+  {
+    "start": 493.6,
+    "end": 497.6,
+    "text": " [Laughter]"
+  },
+  {
+    "start": 497.6,
+    "end": 502.6,
+    "text": " I really was trying to divert us away from it, but good job on bringing us back to it."
+  },
+  {
+    "start": 502.6,
+    "end": 508.6,
+    "text": " I don't know whether if you grafted a cow tongue in place of your own tongue,"
+  },
+  {
+    "start": 508.6,
+    "end": 511.6,
+    "text": " whether grass would taste differently, I think."
+  },
+  {
+    "start": 511.6,
+    "end": 512.6,
+    "text": " Gotta be worth a go."
+  },
+  {
+    "start": 512.6,
+    "end": 513.6,
+    "text": " Right."
+  },
+  {
+    "start": 513.6,
+    "end": 514.6,
+    "text": " Isn't it true?"
+  },
+  {
+    "start": 514.6,
+    "end": 518.6,
+    "text": " I think it's true that birds can't taste or certainly garden birds can't taste chilli."
+  },
+  {
+    "start": 518.6,
+    "end": 520.6,
+    "text": " Oh yeah, that is true."
+  },
+  {
+    "start": 520.6,
+    "end": 525.6,
+    "text": " There's anti-squirrel bird food, which does contain small amounts of chilli."
+  },
+  {
+    "start": 525.6,
+    "end": 526.6,
+    "text": " Wow."
+  },
+  {
+    "start": 526.6,
+    "end": 530.6,
+    "text": " And squirrels hate the taste of chilli, so they naturally don't go for the bird feeder"
+  },
+  {
+    "start": 530.6,
+    "end": 532.6,
+    "text": " after the first couple of times they've tried it or they can even smell it,"
+  },
+  {
+    "start": 532.6,
+    "end": 535.6,
+    "text": " whereas the garden birds can't taste that."
+  },
+  {
+    "start": 535.6,
+    "end": 537.6,
+    "text": " Do they still feel the burn on the other side?"
+  },
+  {
+    "start": 537.6,
+    "end": 538.6,
+    "text": " No, they don't."
+  },
+  {
+    "start": 538.6,
+    "end": 543.6,
+    "text": " The burn is due to capsaicin and birds are insensitive to that chemical."
+  },
+  {
+    "start": 543.6,
+    "end": 547.6,
+    "text": " So yeah, they shouldn't feel it at either end."
+  },
+  {
+    "start": 547.6,
+    "end": 548.6,
+    "text": " So is it possible?"
+  },
+  {
+    "start": 548.6,
+    "end": 551.6,
+    "text": " But I don't think anyone's ever asked, Dan."
+  },
+  {
+    "start": 551.6,
+    "end": 555.6,
+    "text": " You know, we've always pitched an idea of doing a show called \"Can I Ask a Stupid Question?\""
+  },
+  {
+    "start": 555.6,
+    "end": 557.6,
+    "text": " and I feel like we're in it."
+  },
+  {
+    "start": 557.6,
+    "end": 559.6,
+    "text": " We're in the show, we've always wanted to make."
+  },
+  {
+    "start": 559.6,
+    "end": 560.6,
+    "text": " Anyway, where were we?"
+  },
+  {
+    "start": 560.6,
+    "end": 563.6,
+    "text": " HUMMING BIRDS."
+  },
+  {
+    "start": 563.6,
+    "end": 567.6,
+    "text": " The other thing that I read, this was about a flower called Heliconia,"
+  },
+  {
+    "start": 567.6,
+    "end": 571.6,
+    "text": " which almost does a reverse of what this hummingbird mouth does."
+  },
+  {
+    "start": 571.6,
+    "end": 576.6,
+    "text": " When the hummingbird goes into the plant, it kind of jumps out like a jack in the box"
+  },
+  {
+    "start": 576.6,
+    "end": 580.6,
+    "text": " and kind of shoves its stamens into the hummingbird's face."
+  },
+  {
+    "start": 580.6,
+    "end": 581.6,
+    "text": " Amazing."
+  },
+  {
+    "start": 581.6,
+    "end": 585.6,
+    "text": " There's also, I don't know if you guys saw Green Planet,"
+  },
+  {
+    "start": 585.6,
+    "end": 588.6,
+    "text": " the most recent Attenborough documentary,"
+  },
+  {
+    "start": 588.6,
+    "end": 592.6,
+    "text": " but it has this really great example of very aggressive pollination tactics."
+  },
+  {
+    "start": 592.6,
+    "end": 595.6,
+    "text": " There's this flower called the Hammer Orchid,"
+  },
+  {
+    "start": 595.6,
+    "end": 602.6,
+    "text": " which has a little hinged bit that looks like a very specific kind of wasp"
+  },
+  {
+    "start": 602.6,
+    "end": 604.6,
+    "text": " and it releases a pheromone that mimics that wasp."
+  },
+  {
+    "start": 604.6,
+    "end": 606.6,
+    "text": " And when the wasp lands on it,"
+  },
+  {
+    "start": 606.6,
+    "end": 611.6,
+    "text": " it poings that entire bit of flower with the wasp attached to it"
+  },
+  {
+    "start": 611.6,
+    "end": 615.6,
+    "text": " onto like two prongs that have pollen bits on them."
+  },
+  {
+    "start": 615.6,
+    "end": 619.6,
+    "text": " And then as the wasp is buzzing presumably in confusion,"
+  },
+  {
+    "start": 619.6,
+    "end": 622.6,
+    "text": " it then like mashes the pollen onto its back."
+  },
+  {
+    "start": 622.6,
+    "end": 623.6,
+    "text": " Wow."
+  },
+  {
+    "start": 623.6,
+    "end": 625.6,
+    "text": " It's a bit like, have you ever seen one of those,"
+  },
+  {
+    "start": 625.6,
+    "end": 628.6,
+    "text": " are they called squirting cucumbers or something?"
+  },
+  {
+    "start": 628.6,
+    "end": 630.6,
+    "text": " They look a bit like cucumbers and then when you touch them,"
+  },
+  {
+    "start": 630.6,
+    "end": 633.6,
+    "text": " they just explode and the seeds go everywhere."
+  },
+  {
+    "start": 633.6,
+    "end": 634.6,
+    "text": " They're really cool."
+  },
+  {
+    "start": 634.6,
+    "end": 635.6,
+    "text": " Very cool."
+  },
+  {
+    "start": 635.6,
+    "end": 636.6,
+    "text": " Really cool, yeah."
+  },
+  {
+    "start": 636.6,
+    "end": 637.6,
+    "text": " Nature."
+  },
+  {
+    "start": 637.6,
+    "end": 643.6,
+    "text": " How does your narration get going, Dan?"
+  },
+  {
+    "start": 643.6,
+    "end": 646.6,
+    "text": " It's just blank footage and at the end of every five minutes,"
+  },
+  {
+    "start": 646.6,
+    "end": 648.6,
+    "text": " you just say, ah, nature."
+  },
+  {
+    "start": 648.6,
+    "end": 652.6,
+    "text": " David's successor is obvious, I think."
+  },
+  {
+    "start": 652.6,
+    "end": 657.6,
+    "text": " Hummingbirds, I was reading about the way that they make nests for their young"
+  },
+  {
+    "start": 657.6,
+    "end": 660.6,
+    "text": " and there's one called the ruby-throated hummingbird."
+  },
+  {
+    "start": 660.6,
+    "end": 662.6,
+    "text": " It's such a cool process."
+  },
+  {
+    "start": 662.6,
+    "end": 665.6,
+    "text": " The nests are so tiny, it's like the size of a penny,"
+  },
+  {
+    "start": 665.6,
+    "end": 667.6,
+    "text": " the circumference of the inside."
+  },
+  {
+    "start": 667.6,
+    "end": 671.6,
+    "text": " And the way that they build this nest is that they go around"
+  },
+  {
+    "start": 671.6,
+    "end": 674.6,
+    "text": " and they collect weird things like tiny little animal bones"
+  },
+  {
+    "start": 674.6,
+    "end": 677.6,
+    "text": " and little leaves and so on, but then they get spider's webs."
+  },
+  {
+    "start": 677.6,
+    "end": 680.6,
+    "text": " And so the idea is that the spider's web not only holds it together,"
+  },
+  {
+    "start": 680.6,
+    "end": 684.6,
+    "text": " but as the hummingbird chicks get bigger within the nest,"
+  },
+  {
+    "start": 684.6,
+    "end": 685.6,
+    "text": " it can expand with them."
+  },
+  {
+    "start": 685.6,
+    "end": 686.6,
+    "text": " Amazing."
+  },
+  {
+    "start": 686.6,
+    "end": 690.6,
+    "text": " I really want a pair of trousers made of spider's web now."
+  },
+  {
+    "start": 691.6,
+    "end": 694.6,
+    "text": " Those ruby-throated hummingbirds that you just mentioned, they're done."
+  },
+  {
+    "start": 694.6,
+    "end": 698.6,
+    "text": " I think, I'm right in saying, they can bend the lower half of their beaks."
+  },
+  {
+    "start": 698.6,
+    "end": 699.6,
+    "text": " Yes."
+  },
+  {
+    "start": 699.6,
+    "end": 702.6,
+    "text": " It just goes and bends down a bit."
+  },
+  {
+    "start": 702.6,
+    "end": 704.6,
+    "text": " Do they need to press it again?"
+  },
+  {
+    "start": 704.6,
+    "end": 708.6,
+    "text": " Is it like Charlie Chaplin's cane or can they just do it without?"
+  },
+  {
+    "start": 708.6,
+    "end": 711.6,
+    "text": " I think they don't have to lean against something to bend it down."
+  },
+  {
+    "start": 711.6,
+    "end": 713.6,
+    "text": " I think they have a little bit of gift."
+  },
+  {
+    "start": 713.6,
+    "end": 715.6,
+    "text": " Well, I'm not sure whether there's a food thing,"
+  },
+  {
+    "start": 715.6,
+    "end": 717.6,
+    "text": " but I think there is a fighting element to it,"
+  },
+  {
+    "start": 717.6,
+    "end": 720.6,
+    "text": " which is where they're bashing other hummingbirds with their open mouths."
+  },
+  {
+    "start": 720.6,
+    "end": 721.6,
+    "text": " Right."
+  },
+  {
+    "start": 721.6,
+    "end": 722.6,
+    "text": " I think that's part of it."
+  },
+  {
+    "start": 722.6,
+    "end": 723.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 723.6,
+    "end": 725.6,
+    "text": " And there's also a food aspect to it."
+  },
+  {
+    "start": 725.6,
+    "end": 729.6,
+    "text": " So Margaret Rubaga, the same woman who showed the tongue splitting"
+  },
+  {
+    "start": 729.6,
+    "end": 732.6,
+    "text": " in half thing that I told you about, also showed that,"
+  },
+  {
+    "start": 732.6,
+    "end": 737.6,
+    "text": " like, so some hummingbirds catch insects in air as well as drinking from flowers."
+  },
+  {
+    "start": 737.6,
+    "end": 741.6,
+    "text": " And that's quite a difficult thing for a bird like a hummingbird to do."
+  },
+  {
+    "start": 741.6,
+    "end": 744.6,
+    "text": " Like, the way Margaret explained to me, it's like flying around with a pair"
+  },
+  {
+    "start": 744.6,
+    "end": 747.6,
+    "text": " of chopsticks on your face trying to catch a moving rice grain."
+  },
+  {
+    "start": 747.6,
+    "end": 749.6,
+    "text": " Oh, my God."
+  },
+  {
+    "start": 749.6,
+    "end": 753.6,
+    "text": " But so instead of trying to like pick things up with like the tips of the bill,"
+  },
+  {
+    "start": 753.6,
+    "end": 755.6,
+    "text": " what they do is they bend the lower half of the bill"
+  },
+  {
+    "start": 755.6,
+    "end": 759.6,
+    "text": " and then they just try and ram the insects with their open mouths."
+  },
+  {
+    "start": 759.6,
+    "end": 760.6,
+    "text": " Crazy."
+  },
+  {
+    "start": 760.6,
+    "end": 763.6,
+    "text": " It's a really interesting relationship they have with insects, isn't it?"
+  },
+  {
+    "start": 763.6,
+    "end": 766.6,
+    "text": " Because they're kind of, they're in the same niche."
+  },
+  {
+    "start": 766.6,
+    "end": 769.6,
+    "text": " They're going for the pollen of the plants and stuff."
+  },
+  {
+    "start": 769.6,
+    "end": 771.6,
+    "text": " And they also eat a lot of insects,"
+  },
+  {
+    "start": 771.6,
+    "end": 773.6,
+    "text": " but then there are some insects that eat them,"
+  },
+  {
+    "start": 773.6,
+    "end": 775.6,
+    "text": " like prey mantises can eat hummingbirds."
+  },
+  {
+    "start": 775.6,
+    "end": 779.6,
+    "text": " And sometimes like wasps will attack them and stuff like that."
+  },
+  {
+    "start": 779.6,
+    "end": 780.6,
+    "text": " They're so tidy."
+  },
+  {
+    "start": 780.6,
+    "end": 782.6,
+    "text": " I don't think we've properly said how small these things are."
+  },
+  {
+    "start": 782.6,
+    "end": 783.6,
+    "text": " It's like a bee."
+  },
+  {
+    "start": 783.6,
+    "end": 784.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 784.6,
+    "end": 785.6,
+    "text": " Like a big bee."
+  },
+  {
+    "start": 785.6,
+    "end": 786.6,
+    "text": " They're so small."
+  },
+  {
+    "start": 786.6,
+    "end": 788.6,
+    "text": " They're the smallest sort of living dinosaur, aren't they?"
+  },
+  {
+    "start": 788.6,
+    "end": 790.6,
+    "text": " I guess if you count all birds as dinosaurs,"
+  },
+  {
+    "start": 790.6,
+    "end": 793.6,
+    "text": " this is pretty much as small as you get as a dinosaur,"
+  },
+  {
+    "start": 793.6,
+    "end": 796.6,
+    "text": " I think, from what they found even through fossil records."
+  },
+  {
+    "start": 796.6,
+    "end": 801.6,
+    "text": " There's one smaller dinosaur which was Oculandetavis calangrae,"
+  },
+  {
+    "start": 801.6,
+    "end": 804.6,
+    "text": " which was, it was like an avian dinosaur."
+  },
+  {
+    "start": 804.6,
+    "end": 807.6,
+    "text": " So it's like a bird before birds."
+  },
+  {
+    "start": 807.6,
+    "end": 808.6,
+    "text": " We only have a skull of it."
+  },
+  {
+    "start": 808.6,
+    "end": 810.6,
+    "text": " And it's about the size of a fingernail."
+  },
+  {
+    "start": 810.6,
+    "end": 814.6,
+    "text": " And we think it was possibly smaller than the smallest hummingbird."
+  },
+  {
+    "start": 814.6,
+    "end": 815.6,
+    "text": " But obviously we only have a skull."
+  },
+  {
+    "start": 815.6,
+    "end": 818.6,
+    "text": " So maybe it had a massive body and a tiny head."
+  },
+  {
+    "start": 818.6,
+    "end": 820.6,
+    "text": " I don't know."
+  },
+  {
+    "start": 820.6,
+    "end": 822.6,
+    "text": " It was found in resin, wasn't it?"
+  },
+  {
+    "start": 822.6,
+    "end": 823.6,
+    "text": " I've seen a photo of it."
+  },
+  {
+    "start": 823.6,
+    "end": 824.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 824.6,
+    "end": 828.6,
+    "text": " Once again, bringing my theory that we should put all the important shit in resin."
+  },
+  {
+    "start": 828.6,
+    "end": 829.6,
+    "text": " It's the only thing that survives."
+  },
+  {
+    "start": 829.6,
+    "end": 830.6,
+    "text": " What's the important shit?"
+  },
+  {
+    "start": 830.6,
+    "end": 832.6,
+    "text": " Well, anything that we, you know, like a..."
+  },
+  {
+    "start": 832.6,
+    "end": 834.6,
+    "text": " Gene Simmons' cow tongue."
+  },
+  {
+    "start": 834.6,
+    "end": 836.6,
+    "text": " There we go."
+  },
+  {
+    "start": 836.6,
+    "end": 837.6,
+    "text": " Absolutely."
+  },
+  {
+    "start": 837.6,
+    "end": 839.6,
+    "text": " Oh my God, I don't want to see that Jurassic Park"
+  },
+  {
+    "start": 839.6,
+    "end": 843.6,
+    "text": " where they bring back Gene Simmons with his cow tongue."
+  },
+  {
+    "start": 843.6,
+    "end": 844.6,
+    "text": " Oh wow."
+  },
+  {
+    "start": 844.6,
+    "end": 845.6,
+    "text": " Simmons Park, yeah."
+  },
+  {
+    "start": 845.6,
+    "end": 847.6,
+    "text": " God, do you want to know something about tongues?"
+  },
+  {
+    "start": 847.6,
+    "end": 848.6,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 848.6,
+    "end": 849.6,
+    "text": " Okay, this is right."
+  },
+  {
+    "start": 849.6,
+    "end": 851.6,
+    "text": " This is actually a bit of US news."
+  },
+  {
+    "start": 851.6,
+    "end": 852.6,
+    "text": " And it's from 2020."
+  },
+  {
+    "start": 852.6,
+    "end": 856.6,
+    "text": " There was a house in Florida and there was a builder was brought in."
+  },
+  {
+    "start": 856.6,
+    "end": 860.6,
+    "text": " The woman who owned the house brought a builder in to just look at something in the foundations."
+  },
+  {
+    "start": 860.6,
+    "end": 864.6,
+    "text": " And he was down in the, at the crawl space under the house."
+  },
+  {
+    "start": 864.6,
+    "end": 866.6,
+    "text": " I think it's the thing that lots of US houses have."
+  },
+  {
+    "start": 866.6,
+    "end": 871.6,
+    "text": " And what he found there was he found six gallons of human tongues."
+  },
+  {
+    "start": 871.6,
+    "end": 879.6,
+    "text": " He found six one gallon jars full, absolutely crammed with human tongues and associated matter."
+  },
+  {
+    "start": 879.6,
+    "end": 883.6,
+    "text": " And it belonged to a scientist from the University of Florida,"
+  },
+  {
+    "start": 883.6,
+    "end": 886.6,
+    "text": " an oral pathologist called Ronald A. Boffman."
+  },
+  {
+    "start": 886.6,
+    "end": 890.6,
+    "text": " It's B-A-U-G-A, I think that's Bob."
+  },
+  {
+    "start": 890.6,
+    "end": 892.6,
+    "text": " Yeah, like Frank Boff."
+  },
+  {
+    "start": 892.6,
+    "end": 897.6,
+    "text": " I don't think he had a crawl space full of human tongues, but I wouldn't put it past him."
+  },
+  {
+    "start": 897.6,
+    "end": 898.6,
+    "text": " We're not sure."
+  },
+  {
+    "start": 898.6,
+    "end": 899.6,
+    "text": " But Boffman was a scientist."
+  },
+  {
+    "start": 899.6,
+    "end": 901.6,
+    "text": " It's actually Boffman's monster."
+  },
+  {
+    "start": 901.6,
+    "end": 902.6,
+    "text": " Sorry."
+  },
+  {
+    "start": 902.6,
+    "end": 907.6,
+    "text": " Just made entirely of tongues."
+  },
+  {
+    "start": 907.6,
+    "end": 909.6,
+    "text": " And he'd put them there to keep them cool."
+  },
+  {
+    "start": 909.6,
+    "end": 911.6,
+    "text": " And he was meaning to do some experiments on them."
+  },
+  {
+    "start": 911.6,
+    "end": 912.6,
+    "text": " This is all about 50 years ago."
+  },
+  {
+    "start": 912.6,
+    "end": 916.6,
+    "text": " And then he and his wife got divorced and his wife was the one who stayed on living in the house."
+  },
+  {
+    "start": 916.6,
+    "end": 921.6,
+    "text": " But everyone forgot the presence of these tongues and they just stay there for 50 years."
+  },
+  {
+    "start": 921.6,
+    "end": 925.6,
+    "text": " How do you forget the presence of your basement full of tongues?"
+  },
+  {
+    "start": 925.6,
+    "end": 929.6,
+    "text": " How is that just a thing that just skips your mind?"
+  },
+  {
+    "start": 929.6,
+    "end": 936.6,
+    "text": " I was looking at like animals tasting things and I'm currently not in the UK."
+  },
+  {
+    "start": 936.6,
+    "end": 940.6,
+    "text": " I'm on holiday and I'm being eaten alive by mosquitoes."
+  },
+  {
+    "start": 940.6,
+    "end": 943.6,
+    "text": " As I was interested to see what mosquitoes can taste."
+  },
+  {
+    "start": 943.6,
+    "end": 950.6,
+    "text": " And it turns out that they've got like taste buds that can detect quite a few different substances in human blood, apparently."
+  },
+  {
+    "start": 950.6,
+    "end": 951.6,
+    "text": " So it's reading."
+  },
+  {
+    "start": 951.6,
+    "end": 957.6,
+    "text": " I saw this interview with a woman called Leslie Voss Hall from Rockefeller University about this."
+  },
+  {
+    "start": 957.6,
+    "end": 960.6,
+    "text": " They said, what does human blood taste like to the mosquitoes?"
+  },
+  {
+    "start": 960.6,
+    "end": 965.6,
+    "text": " And she said, well, you can't really tell because it's like no human experience can be like a mosquito experience."
+  },
+  {
+    "start": 965.6,
+    "end": 969.6,
+    "text": " But it's kind of probably, if you can imagine something that's a bit salty and a bit sweet."
+  },
+  {
+    "start": 969.6,
+    "end": 973.6,
+    "text": " So two different tastes that kind of go together really well that they like."
+  },
+  {
+    "start": 973.6,
+    "end": 975.6,
+    "text": " Like salted caramel, I guess."
+  },
+  {
+    "start": 975.6,
+    "end": 978.6,
+    "text": " Or a Snickers bar or something like that."
+  },
+  {
+    "start": 978.6,
+    "end": 980.6,
+    "text": " I've actually visited Leslie's lab."
+  },
+  {
+    "start": 980.6,
+    "end": 981.6,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 981.6,
+    "end": 982.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 982.6,
+    "end": 985.6,
+    "text": " So she's great and their labs are amazing."
+  },
+  {
+    "start": 985.6,
+    "end": 989.6,
+    "text": " And one interesting thing about mosquito tastes is that they're quite picky."
+  },
+  {
+    "start": 989.6,
+    "end": 992.6,
+    "text": " Like it's actually very hard to feed like captive mosquitoes."
+  },
+  {
+    "start": 992.6,
+    "end": 995.6,
+    "text": " Like if you just have like a petri dish of blood, they won't drink from it."
+  },
+  {
+    "start": 995.6,
+    "end": 999.6,
+    "text": " They want like the taste of it, the smell of human."
+  },
+  {
+    "start": 999.6,
+    "end": 1002.6,
+    "text": " They want like the heat of human skin."
+  },
+  {
+    "start": 1002.6,
+    "end": 1012.6,
+    "text": " So one thing they sometimes do is they'll like slightly microwave the blood and then take like a bit of paraffin, rub it on their own skin and then stretch it over the surface of the blood."
+  },
+  {
+    "start": 1012.6,
+    "end": 1019.6,
+    "text": " So now you have something that feels warm and smells a bit like human that allows the mosquitoes to actually like stab through."
+  },
+  {
+    "start": 1019.6,
+    "end": 1021.6,
+    "text": " But that's all very complicated."
+  },
+  {
+    "start": 1021.6,
+    "end": 1032.6,
+    "text": " And by far the simplest way they have a feeding their mosquitoes is just sticking their arm inside the mosquito cage and just sitting there while like several hundred mosquitoes drink from them."
+  },
+  {
+    "start": 1032.6,
+    "end": 1033.6,
+    "text": " Oh my God."
+  },
+  {
+    "start": 1033.6,
+    "end": 1035.6,
+    "text": " That's the worst thing in the world."
+  },
+  {
+    "start": 1035.6,
+    "end": 1042.6,
+    "text": " And there's like, I think there's like a lab rotor where like people take it in turns to feed the mosquitoes on that day."
+  },
+  {
+    "start": 1042.6,
+    "end": 1051.6,
+    "text": " So everyone I've spoken to has done this is that like it's horrible the first few times you do it and then you rapidly become mostly immune to it."
+  },
+  {
+    "start": 1051.6,
+    "end": 1053.6,
+    "text": " So it'll it'll it's a little bit, but it's not too bad."
+  },
+  {
+    "start": 1053.6,
+    "end": 1063.6,
+    "text": " It's really just the gross out factor and like the boredom of having to sit there like reading a book or like scrolling through Twitter while like your arm gets drained."
+  },
+  {
+    "start": 1063.6,
+    "end": 1069.6,
+    "text": " So obviously even hundreds of mosquitoes drinking couldn't take enough blood from you to do you any harm."
+  },
+  {
+    "start": 1069.6,
+    "end": 1073.6,
+    "text": " That's right. It's not like there's a pile of like deflated students in the corner."
+  },
+  {
+    "start": 1073.6,
+    "end": 1086.6,
+    "text": " OK, it is time for fact number two and that is James."
+  },
+  {
+    "start": 1086.6,
+    "end": 1097.6,
+    "text": " OK, my fact this week is that in London's only ketamine clinic, the ketamine is kept in a locked box inside another locked box that's padlocked to the floor."
+  },
+  {
+    "start": 1098.6,
+    "end": 1101.6,
+    "text": " Right. Where'd you get that from?"
+  },
+  {
+    "start": 1101.6,
+    "end": 1105.6,
+    "text": " Yes. Well, when I say my fact this week, this is Anna's fact this week."
+  },
+  {
+    "start": 1105.6,
+    "end": 1112.6,
+    "text": " Anna can't be with us as she senses this stuff about ketamine and we haven't seen her for days. I don't know."
+  },
+  {
+    "start": 1112.6,
+    "end": 1116.6,
+    "text": " No, Anna is sick."
+  },
+  {
+    "start": 1116.6,
+    "end": 1122.6,
+    "text": " So she senses this and she found it in a online magazine called Technology Networks."
+  },
+  {
+    "start": 1122.6,
+    "end": 1132.6,
+    "text": " And it is about a clinic in London called Awaken Clinic, which is near King's Cross and it's London's first clinic for psychedelic psychotherapy."
+  },
+  {
+    "start": 1132.6,
+    "end": 1146.6,
+    "text": " And the idea is that all around the world, more in America for sure, but just starting to come in the UK now, people are using these drugs that are illegal in lots of places, but giving them in smaller doses."
+  },
+  {
+    "start": 1146.6,
+    "end": 1154.6,
+    "text": " And they're helping against various things like depression or addiction, lots of, you know, problems like that."
+  },
+  {
+    "start": 1154.6,
+    "end": 1156.6,
+    "text": " Is ketamine addictive?"
+  },
+  {
+    "start": 1156.6,
+    "end": 1165.6,
+    "text": " It can be, yes. In small doses, I think it's OK. I mean, don't, if you're listening to this, it's illegal in the UK, so I wouldn't bother."
+  },
+  {
+    "start": 1165.6,
+    "end": 1171.6,
+    "text": " But if you're going to a clinic and it's under controlled circumstances, then I think it's OK."
+  },
+  {
+    "start": 1171.6,
+    "end": 1175.6,
+    "text": " But I think one of the reasons we don't use it more, because it started off as an anaesthetic."
+  },
+  {
+    "start": 1175.6,
+    "end": 1185.6,
+    "text": " One of the reasons we don't use it anymore is because you need to use more and more and more because you get a buildup to it and it can have psychological problems if you use it too much."
+  },
+  {
+    "start": 1185.6,
+    "end": 1187.6,
+    "text": " But yeah, this is a new clinic."
+  },
+  {
+    "start": 1187.6,
+    "end": 1195.6,
+    "text": " And actually, the exciting thing I learned about this clinic when Anna sent it round is that it's on a road called Duke's Road."
+  },
+  {
+    "start": 1195.6,
+    "end": 1205.6,
+    "text": " And it's just opened this spring. And one of the last people to go into the building before they put all the ketamine there was me, it turns out."
+  },
+  {
+    "start": 1205.6,
+    "end": 1214.6,
+    "text": " Because my wife used to work in that building and her company moved and we helped kind of clear it out and like get rid of some of the stuff out of there."
+  },
+  {
+    "start": 1214.6,
+    "end": 1216.6,
+    "text": " So just before they left, we went in there."
+  },
+  {
+    "start": 1216.6,
+    "end": 1223.6,
+    "text": " And I want to know, we were going to take, there's a huge sort of tree stump that was like fossilized or petrified or whatever."
+  },
+  {
+    "start": 1223.6,
+    "end": 1227.6,
+    "text": " And we were going to take it, but it was so heavy, there was four of us and we couldn't move it."
+  },
+  {
+    "start": 1227.6,
+    "end": 1229.6,
+    "text": " So I reckon it must still be there."
+  },
+  {
+    "start": 1229.6,
+    "end": 1230.6,
+    "text": " Yes."
+  },
+  {
+    "start": 1230.6,
+    "end": 1231.6,
+    "text": " It must be, right?"
+  },
+  {
+    "start": 1231.6,
+    "end": 1232.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 1232.6,
+    "end": 1235.6,
+    "text": " I reckon you could hide the ketamine underneath that tree stump and no one would ever get it."
+  },
+  {
+    "start": 1235.6,
+    "end": 1236.6,
+    "text": " You don't need to."
+  },
+  {
+    "start": 1236.6,
+    "end": 1239.6,
+    "text": " Now it's getting a bit fantasy, right?"
+  },
+  {
+    "start": 1239.6,
+    "end": 1246.6,
+    "text": " It's like in a locked box inside a tree stump, guarded by a wizard who has three riddles for you."
+  },
+  {
+    "start": 1246.6,
+    "end": 1255.6,
+    "text": " I do love that the clinic that has the ketamine in the locked box and the other locked box is part of a program of psychotherapy called"
+  },
+  {
+    "start": 1255.6,
+    "end": 1259.6,
+    "text": " ketamine in the reduction of alcohol relapse or care."
+  },
+  {
+    "start": 1259.6,
+    "end": 1267.6,
+    "text": " But care with a K, which I feel is unfortunate because everyone knows that if you take a C word and turn it into a K word, it makes it evil."
+  },
+  {
+    "start": 1267.6,
+    "end": 1269.6,
+    "text": " Like with kiss, mortal combat."
+  },
+  {
+    "start": 1269.6,
+    "end": 1270.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 1270.6,
+    "end": 1271.6,
+    "text": " Kodos and Kang."
+  },
+  {
+    "start": 1271.6,
+    "end": 1272.6,
+    "text": " Don't put a K."
+  },
+  {
+    "start": 1272.6,
+    "end": 1273.6,
+    "text": " That's just sending the wrong vibe."
+  },
+  {
+    "start": 1273.6,
+    "end": 1275.6,
+    "text": " Magic with the K at the end."
+  },
+  {
+    "start": 1275.6,
+    "end": 1276.6,
+    "text": " That's something dark magic."
+  },
+  {
+    "start": 1276.6,
+    "end": 1282.6,
+    "text": " And the clinic is called, I'm sure it's pronounced awaken, but it's spelled Awaken."
+  },
+  {
+    "start": 1282.6,
+    "end": 1283.6,
+    "text": " Awaken?"
+  },
+  {
+    "start": 1283.6,
+    "end": 1290.6,
+    "text": " They've knocked out the E. And so it looks a bit like, you know, chicken, that fake chicken stuff."
+  },
+  {
+    "start": 1290.6,
+    "end": 1299.6,
+    "text": " John Lilly, who is one of the really old ketamine researchers, he said that when he took ketamine, he could make contact with aliens."
+  },
+  {
+    "start": 1299.6,
+    "end": 1304.6,
+    "text": " And that the ketamine told him that he was getting a lot of knowledge from it."
+  },
+  {
+    "start": 1304.6,
+    "end": 1306.6,
+    "text": " He said the ketamine knew everything."
+  },
+  {
+    "start": 1306.6,
+    "end": 1313.6,
+    "text": " And he said that the ketamine told him that knowledge starts with K for a reason."
+  },
+  {
+    "start": 1313.6,
+    "end": 1317.6,
+    "text": " So maybe there's something in the evil K with John Lilly."
+  },
+  {
+    "start": 1317.6,
+    "end": 1318.6,
+    "text": " Food for thought."
+  },
+  {
+    "start": 1318.6,
+    "end": 1320.6,
+    "text": " The clinic is really interesting, isn't it?"
+  },
+  {
+    "start": 1320.6,
+    "end": 1325.6,
+    "text": " Because it's got to be sort of clinical and you're supervised when you're taking the drugs themselves."
+  },
+  {
+    "start": 1325.6,
+    "end": 1333.6,
+    "text": " But it's also accessible and it's not, you don't want to be in a totally spartan clinical environment because you perceive things differently when you have ketamine, don't you?"
+  },
+  {
+    "start": 1333.6,
+    "end": 1336.6,
+    "text": " So your brain gets disassociated from your sensory input."
+  },
+  {
+    "start": 1336.6,
+    "end": 1343.6,
+    "text": " So you might think that your limbs are getting longer or you might feel like you're floating or whatever it is."
+  },
+  {
+    "start": 1343.6,
+    "end": 1349.6,
+    "text": " So they've got to have a sofa to lie on once you've had the drugs, but also they've got to keep it slightly professional."
+  },
+  {
+    "start": 1349.6,
+    "end": 1353.6,
+    "text": " And it comes with therapy as well, which I think some clinics in the USA don't do, do they?"
+  },
+  {
+    "start": 1353.6,
+    "end": 1354.6,
+    "text": " They just give you the drugs."
+  },
+  {
+    "start": 1354.6,
+    "end": 1355.6,
+    "text": " Right."
+  },
+  {
+    "start": 1355.6,
+    "end": 1356.6,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 1356.6,
+    "end": 1357.6,
+    "text": " Yeah, that's what this is."
+  },
+  {
+    "start": 1357.6,
+    "end": 1362.6,
+    "text": " It's 11 sessions, four of which are the doping sessions and then the rest of them are the therapy sessions."
+  },
+  {
+    "start": 1362.6,
+    "end": 1369.6,
+    "text": " So you break them up and you come back in and then you talk about, you know, you know, well, you thought you're an astronaut in that last trip, you know, kind of thing."
+  },
+  {
+    "start": 1369.6,
+    "end": 1371.6,
+    "text": " And then your problem is not just about you."
+  },
+  {
+    "start": 1371.6,
+    "end": 1372.6,
+    "text": " There was one US researcher."
+  },
+  {
+    "start": 1372.6,
+    "end": 1376.6,
+    "text": " So this was some kind of help that they gave the subjects in America."
+  },
+  {
+    "start": 1376.6,
+    "end": 1382.6,
+    "text": " They said that the patients are seeing loads of things like one person thought they were hiding lemons in the room everywhere."
+  },
+  {
+    "start": 1382.6,
+    "end": 1386.6,
+    "text": " And there was another person who thought they could see vibrating collars and stuff."
+  },
+  {
+    "start": 1386.6,
+    "end": 1389.6,
+    "text": " But apparently some people got really upset about it."
+  },
+  {
+    "start": 1389.6,
+    "end": 1391.6,
+    "text": " And, you know, the reality has changed."
+  },
+  {
+    "start": 1391.6,
+    "end": 1392.6,
+    "text": " They get really worried about it."
+  },
+  {
+    "start": 1392.6,
+    "end": 1399.6,
+    "text": " And they said that everyone to a person feels better if they play some Enya in the background."
+  },
+  {
+    "start": 1399.6,
+    "end": 1401.6,
+    "text": " They play a bit of Enya."
+  },
+  {
+    "start": 1401.6,
+    "end": 1405.6,
+    "text": " It doesn't matter if you're a heavy metal, if you're a kiss fan, if you're a maiden fan or anything."
+  },
+  {
+    "start": 1405.6,
+    "end": 1408.6,
+    "text": " If you play a little bit of Enya, apparently it calms you right down."
+  },
+  {
+    "start": 1408.6,
+    "end": 1409.6,
+    "text": " Well, that's so interesting."
+  },
+  {
+    "start": 1409.6,
+    "end": 1420.6,
+    "text": " Because in America, in Fort Worth, in Texas, they actually at one point in the 1970s opened up a clinic for people who were tripping on LSD who needed to come down to come to."
+  },
+  {
+    "start": 1420.6,
+    "end": 1423.6,
+    "text": " And they would just play them the Beach Boys album Smiley Smile."
+  },
+  {
+    "start": 1423.6,
+    "end": 1426.6,
+    "text": " And that was the only thing that you had there."
+  },
+  {
+    "start": 1426.6,
+    "end": 1432.6,
+    "text": " So I can see why Enya would be even more powerful than a Beach Boys album."
+  },
+  {
+    "start": 1432.6,
+    "end": 1437.6,
+    "text": " I love this idea that every drug has a musical antidote to it."
+  },
+  {
+    "start": 1437.6,
+    "end": 1439.6,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 1439.6,
+    "end": 1446.6,
+    "text": " So, James mentioned John Lilly, who was also really famous for doing research on dolphins."
+  },
+  {
+    "start": 1446.6,
+    "end": 1452.6,
+    "text": " And like some of his work was actually hugely influential in like, and he inspired like a lot of modern day dolphin researchers."
+  },
+  {
+    "start": 1452.6,
+    "end": 1458.6,
+    "text": " But he was also, he also had some very like out there ideas about like communicating with dolphins."
+  },
+  {
+    "start": 1458.6,
+    "end": 1463.6,
+    "text": " And that was, I think that was heavily influenced by like his experiences with ketamine."
+  },
+  {
+    "start": 1463.6,
+    "end": 1473.6,
+    "text": " But I found this vice article, which talked about how Lilly's experiences with both dolphins and ketamine might have influenced the game Echo the Dolphin."
+  },
+  {
+    "start": 1473.6,
+    "end": 1476.6,
+    "text": " Did anybody play that on the Sega Mega Drive?"
+  },
+  {
+    "start": 1476.6,
+    "end": 1477.6,
+    "text": " It's a great game."
+  },
+  {
+    "start": 1477.6,
+    "end": 1478.6,
+    "text": " Right."
+  },
+  {
+    "start": 1478.6,
+    "end": 1483.6,
+    "text": " So it was an amazing game on the on the Mega Drive, Genesis for American listeners."
+  },
+  {
+    "start": 1483.6,
+    "end": 1488.6,
+    "text": " And you played a dolphin and you had to go around like beating up sharks and surviving."
+  },
+  {
+    "start": 1488.6,
+    "end": 1497.6,
+    "text": " But there was also this like, this overarching plot about aliens who were, I don't know, trying to like take of the world or like kidnap animals."
+  },
+  {
+    "start": 1497.6,
+    "end": 1500.6,
+    "text": " And you Echo the Dolphin had to fight off these aliens."
+  },
+  {
+    "start": 1500.6,
+    "end": 1508.6,
+    "text": " And that's like very clearly linked to like Lilly and his like his alien stuff and his his ketamine stuff."
+  },
+  {
+    "start": 1508.6,
+    "end": 1510.6,
+    "text": " Yeah, he was a consultant on the video game."
+  },
+  {
+    "start": 1510.6,
+    "end": 1511.6,
+    "text": " Was it really?"
+  },
+  {
+    "start": 1511.6,
+    "end": 1513.6,
+    "text": " Yeah, yeah, they asked him."
+  },
+  {
+    "start": 1513.6,
+    "end": 1518.6,
+    "text": " And he did go absolutely bonkers post the dolphin experiments that he had."
+  },
+  {
+    "start": 1518.6,
+    "end": 1519.6,
+    "text": " He did weird stuff with dolphins."
+  },
+  {
+    "start": 1519.6,
+    "end": 1520.6,
+    "text": " Didn't he, John Lilly?"
+  },
+  {
+    "start": 1520.6,
+    "end": 1521.6,
+    "text": " Or am I wrong?"
+  },
+  {
+    "start": 1521.6,
+    "end": 1522.6,
+    "text": " No, he did."
+  },
+  {
+    "start": 1522.6,
+    "end": 1528.6,
+    "text": " Yeah, it was more Margaret Howe, who was the the experimenter who was living in the dolphin houses that they had."
+  },
+  {
+    "start": 1528.6,
+    "end": 1530.6,
+    "text": " He was he was part of the house."
+  },
+  {
+    "start": 1530.6,
+    "end": 1537.6,
+    "text": " He was upstairs, but he didn't interact with her except telepathically from his flotation tank."
+  },
+  {
+    "start": 1537.6,
+    "end": 1538.6,
+    "text": " Wait, he was sorry."
+  },
+  {
+    "start": 1538.6,
+    "end": 1539.6,
+    "text": " He was upstairs in the dolphin house."
+  },
+  {
+    "start": 1539.6,
+    "end": 1541.6,
+    "text": " There was the dolphin house that he created."
+  },
+  {
+    "start": 1541.6,
+    "end": 1542.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 1542.6,
+    "end": 1544.6,
+    "text": " And he wants to know how the dolphins get up the stairs."
+  },
+  {
+    "start": 1544.6,
+    "end": 1545.6,
+    "text": " I thank you very much."
+  },
+  {
+    "start": 1545.6,
+    "end": 1546.6,
+    "text": " I do."
+  },
+  {
+    "start": 1546.6,
+    "end": 1548.6,
+    "text": " They're not allowed upstairs."
+  },
+  {
+    "start": 1548.6,
+    "end": 1549.6,
+    "text": " Just on ketamine."
+  },
+  {
+    "start": 1549.6,
+    "end": 1550.6,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1550.6,
+    "end": 1556.6,
+    "text": " What I know it as is horse tranquilizer because that's the thing that it gets described as all the time as in."
+  },
+  {
+    "start": 1556.6,
+    "end": 1561.6,
+    "text": " Oh, it's a party drug, but it's actually these kids are taking horse tranquilizer and it's not."
+  },
+  {
+    "start": 1561.6,
+    "end": 1562.6,
+    "text": " It's not really."
+  },
+  {
+    "start": 1562.6,
+    "end": 1563.6,
+    "text": " No."
+  },
+  {
+    "start": 1563.6,
+    "end": 1565.6,
+    "text": " It will knock out a horse if you use enough of it."
+  },
+  {
+    "start": 1565.6,
+    "end": 1568.6,
+    "text": " It's used on multiple animals, including humans."
+  },
+  {
+    "start": 1568.6,
+    "end": 1578.6,
+    "text": " So the New Zealand Drug Foundation website, they say it's used on elephants, camels, gorillas, pigs, sheep, goats, dogs, cats, rabbits, snakes, guinea pigs, birds, gerbils and mice."
+  },
+  {
+    "start": 1578.6,
+    "end": 1581.6,
+    "text": " But you never hear it described as a gerbil tranquilizer."
+  },
+  {
+    "start": 1581.6,
+    "end": 1584.6,
+    "text": " Like it's less scary, isn't it?"
+  },
+  {
+    "start": 1584.6,
+    "end": 1586.6,
+    "text": " It's also less cool, isn't it?"
+  },
+  {
+    "start": 1586.6,
+    "end": 1590.6,
+    "text": " If you're friends after me, some gerbil tranquilizer."
+  },
+  {
+    "start": 1590.6,
+    "end": 1596.6,
+    "text": " I also feel like the situations in life when one needs to tranquilize a gerbil are probably few and far between."
+  },
+  {
+    "start": 1596.6,
+    "end": 1600.6,
+    "text": " Oh, no, there's a runaway gerbil. How are we going to stop it?"
+  },
+  {
+    "start": 1600.6,
+    "end": 1602.6,
+    "text": " Oh, dear."
+  },
+  {
+    "start": 1602.6,
+    "end": 1614.6,
+    "text": " So I do love that the Wikipedia entry on ketamine does end with this absolute banger of the sentence, which is ketamine appears not to produce sedation or anesthesia in snails."
+  },
+  {
+    "start": 1614.6,
+    "end": 1618.6,
+    "text": " Instead, it appears to have an excitatory effect."
+  },
+  {
+    "start": 1618.6,
+    "end": 1619.6,
+    "text": " What?"
+  },
+  {
+    "start": 1619.6,
+    "end": 1620.6,
+    "text": " Oh, wow."
+  },
+  {
+    "start": 1620.6,
+    "end": 1621.6,
+    "text": " That's amazing."
+  },
+  {
+    "start": 1621.6,
+    "end": 1626.6,
+    "text": " That's why they keep it at the lockboxes. It's the case of snails."
+  },
+  {
+    "start": 1626.6,
+    "end": 1631.6,
+    "text": " I've not actually followed up on the source behind this. The statement, I want to just let it stand."
+  },
+  {
+    "start": 1631.6,
+    "end": 1633.6,
+    "text": " That's exciting."
+  },
+  {
+    "start": 1633.6,
+    "end": 1642.6,
+    "text": " When you say it has an excitatory effect on snails, do you mean the snails are now like zooming around at hummingbird speed?"
+  },
+  {
+    "start": 1642.6,
+    "end": 1646.6,
+    "text": " Or are they just moving slightly less slowly than before?"
+  },
+  {
+    "start": 1646.6,
+    "end": 1653.6,
+    "text": " Having the time of its life and the human watching it, just watching it slowly."
+  },
+  {
+    "start": 1653.6,
+    "end": 1662.6,
+    "text": " I've also got a story that's sort of related to this about the difficulties of scientists doing experiments with illicit substances."
+  },
+  {
+    "start": 1662.6,
+    "end": 1663.6,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1663.6,
+    "end": 1665.6,
+    "text": " And this happens sort of inadvertently."
+  },
+  {
+    "start": 1665.6,
+    "end": 1675.6,
+    "text": " So I was talking to this guy called Matt Casson who studies parasites and he studies this fungus that infects cicadas and it makes their butts fall off."
+  },
+  {
+    "start": 1675.6,
+    "end": 1683.6,
+    "text": " And the cicadas fly around with this ball full of like fungal spores behind them, what Casson calls these flying salt shakers of death."
+  },
+  {
+    "start": 1683.6,
+    "end": 1690.6,
+    "text": " But you might then ask like, how is it that the cicada is okay with like a third of its body having fallen off?"
+  },
+  {
+    "start": 1690.6,
+    "end": 1702.6,
+    "text": " And when they looked at the fungus and they did a chemical analysis of the chemicals that the fungus produces, they found that it produces psilocybin, which is the stuff that makes shrooms trippy."
+  },
+  {
+    "start": 1702.6,
+    "end": 1711.6,
+    "text": " So these cicadas are flying around probably off their faces shedding fungal spores from what used to be their butts."
+  },
+  {
+    "start": 1711.6,
+    "end": 1718.6,
+    "text": " But the twist is like psilocybin is you can't do research on it without a very specific permit."
+  },
+  {
+    "start": 1718.6,
+    "end": 1724.6,
+    "text": " And so this poor scientist suddenly discovers that, oh no, I'm actually a psilocybin lab."
+  },
+  {
+    "start": 1724.6,
+    "end": 1728.6,
+    "text": " And I don't know if like the DEA is going to suddenly come in and like tow me away."
+  },
+  {
+    "start": 1728.6,
+    "end": 1736.6,
+    "text": " So he has to do this like very embarrassed call to the DEA going, I don't know if you have any protocols for this."
+  },
+  {
+    "start": 1736.6,
+    "end": 1743.6,
+    "text": " But it turns out that my fungus-infested cicadas are full of psilocybin. What do I do?"
+  },
+  {
+    "start": 1743.6,
+    "end": 1747.6,
+    "text": " Do we know what happened? Did they tell him to, they got him a permit maybe, I guess?"
+  },
+  {
+    "start": 1747.6,
+    "end": 1753.6,
+    "text": " I think they said it was okay because the amount of psilocybin inside the cicadas is very, very small."
+  },
+  {
+    "start": 1753.6,
+    "end": 1756.6,
+    "text": " So it's not like you could crunch your way through a bag full of cicadas."
+  },
+  {
+    "start": 1756.6,
+    "end": 1762.6,
+    "text": " I was going to say, how many cicadas without a bum would I have to lick to get a bit of a trick?"
+  },
+  {
+    "start": 1762.6,
+    "end": 1768.6,
+    "text": " Right, I actually have an answer to this because I asked him that question."
+  },
+  {
+    "start": 1768.6,
+    "end": 1772.6,
+    "text": " He said, based on the ones we looked at, it will probably take a dozen or more."
+  },
+  {
+    "start": 1772.6,
+    "end": 1775.6,
+    "text": " That's actually not that many cicadas."
+  },
+  {
+    "start": 1775.6,
+    "end": 1781.6,
+    "text": " God, after this podcast, forests are just going to be packed with drug dealers waiting for cicadas to be born."
+  },
+  {
+    "start": 1781.6,
+    "end": 1786.6,
+    "text": " But those cicadas, are they the ones that come out only every 17 years or something like that?"
+  },
+  {
+    "start": 1786.6,
+    "end": 1790.6,
+    "text": " Yeah, that's right. But then they come out on mass."
+  },
+  {
+    "start": 1790.6,
+    "end": 1794.6,
+    "text": " So it feels like you really should be able to, like when it happened this year,"
+  },
+  {
+    "start": 1794.6,
+    "end": 1799.6,
+    "text": " I was getting really panicked as my dog started eating every cicada he could find."
+  },
+  {
+    "start": 1799.6,
+    "end": 1802.6,
+    "text": " It's like walking in front of him and just checking them going, does it look white?"
+  },
+  {
+    "start": 1802.6,
+    "end": 1806.6,
+    "text": " Does it sit back still there? It's not there, you're not eating it."
+  },
+  {
+    "start": 1806.6,
+    "end": 1810.6,
+    "text": " Ketamine's effect on sheep is amazing. It turns them off and turns them back on again."
+  },
+  {
+    "start": 1810.6,
+    "end": 1812.6,
+    "text": " In a sexual way?"
+  },
+  {
+    "start": 1812.6,
+    "end": 1816.6,
+    "text": " Not in a sexual way. Their brain activity just literally turns off."
+  },
+  {
+    "start": 1816.6,
+    "end": 1821.6,
+    "text": " I think this was Cambridge scientists. Yeah, they gave sheep very high doses of ketamine"
+  },
+  {
+    "start": 1821.6,
+    "end": 1824.6,
+    "text": " and basically all electrical activity just shut down."
+  },
+  {
+    "start": 1824.6,
+    "end": 1827.6,
+    "text": " So is it like being hit on the head in a cartoon?"
+  },
+  {
+    "start": 1827.6,
+    "end": 1831.6,
+    "text": " It's exactly like that. The sheep forgot key information about their lives"
+  },
+  {
+    "start": 1831.6,
+    "end": 1834.6,
+    "text": " and then they hit them again and they were back."
+  },
+  {
+    "start": 1834.6,
+    "end": 1837.6,
+    "text": " That's amazing. Ket, is this true? Is this true?"
+  },
+  {
+    "start": 1837.6,
+    "end": 1840.6,
+    "text": " Can a brain just shut off?"
+  },
+  {
+    "start": 1840.6,
+    "end": 1847.6,
+    "text": " My brain's doing that right now. You're watching it happen in real time."
+  },
+  {
+    "start": 1847.6,
+    "end": 1856.6,
+    "text": " OK, it is time for fact number three and that is Andy."
+  },
+  {
+    "start": 1856.6,
+    "end": 1859.6,
+    "text": " My fact this week is that Britain has several libraries"
+  },
+  {
+    "start": 1859.6,
+    "end": 1863.6,
+    "text": " whose collections are completely invisible to the naked eye."
+  },
+  {
+    "start": 1863.6,
+    "end": 1866.6,
+    "text": " Oh, very interesting."
+  },
+  {
+    "start": 1866.6,
+    "end": 1869.6,
+    "text": " See, naked eyes."
+  },
+  {
+    "start": 1869.6,
+    "end": 1871.6,
+    "text": " So, OK, tiny books."
+  },
+  {
+    "start": 1871.6,
+    "end": 1877.6,
+    "text": " Well, it's the books of life by which I mean microorganisms."
+  },
+  {
+    "start": 1877.6,
+    "end": 1883.6,
+    "text": " There are otherwise known the books of life."
+  },
+  {
+    "start": 1883.6,
+    "end": 1890.6,
+    "text": " This is these things. They're called the National Culture Libraries."
+  },
+  {
+    "start": 1890.6,
+    "end": 1894.6,
+    "text": " There was this amazing piece in the Economist actually about them"
+  },
+  {
+    "start": 1894.6,
+    "end": 1897.6,
+    "text": " and they are there are four National Culture Libraries"
+  },
+  {
+    "start": 1897.6,
+    "end": 1899.6,
+    "text": " and each one does something slightly different."
+  },
+  {
+    "start": 1899.6,
+    "end": 1905.6,
+    "text": " So one has bacteria, one has viruses, one has fungi and one has cell lines"
+  },
+  {
+    "start": 1905.6,
+    "end": 1912.6,
+    "text": " and they all store various significant cultures, cells that matter"
+  },
+  {
+    "start": 1912.6,
+    "end": 1915.6,
+    "text": " and they're for scientists to do experiments on."
+  },
+  {
+    "start": 1915.6,
+    "end": 1920.6,
+    "text": " So you can, if you like, buy some salmonella or some anthrax or some cholera."
+  },
+  {
+    "start": 1920.6,
+    "end": 1923.6,
+    "text": " You can buy some anthrax. That doesn't sound."
+  },
+  {
+    "start": 1923.6,
+    "end": 1924.6,
+    "text": " I know."
+  },
+  {
+    "start": 1924.6,
+    "end": 1928.6,
+    "text": " I don't think you, the listener, can buy some anthrax to be clear."
+  },
+  {
+    "start": 1928.6,
+    "end": 1931.6,
+    "text": " It might be able to. It's only £321."
+  },
+  {
+    "start": 1931.6,
+    "end": 1933.6,
+    "text": " It's really affordable."
+  },
+  {
+    "start": 1933.6,
+    "end": 1935.6,
+    "text": " Like on delivery."
+  },
+  {
+    "start": 1935.6,
+    "end": 1940.6,
+    "text": " So, yeah, you're right."
+  },
+  {
+    "start": 1940.6,
+    "end": 1944.6,
+    "text": " Yes, you do need several layers of security and licensing"
+  },
+  {
+    "start": 1944.6,
+    "end": 1947.6,
+    "text": " and they need to know that you've got the right sort of fridge"
+  },
+  {
+    "start": 1947.6,
+    "end": 1952.6,
+    "text": " with the right sort of locks, the right sort of tupperware or whatever."
+  },
+  {
+    "start": 1952.6,
+    "end": 1956.6,
+    "text": " But it's really useful and it's for researchers who want to sequence the DNA"
+  },
+  {
+    "start": 1956.6,
+    "end": 1960.6,
+    "text": " of particular diseases or fungi or whatever it might be"
+  },
+  {
+    "start": 1960.6,
+    "end": 1964.6,
+    "text": " and work out how changes in the DNA might mean they spread"
+  },
+  {
+    "start": 1964.6,
+    "end": 1969.6,
+    "text": " or look at historical examples and see how they've altered between previous pandemics and now"
+  },
+  {
+    "start": 1969.6,
+    "end": 1973.6,
+    "text": " and they're quite secretive, but they are, these are real organisations"
+  },
+  {
+    "start": 1973.6,
+    "end": 1976.6,
+    "text": " and they're quite, historically quite."
+  },
+  {
+    "start": 1976.6,
+    "end": 1977.6,
+    "text": " Oh, it's really amazing."
+  },
+  {
+    "start": 1977.6,
+    "end": 1978.6,
+    "text": " Incredibly interesting."
+  },
+  {
+    "start": 1978.6,
+    "end": 1979.6,
+    "text": " And it's so much in there."
+  },
+  {
+    "start": 1979.6,
+    "end": 1981.6,
+    "text": " So that was the price, by the way, for anthrax."
+  },
+  {
+    "start": 1981.6,
+    "end": 1983.6,
+    "text": " You can get it for £321."
+  },
+  {
+    "start": 1983.6,
+    "end": 1987.6,
+    "text": " If you want some human coronavirus, that's going to set you back £282."
+  },
+  {
+    "start": 1987.6,
+    "end": 1989.6,
+    "text": " I've got some of that left from last week."
+  },
+  {
+    "start": 1989.6,
+    "end": 1996.6,
+    "text": " And then they have just amazing other bits of bacteria that you can get your hands on."
+  },
+  {
+    "start": 1996.6,
+    "end": 2001.6,
+    "text": " So there's hemophilus influenza, which they say they believe"
+  },
+  {
+    "start": 2001.6,
+    "end": 2005.6,
+    "text": " has come directly from the nose of Alexander Fleming."
+  },
+  {
+    "start": 2005.6,
+    "end": 2008.6,
+    "text": " They think that their sample is directly from his nostrils."
+  },
+  {
+    "start": 2008.6,
+    "end": 2009.6,
+    "text": " Surely not."
+  },
+  {
+    "start": 2009.6,
+    "end": 2010.6,
+    "text": " That's what they say."
+  },
+  {
+    "start": 2010.6,
+    "end": 2014.6,
+    "text": " And they've also got a bit of his original penicillin in there as well."
+  },
+  {
+    "start": 2014.6,
+    "end": 2015.6,
+    "text": " That's really cool."
+  },
+  {
+    "start": 2015.6,
+    "end": 2018.6,
+    "text": " And this is just in North London, this particular one,"
+  },
+  {
+    "start": 2018.6,
+    "end": 2020.6,
+    "text": " the National Collection of Type Cultures."
+  },
+  {
+    "start": 2020.6,
+    "end": 2022.6,
+    "text": " The thing about Fleming is really interesting."
+  },
+  {
+    "start": 2022.6,
+    "end": 2026.6,
+    "text": " I was just reading about him because his stuff is in this place, in this library."
+  },
+  {
+    "start": 2026.6,
+    "end": 2029.6,
+    "text": " When he got his penicillin, the first clinical trial that he did,"
+  },
+  {
+    "start": 2029.6,
+    "end": 2032.6,
+    "text": " he tried to treat someone who had influenza."
+  },
+  {
+    "start": 2032.6,
+    "end": 2036.6,
+    "text": " And obviously influenza is a virus, so penicillin won't help."
+  },
+  {
+    "start": 2036.6,
+    "end": 2041.6,
+    "text": " But he gave his penicillin to someone else to do some tests as well."
+  },
+  {
+    "start": 2041.6,
+    "end": 2043.6,
+    "text": " A guy called Arthur Dixon Wright."
+  },
+  {
+    "start": 2043.6,
+    "end": 2045.6,
+    "text": " This is in 1928."
+  },
+  {
+    "start": 2045.6,
+    "end": 2050.6,
+    "text": " And I think this is probably the first ever clinical trial for penicillin that this guy did."
+  },
+  {
+    "start": 2050.6,
+    "end": 2053.6,
+    "text": " He said that it seemed to work satisfactorily."
+  },
+  {
+    "start": 2053.6,
+    "end": 2058.6,
+    "text": " And Arthur Dixon Wright is the father of Clarissa Dixon Wright,"
+  },
+  {
+    "start": 2058.6,
+    "end": 2062.6,
+    "text": " who is one of the two fat ladies that he represents."
+  },
+  {
+    "start": 2062.6,
+    "end": 2063.6,
+    "text": " Wow!"
+  },
+  {
+    "start": 2063.6,
+    "end": 2064.6,
+    "text": " Isn't that amazing?"
+  },
+  {
+    "start": 2064.6,
+    "end": 2065.6,
+    "text": " That is sick."
+  },
+  {
+    "start": 2065.6,
+    "end": 2068.6,
+    "text": " And her dad did the first clinical trial in penicillin."
+  },
+  {
+    "start": 2068.6,
+    "end": 2069.6,
+    "text": " That's amazing."
+  },
+  {
+    "start": 2069.6,
+    "end": 2073.6,
+    "text": " I do love that this culture library, the London one in the Economist piece,"
+  },
+  {
+    "start": 2073.6,
+    "end": 2080.6,
+    "text": " it opened in 1920, which is actually like eight years before Fleming identified penicillin."
+  },
+  {
+    "start": 2080.6,
+    "end": 2084.6,
+    "text": " It's opening at this really weird time in the history of bacteriology,"
+  },
+  {
+    "start": 2084.6,
+    "end": 2091.6,
+    "text": " where it's only really a few decades after germ theory became widely known and accepted."
+  },
+  {
+    "start": 2091.6,
+    "end": 2094.6,
+    "text": " It's like a remarkably prescient thing to do at this time"
+  },
+  {
+    "start": 2094.6,
+    "end": 2097.6,
+    "text": " when microbiology is still a very young science."
+  },
+  {
+    "start": 2097.6,
+    "end": 2099.6,
+    "text": " Yeah, that is amazing."
+  },
+  {
+    "start": 2099.6,
+    "end": 2105.6,
+    "text": " Obviously they couldn't do DNA sequencing on these samples for what?"
+  },
+  {
+    "start": 2105.6,
+    "end": 2106.6,
+    "text": " Six decades?"
+  },
+  {
+    "start": 2106.6,
+    "end": 2107.6,
+    "text": " Seven decades?"
+  },
+  {
+    "start": 2107.6,
+    "end": 2108.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 2108.6,
+    "end": 2112.6,
+    "text": " So I find that extraordinary that they wanted to know that it was going to become useful in that way."
+  },
+  {
+    "start": 2112.6,
+    "end": 2114.6,
+    "text": " Yeah, I guess they were just collecting it, right?"
+  },
+  {
+    "start": 2114.6,
+    "end": 2116.6,
+    "text": " How did they keep them alive, Andy?"
+  },
+  {
+    "start": 2116.6,
+    "end": 2119.6,
+    "text": " Do you know, did they have to go and feed them every day and stuff?"
+  },
+  {
+    "start": 2119.6,
+    "end": 2122.6,
+    "text": " Well, so some of the samples are dehydrated, I know that much,"
+  },
+  {
+    "start": 2122.6,
+    "end": 2125.6,
+    "text": " but also when they sent them out to scientists."
+  },
+  {
+    "start": 2125.6,
+    "end": 2128.6,
+    "text": " So these days they cost a few hundred quid per sample,"
+  },
+  {
+    "start": 2128.6,
+    "end": 2133.6,
+    "text": " but in the old days they were delivered to scientists free and alive, these bacteria."
+  },
+  {
+    "start": 2133.6,
+    "end": 2137.6,
+    "text": " They were funded in a different way, and they sent the bacteria."
+  },
+  {
+    "start": 2137.6,
+    "end": 2140.6,
+    "text": " They sent the living bacteria through the post on a medium"
+  },
+  {
+    "start": 2140.6,
+    "end": 2144.6,
+    "text": " that was made from dorset egg yolks and sealed with wax."
+  },
+  {
+    "start": 2144.6,
+    "end": 2147.6,
+    "text": " So the bacteria had something to feed on during the journey."
+  },
+  {
+    "start": 2147.6,
+    "end": 2148.6,
+    "text": " They wouldn't go hungry."
+  },
+  {
+    "start": 2148.6,
+    "end": 2149.6,
+    "text": " Through the mail."
+  },
+  {
+    "start": 2149.6,
+    "end": 2151.6,
+    "text": " I guess I think it was just through the mail."
+  },
+  {
+    "start": 2151.6,
+    "end": 2152.6,
+    "text": " Oh my God."
+  },
+  {
+    "start": 2152.6,
+    "end": 2153.6,
+    "text": " Just sealed up."
+  },
+  {
+    "start": 2153.6,
+    "end": 2154.6,
+    "text": " That's incredible."
+  },
+  {
+    "start": 2154.6,
+    "end": 2157.6,
+    "text": " I do wonder if they get submissions in the other directions,"
+  },
+  {
+    "start": 2157.6,
+    "end": 2159.6,
+    "text": " especially now that articles like this come out."
+  },
+  {
+    "start": 2159.6,
+    "end": 2162.6,
+    "text": " Do you think that they'll just get like envelopes?"
+  },
+  {
+    "start": 2162.6,
+    "end": 2165.6,
+    "text": " I get random mail from people all the time,"
+  },
+  {
+    "start": 2165.6,
+    "end": 2169.6,
+    "text": " and do they have a protocol where they get an envelope"
+  },
+  {
+    "start": 2169.6,
+    "end": 2172.6,
+    "text": " in someone's handwriting that immediately incinerates it?"
+  },
+  {
+    "start": 2172.6,
+    "end": 2175.6,
+    "text": " I wonder if Anna's sick at the moment,"
+  },
+  {
+    "start": 2175.6,
+    "end": 2177.6,
+    "text": " whether we can get her to show something up her nose"
+  },
+  {
+    "start": 2177.6,
+    "end": 2180.6,
+    "text": " and send some celebrity bacteria over."
+  },
+  {
+    "start": 2180.6,
+    "end": 2181.6,
+    "text": " Great idea."
+  },
+  {
+    "start": 2181.6,
+    "end": 2185.6,
+    "text": " I think they did have sort of very random contributors to the library."
+  },
+  {
+    "start": 2185.6,
+    "end": 2189.6,
+    "text": " I was looking on Twitter between staff members who were talking about it."
+  },
+  {
+    "start": 2189.6,
+    "end": 2190.6,
+    "text": " When one guy wrote,"
+  },
+  {
+    "start": 2190.6,
+    "end": 2193.6,
+    "text": " \"What was the name of John the Stuffer?\""
+  },
+  {
+    "start": 2193.6,
+    "end": 2197.6,
+    "text": " The guy who picked up Roadkill on his motorbike commute"
+  },
+  {
+    "start": 2197.6,
+    "end": 2200.6,
+    "text": " and freeze dried it in the NCTC,"
+  },
+  {
+    "start": 2200.6,
+    "end": 2204.6,
+    "text": " the National Collection of Type Cultures."
+  },
+  {
+    "start": 2204.6,
+    "end": 2206.6,
+    "text": " You never knew what you were going to find in the cold room."
+  },
+  {
+    "start": 2206.6,
+    "end": 2209.6,
+    "text": " And so basically there was this guy, John the Stuffer,"
+  },
+  {
+    "start": 2209.6,
+    "end": 2211.6,
+    "text": " who just used to come and bring random Roadkill."
+  },
+  {
+    "start": 2211.6,
+    "end": 2214.6,
+    "text": " He must have then taken it and stuffed it, right?"
+  },
+  {
+    "start": 2214.6,
+    "end": 2216.6,
+    "text": " Otherwise, why the name?"
+  },
+  {
+    "start": 2216.6,
+    "end": 2217.6,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 2217.6,
+    "end": 2218.6,
+    "text": " Then they don't know his name."
+  },
+  {
+    "start": 2218.6,
+    "end": 2219.6,
+    "text": " The conversation ends."
+  },
+  {
+    "start": 2219.6,
+    "end": 2221.6,
+    "text": " I haven't got to the bottom of who John the Stuffer was"
+  },
+  {
+    "start": 2221.6,
+    "end": 2222.6,
+    "text": " or what he did."
+  },
+  {
+    "start": 2222.6,
+    "end": 2224.6,
+    "text": " Ed, what's the weird post that you get?"
+  },
+  {
+    "start": 2224.6,
+    "end": 2229.6,
+    "text": " Are there any super strange examples of things that you've been sent"
+  },
+  {
+    "start": 2229.6,
+    "end": 2231.6,
+    "text": " as part of your career?"
+  },
+  {
+    "start": 2231.6,
+    "end": 2233.6,
+    "text": " That's a good question."
+  },
+  {
+    "start": 2233.6,
+    "end": 2236.6,
+    "text": " I don't think I've ever been sent anything in the post,"
+  },
+  {
+    "start": 2236.6,
+    "end": 2238.6,
+    "text": " but I've just published this book."
+  },
+  {
+    "start": 2238.6,
+    "end": 2240.6,
+    "text": " And what happens when you publish a book"
+  },
+  {
+    "start": 2240.6,
+    "end": 2242.6,
+    "text": " is a million people email you to say,"
+  },
+  {
+    "start": 2242.6,
+    "end": 2246.6,
+    "text": " \"I also have written a book about something completely related.\""
+  },
+  {
+    "start": 2246.6,
+    "end": 2248.6,
+    "text": " Or like, \"That's most of it.\""
+  },
+  {
+    "start": 2248.6,
+    "end": 2252.6,
+    "text": " But then there's also like, \"I wrote a song that I think you might enjoy.\""
+  },
+  {
+    "start": 2252.6,
+    "end": 2255.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 2255.6,
+    "end": 2256.6,
+    "text": " There's a lot of people who are like,"
+  },
+  {
+    "start": 2256.6,
+    "end": 2257.6,
+    "text": " \"You put this thing out in the world."
+  },
+  {
+    "start": 2257.6,
+    "end": 2259.6,
+    "text": " I also do a thing."
+  },
+  {
+    "start": 2259.6,
+    "end": 2260.6,
+    "text": " Let me share it with you.\""
+  },
+  {
+    "start": 2260.6,
+    "end": 2261.6,
+    "text": " Right."
+  },
+  {
+    "start": 2261.6,
+    "end": 2262.6,
+    "text": " That's nice."
+  },
+  {
+    "start": 2262.6,
+    "end": 2264.6,
+    "text": " That's too late because you can't get in the book."
+  },
+  {
+    "start": 2264.6,
+    "end": 2266.6,
+    "text": " That's always annoying, right?"
+  },
+  {
+    "start": 2266.6,
+    "end": 2267.6,
+    "text": " Right."
+  },
+  {
+    "start": 2267.6,
+    "end": 2269.6,
+    "text": " This happened recently."
+  },
+  {
+    "start": 2269.6,
+    "end": 2271.6,
+    "text": " We got posted a penis good, Ed,"
+  },
+  {
+    "start": 2271.6,
+    "end": 2274.6,
+    "text": " because we've discussed the podcast."
+  },
+  {
+    "start": 2274.6,
+    "end": 2276.6,
+    "text": " About five years ago, though, that's the thing."
+  },
+  {
+    "start": 2276.6,
+    "end": 2279.6,
+    "text": " And it's just come through from, I think, Vanuatu or somewhere."
+  },
+  {
+    "start": 2279.6,
+    "end": 2280.6,
+    "text": " New Guinea, maybe, was it?"
+  },
+  {
+    "start": 2280.6,
+    "end": 2281.6,
+    "text": " New Guinea."
+  },
+  {
+    "start": 2281.6,
+    "end": 2283.6,
+    "text": " We've sent it on to the Bacteria Library anyway,"
+  },
+  {
+    "start": 2283.6,
+    "end": 2285.6,
+    "text": " haven't we, for a scraping."
+  },
+  {
+    "start": 2285.6,
+    "end": 2286.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 2286.6,
+    "end": 2288.6,
+    "text": " Although I am now known as Andy, the stuff."
+  },
+  {
+    "start": 2288.6,
+    "end": 2292.6,
+    "text": " I'm not looking forward to the jar of tongues"
+  },
+  {
+    "start": 2292.6,
+    "end": 2294.6,
+    "text": " we're about to be sent when this goes."
+  },
+  {
+    "start": 2294.6,
+    "end": 2297.6,
+    "text": " To the question of how they store it,"
+  },
+  {
+    "start": 2297.6,
+    "end": 2299.6,
+    "text": " I'm pretty sure they've got to freeze it, right?"
+  },
+  {
+    "start": 2299.6,
+    "end": 2301.6,
+    "text": " Because the idea is you've got historical records"
+  },
+  {
+    "start": 2301.6,
+    "end": 2303.6,
+    "text": " of what these microbes were like"
+  },
+  {
+    "start": 2303.6,
+    "end": 2305.6,
+    "text": " at whatever decade they were collected,"
+  },
+  {
+    "start": 2305.6,
+    "end": 2308.6,
+    "text": " and you can compare that to how they are now."
+  },
+  {
+    "start": 2308.6,
+    "end": 2309.6,
+    "text": " If you keep them alive,"
+  },
+  {
+    "start": 2309.6,
+    "end": 2311.6,
+    "text": " they're just going to continue evolving"
+  },
+  {
+    "start": 2311.6,
+    "end": 2313.6,
+    "text": " and changing over that time."
+  },
+  {
+    "start": 2313.6,
+    "end": 2316.6,
+    "text": " But the thing that always frustrates me a little bit"
+  },
+  {
+    "start": 2316.6,
+    "end": 2319.6,
+    "text": " with articles about these collections is"
+  },
+  {
+    "start": 2319.6,
+    "end": 2322.6,
+    "text": " I really want to know what they're actually physically like."
+  },
+  {
+    "start": 2322.6,
+    "end": 2326.6,
+    "text": " Is the collection just a freezer somewhere?"
+  },
+  {
+    "start": 2326.6,
+    "end": 2329.6,
+    "text": " What I really hope for is that they have actually got"
+  },
+  {
+    "start": 2329.6,
+    "end": 2334.6,
+    "text": " a small doll's house with small frozen microwave slides"
+  },
+  {
+    "start": 2334.6,
+    "end": 2335.6,
+    "text": " inside it."
+  },
+  {
+    "start": 2335.6,
+    "end": 2337.6,
+    "text": " So it actually looks like a proper library,"
+  },
+  {
+    "start": 2337.6,
+    "end": 2339.6,
+    "text": " but on a mini scale."
+  },
+  {
+    "start": 2339.6,
+    "end": 2340.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 2340.6,
+    "end": 2341.6,
+    "text": " That would be amazing."
+  },
+  {
+    "start": 2341.6,
+    "end": 2343.6,
+    "text": " I think I read that it was a filing cabinet,"
+  },
+  {
+    "start": 2343.6,
+    "end": 2346.6,
+    "text": " which is quite now an old fashioned thing to have."
+  },
+  {
+    "start": 2346.6,
+    "end": 2347.6,
+    "text": " I can't remember that."
+  },
+  {
+    "start": 2347.6,
+    "end": 2350.6,
+    "text": " Yeah, I saw a photo of that as well,"
+  },
+  {
+    "start": 2350.6,
+    "end": 2352.6,
+    "text": " but not from the London one, from a different one,"
+  },
+  {
+    "start": 2352.6,
+    "end": 2354.6,
+    "text": " where it looked like a filing cabinet,"
+  },
+  {
+    "start": 2354.6,
+    "end": 2357.6,
+    "text": " and then these really cool fridges that they had as well."
+  },
+  {
+    "start": 2357.6,
+    "end": 2360.6,
+    "text": " They've also got the national collection of type cultures."
+  },
+  {
+    "start": 2360.6,
+    "end": 2365.6,
+    "text": " They've got the hardest Christmas quiz I have ever seen."
+  },
+  {
+    "start": 2365.6,
+    "end": 2366.6,
+    "text": " Do you want to hear a sample?"
+  },
+  {
+    "start": 2366.6,
+    "end": 2369.6,
+    "text": " Okay, this is from the most recent Christmas quiz."
+  },
+  {
+    "start": 2369.6,
+    "end": 2371.6,
+    "text": " And yeah, points for the winner."
+  },
+  {
+    "start": 2371.6,
+    "end": 2372.6,
+    "text": " Okay."
+  },
+  {
+    "start": 2372.6,
+    "end": 2377.6,
+    "text": " What is the ECACC number for the standard cell line"
+  },
+  {
+    "start": 2377.6,
+    "end": 2380.6,
+    "text": " used for producing virus stocks of SARS-CoV-2?"
+  },
+  {
+    "start": 2380.6,
+    "end": 2383.6,
+    "text": " Is it A, 85020209?"
+  },
+  {
+    "start": 2383.6,
+    "end": 2386.6,
+    "text": " B, 85020207?"
+  },
+  {
+    "start": 2386.6,
+    "end": 2389.6,
+    "text": " Or C, 85020206?"
+  },
+  {
+    "start": 2389.6,
+    "end": 2390.6,
+    "text": " C."
+  },
+  {
+    "start": 2390.6,
+    "end": 2391.6,
+    "text": " B."
+  },
+  {
+    "start": 2391.6,
+    "end": 2392.6,
+    "text": " James?"
+  },
+  {
+    "start": 2392.6,
+    "end": 2394.6,
+    "text": " Well, I'm going to have to go for A,"
+  },
+  {
+    "start": 2394.6,
+    "end": 2397.6,
+    "text": " and if the others have gone for B and C."
+  },
+  {
+    "start": 2397.6,
+    "end": 2399.6,
+    "text": " Well, Dan, by getting in there quickly with C,"
+  },
+  {
+    "start": 2399.6,
+    "end": 2401.6,
+    "text": " that is the correct answer."
+  },
+  {
+    "start": 2401.6,
+    "end": 2403.6,
+    "text": " We all knew the answer, but Dan said it so quickly,"
+  },
+  {
+    "start": 2403.6,
+    "end": 2405.6,
+    "text": " we had to go for the other ones."
+  },
+  {
+    "start": 2405.6,
+    "end": 2406.6,
+    "text": " Exactly, it's unfair."
+  },
+  {
+    "start": 2406.6,
+    "end": 2407.6,
+    "text": " I had a bit of a cheat."
+  },
+  {
+    "start": 2407.6,
+    "end": 2408.6,
+    "text": " I was the quiz master that year,"
+  },
+  {
+    "start": 2408.6,
+    "end": 2411.6,
+    "text": " so I did write that question."
+  },
+  {
+    "start": 2411.6,
+    "end": 2412.6,
+    "text": " That's amazing."
+  },
+  {
+    "start": 2412.6,
+    "end": 2414.6,
+    "text": " At least it's multiple choice."
+  },
+  {
+    "start": 2414.6,
+    "end": 2415.6,
+    "text": " Yeah, I know."
+  },
+  {
+    "start": 2415.6,
+    "end": 2417.6,
+    "text": " A lot of the questions in the quiz are not multiple choice,"
+  },
+  {
+    "start": 2417.6,
+    "end": 2419.6,
+    "text": " and they're that hard."
+  },
+  {
+    "start": 2419.6,
+    "end": 2421.6,
+    "text": " It's so funny."
+  },
+  {
+    "start": 2421.6,
+    "end": 2423.6,
+    "text": " Just on bacteria, generally,"
+  },
+  {
+    "start": 2423.6,
+    "end": 2425.6,
+    "text": " outside of the libraries and in the world,"
+  },
+  {
+    "start": 2425.6,
+    "end": 2428.6,
+    "text": " I read this amazing quote about humans"
+  },
+  {
+    "start": 2428.6,
+    "end": 2430.6,
+    "text": " and the amount of bacteria that we have on us."
+  },
+  {
+    "start": 2430.6,
+    "end": 2431.6,
+    "text": " So, the quote goes,"
+  },
+  {
+    "start": 2431.6,
+    "end": 2435.6,
+    "text": " \"Are we humans or just bacteria in a human shape?\""
+  },
+  {
+    "start": 2435.6,
+    "end": 2437.6,
+    "text": " Is that a quiz question?"
+  },
+  {
+    "start": 2437.6,
+    "end": 2439.6,
+    "text": " Yes, we are humans."
+  },
+  {
+    "start": 2439.6,
+    "end": 2442.6,
+    "text": " Okay, are we humans or are we dancers?"
+  },
+  {
+    "start": 2445.6,
+    "end": 2447.6,
+    "text": " Okay, so a quiz question then."
+  },
+  {
+    "start": 2447.6,
+    "end": 2449.6,
+    "text": " Who wrote this phrase?"
+  },
+  {
+    "start": 2449.6,
+    "end": 2452.6,
+    "text": " \"Are we humans or just bacteria in a human-shaped sack?\""
+  },
+  {
+    "start": 2452.6,
+    "end": 2455.6,
+    "text": " Okay, someone 20th century, right?"
+  },
+  {
+    "start": 2455.6,
+    "end": 2456.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 2456.6,
+    "end": 2458.6,
+    "text": " It's someone you've heard of."
+  },
+  {
+    "start": 2458.6,
+    "end": 2459.6,
+    "text": " Are we humans?"
+  },
+  {
+    "start": 2459.6,
+    "end": 2460.6,
+    "text": " Einstein."
+  },
+  {
+    "start": 2460.6,
+    "end": 2461.6,
+    "text": " Ed Young?"
+  },
+  {
+    "start": 2461.6,
+    "end": 2463.6,
+    "text": " Is it Ed Young in one of these books?"
+  },
+  {
+    "start": 2463.6,
+    "end": 2464.6,
+    "text": " Surely it's not."
+  },
+  {
+    "start": 2464.6,
+    "end": 2465.6,
+    "text": " It's Ed Young."
+  },
+  {
+    "start": 2465.6,
+    "end": 2467.6,
+    "text": " Oh, my God."
+  },
+  {
+    "start": 2467.6,
+    "end": 2468.6,
+    "text": " How embarrassing."
+  },
+  {
+    "start": 2468.6,
+    "end": 2469.6,
+    "text": " I'm sitting here going,"
+  },
+  {
+    "start": 2469.6,
+    "end": 2470.6,
+    "text": " \"I don't know."
+  },
+  {
+    "start": 2470.6,
+    "end": 2472.6,
+    "text": " It sounds so familiar.\""
+  },
+  {
+    "start": 2472.6,
+    "end": 2474.6,
+    "text": " It's just so profound."
+  },
+  {
+    "start": 2474.6,
+    "end": 2476.6,
+    "text": " It must have been one of the greats."
+  },
+  {
+    "start": 2476.6,
+    "end": 2477.6,
+    "text": " I hope it was you."
+  },
+  {
+    "start": 2477.6,
+    "end": 2479.6,
+    "text": " If it wasn't, then it's me, I guess."
+  },
+  {
+    "start": 2479.6,
+    "end": 2480.6,
+    "text": " I said it."
+  },
+  {
+    "start": 2480.6,
+    "end": 2482.6,
+    "text": " I'll take that."
+  },
+  {
+    "start": 2482.6,
+    "end": 2484.6,
+    "text": " It could be someone else."
+  },
+  {
+    "start": 2484.6,
+    "end": 2486.6,
+    "text": " Yeah, sorry, Einstein, if I've misattributed that."
+  },
+  {
+    "start": 2486.6,
+    "end": 2489.6,
+    "text": " But it's incredible how much bacteria is on us"
+  },
+  {
+    "start": 2489.6,
+    "end": 2492.6,
+    "text": " and to the point that there's more bacteria on us,"
+  },
+  {
+    "start": 2492.6,
+    "end": 2495.6,
+    "text": " basically, than there is our own living cells, I believe."
+  },
+  {
+    "start": 2495.6,
+    "end": 2497.6,
+    "text": " Do you mean on our surface?"
+  },
+  {
+    "start": 2497.6,
+    "end": 2498.6,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 2498.6,
+    "end": 2500.6,
+    "text": " I think you wrote that as well, Ed."
+  },
+  {
+    "start": 2500.6,
+    "end": 2501.6,
+    "text": " I'm just going to throw it to you for each."
+  },
+  {
+    "start": 2501.6,
+    "end": 2505.6,
+    "text": " There's a really common stat that it's like 10 bacterial cells"
+  },
+  {
+    "start": 2505.6,
+    "end": 2506.6,
+    "text": " to one human cell."
+  },
+  {
+    "start": 2506.6,
+    "end": 2508.6,
+    "text": " And I think that's actually wrong."
+  },
+  {
+    "start": 2508.6,
+    "end": 2511.6,
+    "text": " So that's one of those misconceptions like hummingbirds"
+  },
+  {
+    "start": 2511.6,
+    "end": 2514.6,
+    "text": " drinking through a straw tongue that just got passed around."
+  },
+  {
+    "start": 2514.6,
+    "end": 2515.6,
+    "text": " But it is comparable."
+  },
+  {
+    "start": 2515.6,
+    "end": 2519.6,
+    "text": " I think the ratio is like 1.3 to 1 or something like that."
+  },
+  {
+    "start": 2519.6,
+    "end": 2520.6,
+    "text": " That was the last I saw."
+  },
+  {
+    "start": 2520.6,
+    "end": 2522.6,
+    "text": " So it's not that we're massively outnumbered,"
+  },
+  {
+    "start": 2522.6,
+    "end": 2526.6,
+    "text": " but it is like, you know, I'm basically half bacteria right now."
+  },
+  {
+    "start": 2526.6,
+    "end": 2529.6,
+    "text": " When I was reading about the culture collections,"
+  },
+  {
+    "start": 2529.6,
+    "end": 2532.6,
+    "text": " you know, I was thinking that basically any kind of collection"
+  },
+  {
+    "start": 2532.6,
+    "end": 2535.6,
+    "text": " is de facto a bacteria collection."
+  },
+  {
+    "start": 2535.6,
+    "end": 2538.6,
+    "text": " It's just that this one happens to be very specifically"
+  },
+  {
+    "start": 2538.6,
+    "end": 2539.6,
+    "text": " a bacteria collection."
+  },
+  {
+    "start": 2539.6,
+    "end": 2543.6,
+    "text": " Because everything that we have is like loaded with bacteria"
+  },
+  {
+    "start": 2543.6,
+    "end": 2544.6,
+    "text": " all over it."
+  },
+  {
+    "start": 2544.6,
+    "end": 2547.6,
+    "text": " So wait, are you saying that basically everything is,"
+  },
+  {
+    "start": 2547.6,
+    "end": 2549.6,
+    "text": " like every library, every museum is basically"
+  },
+  {
+    "start": 2549.6,
+    "end": 2552.6,
+    "text": " a collection of bacteria, but with some other stuff around the end?"
+  },
+  {
+    "start": 2552.6,
+    "end": 2553.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 2553.6,
+    "end": 2556.6,
+    "text": " That's really interesting."
+  },
+  {
+    "start": 2556.6,
+    "end": 2557.6,
+    "text": " It's amazing."
+  },
+  {
+    "start": 2557.6,
+    "end": 2561.6,
+    "text": " There's a fun guy that kind of makes the carters do weird things."
+  },
+  {
+    "start": 2561.6,
+    "end": 2562.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 2562.6,
+    "end": 2565.6,
+    "text": " How much are they controlling us, the bacteria?"
+  },
+  {
+    "start": 2565.6,
+    "end": 2569.6,
+    "text": " Like your gut bacteria can change your mood and stuff, right?"
+  },
+  {
+    "start": 2569.6,
+    "end": 2575.6,
+    "text": " James, do you ever get the compulsion to eat raw, dorset egg yolks?"
+  },
+  {
+    "start": 2575.6,
+    "end": 2578.6,
+    "text": " Cover yourself in wax, because that's a suck."
+  },
+  {
+    "start": 2578.6,
+    "end": 2580.6,
+    "text": " Yeah, there's been a lot of research about this,"
+  },
+  {
+    "start": 2580.6,
+    "end": 2584.6,
+    "text": " like the so-called gut mind axis."
+  },
+  {
+    "start": 2584.6,
+    "end": 2588.6,
+    "text": " Bacteria inside us are also producing a ton of chemicals"
+  },
+  {
+    "start": 2588.6,
+    "end": 2591.6,
+    "text": " that can affect our moods and our behaviors."
+  },
+  {
+    "start": 2591.6,
+    "end": 2595.6,
+    "text": " Bacteria in our gut produce a ton of serotonin, dopamine,"
+  },
+  {
+    "start": 2595.6,
+    "end": 2599.6,
+    "text": " like other chemicals that we think of as brain signaling chemicals."
+  },
+  {
+    "start": 2599.6,
+    "end": 2602.6,
+    "text": " And there's a lot of really interesting work on changing"
+  },
+  {
+    "start": 2602.6,
+    "end": 2607.6,
+    "text": " the gut bacteria of rodents and seeing if they behave differently."
+  },
+  {
+    "start": 2607.6,
+    "end": 2610.6,
+    "text": " I don't know if I've seen anything that's massively compelling"
+  },
+  {
+    "start": 2610.6,
+    "end": 2615.6,
+    "text": " on the idea that whether there's some kind of manipulation going on"
+  },
+  {
+    "start": 2615.6,
+    "end": 2620.6,
+    "text": " or whether that's just a byproduct of what they're doing."
+  },
+  {
+    "start": 2620.6,
+    "end": 2622.6,
+    "text": " But I wouldn't be surprised."
+  },
+  {
+    "start": 2622.6,
+    "end": 2625.6,
+    "text": " There's so many examples of microbes manipulating the host"
+  },
+  {
+    "start": 2625.6,
+    "end": 2629.6,
+    "text": " in the animal kingdom, like the fungus that makes the circadian butts fall off."
+  },
+  {
+    "start": 2629.6,
+    "end": 2631.6,
+    "text": " It feels totally plausible to me."
+  },
+  {
+    "start": 2631.6,
+    "end": 2635.6,
+    "text": " I'm just not sure that there's actually a firm example of that yet."
+  },
+  {
+    "start": 2635.6,
+    "end": 2638.6,
+    "text": " They just found a really big bacteria."
+  },
+  {
+    "start": 2638.6,
+    "end": 2642.6,
+    "text": " The biggest one in Guadalupe, in the mangroves in Guadalupe."
+  },
+  {
+    "start": 2642.6,
+    "end": 2647.6,
+    "text": " Apparently it's about one centimetre long, this bacteria."
+  },
+  {
+    "start": 2647.6,
+    "end": 2651.6,
+    "text": " The person who found it, I saw the quote that they said,"
+  },
+  {
+    "start": 2651.6,
+    "end": 2654.6,
+    "text": " \"It's the equivalent for humans to encounter another human"
+  },
+  {
+    "start": 2654.6,
+    "end": 2657.6,
+    "text": " who is as tall as Mount Everest.\""
+  },
+  {
+    "start": 2657.6,
+    "end": 2660.6,
+    "text": " That's amazing."
+  },
+  {
+    "start": 2660.6,
+    "end": 2662.6,
+    "text": " That is how big this is."
+  },
+  {
+    "start": 2662.6,
+    "end": 2664.6,
+    "text": " It's visible to the naked eye, right?"
+  },
+  {
+    "start": 2664.6,
+    "end": 2666.6,
+    "text": " One centimetre."
+  },
+  {
+    "start": 2666.6,
+    "end": 2672.6,
+    "text": " It's the size of a tiny dinosaur bird's head, almost."
+  },
+  {
+    "start": 2672.6,
+    "end": 2675.6,
+    "text": " Is it extremely thin, though?"
+  },
+  {
+    "start": 2675.6,
+    "end": 2679.6,
+    "text": " They're like filaments."
+  },
+  {
+    "start": 2679.6,
+    "end": 2681.6,
+    "text": " But that's really cool."
+  },
+  {
+    "start": 2681.6,
+    "end": 2683.6,
+    "text": " It's amazing. Imagine if you could lash them together,"
+  },
+  {
+    "start": 2683.6,
+    "end": 2685.6,
+    "text": " like make a rope out of bacteria."
+  },
+  {
+    "start": 2685.6,
+    "end": 2688.6,
+    "text": " Or make trousers out of them."
+  },
+  {
+    "start": 2688.6,
+    "end": 2690.6,
+    "text": " Yes."
+  },
+  {
+    "start": 2690.6,
+    "end": 2692.6,
+    "text": " Pretty sexy stuff."
+  },
+  {
+    "start": 2692.6,
+    "end": 2695.6,
+    "text": " Can I tell you one bacteria study that's going on?"
+  },
+  {
+    "start": 2695.6,
+    "end": 2697.6,
+    "text": " This is a really exciting study."
+  },
+  {
+    "start": 2697.6,
+    "end": 2700.6,
+    "text": " It's the world's longest bacteria study."
+  },
+  {
+    "start": 2700.6,
+    "end": 2704.6,
+    "text": " It started in 2014 at the University of Edinburgh"
+  },
+  {
+    "start": 2704.6,
+    "end": 2707.6,
+    "text": " by a guy called Charles Cockle, who's an astrobiologist."
+  },
+  {
+    "start": 2707.6,
+    "end": 2709.6,
+    "text": " Nice."
+  },
+  {
+    "start": 2709.6,
+    "end": 2712.6,
+    "text": " It started in 2014, and you've heard me say it's the longest"
+  },
+  {
+    "start": 2712.6,
+    "end": 2715.6,
+    "text": " bacteria study ever."
+  },
+  {
+    "start": 2715.6,
+    "end": 2718.6,
+    "text": " That's because of not because of how long it's been going so far,"
+  },
+  {
+    "start": 2718.6,
+    "end": 2720.6,
+    "text": " but because of when it's planned to end."
+  },
+  {
+    "start": 2720.6,
+    "end": 2723.6,
+    "text": " It's intended to go until the year 2514."
+  },
+  {
+    "start": 2723.6,
+    "end": 2726.6,
+    "text": " As this guy got funding all the way through today."
+  },
+  {
+    "start": 2726.6,
+    "end": 2728.6,
+    "text": " It's basically a funding club."
+  },
+  {
+    "start": 2728.6,
+    "end": 2731.6,
+    "text": " That's what he's doing."
+  },
+  {
+    "start": 2731.6,
+    "end": 2734.6,
+    "text": " It's to try and find out how long bacteria last"
+  },
+  {
+    "start": 2734.6,
+    "end": 2737.6,
+    "text": " to study their lifespans."
+  },
+  {
+    "start": 2737.6,
+    "end": 2740.6,
+    "text": " It's actually got almost no funding, the experimental,"
+  },
+  {
+    "start": 2740.6,
+    "end": 2742.6,
+    "text": " because it's so basic."
+  },
+  {
+    "start": 2742.6,
+    "end": 2744.6,
+    "text": " The experiment consists of a box,"
+  },
+  {
+    "start": 2744.6,
+    "end": 2746.6,
+    "text": " and the box contains lots of smaller boxes,"
+  },
+  {
+    "start": 2746.6,
+    "end": 2748.6,
+    "text": " which contain small vials of dried bacteria."
+  },
+  {
+    "start": 2748.6,
+    "end": 2752.6,
+    "text": " And every 25 years, those are the waypoints along the way,"
+  },
+  {
+    "start": 2752.6,
+    "end": 2754.6,
+    "text": " whoever has the box at that point,"
+  },
+  {
+    "start": 2754.6,
+    "end": 2756.6,
+    "text": " whichever of his colleagues or future colleagues,"
+  },
+  {
+    "start": 2756.6,
+    "end": 2760.6,
+    "text": " will take a selection of vials to Scotland,"
+  },
+  {
+    "start": 2760.6,
+    "end": 2762.6,
+    "text": " and those will be opened up,"
+  },
+  {
+    "start": 2762.6,
+    "end": 2765.6,
+    "text": " and those bacteria will be compared with an identical experiment,"
+  },
+  {
+    "start": 2765.6,
+    "end": 2767.6,
+    "text": " which is happening in Edinburgh."
+  },
+  {
+    "start": 2767.6,
+    "end": 2769.6,
+    "text": " And then whoever has the box at that point,"
+  },
+  {
+    "start": 2769.6,
+    "end": 2772.6,
+    "text": " has to rewrite the instructions in modern English,"
+  },
+  {
+    "start": 2772.6,
+    "end": 2774.6,
+    "text": " or whatever the modern version of English is"
+  },
+  {
+    "start": 2774.6,
+    "end": 2776.6,
+    "text": " at the time that's done,"
+  },
+  {
+    "start": 2776.6,
+    "end": 2778.6,
+    "text": " and then close the box for the next 25 years."
+  },
+  {
+    "start": 2778.6,
+    "end": 2780.6,
+    "text": " Because language is going to change so much."
+  },
+  {
+    "start": 2780.6,
+    "end": 2782.6,
+    "text": " - Yeah. - What language was it like 500 years ago?"
+  },
+  {
+    "start": 2782.6,
+    "end": 2783.6,
+    "text": " - That's amazing. - Yeah."
+  },
+  {
+    "start": 2783.6,
+    "end": 2784.6,
+    "text": " - That's the experiment. - That's so cool."
+  },
+  {
+    "start": 2784.6,
+    "end": 2786.6,
+    "text": " - So it's also a linguistic experiment,"
+  },
+  {
+    "start": 2786.6,
+    "end": 2788.6,
+    "text": " as well as a bacterial experiment."
+  },
+  {
+    "start": 2788.6,
+    "end": 2789.6,
+    "text": " - Yeah, that's really interesting."
+  },
+  {
+    "start": 2789.6,
+    "end": 2791.6,
+    "text": " You can compare the evolution of the English language"
+  },
+  {
+    "start": 2791.6,
+    "end": 2793.6,
+    "text": " and the bacteria over the same time period."
+  },
+  {
+    "start": 2793.6,
+    "end": 2795.6,
+    "text": " - Oh, yeah. - That'd be awesome."
+  },
+  {
+    "start": 2795.6,
+    "end": 2797.6,
+    "text": " - What a hero. I just think it's such a cool idea."
+  },
+  {
+    "start": 2797.6,
+    "end": 2798.6,
+    "text": " - Yeah, that's an awesome idea."
+  },
+  {
+    "start": 2798.6,
+    "end": 2801.6,
+    "text": " - I wish someone had thought of that 20,000 years ago."
+  },
+  {
+    "start": 2801.6,
+    "end": 2803.6,
+    "text": " - Yeah. - It's like,"
+  },
+  {
+    "start": 2803.6,
+    "end": 2805.6,
+    "text": " it's now used to us, this experiment, is it?"
+  },
+  {
+    "start": 2805.6,
+    "end": 2807.6,
+    "text": " - Yeah. - What's the point for us?"
+  },
+  {
+    "start": 2807.6,
+    "end": 2809.6,
+    "text": " What do we get out of it?"
+  },
+  {
+    "start": 2809.6,
+    "end": 2811.6,
+    "text": " - That's science."
+  },
+  {
+    "start": 2811.6,
+    "end": 2812.6,
+    "text": " No media benefit to you."
+  },
+  {
+    "start": 2812.6,
+    "end": 2813.6,
+    "text": " - Screw it."
+  },
+  {
+    "start": 2813.6,
+    "end": 2822.6,
+    "text": " - Okay, it is time for our final fact of the show,"
+  },
+  {
+    "start": 2822.6,
+    "end": 2823.6,
+    "text": " and that is my fact."
+  },
+  {
+    "start": 2823.6,
+    "end": 2826.6,
+    "text": " My fact this week is that in 2014,"
+  },
+  {
+    "start": 2826.6,
+    "end": 2829.6,
+    "text": " a survey about the praying habits of Americans"
+  },
+  {
+    "start": 2829.6,
+    "end": 2832.6,
+    "text": " revealed that 7% admitted that they prayed to God,"
+  },
+  {
+    "start": 2832.6,
+    "end": 2836.6,
+    "text": " asking him to help them find a good car park spot,"
+  },
+  {
+    "start": 2836.6,
+    "end": 2840.6,
+    "text": " and 5% admitted to praying for success in something"
+  },
+  {
+    "start": 2840.6,
+    "end": 2842.6,
+    "text": " they knew wouldn't please God."
+  },
+  {
+    "start": 2842.6,
+    "end": 2844.6,
+    "text": " - So... - That's good."
+  },
+  {
+    "start": 2844.6,
+    "end": 2846.6,
+    "text": " I mean, that's useful, right?"
+  },
+  {
+    "start": 2846.6,
+    "end": 2848.6,
+    "text": " Like I was saying in the last back,"
+  },
+  {
+    "start": 2848.6,
+    "end": 2851.6,
+    "text": " what's the point of praying for world peace or stuff?"
+  },
+  {
+    "start": 2851.6,
+    "end": 2852.6,
+    "text": " You might as well pray for something"
+  },
+  {
+    "start": 2852.6,
+    "end": 2854.6,
+    "text": " that's actually going to help you in the short term."
+  },
+  {
+    "start": 2854.6,
+    "end": 2855.6,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2855.6,
+    "end": 2856.6,
+    "text": " - And you're saying James,"
+  },
+  {
+    "start": 2856.6,
+    "end": 2858.6,
+    "text": " that God should be working on that world peace stuff anyway."
+  },
+  {
+    "start": 2858.6,
+    "end": 2859.6,
+    "text": " - Yeah, exactly."
+  },
+  {
+    "start": 2859.6,
+    "end": 2861.6,
+    "text": " - And a God that really loved you"
+  },
+  {
+    "start": 2861.6,
+    "end": 2863.6,
+    "text": " would help you found your new religion,"
+  },
+  {
+    "start": 2863.6,
+    "end": 2865.6,
+    "text": " which doesn't worship him."
+  },
+  {
+    "start": 2866.6,
+    "end": 2867.6,
+    "text": " - Do you know my favorite fact,"
+  },
+  {
+    "start": 2867.6,
+    "end": 2870.6,
+    "text": " the favorite thing about the survey that this fact comes from"
+  },
+  {
+    "start": 2870.6,
+    "end": 2875.6,
+    "text": " is that it founds that 48% of Americans pray every day."
+  },
+  {
+    "start": 2875.6,
+    "end": 2878.6,
+    "text": " 48%, so whoa, they're halfway there."
+  },
+  {
+    "start": 2878.6,
+    "end": 2880.6,
+    "text": " Whoa, living on a prayer."
+  },
+  {
+    "start": 2880.6,
+    "end": 2885.6,
+    "text": " - Actually, just a bit of background"
+  },
+  {
+    "start": 2885.6,
+    "end": 2887.6,
+    "text": " behind what this survey was."
+  },
+  {
+    "start": 2887.6,
+    "end": 2889.6,
+    "text": " This was by a group called Lifeway Research,"
+  },
+  {
+    "start": 2889.6,
+    "end": 2891.6,
+    "text": " and they're an evangelical research firm,"
+  },
+  {
+    "start": 2891.6,
+    "end": 2894.6,
+    "text": " and it was 1,137 Americans."
+  },
+  {
+    "start": 2894.6,
+    "end": 2896.6,
+    "text": " What's really nice about this is that every single person"
+  },
+  {
+    "start": 2896.6,
+    "end": 2898.6,
+    "text": " in this is a religious person,"
+  },
+  {
+    "start": 2898.6,
+    "end": 2900.6,
+    "text": " so we're getting a really good idea"
+  },
+  {
+    "start": 2900.6,
+    "end": 2901.6,
+    "text": " of their praying habits."
+  },
+  {
+    "start": 2901.6,
+    "end": 2903.6,
+    "text": " It's not atheists who are just jumping in on this as well."
+  },
+  {
+    "start": 2903.6,
+    "end": 2906.6,
+    "text": " - But what it means possibly is that the number of people"
+  },
+  {
+    "start": 2906.6,
+    "end": 2909.6,
+    "text": " who pray for a parking spot could be less than 7%"
+  },
+  {
+    "start": 2909.6,
+    "end": 2910.6,
+    "text": " over the whole population."
+  },
+  {
+    "start": 2910.6,
+    "end": 2913.6,
+    "text": " - Absolutely, yeah, that's right, yes."
+  },
+  {
+    "start": 2913.6,
+    "end": 2916.6,
+    "text": " But so, I mean, other things that were in the percentages"
+  },
+  {
+    "start": 2916.6,
+    "end": 2918.6,
+    "text": " of people admitting to what they prayed for,"
+  },
+  {
+    "start": 2918.6,
+    "end": 2921.6,
+    "text": " 5% praying for someone's relationship to end,"
+  },
+  {
+    "start": 2921.6,
+    "end": 2924.6,
+    "text": " 5% saying that they wanted someone to get fired,"
+  },
+  {
+    "start": 2924.6,
+    "end": 2927.6,
+    "text": " 4% saying they wanted someone else to fail,"
+  },
+  {
+    "start": 2927.6,
+    "end": 2932.6,
+    "text": " - These are very low numbers, to be honest."
+  },
+  {
+    "start": 2932.6,
+    "end": 2936.6,
+    "text": " - It could be just like there are a couple of dozen assholes"
+  },
+  {
+    "start": 2936.6,
+    "end": 2938.6,
+    "text": " in this survey who just pray for all this stuff,"
+  },
+  {
+    "start": 2938.6,
+    "end": 2939.6,
+    "text": " couldn't it?"
+  },
+  {
+    "start": 2939.6,
+    "end": 2941.6,
+    "text": " - Yeah, they're praying for all this,"
+  },
+  {
+    "start": 2941.6,
+    "end": 2943.6,
+    "text": " one person's praying for all of this stuff"
+  },
+  {
+    "start": 2943.6,
+    "end": 2945.6,
+    "text": " that'll be weighted in the figures."
+  },
+  {
+    "start": 2945.6,
+    "end": 2948.6,
+    "text": " - They call themselves a Catholic with a K."
+  },
+  {
+    "start": 2948.6,
+    "end": 2952.6,
+    "text": " - I like that 21% pray to win the lottery,"
+  },
+  {
+    "start": 2952.6,
+    "end": 2955.6,
+    "text": " but 20% pray for success at something"
+  },
+  {
+    "start": 2955.6,
+    "end": 2957.6,
+    "text": " they put almost no effort in,"
+  },
+  {
+    "start": 2957.6,
+    "end": 2959.6,
+    "text": " which means that 1% of Americans"
+  },
+  {
+    "start": 2959.6,
+    "end": 2962.6,
+    "text": " think they're putting a lot of work into the lottery."
+  },
+  {
+    "start": 2962.6,
+    "end": 2965.6,
+    "text": " - You're gonna go to the shop, you're gonna find,"
+  },
+  {
+    "start": 2965.6,
+    "end": 2967.6,
+    "text": " you're gonna fill those numbers in?"
+  },
+  {
+    "start": 2967.6,
+    "end": 2969.6,
+    "text": " - Syndicate stuff, yeah."
+  },
+  {
+    "start": 2969.6,
+    "end": 2972.6,
+    "text": " And the other thing was about the results,"
+  },
+  {
+    "start": 2972.6,
+    "end": 2974.6,
+    "text": " so whether the prayers were answered."
+  },
+  {
+    "start": 2974.6,
+    "end": 2977.6,
+    "text": " So 25% said that their prayers were answered all the time"
+  },
+  {
+    "start": 2977.6,
+    "end": 2980.6,
+    "text": " impressive, 21% most of the time,"
+  },
+  {
+    "start": 2980.6,
+    "end": 2985.6,
+    "text": " 37% some of the time and 3% none of the time,"
+  },
+  {
+    "start": 2985.6,
+    "end": 2989.6,
+    "text": " literally no results from prayer for them."
+  },
+  {
+    "start": 2989.6,
+    "end": 2991.6,
+    "text": " But 14% said I don't know"
+  },
+  {
+    "start": 2991.6,
+    "end": 2993.6,
+    "text": " whether my prayers are answered or not,"
+  },
+  {
+    "start": 2993.6,
+    "end": 2995.6,
+    "text": " which is interesting 'cause it implies that they're praying"
+  },
+  {
+    "start": 2995.6,
+    "end": 2997.6,
+    "text": " for things that are quite nebulous"
+  },
+  {
+    "start": 2997.6,
+    "end": 3000.6,
+    "text": " and it's unclear to them whether there are results."
+  },
+  {
+    "start": 3000.6,
+    "end": 3003.6,
+    "text": " - Is there world peace now? I don't know."
+  },
+  {
+    "start": 3003.6,
+    "end": 3005.6,
+    "text": " - Yeah, food for thought."
+  },
+  {
+    "start": 3005.6,
+    "end": 3008.6,
+    "text": " If you want to pray for a parking space,"
+  },
+  {
+    "start": 3008.6,
+    "end": 3010.6,
+    "text": " then it's a good idea to pray"
+  },
+  {
+    "start": 3010.6,
+    "end": 3013.6,
+    "text": " for St. Francesca Cabrini,"
+  },
+  {
+    "start": 3013.6,
+    "end": 3016.6,
+    "text": " who is the unofficial patron saint of parking spaces."
+  },
+  {
+    "start": 3016.6,
+    "end": 3018.6,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3018.6,
+    "end": 3020.6,
+    "text": " - Unofficial. - Unofficial."
+  },
+  {
+    "start": 3020.6,
+    "end": 3023.6,
+    "text": " - Like against a church gonna close this, yeah."
+  },
+  {
+    "start": 3023.6,
+    "end": 3025.6,
+    "text": " - According to one priest,"
+  },
+  {
+    "start": 3025.6,
+    "end": 3027.6,
+    "text": " the reason that she is this unofficial patron state"
+  },
+  {
+    "start": 3027.6,
+    "end": 3029.6,
+    "text": " is that she lived in New York City,"
+  },
+  {
+    "start": 3029.6,
+    "end": 3031.6,
+    "text": " so she understands traffic."
+  },
+  {
+    "start": 3031.6,
+    "end": 3033.6,
+    "text": " But she was the first American citizen"
+  },
+  {
+    "start": 3033.6,
+    "end": 3036.6,
+    "text": " to be canonized by the church."
+  },
+  {
+    "start": 3036.6,
+    "end": 3039.6,
+    "text": " And Reverend Richard Coles says"
+  },
+  {
+    "start": 3039.6,
+    "end": 3043.6,
+    "text": " that if you want to pray to Francesca Cabrini,"
+  },
+  {
+    "start": 3043.6,
+    "end": 3045.6,
+    "text": " this is a good prayer to do."
+  },
+  {
+    "start": 3045.6,
+    "end": 3047.6,
+    "text": " Mother Cabrini, mother Cabrini,"
+  },
+  {
+    "start": 3047.6,
+    "end": 3051.6,
+    "text": " please find me a space for my parking machine."
+  },
+  {
+    "start": 3051.6,
+    "end": 3053.6,
+    "text": " - Okay."
+  },
+  {
+    "start": 3053.6,
+    "end": 3055.6,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3055.6,
+    "end": 3057.6,
+    "text": " - That's just what you can do."
+  },
+  {
+    "start": 3057.6,
+    "end": 3059.6,
+    "text": " - I do like, you can go online"
+  },
+  {
+    "start": 3059.6,
+    "end": 3062.6,
+    "text": " and find prayers for basically anything in America."
+  },
+  {
+    "start": 3062.6,
+    "end": 3065.6,
+    "text": " I was looking into one woman's website"
+  },
+  {
+    "start": 3065.6,
+    "end": 3067.6,
+    "text": " where she's put up a bunch of prayers"
+  },
+  {
+    "start": 3067.6,
+    "end": 3069.6,
+    "text": " for anyone who's selling their house."
+  },
+  {
+    "start": 3069.6,
+    "end": 3072.6,
+    "text": " And so it's not even just the one prayer"
+  },
+  {
+    "start": 3072.6,
+    "end": 3074.6,
+    "text": " for the selling of the house."
+  },
+  {
+    "start": 3074.6,
+    "end": 3076.6,
+    "text": " She gives this big list of multiple prayers."
+  },
+  {
+    "start": 3076.6,
+    "end": 3079.6,
+    "text": " So the titles include prayer to sell our home quickly,"
+  },
+  {
+    "start": 3079.6,
+    "end": 3081.6,
+    "text": " and that's sort of like, oh, Lord, mighty in power,"
+  },
+  {
+    "start": 3081.6,
+    "end": 3083.6,
+    "text": " I pray for our home to sell quickly and goes on and on."
+  },
+  {
+    "start": 3083.6,
+    "end": 3085.6,
+    "text": " Prayer for the right buyer."
+  },
+  {
+    "start": 3085.6,
+    "end": 3088.6,
+    "text": " You have a prayer for smooth sales processes."
+  },
+  {
+    "start": 3088.6,
+    "end": 3091.6,
+    "text": " There's the prayer for endurance during the sale of our home."
+  },
+  {
+    "start": 3091.6,
+    "end": 3094.6,
+    "text": " And prayer for the bias financing."
+  },
+  {
+    "start": 3094.6,
+    "end": 3098.6,
+    "text": " - Dan, is there a prayer not to find six gallons of tons?"
+  },
+  {
+    "start": 3098.6,
+    "end": 3100.6,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3100.6,
+    "end": 3102.6,
+    "text": " - Doesn't work. Just doesn't work."
+  },
+  {
+    "start": 3102.6,
+    "end": 3104.6,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3104.6,
+    "end": 3106.6,
+    "text": " One of my favorite things is to make"
+  },
+  {
+    "start": 3106.6,
+    "end": 3108.6,
+    "text": " completely inappropriate comparisons"
+  },
+  {
+    "start": 3108.6,
+    "end": 3110.6,
+    "text": " between two unrelated surveys."
+  },
+  {
+    "start": 3110.6,
+    "end": 3112.6,
+    "text": " So for example, in this prayer one,"
+  },
+  {
+    "start": 3112.6,
+    "end": 3114.6,
+    "text": " 5% of Americans admitted to praying"
+  },
+  {
+    "start": 3114.6,
+    "end": 3117.6,
+    "text": " for success in something you knew wouldn't please God."
+  },
+  {
+    "start": 3117.6,
+    "end": 3118.6,
+    "text": " And in a different survey,"
+  },
+  {
+    "start": 3118.6,
+    "end": 3120.6,
+    "text": " 6% of Americans think that they could beat"
+  },
+  {
+    "start": 3120.6,
+    "end": 3122.6,
+    "text": " a grizzly bear in a fight."
+  },
+  {
+    "start": 3122.6,
+    "end": 3125.6,
+    "text": " So are these the same people?"
+  },
+  {
+    "start": 3125.6,
+    "end": 3127.6,
+    "text": " - Would it please God"
+  },
+  {
+    "start": 3127.6,
+    "end": 3129.6,
+    "text": " to beat a grizzly bear in a fight?"
+  },
+  {
+    "start": 3129.6,
+    "end": 3131.6,
+    "text": " - Brian Blessed claims that he punched"
+  },
+  {
+    "start": 3131.6,
+    "end": 3133.6,
+    "text": " a polar bear in the face."
+  },
+  {
+    "start": 3133.6,
+    "end": 3134.6,
+    "text": " - Oh, yeah."
+  },
+  {
+    "start": 3134.6,
+    "end": 3135.6,
+    "text": " - You know, won the battle."
+  },
+  {
+    "start": 3135.6,
+    "end": 3137.6,
+    "text": " - Was it on catamine?"
+  },
+  {
+    "start": 3137.6,
+    "end": 3139.6,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3139.6,
+    "end": 3141.6,
+    "text": " - I've got an interesting prayer thing"
+  },
+  {
+    "start": 3141.6,
+    "end": 3143.6,
+    "text": " that I've never heard of before."
+  },
+  {
+    "start": 3143.6,
+    "end": 3146.6,
+    "text": " This is when Muslims are praying,"
+  },
+  {
+    "start": 3146.6,
+    "end": 3148.6,
+    "text": " it's a thing that they can develop if they pray"
+  },
+  {
+    "start": 3148.6,
+    "end": 3150.6,
+    "text": " sort of a bit too hard."
+  },
+  {
+    "start": 3150.6,
+    "end": 3152.6,
+    "text": " And I don't mean like the prayer itself,"
+  },
+  {
+    "start": 3152.6,
+    "end": 3153.6,
+    "text": " it's the physical thing."
+  },
+  {
+    "start": 3153.6,
+    "end": 3155.6,
+    "text": " It's called a prayer callus,"
+  },
+  {
+    "start": 3155.6,
+    "end": 3157.6,
+    "text": " or the prayer bump."
+  },
+  {
+    "start": 3157.6,
+    "end": 3160.6,
+    "text": " And it forms on the front of their forehead"
+  },
+  {
+    "start": 3160.6,
+    "end": 3162.6,
+    "text": " from when they're bending down into the ground."
+  },
+  {
+    "start": 3162.6,
+    "end": 3164.6,
+    "text": " And if they're pushing too far down,"
+  },
+  {
+    "start": 3164.6,
+    "end": 3166.6,
+    "text": " it can slowly develop on their head."
+  },
+  {
+    "start": 3166.6,
+    "end": 3168.6,
+    "text": " So you can actually see photos online"
+  },
+  {
+    "start": 3168.6,
+    "end": 3170.6,
+    "text": " of people who've just got these giant calluses"
+  },
+  {
+    "start": 3170.6,
+    "end": 3172.6,
+    "text": " on the front of their foreheads."
+  },
+  {
+    "start": 3172.6,
+    "end": 3174.6,
+    "text": " - Is it also like a good thing to have"
+  },
+  {
+    "start": 3174.6,
+    "end": 3176.6,
+    "text": " because it shows how devout you are"
+  },
+  {
+    "start": 3176.6,
+    "end": 3177.6,
+    "text": " because you pray so much."
+  },
+  {
+    "start": 3177.6,
+    "end": 3178.6,
+    "text": " - Yes, exactly."
+  },
+  {
+    "start": 3178.6,
+    "end": 3181.6,
+    "text": " It's like a sign of look how dedicated I am"
+  },
+  {
+    "start": 3181.6,
+    "end": 3183.6,
+    "text": " to the prayers that are going on."
+  },
+  {
+    "start": 3183.6,
+    "end": 3186.6,
+    "text": " - Well, Dan, have you heard of a prayer nut?"
+  },
+  {
+    "start": 3186.6,
+    "end": 3187.6,
+    "text": " - No."
+  },
+  {
+    "start": 3187.6,
+    "end": 3191.6,
+    "text": " - So this is a, it's not a medical condition."
+  },
+  {
+    "start": 3191.6,
+    "end": 3195.6,
+    "text": " It's a completely unrelated thing actually,"
+  },
+  {
+    "start": 3195.6,
+    "end": 3197.6,
+    "text": " but it's a carved nut that you wear"
+  },
+  {
+    "start": 3197.6,
+    "end": 3200.6,
+    "text": " around your neck or you pop it onto your belt."
+  },
+  {
+    "start": 3200.6,
+    "end": 3203.6,
+    "text": " And it opens up, it's a carved nut shell"
+  },
+  {
+    "start": 3203.6,
+    "end": 3206.6,
+    "text": " that has been carved on the inside"
+  },
+  {
+    "start": 3206.6,
+    "end": 3209.6,
+    "text": " with incredibly detailed scenes of,"
+  },
+  {
+    "start": 3209.6,
+    "end": 3210.6,
+    "text": " it's a Christian thing."
+  },
+  {
+    "start": 3210.6,
+    "end": 3212.6,
+    "text": " So it's the crucifixion or Virgin Mary"
+  },
+  {
+    "start": 3212.6,
+    "end": 3214.6,
+    "text": " or Moses and the serpent, all sorts."
+  },
+  {
+    "start": 3214.6,
+    "end": 3216.6,
+    "text": " And these are about 500 years old."
+  },
+  {
+    "start": 3216.6,
+    "end": 3217.6,
+    "text": " So to put that into context,"
+  },
+  {
+    "start": 3217.6,
+    "end": 3220.6,
+    "text": " that's as long as a really long experiment"
+  },
+  {
+    "start": 3220.6,
+    "end": 3221.6,
+    "text": " into some bacteria."
+  },
+  {
+    "start": 3221.6,
+    "end": 3228.6,
+    "text": " - I read a survey about which saints people prayed for"
+  },
+  {
+    "start": 3228.6,
+    "end": 3231.6,
+    "text": " to fight against COVID infections."
+  },
+  {
+    "start": 3231.6,
+    "end": 3235.6,
+    "text": " And they did a little survey and said,"
+  },
+  {
+    "start": 3235.6,
+    "end": 3238.6,
+    "text": " \"You've been praying against COVID, who did you pray to?\""
+  },
+  {
+    "start": 3238.6,
+    "end": 3241.6,
+    "text": " And the number one person that people prayed to most"
+  },
+  {
+    "start": 3241.6,
+    "end": 3246.6,
+    "text": " was Saint Rita, who is the patron saint of lost causes."
+  },
+  {
+    "start": 3246.6,
+    "end": 3250.6,
+    "text": " She was always invoked in really difficult situations"
+  },
+  {
+    "start": 3250.6,
+    "end": 3252.6,
+    "text": " by Catholics quite a lot."
+  },
+  {
+    "start": 3252.6,
+    "end": 3256.6,
+    "text": " There was another one, Saint Roche of Montpellier,"
+  },
+  {
+    "start": 3256.6,
+    "end": 3259.6,
+    "text": " and he was prayed to because he got the plague"
+  },
+  {
+    "start": 3259.6,
+    "end": 3261.6,
+    "text": " and then he got better."
+  },
+  {
+    "start": 3261.6,
+    "end": 3263.6,
+    "text": " And whenever he went anywhere in Europe,"
+  },
+  {
+    "start": 3263.6,
+    "end": 3266.6,
+    "text": " the plague would suddenly disappear from wherever he went"
+  },
+  {
+    "start": 3266.6,
+    "end": 3267.6,
+    "text": " according to the stories."
+  },
+  {
+    "start": 3267.6,
+    "end": 3268.6,
+    "text": " - Wow."
+  },
+  {
+    "start": 3268.6,
+    "end": 3272.6,
+    "text": " - Some people also prayed to Saint Corona, who he was."
+  },
+  {
+    "start": 3272.6,
+    "end": 3275.6,
+    "text": " - Who was Saint Corona?"
+  },
+  {
+    "start": 3275.6,
+    "end": 3276.6,
+    "text": " - James, can I go back to the first one?"
+  },
+  {
+    "start": 3276.6,
+    "end": 3278.6,
+    "text": " Why is there a patron saint of lost causes?"
+  },
+  {
+    "start": 3278.6,
+    "end": 3281.6,
+    "text": " As in, if you're praying to the patron saint of lost causes."
+  },
+  {
+    "start": 3281.6,
+    "end": 3283.6,
+    "text": " - Yeah, maybe you're that 3% of people"
+  },
+  {
+    "start": 3283.6,
+    "end": 3285.6,
+    "text": " who don't get anything back from the prayers."
+  },
+  {
+    "start": 3285.6,
+    "end": 3287.6,
+    "text": " That's who they're praying to."
+  },
+  {
+    "start": 3287.6,
+    "end": 3289.6,
+    "text": " - I don't understand, I'm praying every day."
+  },
+  {
+    "start": 3289.6,
+    "end": 3292.6,
+    "text": " Prayer has been modernized a bit."
+  },
+  {
+    "start": 3292.6,
+    "end": 3295.6,
+    "text": " There was a brilliant piece in the Guardian earlier this year,"
+  },
+  {
+    "start": 3295.6,
+    "end": 3297.6,
+    "text": " and I'm just going to quite directly from it now, right?"
+  },
+  {
+    "start": 3297.6,
+    "end": 3299.6,
+    "text": " So this is the author."
+  },
+  {
+    "start": 3299.6,
+    "end": 3302.6,
+    "text": " When my 87-year-old mother, Patricia Collinson,"
+  },
+  {
+    "start": 3302.6,
+    "end": 3304.6,
+    "text": " was given an Alexa speaker by my sister,"
+  },
+  {
+    "start": 3304.6,
+    "end": 3308.6,
+    "text": " she was delighted to find she could ask it to say the Hail Mary."
+  },
+  {
+    "start": 3308.6,
+    "end": 3311.6,
+    "text": " Every morning for a week, the devout Catholic"
+  },
+  {
+    "start": 3311.6,
+    "end": 3313.6,
+    "text": " asked Alexa to recite the prayer."
+  },
+  {
+    "start": 3313.6,
+    "end": 3316.6,
+    "text": " Unfortunately, what this elderly lady didn't realize"
+  },
+  {
+    "start": 3316.6,
+    "end": 3319.6,
+    "text": " was that she had ordered a premium subscription,"
+  },
+  {
+    "start": 3319.6,
+    "end": 3322.6,
+    "text": " payable through Amazon, to a private company called"
+  },
+  {
+    "start": 3322.6,
+    "end": 3325.6,
+    "text": " Catholic Prayers, which then charges you, I don't know,"
+  },
+  {
+    "start": 3325.6,
+    "end": 3328.6,
+    "text": " a couple of quid a prayer or a tenor a month or whatever."
+  },
+  {
+    "start": 3328.6,
+    "end": 3330.6,
+    "text": " And because it's a voice-activated thing,"
+  },
+  {
+    "start": 3330.6,
+    "end": 3332.6,
+    "text": " it doesn't read out all the terms and conditions"
+  },
+  {
+    "start": 3332.6,
+    "end": 3335.6,
+    "text": " and say, \"You are, by the way, buying these prayers.\""
+  },
+  {
+    "start": 3335.6,
+    "end": 3336.6,
+    "text": " So that's a problem."
+  },
+  {
+    "start": 3336.6,
+    "end": 3338.6,
+    "text": " - But then, I would have thought,"
+  },
+  {
+    "start": 3338.6,
+    "end": 3340.6,
+    "text": " I'm not that religious anymore, I grew up religious,"
+  },
+  {
+    "start": 3340.6,
+    "end": 3343.6,
+    "text": " but I'm not now, but I would have thought that"
+  },
+  {
+    "start": 3343.6,
+    "end": 3345.6,
+    "text": " you're the one who has to say the prayer, right?"
+  },
+  {
+    "start": 3345.6,
+    "end": 3348.6,
+    "text": " You can't just get a machine to do it for you."
+  },
+  {
+    "start": 3348.6,
+    "end": 3350.6,
+    "text": " Imagine getting to the pearly gates"
+  },
+  {
+    "start": 3350.6,
+    "end": 3353.6,
+    "text": " and seeing your Alexa get into heaven ahead of you."
+  },
+  {
+    "start": 3353.6,
+    "end": 3358.6,
+    "text": " - Alexa, open gates."
+  },
+  {
+    "start": 3358.6,
+    "end": 3360.6,
+    "text": " Alexa, open gates."
+  },
+  {
+    "start": 3360.6,
+    "end": 3366.6,
+    "text": " There's quite a few studies on whether prayer works or not,"
+  },
+  {
+    "start": 3366.6,
+    "end": 3367.6,
+    "text": " as you can imagine."
+  },
+  {
+    "start": 3367.6,
+    "end": 3369.6,
+    "text": " And there was a recent meta study that I read"
+  },
+  {
+    "start": 3369.6,
+    "end": 3373.6,
+    "text": " that began with prayer has been reported to improve outcomes"
+  },
+  {
+    "start": 3373.6,
+    "end": 3375.6,
+    "text": " in human as well as non-human species"
+  },
+  {
+    "start": 3375.6,
+    "end": 3378.6,
+    "text": " to have no effect on outcomes, to worsen outcomes,"
+  },
+  {
+    "start": 3378.6,
+    "end": 3381.6,
+    "text": " and to have retrospective healing effects."
+  },
+  {
+    "start": 3381.6,
+    "end": 3384.6,
+    "text": " So basically, all sorts of studies saying lots of different things."
+  },
+  {
+    "start": 3384.6,
+    "end": 3386.6,
+    "text": " But there's one idea."
+  },
+  {
+    "start": 3386.6,
+    "end": 3391.6,
+    "text": " I saw one study from 2006, which was quite scientifically rigorous,"
+  },
+  {
+    "start": 3391.6,
+    "end": 3395.6,
+    "text": " and they seem to find that patients who knew they'd been prayed for"
+  },
+  {
+    "start": 3395.6,
+    "end": 3399.6,
+    "text": " had higher rates of postoperative complications."
+  },
+  {
+    "start": 3399.6,
+    "end": 3404.6,
+    "text": " And the idea being that because the expectations had been increased,"
+  },
+  {
+    "start": 3404.6,
+    "end": 3408.6,
+    "text": " they perhaps got more stressed about it and got more sick."
+  },
+  {
+    "start": 3408.6,
+    "end": 3412.6,
+    "text": " But also, I saw another paper which said that praying is good"
+  },
+  {
+    "start": 3412.6,
+    "end": 3414.6,
+    "text": " because it's a bit like meditation,"
+  },
+  {
+    "start": 3414.6,
+    "end": 3417.6,
+    "text": " especially if you're chanting things again and again and again."
+  },
+  {
+    "start": 3417.6,
+    "end": 3421.6,
+    "text": " And meditation has been shown to kind of reduce heart rate"
+  },
+  {
+    "start": 3421.6,
+    "end": 3426.6,
+    "text": " and to increase levels of serotonin and stuff like that."
+  },
+  {
+    "start": 3426.6,
+    "end": 3428.6,
+    "text": " So it could be that when you're praying,"
+  },
+  {
+    "start": 3428.6,
+    "end": 3430.6,
+    "text": " it's not good for the person you're praying for,"
+  },
+  {
+    "start": 3430.6,
+    "end": 3432.6,
+    "text": " but it's not bad for you."
+  },
+  {
+    "start": 3432.6,
+    "end": 3435.6,
+    "text": " I love praying. I've been getting into it recently,"
+  },
+  {
+    "start": 3435.6,
+    "end": 3436.6,
+    "text": " and I'm not religious at all,"
+  },
+  {
+    "start": 3436.6,
+    "end": 3439.6,
+    "text": " but it's a nice mental space to think about people"
+  },
+  {
+    "start": 3439.6,
+    "end": 3442.6,
+    "text": " where there's no other format of that elsewhere,"
+  },
+  {
+    "start": 3442.6,
+    "end": 3446.6,
+    "text": " where you actively sit down silently and think of people."
+  },
+  {
+    "start": 3446.6,
+    "end": 3449.6,
+    "text": " So that must be why I've been getting all these amazing parking spots done."
+  },
+  {
+    "start": 3449.6,
+    "end": 3451.6,
+    "text": " Thanks for that."
+  },
+  {
+    "start": 3451.6,
+    "end": 3456.6,
+    "text": " Is it why I've been suffering lots of complications from operations I haven't even had?"
+  },
+  {
+    "start": 3456.6,
+    "end": 3457.6,
+    "text": " It's really a dank."
+  },
+  {
+    "start": 3457.6,
+    "end": 3458.6,
+    "text": " Can you knock it off?"
+  },
+  {
+    "start": 3458.6,
+    "end": 3460.6,
+    "text": " Your heart's in terrible shape."
+  },
+  {
+    "start": 3460.6,
+    "end": 3461.6,
+    "text": " It matters."
+  },
+  {
+    "start": 3461.6,
+    "end": 3463.6,
+    "text": " Andy, I found a thing you might like."
+  },
+  {
+    "start": 3463.6,
+    "end": 3465.6,
+    "text": " I mean, it's just a religious prayer thing,"
+  },
+  {
+    "start": 3465.6,
+    "end": 3469.6,
+    "text": " and it's Casio do prayer watches."
+  },
+  {
+    "start": 3469.6,
+    "end": 3470.6,
+    "text": " No."
+  },
+  {
+    "start": 3470.6,
+    "end": 3474.6,
+    "text": " Yeah, they are for, you need to be Muslim for it to be an effective thing,"
+  },
+  {
+    "start": 3474.6,
+    "end": 3478.6,
+    "text": " but what they come with is basically a little dial"
+  },
+  {
+    "start": 3478.6,
+    "end": 3481.6,
+    "text": " that shows you where Mecca is, so it can point to it."
+  },
+  {
+    "start": 3481.6,
+    "end": 3484.6,
+    "text": " Should you need to know where it is,"
+  },
+  {
+    "start": 3484.6,
+    "end": 3487.6,
+    "text": " and also has five alarms on it for the five times of the day"
+  },
+  {
+    "start": 3487.6,
+    "end": 3489.6,
+    "text": " that you need for the prayer to go."
+  },
+  {
+    "start": 3489.6,
+    "end": 3491.6,
+    "text": " It's just alarms to let you know you look down,"
+  },
+  {
+    "start": 3491.6,
+    "end": 3493.6,
+    "text": " you see where Mecca is, you get going."
+  },
+  {
+    "start": 3493.6,
+    "end": 3494.6,
+    "text": " Yeah, that's so good."
+  },
+  {
+    "start": 3494.6,
+    "end": 3498.6,
+    "text": " So I've got something that's clearly tangentially related,"
+  },
+  {
+    "start": 3498.6,
+    "end": 3500.6,
+    "text": " but this demonstrates my incredible ability"
+  },
+  {
+    "start": 3500.6,
+    "end": 3503.6,
+    "text": " to turn literally anything into an animal story."
+  },
+  {
+    "start": 3503.6,
+    "end": 3509.6,
+    "text": " The praying mantis has a single ear in the middle of its chest."
+  },
+  {
+    "start": 3509.6,
+    "end": 3513.6,
+    "text": " It has like a cyclopean unpaired ear."
+  },
+  {
+    "start": 3513.6,
+    "end": 3515.6,
+    "text": " So does that mean that it can't,"
+  },
+  {
+    "start": 3515.6,
+    "end": 3518.6,
+    "text": " you know how you have two eyes so you can tell depth perception?"
+  },
+  {
+    "start": 3518.6,
+    "end": 3519.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 3519.6,
+    "end": 3521.6,
+    "text": " Does that mean that it doesn't have any hearing, depth perception?"
+  },
+  {
+    "start": 3521.6,
+    "end": 3525.6,
+    "text": " Yeah, so our two ears allows to localize where sounds coming from,"
+  },
+  {
+    "start": 3525.6,
+    "end": 3527.6,
+    "text": " and the mantis doesn't really need to do that."
+  },
+  {
+    "start": 3527.6,
+    "end": 3532.6,
+    "text": " So all it's listening out for is the echolocation sounds of bats,"
+  },
+  {
+    "start": 3532.6,
+    "end": 3535.6,
+    "text": " and when it hears that, it just drops."
+  },
+  {
+    "start": 3535.6,
+    "end": 3538.6,
+    "text": " Like it's flying along and it hears a bat,"
+  },
+  {
+    "start": 3538.6,
+    "end": 3539.6,
+    "text": " and it just drops out of the sky."
+  },
+  {
+    "start": 3539.6,
+    "end": 3541.6,
+    "text": " So it doesn't need to know where the bat's coming from."
+  },
+  {
+    "start": 3541.6,
+    "end": 3543.6,
+    "text": " All it needs to do is go, \"Ugh!\""
+  },
+  {
+    "start": 3543.6,
+    "end": 3545.6,
+    "text": " and like duck out of the way."
+  },
+  {
+    "start": 3545.6,
+    "end": 3546.6,
+    "text": " That's amazing."
+  },
+  {
+    "start": 3546.6,
+    "end": 3548.6,
+    "text": " Is it the only animal with one ear?"
+  },
+  {
+    "start": 3548.6,
+    "end": 3550.6,
+    "text": " I don't know."
+  },
+  {
+    "start": 3550.6,
+    "end": 3552.6,
+    "text": " I think I'm pretty sure."
+  },
+  {
+    "start": 3552.6,
+    "end": 3555.6,
+    "text": " I've not heard of any other animals with one ear."
+  },
+  {
+    "start": 3555.6,
+    "end": 3556.6,
+    "text": " Okay."
+  },
+  {
+    "start": 3556.6,
+    "end": 3557.6,
+    "text": " Picasso."
+  },
+  {
+    "start": 3557.6,
+    "end": 3558.6,
+    "text": " Van Gogh."
+  },
+  {
+    "start": 3558.6,
+    "end": 3559.6,
+    "text": " Van Gogh."
+  },
+  {
+    "start": 3559.6,
+    "end": 3566.6,
+    "text": " He also is just like ducking whenever he hears a bat."
+  },
+  {
+    "start": 3566.6,
+    "end": 3570.6,
+    "text": " Whenever he saw a sunflower, he would just drop to the ground."
+  },
+  {
+    "start": 3570.6,
+    "end": 3571.6,
+    "text": " I just want to quickly add,"
+  },
+  {
+    "start": 3571.6,
+    "end": 3574.6,
+    "text": " because Ed, you just mentioned the praying mantis with the ear"
+  },
+  {
+    "start": 3574.6,
+    "end": 3577.6,
+    "text": " and its hearing ability to escape predators."
+  },
+  {
+    "start": 3577.6,
+    "end": 3580.6,
+    "text": " There was something in your new book, which I absolutely love,"
+  },
+  {
+    "start": 3580.6,
+    "end": 3583.6,
+    "text": " which is Tree Frog Embryos,"
+  },
+  {
+    "start": 3583.6,
+    "end": 3586.6,
+    "text": " and how basically they're still in their unhatched shell,"
+  },
+  {
+    "start": 3586.6,
+    "end": 3589.6,
+    "text": " and what they can do is they can detect vibrations"
+  },
+  {
+    "start": 3589.6,
+    "end": 3591.6,
+    "text": " of an attacking predator,"
+  },
+  {
+    "start": 3591.6,
+    "end": 3594.6,
+    "text": " and what they do is then they release an enzyme from their face,"
+  },
+  {
+    "start": 3594.6,
+    "end": 3596.6,
+    "text": " and it dissolves the casing,"
+  },
+  {
+    "start": 3596.6,
+    "end": 3599.6,
+    "text": " and then they can make an escape away from the predator,"
+  },
+  {
+    "start": 3599.6,
+    "end": 3600.6,
+    "text": " while still an embryo."
+  },
+  {
+    "start": 3600.6,
+    "end": 3602.6,
+    "text": " Yeah, it's amazing."
+  },
+  {
+    "start": 3602.6,
+    "end": 3606.6,
+    "text": " They can make active decisions about when they're going to hatch,"
+  },
+  {
+    "start": 3606.6,
+    "end": 3609.6,
+    "text": " based on stuff that they sense around the egg,"
+  },
+  {
+    "start": 3609.6,
+    "end": 3611.6,
+    "text": " and they can tell..."
+  },
+  {
+    "start": 3611.6,
+    "end": 3614.6,
+    "text": " So the thing that's most likely to threaten them is a snake,"
+  },
+  {
+    "start": 3614.6,
+    "end": 3617.6,
+    "text": " and they can distinguish between the kinds of vibrations"
+  },
+  {
+    "start": 3617.6,
+    "end": 3620.6,
+    "text": " made by a snake numbing on one of their siblings,"
+  },
+  {
+    "start": 3620.6,
+    "end": 3624.6,
+    "text": " and just wind, or even an earthquake."
+  },
+  {
+    "start": 3624.6,
+    "end": 3626.6,
+    "text": " So it's not like any kind of shaking"
+  },
+  {
+    "start": 3626.6,
+    "end": 3628.6,
+    "text": " will make them go, \"Burr!\""
+  },
+  {
+    "start": 3628.6,
+    "end": 3630.6,
+    "text": " and burst out of the egg."
+  },
+  {
+    "start": 3630.6,
+    "end": 3633.6,
+    "text": " It's specifically the kinds of rhythms"
+  },
+  {
+    "start": 3633.6,
+    "end": 3635.6,
+    "text": " that a protruding predator makes."
+  },
+  {
+    "start": 3635.6,
+    "end": 3641.6,
+    "text": " So how on earth can they know that without having experienced it?"
+  },
+  {
+    "start": 3641.6,
+    "end": 3643.6,
+    "text": " Is that knowledge..."
+  },
+  {
+    "start": 3643.6,
+    "end": 3645.6,
+    "text": " It's got to be instinct, I think."
+  },
+  {
+    "start": 3645.6,
+    "end": 3649.6,
+    "text": " It's got to be some pre-programmed thing,"
+  },
+  {
+    "start": 3649.6,
+    "end": 3651.6,
+    "text": " but yeah, it's wild."
+  },
+  {
+    "start": 3651.6,
+    "end": 3653.6,
+    "text": " It's really wild that they can do that"
+  },
+  {
+    "start": 3653.6,
+    "end": 3655.6,
+    "text": " without any kind of experience,"
+  },
+  {
+    "start": 3655.6,
+    "end": 3657.6,
+    "text": " without literally having been born yet."
+  },
+  {
+    "start": 3657.6,
+    "end": 3659.6,
+    "text": " Nature."
+  },
+  {
+    "start": 3659.6,
+    "end": 3663.6,
+    "text": " Dan will be returning to BBC Two next week at 10pm."
+  },
+  {
+    "start": 3663.6,
+    "end": 3670.6,
+    "text": " OK, that's it. That's all of our facts."
+  },
+  {
+    "start": 3670.6,
+    "end": 3672.6,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3672.6,
+    "end": 3674.6,
+    "text": " If you'd like to get in contact with any of us"
+  },
+  {
+    "start": 3674.6,
+    "end": 3676.6,
+    "text": " about the things that we've said over the course of this podcast,"
+  },
+  {
+    "start": 3676.6,
+    "end": 3678.6,
+    "text": " we can be found on our Twitter accounts."
+  },
+  {
+    "start": 3678.6,
+    "end": 3680.6,
+    "text": " I'm on @Sriberland, Andy..."
+  },
+  {
+    "start": 3680.6,
+    "end": 3682.6,
+    "text": " @AndrewHunterM, James..."
+  },
+  {
+    "start": 3682.6,
+    "end": 3684.6,
+    "text": " @JamesHarken, and @Ed..."
+  },
+  {
+    "start": 3684.6,
+    "end": 3686.6,
+    "text": " @EdYong209."
+  },
+  {
+    "start": 3686.6,
+    "end": 3688.6,
+    "text": " That's right, and also just a reminder,"
+  },
+  {
+    "start": 3688.6,
+    "end": 3690.6,
+    "text": " Ed's new book, An Immense World."
+  },
+  {
+    "start": 3690.6,
+    "end": 3693.6,
+    "text": " How animal senses reveal the hidden realms around us is out now."
+  },
+  {
+    "start": 3693.6,
+    "end": 3695.6,
+    "text": " It's absolutely awesome."
+  },
+  {
+    "start": 3695.6,
+    "end": 3698.6,
+    "text": " It's packed, basically, just paragraph by paragraph,"
+  },
+  {
+    "start": 3698.6,
+    "end": 3700.6,
+    "text": " with more facts than we could ever fit"
+  },
+  {
+    "start": 3700.6,
+    "end": 3702.6,
+    "text": " into 400 episodes of this show."
+  },
+  {
+    "start": 3702.6,
+    "end": 3704.6,
+    "text": " It's just absolutely awesome."
+  },
+  {
+    "start": 3704.6,
+    "end": 3706.6,
+    "text": " It's a New York Times best-selling book right this minute."
+  },
+  {
+    "start": 3706.6,
+    "end": 3708.6,
+    "text": " Congratulations, Ed, on that."
+  },
+  {
+    "start": 3708.6,
+    "end": 3710.6,
+    "text": " That's absolutely awesome."
+  },
+  {
+    "start": 3710.6,
+    "end": 3713.6,
+    "text": " And if anyone wants to chat to the group of No Such Thing,"
+  },
+  {
+    "start": 3713.6,
+    "end": 3715.6,
+    "text": " generally, go to @NoSuchThing on our Twitter account,"
+  },
+  {
+    "start": 3715.6,
+    "end": 3717.6,
+    "text": " or go to NoSuchThingasafish.com,"
+  },
+  {
+    "start": 3717.6,
+    "end": 3720.6,
+    "text": " check out all of our previous episodes up there."
+  },
+  {
+    "start": 3720.6,
+    "end": 3723.6,
+    "text": " But, you know, why not just get Ed's book instead?"
+  },
+  {
+    "start": 3723.6,
+    "end": 3725.6,
+    "text": " It's much better."
+  },
+  {
+    "start": 3725.6,
+    "end": 3728.6,
+    "text": " Do you want to send Ed a song about something that you've done?"
+  },
+  {
+    "start": 3728.6,
+    "end": 3730.6,
+    "text": " Yes."
+  },
+  {
+    "start": 3730.6,
+    "end": 3733.6,
+    "text": " If you've got a spare tongue and a jar that you feel at home..."
+  },
+  {
+    "start": 3733.6,
+    "end": 3736.6,
+    "text": " Yeah, dorset, egg yolks, envelopes that you need to get rid of."
+  },
+  {
+    "start": 3736.6,
+    "end": 3740.6,
+    "text": " OK, we'll be back again next week with another episode."
+  },
+  {
+    "start": 3740.6,
+    "end": 3742.6,
+    "text": " We'll see you then. Goodbye."
+  },
+  {
+    "start": 3742.6,
+    "end": 3744.6,
+    "text": " ( music playing )"
+  },
+  {
+    "start": 3744.6,
+    "end": 3746.6,
+    "text": " ( music playing )"
+  },
+  {
+    "start": 3746.6,
+    "end": 3748.6,
+    "text": " ( music playing )"
+  },
+  {
+    "start": 3748.6,
+    "end": 3751.18,
+    "text": " (upbeat music)"
+  }
+]

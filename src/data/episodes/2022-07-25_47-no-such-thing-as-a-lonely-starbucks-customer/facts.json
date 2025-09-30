@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of topics including the public's indifference to Marmite, the lesser-known Knights of the Round Table, the British Ministry of Defence's ownership of golf courses, and the environmental impact of contraceptive pills on fish.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "According to a 2011 YouGov survey, 27% of Britons neither love nor hate Marmite.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:34"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The Knights of the Round Table included Lancelot, Gawain, Galahad, and Gareth.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:08:58"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The Ministry of Defence owns 15 golf courses.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:17:53"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The rise in the use of female contraceptive pills is causing fish to become too effeminate.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:23:12"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about the inventor of the lie detector marrying his first test subject, the high number of companies registered in Liechtenstein, a historical claim of a giant robot Cleopatra, and manatees controlling their buoyancy through flatulence.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The person who invented the lie detector married the first person he interrogated with it.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Liechtenstein has roughly two companies for every person who lives there.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:12:39"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 47 BC, there was a giant robot Cleopatra walking the streets of Alexandria, squirting milk from her breasts onto the heads of onlookers.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:19:38"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Manatees control their buoyancy through flatulence.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:56"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "In this episode, the hosts share fascinating facts submitted by listeners, covering topics such as underwater car drives, historical treaties affecting musical tuning, record-breaking jumps, and the population of Neanderthals compared to modern cities.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "A team in Darwin, Australia, drove a car named Mudcrab, seven kilometers underwater across the harbour, breaking two world records: longest underwater drive and the deepest underwater drive.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:01:24"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The world record for highest jump into water is held by Rick Charles at 172 feet, which is 20 feet higher than the Statue of Liberty.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:07:37"
+    },
+    {
+      "fact_number": 3,
+      "fact": "At the estimated most populous, there were as many Neanderthals as modern humans living in Torquay, which is about 52,000.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:09:20"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The British Basketball League is having to change its name as no one can Google it because the acronym is shared with a surgical procedure that's become very popular in recent years: Brazilian butt lift.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:49"
+    }
+  ]
+}

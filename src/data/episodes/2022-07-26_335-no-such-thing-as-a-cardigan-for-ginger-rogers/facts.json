@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features discussions on hidden rivers in London, a disastrous Hoover promotion, Fred Astaire's late-life skateboarding, and Icelandic museums. Special guest Sandy Toksvig joins the regular hosts to share fascinating facts and anecdotes.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Sloan Square Underground Station in London has a river running through it.",
+      "presenter": "Sandy Toksvig",
+      "guest": true,
+      "start_time": "00:01:30"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1992, Hoover ran a promotion which was so successful that the firm collapsed and had to be sold off.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:12:24"
+    },
+    {
+      "fact_number": 3,
+      "fact": "After he retired from dancing in his late 70s, Fred Astaire became a skateboarder.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:24:43"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The Icelandic word for museum is the same as the word for a flock of sheep.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:41:18"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the surprising use of pigeons by the US Coast Guard, the innovative use of carrots in concrete, the unexpected link between Pixar movie releases and head lice outbreaks, and a historical gesture of goodwill from Poland to the United States.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Pigeons make better coast guards than people.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:50"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Concrete is stronger if you make it with carrots.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:11:26"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Head lice clinics always see an uptick in business when a new Pixar movie comes out.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:21:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1926, Poland sent the US a birthday card that was signed by a sixth of its population.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:27:41"
+    }
+  ]
+}

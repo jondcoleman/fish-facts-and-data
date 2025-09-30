@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the difficulty of recognizing flirting, the ancient Sumerian practice of drinking thick beer through straws, the coordinated hatching of baby turtles, and the last words of famous individuals like Henrik Ibsen and others.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Only 28% of people know when they're being flirted with.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:35"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Ancient Sumerian beer was as thick as porridge and was drunk through a straw.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:08:28"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Baby turtles coordinate when they're going to hatch from within their eggshells.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:15:29"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The playwright Henrik Ibsen's last words were to his nurse. She said to him that she thought he seemed to be looking better and he replied on the contrary and died.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:23:58"
+    }
+  ]
+}

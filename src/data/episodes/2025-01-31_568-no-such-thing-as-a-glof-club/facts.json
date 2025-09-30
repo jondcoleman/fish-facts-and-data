@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a compilation of facts and humorous discussions from the hosts' tour in Australia and New Zealand. Topics include conspiracy theories from World War I, ant warfare simulations using video games, the translation of Ray Bradbury's 'Fahrenheit 451' in Denmark, and the peculiarities of food waste in Australia.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "During World War I, a popular conspiracy theory was that German blackmailers had drawn up a list of 47,000 highly placed English perverts.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:01:53"
+    },
+    {
+      "fact_number": 2,
+      "fact": "You can simulate ants fighting by using other video games.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:03:03"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Ray Bradbury's 'Fahrenheit 451' has been translated into over 30 languages under the same title, except in Denmark, where it was published as '233 Celsius'.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:32:56"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In Australia, you discard 3.1 million tons of food every year that includes five million bananas, which if laid end to end would go from Sydney to Melbourne.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:25:17"
+    }
+  ]
+}

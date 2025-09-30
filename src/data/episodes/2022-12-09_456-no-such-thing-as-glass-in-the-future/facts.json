@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on unique Oscar nominations, Disneyland's futuristic attractions, the energy-intensive process of rock crushing, and a surprising connection between the Flintstones and a podcast guest's pseudonym.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Barry Fitzgerald is the only actor in Oscar history to be nominated twice for the same role in the same film.",
+      "presenter": "Jamie Morton",
+      "guest": true,
+      "start_time": "00:01:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "One of the attractions at Disneyland in 1956 was the bathroom of tomorrow, which included amongst other exciting exhibits an array of interactive faucets and a dramatic story of valves.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:23"
+    },
+    {
+      "fact_number": 3,
+      "fact": "5% of the world's electricity is spent turning big rocks into small rocks.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:26:13"
+    },
+    {
+      "fact_number": 4,
+      "fact": "One of the biggest TV events of 1966 involved someone reading extracts from a book written by a relative known as Rocky Flintstone.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:36:39"
+    }
+  ]
+}

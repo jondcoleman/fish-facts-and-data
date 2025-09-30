@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including a message in a bottle from the Titanic, the iconic Mastermind chair, a bizarre Highland Games competition, and a unique method to cure arachnophobia.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "A message in a bottle that was thrown off the Titanic as it was sinking was found one year later washed up on a shore in Ireland only a few miles from the home of the man who threw it.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The original Mastermind chair was specially modified to have detachable arms, \"in case a contender is too large to fit between them.\"",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:13:39"
+    },
+    {
+      "fact_number": 3,
+      "fact": "One competition at the Highland Games used to be pulling the legs off a cow in order to win a sheep.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:22:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "You can cure your arachnophobia by drawing pictures of smiling spiders.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:28"
+    }
+  ]
+}

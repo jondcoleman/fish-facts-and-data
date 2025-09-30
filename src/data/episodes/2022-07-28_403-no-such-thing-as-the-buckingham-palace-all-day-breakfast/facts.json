@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the longest professional baseball match, the social behavior of acorn woodpeckers, the world's largest carpet museum, and the first hot-air balloon wedding attempt.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The longest professional baseball match on record only lasted so long because the umpire's rule book was missing the bit that explained when a match should be stopped.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "When acorn woodpeckers fight each other, the rumour spreads through the community and other acorn woodpeckers turn up to watch.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:11:09"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The world's largest carpet museum is shaped like a giant roll of carpet.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:18:52"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The world's first ever hot-air balloon wedding was meant to happen in 1865, but the officiating priest refused to go up.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:53"
+    }
+  ]
+}

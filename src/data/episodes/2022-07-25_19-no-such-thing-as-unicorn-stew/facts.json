@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a variety of intriguing topics, including the unique locomotion of kangaroos, a bizarre historical punishment involving stockbrokers and snakes, the surprising number of estate agents compared to soldiers in the UK, and the mysterious medieval illustrations of knights battling snails.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Kangaroos have three or five legs, depending on how you look at it, as their tail counts as a leg according to a new study.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:42"
+    },
+    {
+      "fact_number": 2,
+      "fact": "During the financial crisis of 1720, Parliament called upon stockbrokers to be sewn into sacks filled with poisonous snakes and thrown into the Thames.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:10:36"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There are three times as many estate agents in the UK as there are members of the armed forces.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:17:50"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Medieval manuscripts are littered with drawings of warfare between snails and knights, and the amazing thing is no one knows why, it's a total mystery.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:23:24"
+    }
+  ]
+}

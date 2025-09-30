@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky historical and scientific facts, including the bizarre loophole in New York's Reigns Law involving rubber sandwiches, the surprising ability of dead fish to swim upstream, the massive traffic jam following the fall of the Berlin Wall, and a humorous incident involving Elvis Presley stopping a fight with karate moves.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Along with their drink, New Yorkers in bars used to be served a sandwich full of rubber.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Dead fish can swim upstream.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:17:10"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When the Berlin Wall fell, one of the results was an 18 million car traffic jam.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:33:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There's a stone marker in Wisconsin that commemorates the spot where Elvis Presley once successfully stopped a fight by jumping out of his limo, pulling some karate moves, and threatening to kick everyone's ass.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:41:00"
+    }
+  ]
+}

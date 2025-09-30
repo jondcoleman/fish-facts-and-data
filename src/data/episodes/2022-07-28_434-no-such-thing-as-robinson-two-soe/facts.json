@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the first use of the word 'avocado' by a pirate, a Puerto Rican island where monkeys roam free while humans eat in cages, a peculiar medieval Italian tradition involving prostitutes racing around city walls, and a member of the Romanov royal family living as an artist in Hastings.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first man to use the word avocado in English was a pirate.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There's a Puerto Rican island where monkeys roam free, but the humans have to eat their meals in cages.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:06"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 14th century Italy, if you wanted to insult a nearby city, you would send all your prostitutes to take part in a running race around their walls.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:31"
+    },
+    {
+      "fact_number": 4,
+      "fact": "A member of the Romanov royal family, Prince Rostislav Romanov, lives in Hastings as a painter.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:41:06"
+    }
+  ]
+}

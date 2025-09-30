@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and historical facts, including the decomposition of a McDonald's burger in Iceland, the use of corrugated iron in construction, naval battles staged at Sadler's Wells Theatre, and the phenomenon of dog owners ignoring their pets' waste.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The final McDonald's burger ever sold in Iceland can currently be watched decomposing on a webcam.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:01:03"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1851, Prince Albert commissioned a ballroom for Balmoral Castle made entirely of corrugated iron.",
+      "presenter": "John Lloyd",
+      "guest": true,
+      "start_time": "00:08:46"
+    },
+    {
+      "fact_number": 3,
+      "fact": "During the 19th century, Sadler's Wells Theatre in London was routinely flooded to stage fake naval battles.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:15:53"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The practice of dog owners pretending that they haven't seen their dog having a crap is technically known as strategic non-knowledge.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:23:49"
+    }
+  ]
+}

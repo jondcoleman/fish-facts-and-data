@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the use of moss in traditional Irish recipes, Shirley Temple's surprising diplomatic career, a cinema in Melbourne that once offered a cloakroom for babies, and the history of Pez dispensers as anti-smoking aids.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "One traditional Irish recipe for Blemange involves moss.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "When communism fell in Czechoslovakia, the US ambassador in the country was Shirley Temple.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:16:18"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There used to be a cinema in Melbourne, Australia that had a cloakroom to keep your babies in.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:31:40"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The original vapes were Pez dispensers.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:42:12"
+    }
+  ]
+}

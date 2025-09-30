@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a range of quirky and intriguing topics, including a quiet zone in America where microwaves must be kept in Faraday cages, Ray Charles' adventurous flying experiences, a zookeeper's unique relationship with a crane, and Bill Gates' involvement in the potato industry supplying McDonald's.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There's a 300 square miles section of America where all microwaves have to be kept in cages.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:59"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The musician Ray Charles, who was blind, used to fly to gigs because he thought it was safer than driving. However, he also insisted on flying the plane himself.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:09"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There is a zookeeper in America who cannot change job because the bird he looks after is in love with him.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:27:28"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Bill Gates is responsible for putting chips in up to 80% of Americans.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:38:46"
+    }
+  ]
+}

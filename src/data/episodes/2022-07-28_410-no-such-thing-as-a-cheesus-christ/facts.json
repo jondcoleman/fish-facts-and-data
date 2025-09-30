@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of 'No Such Thing As A Fish' covers a variety of intriguing topics, including Harry Houdini's escape artist dog, the employment of girl guides by MI5 during World War I, a fictional detective created as the opposite of Sherlock Holmes, and the unique Himalayan cheese used as chewing gum.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Harry Houdini's dog was a professional escape artist.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:48"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the First World War, MI5 employed 90 girl guides. They tried Boy Scouts at first, but found they couldn't be trusted.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:10:29"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There is a fictional Victorian detective who was created to be the opposite of Sherlock Holmes. In the only recent adaptation of the stories, the detective in question was played by Benedict Cumberbatch.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:20:02"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Himalayan chewing gum is made out of cheese.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:29:44"
+    }
+  ]
+}

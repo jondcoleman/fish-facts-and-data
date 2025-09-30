@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This Christmas special episode of 'No Such Thing As A Fish' features festive facts about the unfunny jokes selected for Christmas crackers, a priest issuing knuckle dusters to protect nativity scenes, public sentiment towards carol singers, and the extreme makeup process Jim Carrey endured for 'The Grinch'.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Every year in the UK, a joke committee gets together to whittle down a short list of jokes that they think are unfunny enough to put in Christmas crackers.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:01:51"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the 1880s, to defend against attacks on nativity scenes, one priest issued knuckle dusters to his congregation.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:18:14"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When asked this year, 21% of people said they didn't want Christmas carol singers visiting their home because of coronavirus, and another 55% said they didn't want carol singers regardless of coronavirus.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:38"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Jim Carrey's makeup for the Grinch was so onerous to apply, the studio brought in one of the CIA's experts at enduring torture to help him get through it.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:41:33"
+    }
+  ]
+}

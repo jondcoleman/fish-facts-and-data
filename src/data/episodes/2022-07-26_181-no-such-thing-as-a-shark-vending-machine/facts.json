@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including the original director of 'Jaws' mistakenly referring to the shark as a whale, the practice of dropping train carriages at stations without stopping, birds in cages exhibiting migratory behavior, and the large amount of clothing left behind at the Boston Marathon's starting line.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The original director of 'Jaws' was a man called Richard Richards who was fired because he kept referring to the shark as a whale.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:01:44"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Until the 1960s, high speed trains in Britain would drop carriages off at stations that they weren't stopping at.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:10:03"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Birds in cages hop in the direction they're meant to be migrating.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:18:19"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Each year, 26 tons of clothing is left behind at the starting line of the Boston marathon.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:38"
+    }
+  ]
+}

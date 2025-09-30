@@ -1,0 +1,5677 @@
+[
+  {
+    "start": 0,
+    "end": 2,
+    "text": " *Bell*"
+  },
+  {
+    "start": 2,
+    "end": 4,
+    "text": " *Bell*"
+  },
+  {
+    "start": 4,
+    "end": 6,
+    "text": " *Bell*"
+  },
+  {
+    "start": 6,
+    "end": 8,
+    "text": " *Bell*"
+  },
+  {
+    "start": 8,
+    "end": 10,
+    "text": " *Bell*"
+  },
+  {
+    "start": 10,
+    "end": 12,
+    "text": " *Bell*"
+  },
+  {
+    "start": 12,
+    "end": 14,
+    "text": " *Bell*"
+  },
+  {
+    "start": 14,
+    "end": 16,
+    "text": " *Bell*"
+  },
+  {
+    "start": 16,
+    "end": 24,
+    "text": " Hello and welcome to another episode of no such thing as a fish, a weekly podcast coming to you from the QI offices in Covent Garden."
+  },
+  {
+    "start": 24,
+    "end": 31,
+    "text": " I'm Dan Schreiber, I'm sitting here with Anish Zenski, Andrew Hunter Murray, James Harkin and exciting special guest."
+  },
+  {
+    "start": 31,
+    "end": 36,
+    "text": " It is the pod father himself, Richard Herring, who is joining us."
+  },
+  {
+    "start": 36,
+    "end": 41,
+    "text": " We're very excited to have him here, doubly excited because we got the chance to go on his show."
+  },
+  {
+    "start": 41,
+    "end": 47,
+    "text": " Richard Herring's Lester Square Theatre podcast, which will be going out next week, the 24th of July."
+  },
+  {
+    "start": 47,
+    "end": 51,
+    "text": " If you're listening to it, as this show goes out this Friday, it's a week from now."
+  },
+  {
+    "start": 51,
+    "end": 56,
+    "text": " If not, find the 24th of July for Richard Herring and so much more."
+  },
+  {
+    "start": 56,
+    "end": 58,
+    "text": " I mean, you're going to be doing the podcast in Edinburgh."
+  },
+  {
+    "start": 58,
+    "end": 62,
+    "text": " Yeah, I'm at the Edinburgh Fringe at the Newtown Theatre, 130, pretty much every day throughout the Fringe."
+  },
+  {
+    "start": 62,
+    "end": 67,
+    "text": " And I'm off on tour around the country in the autumn and probably onwards, beyond into 2020, I think."
+  },
+  {
+    "start": 67,
+    "end": 70,
+    "text": " So yeah, go to richhane.com/gigs and you can find out where I'm coming."
+  },
+  {
+    "start": 70,
+    "end": 74,
+    "text": " Amazing, and most importantly of all, you've got a fact."
+  },
+  {
+    "start": 74,
+    "end": 77,
+    "text": " So we're going to start off with fact number one, and that is Richard Herring."
+  },
+  {
+    "start": 77,
+    "end": 87,
+    "text": " Here's my fact. Adolf Hitler had size 13 feet, which I discovered this week on my own podcast,"
+  },
+  {
+    "start": 87,
+    "end": 91,
+    "text": " because I'm obsessed with the film The Cobbler, what's that?"
+  },
+  {
+    "start": 91,
+    "end": 93,
+    "text": " Adam Sandler, yeah."
+  },
+  {
+    "start": 93,
+    "end": 96,
+    "text": " In which Adam Sandler inherits a magical cobbling machine."
+  },
+  {
+    "start": 96,
+    "end": 100,
+    "text": " If you're interested in this, just listen to any of Richard's podcasts."
+  },
+  {
+    "start": 100,
+    "end": 101,
+    "text": " In which?"
+  },
+  {
+    "start": 101,
+    "end": 105,
+    "text": " In which, if he puts on the feet of the shoes of someone whose shoes have been cobbled on that machine,"
+  },
+  {
+    "start": 105,
+    "end": 108,
+    "text": " he turns into that person, which is fine."
+  },
+  {
+    "start": 108,
+    "end": 111,
+    "text": " So I asked people who they would turn into, but you've got to have the same size feet."
+  },
+  {
+    "start": 111,
+    "end": 114,
+    "text": " So it's quite a hard question to answer unless you know."
+  },
+  {
+    "start": 114,
+    "end": 115,
+    "text": " Especially for Adolf Hitler."
+  },
+  {
+    "start": 115,
+    "end": 120,
+    "text": " Yeah, well, my guest said, you know, who knows how big was Adolf Hitler's feet, for example."
+  },
+  {
+    "start": 120,
+    "end": 124,
+    "text": " And we didn't know, but then someone Googled it, and it was size 13, which just seems..."
+  },
+  {
+    "start": 124,
+    "end": 125,
+    "text": " It seems big."
+  },
+  {
+    "start": 125,
+    "end": 130,
+    "text": " Massive for what I thought was a very short man, but he's five foot, eight, five foot nine."
+  },
+  {
+    "start": 130,
+    "end": 135,
+    "text": " I'm like 165 centimeters, but size 13 is like gigantic."
+  },
+  {
+    "start": 135,
+    "end": 136,
+    "text": " Yeah."
+  },
+  {
+    "start": 136,
+    "end": 137,
+    "text": " Stephen Fry has size 13 feet."
+  },
+  {
+    "start": 137,
+    "end": 138,
+    "text": " Doesn't he?"
+  },
+  {
+    "start": 138,
+    "end": 139,
+    "text": " And he's what, six foot six?"
+  },
+  {
+    "start": 139,
+    "end": 140,
+    "text": " And something like that."
+  },
+  {
+    "start": 140,
+    "end": 142,
+    "text": " Usain Bolt, he has size 13 feet."
+  },
+  {
+    "start": 142,
+    "end": 143,
+    "text": " Is he tall?"
+  },
+  {
+    "start": 143,
+    "end": 144,
+    "text": " Usain Bolt."
+  },
+  {
+    "start": 144,
+    "end": 145,
+    "text": " Yeah."
+  },
+  {
+    "start": 145,
+    "end": 146,
+    "text": " Famously, yeah."
+  },
+  {
+    "start": 146,
+    "end": 147,
+    "text": " Is he?"
+  },
+  {
+    "start": 147,
+    "end": 148,
+    "text": " Yeah."
+  },
+  {
+    "start": 148,
+    "end": 149,
+    "text": " It's hard to tell because they're just so fast."
+  },
+  {
+    "start": 149,
+    "end": 150,
+    "text": " You can't see that."
+  },
+  {
+    "start": 150,
+    "end": 154,
+    "text": " Well, Meg Ryan, who is, I believe, the same height as Hitler, five foot eight."
+  },
+  {
+    "start": 154,
+    "end": 157,
+    "text": " I don't think that's the brush we can tar her with."
+  },
+  {
+    "start": 157,
+    "end": 160,
+    "text": " It's on her CV, it's the top line."
+  },
+  {
+    "start": 160,
+    "end": 162,
+    "text": " I believe I'm right, saying she's five foot eight."
+  },
+  {
+    "start": 162,
+    "end": 163,
+    "text": " And she has big feet."
+  },
+  {
+    "start": 163,
+    "end": 165,
+    "text": " She's got 11, she's where it's size 11."
+  },
+  {
+    "start": 165,
+    "end": 166,
+    "text": " Oh, wow."
+  },
+  {
+    "start": 166,
+    "end": 167,
+    "text": " Yeah."
+  },
+  {
+    "start": 167,
+    "end": 168,
+    "text": " That's huge."
+  },
+  {
+    "start": 168,
+    "end": 169,
+    "text": " Is that a US 11?"
+  },
+  {
+    "start": 169,
+    "end": 170,
+    "text": " Yeah, we'll be."
+  },
+  {
+    "start": 170,
+    "end": 171,
+    "text": " Hang on, that's completely different."
+  },
+  {
+    "start": 171,
+    "end": 172,
+    "text": " I take back a lot of my friends."
+  },
+  {
+    "start": 172,
+    "end": 173,
+    "text": " Is the US 11?"
+  },
+  {
+    "start": 173,
+    "end": 177,
+    "text": " Well, I don't know if the adult Hitler 13 is US or English."
+  },
+  {
+    "start": 177,
+    "end": 178,
+    "text": " Isn't there somewhere?"
+  },
+  {
+    "start": 178,
+    "end": 181,
+    "text": " Isn't the USA or Europe, whether in the 40s?"
+  },
+  {
+    "start": 181,
+    "end": 182,
+    "text": " That's Europe."
+  },
+  {
+    "start": 182,
+    "end": 183,
+    "text": " That's Europe, isn't it?"
+  },
+  {
+    "start": 183,
+    "end": 186,
+    "text": " I think the American size is about one different."
+  },
+  {
+    "start": 186,
+    "end": 187,
+    "text": " So they're 0.5 or one different."
+  },
+  {
+    "start": 187,
+    "end": 189,
+    "text": " OK, but what a Hitler size feet is in the European measurement."
+  },
+  {
+    "start": 189,
+    "end": 191,
+    "text": " And actually, they were like pins."
+  },
+  {
+    "start": 191,
+    "end": 193,
+    "text": " That's a really good point."
+  },
+  {
+    "start": 193,
+    "end": 194,
+    "text": " Yeah."
+  },
+  {
+    "start": 194,
+    "end": 196,
+    "text": " Yeah, actually, Rich, what is your sauce for this fact?"
+  },
+  {
+    "start": 196,
+    "end": 197,
+    "text": " Well, Google."
+  },
+  {
+    "start": 197,
+    "end": 198,
+    "text": " OK."
+  },
+  {
+    "start": 198,
+    "end": 201,
+    "text": " But then Google just says you were one size round of it."
+  },
+  {
+    "start": 201,
+    "end": 202,
+    "text": " It says 13."
+  },
+  {
+    "start": 202,
+    "end": 204,
+    "text": " One says 13 and a half."
+  },
+  {
+    "start": 204,
+    "end": 205,
+    "text": " OK."
+  },
+  {
+    "start": 205,
+    "end": 210,
+    "text": " And then I found a 56-page medical report from the CIA"
+  },
+  {
+    "start": 210,
+    "end": 215,
+    "text": " that was based on the doctor who had seen Hitler over from 1936"
+  },
+  {
+    "start": 215,
+    "end": 216,
+    "text": " to his death."
+  },
+  {
+    "start": 216,
+    "end": 218,
+    "text": " And it had a lot of facts on it."
+  },
+  {
+    "start": 218,
+    "end": 219,
+    "text": " And I read most."
+  },
+  {
+    "start": 219,
+    "end": 220,
+    "text": " Did you say how many balls he had?"
+  },
+  {
+    "start": 220,
+    "end": 223,
+    "text": " Well, that was interested to look into that."
+  },
+  {
+    "start": 223,
+    "end": 226,
+    "text": " And it says there's nothing wrong with his genitalia, which is..."
+  },
+  {
+    "start": 226,
+    "end": 229,
+    "text": " He had a farting problem from that medical report, as I could tell."
+  },
+  {
+    "start": 229,
+    "end": 231,
+    "text": " Yeah, he was very flatulent."
+  },
+  {
+    "start": 231,
+    "end": 232,
+    "text": " Was he?"
+  },
+  {
+    "start": 232,
+    "end": 233,
+    "text": " A gastro-problems in his tummy."
+  },
+  {
+    "start": 233,
+    "end": 235,
+    "text": " It's a thorough inflammation he had as well."
+  },
+  {
+    "start": 235,
+    "end": 237,
+    "text": " So he had a very blocked nose."
+  },
+  {
+    "start": 237,
+    "end": 239,
+    "text": " Oh, what should he do?"
+  },
+  {
+    "start": 239,
+    "end": 240,
+    "text": " No."
+  },
+  {
+    "start": 240,
+    "end": 242,
+    "text": " No, I don't think we're making that noise."
+  },
+  {
+    "start": 242,
+    "end": 243,
+    "text": " No, yeah."
+  },
+  {
+    "start": 243,
+    "end": 244,
+    "text": " He's not that Hitler."
+  },
+  {
+    "start": 244,
+    "end": 245,
+    "text": " Poor old Hitler."
+  },
+  {
+    "start": 245,
+    "end": 246,
+    "text": " He was..."
+  },
+  {
+    "start": 246,
+    "end": 248,
+    "text": " I did his BMI in 1936."
+  },
+  {
+    "start": 248,
+    "end": 251,
+    "text": " He came out at 22.5, which is a pretty good BMI."
+  },
+  {
+    "start": 251,
+    "end": 252,
+    "text": " Oh, I think that's..."
+  },
+  {
+    "start": 252,
+    "end": 253,
+    "text": " I think that's my BMI."
+  },
+  {
+    "start": 253,
+    "end": 254,
+    "text": " Yeah, you got the same as Hitler."
+  },
+  {
+    "start": 254,
+    "end": 256,
+    "text": " It's not the top line of your CB, though."
+  },
+  {
+    "start": 256,
+    "end": 257,
+    "text": " I'm afraid it is."
+  },
+  {
+    "start": 257,
+    "end": 259,
+    "text": " But it's kind of weird, because you start..."
+  },
+  {
+    "start": 259,
+    "end": 261,
+    "text": " I started looking up the historical figures."
+  },
+  {
+    "start": 261,
+    "end": 263,
+    "text": " And you can't find anyone's foot size."
+  },
+  {
+    "start": 263,
+    "end": 265,
+    "text": " It's something that's not really recorded very..."
+  },
+  {
+    "start": 265,
+    "end": 266,
+    "text": " Yeah, you're right."
+  },
+  {
+    "start": 266,
+    "end": 269,
+    "text": " You can find celebrities sometimes if they've got big or small feet."
+  },
+  {
+    "start": 269,
+    "end": 270,
+    "text": " Yeah, that's..."
+  },
+  {
+    "start": 270,
+    "end": 273,
+    "text": " You try to look up a lot of celebrity foot sizes,"
+  },
+  {
+    "start": 273,
+    "end": 275,
+    "text": " and you just found a load of fetish sites."
+  },
+  {
+    "start": 275,
+    "end": 278,
+    "text": " Well, there are lots of people who have these websites"
+  },
+  {
+    "start": 278,
+    "end": 280,
+    "text": " where they're interested in celebrities' feet."
+  },
+  {
+    "start": 280,
+    "end": 281,
+    "text": " And I wish you..."
+  },
+  {
+    "start": 281,
+    "end": 283,
+    "text": " Well, how your voice slightly dropped when you said that."
+  },
+  {
+    "start": 283,
+    "end": 286,
+    "text": " Well, I'm not embarrassed."
+  },
+  {
+    "start": 286,
+    "end": 291,
+    "text": " I was reading about celebrity shoes,"
+  },
+  {
+    "start": 291,
+    "end": 292,
+    "text": " and there's a little theory."
+  },
+  {
+    "start": 292,
+    "end": 296,
+    "text": " So I don't know if we can class Hitler in the celebrity bracket."
+  },
+  {
+    "start": 296,
+    "end": 298,
+    "text": " Yeah, we can put him in there, right?"
+  },
+  {
+    "start": 298,
+    "end": 300,
+    "text": " So, celebrities when they go..."
+  },
+  {
+    "start": 300,
+    "end": 302,
+    "text": " He's not going on celebrity, you know..."
+  },
+  {
+    "start": 302,
+    "end": 303,
+    "text": " Get me out of here."
+  },
+  {
+    "start": 303,
+    "end": 304,
+    "text": " Hey, buddy, wood, now, that's the point."
+  },
+  {
+    "start": 304,
+    "end": 307,
+    "text": " All those that kind of level of politician,"
+  },
+  {
+    "start": 307,
+    "end": 309,
+    "text": " that's the way they become successfully would be all over them."
+  },
+  {
+    "start": 309,
+    "end": 311,
+    "text": " Do you think it's like the \"Hurry Red\" now?"
+  },
+  {
+    "start": 311,
+    "end": 314,
+    "text": " I think he's like an \"Widdicum\" of his day."
+  },
+  {
+    "start": 314,
+    "end": 318,
+    "text": " Yeah, so I think that I read that certain celebrities do"
+  },
+  {
+    "start": 318,
+    "end": 319,
+    "text": " when they're going on the red carpet,"
+  },
+  {
+    "start": 319,
+    "end": 322,
+    "text": " is they often wear much larger shoes than their foot size."
+  },
+  {
+    "start": 322,
+    "end": 325,
+    "text": " That's a common thing in Hollywood, because..."
+  },
+  {
+    "start": 325,
+    "end": 327,
+    "text": " Well, often when you're going out, you're wearing new shoes, aren't you?"
+  },
+  {
+    "start": 327,
+    "end": 328,
+    "text": " And you haven't broken them in."
+  },
+  {
+    "start": 328,
+    "end": 330,
+    "text": " So if you're wearing a shoe that fits your foot perfectly,"
+  },
+  {
+    "start": 330,
+    "end": 333,
+    "text": " you're going to get blisters, you're going to mess up your feet."
+  },
+  {
+    "start": 333,
+    "end": 335,
+    "text": " So when you're on the red carpet, there's often photos,"
+  },
+  {
+    "start": 335,
+    "end": 338,
+    "text": " there's celebrities who've got huge gaps at the back of their heels,"
+  },
+  {
+    "start": 338,
+    "end": 340,
+    "text": " if it's a woman wearing heels."
+  },
+  {
+    "start": 340,
+    "end": 341,
+    "text": " What? No."
+  },
+  {
+    "start": 341,
+    "end": 343,
+    "text": " People just fall off constantly on the red carpet."
+  },
+  {
+    "start": 343,
+    "end": 345,
+    "text": " It's all an episode of Cinderella."
+  },
+  {
+    "start": 345,
+    "end": 347,
+    "text": " Every time someone walks down it."
+  },
+  {
+    "start": 347,
+    "end": 350,
+    "text": " It's just... It's J-Lo, does it? Yeah, it's a thing."
+  },
+  {
+    "start": 350,
+    "end": 352,
+    "text": " No. It's a thing."
+  },
+  {
+    "start": 352,
+    "end": 354,
+    "text": " Wow. Okay, apparently you know I..."
+  },
+  {
+    "start": 354,
+    "end": 356,
+    "text": " The more you say it, the more likely it will be to be true."
+  },
+  {
+    "start": 356,
+    "end": 359,
+    "text": " If there are any celebrities out there, please write in a lettuce note."
+  },
+  {
+    "start": 359,
+    "end": 361,
+    "text": " If there are no celebrities listening to this show."
+  },
+  {
+    "start": 361,
+    "end": 364,
+    "text": " No, that's absolutely right and quite right from them."
+  },
+  {
+    "start": 364,
+    "end": 367,
+    "text": " There are feet are getting bigger, apparently,"
+  },
+  {
+    "start": 367,
+    "end": 371,
+    "text": " which I find really weird, but there was a survey done in 1951, I think,"
+  },
+  {
+    "start": 371,
+    "end": 375,
+    "text": " and it looked into people's shoe sizes, as well as other stuff."
+  },
+  {
+    "start": 375,
+    "end": 379,
+    "text": " And apparently the average shoe size for a woman then was size three,"
+  },
+  {
+    "start": 379,
+    "end": 383,
+    "text": " which is insane, because I don't know any women with size three feet."
+  },
+  {
+    "start": 383,
+    "end": 385,
+    "text": " Kylie Minogue. Kylie Minogue."
+  },
+  {
+    "start": 385,
+    "end": 387,
+    "text": " I don't know her, though."
+  },
+  {
+    "start": 387,
+    "end": 388,
+    "text": " She's probably listening, though."
+  },
+  {
+    "start": 388,
+    "end": 390,
+    "text": " So is it true that we're evolving that way,"
+  },
+  {
+    "start": 390,
+    "end": 394,
+    "text": " because maybe only big-fotted women are having sex and having children?"
+  },
+  {
+    "start": 394,
+    "end": 397,
+    "text": " Yeah, big-fotted women became incredibly sexy in the late 50s."
+  },
+  {
+    "start": 397,
+    "end": 398,
+    "text": " Yeah."
+  },
+  {
+    "start": 398,
+    "end": 400,
+    "text": " And yeah, we bred out the small-footed ones."
+  },
+  {
+    "start": 400,
+    "end": 402,
+    "text": " It was a great triumph."
+  },
+  {
+    "start": 402,
+    "end": 407,
+    "text": " The theory is the explanation I read is that we're getting fatter."
+  },
+  {
+    "start": 407,
+    "end": 411,
+    "text": " And so we're pushing ourselves down on our feet and we're flattening our arms."
+  },
+  {
+    "start": 411,
+    "end": 412,
+    "text": " No, it is true."
+  },
+  {
+    "start": 412,
+    "end": 415,
+    "text": " It is to do with body size, increasing, they think."
+  },
+  {
+    "start": 415,
+    "end": 417,
+    "text": " I actually think those studies must have also been flawed,"
+  },
+  {
+    "start": 417,
+    "end": 420,
+    "text": " because I don't believe shoe sizes have gone up three sizes."
+  },
+  {
+    "start": 420,
+    "end": 422,
+    "text": " So now the average for a girl is size six."
+  },
+  {
+    "start": 422,
+    "end": 426,
+    "text": " But it's not like we've all got tiny skeleton feet, a massive, flabby fat on them."
+  },
+  {
+    "start": 426,
+    "end": 428,
+    "text": " It's not about the fatness."
+  },
+  {
+    "start": 428,
+    "end": 430,
+    "text": " It's about the arch being pressed down."
+  },
+  {
+    "start": 430,
+    "end": 432,
+    "text": " It's sort of squeezed out a bit."
+  },
+  {
+    "start": 432,
+    "end": 434,
+    "text": " So you do get, you get wider feet, as well, for example."
+  },
+  {
+    "start": 434,
+    "end": 437,
+    "text": " And also, the other reason is better nutrition."
+  },
+  {
+    "start": 437,
+    "end": 440,
+    "text": " If you're a child and you have better nutrition, you will just be bigger."
+  },
+  {
+    "start": 440,
+    "end": 443,
+    "text": " And that means your feet will be bigger, as well."
+  },
+  {
+    "start": 443,
+    "end": 444,
+    "text": " You will like this."
+  },
+  {
+    "start": 444,
+    "end": 447,
+    "text": " One retailer called it Bigfoot Britain."
+  },
+  {
+    "start": 447,
+    "end": 448,
+    "text": " Nice."
+  },
+  {
+    "start": 448,
+    "end": 449,
+    "text": " That is very cool."
+  },
+  {
+    "start": 449,
+    "end": 454,
+    "text": " I did do some, I got sidetracked doing Bigfoot research while I was actually doing that."
+  },
+  {
+    "start": 454,
+    "end": 455,
+    "text": " The links came up."
+  },
+  {
+    "start": 455,
+    "end": 456,
+    "text": " I had to read it, you know."
+  },
+  {
+    "start": 456,
+    "end": 458,
+    "text": " The investigation continues."
+  },
+  {
+    "start": 458,
+    "end": 461,
+    "text": " Wait, does Bigfoot actually have big feet?"
+  },
+  {
+    "start": 461,
+    "end": 462,
+    "text": " Yeah, hence his name."
+  },
+  {
+    "start": 462,
+    "end": 464,
+    "text": " Well, I've never actually pictured his feet."
+  },
+  {
+    "start": 464,
+    "end": 466,
+    "text": " Does he have a big feet for a Bigfoot?"
+  },
+  {
+    "start": 466,
+    "end": 467,
+    "text": " That's the question."
+  },
+  {
+    "start": 467,
+    "end": 470,
+    "text": " In the 50s, Bigfoot was just called foot."
+  },
+  {
+    "start": 470,
+    "end": 471,
+    "text": " Foot."
+  },
+  {
+    "start": 471,
+    "end": 473,
+    "text": " Yeah."
+  },
+  {
+    "start": 473,
+    "end": 475,
+    "text": " Do you know who had the biggest feet of all time?"
+  },
+  {
+    "start": 475,
+    "end": 476,
+    "text": " No."
+  },
+  {
+    "start": 476,
+    "end": 479,
+    "text": " It's the tallest man of all time who was called Robert Wadlow."
+  },
+  {
+    "start": 479,
+    "end": 485,
+    "text": " He had size 37 or 36 UK size feet."
+  },
+  {
+    "start": 485,
+    "end": 490,
+    "text": " He had real problems finding shoes, obviously, because he was the only person in the world with this size shoes."
+  },
+  {
+    "start": 490,
+    "end": 492,
+    "text": " And he..."
+  },
+  {
+    "start": 492,
+    "end": 496,
+    "text": " He's imagining him walking past a clock's sale, thinking, maybe this time."
+  },
+  {
+    "start": 496,
+    "end": 501,
+    "text": " Well, when he was at high school, he wanted to play sport."
+  },
+  {
+    "start": 501,
+    "end": 506,
+    "text": " He wanted to play basketball, because he thought he could stand next to the hoop and just put his hand over the hoop."
+  },
+  {
+    "start": 506,
+    "end": 508,
+    "text": " He'd start anyone from scarring."
+  },
+  {
+    "start": 508,
+    "end": 512,
+    "text": " But he couldn't get training shoes made quickly enough so he could never play."
+  },
+  {
+    "start": 512,
+    "end": 513,
+    "text": " I was just speaking of growing."
+  },
+  {
+    "start": 513,
+    "end": 517,
+    "text": " When he's only standing by the thing, he doesn't just put it up just very often."
+  },
+  {
+    "start": 517,
+    "end": 519,
+    "text": " But some socks."
+  },
+  {
+    "start": 519,
+    "end": 523,
+    "text": " Is there a rule that says you had to learn shoes that must be."
+  },
+  {
+    "start": 523,
+    "end": 529,
+    "text": " That must be where they're building, making those shoes in order to have that guy blocking them."
+  },
+  {
+    "start": 529,
+    "end": 532,
+    "text": " It's such a good week and we can win every game."
+  },
+  {
+    "start": 532,
+    "end": 534,
+    "text": " There could be some six-year-old."
+  },
+  {
+    "start": 534,
+    "end": 537,
+    "text": " At worst, he's going to be nil-bil."
+  },
+  {
+    "start": 537,
+    "end": 539,
+    "text": " Yeah, you'd squeeze your feet in."
+  },
+  {
+    "start": 539,
+    "end": 540,
+    "text": " He should have done an ugly sister."
+  },
+  {
+    "start": 540,
+    "end": 542,
+    "text": " You can bend them over."
+  },
+  {
+    "start": 542,
+    "end": 543,
+    "text": " And not apparently most people do."
+  },
+  {
+    "start": 543,
+    "end": 549,
+    "text": " Service always say that something like 40% of women say they wear smaller shoes and they should."
+  },
+  {
+    "start": 549,
+    "end": 553,
+    "text": " Which again, I'm very skeptical about because I don't really know anyone who doesn't wear their shoe size."
+  },
+  {
+    "start": 553,
+    "end": 558,
+    "text": " But do they just claim that their shoes are smaller than they are to seem more dainty?"
+  },
+  {
+    "start": 558,
+    "end": 563,
+    "text": " No, because they're saying I've got big feet, but I'm wearing small shoes and it's really painful."
+  },
+  {
+    "start": 563,
+    "end": 567,
+    "text": " I can't go to a shop and say I'm size three and they're just shoving it on."
+  },
+  {
+    "start": 567,
+    "end": 569,
+    "text": " Are you sure? No, no, definitely three."
+  },
+  {
+    "start": 569,
+    "end": 571,
+    "text": " Well, they do that as the idea because people are embarrassed."
+  },
+  {
+    "start": 571,
+    "end": 574,
+    "text": " So apparently you reach a ceiling at nine as a woman."
+  },
+  {
+    "start": 574,
+    "end": 576,
+    "text": " I don't know what it is as a man."
+  },
+  {
+    "start": 576,
+    "end": 581,
+    "text": " And however large your feet are above that, you just go for a size nine because it's too embarrassing."
+  },
+  {
+    "start": 581,
+    "end": 582,
+    "text": " So a lot of people are angry."
+  },
+  {
+    "start": 582,
+    "end": 584,
+    "text": " I think men just like to have bigger feet, don't they?"
+  },
+  {
+    "start": 584,
+    "end": 587,
+    "text": " They pretend that they're bigger because it's more masculine to have bigger feet."
+  },
+  {
+    "start": 587,
+    "end": 589,
+    "text": " Because of that fictional correlation thing."
+  },
+  {
+    "start": 589,
+    "end": 595,
+    "text": " Yes, it's really interesting because I sort of vaguely assume that there was something in the foot size to penis size thing."
+  },
+  {
+    "start": 595,
+    "end": 598,
+    "text": " And lots of studies have just found nothing."
+  },
+  {
+    "start": 598,
+    "end": 600,
+    "text": " No correlation, rather."
+  },
+  {
+    "start": 600,
+    "end": 605,
+    "text": " There's nothing there."
+  },
+  {
+    "start": 605,
+    "end": 611,
+    "text": " It's all based on studies where, so for example, the study of a hundred and four men by a university college London."
+  },
+  {
+    "start": 611,
+    "end": 615,
+    "text": " They measured penises when both soft and gently stretched."
+  },
+  {
+    "start": 615,
+    "end": 617,
+    "text": " And they found no correlation."
+  },
+  {
+    "start": 617,
+    "end": 621,
+    "text": " I actually measured my penis somewhat of those shoe size pieces."
+  },
+  {
+    "start": 621,
+    "end": 624,
+    "text": " What do you think you're good for?"
+  },
+  {
+    "start": 624,
+    "end": 629,
+    "text": " You've been kicked out of so many quarks, branches."
+  },
+  {
+    "start": 629,
+    "end": 634,
+    "text": " Okay, who around this table would go back in time to kill Hitler if you could?"
+  },
+  {
+    "start": 634,
+    "end": 636,
+    "text": " Anyone?"
+  },
+  {
+    "start": 636,
+    "end": 637,
+    "text": " And you would or not?"
+  },
+  {
+    "start": 637,
+    "end": 638,
+    "text": " Yes, I would."
+  },
+  {
+    "start": 638,
+    "end": 641,
+    "text": " I wouldn't because I understand the butterfly effect."
+  },
+  {
+    "start": 641,
+    "end": 643,
+    "text": " If you killed him, none of us would exist."
+  },
+  {
+    "start": 643,
+    "end": 646,
+    "text": " Yeah, I read a pen out a novel where this was for you."
+  },
+  {
+    "start": 646,
+    "end": 649,
+    "text": " None of the novels don't get me into alternate histories."
+  },
+  {
+    "start": 649,
+    "end": 650,
+    "text": " None of them work."
+  },
+  {
+    "start": 650,
+    "end": 657,
+    "text": " If you change one thing in history, certainly that long ago, of that magnitude especially, then nobody is the same."
+  },
+  {
+    "start": 657,
+    "end": 659,
+    "text": " Nobody so life now would be alive."
+  },
+  {
+    "start": 659,
+    "end": 661,
+    "text": " Because different people would have hooked up."
+  },
+  {
+    "start": 661,
+    "end": 662,
+    "text": " Different people would be alive and dead."
+  },
+  {
+    "start": 662,
+    "end": 663,
+    "text": " There'd be different children."
+  },
+  {
+    "start": 663,
+    "end": 664,
+    "text": " None of us would be here."
+  },
+  {
+    "start": 664,
+    "end": 669,
+    "text": " Because my parents both met up over the love of Hitler."
+  },
+  {
+    "start": 669,
+    "end": 672,
+    "text": " Yeah, they were both buying Nazi memorabilia, weren't they?"
+  },
+  {
+    "start": 672,
+    "end": 677,
+    "text": " Because how many people went to war in the Second World War with one partner who then ended up having children with someone else?"
+  },
+  {
+    "start": 677,
+    "end": 678,
+    "text": " Because they were dead."
+  },
+  {
+    "start": 678,
+    "end": 679,
+    "text": " That's the first thing."
+  },
+  {
+    "start": 679,
+    "end": 684,
+    "text": " But even if you meet someone a day after or have sex two minutes later, that's a different person coming out."
+  },
+  {
+    "start": 684,
+    "end": 685,
+    "text": " Yes, true."
+  },
+  {
+    "start": 685,
+    "end": 690,
+    "text": " I just don't think that this podcast is about discussing these huge philosophical questions you've posed, James."
+  },
+  {
+    "start": 690,
+    "end": 691,
+    "text": " Okay, well, can I tell you my facts?"
+  },
+  {
+    "start": 691,
+    "end": 692,
+    "text": " I'm already getting tweeted out."
+  },
+  {
+    "start": 692,
+    "end": 693,
+    "text": " Yeah."
+  },
+  {
+    "start": 693,
+    "end": 698,
+    "text": " So the fact is that men are more likely than women to say that they'll go back to kill Hitler."
+  },
+  {
+    "start": 698,
+    "end": 705,
+    "text": " And the reason according to psychologists is men prefer utilitarian ideas and women prefer the ontological arguments."
+  },
+  {
+    "start": 705,
+    "end": 708,
+    "text": " So men are more likely to do things that help everyone."
+  },
+  {
+    "start": 708,
+    "end": 713,
+    "text": " And women are more likely to think, well, actually there are moral reasons why I shouldn't do this particular thing."
+  },
+  {
+    "start": 713,
+    "end": 715,
+    "text": " Never mind in what the outcome is."
+  },
+  {
+    "start": 715,
+    "end": 717,
+    "text": " Yeah, so it's always baby Hitler."
+  },
+  {
+    "start": 717,
+    "end": 721,
+    "text": " You go back and kill a bit Hitler as a baby and women are going to go, no, I'm not going to do that."
+  },
+  {
+    "start": 721,
+    "end": 724,
+    "text": " Was I think a few men would like to mind killing a baby?"
+  },
+  {
+    "start": 724,
+    "end": 726,
+    "text": " Sorry, can I clarify? I'm not in that category."
+  },
+  {
+    "start": 726,
+    "end": 732,
+    "text": " I would go back and honorably challenge Hitler when he was at his absolute physical peak."
+  },
+  {
+    "start": 732,
+    "end": 735,
+    "text": " What are you going to do?"
+  },
+  {
+    "start": 735,
+    "end": 740,
+    "text": " How old would you let Hitler get to before you kill him?"
+  },
+  {
+    "start": 740,
+    "end": 744,
+    "text": " I'd say after his First World War service, I would say."
+  },
+  {
+    "start": 744,
+    "end": 746,
+    "text": " And then it's probably too late because then the Nazi party."
+  },
+  {
+    "start": 746,
+    "end": 750,
+    "text": " I think you should aim for probably when you could just about beat him at your current."
+  },
+  {
+    "start": 750,
+    "end": 752,
+    "text": " So maybe when he's about 14."
+  },
+  {
+    "start": 752,
+    "end": 754,
+    "text": " Come on."
+  },
+  {
+    "start": 754,
+    "end": 756,
+    "text": " Or how can you compete 14 year old Hitler?"
+  },
+  {
+    "start": 756,
+    "end": 759,
+    "text": " It was pretty weak. He's an age where you couldn't breathe properly."
+  },
+  {
+    "start": 759,
+    "end": 762,
+    "text": " Yeah, with those feet though. He just crushed you."
+  },
+  {
+    "start": 762,
+    "end": 764,
+    "text": " Exactly."
+  },
+  {
+    "start": 764,
+    "end": 769,
+    "text": " Sorry, just to clarify, I would actually like to go back to Weimar Germany and improve the social and economic conditions."
+  },
+  {
+    "start": 769,
+    "end": 775,
+    "text": " To the point at which Hitler had no grievance to exploit in the German fight."
+  },
+  {
+    "start": 775,
+    "end": 777,
+    "text": " Such a shame, I'm going to cut this out."
+  },
+  {
+    "start": 777,
+    "end": 785,
+    "text": " Hitler was very unfashionable, apparently."
+  },
+  {
+    "start": 785,
+    "end": 789,
+    "text": " So I was looking to his clothes, starting with shoes and working my way up."
+  },
+  {
+    "start": 789,
+    "end": 793,
+    "text": " He was in 1946, so I was going to say he was very unfashionable."
+  },
+  {
+    "start": 793,
+    "end": 795,
+    "text": " He was quite unfashionable."
+  },
+  {
+    "start": 795,
+    "end": 797,
+    "text": " I'd argue he's still out of fashion a little bit."
+  },
+  {
+    "start": 797,
+    "end": 800,
+    "text": " Yeah, his reputation would never come back, has it?"
+  },
+  {
+    "start": 800,
+    "end": 804,
+    "text": " He, even in his day, didn't wear very fashionable clothes."
+  },
+  {
+    "start": 804,
+    "end": 809,
+    "text": " So he had a sort of personal valet or valet, who disbared off him, apparently."
+  },
+  {
+    "start": 809,
+    "end": 817,
+    "text": " This is a really weird account from the valet of trying to dress Hitler and saying that he'd lay out new clothes for him every day that would suit him."
+  },
+  {
+    "start": 817,
+    "end": 819,
+    "text": " And then Hitler always refused to wear them."
+  },
+  {
+    "start": 819,
+    "end": 826,
+    "text": " But then weirdly, Nazi chic, as in wearing Nazi clothes, is a thing that's not outrageous in some parts of the world."
+  },
+  {
+    "start": 826,
+    "end": 832,
+    "text": " So I didn't realise this in parts of Asia, so in Thailand, sometimes it gets to the news here that someone's got in trouble in Thailand,"
+  },
+  {
+    "start": 832,
+    "end": 836,
+    "text": " because a class of school children will be wearing SS uniforms."
+  },
+  {
+    "start": 836,
+    "end": 840,
+    "text": " And it does happen, and it doesn't have the same associations there as it does here."
+  },
+  {
+    "start": 840,
+    "end": 844,
+    "text": " And there was an interview with someone in Thailand, I think, saying it's not really taught as an ideology."
+  },
+  {
+    "start": 844,
+    "end": 847,
+    "text": " It's taught as an objective piece of history."
+  },
+  {
+    "start": 847,
+    "end": 850,
+    "text": " And so Nazi outfits have become fancy dress."
+  },
+  {
+    "start": 850,
+    "end": 851,
+    "text": " So it's fancy dress, yeah?"
+  },
+  {
+    "start": 851,
+    "end": 852,
+    "text": " Yeah."
+  },
+  {
+    "start": 852,
+    "end": 857,
+    "text": " Whereas they wouldn't wear a Mao Zedong hat, that would be very upsetting."
+  },
+  {
+    "start": 857,
+    "end": 859,
+    "text": " I used to wear that in Sydney."
+  },
+  {
+    "start": 859,
+    "end": 860,
+    "text": " What? Hitler clothes?"
+  },
+  {
+    "start": 860,
+    "end": 862,
+    "text": " No, not Hitler clothes."
+  },
+  {
+    "start": 862,
+    "end": 865,
+    "text": " We were only in Sydney last year."
+  },
+  {
+    "start": 865,
+    "end": 868,
+    "text": " Who do you think you are, Prince Harry?"
+  },
+  {
+    "start": 868,
+    "end": 875,
+    "text": " When I did a trip back to China when I was 18, I bought in Tiananmen Square one of those Mao communist hats."
+  },
+  {
+    "start": 875,
+    "end": 878,
+    "text": " Jesus Christ, that is a whole combination of bad things."
+  },
+  {
+    "start": 878,
+    "end": 879,
+    "text": " You shouldn't have done that."
+  },
+  {
+    "start": 879,
+    "end": 886,
+    "text": " I know. And I, well, this is what's worse. I went canvassing for the Labour Party just before I left the country to move here."
+  },
+  {
+    "start": 886,
+    "end": 888,
+    "text": " And it was a really hot day, and they only had one hat."
+  },
+  {
+    "start": 888,
+    "end": 891,
+    "text": " So I wore that hat while I was handing out the leaflets."
+  },
+  {
+    "start": 891,
+    "end": 894,
+    "text": " And, yeah, they asked me to stop."
+  },
+  {
+    "start": 894,
+    "end": 896,
+    "text": " They haven't been in power since then."
+  },
+  {
+    "start": 896,
+    "end": 898,
+    "text": " I can't picture the Mao Zedong hat."
+  },
+  {
+    "start": 898,
+    "end": 901,
+    "text": " It's a green little army hat with the red star on it."
+  },
+  {
+    "start": 901,
+    "end": 903,
+    "text": " Okay, I do know the one you mean, yeah, yeah."
+  },
+  {
+    "start": 903,
+    "end": 907,
+    "text": " No, no, it's not like I love Mao Zedong kind of cap."
+  },
+  {
+    "start": 907,
+    "end": 912,
+    "text": " The SS uniforms don't say, \"I hear Hitler.\" That wasn't the uniform."
+  },
+  {
+    "start": 912,
+    "end": 916,
+    "text": " I had a Hitler mustache for a year, or a toothbrush mustache for a year."
+  },
+  {
+    "start": 916,
+    "end": 920,
+    "text": " That was the first time I ever saw you. It was the one I got news for you just looking like Hitler."
+  },
+  {
+    "start": 920,
+    "end": 921,
+    "text": " Yeah, why was that again?"
+  },
+  {
+    "start": 921,
+    "end": 926,
+    "text": " Well, I was trying to reclaim the mustache for comedy because Charlie Chapman had it before Hitler."
+  },
+  {
+    "start": 926,
+    "end": 932,
+    "text": " And I was just interested in why that symbol has taken the brunt of Hitler's disapproval."
+  },
+  {
+    "start": 932,
+    "end": 937,
+    "text": " There was lots of things he did for having a BMI of 22 point wherever there wasn't that."
+  },
+  {
+    "start": 937,
+    "end": 939,
+    "text": " You're not in trouble for that."
+  },
+  {
+    "start": 939,
+    "end": 943,
+    "text": " And that mustache was very popular before Hitler, and Hitler obviously popularized it as well."
+  },
+  {
+    "start": 943,
+    "end": 945,
+    "text": " A lot of comedians had it first."
+  },
+  {
+    "start": 945,
+    "end": 947,
+    "text": " So I was sort of just interested in the symbolism of it."
+  },
+  {
+    "start": 947,
+    "end": 950,
+    "text": " But then I also then had it for a year, which was a disconcerting."
+  },
+  {
+    "start": 950,
+    "end": 953,
+    "text": " Did you get very bad reactions from some people?"
+  },
+  {
+    "start": 953,
+    "end": 958,
+    "text": " Not really. The worst thing that happened, I mean most people laughed at you just the second you'd passed."
+  },
+  {
+    "start": 958,
+    "end": 964,
+    "text": " A few people looked a bit shocked and upset. But the worst thing that happened was I was an old and chepper's bush green"
+  },
+  {
+    "start": 964,
+    "end": 967,
+    "text": " at about midnight one night walking along and a man was coming out of a white van."
+  },
+  {
+    "start": 967,
+    "end": 972,
+    "text": " He saw me and went, \"Well, I'll make you a man after my own heart,\" which was just chilling."
+  },
+  {
+    "start": 972,
+    "end": 978,
+    "text": " Like, you know, he was sort of going, \"If only I was as brave as you, I would display my Nazism on my face.\""
+  },
+  {
+    "start": 978,
+    "end": 979,
+    "text": " Well, then he was a Charlie Chaplin fan."
+  },
+  {
+    "start": 979,
+    "end": 983,
+    "text": " He could have been, so you know. That's it. It was all about not making assumptions."
+  },
+  {
+    "start": 983,
+    "end": 987,
+    "text": " But this show was about the importance of voting and an attempt to stop the rise of right wing politics."
+  },
+  {
+    "start": 987,
+    "end": 990,
+    "text": " So, you know, I'm glad comedy works so well."
+  },
+  {
+    "start": 990,
+    "end": 994,
+    "text": " He's just reminded everyone of what they were missing."
+  },
+  {
+    "start": 994,
+    "end": 1005,
+    "text": " Okay, it is time for fact number two and that is Chuzinski."
+  },
+  {
+    "start": 1005,
+    "end": 1009,
+    "text": " My father's week is that in the Indigenous and Mexican language of Chalcatonga Mixtech,"
+  },
+  {
+    "start": 1009,
+    "end": 1012,
+    "text": " it is impossible to ask anyone a question."
+  },
+  {
+    "start": 1012,
+    "end": 1015,
+    "text": " How did the translation of your emergency questions go down there?"
+  },
+  {
+    "start": 1015,
+    "end": 1019,
+    "text": " I didn't sell any kind of copies out there and now it's explained."
+  },
+  {
+    "start": 1019,
+    "end": 1022,
+    "text": " That's what it is. Okay, explain."
+  },
+  {
+    "start": 1022,
+    "end": 1026,
+    "text": " This is the... Sorry, was that a... That was a question."
+  },
+  {
+    "start": 1026,
+    "end": 1027,
+    "text": " That explains, isn't it?"
+  },
+  {
+    "start": 1027,
+    "end": 1029,
+    "text": " It wasn't meant to be so aggressive."
+  },
+  {
+    "start": 1029,
+    "end": 1031,
+    "text": " So, Anna, why don't you tell us what you mean?"
+  },
+  {
+    "start": 1031,
+    "end": 1032,
+    "text": " Yeah, there was an order."
+  },
+  {
+    "start": 1032,
+    "end": 1035,
+    "text": " So, these are researchers at a place or a company called Idebonne,"
+  },
+  {
+    "start": 1035,
+    "end": 1037,
+    "text": " which is a language processing company,"
+  },
+  {
+    "start": 1037,
+    "end": 1043,
+    "text": " and they sort of coded applied code to 239 languages to look at how they worked."
+  },
+  {
+    "start": 1043,
+    "end": 1047,
+    "text": " So, to look at things like how you order subjects and objects and verbs"
+  },
+  {
+    "start": 1047,
+    "end": 1053,
+    "text": " and how a language makes clear things like an order or a negative or a positive or a question."
+  },
+  {
+    "start": 1053,
+    "end": 1059,
+    "text": " And Chalcatonga Mixtech is spoken by about 6,000 people in Mexico"
+  },
+  {
+    "start": 1059,
+    "end": 1064,
+    "text": " and it was determined to be the most unusual language in the world."
+  },
+  {
+    "start": 1064,
+    "end": 1068,
+    "text": " So, it shares fewer things with any other languages than any other languages"
+  },
+  {
+    "start": 1068,
+    "end": 1071,
+    "text": " and there was no mechanism for showing you asking a question."
+  },
+  {
+    "start": 1071,
+    "end": 1075,
+    "text": " There's no way of saying, are you all right, as opposed to, you're all right?"
+  },
+  {
+    "start": 1075,
+    "end": 1077,
+    "text": " But there's also."
+  },
+  {
+    "start": 1077,
+    "end": 1081,
+    "text": " There's no difference between saying, are you all right and you are all right?"
+  },
+  {
+    "start": 1081,
+    "end": 1083,
+    "text": " Yeah, you're a bit of all right."
+  },
+  {
+    "start": 1083,
+    "end": 1086,
+    "text": " They're not actually cracking onto each other constantly."
+  },
+  {
+    "start": 1086,
+    "end": 1088,
+    "text": " I was just trying to sex it up."
+  },
+  {
+    "start": 1088,
+    "end": 1091,
+    "text": " But there's no way. There's no way of saying to someone,"
+  },
+  {
+    "start": 1091,
+    "end": 1094,
+    "text": " do you fancy a drink? Would you like to get married?"
+  },
+  {
+    "start": 1094,
+    "end": 1096,
+    "text": " And then would you like to have some children,"
+  },
+  {
+    "start": 1096,
+    "end": 1099,
+    "text": " which is presumably why only 6,000 people in the world speak it?"
+  },
+  {
+    "start": 1099,
+    "end": 1101,
+    "text": " Yeah, you have to just kind of..."
+  },
+  {
+    "start": 1101,
+    "end": 1103,
+    "text": " Do you, Andrew Hunter Murray, take this one?"
+  },
+  {
+    "start": 1103,
+    "end": 1105,
+    "text": " Sorry, I don't know what it's all about."
+  },
+  {
+    "start": 1105,
+    "end": 1108,
+    "text": " It's very demanding because it's always, it would all be you fancy a drink."
+  },
+  {
+    "start": 1108,
+    "end": 1109,
+    "text": " You want to marry me."
+  },
+  {
+    "start": 1109,
+    "end": 1110,
+    "text": " Yeah."
+  },
+  {
+    "start": 1110,
+    "end": 1115,
+    "text": " So, just, the only people who are getting married are very aggressive men and very polite women."
+  },
+  {
+    "start": 1115,
+    "end": 1117,
+    "text": " Okay, I agree."
+  },
+  {
+    "start": 1117,
+    "end": 1121,
+    "text": " Why can't they just go up at the end of the statement to make a question?"
+  },
+  {
+    "start": 1121,
+    "end": 1122,
+    "text": " That's why can't they?"
+  },
+  {
+    "start": 1122,
+    "end": 1125,
+    "text": " I know they do tones, but that's, I mean, the problem in the UK"
+  },
+  {
+    "start": 1125,
+    "end": 1127,
+    "text": " is that people do that with non-questions now, don't they?"
+  },
+  {
+    "start": 1127,
+    "end": 1128,
+    "text": " Yeah."
+  },
+  {
+    "start": 1128,
+    "end": 1129,
+    "text": " You're going, yeah."
+  },
+  {
+    "start": 1129,
+    "end": 1131,
+    "text": " Just everything goes up at the end of the sentence."
+  },
+  {
+    "start": 1131,
+    "end": 1133,
+    "text": " But that would be the solution for these people to be able to ask questions."
+  },
+  {
+    "start": 1133,
+    "end": 1135,
+    "text": " But I guess it's not a problem."
+  },
+  {
+    "start": 1135,
+    "end": 1136,
+    "text": " I guess they could."
+  },
+  {
+    "start": 1136,
+    "end": 1137,
+    "text": " They don't mind."
+  },
+  {
+    "start": 1137,
+    "end": 1138,
+    "text": " They don't want to ask questions."
+  },
+  {
+    "start": 1138,
+    "end": 1139,
+    "text": " They don't want to know."
+  },
+  {
+    "start": 1139,
+    "end": 1140,
+    "text": " They're very uncurious, they do."
+  },
+  {
+    "start": 1140,
+    "end": 1142,
+    "text": " There must be one question in the need, which is,"
+  },
+  {
+    "start": 1142,
+    "end": 1143,
+    "text": " are you asking or are you telling?"
+  },
+  {
+    "start": 1143,
+    "end": 1144,
+    "text": " That's the question."
+  },
+  {
+    "start": 1144,
+    "end": 1148,
+    "text": " That's made for them."
+  },
+  {
+    "start": 1148,
+    "end": 1151,
+    "text": " All you need, you're right."
+  },
+  {
+    "start": 1151,
+    "end": 1156,
+    "text": " But that's one of the things which makes English so weird is that we flip order to make a question."
+  },
+  {
+    "start": 1156,
+    "end": 1157,
+    "text": " Yes."
+  },
+  {
+    "start": 1157,
+    "end": 1158,
+    "text": " It is true."
+  },
+  {
+    "start": 1158,
+    "end": 1159,
+    "text": " Is it true?"
+  },
+  {
+    "start": 1159,
+    "end": 1160,
+    "text": " Yeah."
+  },
+  {
+    "start": 1160,
+    "end": 1163,
+    "text": " And then Japanese has, for example, the word you just add, you just add a particle."
+  },
+  {
+    "start": 1163,
+    "end": 1165,
+    "text": " And that is a magical transforming particle."
+  },
+  {
+    "start": 1165,
+    "end": 1168,
+    "text": " So, car is that in Japanese."
+  },
+  {
+    "start": 1168,
+    "end": 1170,
+    "text": " So, so does car means, is that so?"
+  },
+  {
+    "start": 1170,
+    "end": 1171,
+    "text": " Yeah."
+  },
+  {
+    "start": 1171,
+    "end": 1172,
+    "text": " And that's multiple common, isn't it?"
+  },
+  {
+    "start": 1172,
+    "end": 1173,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1173,
+    "end": 1175,
+    "text": " So, I think only 2% of languages do the word switching."
+  },
+  {
+    "start": 1175,
+    "end": 1176,
+    "text": " Right."
+  },
+  {
+    "start": 1176,
+    "end": 1178,
+    "text": " Dutch is another one, very unusual."
+  },
+  {
+    "start": 1178,
+    "end": 1180,
+    "text": " So, we are quite special in that way."
+  },
+  {
+    "start": 1180,
+    "end": 1181,
+    "text": " Yeah."
+  },
+  {
+    "start": 1181,
+    "end": 1183,
+    "text": " Do you know what the second least weird language is?"
+  },
+  {
+    "start": 1183,
+    "end": 1184,
+    "text": " Least weird."
+  },
+  {
+    "start": 1184,
+    "end": 1185,
+    "text": " Yeah."
+  },
+  {
+    "start": 1185,
+    "end": 1187,
+    "text": " So, the most normal after Hindi."
+  },
+  {
+    "start": 1187,
+    "end": 1188,
+    "text": " Hindi is the most normal."
+  },
+  {
+    "start": 1188,
+    "end": 1189,
+    "text": " I'll say Welsh."
+  },
+  {
+    "start": 1189,
+    "end": 1192,
+    "text": " There's a language called 'purepecha', which is another Mexican language."
+  },
+  {
+    "start": 1192,
+    "end": 1196,
+    "text": " And the third least weird language to the third most normal language."
+  },
+  {
+    "start": 1196,
+    "end": 1197,
+    "text": " I'll say Welsh."
+  },
+  {
+    "start": 1197,
+    "end": 1200,
+    "text": " It's, yeah, you're going to keep firing, are you?"
+  },
+  {
+    "start": 1200,
+    "end": 1202,
+    "text": " I'm going to be Mexican, Mexican, Mexican."
+  },
+  {
+    "start": 1202,
+    "end": 1204,
+    "text": " I'm rather than Wales, actually."
+  },
+  {
+    "start": 1204,
+    "end": 1206,
+    "text": " I'm afraid it's 'I' new."
+  },
+  {
+    "start": 1206,
+    "end": 1209,
+    "text": " Which we've talked about before, but we've spoken by about 10 people."
+  },
+  {
+    "start": 1209,
+    "end": 1210,
+    "text": " That's Japanese."
+  },
+  {
+    "start": 1210,
+    "end": 1213,
+    "text": " That's Japanese and Hokkaido in Japan."
+  },
+  {
+    "start": 1213,
+    "end": 1217,
+    "text": " So, that's one of the most normal languages spoken by about 10 people."
+  },
+  {
+    "start": 1217,
+    "end": 1220,
+    "text": " I know Hindi is the most normal language, and that's spoken by what?"
+  },
+  {
+    "start": 1220,
+    "end": 1221,
+    "text": " Nearly a billion people."
+  },
+  {
+    "start": 1221,
+    "end": 1222,
+    "text": " Yeah."
+  },
+  {
+    "start": 1222,
+    "end": 1223,
+    "text": " Yeah."
+  },
+  {
+    "start": 1223,
+    "end": 1229,
+    "text": " Hindi has one unusual feature that they found, and that is something called 'predictive possessions'."
+  },
+  {
+    "start": 1229,
+    "end": 1235,
+    "text": " So, you can say 'Anna has a glass of wine', or you can say 'the glass of wine is 'Anna's',"
+  },
+  {
+    "start": 1235,
+    "end": 1238,
+    "text": " but you can't say 'Anna's glass of wine' in Hindi."
+  },
+  {
+    "start": 1238,
+    "end": 1241,
+    "text": " You kind of have the possessive, I think."
+  },
+  {
+    "start": 1241,
+    "end": 1243,
+    "text": " That's the only thing that's weird in Hindi."
+  },
+  {
+    "start": 1243,
+    "end": 1246,
+    "text": " Have you guys heard of the Indonesian Riau dialect?"
+  },
+  {
+    "start": 1246,
+    "end": 1247,
+    "text": " Nope."
+  },
+  {
+    "start": 1247,
+    "end": 1248,
+    "text": " No, this is a great one."
+  },
+  {
+    "start": 1248,
+    "end": 1254,
+    "text": " So, this is claimed by the linguist John McWater to be the most economical language in the world."
+  },
+  {
+    "start": 1254,
+    "end": 1260,
+    "text": " So, there's a phrase 'I am macam', and that just means 'chicken eat'."
+  },
+  {
+    "start": 1260,
+    "end": 1265,
+    "text": " But it can also mean, variously, the chicken is eating, chickens are eating,"
+  },
+  {
+    "start": 1265,
+    "end": 1269,
+    "text": " a chicken is eating, the chicken is eating, the chicken will be eating,"
+  },
+  {
+    "start": 1269,
+    "end": 1273,
+    "text": " the chicken eats, the chicken has eaten, someone is eating the chicken,"
+  },
+  {
+    "start": 1273,
+    "end": 1277,
+    "text": " someone is eating with the chicken, chicken that is eating,"
+  },
+  {
+    "start": 1277,
+    "end": 1281,
+    "text": " and when the chicken is eating, and for others, who's eating with the chicken?"
+  },
+  {
+    "start": 1281,
+    "end": 1285,
+    "text": " That's the same stuff as the chicken, or are they just eating?"
+  },
+  {
+    "start": 1285,
+    "end": 1288,
+    "text": " They are factoring at a restaurant as well."
+  },
+  {
+    "start": 1288,
+    "end": 1289,
+    "text": " I have the chicken."
+  },
+  {
+    "start": 1289,
+    "end": 1290,
+    "text": " Oh, well."
+  },
+  {
+    "start": 1290,
+    "end": 1293,
+    "text": " Sorry, you've just been eaten by a chicken?"
+  },
+  {
+    "start": 1293,
+    "end": 1296,
+    "text": " It's a language of sitcoms, isn't it?"
+  },
+  {
+    "start": 1296,
+    "end": 1298,
+    "text": " Yes, yes, yes."
+  },
+  {
+    "start": 1298,
+    "end": 1302,
+    "text": " I wanted to eat with the chicken, have you killed it?"
+  },
+  {
+    "start": 1302,
+    "end": 1305,
+    "text": " So, it's economical, but no one has any idea what anyone else means."
+  },
+  {
+    "start": 1305,
+    "end": 1306,
+    "text": " I think so, yeah."
+  },
+  {
+    "start": 1306,
+    "end": 1307,
+    "text": " Great."
+  },
+  {
+    "start": 1307,
+    "end": 1308,
+    "text": " It's incredible."
+  },
+  {
+    "start": 1308,
+    "end": 1311,
+    "text": " The really cool language I like is the 'yup-no' language in Papua,"
+  },
+  {
+    "start": 1311,
+    "end": 1314,
+    "text": " which is where everything is conceived, everything directionally,"
+  },
+  {
+    "start": 1314,
+    "end": 1319,
+    "text": " when we'd say go over there, or whatever, is conceived in terms of uphill and downhill."
+  },
+  {
+    "start": 1319,
+    "end": 1323,
+    "text": " So, for instance, if you're talking about where the door is,"
+  },
+  {
+    "start": 1323,
+    "end": 1328,
+    "text": " you'll say, oh, it's just uphill, or if I was saying, oh, whereabouts is James now?"
+  },
+  {
+    "start": 1328,
+    "end": 1329,
+    "text": " Oh, he's just downhill."
+  },
+  {
+    "start": 1329,
+    "end": 1331,
+    "text": " And everything is uphill and downhill."
+  },
+  {
+    "start": 1331,
+    "end": 1337,
+    "text": " So, if I'm downhill from you, how do I know whether I'm uphill or downhill?"
+  },
+  {
+    "start": 1337,
+    "end": 1340,
+    "text": " So, there, they have, because it's quite a small place,"
+  },
+  {
+    "start": 1340,
+    "end": 1344,
+    "text": " they have a certain geography where everyone kind of knows where the highest point in the island is,"
+  },
+  {
+    "start": 1344,
+    "end": 1345,
+    "text": " and the area is."
+  },
+  {
+    "start": 1345,
+    "end": 1346,
+    "text": " Everyone knows where the lowest point."
+  },
+  {
+    "start": 1346,
+    "end": 1351,
+    "text": " If you're talking about time, then the, oh, the fireplace is always downhill, apparently."
+  },
+  {
+    "start": 1351,
+    "end": 1354,
+    "text": " So, if you're in a room, you have to check where the fireplace is."
+  },
+  {
+    "start": 1354,
+    "end": 1357,
+    "text": " So, I guess, behind me, at the moment, is the Thames."
+  },
+  {
+    "start": 1357,
+    "end": 1359,
+    "text": " So, all of the land kind of goes towards a Thames."
+  },
+  {
+    "start": 1359,
+    "end": 1363,
+    "text": " So, you could argue that I'm downhill of you, even if I'm not quite done."
+  },
+  {
+    "start": 1363,
+    "end": 1365,
+    "text": " Yeah, unless there's a fireplace on the opposite side of the room."
+  },
+  {
+    "start": 1365,
+    "end": 1367,
+    "text": " And then that trumps the Thames."
+  },
+  {
+    "start": 1367,
+    "end": 1371,
+    "text": " And then you're uphill, so the fireplace is always the trumping card."
+  },
+  {
+    "start": 1371,
+    "end": 1373,
+    "text": " I think the fireplace is the trump card, yes."
+  },
+  {
+    "start": 1373,
+    "end": 1377,
+    "text": " Unless you're talking about time, in which case, the past is always downhill,"
+  },
+  {
+    "start": 1377,
+    "end": 1378,
+    "text": " and the future is uphill."
+  },
+  {
+    "start": 1378,
+    "end": 1380,
+    "text": " So, what is that?"
+  },
+  {
+    "start": 1380,
+    "end": 1382,
+    "text": " It used to be a fireplace salesman."
+  },
+  {
+    "start": 1382,
+    "end": 1384,
+    "text": " On the Thames."
+  },
+  {
+    "start": 1384,
+    "end": 1389,
+    "text": " And an Aboriginal language, which I was reading about, that I didn't write down,"
+  },
+  {
+    "start": 1389,
+    "end": 1393,
+    "text": " but they judge everything by Northeast South and West."
+  },
+  {
+    "start": 1393,
+    "end": 1394,
+    "text": " That's the direction of everything."
+  },
+  {
+    "start": 1394,
+    "end": 1395,
+    "text": " Yeah, wow."
+  },
+  {
+    "start": 1395,
+    "end": 1397,
+    "text": " I think, yeah, that's a lot of Australian Aboriginal language."
+  },
+  {
+    "start": 1397,
+    "end": 1398,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 1398,
+    "end": 1399,
+    "text": " It's easy to know, though."
+  },
+  {
+    "start": 1399,
+    "end": 1400,
+    "text": " Well, you have to know where you are."
+  },
+  {
+    "start": 1400,
+    "end": 1402,
+    "text": " You have to know where you are all the time."
+  },
+  {
+    "start": 1402,
+    "end": 1404,
+    "text": " You can't do any other directions than Northeast South and West."
+  },
+  {
+    "start": 1404,
+    "end": 1410,
+    "text": " But there was a study where they did an investigation where they looked at an Aboriginal person"
+  },
+  {
+    "start": 1410,
+    "end": 1412,
+    "text": " who had then gone to a different country."
+  },
+  {
+    "start": 1412,
+    "end": 1416,
+    "text": " And they realised that instinctively that person still knew always what was Northeast South and West."
+  },
+  {
+    "start": 1416,
+    "end": 1417,
+    "text": " Oh, no way."
+  },
+  {
+    "start": 1417,
+    "end": 1419,
+    "text": " So they instinctively orienting themselves."
+  },
+  {
+    "start": 1419,
+    "end": 1420,
+    "text": " That iPhone."
+  },
+  {
+    "start": 1420,
+    "end": 1421,
+    "text": " Not sure."
+  },
+  {
+    "start": 1421,
+    "end": 1424,
+    "text": " That's right."
+  },
+  {
+    "start": 1424,
+    "end": 1425,
+    "text": " Another language, another cool language."
+  },
+  {
+    "start": 1425,
+    "end": 1426,
+    "text": " Yeah."
+  },
+  {
+    "start": 1426,
+    "end": 1433,
+    "text": " Okay, so this language is called Kiche, and it was spoken by the Mayans in Guatemala."
+  },
+  {
+    "start": 1433,
+    "end": 1437,
+    "text": " And what I love about this is if you're speaking to children,"
+  },
+  {
+    "start": 1437,
+    "end": 1441,
+    "text": " normally humans would kind of, in most languages, would kind of talk a little bit higher,"
+  },
+  {
+    "start": 1441,
+    "end": 1442,
+    "text": " like a bit higher like that."
+  },
+  {
+    "start": 1442,
+    "end": 1447,
+    "text": " And if you're speaking to someone, if you're speaking to someone who's a higher status than you,"
+  },
+  {
+    "start": 1447,
+    "end": 1448,
+    "text": " you speak lower."
+  },
+  {
+    "start": 1448,
+    "end": 1450,
+    "text": " But in their language, it's complete with the opposite."
+  },
+  {
+    "start": 1450,
+    "end": 1454,
+    "text": " So when you're speaking to someone of a higher status,"
+  },
+  {
+    "start": 1454,
+    "end": 1456,
+    "text": " you put your voice in a higher pitch."
+  },
+  {
+    "start": 1456,
+    "end": 1457,
+    "text": " I think that's amazing."
+  },
+  {
+    "start": 1457,
+    "end": 1458,
+    "text": " That's cool."
+  },
+  {
+    "start": 1458,
+    "end": 1459,
+    "text": " I want to do that."
+  },
+  {
+    "start": 1459,
+    "end": 1463,
+    "text": " When you meet the Queen itself, very nice to meet you."
+  },
+  {
+    "start": 1463,
+    "end": 1465,
+    "text": " Are you lost, little girl?"
+  },
+  {
+    "start": 1465,
+    "end": 1467,
+    "text": " It's very creepy."
+  },
+  {
+    "start": 1467,
+    "end": 1469,
+    "text": " Creepy to the point, stupid."
+  },
+  {
+    "start": 1469,
+    "end": 1475,
+    "text": " I like this language called Tamayek, or Tamajek, spoken by the tour reg."
+  },
+  {
+    "start": 1475,
+    "end": 1480,
+    "text": " And they, so 1984, there was the Prince song Purple Rain."
+  },
+  {
+    "start": 1480,
+    "end": 1482,
+    "text": " There was also the movie Purple Rain."
+  },
+  {
+    "start": 1482,
+    "end": 1486,
+    "text": " They did a remake of that movie 30 years later."
+  },
+  {
+    "start": 1486,
+    "end": 1489,
+    "text": " So the exact movie, it was just a remake in their language."
+  },
+  {
+    "start": 1489,
+    "end": 1492,
+    "text": " Unfortunately, in their language, they don't have a word for purple."
+  },
+  {
+    "start": 1492,
+    "end": 1499,
+    "text": " So the movie was released as Rain the Color of Blue with a little red in it."
+  },
+  {
+    "start": 1499,
+    "end": 1505,
+    "text": " With the Piraha Brazil language, well, someone claimed has no numbers or colors in it."
+  },
+  {
+    "start": 1505,
+    "end": 1509,
+    "text": " So by 20-month-old son could go there and rule the place."
+  },
+  {
+    "start": 1509,
+    "end": 1511,
+    "text": " Pretty much all he can do."
+  },
+  {
+    "start": 1511,
+    "end": 1513,
+    "text": " You can't place snooker, can you?"
+  },
+  {
+    "start": 1513,
+    "end": 1517,
+    "text": " No, and also, which I don't understand, someone says, but this is controversial."
+  },
+  {
+    "start": 1517,
+    "end": 1524,
+    "text": " It's the only language with no recursive, no recursion in it, which is the ability to insert phrases into phrases."
+  },
+  {
+    "start": 1524,
+    "end": 1527,
+    "text": " But I didn't quite grasp what that was."
+  },
+  {
+    "start": 1527,
+    "end": 1530,
+    "text": " What you can't, you can't put a phrase in a phrase."
+  },
+  {
+    "start": 1530,
+    "end": 1533,
+    "text": " You can't say Daniel Fucking Shriver, is that what it is?"
+  },
+  {
+    "start": 1533,
+    "end": 1535,
+    "text": " It's something along those lines."
+  },
+  {
+    "start": 1535,
+    "end": 1538,
+    "text": " I think that's something we should adopt in the English language."
+  },
+  {
+    "start": 1538,
+    "end": 1542,
+    "text": " These guys, Piraha has a really cool, so their language is one of the most tonal languages."
+  },
+  {
+    "start": 1542,
+    "end": 1545,
+    "text": " So it's different kind of tones as you're speaking."
+  },
+  {
+    "start": 1545,
+    "end": 1554,
+    "text": " And so a word which is ha-papa-i, you can pronounce that kapa-papa-i, or ha-ha-i, or kaka-i."
+  },
+  {
+    "start": 1554,
+    "end": 1558,
+    "text": " It doesn't matter what the consonants are, it's just the tones."
+  },
+  {
+    "start": 1558,
+    "end": 1563,
+    "text": " And so it means that you could kind of talk with your mouth full, or you can whistle words and stuff like that."
+  },
+  {
+    "start": 1563,
+    "end": 1566,
+    "text": " Because it's just about the tones, it's not about the consonants."
+  },
+  {
+    "start": 1566,
+    "end": 1571,
+    "text": " Because it's like you've got blank scrabble tiles that you can just put into the words."
+  },
+  {
+    "start": 1571,
+    "end": 1575,
+    "text": " As you wish, as long as you get the bits in between, right?"
+  },
+  {
+    "start": 1575,
+    "end": 1576,
+    "text": " Sure."
+  },
+  {
+    "start": 1576,
+    "end": 1578,
+    "text": " It's a bit like that."
+  },
+  {
+    "start": 1578,
+    "end": 1585,
+    "text": " So when I was saying ha-papa-i, it's the same as saying a-i-i, or whatever."
+  },
+  {
+    "start": 1585,
+    "end": 1589,
+    "text": " So no matter what kind of tone you make, that's the thing."
+  },
+  {
+    "start": 1589,
+    "end": 1590,
+    "text": " That's very cool."
+  },
+  {
+    "start": 1590,
+    "end": 1593,
+    "text": " I like the scrabble analogy though, I think that really worked well."
+  },
+  {
+    "start": 1593,
+    "end": 1594,
+    "text": " Oh, thanks."
+  },
+  {
+    "start": 1594,
+    "end": 1596,
+    "text": " Sorry, Andy."
+  },
+  {
+    "start": 1596,
+    "end": 1597,
+    "text": " I just didn't know."
+  },
+  {
+    "start": 1597,
+    "end": 1599,
+    "text": " I simply didn't understand."
+  },
+  {
+    "start": 1599,
+    "end": 1602,
+    "text": " James, it simply didn't make sense."
+  },
+  {
+    "start": 1602,
+    "end": 1607,
+    "text": " This is about linguistics, right?"
+  },
+  {
+    "start": 1607,
+    "end": 1609,
+    "text": " And so it's about language."
+  },
+  {
+    "start": 1609,
+    "end": 1611,
+    "text": " We don't want language, how it's evolved."
+  },
+  {
+    "start": 1611,
+    "end": 1613,
+    "text": " Just get to your very tenuously linked thing."
+  },
+  {
+    "start": 1613,
+    "end": 1617,
+    "text": " Well, it's only because I was reading some known Chomsky stuff,"
+  },
+  {
+    "start": 1617,
+    "end": 1620,
+    "text": " who is obviously very related to like how language evolves."
+  },
+  {
+    "start": 1620,
+    "end": 1622,
+    "text": " And I hate him."
+  },
+  {
+    "start": 1622,
+    "end": 1623,
+    "text": " Wow."
+  },
+  {
+    "start": 1623,
+    "end": 1624,
+    "text": " I think he's so miserable."
+  },
+  {
+    "start": 1624,
+    "end": 1626,
+    "text": " That's too much wine for Anna."
+  },
+  {
+    "start": 1626,
+    "end": 1629,
+    "text": " And we can't get in another celebrity feud."
+  },
+  {
+    "start": 1629,
+    "end": 1630,
+    "text": " Not with known Chomsky."
+  },
+  {
+    "start": 1630,
+    "end": 1634,
+    "text": " It's always after two glass of wine, she's such a slimy, known Chomsky."
+  },
+  {
+    "start": 1634,
+    "end": 1636,
+    "text": " It's every time, fucking known."
+  },
+  {
+    "start": 1636,
+    "end": 1638,
+    "text": " He feels the same about me, it's fine."
+  },
+  {
+    "start": 1638,
+    "end": 1641,
+    "text": " But so no, even Chomsky is obviously like father of linguistics."
+  },
+  {
+    "start": 1641,
+    "end": 1644,
+    "text": " It's amazing, like Einstein forget in the linguistics world."
+  },
+  {
+    "start": 1644,
+    "end": 1645,
+    "text": " So I was on this linguistics forum."
+  },
+  {
+    "start": 1645,
+    "end": 1647,
+    "text": " I was just looking at how language is evolved."
+  },
+  {
+    "start": 1647,
+    "end": 1651,
+    "text": " And this forum put a big Chomsky quote at the top."
+  },
+  {
+    "start": 1651,
+    "end": 1653,
+    "text": " And it was about the first article he'd ever written."
+  },
+  {
+    "start": 1653,
+    "end": 1655,
+    "text": " So he wrote his first article when he was ten years old."
+  },
+  {
+    "start": 1655,
+    "end": 1660,
+    "text": " And it was about the, he was like the fascist forces of conquered Barcelona."
+  },
+  {
+    "start": 1660,
+    "end": 1662,
+    "text": " Essentially the end of the Spanish Civil War."
+  },
+  {
+    "start": 1662,
+    "end": 1664,
+    "text": " And it was all about the spread of Nazi power and stuff."
+  },
+  {
+    "start": 1664,
+    "end": 1665,
+    "text": " This guy was ten."
+  },
+  {
+    "start": 1665,
+    "end": 1667,
+    "text": " So it's the top of this forum, this academic forum."
+  },
+  {
+    "start": 1667,
+    "end": 1669,
+    "text": " This person posts this quote from him."
+  },
+  {
+    "start": 1669,
+    "end": 1670,
+    "text": " And it's like thoughts guys."
+  },
+  {
+    "start": 1670,
+    "end": 1672,
+    "text": " And the comment immediately below it was."
+  },
+  {
+    "start": 1672,
+    "end": 1674,
+    "text": " That sounds incredibly boring."
+  },
+  {
+    "start": 1674,
+    "end": 1677,
+    "text": " And then the comment below that was, when I was ten,"
+  },
+  {
+    "start": 1677,
+    "end": 1681,
+    "text": " I wrote about an evil jackalant and that terrorized kids on Halloween."
+  },
+  {
+    "start": 1681,
+    "end": 1683,
+    "text": " But he had a heart of gold and was just misunderstood."
+  },
+  {
+    "start": 1683,
+    "end": 1686,
+    "text": " And then the entire rest of the thread"
+  },
+  {
+    "start": 1686,
+    "end": 1688,
+    "text": " is them analysing the jackalant."
+  },
+  {
+    "start": 1688,
+    "end": 1692,
+    "text": " It does sound a lot better."
+  },
+  {
+    "start": 1692,
+    "end": 1693,
+    "text": " Doesn't it?"
+  },
+  {
+    "start": 1693,
+    "end": 1694,
+    "text": " Sounds amazing."
+  },
+  {
+    "start": 1694,
+    "end": 1695,
+    "text": " You'd rather read that."
+  },
+  {
+    "start": 1695,
+    "end": 1696,
+    "text": " Definitely."
+  },
+  {
+    "start": 1696,
+    "end": 1697,
+    "text": " Yeah."
+  },
+  {
+    "start": 1697,
+    "end": 1698,
+    "text": " Good on them."
+  },
+  {
+    "start": 1698,
+    "end": 1706,
+    "text": " Okay, it's time for fact number three."
+  },
+  {
+    "start": 1706,
+    "end": 1708,
+    "text": " And that is Andy."
+  },
+  {
+    "start": 1708,
+    "end": 1711,
+    "text": " My fact is that King George III once went to a safety demonstration"
+  },
+  {
+    "start": 1711,
+    "end": 1714,
+    "text": " which involved putting the king in a house and setting it on fire."
+  },
+  {
+    "start": 1714,
+    "end": 1715,
+    "text": " Wow."
+  },
+  {
+    "start": 1715,
+    "end": 1716,
+    "text": " Yeah."
+  },
+  {
+    "start": 1716,
+    "end": 1717,
+    "text": " That doesn't sound very safe."
+  },
+  {
+    "start": 1717,
+    "end": 1720,
+    "text": " Well, that was, I guess, that's the, that's the trick, isn't it?"
+  },
+  {
+    "start": 1720,
+    "end": 1721,
+    "text": " That was the safety demonstration."
+  },
+  {
+    "start": 1721,
+    "end": 1722,
+    "text": " You'd try and do something."
+  },
+  {
+    "start": 1722,
+    "end": 1723,
+    "text": " It looks unsafe."
+  },
+  {
+    "start": 1723,
+    "end": 1724,
+    "text": " You say, \"I've tricked you.\""
+  },
+  {
+    "start": 1724,
+    "end": 1725,
+    "text": " And he survived, right?"
+  },
+  {
+    "start": 1725,
+    "end": 1728,
+    "text": " The King survived for another 40 years, nearly."
+  },
+  {
+    "start": 1728,
+    "end": 1730,
+    "text": " He's the longest-raining king."
+  },
+  {
+    "start": 1730,
+    "end": 1732,
+    "text": " He's the longest-raining king."
+  },
+  {
+    "start": 1732,
+    "end": 1735,
+    "text": " Yeah, only Victoria and Elizabeth are both queens."
+  },
+  {
+    "start": 1735,
+    "end": 1736,
+    "text": " Oh, he did."
+  },
+  {
+    "start": 1736,
+    "end": 1738,
+    "text": " He was 59 years."
+  },
+  {
+    "start": 1738,
+    "end": 1739,
+    "text": " He was 59 years old."
+  },
+  {
+    "start": 1739,
+    "end": 1741,
+    "text": " 60 days or something."
+  },
+  {
+    "start": 1741,
+    "end": 1742,
+    "text": " He was the Kingful."
+  },
+  {
+    "start": 1742,
+    "end": 1743,
+    "text": " Wow."
+  },
+  {
+    "start": 1743,
+    "end": 1745,
+    "text": " Although, he wasn't very good at it."
+  },
+  {
+    "start": 1745,
+    "end": 1746,
+    "text": " Was he?"
+  },
+  {
+    "start": 1746,
+    "end": 1748,
+    "text": " Well, he lost America."
+  },
+  {
+    "start": 1748,
+    "end": 1750,
+    "text": " He's been reassessed, I think."
+  },
+  {
+    "start": 1750,
+    "end": 1751,
+    "text": " That's a little bit over the years."
+  },
+  {
+    "start": 1751,
+    "end": 1753,
+    "text": " I mean, I think he got a bad rap at the time."
+  },
+  {
+    "start": 1753,
+    "end": 1755,
+    "text": " I mean, he was speaking of bad rap."
+  },
+  {
+    "start": 1755,
+    "end": 1756,
+    "text": " So, have you seen Hamilton?"
+  },
+  {
+    "start": 1756,
+    "end": 1761,
+    "text": " I hear he's meant to be the best thing in Hamilton."
+  },
+  {
+    "start": 1761,
+    "end": 1763,
+    "text": " Oh, he's so good in it."
+  },
+  {
+    "start": 1763,
+    "end": 1765,
+    "text": " But it's not him."
+  },
+  {
+    "start": 1765,
+    "end": 1766,
+    "text": " He is dead now."
+  },
+  {
+    "start": 1766,
+    "end": 1769,
+    "text": " So, he had extreme safety of the demonstration."
+  },
+  {
+    "start": 1769,
+    "end": 1770,
+    "text": " And his long reign."
+  },
+  {
+    "start": 1770,
+    "end": 1773,
+    "text": " It couldn't keep him alive past the age of about AC,"
+  },
+  {
+    "start": 1773,
+    "end": 1774,
+    "text": " which he made it to."
+  },
+  {
+    "start": 1774,
+    "end": 1775,
+    "text": " A lot of stuff went on in his..."
+  },
+  {
+    "start": 1775,
+    "end": 1776,
+    "text": " I was surprised, actually."
+  },
+  {
+    "start": 1776,
+    "end": 1779,
+    "text": " I don't know very much about that period of history,"
+  },
+  {
+    "start": 1779,
+    "end": 1780,
+    "text": " even though I studied history."
+  },
+  {
+    "start": 1780,
+    "end": 1782,
+    "text": " And I was surprised how much happened in his reign."
+  },
+  {
+    "start": 1782,
+    "end": 1784,
+    "text": " And yeah, he lost a lot of stuff."
+  },
+  {
+    "start": 1784,
+    "end": 1786,
+    "text": " As well as the plot in the main thing,"
+  },
+  {
+    "start": 1786,
+    "end": 1788,
+    "text": " which was actually very sad, wasn't it?"
+  },
+  {
+    "start": 1788,
+    "end": 1790,
+    "text": " So, he did go very mad."
+  },
+  {
+    "start": 1790,
+    "end": 1793,
+    "text": " His illness was diagnosed as flying out."
+  },
+  {
+    "start": 1793,
+    "end": 1794,
+    "text": " Wow."
+  },
+  {
+    "start": 1794,
+    "end": 1797,
+    "text": " Can I just say I think Andy is desperate to tell us a story"
+  },
+  {
+    "start": 1797,
+    "end": 1798,
+    "text": " of this house on fire."
+  },
+  {
+    "start": 1798,
+    "end": 1799,
+    "text": " No, no, we don't."
+  },
+  {
+    "start": 1799,
+    "end": 1802,
+    "text": " We can go into the broader sociological implications of his reign."
+  },
+  {
+    "start": 1802,
+    "end": 1806,
+    "text": " Does this such an exciting story about the claiming house?"
+  },
+  {
+    "start": 1806,
+    "end": 1808,
+    "text": " Andy, please, back to the burning building."
+  },
+  {
+    "start": 1808,
+    "end": 1809,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1809,
+    "end": 1810,
+    "text": " How does that happen?"
+  },
+  {
+    "start": 1810,
+    "end": 1812,
+    "text": " So, I should tell you where this comes from."
+  },
+  {
+    "start": 1812,
+    "end": 1814,
+    "text": " This is a book called 1776, A London Chronicle,"
+  },
+  {
+    "start": 1814,
+    "end": 1817,
+    "text": " which is all about only stuff happening in 1776."
+  },
+  {
+    "start": 1817,
+    "end": 1818,
+    "text": " Very busy year."
+  },
+  {
+    "start": 1818,
+    "end": 1819,
+    "text": " Lots of innovations."
+  },
+  {
+    "start": 1819,
+    "end": 1820,
+    "text": " Lots of stuff going on."
+  },
+  {
+    "start": 1820,
+    "end": 1822,
+    "text": " The American colonies on the brink of being lost."
+  },
+  {
+    "start": 1822,
+    "end": 1823,
+    "text": " All of this stuff."
+  },
+  {
+    "start": 1823,
+    "end": 1825,
+    "text": " And there was a scientist called David Hartley,"
+  },
+  {
+    "start": 1825,
+    "end": 1828,
+    "text": " who had this amazing new way of making a house fireproof."
+  },
+  {
+    "start": 1828,
+    "end": 1831,
+    "text": " And it basically just involved putting iron plates in it"
+  },
+  {
+    "start": 1831,
+    "end": 1834,
+    "text": " all the way through, like a magician and a box."
+  },
+  {
+    "start": 1834,
+    "end": 1835,
+    "text": " Yeah."
+  },
+  {
+    "start": 1835,
+    "end": 1838,
+    "text": " So, the king stood upstairs and flaming pitch"
+  },
+  {
+    "start": 1838,
+    "end": 1840,
+    "text": " destroyed the lower half of the house,"
+  },
+  {
+    "start": 1840,
+    "end": 1841,
+    "text": " and he was absolutely fine."
+  },
+  {
+    "start": 1841,
+    "end": 1843,
+    "text": " And this happened on the very day"
+  },
+  {
+    "start": 1843,
+    "end": 1847,
+    "text": " that the news reached London of the American Declaration of Independence."
+  },
+  {
+    "start": 1847,
+    "end": 1850,
+    "text": " So, it was like it was a big day for daughter third."
+  },
+  {
+    "start": 1850,
+    "end": 1851,
+    "text": " Wow, wow."
+  },
+  {
+    "start": 1851,
+    "end": 1853,
+    "text": " It's like you sport the day."
+  },
+  {
+    "start": 1853,
+    "end": 1854,
+    "text": " That didn't even happen."
+  },
+  {
+    "start": 1854,
+    "end": 1855,
+    "text": " It's a great day."
+  },
+  {
+    "start": 1855,
+    "end": 1857,
+    "text": " Up to the upstairs and a burning house and a fire."
+  },
+  {
+    "start": 1857,
+    "end": 1860,
+    "text": " What's been happening while I've gone?"
+  },
+  {
+    "start": 1860,
+    "end": 1863,
+    "text": " The guy you just talked about, David Hartley."
+  },
+  {
+    "start": 1863,
+    "end": 1867,
+    "text": " He has a sort of long lasting legacy around the world."
+  },
+  {
+    "start": 1867,
+    "end": 1869,
+    "text": " And, you know, we're here in the West End."
+  },
+  {
+    "start": 1869,
+    "end": 1872,
+    "text": " He is the person who invented the fire curtain"
+  },
+  {
+    "start": 1872,
+    "end": 1874,
+    "text": " that goes down in front of Stages."
+  },
+  {
+    "start": 1874,
+    "end": 1875,
+    "text": " Yeah."
+  },
+  {
+    "start": 1875,
+    "end": 1877,
+    "text": " He hated fire, didn't he?"
+  },
+  {
+    "start": 1877,
+    "end": 1880,
+    "text": " Yes."
+  },
+  {
+    "start": 1880,
+    "end": 1881,
+    "text": " What's his problem with fire?"
+  },
+  {
+    "start": 1881,
+    "end": 1882,
+    "text": " Let it fire."
+  },
+  {
+    "start": 1882,
+    "end": 1883,
+    "text": " Have a few fires."
+  },
+  {
+    "start": 1883,
+    "end": 1886,
+    "text": " He was thought of as an eccentric"
+  },
+  {
+    "start": 1886,
+    "end": 1889,
+    "text": " because he didn't powder his hair when everyone else did."
+  },
+  {
+    "start": 1889,
+    "end": 1890,
+    "text": " Oh, man."
+  },
+  {
+    "start": 1890,
+    "end": 1891,
+    "text": " Who George the Third or David Hartley?"
+  },
+  {
+    "start": 1891,
+    "end": 1892,
+    "text": " David Hartley."
+  },
+  {
+    "start": 1892,
+    "end": 1895,
+    "text": " George the Third was thought as quite eccentric as well."
+  },
+  {
+    "start": 1895,
+    "end": 1896,
+    "text": " Yes, but other reasons."
+  },
+  {
+    "start": 1896,
+    "end": 1898,
+    "text": " He also wore stockings with a feet cut out"
+  },
+  {
+    "start": 1898,
+    "end": 1900,
+    "text": " because he thought it was healthier."
+  },
+  {
+    "start": 1900,
+    "end": 1903,
+    "text": " And that made you an eccentric in those days."
+  },
+  {
+    "start": 1903,
+    "end": 1904,
+    "text": " Wow."
+  },
+  {
+    "start": 1904,
+    "end": 1905,
+    "text": " That isn't interesting."
+  },
+  {
+    "start": 1905,
+    "end": 1906,
+    "text": " You didn't need to do much, did you?"
+  },
+  {
+    "start": 1906,
+    "end": 1908,
+    "text": " To be called an eccentric now,"
+  },
+  {
+    "start": 1908,
+    "end": 1910,
+    "text": " you need to work pretty damn hard."
+  },
+  {
+    "start": 1910,
+    "end": 1911,
+    "text": " I've been trying for years."
+  },
+  {
+    "start": 1911,
+    "end": 1912,
+    "text": " Yeah."
+  },
+  {
+    "start": 1912,
+    "end": 1914,
+    "text": " And the house became popular."
+  },
+  {
+    "start": 1914,
+    "end": 1916,
+    "text": " And was used throughout England."
+  },
+  {
+    "start": 1916,
+    "end": 1918,
+    "text": " You know, the plates methods spread across the country."
+  },
+  {
+    "start": 1918,
+    "end": 1922,
+    "text": " But then other methods took over which were more efficient"
+  },
+  {
+    "start": 1922,
+    "end": 1924,
+    "text": " and didn't involve putting huge iron plates all the way"
+  },
+  {
+    "start": 1924,
+    "end": 1925,
+    "text": " to the house."
+  },
+  {
+    "start": 1925,
+    "end": 1927,
+    "text": " And then the original house, the test house,"
+  },
+  {
+    "start": 1927,
+    "end": 1929,
+    "text": " a very sadly caught fire."
+  },
+  {
+    "start": 1929,
+    "end": 1930,
+    "text": " No."
+  },
+  {
+    "start": 1930,
+    "end": 1931,
+    "text": " Yeah."
+  },
+  {
+    "start": 1931,
+    "end": 1933,
+    "text": " It had been extended beyond the safe bit."
+  },
+  {
+    "start": 1933,
+    "end": 1934,
+    "text": " You know, so it was an extension."
+  },
+  {
+    "start": 1934,
+    "end": 1935,
+    "text": " Yeah."
+  },
+  {
+    "start": 1935,
+    "end": 1937,
+    "text": " So that extension caught fire and then collapsed"
+  },
+  {
+    "start": 1937,
+    "end": 1938,
+    "text": " onto the fire proof section."
+  },
+  {
+    "start": 1938,
+    "end": 1939,
+    "text": " Oh."
+  },
+  {
+    "start": 1939,
+    "end": 1940,
+    "text": " And then that caught fire."
+  },
+  {
+    "start": 1940,
+    "end": 1942,
+    "text": " You needed some iron plates on the top to stop that."
+  },
+  {
+    "start": 1942,
+    "end": 1943,
+    "text": " Yeah."
+  },
+  {
+    "start": 1943,
+    "end": 1946,
+    "text": " How do you talk a king into standing in a flaming house?"
+  },
+  {
+    "start": 1946,
+    "end": 1947,
+    "text": " I don't know."
+  },
+  {
+    "start": 1947,
+    "end": 1948,
+    "text": " If he's mad, it's easy."
+  },
+  {
+    "start": 1948,
+    "end": 1949,
+    "text": " That's correct."
+  },
+  {
+    "start": 1949,
+    "end": 1951,
+    "text": " They got the right king."
+  },
+  {
+    "start": 1951,
+    "end": 1952,
+    "text": " You're right."
+  },
+  {
+    "start": 1952,
+    "end": 1953,
+    "text": " Yeah."
+  },
+  {
+    "start": 1953,
+    "end": 1955,
+    "text": " And I think he was going a bit mad around that time."
+  },
+  {
+    "start": 1955,
+    "end": 1958,
+    "text": " He had a few bouts of madness through his life."
+  },
+  {
+    "start": 1958,
+    "end": 1960,
+    "text": " One of them was just before the French Revolution."
+  },
+  {
+    "start": 1960,
+    "end": 1962,
+    "text": " So that must have been sort of around the bad words."
+  },
+  {
+    "start": 1962,
+    "end": 1965,
+    "text": " There's a bit later than that."
+  },
+  {
+    "start": 1965,
+    "end": 1966,
+    "text": " Yeah."
+  },
+  {
+    "start": 1966,
+    "end": 1969,
+    "text": " When he did start to lose his mind, at one stage in 1819,"
+  },
+  {
+    "start": 1969,
+    "end": 1973,
+    "text": " he spoke nonsense nonstop for 58 hours."
+  },
+  {
+    "start": 1973,
+    "end": 1975,
+    "text": " It was at Christmas time as well, that one."
+  },
+  {
+    "start": 1975,
+    "end": 1976,
+    "text": " Yeah."
+  },
+  {
+    "start": 1976,
+    "end": 1979,
+    "text": " Which, you know, that happens at my house with my dad."
+  },
+  {
+    "start": 1979,
+    "end": 1983,
+    "text": " It also says it was a bit racist."
+  },
+  {
+    "start": 1983,
+    "end": 1984,
+    "text": " Going on about Brexit."
+  },
+  {
+    "start": 1984,
+    "end": 1987,
+    "text": " That's not what I'm talking about."
+  },
+  {
+    "start": 1987,
+    "end": 1988,
+    "text": " Yeah."
+  },
+  {
+    "start": 1988,
+    "end": 1990,
+    "text": " It sounds like he really, really suffered."
+  },
+  {
+    "start": 1990,
+    "end": 1993,
+    "text": " And obviously it wasn't understood nearly as much at the time."
+  },
+  {
+    "start": 1993,
+    "end": 1995,
+    "text": " So, you know, he has this reputation."
+  },
+  {
+    "start": 1995,
+    "end": 1997,
+    "text": " But he did, obviously, huge amount of stuff."
+  },
+  {
+    "start": 1997,
+    "end": 1998,
+    "text": " He was a very interesting guy."
+  },
+  {
+    "start": 1998,
+    "end": 1999,
+    "text": " He was a hobbyist."
+  },
+  {
+    "start": 1999,
+    "end": 2003,
+    "text": " He wrote architectural journal articles under a pen name secretly."
+  },
+  {
+    "start": 2003,
+    "end": 2004,
+    "text": " Did he?"
+  },
+  {
+    "start": 2004,
+    "end": 2006,
+    "text": " He was interested in all sorts of stuff."
+  },
+  {
+    "start": 2006,
+    "end": 2011,
+    "text": " Yeah, he had a huge capacity for wanting to know what was going on in his kingdom, I think."
+  },
+  {
+    "start": 2011,
+    "end": 2012,
+    "text": " Yeah."
+  },
+  {
+    "start": 2012,
+    "end": 2016,
+    "text": " He had a weird marriage to a woman called Charlotte."
+  },
+  {
+    "start": 2016,
+    "end": 2021,
+    "text": " Charlotte of a Mecklenburg Strelitz, who was from this random German Dutchy."
+  },
+  {
+    "start": 2021,
+    "end": 2026,
+    "text": " And she was very parsimonious, no, it's been parsimonious."
+  },
+  {
+    "start": 2026,
+    "end": 2030,
+    "text": " The only remnant we have of her is a dish called Apple Charlotte, apparently."
+  },
+  {
+    "start": 2030,
+    "end": 2034,
+    "text": " And that Apple Charlotte is a pudding that uses up stale bread,"
+  },
+  {
+    "start": 2034,
+    "end": 2037,
+    "text": " because she didn't want to waste anything."
+  },
+  {
+    "start": 2037,
+    "end": 2043,
+    "text": " And she used to stamp butter with the royal signet so that the servants couldn't eat it to say this is our butter."
+  },
+  {
+    "start": 2043,
+    "end": 2044,
+    "text": " Wow."
+  },
+  {
+    "start": 2044,
+    "end": 2045,
+    "text": " Don't touch."
+  },
+  {
+    "start": 2045,
+    "end": 2048,
+    "text": " She was famously ugly and there was a quote about her."
+  },
+  {
+    "start": 2048,
+    "end": 2051,
+    "text": " This is suddenly tipped over into personal opinions."
+  },
+  {
+    "start": 2051,
+    "end": 2056,
+    "text": " Sometimes I feel like women haven't taken enough flak in history."
+  },
+  {
+    "start": 2056,
+    "end": 2059,
+    "text": " And we've got a sense of abuse there way."
+  },
+  {
+    "start": 2059,
+    "end": 2061,
+    "text": " So she was famously hideous."
+  },
+  {
+    "start": 2061,
+    "end": 2064,
+    "text": " And one of the nability said that as she got older, this is a famous quote,"
+  },
+  {
+    "start": 2064,
+    "end": 2069,
+    "text": " is that as she got older, the bloom has at any rate gone off the queen's ugliness."
+  },
+  {
+    "start": 2069,
+    "end": 2073,
+    "text": " Since she fell off this carriage and broke her nose, she's actually quite handsome."
+  },
+  {
+    "start": 2073,
+    "end": 2074,
+    "text": " Wow."
+  },
+  {
+    "start": 2074,
+    "end": 2075,
+    "text": " Yeah."
+  },
+  {
+    "start": 2075,
+    "end": 2077,
+    "text": " But you married her the day you met her, didn't you?"
+  },
+  {
+    "start": 2077,
+    "end": 2078,
+    "text": " Yes, I remember."
+  },
+  {
+    "start": 2078,
+    "end": 2082,
+    "text": " And he was baptised on the day he was born, because he was two months premature,"
+  },
+  {
+    "start": 2082,
+    "end": 2086,
+    "text": " which at the time was like, you know, definitely you're going to die."
+  },
+  {
+    "start": 2086,
+    "end": 2087,
+    "text": " But he survived."
+  },
+  {
+    "start": 2087,
+    "end": 2089,
+    "text": " But they had a very happy marriage."
+  },
+  {
+    "start": 2089,
+    "end": 2092,
+    "text": " He was faithful to her, which you know, if you've got what's the point of being king."
+  },
+  {
+    "start": 2092,
+    "end": 2095,
+    "text": " If you're going to be faithful to your wife, that's the point."
+  },
+  {
+    "start": 2095,
+    "end": 2096,
+    "text": " Yeah."
+  },
+  {
+    "start": 2096,
+    "end": 2097,
+    "text": " And they had like 15 children."
+  },
+  {
+    "start": 2097,
+    "end": 2098,
+    "text": " Okay."
+  },
+  {
+    "start": 2098,
+    "end": 2101,
+    "text": " So I'm just, I'm just almost making this up, I think."
+  },
+  {
+    "start": 2101,
+    "end": 2106,
+    "text": " But I thought that in his madness, he actually did have a fair as off the back of"
+  },
+  {
+    "start": 2106,
+    "end": 2108,
+    "text": " he was just in a hypostate."
+  },
+  {
+    "start": 2108,
+    "end": 2109,
+    "text": " Right."
+  },
+  {
+    "start": 2109,
+    "end": 2110,
+    "text": " He wasn't really aware."
+  },
+  {
+    "start": 2110,
+    "end": 2111,
+    "text": " Oh, though."
+  },
+  {
+    "start": 2111,
+    "end": 2114,
+    "text": " And I think he was, when he properly was mad, he was like in his 70s and 80s."
+  },
+  {
+    "start": 2114,
+    "end": 2116,
+    "text": " So I don't think he would have been much of a threat."
+  },
+  {
+    "start": 2116,
+    "end": 2117,
+    "text": " And he was blind."
+  },
+  {
+    "start": 2117,
+    "end": 2119,
+    "text": " So I don't, I think he might have."
+  },
+  {
+    "start": 2119,
+    "end": 2122,
+    "text": " I got a lot of affairs with balls."
+  },
+  {
+    "start": 2122,
+    "end": 2123,
+    "text": " And he shook hands with the tree."
+  },
+  {
+    "start": 2123,
+    "end": 2124,
+    "text": " And he fell asleep."
+  },
+  {
+    "start": 2124,
+    "end": 2125,
+    "text": " Oh, that's true."
+  },
+  {
+    "start": 2125,
+    "end": 2126,
+    "text": " He did."
+  },
+  {
+    "start": 2126,
+    "end": 2129,
+    "text": " So, you know, we might have been having affairs with Flora and Horn."
+  },
+  {
+    "start": 2129,
+    "end": 2130,
+    "text": " Yeah."
+  },
+  {
+    "start": 2130,
+    "end": 2131,
+    "text": " Yeah."
+  },
+  {
+    "start": 2131,
+    "end": 2132,
+    "text": " Yeah, I don't know."
+  },
+  {
+    "start": 2132,
+    "end": 2134,
+    "text": " He definitely did get off with her a lot."
+  },
+  {
+    "start": 2134,
+    "end": 2135,
+    "text": " Yeah."
+  },
+  {
+    "start": 2135,
+    "end": 2136,
+    "text": " 15 children."
+  },
+  {
+    "start": 2136,
+    "end": 2137,
+    "text": " Well, nine boys."
+  },
+  {
+    "start": 2137,
+    "end": 2139,
+    "text": " It's like, he stayed faithful to one woman, had 15 children."
+  },
+  {
+    "start": 2139,
+    "end": 2141,
+    "text": " It's a real fuck you to King Henry VIII, doesn't it?"
+  },
+  {
+    "start": 2141,
+    "end": 2142,
+    "text": " Yeah."
+  },
+  {
+    "start": 2142,
+    "end": 2143,
+    "text": " Just stick with one."
+  },
+  {
+    "start": 2143,
+    "end": 2144,
+    "text": " Let's keep plowing away."
+  },
+  {
+    "start": 2144,
+    "end": 2148,
+    "text": " And only one, I think 13 of his children survived into adulthood."
+  },
+  {
+    "start": 2148,
+    "end": 2149,
+    "text": " Yeah."
+  },
+  {
+    "start": 2149,
+    "end": 2150,
+    "text": " I think so."
+  },
+  {
+    "start": 2150,
+    "end": 2151,
+    "text": " Yeah."
+  },
+  {
+    "start": 2151,
+    "end": 2153,
+    "text": " But he later refused his daughter's the ability to marry."
+  },
+  {
+    "start": 2153,
+    "end": 2156,
+    "text": " He was, he was, he was really happy with his wife."
+  },
+  {
+    "start": 2156,
+    "end": 2161,
+    "text": " But I think he was so worried about them making unsuitable marriages that only three of his daughter's"
+  },
+  {
+    "start": 2161,
+    "end": 2164,
+    "text": " managed to marry in the end, just because he was such a tyrant about it."
+  },
+  {
+    "start": 2164,
+    "end": 2169,
+    "text": " And he passed a law saying that if you were a royal eight under 25, you could not marry without the"
+  },
+  {
+    "start": 2169,
+    "end": 2171,
+    "text": " express permission of the ruling sovereign."
+  },
+  {
+    "start": 2171,
+    "end": 2174,
+    "text": " And that law stayed in place until 2013."
+  },
+  {
+    "start": 2174,
+    "end": 2175,
+    "text": " Really?"
+  },
+  {
+    "start": 2175,
+    "end": 2176,
+    "text": " Yeah."
+  },
+  {
+    "start": 2176,
+    "end": 2177,
+    "text": " Yeah."
+  },
+  {
+    "start": 2177,
+    "end": 2182,
+    "text": " Yeah, I think he was skeptical about marriage because his sister's marriage had gone very badly."
+  },
+  {
+    "start": 2182,
+    "end": 2187,
+    "text": " So his sister was Caroline Matilde and she'd married a guy called King Christian, the seventh"
+  },
+  {
+    "start": 2187,
+    "end": 2189,
+    "text": " of Denmark, when she was 15."
+  },
+  {
+    "start": 2189,
+    "end": 2192,
+    "text": " And he was also quite mad."
+  },
+  {
+    "start": 2192,
+    "end": 2194,
+    "text": " And he hung her, he didn't like her at all."
+  },
+  {
+    "start": 2194,
+    "end": 2196,
+    "text": " The fifth, his 15-year-old sister."
+  },
+  {
+    "start": 2196,
+    "end": 2200,
+    "text": " So he hung her portrait in his lavatory as a show of how he didn't like his wife."
+  },
+  {
+    "start": 2200,
+    "end": 2201,
+    "text": " So his wife?"
+  },
+  {
+    "start": 2201,
+    "end": 2202,
+    "text": " Yeah."
+  },
+  {
+    "start": 2202,
+    "end": 2204,
+    "text": " He hung his wife's portrait in the toilet."
+  },
+  {
+    "start": 2204,
+    "end": 2206,
+    "text": " And he was an obsessive masturbator."
+  },
+  {
+    "start": 2206,
+    "end": 2207,
+    "text": " He was very famous."
+  },
+  {
+    "start": 2207,
+    "end": 2208,
+    "text": " Did he do it in the toilet?"
+  },
+  {
+    "start": 2208,
+    "end": 2210,
+    "text": " Is that why the portrait was there?"
+  },
+  {
+    "start": 2210,
+    "end": 2212,
+    "text": " I think the toilet was the only one we didn't do it."
+  },
+  {
+    "start": 2212,
+    "end": 2213,
+    "text": " Really?"
+  },
+  {
+    "start": 2213,
+    "end": 2217,
+    "text": " Yeah, he went to see doctors about this and doctors were always trying to stop him doing it."
+  },
+  {
+    "start": 2217,
+    "end": 2221,
+    "text": " But he once entered a feast with his trousers, round his ankles."
+  },
+  {
+    "start": 2221,
+    "end": 2226,
+    "text": " And he had servants, manical him and then beat him with rolls of paper."
+  },
+  {
+    "start": 2226,
+    "end": 2231,
+    "text": " And he visited England once and he visited all the brothels in London and then completely"
+  },
+  {
+    "start": 2231,
+    "end": 2234,
+    "text": " trashed St. James's palace."
+  },
+  {
+    "start": 2234,
+    "end": 2236,
+    "text": " And so that was the man that his sister married."
+  },
+  {
+    "start": 2236,
+    "end": 2237,
+    "text": " Oh, okay."
+  },
+  {
+    "start": 2237,
+    "end": 2241,
+    "text": " St. George III thought, well, marriage doesn't go well for her."
+  },
+  {
+    "start": 2241,
+    "end": 2244,
+    "text": " Let's protect women for the excessive masturbation."
+  },
+  {
+    "start": 2244,
+    "end": 2249,
+    "text": " So he saw a doctor, I'd love to hear the doctor transcript read that."
+  },
+  {
+    "start": 2249,
+    "end": 2252,
+    "text": " So the way to stop doing this is, okay, you're masturbating."
+  },
+  {
+    "start": 2252,
+    "end": 2253,
+    "text": " You're masturbating."
+  },
+  {
+    "start": 2253,
+    "end": 2255,
+    "text": " Yeah, just put it back away."
+  },
+  {
+    "start": 2255,
+    "end": 2257,
+    "text": " Okay, so yeah, so we have lots of medicines."
+  },
+  {
+    "start": 2257,
+    "end": 2259,
+    "text": " Okay, you're masturbating again."
+  },
+  {
+    "start": 2259,
+    "end": 2261,
+    "text": " We're just going to have to put that away again."
+  },
+  {
+    "start": 2261,
+    "end": 2263,
+    "text": " Okay, you're doing very good."
+  },
+  {
+    "start": 2263,
+    "end": 2266,
+    "text": " It's very difficult to stop."
+  },
+  {
+    "start": 2266,
+    "end": 2268,
+    "text": " You know, you've got to be some person to stop."
+  },
+  {
+    "start": 2268,
+    "end": 2271,
+    "text": " Hey, you don't need to tell me."
+  },
+  {
+    "start": 2271,
+    "end": 2273,
+    "text": " So, Queen Charlotte, we were talking about."
+  },
+  {
+    "start": 2273,
+    "end": 2274,
+    "text": " Yeah."
+  },
+  {
+    "start": 2274,
+    "end": 2279,
+    "text": " She had a pet zebra who was presented to her by the governor of the Cape in South Africa."
+  },
+  {
+    "start": 2279,
+    "end": 2283,
+    "text": " And it was known colloquially as the Queen's Ass."
+  },
+  {
+    "start": 2283,
+    "end": 2287,
+    "text": " And there was a massive scandal when the Queen's Guard were caught charging people"
+  },
+  {
+    "start": 2287,
+    "end": 2290,
+    "text": " to expose the Queen's ass to public view."
+  },
+  {
+    "start": 2290,
+    "end": 2295,
+    "text": " In 1764, and you guys are really holding this thing very nicely."
+  },
+  {
+    "start": 2295,
+    "end": 2299,
+    "text": " The newspaper's printed a story that the guards were charging people to see this."
+  },
+  {
+    "start": 2299,
+    "end": 2304,
+    "text": " And then Queen Charlotte later bred this zebra by getting a male donkey"
+  },
+  {
+    "start": 2304,
+    "end": 2307,
+    "text": " and painting the back of it white and black stripes"
+  },
+  {
+    "start": 2307,
+    "end": 2309,
+    "text": " so that it thought that it was a zebra's..."
+  },
+  {
+    "start": 2309,
+    "end": 2311,
+    "text": " Wow, that cast."
+  },
+  {
+    "start": 2311,
+    "end": 2312,
+    "text": " ...ass, yeah, exactly."
+  },
+  {
+    "start": 2312,
+    "end": 2313,
+    "text": " And it worked."
+  },
+  {
+    "start": 2313,
+    "end": 2315,
+    "text": " Wow, I'm going to try that with my own bottom."
+  },
+  {
+    "start": 2315,
+    "end": 2318,
+    "text": " I'm going to take my own bottom black and white and see if I can get a zebra to fuck me."
+  },
+  {
+    "start": 2318,
+    "end": 2320,
+    "text": " It's what I'm going to do."
+  },
+  {
+    "start": 2320,
+    "end": 2322,
+    "text": " I've always been quite obsessed with having sex with a nacapie,"
+  },
+  {
+    "start": 2322,
+    "end": 2326,
+    "text": " which is like a sort of larmory zebra or a kind of thing."
+  },
+  {
+    "start": 2326,
+    "end": 2328,
+    "text": " But from behind, it's got a very nice..."
+  },
+  {
+    "start": 2328,
+    "end": 2329,
+    "text": " It looks like a sort of..."
+  },
+  {
+    "start": 2329,
+    "end": 2330,
+    "text": " You've always been..."
+  },
+  {
+    "start": 2330,
+    "end": 2331,
+    "text": " No, I've just..."
+  },
+  {
+    "start": 2331,
+    "end": 2332,
+    "text": " And they've got..."
+  },
+  {
+    "start": 2332,
+    "end": 2334,
+    "text": " I've been obsessed with a nacapie before."
+  },
+  {
+    "start": 2334,
+    "end": 2336,
+    "text": " I've been to see a nacapie quite a few times in La Junseau."
+  },
+  {
+    "start": 2336,
+    "end": 2338,
+    "text": " From behind, it's like..."
+  },
+  {
+    "start": 2338,
+    "end": 2340,
+    "text": " It's got a very leopard-skin trouser..."
+  },
+  {
+    "start": 2340,
+    "end": 2341,
+    "text": " Right."
+  },
+  {
+    "start": 2341,
+    "end": 2343,
+    "text": " You know, so it looks like a lady's hind core."
+  },
+  {
+    "start": 2343,
+    "end": 2344,
+    "text": " So that's nice."
+  },
+  {
+    "start": 2344,
+    "end": 2346,
+    "text": " Well, the cup's got a very long tongue."
+  },
+  {
+    "start": 2346,
+    "end": 2348,
+    "text": " So you could be there and then they can't..."
+  },
+  {
+    "start": 2348,
+    "end": 2350,
+    "text": " If a hat dives up to an animal."
+  },
+  {
+    "start": 2350,
+    "end": 2351,
+    "text": " That's it."
+  },
+  {
+    "start": 2351,
+    "end": 2354,
+    "text": " I don't think this sounds like if I had to situation."
+  },
+  {
+    "start": 2354,
+    "end": 2356,
+    "text": " I think there's too much thought that's gone into this."
+  },
+  {
+    "start": 2356,
+    "end": 2359,
+    "text": " If I hadn't had sex with me, I would paint my bottom black and white."
+  },
+  {
+    "start": 2359,
+    "end": 2361,
+    "text": " It's just the one I wouldn't mind."
+  },
+  {
+    "start": 2361,
+    "end": 2363,
+    "text": " Yes, it's fair, Andy."
+  },
+  {
+    "start": 2363,
+    "end": 2366,
+    "text": " We've all got one."
+  },
+  {
+    "start": 2366,
+    "end": 2368,
+    "text": " Does he let you in London zoo?"
+  },
+  {
+    "start": 2368,
+    "end": 2369,
+    "text": " They do."
+  },
+  {
+    "start": 2369,
+    "end": 2372,
+    "text": " I'm a member of London zoo."
+  },
+  {
+    "start": 2372,
+    "end": 2374,
+    "text": " I can go anytime I want."
+  },
+  {
+    "start": 2374,
+    "end": 2376,
+    "text": " It's a new meaning to the word \"member of London zoo\"."
+  },
+  {
+    "start": 2376,
+    "end": 2378,
+    "text": " Wow."
+  },
+  {
+    "start": 2378,
+    "end": 2380,
+    "text": " What is going on?"
+  },
+  {
+    "start": 2380,
+    "end": 2381,
+    "text": " Oh, you don't know enough."
+  },
+  {
+    "start": 2381,
+    "end": 2383,
+    "text": " They let you masturbate quickly."
+  },
+  {
+    "start": 2383,
+    "end": 2386,
+    "text": " What are you donating?"
+  },
+  {
+    "start": 2386,
+    "end": 2390,
+    "text": " They're hoping that I'm creating a new hybrid creature that they can put in."
+  },
+  {
+    "start": 2390,
+    "end": 2392,
+    "text": " Imagine if it was successful."
+  },
+  {
+    "start": 2392,
+    "end": 2393,
+    "text": " Oh, God."
+  },
+  {
+    "start": 2393,
+    "end": 2395,
+    "text": " The herring zebra."
+  },
+  {
+    "start": 2395,
+    "end": 2397,
+    "text": " The herring ocapie."
+  },
+  {
+    "start": 2399,
+    "end": 2402,
+    "text": " I have taken the tone down."
+  },
+  {
+    "start": 2402,
+    "end": 2403,
+    "text": " No, no, no."
+  },
+  {
+    "start": 2403,
+    "end": 2412,
+    "text": " Let's bring the tone back up."
+  },
+  {
+    "start": 2412,
+    "end": 2415,
+    "text": " It is time for our final fact of the show, and that is James."
+  },
+  {
+    "start": 2415,
+    "end": 2422,
+    "text": " My fact this week is that female hyenas say hello by licking each other's clitoruses."
+  },
+  {
+    "start": 2422,
+    "end": 2424,
+    "text": " Crunky."
+  },
+  {
+    "start": 2424,
+    "end": 2427,
+    "text": " An uncompromisingly direct greeting, I would say."
+  },
+  {
+    "start": 2427,
+    "end": 2432,
+    "text": " I just now feel like we're giving Richard ideas for his next trip to the zoo."
+  },
+  {
+    "start": 2432,
+    "end": 2434,
+    "text": " I'm just saying quite a bit."
+  },
+  {
+    "start": 2434,
+    "end": 2436,
+    "text": " Very nicely."
+  },
+  {
+    "start": 2436,
+    "end": 2441,
+    "text": " Is that why the male hyenas are always laughing just out of sort of awkwardness and excitement?"
+  },
+  {
+    "start": 2441,
+    "end": 2450,
+    "text": " Okay, so this fact was sent to me by text."
+  },
+  {
+    "start": 2450,
+    "end": 2452,
+    "text": " But not honestly."
+  },
+  {
+    "start": 2452,
+    "end": 2457,
+    "text": " By the saw herring."
+  },
+  {
+    "start": 2457,
+    "end": 2463,
+    "text": " When we're on top, there was no name attached, but phone number ends with 067, so you know who you are."
+  },
+  {
+    "start": 2463,
+    "end": 2466,
+    "text": " Yeah, that's nearly my number."
+  },
+  {
+    "start": 2466,
+    "end": 2473,
+    "text": " I confirmed it in a book called Wild Sex, The Science Behind Mating in the Animal Kingdom by Karen Bonda."
+  },
+  {
+    "start": 2473,
+    "end": 2475,
+    "text": " And yet, it seems that it does happen."
+  },
+  {
+    "start": 2475,
+    "end": 2481,
+    "text": " So when females arrive and see each other, they stand in a parallel position facing opposite directions,"
+  },
+  {
+    "start": 2481,
+    "end": 2487,
+    "text": " lift the hind legs, display the fully erect clitoruses to each other, and then they smell and lick them."
+  },
+  {
+    "start": 2487,
+    "end": 2491,
+    "text": " And this is because female hyenas have extremely large clitoruses."
+  },
+  {
+    "start": 2491,
+    "end": 2494,
+    "text": " Do they ever smell them and not lick them?"
+  },
+  {
+    "start": 2494,
+    "end": 2496,
+    "text": " They smell them."
+  },
+  {
+    "start": 2496,
+    "end": 2497,
+    "text": " No."
+  },
+  {
+    "start": 2497,
+    "end": 2499,
+    "text": " Sorry."
+  },
+  {
+    "start": 2499,
+    "end": 2502,
+    "text": " That's not as very awkward in the hyena world."
+  },
+  {
+    "start": 2502,
+    "end": 2508,
+    "text": " It's like, you know, when you give someone a high five and they don't give you a high five back, it's exactly like that."
+  },
+  {
+    "start": 2508,
+    "end": 2510,
+    "text": " Wow."
+  },
+  {
+    "start": 2510,
+    "end": 2511,
+    "text": " Yeah."
+  },
+  {
+    "start": 2511,
+    "end": 2519,
+    "text": " So, and this happens between females of different ranks, and depending on who licks first, depends on who is the most highest ranking."
+  },
+  {
+    "start": 2519,
+    "end": 2521,
+    "text": " And they have, they're like seven inches long, aren't they?"
+  },
+  {
+    "start": 2521,
+    "end": 2523,
+    "text": " About seven inches long with clitoruses."
+  },
+  {
+    "start": 2523,
+    "end": 2524,
+    "text": " Yeah."
+  },
+  {
+    "start": 2524,
+    "end": 2528,
+    "text": " They're essentially a penis in appearance, and they get erections."
+  },
+  {
+    "start": 2528,
+    "end": 2531,
+    "text": " So when they're copulating, they get erections."
+  },
+  {
+    "start": 2531,
+    "end": 2534,
+    "text": " And they also have a labia that's fused to like testes."
+  },
+  {
+    "start": 2534,
+    "end": 2538,
+    "text": " It actually does seem a bit like, because they've all just got the genders the wrong way around."
+  },
+  {
+    "start": 2538,
+    "end": 2540,
+    "text": " Except that they give birth through them."
+  },
+  {
+    "start": 2540,
+    "end": 2543,
+    "text": " And then they give birth through them, and so that clarifies things."
+  },
+  {
+    "start": 2543,
+    "end": 2544,
+    "text": " Yes."
+  },
+  {
+    "start": 2544,
+    "end": 2545,
+    "text": " And it's a horrific birth."
+  },
+  {
+    "start": 2545,
+    "end": 2546,
+    "text": " Yeah."
+  },
+  {
+    "start": 2546,
+    "end": 2547,
+    "text": " Yeah."
+  },
+  {
+    "start": 2547,
+    "end": 2556,
+    "text": " I think it's the only animal birth that's worse than humans, because humans are not very well adapted to give birth, because we've got our hits of two narrow and our heads are too big, essentially."
+  },
+  {
+    "start": 2556,
+    "end": 2563,
+    "text": " And so our birth is much, much more traumatic than almost any other animal, but hyenas, it is worse, because you aren't giving birth through a penis."
+  },
+  {
+    "start": 2563,
+    "end": 2564,
+    "text": " Yes."
+  },
+  {
+    "start": 2564,
+    "end": 2567,
+    "text": " There's two types of erections, which are very useful to know."
+  },
+  {
+    "start": 2567,
+    "end": 2570,
+    "text": " There's a social erection and a sexual erection."
+  },
+  {
+    "start": 2570,
+    "end": 2571,
+    "text": " No."
+  },
+  {
+    "start": 2571,
+    "end": 2574,
+    "text": " What I've got here, this is a social erection."
+  },
+  {
+    "start": 2574,
+    "end": 2578,
+    "text": " And now I've got, now I know about that, that's a good thing to know."
+  },
+  {
+    "start": 2578,
+    "end": 2582,
+    "text": " Unless anyone fans is having sex in which case, it can just turn very quickly into a sexual erection."
+  },
+  {
+    "start": 2582,
+    "end": 2585,
+    "text": " Well, but where does it turn if you're interested?"
+  },
+  {
+    "start": 2585,
+    "end": 2587,
+    "text": " Ah, if you're interested, it's suddenly as a sexual erection."
+  },
+  {
+    "start": 2587,
+    "end": 2589,
+    "text": " In my case, I don't know if that's the case."
+  },
+  {
+    "start": 2589,
+    "end": 2593,
+    "text": " It turns just as you walk past the large ungulate section of the zoo."
+  },
+  {
+    "start": 2593,
+    "end": 2600,
+    "text": " It's very difficult for the males, the true males, to mate as well."
+  },
+  {
+    "start": 2600,
+    "end": 2606,
+    "text": " So they have to practice a lot, because being able to get your genuine penis into this long clitoris is a tough gig."
+  },
+  {
+    "start": 2606,
+    "end": 2608,
+    "text": " It's like dots."
+  },
+  {
+    "start": 2608,
+    "end": 2614,
+    "text": " And so it takes about two months practice from male hyenas before you are able to penetrate properly."
+  },
+  {
+    "start": 2614,
+    "end": 2619,
+    "text": " Yeah, and they're probably crouching behind them and trying to point the penis the right way."
+  },
+  {
+    "start": 2619,
+    "end": 2620,
+    "text": " Two months of..."
+  },
+  {
+    "start": 2620,
+    "end": 2626,
+    "text": " Yeah, you say that, but George III's brother-in-law was practicing for a lot longer than that."
+  },
+  {
+    "start": 2626,
+    "end": 2630,
+    "text": " But 60% of hyena cubs suffocate on the way out."
+  },
+  {
+    "start": 2630,
+    "end": 2632,
+    "text": " No, yeah, it's so sad."
+  },
+  {
+    "start": 2632,
+    "end": 2634,
+    "text": " Yeah, more than half, because you're in this long chute."
+  },
+  {
+    "start": 2634,
+    "end": 2636,
+    "text": " Holy moly, it's crazy."
+  },
+  {
+    "start": 2636,
+    "end": 2641,
+    "text": " There's all sorts of hyena mythologian, because of the fact they're so weird."
+  },
+  {
+    "start": 2641,
+    "end": 2647,
+    "text": " And just beliefs about them, so plenty of the elder, friend of the show."
+  },
+  {
+    "start": 2647,
+    "end": 2649,
+    "text": " He said that..."
+  },
+  {
+    "start": 2649,
+    "end": 2651,
+    "text": " Keep writing it."
+  },
+  {
+    "start": 2651,
+    "end": 2656,
+    "text": " He said that hyenas are capable of calling people by name, because they're quite weird."
+  },
+  {
+    "start": 2656,
+    "end": 2660,
+    "text": " They sound slightly humed in the way they're off, calling people by name, and then killing you when you go outside."
+  },
+  {
+    "start": 2660,
+    "end": 2661,
+    "text": " So they lure you out."
+  },
+  {
+    "start": 2661,
+    "end": 2663,
+    "text": " You think someone's calling you."
+  },
+  {
+    "start": 2663,
+    "end": 2669,
+    "text": " Pliny, pliny, pliny, pliny, the elder, pliny, the elder."
+  },
+  {
+    "start": 2669,
+    "end": 2672,
+    "text": " Get that hyena out of here."
+  },
+  {
+    "start": 2672,
+    "end": 2678,
+    "text": " There's also in mythology. Have you heard of werewolves? There's werehyenas."
+  },
+  {
+    "start": 2678,
+    "end": 2680,
+    "text": " Which is very exciting, but they have a different thing."
+  },
+  {
+    "start": 2680,
+    "end": 2684,
+    "text": " So your classic werewolf will obviously be your wolf."
+  },
+  {
+    "start": 2684,
+    "end": 2686,
+    "text": " I'm sorry, a human that turns into a wolf."
+  },
+  {
+    "start": 2686,
+    "end": 2690,
+    "text": " With the werehyena, it's often a hyena that turns into a human."
+  },
+  {
+    "start": 2690,
+    "end": 2694,
+    "text": " So at night time, on a full moon, you might be talking to a human."
+  },
+  {
+    "start": 2694,
+    "end": 2698,
+    "text": " And they will not be socialised at all."
+  },
+  {
+    "start": 2698,
+    "end": 2702,
+    "text": " Because they spend five, six third time as hyenas."
+  },
+  {
+    "start": 2702,
+    "end": 2704,
+    "text": " Yeah. And their penis might be a clitoris."
+  },
+  {
+    "start": 2704,
+    "end": 2706,
+    "text": " That is true."
+  },
+  {
+    "start": 2706,
+    "end": 2710,
+    "text": " They're greetings. You can tell you've met one immediately."
+  },
+  {
+    "start": 2710,
+    "end": 2712,
+    "text": " As soon as they walk into a party, you know it's them."
+  },
+  {
+    "start": 2712,
+    "end": 2718,
+    "text": " They must be disappointed in how hard it's to find the human clitoris though."
+  },
+  {
+    "start": 2718,
+    "end": 2720,
+    "text": " What's going on?"
+  },
+  {
+    "start": 2720,
+    "end": 2722,
+    "text": " It's not even here."
+  },
+  {
+    "start": 2724,
+    "end": 2728,
+    "text": " Oh, I guess a lot of sympathy from fellow men at the party at that point."
+  },
+  {
+    "start": 2728,
+    "end": 2732,
+    "text": " I know, right?"
+  },
+  {
+    "start": 2732,
+    "end": 2738,
+    "text": " Walter Rally thought that hyenas were so disgusting that Noah refused to let them on the arc."
+  },
+  {
+    "start": 2738,
+    "end": 2744,
+    "text": " And the species was only resurrected after a natural copulation between a dog and a cat."
+  },
+  {
+    "start": 2744,
+    "end": 2746,
+    "text": " Okay."
+  },
+  {
+    "start": 2746,
+    "end": 2752,
+    "text": " It's not as terrifying as the Richard Herring, London Zoo or Captain Treacher."
+  },
+  {
+    "start": 2752,
+    "end": 2754,
+    "text": " I've got some clitoris fat."
+  },
+  {
+    "start": 2754,
+    "end": 2756,
+    "text": " Yes please."
+  },
+  {
+    "start": 2756,
+    "end": 2760,
+    "text": " The clitoris is the only part of the human body that never ages."
+  },
+  {
+    "start": 2760,
+    "end": 2764,
+    "text": " 20 year old clitoris and eight year old clitoris are identical."
+  },
+  {
+    "start": 2764,
+    "end": 2766,
+    "text": " So you can't count the rings."
+  },
+  {
+    "start": 2766,
+    "end": 2770,
+    "text": " They get slightly bigger sometimes throughout life, but then they don't look."
+  },
+  {
+    "start": 2770,
+    "end": 2772,
+    "text": " They don't wrinkle, I guess."
+  },
+  {
+    "start": 2772,
+    "end": 2774,
+    "text": " That is a really good idea."
+  },
+  {
+    "start": 2774,
+    "end": 2776,
+    "text": " That's extraordinary."
+  },
+  {
+    "start": 2776,
+    "end": 2780,
+    "text": " And also, I was surprised, the word clitoris only dates for that."
+  },
+  {
+    "start": 2780,
+    "end": 2786,
+    "text": " And then the word clit was only came up in America in the 1950s."
+  },
+  {
+    "start": 2786,
+    "end": 2790,
+    "text": " So it took 200 years, 300 years, some of the short and clitoris."
+  },
+  {
+    "start": 2790,
+    "end": 2792,
+    "text": " There were saying clitoris for a long time for some of those."
+  },
+  {
+    "start": 2792,
+    "end": 2794,
+    "text": " This is a mouthful."
+  },
+  {
+    "start": 2794,
+    "end": 2796,
+    "text": " Do we know if it had a meaning before?"
+  },
+  {
+    "start": 2796,
+    "end": 2800,
+    "text": " I think it is a Latin word."
+  },
+  {
+    "start": 2800,
+    "end": 2804,
+    "text": " I think it means hood."
+  },
+  {
+    "start": 2804,
+    "end": 2808,
+    "text": " I would have had a different meaning."
+  },
+  {
+    "start": 2808,
+    "end": 2810,
+    "text": " I would go around with a..."
+  },
+  {
+    "start": 2810,
+    "end": 2812,
+    "text": " With a clitoris, I would say."
+  },
+  {
+    "start": 2812,
+    "end": 2814,
+    "text": " I don't know what the Romans called a clitoris."
+  },
+  {
+    "start": 2814,
+    "end": 2816,
+    "text": " If they didn't call it a clitoris."
+  },
+  {
+    "start": 2816,
+    "end": 2820,
+    "text": " One would have always related to the fact that women weren't thought to be..."
+  },
+  {
+    "start": 2820,
+    "end": 2822,
+    "text": " They weren't thought to have any organs that would experience that."
+  },
+  {
+    "start": 2822,
+    "end": 2824,
+    "text": " They weren't thought to have organs."
+  },
+  {
+    "start": 2824,
+    "end": 2826,
+    "text": " They weren't thought to have organs."
+  },
+  {
+    "start": 2826,
+    "end": 2828,
+    "text": " They could experience sexual pleasure or anything."
+  },
+  {
+    "start": 2828,
+    "end": 2830,
+    "text": " But actually, that's often a myth."
+  },
+  {
+    "start": 2830,
+    "end": 2832,
+    "text": " I think they often did."
+  },
+  {
+    "start": 2832,
+    "end": 2836,
+    "text": " I think in ancient Greek, in ancient Greece, women often talked about the pleasure you get from sex."
+  },
+  {
+    "start": 2836,
+    "end": 2838,
+    "text": " There must have been a concept of a clitoris."
+  },
+  {
+    "start": 2838,
+    "end": 2840,
+    "text": " What was it called, Greek?"
+  },
+  {
+    "start": 2840,
+    "end": 2842,
+    "text": " Any Greeks listening?"
+  },
+  {
+    "start": 2842,
+    "end": 2844,
+    "text": " Plenty of you could ask for a name."
+  },
+  {
+    "start": 2844,
+    "end": 2846,
+    "text": " Was it called a wipple tickle or something?"
+  },
+  {
+    "start": 2846,
+    "end": 2848,
+    "text": " We always get that fact set."
+  },
+  {
+    "start": 2848,
+    "end": 2850,
+    "text": " That was supposedly what the G-spot was going to be called."
+  },
+  {
+    "start": 2850,
+    "end": 2852,
+    "text": " It was doctor something."
+  },
+  {
+    "start": 2852,
+    "end": 2854,
+    "text": " Was it Beverly Wipple?"
+  },
+  {
+    "start": 2854,
+    "end": 2856,
+    "text": " No, it was a doctor."
+  },
+  {
+    "start": 2856,
+    "end": 2858,
+    "text": " His name started with G."
+  },
+  {
+    "start": 2858,
+    "end": 2860,
+    "text": " The reason the G-spot is called the G-spot is because it's named after a doctor..."
+  },
+  {
+    "start": 2860,
+    "end": 2862,
+    "text": " It's something like Geistner."
+  },
+  {
+    "start": 2862,
+    "end": 2864,
+    "text": " Geistner starts with G."
+  },
+  {
+    "start": 2864,
+    "end": 2866,
+    "text": " Should we call it the Gavin?"
+  },
+  {
+    "start": 2866,
+    "end": 2868,
+    "text": " No, no, no, no."
+  },
+  {
+    "start": 2868,
+    "end": 2870,
+    "text": " If I discovered that I wanted to have my whole name, wouldn't it be called the R-spot?"
+  },
+  {
+    "start": 2870,
+    "end": 2872,
+    "text": " I wanted to be the Richie Spot as well as one of mine."
+  },
+  {
+    "start": 2872,
+    "end": 2874,
+    "text": " No, the R-spot."
+  },
+  {
+    "start": 2874,
+    "end": 2878,
+    "text": " The Gavin."
+  },
+  {
+    "start": 2878,
+    "end": 2882,
+    "text": " It would stop serving its purpose immediately if you call it the Gavin."
+  },
+  {
+    "start": 2882,
+    "end": 2888,
+    "text": " Okay, that is it."
+  },
+  {
+    "start": 2888,
+    "end": 2890,
+    "text": " That is all our facts."
+  },
+  {
+    "start": 2890,
+    "end": 2892,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 2892,
+    "end": 2895,
+    "text": " Talk to any of us about the things that we have said over the course of this podcast."
+  },
+  {
+    "start": 2895,
+    "end": 2897,
+    "text": " We can be found on our Twitter accounts."
+  },
+  {
+    "start": 2897,
+    "end": 2899,
+    "text": " I'm on @tribaland. James."
+  },
+  {
+    "start": 2899,
+    "end": 2901,
+    "text": " @JamesHarkin. Andy."
+  },
+  {
+    "start": 2901,
+    "end": 2902,
+    "text": " @AndruHunterM. Rich."
+  },
+  {
+    "start": 2902,
+    "end": 2905,
+    "text": " @Herring1967. And Shazinski."
+  },
+  {
+    "start": 2905,
+    "end": 2907,
+    "text": " You can email podcast@ky.com."
+  },
+  {
+    "start": 2907,
+    "end": 2908,
+    "text": " Yep, that's right."
+  },
+  {
+    "start": 2908,
+    "end": 2910,
+    "text": " Or you can go to our group account and know such thing."
+  },
+  {
+    "start": 2910,
+    "end": 2911,
+    "text": " Or our website."
+  },
+  {
+    "start": 2911,
+    "end": 2913,
+    "text": " Know such thing as a fish.com."
+  },
+  {
+    "start": 2913,
+    "end": 2914,
+    "text": " We have lots of blah, blah, blah."
+  },
+  {
+    "start": 2914,
+    "end": 2915,
+    "text": " That's not the website to go to."
+  },
+  {
+    "start": 2915,
+    "end": 2918,
+    "text": " Go to RichardHerring.com/gigs."
+  },
+  {
+    "start": 2918,
+    "end": 2921,
+    "text": " That is where you will find all the upcoming dates for Richard Herring's podcast."
+  },
+  {
+    "start": 2921,
+    "end": 2923,
+    "text": " He's going to be in Edinburgh."
+  },
+  {
+    "start": 2923,
+    "end": 2925,
+    "text": " So all through August, he's going to be there."
+  },
+  {
+    "start": 2925,
+    "end": 2926,
+    "text": " He's got all of his tour dates."
+  },
+  {
+    "start": 2926,
+    "end": 2930,
+    "text": " And it's also got a link to the episode that we went on of his podcast."
+  },
+  {
+    "start": 2930,
+    "end": 2932,
+    "text": " It goes out on the 24th of July."
+  },
+  {
+    "start": 2932,
+    "end": 2934,
+    "text": " If you're listening after then, just go to his site."
+  },
+  {
+    "start": 2934,
+    "end": 2935,
+    "text": " You can find that episode."
+  },
+  {
+    "start": 2935,
+    "end": 2938,
+    "text": " We had an amazing time chatting to him about us generally."
+  },
+  {
+    "start": 2938,
+    "end": 2940,
+    "text": " He made us say weird things."
+  },
+  {
+    "start": 2940,
+    "end": 2941,
+    "text": " Check it out."
+  },
+  {
+    "start": 2941,
+    "end": 2942,
+    "text": " Okay, that is it."
+  },
+  {
+    "start": 2942,
+    "end": 2943,
+    "text": " That is all of our facts."
+  },
+  {
+    "start": 2943,
+    "end": 2945,
+    "text": " We'll see you again next week."
+  },
+  {
+    "start": 2945,
+    "end": 2946,
+    "text": " Goodbye."
+  },
+  {
+    "start": 2946,
+    "end": 2956,
+    "text": " [MUSIC]"
+  },
+  {
+    "start": 2956,
+    "end": 2966,
+    "text": " [BLANK_AUDIO]"
+  }
+]

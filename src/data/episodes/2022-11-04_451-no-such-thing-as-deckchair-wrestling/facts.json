@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on a state-sanctioned dance in East Germany, the significance of folding chairs in medieval burials, prenatal reactions to kale, and the eccentricities of architect Erno Goldfinger.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In communist East Germany in the 1950s, the state came up with a sanctioned dance for their teenagers to do.",
+      "presenter": "Angela Barnes",
+      "guest": true,
+      "start_time": "00:02:15"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the 7th century, one of the most impressive things you could be buried with was a folding chair.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:18:01"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Most people dislike kale before they're even born.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:31:51"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Goldfinger was such a difficult boss that he once fired someone who didn't even work for him.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:44:08"
+    }
+  ]
+}

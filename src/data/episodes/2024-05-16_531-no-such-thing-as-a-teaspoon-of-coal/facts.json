@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of fascinating topics, including the migration of swallows over the Alps by train and plane, a 19th-century shop in Cincinnati where time was the currency, the discovery of quantum dots used in stained glass and modern technology, and a statue of Uma Thurman's grandmother in Sweden. The hosts delve into these facts with humor and insightful discussions.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1974, thousands of swallows migrated over the Alps by train and plane.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:02:05"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1827, a shop opened in Cincinnati where the principal currency was time itself.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:01"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The 2023 Nobel Prize for Chemistry was won for discovering something that has been used in stained glass window making for a thousand years.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:31:01"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Right at the southernmost point of Sweden, you will find a statue of Uma Thurman's naked granny.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:45:25"
+    }
+  ]
+}

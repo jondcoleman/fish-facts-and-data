@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating topics, including the invention of the underwater ejector seat, a school in Massachusetts with perpetually lit light bulbs, a man who cornered the onion market in America, and a humorous story about Steve Jobs' autograph. The hosts delve into these facts with their usual humor and curiosity, exploring the historical and technical details behind each story.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The man who invented the underwater ejector seat once broke his tailbone in six places while testing the system on the ground rather than in the water.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There is a school in Massachusetts that has had all of its 7,000 light bulbs permanently on for over a year and a half now because no one knows how to turn them off.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:18:48"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 1955, one person secretly bought almost all the onions in America.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:30:37"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1983, an autograph hunter wrote to Steve Jobs. Jobs replied saying that he didn't sign autographs, but he signed that letter and it's sold last year for half a million dollars.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:42:38"
+    }
+  ]
+}

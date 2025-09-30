@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating facts, including the invention of adult scooters by a Swiss banker, the engineering of goats to produce spider silk, King George VI's visit to the US with special London water for tea, and the surprising association of millipedes with Nazis during WWII.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Adult scooters were invented by a Swiss banker who was hungry for a sausage.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:50"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Goats have been engineered to produce spider silk because when farmers tried to get the spiders to do it themselves, they just kept eating each other.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When King George VI visited Washington, an American chemist provided the royals with special London water so they could have exactly the same tea as they had in Britain.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:18:48"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Many millipede researchers are annoyed that more than 70 years after World War II, the animals are still associated with the Nazis.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:26:41"
+    }
+  ]
+}

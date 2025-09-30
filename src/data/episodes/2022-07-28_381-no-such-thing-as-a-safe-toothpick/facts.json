@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the invention of a special glue for strongmen, the use of insect corpses in early animation, the clever marketing strategy behind the popularization of toothpicks in America, and a unique blue plaque in London that has its own plaque.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "There is a type of glue that was developed specifically to help strong men grab onto giant stone spheres.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The first animated puppet film used insect corpses as the puppets.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:12:04"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The man who popularized toothpicks in American restaurants did so by paying Harvard men to eat at fine establishments and then shout at the waiters if they were told wooden toothpicks were not available.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:22:44"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There is a blue plaque in London which has its own blue plaque.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:37:51"
+    }
+  ]
+}

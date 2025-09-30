@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features facts about Unity Mitford's unique friendships, a bizarre historical cure for deafness, a long-lasting patch of snow in Scotland, and Jane Austen's contribution to the English language. The hosts explore these topics with humor and interesting anecdotes, including discussions on historical figures, aviation stunts, and literary history.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Unity Mitford was the only person to be BFFs with Churchill and Hitler.",
+      "presenter": "Carrie Lloyd",
+      "guest": true,
+      "start_time": "00:00:57"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the 1920s, doctors prescribed intentionally terrifying flights in aeroplanes to cure deafness.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:10:31"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There is a patch of snow in Scotland that fell 11 years ago and is just melted this week.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:21:37"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The first person ever to use the word \"sponge cake\" was Jane Austen.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:31:01"
+    }
+  ]
+}

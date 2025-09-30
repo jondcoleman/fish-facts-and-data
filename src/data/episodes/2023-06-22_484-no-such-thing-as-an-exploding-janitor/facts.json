@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode, recorded live at the Nerdland Festival in Belgium, features facts about NASA's invisible fires, the complexity of the Belgian tax system, brain shrinkage over time, and the Guinness World Records' reliance on a private collector for their archives.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the 1970s, NASA employees had to walk around holding broomsticks in front of them to detect invisible fires.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:53"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 2015, it was discovered that only one person alive understands the Belgian tax system.",
+      "presenter": "Leven Skynra",
+      "guest": true,
+      "start_time": "00:15:31"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My brain is considerably smaller than it was when we started doing No Such Thing As A Fish.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:27:26"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Because the London offices of the Guinness World Records don't have a complete set of Guinness World Records books, whenever they need to find something out, they often need to consult the man who has the Guinness World Record for the owner of the most Guinness World Records books.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:39:16"
+    }
+  ]
+}

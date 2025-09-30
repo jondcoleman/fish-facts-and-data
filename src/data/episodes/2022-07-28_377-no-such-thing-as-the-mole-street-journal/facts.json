@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features discussions on moles and their burrowing habits, the history of beards and mechanical whiskers, the Ifland ring for the most significant German-speaking actor, and modern propaganda techniques used in warfare. The hosts explore fascinating facts about these topics, including mole larders, the evolution of beard fashion, the passing of the Ifland ring, and the use of text messages for propaganda.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Moles burrows have special kitchens where they keep up to 470 decapitated earthworms to eat later.",
+      "presenter": "Ann Miller",
+      "guest": true,
+      "start_time": "00:02:14"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1800, a wig maker in London patented mechanical whiskers.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:17"
+    },
+    {
+      "fact_number": 3,
+      "fact": "We know who the most significant male actor currently working in German speaking theatre is because he wears a special best actor ring.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:27:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Countries can now send propaganda to individual enemy soldiers on the front line by text message every time they turn on their phones.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:37:18"
+    }
+  ]
+}

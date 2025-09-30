@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of topics including the unique age system in Korea, a Chinese quiz show focused on Xi Jinping, the literary life of William Wordsworth and his sister Dorothy, and the fictional deaths in the Queen Vic pub from the soap opera EastEnders.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "If you were a baby born in Korea in December 2020, you could be one, two, or three years old.",
+      "presenter": "Lucy Porter",
+      "guest": true,
+      "start_time": "00:01:54"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 2018, a new quiz show was launched on Chinese prime-time TV where all the answers were about Xi Jinping.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:36"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 1804, William Wordsworth and his sister Dorothy built a hut lined with moss.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:50"
+    },
+    {
+      "fact_number": 4,
+      "fact": "We know of five people who have died in the Queen Vic in EastEnders, although one of them was murdered 120 years before the TV show began.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:42:38"
+    }
+  ]
+}

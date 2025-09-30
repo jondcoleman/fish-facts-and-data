@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky historical and contemporary facts, including a near-war between Brazil and France over lobsters, a medieval man who drove his entire village away, the regret of the Labradoodle's inventor, and the original meaning of the term 'shit-faced.'",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the 1960s, Brazil and France almost went to war with each other over whether lobsters crawl or swim.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:54"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 1350, there was a man called William Stand Up Right who annoyed everyone else in his village so much that every single one of them moved away.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:10:23"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The man who invented the Australian Labradoodle deeply, deeply regrets it.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:19:50"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The word shit-faced originally meant having a very small face.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:01"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on the unknown effects of smartphones on children, the history of a flying aircraft carrier, an ultra-marathon in New York, and a study on people's preferences for lottery winnings.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My favorite fact is that no one has any clear idea about what growing up with a smartphone does.",
+      "presenter": "Malcolm Gladwell",
+      "guest": true,
+      "start_time": "00:02:57"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is that in 1931, the USA launched an aircraft carrier which itself could fly.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:14:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that there is a marathon in New York that takes so long to complete, runners can go through up to 20 pairs of shoes while they're trying to run it.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:29:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that, given the choice, most people would prefer to win $10 million rather than $100 billion.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:44:46"
+    }
+  ]
+}

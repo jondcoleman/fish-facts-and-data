@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the irony of an author on gullibility falling for a Ponzi scheme, a Paralympian finding a shoe-sharing soulmate, the innovative use of fidget spinners for medical diagnostics, and Al Capone's charitable yet self-serving soup kitchen during the Great Depression.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Two days after receiving his latest book, the author of 'Annals of Gullibility: Why We Get Duped and How to Avoid It' lost hundreds of thousands of dollars in a Ponzi scheme.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In 2011, former Paralympian Josh Sundquist, who's missing his left leg, announced that he'd found his soulmate, i.e., someone missing a right leg with whom he can split pairs of shoes.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:18:53"
+    },
+    {
+      "fact_number": 3,
+      "fact": "You can now diagnose a urinary tract infection using a fidget spinner.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:26:34"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Al Capone ran a soup kitchen during the Great Depression; he served beef on Thanksgiving in 1930 because there had just been a theft of 1,000 turkeys nearby and he didn't want the authorities to think it was him.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:37:27"
+    }
+  ]
+}

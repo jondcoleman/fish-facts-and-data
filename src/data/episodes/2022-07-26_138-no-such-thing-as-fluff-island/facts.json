@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics including phantom islands that were once charted by the British Navy, the technological upgrades at the White House, the unique ability of Morse code operators to recognize each other's 'fists', and the intriguing fact about braver snails having thicker shells.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1875, the British Navy erased 123 islands from their charts because they didn't exist.",
+      "presenter": "Ed Brooke Hitching",
+      "guest": true,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The White House only got the ability to print on double-sided paper this year.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:10:47"
+    },
+    {
+      "fact_number": 3,
+      "fact": "World War Two Morse code operators could recognize each other's accents over the line.",
+      "presenter": "Alex Bell",
+      "guest": true,
+      "start_time": "00:18:50"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Braver snails have thicker shells.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:27:35"
+    }
+  ]
+}

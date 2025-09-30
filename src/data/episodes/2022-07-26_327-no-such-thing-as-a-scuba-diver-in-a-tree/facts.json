@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including espionage techniques using light bulbs, the history of London Bridge and its destruction by a tornado, the cancellation of a Dutch cycling race due to excessive wind, and the use of sterilized flies to control pest populations on the Colombia-Panama border.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Spies can tell what people are saying by looking at the lights in the room they're in.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "London Bridge was destroyed by a tornado in 1091.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:15:32"
+    },
+    {
+      "fact_number": 3,
+      "fact": "This year's Dutch national headwind championships was canceled during the race because it was too windy.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:31:02"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Every week planes drop 15 million flies on the border between Columbia and Panama.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:39:03"
+    }
+  ]
+}

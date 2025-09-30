@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode, recorded live in Sydney, covers a variety of intriguing topics including the filming of 'National Velvet' with Elizabeth Taylor, the investigation of Jack the Ripper, the peculiar practices of German mini golfers, and the marketing strategies behind M&Ms.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1944, the filming of the Oscar-winning movie National Velvet was delayed to give its lead actress time to grow a bit taller.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:03:00"
+    },
+    {
+      "fact_number": 2,
+      "fact": "One of the leading investigators in the Jack the Ripper case, whose only major contribution was to arrest someone who wasn't capable of being the murderer, was called Sergeant Thick.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:18"
+    },
+    {
+      "fact_number": 3,
+      "fact": "German mini golfers refrigerate their balls.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:26:47"
+    },
+    {
+      "fact_number": 4,
+      "fact": "M&Ms deliberately made the green character sexy because of a school ground rumour that that coloured sweets were an aphrodisiac.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:37:40"
+    }
+  ]
+}

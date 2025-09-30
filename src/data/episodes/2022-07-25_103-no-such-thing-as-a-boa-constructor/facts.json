@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of quirky and fascinating facts, including Tchaikovsky's fear of his head falling off, asthmatic otters using inhalers, the medical repurposing of the appendix, and the founder of Crufts designing train carriages for celebrity dogs.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Tchaikovsky used to hold his head when conducting because he was afraid it would fall off.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Asthmatic otters can be taught to use inhalers.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:09:02"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Your appendix can be turned into a sphincter, if you like.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:17:47"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The founder of Crufts designed special train carriages for celebrity dogs.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:24:46"
+    }
+  ]
+}

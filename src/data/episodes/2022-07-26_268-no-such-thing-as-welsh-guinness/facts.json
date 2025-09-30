@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a variety of intriguing topics, including the history of bone transplants using dog bones, the tradition of informing bees about family events, the world of model trains, and the peculiarities of excommunication in the Catholic Church.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first ever bone transplant used a dog's bones to repair a man's head, and the patient was immediately excommunicated by the church for no longer being fully human.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:11:16"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There is a world record for pulling a train with model trains.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:25:12"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In the 19th century, if the owner of an estate died, it was traditional for the estate's beekeeper to inform all of the bees of the death and then allow them to mourn by covering the hives in black veils.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:34:39"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The first ever bone transplant used a dog's bones to repair a man's head, and the patient was immediately excommunicated by the church for no longer being fully human.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:11:16"
+    }
+  ]
+}

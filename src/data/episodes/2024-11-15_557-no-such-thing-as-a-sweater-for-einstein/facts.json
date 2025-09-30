@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of fascinating topics, including Einstein's birthday gift from Kurt Gödel, the financial troubles of the author of \"Rich Dad, Poor Dad,\" the role of women in the Mexican Revolution, and a unique cave in Greece where water flows uphill.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "For Einstein's 70th birthday, mathematician Kurt Gödel gave him a sweater and a paper which proved time travel.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:44"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The author of the international bestselling book, Rich Dad, Poor Dad, which taught readers to be financially intelligent, is currently $1 billion in debt.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:13:26"
+    },
+    {
+      "fact_number": 3,
+      "fact": "During the Mexican Revolution, the women in the army traveled on train roofs because the horses took up all the room inside the carriages.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:26:03"
+    },
+    {
+      "fact_number": 4,
+      "fact": "There is a cave in Greece where water flows uphill.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:38:00"
+    }
+  ]
+}

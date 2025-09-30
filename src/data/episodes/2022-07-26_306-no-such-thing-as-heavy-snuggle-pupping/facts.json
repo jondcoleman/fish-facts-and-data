@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about tax evasion in Greece, the anatomy of pterosaurs, the history of the world's first casino, and the inventor of Vaseline's unique marketing tactics. The hosts discuss various topics including tax dodging, the evolution of flying reptiles, gambling history, and the versatile uses of Vaseline.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "When the Greek government put a tax on swimming pools in 2008, only 324 Athenians admitted to having one, but a search by Google Earth revealed the actual number was 16,974.",
+      "presenter": "John Lloyd",
+      "guest": true,
+      "start_time": "00:01:55"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Some pterosaurs had heads that were more than four times the length of their bodies.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:15:50"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The world's first casino had a rule that you could only gamble if you were wearing a tricorn hat.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:25:02"
+    },
+    {
+      "fact_number": 4,
+      "fact": "To promote his new product, the inventor of Vaseline would demonstrate his invention by dipping his hands in acid and then healing the burn wounds with the balm.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:31:17"
+    }
+  ]
+}

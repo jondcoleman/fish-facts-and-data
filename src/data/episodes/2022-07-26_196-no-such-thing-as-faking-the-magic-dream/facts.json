@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of quirky and intriguing facts, including the unique telephone code for Cape Canaveral, the hallucinogenic honey of Himalayan bees, the inventor of the pink flamingo garden ornament, and Winston Churchill's unusual method of delivering a French radio address during WWII.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The telephone dialing code for Cape Canaveral, the famous rocket launch site, is 3-2-1.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:02:24"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The world's largest honeybees make hallucinogenic honey, and you're only allowed to collect this honey if you've had a specific dream.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:10:30"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The man who invented the pink flamingo garden ornament dressed in matching clothes with his wife for 35 years.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:19:16"
+    },
+    {
+      "fact_number": 4,
+      "fact": "When Winston Churchill made his first radio address to the people of occupied France, he had his male French coach sitting on his lap.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:25:00"
+    }
+  ]
+}

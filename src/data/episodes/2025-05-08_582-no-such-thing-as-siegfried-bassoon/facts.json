@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers a range of fascinating topics, including the history of Venice's Rialto Bridge, a scientific experiment in Italy searching for rare particle events, the opium trade connections of Siegfried Sassoon's family, and the elusive Murray's plums in Texas.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Venice's most famous bridge was built by a man named Antonio the Bridge.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:02"
+    },
+    {
+      "fact_number": 2,
+      "fact": "For the last seven years, a science lab in Italy has continuously been looking for something that supposedly happens less than once every trillion trillion years.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:43"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Siegfried Sassoon's great grandfather once owned half the opium in India and China.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:27:26"
+    },
+    {
+      "fact_number": 4,
+      "fact": "No living person has ever seen Murray's plums.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:40:05"
+    }
+  ]
+}

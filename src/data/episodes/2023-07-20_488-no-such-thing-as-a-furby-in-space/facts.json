@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" features facts about a woman who died of laughter at a drag performance, the invention of the water bed with jelly, a room in the Pentagon for Pokemon battles, and a family surviving a shipwreck with turtle blood enemas. The hosts discuss these topics with humor and delve into related anecdotes and trivia.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1782, a woman found a drag performance so hilarious that she literally died of laughter.",
+      "presenter": "Jamie Morton",
+      "guest": true,
+      "start_time": "00:01:56"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The first modern water bed was filled with jelly rather than water.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:13:51"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There used to be a room in the Pentagon where employees met specifically to have Pokemon battles.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:26:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 1972, a family who had survived a shipwreck kept themselves alive by giving each other turtle blood enemas.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:38:31"
+    }
+  ]
+}
