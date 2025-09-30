@@ -380,7 +380,7 @@ async function findEpisodesNeedingFacts(): Promise<
       const hasEpisodeNumber =
         metadata.itunes?.episode && metadata.itunes?.episodeType !== "bonus";
       const isFullEpisode = metadata.itunes?.episodeType === "full";
-      const titleHasNumber = /^\d+\./.test(metadata.title);
+      const titleHasNumber = /^\d+[.:]/.test(metadata.title);
       const isStandard = hasEpisodeNumber || isFullEpisode || titleHasNumber;
 
       if (isStandard) {

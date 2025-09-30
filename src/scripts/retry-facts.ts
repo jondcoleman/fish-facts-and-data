@@ -91,7 +91,7 @@ async function retryFactExtraction(episodeIdentifier: string): Promise<boolean> 
   // 3. OR title starts with a number (e.g., "601. No Such Thing...")
   const hasEpisodeNumber = metadata.itunes?.episode && metadata.itunes?.episodeType !== "bonus";
   const isFullEpisode = metadata.itunes?.episodeType === "full";
-  const titleHasNumber = /^\d+\./.test(metadata.title);
+  const titleHasNumber = /^\d+[.:]/.test(metadata.title);
   const isStandard = hasEpisodeNumber || isFullEpisode || titleHasNumber;
 
   if (!isStandard) {

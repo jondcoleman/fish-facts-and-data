@@ -1,0 +1,3272 @@
+1
+00:00:00,000 --> 00:00:06,120
+ Hi everyone, welcome to this week's episode of No Such Thing as a Fish When We Were Joined
+
+2
+00:00:06,120 --> 00:00:13,440
+ by the incredible mathematician, YouTuber, science communicator, all-round smart guy
+
+3
+00:00:13,440 --> 00:00:19,360
+ Matt Parker. Now, a lot of you will know a lot of Matt's work. He's written a lot of
+
+4
+00:00:19,360 --> 00:00:24,000
+ books, things to make and do in the fourth dimensions. One of his humble pie was an
+
+5
+00:00:24,000 --> 00:00:30,200
+ absolutely massive book for him. He has a new book out. It is called Love Triangle, The
+
+6
+00:00:30,200 --> 00:00:35,640
+ Life-Changing Magic of Trigonometry. I haven't read it yet, but I can tell you having read
+
+7
+00:00:35,640 --> 00:00:41,400
+ his other books, it is going to be absolutely incredible. And you can pre-order it right
+
+8
+00:00:41,400 --> 00:00:52,720
+ now by going to mathsgear.co.uk. That's M-A-T-H-S-G-E-A-R.co.uk. Don't forget that S if you're in America.
+
+9
+00:00:52,720 --> 00:00:58,800
+ And you can pre-order a signed copy with a limited edition dust jacket. Of course, it
+
+10
+00:00:58,800 --> 00:01:04,240
+ will be available in all of the local bookshops and probably in those big online book retailers
+
+11
+00:01:04,240 --> 00:01:11,240
+ as well. A few other things about Matt, he is in a podcast called A Problem Squared with
+
+12
+00:01:11,240 --> 00:01:16,080
+ Beck Hill, who you might remember from a few months ago. She came on the podcast and talks
+
+13
+00:01:16,080 --> 00:01:21,080
+ about Cabbage Patch Kids. Beck and Matt have this incredible podcast. It's definitely worth
+
+14
+00:01:21,080 --> 00:01:27,560
+ listening to. And there is also a podcast of unnecessary detail that Matt does with two
+
+15
+00:01:27,560 --> 00:01:34,520
+ other ex-fish alumni, Steve Mould and Helen Arney from the Festival of the Spoken Nerd.
+
+16
+00:01:34,520 --> 00:01:38,280
+ Anyway, I'm sure you're going to love this week's show. Don't forget at the end of it,
+
+17
+00:01:38,280 --> 00:01:44,480
+ go to mathsgear.co.uk to pre-order Matt's new book, Love Triangle. But for now, all that's
+
+18
+00:01:44,480 --> 00:01:47,000
+ left to say is on with the podcast.
+
+19
+00:01:47,000 --> 00:02:10,200
+ Hello, and welcome to another episode of No Such Thing as a Fish, a weekly podcast coming
+
+20
+00:02:10,200 --> 00:02:15,040
+ to you from the QI offices in Hovern. My name is Dan Shriver. I am sitting here with Anna
+
+21
+00:02:15,040 --> 00:02:19,720
+ Tyshinski, James Harkin and Matt Parker. And once again, we have gathered around the
+
+22
+00:02:19,720 --> 00:02:23,840
+ microphones with our four favorite facts from the last seven days. And in no particular
+
+23
+00:02:23,840 --> 00:02:31,240
+ order, here we go. Starting with fact number one, that is Matt. The first computer to ever
+
+24
+00:02:31,240 --> 00:02:38,600
+ discover a shape starred in the 1980s sitcom. Well, starred was in an episode of the 1980s
+
+25
+00:02:38,600 --> 00:02:45,920
+ sitcom Laverne and Shirley. Wow. There are a couple of concepts in there. I'm not familiar
+
+26
+00:02:45,920 --> 00:02:51,520
+ with them. I like to pack a lot of concepts into a sentence. Okay, so computer shape, Laverne
+
+27
+00:02:51,520 --> 00:02:57,060
+ or Shirley? Can we talk about how you discover a shape? Good point. That feels like the bigger
+
+28
+00:02:57,060 --> 00:03:01,880
+ question. I also don't know what Laverne and Shirley show you'd recommend. I'm unfamiliar
+
+29
+00:03:01,880 --> 00:03:07,400
+ with their non-computer based episodes. I used to watch it as a kid. Really? Yeah, yeah.
+
+30
+00:03:07,400 --> 00:03:10,800
+ And it's good. Yeah, it's, I mean, it was a spinoff from Happy Days. Yeah, it's Gary
+
+31
+00:03:10,800 --> 00:03:16,080
+ Marshall, who was the, yeah, the creator of it. He was the Happy Days guy. Yeah, yeah.
+
+32
+00:03:16,080 --> 00:03:19,680
+ Apparently it was a lot of, sorry, we're in Laverne and Shirley territory now. That was
+
+33
+00:03:19,680 --> 00:03:23,600
+ in the main part of my own. Apparently they were like really kind of like, you know, they
+
+34
+00:03:23,600 --> 00:03:27,640
+ had lots of fights on set and Happy Days, the cast, they used to put glass to the walls
+
+35
+00:03:27,640 --> 00:03:31,440
+ to hear the Argivets that were going on on the other side. Yeah, it was all that stuff.
+
+36
+00:03:31,440 --> 00:03:38,680
+ On Happy Days. Yeah. But it was, it was early 80s, I think, Laverne and Shirley. So that's
+
+37
+00:03:38,680 --> 00:03:44,520
+ quite early for, no, it's not that early for computers, is it? It was a 1980 episode and
+
+38
+00:03:44,520 --> 00:03:51,960
+ the same computer had previously starred in The Land of the Giants in 1969. God didn't
+
+39
+00:03:51,960 --> 00:03:57,600
+ get work for a while then. No, it went out for a while. So it was in 60s like sci-fi and
+
+40
+00:03:57,600 --> 00:04:05,040
+ being in a 1986 com was actually like the final bit of its Hollywood career. Yeah, it's pretty
+
+41
+00:04:05,040 --> 00:04:08,720
+ about you've, you've as a result of this fact and we will get to the new shape. Sorry,
+
+42
+00:04:08,720 --> 00:04:14,760
+ Anna, for knocking out of this, but this website that you sent starring the computer, starring
+
+43
+00:04:14,760 --> 00:04:19,480
+ the computer is phenomenal. Right. It's the IMDB of computers and movies that they have
+
+44
+00:04:19,480 --> 00:04:24,560
+ appeared in. And it's run by this one guy who he has this amazing Twitter account where
+
+45
+00:04:24,560 --> 00:04:28,240
+ he just constantly puts up photos from movies he's watching going, what's this? Does anyone
+
+46
+00:04:28,240 --> 00:04:32,840
+ know? And the people go hunting to try and track down the exact computer that's in the
+
+47
+00:04:32,840 --> 00:04:38,000
+ in the movie. So good. What was this computer first? The Burroughs 220. Okay. Once you've
+
+48
+00:04:38,000 --> 00:04:41,760
+ seen it in Laverne and Shirley, do you think people then go, well, I want to watch The
+
+49
+00:04:41,760 --> 00:04:45,520
+ Land of the Giants now and I want to watch? Watch this entire bat catalog. Yeah, you might
+
+50
+00:04:45,520 --> 00:04:50,160
+ be with an actor. Well, what's good about this computer? The Burroughs 220 really looks
+
+51
+00:04:50,160 --> 00:04:55,280
+ like a computer. Like if you're thinking 60s computers, like with tape spinning and light
+
+52
+00:04:55,280 --> 00:05:02,920
+ splashing, it's like your classic retro computer look. Okay. I read that a similar one, which
+
+53
+00:05:02,920 --> 00:05:11,480
+ was the B205. Oh, yes. Was the bat computer in Batman. I wondered if there were ever
+
+54
+00:05:11,480 --> 00:05:15,760
+ computers that played other computers. And I guess that's an example. Like a Mac playing
+
+55
+00:05:15,760 --> 00:05:21,000
+ at Dell or something. Yeah. Yeah. But I wanted to find out more about the bat computer. Unfortunately,
+
+56
+00:05:21,000 --> 00:05:27,600
+ one of the most popular internet firms in Lagos is called bat computers. I did find
+
+57
+00:05:27,600 --> 00:05:32,800
+ a few things about the bat computer. And by the way, the Burroughs 205 absolutely smashes
+
+58
+00:05:32,800 --> 00:05:38,280
+ the hell out of the 220. It does. It had way better casting. Yeah, it's in the top 10 most
+
+59
+00:05:38,280 --> 00:05:42,920
+ appeared in movies computers in the world. Family of computers for the record. Yeah. One
+
+60
+00:05:42,920 --> 00:05:48,080
+ big Burroughs family. So here we go. A dynasty, you might say. What you get with the bat computer,
+
+61
+00:05:48,080 --> 00:05:53,400
+ the Burroughs 205 is you get the bat correction signal, which alerts Batman when he has said
+
+62
+00:05:53,400 --> 00:05:57,240
+ something incorrect. You have the bat computer input slot, which I remember. Wait a minute.
+
+63
+00:05:57,240 --> 00:06:03,200
+ So they invented the QI Klaxon. Exactly. Yeah. There's the input slot where it's just it's
+
+64
+00:06:03,200 --> 00:06:06,760
+ kind of like where you would it's like a mail slot where you put your post in, but it's
+
+65
+00:06:06,760 --> 00:06:11,040
+ like, here's an entire book and you just shove the book in and it computes the whole book
+
+66
+00:06:11,040 --> 00:06:15,640
+ really quickly. Wow. Accelerated concentration switch. That's sort of giving it more computing
+
+67
+00:06:15,640 --> 00:06:22,360
+ power in order to deal with the problem. And special escaped arch criminal bat locator,
+
+68
+00:06:22,360 --> 00:06:26,680
+ which is a preset of the computer, basically, but specifically for like the Joker and the
+
+69
+00:06:26,680 --> 00:06:32,840
+ Reddler. That's clever. So I find my own app, but like find my villain. Exactly. Yeah. And
+
+70
+00:06:32,840 --> 00:06:37,920
+ the bat keyboard, that's an actual thing. It is a keyboard, which only has I think five
+
+71
+00:06:37,920 --> 00:06:43,460
+ or six or seven keys on it. And you can make any letter by playing a chord. Do you know
+
+72
+00:06:43,460 --> 00:06:49,280
+ these math, like no keyboards? So you don't need 26 keys to play all the stonography would
+
+73
+00:06:49,280 --> 00:06:54,440
+ use. I think so. Yeah. But it was used for like disabled people who, you know, only had
+
+74
+00:06:54,440 --> 00:06:58,480
+ one hand or something like that. And you could type letters quickly by knowing that if you
+
+75
+00:06:58,480 --> 00:07:02,320
+ want to do an A, you might press the first one, the third one, the fourth one or whatever.
+
+76
+00:07:02,320 --> 00:07:07,400
+ Because there's 30. Well, if you include pressing nothing, 32 options, so that you've got enough
+
+77
+00:07:07,400 --> 00:07:11,960
+ for the whole alphabet. How many keys with five? Five keys. Five keys will give you 32
+
+78
+00:07:11,960 --> 00:07:18,520
+ options, including the null press, which is not using the keyboard. So 31 distinct presses.
+
+79
+00:07:18,520 --> 00:07:24,040
+ And then if you include your nose, now you can do upper and lower case. I do have a keyboard.
+
+80
+00:07:24,040 --> 00:07:28,200
+ I removed all the keys apart from the zero and the one on a keyboard because I can type
+
+81
+00:07:28,200 --> 00:07:34,800
+ in binary. So I could I included the backspace. I'm not a monster. So I can and enter so I
+
+82
+00:07:34,800 --> 00:07:38,240
+ could type out. I tried doing it on stage. I'll type people's names in binary and then
+
+83
+00:07:38,240 --> 00:07:44,600
+ hit enter. Really? It will come up in text. Wow. I was looking at that website for all
+
+84
+00:07:44,600 --> 00:07:51,280
+ the examples of this B205, which is what the bat computer is. And one just caught my eye,
+
+85
+00:07:51,280 --> 00:07:58,160
+ which was sex kittens go to college. The movie. I don't know why. But this is an amazing movie
+
+86
+00:07:58,160 --> 00:08:03,760
+ because it didn't just have this computer in it, the B205. It also had a robot called
+
+87
+00:08:03,760 --> 00:08:10,160
+ Electro in it. And Electro was an exhibit of the 1939 World's Fair. It was like a huge
+
+88
+00:08:10,160 --> 00:08:15,080
+ seven foot tall robot. It could walk by voice commands. So if you told it to walk, it could
+
+89
+00:08:15,080 --> 00:08:20,800
+ walk. It could speak 700 words using a record player. It could smoke cigarettes, blow up
+
+90
+00:08:20,800 --> 00:08:26,360
+ balloons and move its hands and arms. All the parts of the chewing test.
+
+91
+00:08:26,360 --> 00:08:32,120
+ Wow. So this was like a really famous robot in the World's Fair, 1939. And then by, you
+
+92
+00:08:32,120 --> 00:08:37,080
+ know, the 1960s, it was in sex kittens go to college. So good. What a career decline.
+
+93
+00:08:37,080 --> 00:08:41,280
+ Is it good or is it depressing for that poor robot? I just love it. I love all the movies.
+
+94
+00:08:41,280 --> 00:08:45,160
+ I didn't read that movie. Like there are so many, like you get big ones like Austin Powers,
+
+95
+00:08:45,160 --> 00:08:48,760
+ the spy who shagged me. It appears in that. But then you also got Dr. Goldfoot and the
+
+96
+00:08:48,760 --> 00:08:55,400
+ Bikini machine. So good. And the Burroughs, by the way, it was a company. Yeah. And it
+
+97
+00:08:55,400 --> 00:09:00,200
+ was started by William Seward Burroughs, who was a grandfather of William S. Burroughs.
+
+98
+00:09:00,200 --> 00:09:05,480
+ Really? He invented, at least this is, I'm sure there are other claims to it, but he
+
+99
+00:09:05,480 --> 00:09:09,640
+ invented and filed the patent for the first calculator. You wouldn't imagine that spawning,
+
+100
+00:09:09,640 --> 00:09:15,080
+ William Burroughs. Not really. Two generations later, it's sort of like chain smoking, romantic.
+
+101
+00:09:15,080 --> 00:09:18,240
+ Wife shooting. Wife shooting. You like to put that further down in C.
+
+102
+00:09:18,240 --> 00:09:22,520
+ We rarely talk about the fact that he killed his wife. Yeah. Well, apparently he said that
+
+103
+00:09:22,520 --> 00:09:27,520
+ he was trying to do a William Tell thing. Yeah. And shoot an apple off her head and accidentally
+
+104
+00:09:27,520 --> 00:09:30,920
+ shot her butt. Yeah. I'm not sure we all buy that. But apparently that will get you off
+
+105
+00:09:30,920 --> 00:09:35,800
+ in court because he didn't go to jail. Yeah. Everything was fine. Yeah. Just leave an apple
+
+106
+00:09:35,800 --> 00:09:44,000
+ nearby at the scene of the crime. Yeah. That's what I was aiming for. Another cool pop culture
+
+107
+00:09:44,000 --> 00:09:50,560
+ computer crossover I came across. Did you guys know that Steve Jobs is Homer Simpson's
+
+108
+00:09:50,560 --> 00:09:59,520
+ uncle? Oh, what? Yes. Yes. This is so weird, this fact. It's so weird. It's so bizarre.
+
+109
+00:09:59,520 --> 00:10:04,840
+ So Steve Jobs' dad is a guy called Abdul Fattah Jandali. Steve Jobs was put up for adoption
+
+110
+00:10:04,840 --> 00:10:11,000
+ by this guy because his partner's family disapproved of the marriage because he was Syrian Muslim.
+
+111
+00:10:11,000 --> 00:10:14,600
+ So Steve Jobs went out for adoption, never met his father, actually. This guy, Abdul
+
+112
+00:10:14,600 --> 00:10:20,120
+ Fattah Jandali, had another kid also who ended up estranged from him. She was called Mona
+
+113
+00:10:20,120 --> 00:10:25,920
+ Simpson and she married a guy weirdly called Richard Apple. So Steve Jobs' brother-in-law
+
+114
+00:10:25,920 --> 00:10:30,800
+ is called Apple. What? Brilliant. She married a guy called Richard Apple, who is a riser
+
+115
+00:10:30,800 --> 00:10:37,000
+ on the Simpsons and he came up with the character of Mona Simpson, Homer's mum, named after
+
+116
+00:10:37,000 --> 00:10:42,820
+ his partner, Mona Simpson. So Steve Jobs' sister is Mona Simpson, Homer Simpson's
+
+117
+00:10:42,820 --> 00:10:47,360
+ mum. Okay. Yeah. I followed that, but maybe because I knew it beforehand. I'm not sure
+
+118
+00:10:47,360 --> 00:10:51,380
+ if that worked because we got too confused looking. Imagining a very complicated family
+
+119
+00:10:51,380 --> 00:10:56,000
+ tree. Yeah. I'm thinking like the Hapsburgs, the other family tree where they're all kind
+
+120
+00:10:56,000 --> 00:11:00,960
+ of into it. Yeah. It is like that. And also, if that branched on into fiction for one bit
+
+121
+00:11:00,960 --> 00:11:04,120
+ of it, it's a little bit like Icelandic sagas where you're like, "Is this true or is it
+
+122
+00:11:04,120 --> 00:11:10,400
+ not?" So shapes? How does a computer? How does a computer invent a shape? Well, this
+
+123
+00:11:10,400 --> 00:11:16,800
+ is the problem. So everyone, and this is a perfect example of what happened in computing,
+
+124
+00:11:16,800 --> 00:11:23,080
+ everyone loves the B205 and all these other fancy computers. The B220 was like a vacuum
+
+125
+00:11:23,080 --> 00:11:28,760
+ tube miscalculation because they barely made any, no one really bought them. Transistors
+
+126
+00:11:28,760 --> 00:11:32,840
+ had come along and blown these old ones out of the water. So they were pretty much a forgotten
+
+127
+00:11:32,840 --> 00:11:39,760
+ computer. Until I was reading a old maths paper from 1962 and it was someone called
+
+128
+00:11:39,760 --> 00:11:49,280
+ Donald Grace who was trying to find the biggest shape. Now, you're going to need some constraints
+
+129
+00:11:49,280 --> 00:11:56,200
+ on that. Otherwise, the biggest shape is whatever shape the universe is. But they were trying
+
+130
+00:11:56,200 --> 00:12:00,360
+ to work out the biggest shape that you could fit in like a unit sphere. Okay. So the biggest
+
+131
+00:12:00,360 --> 00:12:04,160
+ shape you can fit in a ball. Okay. And you can imagine it the size of the universe if
+
+132
+00:12:04,160 --> 00:12:08,760
+ you want, no one's stopping you. Yeah. Or you can imagine it at a nice manageable basketball
+
+133
+00:12:08,760 --> 00:12:13,360
+ esque size. Okay. And to make it a bit more manageable again, they would do it for the
+
+134
+00:12:13,360 --> 00:12:17,800
+ number of vertices, the number of corners a shape has. Right. And Donald specifically
+
+135
+00:12:17,800 --> 00:12:23,720
+ was curious what's the biggest shape with eight vertices on it. Okay. Which some people
+
+136
+00:12:23,720 --> 00:12:29,200
+ might think we just work out how to put eight points on a sphere as far apart as possible
+
+137
+00:12:29,200 --> 00:12:34,800
+ and join them all up to make a cube and doesn't work. That is the best way to position your
+
+138
+00:12:34,800 --> 00:12:39,240
+ points on a sphere. And that's actually quite difficult to do. That's a whole other no one
+
+139
+00:12:39,240 --> 00:12:45,020
+ has a good systematic way to arrange dots on a sphere. That's so interesting. What in
+
+140
+00:12:45,020 --> 00:12:52,760
+ that in that regular way that makes a cube despite all the funding from big golf? What
+
+141
+00:12:52,760 --> 00:12:58,680
+ is the biggest golf? There's no it's called the Thompson problem. There's no because it
+
+142
+00:12:58,680 --> 00:13:06,480
+ came out of is it named after Gulf Alexi Thompson? It's not right. Okay. It came out of Thompson
+
+143
+00:13:06,480 --> 00:13:11,520
+ looking at electrons in an atom to work out how they be spaced. And they're like, Oh,
+
+144
+00:13:11,520 --> 00:13:15,280
+ well, it's easy. They just space such that they've got the as close as possible to the
+
+145
+00:13:15,280 --> 00:13:18,080
+ same distance between them. And they're like, we just work that. Oh, that's really hard
+
+146
+00:13:18,080 --> 00:13:23,040
+ to work out. And it doesn't even solve this other problem. So we were a bit mathematician
+
+147
+00:13:23,040 --> 00:13:27,920
+ with a bit of a dead end. And Donald Grace was studying at Stanford, studying what would
+
+148
+00:13:27,920 --> 00:13:31,840
+ later be called computer science. And they were like, you know what, I'll just see if
+
+149
+00:13:31,840 --> 00:13:36,040
+ I can get a computer to solve this problem. Because if I program a computer to start with
+
+150
+00:13:36,040 --> 00:13:40,680
+ eight points on a sphere, and work out the shape that they define, and then jiggle them
+
+151
+00:13:40,680 --> 00:13:46,000
+ all around a bit, and see which direction of jiggling increases the volume by the most.
+
+152
+00:13:46,000 --> 00:13:50,480
+ And just do that more times in a human ever could, you'll eventually evolve your way into
+
+153
+00:13:50,480 --> 00:13:57,360
+ the biggest possible shape. Yeah, okay. So I read the paper. And I wasn't kind of aware
+
+154
+00:13:57,360 --> 00:14:01,360
+ of that at the time, I was just looking because I like the shapes. I was reading through the
+
+155
+00:14:01,360 --> 00:14:05,840
+ paper. And there's a line that said, oh, we ran this on a borrows 220 computer system.
+
+156
+00:14:05,840 --> 00:14:10,040
+ And I was like, that's weird, like, that's commonplace in modern math research. But I
+
+157
+00:14:10,040 --> 00:14:14,920
+ was looking at this going, that's what a computer already. And the paper was submitted
+
+158
+00:14:14,920 --> 00:14:21,520
+ in August 1962. How did he have access to a computer? And it turns out they did have
+
+159
+00:14:21,520 --> 00:14:27,680
+ the borrows 220 at Stanford, they got it in 1960. So Donald has since passed away, spoke
+
+160
+00:14:27,680 --> 00:14:31,840
+ to his kids, and they're like, Oh, we used to volunteer and go in at night. Take the
+
+161
+00:14:31,840 --> 00:14:36,760
+ night shift from the computer lab, that meant he could run his code on the computer. Because
+
+162
+00:14:36,760 --> 00:14:39,960
+ otherwise, they were not going to waste their computer time for someone finding the biggest
+
+163
+00:14:39,960 --> 00:14:44,520
+ shape. Yeah, exactly. And he found it. He found the biggest shape and he published it. And
+
+164
+00:14:44,520 --> 00:14:48,640
+ he's like, I found this thing. And do you have any idea? Can we explain what the shape
+
+165
+00:14:48,640 --> 00:14:55,640
+ is? Or is it tough? It looks a little bit like a dice from D&D. Okay, yeah, it's made
+
+166
+00:14:55,640 --> 00:15:01,920
+ entirely out of triangles. But because it's not like an icosahedron, like a D20, or like
+
+167
+00:15:01,920 --> 00:15:05,920
+ a D8, that's nice and neat, because they're platonic solids, it's somewhere in the middle.
+
+168
+00:15:05,920 --> 00:15:11,200
+ So it's still a lot of triangles put together. And it looks quite regular. But it's not exactly
+
+169
+00:15:11,200 --> 00:15:15,880
+ tidy, because that's an awkward number of vertices. You couldn't you couldn't roll it
+
+170
+00:15:15,880 --> 00:15:20,000
+ as a physical die. It'll be slightly unfair. Yeah. And it's massive. I mean, it's going
+
+171
+00:15:20,000 --> 00:15:27,280
+ to be difficult, isn't it? Heavy. Well, it's size of the universe. Can we talk about golf?
+
+172
+00:15:27,280 --> 00:15:34,960
+ Yeah, sure. I made a classic error there. Can I say no? No, you can't say no, because
+
+173
+00:15:34,960 --> 00:15:39,160
+ this is interesting, right? So I learned this from researching for this. I looked at my golf
+
+174
+00:15:39,160 --> 00:15:44,720
+ balls, and there's loads of dimples on them, right? All the dimples are hexagons. Or are
+
+175
+00:15:44,720 --> 00:15:51,000
+ they all hexagons, Matt? Because it's a sphere. They can't be, right? And so I found out that
+
+176
+00:15:51,000 --> 00:15:58,440
+ every golf ball has 12 pentagons on it. It's amazing. That was Anna, by the way. It's
+
+177
+00:15:58,440 --> 00:16:05,200
+ true. That wasn't a weird Star Wars creature that just suddenly came on. We went to Epcot,
+
+178
+00:16:05,200 --> 00:16:09,680
+ Disney World, and I made everyone else with stop so we could look at the massive Epcot
+
+179
+00:16:09,680 --> 00:16:14,000
+ sphere, which is a giant golf ball, I guess. I'm like, "In there somewhere," I said, "at
+
+180
+00:16:14,000 --> 00:16:18,320
+ 12 pentagons." Oh, my God. I'm going to try and find some. But the interesting thing is,
+
+181
+00:16:18,320 --> 00:16:23,080
+ this is the least interesting part of it. Now, I think this has improved my golf game,
+
+182
+00:16:23,080 --> 00:16:28,360
+ because what I do is when I put the ball on the tee, I line up one of the pentagons to
+
+183
+00:16:28,360 --> 00:16:32,840
+ where I want to hit, and it helps me concentrate that that's the part of the ball that I want
+
+184
+00:16:32,840 --> 00:16:38,320
+ to hit. Oh, that's great. Yeah. That's like with bowling. I use the triangle in the middle.
+
+185
+00:16:38,320 --> 00:16:41,320
+ Well, you're supposed to. That's what they're there for. I don't think anyone does those,
+
+186
+00:16:41,320 --> 00:16:46,320
+ but I do. I do, and it works. Yeah. I mean, that's what that's there for. That's quite
+
+187
+00:16:46,320 --> 00:16:49,360
+ annoying for the golfer behind you who has to wait for you to just constantly go, "Hang
+
+188
+00:16:49,360 --> 00:16:55,280
+ on. I know there are loads here." Trying to find his pentagons. Well, that's amazing,
+
+189
+00:16:55,280 --> 00:16:59,320
+ isn't it? Yeah, that's incredible. 12 pentagons, because you can't put hexagons on a sphere.
+
+190
+00:16:59,320 --> 00:17:03,920
+ You can't. And I've gotten very upset because the UK street signs for a football stadium,
+
+191
+00:17:03,920 --> 00:17:09,440
+ a picture of a football, and they've forgotten the pentagons. It's all hexagons, which is
+
+192
+00:17:09,440 --> 00:17:13,760
+ mathematically impossible. So why can't be if they made the sign work? Well, they just
+
+193
+00:17:13,760 --> 00:17:18,960
+ drawn a hexagon kind of slightly distorted grid, and then cut out a circle of it and
+
+194
+00:17:18,960 --> 00:17:24,040
+ put it on the sign. And we never see the other side of that. Yeah, of course. So I ran a
+
+195
+00:17:24,040 --> 00:17:28,680
+ big petition. Right. I got 20,000 signatures on a parliamentary petition. Yeah. So the
+
+196
+00:17:28,680 --> 00:17:32,200
+ government has to write to you at that point to say what they're going to do about this
+
+197
+00:17:32,200 --> 00:17:36,000
+ important issue you've raised. Yeah. And they wrote to me to say they're not going to change
+
+198
+00:17:36,000 --> 00:17:40,280
+ the street signs to be correct. They're like, no. They said that the correct geometry would
+
+199
+00:17:40,280 --> 00:17:44,540
+ be so similar to the current signs. There's no point changing it. And they also said the
+
+200
+00:17:44,540 --> 00:17:49,840
+ correct geometry would be so distracting, it might increase the likelihood of accidents.
+
+201
+00:17:49,840 --> 00:17:57,080
+ Really? Absolutely bullshit. We've got an election coming up. Thank you. I think if any
+
+202
+00:17:57,080 --> 00:18:01,680
+ party decides to go for that, we're going to change the shape of footballs on road signs.
+
+203
+00:18:01,680 --> 00:18:06,640
+ It's got to be a huge majority. Yeah. Yeah, I completely agree. Although I did now talk
+
+204
+00:18:06,640 --> 00:18:12,040
+ to someone who makes custom footballs, soccer balls, and got them to make me a ball where
+
+205
+00:18:12,040 --> 00:18:20,680
+ from one specific angle, it looks like the street sign. Nice. So someone who runs a company
+
+206
+00:18:20,680 --> 00:18:25,640
+ called 12 pentagons, John Paul designed this ball where from the front and the back looks
+
+207
+00:18:25,640 --> 00:18:31,000
+ like the street sign, but like the equator around the bit is a nightmare of weird shapes
+
+208
+00:18:31,000 --> 00:18:36,480
+ to patch the drama together to make it work in physical reality. Yeah. And you have that.
+
+209
+00:18:36,480 --> 00:18:40,760
+ I got the ball. I took it up to Liverpool Football Club. No. Yeah, I got their sports
+
+210
+00:18:40,760 --> 00:18:45,200
+ analytics team to have a kick around with it. I was not allowed. They're like, you have
+
+211
+00:18:45,200 --> 00:18:50,120
+ to come on a day where we can guarantee there will be no players around. Imagine if Mo Sala
+
+212
+00:18:50,120 --> 00:18:54,720
+ played with that ball and it fucked up his entire career. I can't play with these other
+
+213
+00:18:54,720 --> 00:18:59,760
+ balls anymore. Yeah, this is the one. It'd be great to see a lower league team like in
+
+214
+00:18:59,760 --> 00:19:04,080
+ the EFL training with that ball, knowing the game with that ball, then playing a Premier
+
+215
+00:19:04,080 --> 00:19:07,280
+ League team and just seeing the difference. Can you deal with the ball? Yeah, exactly.
+
+216
+00:19:07,280 --> 00:19:11,500
+ It's the guys at Tramir, my team are listening. Give it a go. Can't be much worse than what's
+
+217
+00:19:11,500 --> 00:19:23,440
+ happening this season. Okay, it is time for fact number two. That is James. Okay, my fact
+
+218
+00:19:23,440 --> 00:19:27,880
+ this week is that the woman who invented the trolley problem was the daughter of a man
+
+219
+00:19:27,880 --> 00:19:33,460
+ who made railway tracks for a living. So amazing. And the trolley problem is the issue where
+
+220
+00:19:33,460 --> 00:19:36,680
+ you're in a supermarket and one of the wheels gets stuck and you can't push in a straight
+
+221
+00:19:36,680 --> 00:19:41,120
+ line. No, it's when your coin won't fit into the slot to release it from the big bunch
+
+222
+00:19:41,120 --> 00:19:45,320
+ of trolleys. I feel like I have to give a little bit more information about the trolley
+
+223
+00:19:45,320 --> 00:19:50,880
+ problem. So it's like a philosophical idea that you've got a trolley or like a trolley
+
+224
+00:19:50,880 --> 00:19:55,920
+ car in America, I guess it is, and it's going down some tracks and it's going to kill five
+
+225
+00:19:55,920 --> 00:20:00,280
+ people who are working on the tracks or who are tied to the tracks depending on the version.
+
+226
+00:20:00,280 --> 00:20:04,400
+ But you have a lever and you can pull the lever and the trolley can go in the other direction
+
+227
+00:20:04,400 --> 00:20:10,200
+ and it will kill only one person. Do you pull the lever to kill that one person or do you
+
+228
+00:20:10,200 --> 00:20:14,240
+ just do nothing and let the five people die? Yeah, not everyone agrees with what's the
+
+229
+00:20:14,240 --> 00:20:18,520
+ correct answer. So it's always interesting. Yeah. And that was so that was originally
+
+230
+00:20:18,520 --> 00:20:22,680
+ called the Tram problem, which was created by Philip of foot. She married a guy called
+
+231
+00:20:22,680 --> 00:20:27,960
+ foot, which feels quite rebellious if your dad makes railroad tracks. That's true. And
+
+232
+00:20:27,960 --> 00:20:34,840
+ she is known as the Grand Dam of philosophy. Yeah. And her mother was Esther Cleveland,
+
+233
+00:20:34,840 --> 00:20:39,040
+ who was the first president's child to be born in the White House, the daughter of Grover
+
+234
+00:20:39,040 --> 00:20:46,280
+ Cleveland. And her father was William Sidney, Benson Quay, who managed skinning grove steel
+
+235
+00:20:46,280 --> 00:20:51,720
+ works in Yorkshire. And he made a lot of the tracks for the train tracks in the north of
+
+236
+00:20:51,720 --> 00:20:56,760
+ England. And I'm not sure it had any bearing on her philosophical works. I just like the
+
+237
+00:20:56,760 --> 00:21:00,760
+ idea. I think it's good that she had parents who worked on railroads because imagine if
+
+238
+00:21:00,760 --> 00:21:05,160
+ her parents were like an accountant and a librarian, yeah, like it'd be a very different
+
+239
+00:21:05,160 --> 00:21:11,320
+ hypothetical situation. You know, five people want to borrow the same book. Yeah. But one
+
+240
+00:21:11,320 --> 00:21:16,440
+ other person needs it for their own self is going to fall on. It's going to go one of
+
+241
+00:21:16,440 --> 00:21:20,480
+ two ways. There's five people on one side. You can shove it the other way and get one
+
+242
+00:21:20,480 --> 00:21:24,360
+ person that side thinking. Yeah. I don't think it would have caught on as the philosophical
+
+243
+00:21:24,360 --> 00:21:30,240
+ meme it is today. But Philippa Foote was amazing. She's incredible. And it's amazing that all
+
+244
+00:21:30,240 --> 00:21:33,920
+ the connections, you know, Grand Order of Grover Cleveland came up with this massive
+
+245
+00:21:33,920 --> 00:21:39,000
+ philosophical dilemma, flatmate of Iris Murdoch. You know, she's like got so many interesting
+
+246
+00:21:39,000 --> 00:21:44,080
+ little cultural touch points that I just surprised I've never heard of. Yeah. I guess they all
+
+247
+00:21:44,080 --> 00:21:48,200
+ there seem to be a coterie of very interesting female philosophers around about that time,
+
+248
+00:21:48,200 --> 00:21:53,420
+ which I suppose was the 30s and 40s. 40s. She got her degree in 42. Got it. So around
+
+249
+00:21:53,420 --> 00:21:58,800
+ the 40s. And yeah, Iris Murdoch, who I never really thought of as a philosopher, and that's
+
+250
+00:21:58,800 --> 00:22:03,960
+ just my ignorance. I just read a couple of Iris Murdoch's years ago. And it makes me
+
+251
+00:22:03,960 --> 00:22:07,520
+ feel much more high brown now having read them because really Iris Murdoch books, have you
+
+252
+00:22:07,520 --> 00:22:11,200
+ guys ever read her? No. They're basically about loads of people having affairs. Well,
+
+253
+00:22:11,200 --> 00:22:15,400
+ the two that I read and I think all the rest of them. But once you know she's a moral philosopher,
+
+254
+00:22:15,400 --> 00:22:21,000
+ there's a huge moral undercurrent that you're supposed to think about. So the trolley problem.
+
+255
+00:22:21,000 --> 00:22:25,400
+ So it started as a tram problem with Phillipa Foote. Actually, let's go around the table.
+
+256
+00:22:25,400 --> 00:22:30,600
+ Sorry to interrupt that. Yeah, yeah. Let's go around the table. Pull on that pole. Okay.
+
+257
+00:22:30,600 --> 00:22:34,920
+ Would you pull on that pole? Pull. Pull. Yeah. But what depends on the freight. The whole
+
+258
+00:22:34,920 --> 00:22:40,220
+ point is you change insignificant details and flips what people will say. And that seems
+
+259
+00:22:40,220 --> 00:22:44,120
+ to be what happened. So this one seems to be relatively straightforward, although there's
+
+260
+00:22:44,120 --> 00:22:48,720
+ some disagreement, but almost everyone says they would pull. But then when you add lots
+
+261
+00:22:48,720 --> 00:22:51,800
+ of other bits of the scenario, and that seems to have been done by this other woman called
+
+262
+00:22:51,800 --> 00:22:55,760
+ Judith Jarvis Thompson, who was the person who made the trolley problem famous, came
+
+263
+00:22:55,760 --> 00:23:00,600
+ up with the term the trolley problem. It's trolleyology is this whole kind of area of
+
+264
+00:23:00,600 --> 00:23:05,960
+ study that's because of her. And yeah, she expanded on it with loads of possible examples.
+
+265
+00:23:05,960 --> 00:23:10,040
+ I think the most famous is probably the bystander case where rather than being the driver of
+
+266
+00:23:10,040 --> 00:23:15,460
+ the trolley, you're now just on a bridge and you see the driver of the train faint. And
+
+267
+00:23:15,460 --> 00:23:19,280
+ then as a bystander, do you step in? And then that's like, are you intervening now?
+
+268
+00:23:19,280 --> 00:23:22,440
+ Well, it's slightly different. The bridge one's slightly different. There's two options
+
+269
+00:23:22,440 --> 00:23:26,240
+ that Judith came up with. One is that you're on the side watching the trolley come and there's
+
+270
+00:23:26,240 --> 00:23:29,880
+ a lever that you're able to pull. So you now need to make the decision, the five people
+
+271
+00:23:29,880 --> 00:23:34,760
+ or one people. The bridge decision is you're standing on the bridge. You've suddenly done
+
+272
+00:23:34,760 --> 00:23:39,600
+ an interesting calculation where you realize that if you chucked what they call the fat
+
+273
+00:23:39,600 --> 00:23:46,280
+ man, someone big enough, not yourself. You've diagnosed you're too small. But there's someone
+
+274
+00:23:46,280 --> 00:23:50,360
+ who's big and weighty next to you and you somehow have the skill to throw them off the
+
+275
+00:23:50,360 --> 00:23:55,360
+ bridge and stop it. Would you then do that? That's the biggest dilemma because that's taking
+
+276
+00:23:55,360 --> 00:24:01,800
+ an innocent bystander. And there is another version where the bystander is not just big
+
+277
+00:24:01,800 --> 00:24:05,760
+ enough to stop the train, but he's also the person who put the five people on the track
+
+278
+00:24:05,760 --> 00:24:10,800
+ in the first place. So he's the villain. So is it better to push him? If you know he's
+
+279
+00:24:10,800 --> 00:24:13,840
+ a bad guy, he's the one who set this whole terrible scheme up.
+
+280
+00:24:13,840 --> 00:24:17,160
+ Did he do it deliberately? I need so much backstory now. Okay, well, what are the five
+
+281
+00:24:17,160 --> 00:24:19,800
+ people done to him? Oh, well, that's a good question.
+
+282
+00:24:19,800 --> 00:24:24,480
+ This is why if their workers versus tied to the track can change it sometimes. Because
+
+283
+00:24:24,480 --> 00:24:27,560
+ are they foolish workers who didn't follow health and safety? Or are they there of no
+
+284
+00:24:27,560 --> 00:24:28,560
+ fault of their own?
+
+285
+00:24:28,560 --> 00:24:32,080
+ You're right. They had it coming, mate. You don't follow health and safety.
+
+286
+00:24:32,080 --> 00:24:35,360
+ This feels like a game of pool whenever I go to a pub and you have to work out what rules
+
+287
+00:24:35,360 --> 00:24:36,360
+ you're playing.
+
+288
+00:24:36,360 --> 00:24:39,880
+ Two shot carry. Is it two shots on the black? What is it?
+
+289
+00:24:39,880 --> 00:24:44,600
+ But I like the bridge one because a lot of people would, in the standard issue version
+
+290
+00:24:44,600 --> 00:24:49,860
+ of this, pull the lever and sacrifice one person to save five. But then there's the hospital
+
+291
+00:24:49,860 --> 00:24:53,720
+ waiting room problem, which is where a perfectly healthy person walks in and sits down the
+
+292
+00:24:53,720 --> 00:24:57,520
+ hospital waiting room and they realize there are five people who all desperately need an
+
+293
+00:24:57,520 --> 00:25:02,600
+ organ transplant. And if they got the organ that all live. So if we take this one healthy
+
+294
+00:25:02,600 --> 00:25:08,560
+ person, we can take their organs and five, which in the abstract is equivalent to the
+
+295
+00:25:08,560 --> 00:25:14,600
+ same problem. But now it's universally no as opposed to almost universally yes.
+
+296
+00:25:14,600 --> 00:25:19,800
+ And I think this is what befuddled old Judith Jarvis Thompson and she changed her mind.
+
+297
+00:25:19,800 --> 00:25:23,960
+ On her solution, she said you shouldn't push the bystander off. And this was years later.
+
+298
+00:25:23,960 --> 00:25:25,880
+ So it was in the 70s that she came up with her.
+
+299
+00:25:25,880 --> 00:25:30,280
+ It was a bit late by then because she's already killed 500 people in the experiment.
+
+300
+00:25:30,280 --> 00:25:35,040
+ She suddenly was like, I feel terrible about this. It's wrong. But she said, it's kind
+
+301
+00:25:35,040 --> 00:25:38,520
+ of what you were saying, Matt. She said, actually, if you're on the bridge and you've got the
+
+302
+00:25:38,520 --> 00:25:42,680
+ option to push someone off the bridge to save the five people, but sacrificing them, would
+
+303
+00:25:42,680 --> 00:25:47,560
+ you sacrifice yourself? And if the answer is no, then you've got no right to sacrifice
+
+304
+00:25:47,560 --> 00:25:51,480
+ the other person. And if the answer is even yes, you've still got no right because their
+
+305
+00:25:51,480 --> 00:25:56,720
+ answer might be no. Yeah, which kind of makes sense. Well, is it absolutely right Danny definitively
+
+306
+00:25:56,720 --> 00:26:00,280
+ saying that? My answer to the trolley problem, if I'm on the trolley, I would immediately
+
+307
+00:26:00,280 --> 00:26:03,960
+ look out, see if someone's standing near a lever, go pull the lever for Christ's sake,
+
+308
+00:26:03,960 --> 00:26:09,240
+ if you want. Or yell up to the bridge. Is there anyone who's just having a bad time of
+
+309
+00:26:09,240 --> 00:26:14,160
+ it? You just kind of want to be a hero. You need to be over 16 stone. I'm having a bad
+
+310
+00:26:14,160 --> 00:26:19,720
+ time of it. Judith Thompson was really important in the abortion debate and around Roe versus
+
+311
+00:26:19,720 --> 00:26:24,520
+ wage. She wrote probably the most famous or maybe the most seminal paper about it with
+
+312
+00:26:24,520 --> 00:26:28,760
+ another thought experiment that she came up with, which and I guess what's quite fun
+
+313
+00:26:28,760 --> 00:26:33,400
+ about thought experiments is the kind of a bit funny abortion often not a funny subject.
+
+314
+00:26:33,400 --> 00:26:41,920
+ But she just made it funny. She found the comedy and she said in defense of abortion,
+
+315
+00:26:41,920 --> 00:26:46,160
+ she wrote, imagine this, you wake up one morning and you find yourself back to back in bed
+
+316
+00:26:46,160 --> 00:26:54,440
+ with famous unconscious violinist Nigel Kennedy say not say Nigel Kennedy yet. In fact, because
+
+317
+00:26:54,440 --> 00:26:58,680
+ he's probably the only famous violinist you can name Jack Benny. All right, you can have
+
+318
+00:26:58,680 --> 00:27:06,540
+ Jack Benny. This is a game I was not equipped to play. Vanessa May. Very good. All right,
+
+319
+00:27:06,540 --> 00:27:10,120
+ it can be any famous unconscious violinist. It's not really important which specific
+
+320
+00:27:10,120 --> 00:27:16,960
+ violinist it is. We're playing the famous violinist tennis. No, no, no, please. I'll
+
+321
+00:27:16,960 --> 00:27:22,320
+ go on. Can't think of one. So the famous violinist has a fatal kidney. Sorry, that's just the
+
+322
+00:27:22,320 --> 00:27:29,680
+ smallest violin playing for me in my sadness of losing. So the violinist has a fatal kidney
+
+323
+00:27:29,680 --> 00:27:35,800
+ ailment and the Society of Musical Lovers have therefore kidnapped you and rigged up
+
+324
+00:27:35,800 --> 00:27:42,280
+ your circulatory system to the violinist and this will save the violinist, him or her.
+
+325
+00:27:42,280 --> 00:27:45,680
+ And you go to the hospital and you're like, someone's rigged up my circulatory system with
+
+326
+00:27:45,680 --> 00:27:49,760
+ this fucking violinist and I don't want it there. And the hospital's like, look, we're
+
+327
+00:27:49,760 --> 00:27:54,280
+ super sorry. Wouldn't let it happen if we'd known about it. But now it's happened. It's
+
+328
+00:27:54,280 --> 00:27:59,000
+ kind of letting him die if we unplug you. She says, should you have to agree to be plugged
+
+329
+00:27:59,000 --> 00:28:02,080
+ into him? And her argument is no, you shouldn't have to agree.
+
+330
+00:28:02,080 --> 00:28:06,000
+ And the doctor also says in nine months it will be fine and you'll be unplugged anyway,
+
+331
+00:28:06,000 --> 00:28:10,440
+ right? The doctor says in nine months it'll be fine. Yes. Although she sort of expands
+
+332
+00:28:10,440 --> 00:28:14,360
+ on it a bit because, you know, if you have a child often it's not straight up. So in nine
+
+333
+00:28:14,360 --> 00:28:18,280
+ months it'll be fine, but there is no reason. You still have to look after the traumatic
+
+334
+00:28:18,280 --> 00:28:23,160
+ complexion. You've got to look after the violinist. You've got to change the nappy.
+
+335
+00:28:23,160 --> 00:28:27,240
+ I think Philip Heffort's original one was also about abortion, the one with the trolley
+
+336
+00:28:27,240 --> 00:28:31,360
+ problem. Because it had the trolley problem in it, but it also had another quandary which
+
+337
+00:28:31,360 --> 00:28:38,440
+ was a magistrate who executes one man in order to quell a riot in which five innocent men
+
+338
+00:28:38,440 --> 00:28:44,440
+ will die. And so she asked people, should you be able to execute one person to save five
+
+339
+00:28:44,440 --> 00:28:48,960
+ people in the riot? And almost everyone said no. And then you said, but should you pull
+
+340
+00:28:48,960 --> 00:28:52,680
+ this lever so that the trolley kills this one person? And almost everyone said yes. And
+
+341
+00:28:52,680 --> 00:28:56,600
+ she's like, this is a weird dichotomy of ideas. And I think, I think maybe that's where our
+
+342
+00:28:56,600 --> 00:29:01,640
+ argument came in of one of them, the judge is actively killing someone versus just not
+
+343
+00:29:01,640 --> 00:29:06,040
+ saving people, wasn't it? So she was like, that's a slightly different, it's very confusing.
+
+344
+00:29:06,040 --> 00:29:11,560
+ And then Daniel Bartels of Columbia University says this is all bullshit because these dilemmas
+
+345
+00:29:11,560 --> 00:29:16,120
+ are really engaging situations that people enjoy thinking about, but in real life, you
+
+346
+00:29:16,120 --> 00:29:21,440
+ wouldn't enjoy it at all. If you had to make that decision, you probably would be a bit
+
+347
+00:29:21,440 --> 00:29:27,760
+ stressed. On Mastodon, the new Twitter, and there's a user called Sidereal who came up
+
+348
+00:29:27,760 --> 00:29:32,520
+ with a solution where the trolley is going down and you've got a lever. And what you
+
+349
+00:29:32,520 --> 00:29:38,440
+ do is you pull the lever just when the front wheels of the trolley have passed, but before
+
+350
+00:29:38,440 --> 00:29:42,600
+ the back wheels of the trolley have passed, and that will make the trolley cast stop.
+
+351
+00:29:42,600 --> 00:29:44,600
+ They won't kill anyone.
+
+352
+00:29:44,600 --> 00:29:45,600
+ You kill everyone.
+
+353
+00:29:45,600 --> 00:29:46,600
+ Yeah.
+
+354
+00:29:46,600 --> 00:29:53,000
+ No, you kill no one. And apparently this is how railroad workers stop runaway trains,
+
+355
+00:29:53,000 --> 00:29:57,400
+ and how railroad robberies used to take place in the Wild West is you would make the tracks
+
+356
+00:29:57,400 --> 00:29:59,360
+ change just as the train's going over you.
+
+357
+00:29:59,360 --> 00:30:00,360
+ Me too.
+
+358
+00:30:00,360 --> 00:30:01,360
+ Right.
+
+359
+00:30:01,360 --> 00:30:02,360
+ So that's a way to trick it.
+
+360
+00:30:02,360 --> 00:30:03,360
+ That's brilliant.
+
+361
+00:30:03,360 --> 00:30:04,640
+ Did you read the really recent story about a runaway train?
+
+362
+00:30:04,640 --> 00:30:05,640
+ No.
+
+363
+00:30:05,640 --> 00:30:06,640
+ No.
+
+364
+00:30:06,640 --> 00:30:14,480
+ It was mad. In Japan, it was a freight train. It had 50 carriages, and it went for 80 kilometres
+
+365
+00:30:14,480 --> 00:30:20,360
+ on its own, totally driverless at 100 kilometres per hour. So the driver disembarks for like
+
+366
+00:30:20,360 --> 00:30:26,280
+ a driver stop at a station in a place called Jammu, and it just started rolling, and it
+
+367
+00:30:26,280 --> 00:30:29,800
+ kept going. And they had to close all the road crossings ahead of it. They were like,
+
+368
+00:30:29,800 --> 00:30:33,280
+ "Oh my God, we can't stop this train quickly. Make sure pedestrians aren't crossing the
+
+369
+00:30:33,280 --> 00:30:38,240
+ tracks." It went for 80 kilometres, and eventually I think someone came and put blocks on the
+
+370
+00:30:38,240 --> 00:30:39,240
+ track to stop it.
+
+371
+00:30:39,240 --> 00:30:40,240
+ Wow.
+
+372
+00:30:40,240 --> 00:30:41,240
+ So it ran and trained on it.
+
+373
+00:30:41,240 --> 00:30:42,720
+ And there was no people on it, the driver had gone and...
+
+374
+00:30:42,720 --> 00:30:45,960
+ No people, just shed loads of bricks, I think.
+
+375
+00:30:45,960 --> 00:30:47,680
+ That's a worst-case scenario.
+
+376
+00:30:47,680 --> 00:30:50,160
+ Not pillows and marshmallows.
+
+377
+00:30:50,160 --> 00:30:52,080
+ That's probably not.
+
+378
+00:30:52,080 --> 00:30:56,000
+ Do you guys know Vsauce, the YouTuber?
+
+379
+00:30:56,000 --> 00:30:57,000
+ Yeah.
+
+380
+00:30:57,000 --> 00:30:58,000
+ Michael.
+
+381
+00:30:58,000 --> 00:30:59,000
+ Oh, your buddies are them.
+
+382
+00:30:59,000 --> 00:31:00,000
+ Your actual friends, yeah.
+
+383
+00:31:00,000 --> 00:31:03,260
+ Are you? I really want to know your opinion on the fact that he actually tried the trolley
+
+384
+00:31:03,260 --> 00:31:08,920
+ problem for real, which has never been done before, and is so weird to watch. I mean, I
+
+385
+00:31:08,920 --> 00:31:10,960
+ think he did it. He's claiming to have done it.
+
+386
+00:31:10,960 --> 00:31:11,960
+ Do you?
+
+387
+00:31:11,960 --> 00:31:13,960
+ Yeah. It's really hard to work out if people are acting or not, because you really...
+
+388
+00:31:13,960 --> 00:31:15,600
+ Did he kill five people or one person?
+
+389
+00:31:15,600 --> 00:31:16,600
+ Yeah.
+
+390
+00:31:16,600 --> 00:31:22,600
+ The next video comes from Jail. Maybe it's also Michael in Jail here.
+
+391
+00:31:22,600 --> 00:31:28,520
+ Yeah, it wasn't quite that extreme, but basically he took volunteers from the street and told
+
+392
+00:31:28,520 --> 00:31:33,200
+ them they were in an experiment about high-speed rail, and like, "We're testing this train,
+
+393
+00:31:33,200 --> 00:31:36,880
+ this automated train," took them into a switching station, and he says, "Why don't you have a
+
+394
+00:31:36,880 --> 00:31:39,940
+ look at how this switching station works while you're here?" And there's a guy who's
+
+395
+00:31:39,940 --> 00:31:44,460
+ there saying, "Hey, this is the button I press to put the train on a different track,"
+
+396
+00:31:44,460 --> 00:31:48,820
+ and then he gets a phone call and has to leave. So the volunteer is just alone in the switching
+
+397
+00:31:48,820 --> 00:31:52,660
+ station, and they suddenly see a train coming, and they're watching workers on the track
+
+398
+00:31:52,660 --> 00:31:57,380
+ with headphones on, so they can't hear what's happening. And they think that the only way
+
+399
+00:31:57,380 --> 00:32:01,500
+ to save these workers is to click that switch they've just been shown, and to kill one person
+
+400
+00:32:01,500 --> 00:32:06,360
+ but save the other five. And it's incredible to watch, and it's mad to me that it was
+
+401
+00:32:06,360 --> 00:32:10,240
+ allowed to happen, but he took it through this, like, ethics boards, went through the
+
+402
+00:32:10,240 --> 00:32:15,640
+ ethics boards, and seven people did it. Do you want to guess how many, because obviously
+
+403
+00:32:15,640 --> 00:32:18,720
+ the other thing about the trolley problem is people always say they'd switch, and in
+
+404
+00:32:18,720 --> 00:32:24,440
+ real life, would you actually? Seven people, how many people do you think click the switch?
+
+405
+00:32:24,440 --> 00:32:29,520
+ I'm going to go one. Nice. I think just like, if you're in someone else's office, you just
+
+406
+00:32:29,520 --> 00:32:33,100
+ don't want to touch anything, no matter what. All the other social, like you're like, oh,
+
+407
+00:32:33,100 --> 00:32:37,380
+ yeah, yeah, people dying, but the, oh, the social awkwardness of touching someone's work
+
+408
+00:32:37,380 --> 00:32:45,460
+ station. And that's how good human beings are. You're absolutely right, it's two people.
+
+409
+00:32:45,460 --> 00:32:48,500
+ Two people. And a lot of them did say that, they were like, well, it's not really my,
+
+410
+00:32:48,500 --> 00:32:53,540
+ I don't know, maybe he's broken under control. Yeah. Yeah. Gosh. It is part of the dilemma
+
+411
+00:32:53,540 --> 00:32:57,980
+ that you sort of think the act of pulling the lever makes you complicit to a murder
+
+412
+00:32:57,980 --> 00:33:02,560
+ versus. Yeah. I hadn't thought of that really, like that being part of the emotion. I'm
+
+413
+00:33:02,560 --> 00:33:07,760
+ deciding you die. Oh yeah. Whereas if I just don't touch it. Like if it's your job, then
+
+414
+00:33:07,760 --> 00:33:11,360
+ you could be negligent for not pressing it, right? Because you've let five people die
+
+415
+00:33:11,360 --> 00:33:14,320
+ and it's your job and you should have made that decision. But if you've just been left
+
+416
+00:33:14,320 --> 00:33:19,720
+ in that room. You're a real group. But if you've misunderstood this, the situation, you make
+
+417
+00:33:19,720 --> 00:33:33,620
+ it worse. I'm releasing more trains. Okay, it is time for fact number three and that
+
+418
+00:33:33,620 --> 00:33:40,260
+ is Anna. My fact this week is that on the first ever road trip across America, multiple bridges
+
+419
+00:33:40,260 --> 00:33:45,980
+ collapsed under the weight of the cars and had to be rebuilt along the way. Wow. It's
+
+420
+00:33:45,980 --> 00:33:50,840
+ presumably crumbled behind you often crumbled with the vehicles on it and they would plunge
+
+421
+00:33:50,840 --> 00:33:55,280
+ into a river. Oh, right. I was thinking like Dan, maybe it's like, you know, when you're
+
+422
+00:33:55,280 --> 00:33:59,120
+ walking in the countryside and you have to close all the gates behind you, just like
+
+423
+00:33:59,120 --> 00:34:06,720
+ consider a driving in America. Bridge back now. So cows can cross. This was a very specific
+
+424
+00:34:06,720 --> 00:34:13,640
+ road trip and involved a lot of cars. So it was 1919. And it was 79 vehicles. Specifically,
+
+425
+00:34:13,640 --> 00:34:20,020
+ it was the Army Motor Transport Corps. And they were driving across America to check
+
+426
+00:34:20,020 --> 00:34:24,740
+ out the state of the road. So it was ordered by the War Department, this road trip. And
+
+427
+00:34:24,740 --> 00:34:28,580
+ no one had ever traveled from East Coast to West Coast America because the roads just
+
+428
+00:34:28,580 --> 00:34:33,540
+ weren't equipped for that. There wasn't an interstate road system. And so this trip was
+
+429
+00:34:33,540 --> 00:34:38,740
+ commissioned to see if the roads were possible and it turned out not really. And there were
+
+430
+00:34:38,740 --> 00:34:45,000
+ just constant diversions because like cars would sink in the mud or they often had to
+
+431
+00:34:45,000 --> 00:34:49,000
+ disassemble covered bridges because the trucks were too tall. So they'd have to take a bridge
+
+432
+00:34:49,000 --> 00:34:52,440
+ apart and then put it back together when the trucks had gone through. And then if you look
+
+433
+00:34:52,440 --> 00:34:56,920
+ up news reports about it, it was a huge media deal. Every new state they went into this
+
+434
+00:34:56,920 --> 00:35:01,840
+ caravan of cars. Everyone was like, Hey, so it was always reported in the news. And the
+
+435
+00:35:01,840 --> 00:35:07,040
+ news was always saying, you know, 12 bridges repaired today, eight bridges collapsed today,
+
+436
+00:35:07,040 --> 00:35:10,700
+ you know, another 12 bridges, this truck fell and had to be pulled out of a gully.
+
+437
+00:35:10,700 --> 00:35:14,900
+ So really, if you were a small town, you'd want to divert the roads to your worst bridges
+
+438
+00:35:14,900 --> 00:35:20,060
+ so that you're getting free repair. What was the date again? Sorry, Anna, I know you
+
+439
+00:35:20,060 --> 00:35:26,160
+ said 1919, 1919. Gosh, how many cars were on it? There's about 79 vehicles. And it took
+
+440
+00:35:26,160 --> 00:35:31,780
+ a seriously long time because the roads were so bad. So it took all together. They traveled
+
+441
+00:35:31,780 --> 00:35:39,960
+ 3,242 miles. And it took 62 days, which ended up being an average of about five miles an
+
+442
+00:35:39,960 --> 00:35:45,360
+ hour, a bit over five miles an hour. Wow, they took 20 days longer to do this than the record
+
+443
+00:35:45,360 --> 00:35:49,880
+ for running across America today. Right. Oh, wow. So then this caused this report to be
+
+444
+00:35:49,880 --> 00:35:57,040
+ written by loads of people, one of whom was a chap called Eisenhower in 1919, who went
+
+445
+00:35:57,040 --> 00:36:01,120
+ on along for the road trip, wrote a report saying we've got to fix these roads, became
+
+446
+00:36:01,120 --> 00:36:04,420
+ president more than 30 years later. It was like, they haven't fixed these bloody roads
+
+447
+00:36:04,420 --> 00:36:09,300
+ yet. And so he was the one who fixed the roads. I find it amazing that the interstate system
+
+448
+00:36:09,300 --> 00:36:14,660
+ in America is basically an army thing. It's a defense thing, isn't it? That's why they
+
+449
+00:36:14,660 --> 00:36:18,340
+ built it. Is that why they did it initially? It's actually officially known as the Dwight
+
+450
+00:36:18,340 --> 00:36:24,140
+ D. Eisenhower National System of Interstate and Defense Highways. So yeah, but then after
+
+451
+00:36:24,140 --> 00:36:29,620
+ it had been going for 40 years, they claimed that it had saved the lives of 187,000 people.
+
+452
+00:36:29,620 --> 00:36:33,800
+ Is that because it's so safe? It is because motorways and highways are just super safe
+
+453
+00:36:33,800 --> 00:36:39,960
+ compared to normal roads because everyone's going in the same direction. And it's so regimented
+
+454
+00:36:39,960 --> 00:36:45,560
+ how it works. So I didn't really know anything about the interstate highway system, but all
+
+455
+00:36:45,560 --> 00:36:49,160
+ the rules are exactly the same across the board. So America didn't have a unified road
+
+456
+00:36:49,160 --> 00:36:54,840
+ system by the 1950s. You still couldn't really cross efficiently from one state to another
+
+457
+00:36:54,840 --> 00:36:58,600
+ because it's just not in a state's interest to make the crossing between states good.
+
+458
+00:36:58,600 --> 00:37:03,280
+ So the federal government took over. And yeah, it's super safe, but like everything down
+
+459
+00:37:03,280 --> 00:37:07,460
+ to the last detail is the same across the board. So tunnels and bridges are exactly the
+
+460
+00:37:07,460 --> 00:37:12,580
+ same height everywhere. There's the same gradient of slope at the edge of the roads for water
+
+461
+00:37:12,580 --> 00:37:17,540
+ runoff. Everything's the same. That's cool. That universally across America still to this
+
+462
+00:37:17,540 --> 00:37:23,380
+ day? Just in the interstate highway system. Yeah. Yeah. And sweetly, Alaska and Hawaii
+
+463
+00:37:23,380 --> 00:37:28,420
+ both have interstate highway roads, even though they've got no states to go to. I've been
+
+464
+00:37:28,420 --> 00:37:32,860
+ on the one in Alaska and it's not like it doesn't seem the same as the ones in New York.
+
+465
+00:37:32,860 --> 00:37:37,000
+ Oh, does it not? Really? No. Okay. Yeah. They maybe have played it a bit faster than these
+
+466
+00:37:37,000 --> 00:37:40,620
+ for the rules out there. Yeah. The ones in Hawaii are the ones in Honolulu. They're exactly
+
+467
+00:37:40,620 --> 00:37:46,260
+ like anywhere in America for sure. The average age of bridges in the US is a year younger
+
+468
+00:37:46,260 --> 00:37:58,900
+ than me. Wow. We're talking like 54, 55. And will that always be true? They age with you?
+
+469
+00:37:58,900 --> 00:38:02,540
+ No, they'll chase them and repair them and get new ones. They're not going to get older
+
+470
+00:38:02,540 --> 00:38:06,620
+ than you, though, sadly our way. They're not going to change you and repair you. That's
+
+471
+00:38:06,620 --> 00:38:10,140
+ true. How often do you remove a bridge though? Like how many bridges are we losing? I guess
+
+472
+00:38:10,140 --> 00:38:14,940
+ if they totally replace one, that would reset the clock. Well, a third of them are classified
+
+473
+00:38:14,940 --> 00:38:20,660
+ as structurally deficient in the US. So they are having to replace them, but they've kind
+
+474
+00:38:20,660 --> 00:38:24,940
+ of kicked the can down the road for years and years and years and now. Who has a longer
+
+475
+00:38:24,940 --> 00:38:31,380
+ life expectancy? Me or a bridge. An average bridge or you? I reckon the bridges probably
+
+476
+00:38:31,380 --> 00:38:35,940
+ don't drink as much as me, but I get a bit more exercise. Who would you save in the trolley
+
+477
+00:38:35,940 --> 00:38:39,580
+ problem if there's a trolley who's going to kill a bridge? There's a bridge on top of
+
+478
+00:38:39,580 --> 00:38:46,380
+ a fat man. Do you push them up? I would love to see a website where it's you and listed
+
+479
+00:38:46,380 --> 00:38:50,300
+ all the other bridges of America and let's see who wins. Let's see who makes it to the
+
+480
+00:38:50,300 --> 00:38:56,220
+ end. This is like List Trust versus a lettuce. This is a terrible memento mori which I wasn't
+
+481
+00:38:56,220 --> 00:39:04,860
+ expecting. It would be a great update that James has outlived another bridge. Bridges
+
+482
+00:39:04,860 --> 00:39:10,860
+ are not surprise collapse with cars. Engineering and designing a bridge is complicated. Yeah.
+
+483
+00:39:10,860 --> 00:39:16,340
+ And more engineering is kind of experimental. I mean, less so now we've got computers. Now
+
+484
+00:39:16,340 --> 00:39:22,860
+ we're in the post borrows, 220 era. But back in the day, you build a bridge, you're over
+
+485
+00:39:22,860 --> 00:39:29,180
+ engineering a bunch and hope it stays up. But it's only really as good as the load cases
+
+486
+00:39:29,180 --> 00:39:33,460
+ that have been over it so far. Right. So when they wheeled out cars, I'm not surprised. This
+
+487
+00:39:33,460 --> 00:39:38,220
+ is a whole new load case. Yeah. Bridges failed. Yeah. They built a bridge in the north of
+
+488
+00:39:38,220 --> 00:39:44,660
+ England in 1846. It was a railway bridge and it was fine. It was like longer than they'd
+
+489
+00:39:44,660 --> 00:39:49,820
+ ever built before. So they tensioned it up to make it extra stiff and trains were going
+
+490
+00:39:49,820 --> 00:39:53,900
+ fine over it. And then they added a bit more rock and aggregate to the top of it to kind
+
+491
+00:39:53,900 --> 00:40:00,220
+ of protect the sleepers. And that additional mass opened up a new mode of movement for
+
+492
+00:40:00,220 --> 00:40:03,980
+ the bridge that they'd never seen before. And the next train that went over the middle
+
+493
+00:40:03,980 --> 00:40:08,420
+ of the bridge was long enough that the middle bit could twist. And they just they just never
+
+494
+00:40:08,420 --> 00:40:11,580
+ seen that happen before because no bridge had been big enough or had that load put on
+
+495
+00:40:11,580 --> 00:40:20,740
+ it. That's now Alton towers. What happened? A lot of injuries, five people died. The first
+
+496
+00:40:20,740 --> 00:40:26,780
+ train that went over after they added this extra rock caused it to twist in a new mode
+
+497
+00:40:26,780 --> 00:40:31,020
+ in the middle of the bridge that hadn't been seen before. And it'll happen every now and
+
+498
+00:40:31,020 --> 00:40:36,140
+ then we'll build something bigger or different to before. Yeah. And until you test it, we
+
+499
+00:40:36,140 --> 00:40:39,860
+ have no I mean now obviously with computers, we can do a lot more modeling and testing
+
+500
+00:40:39,860 --> 00:40:46,420
+ in advance, but particularly historically, it was a builder and survivor. Yeah. Whenever
+
+501
+00:40:46,420 --> 00:40:51,060
+ I'm on Instagram and I'm just scrolling through videos, there often is an advert that comes
+
+502
+00:40:51,060 --> 00:40:56,660
+ up for a game where you have to build a bridge and you have to put the positions of the. Yeah.
+
+503
+00:40:56,660 --> 00:41:00,780
+ The steel underneath it. And I just watched this ad for minutes on end because every
+
+504
+00:41:00,780 --> 00:41:06,420
+ conceivable way I think a bridge should be built, it collapses and flips and crashes and
+
+505
+00:41:06,420 --> 00:41:11,780
+ thank God you're not a civil engineer. Not the first time I thought that to be honest.
+
+506
+00:41:11,780 --> 00:41:17,460
+ She's saying, yeah, that's right. It's more complicated than we realize. Yeah. But like
+
+507
+00:41:17,460 --> 00:41:20,780
+ the it was kind of a big deal at the time, although I have to say I've forgotten about
+
+508
+00:41:20,780 --> 00:41:26,180
+ it until reminded researching this, but like the Millennium Bridge was a big case, wasn't
+
+509
+00:41:26,180 --> 00:41:31,500
+ it? And exactly as you say, sort of untested was a huge deal. So for our listeners, it
+
+510
+00:41:31,500 --> 00:41:36,300
+ was a quite beautiful bridge across the Thames in London that was opened in the year 2000
+
+511
+00:41:36,300 --> 00:41:40,420
+ in the summer. And I think it closed up to two days because it was wobbling, wasn't
+
+512
+00:41:40,420 --> 00:41:44,620
+ it? It was moving about seven and a half centimetres backwards and forwards. And people felt like
+
+513
+00:41:44,620 --> 00:41:48,100
+ it didn't sound like a lot. But if you're standing on this bridge, that's earthquake
+
+514
+00:41:48,100 --> 00:41:52,860
+ levels. Yeah, it's noticeable. And it's because it was able to move from side to side. And
+
+515
+00:41:52,860 --> 00:41:56,620
+ what I really like about it is Londoners called it the wobbly bridge. They didn't call it
+
+516
+00:41:56,620 --> 00:42:00,820
+ the bouncy bridge because it wasn't going up and down. It was very specifically going
+
+517
+00:42:00,820 --> 00:42:05,860
+ side to side. It had this lateral back and forth. They accidentally, when they built
+
+518
+00:42:05,860 --> 00:42:13,140
+ it, tuned it, I say tuned, it wasn't deliberate. It ended up being tuned to be able to resonate
+
+519
+00:42:13,140 --> 00:42:18,700
+ at about one hertz. And when a human walks, we take about two steps a second. So we're
+
+520
+00:42:18,700 --> 00:42:24,260
+ basically a mass going backwards and forwards at a rate of one hertz. And people walking
+
+521
+00:42:24,260 --> 00:42:27,900
+ across the bridge are naturally walking at a hertz where their body's moving backwards
+
+522
+00:42:27,900 --> 00:42:31,500
+ and forwards once a second. And it would cause the bridge to move a little bit. But then
+
+523
+00:42:31,500 --> 00:42:36,300
+ you had this synchronizing effect where because the bridge is moving slightly, people are
+
+524
+00:42:36,300 --> 00:42:43,420
+ more likely to step in rhythm with it. And so they were all natural dancers. So yeah,
+
+525
+00:42:43,420 --> 00:42:46,860
+ then it makes it worse and worse. I feel like it's the same as on a trampoline, you know,
+
+526
+00:42:46,860 --> 00:42:50,740
+ when someone's bouncing and you automatically bounce in sync with them to make them more
+
+527
+00:42:50,740 --> 00:42:54,860
+ comfortable. So it's quite cool to imagine everyone on Millennium Bridge was walking
+
+528
+00:42:54,860 --> 00:43:01,660
+ exactly in step. And then all vomiting. Yeah, you got seasickness going over the bridge.
+
+529
+00:43:01,660 --> 00:43:06,260
+ Is it the case that they had to fix it? Was it dangerous because you could break the bridge?
+
+530
+00:43:06,260 --> 00:43:10,300
+ It could have got worse and worse. So at the levels it was happening, it wasn't dangerous,
+
+531
+00:43:10,300 --> 00:43:13,420
+ but no one wants to be on a bridge wobbling backwards and forwards. It genuinely made people
+
+532
+00:43:13,420 --> 00:43:16,740
+ feel sick. That's why they had to fix it. This is my new entry for how I'd solve the
+
+533
+00:43:16,740 --> 00:43:21,740
+ trolley problem. I would be on the bridge. I would see the trolley coming and I'd say,
+
+534
+00:43:21,740 --> 00:43:27,140
+ everyone, let's walk in sync and let's down the bridge. Shake the bridge. Shake the bridge.
+
+535
+00:43:27,140 --> 00:43:32,420
+ It costs an extra £5 million to fix. It was like on the original budget of £17 or £18
+
+536
+00:43:32,420 --> 00:43:37,140
+ million to build it. It took them two years and £5 million. Really? They had to add extra
+
+537
+00:43:37,140 --> 00:43:42,140
+ damping to take out those frequencies. Yeah, yeah. By doing that, they increased the damping
+
+538
+00:43:42,140 --> 00:43:47,340
+ below one and a half hertz by about 15, 20% and that was enough to stop that runaway feedback
+
+539
+00:43:47,340 --> 00:43:53,780
+ group. How interesting. So if you got a load of shorter people with shorter legs walking
+
+540
+00:43:53,780 --> 00:44:01,180
+ along, might it happen again? If you were able to walk at a frequency that... Would it be
+
+541
+00:44:01,180 --> 00:44:06,940
+ faster or slightly like race walkers? The way it's been designed now, you'd have to
+
+542
+00:44:06,940 --> 00:44:11,780
+ be running. You'd be at a higher frequency to cause a problem, but you'd have to have
+
+543
+00:44:11,780 --> 00:44:16,340
+ a lot of people running at once to fall in sync. So if the London Marathon changes,
+
+544
+00:44:16,340 --> 00:44:22,900
+ dive over. But they do this like people who work on designing football stadiums have to
+
+545
+00:44:22,900 --> 00:44:27,540
+ make sure the stadium is not accidentally tuned to any of the frequencies where a concert
+
+546
+00:44:27,540 --> 00:44:33,740
+ that's put in the stadium might match to. What do you mean because then the actual structure
+
+547
+00:44:33,740 --> 00:44:38,540
+ could vibrate? The whole structure, there's video of people dancing in a stadium. It was
+
+548
+00:44:38,540 --> 00:44:42,460
+ a football chant that people were doing and you can see the whole structure starts to
+
+549
+00:44:42,460 --> 00:44:47,020
+ go up and down because they've hit that resonant frequency. Every engineer on the stadium has
+
+550
+00:44:47,020 --> 00:44:55,140
+ to go, the referee's a wanker. Don't do it to that one. The famous one up near where
+
+551
+00:44:55,140 --> 00:44:59,660
+ I live is the Broughton Suspension Bridge between Manchester and Bolton which collapsed
+
+552
+00:44:59,660 --> 00:45:05,980
+ in 1831 and was supposedly because people were marching across it and that resonance
+
+553
+00:45:05,980 --> 00:45:10,940
+ caused the bridge to collapse. I think that's the first, in my research that's the first
+
+554
+00:45:10,940 --> 00:45:17,540
+ bridge that collapsed due to resonance. Supposedly, yeah. And the military from then on were always
+
+555
+00:45:17,540 --> 00:45:22,420
+ told to break step when they cross over a bridge. It is sensible to not walk exactly
+
+556
+00:45:22,420 --> 00:45:27,900
+ at the same pace if you're going over a bridge, I think. Yeah, actually for the British Army
+
+557
+00:45:27,900 --> 00:45:32,820
+ at certain points you have to stop playing the music. So, you know, the Trumpeters have
+
+558
+00:45:32,820 --> 00:45:37,580
+ to shut up as you go over a bridge. So, you can all walk really carefully, not coordinating
+
+559
+00:45:37,580 --> 00:45:42,820
+ with anyone else's walk. Everyone walk totally randomly and different to everyone else walking
+
+560
+00:45:42,820 --> 00:45:48,300
+ randomly. You could just put some music that's really difficult to dance to. Yeah. Something
+
+561
+00:45:48,300 --> 00:46:03,180
+ that lets some Shostakovich, some really sort of... Get all three of the best known violinists.
+
+562
+00:46:03,180 --> 00:46:07,180
+ Okay, it is time for our final fact of the show and that is my fact. My fact this week
+
+563
+00:46:07,180 --> 00:46:12,740
+ is that in the board game Rising Sun, players are able to collect monsters that are inspired
+
+564
+00:46:12,740 --> 00:46:19,420
+ by both Japanese mythology and, by complete accident, a New Zealand farmer. This is the
+
+565
+00:46:19,420 --> 00:46:23,340
+ board game which they put on Kickstarter. They needed 300,000 in order to get the game
+
+566
+00:46:23,340 --> 00:46:27,100
+ going but they ended up getting over four million dollars. And so, they had all this
+
+567
+00:46:27,100 --> 00:46:33,180
+ additional... Well, we might as well add a farmer. That was a stretch goal. One guy from
+
+568
+00:46:33,180 --> 00:46:39,060
+ New Zealand gets to pick a monster. So, what they did was they said, "Okay, well, as we've
+
+569
+00:46:39,060 --> 00:46:42,020
+ got all this extra money, what we're going to do is we're going to produce more characters."
+
+570
+00:46:42,020 --> 00:46:45,780
+ So, it's like a bonus pack that you get. So, one of these monsters is called the Katahi
+
+571
+00:46:45,780 --> 00:46:51,500
+ and basically, it's described as a Manawa Bradford, a spirit monkey that is very hairy
+
+572
+00:46:51,500 --> 00:46:56,580
+ and gets engulfed in rage. Are you the New Zealand farmer, Dan?
+
+573
+00:46:56,580 --> 00:47:04,260
+ I've never seen you consumed with rage. No, but you have seen me naked. It's made him
+
+574
+00:47:04,260 --> 00:47:09,420
+ pretty angry actually. But yes, so then what happens is the game comes out, all these characters
+
+575
+00:47:09,420 --> 00:47:14,660
+ are out there and then there's this guy who's online who says, "Hey, I'm actually from Japan
+
+576
+00:47:14,660 --> 00:47:18,580
+ and I've never heard of this character. Does anyone know anything more about it?" So, it
+
+577
+00:47:18,580 --> 00:47:23,060
+ sparks off a big, you know, hunt online for people to try and get to the bottom of it.
+
+578
+00:47:23,060 --> 00:47:27,660
+ Someone eventually discovers that there's a Wikipedia page, legendary Japanese monsters
+
+579
+00:47:27,660 --> 00:47:33,140
+ that has all the characters on it and in there is an entry for this Katahi and a guy in New
+
+580
+00:47:33,140 --> 00:47:38,300
+ Zealand, 19-year-old and his buddy Dick and about online, went to this page and they named
+
+581
+00:47:38,300 --> 00:47:43,220
+ it after him and it just sat there for over a year and the makers of this game went on
+
+582
+00:47:43,220 --> 00:47:48,060
+ to Wikipedia, cut and paste all of the characters on there, didn't do any additional research
+
+583
+00:47:48,060 --> 00:47:53,780
+ and ended up using him and so he's immortalised in this game as a Japanese mythological character.
+
+584
+00:47:53,780 --> 00:47:57,980
+ Awesome. That's just going to encourage more people to edit Wikipedia and that desperate
+
+585
+00:47:57,980 --> 00:48:01,940
+ hope they'll make it to a ball game. Yeah, that's true and there's this great line
+
+586
+00:48:01,940 --> 00:48:06,580
+ which says, someone was describing it saying, "This is the most exciting thing to happen
+
+587
+00:48:06,580 --> 00:48:11,740
+ in Daneverk, which is the rural town where he's from in New Zealand, since someone tried
+
+588
+00:48:11,740 --> 00:48:17,700
+ to open a brothel there in 2008 and it lasted precisely three weeks." I think, I mean, people
+
+589
+00:48:17,700 --> 00:48:21,360
+ got really moralistic about it. One woman said she'd sit outside the brothel every day
+
+590
+00:48:21,360 --> 00:48:26,180
+ knitting to shame anyone who came in and she also said, "I can't see any of our men paying
+
+591
+00:48:26,180 --> 00:48:30,980
+ a hundred dollars a bonk." Which I can see a lot of her men reading that and going, "Can't
+
+592
+00:48:30,980 --> 00:48:37,700
+ you love a bonk?" No, I know. She's from the 50s. One of the district council chiefs
+
+593
+00:48:37,700 --> 00:48:41,500
+ said that brothels were illegal business and the only thing that they could do was impose
+
+594
+00:48:41,500 --> 00:48:48,620
+ environmental conditions on it and his name was Roger 20 Man, which sounds like something
+
+595
+00:48:48,620 --> 00:48:56,140
+ on the menu at the brothel. Have we ever mentioned the Anton Deck Saturday night takeaway board
+
+596
+00:48:56,140 --> 00:49:02,020
+ game? I don't think so. You say that as if we must have been in. The game we play all
+
+597
+00:49:02,020 --> 00:49:04,680
+ the time. Yeah, we've mentioned it in pretty much every episode. I don't know what you're
+
+598
+00:49:04,680 --> 00:49:09,220
+ on about. This came out in 2017. It was an Anton Deck board game called Saturday Night
+
+599
+00:49:09,220 --> 00:49:13,720
+ Takeaway based on their TV show and it was basically a quiz. So you would play the board
+
+600
+00:49:13,720 --> 00:49:18,620
+ game and get lots of trivial questions. Sounds good. It was, in theory, good, except it was
+
+601
+00:49:18,620 --> 00:49:25,140
+ just riddled with mistakes. One question asked, "Where is Stonehenge located?" It said Somerset.
+
+602
+00:49:25,140 --> 00:49:29,820
+ They said that Albert Einstein died in 1949 instead of 55, which is, I guess, you're not
+
+603
+00:49:29,820 --> 00:49:33,020
+ going to automatically know if that's right or wrong. How about this one? True or false?
+
+604
+00:49:33,020 --> 00:49:36,020
+ This is not the question. I'm rephrasing the question here. True or false, the moon is
+
+605
+00:49:36,020 --> 00:49:44,780
+ the same distance from London to Australia. That is incorrect. Incorrect. Yeah, and it's
+
+606
+00:49:44,780 --> 00:49:51,020
+ incorrect that they said that. They said it was the same distance as London to Blackpool.
+
+607
+00:49:51,020 --> 00:49:57,700
+ In answer to how far away is the moon, they put 225 miles as the correct answer. It's
+
+608
+00:49:57,700 --> 00:50:03,940
+ posted 238,000. Wow. The short-lived TV game show Color
+
+609
+00:50:03,940 --> 00:50:11,020
+ of Money. I only know it from the game in pubs. A bunch of cash machines you could choose
+
+610
+00:50:11,020 --> 00:50:17,540
+ from. They hired a mathematician to analyze the game for them. A mathematician ran the
+
+611
+00:50:17,540 --> 00:50:20,900
+ numbers and came back and said, "This is a terrible game. No one's ever going to win."
+
+612
+00:50:20,900 --> 00:50:25,860
+ They're like, "Oh, no, but I tested it when I was home with the family and my grandma
+
+613
+00:50:25,860 --> 00:50:29,860
+ won and everyone had a great time." They put the game into production and basically no
+
+614
+00:50:29,860 --> 00:50:34,060
+ one won. That was it for the game and it was gone.
+
+615
+00:50:34,060 --> 00:50:37,860
+ That sounds like a good thing for the production company though, right? No, if it doesn't make
+
+616
+00:50:37,860 --> 00:50:41,020
+ good TV. No one wants to watch it.
+
+617
+00:50:41,020 --> 00:50:43,260
+ Did they ever think of putting that grandma on the show?
+
+618
+00:50:43,260 --> 00:50:47,060
+ They should have. Lucky grandma. That's where you're going wrong.
+
+619
+00:50:47,060 --> 00:50:52,460
+ Just sweep up, take it all home. It's like the fruit machines, pokies. You
+
+620
+00:50:52,460 --> 00:50:56,980
+ can tune the payout rate. It's not doing ... You're pulling the lever but it's just hitting
+
+621
+00:50:56,980 --> 00:51:04,700
+ a switch that's then spinning the things. The payout rate is programmed in to be once every
+
+622
+00:51:04,700 --> 00:51:09,260
+ kind of sell often. It's not even doing something particularly randomly. It's evening out the
+
+623
+00:51:09,260 --> 00:51:12,660
+ payout rate. You just have to watch and once it's been
+
+624
+00:51:12,660 --> 00:51:18,020
+ long enough, then you go on ... When I used to work in a bar, we would watch it and if
+
+625
+00:51:18,020 --> 00:51:21,060
+ no one won all night and people were playing it all night, then once everyone else had
+
+626
+00:51:21,060 --> 00:51:24,100
+ gone home, we'd put all our tips in and lose all our tips.
+
+627
+00:51:24,100 --> 00:51:32,460
+ Then we were just terrible at those. For instance, there was a QI quiz machine game.
+
+628
+00:51:32,460 --> 00:51:34,340
+ Have we said this on here? I don't think so.
+
+629
+00:51:34,340 --> 00:51:40,100
+ So there's a QI quiz machine game and before it went out, they sent me all of the questions
+
+630
+00:51:40,100 --> 00:51:43,340
+ so that I could check through them to make sure there wasn't any mistakes and make sure
+
+631
+00:51:43,340 --> 00:51:48,260
+ that it was kind of QI as it should be. There was probably, I think there was 20,000. It
+
+632
+00:51:48,260 --> 00:51:53,300
+ might have been more. Anyway, I had a database of all the questions and they put one in the
+
+633
+00:51:53,300 --> 00:51:58,380
+ pub next to where we worked. Yeah, in Covent Garden, it was a pub down the road.
+
+634
+00:51:58,380 --> 00:52:02,660
+ This is ... We're going to clean up here and so we went and played and we just lost all
+
+635
+00:52:02,660 --> 00:52:04,980
+ our money. We just couldn't do it.
+
+636
+00:52:04,980 --> 00:52:09,180
+ We just couldn't do it. It was ridiculous. Oh my God.
+
+637
+00:52:09,180 --> 00:52:14,820
+ On Japanese games, in the 1980s, I think it was 1985 or 1986, did you know that almost
+
+638
+00:52:14,820 --> 00:52:20,940
+ half of Japanese people owned a computer domestically when in the US, for instance, that was about
+
+639
+00:52:20,940 --> 00:52:22,020
+ 9%? In what year?
+
+640
+00:52:22,020 --> 00:52:28,420
+ I think it was 1985 or '06. I just read it this week, but that's because they all owned
+
+641
+00:52:28,420 --> 00:52:34,460
+ Famicon, which was a family computer, which was the Nintendo console thing and they were
+
+642
+00:52:34,460 --> 00:52:35,940
+ all playing Nintendo.
+
+643
+00:52:35,940 --> 00:52:40,700
+ In 1990, I only knew one person who had a computer in Bolton.
+
+644
+00:52:40,700 --> 00:52:45,340
+ Yeah, there you go. It was called, interestingly, everyone called it Familycom, and they still
+
+645
+00:52:45,340 --> 00:52:49,820
+ do, and they still always call it Familycom, but the name is Familycomputer because they
+
+646
+00:52:49,820 --> 00:52:54,300
+ weren't allowed to trademark it as Familycom because there was an oven released a couple
+
+647
+00:52:54,300 --> 00:53:01,560
+ of years earlier, which was a Familyconvection oven, which was Familycon.
+
+648
+00:53:01,560 --> 00:53:05,860
+ Just on board games, cool new weird board games, which are always fun. People always
+
+649
+00:53:05,860 --> 00:53:11,500
+ coming up with them these days. Have you guys heard of Consentical?
+
+650
+00:53:11,500 --> 00:53:14,460
+ No and I already regret half hearing about it.
+
+651
+00:53:14,460 --> 00:53:16,980
+ Go on, guess what it is?
+
+652
+00:53:16,980 --> 00:53:21,620
+ Yes, you can touch my balls.
+
+653
+00:53:21,620 --> 00:53:28,660
+ So it's a cooperative card game for two players, and it's about a consensual, crucially, sexual
+
+654
+00:53:28,660 --> 00:53:35,000
+ encounter between a curious human and a tentacled alien.
+
+655
+00:53:35,000 --> 00:53:36,000
+ And the way it works...
+
+656
+00:53:36,000 --> 00:53:40,000
+ I see like tentacle. Not testicle.
+
+657
+00:53:40,000 --> 00:53:44,880
+ I see Consentacle. Consentical is a testicle one.
+
+658
+00:53:44,880 --> 00:53:48,760
+ I think Consentical is the one where if you and Mr. Tickle had that.
+
+659
+00:53:48,760 --> 00:53:53,960
+ There are lots of variations. It's like the trolley problem. It was built on a lot.
+
+660
+00:53:53,960 --> 00:54:00,040
+ Anyway, so I'm super fun. So you've got these cards, which are things that you might want
+
+661
+00:54:00,040 --> 00:54:07,140
+ to do to this alien that you fancy with tentacles. So Wink, Gaze, Envelop, Bite, Lick, Penetrate
+
+662
+00:54:07,140 --> 00:54:12,860
+ is one of the cards, and you convey which card you want to mutually put down with faces
+
+663
+00:54:12,860 --> 00:54:17,900
+ and gestures. So you make a certain face. I'm looking at Matt, and it's like...
+
+664
+00:54:17,900 --> 00:54:24,720
+ Not me. I'm looking at that plant over there, doing a lot of copies of those QI books over
+
+665
+00:54:24,720 --> 00:54:25,720
+ there.
+
+666
+00:54:25,720 --> 00:54:28,360
+ That looks as penetrate at that plant.
+
+667
+00:54:28,360 --> 00:54:33,120
+ There's a famous... Is it by Hokusai? There's a famous painting of a woman having sex with
+
+668
+00:54:33,120 --> 00:54:34,120
+ a octopus.
+
+669
+00:54:34,120 --> 00:54:35,120
+ Yeah, with an octopus.
+
+670
+00:54:35,120 --> 00:54:36,120
+ Yeah.
+
+671
+00:54:36,120 --> 00:54:40,680
+ And a load of octopus scientists looked at it and said it didn't look like the octopus
+
+672
+00:54:40,680 --> 00:54:46,680
+ was enjoying itself very much, because apparently octopuses have ways of changing their body whenever
+
+673
+00:54:46,680 --> 00:54:48,540
+ they're mating and stuff like that.
+
+674
+00:54:48,540 --> 00:54:53,260
+ I think there was a exhibition at the British Museum that had a bunch of these, effectively
+
+675
+00:54:53,260 --> 00:54:58,460
+ a monster erotica paintings, and in the year that they were there, if you go to the website
+
+676
+00:54:58,460 --> 00:55:02,780
+ and you looked at the data, there were more searches for that exhibition than there were
+
+677
+00:55:02,780 --> 00:55:05,060
+ for the opening hours of the British Museum.
+
+678
+00:55:05,060 --> 00:55:11,260
+ Well, maybe that's what inspired this game, you know. It's like stop having this non-consensual
+
+679
+00:55:11,260 --> 00:55:12,260
+ sex with octopuses.
+
+680
+00:55:12,260 --> 00:55:14,260
+ So what happens... Sorry, you put the cards down and...
+
+681
+00:55:14,260 --> 00:55:18,000
+ I would need to convey through a series of looks and gestures what kind of sex move we
+
+682
+00:55:18,000 --> 00:55:25,720
+ should make with each other, and then we would look at the table.
+
+683
+00:55:25,720 --> 00:55:28,400
+ The plants over there can eat it.
+
+684
+00:55:28,400 --> 00:55:31,680
+ And then you would play a card, and I would play a card, and we would hope that our cards
+
+685
+00:55:31,680 --> 00:55:36,360
+ mutually matched each other and built trust between us rather than being non-consensual.
+
+686
+00:55:36,360 --> 00:55:37,360
+ It's snap.
+
+687
+00:55:37,360 --> 00:55:38,360
+ Yeah.
+
+688
+00:55:38,360 --> 00:55:39,360
+ It's sexy snap.
+
+689
+00:55:39,360 --> 00:55:40,360
+ Sexy snap.
+
+690
+00:55:40,360 --> 00:55:41,360
+ It's snap.
+
+691
+00:55:41,360 --> 00:55:42,360
+ Oh, snap.
+
+692
+00:55:42,360 --> 00:55:43,360
+ Oh, snap.
+
+693
+00:55:43,360 --> 00:55:44,360
+ Yeah.
+
+694
+00:55:44,360 --> 00:55:48,500
+ It's a really random thing that is a board game I'd love to get my hands on. It's a
+
+695
+00:55:48,500 --> 00:55:55,860
+ game which you can get in Sierra Leone, which is essential to be played by anyone who's
+
+696
+00:55:55,860 --> 00:55:57,660
+ trying to obtain a driver's license.
+
+697
+00:55:57,660 --> 00:56:03,940
+ It's not fully, but it's just the only piece is the car.
+
+698
+00:56:03,940 --> 00:56:07,500
+ I think you go around the bar and whatever you land on it, ask you a question about the
+
+699
+00:56:07,500 --> 00:56:08,500
+ highway code.
+
+700
+00:56:08,500 --> 00:56:09,500
+ Yeah.
+
+701
+00:56:09,500 --> 00:56:10,500
+ Right.
+
+702
+00:56:10,500 --> 00:56:14,680
+ So you do the test for two to three months, and then you do the test, and the game supposedly
+
+703
+00:56:14,680 --> 00:56:16,020
+ gets you ready for the test.
+
+704
+00:56:16,020 --> 00:56:17,020
+ It's so good.
+
+705
+00:56:17,020 --> 00:56:18,020
+ I could do with that.
+
+706
+00:56:18,020 --> 00:56:20,680
+ I'm learning to drive at the moment, and I'm dreading the theory test because it's a big
+
+707
+00:56:20,680 --> 00:56:25,780
+ old book to read, that old highway code, so a board game would be amazing.
+
+708
+00:56:25,780 --> 00:56:26,780
+ There you go.
+
+709
+00:56:26,780 --> 00:56:29,780
+ If you're listening, please, God, make a board game otherwise.
+
+710
+00:56:29,780 --> 00:56:34,020
+ Please make it as difficult as possible, so I'm not the best.
+
+711
+00:56:34,020 --> 00:56:36,840
+ Did you guys ever play the game Guess Who?
+
+712
+00:56:36,840 --> 00:56:37,840
+ Yes, yes.
+
+713
+00:56:37,840 --> 00:56:38,840
+ Still play it.
+
+714
+00:56:38,840 --> 00:56:39,840
+ Good on you, mate.
+
+715
+00:56:39,840 --> 00:56:40,840
+ Yes.
+
+716
+00:56:40,840 --> 00:56:51,020
+ That was invented by this couple called Aura and Theo Koster, who created a company called
+
+717
+00:56:51,020 --> 00:56:52,020
+ Theora.
+
+718
+00:56:52,020 --> 00:56:54,580
+ It's invented in the, I think it was the '60s.
+
+719
+00:56:54,580 --> 00:56:58,060
+ Theo was actually a classmate of Anne Frank, went to school with her.
+
+720
+00:56:58,060 --> 00:56:59,060
+ No.
+
+721
+00:56:59,060 --> 00:57:00,060
+ Yeah.
+
+722
+00:57:00,060 --> 00:57:01,060
+ Wow.
+
+723
+00:57:01,060 --> 00:57:03,460
+ Interestingly, his original name was Morris, but he was brought up in the Netherlands when
+
+724
+00:57:03,460 --> 00:57:07,860
+ it was under German occupation, so changed his name and hid his Jewish identity.
+
+725
+00:57:07,860 --> 00:57:10,880
+ Yeah, they married, and they became amazing game designers.
+
+726
+00:57:10,880 --> 00:57:15,160
+ They designed loads of extremely popular games, one of which was Guess Who, and they
+
+727
+00:57:15,160 --> 00:57:20,440
+ died, one of them died in 2019, one in 2021, I think, both age 90, and their gravestones
+
+728
+00:57:20,440 --> 00:57:22,640
+ are the Guess Who pop-ups?
+
+729
+00:57:22,640 --> 00:57:25,120
+ You can flip their gravestone down.
+
+730
+00:57:25,120 --> 00:57:27,120
+ You can't flip them sadly.
+
+731
+00:57:27,120 --> 00:57:29,960
+ That would be so cool, but no, you can't.
+
+732
+00:57:29,960 --> 00:57:30,960
+ What is it?
+
+733
+00:57:30,960 --> 00:57:31,960
+ What do they have?
+
+734
+00:57:31,960 --> 00:57:35,080
+ They just have the same design as the Guess Who pop-ups, which are quite similar to an
+
+735
+00:57:35,080 --> 00:57:37,320
+ actual gravestone.
+
+736
+00:57:37,320 --> 00:57:39,340
+ Well, guess who?
+
+737
+00:57:39,340 --> 00:57:46,100
+ You want to be able to split the remaining possible people as evenly in half as possible.
+
+738
+00:57:46,100 --> 00:57:47,100
+ Yes.
+
+739
+00:57:47,100 --> 00:57:48,740
+ Because you want to basically do a binary search.
+
+740
+00:57:48,740 --> 00:57:53,180
+ You want to split it in half each time, and that's the fastest way to get to the final
+
+741
+00:57:53,180 --> 00:57:58,900
+ answer, and the way you need to do that is by stacking your conditions at once, which
+
+742
+00:57:58,900 --> 00:58:04,820
+ a lot of other people will claim is cheating or making the game not fun anymore, but you
+
+743
+00:58:04,820 --> 00:58:12,120
+ can say if it's a man, do they have glasses, or if it's a woman, have they got a hat?
+
+744
+00:58:12,120 --> 00:58:18,360
+ And there's still a yes or no right response, but now you've used the categories to better
+
+745
+00:58:18,360 --> 00:58:19,360
+ split the options in half.
+
+746
+00:58:19,360 --> 00:58:21,520
+ That is so much better than the way we play it.
+
+747
+00:58:21,520 --> 00:58:22,520
+ Yeah, that's brilliant.
+
+748
+00:58:22,520 --> 00:58:27,200
+ We always say, does your guy like peas, and you just have to make a judgment.
+
+749
+00:58:27,200 --> 00:58:29,120
+ Look deep into their eyes.
+
+750
+00:58:29,120 --> 00:58:31,200
+ Would you trust them with the trolley problem?
+
+751
+00:58:31,200 --> 00:58:35,820
+ So roughly, how quickly do you destroy the seven-year-old you're playing?
+
+752
+00:58:35,820 --> 00:58:41,940
+ I wonder, have mathematicians had a go at the other game invented by Aura and Theo Costa,
+
+753
+00:58:41,940 --> 00:58:48,060
+ which is the, and they made it in the 1970s, the popping out rubber spheres game that's
+
+754
+00:58:48,060 --> 00:58:49,060
+ become really popular recently.
+
+755
+00:58:49,060 --> 00:58:51,700
+ I've only seen it because suddenly I'm surrounded by young children.
+
+756
+00:58:51,700 --> 00:58:52,700
+ Yeah, we've got a few at home.
+
+757
+00:58:52,700 --> 00:58:53,700
+ Yeah.
+
+758
+00:58:53,700 --> 00:58:54,700
+ Yeah.
+
+759
+00:58:54,700 --> 00:58:55,700
+ Do you guys know what I mean?
+
+760
+00:58:55,700 --> 00:58:56,700
+ The fidgety toy thing.
+
+761
+00:58:56,700 --> 00:58:57,700
+ Yeah.
+
+762
+00:58:57,700 --> 00:58:58,700
+ And people are into it.
+
+763
+00:58:58,700 --> 00:58:59,700
+ Stress ties.
+
+764
+00:58:59,700 --> 00:59:04,280
+ I thought they were invented by someone who is inspired by a field of breasts.
+
+765
+00:59:04,280 --> 00:59:05,780
+ You're absolutely right.
+
+766
+00:59:05,780 --> 00:59:07,800
+ And that is Aura Costa.
+
+767
+00:59:07,800 --> 00:59:08,800
+ Wow.
+
+768
+00:59:08,800 --> 00:59:09,800
+ Really?
+
+769
+00:59:09,800 --> 00:59:14,960
+ She was actually sweetly and darkly inspired by her sister, who very sadly got breast cancer,
+
+770
+00:59:14,960 --> 00:59:19,220
+ and she had a dream around that time of a huge field of her sister's breasts and woke
+
+771
+00:59:19,220 --> 00:59:22,380
+ up and went to the game designer and was like, make me a field of boobs.
+
+772
+00:59:22,380 --> 00:59:23,380
+ Wow.
+
+773
+00:59:23,380 --> 00:59:24,380
+ Oh my God.
+
+774
+00:59:24,380 --> 00:59:27,140
+ I had a dream last night where there was a referee in a football match and he tried
+
+775
+00:59:27,140 --> 00:59:30,260
+ someone off, but he pulled out a rice cake instead.
+
+776
+00:59:30,260 --> 00:59:31,260
+ Oh yeah.
+
+777
+00:59:31,260 --> 00:59:32,260
+ Can we turn that into a game?
+
+778
+00:59:32,260 --> 00:59:34,260
+ Not all dreams are going to be money spinners.
+
+779
+00:59:34,260 --> 00:59:39,300
+ That should have been her tombstone, a giant robber, a gravestone that you could push down
+
+780
+00:59:39,300 --> 00:59:40,300
+ into the ground.
+
+781
+00:59:40,300 --> 00:59:43,300
+ But then what if she pops it back up?
+
+782
+00:59:43,300 --> 00:59:47,700
+ That is scary.
+
+783
+00:59:47,700 --> 00:59:53,460
+ Okay, that's it.
+
+784
+00:59:53,460 --> 00:59:54,460
+ That is all of our facts.
+
+785
+00:59:54,460 --> 00:59:55,800
+ Thank you so much for listening.
+
+786
+00:59:55,800 --> 00:59:58,700
+ If you'd like to get in contact with any of us about the things that we've said over
+
+787
+00:59:58,700 --> 01:00:02,740
+ the course of this podcast, we can be found on our various social media accounts.
+
+788
+01:00:02,740 --> 01:00:06,220
+ I'm on Instagram, on Shriverland, James.
+
+789
+01:00:06,220 --> 01:00:08,580
+ My Instagram is no such thing as James Harkin.
+
+790
+01:00:08,580 --> 01:00:11,020
+ Matt, I'm standupmaths, pretty much everywhere.
+
+791
+01:00:11,020 --> 01:00:12,020
+ Yep.
+
+792
+01:00:12,020 --> 01:00:13,020
+ And Anna.
+
+793
+01:00:13,020 --> 01:00:17,180
+ You can find us on Twitter, on @NoSuchThing, or on Instagram, no such thing as a fish,
+
+794
+01:00:17,180 --> 01:00:18,580
+ or you can email podcast.qi.com.
+
+795
+01:00:18,580 --> 01:00:19,580
+ Yep.
+
+796
+01:00:19,580 --> 01:00:23,660
+ Or you can just head straight to our website, which is nosuchthingasafish.com.
+
+797
+01:00:23,660 --> 01:00:25,920
+ You'll find all of our previous episodes up there.
+
+798
+01:00:25,920 --> 01:00:29,200
+ You'll find a link to Club Fish, our secret members club, where we have lots of bonus
+
+799
+01:00:29,200 --> 01:00:30,200
+ episodes.
+
+800
+01:00:30,200 --> 01:00:35,000
+ But most important of all, you should find yourself to a pre-order link for Matt's new
+
+801
+01:00:35,000 --> 01:00:37,040
+ book, which is coming out this June, you were saying?
+
+802
+01:00:37,040 --> 01:00:38,040
+ Yep.
+
+803
+01:00:38,040 --> 01:00:39,480
+ June in the UK, August in the US.
+
+804
+01:00:39,480 --> 01:00:40,480
+ And where's the best place for them to go?
+
+805
+01:00:40,480 --> 01:00:45,720
+ If you go to massgear.co.uk, you can get the signed pre-ordered copies by me.
+
+806
+01:00:45,720 --> 01:00:49,400
+ But you can support your local independent bookshop or anywhere else online to pre-order
+
+807
+01:00:49,400 --> 01:00:50,400
+ it.
+
+808
+01:00:50,400 --> 01:00:51,400
+ Remind us what it's called.
+
+809
+01:00:51,400 --> 01:00:52,400
+ It's called Love Triangle.
+
+810
+01:00:52,400 --> 01:00:53,400
+ Okay, that's it.
+
+811
+01:00:53,400 --> 01:00:55,860
+ I'll see you next week with another episode, and we'll see you then.
+
+812
+01:00:55,860 --> 01:00:56,360
+ Goodbye!
+
+813
+01:00:56,360 --> 01:00:58,360
+ [Music]
+
+814
+01:00:58,360 --> 01:01:00,360
+ [Music]
+
+815
+01:01:00,360 --> 01:01:02,360
+ [Music]
+
+816
+01:01:02,360 --> 01:01:12,360
+ [Music]
+
+817
+01:01:12,360 --> 01:01:14,940
+ (upbeat music)
+
+818
+01:01:14,940 --> 01:01:17,520
+ (upbeat music)
+

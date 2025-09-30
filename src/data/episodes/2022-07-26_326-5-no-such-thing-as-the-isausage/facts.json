@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a variety of quirky and intriguing facts, including the origins of sausages, the peculiarities of NASCAR headlights, the massive data traffic through a Virginia county, and the unique celebration of Frozen Dead Guy Days in Colorado.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first sausages were supposedly invented by Emperor Nero's cook, Gayas, who discovered them when a pig's intestine puffed up due to heat after the pig had been starved.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:06"
+    },
+    {
+      "fact_number": 2,
+      "fact": "NASCAR cars don't have real headlights; they use stickers to simulate them because the races are either during the day or under floodlights, so functional headlights are unnecessary.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:07:01"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Loudoun County in Virginia supposedly handles 70% of the world's online traffic due to its large concentration of data centers.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:05:12"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Frozen Dead Guy Days is an annual celebration in Nederland, Colorado, where they honor a man who was cryogenically frozen by his family and kept in a shed.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:22"
+    }
+  ]
+}

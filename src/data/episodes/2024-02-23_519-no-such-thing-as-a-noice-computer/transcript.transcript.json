@@ -1,0 +1,8312 @@
+[
+  {
+    "start": 0.76,
+    "end": 3.72,
+    "text": " Hey everyone, welcome to this week's episode of Fish."
+  },
+  {
+    "start": 3.72,
+    "end": 8.64,
+    "text": " Before we get going, I just want to let you know we have a very exciting comedian joining us on the show today."
+  },
+  {
+    "start": 8.64,
+    "end": 14.68,
+    "text": " So Anna's away for this ep, but in her place we are joined by the brilliant Olga Koch."
+  },
+  {
+    "start": 14.68,
+    "end": 20.88,
+    "text": " Olga is the perfect fish guest. Not only is she incredibly funny, but she's also an absolute thunderdork."
+  },
+  {
+    "start": 20.88,
+    "end": 26.98,
+    "text": " She studied computer sciences, she speaks three different languages, she has a very confused and unplaceable accent like I do,"
+  },
+  {
+    "start": 26.98,
+    "end": 30.14,
+    "text": " and she is absolutely blitzing the comedy scene at the moment."
+  },
+  {
+    "start": 30.14,
+    "end": 36.78,
+    "text": " You will have seen her no doubt on shows like Live at the Apollo, she's done pointless celebrities, and of course she's been on QI."
+  },
+  {
+    "start": 36.78,
+    "end": 42.04,
+    "text": " But the best place, the absolutely best place to see Olga is Live in person at one of her stand-up shows,"
+  },
+  {
+    "start": 42.04,
+    "end": 46.16,
+    "text": " and she is currently on tour with her new show which is called Prawn Cocktail."
+  },
+  {
+    "start": 46.16,
+    "end": 50.8,
+    "text": " She's traveling the UK, and then for any Aussie listeners out there, she's heading down under."
+  },
+  {
+    "start": 50.8,
+    "end": 54.6,
+    "text": " So Aussies go and see her, she's absolutely brilliant live,"
+  },
+  {
+    "start": 54.6,
+    "end": 59.3,
+    "text": " and if you want to get a taste of what a full show by Olga is like, she's actually got a few specials up online."
+  },
+  {
+    "start": 59.3,
+    "end": 65.38,
+    "text": " So if you go to YouTube, you're going to be able to see her 2022 show Just Friends, the full show is there, check it out,"
+  },
+  {
+    "start": 65.38,
+    "end": 68.86,
+    "text": " and then on Amazon Prime she has another special called Homecoming."
+  },
+  {
+    "start": 68.86,
+    "end": 74.9,
+    "text": " Go to her website generally, rockandrolga.com, it has a list of all the things that she's done from podcasts to other bits and pieces."
+  },
+  {
+    "start": 74.9,
+    "end": 78.88,
+    "text": " But for now, here she is, on no searching as a fish. On with the show."
+  },
+  {
+    "start": 78.88,
+    "end": 80.88,
+    "text": " [Music]"
+  },
+  {
+    "start": 80.88,
+    "end": 99.16,
+    "text": " Hello, and welcome to another episode of No Such Thing as a Fish,"
+  },
+  {
+    "start": 99.16,
+    "end": 102.94,
+    "text": " a weekly podcast coming to you from the QI offices in Hoburn."
+  },
+  {
+    "start": 102.94,
+    "end": 108.08,
+    "text": " My name is Dan Schreiber, I'm sitting here with Andrew Hunter Murray, James Harkin, and Olga Koch,"
+  },
+  {
+    "start": 108.08,
+    "end": 112.74,
+    "text": " and once again, we have gathered around the microphones with our four favorite facts from the last seven days,"
+  },
+  {
+    "start": 112.74,
+    "end": 118.46,
+    "text": " and in a particular order, here we go, starting with fact number one, and that is Olga."
+  },
+  {
+    "start": 118.46,
+    "end": 124.18,
+    "text": " The world's best prawn cocktail eater practices his technique with budget meatballs."
+  },
+  {
+    "start": 124.18,
+    "end": 126.18,
+    "text": " Wow."
+  },
+  {
+    "start": 126.18,
+    "end": 134.24,
+    "text": " I would say that a prawn is different to a meatball, different enough that I wouldn't think it was useful for my training montage."
+  },
+  {
+    "start": 134.24,
+    "end": 141.62,
+    "text": " I accept what you've just said, and I challenge you to a better replacement to a prawn, a better budget replacement to a prawn."
+  },
+  {
+    "start": 141.62,
+    "end": 144.26,
+    "text": " Yeah, can I give you a better replacement to a prawn?"
+  },
+  {
+    "start": 144.26,
+    "end": 145.1,
+    "text": " Please."
+  },
+  {
+    "start": 145.1,
+    "end": 151.78,
+    "text": " There was a guy called Stefan Gates, who wrote a book about eating insects, and he said if you don't have any prawns,"
+  },
+  {
+    "start": 151.78,
+    "end": 157.5,
+    "text": " let's say you don't live near the sea, then a woodlouse is a good replacement, and it will taste about the same."
+  },
+  {
+    "start": 157.5,
+    "end": 160.06,
+    "text": " And budget too, I mean, all over the garden."
+  },
+  {
+    "start": 160.06,
+    "end": 161.58,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 161.58,
+    "end": 163.56,
+    "text": " I don't think I can even picture a woodlouse."
+  },
+  {
+    "start": 163.56,
+    "end": 164.56,
+    "text": " Is that a caterpillar?"
+  },
+  {
+    "start": 164.56,
+    "end": 165.56,
+    "text": " It's like a pill bug?"
+  },
+  {
+    "start": 165.56,
+    "end": 166.56,
+    "text": " No."
+  },
+  {
+    "start": 166.56,
+    "end": 168.56,
+    "text": " I regret having that."
+  },
+  {
+    "start": 168.56,
+    "end": 169.56,
+    "text": " So, insect armadillo."
+  },
+  {
+    "start": 169.56,
+    "end": 171.56,
+    "text": " So, they're the little gray bears."
+  },
+  {
+    "start": 171.56,
+    "end": 174.56,
+    "text": " Okay, so then if you de-shell it, it is still soft on the inside."
+  },
+  {
+    "start": 174.56,
+    "end": 175.56,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 175.56,
+    "end": 177.56,
+    "text": " It'd be very fiddly to de-shell, wouldn't it?"
+  },
+  {
+    "start": 177.56,
+    "end": 179.56,
+    "text": " For the number that you need as well for the challenge."
+  },
+  {
+    "start": 179.56,
+    "end": 183.56,
+    "text": " No, I think maybe I'm growing back and saying meatball's fine, as in that probably is the best."
+  },
+  {
+    "start": 183.56,
+    "end": 184.56,
+    "text": " Maybe grabstick?"
+  },
+  {
+    "start": 184.56,
+    "end": 185.56,
+    "text": " Yeah."
+  },
+  {
+    "start": 185.56,
+    "end": 188.56,
+    "text": " I mean, this guy probably knows what he's-- do we know his name?"
+  },
+  {
+    "start": 188.56,
+    "end": 190.56,
+    "text": " Yes, his name is Jeff Esper."
+  },
+  {
+    "start": 190.56,
+    "end": 191.56,
+    "text": " Okay."
+  },
+  {
+    "start": 191.56,
+    "end": 194.98,
+    "text": " And also, a very interesting thing about his technique is that he tries to mimic a prawn"
+  },
+  {
+    "start": 194.98,
+    "end": 200.82,
+    "text": " cocktail as much as he can, so he does eat them cold, and he eats them tossed in cocktail"
+  },
+  {
+    "start": 200.82,
+    "end": 205.58,
+    "text": " sauce, as opposed to, like, marinara or whatever you'd have your meatballs with."
+  },
+  {
+    "start": 205.58,
+    "end": 209.14,
+    "text": " There's this amazing video of him online where you see the practice run where he uses the"
+  },
+  {
+    "start": 209.14,
+    "end": 211.38,
+    "text": " meatballs, and it's so weird."
+  },
+  {
+    "start": 211.38,
+    "end": 215.06,
+    "text": " He's just on his own in his laundry with a camera running, and he's about to eat eight"
+  },
+  {
+    "start": 215.06,
+    "end": 218.14,
+    "text": " minutes worth of, like, meatball in his face."
+  },
+  {
+    "start": 218.14,
+    "end": 220.96,
+    "text": " He says things like, \"So, exactly, I'm going to use the same sauce.\""
+  },
+  {
+    "start": 220.96,
+    "end": 225,
+    "text": " He's going 90% of the video, so I'm going 100%, and he's given it 90%."
+  },
+  {
+    "start": 225,
+    "end": 226,
+    "text": " You know what?"
+  },
+  {
+    "start": 226,
+    "end": 227,
+    "text": " It's just for YouTube."
+  },
+  {
+    "start": 227,
+    "end": 228,
+    "text": " Exactly."
+  },
+  {
+    "start": 228,
+    "end": 229,
+    "text": " Yeah."
+  },
+  {
+    "start": 229,
+    "end": 231.16,
+    "text": " So he's going 90, and then he says, \"Really, I should be doing this outside, because I"
+  },
+  {
+    "start": 231.16,
+    "end": 234.08,
+    "text": " think the competition is outside, and I need to acclimatize.\""
+  },
+  {
+    "start": 234.08,
+    "end": 235.08,
+    "text": " Sorry."
+  },
+  {
+    "start": 235.08,
+    "end": 236.76,
+    "text": " Which geographical location is this happening in?"
+  },
+  {
+    "start": 236.76,
+    "end": 240.8,
+    "text": " If it's not the equator or the Antarctic, I don't think he needs to acclimatize."
+  },
+  {
+    "start": 240.8,
+    "end": 244.4,
+    "text": " Well, that's the thing, so it was too cold for him to do it that day, so he didn't."
+  },
+  {
+    "start": 244.4,
+    "end": 248.62,
+    "text": " But that factors into it. I guess it messes with your, like, capacity to swallow, your"
+  },
+  {
+    "start": 248.62,
+    "end": 249.62,
+    "text": " speed."
+  },
+  {
+    "start": 249.62,
+    "end": 250.62,
+    "text": " Yeah."
+  },
+  {
+    "start": 250.62,
+    "end": 253.54,
+    "text": " Can I explain one more reason why the meatballs were fine as a substitute?"
+  },
+  {
+    "start": 253.54,
+    "end": 254.54,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 254.54,
+    "end": 258.1,
+    "text": " It's because the sauce is the most important part of this particular competition, because"
+  },
+  {
+    "start": 258.1,
+    "end": 261.46,
+    "text": " it is a seafood sauce, but it's really spicy."
+  },
+  {
+    "start": 261.46,
+    "end": 264.38,
+    "text": " It's supposed to be the spiciest seafood sauce you can get."
+  },
+  {
+    "start": 264.38,
+    "end": 267.98,
+    "text": " Someone who had it said, \"It's like being electrocuted when you eat it.\""
+  },
+  {
+    "start": 267.98,
+    "end": 271.98,
+    "text": " And so, really, he's more about getting through all this spicy sauce than it is about getting"
+  },
+  {
+    "start": 271.98,
+    "end": 272.98,
+    "text": " through the problems."
+  },
+  {
+    "start": 272.98,
+    "end": 275.88,
+    "text": " Oh, his face almost melted right at the end of the video."
+  },
+  {
+    "start": 275.88,
+    "end": 280.12,
+    "text": " I watched all eight minutes, and the final mouthful, he's on the brink of vomiting, and"
+  },
+  {
+    "start": 280.12,
+    "end": 283.08,
+    "text": " you watch for about 30 seconds, whether or not it's going to happen."
+  },
+  {
+    "start": 283.08,
+    "end": 284.08,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 284.08,
+    "end": 285.08,
+    "text": " It's really close."
+  },
+  {
+    "start": 285.08,
+    "end": 286.08,
+    "text": " Can I give you a few of his records?"
+  },
+  {
+    "start": 286.08,
+    "end": 287.08,
+    "text": " His other records?"
+  },
+  {
+    "start": 287.08,
+    "end": 291.96,
+    "text": " Because Jeff Esper, he's a big, big player in what is known as the MLE, the major league"
+  },
+  {
+    "start": 291.96,
+    "end": 293.96,
+    "text": " of eating."
+  },
+  {
+    "start": 293.96,
+    "end": 298.6,
+    "text": " It's an official body, like you'd have the baseball league or the NBA, the MLE exists."
+  },
+  {
+    "start": 298.6,
+    "end": 301.14,
+    "text": " So he's the record holder at certain points."
+  },
+  {
+    "start": 301.14,
+    "end": 306.86,
+    "text": " He may have been broken since he set them for spam, eating 9.75 pounds of spam."
+  },
+  {
+    "start": 306.86,
+    "end": 314.3,
+    "text": " Chicken wings, Fortune Bay Indian tacos, pretzels, pizzas, Jack's donut holes."
+  },
+  {
+    "start": 314.3,
+    "end": 315.3,
+    "text": " Donut holes."
+  },
+  {
+    "start": 315.3,
+    "end": 316.3,
+    "text": " Yeah."
+  },
+  {
+    "start": 316.3,
+    "end": 317.3,
+    "text": " Oh, those are a thing, aren't they?"
+  },
+  {
+    "start": 317.3,
+    "end": 318.3,
+    "text": " Sorry."
+  },
+  {
+    "start": 318.3,
+    "end": 319.3,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 319.3,
+    "end": 320.3,
+    "text": " I was thinking."
+  },
+  {
+    "start": 320.3,
+    "end": 321.3,
+    "text": " It's the bit that used to be in the donut."
+  },
+  {
+    "start": 321.3,
+    "end": 322.3,
+    "text": " It's not just the answers."
+  },
+  {
+    "start": 322.3,
+    "end": 323.3,
+    "text": " He's eating them all."
+  },
+  {
+    "start": 323.3,
+    "end": 324.3,
+    "text": " That's why they're not there."
+  },
+  {
+    "start": 324.3,
+    "end": 325.3,
+    "text": " Yeah, Texas sausage."
+  },
+  {
+    "start": 325.3,
+    "end": 326.3,
+    "text": " Yeah, Texas sausage."
+  },
+  {
+    "start": 326.3,
+    "end": 327.3,
+    "text": " Well, very impressive."
+  },
+  {
+    "start": 327.3,
+    "end": 330.68,
+    "text": " For me, it seems like, you know, in Olympic swimming, how people get loads of medals because"
+  },
+  {
+    "start": 330.68,
+    "end": 336.44,
+    "text": " you get a medal for 100 meters, for 50 meters, for 200 meters is all basically the same thing."
+  },
+  {
+    "start": 336.44,
+    "end": 340.44,
+    "text": " It feels to me like once you can eat a load of shrimp, then you could probably eat a load"
+  },
+  {
+    "start": 340.44,
+    "end": 342.36,
+    "text": " of donuts and you could probably eat a load of everything."
+  },
+  {
+    "start": 342.36,
+    "end": 343.36,
+    "text": " Oh."
+  },
+  {
+    "start": 343.36,
+    "end": 344.36,
+    "text": " He's only got one skill and he's getting all these records."
+  },
+  {
+    "start": 344.36,
+    "end": 346.16,
+    "text": " I think it's all to do with training, right?"
+  },
+  {
+    "start": 346.16,
+    "end": 352.12,
+    "text": " Well, I think in major league eating, if you are some plucky kid out of nowhere, the best"
+  },
+  {
+    "start": 352.12,
+    "end": 355.34,
+    "text": " things to go for are things where you can innovate because there are some which are"
+  },
+  {
+    "start": 355.34,
+    "end": 356.34,
+    "text": " volume based."
+  },
+  {
+    "start": 356.34,
+    "end": 357.34,
+    "text": " I see."
+  },
+  {
+    "start": 357.34,
+    "end": 360.42,
+    "text": " Where you just have to drink as much honey as you can, whatever."
+  },
+  {
+    "start": 360.42,
+    "end": 362.7,
+    "text": " And that depends on how big your stomach is."
+  },
+  {
+    "start": 362.7,
+    "end": 363.7,
+    "text": " Exactly."
+  },
+  {
+    "start": 363.7,
+    "end": 364.7,
+    "text": " That is just about."
+  },
+  {
+    "start": 364.7,
+    "end": 370.62,
+    "text": " You do have to do that competition in just a top no pants pool."
+  },
+  {
+    "start": 370.62,
+    "end": 376.86,
+    "text": " But if you're some like, you know, upstart, you might be able to develop a new technique."
+  },
+  {
+    "start": 376.86,
+    "end": 377.86,
+    "text": " I see."
+  },
+  {
+    "start": 377.86,
+    "end": 380.94,
+    "text": " So before we started today, you just had a cheese and what was it?"
+  },
+  {
+    "start": 380.94,
+    "end": 381.94,
+    "text": " Celery."
+  },
+  {
+    "start": 381.94,
+    "end": 382.94,
+    "text": " Yeah."
+  },
+  {
+    "start": 382.94,
+    "end": 386,
+    "text": " You might come up with a new way of eating that, like taking the celery out first."
+  },
+  {
+    "start": 386,
+    "end": 387,
+    "text": " Exactly."
+  },
+  {
+    "start": 387,
+    "end": 388.8,
+    "text": " Improving the sandwich by taking out the celery."
+  },
+  {
+    "start": 388.8,
+    "end": 392.84,
+    "text": " I've already had a lot of slacking off about the sandwich, okay?"
+  },
+  {
+    "start": 392.84,
+    "end": 395.48,
+    "text": " But you might have exactly a new way to eat corn on the cob faster."
+  },
+  {
+    "start": 395.48,
+    "end": 400.72,
+    "text": " You could attach it to like a black and decker, so it spins round."
+  },
+  {
+    "start": 400.72,
+    "end": 405,
+    "text": " So those are the ones where if you're trying to get into this game and why would you?"
+  },
+  {
+    "start": 405,
+    "end": 406,
+    "text": " That's what you should do."
+  },
+  {
+    "start": 406,
+    "end": 411.88,
+    "text": " Arriving in New York City on a greyhound bus, with just a corn in your bag."
+  },
+  {
+    "start": 411.88,
+    "end": 415.5,
+    "text": " And do you think that you start by going to like breakfast restaurants that have those"
+  },
+  {
+    "start": 415.5,
+    "end": 419.3,
+    "text": " like breakfast challenges that put you on the, put your photo on the wall and then there's"
+  },
+  {
+    "start": 419.3,
+    "end": 423.06,
+    "text": " like a Tom Hanks in Elvis, like agent in a corner."
+  },
+  {
+    "start": 423.06,
+    "end": 424.06,
+    "text": " Yes."
+  },
+  {
+    "start": 424.06,
+    "end": 425.06,
+    "text": " Smoking a cigar."
+  },
+  {
+    "start": 425.06,
+    "end": 426.62,
+    "text": " I think you've got promise kid."
+  },
+  {
+    "start": 426.62,
+    "end": 429.66,
+    "text": " I went to a breakfast place the other day that had a breakfast challenge."
+  },
+  {
+    "start": 429.66,
+    "end": 433.7,
+    "text": " You had to eat this entire, this huge list of like 40 sausages, 20 eggs."
+  },
+  {
+    "start": 433.7,
+    "end": 435.74,
+    "text": " It wasn't as big as that, but it was, it looked doable."
+  },
+  {
+    "start": 435.74,
+    "end": 437.22,
+    "text": " You had 20 minutes to do it."
+  },
+  {
+    "start": 437.22,
+    "end": 440.46,
+    "text": " And if you managed it, you got the meal for free or you had to pay for the whole thing."
+  },
+  {
+    "start": 440.46,
+    "end": 442.04,
+    "text": " And there was a leaderboard, right?"
+  },
+  {
+    "start": 442.04,
+    "end": 445.4,
+    "text": " That had the current champion, Pete Docherty of the Liberties."
+  },
+  {
+    "start": 445.4,
+    "end": 446.4,
+    "text": " No."
+  },
+  {
+    "start": 446.4,
+    "end": 447.4,
+    "text": " What?"
+  },
+  {
+    "start": 447.4,
+    "end": 450.4,
+    "text": " Is that the breakfast that was in the newspapers when you had that big breakfast, wasn't it?"
+  },
+  {
+    "start": 450.4,
+    "end": 451.4,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 451.4,
+    "end": 452.4,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 452.4,
+    "end": 453.4,
+    "text": " So no one's beat it since."
+  },
+  {
+    "start": 453.4,
+    "end": 454.4,
+    "text": " No one's beat it since."
+  },
+  {
+    "start": 454.4,
+    "end": 455.4,
+    "text": " No."
+  },
+  {
+    "start": 455.4,
+    "end": 456.4,
+    "text": " Wow."
+  },
+  {
+    "start": 456.4,
+    "end": 459,
+    "text": " I once went to one of these restaurants for like burgers and stuff and my sister ordered"
+  },
+  {
+    "start": 459,
+    "end": 460.96,
+    "text": " the huge sort of challenge thing."
+  },
+  {
+    "start": 460.96,
+    "end": 462.96,
+    "text": " She's quite small, my sister."
+  },
+  {
+    "start": 462.96,
+    "end": 465.84,
+    "text": " And she was really getting through it and the waiters are all looking at her going, bloody"
+  },
+  {
+    "start": 465.84,
+    "end": 467.2,
+    "text": " hell, she's doing good."
+  },
+  {
+    "start": 467.2,
+    "end": 471.18,
+    "text": " And I just ordered one hamburger and it was really small and I ate it really quickly and"
+  },
+  {
+    "start": 471.18,
+    "end": 473.06,
+    "text": " I was like, I'm going to get another hamburger."
+  },
+  {
+    "start": 473.06,
+    "end": 474.92,
+    "text": " And then I got my sister to order it."
+  },
+  {
+    "start": 474.92,
+    "end": 481.06,
+    "text": " So she's wolfing down all this thing and she went, can I have another hamburger please?"
+  },
+  {
+    "start": 481.06,
+    "end": 483.42,
+    "text": " I read an interview with Jeff Esper."
+  },
+  {
+    "start": 483.42,
+    "end": 484.42,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 484.42,
+    "end": 486.26,
+    "text": " His favorite movie is Cool Hand Luke."
+  },
+  {
+    "start": 486.26,
+    "end": 487.82,
+    "text": " Oh, I haven't seen that."
+  },
+  {
+    "start": 487.82,
+    "end": 493.34,
+    "text": " Well, in it, there's a guy who has to eat 50 eggs in an hour and that's I think why he"
+  },
+  {
+    "start": 493.34,
+    "end": 494.34,
+    "text": " likes it."
+  },
+  {
+    "start": 494.34,
+    "end": 495.34,
+    "text": " Paul Newman."
+  },
+  {
+    "start": 495.34,
+    "end": 496.34,
+    "text": " Paul Newman, yeah."
+  },
+  {
+    "start": 496.34,
+    "end": 497.34,
+    "text": " No, hang on."
+  },
+  {
+    "start": 497.34,
+    "end": 500.64,
+    "text": " Paul Newman then opened a very successful line of mayonnaise and salad dressing."
+  },
+  {
+    "start": 500.64,
+    "end": 502.44,
+    "text": " Was that to eat with the eggs?"
+  },
+  {
+    "start": 502.44,
+    "end": 506.14,
+    "text": " It was the film viral marketing for Paul Newman Ranch."
+  },
+  {
+    "start": 506.14,
+    "end": 507.14,
+    "text": " First ever."
+  },
+  {
+    "start": 507.14,
+    "end": 508.14,
+    "text": " Yeah."
+  },
+  {
+    "start": 508.14,
+    "end": 510.62,
+    "text": " Because the fastest way to eat 50 eggs is actually whip them up on the mayo, emuls them."
+  },
+  {
+    "start": 510.62,
+    "end": 511.62,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 511.62,
+    "end": 513.12,
+    "text": " He doesn't do that in the movie."
+  },
+  {
+    "start": 513.12,
+    "end": 514.72,
+    "text": " He just numbs on them."
+  },
+  {
+    "start": 514.72,
+    "end": 521.16,
+    "text": " But in the TV ads, he would be walking saying, I like my 50 eggs, 50 eggs per bottle."
+  },
+  {
+    "start": 521.16,
+    "end": 522.16,
+    "text": " Come on."
+  },
+  {
+    "start": 522.16,
+    "end": 523.16,
+    "text": " That would be amazing."
+  },
+  {
+    "start": 523.16,
+    "end": 527.06,
+    "text": " Anyway, this interview then asked Jeff Esper what a movie of his life would be called"
+  },
+  {
+    "start": 527.06,
+    "end": 529.3,
+    "text": " and he said, Cool Hand Jeff."
+  },
+  {
+    "start": 529.3,
+    "end": 532.26,
+    "text": " So he's quite a witty guy as well."
+  },
+  {
+    "start": 532.26,
+    "end": 533.26,
+    "text": " Yeah."
+  },
+  {
+    "start": 533.26,
+    "end": 534.26,
+    "text": " Poor Jeff."
+  },
+  {
+    "start": 534.26,
+    "end": 535.66,
+    "text": " We love you, Jeff."
+  },
+  {
+    "start": 535.66,
+    "end": 541.02,
+    "text": " But then in 2023, the second and third place in this shrimp eating competition were Miki,"
+  },
+  {
+    "start": 541.02,
+    "end": 544.22,
+    "text": " Pseudo and Nick Wehry and they're married to each other."
+  },
+  {
+    "start": 544.22,
+    "end": 545.22,
+    "text": " Cool."
+  },
+  {
+    "start": 545.22,
+    "end": 546.22,
+    "text": " Did they meet?"
+  },
+  {
+    "start": 546.22,
+    "end": 549.34,
+    "text": " Oh, did they meet doing the lady in the tramp?"
+  },
+  {
+    "start": 549.34,
+    "end": 553.02,
+    "text": " But it's like an 18 foot lung sausage and they're both slowly eating towards each other."
+  },
+  {
+    "start": 553.02,
+    "end": 555.92,
+    "text": " I think they met in the competitive eating sphere."
+  },
+  {
+    "start": 555.92,
+    "end": 556.92,
+    "text": " That's adorable."
+  },
+  {
+    "start": 556.92,
+    "end": 563.96,
+    "text": " We locked eyes as we were both throwing up 100,000 marshmallows into a bucket."
+  },
+  {
+    "start": 563.96,
+    "end": 567.36,
+    "text": " And they said they have a child, the two of them, and they said the child can do anything"
+  },
+  {
+    "start": 567.36,
+    "end": 570.28,
+    "text": " they want when they grow up, except become a competitive eater."
+  },
+  {
+    "start": 570.28,
+    "end": 571.28,
+    "text": " Why?"
+  },
+  {
+    "start": 571.28,
+    "end": 574.36,
+    "text": " I think they're just in it and they don't feel like it's a good job to have."
+  },
+  {
+    "start": 574.36,
+    "end": 576.88,
+    "text": " Feels like you're worried it's going to be a Darth Vader situation where the child's"
+  },
+  {
+    "start": 576.88,
+    "end": 579.08,
+    "text": " going to knock them off."
+  },
+  {
+    "start": 579.08,
+    "end": 582.84,
+    "text": " What I want to say about Miki Pseudo is that she is, I believe the reigning champion of"
+  },
+  {
+    "start": 582.84,
+    "end": 586.58,
+    "text": " the Nathan's hot dog eating competitions, women's category."
+  },
+  {
+    "start": 586.58,
+    "end": 590.94,
+    "text": " And Nathan's, the Nathan's Coney Island hot dog eating competition is really the biggest"
+  },
+  {
+    "start": 590.94,
+    "end": 595.54,
+    "text": " competition in the competitive eating league and the one that put competitive eating on"
+  },
+  {
+    "start": 595.54,
+    "end": 596.54,
+    "text": " the map."
+  },
+  {
+    "start": 596.54,
+    "end": 597.54,
+    "text": " Major league eating."
+  },
+  {
+    "start": 597.54,
+    "end": 598.54,
+    "text": " It was born out of Nathan."
+  },
+  {
+    "start": 598.54,
+    "end": 599.54,
+    "text": " There you go."
+  },
+  {
+    "start": 599.54,
+    "end": 600.54,
+    "text": " Yeah."
+  },
+  {
+    "start": 600.54,
+    "end": 604.38,
+    "text": " But it's only been split by gender, I believe since 2011, before that women used to compete"
+  },
+  {
+    "start": 604.38,
+    "end": 608.3,
+    "text": " with men together and they used to place in the top three routinely."
+  },
+  {
+    "start": 608.3,
+    "end": 609.78,
+    "text": " And then they split them."
+  },
+  {
+    "start": 609.78,
+    "end": 612.46,
+    "text": " And I know all this from a book called Raw Dog by Jamie Loftus."
+  },
+  {
+    "start": 612.46,
+    "end": 613.46,
+    "text": " It's an incredible book."
+  },
+  {
+    "start": 613.46,
+    "end": 614.46,
+    "text": " I recommend it to everybody."
+  },
+  {
+    "start": 614.46,
+    "end": 616.8,
+    "text": " And basically they were like, it's going to be the same, it's going to be the same."
+  },
+  {
+    "start": 616.8,
+    "end": 620.04,
+    "text": " But the men's one is televised and the women's isn't."
+  },
+  {
+    "start": 620.04,
+    "end": 621.54,
+    "text": " And women get less prize money."
+  },
+  {
+    "start": 621.54,
+    "end": 622.54,
+    "text": " What?"
+  },
+  {
+    "start": 622.54,
+    "end": 623.54,
+    "text": " Oh, that's actually quite sorry."
+  },
+  {
+    "start": 623.54,
+    "end": 624.54,
+    "text": " The men's is televised and the women's isn't."
+  },
+  {
+    "start": 624.54,
+    "end": 625.54,
+    "text": " Yeah."
+  },
+  {
+    "start": 625.54,
+    "end": 626.54,
+    "text": " That surprises me."
+  },
+  {
+    "start": 626.54,
+    "end": 627.54,
+    "text": " You think it would be the other way around."
+  },
+  {
+    "start": 627.54,
+    "end": 631.9,
+    "text": " I think a lot of perverts would be like nothing more than to see a woman eating 75 pot buns."
+  },
+  {
+    "start": 631.9,
+    "end": 634.36,
+    "text": " It's either not televised or televised on like ESPN3 as opposed to ESPN1."
+  },
+  {
+    "start": 634.36,
+    "end": 635.36,
+    "text": " Like it's something like that."
+  },
+  {
+    "start": 635.36,
+    "end": 636.36,
+    "text": " It sucks."
+  },
+  {
+    "start": 636.36,
+    "end": 639.76,
+    "text": " And it is the only competitive eating which is gender split."
+  },
+  {
+    "start": 639.76,
+    "end": 640.76,
+    "text": " It's sausage eating."
+  },
+  {
+    "start": 640.76,
+    "end": 641.76,
+    "text": " Right."
+  },
+  {
+    "start": 641.76,
+    "end": 642.76,
+    "text": " It's the only one."
+  },
+  {
+    "start": 642.76,
+    "end": 643.76,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 643.76,
+    "end": 644.76,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 644.76,
+    "end": 645.76,
+    "text": " All the others are mixed."
+  },
+  {
+    "start": 645.76,
+    "end": 646.76,
+    "text": " Oh, I was like, is that an innuender?"
+  },
+  {
+    "start": 646.76,
+    "end": 647.76,
+    "text": " You're like, no."
+  },
+  {
+    "start": 647.76,
+    "end": 648.76,
+    "text": " That's up to the audience to make the innuender there."
+  },
+  {
+    "start": 648.76,
+    "end": 654.42,
+    "text": " I'm just trying to picture you pitching why it should be back on TV and really isolating"
+  },
+  {
+    "start": 654.42,
+    "end": 655.42,
+    "text": " the pervert market."
+  },
+  {
+    "start": 655.42,
+    "end": 656.42,
+    "text": " Yeah."
+  },
+  {
+    "start": 656.42,
+    "end": 657.42,
+    "text": " I was thinking."
+  },
+  {
+    "start": 657.42,
+    "end": 658.42,
+    "text": " They got big bucks."
+  },
+  {
+    "start": 658.42,
+    "end": 662.22,
+    "text": " I would do an incredibly subtle pitch, which made it very, very clear who's tuning in."
+  },
+  {
+    "start": 662.22,
+    "end": 663.22,
+    "text": " Joey Chestnut."
+  },
+  {
+    "start": 663.22,
+    "end": 664.22,
+    "text": " Yeah."
+  },
+  {
+    "start": 664.22,
+    "end": 668.06,
+    "text": " So he's managed 76 hot dogs in one go."
+  },
+  {
+    "start": 668.06,
+    "end": 671.6,
+    "text": " And I think, I think we may have even mentioned before the thing to do is to dip the bun in"
+  },
+  {
+    "start": 671.6,
+    "end": 674.52,
+    "text": " the water so it gets all slides down, slides down."
+  },
+  {
+    "start": 674.52,
+    "end": 676.8,
+    "text": " But I love this, the 1984 competition."
+  },
+  {
+    "start": 676.8,
+    "end": 677.8,
+    "text": " I think this was Nathan's."
+  },
+  {
+    "start": 677.8,
+    "end": 678.8,
+    "text": " I'm not sure."
+  },
+  {
+    "start": 678.8,
+    "end": 679.8,
+    "text": " It might have been a different league one."
+  },
+  {
+    "start": 679.8,
+    "end": 680.8,
+    "text": " It was one by someone."
+  },
+  {
+    "start": 680.8,
+    "end": 683.96,
+    "text": " She was a 17 year old West German judo."
+  },
+  {
+    "start": 683.96,
+    "end": 684.96,
+    "text": " What do you do?"
+  },
+  {
+    "start": 684.96,
+    "end": 685.96,
+    "text": " A judo artist?"
+  },
+  {
+    "start": 685.96,
+    "end": 686.96,
+    "text": " Judoka."
+  },
+  {
+    "start": 686.96,
+    "end": 689.56,
+    "text": " And she had never had a hot dog before the competition."
+  },
+  {
+    "start": 689.56,
+    "end": 690.56,
+    "text": " No."
+  },
+  {
+    "start": 690.56,
+    "end": 691.56,
+    "text": " But then that's that."
+  },
+  {
+    "start": 691.56,
+    "end": 692.56,
+    "text": " Incredible."
+  },
+  {
+    "start": 692.56,
+    "end": 693.56,
+    "text": " And you're like, oh my God, this stuff is incredible."
+  },
+  {
+    "start": 693.56,
+    "end": 694.56,
+    "text": " I could eat a million."
+  },
+  {
+    "start": 694.56,
+    "end": 695.56,
+    "text": " Yeah."
+  },
+  {
+    "start": 695.56,
+    "end": 698.86,
+    "text": " And that was incredible."
+  },
+  {
+    "start": 698.86,
+    "end": 700.9,
+    "text": " Was it like she looked at it and she'd never seen one."
+  },
+  {
+    "start": 700.9,
+    "end": 702.14,
+    "text": " So she didn't know how to eat it."
+  },
+  {
+    "start": 702.14,
+    "end": 704.7,
+    "text": " And she was like, maybe I just have 10 of them in my mouth."
+  },
+  {
+    "start": 704.7,
+    "end": 705.7,
+    "text": " She innovated."
+  },
+  {
+    "start": 705.7,
+    "end": 710.8,
+    "text": " Where did they find a German who's never had a salsa?"
+  },
+  {
+    "start": 710.8,
+    "end": 719.02,
+    "text": " Apparently Chestnut, Joey Chestnut was saying, once you have that many hot dogs, you immediately"
+  },
+  {
+    "start": 719.02,
+    "end": 724.38,
+    "text": " need the toilet and the problem, they don't really digest fully."
+  },
+  {
+    "start": 724.38,
+    "end": 728.06,
+    "text": " So you kind of shit hot dogs out."
+  },
+  {
+    "start": 728.06,
+    "end": 729.06,
+    "text": " Clean out."
+  },
+  {
+    "start": 729.06,
+    "end": 730.06,
+    "text": " Clean out."
+  },
+  {
+    "start": 730.06,
+    "end": 731.06,
+    "text": " Come on."
+  },
+  {
+    "start": 731.06,
+    "end": 732.06,
+    "text": " That's what he said."
+  },
+  {
+    "start": 732.06,
+    "end": 733.06,
+    "text": " How can you tell the difference, realistically?"
+  },
+  {
+    "start": 733.06,
+    "end": 735.56,
+    "text": " I think when you feel a solid hot dog coming at you for 35 times."
+  },
+  {
+    "start": 735.56,
+    "end": 737.8,
+    "text": " The fun also comes out of that stuff."
+  },
+  {
+    "start": 737.8,
+    "end": 739.64,
+    "text": " His shit is inside the bun."
+  },
+  {
+    "start": 739.64,
+    "end": 745.32,
+    "text": " Let me tell you a little something about corn."
+  },
+  {
+    "start": 745.32,
+    "end": 750.92,
+    "text": " Also I'm basically the Nathan's hot dog eating contest was put on the map in the mid-2000s"
+  },
+  {
+    "start": 750.92,
+    "end": 756.58,
+    "text": " by a Japanese competitor called Tekeru Kobayashi, Tekeru Tsunami Kobayashi."
+  },
+  {
+    "start": 756.58,
+    "end": 759.44,
+    "text": " And then he basically made it super popular in America."
+  },
+  {
+    "start": 759.44,
+    "end": 763.76,
+    "text": " And then Joey Chestnut was introduced to him as like the American down home alternative."
+  },
+  {
+    "start": 763.76,
+    "end": 768.38,
+    "text": " And so it was again, it's the Nathan's hot dog eating competition is a story of sexism"
+  },
+  {
+    "start": 768.38,
+    "end": 771.32,
+    "text": " and racism and hot dogs."
+  },
+  {
+    "start": 771.32,
+    "end": 775.22,
+    "text": " And the advertising, they mostly stress the hot dog part of it, don't they?"
+  },
+  {
+    "start": 775.22,
+    "end": 776.22,
+    "text": " Fine friend."
+  },
+  {
+    "start": 776.22,
+    "end": 777.22,
+    "text": " Fine friend."
+  },
+  {
+    "start": 777.22,
+    "end": 781.36,
+    "text": " And then you get perverts into that fantastic strap line."
+  },
+  {
+    "start": 781.36,
+    "end": 783.02,
+    "text": " Do you know what chipmunking is?"
+  },
+  {
+    "start": 783.02,
+    "end": 784.18,
+    "text": " You might have seen this in your..."
+  },
+  {
+    "start": 784.18,
+    "end": 788.64,
+    "text": " So I would think it's like, oh, you know I hadn't thought of it and then Dan just did"
+  },
+  {
+    "start": 788.64,
+    "end": 789.64,
+    "text": " an action."
+  },
+  {
+    "start": 789.64,
+    "end": 790.64,
+    "text": " I did an action."
+  },
+  {
+    "start": 790.64,
+    "end": 791.64,
+    "text": " Yeah."
+  },
+  {
+    "start": 791.64,
+    "end": 792.64,
+    "text": " It's storing in your cheeks."
+  },
+  {
+    "start": 792.64,
+    "end": 793.64,
+    "text": " That's it."
+  },
+  {
+    "start": 793.64,
+    "end": 794.64,
+    "text": " That's it."
+  },
+  {
+    "start": 794.64,
+    "end": 795.64,
+    "text": " Now."
+  },
+  {
+    "start": 795.64,
+    "end": 796.64,
+    "text": " Were you going to say it was like getting naked at dad's seat?"
+  },
+  {
+    "start": 796.64,
+    "end": 802.18,
+    "text": " I was just thinking speaking in a very high pitch voice."
+  },
+  {
+    "start": 802.18,
+    "end": 807.8,
+    "text": " As you might expect, given what we're talking about, it's absolutely a dance thing."
+  },
+  {
+    "start": 807.8,
+    "end": 811.64,
+    "text": " The press conferences would be great though in the lead up order."
+  },
+  {
+    "start": 811.64,
+    "end": 812.84,
+    "text": " It has to be in your mouth, right?"
+  },
+  {
+    "start": 812.84,
+    "end": 814.48,
+    "text": " The food before the count ends, right?"
+  },
+  {
+    "start": 814.48,
+    "end": 817.9,
+    "text": " So if you're counting down, you know, you've got 10 minutes to eat this many, whatever."
+  },
+  {
+    "start": 817.9,
+    "end": 821.44,
+    "text": " The food has to be in your mouth and then you get a 30 seconds to swallow it."
+  },
+  {
+    "start": 821.44,
+    "end": 826.44,
+    "text": " So often the photo finish bit is just, right, just get all of this in your mouth."
+  },
+  {
+    "start": 826.44,
+    "end": 827.44,
+    "text": " Yeah."
+  },
+  {
+    "start": 827.44,
+    "end": 831.08,
+    "text": " As long as you get 30 seconds after the clock stops, they used to be all you had to do was"
+  },
+  {
+    "start": 831.08,
+    "end": 832.94,
+    "text": " swallow it in a timely manner."
+  },
+  {
+    "start": 832.94,
+    "end": 833.94,
+    "text": " That's all it said."
+  },
+  {
+    "start": 833.94,
+    "end": 834.94,
+    "text": " Right."
+  },
+  {
+    "start": 834.94,
+    "end": 836.5,
+    "text": " And they didn't say it was exactly 30 seconds."
+  },
+  {
+    "start": 836.5,
+    "end": 840.94,
+    "text": " And then there was a guy called Crazy Legs Conti who lost a competition because he couldn't"
+  },
+  {
+    "start": 840.94,
+    "end": 844.34,
+    "text": " eat it in a timely manner and they thought we're going to have to make it a proper time."
+  },
+  {
+    "start": 844.34,
+    "end": 845.34,
+    "text": " I think that's right."
+  },
+  {
+    "start": 845.34,
+    "end": 848.96,
+    "text": " It's like I've started to finish or the bell, the quiz bell goes."
+  },
+  {
+    "start": 848.96,
+    "end": 854.22,
+    "text": " This makes sense of the final few seconds of Jeff Esper's practice for the prom cocktail"
+  },
+  {
+    "start": 854.22,
+    "end": 855.62,
+    "text": " because he goes over eight minutes."
+  },
+  {
+    "start": 855.62,
+    "end": 860.02,
+    "text": " He stops the clock and he has a mouth that is absolutely and I'm going to spit it out"
+  },
+  {
+    "start": 860.02,
+    "end": 862,
+    "text": " and he's, so that's what it is."
+  },
+  {
+    "start": 862,
+    "end": 863.64,
+    "text": " He's using his 30 seconds."
+  },
+  {
+    "start": 863.64,
+    "end": 864.64,
+    "text": " He's chipmunking."
+  },
+  {
+    "start": 864.64,
+    "end": 865.64,
+    "text": " Clever."
+  },
+  {
+    "start": 865.64,
+    "end": 866.64,
+    "text": " I'm very clever."
+  },
+  {
+    "start": 866.64,
+    "end": 867.64,
+    "text": " Crazy Legs."
+  },
+  {
+    "start": 867.64,
+    "end": 868.64,
+    "text": " Just probably mentioned him, James."
+  },
+  {
+    "start": 868.64,
+    "end": 872.44,
+    "text": " He, I read an article, it's his legal name, Crazy Legs Conti."
+  },
+  {
+    "start": 872.44,
+    "end": 877.24,
+    "text": " He compares, I'm quoting here from the article, compares professional eaters to musicians."
+  },
+  {
+    "start": 877.24,
+    "end": 880.96,
+    "text": " He says the way eaters move and shake is an effort to get breath out of the esophagus,"
+  },
+  {
+    "start": 880.96,
+    "end": 884.48,
+    "text": " stomach and lower intestine as trumpeters would with their instrument."
+  },
+  {
+    "start": 884.48,
+    "end": 885.48,
+    "text": " That's interesting."
+  },
+  {
+    "start": 885.48,
+    "end": 888.92,
+    "text": " You know, circular breathing where you can play like a didgeridoo without breathing because"
+  },
+  {
+    "start": 888.92,
+    "end": 890.98,
+    "text": " you breathe through your nose and out of your mouth."
+  },
+  {
+    "start": 890.98,
+    "end": 891.98,
+    "text": " Do you reckon they tried that?"
+  },
+  {
+    "start": 891.98,
+    "end": 893.22,
+    "text": " That could be a new innovation."
+  },
+  {
+    "start": 893.22,
+    "end": 894.22,
+    "text": " Yeah."
+  },
+  {
+    "start": 894.22,
+    "end": 895.22,
+    "text": " Is the breath sausage in this?"
+  },
+  {
+    "start": 895.22,
+    "end": 899.32,
+    "text": " I mean, you shove as much sausage in your mouth while breathing through your nose is"
+  },
+  {
+    "start": 899.32,
+    "end": 900.32,
+    "text": " what I should say."
+  },
+  {
+    "start": 900.32,
+    "end": 901.32,
+    "text": " Maybe."
+  },
+  {
+    "start": 901.32,
+    "end": 902.32,
+    "text": " Yeah."
+  },
+  {
+    "start": 902.32,
+    "end": 903.32,
+    "text": " Yeah."
+  },
+  {
+    "start": 903.32,
+    "end": 904.32,
+    "text": " Right."
+  },
+  {
+    "start": 904.32,
+    "end": 906.32,
+    "text": " But like maybe the sausage in the nose is the Fosbury flop moment that no hero has"
+  },
+  {
+    "start": 906.32,
+    "end": 907.32,
+    "text": " managed to achieve yet."
+  },
+  {
+    "start": 907.32,
+    "end": 908.32,
+    "text": " Oh, right."
+  },
+  {
+    "start": 908.32,
+    "end": 909.32,
+    "text": " You found two more entry points."
+  },
+  {
+    "start": 909.32,
+    "end": 910.32,
+    "text": " Yeah."
+  },
+  {
+    "start": 910.32,
+    "end": 911.32,
+    "text": " Right."
+  },
+  {
+    "start": 911.32,
+    "end": 912.32,
+    "text": " Interesting."
+  },
+  {
+    "start": 912.32,
+    "end": 913.32,
+    "text": " The perverts."
+  },
+  {
+    "start": 913.32,
+    "end": 920.32,
+    "text": " That's it."
+  },
+  {
+    "start": 920.32,
+    "end": 921.32,
+    "text": " They're tuning in."
+  },
+  {
+    "start": 921.32,
+    "end": 922.32,
+    "text": " Okay."
+  },
+  {
+    "start": 922.32,
+    "end": 923.32,
+    "text": " It is time for fact number two."
+  },
+  {
+    "start": 923.32,
+    "end": 924.32,
+    "text": " And that is James."
+  },
+  {
+    "start": 924.32,
+    "end": 925.32,
+    "text": " Okay."
+  },
+  {
+    "start": 925.32,
+    "end": 928.92,
+    "text": " My fact this week is in the Archie language of southern Russia, a single verb can have"
+  },
+  {
+    "start": 928.92,
+    "end": 935.04,
+    "text": " one million, five hundred and two thousand, eight hundred and thirty nine possible forms."
+  },
+  {
+    "start": 935.04,
+    "end": 937.56,
+    "text": " Is that normal for most languages or?"
+  },
+  {
+    "start": 937.56,
+    "end": 938.56,
+    "text": " It is not normal."
+  },
+  {
+    "start": 938.56,
+    "end": 940.88,
+    "text": " How I would say what's a close second."
+  },
+  {
+    "start": 940.88,
+    "end": 944.16,
+    "text": " So if you think that in English, like to podcast, right?"
+  },
+  {
+    "start": 944.16,
+    "end": 951.96,
+    "text": " So you podcast, she podcasts, I was podcasting, I podcasted and there's not much else because"
+  },
+  {
+    "start": 951.96,
+    "end": 952.96,
+    "text": " they're all just."
+  },
+  {
+    "start": 952.96,
+    "end": 953.96,
+    "text": " I would have been podcasting."
+  },
+  {
+    "start": 953.96,
+    "end": 954.96,
+    "text": " Yeah."
+  },
+  {
+    "start": 954.96,
+    "end": 955.96,
+    "text": " I guess."
+  },
+  {
+    "start": 955.96,
+    "end": 956.96,
+    "text": " But then that's kind of the same ending."
+  },
+  {
+    "start": 956.96,
+    "end": 957.96,
+    "text": " No, this is tenses as well."
+  },
+  {
+    "start": 957.96,
+    "end": 958.96,
+    "text": " Okay."
+  },
+  {
+    "start": 958.96,
+    "end": 963.2,
+    "text": " So in Russian, obviously you would have I, you, she, they, all that kind of stuff."
+  },
+  {
+    "start": 963.2,
+    "end": 967.8,
+    "text": " But also you have the past tense, which would be different for masculine and feminine."
+  },
+  {
+    "start": 967.8,
+    "end": 969.64,
+    "text": " You would have the future tense."
+  },
+  {
+    "start": 969.64,
+    "end": 972.72,
+    "text": " You have gerunds, you have participle, you have all sorts of stuff in Russian, but it's"
+  },
+  {
+    "start": 972.72,
+    "end": 975.24,
+    "text": " manageable because I've studied it and it's manageable."
+  },
+  {
+    "start": 975.24,
+    "end": 978.32,
+    "text": " But in Archie, it just goes crazy."
+  },
+  {
+    "start": 978.32,
+    "end": 982.88,
+    "text": " You have, as well as masculine and feminine, you have different terms for domestic animals,"
+  },
+  {
+    "start": 982.88,
+    "end": 986.72,
+    "text": " for wild animals, for young animals, old animals."
+  },
+  {
+    "start": 986.72,
+    "end": 991.64,
+    "text": " So if you say the pig podcasted, you would need to know if it was a wild pig or a domestic"
+  },
+  {
+    "start": 991.64,
+    "end": 992.64,
+    "text": " pig to know how."
+  },
+  {
+    "start": 992.64,
+    "end": 996.36,
+    "text": " Which was always my number one."
+  },
+  {
+    "start": 996.36,
+    "end": 1000.16,
+    "text": " You have a different, if it's insects, it's a different ending."
+  },
+  {
+    "start": 1000.16,
+    "end": 1005.52,
+    "text": " If it's mythical beings, musical instruments, serials, abstract concepts, they all have"
+  },
+  {
+    "start": 1005.52,
+    "end": 1006.52,
+    "text": " different endings."
+  },
+  {
+    "start": 1006.52,
+    "end": 1007.52,
+    "text": " Everybody's got a podcast."
+  },
+  {
+    "start": 1007.52,
+    "end": 1015.6,
+    "text": " How does anyone learn it or get anything done?"
+  },
+  {
+    "start": 1015.6,
+    "end": 1016.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 1016.6,
+    "end": 1019.84,
+    "text": " I think you just, most of it, you just naturally pick up these kinds of things if you live"
+  },
+  {
+    "start": 1019.84,
+    "end": 1020.84,
+    "text": " in it."
+  },
+  {
+    "start": 1020.84,
+    "end": 1024.04,
+    "text": " Because before you get to that word, you'd have to stop and investigate."
+  },
+  {
+    "start": 1024.04,
+    "end": 1025.04,
+    "text": " All right."
+  },
+  {
+    "start": 1025.04,
+    "end": 1028.08,
+    "text": " So, wild or domestic, a live or dead."
+  },
+  {
+    "start": 1028.08,
+    "end": 1035,
+    "text": " But also, like the number of things, so if it's one thing or two things or many things,"
+  },
+  {
+    "start": 1035,
+    "end": 1036,
+    "text": " it's different."
+  },
+  {
+    "start": 1036,
+    "end": 1040.28,
+    "text": " Imagine solving a crime based on a phone call because you know that the verb was referring"
+  },
+  {
+    "start": 1040.28,
+    "end": 1043.12,
+    "text": " to a thing and you can investigate what that thing was."
+  },
+  {
+    "start": 1043.12,
+    "end": 1051.92,
+    "text": " We know that they have a wild insect who has a podcast and also it's different depending"
+  },
+  {
+    "start": 1051.92,
+    "end": 1053.56,
+    "text": " on how you know it's being done."
+  },
+  {
+    "start": 1053.56,
+    "end": 1055.2,
+    "text": " So if you know it's happened, it's different."
+  },
+  {
+    "start": 1055.2,
+    "end": 1057.68,
+    "text": " If you're speculating it's happened, it's different."
+  },
+  {
+    "start": 1057.68,
+    "end": 1060.4,
+    "text": " If you're admiring something that's happening, it's different."
+  },
+  {
+    "start": 1060.4,
+    "end": 1062.36,
+    "text": " If something's forbidden, it's different."
+  },
+  {
+    "start": 1062.36,
+    "end": 1066.12,
+    "text": " And you can mix and match all of these different things to get to 1.5 million."
+  },
+  {
+    "start": 1066.12,
+    "end": 1072.56,
+    "text": " I admired the Forbidden Tame Young Locusts podcast, podcasting, whatever."
+  },
+  {
+    "start": 1072.56,
+    "end": 1073.56,
+    "text": " But you think about that."
+  },
+  {
+    "start": 1073.56,
+    "end": 1075.56,
+    "text": " You had to use so many words to say that, right?"
+  },
+  {
+    "start": 1075.56,
+    "end": 1076.56,
+    "text": " Yeah."
+  },
+  {
+    "start": 1076.56,
+    "end": 1079.2,
+    "text": " But they would be able to say it in one word because they would know all of the endings."
+  },
+  {
+    "start": 1079.2,
+    "end": 1081.72,
+    "text": " They'd be like, well, that's implied by the way you say it."
+  },
+  {
+    "start": 1081.72,
+    "end": 1083.96,
+    "text": " It just stays the same, like all of that stuff."
+  },
+  {
+    "start": 1083.96,
+    "end": 1088.2,
+    "text": " You could just say the Locust podcast is so you just a verb and a noun and you would get"
+  },
+  {
+    "start": 1088.2,
+    "end": 1090.56,
+    "text": " all of that information by all the different endings."
+  },
+  {
+    "start": 1090.56,
+    "end": 1091.96,
+    "text": " It's like anti-German."
+  },
+  {
+    "start": 1091.96,
+    "end": 1092.96,
+    "text": " It's the most efficient."
+  },
+  {
+    "start": 1092.96,
+    "end": 1093.96,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1093.96,
+    "end": 1097.56,
+    "text": " As a result, has this language become hugely popular and spoken by tens of millions?"
+  },
+  {
+    "start": 1097.56,
+    "end": 1103.6,
+    "text": " It's spoken by very, very few people in Dagestan in Russia and it's about 20 kilometers away"
+  },
+  {
+    "start": 1103.6,
+    "end": 1106.64,
+    "text": " from the village of Sofkra Adnaya."
+  },
+  {
+    "start": 1106.64,
+    "end": 1107.8,
+    "text": " Who do you remember?"
+  },
+  {
+    "start": 1107.8,
+    "end": 1110.36,
+    "text": " It was the place where everyone knows how to type."
+  },
+  {
+    "start": 1110.36,
+    "end": 1111.36,
+    "text": " Oh, no way."
+  },
+  {
+    "start": 1111.36,
+    "end": 1112.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 1112.36,
+    "end": 1114.8,
+    "text": " There's a village in Russia where everyone knows how to type rope and it's just over"
+  },
+  {
+    "start": 1114.8,
+    "end": 1116.24,
+    "text": " the mountain from there."
+  },
+  {
+    "start": 1116.24,
+    "end": 1119.24,
+    "text": " What an amazing pocket of the planet."
+  },
+  {
+    "start": 1119.24,
+    "end": 1120.24,
+    "text": " Isn't that amazing?"
+  },
+  {
+    "start": 1120.24,
+    "end": 1121.24,
+    "text": " This is incredible."
+  },
+  {
+    "start": 1121.24,
+    "end": 1124.6,
+    "text": " And I should also say that Andy, once you've learned all of these one million different"
+  },
+  {
+    "start": 1124.6,
+    "end": 1130.08,
+    "text": " forms of standard verbs, that helps you with about 170 of the most common verbs, but there"
+  },
+  {
+    "start": 1130.08,
+    "end": 1134.24,
+    "text": " are more than a thousand exceptions, which you then have to learn on top of that."
+  },
+  {
+    "start": 1134.24,
+    "end": 1139.2,
+    "text": " Oh, and the language can be written in Latin script or in Cyrillic and in either way, the"
+  },
+  {
+    "start": 1139.2,
+    "end": 1141.56,
+    "text": " language has got 74 letters."
+  },
+  {
+    "start": 1141.56,
+    "end": 1144.64,
+    "text": " So you need to learn 148 letters."
+  },
+  {
+    "start": 1144.64,
+    "end": 1148.76,
+    "text": " I was going to ask how many letters can there be for there to be this many endings, because"
+  },
+  {
+    "start": 1148.76,
+    "end": 1150.76,
+    "text": " you would just run out of letters for even combination."
+  },
+  {
+    "start": 1150.76,
+    "end": 1153.76,
+    "text": " Yeah, this is why I failed my Archie GCSE oral."
+  },
+  {
+    "start": 1153.76,
+    "end": 1154.76,
+    "text": " That's why."
+  },
+  {
+    "start": 1154.76,
+    "end": 1155.76,
+    "text": " I'm so annoyed."
+  },
+  {
+    "start": 1155.76,
+    "end": 1156.76,
+    "text": " So yeah."
+  },
+  {
+    "start": 1156.76,
+    "end": 1160.08,
+    "text": " It's just a very, very complicated language and it exists."
+  },
+  {
+    "start": 1160.08,
+    "end": 1162.28,
+    "text": " Have you heard of the Foreign Service Institute?"
+  },
+  {
+    "start": 1162.28,
+    "end": 1163.8,
+    "text": " I think they're an American outfit."
+  },
+  {
+    "start": 1163.8,
+    "end": 1164.8,
+    "text": " Yeah."
+  },
+  {
+    "start": 1164.8,
+    "end": 1167.08,
+    "text": " Basically, they sort of rate languages on how hard they are to learn."
+  },
+  {
+    "start": 1167.08,
+    "end": 1168.08,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1168.08,
+    "end": 1171.16,
+    "text": " And for English speakers, sorry, native English speakers."
+  },
+  {
+    "start": 1171.16,
+    "end": 1177.72,
+    "text": " So like French is category one, you know, like romance languages, because English borrows"
+  },
+  {
+    "start": 1177.72,
+    "end": 1178.72,
+    "text": " a lot from that."
+  },
+  {
+    "start": 1178.72,
+    "end": 1179.72,
+    "text": " We derive from that."
+  },
+  {
+    "start": 1179.72,
+    "end": 1180.72,
+    "text": " Yeah."
+  },
+  {
+    "start": 1180.72,
+    "end": 1181.72,
+    "text": " And you already know how to learn."
+  },
+  {
+    "start": 1181.72,
+    "end": 1182.72,
+    "text": " That's easy for English people to learn."
+  },
+  {
+    "start": 1182.72,
+    "end": 1183.72,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1183.72,
+    "end": 1186.8,
+    "text": " And then category three is Indian, various Indian languages in Swahili."
+  },
+  {
+    "start": 1186.8,
+    "end": 1188.64,
+    "text": " Category four, it takes 44 weeks to learn."
+  },
+  {
+    "start": 1188.64,
+    "end": 1192.04,
+    "text": " It's sort of going up in the number of weeks, so Russian, Hindi, Tamil."
+  },
+  {
+    "start": 1192.04,
+    "end": 1195.64,
+    "text": " How many weeks is it supposed to have taken me to learn Russian?"
+  },
+  {
+    "start": 1195.64,
+    "end": 1196.64,
+    "text": " Don't worry about it."
+  },
+  {
+    "start": 1196.64,
+    "end": 1199.2,
+    "text": " Well, it's taken me five years and I'm intermediate."
+  },
+  {
+    "start": 1199.2,
+    "end": 1203.16,
+    "text": " Yeah, that's about right."
+  },
+  {
+    "start": 1203.16,
+    "end": 1207.36,
+    "text": " Category five is Mandarin, Cantonese, Japanese, Korean, Arabic."
+  },
+  {
+    "start": 1207.36,
+    "end": 1209.16,
+    "text": " Category two only contains German."
+  },
+  {
+    "start": 1209.16,
+    "end": 1210.16,
+    "text": " Oh."
+  },
+  {
+    "start": 1210.16,
+    "end": 1212.36,
+    "text": " Wait, but English is a Germanic language."
+  },
+  {
+    "start": 1212.36,
+    "end": 1213.36,
+    "text": " I know."
+  },
+  {
+    "start": 1213.36,
+    "end": 1214.36,
+    "text": " What?"
+  },
+  {
+    "start": 1214.36,
+    "end": 1217.04,
+    "text": " I think they decided it's a bit harder than French, but it's the only one."
+  },
+  {
+    "start": 1217.04,
+    "end": 1218.8,
+    "text": " It's just there on its own in their categories."
+  },
+  {
+    "start": 1218.8,
+    "end": 1222.14,
+    "text": " Actually, German does have quite a lot of conjugations, doesn't it, because you speak"
+  },
+  {
+    "start": 1222.14,
+    "end": 1223.14,
+    "text": " German a little bit."
+  },
+  {
+    "start": 1223.14,
+    "end": 1224.24,
+    "text": " It's not four basic cases."
+  },
+  {
+    "start": 1224.24,
+    "end": 1225.24,
+    "text": " Yeah."
+  },
+  {
+    "start": 1225.24,
+    "end": 1226.24,
+    "text": " It's not."
+  },
+  {
+    "start": 1226.24,
+    "end": 1227.24,
+    "text": " It's all right."
+  },
+  {
+    "start": 1227.24,
+    "end": 1230.64,
+    "text": " It's a bit, it's a bit, because like French and Spanish and Italian, they're all kind"
+  },
+  {
+    "start": 1230.64,
+    "end": 1234.86,
+    "text": " of debased Latin, if you like, because they just cut out all the complicated endings and"
+  },
+  {
+    "start": 1234.86,
+    "end": 1235.86,
+    "text": " you know."
+  },
+  {
+    "start": 1235.86,
+    "end": 1237.5,
+    "text": " And it's because as Latin spread."
+  },
+  {
+    "start": 1237.5,
+    "end": 1241.08,
+    "text": " Yeah, I guess it's like they're like how to speak it correctly, because I speak fluent"
+  },
+  {
+    "start": 1241.08,
+    "end": 1243.54,
+    "text": " German, but I can't conjugate shit."
+  },
+  {
+    "start": 1243.54,
+    "end": 1245.7,
+    "text": " I'm just, I'm always like, you know what I'm saying."
+  },
+  {
+    "start": 1245.7,
+    "end": 1246.94,
+    "text": " But do you get it right?"
+  },
+  {
+    "start": 1246.94,
+    "end": 1247.94,
+    "text": " Do you get it right?"
+  },
+  {
+    "start": 1247.94,
+    "end": 1248.94,
+    "text": " Even though you?"
+  },
+  {
+    "start": 1248.94,
+    "end": 1252.22,
+    "text": " Like sometimes I'll be like, I'll know a noun, but I won't remember its article."
+  },
+  {
+    "start": 1252.22,
+    "end": 1254.88,
+    "text": " I'll like gender it just on a guess alone."
+  },
+  {
+    "start": 1254.88,
+    "end": 1259.16,
+    "text": " And I'm sure that I'm sure whoever I'm speaking to will kind of guess, but I always get worried"
+  },
+  {
+    "start": 1259.16,
+    "end": 1260.16,
+    "text": " about that."
+  },
+  {
+    "start": 1260.16,
+    "end": 1262.72,
+    "text": " Because if I get the gender of a noun wrong, though, like they won't know I'm, if I'm"
+  },
+  {
+    "start": 1262.72,
+    "end": 1263.72,
+    "text": " saying dash table, whatever."
+  },
+  {
+    "start": 1263.72,
+    "end": 1264.72,
+    "text": " I know it's not table."
+  },
+  {
+    "start": 1264.72,
+    "end": 1269.32,
+    "text": " I can't remember the table either, but like I think and you're just like, that's just"
+  },
+  {
+    "start": 1269.32,
+    "end": 1270.32,
+    "text": " dirty."
+  },
+  {
+    "start": 1270.32,
+    "end": 1271.32,
+    "text": " It's not doing changes."
+  },
+  {
+    "start": 1271.32,
+    "end": 1272.32,
+    "text": " But it's a dish."
+  },
+  {
+    "start": 1272.32,
+    "end": 1273.32,
+    "text": " So it's fine."
+  },
+  {
+    "start": 1273.32,
+    "end": 1274.32,
+    "text": " Relax."
+  },
+  {
+    "start": 1274.32,
+    "end": 1281.16,
+    "text": " Because I read an article where they interviewed 56 native French speakers and they asked them"
+  },
+  {
+    "start": 1281.16,
+    "end": 1284.3,
+    "text": " to assign the gender of 93 masculine words."
+  },
+  {
+    "start": 1284.3,
+    "end": 1290.38,
+    "text": " And they agreed on only 17 of them to assign the gender of 50 feminine words and they agreed"
+  },
+  {
+    "start": 1290.38,
+    "end": 1291.38,
+    "text": " on only one."
+  },
+  {
+    "start": 1291.38,
+    "end": 1292.38,
+    "text": " Wow."
+  },
+  {
+    "start": 1292.38,
+    "end": 1293.38,
+    "text": " It's just vibes."
+  },
+  {
+    "start": 1293.38,
+    "end": 1295.76,
+    "text": " I love that."
+  },
+  {
+    "start": 1295.76,
+    "end": 1299.58,
+    "text": " This is you fixed German basically for anyone struggling."
+  },
+  {
+    "start": 1299.58,
+    "end": 1304.34,
+    "text": " I think that's a good thing in all languages really is that if you just try people will"
+  },
+  {
+    "start": 1304.34,
+    "end": 1305.34,
+    "text": " accept it."
+  },
+  {
+    "start": 1305.34,
+    "end": 1306.34,
+    "text": " Yeah, that's true."
+  },
+  {
+    "start": 1306.34,
+    "end": 1308.82,
+    "text": " Russian language has three, three genders for any noun."
+  },
+  {
+    "start": 1308.82,
+    "end": 1311.1,
+    "text": " But if you get it wrong, I'll still know what you're talking about."
+  },
+  {
+    "start": 1311.1,
+    "end": 1312.1,
+    "text": " Okay."
+  },
+  {
+    "start": 1312.1,
+    "end": 1316.68,
+    "text": " Sorry, maybe I'm making a lot of German and Russian people really."
+  },
+  {
+    "start": 1316.68,
+    "end": 1318.68,
+    "text": " Where is Archie on the list?"
+  },
+  {
+    "start": 1318.68,
+    "end": 1319.92,
+    "text": " Archie is not on this list."
+  },
+  {
+    "start": 1319.92,
+    "end": 1321.92,
+    "text": " I think there's a secret category."
+  },
+  {
+    "start": 1321.92,
+    "end": 1327.2,
+    "text": " But Russian is difficult because the stress can matter right in words and that can make"
+  },
+  {
+    "start": 1327.2,
+    "end": 1328.2,
+    "text": " a big difference."
+  },
+  {
+    "start": 1328.2,
+    "end": 1332.6,
+    "text": " So you can see it written down and you wouldn't know necessarily the difference between say"
+  },
+  {
+    "start": 1332.6,
+    "end": 1339.76,
+    "text": " Muka and Muka where one of them means flower and the other one means torture."
+  },
+  {
+    "start": 1339.76,
+    "end": 1341.9,
+    "text": " So if you just see that written down and they don't have the stress-"
+  },
+  {
+    "start": 1341.9,
+    "end": 1344.9,
+    "text": " Well, if you have celiac."
+  },
+  {
+    "start": 1344.9,
+    "end": 1345.9,
+    "text": " That kind of flower."
+  },
+  {
+    "start": 1345.9,
+    "end": 1346.9,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 1346.9,
+    "end": 1347.9,
+    "text": " I was thinking that kind of flower."
+  },
+  {
+    "start": 1347.9,
+    "end": 1348.9,
+    "text": " Again."
+  },
+  {
+    "start": 1348.9,
+    "end": 1349.9,
+    "text": " Oh my God."
+  },
+  {
+    "start": 1349.9,
+    "end": 1350.9,
+    "text": " Sorry."
+  },
+  {
+    "start": 1350.9,
+    "end": 1351.9,
+    "text": " Oh, flower, flower."
+  },
+  {
+    "start": 1351.9,
+    "end": 1352.9,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 1352.9,
+    "end": 1353.9,
+    "text": " I don't think, is there any way of telling verbally flower?"
+  },
+  {
+    "start": 1353.9,
+    "end": 1355.58,
+    "text": " No, context only, I think."
+  },
+  {
+    "start": 1355.58,
+    "end": 1356.58,
+    "text": " Flower."
+  },
+  {
+    "start": 1356.58,
+    "end": 1357.58,
+    "text": " Maybe Irish accent."
+  },
+  {
+    "start": 1357.58,
+    "end": 1358.58,
+    "text": " I always say floor."
+  },
+  {
+    "start": 1358.58,
+    "end": 1362.58,
+    "text": " People mistake it for the thing we walk on."
+  },
+  {
+    "start": 1362.58,
+    "end": 1366.1,
+    "text": " Valentine's Day is always very disappointing though for your wife, isn't it?"
+  },
+  {
+    "start": 1366.1,
+    "end": 1367.1,
+    "text": " It's a lovely floor."
+  },
+  {
+    "start": 1367.1,
+    "end": 1369.96,
+    "text": " There was a woman, I wish I could remember this now."
+  },
+  {
+    "start": 1369.96,
+    "end": 1370.96,
+    "text": " Oh God."
+  },
+  {
+    "start": 1370.96,
+    "end": 1376.16,
+    "text": " There was a woman in America who was arrested for throwing a pancake at an American president."
+  },
+  {
+    "start": 1376.16,
+    "end": 1380.04,
+    "text": " And I can't remember which president it was, but when she was arrested, they asked her"
+  },
+  {
+    "start": 1380.04,
+    "end": 1384.56,
+    "text": " about it and she said she couldn't find any flowers, but this contained flower and she"
+  },
+  {
+    "start": 1384.56,
+    "end": 1386.5,
+    "text": " thought it would be just the same."
+  },
+  {
+    "start": 1386.5,
+    "end": 1387.5,
+    "text": " Was it really?"
+  },
+  {
+    "start": 1387.5,
+    "end": 1390.82,
+    "text": " No, like a hundred years ago, easy."
+  },
+  {
+    "start": 1390.82,
+    "end": 1395.3,
+    "text": " Do you remember when I made a karate magazine news article for spitting on someone?"
+  },
+  {
+    "start": 1395.3,
+    "end": 1397.44,
+    "text": " And that was a misunderstanding of word as well."
+  },
+  {
+    "start": 1397.44,
+    "end": 1398.44,
+    "text": " What?"
+  },
+  {
+    "start": 1398.44,
+    "end": 1399.44,
+    "text": " Yeah."
+  },
+  {
+    "start": 1399.44,
+    "end": 1400.44,
+    "text": " I don't remember this."
+  },
+  {
+    "start": 1400.44,
+    "end": 1401.44,
+    "text": " This is in Hong Kong."
+  },
+  {
+    "start": 1401.44,
+    "end": 1402.44,
+    "text": " I was in karate monthly."
+  },
+  {
+    "start": 1402.44,
+    "end": 1403.44,
+    "text": " That's a news story rather than pictures."
+  },
+  {
+    "start": 1403.44,
+    "end": 1404.44,
+    "text": " That's like one of those little..."
+  },
+  {
+    "start": 1404.44,
+    "end": 1405.44,
+    "text": " That's where I know you from."
+  },
+  {
+    "start": 1405.44,
+    "end": 1406.44,
+    "text": " What?"
+  },
+  {
+    "start": 1406.44,
+    "end": 1407.44,
+    "text": " Is this real?"
+  },
+  {
+    "start": 1407.44,
+    "end": 1408.44,
+    "text": " Yeah."
+  },
+  {
+    "start": 1408.44,
+    "end": 1413.28,
+    "text": " I was studying Kempo at the time, which is a former martial art, and I was sparring"
+  },
+  {
+    "start": 1413.28,
+    "end": 1418.32,
+    "text": " with a kid and the guy who's training me, he's called me Danny, and he had a bit of"
+  },
+  {
+    "start": 1418.32,
+    "end": 1421.62,
+    "text": " a lisp and he was yelling, \"Spin on him, Danny!"
+  },
+  {
+    "start": 1421.62,
+    "end": 1422.62,
+    "text": " Spin on him!\""
+  },
+  {
+    "start": 1422.62,
+    "end": 1423.62,
+    "text": " To spin kick him."
+  },
+  {
+    "start": 1423.62,
+    "end": 1428.5,
+    "text": " I was spitting on him, Danny, and I literally spat on his face and they paused the fight"
+  },
+  {
+    "start": 1428.5,
+    "end": 1430.12,
+    "text": " and they were like, \"What was that?\""
+  },
+  {
+    "start": 1430.12,
+    "end": 1431.12,
+    "text": " Is this true?"
+  },
+  {
+    "start": 1431.12,
+    "end": 1432.12,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1432.12,
+    "end": 1433.12,
+    "text": " How old were you?"
+  },
+  {
+    "start": 1433.12,
+    "end": 1434.12,
+    "text": " 10, 11."
+  },
+  {
+    "start": 1434.12,
+    "end": 1440.1,
+    "text": " I can't believe, like honestly, Dan, I've known you for 20 years, every week, so amazing,"
+  },
+  {
+    "start": 1440.1,
+    "end": 1441.1,
+    "text": " isn't it?"
+  },
+  {
+    "start": 1441.1,
+    "end": 1443.3,
+    "text": " The insane thing of that."
+  },
+  {
+    "start": 1443.3,
+    "end": 1445.54,
+    "text": " It was, yeah, it was in Hong Kong and it was..."
+  },
+  {
+    "start": 1445.54,
+    "end": 1447.3,
+    "text": " You were in a karate based newspaper."
+  },
+  {
+    "start": 1447.3,
+    "end": 1448.3,
+    "text": " In a magazine."
+  },
+  {
+    "start": 1448.3,
+    "end": 1449.3,
+    "text": " Yeah."
+  },
+  {
+    "start": 1449.3,
+    "end": 1450.3,
+    "text": " Sorry, in a magazine."
+  },
+  {
+    "start": 1450.3,
+    "end": 1453.14,
+    "text": " I guess it's one of those, like, the funny stories kind of bit of it, you know."
+  },
+  {
+    "start": 1453.14,
+    "end": 1454.14,
+    "text": " That's funny."
+  },
+  {
+    "start": 1454.14,
+    "end": 1455.14,
+    "text": " It wasn't like international karate news."
+  },
+  {
+    "start": 1455.14,
+    "end": 1456.14,
+    "text": " It wasn't heavy."
+  },
+  {
+    "start": 1456.14,
+    "end": 1457.14,
+    "text": " No, I like, yeah."
+  },
+  {
+    "start": 1457.14,
+    "end": 1458.86,
+    "text": " What was the easiest word on the planet?"
+  },
+  {
+    "start": 1458.86,
+    "end": 1459.86,
+    "text": " The easiest word."
+  },
+  {
+    "start": 1459.86,
+    "end": 1460.86,
+    "text": " Yeah."
+  },
+  {
+    "start": 1460.86,
+    "end": 1461.86,
+    "text": " So is it the most universal?"
+  },
+  {
+    "start": 1461.86,
+    "end": 1462.86,
+    "text": " Mama."
+  },
+  {
+    "start": 1462.86,
+    "end": 1463.86,
+    "text": " The most universal."
+  },
+  {
+    "start": 1463.86,
+    "end": 1464.86,
+    "text": " Not bad."
+  },
+  {
+    "start": 1464.86,
+    "end": 1465.86,
+    "text": " Hey."
+  },
+  {
+    "start": 1465.86,
+    "end": 1466.86,
+    "text": " Hey."
+  },
+  {
+    "start": 1466.86,
+    "end": 1467.86,
+    "text": " Nearly closer, Olga."
+  },
+  {
+    "start": 1467.86,
+    "end": 1468.86,
+    "text": " Huh?"
+  },
+  {
+    "start": 1468.86,
+    "end": 1469.86,
+    "text": " Bingo."
+  },
+  {
+    "start": 1469.86,
+    "end": 1470.86,
+    "text": " I knew it."
+  },
+  {
+    "start": 1470.86,
+    "end": 1471.86,
+    "text": " Sorry, I knew it."
+  },
+  {
+    "start": 1471.86,
+    "end": 1472.86,
+    "text": " She speaks three languages."
+  },
+  {
+    "start": 1472.86,
+    "end": 1473.86,
+    "text": " Of course she knew it."
+  },
+  {
+    "start": 1473.86,
+    "end": 1476.42,
+    "text": " It'd be incredible if you would just, you genuinely hadn't heard the question because you weren't"
+  },
+  {
+    "start": 1476.42,
+    "end": 1477.42,
+    "text": " listening."
+  },
+  {
+    "start": 1477.42,
+    "end": 1479.7,
+    "text": " Yeah, we can edit, edit, fix it in post."
+  },
+  {
+    "start": 1479.7,
+    "end": 1480.7,
+    "text": " Huh?"
+  },
+  {
+    "start": 1480.7,
+    "end": 1481.7,
+    "text": " Yeah."
+  },
+  {
+    "start": 1481.7,
+    "end": 1482.7,
+    "text": " Huh?"
+  },
+  {
+    "start": 1482.7,
+    "end": 1484.34,
+    "text": " But what can you please quickly clarify?"
+  },
+  {
+    "start": 1484.34,
+    "end": 1486.42,
+    "text": " And in every language it's, \"Huh?\""
+  },
+  {
+    "start": 1486.42,
+    "end": 1489.26,
+    "text": " Because it would be very annoying if you had to say a sentence to say, \"Can you quickly"
+  },
+  {
+    "start": 1489.26,
+    "end": 1490.42,
+    "text": " clarify?\""
+  },
+  {
+    "start": 1490.42,
+    "end": 1491.42,
+    "text": " So that's it."
+  },
+  {
+    "start": 1491.42,
+    "end": 1495.62,
+    "text": " And it means that, you know, it can de-escalate tension between you and someone else, even"
+  },
+  {
+    "start": 1495.62,
+    "end": 1497.14,
+    "text": " if you don't speak the same language."
+  },
+  {
+    "start": 1497.14,
+    "end": 1502.62,
+    "text": " But also, does that also mean that the inflection of a question is the same in every language?"
+  },
+  {
+    "start": 1502.62,
+    "end": 1503.62,
+    "text": " No, I didn't."
+  },
+  {
+    "start": 1503.62,
+    "end": 1507.58,
+    "text": " Because it's not really a sound much, it's much more, it's literally, in my mind, it's"
+  },
+  {
+    "start": 1507.58,
+    "end": 1508.82,
+    "text": " just the sound of a question mark."
+  },
+  {
+    "start": 1508.82,
+    "end": 1513.78,
+    "text": " I think actually that's not true because some languages have question words, don't they,"
+  },
+  {
+    "start": 1513.78,
+    "end": 1517.46,
+    "text": " like English and Russian do, like who, what, when, all that kind of stuff."
+  },
+  {
+    "start": 1517.46,
+    "end": 1522.3,
+    "text": " But some languages, it depends on the inflection about whether it's a question or not a question."
+  },
+  {
+    "start": 1522.3,
+    "end": 1525.94,
+    "text": " But English has that a bit, doesn't it, you could say, \"I live here?\""
+  },
+  {
+    "start": 1525.94,
+    "end": 1526.94,
+    "text": " And that's a question."
+  },
+  {
+    "start": 1526.94,
+    "end": 1527.94,
+    "text": " Yeah."
+  },
+  {
+    "start": 1527.94,
+    "end": 1528.94,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 1528.94,
+    "end": 1529.94,
+    "text": " Well, that's an Aussie inflection as well."
+  },
+  {
+    "start": 1529.94,
+    "end": 1530.94,
+    "text": " That's true."
+  },
+  {
+    "start": 1530.94,
+    "end": 1531.94,
+    "text": " I live here?"
+  },
+  {
+    "start": 1531.94,
+    "end": 1532.94,
+    "text": " In Australia?"
+  },
+  {
+    "start": 1532.94,
+    "end": 1533.94,
+    "text": " Yeah."
+  },
+  {
+    "start": 1533.94,
+    "end": 1537.42,
+    "text": " We had that thing, David Crystal, the linguist, said that the Aussie inflection at the end"
+  },
+  {
+    "start": 1537.42,
+    "end": 1542.74,
+    "text": " was a useful thing because it was both a, I understand the statement, but I also am"
+  },
+  {
+    "start": 1542.74,
+    "end": 1546.42,
+    "text": " asking you, it's up to you, you don't need to pick it up as a question, but it works"
+  },
+  {
+    "start": 1546.42,
+    "end": 1547.42,
+    "text": " as a question."
+  },
+  {
+    "start": 1547.42,
+    "end": 1548.42,
+    "text": " But you can if you like."
+  },
+  {
+    "start": 1548.42,
+    "end": 1549.42,
+    "text": " Yeah."
+  },
+  {
+    "start": 1549.42,
+    "end": 1550.42,
+    "text": " With the inflection."
+  },
+  {
+    "start": 1550.42,
+    "end": 1551.42,
+    "text": " That feels like a mind game you'd play in like a corporate interview."
+  },
+  {
+    "start": 1551.42,
+    "end": 1552.42,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 1552.42,
+    "end": 1553.42,
+    "text": " You got the job?"
+  },
+  {
+    "start": 1553.42,
+    "end": 1560.14,
+    "text": " Just as they're walking out of the door."
+  },
+  {
+    "start": 1560.14,
+    "end": 1564.62,
+    "text": " We find them guilty?"
+  },
+  {
+    "start": 1564.62,
+    "end": 1567.42,
+    "text": " I need to get something off my chest."
+  },
+  {
+    "start": 1567.42,
+    "end": 1573.42,
+    "text": " So the closest, so far, so far I've ever been to getting cancelled, is thanks to a joke"
+  },
+  {
+    "start": 1573.42,
+    "end": 1576.58,
+    "text": " that I wrote about the word empathy in Russian."
+  },
+  {
+    "start": 1576.58,
+    "end": 1580.34,
+    "text": " And so the setup of the joke is the Russian language doesn't have the word for empathy."
+  },
+  {
+    "start": 1580.34,
+    "end": 1581.58,
+    "text": " Can you imagine what that feels like?"
+  },
+  {
+    "start": 1581.58,
+    "end": 1582.58,
+    "text": " I couldn't."
+  },
+  {
+    "start": 1582.58,
+    "end": 1589.74,
+    "text": " And so I posted this joke online and the avalanche of Russian people going to correct me, just"
+  },
+  {
+    "start": 1589.74,
+    "end": 1593.34,
+    "text": " saying that there is actually a word in Russian for empathy and you're actually stupid and"
+  },
+  {
+    "start": 1593.34,
+    "end": 1596.9,
+    "text": " dumb and not a patriot."
+  },
+  {
+    "start": 1596.9,
+    "end": 1603.08,
+    "text": " But I would say 90% of the corrections were the word for sympathy, obviously, that is"
+  },
+  {
+    "start": 1603.08,
+    "end": 1605.02,
+    "text": " very easily checked through Google Translate."
+  },
+  {
+    "start": 1605.02,
+    "end": 1610.42,
+    "text": " So basically the word that they keep suggesting is sympathy, which is sympathy, which is close"
+  },
+  {
+    "start": 1610.42,
+    "end": 1612.02,
+    "text": " to empathy, but not quite."
+  },
+  {
+    "start": 1612.02,
+    "end": 1616.7,
+    "text": " Then they'd say, which is compassion, which again is close, but not quite."
+  },
+  {
+    "start": 1616.7,
+    "end": 1622.22,
+    "text": " And then very rarely they will say, which is essentially the same sort of like, I guess"
+  },
+  {
+    "start": 1622.22,
+    "end": 1628.1,
+    "text": " Greek root for empathy, which is a word that has not been widely used in Russia up until"
+  },
+  {
+    "start": 1628.1,
+    "end": 1629.7,
+    "text": " I want to say two years ago."
+  },
+  {
+    "start": 1629.7,
+    "end": 1633.7,
+    "text": " And I know this because there's loads of articles in Russia that are essentially titled, what"
+  },
+  {
+    "start": 1633.7,
+    "end": 1634.7,
+    "text": " is this word?"
+  },
+  {
+    "start": 1634.7,
+    "end": 1635.7,
+    "text": " Empathy."
+  },
+  {
+    "start": 1635.7,
+    "end": 1636.7,
+    "text": " What does it mean?"
+  },
+  {
+    "start": 1636.7,
+    "end": 1640.22,
+    "text": " And so the setup of the joke, I feel like I'm in court right now."
+  },
+  {
+    "start": 1640.22,
+    "end": 1647.18,
+    "text": " The setup of the joke is that I don't even know where I'm going with this, but I just"
+  },
+  {
+    "start": 1647.18,
+    "end": 1651.82,
+    "text": " think that it's really funny because they think that I'm sort of trying to smite the"
+  },
+  {
+    "start": 1651.82,
+    "end": 1655.58,
+    "text": " Russian people or say that Russians don't understand what empathy is, and surely that's"
+  },
+  {
+    "start": 1655.58,
+    "end": 1659.42,
+    "text": " something that you can explain in more than just one word."
+  },
+  {
+    "start": 1659.42,
+    "end": 1664.46,
+    "text": " And to sort of, I guess, make right with the Russians, I'll share a Russian word that"
+  },
+  {
+    "start": 1664.46,
+    "end": 1667.14,
+    "text": " we have that you don't in English."
+  },
+  {
+    "start": 1667.14,
+    "end": 1671.26,
+    "text": " And that's listapad, which is the word for falling leaves."
+  },
+  {
+    "start": 1671.26,
+    "end": 1672.94,
+    "text": " So it's like rainfall, we have leaf fall."
+  },
+  {
+    "start": 1672.94,
+    "end": 1673.94,
+    "text": " Oh, that's good."
+  },
+  {
+    "start": 1673.94,
+    "end": 1674.94,
+    "text": " And you don't."
+  },
+  {
+    "start": 1674.94,
+    "end": 1675.94,
+    "text": " Say it again."
+  },
+  {
+    "start": 1675.94,
+    "end": 1676.94,
+    "text": " Because you're stupid."
+  },
+  {
+    "start": 1676.94,
+    "end": 1683.9,
+    "text": " Yeah, but we can actually have some feelings about it when we see it."
+  },
+  {
+    "start": 1683.9,
+    "end": 1689.26,
+    "text": " If you're speaking to a Russian, you can tell whether they're a virologist or not by the"
+  },
+  {
+    "start": 1689.26,
+    "end": 1690.42,
+    "text": " way they talk."
+  },
+  {
+    "start": 1690.42,
+    "end": 1696.18,
+    "text": " And that is because in Russian, you have animate and inanimate nouns, right?"
+  },
+  {
+    "start": 1696.18,
+    "end": 1698.34,
+    "text": " The endings can change up whether something's alive."
+  },
+  {
+    "start": 1698.34,
+    "end": 1705.74,
+    "text": " And so virus, virus in Russian, is most people would say it's inanimate, but virologists"
+  },
+  {
+    "start": 1705.74,
+    "end": 1708.26,
+    "text": " always think it's alive, a virus."
+  },
+  {
+    "start": 1708.26,
+    "end": 1709.5,
+    "text": " Because virus, is it alive?"
+  },
+  {
+    "start": 1709.5,
+    "end": 1710.5,
+    "text": " Is it not alive?"
+  },
+  {
+    "start": 1710.5,
+    "end": 1712.34,
+    "text": " Actually, nobody really knows."
+  },
+  {
+    "start": 1712.34,
+    "end": 1716.94,
+    "text": " But virologists think it's alive, and normal people tend to not say it's alive."
+  },
+  {
+    "start": 1716.94,
+    "end": 1725.08,
+    "text": " So if you say, \"On dal manier corona virus,\" then that would mean he gave me coronavirus,"
+  },
+  {
+    "start": 1725.08,
+    "end": 1728.3,
+    "text": " but that would be a person who's not a virologist saying it."
+  },
+  {
+    "start": 1728.3,
+    "end": 1734.46,
+    "text": " But if you said, \"On dal manier corona virus,\" that would be animate, and it would be a virologist"
+  },
+  {
+    "start": 1734.46,
+    "end": 1736.74,
+    "text": " saying it, because they think viruses are alive."
+  },
+  {
+    "start": 1736.74,
+    "end": 1739.3,
+    "text": " And how useful have you found this change in your life?"
+  },
+  {
+    "start": 1739.3,
+    "end": 1742.14,
+    "text": " Again, I think that you could use that to solve a crime."
+  },
+  {
+    "start": 1742.14,
+    "end": 1744.14,
+    "text": " Who was the murderer?"
+  },
+  {
+    "start": 1744.14,
+    "end": 1749.98,
+    "text": " It was the virologist in the library with a candle set."
+  },
+  {
+    "start": 1749.98,
+    "end": 1750.98,
+    "text": " Probably with the anthrax."
+  },
+  {
+    "start": 1750.98,
+    "end": 1755.42,
+    "text": " Do you want to know a fun fact?"
+  },
+  {
+    "start": 1755.42,
+    "end": 1756.42,
+    "text": " Yeah."
+  },
+  {
+    "start": 1756.42,
+    "end": 1757.42,
+    "text": " Not on this show."
+  },
+  {
+    "start": 1757.42,
+    "end": 1760.42,
+    "text": " You've come to the wrong place, lady."
+  },
+  {
+    "start": 1760.42,
+    "end": 1763.02,
+    "text": " So do you know how French kiss is making out?"
+  },
+  {
+    "start": 1763.02,
+    "end": 1764.02,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1764.02,
+    "end": 1767.98,
+    "text": " So the first goodbye is leaving without saying goodbye, or a French exit as well."
+  },
+  {
+    "start": 1767.98,
+    "end": 1774.06,
+    "text": " In Russian, a buffet is a Swedish table, and a family of three, which is like two women"
+  },
+  {
+    "start": 1774.06,
+    "end": 1778.86,
+    "text": " and a man, or whatever combination of genders in a throuplet is a Swedish family."
+  },
+  {
+    "start": 1778.86,
+    "end": 1779.86,
+    "text": " Get away."
+  },
+  {
+    "start": 1779.86,
+    "end": 1780.86,
+    "text": " Yeah."
+  },
+  {
+    "start": 1780.86,
+    "end": 1783.06,
+    "text": " So \"ménage à toi,\" which is what we would call it?"
+  },
+  {
+    "start": 1783.06,
+    "end": 1785.34,
+    "text": " I don't know, because three people living together."
+  },
+  {
+    "start": 1785.34,
+    "end": 1786.34,
+    "text": " It's not a threesome."
+  },
+  {
+    "start": 1786.34,
+    "end": 1788.34,
+    "text": " It is a relationship of three."
+  },
+  {
+    "start": 1788.34,
+    "end": 1789.34,
+    "text": " I threw up."
+  },
+  {
+    "start": 1789.34,
+    "end": 1790.34,
+    "text": " I threw up."
+  },
+  {
+    "start": 1790.34,
+    "end": 1791.34,
+    "text": " I'm the only one still saying, \"Manage à toi.\""
+  },
+  {
+    "start": 1791.34,
+    "end": 1799.22,
+    "text": " Everyone else said, \"Trupple,\" I know they're all the apps, or the pervert apps."
+  },
+  {
+    "start": 1799.22,
+    "end": 1811.82,
+    "text": " \"Ménage à toi\" seeks, loves, ESPN, nostril-based, I've got to be in competitions."
+  },
+  {
+    "start": 1811.82,
+    "end": 1813.02,
+    "text": " This is for Olga and James."
+  },
+  {
+    "start": 1813.02,
+    "end": 1814.02,
+    "text": " Pee-hole dandruff."
+  },
+  {
+    "start": 1814.02,
+    "end": 1815.02,
+    "text": " Is that a...?"
+  },
+  {
+    "start": 1815.02,
+    "end": 1816.02,
+    "text": " Don't speak."
+  },
+  {
+    "start": 1816.02,
+    "end": 1817.02,
+    "text": " I'm not a native Russian speaker."
+  },
+  {
+    "start": 1817.02,
+    "end": 1818.02,
+    "text": " But you love dirty words."
+  },
+  {
+    "start": 1818.02,
+    "end": 1819.02,
+    "text": " And that's true."
+  },
+  {
+    "start": 1819.02,
+    "end": 1820.02,
+    "text": " Yeah."
+  },
+  {
+    "start": 1820.02,
+    "end": 1821.02,
+    "text": " I've never heard of Pee-hole dandruff."
+  },
+  {
+    "start": 1821.02,
+    "end": 1828.26,
+    "text": " I went on a site where it was sort of like weird, rude words from Russia, and this bottom,"
+  },
+  {
+    "start": 1828.26,
+    "end": 1829.78,
+    "text": " have you ever heard of that word before?"
+  },
+  {
+    "start": 1829.78,
+    "end": 1831.86,
+    "text": " I have never seen this in my life."
+  },
+  {
+    "start": 1831.86,
+    "end": 1836.3,
+    "text": " I did move from Russian when I was 14, so maybe it's a sort of high school word."
+  },
+  {
+    "start": 1836.3,
+    "end": 1840.3,
+    "text": " That word is a 15 certificate, so you wouldn't have known about it."
+  },
+  {
+    "start": 1840.3,
+    "end": 1843.46,
+    "text": " See, I don't think it's a real word, but it was on a site."
+  },
+  {
+    "start": 1843.46,
+    "end": 1844.46,
+    "text": " What does it mean?"
+  },
+  {
+    "start": 1844.46,
+    "end": 1846.86,
+    "text": " It kind of doesn't really mean anything."
+  },
+  {
+    "start": 1846.86,
+    "end": 1852.42,
+    "text": " It's just a beautiful word for when the pollen falls to the trees."
+  },
+  {
+    "start": 1852.42,
+    "end": 1857.66,
+    "text": " I can't believe we don't have this word in English."
+  },
+  {
+    "start": 1857.66,
+    "end": 1861.82,
+    "text": " Do you know the Bicol language of the Philippines doesn't have..."
+  },
+  {
+    "start": 1861.82,
+    "end": 1867.22,
+    "text": " It has swear words, but people don't really use them because it has a complete other vocabulary"
+  },
+  {
+    "start": 1867.22,
+    "end": 1868.78,
+    "text": " if you're angry."
+  },
+  {
+    "start": 1868.78,
+    "end": 1872.66,
+    "text": " So you speak normal Bicol, blah, blah, blah, blah, blah, but as soon as you're angry, you"
+  },
+  {
+    "start": 1872.66,
+    "end": 1875.98,
+    "text": " just change all the words that you use so that people can tell you're angry."
+  },
+  {
+    "start": 1875.98,
+    "end": 1876.98,
+    "text": " That's great."
+  },
+  {
+    "start": 1876.98,
+    "end": 1881.14,
+    "text": " So you're saying the same stuff, but it's different using different words for it."
+  },
+  {
+    "start": 1881.14,
+    "end": 1882.14,
+    "text": " Using different words, yeah."
+  },
+  {
+    "start": 1882.14,
+    "end": 1884.9,
+    "text": " So it's a bit like with my daughter when she does something bad."
+  },
+  {
+    "start": 1884.9,
+    "end": 1888.22,
+    "text": " I normally call her jelly, but if she does something bad, I go, \"Angela!\""
+  },
+  {
+    "start": 1888.22,
+    "end": 1889.22,
+    "text": " Yeah."
+  },
+  {
+    "start": 1889.22,
+    "end": 1890.22,
+    "text": " So angry."
+  },
+  {
+    "start": 1890.22,
+    "end": 1892.1,
+    "text": " But it's a completely different vocabulary, Ethan."
+  },
+  {
+    "start": 1892.1,
+    "end": 1893.1,
+    "text": " Yeah."
+  },
+  {
+    "start": 1893.1,
+    "end": 1894.1,
+    "text": " That's good."
+  },
+  {
+    "start": 1894.1,
+    "end": 1896.38,
+    "text": " I hate to bring it up, but again, such beautiful evidence and a core case."
+  },
+  {
+    "start": 1896.38,
+    "end": 1897.38,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 1897.38,
+    "end": 1898.9,
+    "text": " Yeah, it's like, was it a crime of passion?"
+  },
+  {
+    "start": 1898.9,
+    "end": 1899.9,
+    "text": " I don't know!"
+  },
+  {
+    "start": 1899.9,
+    "end": 1900.9,
+    "text": " That's so good."
+  },
+  {
+    "start": 1900.9,
+    "end": 1910.02,
+    "text": " Okay, it is time for fact number three."
+  },
+  {
+    "start": 1910.02,
+    "end": 1911.32,
+    "text": " That is Andy."
+  },
+  {
+    "start": 1911.32,
+    "end": 1916.62,
+    "text": " My fact is, if cars had improved at the same rate as computers since 1971, they would now"
+  },
+  {
+    "start": 1916.62,
+    "end": 1919.26,
+    "text": " be able to travel at nearly the speed of light."
+  },
+  {
+    "start": 1919.26,
+    "end": 1921.26,
+    "text": " Wouldn't that be cool?"
+  },
+  {
+    "start": 1921.26,
+    "end": 1923.26,
+    "text": " And if my grandmother had wheels."
+  },
+  {
+    "start": 1923.26,
+    "end": 1927.1,
+    "text": " She would also be traveling at the speed of light."
+  },
+  {
+    "start": 1927.1,
+    "end": 1928.42,
+    "text": " They would also be smaller."
+  },
+  {
+    "start": 1928.42,
+    "end": 1929.42,
+    "text": " The cars, right?"
+  },
+  {
+    "start": 1929.42,
+    "end": 1933.22,
+    "text": " They would be about a half an inch long, unfortunately."
+  },
+  {
+    "start": 1933.22,
+    "end": 1938.82,
+    "text": " And this is based on something that Gordon Moore, who was the co-founder of Intel, huge"
+  },
+  {
+    "start": 1938.82,
+    "end": 1943.98,
+    "text": " computer company, said in 1965, he noticed that the number of transistors you can fit"
+  },
+  {
+    "start": 1943.98,
+    "end": 1949.06,
+    "text": " on a chip, a computer chip, had been roughly doubling every year for the previous 10 years."
+  },
+  {
+    "start": 1949.06,
+    "end": 1951.34,
+    "text": " And he said, \"This is amazing.\""
+  },
+  {
+    "start": 1951.34,
+    "end": 1952.58,
+    "text": " And he thought it would keep going."
+  },
+  {
+    "start": 1952.58,
+    "end": 1953.58,
+    "text": " He thought the principle would apply."
+  },
+  {
+    "start": 1953.58,
+    "end": 1957.14,
+    "text": " Maybe it would be every two years, the number you could fit on a chip doubled."
+  },
+  {
+    "start": 1957.14,
+    "end": 1961.1,
+    "text": " And he said, \"I think it's good for at least 10 more years.\""
+  },
+  {
+    "start": 1961.1,
+    "end": 1965.78,
+    "text": " And it actually has stayed true for about 50 years at least since he wrote that."
+  },
+  {
+    "start": 1965.78,
+    "end": 1968.66,
+    "text": " And it's slowing down a bit now, but cars would be able to travel at the speed of light"
+  },
+  {
+    "start": 1968.66,
+    "end": 1973.42,
+    "text": " because the number of transistors you can fit on a computer chip now, it's so huge."
+  },
+  {
+    "start": 1973.42,
+    "end": 1976.18,
+    "text": " The numbers are just mind boggling of how much things have improved."
+  },
+  {
+    "start": 1976.18,
+    "end": 1980.22,
+    "text": " I suppose the thing was that we got to a speed with cars where we thought there's no point"
+  },
+  {
+    "start": 1980.22,
+    "end": 1981.54,
+    "text": " going much faster."
+  },
+  {
+    "start": 1981.54,
+    "end": 1982.82,
+    "text": " Is that right?"
+  },
+  {
+    "start": 1982.82,
+    "end": 1984.82,
+    "text": " Because of safety reasons and stuff like that?"
+  },
+  {
+    "start": 1984.82,
+    "end": 1985.82,
+    "text": " I suppose so."
+  },
+  {
+    "start": 1985.82,
+    "end": 1990.58,
+    "text": " But if we moved to the speed of light, then we'd also go infinite mass and..."
+  },
+  {
+    "start": 1990.58,
+    "end": 1991.58,
+    "text": " Oh, that would slow you down?"
+  },
+  {
+    "start": 1991.58,
+    "end": 1993.58,
+    "text": " No, it wouldn't slow you down."
+  },
+  {
+    "start": 1993.58,
+    "end": 1994.58,
+    "text": " Well, yes, it would."
+  },
+  {
+    "start": 1994.58,
+    "end": 1997.02,
+    "text": " Well, it would break through the car door, you'd see..."
+  },
+  {
+    "start": 1997.02,
+    "end": 2001.14,
+    "text": " Well, no, because I saw an interview with Lewis Hamilton the other day and he was talking"
+  },
+  {
+    "start": 2001.14,
+    "end": 2005.98,
+    "text": " about how when you're driving a Formula 1 car, everything about the structure of your"
+  },
+  {
+    "start": 2005.98,
+    "end": 2011.42,
+    "text": " body needs to be as strong as possible because when you take a turn at 180 miles an hour,"
+  },
+  {
+    "start": 2011.42,
+    "end": 2012.9,
+    "text": " your body does not go with the car."
+  },
+  {
+    "start": 2012.9,
+    "end": 2014.42,
+    "text": " They have strong necks, don't they?"
+  },
+  {
+    "start": 2014.42,
+    "end": 2015.42,
+    "text": " Yeah."
+  },
+  {
+    "start": 2015.42,
+    "end": 2017.62,
+    "text": " I think there's no point getting faster than..."
+  },
+  {
+    "start": 2017.62,
+    "end": 2021.48,
+    "text": " You get cars that can go 200 miles an hour or faster, but there's no point having them"
+  },
+  {
+    "start": 2021.48,
+    "end": 2022.98,
+    "text": " because you can't go faster than that."
+  },
+  {
+    "start": 2022.98,
+    "end": 2023.98,
+    "text": " No, you're right."
+  },
+  {
+    "start": 2023.98,
+    "end": 2024.98,
+    "text": " Spaceships are useful, though."
+  },
+  {
+    "start": 2024.98,
+    "end": 2025.98,
+    "text": " Yes."
+  },
+  {
+    "start": 2025.98,
+    "end": 2026.98,
+    "text": " Again, it's really just about transistors."
+  },
+  {
+    "start": 2026.98,
+    "end": 2029.18,
+    "text": " I feel like I was completely..."
+  },
+  {
+    "start": 2029.18,
+    "end": 2034.46,
+    "text": " But am I correct in understanding that I remember this distinctly as an example in a textbook"
+  },
+  {
+    "start": 2034.46,
+    "end": 2038.86,
+    "text": " that at some point it becomes imperceptible to humans?"
+  },
+  {
+    "start": 2038.86,
+    "end": 2043.54,
+    "text": " So they tried doubling the amount of pixels in computer graphics, but at some point once"
+  },
+  {
+    "start": 2043.54,
+    "end": 2046.18,
+    "text": " you double it, a human eye can't see that it's double?"
+  },
+  {
+    "start": 2046.18,
+    "end": 2047.18,
+    "text": " That's really good."
+  },
+  {
+    "start": 2047.18,
+    "end": 2048.18,
+    "text": " Oh, that's true."
+  },
+  {
+    "start": 2048.18,
+    "end": 2049.18,
+    "text": " Yeah."
+  },
+  {
+    "start": 2049.18,
+    "end": 2052.42,
+    "text": " I think a computer screen now can show more colors than the human eye can perceive."
+  },
+  {
+    "start": 2052.42,
+    "end": 2053.42,
+    "text": " Yeah, so who's that for?"
+  },
+  {
+    "start": 2053.42,
+    "end": 2054.42,
+    "text": " Like a really good one."
+  },
+  {
+    "start": 2054.42,
+    "end": 2055.42,
+    "text": " Yeah."
+  },
+  {
+    "start": 2055.42,
+    "end": 2059.58,
+    "text": " If you were traveling at near speed of light, this is kind of a physics question, really,"
+  },
+  {
+    "start": 2059.58,
+    "end": 2061.78,
+    "text": " and you had to take a left, right?"
+  },
+  {
+    "start": 2061.78,
+    "end": 2062.78,
+    "text": " Yeah."
+  },
+  {
+    "start": 2062.78,
+    "end": 2063.78,
+    "text": " You're in space."
+  },
+  {
+    "start": 2063.78,
+    "end": 2067.86,
+    "text": " If you needed an exit sign, but I'm traveling at close to the speed of light, how would"
+  },
+  {
+    "start": 2067.86,
+    "end": 2068.86,
+    "text": " you do that?"
+  },
+  {
+    "start": 2068.86,
+    "end": 2069.86,
+    "text": " As in you won't be able to see it."
+  },
+  {
+    "start": 2069.86,
+    "end": 2070.86,
+    "text": " Yeah."
+  },
+  {
+    "start": 2070.86,
+    "end": 2071.86,
+    "text": " At what point?"
+  },
+  {
+    "start": 2071.86,
+    "end": 2074.66,
+    "text": " I don't know how far away would it have to be."
+  },
+  {
+    "start": 2074.66,
+    "end": 2077.06,
+    "text": " That's a really good point."
+  },
+  {
+    "start": 2077.06,
+    "end": 2078.06,
+    "text": " Leave it with me."
+  },
+  {
+    "start": 2078.06,
+    "end": 2079.06,
+    "text": " All right."
+  },
+  {
+    "start": 2079.06,
+    "end": 2080.66,
+    "text": " I'll write to Radbottman Rove."
+  },
+  {
+    "start": 2080.66,
+    "end": 2081.66,
+    "text": " Yeah."
+  },
+  {
+    "start": 2081.66,
+    "end": 2082.66,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 2082.66,
+    "end": 2083.66,
+    "text": " He is way more qualified than me to do that."
+  },
+  {
+    "start": 2083.66,
+    "end": 2084.66,
+    "text": " All right."
+  },
+  {
+    "start": 2084.66,
+    "end": 2085.66,
+    "text": " You want to hear something about transistors?"
+  },
+  {
+    "start": 2085.66,
+    "end": 2086.66,
+    "text": " Sure."
+  },
+  {
+    "start": 2086.66,
+    "end": 2087.66,
+    "text": " This is, no, genuinely."
+  },
+  {
+    "start": 2087.66,
+    "end": 2088.66,
+    "text": " Yeah."
+  },
+  {
+    "start": 2088.66,
+    "end": 2089.66,
+    "text": " They're unbelievably interesting."
+  },
+  {
+    "start": 2089.66,
+    "end": 2090.66,
+    "text": " Transistors."
+  },
+  {
+    "start": 2090.66,
+    "end": 2091.66,
+    "text": " Yeah."
+  },
+  {
+    "start": 2091.66,
+    "end": 2092.66,
+    "text": " Okay."
+  },
+  {
+    "start": 2092.66,
+    "end": 2093.66,
+    "text": " The light would still come to you."
+  },
+  {
+    "start": 2093.66,
+    "end": 2094.66,
+    "text": " Oh, my God."
+  },
+  {
+    "start": 2094.66,
+    "end": 2095.66,
+    "text": " Yeah."
+  },
+  {
+    "start": 2095.66,
+    "end": 2096.66,
+    "text": " Sorry."
+  },
+  {
+    "start": 2096.66,
+    "end": 2097.66,
+    "text": " Sorry, Andy."
+  },
+  {
+    "start": 2097.66,
+    "end": 2098.66,
+    "text": " Because you're going in the opposite direction to the sign, right?"
+  },
+  {
+    "start": 2098.66,
+    "end": 2099.66,
+    "text": " So you're going towards the sign."
+  },
+  {
+    "start": 2099.66,
+    "end": 2100.66,
+    "text": " Going towards the sign."
+  },
+  {
+    "start": 2100.66,
+    "end": 2102.26,
+    "text": " And you just as quickly."
+  },
+  {
+    "start": 2102.26,
+    "end": 2103.26,
+    "text": " Ah."
+  },
+  {
+    "start": 2103.26,
+    "end": 2104.26,
+    "text": " So just as fast?"
+  },
+  {
+    "start": 2104.26,
+    "end": 2105.26,
+    "text": " Faster, if anything?"
+  },
+  {
+    "start": 2105.26,
+    "end": 2108.34,
+    "text": " Well, to the point where you're at at any moment, it would just get you at the same"
+  },
+  {
+    "start": 2108.34,
+    "end": 2109.34,
+    "text": " speed."
+  },
+  {
+    "start": 2109.34,
+    "end": 2111.54,
+    "text": " I think it still needs to be a big sign from that distance."
+  },
+  {
+    "start": 2111.54,
+    "end": 2112.54,
+    "text": " Yeah."
+  },
+  {
+    "start": 2112.54,
+    "end": 2113.54,
+    "text": " Staying left here."
+  },
+  {
+    "start": 2113.54,
+    "end": 2114.54,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 2114.54,
+    "end": 2116.02,
+    "text": " I think it's always got to be a big sign in space."
+  },
+  {
+    "start": 2116.02,
+    "end": 2117.62,
+    "text": " It's always got to be a big sign in space."
+  },
+  {
+    "start": 2117.62,
+    "end": 2118.62,
+    "text": " Happy with that, then?"
+  },
+  {
+    "start": 2118.62,
+    "end": 2119.62,
+    "text": " Yeah."
+  },
+  {
+    "start": 2119.62,
+    "end": 2120.62,
+    "text": " Yeah."
+  },
+  {
+    "start": 2120.62,
+    "end": 2121.62,
+    "text": " That was great."
+  },
+  {
+    "start": 2121.62,
+    "end": 2122.62,
+    "text": " Back to your transistors."
+  },
+  {
+    "start": 2122.62,
+    "end": 2123.62,
+    "text": " Oh, thank you."
+  },
+  {
+    "start": 2123.62,
+    "end": 2124.62,
+    "text": " Yeah."
+  },
+  {
+    "start": 2124.62,
+    "end": 2125.62,
+    "text": " Okay."
+  },
+  {
+    "start": 2125.62,
+    "end": 2126.62,
+    "text": " I just, like, here's the thing."
+  },
+  {
+    "start": 2126.62,
+    "end": 2127.62,
+    "text": " Right."
+  },
+  {
+    "start": 2127.62,
+    "end": 2128.62,
+    "text": " 1971, Intel released their first ever microprocessor."
+  },
+  {
+    "start": 2128.62,
+    "end": 2129.62,
+    "text": " All right."
+  },
+  {
+    "start": 2129.62,
+    "end": 2130.62,
+    "text": " No."
+  },
+  {
+    "start": 2130.62,
+    "end": 2131.62,
+    "text": " Absolutely not."
+  },
+  {
+    "start": 2131.62,
+    "end": 2132.62,
+    "text": " No, no, no."
+  },
+  {
+    "start": 2132.62,
+    "end": 2133.62,
+    "text": " No."
+  },
+  {
+    "start": 2133.62,
+    "end": 2134.62,
+    "text": " The chip was 12 square millimeters."
+  },
+  {
+    "start": 2134.62,
+    "end": 2135.62,
+    "text": " Right?"
+  },
+  {
+    "start": 2135.62,
+    "end": 2136.62,
+    "text": " Picture that."
+  },
+  {
+    "start": 2136.62,
+    "end": 2137.62,
+    "text": " 12 square millimeters."
+  },
+  {
+    "start": 2137.62,
+    "end": 2138.62,
+    "text": " Okay."
+  },
+  {
+    "start": 2138.62,
+    "end": 2139.62,
+    "text": " So 3 millimeters, 10s, 4 millimeters."
+  },
+  {
+    "start": 2139.62,
+    "end": 2140.62,
+    "text": " Right."
+  },
+  {
+    "start": 2140.62,
+    "end": 2143.26,
+    "text": " They had 2,300 transistors fitted onto that space."
+  },
+  {
+    "start": 2143.26,
+    "end": 2145.98,
+    "text": " It's pretty good, right?"
+  },
+  {
+    "start": 2145.98,
+    "end": 2149.78,
+    "text": " The gap between each transistor was 10,000 nanometers, which is the size of a red blood"
+  },
+  {
+    "start": 2149.78,
+    "end": 2150.78,
+    "text": " cell."
+  },
+  {
+    "start": 2150.78,
+    "end": 2151.78,
+    "text": " Just to give you an idea of what."
+  },
+  {
+    "start": 2151.78,
+    "end": 2152.78,
+    "text": " Mm-hmm."
+  },
+  {
+    "start": 2152.78,
+    "end": 2153.78,
+    "text": " Okay."
+  },
+  {
+    "start": 2153.78,
+    "end": 2154.78,
+    "text": " Yeah."
+  },
+  {
+    "start": 2154.78,
+    "end": 2159.78,
+    "text": " They had 2,300 transistors fitted into that space, not 2,300 transistors, but 130 million."
+  },
+  {
+    "start": 2159.78,
+    "end": 2162.14,
+    "text": " What does that mean?"
+  },
+  {
+    "start": 2162.14,
+    "end": 2164.14,
+    "text": " What does it mean?"
+  },
+  {
+    "start": 2164.14,
+    "end": 2165.46,
+    "text": " It's insane."
+  },
+  {
+    "start": 2165.46,
+    "end": 2168.68,
+    "text": " The gap is 14 nanometers between them."
+  },
+  {
+    "start": 2168.68,
+    "end": 2169.68,
+    "text": " Very, very, very."
+  },
+  {
+    "start": 2169.68,
+    "end": 2174.3,
+    "text": " I think the transistors are so, they're so tiny."
+  },
+  {
+    "start": 2174.3,
+    "end": 2175.94,
+    "text": " They're so sort of impossibly small."
+  },
+  {
+    "start": 2175.94,
+    "end": 2179.74,
+    "text": " Basically, and the transistors, we should say, they're like the taps, as in, like, they're"
+  },
+  {
+    "start": 2179.74,
+    "end": 2180.74,
+    "text": " either on or they're off."
+  },
+  {
+    "start": 2180.74,
+    "end": 2181.74,
+    "text": " Yes."
+  },
+  {
+    "start": 2181.74,
+    "end": 2182.74,
+    "text": " They bake up the ones and zeros."
+  },
+  {
+    "start": 2182.74,
+    "end": 2185.18,
+    "text": " They bake up the ones and zeros, which change the state depending on whether an electric"
+  },
+  {
+    "start": 2185.18,
+    "end": 2187.14,
+    "text": " current is flowing through them or not."
+  },
+  {
+    "start": 2187.14,
+    "end": 2188.86,
+    "text": " And your phone has millions of them in it."
+  },
+  {
+    "start": 2188.86,
+    "end": 2190.74,
+    "text": " Your phone will have so many millions."
+  },
+  {
+    "start": 2190.74,
+    "end": 2193.66,
+    "text": " And it's quite, it's obviously really hard to get your head around because the numbers"
+  },
+  {
+    "start": 2193.66,
+    "end": 2194.66,
+    "text": " are just so mind-boggling."
+  },
+  {
+    "start": 2194.66,
+    "end": 2200.54,
+    "text": " Like, in 2015, I mean, nearly a decade ago, the world created 13 trillion transistors every"
+  },
+  {
+    "start": 2200.54,
+    "end": 2201.54,
+    "text": " second."
+  },
+  {
+    "start": 2201.54,
+    "end": 2202.54,
+    "text": " Wow."
+  },
+  {
+    "start": 2202.54,
+    "end": 2203.54,
+    "text": " What?"
+  },
+  {
+    "start": 2203.54,
+    "end": 2206.66,
+    "text": " We're more, this is basically a transistor planet now, isn't it?"
+  },
+  {
+    "start": 2206.66,
+    "end": 2207.66,
+    "text": " Like, pretty much."
+  },
+  {
+    "start": 2207.66,
+    "end": 2208.66,
+    "text": " There's so many of them."
+  },
+  {
+    "start": 2208.66,
+    "end": 2209.66,
+    "text": " Yeah."
+  },
+  {
+    "start": 2209.66,
+    "end": 2211.54,
+    "text": " And they're now kind of printed directly onto the chips."
+  },
+  {
+    "start": 2211.54,
+    "end": 2213.26,
+    "text": " It's not like there's a big pile of..."
+  },
+  {
+    "start": 2213.26,
+    "end": 2214.26,
+    "text": " Yeah."
+  },
+  {
+    "start": 2214.26,
+    "end": 2215.26,
+    "text": " Someone's shot."
+  },
+  {
+    "start": 2215.26,
+    "end": 2216.26,
+    "text": " Shuler."
+  },
+  {
+    "start": 2216.26,
+    "end": 2217.26,
+    "text": " No, I've dropped it."
+  },
+  {
+    "start": 2217.26,
+    "end": 2218.26,
+    "text": " I've dropped it."
+  },
+  {
+    "start": 2218.26,
+    "end": 2219.26,
+    "text": " Nobody moved."
+  },
+  {
+    "start": 2219.26,
+    "end": 2220.26,
+    "text": " Nobody moved."
+  },
+  {
+    "start": 2220.26,
+    "end": 2224.26,
+    "text": " Just one old man in a cave in Turkey who's just putting each one together."
+  },
+  {
+    "start": 2224.26,
+    "end": 2225.26,
+    "text": " Yeah."
+  },
+  {
+    "start": 2225.26,
+    "end": 2226.26,
+    "text": " It's just mind-blowing."
+  },
+  {
+    "start": 2226.26,
+    "end": 2228.3,
+    "text": " And this stuff is what the entire world has made of."
+  },
+  {
+    "start": 2228.3,
+    "end": 2232.22,
+    "text": " All the, everything you're listening to this podcast through is transistor based."
+  },
+  {
+    "start": 2232.22,
+    "end": 2233.42,
+    "text": " It's all based on this stuff."
+  },
+  {
+    "start": 2233.42,
+    "end": 2237.9,
+    "text": " And it's so far beyond most people's comprehension, unless you spend years on it."
+  },
+  {
+    "start": 2237.9,
+    "end": 2238.9,
+    "text": " You know."
+  },
+  {
+    "start": 2238.9,
+    "end": 2239.9,
+    "text": " It's insane."
+  },
+  {
+    "start": 2239.9,
+    "end": 2240.9,
+    "text": " It's so big, aren't they?"
+  },
+  {
+    "start": 2240.9,
+    "end": 2243.58,
+    "text": " It's just hard to really get your head around any of the numbers."
+  },
+  {
+    "start": 2243.58,
+    "end": 2244.58,
+    "text": " Yeah."
+  },
+  {
+    "start": 2244.58,
+    "end": 2247.74,
+    "text": " Like, for instance, the new Google computer, the quantum one that they're supposed to"
+  },
+  {
+    "start": 2247.74,
+    "end": 2250.22,
+    "text": " have made and no one's sure if they've made it or not."
+  },
+  {
+    "start": 2250.22,
+    "end": 2251.58,
+    "text": " If they have, then..."
+  },
+  {
+    "start": 2251.58,
+    "end": 2253.82,
+    "text": " That's so funny for a quantum computer."
+  },
+  {
+    "start": 2253.82,
+    "end": 2254.82,
+    "text": " Yeah."
+  },
+  {
+    "start": 2254.82,
+    "end": 2257.58,
+    "text": " Yeah, it exists and it doesn't exist at the same time."
+  },
+  {
+    "start": 2257.58,
+    "end": 2258.58,
+    "text": " Yeah."
+  },
+  {
+    "start": 2258.58,
+    "end": 2263.22,
+    "text": " It can do as many calculations in two seconds as if you've got the entire population of"
+  },
+  {
+    "start": 2263.22,
+    "end": 2267.78,
+    "text": " India to do a sum every second since the beginning of the universe."
+  },
+  {
+    "start": 2267.78,
+    "end": 2268.78,
+    "text": " Wow."
+  },
+  {
+    "start": 2268.78,
+    "end": 2271.74,
+    "text": " That would be the same as this computer can do in two seconds."
+  },
+  {
+    "start": 2271.74,
+    "end": 2274.86,
+    "text": " And again, that's, it's so hard to understand."
+  },
+  {
+    "start": 2274.86,
+    "end": 2275.86,
+    "text": " It's amazing."
+  },
+  {
+    "start": 2275.86,
+    "end": 2276.86,
+    "text": " Wow."
+  },
+  {
+    "start": 2276.86,
+    "end": 2279.82,
+    "text": " And the reason the transistors have been getting so much smaller is partly, is a really good"
+  },
+  {
+    "start": 2279.82,
+    "end": 2285.02,
+    "text": " thing partly because when they get smaller, you get less electricity wasted and less heat"
+  },
+  {
+    "start": 2285.02,
+    "end": 2286.02,
+    "text": " wastage."
+  },
+  {
+    "start": 2286.02,
+    "end": 2287.02,
+    "text": " Yeah."
+  },
+  {
+    "start": 2287.02,
+    "end": 2288.74,
+    "text": " Obviously, the process generates a lot of heat."
+  },
+  {
+    "start": 2288.74,
+    "end": 2292.38,
+    "text": " So actually making them smaller means you save huge amounts of energy, which is part"
+  },
+  {
+    "start": 2292.38,
+    "end": 2294.18,
+    "text": " of the reason they can do it and that it's a good thing."
+  },
+  {
+    "start": 2294.18,
+    "end": 2297.5,
+    "text": " Because I think Ma said at the very start, he said one of the problems is going to be"
+  },
+  {
+    "start": 2297.5,
+    "end": 2300.3,
+    "text": " we're going to get more and more transistors, but everything's just going to get hotter"
+  },
+  {
+    "start": 2300.3,
+    "end": 2301.3,
+    "text": " and hotter and hotter."
+  },
+  {
+    "start": 2301.3,
+    "end": 2302.3,
+    "text": " Yes."
+  },
+  {
+    "start": 2302.3,
+    "end": 2304.42,
+    "text": " And if you've got a million transistors in your phone, you just won't be able to pick"
+  },
+  {
+    "start": 2304.42,
+    "end": 2305.42,
+    "text": " it up."
+  },
+  {
+    "start": 2305.42,
+    "end": 2307.18,
+    "text": " It'll just set fire to the table as soon as you put it on the table."
+  },
+  {
+    "start": 2307.18,
+    "end": 2308.18,
+    "text": " Exactly."
+  },
+  {
+    "start": 2308.18,
+    "end": 2309.7,
+    "text": " But then they found that ways to counteract that."
+  },
+  {
+    "start": 2309.7,
+    "end": 2310.7,
+    "text": " Yeah."
+  },
+  {
+    "start": 2310.7,
+    "end": 2311.7,
+    "text": " Yeah."
+  },
+  {
+    "start": 2311.7,
+    "end": 2312.7,
+    "text": " But now they are so small."
+  },
+  {
+    "start": 2312.7,
+    "end": 2319.14,
+    "text": " Again, this is mad that quantum effects are starting to come into play and the gates are"
+  },
+  {
+    "start": 2319.14,
+    "end": 2322.94,
+    "text": " no longer functioning properly because they're so small that you get some electrons leaking"
+  },
+  {
+    "start": 2322.94,
+    "end": 2326.98,
+    "text": " through even when it's supposed to be off because they're now down to kind of electron size."
+  },
+  {
+    "start": 2326.98,
+    "end": 2327.98,
+    "text": " Right."
+  },
+  {
+    "start": 2327.98,
+    "end": 2328.98,
+    "text": " The barrier in the gate."
+  },
+  {
+    "start": 2328.98,
+    "end": 2333.18,
+    "text": " So they're having to work out new shapes of transistor to re-exert some control over"
+  },
+  {
+    "start": 2333.18,
+    "end": 2336.5,
+    "text": " this gate because it's too leaky for individual electrons."
+  },
+  {
+    "start": 2336.5,
+    "end": 2338.14,
+    "text": " I've got a question for Dan."
+  },
+  {
+    "start": 2338.14,
+    "end": 2339.14,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 2339.14,
+    "end": 2340.14,
+    "text": " You're travelling on an electron."
+  },
+  {
+    "start": 2340.14,
+    "end": 2341.14,
+    "text": " Yeah."
+  },
+  {
+    "start": 2341.14,
+    "end": 2343.18,
+    "text": " There's a neutron on your left hand side."
+  },
+  {
+    "start": 2343.18,
+    "end": 2344.18,
+    "text": " Yeah."
+  },
+  {
+    "start": 2344.18,
+    "end": 2347.06,
+    "text": " How big would the sign have to be in order for you to see it?"
+  },
+  {
+    "start": 2347.06,
+    "end": 2351.82,
+    "text": " For me to, well, I'm glad you brought that up because I did have a additional question"
+  },
+  {
+    "start": 2351.82,
+    "end": 2356.5,
+    "text": " I wanted to ask earlier, which is how, if you saw the sign saying take a left, you're travelling"
+  },
+  {
+    "start": 2356.5,
+    "end": 2357.5,
+    "text": " near to the speed of light."
+  },
+  {
+    "start": 2357.5,
+    "end": 2358.5,
+    "text": " Yeah."
+  },
+  {
+    "start": 2358.5,
+    "end": 2359.5,
+    "text": " You're going to have to slow down."
+  },
+  {
+    "start": 2359.5,
+    "end": 2361.62,
+    "text": " How far away does the sign need to be for you to de-accelerate?"
+  },
+  {
+    "start": 2361.62,
+    "end": 2362.62,
+    "text": " Decelerate."
+  },
+  {
+    "start": 2362.62,
+    "end": 2363.62,
+    "text": " Decelerate."
+  },
+  {
+    "start": 2363.62,
+    "end": 2365.78,
+    "text": " Where you go slow enough that you can take a left."
+  },
+  {
+    "start": 2365.78,
+    "end": 2369.34,
+    "text": " I mean, it depends how fast you're going because you said it's close to the speed of light."
+  },
+  {
+    "start": 2369.34,
+    "end": 2371.34,
+    "text": " Is it 99% the speed of light?"
+  },
+  {
+    "start": 2371.34,
+    "end": 2372.34,
+    "text": " Yeah."
+  },
+  {
+    "start": 2372.34,
+    "end": 2373.34,
+    "text": " Is it 98%?"
+  },
+  {
+    "start": 2373.34,
+    "end": 2374.34,
+    "text": " Is it 97%?"
+  },
+  {
+    "start": 2374.34,
+    "end": 2379.34,
+    "text": " That's a classic follow-up question of a person who does not know the answer."
+  },
+  {
+    "start": 2379.34,
+    "end": 2384.06,
+    "text": " I've just suddenly remembered this is to do with cars, but also to do with transistors."
+  },
+  {
+    "start": 2384.06,
+    "end": 2389.94,
+    "text": " And I remember that there was a guy, the co-creator of the transistor, won a Nobel Prize for it."
+  },
+  {
+    "start": 2389.94,
+    "end": 2393.3,
+    "text": " I'm going off the top of my head here, but he's one of the only few people to win two"
+  },
+  {
+    "start": 2393.3,
+    "end": 2395.34,
+    "text": " Nobel Prizes, right?"
+  },
+  {
+    "start": 2395.34,
+    "end": 2399.1,
+    "text": " So the second time that he got announced as the Nobel Prize winner, there was a party"
+  },
+  {
+    "start": 2399.1,
+    "end": 2402.3,
+    "text": " that was going to, because you know they kind of know that something's coming up, was being"
+  },
+  {
+    "start": 2402.3,
+    "end": 2403.38,
+    "text": " thrown for him."
+  },
+  {
+    "start": 2403.38,
+    "end": 2408.26,
+    "text": " And he almost didn't make it to the party because he couldn't open his electric garage because"
+  },
+  {
+    "start": 2408.26,
+    "end": 2411.26,
+    "text": " the transistor had broken that allowed for it to switch over."
+  },
+  {
+    "start": 2411.26,
+    "end": 2412.26,
+    "text": " Lovely."
+  },
+  {
+    "start": 2412.26,
+    "end": 2415.62,
+    "text": " And he had to come and pick him up and take him to the party."
+  },
+  {
+    "start": 2415.62,
+    "end": 2416.62,
+    "text": " More, Gordon Moore."
+  },
+  {
+    "start": 2416.62,
+    "end": 2419.7,
+    "text": " He was a very cool guy, very interesting guy, co-founded Intel."
+  },
+  {
+    "start": 2419.7,
+    "end": 2425.14,
+    "text": " He became incredibly rich obviously and gave loads and loads of his money away to protect"
+  },
+  {
+    "start": 2425.14,
+    "end": 2428.94,
+    "text": " the Amazon, protecting Salmon Rivers because he's a very keen fisherman."
+  },
+  {
+    "start": 2428.94,
+    "end": 2432.98,
+    "text": " But he founded Intel with Robert Noyce, was his colleague."
+  },
+  {
+    "start": 2432.98,
+    "end": 2433.98,
+    "text": " Noyce."
+  },
+  {
+    "start": 2433.98,
+    "end": 2437.46,
+    "text": " And they invented Brooklyn Nine-Nine, didn't they?"
+  },
+  {
+    "start": 2437.46,
+    "end": 2439.58,
+    "text": " They wanted to call the company More Noyce."
+  },
+  {
+    "start": 2439.58,
+    "end": 2440.58,
+    "text": " More Noyce."
+  },
+  {
+    "start": 2440.58,
+    "end": 2442.5,
+    "text": " This is more Noyce than anything else."
+  },
+  {
+    "start": 2442.5,
+    "end": 2444.9,
+    "text": " And certainly they thought it wouldn't be right for an electronics company, it wouldn't"
+  },
+  {
+    "start": 2444.9,
+    "end": 2445.9,
+    "text": " be appropriate or something."
+  },
+  {
+    "start": 2445.9,
+    "end": 2446.9,
+    "text": " Really?"
+  },
+  {
+    "start": 2446.9,
+    "end": 2447.9,
+    "text": " So they called it Intel."
+  },
+  {
+    "start": 2447.9,
+    "end": 2448.9,
+    "text": " Noyce Computers."
+  },
+  {
+    "start": 2448.9,
+    "end": 2449.9,
+    "text": " Intel."
+  },
+  {
+    "start": 2449.9,
+    "end": 2450.9,
+    "text": " I know."
+  },
+  {
+    "start": 2450.9,
+    "end": 2451.9,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 2451.9,
+    "end": 2456.34,
+    "text": " But I also love that his sort of contribution to managing is just coming to his team every"
+  },
+  {
+    "start": 2456.34,
+    "end": 2458.26,
+    "text": " year and saying, \"Double it.\""
+  },
+  {
+    "start": 2458.26,
+    "end": 2459.26,
+    "text": " Yeah."
+  },
+  {
+    "start": 2459.26,
+    "end": 2460.26,
+    "text": " That's it."
+  },
+  {
+    "start": 2460.26,
+    "end": 2461.26,
+    "text": " Well, yeah."
+  },
+  {
+    "start": 2461.26,
+    "end": 2465.98,
+    "text": " Because actually quite a lot of it with Mars Law became like a self-fulfilling prophecy."
+  },
+  {
+    "start": 2465.98,
+    "end": 2469.34,
+    "text": " They knew that it was going to have to double in a year or in two years and so that's what"
+  },
+  {
+    "start": 2469.34,
+    "end": 2470.34,
+    "text": " they did."
+  },
+  {
+    "start": 2470.34,
+    "end": 2473.14,
+    "text": " They hadn't gone faster but they were like, \"Oh no, it has to do this.\""
+  },
+  {
+    "start": 2473.14,
+    "end": 2474.14,
+    "text": " Right."
+  },
+  {
+    "start": 2474.14,
+    "end": 2475.82,
+    "text": " It's still holding up, I think."
+  },
+  {
+    "start": 2475.82,
+    "end": 2478.02,
+    "text": " It depends who you speak to."
+  },
+  {
+    "start": 2478.02,
+    "end": 2481.06,
+    "text": " People have been predicting that it's kind of, we can't possibly keep on doubling it every"
+  },
+  {
+    "start": 2481.06,
+    "end": 2483.38,
+    "text": " two, and maybe it's now close to every three or something."
+  },
+  {
+    "start": 2483.38,
+    "end": 2484.38,
+    "text": " But it's..."
+  },
+  {
+    "start": 2484.38,
+    "end": 2486.26,
+    "text": " Well, have you heard of Bremerman's Limit?"
+  },
+  {
+    "start": 2486.26,
+    "end": 2487.26,
+    "text": " No."
+  },
+  {
+    "start": 2487.26,
+    "end": 2488.26,
+    "text": " Bremerman's Limit."
+  },
+  {
+    "start": 2488.26,
+    "end": 2491.94,
+    "text": " So there was a guy called Hans Bremerman and he said that there was a limit on the maximum"
+  },
+  {
+    "start": 2491.94,
+    "end": 2495.74,
+    "text": " rate of computation that could be achieved in a self-contained system in the material"
+  },
+  {
+    "start": 2495.74,
+    "end": 2496.74,
+    "text": " universe."
+  },
+  {
+    "start": 2496.74,
+    "end": 2498.46,
+    "text": " So we would get to a limit of how much..."
+  },
+  {
+    "start": 2498.46,
+    "end": 2499.46,
+    "text": " I see."
+  },
+  {
+    "start": 2499.46,
+    "end": 2500.46,
+    "text": " And he used..."
+  },
+  {
+    "start": 2500.46,
+    "end": 2504.54,
+    "text": " I don't understand the mathematics of it, but he uses Einstein's equations in order to"
+  },
+  {
+    "start": 2504.54,
+    "end": 2506.54,
+    "text": " make sense of it."
+  },
+  {
+    "start": 2506.54,
+    "end": 2513.84,
+    "text": " So Bremerman, who was born in Bremen in Germany, to Bernard Bremenent and Bertha Bremenent."
+  },
+  {
+    "start": 2513.84,
+    "end": 2514.84,
+    "text": " Really."
+  },
+  {
+    "start": 2514.84,
+    "end": 2515.84,
+    "text": " So cool."
+  },
+  {
+    "start": 2515.84,
+    "end": 2521.02,
+    "text": " Do you know what the fastest supercomputer in England is called?"
+  },
+  {
+    "start": 2521.02,
+    "end": 2522.02,
+    "text": " In England?"
+  },
+  {
+    "start": 2522.02,
+    "end": 2523.02,
+    "text": " Oh."
+  },
+  {
+    "start": 2523.02,
+    "end": 2526.02,
+    "text": " So is it a classic English name like Nigel or...?"
+  },
+  {
+    "start": 2526.02,
+    "end": 2527.02,
+    "text": " Yeah."
+  },
+  {
+    "start": 2527.02,
+    "end": 2528.02,
+    "text": " It is."
+  },
+  {
+    "start": 2528.02,
+    "end": 2530.02,
+    "text": " Less patriarchal."
+  },
+  {
+    "start": 2530.02,
+    "end": 2531.02,
+    "text": " Betty."
+  },
+  {
+    "start": 2531.02,
+    "end": 2532.02,
+    "text": " Betty."
+  },
+  {
+    "start": 2532.02,
+    "end": 2533.02,
+    "text": " That's nice."
+  },
+  {
+    "start": 2533.02,
+    "end": 2536.78,
+    "text": " Betty is the 457th most powerful computer in the world."
+  },
+  {
+    "start": 2536.78,
+    "end": 2539.7,
+    "text": " Have you got a list that goes up to the 457?"
+  },
+  {
+    "start": 2539.7,
+    "end": 2540.7,
+    "text": " It goes up to 500."
+  },
+  {
+    "start": 2540.7,
+    "end": 2542.18,
+    "text": " I'll say Elizabeth."
+  },
+  {
+    "start": 2542.18,
+    "end": 2543.18,
+    "text": " No."
+  },
+  {
+    "start": 2543.18,
+    "end": 2544.18,
+    "text": " Oh."
+  },
+  {
+    "start": 2544.18,
+    "end": 2545.18,
+    "text": " Okay."
+  },
+  {
+    "start": 2545.18,
+    "end": 2546.18,
+    "text": " I mean, it's almost impossible to guess."
+  },
+  {
+    "start": 2546.18,
+    "end": 2547.18,
+    "text": " Oh, no."
+  },
+  {
+    "start": 2547.18,
+    "end": 2548.18,
+    "text": " Okay."
+  },
+  {
+    "start": 2548.18,
+    "end": 2549.18,
+    "text": " Well..."
+  },
+  {
+    "start": 2549.18,
+    "end": 2550.18,
+    "text": " But it's a woman's name."
+  },
+  {
+    "start": 2550.18,
+    "end": 2551.18,
+    "text": " It's a woman's name."
+  },
+  {
+    "start": 2551.18,
+    "end": 2552.18,
+    "text": " It's a woman's name."
+  },
+  {
+    "start": 2552.18,
+    "end": 2553.18,
+    "text": " Okay."
+  },
+  {
+    "start": 2553.18,
+    "end": 2554.18,
+    "text": " It's quite an old-fashioned woman's name."
+  },
+  {
+    "start": 2554.18,
+    "end": 2555.18,
+    "text": " Apologies to any of the people with this name."
+  },
+  {
+    "start": 2555.18,
+    "end": 2556.18,
+    "text": " Oh."
+  },
+  {
+    "start": 2556.18,
+    "end": 2557.18,
+    "text": " Margaret."
+  },
+  {
+    "start": 2557.18,
+    "end": 2558.18,
+    "text": " Oh."
+  },
+  {
+    "start": 2558.18,
+    "end": 2559.18,
+    "text": " It's Dawn."
+  },
+  {
+    "start": 2559.18,
+    "end": 2560.18,
+    "text": " Dawn."
+  },
+  {
+    "start": 2560.18,
+    "end": 2565.5,
+    "text": " Dawn is the fastest supercomputer in England and other supercomputers."
+  },
+  {
+    "start": 2565.5,
+    "end": 2572.82,
+    "text": " Robert is the 103rd, Alex is the 187th, Gene is the 288th, and Henry is the 293rd."
+  },
+  {
+    "start": 2572.82,
+    "end": 2575.9,
+    "text": " Some of the most uninspiring names."
+  },
+  {
+    "start": 2575.9,
+    "end": 2576.9,
+    "text": " It feels that way, doesn't it?"
+  },
+  {
+    "start": 2576.9,
+    "end": 2579.7,
+    "text": " Well, because Dawn is really good because you can say the dawn of a new age, or as you"
+  },
+  {
+    "start": 2579.7,
+    "end": 2583.7,
+    "text": " can't say, this is the Robert of a new age."
+  },
+  {
+    "start": 2583.7,
+    "end": 2588.42,
+    "text": " Maybe supercomputers stop being super, like surely supercomputers from 20 years ago are"
+  },
+  {
+    "start": 2588.42,
+    "end": 2589.42,
+    "text": " no longer super."
+  },
+  {
+    "start": 2589.42,
+    "end": 2590.42,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 2590.42,
+    "end": 2591.42,
+    "text": " Great point."
+  },
+  {
+    "start": 2591.42,
+    "end": 2592.42,
+    "text": " It's all the number of calculations per second, isn't it?"
+  },
+  {
+    "start": 2592.42,
+    "end": 2593.42,
+    "text": " Yeah."
+  },
+  {
+    "start": 2593.42,
+    "end": 2594.42,
+    "text": " And surely the bar keeps rising."
+  },
+  {
+    "start": 2594.42,
+    "end": 2595.42,
+    "text": " Right?"
+  },
+  {
+    "start": 2595.42,
+    "end": 2596.42,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 2596.42,
+    "end": 2599.54,
+    "text": " We had, using old computers, a very big problem a couple of years ago, four years ago."
+  },
+  {
+    "start": 2599.54,
+    "end": 2604.22,
+    "text": " So while the pandemic was breaking out, one thing that went a bit unnoticed is that hundreds"
+  },
+  {
+    "start": 2604.22,
+    "end": 2606.74,
+    "text": " of places got hit by the Millennium Bug Y2K."
+  },
+  {
+    "start": 2606.74,
+    "end": 2607.74,
+    "text": " What?"
+  },
+  {
+    "start": 2607.74,
+    "end": 2608.74,
+    "text": " In 2020."
+  },
+  {
+    "start": 2608.74,
+    "end": 2609.74,
+    "text": " In 2020."
+  },
+  {
+    "start": 2609.74,
+    "end": 2610.74,
+    "text": " Yeah."
+  },
+  {
+    "start": 2610.74,
+    "end": 2611.74,
+    "text": " Why?"
+  },
+  {
+    "start": 2611.74,
+    "end": 2612.74,
+    "text": " Because what happened was at the time."
+  },
+  {
+    "start": 2612.74,
+    "end": 2613.86,
+    "text": " It was a big problem, right?"
+  },
+  {
+    "start": 2613.86,
+    "end": 2617.06,
+    "text": " The problem was is that when we hit 2000, the computers thought it was 1900."
+  },
+  {
+    "start": 2617.06,
+    "end": 2618.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2618.06,
+    "end": 2619.06,
+    "text": " So it was jumping backwards."
+  },
+  {
+    "start": 2619.06,
+    "end": 2623.78,
+    "text": " So you would go 1997, 1998, 1999, 1900."
+  },
+  {
+    "start": 2623.78,
+    "end": 2624.78,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 2624.78,
+    "end": 2625.78,
+    "text": " And that was going to mess up."
+  },
+  {
+    "start": 2625.78,
+    "end": 2626.78,
+    "text": " And I was going to mess up everything."
+  },
+  {
+    "start": 2626.78,
+    "end": 2629.62,
+    "text": " That's the best setup for a romcom I have ever heard in my life."
+  },
+  {
+    "start": 2629.62,
+    "end": 2634.02,
+    "text": " A singleton in 1999 at a New Year's party travels back in time and falls in love with"
+  },
+  {
+    "start": 2634.02,
+    "end": 2635.02,
+    "text": " someone from 1900."
+  },
+  {
+    "start": 2635.02,
+    "end": 2636.02,
+    "text": " That's great."
+  },
+  {
+    "start": 2636.02,
+    "end": 2637.02,
+    "text": " That's great."
+  },
+  {
+    "start": 2637.02,
+    "end": 2640.1,
+    "text": " That's very nice with a computer that glitches and gets them."
+  },
+  {
+    "start": 2640.1,
+    "end": 2641.1,
+    "text": " Yes."
+  },
+  {
+    "start": 2641.1,
+    "end": 2644.14,
+    "text": " But what ended up happening was in that period where everyone was desperately trying to fix"
+  },
+  {
+    "start": 2644.14,
+    "end": 2649.34,
+    "text": " the Y2K bug, they changed the coding so that was 2020."
+  },
+  {
+    "start": 2649.34,
+    "end": 2652.98,
+    "text": " And they thought what would happen is, so 20 became the number, right?"
+  },
+  {
+    "start": 2652.98,
+    "end": 2656.34,
+    "text": " And they thought in the 20 years subsequent, they're going to become obsolete."
+  },
+  {
+    "start": 2656.34,
+    "end": 2657.42,
+    "text": " We'll have new computers."
+  },
+  {
+    "start": 2657.42,
+    "end": 2658.5,
+    "text": " This is not going to be an issue."
+  },
+  {
+    "start": 2658.5,
+    "end": 2659.5,
+    "text": " I see."
+  },
+  {
+    "start": 2659.5,
+    "end": 2663.62,
+    "text": " So computers thought it was 2020, but actually it was 2000, is that right?"
+  },
+  {
+    "start": 2663.62,
+    "end": 2664.62,
+    "text": " Yeah."
+  },
+  {
+    "start": 2664.62,
+    "end": 2665.62,
+    "text": " Yeah."
+  },
+  {
+    "start": 2665.62,
+    "end": 2666.78,
+    "text": " Exactly."
+  },
+  {
+    "start": 2666.78,
+    "end": 2670.98,
+    "text": " So then we got to 2020 and everyone went, like Brexit, we've been kicking it down the"
+  },
+  {
+    "start": 2670.98,
+    "end": 2671.98,
+    "text": " road."
+  },
+  {
+    "start": 2671.98,
+    "end": 2672.98,
+    "text": " We kicked it down the road."
+  },
+  {
+    "start": 2672.98,
+    "end": 2675.78,
+    "text": " Now a lot of places had changed their systems, but a bunch hadn't."
+  },
+  {
+    "start": 2675.78,
+    "end": 2680.62,
+    "text": " So there was, and it was weird things like there was a version of the game of WWF, which"
+  },
+  {
+    "start": 2680.62,
+    "end": 2682.74,
+    "text": " crashed because it was an online download."
+  },
+  {
+    "start": 2682.74,
+    "end": 2683.74,
+    "text": " Oh my God."
+  },
+  {
+    "start": 2683.74,
+    "end": 2684.74,
+    "text": " So they had to agree."
+  },
+  {
+    "start": 2684.74,
+    "end": 2685.74,
+    "text": " What did we do?"
+  },
+  {
+    "start": 2685.74,
+    "end": 2689.58,
+    "text": " Because I thought like planes were going to fall from the sky and stuff."
+  },
+  {
+    "start": 2689.58,
+    "end": 2692.86,
+    "text": " Not people won't be able to play WWF on the place."
+  },
+  {
+    "start": 2692.86,
+    "end": 2695.66,
+    "text": " We now work out how Dad knows about this problem."
+  },
+  {
+    "start": 2695.66,
+    "end": 2698.3,
+    "text": " His plans for lockdown were completely right."
+  },
+  {
+    "start": 2698.3,
+    "end": 2700.02,
+    "text": " This is a huge issue."
+  },
+  {
+    "start": 2700.02,
+    "end": 2703.58,
+    "text": " We could download WWF, also other things."
+  },
+  {
+    "start": 2703.58,
+    "end": 2705.7,
+    "text": " I imagine that."
+  },
+  {
+    "start": 2705.7,
+    "end": 2709.42,
+    "text": " Oh yeah, and 5,000 players fell out of the sky."
+  },
+  {
+    "start": 2709.42,
+    "end": 2710.42,
+    "text": " Yeah."
+  },
+  {
+    "start": 2710.42,
+    "end": 2713.98,
+    "text": " And it was like things like grocery stores that had till systems that were automated."
+  },
+  {
+    "start": 2713.98,
+    "end": 2714.98,
+    "text": " Right."
+  },
+  {
+    "start": 2714.98,
+    "end": 2715.98,
+    "text": " Suddenly those were crashing."
+  },
+  {
+    "start": 2715.98,
+    "end": 2716.98,
+    "text": " So you couldn't buy the game in the first place."
+  },
+  {
+    "start": 2716.98,
+    "end": 2717.98,
+    "text": " Exactly."
+  },
+  {
+    "start": 2717.98,
+    "end": 2718.98,
+    "text": " It was a nightmare."
+  },
+  {
+    "start": 2718.98,
+    "end": 2719.98,
+    "text": " It was horrible."
+  },
+  {
+    "start": 2719.98,
+    "end": 2722.98,
+    "text": " There was a website called Splunk, which suffered from it."
+  },
+  {
+    "start": 2722.98,
+    "end": 2723.98,
+    "text": " Not Splunk!"
+  },
+  {
+    "start": 2723.98,
+    "end": 2728.26,
+    "text": " Splunk is a website that looks for errors in computers."
+  },
+  {
+    "start": 2728.26,
+    "end": 2731.62,
+    "text": " How did you accidentally end up on that website?"
+  },
+  {
+    "start": 2731.62,
+    "end": 2733.82,
+    "text": " I'll tell you one more thing."
+  },
+  {
+    "start": 2733.82,
+    "end": 2734.82,
+    "text": " Yeah."
+  },
+  {
+    "start": 2734.82,
+    "end": 2735.82,
+    "text": " Okay."
+  },
+  {
+    "start": 2735.82,
+    "end": 2739.26,
+    "text": " This is about how your phone CPU is made, sort of, what is that, central processing unit?"
+  },
+  {
+    "start": 2739.26,
+    "end": 2740.26,
+    "text": " Yes."
+  },
+  {
+    "start": 2740.26,
+    "end": 2741.26,
+    "text": " Okay."
+  },
+  {
+    "start": 2741.26,
+    "end": 2742.74,
+    "text": " This is from an interview with a guy called Chris Miller, who's written a book called"
+  },
+  {
+    "start": 2742.74,
+    "end": 2743.74,
+    "text": " Chip War."
+  },
+  {
+    "start": 2743.74,
+    "end": 2744.74,
+    "text": " Okay."
+  },
+  {
+    "start": 2744.74,
+    "end": 2745.74,
+    "text": " I'm quoting him directly."
+  },
+  {
+    "start": 2745.74,
+    "end": 2747.62,
+    "text": " \"This is what gets into your modern phones, right?"
+  },
+  {
+    "start": 2747.62,
+    "end": 2752.82,
+    "text": " A ball of tin falls at a rate of several hundred miles an hour through a vacuum."
+  },
+  {
+    "start": 2752.82,
+    "end": 2755.5,
+    "text": " It's only about 30 millionths of a metre across.\""
+  },
+  {
+    "start": 2755.5,
+    "end": 2756.5,
+    "text": " Okay."
+  },
+  {
+    "start": 2756.5,
+    "end": 2757.5,
+    "text": " Small ball of tin."
+  },
+  {
+    "start": 2757.5,
+    "end": 2761.62,
+    "text": " \"It's pulverized by two shots from one of the most powerful lasers ever deployed and"
+  },
+  {
+    "start": 2761.62,
+    "end": 2766.7,
+    "text": " explodes into a plasma measuring several times hotter than the surface of the sun."
+  },
+  {
+    "start": 2766.7,
+    "end": 2774.1,
+    "text": " This plasma emits extreme ultraviolet light at exactly the right wavelength of 13.5 nanometers,"
+  },
+  {
+    "start": 2774.1,
+    "end": 2777.74,
+    "text": " which is then collected via a dozen mirrors, which are themselves the flattest mirrors"
+  },
+  {
+    "start": 2777.74,
+    "end": 2780.02,
+    "text": " humans have ever produced."
+  },
+  {
+    "start": 2780.02,
+    "end": 2783.9,
+    "text": " The mirrors reflect the light at just the right angle so it hits the silicon wafer and"
+  },
+  {
+    "start": 2783.9,
+    "end": 2787.94,
+    "text": " carves the circuits onto the chips that make your iPhone possible.\""
+  },
+  {
+    "start": 2787.94,
+    "end": 2788.94,
+    "text": " What?"
+  },
+  {
+    "start": 2788.94,
+    "end": 2792.06,
+    "text": " \"And that's so that Dan can play WWF games on his phone.\""
+  },
+  {
+    "start": 2792.06,
+    "end": 2795.1,
+    "text": " It's the biggest step down for this system."
+  },
+  {
+    "start": 2795.1,
+    "end": 2796.1,
+    "text": " Isn't that nuts?"
+  },
+  {
+    "start": 2796.1,
+    "end": 2798.46,
+    "text": " I don't think I understood any of that."
+  },
+  {
+    "start": 2798.46,
+    "end": 2799.46,
+    "text": " I'll be honest."
+  },
+  {
+    "start": 2799.46,
+    "end": 2800.46,
+    "text": " I'm clinging on."
+  },
+  {
+    "start": 2800.46,
+    "end": 2801.46,
+    "text": " I mean, it's incredible."
+  },
+  {
+    "start": 2801.46,
+    "end": 2804.46,
+    "text": " Oh, we should say, Kenny Stoltz, a listener sent that in a little while ago, that interview"
+  },
+  {
+    "start": 2804.46,
+    "end": 2805.46,
+    "text": " with Chris Miller."
+  },
+  {
+    "start": 2805.46,
+    "end": 2807.62,
+    "text": " It's just, hey, it's nuts, isn't it?"
+  },
+  {
+    "start": 2807.62,
+    "end": 2811.42,
+    "text": " These machines, they're so accurate that it's like shooting a laser from the moon and hitting"
+  },
+  {
+    "start": 2811.42,
+    "end": 2813.1,
+    "text": " an individual coin on Earth."
+  },
+  {
+    "start": 2813.1,
+    "end": 2817.06,
+    "text": " Apple deserve every penny they get, don't they?"
+  },
+  {
+    "start": 2817.06,
+    "end": 2820.7,
+    "text": " Especially the podcasting team."
+  },
+  {
+    "start": 2820.7,
+    "end": 2830.42,
+    "text": " Okay, it is time for our final fact of the show, and that is my fact."
+  },
+  {
+    "start": 2830.42,
+    "end": 2834.54,
+    "text": " My fact this week is that on the same day that Joni Mitchell released the Greatest Hits"
+  },
+  {
+    "start": 2834.54,
+    "end": 2838.7,
+    "text": " album, she also released a Greatest Misses album."
+  },
+  {
+    "start": 2838.7,
+    "end": 2839.7,
+    "text": " Brilliant."
+  },
+  {
+    "start": 2839.7,
+    "end": 2840.7,
+    "text": " Yeah."
+  },
+  {
+    "start": 2840.7,
+    "end": 2841.7,
+    "text": " So good."
+  },
+  {
+    "start": 2841.7,
+    "end": 2842.7,
+    "text": " I know."
+  },
+  {
+    "start": 2842.7,
+    "end": 2843.7,
+    "text": " Is it terrible?"
+  },
+  {
+    "start": 2843.7,
+    "end": 2845.7,
+    "text": " Like, is it absolutely awful?"
+  },
+  {
+    "start": 2845.7,
+    "end": 2846.7,
+    "text": " Bad songs."
+  },
+  {
+    "start": 2846.7,
+    "end": 2848.7,
+    "text": " A case of you is on it."
+  },
+  {
+    "start": 2848.7,
+    "end": 2849.7,
+    "text": " What's that?"
+  },
+  {
+    "start": 2849.7,
+    "end": 2850.7,
+    "text": " So good."
+  },
+  {
+    "start": 2850.7,
+    "end": 2851.7,
+    "text": " That's one of her songs."
+  },
+  {
+    "start": 2851.7,
+    "end": 2852.7,
+    "text": " Okay."
+  },
+  {
+    "start": 2852.7,
+    "end": 2853.7,
+    "text": " Yeah."
+  },
+  {
+    "start": 2853.7,
+    "end": 2854.7,
+    "text": " But I mean, it's a collection from other albums, right?"
+  },
+  {
+    "start": 2854.7,
+    "end": 2855.7,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 2855.7,
+    "end": 2856.7,
+    "text": " It's her favorite ones that weren't commercially successful."
+  },
+  {
+    "start": 2856.7,
+    "end": 2857.7,
+    "text": " Exactly."
+  },
+  {
+    "start": 2857.7,
+    "end": 2858.7,
+    "text": " That's right."
+  },
+  {
+    "start": 2858.7,
+    "end": 2859.7,
+    "text": " Okay."
+  },
+  {
+    "start": 2859.7,
+    "end": 2863.9,
+    "text": " And she was so happy with it, she tried to release Misses 2, but the record label rejected"
+  },
+  {
+    "start": 2863.9,
+    "end": 2864.9,
+    "text": " that."
+  },
+  {
+    "start": 2864.9,
+    "end": 2867.06,
+    "text": " And the only reason it came out, the record label didn't want to do it, but it was like"
+  },
+  {
+    "start": 2867.06,
+    "end": 2868.06,
+    "text": " a compromise."
+  },
+  {
+    "start": 2868.06,
+    "end": 2869.06,
+    "text": " It was a bargaining."
+  },
+  {
+    "start": 2869.06,
+    "end": 2871.42,
+    "text": " She said, \"You can do the greatest hits if I can do the greatest misses.\""
+  },
+  {
+    "start": 2871.42,
+    "end": 2872.42,
+    "text": " Yeah."
+  },
+  {
+    "start": 2872.42,
+    "end": 2873.82,
+    "text": " I don't know much about Joni Mitchell."
+  },
+  {
+    "start": 2873.82,
+    "end": 2874.82,
+    "text": " She's an incredible artist."
+  },
+  {
+    "start": 2874.82,
+    "end": 2880.02,
+    "text": " I mean, you know, she's, she had a really nice moment a few weeks ago at the Grammys."
+  },
+  {
+    "start": 2880.02,
+    "end": 2881.42,
+    "text": " She performed for the first time."
+  },
+  {
+    "start": 2881.42,
+    "end": 2883.06,
+    "text": " She's 80 years old."
+  },
+  {
+    "start": 2883.06,
+    "end": 2884.06,
+    "text": " She sang a song."
+  },
+  {
+    "start": 2884.06,
+    "end": 2885.06,
+    "text": " Not for the first time."
+  },
+  {
+    "start": 2885.06,
+    "end": 2886.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2886.06,
+    "end": 2887.06,
+    "text": " For the first time ever."
+  },
+  {
+    "start": 2887.06,
+    "end": 2888.06,
+    "text": " How's she ever..."
+  },
+  {
+    "start": 2888.06,
+    "end": 2890.1,
+    "text": " Yeah, she's never, she's won, I think, 10 Grammys, but she's never performed at the"
+  },
+  {
+    "start": 2890.1,
+    "end": 2891.1,
+    "text": " Grammys."
+  },
+  {
+    "start": 2891.1,
+    "end": 2892.1,
+    "text": " Oh, at the Grammys?"
+  },
+  {
+    "start": 2892.1,
+    "end": 2893.1,
+    "text": " Yeah."
+  },
+  {
+    "start": 2893.1,
+    "end": 2894.1,
+    "text": " Sorry, you said she performed for the first time."
+  },
+  {
+    "start": 2894.1,
+    "end": 2896.42,
+    "text": " I think I said where she performed at the first time."
+  },
+  {
+    "start": 2896.42,
+    "end": 2897.42,
+    "text": " No, right, right, okay."
+  },
+  {
+    "start": 2897.42,
+    "end": 2901.1,
+    "text": " Regardless, she's 80 and she sits, you know, in a chair, she sings this beautiful song."
+  },
+  {
+    "start": 2901.1,
+    "end": 2905.66,
+    "text": " She wins a Grammy for best folk album, for a live album that she did, which is a bit"
+  },
+  {
+    "start": 2905.66,
+    "end": 2909.7,
+    "text": " annoying, I think, for the other folk artists, I would say."
+  },
+  {
+    "start": 2909.7,
+    "end": 2910.7,
+    "text": " Okay."
+  },
+  {
+    "start": 2910.7,
+    "end": 2912.74,
+    "text": " Controversial, okay."
+  },
+  {
+    "start": 2912.74,
+    "end": 2918.34,
+    "text": " And yeah, she's someone who was a part of the whole scene with Dylan, Bob Dylan, and"
+  },
+  {
+    "start": 2918.34,
+    "end": 2920.98,
+    "text": " Leonard Cohen and all that, for listeners that don't know her."
+  },
+  {
+    "start": 2920.98,
+    "end": 2922.7,
+    "text": " You won't find much of her stuff on Spotify."
+  },
+  {
+    "start": 2922.7,
+    "end": 2926.22,
+    "text": " She's one of those artists where you probably have to go to YouTube or..."
+  },
+  {
+    "start": 2926.22,
+    "end": 2928.9,
+    "text": " She took it off because of Joe Rogan, right?"
+  },
+  {
+    "start": 2928.9,
+    "end": 2929.9,
+    "text": " Did she?"
+  },
+  {
+    "start": 2929.9,
+    "end": 2930.9,
+    "text": " Yeah."
+  },
+  {
+    "start": 2930.9,
+    "end": 2933.18,
+    "text": " Yeah, Joe Rogan was Spotify."
+  },
+  {
+    "start": 2933.18,
+    "end": 2934.18,
+    "text": " Yeah."
+  },
+  {
+    "start": 2934.18,
+    "end": 2935.18,
+    "text": " Exclusive."
+  },
+  {
+    "start": 2935.18,
+    "end": 2936.18,
+    "text": " Exclusive, right?"
+  },
+  {
+    "start": 2936.18,
+    "end": 2938.58,
+    "text": " And he was saying some things that people didn't agree with."
+  },
+  {
+    "start": 2938.58,
+    "end": 2942.7,
+    "text": " I've got to say, I'm a big fan of Spotify as I am with Apple and all podcast profiles."
+  },
+  {
+    "start": 2942.7,
+    "end": 2945.66,
+    "text": " I'm so glad that the end to that sentence wasn't Joe Rogan."
+  },
+  {
+    "start": 2945.66,
+    "end": 2947.66,
+    "text": " I had to say, I'm a big fan."
+  },
+  {
+    "start": 2947.66,
+    "end": 2951.1,
+    "text": " Yeah, but a load of people took their stuff off Spotify because of that, and she was one"
+  },
+  {
+    "start": 2951.1,
+    "end": 2952.1,
+    "text": " of them."
+  },
+  {
+    "start": 2952.1,
+    "end": 2954.7,
+    "text": " I mean, do we know it wasn't because of us, because we are on Spotify?"
+  },
+  {
+    "start": 2954.7,
+    "end": 2957.1,
+    "text": " Yeah, but we're not an exclusive Spotify."
+  },
+  {
+    "start": 2957.1,
+    "end": 2961.3,
+    "text": " Maybe it was Parenting Hell with Josh Wickham that she hated."
+  },
+  {
+    "start": 2961.3,
+    "end": 2962.3,
+    "text": " Wow."
+  },
+  {
+    "start": 2962.3,
+    "end": 2963.3,
+    "text": " Okay."
+  },
+  {
+    "start": 2963.3,
+    "end": 2964.3,
+    "text": " She's amazing."
+  },
+  {
+    "start": 2964.3,
+    "end": 2965.3,
+    "text": " She's pretty cool."
+  },
+  {
+    "start": 2965.3,
+    "end": 2970.9,
+    "text": " She had polio when she was nine years old, and interesting thing about that is I was"
+  },
+  {
+    "start": 2970.9,
+    "end": 2973.26,
+    "text": " reading about other people who had polio around the time."
+  },
+  {
+    "start": 2973.26,
+    "end": 2978.74,
+    "text": " Mia Farrow had polio when she was nine, and she wrote that she was taken to an isolation"
+  },
+  {
+    "start": 2978.74,
+    "end": 2983.42,
+    "text": " unit because it's catching polio, obviously, and she was taken away from all of her family"
+  },
+  {
+    "start": 2983.42,
+    "end": 2986.5,
+    "text": " for months, and all of her belongings were burned."
+  },
+  {
+    "start": 2986.5,
+    "end": 2988.02,
+    "text": " Is this Mia Farrow?"
+  },
+  {
+    "start": 2988.02,
+    "end": 2989.02,
+    "text": " Right."
+  },
+  {
+    "start": 2989.02,
+    "end": 2990.02,
+    "text": " Blimey."
+  },
+  {
+    "start": 2990.02,
+    "end": 2991.02,
+    "text": " It's not amazing."
+  },
+  {
+    "start": 2991.02,
+    "end": 2992.86,
+    "text": " You're basically, at nine years old, you've got this disease."
+  },
+  {
+    "start": 2992.86,
+    "end": 2995.58,
+    "text": " They take you away, and they burn everything that you own."
+  },
+  {
+    "start": 2995.58,
+    "end": 3000.1,
+    "text": " Is that the case with polio, that if you touch your toy, you could get it from that, or was"
+  },
+  {
+    "start": 3000.1,
+    "end": 3001.94,
+    "text": " that a, we weren't sure what it was?"
+  },
+  {
+    "start": 3001.94,
+    "end": 3002.94,
+    "text": " No, it can."
+  },
+  {
+    "start": 3002.94,
+    "end": 3005.7,
+    "text": " It can go through bodily fluids and stuff like that."
+  },
+  {
+    "start": 3005.7,
+    "end": 3007.98,
+    "text": " Obviously, we have vaccines for it now."
+  },
+  {
+    "start": 3007.98,
+    "end": 3011.54,
+    "text": " Joe Rogan told me to say that they don't want that."
+  },
+  {
+    "start": 3011.54,
+    "end": 3016.38,
+    "text": " No, we have vaccines for it now, so it's not as much of a problem, obviously."
+  },
+  {
+    "start": 3016.38,
+    "end": 3020.26,
+    "text": " Yeah, it can go through feces, through spits, through esophageal urethra."
+  },
+  {
+    "start": 3020.26,
+    "end": 3023.7,
+    "text": " The speed with which we went from Joni Mitchell to feces."
+  },
+  {
+    "start": 3023.7,
+    "end": 3024.7,
+    "text": " Yeah!"
+  },
+  {
+    "start": 3024.7,
+    "end": 3028.66,
+    "text": " Well, that's our pipeline, I'm afraid, that's how we roll."
+  },
+  {
+    "start": 3028.66,
+    "end": 3030.46,
+    "text": " It comes through our pipeline, yeah."
+  },
+  {
+    "start": 3030.46,
+    "end": 3033.86,
+    "text": " No, Ian Dury of Ian Dury and the Blockets had polio as a child."
+  },
+  {
+    "start": 3033.86,
+    "end": 3034.86,
+    "text": " Did he?"
+  },
+  {
+    "start": 3034.86,
+    "end": 3035.86,
+    "text": " Yeah, yeah, so a lot of musicians."
+  },
+  {
+    "start": 3035.86,
+    "end": 3036.86,
+    "text": " Yeah."
+  },
+  {
+    "start": 3036.86,
+    "end": 3037.86,
+    "text": " Yeah."
+  },
+  {
+    "start": 3037.86,
+    "end": 3038.86,
+    "text": " How interesting."
+  },
+  {
+    "start": 3038.86,
+    "end": 3043.5,
+    "text": " Supposedly gave her an edge to how she tuned her guitar and so polio, because, Joni, yeah,"
+  },
+  {
+    "start": 3043.5,
+    "end": 3048.86,
+    "text": " so she got into guitaring about 15 years old at school and she was recovering from polio"
+  },
+  {
+    "start": 3048.86,
+    "end": 3051.9,
+    "text": " and it just meant that it must have been harder to tune a guitar for her."
+  },
+  {
+    "start": 3051.9,
+    "end": 3055.5,
+    "text": " Yeah, it kind of changes the way that your bone structure works and stuff like that."
+  },
+  {
+    "start": 3055.5,
+    "end": 3059.42,
+    "text": " There was a footballer called Grincha who had polio as a child and it made his legs"
+  },
+  {
+    "start": 3059.42,
+    "end": 3063.74,
+    "text": " bandy, but it meant that he kind of ran in a way that no one else ran and it kind of"
+  },
+  {
+    "start": 3063.74,
+    "end": 3065.86,
+    "text": " helped him to play football, supposedly."
+  },
+  {
+    "start": 3065.86,
+    "end": 3066.86,
+    "text": " Right."
+  },
+  {
+    "start": 3066.86,
+    "end": 3072.38,
+    "text": " She started smoking at the age of nine and she started singing because she wanted to"
+  },
+  {
+    "start": 3072.38,
+    "end": 3079.18,
+    "text": " get smoking money, so she was in a cafe in Calgary in Canada and she was the resident"
+  },
+  {
+    "start": 3079.18,
+    "end": 3084.14,
+    "text": " artist and she was drawing people and pictures would go up on the walls and then she needed"
+  },
+  {
+    "start": 3084.14,
+    "end": 3089.06,
+    "text": " a bit more money, so she started singing and everyone said, \"You're a pretty good singer.\""
+  },
+  {
+    "start": 3089.06,
+    "end": 3094.1,
+    "text": " And so she went home and asked her mum if her mum would buy her a ukulele and her mum"
+  },
+  {
+    "start": 3094.1,
+    "end": 3095.58,
+    "text": " said, \"Who do you think you are?"
+  },
+  {
+    "start": 3095.58,
+    "end": 3096.58,
+    "text": " Kitty Wells?\""
+  },
+  {
+    "start": 3096.58,
+    "end": 3099.06,
+    "text": " A good one."
+  },
+  {
+    "start": 3099.06,
+    "end": 3101.42,
+    "text": " I think it was a different time."
+  },
+  {
+    "start": 3101.42,
+    "end": 3104.14,
+    "text": " At the time, that was probably a really sick burn."
+  },
+  {
+    "start": 3104.14,
+    "end": 3110.26,
+    "text": " Kitty Wells, she was the first female country singer to get to the top of the US charts."
+  },
+  {
+    "start": 3110.26,
+    "end": 3114.02,
+    "text": " With her song, it wasn't God who made honky-tonk angels."
+  },
+  {
+    "start": 3114.02,
+    "end": 3116.82,
+    "text": " This is the kind of song I'd like to listen to actually."
+  },
+  {
+    "start": 3116.82,
+    "end": 3117.82,
+    "text": " Yeah."
+  },
+  {
+    "start": 3117.82,
+    "end": 3120.58,
+    "text": " So was it that she started singing at the age of nine and then people thought, you know,"
+  },
+  {
+    "start": 3120.58,
+    "end": 3122.78,
+    "text": " what would make this nine-year-old's voice even better?"
+  },
+  {
+    "start": 3122.78,
+    "end": 3127.1,
+    "text": " Twenty bent on it and it was a day and then she got into it that way."
+  },
+  {
+    "start": 3127.1,
+    "end": 3129.46,
+    "text": " It wasn't that."
+  },
+  {
+    "start": 3129.46,
+    "end": 3134.54,
+    "text": " She started smoking at the age of nine and then at the age of like 14 or 15, she was"
+  },
+  {
+    "start": 3134.54,
+    "end": 3136.06,
+    "text": " like, \"I need money for cigarettes.\""
+  },
+  {
+    "start": 3136.06,
+    "end": 3138.74,
+    "text": " So let me write a masterpiece."
+  },
+  {
+    "start": 3138.74,
+    "end": 3139.74,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 3139.74,
+    "end": 3143.3,
+    "text": " Calgary, Alberta, Canada, that's where Bret the Hitman Heart is from as you would know"
+  },
+  {
+    "start": 3143.3,
+    "end": 3145.5,
+    "text": " if you had the WWE wrestling game."
+  },
+  {
+    "start": 3145.5,
+    "end": 3150.9,
+    "text": " Oh, you would also know that if you spent any time with Dan over the last 20 years."
+  },
+  {
+    "start": 3150.9,
+    "end": 3156.18,
+    "text": " And then she started dating David Crosby from Crosby Stills and Nash."
+  },
+  {
+    "start": 3156.18,
+    "end": 3162.58,
+    "text": " And Crosby sort of invited Eric Clapton over to kind of check out this Joni Mitchell and"
+  },
+  {
+    "start": 3162.58,
+    "end": 3168.66,
+    "text": " he said that Clapton sat mesmerised by her playing and her different tunings of her guitar,"
+  },
+  {
+    "start": 3168.66,
+    "end": 3171.86,
+    "text": " although he also said that it might have been slightly due to the fact of all the weed that"
+  },
+  {
+    "start": 3171.86,
+    "end": 3172.86,
+    "text": " he'd smelt at the time."
+  },
+  {
+    "start": 3172.86,
+    "end": 3173.86,
+    "text": " Absolutely."
+  },
+  {
+    "start": 3173.86,
+    "end": 3177.94,
+    "text": " He said, \"I mean, she has no kitty wells.\""
+  },
+  {
+    "start": 3177.94,
+    "end": 3182.42,
+    "text": " She is, I mean, to watch footage of her in that period is spectacular."
+  },
+  {
+    "start": 3182.42,
+    "end": 3183.5,
+    "text": " Her music is extraordinary."
+  },
+  {
+    "start": 3183.5,
+    "end": 3184.5,
+    "text": " The songwriting is incredible."
+  },
+  {
+    "start": 3184.5,
+    "end": 3187.62,
+    "text": " And Blue is just consistently voted as one of the greatest albums."
+  },
+  {
+    "start": 3187.62,
+    "end": 3192.82,
+    "text": " Yeah, it's one of her albums, which is always very near the top of greatest albums of all"
+  },
+  {
+    "start": 3192.82,
+    "end": 3193.82,
+    "text": " time."
+  },
+  {
+    "start": 3193.82,
+    "end": 3199.46,
+    "text": " If you're a millennial, you know Joni Mitchell from the heartbreaking scene in the film Love"
+  },
+  {
+    "start": 3199.46,
+    "end": 3206.06,
+    "text": " Actually, where Emma Thompson receives a gift from her husband, Alan Rickman, and she thinks"
+  },
+  {
+    "start": 3206.06,
+    "end": 3208.94,
+    "text": " it's a necklace, but it's really just a Joni Mitchell CD."
+  },
+  {
+    "start": 3208.94,
+    "end": 3209.94,
+    "text": " Oh, yes."
+  },
+  {
+    "start": 3209.94,
+    "end": 3210.94,
+    "text": " And then she's playing it."
+  },
+  {
+    "start": 3210.94,
+    "end": 3214.34,
+    "text": " And are you saying that, actually, that's quite a good present to give because she's"
+  },
+  {
+    "start": 3214.34,
+    "end": 3215.34,
+    "text": " an incredible shunter."
+  },
+  {
+    "start": 3215.34,
+    "end": 3216.34,
+    "text": " Better than a necklace."
+  },
+  {
+    "start": 3216.34,
+    "end": 3217.34,
+    "text": " Yeah."
+  },
+  {
+    "start": 3217.34,
+    "end": 3219.58,
+    "text": " But then it turns out he gave the necklace to his mistress."
+  },
+  {
+    "start": 3219.58,
+    "end": 3220.58,
+    "text": " That's the thing."
+  },
+  {
+    "start": 3220.58,
+    "end": 3224.78,
+    "text": " But if you're going to find out that your husband's taken on a mistress, that's a good present"
+  },
+  {
+    "start": 3224.78,
+    "end": 3225.78,
+    "text": " to receive."
+  },
+  {
+    "start": 3225.78,
+    "end": 3226.78,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 3226.78,
+    "end": 3228.26,
+    "text": " Joni Mitchell is great soundtrack for..."
+  },
+  {
+    "start": 3228.26,
+    "end": 3229.26,
+    "text": " Right."
+  },
+  {
+    "start": 3229.26,
+    "end": 3231.78,
+    "text": " And did they split up because of that moment in the film?"
+  },
+  {
+    "start": 3231.78,
+    "end": 3232.78,
+    "text": " I don't remember."
+  },
+  {
+    "start": 3232.78,
+    "end": 3233.78,
+    "text": " I don't think they don't."
+  },
+  {
+    "start": 3233.78,
+    "end": 3234.78,
+    "text": " No, she takes..."
+  },
+  {
+    "start": 3234.78,
+    "end": 3235.78,
+    "text": " He takes her back."
+  },
+  {
+    "start": 3235.78,
+    "end": 3236.78,
+    "text": " Basically."
+  },
+  {
+    "start": 3236.78,
+    "end": 3240.26,
+    "text": " He very generously takes her back."
+  },
+  {
+    "start": 3240.26,
+    "end": 3241.26,
+    "text": " She takes him back."
+  },
+  {
+    "start": 3241.26,
+    "end": 3243.18,
+    "text": " She says, \"Oh, he's just been a bit silly until now."
+  },
+  {
+    "start": 3243.18,
+    "end": 3244.18,
+    "text": " It's all fine.\""
+  },
+  {
+    "start": 3244.18,
+    "end": 3245.18,
+    "text": " She doesn't quite do it like that."
+  },
+  {
+    "start": 3245.18,
+    "end": 3246.18,
+    "text": " Yeah."
+  },
+  {
+    "start": 3246.18,
+    "end": 3247.18,
+    "text": " Well, it's not far off."
+  },
+  {
+    "start": 3247.18,
+    "end": 3250.74,
+    "text": " Joni Mitchell split up with David Crosby by singing him a song at a party."
+  },
+  {
+    "start": 3250.74,
+    "end": 3251.74,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 3251.74,
+    "end": 3252.74,
+    "text": " Oh, that's brutal."
+  },
+  {
+    "start": 3252.74,
+    "end": 3256.34,
+    "text": " He has been cheating on her and she wrote this song, which basically, I haven't heard"
+  },
+  {
+    "start": 3256.34,
+    "end": 3260.1,
+    "text": " the song, but I imagine in the middle it goes, \"You're fucking dumps, mate.\""
+  },
+  {
+    "start": 3260.1,
+    "end": 3261.1,
+    "text": " Yeah."
+  },
+  {
+    "start": 3261.1,
+    "end": 3262.1,
+    "text": " Whatever."
+  },
+  {
+    "start": 3262.1,
+    "end": 3263.78,
+    "text": " But she played it once and then he was like, \"Oh, that's really good.\""
+  },
+  {
+    "start": 3263.78,
+    "end": 3264.78,
+    "text": " And she went, \"Ugh.\""
+  },
+  {
+    "start": 3264.78,
+    "end": 3267.94,
+    "text": " And played it again because he didn't get it."
+  },
+  {
+    "start": 3267.94,
+    "end": 3270.42,
+    "text": " Do we know what it's called?"
+  },
+  {
+    "start": 3270.42,
+    "end": 3271.42,
+    "text": " Do we have lyrics?"
+  },
+  {
+    "start": 3271.42,
+    "end": 3274.9,
+    "text": " It's called \"The Song About the Midway,\" but I haven't seen the lyrics."
+  },
+  {
+    "start": 3274.9,
+    "end": 3279.42,
+    "text": " I would have called it something like, \"Nick is on the backseat,\" or something that really"
+  },
+  {
+    "start": 3279.42,
+    "end": 3281.66,
+    "text": " makes him worried even as you're starting to hear the song."
+  },
+  {
+    "start": 3281.66,
+    "end": 3282.66,
+    "text": " Oh, I see."
+  },
+  {
+    "start": 3282.66,
+    "end": 3286.14,
+    "text": " When you overdo it on the metaphor so much, people can't quite..."
+  },
+  {
+    "start": 3286.14,
+    "end": 3287.14,
+    "text": " The Midway."
+  },
+  {
+    "start": 3287.14,
+    "end": 3288.14,
+    "text": " Sorry."
+  },
+  {
+    "start": 3288.14,
+    "end": 3291.22,
+    "text": " Is that the rift that goes through Jillingers that you're talking about?"
+  },
+  {
+    "start": 3291.22,
+    "end": 3296.62,
+    "text": " We're talking about the Battle of Medway."
+  },
+  {
+    "start": 3296.62,
+    "end": 3301.42,
+    "text": " People who've never done their greatest hits album, AC/DC, you know the reason why?"
+  },
+  {
+    "start": 3301.42,
+    "end": 3302.74,
+    "text": " Because they're all greatest hits albums."
+  },
+  {
+    "start": 3302.74,
+    "end": 3303.74,
+    "text": " Yeah."
+  },
+  {
+    "start": 3303.74,
+    "end": 3304.74,
+    "text": " Thank you."
+  },
+  {
+    "start": 3304.74,
+    "end": 3306.46,
+    "text": " Is that what they said or are you saying?"
+  },
+  {
+    "start": 3306.46,
+    "end": 3307.46,
+    "text": " I think we agree."
+  },
+  {
+    "start": 3307.46,
+    "end": 3309.78,
+    "text": " I and AC/DC agree on this."
+  },
+  {
+    "start": 3309.78,
+    "end": 3310.78,
+    "text": " Yeah."
+  },
+  {
+    "start": 3310.78,
+    "end": 3316.38,
+    "text": " No, I think a lot of artists fear the slight kind of creative death of, \"Here are your"
+  },
+  {
+    "start": 3316.38,
+    "end": 3318.78,
+    "text": " best songs,\" and that's it."
+  },
+  {
+    "start": 3318.78,
+    "end": 3322.46,
+    "text": " But you can just do another, Aaron Carter, his most requested hit."
+  },
+  {
+    "start": 3322.46,
+    "end": 3323.46,
+    "text": " Who?"
+  },
+  {
+    "start": 3323.46,
+    "end": 3324.46,
+    "text": " Aaron Carter."
+  },
+  {
+    "start": 3324.46,
+    "end": 3325.46,
+    "text": " Aaron Carter."
+  },
+  {
+    "start": 3325.46,
+    "end": 3326.46,
+    "text": " Aaron Carter."
+  },
+  {
+    "start": 3326.46,
+    "end": 3327.46,
+    "text": " Yeah."
+  },
+  {
+    "start": 3327.46,
+    "end": 3328.98,
+    "text": " Like the American Backstreet Boys."
+  },
+  {
+    "start": 3328.98,
+    "end": 3330.14,
+    "text": " He was the younger brother."
+  },
+  {
+    "start": 3330.14,
+    "end": 3332.46,
+    "text": " He passed away very sadly, not too long ago."
+  },
+  {
+    "start": 3332.46,
+    "end": 3333.46,
+    "text": " Did he?"
+  },
+  {
+    "start": 3333.46,
+    "end": 3334.46,
+    "text": " Yeah."
+  },
+  {
+    "start": 3334.46,
+    "end": 3335.46,
+    "text": " I didn't know that."
+  },
+  {
+    "start": 3335.46,
+    "end": 3336.46,
+    "text": " Because most..."
+  },
+  {
+    "start": 3336.46,
+    "end": 3337.46,
+    "text": " I was looking up a huge list of greatest hits albums."
+  },
+  {
+    "start": 3337.46,
+    "end": 3338.46,
+    "text": " Yeah."
+  },
+  {
+    "start": 3338.46,
+    "end": 3339.46,
+    "text": " Long list."
+  },
+  {
+    "start": 3339.46,
+    "end": 3340.46,
+    "text": " They're almost all called greatest hits, which I think is quite dull."
+  },
+  {
+    "start": 3340.46,
+    "end": 3342.46,
+    "text": " You were looking at this list and then you stopped at A.A."
+  },
+  {
+    "start": 3342.46,
+    "end": 3343.46,
+    "text": " Run."
+  },
+  {
+    "start": 3343.46,
+    "end": 3344.46,
+    "text": " Yes."
+  },
+  {
+    "start": 3344.46,
+    "end": 3345.46,
+    "text": " Yeah."
+  },
+  {
+    "start": 3345.46,
+    "end": 3347.46,
+    "text": " Anything about ZZ Top?"
+  },
+  {
+    "start": 3347.46,
+    "end": 3354.14,
+    "text": " That's why you keep coming up with crime things all day."
+  },
+  {
+    "start": 3354.14,
+    "end": 3356.3,
+    "text": " It's like, \"I've been busted by the alphabet."
+  },
+  {
+    "start": 3356.3,
+    "end": 3357.3,
+    "text": " I'm gutted.\""
+  },
+  {
+    "start": 3357.3,
+    "end": 3363.1,
+    "text": " But his was called \"Most Requested Hits,\" which I think is a nice, slight twist"
+  },
+  {
+    "start": 3363.1,
+    "end": 3364.1,
+    "text": " on the formula."
+  },
+  {
+    "start": 3364.1,
+    "end": 3367.22,
+    "text": " And then the second one is called \"Come Get It,\" the very best of Aaron Carter."
+  },
+  {
+    "start": 3367.22,
+    "end": 3371.02,
+    "text": " It must be one of his songs or something, followed by \"Too Good, Too Be True.\""
+  },
+  {
+    "start": 3371.02,
+    "end": 3372.02,
+    "text": " So I just think he's good for..."
+  },
+  {
+    "start": 3372.02,
+    "end": 3373.02,
+    "text": " Oh, so they're all greatest hits."
+  },
+  {
+    "start": 3373.02,
+    "end": 3374.02,
+    "text": " Every single one of them."
+  },
+  {
+    "start": 3374.02,
+    "end": 3375.62,
+    "text": " He's got three albums of greatest hits."
+  },
+  {
+    "start": 3375.62,
+    "end": 3376.62,
+    "text": " So I think that is..."
+  },
+  {
+    "start": 3376.62,
+    "end": 3377.62,
+    "text": " Wow."
+  },
+  {
+    "start": 3377.62,
+    "end": 3381.62,
+    "text": " According to Reddit, and it does seem to be true when I checked it, Kiss have had more"
+  },
+  {
+    "start": 3381.62,
+    "end": 3385.3,
+    "text": " greatest hit compilations than they have studio albums."
+  },
+  {
+    "start": 3385.3,
+    "end": 3386.3,
+    "text": " Okay."
+  },
+  {
+    "start": 3386.3,
+    "end": 3387.3,
+    "text": " That's great."
+  },
+  {
+    "start": 3387.3,
+    "end": 3392.3,
+    "text": " They've had 20 studio albums, and as far as I can see, they've either had 21 or I counted"
+  },
+  {
+    "start": 3392.3,
+    "end": 3394.82,
+    "text": " 23 greatest hits on them."
+  },
+  {
+    "start": 3394.82,
+    "end": 3395.82,
+    "text": " Wow."
+  },
+  {
+    "start": 3395.82,
+    "end": 3400.74,
+    "text": " They did a farewell tour in 2000 and 2001, and since then, they've done 13 tours."
+  },
+  {
+    "start": 3400.74,
+    "end": 3401.74,
+    "text": " Hell yeah."
+  },
+  {
+    "start": 3401.74,
+    "end": 3402.74,
+    "text": " Isn't that amazing?"
+  },
+  {
+    "start": 3402.74,
+    "end": 3403.74,
+    "text": " Yeah."
+  },
+  {
+    "start": 3403.74,
+    "end": 3405.82,
+    "text": " Do you know the biggest selling album in America of all time?"
+  },
+  {
+    "start": 3405.82,
+    "end": 3406.94,
+    "text": " Are they greatest hits?"
+  },
+  {
+    "start": 3406.94,
+    "end": 3409.66,
+    "text": " I'm going to guess Abba Gold."
+  },
+  {
+    "start": 3409.66,
+    "end": 3412.26,
+    "text": " Well, that's because you've only got to A/B in the alphabet."
+  },
+  {
+    "start": 3412.26,
+    "end": 3416.42,
+    "text": " No, it's happened again."
+  },
+  {
+    "start": 3416.42,
+    "end": 3417.86,
+    "text": " It's the Eagles, isn't it?"
+  },
+  {
+    "start": 3417.86,
+    "end": 3418.86,
+    "text": " That's correct."
+  },
+  {
+    "start": 3418.86,
+    "end": 3419.86,
+    "text": " Yeah."
+  },
+  {
+    "start": 3419.86,
+    "end": 3420.86,
+    "text": " It's the Eagles."
+  },
+  {
+    "start": 3420.86,
+    "end": 3422.62,
+    "text": " Now, so this is their greatest hits album."
+  },
+  {
+    "start": 3422.62,
+    "end": 3424.22,
+    "text": " Who here can name a song by the Eagles?"
+  },
+  {
+    "start": 3424.22,
+    "end": 3425.22,
+    "text": " How about California?"
+  },
+  {
+    "start": 3425.22,
+    "end": 3426.22,
+    "text": " California."
+  },
+  {
+    "start": 3426.22,
+    "end": 3427.22,
+    "text": " That's not on the greatest album."
+  },
+  {
+    "start": 3427.22,
+    "end": 3428.22,
+    "text": " No!"
+  },
+  {
+    "start": 3428.22,
+    "end": 3429.22,
+    "text": " Yeah."
+  },
+  {
+    "start": 3429.22,
+    "end": 3430.22,
+    "text": " Isn't that incredible?"
+  },
+  {
+    "start": 3430.22,
+    "end": 3432.38,
+    "text": " This is from a period where they hadn't yet written that song."
+  },
+  {
+    "start": 3432.38,
+    "end": 3436.26,
+    "text": " They must have felt like chumps coming up with that song after they've done it."
+  },
+  {
+    "start": 3436.26,
+    "end": 3438.26,
+    "text": " We've already done a greatest hit album."
+  },
+  {
+    "start": 3438.26,
+    "end": 3439.26,
+    "text": " Oh, man."
+  },
+  {
+    "start": 3439.26,
+    "end": 3441.52,
+    "text": " So this is now Canon."
+  },
+  {
+    "start": 3441.52,
+    "end": 3445.14,
+    "text": " This is not a greatest hit, and honestly, let's do a few Eagles albums."
+  },
+  {
+    "start": 3445.14,
+    "end": 3447.58,
+    "text": " It's their greatest hit."
+  },
+  {
+    "start": 3447.58,
+    "end": 3452.14,
+    "text": " The best selling album in the UK is the greatest hits."
+  },
+  {
+    "start": 3452.14,
+    "end": 3453.14,
+    "text": " Oh, Queen."
+  },
+  {
+    "start": 3453.14,
+    "end": 3454.14,
+    "text": " Queen, you got it."
+  },
+  {
+    "start": 3454.14,
+    "end": 3459.82,
+    "text": " At the same time, they released Greatest Flicks, which was a video of all their best songs."
+  },
+  {
+    "start": 3459.82,
+    "end": 3460.82,
+    "text": " Oh, very cool."
+  },
+  {
+    "start": 3460.82,
+    "end": 3463.38,
+    "text": " And Greatest Picks, which was photographs from that."
+  },
+  {
+    "start": 3463.38,
+    "end": 3466.14,
+    "text": " That's really clever."
+  },
+  {
+    "start": 3466.14,
+    "end": 3467.66,
+    "text": " Who here owns Queen's Greatest Hits?"
+  },
+  {
+    "start": 3467.66,
+    "end": 3468.66,
+    "text": " Yeah."
+  },
+  {
+    "start": 3468.66,
+    "end": 3469.66,
+    "text": " Oh, my God."
+  },
+  {
+    "start": 3469.66,
+    "end": 3470.66,
+    "text": " Two of us."
+  },
+  {
+    "start": 3470.66,
+    "end": 3471.66,
+    "text": " Cassettes and then CD."
+  },
+  {
+    "start": 3471.66,
+    "end": 3475.86,
+    "text": " So I own it and Dan owns it, and that makes sense, because one in four British households"
+  },
+  {
+    "start": 3475.86,
+    "end": 3477.66,
+    "text": " owns Queen's Greatest Hits."
+  },
+  {
+    "start": 3477.66,
+    "end": 3478.66,
+    "text": " Really?"
+  },
+  {
+    "start": 3478.66,
+    "end": 3479.66,
+    "text": " It's still, really."
+  },
+  {
+    "start": 3479.66,
+    "end": 3480.66,
+    "text": " I think probably still."
+  },
+  {
+    "start": 3480.66,
+    "end": 3485.06,
+    "text": " There probably is some generational churn happening, but in 2021, Abba Gold, which is"
+  },
+  {
+    "start": 3485.06,
+    "end": 3491.66,
+    "text": " the other huge Greatest Hits album after Queens, it got to a thousand weeks in the top hundred"
+  },
+  {
+    "start": 3491.66,
+    "end": 3492.66,
+    "text": " chart."
+  },
+  {
+    "start": 3492.66,
+    "end": 3493.66,
+    "text": " That's amazing."
+  },
+  {
+    "start": 3493.66,
+    "end": 3494.66,
+    "text": " That's amazing."
+  },
+  {
+    "start": 3494.66,
+    "end": 3495.66,
+    "text": " It's a perfect album."
+  },
+  {
+    "start": 3495.66,
+    "end": 3496.66,
+    "text": " Yeah."
+  },
+  {
+    "start": 3496.66,
+    "end": 3497.66,
+    "text": " Perfect band."
+  },
+  {
+    "start": 3497.66,
+    "end": 3506.66,
+    "text": " It's not too high way to hell, but it's, by the way, AA, AP, and then AC/DC."
+  },
+  {
+    "start": 3506.66,
+    "end": 3510.66,
+    "text": " Anything about Adam and the Ants?"
+  },
+  {
+    "start": 3510.66,
+    "end": 3516.26,
+    "text": " There was an album that was released in 1977 by the BBC called Death and Horror."
+  },
+  {
+    "start": 3516.26,
+    "end": 3520.1,
+    "text": " Basically, you know how you can just buy incidental sounds, right?"
+  },
+  {
+    "start": 3520.1,
+    "end": 3522.1,
+    "text": " Like a door creaking."
+  },
+  {
+    "start": 3522.1,
+    "end": 3523.1,
+    "text": " Yeah, door creaking."
+  },
+  {
+    "start": 3523.1,
+    "end": 3526.02,
+    "text": " Sorry, the BBC would have like an archive of incidental sounds."
+  },
+  {
+    "start": 3526.02,
+    "end": 3529.06,
+    "text": " So this was all sounds of horrific things."
+  },
+  {
+    "start": 3529.06,
+    "end": 3536.02,
+    "text": " Tracks included head chopped off, assorted creepy creaks, red hot poker in the eye."
+  },
+  {
+    "start": 3536.02,
+    "end": 3537.02,
+    "text": " That was it."
+  },
+  {
+    "start": 3537.02,
+    "end": 3538.02,
+    "text": " And it was a top 100 charting album."
+  },
+  {
+    "start": 3538.02,
+    "end": 3539.02,
+    "text": " Gaths were crazy."
+  },
+  {
+    "start": 3539.02,
+    "end": 3540.02,
+    "text": " Exactly."
+  },
+  {
+    "start": 3540.02,
+    "end": 3541.02,
+    "text": " Team Gaths."
+  },
+  {
+    "start": 3541.02,
+    "end": 3545.34,
+    "text": " And then this is, this is the one I'd love to get, but I don't think it necessarily would"
+  },
+  {
+    "start": 3545.34,
+    "end": 3550.9,
+    "text": " have charted, but there was an album called Recorded Delivery by a guy called Yannick Schaefer."
+  },
+  {
+    "start": 3550.9,
+    "end": 3555.86,
+    "text": " So basically what he did was he put a dictaphone inside a package and he put it through the"
+  },
+  {
+    "start": 3555.86,
+    "end": 3561.82,
+    "text": " Royal Mail and he recorded the entire journey that this dictaphone went on as it was travelling"
+  },
+  {
+    "start": 3561.82,
+    "end": 3566.34,
+    "text": " through the parcel, going through the mailbox being picked up, put in the van."
+  },
+  {
+    "start": 3566.34,
+    "end": 3569.62,
+    "text": " And so what you hear is whistling postmen just sort of walking along."
+  },
+  {
+    "start": 3569.62,
+    "end": 3571.3,
+    "text": " You get sliding van doors."
+  },
+  {
+    "start": 3571.3,
+    "end": 3572.54,
+    "text": " There's lots of clunks."
+  },
+  {
+    "start": 3572.54,
+    "end": 3576.18,
+    "text": " You get early morning mail workers talking about their dirty sex lives."
+  },
+  {
+    "start": 3576.18,
+    "end": 3581.14,
+    "text": " There's a sudden unexpected shout of, \"Anus!\""
+  },
+  {
+    "start": 3581.14,
+    "end": 3585.66,
+    "text": " That was me."
+  },
+  {
+    "start": 3585.66,
+    "end": 3588.3,
+    "text": " And 500 of them were printed."
+  },
+  {
+    "start": 3588.3,
+    "end": 3590.5,
+    "text": " Brian Eno said he wished he thought of it first."
+  },
+  {
+    "start": 3590.5,
+    "end": 3591.5,
+    "text": " It was a..."
+  },
+  {
+    "start": 3591.5,
+    "end": 3592.5,
+    "text": " It's very Eno, isn't it?"
+  },
+  {
+    "start": 3592.5,
+    "end": 3594.58,
+    "text": " It is very, very Eno."
+  },
+  {
+    "start": 3594.58,
+    "end": 3597.74,
+    "text": " The first Greatest Hits album ever."
+  },
+  {
+    "start": 3597.74,
+    "end": 3598.74,
+    "text": " Johnny Maffis."
+  },
+  {
+    "start": 3598.74,
+    "end": 3599.74,
+    "text": " Johnny Maffis."
+  },
+  {
+    "start": 3599.74,
+    "end": 3603.54,
+    "text": " In fact, if you look in the Oxford English Dictionary, it's the first use of the phrase"
+  },
+  {
+    "start": 3603.54,
+    "end": 3604.54,
+    "text": " \"Gracest Hits\"."
+  },
+  {
+    "start": 3604.54,
+    "end": 3605.54,
+    "text": " Right."
+  },
+  {
+    "start": 3605.54,
+    "end": 3608.78,
+    "text": " He wrote a single song called Chances Are, which was in Mad Men."
+  },
+  {
+    "start": 3608.78,
+    "end": 3609.78,
+    "text": " Well..."
+  },
+  {
+    "start": 3609.78,
+    "end": 3610.78,
+    "text": " Chances Are he did."
+  },
+  {
+    "start": 3610.78,
+    "end": 3611.78,
+    "text": " If you remember it."
+  },
+  {
+    "start": 3611.78,
+    "end": 3612.78,
+    "text": " I don't know."
+  },
+  {
+    "start": 3612.78,
+    "end": 3613.78,
+    "text": " He was late 50s, wasn't he?"
+  },
+  {
+    "start": 3613.78,
+    "end": 3614.78,
+    "text": " So it's perfect timing for Mad Men."
+  },
+  {
+    "start": 3614.78,
+    "end": 3615.78,
+    "text": " Yes, he was."
+  },
+  {
+    "start": 3615.78,
+    "end": 3616.78,
+    "text": " I looked him up."
+  },
+  {
+    "start": 3616.78,
+    "end": 3618.1,
+    "text": " He's still alive, Johnny Maffis."
+  },
+  {
+    "start": 3618.1,
+    "end": 3619.1,
+    "text": " Yeah."
+  },
+  {
+    "start": 3619.1,
+    "end": 3620.66,
+    "text": " He's sort of mid-90s, I think."
+  },
+  {
+    "start": 3620.66,
+    "end": 3621.66,
+    "text": " Cool."
+  },
+  {
+    "start": 3621.66,
+    "end": 3622.66,
+    "text": " He's old, but he's still kicking around."
+  },
+  {
+    "start": 3622.66,
+    "end": 3623.66,
+    "text": " Yeah."
+  },
+  {
+    "start": 3623.66,
+    "end": 3628.9,
+    "text": " He was a high jumper for the US Olympic team before he became a singer, but he was kind"
+  },
+  {
+    "start": 3628.9,
+    "end": 3635.66,
+    "text": " of singing in the clubs and stuff, and the head of popular music at Columbia was on holiday"
+  },
+  {
+    "start": 3635.66,
+    "end": 3641.1,
+    "text": " in San Francisco and heard him singing and sent a telegram to the company saying, \"Have"
+  },
+  {
+    "start": 3641.1,
+    "end": 3646.34,
+    "text": " found phenomenal 19-year-old boy who could go all the way, send blank contracts.\""
+  },
+  {
+    "start": 3646.34,
+    "end": 3648.18,
+    "text": " Oh, that's great."
+  },
+  {
+    "start": 3648.18,
+    "end": 3651.62,
+    "text": " And he was an Olympian at that time, at 19 or...?"
+  },
+  {
+    "start": 3651.62,
+    "end": 3652.62,
+    "text": " He'd been trying out."
+  },
+  {
+    "start": 3652.62,
+    "end": 3653.62,
+    "text": " He kind of..."
+  },
+  {
+    "start": 3653.62,
+    "end": 3654.62,
+    "text": " He got the call to go to the trials."
+  },
+  {
+    "start": 3654.62,
+    "end": 3655.62,
+    "text": " This is a cool thing."
+  },
+  {
+    "start": 3655.62,
+    "end": 3660.18,
+    "text": " In 1956, he got the call to go to the Olympic trials, but he had just got his recording contract."
+  },
+  {
+    "start": 3660.18,
+    "end": 3663.62,
+    "text": " He said to his dad, \"Should I become a high jumper or should I become a musician?\""
+  },
+  {
+    "start": 3663.62,
+    "end": 3667.26,
+    "text": " It's annoying, isn't it, when people are world-class at not one thing but two."
+  },
+  {
+    "start": 3667.26,
+    "end": 3671.54,
+    "text": " You could do both Vanilla Ice as a rapper and a real estate agent."
+  },
+  {
+    "start": 3671.54,
+    "end": 3673.3,
+    "text": " You could do both."
+  },
+  {
+    "start": 3673.3,
+    "end": 3679.06,
+    "text": " Well, Cody Simpson, the Australian singer-actor, also swam for their Olympic team."
+  },
+  {
+    "start": 3679.06,
+    "end": 3680.06,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 3680.06,
+    "end": 3681.06,
+    "text": " Very nice."
+  },
+  {
+    "start": 3681.06,
+    "end": 3683.06,
+    "text": " And also is a Gina Davis who almost qualified for Archery for the US."
+  },
+  {
+    "start": 3683.06,
+    "end": 3684.06,
+    "text": " Oh, that's right."
+  },
+  {
+    "start": 3684.06,
+    "end": 3685.06,
+    "text": " Get away."
+  },
+  {
+    "start": 3685.06,
+    "end": 3686.06,
+    "text": " There you go."
+  },
+  {
+    "start": 3686.06,
+    "end": 3687.06,
+    "text": " You could do both."
+  },
+  {
+    "start": 3687.06,
+    "end": 3688.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 3688.06,
+    "end": 3689.06,
+    "text": " Okay."
+  },
+  {
+    "start": 3689.06,
+    "end": 3690.06,
+    "text": " You can do both."
+  },
+  {
+    "start": 3690.06,
+    "end": 3691.06,
+    "text": " And it's fine that I've done neither."
+  },
+  {
+    "start": 3691.06,
+    "end": 3692.06,
+    "text": " Johnny Mathis."
+  },
+  {
+    "start": 3692.06,
+    "end": 3693.06,
+    "text": " It wasn't actually any greatest hits."
+  },
+  {
+    "start": 3693.06,
+    "end": 3696.14,
+    "text": " It was just something they rushed out because he was about to go on tour in the UK."
+  },
+  {
+    "start": 3696.14,
+    "end": 3699.5,
+    "text": " He didn't have time to record any new tracks, so they just bundled together his first four"
+  },
+  {
+    "start": 3699.5,
+    "end": 3700.5,
+    "text": " recordings."
+  },
+  {
+    "start": 3700.5,
+    "end": 3701.5,
+    "text": " Oh, is that right?"
+  },
+  {
+    "start": 3701.5,
+    "end": 3702.5,
+    "text": " Record them Johnny's Greatest Hits."
+  },
+  {
+    "start": 3702.5,
+    "end": 3704.58,
+    "text": " It was in the charts for nine years."
+  },
+  {
+    "start": 3704.58,
+    "end": 3705.58,
+    "text": " So they manifested it?"
+  },
+  {
+    "start": 3705.58,
+    "end": 3706.58,
+    "text": " Pretty much."
+  },
+  {
+    "start": 3706.58,
+    "end": 3707.58,
+    "text": " Yeah."
+  },
+  {
+    "start": 3707.58,
+    "end": 3708.58,
+    "text": " They're like, \"The Greatest Hits?"
+  },
+  {
+    "start": 3708.58,
+    "end": 3709.58,
+    "text": " Australian and Flucking Question.\""
+  },
+  {
+    "start": 3709.58,
+    "end": 3713.58,
+    "text": " And there's a reason why you'd love him, James."
+  },
+  {
+    "start": 3713.58,
+    "end": 3715.58,
+    "text": " He used to play golf 300 times a year."
+  },
+  {
+    "start": 3715.58,
+    "end": 3716.58,
+    "text": " Oh, he sounds great."
+  },
+  {
+    "start": 3716.58,
+    "end": 3717.74,
+    "text": " He's a great guy."
+  },
+  {
+    "start": 3717.74,
+    "end": 3719.98,
+    "text": " And he has a cookbook library."
+  },
+  {
+    "start": 3719.98,
+    "end": 3721.82,
+    "text": " He loves cookbooks so much."
+  },
+  {
+    "start": 3721.82,
+    "end": 3723.1,
+    "text": " He bought thousands of them."
+  },
+  {
+    "start": 3723.1,
+    "end": 3725.78,
+    "text": " He had Office Kitchen, his own library of cookbooks."
+  },
+  {
+    "start": 3725.78,
+    "end": 3730.66,
+    "text": " And in 1982, he wrote his own cookbook called \"Cooking for You Alone,\" which is all about"
+  },
+  {
+    "start": 3730.66,
+    "end": 3733.62,
+    "text": " meals for one and how you can make them delicious and lovely."
+  },
+  {
+    "start": 3733.62,
+    "end": 3734.62,
+    "text": " Isn't that..."
+  },
+  {
+    "start": 3734.62,
+    "end": 3735.62,
+    "text": " Isn't that..."
+  },
+  {
+    "start": 3735.62,
+    "end": 3737.42,
+    "text": " I just think you seem like a really nice, sweet guy."
+  },
+  {
+    "start": 3737.42,
+    "end": 3738.42,
+    "text": " He's so sweet."
+  },
+  {
+    "start": 3738.42,
+    "end": 3739.42,
+    "text": " I know."
+  },
+  {
+    "start": 3739.42,
+    "end": 3743.66,
+    "text": " That does sound nice, but if you think that you're going to get a necklace for Valentine's"
+  },
+  {
+    "start": 3743.66,
+    "end": 3748.66,
+    "text": " Day and you get the meals for one book, that's a real sign."
+  },
+  {
+    "start": 3748.66,
+    "end": 3750.34,
+    "text": " That's how Johnny Mitchell dumped her next boyfriend."
+  },
+  {
+    "start": 3750.34,
+    "end": 3757.34,
+    "text": " OK, that's it."
+  },
+  {
+    "start": 3757.34,
+    "end": 3758.34,
+    "text": " That is all of our facts."
+  },
+  {
+    "start": 3758.34,
+    "end": 3759.7,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3759.7,
+    "end": 3762.94,
+    "text": " If you'd like to get in contact with any of us about the things that we've said over"
+  },
+  {
+    "start": 3762.94,
+    "end": 3766.58,
+    "text": " the course of this podcast, we can be found on our various social media accounts."
+  },
+  {
+    "start": 3766.58,
+    "end": 3770.22,
+    "text": " I'm on Instagram using the name Shriverland, Andy."
+  },
+  {
+    "start": 3770.22,
+    "end": 3772.38,
+    "text": " I'm @andrewhunter, I'm on Twitter."
+  },
+  {
+    "start": 3772.38,
+    "end": 3773.38,
+    "text": " James."
+  },
+  {
+    "start": 3773.38,
+    "end": 3774.38,
+    "text": " My Twitter is @jamesharkin."
+  },
+  {
+    "start": 3774.38,
+    "end": 3775.38,
+    "text": " Yep."
+  },
+  {
+    "start": 3775.38,
+    "end": 3776.38,
+    "text": " And Olga."
+  },
+  {
+    "start": 3776.38,
+    "end": 3778.1,
+    "text": " I'm @colga300 on Instagram."
+  },
+  {
+    "start": 3778.1,
+    "end": 3779.1,
+    "text": " Nice."
+  },
+  {
+    "start": 3779.1,
+    "end": 3784.06,
+    "text": " Also, do make sure to go and see Olga live, prawn cocktail, you're on tour right now."
+  },
+  {
+    "start": 3784.06,
+    "end": 3786.06,
+    "text": " Prawn cocktail, that's the name of my show."
+  },
+  {
+    "start": 3786.06,
+    "end": 3787.62,
+    "text": " You'll just be eating it."
+  },
+  {
+    "start": 3787.62,
+    "end": 3788.62,
+    "text": " Don't stop."
+  },
+  {
+    "start": 3788.62,
+    "end": 3793.54,
+    "text": " And I promise it's going to be 100% high quality prawns and never a cheap meatball."
+  },
+  {
+    "start": 3793.54,
+    "end": 3794.54,
+    "text": " Yep."
+  },
+  {
+    "start": 3794.54,
+    "end": 3798.18,
+    "text": " Or if you want to get in contact with us as a group, by the way, you can go to @nosuchthing"
+  },
+  {
+    "start": 3798.18,
+    "end": 3799.18,
+    "text": " on Twitter."
+  },
+  {
+    "start": 3799.18,
+    "end": 3803.5,
+    "text": " You can email us on podcast@qy.com or you can just go to our website, nosuchthingasafish"
+  },
+  {
+    "start": 3803.5,
+    "end": 3806.3,
+    "text": " if you want to check out all the previous episodes, because they're all up there to"
+  },
+  {
+    "start": 3806.3,
+    "end": 3807.3,
+    "text": " do that."
+  },
+  {
+    "start": 3807.3,
+    "end": 3808.3,
+    "text": " Otherwise, just come back next week."
+  },
+  {
+    "start": 3808.3,
+    "end": 3810.42,
+    "text": " And we'll be back with another episode and we'll see you then."
+  },
+  {
+    "start": 3810.42,
+    "end": 3811.18,
+    "text": " Good bye."
+  },
+  {
+    "start": 3811.18,
+    "end": 3813.18,
+    "text": "."
+  },
+  {
+    "start": 3813.18,
+    "end": 3818.18,
+    "text": " Hey, Ness."
+  },
+  {
+    "start": 3818.18,
+    "end": 3824.14,
+    "text": " Lovely Easter egg."
+  },
+  {
+    "start": 3824.14,
+    "end": 3826.72,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3826.72,
+    "end": 3836.72,
+    "text": " [BLANK_AUDIO]"
+  }
+]

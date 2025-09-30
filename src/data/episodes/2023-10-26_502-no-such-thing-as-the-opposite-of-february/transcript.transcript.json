@@ -1,0 +1,6372 @@
+[
+  {
+    "start": 0.98,
+    "end": 6.1,
+    "text": " Hi everybody, Andy here. Just before we start this week's show wanted to announce our special guest."
+  },
+  {
+    "start": 6.1,
+    "end": 13.16,
+    "text": " This one is really exciting guys. Our special guest this week is none other than David Mitchell."
+  },
+  {
+    "start": 13.16,
+    "end": 19.38,
+    "text": " That's right. If you haven't heard of David Mitchell, you haven't seen any British comedy recently because he's been in absolutely everything."
+  },
+  {
+    "start": 19.38,
+    "end": 24.02,
+    "text": " Of course, peep show, upstart crow, would I lie to you, the unbelievable truth,"
+  },
+  {
+    "start": 24.66,
+    "end": 33.46,
+    "text": " every single panel show going and he's here. He's on fish this week. David is here partly because he has, as you are about to hear in the show, a new book out."
+  },
+  {
+    "start": 33.46,
+    "end": 39.38,
+    "text": " And it is a fantastic book. I genuinely finished it this morning and I loved it. It's called Unruly."
+  },
+  {
+    "start": 39.38,
+    "end": 42.26,
+    "text": " It's a history book. It's a history of England's kings and queens."
+  },
+  {
+    "start": 42.26,
+    "end": 48.54,
+    "text": " It goes all the way from King Arthur, fictional, to Queen Elizabeth I, not fictional."
+  },
+  {
+    "start": 48.54,
+    "end": 53.36,
+    "text": " And it is so funny and yet you also are being educated all the way along the way."
+  },
+  {
+    "start": 53.36,
+    "end": 57.06,
+    "text": " It's been described as horrible histories for grown-ups and that's exactly what it's like."
+  },
+  {
+    "start": 57.06,
+    "end": 62.56,
+    "text": " You'll laugh, you'll learn. It's got that classic Mitchell wit all the way through."
+  },
+  {
+    "start": 62.56,
+    "end": 69.66,
+    "text": " It's absolutely fantastic. There are lengthy digressions about things like where you can get a nice coffee in Oxford or the James Bond films, all of that."
+  },
+  {
+    "start": 69.66,
+    "end": 75.26,
+    "text": " It's so good. And it's not even just me saying this. It has already been a number one Sunday Times bestseller."
+  },
+  {
+    "start": 75.26,
+    "end": 80.06,
+    "text": " So if you have a history fan in your life who you think would like a laugh as well, this is a perfect present."
+  },
+  {
+    "start": 80.06,
+    "end": 86.66,
+    "text": " Also, if you'd like even more David Mitchell in your life after this episode, his new show Outsiders has just started its third series."
+  },
+  {
+    "start": 86.66,
+    "end": 91.76,
+    "text": " That's on Dave. It's a kind of outdoor challenge survival show hosted by David."
+  },
+  {
+    "start": 91.76,
+    "end": 97.26,
+    "text": " And the guests this series include Alan Davis of QI and of course, former fish guest."
+  },
+  {
+    "start": 97.26,
+    "end": 100.76,
+    "text": " So that's it from me. I'll stop wagging on now. Hope you enjoy this episode."
+  },
+  {
+    "start": 100.76,
+    "end": 103.36,
+    "text": " We really enjoyed recording it. On with the podcast."
+  },
+  {
+    "start": 104.06,
+    "end": 120.16,
+    "text": " Hello, and welcome to another episode of No Such Thing as a Fish, a weekly podcast coming to you from the QI offices in Hoburn."
+  },
+  {
+    "start": 120.16,
+    "end": 125.16,
+    "text": " My name is Dan Shriver. I'm sitting here with James Harkin, Andrew Hunter Murray and David Mitchell."
+  },
+  {
+    "start": 125.16,
+    "end": 127.46,
+    "text": " And once again, we have David Mitchell here."
+  },
+  {
+    "start": 127.46,
+    "end": 132.36,
+    "text": " My name is Dan Shriver. I'm sitting here with James Harkin, Andrew Hunter Murray and David Mitchell."
+  },
+  {
+    "start": 132.36,
+    "end": 137.26,
+    "text": " And once again, we have gathered around the microphones with our four favorite facts from the last seven days."
+  },
+  {
+    "start": 137.26,
+    "end": 143.36,
+    "text": " And in no particular order, here we go. Starting with fact number one, that is David."
+  },
+  {
+    "start": 143.36,
+    "end": 151.56,
+    "text": " My fact is that King Stephen owed his throne to food poisoning or, you know, the shit."
+  },
+  {
+    "start": 151.56,
+    "end": 158.46,
+    "text": " Right. I haven't asked about swearing. How much so? You're allowed to go for it. Yeah, that's fucking great."
+  },
+  {
+    "start": 158.46,
+    "end": 162.06,
+    "text": " Yes, so to diarrhea, probably caused by food poisoning."
+  },
+  {
+    "start": 162.06,
+    "end": 165.46,
+    "text": " Okay. Previous King's Diarrhea, not his own."
+  },
+  {
+    "start": 165.46,
+    "end": 169.26,
+    "text": " His own? His own? Wait, not a previous King's Diarrhea."
+  },
+  {
+    "start": 169.26,
+    "end": 175.26,
+    "text": " What? And so people saw him shit himself and thought this man must be King? No, no, he didn't go like that."
+  },
+  {
+    "start": 175.26,
+    "end": 181.46,
+    "text": " I mean, obviously, there was a lot of diarrhea back then. It was, you know, there's a lot now."
+  },
+  {
+    "start": 181.46,
+    "end": 187.86,
+    "text": " It's one of the ways you can empathize for people in the past. They too had liquid shit, but more often died of them."
+  },
+  {
+    "start": 187.86,
+    "end": 192.26,
+    "text": " You know, King John, shot himself to death. Henry V shot himself to death."
+  },
+  {
+    "start": 192.26,
+    "end": 196.06,
+    "text": " So you've got a good King and a bad King there, both dying of dysentery."
+  },
+  {
+    "start": 196.06,
+    "end": 199.56,
+    "text": " But King Stephen didn't have dysentery. It was more of a short term thing."
+  },
+  {
+    "start": 199.56,
+    "end": 204.26,
+    "text": " I don't know if it was a bug or something yet. And he certainly didn't know."
+  },
+  {
+    "start": 204.26,
+    "end": 208.56,
+    "text": " But because he got diarrhea, he got off a ship."
+  },
+  {
+    "start": 208.56,
+    "end": 212.16,
+    "text": " And the ship he got off was the White Ship."
+  },
+  {
+    "start": 212.16,
+    "end": 216.36,
+    "text": " It was a state of the art, lovely craft in Barfleur Harbour."
+  },
+  {
+    "start": 216.36,
+    "end": 223.76,
+    "text": " And all of the most important young people of the reign, the in-crowd, were on this ship and they were about to sail to England."
+  },
+  {
+    "start": 223.76,
+    "end": 228.26,
+    "text": " But the not yet King Stephen, Stephen of Blois, was on it."
+  },
+  {
+    "start": 228.26,
+    "end": 234.36,
+    "text": " And he got diarrhea and he got off it to go into Barfleur and relax on a privy."
+  },
+  {
+    "start": 234.36,
+    "end": 241.96,
+    "text": " And the ship sailed without him and sank and everyone on board died apart from a butcher."
+  },
+  {
+    "start": 241.96,
+    "end": 244.26,
+    "text": " Oh, that's interesting."
+  },
+  {
+    "start": 244.26,
+    "end": 251.96,
+    "text": " Then he survived, but that's the last, then he's lost to, he went on, presumably being a butcher, and then died."
+  },
+  {
+    "start": 251.96,
+    "end": 253.06,
+    "text": " He had a good anecdote."
+  },
+  {
+    "start": 253.06,
+    "end": 256.16,
+    "text": " I was like, he absolutely had a good anecdote."
+  },
+  {
+    "start": 256.16,
+    "end": 261.96,
+    "text": " Did he survive because of the butchery? Was that, but as in, does history relate whether he clung to some, some of the meat?"
+  },
+  {
+    "start": 261.96,
+    "end": 267.06,
+    "text": " No, it wasn't the buoyancy of pork chops that saved him."
+  },
+  {
+    "start": 267.06,
+    "end": 270.36,
+    "text": " Was it him who provided the meal that provided the diarrhea for the future King?"
+  },
+  {
+    "start": 270.36,
+    "end": 271.36,
+    "text": " I don't think so."
+  },
+  {
+    "start": 271.36,
+    "end": 277.76,
+    "text": " I'm not clear as to why there was a butcher on board, but ships have, like, they have, you know, they must have livestock."
+  },
+  {
+    "start": 277.76,
+    "end": 281.56,
+    "text": " Well, you get on a cruise ship, they've got, you know, a swimming pool and a casino."
+  },
+  {
+    "start": 281.56,
+    "end": 284.36,
+    "text": " So, you know, I don't think this ship had that."
+  },
+  {
+    "start": 284.36,
+    "end": 290.86,
+    "text": " But, you know, they had some, they might not have had livestock because they're only going across the channel, but they would have had food."
+  },
+  {
+    "start": 290.86,
+    "end": 293.96,
+    "text": " Yeah, I don't think there's any connection."
+  },
+  {
+    "start": 293.96,
+    "end": 300.76,
+    "text": " There's no suggestion that it was his meat that he retailed that caused Stephen, King Stevens, not yet King Steve."
+  },
+  {
+    "start": 300.76,
+    "end": 302.36,
+    "text": " So I can't help calling him King Stephen."
+  },
+  {
+    "start": 302.36,
+    "end": 303.66,
+    "text": " He's not King Stephen yet."
+  },
+  {
+    "start": 303.66,
+    "end": 305.86,
+    "text": " It's like Prince Charles calling him King Charles."
+  },
+  {
+    "start": 305.86,
+    "end": 308.66,
+    "text": " It's impossible to get into your head or it is for me anyway."
+  },
+  {
+    "start": 308.66,
+    "end": 312.96,
+    "text": " I've managed, I'm, I'm now saying King Prince Charles, which is a way of easing myself into it."
+  },
+  {
+    "start": 312.96,
+    "end": 314.36,
+    "text": " And eventually I'd be able to drop the prince."
+  },
+  {
+    "start": 314.36,
+    "end": 318.96,
+    "text": " I was saying it two years previous, just to make sure I was running with it."
+  },
+  {
+    "start": 318.96,
+    "end": 327.16,
+    "text": " This ship though, it does sound, it sounds amazing as in it was obviously stated with the art, but I mean everyone who was anyone was on one ship at one time,"
+  },
+  {
+    "start": 327.16,
+    "end": 330.06,
+    "text": " which I presume wasn't thought of as being fine."
+  },
+  {
+    "start": 330.06,
+    "end": 331.06,
+    "text": " I mean, clearly wasn't fine."
+  },
+  {
+    "start": 331.06,
+    "end": 334.86,
+    "text": " Yeah, because like, is it like the Royal Family aren't really supposed to be on the same airplane or something?"
+  },
+  {
+    "start": 334.86,
+    "end": 335.26,
+    "text": " I heard that."
+  },
+  {
+    "start": 335.26,
+    "end": 335.86,
+    "text": " Is that right?"
+  },
+  {
+    "start": 335.86,
+    "end": 336.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 336.06,
+    "end": 336.76,
+    "text": " Oh, wow."
+  },
+  {
+    "start": 336.76,
+    "end": 337.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 337.06,
+    "end": 340.46,
+    "text": " But the air, the real air to the throne was on that ship, right?"
+  },
+  {
+    "start": 340.46,
+    "end": 341.76,
+    "text": " That's the key thing."
+  },
+  {
+    "start": 341.76,
+    "end": 343.56,
+    "text": " Yes, the real air to the throne, doesn't it?"
+  },
+  {
+    "start": 343.56,
+    "end": 347.46,
+    "text": " The King at the time, King Henry I, he wasn't on it."
+  },
+  {
+    "start": 347.46,
+    "end": 357.96,
+    "text": " He was on a less snazzy ship with older, important people, but the younger, cool, important people, including William Atherling, the air to the throne."
+  },
+  {
+    "start": 357.96,
+    "end": 363.76,
+    "text": " They were all on the white ship and they all died because obviously the butcher wasn't part of that team."
+  },
+  {
+    "start": 363.76,
+    "end": 367.26,
+    "text": " He was staff."
+  },
+  {
+    "start": 367.26,
+    "end": 373.36,
+    "text": " And so the only survivor was one of the staff, which I'm sure at the time they thought was absolutely the wrong way round."
+  },
+  {
+    "start": 373.36,
+    "end": 387.66,
+    "text": " Well, one of the other staff, I've read that one of the other staff, the ship's captain, also survived the initial shipwreck, came to the surface, heard that the air to the throne, William Atherling had drowned and then just decided to drown himself."
+  },
+  {
+    "start": 387.66,
+    "end": 391.16,
+    "text": " The only person who could possibly have told us that story is the butcher."
+  },
+  {
+    "start": 391.16,
+    "end": 393.36,
+    "text": " Yeah, you're right."
+  },
+  {
+    "start": 393.36,
+    "end": 397.16,
+    "text": " It feels like as the anecdote has gone on, he's kind of added little bits to it."
+  },
+  {
+    "start": 397.16,
+    "end": 402.46,
+    "text": " Obviously, if you were the captain's fact, that's a very positive anecdote for the butcher to say."
+  },
+  {
+    "start": 402.46,
+    "end": 406.76,
+    "text": " And the thing is, obviously, the butcher, we don't know what happened to him other than he didn't die in that shipwreck."
+  },
+  {
+    "start": 406.76,
+    "end": 412.56,
+    "text": " He probably murdered the captain is what I would think of, possibly, and maybe he made a hole in the ship."
+  },
+  {
+    "start": 412.56,
+    "end": 421.66,
+    "text": " But the thing is, he didn't even get a book deal out of it, which just shows you what primitive times these were, because nowadays that would have been on the gravy train for life."
+  },
+  {
+    "start": 421.66,
+    "end": 423.56,
+    "text": " Yeah, what a ship show, something like that."
+  },
+  {
+    "start": 423.56,
+    "end": 425.36,
+    "text": " Yes, it's unbelievable."
+  },
+  {
+    "start": 425.36,
+    "end": 427.56,
+    "text": " So what year are we talking here?"
+  },
+  {
+    "start": 427.56,
+    "end": 428.66,
+    "text": " 1120."
+  },
+  {
+    "start": 428.66,
+    "end": 429.66,
+    "text": " 1120, OK."
+  },
+  {
+    "start": 429.66,
+    "end": 435.06,
+    "text": " So that's ages ago, didn't even know we had proper ships crossing the channel at that point."
+  },
+  {
+    "start": 435.06,
+    "end": 439.66,
+    "text": " 1120, you must have guessed, because 1066, quite famously."
+  },
+  {
+    "start": 439.66,
+    "end": 441.96,
+    "text": " How do you think they got here to get across the total?"
+  },
+  {
+    "start": 441.96,
+    "end": 443.36,
+    "text": " Not a swimming operation."
+  },
+  {
+    "start": 443.36,
+    "end": 446.76,
+    "text": " I'm sorry, I had the whole lifeguard swimming pool, because you know, think of my head."
+  },
+  {
+    "start": 446.76,
+    "end": 447.66,
+    "text": " Oh, I see, no."
+  },
+  {
+    "start": 447.66,
+    "end": 449.46,
+    "text": " I don't think they hadn't bought tickets."
+  },
+  {
+    "start": 449.46,
+    "end": 451.46,
+    "text": " It wasn't a scheduled cross."
+  },
+  {
+    "start": 451.46,
+    "end": 455.06,
+    "text": " I think it was absolutely just, it was commissioned for the..."
+  },
+  {
+    "start": 455.06,
+    "end": 456.06,
+    "text": " Right, specifically."
+  },
+  {
+    "start": 456.06,
+    "end": 460.46,
+    "text": " ...just for the posh people to go across, because they were having a very nice time at the point."
+  },
+  {
+    "start": 460.46,
+    "end": 464.26,
+    "text": " Henry I had just won a small war against the King of France."
+  },
+  {
+    "start": 464.26,
+    "end": 468.36,
+    "text": " William Athling had been confirmed as the heir to the Dukedom of Normandy."
+  },
+  {
+    "start": 468.36,
+    "end": 474.06,
+    "text": " At that point, the King of England was also Duke of Normandy, and he was running this cross channel regime."
+  },
+  {
+    "start": 474.06,
+    "end": 483.26,
+    "text": " And so they've shored up their position on the continent in this sort of weird situation where the King of France is King in Normandy, but not in control of it."
+  },
+  {
+    "start": 483.26,
+    "end": 490.66,
+    "text": " And the Duke of Normandy runs Normandy, but has to sort of pay lip service to the feudal seniority of the King of France."
+  },
+  {
+    "start": 490.66,
+    "end": 495.86,
+    "text": " But that's all been lined up for William Athling, the King of France is back in his box."
+  },
+  {
+    "start": 495.86,
+    "end": 497.16,
+    "text": " He didn't live in a box."
+  },
+  {
+    "start": 497.16,
+    "end": 499.26,
+    "text": " There will have been French kings who lived in boxes."
+  },
+  {
+    "start": 499.26,
+    "end": 504.66,
+    "text": " There was a French king who thought he was made out of glass, but this one I think was sort of comparatively normal."
+  },
+  {
+    "start": 504.66,
+    "end": 506.36,
+    "text": " So, Henry I is very happy."
+  },
+  {
+    "start": 506.36,
+    "end": 512.06,
+    "text": " Let's all go back to England, this other country we own, and hang out there for a bit."
+  },
+  {
+    "start": 512.06,
+    "end": 516.56,
+    "text": " So it was a happy day, very successful period of Henry I's reign."
+  },
+  {
+    "start": 516.56,
+    "end": 524.46,
+    "text": " And then it was a bit like a sort of mega-som in the heirs to the whole ruling class just died in one go."
+  },
+  {
+    "start": 524.46,
+    "end": 526.56,
+    "text": " Is it true that they were all drunk as well?"
+  },
+  {
+    "start": 526.56,
+    "end": 527.46,
+    "text": " I read that."
+  },
+  {
+    "start": 527.46,
+    "end": 531.26,
+    "text": " Yes, basically they decided to get the boat across at night time."
+  },
+  {
+    "start": 531.26,
+    "end": 531.66,
+    "text": " Yeah."
+  },
+  {
+    "start": 531.66,
+    "end": 535.16,
+    "text": " We're not sure why, but it might have been just so they could get pissed in the meantime."
+  },
+  {
+    "start": 535.16,
+    "end": 535.56,
+    "text": " Right."
+  },
+  {
+    "start": 535.56,
+    "end": 540.86,
+    "text": " Apparently everyone on board was absolutely shit-faced, and that could have been one of the reasons that they crashed."
+  },
+  {
+    "start": 540.86,
+    "end": 541.76,
+    "text": " That's interesting."
+  },
+  {
+    "start": 541.76,
+    "end": 544.56,
+    "text": " It seems quite likely to be one of the reasons, doesn't it?"
+  },
+  {
+    "start": 544.56,
+    "end": 548.06,
+    "text": " Because they were obviously quite, I mean, those days there were more shipwrecks than there are now."
+  },
+  {
+    "start": 548.06,
+    "end": 552.06,
+    "text": " You know, it wasn't a dumb deal crossing the channel, but I don't think the weather was bad."
+  },
+  {
+    "start": 552.06,
+    "end": 555.06,
+    "text": " People were nipping back and forth all the time."
+  },
+  {
+    "start": 555.06,
+    "end": 560.06,
+    "text": " But yeah, William Atherling essentially declared it a party boat and said we're all going to have a drink."
+  },
+  {
+    "start": 560.06,
+    "end": 570.16,
+    "text": " And you know, not to be a snob, he very much included the staff, the crew, the butcher and crucially the people driving the ship,"
+  },
+  {
+    "start": 570.16,
+    "end": 572.46,
+    "text": " as they didn't call it then."
+  },
+  {
+    "start": 572.46,
+    "end": 575.26,
+    "text": " So one set of people they didn't include was the priests."
+  },
+  {
+    "start": 575.26,
+    "end": 578.76,
+    "text": " So usually the priests would bless the ship before it set off."
+  },
+  {
+    "start": 578.76,
+    "end": 583.96,
+    "text": " And because it was a party boat, they decided to dismiss the priests, and so they didn't get blessed."
+  },
+  {
+    "start": 583.96,
+    "end": 584.46,
+    "text": " Right."
+  },
+  {
+    "start": 584.46,
+    "end": 587.66,
+    "text": " And so later on some people said that may have been the reason that they crashed."
+  },
+  {
+    "start": 587.66,
+    "end": 588.26,
+    "text": " Yeah."
+  },
+  {
+    "start": 588.26,
+    "end": 590.76,
+    "text": " That's, do you think that's the reason they crashed?"
+  },
+  {
+    "start": 590.76,
+    "end": 593.26,
+    "text": " I'm only reporting what some people said."
+  },
+  {
+    "start": 593.26,
+    "end": 598.26,
+    "text": " I mean, that sounds tremendously convenient, the prevailing religious ethos of the time."
+  },
+  {
+    "start": 598.26,
+    "end": 598.76,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 598.76,
+    "end": 605.96,
+    "text": " Because they blamed everything on religion, because obviously they lived in baffling times where they didn't understand much of what was happening to them."
+  },
+  {
+    "start": 605.96,
+    "end": 614.26,
+    "text": " So they were very keen in the Middle Ages to say it's not that we're, you know, tiny little creatures in a universe of which we have no comprehension."
+  },
+  {
+    "start": 614.26,
+    "end": 616.26,
+    "text": " It's that we didn't pray enough."
+  },
+  {
+    "start": 616.26,
+    "end": 618.36,
+    "text": " So there was something we could have done."
+  },
+  {
+    "start": 618.36,
+    "end": 618.96,
+    "text": " Yes."
+  },
+  {
+    "start": 618.96,
+    "end": 625.26,
+    "text": " And I think it probably made living in the Middle Ages a little bit more relaxing than it otherwise would have been."
+  },
+  {
+    "start": 625.26,
+    "end": 627.86,
+    "text": " Anyway, the white ship, yeah, thanks."
+  },
+  {
+    "start": 627.86,
+    "end": 635.66,
+    "text": " And the future king, Stephen, is probably equally uncomfortable, but in a way with fewer long term consequences to his survival."
+  },
+  {
+    "start": 635.66,
+    "end": 638.66,
+    "text": " Was he seen as someone who is, you know, useful?"
+  },
+  {
+    "start": 638.66,
+    "end": 641.56,
+    "text": " Did they look at him and go, OK, at least we've got someone who might be a good king?"
+  },
+  {
+    "start": 641.56,
+    "end": 644.96,
+    "text": " Or was he a sort of, well, dear with Stephen, just Stephen?"
+  },
+  {
+    "start": 644.96,
+    "end": 650.66,
+    "text": " No, no, because Henry I, who they say after the white ship disaster, he never smiled again."
+  },
+  {
+    "start": 650.66,
+    "end": 654.86,
+    "text": " And I don't know how they know, but I'm not going to call them liars."
+  },
+  {
+    "start": 654.86,
+    "end": 657.66,
+    "text": " But he was very, very upset and he was upset in two ways."
+  },
+  {
+    "start": 657.66,
+    "end": 660.36,
+    "text": " His, obviously his beloved son was dead."
+  },
+  {
+    "start": 660.36,
+    "end": 663.06,
+    "text": " Lots of other people's beloved sons were dead."
+  },
+  {
+    "start": 663.06,
+    "end": 670.96,
+    "text": " But crucially, his plan for the succession of the English crown is in absolute ruins."
+  },
+  {
+    "start": 670.96,
+    "end": 676.26,
+    "text": " Because he's had lots of children, Henry I, but only two of them with his wife."
+  },
+  {
+    "start": 676.26,
+    "end": 681.96,
+    "text": " And the two with his wife are William Atherling, who drowns, and Matilda, who goes..."
+  },
+  {
+    "start": 681.96,
+    "end": 686.26,
+    "text": " Told dreadful lies, no."
+  },
+  {
+    "start": 686.26,
+    "end": 693.86,
+    "text": " She is the former wife of the Emperor of the Holy Roman Empire, as it wasn't then called."
+  },
+  {
+    "start": 693.86,
+    "end": 695.86,
+    "text": " But the Emperor would be the expression."
+  },
+  {
+    "start": 695.86,
+    "end": 699.96,
+    "text": " So she went around calling herself Empress Matilda with some justification."
+  },
+  {
+    "start": 699.96,
+    "end": 704.96,
+    "text": " And he quickly married someone else to try and get a new son going."
+  },
+  {
+    "start": 704.96,
+    "end": 708.36,
+    "text": " Because they didn't like the idea of women ruling then."
+  },
+  {
+    "start": 708.36,
+    "end": 715.76,
+    "text": " Totally fails to beget any children with his new wife, even though he's begat children all over the place."
+  },
+  {
+    "start": 715.76,
+    "end": 718.56,
+    "text": " And she begets a load after he's dead."
+  },
+  {
+    "start": 718.56,
+    "end": 720.56,
+    "text": " So I don't know, whatever."
+  },
+  {
+    "start": 720.56,
+    "end": 724.86,
+    "text": " His sperm and her eggs, they don't make a good team."
+  },
+  {
+    "start": 724.86,
+    "end": 728.26,
+    "text": " Probably because he's so desperately trying to beget an heir."
+  },
+  {
+    "start": 728.26,
+    "end": 733.66,
+    "text": " And it's just the whole begetting vibe is so unromantic, isn't it?"
+  },
+  {
+    "start": 733.66,
+    "end": 737.36,
+    "text": " So anyway, so he doesn't get any more legitimate children before he dies."
+  },
+  {
+    "start": 737.36,
+    "end": 740.06,
+    "text": " So he's stuck with only Matilda."
+  },
+  {
+    "start": 740.06,
+    "end": 745.56,
+    "text": " And he says, OK, well, the only way my bloodline can continue, which is the main thing."
+  },
+  {
+    "start": 745.56,
+    "end": 752.96,
+    "text": " So he makes everyone say, look, I know I've only got a daughter and everyone thinks women shouldn't be in charge of things,"
+  },
+  {
+    "start": 752.96,
+    "end": 755.26,
+    "text": " because this is the past and it's sexist."
+  },
+  {
+    "start": 755.26,
+    "end": 757.66,
+    "text": " I'm quoting him directly."
+  },
+  {
+    "start": 757.66,
+    "end": 762.06,
+    "text": " But please come on so that my DNA can carry on."
+  },
+  {
+    "start": 762.06,
+    "end": 767.66,
+    "text": " Please say that she can be the next king, effectively ruler, queen, and everyone goes."
+  },
+  {
+    "start": 767.66,
+    "end": 775.96,
+    "text": " Your Majesty, of course, for you, anything and twice all of the big shots of the rain, all of the men."
+  },
+  {
+    "start": 775.96,
+    "end": 780.66,
+    "text": " They didn't ask the women, which perhaps a sign that this is a problematic strategy for the age."
+  },
+  {
+    "start": 780.66,
+    "end": 784.36,
+    "text": " But nevertheless, all of the men go, we absolutely as soon as you're dead, your Majesty,"
+  },
+  {
+    "start": 784.36,
+    "end": 789.16,
+    "text": " she's in charge and will absolutely do everything she says like we did to you."
+  },
+  {
+    "start": 789.16,
+    "end": 796.86,
+    "text": " And they all swear, including Stephen of Blois and Henry goes to his grave thinking, maybe this will be OK."
+  },
+  {
+    "start": 796.86,
+    "end": 801.86,
+    "text": " But as soon as he dies, everyone's more thinking, well, you kind of a woman in charge."
+  },
+  {
+    "start": 801.86,
+    "end": 808.76,
+    "text": " That's either because they themselves think a woman couldn't be in charge or because they think, well, I'm quite woke."
+  },
+  {
+    "start": 808.76,
+    "end": 813.56,
+    "text": " I think it would be fine for a woman to be in charge, but other people won't accept it."
+  },
+  {
+    "start": 813.56,
+    "end": 817.16,
+    "text": " But yes, so then please, can Matilda be the next queen?"
+  },
+  {
+    "start": 817.16,
+    "end": 821.36,
+    "text": " Yes, of course, Your Majesty. He dies. No, she can't."
+  },
+  {
+    "start": 821.36,
+    "end": 826.96,
+    "text": " Stephen runs to London, gets himself crowned and he's King Stephen."
+  },
+  {
+    "start": 826.96,
+    "end": 832.16,
+    "text": " Well, the other thing is that Henry, the first death was also due to food poisoning, we think, right?"
+  },
+  {
+    "start": 832.16,
+    "end": 832.96,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 832.96,
+    "end": 839.26,
+    "text": " So it's like a double food poisoning thing because he famously died of a surfeit of lampreys, I think."
+  },
+  {
+    "start": 839.26,
+    "end": 841.26,
+    "text": " That's what we're always taught in school."
+  },
+  {
+    "start": 841.26,
+    "end": 848.56,
+    "text": " But there's been a few recent studies, one by Matthew D. Turner in 2023, who reckons that he died of listeria,"
+  },
+  {
+    "start": 848.56,
+    "end": 852.96,
+    "text": " possibly from the lampreys or possibly from something else yet with the lampreys."
+  },
+  {
+    "start": 852.96,
+    "end": 859.06,
+    "text": " But also perhaps it would have made him confused just as he was about to die because that's what happens with this illness."
+  },
+  {
+    "start": 859.06,
+    "end": 864.36,
+    "text": " And there is a story that on his deathbed, he actually told some of these lords,"
+  },
+  {
+    "start": 864.36,
+    "end": 867.96,
+    "text": " \"Oh, no, Matilda, I've changed my mind. I don't think Matilda should be queen after all."
+  },
+  {
+    "start": 867.96,
+    "end": 871.46,
+    "text": " I think Stephen should be king.\""
+  },
+  {
+    "start": 871.46,
+    "end": 876.16,
+    "text": " My feeling is that that's not so much the effect of the listeria,"
+  },
+  {
+    "start": 876.16,
+    "end": 882.06,
+    "text": " the effect of those people who were in Stephen's camp lying about what the people said."
+  },
+  {
+    "start": 882.06,
+    "end": 883.06,
+    "text": " So that's also a..."
+  },
+  {
+    "start": 883.06,
+    "end": 884.06,
+    "text": " Who can say?"
+  },
+  {
+    "start": 884.06,
+    "end": 885.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 885.06,
+    "end": 889.06,
+    "text": " But yeah, so I'd heard that it was, yes, it wasn't like surfeit of lampreys, rather unfair of him."
+  },
+  {
+    "start": 889.06,
+    "end": 893.26,
+    "text": " Right, if you could have had too fewer lampreys, you'd have been fine with it."
+  },
+  {
+    "start": 893.26,
+    "end": 897.86,
+    "text": " It's just that the lampreys he had, or as you say, something that went with them, the chips or something,"
+  },
+  {
+    "start": 897.86,
+    "end": 900.56,
+    "text": " that, yes, they'd been badly prepared."
+  },
+  {
+    "start": 900.56,
+    "end": 904.16,
+    "text": " Apparently, it's quite difficult to prepare lampreys in a way that doesn't kill you."
+  },
+  {
+    "start": 904.16,
+    "end": 906.96,
+    "text": " On this occasion, they hadn't bothered."
+  },
+  {
+    "start": 906.96,
+    "end": 909.56,
+    "text": " They're kind of like the blowfish of the day."
+  },
+  {
+    "start": 909.56,
+    "end": 912.46,
+    "text": " They can really do a number on you."
+  },
+  {
+    "start": 912.46,
+    "end": 914.76,
+    "text": " You never see them on menus anymore."
+  },
+  {
+    "start": 914.76,
+    "end": 916.46,
+    "text": " No, that's why it's so risky, yeah."
+  },
+  {
+    "start": 916.46,
+    "end": 919.36,
+    "text": " I went to a restaurant once that only did blowfish."
+  },
+  {
+    "start": 919.36,
+    "end": 920.46,
+    "text": " Oh, yeah? Only?"
+  },
+  {
+    "start": 920.46,
+    "end": 920.96,
+    "text": " Yeah."
+  },
+  {
+    "start": 920.96,
+    "end": 923.06,
+    "text": " Oh, thank you. Look at the menu."
+  },
+  {
+    "start": 923.06,
+    "end": 925.46,
+    "text": " It was in Osaka, I think, or somewhere like that."
+  },
+  {
+    "start": 925.46,
+    "end": 930.56,
+    "text": " And my wife wanted to try blowfish, and I had a bit of food poisoning, didn't really want it."
+  },
+  {
+    "start": 930.56,
+    "end": 935.26,
+    "text": " So we went to this place that sold blowfish, and the menu, it was like pictures on the menu."
+  },
+  {
+    "start": 935.26,
+    "end": 938.86,
+    "text": " And so we looked at them all, and it was like, blowfish, blowfish, blowfish, blowfish."
+  },
+  {
+    "start": 938.86,
+    "end": 940.66,
+    "text": " And then there was some chicken nuggets."
+  },
+  {
+    "start": 940.66,
+    "end": 944.26,
+    "text": " And I was like, oh, thank God, I'll have the chicken nuggets, you can have the blowfish."
+  },
+  {
+    "start": 944.26,
+    "end": 948.06,
+    "text": " And then we went in, they sat us down, we ordered our sake or whatever."
+  },
+  {
+    "start": 948.06,
+    "end": 951.86,
+    "text": " And I said, in English, hoping that they'd speak it, I said, I'll have the chicken."
+  },
+  {
+    "start": 951.86,
+    "end": 954.26,
+    "text": " And they said, oh, no, that's blowfish, no, that's..."
+  },
+  {
+    "start": 954.26,
+    "end": 957.06,
+    "text": " Oh, no, that's..."
+  },
+  {
+    "start": 957.06,
+    "end": 959.46,
+    "text": " And it was deep-fried blowfish, go-nuts."
+  },
+  {
+    "start": 959.46,
+    "end": 961.46,
+    "text": " Wow."
+  },
+  {
+    "start": 961.46,
+    "end": 965.46,
+    "text": " We left."
+  },
+  {
+    "start": 965.46,
+    "end": 968.86,
+    "text": " I'm not sure if I was going to eat blowfish, which I'm not."
+  },
+  {
+    "start": 968.86,
+    "end": 973.06,
+    "text": " I'm not sure I'd want to eat it in the sort of place where they show pictures of the food."
+  },
+  {
+    "start": 973.06,
+    "end": 978.46,
+    "text": " The ones where they show a photo almost to prove that they can cook at all and not learn."
+  },
+  {
+    "start": 978.46,
+    "end": 981.46,
+    "text": " A lot of the places, after they go for their Michelin star,"
+  },
+  {
+    "start": 981.46,
+    "end": 985.66,
+    "text": " they decide that the photos need to be excised."
+  },
+  {
+    "start": 985.66,
+    "end": 994.06,
+    "text": " Henry, King Henry, he has, I think, the most baroque afterlife of any English king I've read about."
+  },
+  {
+    "start": 994.06,
+    "end": 996.46,
+    "text": " I mean, so he dies in..."
+  },
+  {
+    "start": 996.46,
+    "end": 1000.66,
+    "text": " He's in France, isn't he, at the Hunting Lodge, where he has the lampries and then dies."
+  },
+  {
+    "start": 1000.66,
+    "end": 1005.66,
+    "text": " And he instructed he be taken to Redding just before he died, because he'd found a nabby there."
+  },
+  {
+    "start": 1005.66,
+    "end": 1007.86,
+    "text": " He'd always wanted to go to Redding, haven't he?"
+  },
+  {
+    "start": 1007.86,
+    "end": 1009.06,
+    "text": " Loves the Spiscuits."
+  },
+  {
+    "start": 1009.06,
+    "end": 1012.06,
+    "text": " So it was near-ish Legoland, or the site of the future Legoland."
+  },
+  {
+    "start": 1012.06,
+    "end": 1014.06,
+    "text": " So he wanted to..."
+  },
+  {
+    "start": 1014.06,
+    "end": 1016.66,
+    "text": " He'd found it a big abbey in Redding, so he thought, \"Right, I'll go there.\""
+  },
+  {
+    "start": 1016.66,
+    "end": 1019.06,
+    "text": " But he was taken to Ruin, his body."
+  },
+  {
+    "start": 1019.06,
+    "end": 1023.06,
+    "text": " So after he dies, he was taken to Ruin and embalmed there."
+  },
+  {
+    "start": 1023.06,
+    "end": 1030.06,
+    "text": " But not all of him, because his heart, his bowels, his brains, his eyes, and his tongue were removed"
+  },
+  {
+    "start": 1030.06,
+    "end": 1035.06,
+    "text": " and buried in Normandy at a different monastery, or abbey, or whatever it was."
+  },
+  {
+    "start": 1035.06,
+    "end": 1038.06,
+    "text": " And then he was embalmed and he was rubbed with salt,"
+  },
+  {
+    "start": 1038.06,
+    "end": 1041.06,
+    "text": " put in a bag made of ox hides for the journey."
+  },
+  {
+    "start": 1041.06,
+    "end": 1044.06,
+    "text": " So he'll hopefully get to Redding in a decent state."
+  },
+  {
+    "start": 1044.06,
+    "end": 1048.06,
+    "text": " I mean, he's removed his heart, his eyes, whatever."
+  },
+  {
+    "start": 1048.06,
+    "end": 1049.06,
+    "text": " I mean, he's not going to look lovely."
+  },
+  {
+    "start": 1049.06,
+    "end": 1051.06,
+    "text": " No, no. Well, he's in a bag, so that's fine."
+  },
+  {
+    "start": 1051.06,
+    "end": 1052.06,
+    "text": " He's in a bag made of ox hides."
+  },
+  {
+    "start": 1052.06,
+    "end": 1054.06,
+    "text": " Don't open the bag."
+  },
+  {
+    "start": 1054.06,
+    "end": 1056.06,
+    "text": " They get to the coast."
+  },
+  {
+    "start": 1056.06,
+    "end": 1063.06,
+    "text": " They get to the coast and the boat is then delayed by four weeks due to bad weather."
+  },
+  {
+    "start": 1063.06,
+    "end": 1065.06,
+    "text": " And everyone's looking at the bag and thinking, \"Oh, no.\""
+  },
+  {
+    "start": 1065.06,
+    "end": 1069.06,
+    "text": " And the bag, I think, starts to leak and sort of very pungent."
+  },
+  {
+    "start": 1069.06,
+    "end": 1071.06,
+    "text": " Body juice, I've heard about this."
+  },
+  {
+    "start": 1071.06,
+    "end": 1073.06,
+    "text": " Very, very pungent stuff."
+  },
+  {
+    "start": 1073.06,
+    "end": 1075.06,
+    "text": " There is, I think, a story."
+  },
+  {
+    "start": 1075.06,
+    "end": 1079.06,
+    "text": " I think it says about him that the man who was ordered to remove his brain,"
+  },
+  {
+    "start": 1079.06,
+    "end": 1083.06,
+    "text": " there was such a bad aroma about the brain, because of how he died,"
+  },
+  {
+    "start": 1083.06,
+    "end": 1087.06,
+    "text": " that the man ordered to remove the brain also died."
+  },
+  {
+    "start": 1087.06,
+    "end": 1088.06,
+    "text": " Of smell."
+  },
+  {
+    "start": 1088.06,
+    "end": 1089.06,
+    "text": " Of smell."
+  },
+  {
+    "start": 1089.06,
+    "end": 1090.06,
+    "text": " Of brain smell."
+  },
+  {
+    "start": 1090.06,
+    "end": 1091.06,
+    "text": " Died of smell."
+  },
+  {
+    "start": 1091.06,
+    "end": 1092.06,
+    "text": " I read that."
+  },
+  {
+    "start": 1092.06,
+    "end": 1094.06,
+    "text": " That was forty years later."
+  },
+  {
+    "start": 1094.06,
+    "end": 1095.06,
+    "text": " They associate it."
+  },
+  {
+    "start": 1095.06,
+    "end": 1096.06,
+    "text": " Under the carrot jacks."
+  },
+  {
+    "start": 1096.06,
+    "end": 1099.06,
+    "text": " Yeah, but it was definitely that smell."
+  },
+  {
+    "start": 1099.06,
+    "end": 1102.06,
+    "text": " It was never the same again."
+  },
+  {
+    "start": 1102.06,
+    "end": 1103.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 1103.06,
+    "end": 1105.06,
+    "text": " So, I mean, what an after life."
+  },
+  {
+    "start": 1105.06,
+    "end": 1108.06,
+    "text": " What a shame that the Elizabeth line wasn't named after him,"
+  },
+  {
+    "start": 1108.06,
+    "end": 1110.06,
+    "text": " because that terminates in Reading."
+  },
+  {
+    "start": 1110.06,
+    "end": 1112.06,
+    "text": " That would have been a beautiful tribute."
+  },
+  {
+    "start": 1112.06,
+    "end": 1114.06,
+    "text": " And it's subterranean as well."
+  },
+  {
+    "start": 1114.06,
+    "end": 1117.06,
+    "text": " So maybe it literally comes up against his skull."
+  },
+  {
+    "start": 1117.06,
+    "end": 1118.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 1118.06,
+    "end": 1122.06,
+    "text": " And that's used to save money, keep it under 50 billion."
+  },
+  {
+    "start": 1122.06,
+    "end": 1128.06,
+    "text": " And to use some of the heft of former King Henry to slow the trains down."
+  },
+  {
+    "start": 1128.06,
+    "end": 1129.06,
+    "text": " Oxide buffers, yeah."
+  },
+  {
+    "start": 1129.06,
+    "end": 1130.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 1130.06,
+    "end": 1134.06,
+    "text": " What I should say, though, the consequence of Stephen's food poisoning,"
+  },
+  {
+    "start": 1134.06,
+    "end": 1138.06,
+    "text": " and then him being declared king, and then him being not very good at being king,"
+  },
+  {
+    "start": 1138.06,
+    "end": 1144.06,
+    "text": " and Matilda, Henry's daughter, being extremely pissed off to have been passed over,"
+  },
+  {
+    "start": 1144.06,
+    "end": 1146.06,
+    "text": " is that she doesn't take it lying down."
+  },
+  {
+    "start": 1146.06,
+    "end": 1151.06,
+    "text": " And she tries with all her might to rest the throne from Stephen."
+  },
+  {
+    "start": 1151.06,
+    "end": 1155.06,
+    "text": " There is a huge civil war called the Anarchy,"
+  },
+  {
+    "start": 1155.06,
+    "end": 1159.06,
+    "text": " in a way that historians now say shouldn't be called the Anarchy,"
+  },
+  {
+    "start": 1159.06,
+    "end": 1161.06,
+    "text": " because that in some way reduces it."
+  },
+  {
+    "start": 1161.06,
+    "end": 1165.06,
+    "text": " What you should just do is spend thousands and thousands of words describing it"
+  },
+  {
+    "start": 1165.06,
+    "end": 1168.06,
+    "text": " minutely rather than giving it a label."
+  },
+  {
+    "start": 1168.06,
+    "end": 1172.06,
+    "text": " But these are obviously historians are not familiar with the concept of language."
+  },
+  {
+    "start": 1172.06,
+    "end": 1174.06,
+    "text": " But anyway, I'm going to call it the Anarchy."
+  },
+  {
+    "start": 1174.06,
+    "end": 1177.06,
+    "text": " It does sound quite an anarchic, like an 18-year civil war."
+  },
+  {
+    "start": 1177.06,
+    "end": 1178.06,
+    "text": " It was quite anarchic."
+  },
+  {
+    "start": 1178.06,
+    "end": 1180.06,
+    "text": " Yes, but also equally, you could take a little bit of it."
+  },
+  {
+    "start": 1180.06,
+    "end": 1182.06,
+    "text": " It was quite calm, awful at night time, for example."
+  },
+  {
+    "start": 1182.06,
+    "end": 1186.06,
+    "text": " So it's very, very reductive of you to use that word."
+  },
+  {
+    "start": 1186.06,
+    "end": 1190.06,
+    "text": " So, you know, for example, I think it's very bad to call an apple an apple,"
+  },
+  {
+    "start": 1190.06,
+    "end": 1193.06,
+    "text": " but you want it to print out of every individual cell."
+  },
+  {
+    "start": 1193.06,
+    "end": 1196.06,
+    "text": " And that's actually a better way of describing it."
+  },
+  {
+    "start": 1196.06,
+    "end": 1199.06,
+    "text": " Anyway, this Anarchy happened and was awful."
+  },
+  {
+    "start": 1199.06,
+    "end": 1202.06,
+    "text": " And Matilda nearly got to be the queen."
+  },
+  {
+    "start": 1202.06,
+    "end": 1204.06,
+    "text": " At one point she was about to be crowned,"
+  },
+  {
+    "start": 1204.06,
+    "end": 1207.06,
+    "text": " but then the people in London got cross and she had to run away."
+  },
+  {
+    "start": 1207.06,
+    "end": 1210.06,
+    "text": " And then at another point she was under siege in Oxford Castle"
+  },
+  {
+    "start": 1210.06,
+    "end": 1212.06,
+    "text": " and she ran away through the snow."
+  },
+  {
+    "start": 1212.06,
+    "end": 1213.06,
+    "text": " It's quite exciting."
+  },
+  {
+    "start": 1213.06,
+    "end": 1217.06,
+    "text": " But eventually she gave up and went back to Normandy,"
+  },
+  {
+    "start": 1217.06,
+    "end": 1221.06,
+    "text": " which by then her husband, Geoffrey of Anjou, had rested from Stephen."
+  },
+  {
+    "start": 1221.06,
+    "end": 1227.06,
+    "text": " But then her son does inherit the throne because Stephen's regime essentially peters out."
+  },
+  {
+    "start": 1227.06,
+    "end": 1228.06,
+    "text": " So they do a deal."
+  },
+  {
+    "start": 1228.06,
+    "end": 1231.06,
+    "text": " Matilda's son, Henry, becomes Henry II."
+  },
+  {
+    "start": 1231.06,
+    "end": 1234.06,
+    "text": " Plantagenet, named after his father, Geoffrey."
+  },
+  {
+    "start": 1234.06,
+    "end": 1238.06,
+    "text": " And then you have quite an ordered succession for quite a long time."
+  },
+  {
+    "start": 1238.06,
+    "end": 1242.06,
+    "text": " It's all in the first four, you know, the rhyme of all the kings and queens of England."
+  },
+  {
+    "start": 1242.06,
+    "end": 1244.06,
+    "text": " It's Willy, Willy, Harry, Stee."
+  },
+  {
+    "start": 1244.06,
+    "end": 1247.06,
+    "text": " This is all the Harry Stee bit."
+  },
+  {
+    "start": 1247.06,
+    "end": 1250.06,
+    "text": " Just that bit, which is Harry Stee."
+  },
+  {
+    "start": 1250.06,
+    "end": 1253.06,
+    "text": " I was just jumping a few Henrys ahead, Henry VIII."
+  },
+  {
+    "start": 1253.06,
+    "end": 1257.06,
+    "text": " I was looking up food because I thought her royal meals sounded a bit odd."
+  },
+  {
+    "start": 1257.06,
+    "end": 1262.06,
+    "text": " And I discovered that he used to serve this meal called cockentrice or cockentries."
+  },
+  {
+    "start": 1262.06,
+    "end": 1263.06,
+    "text": " Have you heard of this?"
+  },
+  {
+    "start": 1263.06,
+    "end": 1264.06,
+    "text": " No."
+  },
+  {
+    "start": 1264.06,
+    "end": 1269.06,
+    "text": " So it was a pig sewn to another animal and he pitched it as a mythical beast."
+  },
+  {
+    "start": 1269.06,
+    "end": 1272.06,
+    "text": " And he would say this is a mythical beast ring."
+  },
+  {
+    "start": 1272.06,
+    "end": 1274.06,
+    "text": " Most like the wings of a bird, is it?"
+  },
+  {
+    "start": 1274.06,
+    "end": 1277.06,
+    "text": " I think it became in a few different permutations."
+  },
+  {
+    "start": 1277.06,
+    "end": 1279.06,
+    "text": " I think it always usually had a pig on the front."
+  },
+  {
+    "start": 1279.06,
+    "end": 1282.06,
+    "text": " It's a chicken, but with the testicles of a blowfish."
+  },
+  {
+    "start": 1282.06,
+    "end": 1287.06,
+    "text": " Yeah, so I just love that."
+  },
+  {
+    "start": 1287.06,
+    "end": 1291.06,
+    "text": " Henry VIII would just present, you know, what was effectively the old version of a yeti."
+  },
+  {
+    "start": 1291.06,
+    "end": 1292.06,
+    "text": " At the table."
+  },
+  {
+    "start": 1292.06,
+    "end": 1296.06,
+    "text": " So he would say, not only have I discovered a mythical beast, I've killed it."
+  },
+  {
+    "start": 1296.06,
+    "end": 1298.06,
+    "text": " And we know what it is."
+  },
+  {
+    "start": 1298.06,
+    "end": 1300.06,
+    "text": " And it's the last one, sadly."
+  },
+  {
+    "start": 1300.06,
+    "end": 1301.06,
+    "text": " But there it is."
+  },
+  {
+    "start": 1301.06,
+    "end": 1304.06,
+    "text": " You look at it now and then what do you fancy?"
+  },
+  {
+    "start": 1304.06,
+    "end": 1305.06,
+    "text": " A bit of wings."
+  },
+  {
+    "start": 1305.06,
+    "end": 1306.06,
+    "text": " And they're like, oh, it tastes a bit like chicken."
+  },
+  {
+    "start": 1306.06,
+    "end": 1308.06,
+    "text": " It's weird how everything tastes a bit like chicken."
+  },
+  {
+    "start": 1308.06,
+    "end": 1310.06,
+    "text": " My bit tastes like pork."
+  },
+  {
+    "start": 1310.06,
+    "end": 1314.06,
+    "text": " Well, that's the thing about the cockentrice."
+  },
+  {
+    "start": 1314.06,
+    "end": 1316.06,
+    "text": " It's so full of flavours."
+  },
+  {
+    "start": 1316.06,
+    "end": 1318.06,
+    "text": " The bottom's got chocolate in it."
+  },
+  {
+    "start": 1318.06,
+    "end": 1320.06,
+    "text": " [LAUGHTER]"
+  },
+  {
+    "start": 1320.06,
+    "end": 1330.06,
+    "text": " OK, it is time for fact number two, and that is Andy."
+  },
+  {
+    "start": 1330.06,
+    "end": 1335.06,
+    "text": " My fact is that sea turtles have been going to the same restaurant for 3,000 years."
+  },
+  {
+    "start": 1335.06,
+    "end": 1337.06,
+    "text": " Blowfish served?"
+  },
+  {
+    "start": 1337.06,
+    "end": 1339.06,
+    "text": " Yeah, it's only blowfish."
+  },
+  {
+    "start": 1339.06,
+    "end": 1340.06,
+    "text": " Yeah, that's nice."
+  },
+  {
+    "start": 1340.06,
+    "end": 1341.06,
+    "text": " You find a thing you like."
+  },
+  {
+    "start": 1341.06,
+    "end": 1343.06,
+    "text": " Yeah, just eat that forever."
+  },
+  {
+    "start": 1343.06,
+    "end": 1344.06,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 1344.06,
+    "end": 1346.06,
+    "text": " So this is about green sea turtles."
+  },
+  {
+    "start": 1346.06,
+    "end": 1350.06,
+    "text": " A new study from the universities of Groningen, Exeter, York, Copenhagen,"
+  },
+  {
+    "start": 1350.06,
+    "end": 1352.06,
+    "text": " and the Society for the Protection of Turtles."
+  },
+  {
+    "start": 1352.06,
+    "end": 1353.06,
+    "text": " They've all teamed up."
+  },
+  {
+    "start": 1353.06,
+    "end": 1355.06,
+    "text": " So they're quite pro-turtles."
+  },
+  {
+    "start": 1355.06,
+    "end": 1356.06,
+    "text": " Very pro-turtles."
+  },
+  {
+    "start": 1356.06,
+    "end": 1358.06,
+    "text": " Society for the eradication of turtles."
+  },
+  {
+    "start": 1358.06,
+    "end": 1359.06,
+    "text": " Didn't get a look at it."
+  },
+  {
+    "start": 1359.06,
+    "end": 1360.06,
+    "text": " Absolutely not."
+  },
+  {
+    "start": 1360.06,
+    "end": 1362.06,
+    "text": " That's quite-- I'm not sure if that's appropriate balance."
+  },
+  {
+    "start": 1362.06,
+    "end": 1365.06,
+    "text": " If this was on the BBC, you'd have to have one person on the show going,"
+  },
+  {
+    "start": 1365.06,
+    "end": 1367.06,
+    "text": " \"I fucking hate turtles.\""
+  },
+  {
+    "start": 1367.06,
+    "end": 1369.06,
+    "text": " So they're a right paint, easy to flip."
+  },
+  {
+    "start": 1369.06,
+    "end": 1374.06,
+    "text": " People, you know, Americans use the same words they do for tortoises."
+  },
+  {
+    "start": 1374.06,
+    "end": 1375.06,
+    "text": " I mean, it's just confusing."
+  },
+  {
+    "start": 1375.06,
+    "end": 1377.06,
+    "text": " Let's just have one."
+  },
+  {
+    "start": 1377.06,
+    "end": 1380.06,
+    "text": " We don't need the aquatic version of those shell people."
+  },
+  {
+    "start": 1380.06,
+    "end": 1383.06,
+    "text": " I've been trying to book a table at that restaurant for months now."
+  },
+  {
+    "start": 1383.06,
+    "end": 1388.06,
+    "text": " Always by the window, party of eight turtles."
+  },
+  {
+    "start": 1388.06,
+    "end": 1390.06,
+    "text": " Restaurant is such a way of putting it."
+  },
+  {
+    "start": 1390.06,
+    "end": 1395.06,
+    "text": " But basically, it's a huge meadow of seagrass off North Africa."
+  },
+  {
+    "start": 1395.06,
+    "end": 1397.06,
+    "text": " And sea turtles go there to eat."
+  },
+  {
+    "start": 1397.06,
+    "end": 1399.06,
+    "text": " They spend the first few years of their life drifting around"
+  },
+  {
+    "start": 1399.06,
+    "end": 1404.06,
+    "text": " because they don't have the control to swim and live in these meadows."
+  },
+  {
+    "start": 1404.06,
+    "end": 1407.06,
+    "text": " And then when they do get the control, they head to the meadows."
+  },
+  {
+    "start": 1407.06,
+    "end": 1409.06,
+    "text": " They swim miles and miles and miles to get there."
+  },
+  {
+    "start": 1409.06,
+    "end": 1412.06,
+    "text": " And they've used archaeology and ancient samples to work out"
+  },
+  {
+    "start": 1412.06,
+    "end": 1418.06,
+    "text": " these are the same habitats in use that sea turtles 3,000 years ago have been heading to."
+  },
+  {
+    "start": 1418.06,
+    "end": 1420.06,
+    "text": " And it's just amazing."
+  },
+  {
+    "start": 1420.06,
+    "end": 1422.06,
+    "text": " And the meadows all have their own chemical signatures,"
+  },
+  {
+    "start": 1422.06,
+    "end": 1424.06,
+    "text": " which end up in the bodies of the sea turtles."
+  },
+  {
+    "start": 1424.06,
+    "end": 1426.06,
+    "text": " Because they're kind of made of these meadows."
+  },
+  {
+    "start": 1426.06,
+    "end": 1431.06,
+    "text": " So yeah, sometimes turtles will visit the same 50 meters squared."
+  },
+  {
+    "start": 1431.06,
+    "end": 1432.06,
+    "text": " Oh, wow."
+  },
+  {
+    "start": 1432.06,
+    "end": 1437.06,
+    "text": " It's like having a table in a particular meadow that they return to."
+  },
+  {
+    "start": 1437.06,
+    "end": 1438.06,
+    "text": " It's pretty amazing."
+  },
+  {
+    "start": 1438.06,
+    "end": 1442.06,
+    "text": " Sea turtles, you know, conservationists have always been trying to monitor"
+  },
+  {
+    "start": 1442.06,
+    "end": 1444.06,
+    "text": " if they're declining, you know, what's going on."
+  },
+  {
+    "start": 1444.06,
+    "end": 1448.06,
+    "text": " And 2023, there was an amazing count that happened."
+  },
+  {
+    "start": 1448.06,
+    "end": 1449.06,
+    "text": " Volunteers went around."
+  },
+  {
+    "start": 1449.06,
+    "end": 1452.06,
+    "text": " They found 74,000 nests bit over that."
+  },
+  {
+    "start": 1452.06,
+    "end": 1455.06,
+    "text": " But there's a huge problem that's happening, which is that the sex, the gender,"
+  },
+  {
+    "start": 1455.06,
+    "end": 1458.06,
+    "text": " is determined by the climate."
+  },
+  {
+    "start": 1458.06,
+    "end": 1461.06,
+    "text": " And as it's getting hotter, they tend to be born as female."
+  },
+  {
+    "start": 1461.06,
+    "end": 1464.06,
+    "text": " And so we're slowly losing all male sea turtles."
+  },
+  {
+    "start": 1464.06,
+    "end": 1466.06,
+    "text": " There's a genuine worry that we're going to just..."
+  },
+  {
+    "start": 1466.06,
+    "end": 1469.06,
+    "text": " We've got all these women now and no men to sort of..."
+  },
+  {
+    "start": 1469.06,
+    "end": 1471.06,
+    "text": " And you need enough diversity in the population to..."
+  },
+  {
+    "start": 1471.06,
+    "end": 1472.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 1472.06,
+    "end": 1473.06,
+    "text": " It is a big problem."
+  },
+  {
+    "start": 1473.06,
+    "end": 1475.06,
+    "text": " It's to do with the temperature of the sand, I think."
+  },
+  {
+    "start": 1475.06,
+    "end": 1479.06,
+    "text": " So if the eggs are laid in sand that's above 31, then they're all female."
+  },
+  {
+    "start": 1479.06,
+    "end": 1481.06,
+    "text": " You know, 31 Celsius."
+  },
+  {
+    "start": 1481.06,
+    "end": 1483.06,
+    "text": " And if it's below 27, they're all male."
+  },
+  {
+    "start": 1483.06,
+    "end": 1489.06,
+    "text": " And the species relies on the sand being a range of temperatures in between the..."
+  },
+  {
+    "start": 1489.06,
+    "end": 1490.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 1490.06,
+    "end": 1493.06,
+    "text": " And historically it's been, well, it'll be colder years and hotter years,"
+  },
+  {
+    "start": 1493.06,
+    "end": 1495.06,
+    "text": " so it'll get a reasonable number of both."
+  },
+  {
+    "start": 1495.06,
+    "end": 1496.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 1496.06,
+    "end": 1497.06,
+    "text": " That's the problem."
+  },
+  {
+    "start": 1497.06,
+    "end": 1498.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 1498.06,
+    "end": 1499.06,
+    "text": " So no, it is a huge problem."
+  },
+  {
+    "start": 1499.06,
+    "end": 1504.06,
+    "text": " So we're hoping for an hour, maybe if you get above like 32, it goes male again."
+  },
+  {
+    "start": 1504.06,
+    "end": 1508.06,
+    "text": " So actually now we'd be rooting for further global warming"
+  },
+  {
+    "start": 1508.06,
+    "end": 1511.06,
+    "text": " in order to push through to the really..."
+  },
+  {
+    "start": 1511.06,
+    "end": 1517.06,
+    "text": " The hot guys, let's call them, that come to start coming through again."
+  },
+  {
+    "start": 1517.06,
+    "end": 1521.06,
+    "text": " Well, the other problem is that the seagrass meadows are also hugely under threat."
+  },
+  {
+    "start": 1521.06,
+    "end": 1523.06,
+    "text": " So just everyone in every..."
+  },
+  {
+    "start": 1523.06,
+    "end": 1524.06,
+    "text": " Like lots of sea turtles."
+  },
+  {
+    "start": 1524.06,
+    "end": 1526.06,
+    "text": " Some sea turtles are doing all right."
+  },
+  {
+    "start": 1526.06,
+    "end": 1528.06,
+    "text": " There is, I think, seven different species of sea turtle."
+  },
+  {
+    "start": 1528.06,
+    "end": 1530.06,
+    "text": " And I think several are endangered."
+  },
+  {
+    "start": 1530.06,
+    "end": 1532.06,
+    "text": " But a couple are doing okay, but several are endangered."
+  },
+  {
+    "start": 1532.06,
+    "end": 1534.06,
+    "text": " And the meadows, lots of them are off North Africa,"
+  },
+  {
+    "start": 1534.06,
+    "end": 1536.06,
+    "text": " where there isn't much environmental protection."
+  },
+  {
+    "start": 1536.06,
+    "end": 1540.06,
+    "text": " And lots of the countries nearest are undergoing quite chaotic times at the moment."
+  },
+  {
+    "start": 1540.06,
+    "end": 1542.06,
+    "text": " And so, yeah, there is a risk that..."
+  },
+  {
+    "start": 1542.06,
+    "end": 1546.06,
+    "text": " Apparently we lose a football pitch's worth of seagrass every 30 minutes."
+  },
+  {
+    "start": 1546.06,
+    "end": 1547.06,
+    "text": " Jesus."
+  },
+  {
+    "start": 1547.06,
+    "end": 1549.06,
+    "text": " Every 30 minutes?"
+  },
+  {
+    "start": 1549.06,
+    "end": 1550.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 1550.06,
+    "end": 1554.06,
+    "text": " I have to say though, whatever's mowing that seagrass, we want to use that on land,"
+  },
+  {
+    "start": 1554.06,
+    "end": 1555.06,
+    "text": " because that's really quick."
+  },
+  {
+    "start": 1555.06,
+    "end": 1558.06,
+    "text": " I think it takes more than half an hour to cut the grass on a football pitch."
+  },
+  {
+    "start": 1558.06,
+    "end": 1561.06,
+    "text": " And this is just literally the use of..."
+  },
+  {
+    "start": 1561.06,
+    "end": 1564.06,
+    "text": " I mean, using global warming as a force for gardening."
+  },
+  {
+    "start": 1564.06,
+    "end": 1565.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 1565.06,
+    "end": 1567.06,
+    "text": " Hot turtles, better gardening."
+  },
+  {
+    "start": 1567.06,
+    "end": 1568.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 1568.06,
+    "end": 1569.06,
+    "text": " What is this?"
+  },
+  {
+    "start": 1569.06,
+    "end": 1572.06,
+    "text": " I kind of like climate change now."
+  },
+  {
+    "start": 1572.06,
+    "end": 1573.06,
+    "text": " I am not."
+  },
+  {
+    "start": 1573.06,
+    "end": 1576.06,
+    "text": " I'm in favor of climate change."
+  },
+  {
+    "start": 1576.06,
+    "end": 1581.06,
+    "text": " Because the seagrass buries carbon 35 times faster than a tropical rainforest."
+  },
+  {
+    "start": 1581.06,
+    "end": 1582.06,
+    "text": " Another fact that I read."
+  },
+  {
+    "start": 1582.06,
+    "end": 1583.06,
+    "text": " It's amazing."
+  },
+  {
+    "start": 1583.06,
+    "end": 1584.06,
+    "text": " Yeah, because they just..."
+  },
+  {
+    "start": 1584.06,
+    "end": 1587.06,
+    "text": " Seagrass, they take carbon from the water to build their leaves."
+  },
+  {
+    "start": 1587.06,
+    "end": 1589.06,
+    "text": " The leaves eventually die."
+  },
+  {
+    "start": 1589.06,
+    "end": 1592.06,
+    "text": " That sediment stays on the ocean floor for hundreds of years."
+  },
+  {
+    "start": 1592.06,
+    "end": 1594.06,
+    "text": " And so that's how they sequester."
+  },
+  {
+    "start": 1594.06,
+    "end": 1596.06,
+    "text": " So that's essentially carbon capture."
+  },
+  {
+    "start": 1596.06,
+    "end": 1598.06,
+    "text": " It's captured in the silt at the bottom."
+  },
+  {
+    "start": 1598.06,
+    "end": 1600.06,
+    "text": " Yeah, it's really functional carbon capture."
+  },
+  {
+    "start": 1600.06,
+    "end": 1606.06,
+    "text": " And I think 10% of the carbon in the ocean is buried by seagrasses or sequestered by seagrasses,"
+  },
+  {
+    "start": 1606.06,
+    "end": 1609.06,
+    "text": " despite them being 0.1% of the ocean floor."
+  },
+  {
+    "start": 1609.06,
+    "end": 1611.06,
+    "text": " So it's really impressive stuff."
+  },
+  {
+    "start": 1611.06,
+    "end": 1613.06,
+    "text": " Yeah, we need loads more of it."
+  },
+  {
+    "start": 1613.06,
+    "end": 1614.06,
+    "text": " Can we plant it?"
+  },
+  {
+    "start": 1614.06,
+    "end": 1620.06,
+    "text": " There are a few plans to plant 18 hectares around the UK by 2026, which is not..."
+  },
+  {
+    "start": 1620.06,
+    "end": 1621.06,
+    "text": " It doesn't sound like that."
+  },
+  {
+    "start": 1621.06,
+    "end": 1625.06,
+    "text": " I don't know how many hectares in a football pitch, but it sounds like a few hours."
+  },
+  {
+    "start": 1625.06,
+    "end": 1627.06,
+    "text": " And that's done no good at all."
+  },
+  {
+    "start": 1627.06,
+    "end": 1630.06,
+    "text": " It's not... Yes, I think there might be more like pilot schemes,"
+  },
+  {
+    "start": 1630.06,
+    "end": 1632.06,
+    "text": " but they are trying to get more going."
+  },
+  {
+    "start": 1632.06,
+    "end": 1634.06,
+    "text": " And of course, if you protect bits of seafloor, then..."
+  },
+  {
+    "start": 1634.06,
+    "end": 1636.06,
+    "text": " Do the turtles, Andy?"
+  },
+  {
+    "start": 1636.06,
+    "end": 1637.06,
+    "text": " Did they eat seagrass?"
+  },
+  {
+    "start": 1637.06,
+    "end": 1638.06,
+    "text": " They eat the tips of it."
+  },
+  {
+    "start": 1638.06,
+    "end": 1640.06,
+    "text": " I think that stimulates growth."
+  },
+  {
+    "start": 1640.06,
+    "end": 1644.06,
+    "text": " Okay, so there's no cause to eradicate the turtles."
+  },
+  {
+    "start": 1644.06,
+    "end": 1646.06,
+    "text": " Your anti-turtle society is just not going to be a thing."
+  },
+  {
+    "start": 1646.06,
+    "end": 1647.06,
+    "text": " Let's just check."
+  },
+  {
+    "start": 1647.06,
+    "end": 1649.06,
+    "text": " We've just got to be open-minded."
+  },
+  {
+    "start": 1649.06,
+    "end": 1652.06,
+    "text": " Maybe the turtles are the villains of the piece."
+  },
+  {
+    "start": 1652.06,
+    "end": 1654.06,
+    "text": " David, we're blaming ourselves for all our factories,"
+  },
+  {
+    "start": 1654.06,
+    "end": 1658.06,
+    "text": " but maybe those turtles are cleverer than they look."
+  },
+  {
+    "start": 1658.06,
+    "end": 1661.06,
+    "text": " David's wearing a T-shirt, which is saying, \"Stop sea turtles.\""
+  },
+  {
+    "start": 1661.06,
+    "end": 1665.06,
+    "text": " It's really upsetting."
+  },
+  {
+    "start": 1665.06,
+    "end": 1668.06,
+    "text": " Outside of seagrass, they're quite fussy eaters, sea turtles."
+  },
+  {
+    "start": 1668.06,
+    "end": 1671.06,
+    "text": " They're given a bigger menu to play with."
+  },
+  {
+    "start": 1671.06,
+    "end": 1675.06,
+    "text": " So one of the other problems of the climate at the moment"
+  },
+  {
+    "start": 1675.06,
+    "end": 1678.06,
+    "text": " is sometimes they're going off course, they're going into colder oceans,"
+  },
+  {
+    "start": 1678.06,
+    "end": 1679.06,
+    "text": " and they get hypothermia."
+  },
+  {
+    "start": 1679.06,
+    "end": 1682.06,
+    "text": " So there's a lot of turtles that wash up onto shore,"
+  },
+  {
+    "start": 1682.06,
+    "end": 1686.06,
+    "text": " and either they're dead or they get rescued and taken to turtle hospital,"
+  },
+  {
+    "start": 1686.06,
+    "end": 1689.06,
+    "text": " where they then get this brilliant menu of different things."
+  },
+  {
+    "start": 1689.06,
+    "end": 1692.06,
+    "text": " And so each individual turtle has just a different kind of taste."
+  },
+  {
+    "start": 1692.06,
+    "end": 1695.06,
+    "text": " Like number seven doesn't like the squid, for example."
+  },
+  {
+    "start": 1695.06,
+    "end": 1698.06,
+    "text": " A few of them don't like tails."
+  },
+  {
+    "start": 1698.06,
+    "end": 1701.06,
+    "text": " Don't give them any fishy tails or anything like that."
+  },
+  {
+    "start": 1701.06,
+    "end": 1705.06,
+    "text": " Yeah, and also it's creating chaos because turtles are very solitary,"
+  },
+  {
+    "start": 1705.06,
+    "end": 1707.06,
+    "text": " but they're in tanks together to be fed."
+  },
+  {
+    "start": 1707.06,
+    "end": 1711.06,
+    "text": " And so there's turtle bullies that they have to sort of reprimand and tell off and so on,"
+  },
+  {
+    "start": 1711.06,
+    "end": 1714.06,
+    "text": " because they're eating the tails and so on."
+  },
+  {
+    "start": 1714.06,
+    "end": 1719.06,
+    "text": " You can give turtles, if they're not very well, you can give them mayonnaise to eat."
+  },
+  {
+    "start": 1719.06,
+    "end": 1720.06,
+    "text": " Did you see this?"
+  },
+  {
+    "start": 1720.06,
+    "end": 1725.06,
+    "text": " So this is if there's been an oil spill, and the turtles have eaten a lot of oil."
+  },
+  {
+    "start": 1725.06,
+    "end": 1728.06,
+    "text": " If you give them mayonnaise, it helps them to shit it out."
+  },
+  {
+    "start": 1728.06,
+    "end": 1734.06,
+    "text": " And the reason is because obviously mayonnaise, it's oil and whatever it is."
+  },
+  {
+    "start": 1734.06,
+    "end": 1735.06,
+    "text": " Eggs?"
+  },
+  {
+    "start": 1735.06,
+    "end": 1736.06,
+    "text": " Yeah, it's an emulsion."
+  },
+  {
+    "start": 1736.06,
+    "end": 1739.06,
+    "text": " We're revealing our ignorance here, aren't we?"
+  },
+  {
+    "start": 1739.06,
+    "end": 1742.06,
+    "text": " And it's a really base food stuff as well, it's not complicated."
+  },
+  {
+    "start": 1742.06,
+    "end": 1745.06,
+    "text": " This is an off menu, we don't need to know anything about food."
+  },
+  {
+    "start": 1745.06,
+    "end": 1748.06,
+    "text": " It comes out of a jar, let's be honest."
+  },
+  {
+    "start": 1748.06,
+    "end": 1752.06,
+    "text": " Yeah, but it has an emulsifier in it, which mixes water and oil."
+  },
+  {
+    "start": 1752.06,
+    "end": 1756.06,
+    "text": " So if you've got oil inside you, the emulsifier inside mayonnaise"
+  },
+  {
+    "start": 1756.06,
+    "end": 1761.06,
+    "text": " can help the oil to mix with the water already inside the stomach of the turtle"
+  },
+  {
+    "start": 1761.06,
+    "end": 1763.06,
+    "text": " and then just makes it easier to excrete."
+  },
+  {
+    "start": 1763.06,
+    "end": 1764.06,
+    "text": " That is so interesting."
+  },
+  {
+    "start": 1764.06,
+    "end": 1765.06,
+    "text": " That's amazing."
+  },
+  {
+    "start": 1765.06,
+    "end": 1772.06,
+    "text": " Yeah, so all these oil slicks are basically, they're just a conspiracy by Big Mayo."
+  },
+  {
+    "start": 1772.06,
+    "end": 1777.06,
+    "text": " That causes massive spikes in the helman's share price."
+  },
+  {
+    "start": 1777.06,
+    "end": 1783.06,
+    "text": " Whenever BP has a little mistake, they're suddenly coaching."
+  },
+  {
+    "start": 1783.06,
+    "end": 1786.06,
+    "text": " I've got a link to the previous fact weirdly."
+  },
+  {
+    "start": 1786.06,
+    "end": 1789.06,
+    "text": " Oh yeah, to David's fact, his headline fact."
+  },
+  {
+    "start": 1789.06,
+    "end": 1794.06,
+    "text": " So seagrasses stop people getting gastroenteritis."
+  },
+  {
+    "start": 1794.06,
+    "end": 1795.06,
+    "text": " Oh."
+  },
+  {
+    "start": 1795.06,
+    "end": 1796.06,
+    "text": " Isn't that good?"
+  },
+  {
+    "start": 1796.06,
+    "end": 1800.06,
+    "text": " So if you have gastroenteritis because you've drunk some water normally,"
+  },
+  {
+    "start": 1800.06,
+    "end": 1802.06,
+    "text": " which has the pathogens in it, which cause it."
+  },
+  {
+    "start": 1802.06,
+    "end": 1807.06,
+    "text": " Seagrass mayors have way, way, way fewer of those pathogens in and around and among them."
+  },
+  {
+    "start": 1807.06,
+    "end": 1809.06,
+    "text": " So that water is just cleaner."
+  },
+  {
+    "start": 1809.06,
+    "end": 1812.06,
+    "text": " You're less likely to get gastroenteritis from there."
+  },
+  {
+    "start": 1812.06,
+    "end": 1814.06,
+    "text": " And they've tried to calculate it."
+  },
+  {
+    "start": 1814.06,
+    "end": 1819.06,
+    "text": " Between 8 and 24 million cases of gastroenteritis prevented every year."
+  },
+  {
+    "start": 1819.06,
+    "end": 1820.06,
+    "text": " Wow."
+  },
+  {
+    "start": 1820.06,
+    "end": 1825.06,
+    "text": " And I think it's because the seagrass kind of uses it almost like a fertilizer and takes it into its body."
+  },
+  {
+    "start": 1825.06,
+    "end": 1826.06,
+    "text": " Exactly."
+  },
+  {
+    "start": 1826.06,
+    "end": 1829.06,
+    "text": " It takes the gastroenteritis pathogens out of water."
+  },
+  {
+    "start": 1829.06,
+    "end": 1830.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 1830.06,
+    "end": 1833.06,
+    "text": " But can it grow in non-salty water?"
+  },
+  {
+    "start": 1833.06,
+    "end": 1835.06,
+    "text": " Almost none of it."
+  },
+  {
+    "start": 1835.06,
+    "end": 1836.06,
+    "text": " No."
+  },
+  {
+    "start": 1836.06,
+    "end": 1837.06,
+    "text": " No, I think there's a bit of it."
+  },
+  {
+    "start": 1837.06,
+    "end": 1838.06,
+    "text": " There's only one fresh water."
+  },
+  {
+    "start": 1838.06,
+    "end": 1842.06,
+    "text": " No, there's a problem there in terms of how useful it is."
+  },
+  {
+    "start": 1842.06,
+    "end": 1847.06,
+    "text": " Well, if you only drink seawater like me, it's actually fine for you."
+  },
+  {
+    "start": 1847.06,
+    "end": 1850.06,
+    "text": " It's still sparkling or salty, I think."
+  },
+  {
+    "start": 1850.06,
+    "end": 1852.06,
+    "text": " I've just worked out a mnemonic."
+  },
+  {
+    "start": 1852.06,
+    "end": 1854.06,
+    "text": " So how many cases did I say prevented every year?"
+  },
+  {
+    "start": 1854.06,
+    "end": 1856.06,
+    "text": " Little quiz, instant recall quiz."
+  },
+  {
+    "start": 1856.06,
+    "end": 1857.06,
+    "text": " How many million cases?"
+  },
+  {
+    "start": 1857.06,
+    "end": 1860.06,
+    "text": " I think it was a football picture."
+  },
+  {
+    "start": 1860.06,
+    "end": 1863.06,
+    "text": " It was between 8 and 24 million cases."
+  },
+  {
+    "start": 1863.06,
+    "end": 1864.06,
+    "text": " Okay, all right."
+  },
+  {
+    "start": 1864.06,
+    "end": 1873.06,
+    "text": " Now, if you need a mnemonic to remember that, those are the ages of Matilda and the Holy Roman Emperor when they were betrothed to each other."
+  },
+  {
+    "start": 1873.06,
+    "end": 1876.06,
+    "text": " And if you need a mnemonic the other way around, you're like, how was Matilda?"
+  },
+  {
+    "start": 1876.06,
+    "end": 1881.06,
+    "text": " It was like, oh, what's the lower range of cases of gastroenteritis prevented each year by seagrasses?"
+  },
+  {
+    "start": 1881.06,
+    "end": 1882.06,
+    "text": " Beautiful."
+  },
+  {
+    "start": 1882.06,
+    "end": 1883.06,
+    "text": " You're welcome, guys."
+  },
+  {
+    "start": 1883.06,
+    "end": 1889.06,
+    "text": " So 8 and 24 when they were betrothed, but 12 and 28 when they were married, so not that."
+  },
+  {
+    "start": 1889.06,
+    "end": 1890.06,
+    "text": " No, not that."
+  },
+  {
+    "start": 1890.06,
+    "end": 1896.06,
+    "text": " That would be to massively overstate the beneficial effect of seagrass on gastroenteritis."
+  },
+  {
+    "start": 1896.06,
+    "end": 1899.06,
+    "text": " I have a thing which I want to link back to the previous fact as well."
+  },
+  {
+    "start": 1899.06,
+    "end": 1902.06,
+    "text": " So we have a mystery butcher of the previous fact."
+  },
+  {
+    "start": 1902.06,
+    "end": 1907.06,
+    "text": " I found a mystery turtle that I don't know much more about, that I want to find out about."
+  },
+  {
+    "start": 1907.06,
+    "end": 1912.06,
+    "text": " And it's the first turtle to go over Niagara Falls in a barrel and survive."
+  },
+  {
+    "start": 1912.06,
+    "end": 1921.06,
+    "text": " So I'm now plunging out an image of people glumly looking at a huge pile of dead turtles at the bottom of Niagara Falls."
+  },
+  {
+    "start": 1921.06,
+    "end": 1926.06,
+    "text": " And go, I don't know, maybe try taping an X under the inside of the barrel."
+  },
+  {
+    "start": 1926.06,
+    "end": 1933.06,
+    "text": " So this was 1930. There was a guy called George Stathakus, and he had this idea of going over Niagara in a barrel."
+  },
+  {
+    "start": 1933.06,
+    "end": 1935.06,
+    "text": " And the barrel goes down."
+  },
+  {
+    "start": 1935.06,
+    "end": 1940.06,
+    "text": " It doesn't break up, but it gets caught in a sort of a tide that's underneath."
+  },
+  {
+    "start": 1940.06,
+    "end": 1943.06,
+    "text": " I don't know what you'd call it, but it's, he can't escape."
+  },
+  {
+    "start": 1943.06,
+    "end": 1945.06,
+    "text": " And he's there for 18 hours in this barrel."
+  },
+  {
+    "start": 1945.06,
+    "end": 1947.06,
+    "text": " So when they find him, he's suffocated."
+  },
+  {
+    "start": 1947.06,
+    "end": 1948.06,
+    "text": " He's dead."
+  },
+  {
+    "start": 1948.06,
+    "end": 1950.06,
+    "text": " And Sonny is, oh, sorry."
+  },
+  {
+    "start": 1950.06,
+    "end": 1952.06,
+    "text": " Yeah, there's a dead man in the story."
+  },
+  {
+    "start": 1952.06,
+    "end": 1954.06,
+    "text": " Do we suspect the turtle in this story?"
+  },
+  {
+    "start": 1954.06,
+    "end": 1956.06,
+    "text": " Oh, I haven't thought about it."
+  },
+  {
+    "start": 1956.06,
+    "end": 1958.06,
+    "text": " Only one of us could survive this."
+  },
+  {
+    "start": 1958.06,
+    "end": 1963.06,
+    "text": " Well, the turtle might have been feeling quite negatively towards him, to be honest."
+  },
+  {
+    "start": 1963.06,
+    "end": 1968.06,
+    "text": " This guy, you know, I'm not, I wouldn't blame the turtle for not giving him a mouth to mouth."
+  },
+  {
+    "start": 1968.06,
+    "end": 1972.06,
+    "text": " This is the guy that's, what are we doing now, sir?"
+  },
+  {
+    "start": 1972.06,
+    "end": 1975.06,
+    "text": " A hundred years old as well."
+  },
+  {
+    "start": 1975.06,
+    "end": 1976.06,
+    "text": " Exactly."
+  },
+  {
+    "start": 1976.06,
+    "end": 1977.06,
+    "text": " That's a very old turtle."
+  },
+  {
+    "start": 1977.06,
+    "end": 1978.06,
+    "text": " It's a really old turtle."
+  },
+  {
+    "start": 1978.06,
+    "end": 1979.06,
+    "text": " And the barrel is in a museum now."
+  },
+  {
+    "start": 1979.06,
+    "end": 1981.06,
+    "text": " It's held as a kind of piece of Niagara Falls history."
+  },
+  {
+    "start": 1981.06,
+    "end": 1982.06,
+    "text": " Right."
+  },
+  {
+    "start": 1982.06,
+    "end": 1983.06,
+    "text": " But where did Sonny go?"
+  },
+  {
+    "start": 1983.06,
+    "end": 1984.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1984.06,
+    "end": 1985.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1985.06,
+    "end": 1986.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1986.06,
+    "end": 1987.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1987.06,
+    "end": 1988.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1988.06,
+    "end": 1989.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1989.06,
+    "end": 1990.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1990.06,
+    "end": 1991.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1991.06,
+    "end": 1992.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1992.06,
+    "end": 1993.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1993.06,
+    "end": 1994.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1994.06,
+    "end": 1995.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1995.06,
+    "end": 1996.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1996.06,
+    "end": 1997.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1997.06,
+    "end": 1998.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1998.06,
+    "end": 1999.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 1999.06,
+    "end": 2000.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2000.06,
+    "end": 2001.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2001.06,
+    "end": 2002.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2002.06,
+    "end": 2003.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2003.06,
+    "end": 2004.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2004.06,
+    "end": 2005.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2005.06,
+    "end": 2006.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2006.06,
+    "end": 2007.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2007.06,
+    "end": 2008.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2008.06,
+    "end": 2009.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2009.06,
+    "end": 2010.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2010.06,
+    "end": 2011.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2011.06,
+    "end": 2012.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2012.06,
+    "end": 2013.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2013.06,
+    "end": 2014.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2014.06,
+    "end": 2015.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2015.06,
+    "end": 2016.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2016.06,
+    "end": 2017.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2017.06,
+    "end": 2018.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2018.06,
+    "end": 2019.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2019.06,
+    "end": 2020.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2020.06,
+    "end": 2021.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2021.06,
+    "end": 2022.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2022.06,
+    "end": 2023.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2023.06,
+    "end": 2024.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2024.06,
+    "end": 2025.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2025.06,
+    "end": 2026.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2026.06,
+    "end": 2027.06,
+    "text": " I don't know where he went."
+  },
+  {
+    "start": 2027.06,
+    "end": 2031.06,
+    "text": " Okay, it is time for fact number three, and that is James."
+  },
+  {
+    "start": 2031.06,
+    "end": 2038.06,
+    "text": " Okay, my fact this week is that in 1861, there was one street musician for every ten streets in London."
+  },
+  {
+    "start": 2038.06,
+    "end": 2041.06,
+    "text": " What a time to be alive."
+  },
+  {
+    "start": 2041.06,
+    "end": 2042.06,
+    "text": " What a time."
+  },
+  {
+    "start": 2042.06,
+    "end": 2043.06,
+    "text": " Noisy, noisy time."
+  },
+  {
+    "start": 2043.06,
+    "end": 2046.06,
+    "text": " Sounds like it was a bit of a bad time for quite a lot of Londoners."
+  },
+  {
+    "start": 2046.06,
+    "end": 2052.06,
+    "text": " Yeah, so this is according to journalist Henry Mayhew, whose article admittedly was relatively"
+  },
+  {
+    "start": 2052.06,
+    "end": 2056.06,
+    "text": " negative towards the street musicians, but he estimated there are approximately a thousand"
+  },
+  {
+    "start": 2056.06,
+    "end": 2058.06,
+    "text": " street musicians, 10,500 streets."
+  },
+  {
+    "start": 2058.06,
+    "end": 2059.06,
+    "text": " Okay."
+  },
+  {
+    "start": 2059.06,
+    "end": 2060.06,
+    "text": " And it was a real problem."
+  },
+  {
+    "start": 2060.06,
+    "end": 2064.06,
+    "text": " We've said before, I think that Babbage really hated them."
+  },
+  {
+    "start": 2064.06,
+    "end": 2069.06,
+    "text": " He really got frustrated with them, and he was actually him and the guy called Michael Bass,"
+  },
+  {
+    "start": 2069.06,
+    "end": 2071.06,
+    "text": " who ran the Bass Brewery."
+  },
+  {
+    "start": 2071.06,
+    "end": 2078.06,
+    "text": " They managed to get it regulated in 1864, but for probably the decade up until 1864, London"
+  },
+  {
+    "start": 2078.06,
+    "end": 2082.06,
+    "text": " was just an unbelievably loud place to live, largely thanks to these."
+  },
+  {
+    "start": 2082.06,
+    "end": 2083.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2083.06,
+    "end": 2086.06,
+    "text": " What was their, what genre of music did they favour?"
+  },
+  {
+    "start": 2086.06,
+    "end": 2087.06,
+    "text": " Oh, it was all sorts."
+  },
+  {
+    "start": 2087.06,
+    "end": 2093.06,
+    "text": " So Mayhew said there were English violinists, Scottish pipers, German brass bandsmen, Italian"
+  },
+  {
+    "start": 2093.06,
+    "end": 2094.06,
+    "text": " grinders."
+  },
+  {
+    "start": 2094.06,
+    "end": 2096.06,
+    "text": " So that's be like a..."
+  },
+  {
+    "start": 2096.06,
+    "end": 2097.06,
+    "text": " Organs."
+  },
+  {
+    "start": 2097.06,
+    "end": 2098.06,
+    "text": " All grinding, yeah."
+  },
+  {
+    "start": 2098.06,
+    "end": 2101.06,
+    "text": " And one French hurdy-gurdy player."
+  },
+  {
+    "start": 2101.06,
+    "end": 2104.06,
+    "text": " One out of all the thousand."
+  },
+  {
+    "start": 2104.06,
+    "end": 2105.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2105.06,
+    "end": 2107.06,
+    "text": " Here he comes."
+  },
+  {
+    "start": 2107.06,
+    "end": 2109.06,
+    "text": " It was a she and the women."
+  },
+  {
+    "start": 2109.06,
+    "end": 2110.06,
+    "text": " Oh, sorry."
+  },
+  {
+    "start": 2110.06,
+    "end": 2111.06,
+    "text": " I'm sorry."
+  },
+  {
+    "start": 2111.06,
+    "end": 2112.06,
+    "text": " That's my prejudice though."
+  },
+  {
+    "start": 2112.06,
+    "end": 2118.06,
+    "text": " She had an instrument that, according to Mayhew, had a battered, heavy look about it and was"
+  },
+  {
+    "start": 2118.06,
+    "end": 2121.06,
+    "text": " grievously harsh and out of tune."
+  },
+  {
+    "start": 2121.06,
+    "end": 2124.06,
+    "text": " And for 43 years, she had her regular rounds."
+  },
+  {
+    "start": 2124.06,
+    "end": 2125.06,
+    "text": " 43?"
+  },
+  {
+    "start": 2125.06,
+    "end": 2129.06,
+    "text": " Yeah, so she went to Marleybone on a Monday, Kentish Town on a Tuesday."
+  },
+  {
+    "start": 2129.06,
+    "end": 2131.06,
+    "text": " So you knew how to avoid it."
+  },
+  {
+    "start": 2131.06,
+    "end": 2133.06,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 2133.06,
+    "end": 2136.06,
+    "text": " I saw a hurdy-gurdy player recently."
+  },
+  {
+    "start": 2136.06,
+    "end": 2141.06,
+    "text": " I was in Canterbury, and it was a very hurdy-gurdy, it was the very old, old, old bit of Canterbury."
+  },
+  {
+    "start": 2141.06,
+    "end": 2142.06,
+    "text": " The cathedral."
+  },
+  {
+    "start": 2142.06,
+    "end": 2143.06,
+    "text": " So you think he was a ghost?"
+  },
+  {
+    "start": 2143.06,
+    "end": 2145.06,
+    "text": " I don't think he was a ghost."
+  },
+  {
+    "start": 2145.06,
+    "end": 2149.06,
+    "text": " No, he ran through a wall as soon as I started asking him questions, but he wasn't a ghost."
+  },
+  {
+    "start": 2149.06,
+    "end": 2151.06,
+    "text": " Can you remind me what..."
+  },
+  {
+    "start": 2151.06,
+    "end": 2155.06,
+    "text": " There's a handle you wind, and he was doing something with his other hand as well."
+  },
+  {
+    "start": 2155.06,
+    "end": 2158.06,
+    "text": " And it looks like a small violin with a handle."
+  },
+  {
+    "start": 2158.06,
+    "end": 2159.06,
+    "text": " Oh, okay."
+  },
+  {
+    "start": 2159.06,
+    "end": 2160.06,
+    "text": " How interesting."
+  },
+  {
+    "start": 2160.06,
+    "end": 2161.06,
+    "text": " This is a really bad instrument."
+  },
+  {
+    "start": 2161.06,
+    "end": 2162.06,
+    "text": " Is it a stringed instrument?"
+  },
+  {
+    "start": 2162.06,
+    "end": 2163.06,
+    "text": " It is stringed."
+  },
+  {
+    "start": 2163.06,
+    "end": 2166.06,
+    "text": " Okay, so the fingers are kind of on the frets, like a guitar."
+  },
+  {
+    "start": 2166.06,
+    "end": 2169.06,
+    "text": " This is sounding like the car that Homer Simpson designed."
+  },
+  {
+    "start": 2169.06,
+    "end": 2176.06,
+    "text": " It has some strings, but also a handle, a little keyboard on the bottom, and then you blow in the end."
+  },
+  {
+    "start": 2176.06,
+    "end": 2180.06,
+    "text": " I can't remember whether there were strings and frets or whether there were keys to play it."
+  },
+  {
+    "start": 2180.06,
+    "end": 2184.06,
+    "text": " I think it might have been keys and a handle, but it was a very much a combo thing."
+  },
+  {
+    "start": 2184.06,
+    "end": 2185.06,
+    "text": " Yeah, that's great."
+  },
+  {
+    "start": 2185.06,
+    "end": 2187.06,
+    "text": " I only know it as like a comedy word, really."
+  },
+  {
+    "start": 2187.06,
+    "end": 2188.06,
+    "text": " I know, I was staggered."
+  },
+  {
+    "start": 2188.06,
+    "end": 2192.06,
+    "text": " That's why I said, \"What's that?\" to this guy, and he just went, \"Woo-hoo!\""
+  },
+  {
+    "start": 2192.06,
+    "end": 2193.06,
+    "text": " That's weird."
+  },
+  {
+    "start": 2193.06,
+    "end": 2196.06,
+    "text": " That was the hurdy-gurdy making the noise, isn't it?"
+  },
+  {
+    "start": 2196.06,
+    "end": 2202.06,
+    "text": " There was one other person, just while we're on it, described by Mayhew, who was an Italian fiddler"
+  },
+  {
+    "start": 2202.06,
+    "end": 2208.06,
+    "text": " who would go around imitating all the farmyard animals with his fiddle."
+  },
+  {
+    "start": 2208.06,
+    "end": 2218.06,
+    "text": " He said he'd been doing it for 12 years, and he could imitate the bull, the calf, the dog, the cock, the peacock, the ass, and the hen when she's laid an egg."
+  },
+  {
+    "start": 2218.06,
+    "end": 2219.06,
+    "text": " That's amazing."
+  },
+  {
+    "start": 2219.06,
+    "end": 2220.06,
+    "text": " Do all that with his fiddle."
+  },
+  {
+    "start": 2220.06,
+    "end": 2222.06,
+    "text": " But what he couldn't do is play a tune."
+  },
+  {
+    "start": 2222.06,
+    "end": 2228.06,
+    "text": " What he found is that if you just bash at a fiddle, it makes this."
+  },
+  {
+    "start": 2228.06,
+    "end": 2234.06,
+    "text": " That is exactly the noise a hen makes, and it's just later, you might not be familiar with that, you live in central London."
+  },
+  {
+    "start": 2234.06,
+    "end": 2238.06,
+    "text": " But if you head out to the countryside and listen to it, it's exactly like that."
+  },
+  {
+    "start": 2238.06,
+    "end": 2241.06,
+    "text": " So isn't that, that's worth a pop or two, isn't it?"
+  },
+  {
+    "start": 2241.06,
+    "end": 2247.06,
+    "text": " How come there was money to support the, why were, people must have been paying for it."
+  },
+  {
+    "start": 2247.06,
+    "end": 2252.06,
+    "text": " Yeah, but it was like just pennies here and there, but they were doing it day in, day out."
+  },
+  {
+    "start": 2252.06,
+    "end": 2260.06,
+    "text": " And these people, they had their regulars, so they would go to Miley Bono, to Kensington, because they knew there was someone there who would give them, you know, a few hapenies here and there."
+  },
+  {
+    "start": 2260.06,
+    "end": 2262.06,
+    "text": " And that's all they needed to live, really."
+  },
+  {
+    "start": 2262.06,
+    "end": 2263.06,
+    "text": " Nice."
+  },
+  {
+    "start": 2263.06,
+    "end": 2267.06,
+    "text": " So these, like, grinders, as they were called."
+  },
+  {
+    "start": 2267.06,
+    "end": 2274.06,
+    "text": " And the particular thing that people got annoyed by was people with barrel organs, because there was a bit of racism in it, because they were mostly from Italy and quite poor."
+  },
+  {
+    "start": 2274.06,
+    "end": 2278.06,
+    "text": " And the other thing that annoyed people was, you just turn a handle."
+  },
+  {
+    "start": 2278.06,
+    "end": 2279.06,
+    "text": " There's no skill involved here."
+  },
+  {
+    "start": 2279.06,
+    "end": 2280.06,
+    "text": " There's no skill."
+  },
+  {
+    "start": 2280.06,
+    "end": 2281.06,
+    "text": " You buy a..."
+  },
+  {
+    "start": 2281.06,
+    "end": 2283.06,
+    "text": " The skill of making a violin sound like a screech out."
+  },
+  {
+    "start": 2283.06,
+    "end": 2284.06,
+    "text": " Like a goat."
+  },
+  {
+    "start": 2284.06,
+    "end": 2285.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2285.06,
+    "end": 2286.06,
+    "text": " That's been surprised, but not badly."
+  },
+  {
+    "start": 2286.06,
+    "end": 2287.06,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 2287.06,
+    "end": 2292.06,
+    "text": " But, so, like, you just buy a barrel, slot it into the organ, turn the handle."
+  },
+  {
+    "start": 2292.06,
+    "end": 2294.06,
+    "text": " The same tunes come out every time."
+  },
+  {
+    "start": 2294.06,
+    "end": 2297.06,
+    "text": " So it's like, that was a frustrating thing for a lot of people."
+  },
+  {
+    "start": 2297.06,
+    "end": 2303.06,
+    "text": " So Charles Dickens, his illustrator, called John Leitch, claimed that he died early, because he..."
+  },
+  {
+    "start": 2303.06,
+    "end": 2304.06,
+    "text": " He climbed."
+  },
+  {
+    "start": 2304.06,
+    "end": 2306.06,
+    "text": " You saw him be cut to me, didn't you, Andy?"
+  },
+  {
+    "start": 2306.06,
+    "end": 2307.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2307.06,
+    "end": 2311.06,
+    "text": " He said, \"This is killing me,\" and then he died, and he said, \"It's because of this.\""
+  },
+  {
+    "start": 2311.06,
+    "end": 2312.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2312.06,
+    "end": 2320.06,
+    "text": " His final words to fellow artist William Frith were, \"Rather Frith to be tormented in this way, I would prefer to go to the grave where there is no noise.\""
+  },
+  {
+    "start": 2320.06,
+    "end": 2321.06,
+    "text": " There we go."
+  },
+  {
+    "start": 2321.06,
+    "end": 2322.06,
+    "text": " Where are we going?"
+  },
+  {
+    "start": 2322.06,
+    "end": 2323.06,
+    "text": " Oh, he really caught on his nerves."
+  },
+  {
+    "start": 2323.06,
+    "end": 2328.06,
+    "text": " They buried him under the bandstand at Captain Commonside."
+  },
+  {
+    "start": 2328.06,
+    "end": 2333.06,
+    "text": " I was looking into what was going on in 1861, London, at the time."
+  },
+  {
+    "start": 2333.06,
+    "end": 2334.06,
+    "text": " Just curious."
+  },
+  {
+    "start": 2334.06,
+    "end": 2338.06,
+    "text": " No, as in, I've got the answer, the invention of the toast sandwich."
+  },
+  {
+    "start": 2338.06,
+    "end": 2344.06,
+    "text": " Because Mrs. Beaton's book of household management was first published in 1861, and one of the recipes in there was toast sandwich."
+  },
+  {
+    "start": 2344.06,
+    "end": 2346.06,
+    "text": " Get two bits of bread, put your bit of toast inside."
+  },
+  {
+    "start": 2346.06,
+    "end": 2347.06,
+    "text": " I've eaten that, actually."
+  },
+  {
+    "start": 2347.06,
+    "end": 2348.06,
+    "text": " I tried it."
+  },
+  {
+    "start": 2348.06,
+    "end": 2349.06,
+    "text": " Have you?"
+  },
+  {
+    "start": 2349.06,
+    "end": 2351.06,
+    "text": " Well, we did mention it on QI once, and I thought I'd see what it's like."
+  },
+  {
+    "start": 2351.06,
+    "end": 2352.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2352.06,
+    "end": 2359.06,
+    "text": " And it's not as bad as you might think, I would say, because it gives you a little bit of texture to what otherwise is quite a boring piece of bread."
+  },
+  {
+    "start": 2359.06,
+    "end": 2360.06,
+    "text": " So, it's bread toast bread."
+  },
+  {
+    "start": 2360.06,
+    "end": 2361.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2361.06,
+    "end": 2364.06,
+    "text": " Well, people put crisps in sandwiches, don't they, for a bit of crunch."
+  },
+  {
+    "start": 2364.06,
+    "end": 2365.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2365.06,
+    "end": 2366.06,
+    "text": " But there's usually something else."
+  },
+  {
+    "start": 2366.06,
+    "end": 2367.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2367.06,
+    "end": 2370.06,
+    "text": " Although, I think, actually, a sandwich of just butter and crisps."
+  },
+  {
+    "start": 2370.06,
+    "end": 2372.06,
+    "text": " I mean, flavor of choice."
+  },
+  {
+    "start": 2372.06,
+    "end": 2374.06,
+    "text": " I mean, I'm ready-salted all the way."
+  },
+  {
+    "start": 2374.06,
+    "end": 2375.06,
+    "text": " Oh, ready-salted."
+  },
+  {
+    "start": 2375.06,
+    "end": 2377.06,
+    "text": " I think that's probably right with that combo, I think."
+  },
+  {
+    "start": 2377.06,
+    "end": 2378.06,
+    "text": " Yeah, something vinegar wouldn't quite..."
+  },
+  {
+    "start": 2378.06,
+    "end": 2381.06,
+    "text": " It's a lot more about texture than taste."
+  },
+  {
+    "start": 2381.06,
+    "end": 2384.06,
+    "text": " But you still think you might have a little bit of something else."
+  },
+  {
+    "start": 2384.06,
+    "end": 2385.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2385.06,
+    "end": 2387.06,
+    "text": " I think there was butter on it, in Mrs. Beaton's version, wasn't it?"
+  },
+  {
+    "start": 2387.06,
+    "end": 2388.06,
+    "text": " Yes, yeah, yeah."
+  },
+  {
+    "start": 2388.06,
+    "end": 2389.06,
+    "text": " So, that was invented in..."
+  },
+  {
+    "start": 2389.06,
+    "end": 2394.06,
+    "text": " That was, well, the book was published, and that was a very notable, very odd bit of recipe."
+  },
+  {
+    "start": 2394.06,
+    "end": 2395.06,
+    "text": " Yes, huge."
+  },
+  {
+    "start": 2395.06,
+    "end": 2396.06,
+    "text": " Black velvet."
+  },
+  {
+    "start": 2396.06,
+    "end": 2401.06,
+    "text": " You might have seen people walking around the streets, 1861, drinking black velvet."
+  },
+  {
+    "start": 2401.06,
+    "end": 2402.06,
+    "text": " Oh."
+  },
+  {
+    "start": 2402.06,
+    "end": 2405.06,
+    "text": " Now, this is a Guinness with a glass of champagne."
+  },
+  {
+    "start": 2405.06,
+    "end": 2406.06,
+    "text": " That's right."
+  },
+  {
+    "start": 2406.06,
+    "end": 2407.06,
+    "text": " And that's from then."
+  },
+  {
+    "start": 2407.06,
+    "end": 2410.06,
+    "text": " Yes, to commemorate a very big death of 1861."
+  },
+  {
+    "start": 2410.06,
+    "end": 2411.06,
+    "text": " Albert?"
+  },
+  {
+    "start": 2411.06,
+    "end": 2412.06,
+    "text": " That's right."
+  },
+  {
+    "start": 2412.06,
+    "end": 2414.06,
+    "text": " Albert died December 1861."
+  },
+  {
+    "start": 2414.06,
+    "end": 2416.06,
+    "text": " He invented a cocktail."
+  },
+  {
+    "start": 2416.06,
+    "end": 2417.06,
+    "text": " Just before."
+  },
+  {
+    "start": 2417.06,
+    "end": 2418.06,
+    "text": " No, no, no."
+  },
+  {
+    "start": 2418.06,
+    "end": 2420.06,
+    "text": " He said, \"This cocktail's going to kill me.\""
+  },
+  {
+    "start": 2420.06,
+    "end": 2421.06,
+    "text": " And then he died."
+  },
+  {
+    "start": 2421.06,
+    "end": 2423.06,
+    "text": " And then he said, \"I told you.\""
+  },
+  {
+    "start": 2423.06,
+    "end": 2426.06,
+    "text": " Can you think why they might have invented the cocktail?"
+  },
+  {
+    "start": 2426.06,
+    "end": 2427.06,
+    "text": " What?"
+  },
+  {
+    "start": 2427.06,
+    "end": 2430.06,
+    "text": " I mean, to try and monetise it, in general."
+  },
+  {
+    "start": 2430.06,
+    "end": 2432.06,
+    "text": " You know, is it black for a morning?"
+  },
+  {
+    "start": 2432.06,
+    "end": 2433.06,
+    "text": " Yep."
+  },
+  {
+    "start": 2433.06,
+    "end": 2435.06,
+    "text": " So, and then champagne for a royal celebration."
+  },
+  {
+    "start": 2435.06,
+    "end": 2439.06,
+    "text": " So, the Guinness would sit like a black band, like mourners were hanging around their arms."
+  },
+  {
+    "start": 2439.06,
+    "end": 2442.06,
+    "text": " The idea was, it was a, it's like getting a top on your beer."
+  },
+  {
+    "start": 2442.06,
+    "end": 2443.06,
+    "text": " Is that a lager top?"
+  },
+  {
+    "start": 2443.06,
+    "end": 2446.06,
+    "text": " Is that what, which, what is a lager top?"
+  },
+  {
+    "start": 2446.06,
+    "end": 2449.06,
+    "text": " It's a normal pint of lager, but they pour out the tiniest bit of the top,"
+  },
+  {
+    "start": 2449.06,
+    "end": 2452.06,
+    "text": " and they give you a little dash of lemonade just to take the edge off."
+  },
+  {
+    "start": 2452.06,
+    "end": 2454.06,
+    "text": " So, it's like a very, very strong chandelier."
+  },
+  {
+    "start": 2454.06,
+    "end": 2455.06,
+    "text": " Yes, exactly."
+  },
+  {
+    "start": 2455.06,
+    "end": 2458.06,
+    "text": " You know, when you're shandy, it's become a lager top."
+  },
+  {
+    "start": 2458.06,
+    "end": 2462.06,
+    "text": " You know, you're just telling yourself, \"That's just beer, mate.\""
+  },
+  {
+    "start": 2462.06,
+    "end": 2467.06,
+    "text": " And particularly when you say, \"Instead of the beer, use whiskey.\""
+  },
+  {
+    "start": 2467.06,
+    "end": 2470.06,
+    "text": " Just two more things, because it's quite fun to know."
+  },
+  {
+    "start": 2470.06,
+    "end": 2476.06,
+    "text": " It was the publication of Great Expectations, so Dickens obviously had been printing the stories in serials,"
+  },
+  {
+    "start": 2476.06,
+    "end": 2479.06,
+    "text": " but it was the first full book bringing the chapters together."
+  },
+  {
+    "start": 2479.06,
+    "end": 2485.06,
+    "text": " And then the last one that I found was, it was the introduction of Widow Twenky into pantomime."
+  },
+  {
+    "start": 2485.06,
+    "end": 2486.06,
+    "text": " Oh, wow."
+  },
+  {
+    "start": 2486.06,
+    "end": 2488.06,
+    "text": " Yeah, 1861, the first ever pantomime."
+  },
+  {
+    "start": 2488.06,
+    "end": 2490.06,
+    "text": " It sounds like a good time to be alive."
+  },
+  {
+    "start": 2490.06,
+    "end": 2491.06,
+    "text": " Hello, that's great."
+  },
+  {
+    "start": 2491.06,
+    "end": 2492.06,
+    "text": " It's great."
+  },
+  {
+    "start": 2492.06,
+    "end": 2495.06,
+    "text": " Have you guys heard, just on people being loud and other people being annoyed about that,"
+  },
+  {
+    "start": 2495.06,
+    "end": 2499.06,
+    "text": " have you heard of the New York Society for the Suppression of Unnecessary Noise?"
+  },
+  {
+    "start": 2499.06,
+    "end": 2500.06,
+    "text": " No."
+  },
+  {
+    "start": 2500.06,
+    "end": 2502.06,
+    "text": " This is my kind of organisation, basically."
+  },
+  {
+    "start": 2502.06,
+    "end": 2505.06,
+    "text": " And yet you said David Mitchell is not very American."
+  },
+  {
+    "start": 2505.06,
+    "end": 2510.06,
+    "text": " So this was a doctor called Julia Barnett Rice, okay."
+  },
+  {
+    "start": 2510.06,
+    "end": 2514.06,
+    "text": " She was, she qualified in 1885, got a medical degree but didn't practice."
+  },
+  {
+    "start": 2514.06,
+    "end": 2519.06,
+    "text": " I think, I don't know if women were allowed to practice in the 1880s, '90s, I'm not sure."
+  },
+  {
+    "start": 2519.06,
+    "end": 2524.06,
+    "text": " But she really wanted that street vendors not be allowed to shout."
+  },
+  {
+    "start": 2524.06,
+    "end": 2527.06,
+    "text": " And she, like, she made it her life's course."
+  },
+  {
+    "start": 2527.06,
+    "end": 2529.06,
+    "text": " And she and her husband, he was called Isaac Rice."
+  },
+  {
+    "start": 2529.06,
+    "end": 2531.06,
+    "text": " He was an interesting guy in various ways."
+  },
+  {
+    "start": 2531.06,
+    "end": 2535.06,
+    "text": " He invented a chess opening that was called the Rice Gambit, just so you know."
+  },
+  {
+    "start": 2535.06,
+    "end": 2539.06,
+    "text": " And then spent about, apparently, the next 20 years of his life,"
+  },
+  {
+    "start": 2539.06,
+    "end": 2542.06,
+    "text": " researching, analysing and testing the soundness of his gambit."
+  },
+  {
+    "start": 2542.06,
+    "end": 2545.06,
+    "text": " So what a thing to spend your life doing."
+  },
+  {
+    "start": 2545.06,
+    "end": 2549.06,
+    "text": " But the thing is that I've never heard of that and I followed chess a little bit."
+  },
+  {
+    "start": 2549.06,
+    "end": 2552.06,
+    "text": " So presumably it wasn't very useful after all those 20 years."
+  },
+  {
+    "start": 2552.06,
+    "end": 2556.06,
+    "text": " No, he got to the end of the 20 years, like, \"Oh, it's not allowed to move that way.\""
+  },
+  {
+    "start": 2556.06,
+    "end": 2560.06,
+    "text": " Oh, cancel that."
+  },
+  {
+    "start": 2560.06,
+    "end": 2567.06,
+    "text": " I have never in my life met a bishop that could only move diagonally."
+  },
+  {
+    "start": 2567.06,
+    "end": 2573.06,
+    "text": " It's just not realistic, whereas castles can't move at all without an earthquake."
+  },
+  {
+    "start": 2573.06,
+    "end": 2578.06,
+    "text": " And they just, they had a house on Broadway, way too noisy."
+  },
+  {
+    "start": 2578.06,
+    "end": 2582.06,
+    "text": " So they moved up to by the river, right, on Riverside Drive."
+  },
+  {
+    "start": 2582.06,
+    "end": 2583.06,
+    "text": " They built their own house."
+  },
+  {
+    "start": 2583.06,
+    "end": 2586.06,
+    "text": " They had a basement vault dug so that they could have somewhere quiet."
+  },
+  {
+    "start": 2586.06,
+    "end": 2589.06,
+    "text": " Partly because they had six children, so the house was quite noisy."
+  },
+  {
+    "start": 2589.06,
+    "end": 2592.06,
+    "text": " So he stayed in the basement a lot of the time, doing his gambit."
+  },
+  {
+    "start": 2592.06,
+    "end": 2600.06,
+    "text": " That's actually what the Rice Gambit is."
+  },
+  {
+    "start": 2600.06,
+    "end": 2605.06,
+    "text": " Because they were by the river, the riverboats made so much noise blowing their horns all day."
+  },
+  {
+    "start": 2605.06,
+    "end": 2609.06,
+    "text": " So she, Julia, she hired students to count the number of toots per day."
+  },
+  {
+    "start": 2609.06,
+    "end": 2613.06,
+    "text": " And it was about a thousand toots per day, but if it was foggy, it was 3,000."
+  },
+  {
+    "start": 2613.06,
+    "end": 2616.06,
+    "text": " So she started a campaign saying, \"Look, this is very bad for people's health.\""
+  },
+  {
+    "start": 2616.06,
+    "end": 2620.06,
+    "text": " And it was mostly because she didn't like it, as far as I can tell."
+  },
+  {
+    "start": 2620.06,
+    "end": 2623.06,
+    "text": " But the tugboat captains found out about this campaign of hers,"
+  },
+  {
+    "start": 2623.06,
+    "end": 2627.06,
+    "text": " and they found out where she lived, and they would gather outside on the river at night"
+  },
+  {
+    "start": 2627.06,
+    "end": 2629.06,
+    "text": " and all blast their horns."
+  },
+  {
+    "start": 2629.06,
+    "end": 2632.06,
+    "text": " But she genuinely got the law changed, and she got Mark Twain involved."
+  },
+  {
+    "start": 2632.06,
+    "end": 2635.06,
+    "text": " - Wow. - And she established quiet zones around hospitals."
+  },
+  {
+    "start": 2635.06,
+    "end": 2637.06,
+    "text": " How many boats sank then?"
+  },
+  {
+    "start": 2637.06,
+    "end": 2640.06,
+    "text": " Like shipwrecks."
+  },
+  {
+    "start": 2640.06,
+    "end": 2642.06,
+    "text": " Very quiet ones, that was the key."
+  },
+  {
+    "start": 2642.06,
+    "end": 2645.06,
+    "text": " Yeah, that's amazing. Another person who hated it was Thomas Carlisle,"
+  },
+  {
+    "start": 2645.06,
+    "end": 2651.06,
+    "text": " just to go back to the 1850s in London, and the 1850s and 1860s in London."
+  },
+  {
+    "start": 2651.06,
+    "end": 2656.06,
+    "text": " He once wrote that he was considering to assassinate a vile Italian organ grinder"
+  },
+  {
+    "start": 2656.06,
+    "end": 2658.06,
+    "text": " who worked near his house."
+  },
+  {
+    "start": 2658.06,
+    "end": 2661.06,
+    "text": " But I think he might have built the first ever soundproof room"
+  },
+  {
+    "start": 2661.06,
+    "end": 2664.06,
+    "text": " in his house in London. This was in 1853."
+  },
+  {
+    "start": 2664.06,
+    "end": 2668.06,
+    "text": " It had double walls, and it had a slated roof with a gap in between"
+  },
+  {
+    "start": 2668.06,
+    "end": 2673.06,
+    "text": " where he could get, like, muffling chambers full of air so that the sound couldn't get in."
+  },
+  {
+    "start": 2673.06,
+    "end": 2677.06,
+    "text": " And it cost him £170, which, according to one online calculator,"
+  },
+  {
+    "start": 2677.06,
+    "end": 2680.06,
+    "text": " I found, said it was about £30,000 today. It cost him."
+  },
+  {
+    "start": 2680.06,
+    "end": 2682.06,
+    "text": " For a house extension, that's, you know..."
+  },
+  {
+    "start": 2682.06,
+    "end": 2685.06,
+    "text": " Yeah, in those days, I think, yeah."
+  },
+  {
+    "start": 2685.06,
+    "end": 2690.06,
+    "text": " Why didn't they pay the annoying organ grinder to go away?"
+  },
+  {
+    "start": 2690.06,
+    "end": 2692.06,
+    "text": " Oh, I think you could do that."
+  },
+  {
+    "start": 2692.06,
+    "end": 2694.06,
+    "text": " But I think that is how they earned quite a bit of their money,"
+  },
+  {
+    "start": 2694.06,
+    "end": 2696.06,
+    "text": " just extorting it from people."
+  },
+  {
+    "start": 2696.06,
+    "end": 2698.06,
+    "text": " That must be a glam profession, though."
+  },
+  {
+    "start": 2698.06,
+    "end": 2700.06,
+    "text": " You know, ostensibly, you're there to, you know,"
+  },
+  {
+    "start": 2700.06,
+    "end": 2705.06,
+    "text": " they're here to entertain with our violin. It sounds like a cow."
+  },
+  {
+    "start": 2705.06,
+    "end": 2709.06,
+    "text": " The real money is for people who desperately want you to go."
+  },
+  {
+    "start": 2709.06,
+    "end": 2711.06,
+    "text": " It would be if we went doing live shows like we do,"
+  },
+  {
+    "start": 2711.06,
+    "end": 2716.06,
+    "text": " and we got on stage and everyone had done a whip round for us not to do the show."
+  },
+  {
+    "start": 2716.06,
+    "end": 2720.06,
+    "text": " I'm going to give you one last set of buskers. This is in 2009 in Birmingham."
+  },
+  {
+    "start": 2720.06,
+    "end": 2723.06,
+    "text": " Two buskers who only knew two songs and had been playing them"
+  },
+  {
+    "start": 2723.06,
+    "end": 2727.06,
+    "text": " in the same part of Birmingham for 18 months on end were given Aspose."
+  },
+  {
+    "start": 2727.06,
+    "end": 2730.06,
+    "text": " And they were... They knew Wonderwall and..."
+  },
+  {
+    "start": 2730.06,
+    "end": 2732.06,
+    "text": " That's the worst review."
+  },
+  {
+    "start": 2732.06,
+    "end": 2735.06,
+    "text": " Five-star, four-star, three-star, three-star, one-star,"
+  },
+  {
+    "start": 2735.06,
+    "end": 2738.06,
+    "text": " and then there is Aspose."
+  },
+  {
+    "start": 2738.06,
+    "end": 2740.06,
+    "text": " It was Wonderwall and Faith."
+  },
+  {
+    "start": 2740.06,
+    "end": 2742.06,
+    "text": " They had a guitar and they had a bin lid."
+  },
+  {
+    "start": 2742.06,
+    "end": 2746.06,
+    "text": " And, yeah, but they would play it to, like, four or five or six in the morning sometimes."
+  },
+  {
+    "start": 2746.06,
+    "end": 2750.06,
+    "text": " One person said, \"To be fair, they didn't do a bad rendition of the songs.\""
+  },
+  {
+    "start": 2750.06,
+    "end": 2752.06,
+    "text": " So that's..."
+  },
+  {
+    "start": 2752.06,
+    "end": 2756.06,
+    "text": " If you lived in the area, that would become the main version of the song to you."
+  },
+  {
+    "start": 2756.06,
+    "end": 2758.06,
+    "text": " And then you'd listen to Oasis doing it and go,"
+  },
+  {
+    "start": 2758.06,
+    "end": 2761.06,
+    "text": " \"No, they've got that bit wrong.\""
+  },
+  {
+    "start": 2761.06,
+    "end": 2764.06,
+    "text": " There's a few classic London ones I think most tourists will probably remember"
+  },
+  {
+    "start": 2764.06,
+    "end": 2767.06,
+    "text": " if they've got the tube, like the Henry the Hoover."
+  },
+  {
+    "start": 2767.06,
+    "end": 2769.06,
+    "text": " What is that person that Henry the Hoover calls people?"
+  },
+  {
+    "start": 2769.06,
+    "end": 2773.06,
+    "text": " I think next to it on a keyboard, but then he had accompanied by this Henry the Hoover"
+  },
+  {
+    "start": 2773.06,
+    "end": 2777.06,
+    "text": " that had the saxophone that would shoot bubbles outside it, yeah."
+  },
+  {
+    "start": 2777.06,
+    "end": 2779.06,
+    "text": " So sorry, it's the... Where's the saxophone?"
+  },
+  {
+    "start": 2779.06,
+    "end": 2781.06,
+    "text": " In the nozzle, I guess?"
+  },
+  {
+    "start": 2781.06,
+    "end": 2782.06,
+    "text": " Of the Hoover?"
+  },
+  {
+    "start": 2782.06,
+    "end": 2783.06,
+    "text": " Yeah, it sucks."
+  },
+  {
+    "start": 2783.06,
+    "end": 2785.06,
+    "text": " But wait, the far end of the nozzle, like the bit that does the hoovering,"
+  },
+  {
+    "start": 2785.06,
+    "end": 2788.06,
+    "text": " or is it right... Have you removed the Hoover's trunk?"
+  },
+  {
+    "start": 2788.06,
+    "end": 2789.06,
+    "text": " I can't believe how..."
+  },
+  {
+    "start": 2789.06,
+    "end": 2790.06,
+    "text": " And you've drowned the saxophone into that."
+  },
+  {
+    "start": 2790.06,
+    "end": 2794.06,
+    "text": " Quickly, what I thought was a solid image in my head is collapsed."
+  },
+  {
+    "start": 2794.06,
+    "end": 2795.06,
+    "text": " It sounds great."
+  },
+  {
+    "start": 2795.06,
+    "end": 2796.06,
+    "text": " I just made that up there."
+  },
+  {
+    "start": 2796.06,
+    "end": 2798.06,
+    "text": " I just want a bit of doctrinal reasoning."
+  },
+  {
+    "start": 2798.06,
+    "end": 2799.06,
+    "text": " Does it suck saxophones?"
+  },
+  {
+    "start": 2799.06,
+    "end": 2802.06,
+    "text": " Does it make the same noise as if you blow a saxophone?"
+  },
+  {
+    "start": 2802.06,
+    "end": 2804.06,
+    "text": " Wow, great question."
+  },
+  {
+    "start": 2804.06,
+    "end": 2805.06,
+    "text": " I don't know, I might do."
+  },
+  {
+    "start": 2805.06,
+    "end": 2806.06,
+    "text": " I don't know, I might do."
+  },
+  {
+    "start": 2806.06,
+    "end": 2807.06,
+    "text": " Stuming, no."
+  },
+  {
+    "start": 2807.06,
+    "end": 2808.06,
+    "text": " You would think that, wouldn't you, mate?"
+  },
+  {
+    "start": 2808.06,
+    "end": 2809.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2809.06,
+    "end": 2810.06,
+    "text": " Because you're sucking it into the..."
+  },
+  {
+    "start": 2810.06,
+    "end": 2812.06,
+    "text": " Is it the horn, the mouth of the saxophone?"
+  },
+  {
+    "start": 2812.06,
+    "end": 2813.06,
+    "text": " The bell end, actually."
+  },
+  {
+    "start": 2813.06,
+    "end": 2814.06,
+    "text": " Is it called the bell end?"
+  },
+  {
+    "start": 2814.06,
+    "end": 2815.06,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 2815.06,
+    "end": 2819.06,
+    "text": " Okay, so it presumably will make the opposite noise."
+  },
+  {
+    "start": 2819.06,
+    "end": 2821.06,
+    "text": " Does it always have an opposite?"
+  },
+  {
+    "start": 2821.06,
+    "end": 2824.06,
+    "text": " Well, we know it's quite theological."
+  },
+  {
+    "start": 2824.06,
+    "end": 2827.06,
+    "text": " What's the opposite noise to February?"
+  },
+  {
+    "start": 2827.06,
+    "end": 2828.06,
+    "text": " Yeah, mate."
+  },
+  {
+    "start": 2828.06,
+    "end": 2829.06,
+    "text": " I mean..."
+  },
+  {
+    "start": 2829.06,
+    "end": 2830.06,
+    "text": " No, I like this."
+  },
+  {
+    "start": 2830.06,
+    "end": 2831.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2831.06,
+    "end": 2832.06,
+    "text": " I like the big..."
+  },
+  {
+    "start": 2832.06,
+    "end": 2835.06,
+    "text": " We're finally getting to the big question."
+  },
+  {
+    "start": 2835.06,
+    "end": 2837.06,
+    "text": " That's 500 eps in, finally."
+  },
+  {
+    "start": 2837.06,
+    "end": 2839.06,
+    "text": " Does the noise have an opposite?"
+  },
+  {
+    "start": 2839.06,
+    "end": 2840.06,
+    "text": " It doesn't always have an opposite."
+  },
+  {
+    "start": 2840.06,
+    "end": 2842.06,
+    "text": " You can have an opposite wave function."
+  },
+  {
+    "start": 2842.06,
+    "end": 2844.06,
+    "text": " Well, they can do things, can't they?"
+  },
+  {
+    "start": 2844.06,
+    "end": 2847.06,
+    "text": " Sometimes when, if there's a noise of air conditioning when you're recording something,"
+  },
+  {
+    "start": 2847.06,
+    "end": 2851.06,
+    "text": " they can record that and in some way invert it and then..."
+  },
+  {
+    "start": 2851.06,
+    "end": 2854.06,
+    "text": " So it sucks that noise out."
+  },
+  {
+    "start": 2854.06,
+    "end": 2857.06,
+    "text": " So if you're a hybun, you know what the opposite of the word February is."
+  },
+  {
+    "start": 2857.06,
+    "end": 2858.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2858.06,
+    "end": 2859.06,
+    "text": " Send it in."
+  },
+  {
+    "start": 2859.06,
+    "end": 2863.06,
+    "text": " It's the noise that you would play over the word February in order to induce silence."
+  },
+  {
+    "start": 2863.06,
+    "end": 2869.06,
+    "text": " And all these irritable Victorians needed was to have that on their own barrel."
+  },
+  {
+    "start": 2869.06,
+    "end": 2872.06,
+    "text": " And turn the handle, and it would go quiet."
+  },
+  {
+    "start": 2872.06,
+    "end": 2873.06,
+    "text": " That would be amazing."
+  },
+  {
+    "start": 2873.06,
+    "end": 2874.06,
+    "text": " The opposite of Wonderwall."
+  },
+  {
+    "start": 2874.06,
+    "end": 2875.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 2875.06,
+    "end": 2883.06,
+    "text": " Okay, it's time for our final fact of the show."
+  },
+  {
+    "start": 2883.06,
+    "end": 2884.06,
+    "text": " And that is my fact."
+  },
+  {
+    "start": 2884.06,
+    "end": 2889.06,
+    "text": " My fact is that in 1993, a man in Brazil who robbed a factory of its glue"
+  },
+  {
+    "start": 2889.06,
+    "end": 2893.06,
+    "text": " was arrested 36 hours later, still in the factory he was robbing,"
+  },
+  {
+    "start": 2893.06,
+    "end": 2896.06,
+    "text": " because he was stuck to the glue he was stealing."
+  },
+  {
+    "start": 2896.06,
+    "end": 2899.06,
+    "text": " Didn't he think to steal the glue in its containers?"
+  },
+  {
+    "start": 2899.06,
+    "end": 2900.06,
+    "text": " I think what happened?"
+  },
+  {
+    "start": 2900.06,
+    "end": 2902.06,
+    "text": " So this is a guy called Edelberg."
+  },
+  {
+    "start": 2902.06,
+    "end": 2904.06,
+    "text": " He was just putting it in his pockets."
+  },
+  {
+    "start": 2904.06,
+    "end": 2906.06,
+    "text": " I'll just take the glue loose."
+  },
+  {
+    "start": 2906.06,
+    "end": 2909.06,
+    "text": " It's so heavy, these cans."
+  },
+  {
+    "start": 2909.06,
+    "end": 2912.06,
+    "text": " The police will be looking for tubes of glue."
+  },
+  {
+    "start": 2912.06,
+    "end": 2914.06,
+    "text": " They won't be looking for raw glue."
+  },
+  {
+    "start": 2914.06,
+    "end": 2916.06,
+    "text": " It was a 19-year-old."
+  },
+  {
+    "start": 2916.06,
+    "end": 2919.06,
+    "text": " He was called Edelberg Guamárez."
+  },
+  {
+    "start": 2919.06,
+    "end": 2921.06,
+    "text": " We don't have to name him."
+  },
+  {
+    "start": 2921.06,
+    "end": 2925.06,
+    "text": " It's the opposite of that noise."
+  },
+  {
+    "start": 2925.06,
+    "end": 2929.06,
+    "text": " I actually think he was probably called Edelberto, because I Googled it."
+  },
+  {
+    "start": 2929.06,
+    "end": 2932.06,
+    "text": " I can't find anyone else called Edelberg, but there's a lot of people called Edelberto,"
+  },
+  {
+    "start": 2932.06,
+    "end": 2935.06,
+    "text": " where it runs over two lines and there's a hyphen."
+  },
+  {
+    "start": 2935.06,
+    "end": 2938.06,
+    "text": " That's interesting."
+  },
+  {
+    "start": 2938.06,
+    "end": 2940.06,
+    "text": " So I saw the story in the Washington Post."
+  },
+  {
+    "start": 2940.06,
+    "end": 2943.06,
+    "text": " It was part of a yearly roundup, and it was a 19-year-old."
+  },
+  {
+    "start": 2943.06,
+    "end": 2947.06,
+    "text": " He did take two large cans, and since something must have happened,"
+  },
+  {
+    "start": 2947.06,
+    "end": 2950.06,
+    "text": " they tipped over as he was trying to get out of the factory."
+  },
+  {
+    "start": 2950.06,
+    "end": 2951.06,
+    "text": " Glue spilled everywhere."
+  },
+  {
+    "start": 2951.06,
+    "end": 2953.06,
+    "text": " He obviously tried to pick up the glue and put it back in."
+  },
+  {
+    "start": 2953.06,
+    "end": 2955.06,
+    "text": " I don't know."
+  },
+  {
+    "start": 2955.06,
+    "end": 2957.06,
+    "text": " He then got stuck to where he was."
+  },
+  {
+    "start": 2957.06,
+    "end": 2959.06,
+    "text": " It is very easy."
+  },
+  {
+    "start": 2959.06,
+    "end": 2961.06,
+    "text": " I had to do a minor glue job the other day,"
+  },
+  {
+    "start": 2961.06,
+    "end": 2963.06,
+    "text": " and the amount of glue on my hands at the end of it was..."
+  },
+  {
+    "start": 2963.06,
+    "end": 2965.06,
+    "text": " When you say glue job, is that like a bank job?"
+  },
+  {
+    "start": 2965.06,
+    "end": 2967.06,
+    "text": " Were you also stealing glue?"
+  },
+  {
+    "start": 2967.06,
+    "end": 2970.06,
+    "text": " Yeah, it's very easy, even with a small..."
+  },
+  {
+    "start": 2970.06,
+    "end": 2971.06,
+    "text": " Does it dry that quickly?"
+  },
+  {
+    "start": 2971.06,
+    "end": 2973.06,
+    "text": " Oh, God, it dries so fast."
+  },
+  {
+    "start": 2973.06,
+    "end": 2974.06,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 2974.06,
+    "end": 2976.06,
+    "text": " Sorry, this is now my..."
+  },
+  {
+    "start": 2976.06,
+    "end": 2979.06,
+    "text": " Glue is very, very annoying, because it either doesn't work,"
+  },
+  {
+    "start": 2979.06,
+    "end": 2981.06,
+    "text": " like, you know, essentially, Pritz-stick."
+  },
+  {
+    "start": 2981.06,
+    "end": 2984.06,
+    "text": " There are other brands of glue that don't work."
+  },
+  {
+    "start": 2984.06,
+    "end": 2986.06,
+    "text": " They sort of go in that..."
+  },
+  {
+    "start": 2986.06,
+    "end": 2989.06,
+    "text": " OK, it sort of sticks it a bit, but, you know, so does Snot."
+  },
+  {
+    "start": 2989.06,
+    "end": 2993.06,
+    "text": " Or it's just so incredibly effective, and you can't be angry with it, can you?"
+  },
+  {
+    "start": 2993.06,
+    "end": 2998.06,
+    "text": " Because, you know, yes, it's doing exactly what Snot wanted it to stick together,"
+  },
+  {
+    "start": 2998.06,
+    "end": 3000.06,
+    "text": " and, yeah, I didn't say my fingers."
+  },
+  {
+    "start": 3000.06,
+    "end": 3004.06,
+    "text": " But, yes, I did apply my two fingers to each other while there was glue on one,"
+  },
+  {
+    "start": 3004.06,
+    "end": 3008.06,
+    "text": " and now, you know, but it's like the glue is being facetious."
+  },
+  {
+    "start": 3008.06,
+    "end": 3011.06,
+    "text": " You know I didn't want to stick my fingers whenever"
+  },
+  {
+    "start": 3011.06,
+    "end": 3014.06,
+    "text": " as anyone wanted to stick their fingers together."
+  },
+  {
+    "start": 3014.06,
+    "end": 3015.06,
+    "text": " Yeah, I didn't..."
+  },
+  {
+    "start": 3015.06,
+    "end": 3017.06,
+    "text": " It was through researching this fact that I didn't realise"
+  },
+  {
+    "start": 3017.06,
+    "end": 3021.06,
+    "text": " how important super glue is to the world of live music."
+  },
+  {
+    "start": 3021.06,
+    "end": 3022.06,
+    "text": " Oh."
+  },
+  {
+    "start": 3022.06,
+    "end": 3025.06,
+    "text": " For live shows, so take a band like the Red Hot Chili Peppers,"
+  },
+  {
+    "start": 3025.06,
+    "end": 3027.06,
+    "text": " flea on the bass, very aggressive with his playing,"
+  },
+  {
+    "start": 3027.06,
+    "end": 3031.06,
+    "text": " slapping and popping and all sorts, and he'll get huge calluses during the gig."
+  },
+  {
+    "start": 3031.06,
+    "end": 3034.06,
+    "text": " And sometimes, with old wounds that he's got, they'll be ripped open."
+  },
+  {
+    "start": 3034.06,
+    "end": 3036.06,
+    "text": " So he's got missing bits of his hand."
+  },
+  {
+    "start": 3036.06,
+    "end": 3039.06,
+    "text": " So he'll run off stage, grab super glue, fill in the hole."
+  },
+  {
+    "start": 3039.06,
+    "end": 3040.06,
+    "text": " Oh, no."
+  },
+  {
+    "start": 3040.06,
+    "end": 3041.06,
+    "text": " Yeah, yeah, and come back on, John Froschanti does it,"
+  },
+  {
+    "start": 3041.06,
+    "end": 3044.06,
+    "text": " the guitarist of the Red Hot Chili Peppers, Stevie Ray Vaughan does it."
+  },
+  {
+    "start": 3044.06,
+    "end": 3046.06,
+    "text": " There's so many musicians that talk about..."
+  },
+  {
+    "start": 3046.06,
+    "end": 3049.06,
+    "text": " They've got to give it a minute, or they're going to stick to their instruments."
+  },
+  {
+    "start": 3049.06,
+    "end": 3051.06,
+    "text": " (LAUGHTER)"
+  },
+  {
+    "start": 3051.06,
+    "end": 3055.06,
+    "text": " I know how someone else would glue their fingers together, actually."
+  },
+  {
+    "start": 3055.06,
+    "end": 3056.06,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 3056.06,
+    "end": 3058.06,
+    "text": " For a specific use in film."
+  },
+  {
+    "start": 3058.06,
+    "end": 3060.06,
+    "text": " Is it something we can guess?"
+  },
+  {
+    "start": 3060.06,
+    "end": 3061.06,
+    "text": " It's something you can guess."
+  },
+  {
+    "start": 3061.06,
+    "end": 3062.06,
+    "text": " Oh, okay."
+  },
+  {
+    "start": 3062.06,
+    "end": 3064.06,
+    "text": " Oh, yeah, I know it, so I won't say it."
+  },
+  {
+    "start": 3064.06,
+    "end": 3065.06,
+    "text": " Oh, great show."
+  },
+  {
+    "start": 3065.06,
+    "end": 3067.06,
+    "text": " Here's the only thing I'd say is, like, an additional clue."
+  },
+  {
+    "start": 3067.06,
+    "end": 3069.06,
+    "text": " I can't do this."
+  },
+  {
+    "start": 3069.06,
+    "end": 3073.06,
+    "text": " So if I was in the movie as this character, I would require the super glue as well."
+  },
+  {
+    "start": 3073.06,
+    "end": 3075.06,
+    "text": " Well, I'm thinking of one of two things."
+  },
+  {
+    "start": 3075.06,
+    "end": 3076.06,
+    "text": " Okay."
+  },
+  {
+    "start": 3076.06,
+    "end": 3078.06,
+    "text": " Is it E.T.?"
+  },
+  {
+    "start": 3078.06,
+    "end": 3079.06,
+    "text": " Oh, weird fingers."
+  },
+  {
+    "start": 3079.06,
+    "end": 3080.06,
+    "text": " That's good."
+  },
+  {
+    "start": 3080.06,
+    "end": 3081.06,
+    "text": " Or..."
+  },
+  {
+    "start": 3081.06,
+    "end": 3082.06,
+    "text": " Or Spock."
+  },
+  {
+    "start": 3082.06,
+    "end": 3083.06,
+    "text": " It's Spock."
+  },
+  {
+    "start": 3083.06,
+    "end": 3084.06,
+    "text": " It's Spock."
+  },
+  {
+    "start": 3084.06,
+    "end": 3085.06,
+    "text": " Well, you couldn't do it without glue."
+  },
+  {
+    "start": 3085.06,
+    "end": 3086.06,
+    "text": " Mr..."
+  },
+  {
+    "start": 3086.06,
+    "end": 3087.06,
+    "text": " Spock."
+  },
+  {
+    "start": 3087.06,
+    "end": 3090.06,
+    "text": " It was Zachary Quinto in the new Star Trek film."
+  },
+  {
+    "start": 3090.06,
+    "end": 3093.06,
+    "text": " Couldn't do the Vulcan salute, so they glued it together."
+  },
+  {
+    "start": 3093.06,
+    "end": 3095.06,
+    "text": " It's a thing which I can't do, I can't."
+  },
+  {
+    "start": 3095.06,
+    "end": 3097.06,
+    "text": " I can do it with one hand, but not with the other."
+  },
+  {
+    "start": 3097.06,
+    "end": 3098.06,
+    "text": " Right."
+  },
+  {
+    "start": 3098.06,
+    "end": 3102.06,
+    "text": " Would you feel, if for that reason you weren't cast as Spock in Star Trek,"
+  },
+  {
+    "start": 3102.06,
+    "end": 3104.06,
+    "text": " would you feel that that was okay?"
+  },
+  {
+    "start": 3104.06,
+    "end": 3105.06,
+    "text": " I think so."
+  },
+  {
+    "start": 3105.06,
+    "end": 3106.06,
+    "text": " I think so."
+  },
+  {
+    "start": 3106.06,
+    "end": 3108.06,
+    "text": " Yeah, well, would you feel you were being discriminated against?"
+  },
+  {
+    "start": 3108.06,
+    "end": 3109.06,
+    "text": " Well, he wasn't discriminated against."
+  },
+  {
+    "start": 3109.06,
+    "end": 3110.06,
+    "text": " No."
+  },
+  {
+    "start": 3110.06,
+    "end": 3112.06,
+    "text": " I don't know if he showed up to the audition pre-glued."
+  },
+  {
+    "start": 3112.06,
+    "end": 3116.06,
+    "text": " I would say, if I was auditioning for Spock, first thing, can you do that with your hand?"
+  },
+  {
+    "start": 3116.06,
+    "end": 3119.06,
+    "text": " If so, okay, let's look at the script."
+  },
+  {
+    "start": 3119.06,
+    "end": 3125.06,
+    "text": " In fairness, they don't only cast people with pointy ears, so they do add some kind of..."
+  },
+  {
+    "start": 3125.06,
+    "end": 3129.06,
+    "text": " Having said that, though, if some people had pointy ears, they would have a legitimate grievance."
+  },
+  {
+    "start": 3129.06,
+    "end": 3130.06,
+    "text": " I mean, talk about it."
+  },
+  {
+    "start": 3130.06,
+    "end": 3135.06,
+    "text": " If there were real Vulcans among us, and then suddenly we're getting people to Vulcan up,"
+  },
+  {
+    "start": 3135.06,
+    "end": 3138.06,
+    "text": " then that's not appropriate, is it?"
+  },
+  {
+    "start": 3138.06,
+    "end": 3143.06,
+    "text": " But because Vulcans don't happen to exist, it's okay to point a ear up non-Vulcans."
+  },
+  {
+    "start": 3143.06,
+    "end": 3145.06,
+    "text": " But similarly, the hand thing."
+  },
+  {
+    "start": 3145.06,
+    "end": 3149.06,
+    "text": " I do feel like Zachary Quinto is taking jobs away from people like me who can do it."
+  },
+  {
+    "start": 3149.06,
+    "end": 3150.06,
+    "text": " Yeah, you can do it."
+  },
+  {
+    "start": 3150.06,
+    "end": 3151.06,
+    "text": " I'm really duddy with both."
+  },
+  {
+    "start": 3151.06,
+    "end": 3152.06,
+    "text": " You two can."
+  },
+  {
+    "start": 3152.06,
+    "end": 3155.06,
+    "text": " I can do it with one and just about with the other, and you can't do it at all."
+  },
+  {
+    "start": 3155.06,
+    "end": 3156.06,
+    "text": " I can't do it at all."
+  },
+  {
+    "start": 3156.06,
+    "end": 3157.06,
+    "text": " No."
+  },
+  {
+    "start": 3157.06,
+    "end": 3158.06,
+    "text": " Well, you can play Kirk."
+  },
+  {
+    "start": 3158.06,
+    "end": 3159.06,
+    "text": " That's fine."
+  },
+  {
+    "start": 3159.06,
+    "end": 3165.06,
+    "text": " There's plenty of parts."
+  },
+  {
+    "start": 3165.06,
+    "end": 3167.06,
+    "text": " Was William Shatner Kirk?"
+  },
+  {
+    "start": 3167.06,
+    "end": 3168.06,
+    "text": " Yeah."
+  },
+  {
+    "start": 3168.06,
+    "end": 3170.06,
+    "text": " So he couldn't do it either, and they tied his fingers..."
+  },
+  {
+    "start": 3170.06,
+    "end": 3173.06,
+    "text": " No, no, but he apparently has to do it at one point."
+  },
+  {
+    "start": 3173.06,
+    "end": 3175.06,
+    "text": " They tied his fingers together with fishing line."
+  },
+  {
+    "start": 3175.06,
+    "end": 3176.06,
+    "text": " No."
+  },
+  {
+    "start": 3176.06,
+    "end": 3177.06,
+    "text": " Oh, my God."
+  },
+  {
+    "start": 3177.06,
+    "end": 3178.06,
+    "text": " That makes sense."
+  },
+  {
+    "start": 3178.06,
+    "end": 3179.06,
+    "text": " That's very gloomy."
+  },
+  {
+    "start": 3179.06,
+    "end": 3180.06,
+    "text": " Lovely."
+  },
+  {
+    "start": 3180.06,
+    "end": 3185.06,
+    "text": " You say I'm the least American person, but you ask, \"Was William Shatner Kirk?\""
+  },
+  {
+    "start": 3185.06,
+    "end": 3193.06,
+    "text": " I mean, I have to say, I really knew that as a piece of popular culture got through to me."
+  },
+  {
+    "start": 3193.06,
+    "end": 3198.06,
+    "text": " \"Was Elvis Presley a singer?\""
+  },
+  {
+    "start": 3198.06,
+    "end": 3203.06,
+    "text": " Speaking of body parts and glue, do you know what butt glue is?"
+  },
+  {
+    "start": 3203.06,
+    "end": 3204.06,
+    "text": " Oh, butt glue."
+  },
+  {
+    "start": 3204.06,
+    "end": 3205.06,
+    "text": " Butt glue."
+  },
+  {
+    "start": 3205.06,
+    "end": 3211.06,
+    "text": " I have a product at home called Butt Clean, but I have a water butt."
+  },
+  {
+    "start": 3211.06,
+    "end": 3216.06,
+    "text": " You must have been disappointed when you bought that on the internet."
+  },
+  {
+    "start": 3216.06,
+    "end": 3223.06,
+    "text": " The amount of capsules I wasted for realising they had to be just dropped in the water butt."
+  },
+  {
+    "start": 3223.06,
+    "end": 3225.06,
+    "text": " So that cleans the water butt there."
+  },
+  {
+    "start": 3225.06,
+    "end": 3227.06,
+    "text": " Yeah, you just pop it in and it fizzes a bit."
+  },
+  {
+    "start": 3227.06,
+    "end": 3231.06,
+    "text": " All the turtles just float to the surface."
+  },
+  {
+    "start": 3231.06,
+    "end": 3233.06,
+    "text": " This is actually more to do with the Americans."
+  },
+  {
+    "start": 3233.06,
+    "end": 3234.06,
+    "text": " So what's it called?"
+  },
+  {
+    "start": 3234.06,
+    "end": 3235.06,
+    "text": " Butt glue."
+  },
+  {
+    "start": 3235.06,
+    "end": 3236.06,
+    "text": " Butt glue."
+  },
+  {
+    "start": 3236.06,
+    "end": 3239.06,
+    "text": " That's a terrible bum remake."
+  },
+  {
+    "start": 3239.06,
+    "end": 3240.06,
+    "text": " Butt."
+  },
+  {
+    "start": 3240.06,
+    "end": 3244.06,
+    "text": " It's not for repairing water butts."
+  },
+  {
+    "start": 3244.06,
+    "end": 3245.06,
+    "text": " No, it's not."
+  },
+  {
+    "start": 3245.06,
+    "end": 3251.06,
+    "text": " It's for the bottoms and it's for people who compete in pageants."
+  },
+  {
+    "start": 3251.06,
+    "end": 3257.06,
+    "text": " If you're wearing a very tight bikini, you want it to be exactly straight on your cheeks."
+  },
+  {
+    "start": 3257.06,
+    "end": 3259.06,
+    "text": " You don't want it to ride up or anything like that."
+  },
+  {
+    "start": 3259.06,
+    "end": 3262.06,
+    "text": " You put it between the bikini and the bottom."
+  },
+  {
+    "start": 3262.06,
+    "end": 3265.06,
+    "text": " So it sort of goes on the bikini to get it positioned."
+  },
+  {
+    "start": 3265.06,
+    "end": 3268.06,
+    "text": " I was thinking it goes on the bum, but it sort of lifts the bum."
+  },
+  {
+    "start": 3268.06,
+    "end": 3275.06,
+    "text": " Well, Andrew, you would be good in the pageant world according to the Bravo show."
+  },
+  {
+    "start": 3275.06,
+    "end": 3276.06,
+    "text": " I think that too."
+  },
+  {
+    "start": 3276.06,
+    "end": 3279.06,
+    "text": " I'm amazed that is his line of work."
+  },
+  {
+    "start": 3279.06,
+    "end": 3286.06,
+    "text": " You would be an innovator because according to the Bravo show Game of Crowns, which is quite recent,"
+  },
+  {
+    "start": 3286.06,
+    "end": 3294.06,
+    "text": " some people are using butt glue to actually hold the butt cheeks together to kind of make them seem very pert."
+  },
+  {
+    "start": 3294.06,
+    "end": 3300.06,
+    "text": " Because it's not very strongly, but it's what's soluble so you can put some water down there and it'll open them up again."
+  },
+  {
+    "start": 3300.06,
+    "end": 3303.06,
+    "text": " You just need a thank goodness."
+  },
+  {
+    "start": 3303.06,
+    "end": 3307.06,
+    "text": " Do not use super glue instead of butt glue."
+  },
+  {
+    "start": 3307.06,
+    "end": 3309.06,
+    "text": " You're doing your airfix with butt glue."
+  },
+  {
+    "start": 3309.06,
+    "end": 3312.06,
+    "text": " It's not like, oh my god."
+  },
+  {
+    "start": 3312.06,
+    "end": 3318.06,
+    "text": " Is that a common complaint in beauty pageant terms that the buttocks are too far apart?"
+  },
+  {
+    "start": 3318.06,
+    "end": 3320.06,
+    "text": " They're on the side of a criminal disposition."
+  },
+  {
+    "start": 3320.06,
+    "end": 3323.06,
+    "text": " I don't think they all do this just to say if you're a beauty pageant."
+  },
+  {
+    "start": 3323.06,
+    "end": 3324.06,
+    "text": " Of course not."
+  },
+  {
+    "start": 3324.06,
+    "end": 3325.06,
+    "text": " No, no, no."
+  },
+  {
+    "start": 3325.06,
+    "end": 3327.06,
+    "text": " I think but just some people do it too."
+  },
+  {
+    "start": 3327.06,
+    "end": 3328.06,
+    "text": " But I thought there was glue."
+  },
+  {
+    "start": 3328.06,
+    "end": 3332.06,
+    "text": " There's all sorts of bits of glue for sticking bits of makeup to people's faces."
+  },
+  {
+    "start": 3332.06,
+    "end": 3334.06,
+    "text": " Surely this is the same as butt glue."
+  },
+  {
+    "start": 3334.06,
+    "end": 3337.06,
+    "text": " There's no need to say that this glue, it's skin glue."
+  },
+  {
+    "start": 3337.06,
+    "end": 3340.06,
+    "text": " It doesn't need to be specifically for the butt."
+  },
+  {
+    "start": 3340.06,
+    "end": 3342.06,
+    "text": " I think there might be some marketing going on there."
+  },
+  {
+    "start": 3342.06,
+    "end": 3347.06,
+    "text": " Like I have something called Nerdwax which you use to keep your sunglasses on."
+  },
+  {
+    "start": 3347.06,
+    "end": 3354.06,
+    "text": " Because my nose is quite small so my sunglasses slip down my nose and you can kind of put it on your nose and it kind of keeps it there."
+  },
+  {
+    "start": 3354.06,
+    "end": 3356.06,
+    "text": " But really it's just wax."
+  },
+  {
+    "start": 3356.06,
+    "end": 3359.06,
+    "text": " But they've put it in a nice tube that says Nerdwax on and they maybe want to buy it."
+  },
+  {
+    "start": 3359.06,
+    "end": 3360.06,
+    "text": " So I think it's a bit of that."
+  },
+  {
+    "start": 3360.06,
+    "end": 3363.06,
+    "text": " Yeah, you could use it wherever you want."
+  },
+  {
+    "start": 3363.06,
+    "end": 3364.06,
+    "text": " Bugger glue."
+  },
+  {
+    "start": 3364.06,
+    "end": 3365.06,
+    "text": " Anyone heard of bugger glue?"
+  },
+  {
+    "start": 3365.06,
+    "end": 3367.06,
+    "text": " Okay, bugger as in the Americans."
+  },
+  {
+    "start": 3367.06,
+    "end": 3370.06,
+    "text": " Yeah, so I should explain what bugger is to the non-American here."
+  },
+  {
+    "start": 3370.06,
+    "end": 3377.06,
+    "text": " I've heard the expression just by being so un-American as in for a unit of snot, isn't it?"
+  },
+  {
+    "start": 3377.06,
+    "end": 3378.06,
+    "text": " A unit of dry snot."
+  },
+  {
+    "start": 3378.06,
+    "end": 3379.06,
+    "text": " Like a bogey."
+  },
+  {
+    "start": 3379.06,
+    "end": 3380.06,
+    "text": " Like a bogey."
+  },
+  {
+    "start": 3380.06,
+    "end": 3387.06,
+    "text": " Is it used in beauty pageants to hold the nostrils together because they are considered to be more beautiful?"
+  },
+  {
+    "start": 3387.06,
+    "end": 3389.06,
+    "text": " Too far apart nostrils."
+  },
+  {
+    "start": 3389.06,
+    "end": 3396.06,
+    "text": " Remember when you used to get a bank card through the post and when you would take it off there would be a little bit of glue underneath."
+  },
+  {
+    "start": 3396.06,
+    "end": 3397.06,
+    "text": " That's clever."
+  },
+  {
+    "start": 3397.06,
+    "end": 3398.06,
+    "text": " The very snotty bugger glue."
+  },
+  {
+    "start": 3398.06,
+    "end": 3399.06,
+    "text": " That's bugger glue."
+  },
+  {
+    "start": 3399.06,
+    "end": 3406.06,
+    "text": " That's satisfying though because when that comes away it's gone completely, which is actually not the case for snot."
+  },
+  {
+    "start": 3406.06,
+    "end": 3410.06,
+    "text": " I'd say snot leaves more of a sort of residue."
+  },
+  {
+    "start": 3410.06,
+    "end": 3411.06,
+    "text": " Better than snot."
+  },
+  {
+    "start": 3411.06,
+    "end": 3412.06,
+    "text": " Better than snot."
+  },
+  {
+    "start": 3412.06,
+    "end": 3418.06,
+    "text": " We've invented a better snot but now all we need to do is get it to somehow come out of our noses."
+  },
+  {
+    "start": 3418.06,
+    "end": 3423.06,
+    "text": " Because at the moment it only manifests on credit cards rather than in packages when you've got a cold."
+  },
+  {
+    "start": 3423.06,
+    "end": 3426.06,
+    "text": " Come on AI."
+  },
+  {
+    "start": 3426.06,
+    "end": 3428.06,
+    "text": " I need to wrap us up in a sec."
+  },
+  {
+    "start": 3428.06,
+    "end": 3429.06,
+    "text": " Can we do some bungling criminals?"
+  },
+  {
+    "start": 3429.06,
+    "end": 3431.06,
+    "text": " Yeah why not a couple of bungling criminals."
+  },
+  {
+    "start": 3431.06,
+    "end": 3436.06,
+    "text": " There was a man who stole a parcel from Reading."
+  },
+  {
+    "start": 3436.06,
+    "end": 3441.06,
+    "text": " Wasn't to contain Henry the first to remain."
+  },
+  {
+    "start": 3441.06,
+    "end": 3444.06,
+    "text": " This is in 1994."
+  },
+  {
+    "start": 3444.06,
+    "end": 3445.06,
+    "text": " It was in the early 90s."
+  },
+  {
+    "start": 3445.06,
+    "end": 3448.06,
+    "text": " It could still be the first year."
+  },
+  {
+    "start": 3448.06,
+    "end": 3450.06,
+    "text": " And it turned out to be a bomb."
+  },
+  {
+    "start": 3450.06,
+    "end": 3454.06,
+    "text": " It turned out to be an IRA bomb."
+  },
+  {
+    "start": 3454.06,
+    "end": 3460.06,
+    "text": " And he ran down the road pointing to the suitcase that he'd stolen shouting it's a bomb, it's a bomb."
+  },
+  {
+    "start": 3460.06,
+    "end": 3464.06,
+    "text": " And passersby thought that he was high on drugs but he dumped the suitcase outside a shop."
+  },
+  {
+    "start": 3464.06,
+    "end": 3469.06,
+    "text": " And 200 homes in Reading had to be evacuated while the bomb squad made it safe."
+  },
+  {
+    "start": 3469.06,
+    "end": 3472.06,
+    "text": " I thought you were going to say blew up."
+  },
+  {
+    "start": 3472.06,
+    "end": 3477.06,
+    "text": " I'll tell you how safely put it outside a shop."
+  },
+  {
+    "start": 3477.06,
+    "end": 3480.06,
+    "text": " I'll be honest I think he was panicking."
+  },
+  {
+    "start": 3480.06,
+    "end": 3483.06,
+    "text": " Because there must have been a moment of realisation of that story."
+  },
+  {
+    "start": 3483.06,
+    "end": 3485.06,
+    "text": " He's stolen the suitcase."
+  },
+  {
+    "start": 3485.06,
+    "end": 3487.06,
+    "text": " It's labels IRA bomb."
+  },
+  {
+    "start": 3487.06,
+    "end": 3490.06,
+    "text": " It's ticking or there's a fuse or something."
+  },
+  {
+    "start": 3490.06,
+    "end": 3493.06,
+    "text": " The truth is you would think it probably wasn't a bomb, right?"
+  },
+  {
+    "start": 3493.06,
+    "end": 3496.06,
+    "text": " But they did make it safe."
+  },
+  {
+    "start": 3496.06,
+    "end": 3498.06,
+    "text": " So the newspaper report did say that it was a bomb."
+  },
+  {
+    "start": 3498.06,
+    "end": 3501.06,
+    "text": " A hero butcher."
+  },
+  {
+    "start": 3501.06,
+    "end": 3503.06,
+    "text": " You want to hear about a hero butcher?"
+  },
+  {
+    "start": 3503.06,
+    "end": 3505.06,
+    "text": " Another one."
+  },
+  {
+    "start": 3505.06,
+    "end": 3509.06,
+    "text": " This was a man who stole £6 from a butcher."
+  },
+  {
+    "start": 3509.06,
+    "end": 3512.06,
+    "text": " But the butcher was also an amateur magician."
+  },
+  {
+    "start": 3512.06,
+    "end": 3516.06,
+    "text": " And rather than raising the alarm because he thought the guy would run away if he said stop thief."
+  },
+  {
+    "start": 3516.06,
+    "end": 3520.06,
+    "text": " He decided to do a trick where he pretended that 50p had gone missing."
+  },
+  {
+    "start": 3520.06,
+    "end": 3524.06,
+    "text": " And he said oh let me find it, it might be about your person."
+  },
+  {
+    "start": 3524.06,
+    "end": 3528.06,
+    "text": " And he searched the person and found the £6 that he'd stolen."
+  },
+  {
+    "start": 3528.06,
+    "end": 3531.06,
+    "text": " That's brilliant."
+  },
+  {
+    "start": 3531.06,
+    "end": 3534.06,
+    "text": " This is in 1976."
+  },
+  {
+    "start": 3534.06,
+    "end": 3537.06,
+    "text": " People were more willing to stand still then."
+  },
+  {
+    "start": 3537.06,
+    "end": 3543.06,
+    "text": " The butcher suddenly said I have just stolen £6 and now the butcher is coming round the counter"
+  },
+  {
+    "start": 3543.06,
+    "end": 3546.06,
+    "text": " and doing a bit of a trick about coins."
+  },
+  {
+    "start": 3546.06,
+    "end": 3549.06,
+    "text": " This is an eerie coincidence."
+  },
+  {
+    "start": 3549.06,
+    "end": 3552.06,
+    "text": " How can the butcher prove unless the butcher has already written his initials on the £6"
+  },
+  {
+    "start": 3552.06,
+    "end": 3555.06,
+    "text": " which he might have done as part of the magic trick."
+  },
+  {
+    "start": 3555.06,
+    "end": 3558.06,
+    "text": " Just saying that's my £6, what are you going to do?"
+  },
+  {
+    "start": 3558.06,
+    "end": 3563.06,
+    "text": " Maybe it was a coincidence and the butcher always basically stole all the money of the people that came in."
+  },
+  {
+    "start": 3563.06,
+    "end": 3567.06,
+    "text": " But on this occasion it was just money that he was nicking back."
+  },
+  {
+    "start": 3567.06,
+    "end": 3574.06,
+    "text": " The reason we know about it is because actually the butcher let the guy go and even gave him some sausages for his tea"
+  },
+  {
+    "start": 3574.06,
+    "end": 3577.06,
+    "text": " because he could see that he was in need of this stuff."
+  },
+  {
+    "start": 3577.06,
+    "end": 3583.06,
+    "text": " But when the guy was caught for a different robbery he was in court in Newcastle and he asked for this"
+  },
+  {
+    "start": 3583.06,
+    "end": 3587.06,
+    "text": " and a few other crimes to be taken into account and then they brought the butcher in to corroborate it."
+  },
+  {
+    "start": 3587.06,
+    "end": 3589.06,
+    "text": " So that's how we know it happened."
+  },
+  {
+    "start": 3589.06,
+    "end": 3593.06,
+    "text": " Why did he mention that when he was being done for something else?"
+  },
+  {
+    "start": 3593.06,
+    "end": 3595.06,
+    "text": " We know that."
+  },
+  {
+    "start": 3595.06,
+    "end": 3598.06,
+    "text": " He wasn't taking it any further and he said fine have some sausages."
+  },
+  {
+    "start": 3598.06,
+    "end": 3600.06,
+    "text": " Guess how I got these sausages."
+  },
+  {
+    "start": 3600.06,
+    "end": 3602.06,
+    "text": " It's a funny story actually."
+  },
+  {
+    "start": 3602.06,
+    "end": 3605.06,
+    "text": " I can't tell you what I should tell you."
+  },
+  {
+    "start": 3605.06,
+    "end": 3607.06,
+    "text": " You know what, I did think that."
+  },
+  {
+    "start": 3607.06,
+    "end": 3610.06,
+    "text": " But it is a thing that they asked for other things to be taken into account, don't they?"
+  },
+  {
+    "start": 3610.06,
+    "end": 3614.06,
+    "text": " But that I think is what they're saying is it precludes future prosecution."
+  },
+  {
+    "start": 3614.06,
+    "end": 3616.06,
+    "text": " I think that might be it."
+  },
+  {
+    "start": 3616.06,
+    "end": 3618.06,
+    "text": " But I think on this, so I suppose maybe."
+  },
+  {
+    "start": 3618.06,
+    "end": 3620.06,
+    "text": " But on this case no way the butcher is going to go."
+  },
+  {
+    "start": 3620.06,
+    "end": 3622.06,
+    "text": " Actually I've thought about it."
+  },
+  {
+    "start": 3622.06,
+    "end": 3624.06,
+    "text": " That was out of order and I want this to be back."
+  },
+  {
+    "start": 3624.06,
+    "end": 3629.06,
+    "text": " Do you think it might make the judge look more kindly on you to say alright, I've turned over a new leaf by the way,"
+  },
+  {
+    "start": 3629.06,
+    "end": 3631.06,
+    "text": " here are some other things."
+  },
+  {
+    "start": 3631.06,
+    "end": 3633.06,
+    "text": " Well it may be."
+  },
+  {
+    "start": 3633.06,
+    "end": 3636.06,
+    "text": " I think if you said to the judge I've never done anything wrong before, that's fine."
+  },
+  {
+    "start": 3636.06,
+    "end": 3642.06,
+    "text": " But the difference between saying, talking about five previous robberies rather than four,"
+  },
+  {
+    "start": 3642.06,
+    "end": 3645.06,
+    "text": " I don't think that's going to meaningfully change the judge's view on you."
+  },
+  {
+    "start": 3645.06,
+    "end": 3647.06,
+    "text": " Because it's such a funny story."
+  },
+  {
+    "start": 3647.06,
+    "end": 3650.06,
+    "text": " The judge must get a lot of quite grim cases of theft and burglar and stuff."
+  },
+  {
+    "start": 3650.06,
+    "end": 3654.06,
+    "text": " And actually this funny thing that happened in a butcher shop would make me look more kindly on a grinder."
+  },
+  {
+    "start": 3654.06,
+    "end": 3656.06,
+    "text": " Now I know you're a bungling crook."
+  },
+  {
+    "start": 3656.06,
+    "end": 3658.06,
+    "text": " Bungling crook."
+  },
+  {
+    "start": 3658.06,
+    "end": 3660.06,
+    "text": " And then the butcher, anyway, the butcher saw the funny side."
+  },
+  {
+    "start": 3660.06,
+    "end": 3662.06,
+    "text": " David, it's awesome."
+  },
+  {
+    "start": 3662.06,
+    "end": 3664.06,
+    "text": " Yeah, and then I mugged an old lady."
+  },
+  {
+    "start": 3664.06,
+    "end": 3673.06,
+    "text": " Okay, that's it."
+  },
+  {
+    "start": 3673.06,
+    "end": 3674.06,
+    "text": " That is all of our facts."
+  },
+  {
+    "start": 3674.06,
+    "end": 3675.06,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3675.06,
+    "end": 3679.06,
+    "text": " If you'd like to get in contact with any of us about the things that we've said over the course of this podcast,"
+  },
+  {
+    "start": 3679.06,
+    "end": 3681.06,
+    "text": " we can be found on our Twitter accounts."
+  },
+  {
+    "start": 3681.06,
+    "end": 3682.06,
+    "text": " I'm on @Shyberland."
+  },
+  {
+    "start": 3682.06,
+    "end": 3683.06,
+    "text": " James."
+  },
+  {
+    "start": 3683.06,
+    "end": 3684.06,
+    "text": " @JamesHarkin."
+  },
+  {
+    "start": 3684.06,
+    "end": 3685.06,
+    "text": " Andy."
+  },
+  {
+    "start": 3685.06,
+    "end": 3686.06,
+    "text": " @AndrewHunterM."
+  },
+  {
+    "start": 3686.06,
+    "end": 3687.06,
+    "text": " And David."
+  },
+  {
+    "start": 3687.06,
+    "end": 3688.06,
+    "text": " @RealDMitchell."
+  },
+  {
+    "start": 3688.06,
+    "end": 3689.06,
+    "text": " Nice."
+  },
+  {
+    "start": 3689.06,
+    "end": 3692.06,
+    "text": " I don't actually look at any of the replies because it's so poisonous on there."
+  },
+  {
+    "start": 3692.06,
+    "end": 3693.06,
+    "text": " Yes."
+  },
+  {
+    "start": 3693.06,
+    "end": 3695.06,
+    "text": " So, you know, you won't be hearing back from me."
+  },
+  {
+    "start": 3695.06,
+    "end": 3697.06,
+    "text": " Tweeting you abuse for years."
+  },
+  {
+    "start": 3697.06,
+    "end": 3698.06,
+    "text": " You mean you haven't written it?"
+  },
+  {
+    "start": 3698.06,
+    "end": 3699.06,
+    "text": " I'm well aware."
+  },
+  {
+    "start": 3701.06,
+    "end": 3705.06,
+    "text": " Yeah, or you can go to our group account, which is @NoSuchThing, or go to our website,"
+  },
+  {
+    "start": 3705.06,
+    "end": 3706.06,
+    "text": " NoSuchThingAsAfish.com."
+  },
+  {
+    "start": 3706.06,
+    "end": 3709.06,
+    "text": " All of our previous episodes are up there, so do check them out."
+  },
+  {
+    "start": 3709.06,
+    "end": 3711.06,
+    "text": " But most importantly of all, get David's new book."
+  },
+  {
+    "start": 3711.06,
+    "end": 3714.06,
+    "text": " It's called Unruly, A History of England's Kings and Queens."
+  },
+  {
+    "start": 3714.06,
+    "end": 3716.06,
+    "text": " It's out now in all shops and online."
+  },
+  {
+    "start": 3716.06,
+    "end": 3717.06,
+    "text": " That's it for us."
+  },
+  {
+    "start": 3717.06,
+    "end": 3719.06,
+    "text": " We'll be back again next week, and we'll see you then."
+  },
+  {
+    "start": 3719.06,
+    "end": 3720.06,
+    "text": " Goodbye."
+  },
+  {
+    "start": 3720.06,
+    "end": 3721.06,
+    "text": " Bye."
+  },
+  {
+    "start": 3721.06,
+    "end": 3724.06,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 3724.06,
+    "end": 3727.06,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 3727.06,
+    "end": 3730.06,
+    "text": " [MUSIC PLAYING]"
+  },
+  {
+    "start": 3730.06,
+    "end": 3732.12,
+    "text": " you"
+  }
+]

@@ -1,0 +1,7687 @@
+[
+  {
+    "start": 0,
+    "end": 6,
+    "text": " Hi everybody, Dan and Andy here just to let you know that our special guest on this week's fish is none other than"
+  },
+  {
+    "start": 6,
+    "end": 11,
+    "text": " Ann Miller. You will remember Ann because she's been on loads of times before, though she hasn't been on for a little while"
+  },
+  {
+    "start": 11,
+    "end": 13,
+    "text": " We are so excited to see her again."
+  },
+  {
+    "start": 13,
+    "end": 20,
+    "text": " Ann is a brilliant children's author. She's written Mickey and the Animal Spies, a series of children's books all about animals spying and codes."
+  },
+  {
+    "start": 20,
+    "end": 25,
+    "text": " They're fabulous. And as you're about to hear, she is obviously a magnificent researcher and elf."
+  },
+  {
+    "start": 25,
+    "end": 27,
+    "text": " So we hope you enjoy this episode."
+  },
+  {
+    "start": 27,
+    "end": 38,
+    "text": " That's right. We also just want to quickly say happy birthday publication to Andrew Hunter Murray because the sanctuary, yeah, has just been released in paperback."
+  },
+  {
+    "start": 38,
+    "end": 45,
+    "text": " This is such a brilliant book. It's a book that is so brilliant that waterstones have actually decided to make it the thriller of the month."
+  },
+  {
+    "start": 45,
+    "end": 47,
+    "text": " So you're going to see it everywhere in bookshops."
+  },
+  {
+    "start": 47,
+    "end": 53,
+    "text": " And it's a book that's been called many things by many great people. It's been called imaginative and intriguing."
+  },
+  {
+    "start": 53,
+    "end": 58,
+    "text": " The sanctuary sucks you in and doesn't let you leave until the very last page by Anthony Horowitz."
+  },
+  {
+    "start": 58,
+    "end": 65,
+    "text": " It's a brilliantly clever thriller by a brilliantly clever author, says Richard Osman. They are all telling the truth."
+  },
+  {
+    "start": 65,
+    "end": 72,
+    "text": " Oh, Dan, thank you. Yeah, guys, it would mean the absolute world to me if you picked up a copy of the sanctuary in paperback."
+  },
+  {
+    "start": 72,
+    "end": 82,
+    "text": " It's a gripping twisty thriller set on a mysterious island off the coast up north where one of the world's wealthiest, most enigmatic men is building an entirely new society."
+  },
+  {
+    "start": 82,
+    "end": 88,
+    "text": " It's all about that and what the young hero from the city finds when he goes and sees this new world being built."
+  },
+  {
+    "start": 88,
+    "end": 92,
+    "text": " It's about billionaires. It's about mysterious islands. It's about the near future."
+  },
+  {
+    "start": 92,
+    "end": 96,
+    "text": " If you're looking for a gripping summer read on the beach, I think this could be the one for you."
+  },
+  {
+    "start": 96,
+    "end": 106,
+    "text": " That's right. And it's also brilliant. So do make sure you go and get a copy from our own personal Sunday Times bestselling author here on the show, Andrew Hunter Murray."
+  },
+  {
+    "start": 106,
+    "end": 114,
+    "text": " As I say, available in all good bookshops, both online and in the real world, do pick it up, help our buddy out to get back in that Sunday Times chart."
+  },
+  {
+    "start": 114,
+    "end": 116,
+    "text": " All right, on with the show."
+  },
+  {
+    "start": 116,
+    "end": 118,
+    "text": " On with the podcast."
+  },
+  {
+    "start": 118,
+    "end": 132,
+    "text": " [Music]"
+  },
+  {
+    "start": 132,
+    "end": 140,
+    "text": " Hello and welcome to another episode of No Such Thing as a Fish, a weekly podcast coming to you from the QI offices in Hoburn."
+  },
+  {
+    "start": 140,
+    "end": 145,
+    "text": " My name is Dan Schreiber. I'm sitting here with James Harkin, Andrew Hunter Murray and Ann Miller."
+  },
+  {
+    "start": 145,
+    "end": 150,
+    "text": " And once again, we have gathered around the microphones with our four favorite facts from the last seven days."
+  },
+  {
+    "start": 150,
+    "end": 157,
+    "text": " And in a particular order here we go. Starting with fact number one, and that is Ann."
+  },
+  {
+    "start": 157,
+    "end": 165,
+    "text": " My fact is that Ann of Green Gables is from the same island as the world's largest potato sculpture."
+  },
+  {
+    "start": 165,
+    "end": 168,
+    "text": " Welcome back, Ann."
+  },
+  {
+    "start": 168,
+    "end": 173,
+    "text": " Are you suggesting a link, a causal link between the two?"
+  },
+  {
+    "start": 173,
+    "end": 175,
+    "text": " Between great literature and great snacks."
+  },
+  {
+    "start": 175,
+    "end": 181,
+    "text": " Oh, that's a large potato, a great snack. I'm not coming around the house. Super Bowl Sunday."
+  },
+  {
+    "start": 181,
+    "end": 184,
+    "text": " So I don't know really who Ann of Green Gables is."
+  },
+  {
+    "start": 184,
+    "end": 186,
+    "text": " So I give you a pot as Ann of Green Gables one on one."
+  },
+  {
+    "start": 186,
+    "end": 189,
+    "text": " So Ann of Green Gables is one of my favorite books of all time."
+  },
+  {
+    "start": 189,
+    "end": 191,
+    "text": " It is set on Prince Edward Island in Canada."
+  },
+  {
+    "start": 191,
+    "end": 196,
+    "text": " I was given it when I was very young and the setting is just completely beautiful."
+  },
+  {
+    "start": 196,
+    "end": 198,
+    "text": " So the thing about Ann is she is an orphan."
+  },
+  {
+    "start": 198,
+    "end": 202,
+    "text": " This brother and sister called Matthew Marilla live at a place called Green Gables."
+  },
+  {
+    "start": 202,
+    "end": 206,
+    "text": " And they are convinced to adopt an orphan boy to help them on the farm."
+  },
+  {
+    "start": 206,
+    "end": 210,
+    "text": " But when they go to collect the boy, it's Ann. She's a chatterbox. She's an imaginative."
+  },
+  {
+    "start": 210,
+    "end": 215,
+    "text": " She gets into endless scrapes, but they love her and she sort of builds this new life on Prince Edward Island."
+  },
+  {
+    "start": 215,
+    "end": 220,
+    "text": " And when I was a little bit older, my godmother sent me a postcard from Green Gables."
+  },
+  {
+    "start": 220,
+    "end": 222,
+    "text": " And it was as if someone had sent me a card from Narnia."
+  },
+  {
+    "start": 222,
+    "end": 225,
+    "text": " I didn't understand how she'd been somewhere that was in a book."
+  },
+  {
+    "start": 225,
+    "end": 230,
+    "text": " And I remember being so confused and like it was like, \"Oh, nice time at Green Gables.\""
+  },
+  {
+    "start": 230,
+    "end": 231,
+    "text": " And I was like, \"How did you get there?\""
+  },
+  {
+    "start": 231,
+    "end": 233,
+    "text": " It's not a really big potato. Did she say that as well?"
+  },
+  {
+    "start": 233,
+    "end": 237,
+    "text": " She did not. She did not. I found out about that more recently."
+  },
+  {
+    "start": 237,
+    "end": 241,
+    "text": " But yeah, so the island, because Lizzie Moore Montgomery, who wrote the book, lived there."
+  },
+  {
+    "start": 241,
+    "end": 245,
+    "text": " Ann is set there. There's lots of places in the book that are actually there."
+  },
+  {
+    "start": 245,
+    "end": 249,
+    "text": " And it's a sweeping series. There are several books beyond Ann of Green Gables."
+  },
+  {
+    "start": 249,
+    "end": 256,
+    "text": " And I was planning the trip of a lifetime to go and see Prince Edward Island for somewhere 2020."
+  },
+  {
+    "start": 256,
+    "end": 259,
+    "text": " So I didn't make it there. But while I was reading about Prince Edward Island,"
+  },
+  {
+    "start": 259,
+    "end": 263,
+    "text": " I found out that they also are the home of the Canadian Potato Museum."
+  },
+  {
+    "start": 263,
+    "end": 268,
+    "text": " And outside is a 4.3 meter tall potato. We had a picture taken."
+  },
+  {
+    "start": 268,
+    "end": 271,
+    "text": " And I just, I almost want to go there as much as I want to go to Green Gables."
+  },
+  {
+    "start": 271,
+    "end": 276,
+    "text": " It's got exhibitions. It's got potatoes in tiny coffins to show the different diseases they can have."
+  },
+  {
+    "start": 276,
+    "end": 280,
+    "text": " It's got a potato themed gift shop. It's got a potato themed restaurant."
+  },
+  {
+    "start": 280,
+    "end": 285,
+    "text": " So you can have baked potato with side of crisps. You can have with potato skins, potato soup."
+  },
+  {
+    "start": 285,
+    "end": 287,
+    "text": " And what do you reckon you can have for pudding?"
+  },
+  {
+    "start": 287,
+    "end": 290,
+    "text": " Oh, I know that they make potato fudge there. Yeah."
+  },
+  {
+    "start": 290,
+    "end": 292,
+    "text": " Potato fudge. Potato fudge."
+  },
+  {
+    "start": 292,
+    "end": 294,
+    "text": " With mashed potato."
+  },
+  {
+    "start": 294,
+    "end": 299,
+    "text": " I did have a quick look at TripAdvisor for the Potato Museum."
+  },
+  {
+    "start": 299,
+    "end": 305,
+    "text": " Pretty overwhelmingly good. I think it's also a tribute to Canadian positivity and politeness."
+  },
+  {
+    "start": 305,
+    "end": 308,
+    "text": " Which one of you picked out there?"
+  },
+  {
+    "start": 308,
+    "end": 312,
+    "text": " Oh, you know, obviously I was looking for the negative reviews."
+  },
+  {
+    "start": 312,
+    "end": 316,
+    "text": " Actually, there are very few which is a tribute to the restaurant."
+  },
+  {
+    "start": 316,
+    "end": 323,
+    "text": " Well, there's one three star review which sniffs that the big potato could have been a little more realistic."
+  },
+  {
+    "start": 323,
+    "end": 327,
+    "text": " The TripAdvisor review does suggest a duration one to two hours for your visit."
+  },
+  {
+    "start": 327,
+    "end": 334,
+    "text": " I think by the end of the second hour, you'll be running short of things to do."
+  },
+  {
+    "start": 334,
+    "end": 338,
+    "text": " You're right, they have absolutely loads of stuff."
+  },
+  {
+    "start": 338,
+    "end": 344,
+    "text": " They say it's a living testament to the humble tuber and those who have tilled the soil in its evolution."
+  },
+  {
+    "start": 344,
+    "end": 347,
+    "text": " Did they have any two or one star reviews?"
+  },
+  {
+    "start": 347,
+    "end": 350,
+    "text": " They had so few actually that I think it would be unrepresentative of me to read any out."
+  },
+  {
+    "start": 350,
+    "end": 353,
+    "text": " And I didn't write any down because they weren't very amusingly written."
+  },
+  {
+    "start": 353,
+    "end": 356,
+    "text": " But it's clearly a very popular place."
+  },
+  {
+    "start": 356,
+    "end": 362,
+    "text": " The museum was started by a guy called Dr Lloyd George Dewar, who was a politician."
+  },
+  {
+    "start": 362,
+    "end": 367,
+    "text": " And I tried to find anything interesting about him, which was really tough."
+  },
+  {
+    "start": 367,
+    "end": 371,
+    "text": " I even went into like these, what they call it, the websites that tell you about your family."
+  },
+  {
+    "start": 371,
+    "end": 373,
+    "text": " Oh, like, yeah, yeah, ancestry."
+  },
+  {
+    "start": 373,
+    "end": 375,
+    "text": " Yeah, like an ancestry one."
+  },
+  {
+    "start": 375,
+    "end": 383,
+    "text": " And I found out that his great grandfather died at the age of 101 in the town of Dole in Persia."
+  },
+  {
+    "start": 383,
+    "end": 385,
+    "text": " The only interesting fact about that."
+  },
+  {
+    "start": 385,
+    "end": 387,
+    "text": " So I could find, yeah, amazing."
+  },
+  {
+    "start": 387,
+    "end": 390,
+    "text": " How heavy was the sculpture potato again, by the way?"
+  },
+  {
+    "start": 390,
+    "end": 391,
+    "text": " They didn't say the weight."
+  },
+  {
+    "start": 391,
+    "end": 392,
+    "text": " They don't list the weight."
+  },
+  {
+    "start": 392,
+    "end": 393,
+    "text": " They don't list the weight."
+  },
+  {
+    "start": 393,
+    "end": 394,
+    "text": " Just the height."
+  },
+  {
+    "start": 394,
+    "end": 397,
+    "text": " I found the world's heaviest potato and was just curious."
+  },
+  {
+    "start": 397,
+    "end": 398,
+    "text": " How heavy is the difference?"
+  },
+  {
+    "start": 398,
+    "end": 401,
+    "text": " Well, it's going to be a lot less heavy, I assume."
+  },
+  {
+    "start": 401,
+    "end": 402,
+    "text": " We're saying heaviest real potato."
+  },
+  {
+    "start": 402,
+    "end": 403,
+    "text": " Is it a real one?"
+  },
+  {
+    "start": 403,
+    "end": 405,
+    "text": " Yeah, it's a real potato, which was just under five kilograms."
+  },
+  {
+    "start": 405,
+    "end": 406,
+    "text": " Nice."
+  },
+  {
+    "start": 406,
+    "end": 413,
+    "text": " And that, well, that, no, that's, I know, well, this is the thing is potatoes aren't water bearing organisms like your squashes."
+  },
+  {
+    "start": 413,
+    "end": 416,
+    "text": " That's why they take squashes kind of a ton and the biggest potato."
+  },
+  {
+    "start": 416,
+    "end": 421,
+    "text": " But it's grown by friend of the podcast, Peter Glazebrook, who we've mentioned several times before,"
+  },
+  {
+    "start": 421,
+    "end": 427,
+    "text": " because he's done things like the longest bean or the biggest maroon or whatever it is."
+  },
+  {
+    "start": 427,
+    "end": 429,
+    "text": " Yeah, he's got a load of those records."
+  },
+  {
+    "start": 429,
+    "end": 430,
+    "text": " He's a UK guy."
+  },
+  {
+    "start": 430,
+    "end": 431,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 431,
+    "end": 432,
+    "text": " Which is great."
+  },
+  {
+    "start": 432,
+    "end": 434,
+    "text": " We should get him into the building sometime."
+  },
+  {
+    "start": 434,
+    "end": 437,
+    "text": " Unfortunately, he won't fit through the door."
+  },
+  {
+    "start": 437,
+    "end": 440,
+    "text": " He can carry his bean the other way, you know."
+  },
+  {
+    "start": 440,
+    "end": 441,
+    "text": " Oh, that's a good point."
+  },
+  {
+    "start": 441,
+    "end": 443,
+    "text": " But what about the nine foot apple?"
+  },
+  {
+    "start": 443,
+    "end": 447,
+    "text": " I wanted to find a bigger potato to kind of spoil this fact."
+  },
+  {
+    "start": 447,
+    "end": 449,
+    "text": " Because that's my gel in this podcast."
+  },
+  {
+    "start": 449,
+    "end": 453,
+    "text": " So I looked at all the other potato museums around the world to see if they had one."
+  },
+  {
+    "start": 453,
+    "end": 455,
+    "text": " There are surprisingly quite a few."
+  },
+  {
+    "start": 455,
+    "end": 456,
+    "text": " There are quite a few."
+  },
+  {
+    "start": 456,
+    "end": 461,
+    "text": " But I found in the Idaho potato museum, they have the world's largest Pringle."
+  },
+  {
+    "start": 461,
+    "end": 466,
+    "text": " And we have perhaps a Pringles controversy with this."
+  },
+  {
+    "start": 466,
+    "end": 467,
+    "text": " Further, further."
+  },
+  {
+    "start": 467,
+    "end": 473,
+    "text": " Further, because I knew when Sarah Pasco was on, but she had five Pringles controversies."
+  },
+  {
+    "start": 473,
+    "end": 474,
+    "text": " Yes."
+  },
+  {
+    "start": 474,
+    "end": 479,
+    "text": " But this is the world's largest Pringle, but it's flat."
+  },
+  {
+    "start": 479,
+    "end": 481,
+    "text": " Oh, it's not the shape of a Pringle."
+  },
+  {
+    "start": 481,
+    "end": 483,
+    "text": " So do you call that a Pringle?"
+  },
+  {
+    "start": 483,
+    "end": 484,
+    "text": " Was it made by Pringles?"
+  },
+  {
+    "start": 484,
+    "end": 485,
+    "text": " It was made by Pringles."
+  },
+  {
+    "start": 485,
+    "end": 486,
+    "text": " Yeah."
+  },
+  {
+    "start": 486,
+    "end": 488,
+    "text": " Is it made from the material of Pringle?"
+  },
+  {
+    "start": 488,
+    "end": 492,
+    "text": " It's made from the hydrogenated potato starch."
+  },
+  {
+    "start": 492,
+    "end": 493,
+    "text": " Potato starch."
+  },
+  {
+    "start": 493,
+    "end": 494,
+    "text": " It's just not got the shape."
+  },
+  {
+    "start": 494,
+    "end": 495,
+    "text": " That's interesting."
+  },
+  {
+    "start": 495,
+    "end": 496,
+    "text": " What makes a Pringle?"
+  },
+  {
+    "start": 496,
+    "end": 497,
+    "text": " Is it the shape or is it the..."
+  },
+  {
+    "start": 497,
+    "end": 499,
+    "text": " Do you reckon it's a Pringle if it's not Pringle shaped?"
+  },
+  {
+    "start": 499,
+    "end": 501,
+    "text": " I think if it's made by Pringles, it's a Pringle."
+  },
+  {
+    "start": 501,
+    "end": 502,
+    "text": " Do you?"
+  },
+  {
+    "start": 502,
+    "end": 504,
+    "text": " What about the box that's made by Pringles?"
+  },
+  {
+    "start": 504,
+    "end": 505,
+    "text": " No."
+  },
+  {
+    "start": 505,
+    "end": 507,
+    "text": " The box is also a Pringle."
+  },
+  {
+    "start": 507,
+    "end": 509,
+    "text": " It's a cylindrical Pringle."
+  },
+  {
+    "start": 509,
+    "end": 511,
+    "text": " I'm going to double down on this."
+  },
+  {
+    "start": 511,
+    "end": 512,
+    "text": " Okay, fine."
+  },
+  {
+    "start": 512,
+    "end": 514,
+    "text": " Sadly, I do agree."
+  },
+  {
+    "start": 514,
+    "end": 516,
+    "text": " I think they have name rights."
+  },
+  {
+    "start": 516,
+    "end": 519,
+    "text": " So I can't call it a Pringles controversy."
+  },
+  {
+    "start": 519,
+    "end": 522,
+    "text": " Oh, well, I think we've certainly argued about it just now."
+  },
+  {
+    "start": 522,
+    "end": 525,
+    "text": " It's controversial that you're trying to introduce it as a controversy."
+  },
+  {
+    "start": 525,
+    "end": 526,
+    "text": " Certainly."
+  },
+  {
+    "start": 526,
+    "end": 527,
+    "text": " Okay, great."
+  },
+  {
+    "start": 527,
+    "end": 529,
+    "text": " I'll email Sarah."
+  },
+  {
+    "start": 529,
+    "end": 533,
+    "text": " I did find out about the world's another non-largest potato in the world."
+  },
+  {
+    "start": 533,
+    "end": 537,
+    "text": " And this was, you may well have seen this in your research as well, which was nearly a"
+  },
+  {
+    "start": 537,
+    "end": 540,
+    "text": " knockout blow to Peter Glazebrook's Five Kilo Potato."
+  },
+  {
+    "start": 540,
+    "end": 543,
+    "text": " Which is, I think, about an eight kilo potato."
+  },
+  {
+    "start": 543,
+    "end": 548,
+    "text": " Yeah, it was found by a pair of farmers in New Zealand who, the Guinness World Records"
+  },
+  {
+    "start": 548,
+    "end": 551,
+    "text": " people, wrote back to them when they wrote in saying, \"We've got this.\""
+  },
+  {
+    "start": 551,
+    "end": 554,
+    "text": " They said, \"In fact, it's a tuber of a kind of gourd."
+  },
+  {
+    "start": 554,
+    "end": 558,
+    "text": " A DNA testing actually revealed in true Jerry Springer style.\""
+  },
+  {
+    "start": 558,
+    "end": 559,
+    "text": " Wow."
+  },
+  {
+    "start": 559,
+    "end": 560,
+    "text": " It wasn't a potato."
+  },
+  {
+    "start": 560,
+    "end": 561,
+    "text": " It wasn't a potato at all."
+  },
+  {
+    "start": 561,
+    "end": 562,
+    "text": " It was called Doug."
+  },
+  {
+    "start": 562,
+    "end": 563,
+    "text": " Doug."
+  },
+  {
+    "start": 563,
+    "end": 565,
+    "text": " After how they got it out of the grave."
+  },
+  {
+    "start": 565,
+    "end": 566,
+    "text": " Doug."
+  },
+  {
+    "start": 566,
+    "end": 569,
+    "text": " Samantha Baldwin, who's a researcher at the New Zealand Institute for Food and Plant Research,"
+  },
+  {
+    "start": 569,
+    "end": 571,
+    "text": " presumably having a morning off or something."
+  },
+  {
+    "start": 571,
+    "end": 576,
+    "text": " So we tried running multiple tests on samples of Doug, but he just wasn't behaving like"
+  },
+  {
+    "start": 576,
+    "end": 578,
+    "text": " a potato should."
+  },
+  {
+    "start": 578,
+    "end": 580,
+    "text": " Because he wasn't a potato."
+  },
+  {
+    "start": 580,
+    "end": 585,
+    "text": " I like the idea of vegetable espionage, though, like posing as a potato for many, many years."
+  },
+  {
+    "start": 585,
+    "end": 586,
+    "text": " Yeah, I mean, it looks like a potato."
+  },
+  {
+    "start": 586,
+    "end": 589,
+    "text": " And the finders, they made a little trolley to drag it around on."
+  },
+  {
+    "start": 589,
+    "end": 590,
+    "text": " It's quite sweet."
+  },
+  {
+    "start": 590,
+    "end": 592,
+    "text": " I have a couple more contenders for giant potatoes."
+  },
+  {
+    "start": 592,
+    "end": 593,
+    "text": " Oh, go on."
+  },
+  {
+    "start": 593,
+    "end": 597,
+    "text": " So I was a little bit concerned when I was double checking that there was a giant potato in"
+  },
+  {
+    "start": 597,
+    "end": 599,
+    "text": " Cyprus, which was two foot taller."
+  },
+  {
+    "start": 599,
+    "end": 603,
+    "text": " But sadly, or luckily for me, was chopped down by vandals."
+  },
+  {
+    "start": 603,
+    "end": 607,
+    "text": " That wasn't me who did it."
+  },
+  {
+    "start": 607,
+    "end": 609,
+    "text": " Was it just done this week?"
+  },
+  {
+    "start": 609,
+    "end": 610,
+    "text": " Really?"
+  },
+  {
+    "start": 610,
+    "end": 611,
+    "text": " Just after you said this fact?"
+  },
+  {
+    "start": 611,
+    "end": 612,
+    "text": " That sounds suspicious."
+  },
+  {
+    "start": 612,
+    "end": 613,
+    "text": " You are looking tanned."
+  },
+  {
+    "start": 613,
+    "end": 617,
+    "text": " Yeah, and you look so gleeful at the moment."
+  },
+  {
+    "start": 617,
+    "end": 621,
+    "text": " I mean, no jury would acquit you at the moment."
+  },
+  {
+    "start": 621,
+    "end": 624,
+    "text": " I can't look out if you're sad or, yeah, if you're hysterical."
+  },
+  {
+    "start": 624,
+    "end": 625,
+    "text": " I'm very sad."
+  },
+  {
+    "start": 625,
+    "end": 628,
+    "text": " So the one inside for us was two foot taller, but it's been..."
+  },
+  {
+    "start": 628,
+    "end": 631,
+    "text": " You're not doing a good impression of someone who hasn't chopped down a giant potato."
+  },
+  {
+    "start": 631,
+    "end": 632,
+    "text": " Put it that way."
+  },
+  {
+    "start": 632,
+    "end": 634,
+    "text": " Well, I definitely didn't chop down the one in Australia."
+  },
+  {
+    "start": 634,
+    "end": 636,
+    "text": " So they have the big things, I'm sure."
+  },
+  {
+    "start": 636,
+    "end": 637,
+    "text": " Yeah, of course, yeah."
+  },
+  {
+    "start": 637,
+    "end": 639,
+    "text": " And they have the big potato."
+  },
+  {
+    "start": 639,
+    "end": 641,
+    "text": " But theirs is lying down, so it's long."
+  },
+  {
+    "start": 641,
+    "end": 644,
+    "text": " Did someone knock it up?"
+  },
+  {
+    "start": 644,
+    "end": 648,
+    "text": " But it did for a while have a face, which was so mildly terrifying."
+  },
+  {
+    "start": 648,
+    "end": 650,
+    "text": " And the face has been taken away."
+  },
+  {
+    "start": 650,
+    "end": 652,
+    "text": " I'm not sure if it was stolen."
+  },
+  {
+    "start": 652,
+    "end": 653,
+    "text": " Wow."
+  },
+  {
+    "start": 653,
+    "end": 655,
+    "text": " Any more for potatoes?"
+  },
+  {
+    "start": 655,
+    "end": 656,
+    "text": " No."
+  },
+  {
+    "start": 656,
+    "end": 658,
+    "text": " How about Prince Edward Island?"
+  },
+  {
+    "start": 658,
+    "end": 659,
+    "text": " Well, they do."
+  },
+  {
+    "start": 659,
+    "end": 662,
+    "text": " They make about a million tons of potatoes each year."
+  },
+  {
+    "start": 662,
+    "end": 664,
+    "text": " They're big, big potatoes."
+  },
+  {
+    "start": 664,
+    "end": 668,
+    "text": " Yeah, a quarter of Canada's potatoes, despite it being a very small Canadian province."
+  },
+  {
+    "start": 668,
+    "end": 670,
+    "text": " Yeah, one of the smallest, I would say."
+  },
+  {
+    "start": 670,
+    "end": 676,
+    "text": " A lot of the potatoes on Prince Edward Island are grown and processed by McCain,"
+  },
+  {
+    "start": 676,
+    "end": 679,
+    "text": " who are the world's largest manufacturer of frozen potato products."
+  },
+  {
+    "start": 679,
+    "end": 681,
+    "text": " You will know them from their oven chips."
+  },
+  {
+    "start": 681,
+    "end": 683,
+    "text": " Yes, big fans."
+  },
+  {
+    "start": 683,
+    "end": 687,
+    "text": " They were founded by two brothers called Harrison and Wallace McCain."
+  },
+  {
+    "start": 687,
+    "end": 691,
+    "text": " And like it seems, every single company that's founded by two brothers,"
+  },
+  {
+    "start": 691,
+    "end": 695,
+    "text": " they got into a massive legal dispute and then one of the brothers had to leave"
+  },
+  {
+    "start": 695,
+    "end": 697,
+    "text": " and took over a thing called Maple Leaf Foods."
+  },
+  {
+    "start": 697,
+    "end": 699,
+    "text": " No, rivals."
+  },
+  {
+    "start": 699,
+    "end": 703,
+    "text": " I thought you were going to say there's a potato equator around the world."
+  },
+  {
+    "start": 703,
+    "end": 705,
+    "text": " Like the Eldie Brothers."
+  },
+  {
+    "start": 705,
+    "end": 707,
+    "text": " But no, isn't that surprising?"
+  },
+  {
+    "start": 707,
+    "end": 708,
+    "text": " That is bizarre."
+  },
+  {
+    "start": 708,
+    "end": 712,
+    "text": " It does seem this thing, that brothers start companies and they fall out."
+  },
+  {
+    "start": 712,
+    "end": 714,
+    "text": " Was it Adidas?"
+  },
+  {
+    "start": 714,
+    "end": 716,
+    "text": " Adidas."
+  },
+  {
+    "start": 716,
+    "end": 718,
+    "text": " Yeah, that's so weird."
+  },
+  {
+    "start": 718,
+    "end": 720,
+    "text": " Wow, and Oasis."
+  },
+  {
+    "start": 720,
+    "end": 722,
+    "text": " Oasis, yeah."
+  },
+  {
+    "start": 722,
+    "end": 725,
+    "text": " So it's a very big island as well."
+  },
+  {
+    "start": 725,
+    "end": 727,
+    "text": " It's 175 miles long."
+  },
+  {
+    "start": 727,
+    "end": 729,
+    "text": " Did I just say it was a small one?"
+  },
+  {
+    "start": 729,
+    "end": 731,
+    "text": " It's a small province, but it's a big island."
+  },
+  {
+    "start": 731,
+    "end": 733,
+    "text": " You know what I mean?"
+  },
+  {
+    "start": 733,
+    "end": 735,
+    "text": " Because Canada's massive."
+  },
+  {
+    "start": 735,
+    "end": 737,
+    "text": " I think everyone forgets how big Canada is."
+  },
+  {
+    "start": 737,
+    "end": 739,
+    "text": " Just shout out for Canada there."
+  },
+  {
+    "start": 739,
+    "end": 742,
+    "text": " But did you know we have a lot of listeners on Prince Edward Island?"
+  },
+  {
+    "start": 742,
+    "end": 744,
+    "text": " Really?"
+  },
+  {
+    "start": 744,
+    "end": 747,
+    "text": " So I had a little look in the inbox, the fish inbox, podcast@qi.com."
+  },
+  {
+    "start": 747,
+    "end": 750,
+    "text": " We have had so many messages from people over the years saying,"
+  },
+  {
+    "start": 750,
+    "end": 752,
+    "text": " \"I'm on Prince Edward Island and I would like you to cover it.\""
+  },
+  {
+    "start": 752,
+    "end": 753,
+    "text": " And here are some facts."
+  },
+  {
+    "start": 753,
+    "end": 755,
+    "text": " So I've got a couple for you."
+  },
+  {
+    "start": 755,
+    "end": 759,
+    "text": " Ryan Barrett, who works for the PEI Potato Board."
+  },
+  {
+    "start": 759,
+    "end": 762,
+    "text": " Wow, you picked that up, friend."
+  },
+  {
+    "start": 762,
+    "end": 764,
+    "text": " Yeah, I mean, he wrote an email a couple of years ago."
+  },
+  {
+    "start": 764,
+    "end": 766,
+    "text": " This was when Anna was in charge of the inbox."
+  },
+  {
+    "start": 766,
+    "end": 768,
+    "text": " Ryan, I don't think you've got to reply."
+  },
+  {
+    "start": 768,
+    "end": 772,
+    "text": " So I'm going to write that wrong."
+  },
+  {
+    "start": 772,
+    "end": 774,
+    "text": " Anna really hates Prince Edward Island."
+  },
+  {
+    "start": 774,
+    "end": 776,
+    "text": " He doesn't say Prince Edward Island, does he?"
+  },
+  {
+    "start": 776,
+    "end": 778,
+    "text": " Every week she goes on about how much she hates it."
+  },
+  {
+    "start": 778,
+    "end": 780,
+    "text": " You have to cut it out."
+  },
+  {
+    "start": 780,
+    "end": 782,
+    "text": " He just said some cool place names they've got."
+  },
+  {
+    "start": 782,
+    "end": 786,
+    "text": " They've got an Alaska, a Belfast, a New Zealand, a Toronto, a Norway,"
+  },
+  {
+    "start": 786,
+    "end": 790,
+    "text": " a Crapo, which is French for toad, I didn't know,"
+  },
+  {
+    "start": 790,
+    "end": 793,
+    "text": " and a Surice, which is French for mouse."
+  },
+  {
+    "start": 793,
+    "end": 796,
+    "text": " And he also has a fact about Anne of Green Gables, which is that,"
+  },
+  {
+    "start": 796,
+    "end": 798,
+    "text": " because of Anne of Green Gables,"
+  },
+  {
+    "start": 798,
+    "end": 801,
+    "text": " Prince Edward Island gets thousands and thousands of Japanese tourists every year."
+  },
+  {
+    "start": 801,
+    "end": 803,
+    "text": " And that's because the book was the first book"
+  },
+  {
+    "start": 803,
+    "end": 805,
+    "text": " taught in English in Japan after the Second World War."
+  },
+  {
+    "start": 805,
+    "end": 806,
+    "text": " It's massive there."
+  },
+  {
+    "start": 806,
+    "end": 807,
+    "text": " So big cultural influence."
+  },
+  {
+    "start": 807,
+    "end": 809,
+    "text": " Yeah, still to this day, it's ginormous."
+  },
+  {
+    "start": 809,
+    "end": 812,
+    "text": " And they have schools named after it there, the School of Green Gables."
+  },
+  {
+    "start": 812,
+    "end": 816,
+    "text": " They've got the University of Prince Edward Island School of Nursing."
+  },
+  {
+    "start": 816,
+    "end": 819,
+    "text": " And apparently adaptations are just always on TV."
+  },
+  {
+    "start": 819,
+    "end": 821,
+    "text": " Just non-stop on TV in Japan."
+  },
+  {
+    "start": 821,
+    "end": 822,
+    "text": " I've always heard that."
+  },
+  {
+    "start": 822,
+    "end": 824,
+    "text": " I never really understood why."
+  },
+  {
+    "start": 824,
+    "end": 829,
+    "text": " And I read a really cool article by Margaret Atwood to celebrate Anne's 100th birthday."
+  },
+  {
+    "start": 829,
+    "end": 832,
+    "text": " And she said she'd done an event in Japan, and she'd asked the audience,"
+  },
+  {
+    "start": 832,
+    "end": 835,
+    "text": " and her translator had written down the responses."
+  },
+  {
+    "start": 835,
+    "end": 838,
+    "text": " And one of the big reasons is the author who translated it in Japan"
+  },
+  {
+    "start": 838,
+    "end": 841,
+    "text": " was already very beloved, so sort of had an audience there."
+  },
+  {
+    "start": 841,
+    "end": 843,
+    "text": " And there are many things about the book that just really resonated."
+  },
+  {
+    "start": 843,
+    "end": 847,
+    "text": " So Anne was an orphan, and there were sadly a lot of orphans in Japan after the war."
+  },
+  {
+    "start": 847,
+    "end": 850,
+    "text": " She's got a huge passion for Apple Blossom and Cherry Blossom,"
+  },
+  {
+    "start": 850,
+    "end": 853,
+    "text": " which was very popular in Japan, and sort of her work ethic."
+  },
+  {
+    "start": 853,
+    "end": 855,
+    "text": " She's not scared of hard work, and she's very thoughtful,"
+  },
+  {
+    "start": 855,
+    "end": 858,
+    "text": " but she's also quite forgetful, but it's because she's daydreaming."
+  },
+  {
+    "start": 858,
+    "end": 862,
+    "text": " She's not lazy. She tries to do her best, and she does wind up in scrapes, but it's never..."
+  },
+  {
+    "start": 862,
+    "end": 864,
+    "text": " She means well."
+  },
+  {
+    "start": 864,
+    "end": 870,
+    "text": " I did read one place that said that America kind of pushed Anne of Green Gables after the war,"
+  },
+  {
+    "start": 870,
+    "end": 875,
+    "text": " because they thought it would help kind of as American liberal propaganda."
+  },
+  {
+    "start": 875,
+    "end": 881,
+    "text": " And they thought that this kind of book, which showed that women were more free-thinking,"
+  },
+  {
+    "start": 881,
+    "end": 884,
+    "text": " might get them away from some of their old ideas."
+  },
+  {
+    "start": 884,
+    "end": 887,
+    "text": " So that was supposedly one of the reasons."
+  },
+  {
+    "start": 887,
+    "end": 892,
+    "text": " She sounds like a pretty cool character, the author Lucy Maud Montgomery."
+  },
+  {
+    "start": 892,
+    "end": 895,
+    "text": " When she was a kid, she had two imaginary friends, which is really cool."
+  },
+  {
+    "start": 895,
+    "end": 898,
+    "text": " So she was at her grandparents' house, and they had a bookcase,"
+  },
+  {
+    "start": 898,
+    "end": 902,
+    "text": " and it had glass reflection doors on the bookcase,"
+  },
+  {
+    "start": 902,
+    "end": 905,
+    "text": " and she could see herself in the reflection."
+  },
+  {
+    "start": 905,
+    "end": 908,
+    "text": " So the one on the left was a reflection of someone that she called Katie Maurice,"
+  },
+  {
+    "start": 908,
+    "end": 911,
+    "text": " and the right was Lucy Gray, and it was both her, both her reflections,"
+  },
+  {
+    "start": 911,
+    "end": 914,
+    "text": " but she created them as her imaginary friends."
+  },
+  {
+    "start": 914,
+    "end": 916,
+    "text": " Yeah, very cool idea."
+  },
+  {
+    "start": 916,
+    "end": 921,
+    "text": " And I love that her titles of her books all sound like she's still workshopping the author title."
+  },
+  {
+    "start": 921,
+    "end": 926,
+    "text": " This is Emily of New Moon, Pat of Silver Bush, Kill Many of the Orchard."
+  },
+  {
+    "start": 926,
+    "end": 927,
+    "text": " One more to add to that."
+  },
+  {
+    "start": 927,
+    "end": 931,
+    "text": " So there's six in the Anne of series, and then there are two that focus on her children."
+  },
+  {
+    "start": 931,
+    "end": 935,
+    "text": " And the second one is Rilla of Ingleside, which is her youngest daughter."
+  },
+  {
+    "start": 935,
+    "end": 939,
+    "text": " So spoiler alert, she goes up to get married and has a bunch of children."
+  },
+  {
+    "start": 939,
+    "end": 942,
+    "text": " But what I didn't realize when I was younger is I followed the books through,"
+  },
+  {
+    "start": 942,
+    "end": 945,
+    "text": " and I see her grow up, and I hadn't clocked that as she grew up,"
+  },
+  {
+    "start": 945,
+    "end": 949,
+    "text": " the year would get so much closer to the war, so it becomes a book about the First World War."
+  },
+  {
+    "start": 949,
+    "end": 954,
+    "text": " So Rilla of Ingleside is about war coming to Canada, which I wasn't expecting."
+  },
+  {
+    "start": 954,
+    "end": 956,
+    "text": " And so two of her children end up fighting in the war,"
+  },
+  {
+    "start": 956,
+    "end": 959,
+    "text": " her daughter Rilla ends up adopting a war baby and looking after him,"
+  },
+  {
+    "start": 959,
+    "end": 963,
+    "text": " and it's just very odd to take a character who you know from a beloved children's book"
+  },
+  {
+    "start": 963,
+    "end": 965,
+    "text": " and put them in World War One."
+  },
+  {
+    "start": 965,
+    "end": 969,
+    "text": " I think this about, it's a slightly different example of it,"
+  },
+  {
+    "start": 969,
+    "end": 973,
+    "text": " because there's an episode of Frasier where Martin Crane, Frasier's dad,"
+  },
+  {
+    "start": 973,
+    "end": 975,
+    "text": " has just watched the Austin Powers film,"
+  },
+  {
+    "start": 975,
+    "end": 978,
+    "text": " and it's very weird thinking of them in the same conceptual universe,"
+  },
+  {
+    "start": 978,
+    "end": 981,
+    "text": " because there's a bit where Martin keeps on saying, \"Shagadelic baby, yeah!\""
+  },
+  {
+    "start": 981,
+    "end": 984,
+    "text": " And it really takes you out of yourself."
+  },
+  {
+    "start": 984,
+    "end": 989,
+    "text": " It's quite amazing that she gave over the trademark basically to Anna Green-Gables"
+  },
+  {
+    "start": 989,
+    "end": 994,
+    "text": " to not only her daughters and the heirs, but to Prince Edward Island as well."
+  },
+  {
+    "start": 994,
+    "end": 997,
+    "text": " So they've got the trademark, which means that anyone who works on the island"
+  },
+  {
+    "start": 997,
+    "end": 1001,
+    "text": " is allowed to make their own sort of products or merchandise and sell them."
+  },
+  {
+    "start": 1001,
+    "end": 1005,
+    "text": " Yeah, with no worry of the estate coming at them, because they are the estate."
+  },
+  {
+    "start": 1005,
+    "end": 1007,
+    "text": " Wow, can you do anything?"
+  },
+  {
+    "start": 1007,
+    "end": 1010,
+    "text": " It sounds like it. I mean, possibly you might have to pitch and say, you know..."
+  },
+  {
+    "start": 1010,
+    "end": 1013,
+    "text": " Yeah, you can have Anna Green-Gables, for instance."
+  },
+  {
+    "start": 1013,
+    "end": 1014,
+    "text": " Oh, yes."
+  },
+  {
+    "start": 1014,
+    "end": 1016,
+    "text": " The second World War book."
+  },
+  {
+    "start": 1016,
+    "end": 1025,
+    "text": " Okay, it is time for fact number two, and that is my fact."
+  },
+  {
+    "start": 1025,
+    "end": 1030,
+    "text": " My fact this week is, in 1952, a cowboy successfully lassoed a plane"
+  },
+  {
+    "start": 1030,
+    "end": 1032,
+    "text": " as it flew past his house."
+  },
+  {
+    "start": 1032,
+    "end": 1033,
+    "text": " His house?"
+  },
+  {
+    "start": 1033,
+    "end": 1035,
+    "text": " Yeah, so he was working at this house."
+  },
+  {
+    "start": 1035,
+    "end": 1037,
+    "text": " He was working with his boss."
+  },
+  {
+    "start": 1037,
+    "end": 1038,
+    "text": " I have a question, Dan."
+  },
+  {
+    "start": 1038,
+    "end": 1039,
+    "text": " Yeah."
+  },
+  {
+    "start": 1039,
+    "end": 1040,
+    "text": " Successfully lassoed?"
+  },
+  {
+    "start": 1040,
+    "end": 1041,
+    "text": " Yeah."
+  },
+  {
+    "start": 1041,
+    "end": 1043,
+    "text": " Does that mean he got the lasso around the plane"
+  },
+  {
+    "start": 1043,
+    "end": 1046,
+    "text": " and then the plane flew off with his lasso attached?"
+  },
+  {
+    "start": 1046,
+    "end": 1047,
+    "text": " He tamed it."
+  },
+  {
+    "start": 1047,
+    "end": 1048,
+    "text": " He tamed it."
+  },
+  {
+    "start": 1048,
+    "end": 1050,
+    "text": " Yeah, yeah, he ended up riding the plane."
+  },
+  {
+    "start": 1050,
+    "end": 1054,
+    "text": " He broke it, you know, he made it submissive to him."
+  },
+  {
+    "start": 1054,
+    "end": 1056,
+    "text": " That's Andy's got it right."
+  },
+  {
+    "start": 1056,
+    "end": 1059,
+    "text": " And the plane lives happily in his garden to this day."
+  },
+  {
+    "start": 1059,
+    "end": 1060,
+    "text": " Yeah."
+  },
+  {
+    "start": 1060,
+    "end": 1064,
+    "text": " No, this is, the basic story is that he was at this house."
+  },
+  {
+    "start": 1064,
+    "end": 1070,
+    "text": " He was working as a cowboy, and this plane just kept flying really low over the house"
+  },
+  {
+    "start": 1070,
+    "end": 1073,
+    "text": " and kept going by, and had no idea what was going on."
+  },
+  {
+    "start": 1073,
+    "end": 1076,
+    "text": " It turns out what was going on was the pilot on the inside"
+  },
+  {
+    "start": 1076,
+    "end": 1080,
+    "text": " was trying to drop a love letter to a girl who lived inside the house,"
+  },
+  {
+    "start": 1080,
+    "end": 1084,
+    "text": " and flying Kai, he was trying to get her to come out to see the love letter being dropped, right?"
+  },
+  {
+    "start": 1084,
+    "end": 1086,
+    "text": " But this cowboy gets pissed off."
+  },
+  {
+    "start": 1086,
+    "end": 1088,
+    "text": " So he gets out his lasso."
+  },
+  {
+    "start": 1088,
+    "end": 1091,
+    "text": " It's a three and a half meter long lasso."
+  },
+  {
+    "start": 1091,
+    "end": 1094,
+    "text": " And as the guy is swooping down, he's flying very low."
+  },
+  {
+    "start": 1094,
+    "end": 1096,
+    "text": " You know, he's got to drop the letter so it lands on a good spot."
+  },
+  {
+    "start": 1096,
+    "end": 1097,
+    "text": " Absolutely."
+  },
+  {
+    "start": 1097,
+    "end": 1101,
+    "text": " So he throws the lasso at the plane, it manages to collide with the propeller,"
+  },
+  {
+    "start": 1101,
+    "end": 1105,
+    "text": " catches onto it and snaps off and gets tangled up in the propeller."
+  },
+  {
+    "start": 1105,
+    "end": 1109,
+    "text": " So the pilot has no choice but to turn around and quickly land the plane."
+  },
+  {
+    "start": 1109,
+    "end": 1111,
+    "text": " Obviously the cowboy was knocked onto his back."
+  },
+  {
+    "start": 1111,
+    "end": 1112,
+    "text": " It was not pleasant."
+  },
+  {
+    "start": 1112,
+    "end": 1113,
+    "text": " Obviously."
+  },
+  {
+    "start": 1113,
+    "end": 1115,
+    "text": " Did the guy in the plane survive?"
+  },
+  {
+    "start": 1115,
+    "end": 1116,
+    "text": " Yeah, he did."
+  },
+  {
+    "start": 1116,
+    "end": 1118,
+    "text": " And actually years later, when he was 78 years old,"
+  },
+  {
+    "start": 1118,
+    "end": 1122,
+    "text": " there was a photo of him with the propeller with the lasso rope still wrapped around it."
+  },
+  {
+    "start": 1122,
+    "end": 1123,
+    "text": " Wow."
+  },
+  {
+    "start": 1123,
+    "end": 1124,
+    "text": " Did he get the girl?"
+  },
+  {
+    "start": 1124,
+    "end": 1126,
+    "text": " I couldn't find that bit of the story."
+  },
+  {
+    "start": 1126,
+    "end": 1127,
+    "text": " Great question."
+  },
+  {
+    "start": 1127,
+    "end": 1128,
+    "text": " Yeah, great question."
+  },
+  {
+    "start": 1128,
+    "end": 1130,
+    "text": " Can I just say, everyone in the story is an idiot."
+  },
+  {
+    "start": 1130,
+    "end": 1132,
+    "text": " Not the girl?"
+  },
+  {
+    "start": 1132,
+    "end": 1134,
+    "text": " Why isn't she coming out of her house?"
+  },
+  {
+    "start": 1134,
+    "end": 1136,
+    "text": " How would she know to come out?"
+  },
+  {
+    "start": 1136,
+    "end": 1139,
+    "text": " There's a plane flying apparently two meters above your house."
+  },
+  {
+    "start": 1139,
+    "end": 1140,
+    "text": " Show some curiosity."
+  },
+  {
+    "start": 1140,
+    "end": 1142,
+    "text": " Like she's idiot three on the list."
+  },
+  {
+    "start": 1142,
+    "end": 1146,
+    "text": " Idiot two, I think is probably the pilot who's doing this magic."
+  },
+  {
+    "start": 1146,
+    "end": 1147,
+    "text": " Just send the card."
+  },
+  {
+    "start": 1147,
+    "end": 1148,
+    "text": " It doesn't matter."
+  },
+  {
+    "start": 1148,
+    "end": 1149,
+    "text": " Idiot one's the cowboy."
+  },
+  {
+    "start": 1149,
+    "end": 1150,
+    "text": " Why?"
+  },
+  {
+    "start": 1150,
+    "end": 1153,
+    "text": " Because he could have killed the pilot and himself."
+  },
+  {
+    "start": 1153,
+    "end": 1154,
+    "text": " But it's a good point though."
+  },
+  {
+    "start": 1154,
+    "end": 1157,
+    "text": " I felt sorry for the pilot because I thought he's trying to do something in secret."
+  },
+  {
+    "start": 1157,
+    "end": 1160,
+    "text": " Instead his plane's fallen out of the sky and made a big noise, presumably."
+  },
+  {
+    "start": 1160,
+    "end": 1162,
+    "text": " But the post is pretty secret."
+  },
+  {
+    "start": 1162,
+    "end": 1163,
+    "text": " Yeah, this is not secret."
+  },
+  {
+    "start": 1163,
+    "end": 1165,
+    "text": " This is less secret, I would say, than the post."
+  },
+  {
+    "start": 1165,
+    "end": 1166,
+    "text": " He's not trying to be secret."
+  },
+  {
+    "start": 1166,
+    "end": 1167,
+    "text": " This is romance."
+  },
+  {
+    "start": 1167,
+    "end": 1168,
+    "text": " This is, look, you can see me."
+  },
+  {
+    "start": 1168,
+    "end": 1169,
+    "text": " Hi, I've got a letter."
+  },
+  {
+    "start": 1169,
+    "end": 1170,
+    "text": " I want to show you my love."
+  },
+  {
+    "start": 1170,
+    "end": 1173,
+    "text": " Is it like the 80s thing of turning up outside the house with a boombox?"
+  },
+  {
+    "start": 1173,
+    "end": 1174,
+    "text": " I was thinking."
+  },
+  {
+    "start": 1174,
+    "end": 1176,
+    "text": " Or the love actually thing of turning up with the cards."
+  },
+  {
+    "start": 1176,
+    "end": 1177,
+    "text": " It's exactly that."
+  },
+  {
+    "start": 1177,
+    "end": 1178,
+    "text": " The propeller card."
+  },
+  {
+    "start": 1178,
+    "end": 1182,
+    "text": " I would be good in love actually in that scene if a lasso just came in for the second one."
+  },
+  {
+    "start": 1182,
+    "end": 1186,
+    "text": " Or if he's going round to loop the loop with a plane."
+  },
+  {
+    "start": 1186,
+    "end": 1188,
+    "text": " And every time he does the bottom of the loop, it's another card."
+  },
+  {
+    "start": 1188,
+    "end": 1189,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 1189,
+    "end": 1190,
+    "text": " Oh."
+  },
+  {
+    "start": 1190,
+    "end": 1192,
+    "text": " Sorry, forgot to say."
+  },
+  {
+    "start": 1192,
+    "end": 1193,
+    "text": " Yeah, no."
+  },
+  {
+    "start": 1193,
+    "end": 1194,
+    "text": " Yeah, fools."
+  },
+  {
+    "start": 1194,
+    "end": 1195,
+    "text": " It's a great story."
+  },
+  {
+    "start": 1195,
+    "end": 1197,
+    "text": " It's a very random story."
+  },
+  {
+    "start": 1197,
+    "end": 1202,
+    "text": " It appeared in a Time Magazine article in a language that is just, it says like, then"
+  },
+  {
+    "start": 1202,
+    "end": 1206,
+    "text": " a few, few years ago, some smart fellows bought themselves a little airplane and opened a flying"
+  },
+  {
+    "start": 1206,
+    "end": 1209,
+    "text": " club just a hood and a holler from where the ranch cowboy."
+  },
+  {
+    "start": 1209,
+    "end": 1210,
+    "text": " This is Time Magazine."
+  },
+  {
+    "start": 1210,
+    "end": 1212,
+    "text": " This is how they're reporting the story."
+  },
+  {
+    "start": 1212,
+    "end": 1213,
+    "text": " So yeah."
+  },
+  {
+    "start": 1213,
+    "end": 1214,
+    "text": " 50s journalism."
+  },
+  {
+    "start": 1214,
+    "end": 1217,
+    "text": " Yeah, his name was Euclides Guterres is how I'm going to pronounce that."
+  },
+  {
+    "start": 1217,
+    "end": 1218,
+    "text": " Who's that?"
+  },
+  {
+    "start": 1218,
+    "end": 1219,
+    "text": " That's the cowboy."
+  },
+  {
+    "start": 1219,
+    "end": 1220,
+    "text": " That's the cowboy."
+  },
+  {
+    "start": 1220,
+    "end": 1221,
+    "text": " Yeah."
+  },
+  {
+    "start": 1221,
+    "end": 1225,
+    "text": " And again, so little detail about this story, but it's the South Brazilian cattle ranchers."
+  },
+  {
+    "start": 1225,
+    "end": 1227,
+    "text": " So I don't even think this is an American cowboy."
+  },
+  {
+    "start": 1227,
+    "end": 1228,
+    "text": " Oh, I see."
+  },
+  {
+    "start": 1228,
+    "end": 1229,
+    "text": " We're talking."
+  },
+  {
+    "start": 1229,
+    "end": 1230,
+    "text": " Oh, I thought we were in the USA."
+  },
+  {
+    "start": 1230,
+    "end": 1231,
+    "text": " That's what I, that's what I initially thought."
+  },
+  {
+    "start": 1231,
+    "end": 1237,
+    "text": " I thought we were in Brazil and ancient Greece from his name."
+  },
+  {
+    "start": 1237,
+    "end": 1241,
+    "text": " Um, just on Lassus and Lassouing things."
+  },
+  {
+    "start": 1241,
+    "end": 1244,
+    "text": " Um, I did find someone who Lassoued cats."
+  },
+  {
+    "start": 1244,
+    "end": 1245,
+    "text": " Hell."
+  },
+  {
+    "start": 1245,
+    "end": 1247,
+    "text": " This was a cat Lassou artist from the second war."
+  },
+  {
+    "start": 1247,
+    "end": 1249,
+    "text": " She was called Miss Iris Davis."
+  },
+  {
+    "start": 1249,
+    "end": 1250,
+    "text": " It's a really nice story actually."
+  },
+  {
+    "start": 1250,
+    "end": 1255,
+    "text": " So lots of buildings being bombed in the second war, lots of rubble, lots of, you know, ruins"
+  },
+  {
+    "start": 1255,
+    "end": 1256,
+    "text": " and things."
+  },
+  {
+    "start": 1256,
+    "end": 1258,
+    "text": " Also lots of cats, lots of people keeping cats."
+  },
+  {
+    "start": 1258,
+    "end": 1263,
+    "text": " And she was a volunteer worker for what something called the dumb friends league, which is friends"
+  },
+  {
+    "start": 1263,
+    "end": 1264,
+    "text": " of cats."
+  },
+  {
+    "start": 1264,
+    "end": 1265,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 1265,
+    "end": 1269,
+    "text": " Dumb as in, I think they don't speak rather than stupid cats."
+  },
+  {
+    "start": 1269,
+    "end": 1272,
+    "text": " But she went from, she went from bombed house to bombed house with a cat Lassou."
+  },
+  {
+    "start": 1272,
+    "end": 1276,
+    "text": " It was very long pole with the Lassou at the end, rescuing cats from the wreckage."
+  },
+  {
+    "start": 1276,
+    "end": 1277,
+    "text": " Can I ask Andy?"
+  },
+  {
+    "start": 1277,
+    "end": 1281,
+    "text": " You know, um, lots of planes flying very low there."
+  },
+  {
+    "start": 1281,
+    "end": 1282,
+    "text": " Yeah."
+  },
+  {
+    "start": 1282,
+    "end": 1288,
+    "text": " Do you think a curious person would get out of the house and look what's going on there?"
+  },
+  {
+    "start": 1288,
+    "end": 1289,
+    "text": " Idiots."
+  },
+  {
+    "start": 1289,
+    "end": 1290,
+    "text": " No, no, no, no."
+  },
+  {
+    "start": 1290,
+    "end": 1291,
+    "text": " Sorry."
+  },
+  {
+    "start": 1291,
+    "end": 1293,
+    "text": " She claimed in 1940, November 1940."
+  },
+  {
+    "start": 1293,
+    "end": 1295,
+    "text": " So I guess the Blitz had been going on for a while."
+  },
+  {
+    "start": 1295,
+    "end": 1299,
+    "text": " She claimed she had rescued 600 cats from bomber buildings, which is a lot."
+  },
+  {
+    "start": 1299,
+    "end": 1300,
+    "text": " No cats."
+  },
+  {
+    "start": 1300,
+    "end": 1302,
+    "text": " It was probably the same one."
+  },
+  {
+    "start": 1302,
+    "end": 1308,
+    "text": " Yeah, someone who's an unexpected cowboy, Osama bin Laden turns out he used to walk around"
+  },
+  {
+    "start": 1308,
+    "end": 1313,
+    "text": " with a Stetson on his favorite shows were bonanza and things like fury."
+  },
+  {
+    "start": 1313,
+    "end": 1318,
+    "text": " He had his own horse and he absolutely loved the world of cowboys."
+  },
+  {
+    "start": 1318,
+    "end": 1321,
+    "text": " Um, yeah, there was lots of stories because the biography came out where they said you"
+  },
+  {
+    "start": 1321,
+    "end": 1325,
+    "text": " would see Osama bin Laden walking around with his Stetson on acting all cowboy."
+  },
+  {
+    "start": 1325,
+    "end": 1326,
+    "text": " It's amazing."
+  },
+  {
+    "start": 1326,
+    "end": 1330,
+    "text": " It took that long to find and catch him, given that he was."
+  },
+  {
+    "start": 1330,
+    "end": 1335,
+    "text": " There can't be that many people in the Torah barricades with a massive Stetson."
+  },
+  {
+    "start": 1335,
+    "end": 1336,
+    "text": " Wow."
+  },
+  {
+    "start": 1336,
+    "end": 1338,
+    "text": " I didn't know what to make of that."
+  },
+  {
+    "start": 1338,
+    "end": 1339,
+    "text": " I know it's odd, isn't it?"
+  },
+  {
+    "start": 1339,
+    "end": 1343,
+    "text": " But there's a lot of, um, so like Stalin, for example, if we're talking like bad people,"
+  },
+  {
+    "start": 1343,
+    "end": 1345,
+    "text": " generally massive cowboy fan as well."
+  },
+  {
+    "start": 1345,
+    "end": 1350,
+    "text": " He used to love watching Westerns, love John Wayne movies, but also hated John Wayne because"
+  },
+  {
+    "start": 1350,
+    "end": 1352,
+    "text": " of his anti-communism stance."
+  },
+  {
+    "start": 1352,
+    "end": 1354,
+    "text": " And so actually plotted to have him murdered."
+  },
+  {
+    "start": 1354,
+    "end": 1359,
+    "text": " He ordered KGB assassins to go and try and kill John Wayne."
+  },
+  {
+    "start": 1359,
+    "end": 1361,
+    "text": " Um, and, and Chairman Mao did that as well."
+  },
+  {
+    "start": 1361,
+    "end": 1363,
+    "text": " Chairman Mao hated John Wayne."
+  },
+  {
+    "start": 1363,
+    "end": 1367,
+    "text": " The stories of assassination plot from, yeah, from Chairman Mao as well."
+  },
+  {
+    "start": 1367,
+    "end": 1370,
+    "text": " Oh, these all put out by John Wayne's PR language."
+  },
+  {
+    "start": 1370,
+    "end": 1372,
+    "text": " It feels like it, right?"
+  },
+  {
+    "start": 1372,
+    "end": 1373,
+    "text": " Communist dictators hate him."
+  },
+  {
+    "start": 1373,
+    "end": 1375,
+    "text": " Find this one weird trick."
+  },
+  {
+    "start": 1375,
+    "end": 1377,
+    "text": " There's a really good, there's a Hollywood writer called Michael Mundt."
+  },
+  {
+    "start": 1377,
+    "end": 1378,
+    "text": " I've read a couple of his books."
+  },
+  {
+    "start": 1378,
+    "end": 1380,
+    "text": " It's one that he did on John Wayne."
+  },
+  {
+    "start": 1380,
+    "end": 1383,
+    "text": " He found that the FBI had discovered that there were assassins that were sent to Hollywood."
+  },
+  {
+    "start": 1383,
+    "end": 1385,
+    "text": " To try and kill John Wayne."
+  },
+  {
+    "start": 1385,
+    "end": 1386,
+    "text": " Amazing."
+  },
+  {
+    "start": 1386,
+    "end": 1387,
+    "text": " Gosh."
+  },
+  {
+    "start": 1387,
+    "end": 1389,
+    "text": " Do you know how many people you can fit inside a lasso?"
+  },
+  {
+    "start": 1389,
+    "end": 1391,
+    "text": " Oh, surely."
+  },
+  {
+    "start": 1391,
+    "end": 1392,
+    "text": " Do you have enough rope?"
+  },
+  {
+    "start": 1392,
+    "end": 1394,
+    "text": " Well, the Guinness World Record for everyone who's done it."
+  },
+  {
+    "start": 1394,
+    "end": 1396,
+    "text": " So it has to be spinning."
+  },
+  {
+    "start": 1396,
+    "end": 1397,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1397,
+    "end": 1398,
+    "text": " Was it thrown?"
+  },
+  {
+    "start": 1398,
+    "end": 1399,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1399,
+    "end": 1400,
+    "text": " So it's like, it's spinning."
+  },
+  {
+    "start": 1400,
+    "end": 1402,
+    "text": " He's like, I would say actually it's smaller than you think."
+  },
+  {
+    "start": 1402,
+    "end": 1405,
+    "text": " I'm going to say 20 people gathered in a tight, as in that'll be very hard."
+  },
+  {
+    "start": 1405,
+    "end": 1408,
+    "text": " I think to let's do 20 people standing to get even standing together."
+  },
+  {
+    "start": 1408,
+    "end": 1411,
+    "text": " I'm going to say just going with my imagination here."
+  },
+  {
+    "start": 1411,
+    "end": 1412,
+    "text": " A million?"
+  },
+  {
+    "start": 1412,
+    "end": 1417,
+    "text": " I'm going to say 200 and I'm going to say that the person was standing on top of a"
+  },
+  {
+    "start": 1417,
+    "end": 1422,
+    "text": " first floor building, like the top of a school, massive lasso and just managed to get the"
+  },
+  {
+    "start": 1422,
+    "end": 1423,
+    "text": " throw."
+  },
+  {
+    "start": 1423,
+    "end": 1424,
+    "text": " A school, specifically a school."
+  },
+  {
+    "start": 1424,
+    "end": 1427,
+    "text": " There are no other buildings have more than one story as we know."
+  },
+  {
+    "start": 1427,
+    "end": 1436,
+    "text": " What I'm thinking maybe is maybe around 240 to 300 and they're all on the same plane and"
+  },
+  {
+    "start": 1436,
+    "end": 1437,
+    "text": " it gets lassoed."
+  },
+  {
+    "start": 1437,
+    "end": 1438,
+    "text": " Very nice."
+  },
+  {
+    "start": 1438,
+    "end": 1439.56,
+    "text": " - Yeah. - Very nice."
+  },
+  {
+    "start": 1439.56,
+    "end": 1440.92,
+    "text": " - Well, you actually write the first time."
+  },
+  {
+    "start": 1440.92,
+    "end": 1443.4,
+    "text": " It's 13 or 14, including the guy handling it."
+  },
+  {
+    "start": 1443.4,
+    "end": 1447.24,
+    "text": " - Oh, he was so close. - So he counts."
+  },
+  {
+    "start": 1447.24,
+    "end": 1448.76,
+    "text": " - It sort of does he count."
+  },
+  {
+    "start": 1448.76,
+    "end": 1450.56,
+    "text": " The record is 13. - The guy throwing the rope."
+  },
+  {
+    "start": 1450.56,
+    "end": 1451.4,
+    "text": " He jumped in. - He jumped in."
+  },
+  {
+    "start": 1451.4,
+    "end": 1452.24,
+    "text": " - I think he's taking this."
+  },
+  {
+    "start": 1452.24,
+    "end": 1453.96,
+    "text": " - Oh, wait, if he's in the list of, yeah,"
+  },
+  {
+    "start": 1453.96,
+    "end": 1455.08,
+    "text": " then that absolutely counts."
+  },
+  {
+    "start": 1455.08,
+    "end": 1457.24,
+    "text": " - He's in the center and he's a lassoing around"
+  },
+  {
+    "start": 1457.24,
+    "end": 1459.96,
+    "text": " and other people are gathering round him as he lassoes."
+  },
+  {
+    "start": 1459.96,
+    "end": 1460.8,
+    "text": " - Yeah, I love that."
+  },
+  {
+    "start": 1460.8,
+    "end": 1462.04,
+    "text": " - Does that count as lassoing?"
+  },
+  {
+    "start": 1462.04,
+    "end": 1463.76,
+    "text": " Because you don't usually stand, say, like,"
+  },
+  {
+    "start": 1463.76,
+    "end": 1467.76,
+    "text": " next to the wild horse and lasso yourself into it as well."
+  },
+  {
+    "start": 1467.76,
+    "end": 1469.88,
+    "text": " - They do tricks, don't they, lasso artists?"
+  },
+  {
+    "start": 1469.88,
+    "end": 1471.52,
+    "text": " And I think this is kind of part of that."
+  },
+  {
+    "start": 1471.52,
+    "end": 1473.48,
+    "text": " As in, they like a skipping rope,"
+  },
+  {
+    "start": 1473.48,
+    "end": 1475.88,
+    "text": " you're kind of lasso around and then you'll do jump in."
+  },
+  {
+    "start": 1475.88,
+    "end": 1477.76,
+    "text": " - You're gonna get lettuce from the cowboys"
+  },
+  {
+    "start": 1477.76,
+    "end": 1479.12,
+    "text": " and the skipping people."
+  },
+  {
+    "start": 1479.12,
+    "end": 1480.88,
+    "text": " How dare you associate us with those hacks?"
+  },
+  {
+    "start": 1480.88,
+    "end": 1482.12,
+    "text": " - I'll tell you what, if someone flies"
+  },
+  {
+    "start": 1482.12,
+    "end": 1484.42,
+    "text": " very close to the top of my house,"
+  },
+  {
+    "start": 1484.42,
+    "end": 1487.36,
+    "text": " then I'll look outside for the lettuce."
+  },
+  {
+    "start": 1487.36,
+    "end": 1490.32,
+    "text": " - Marlboro Man, one of the most famous cowboys"
+  },
+  {
+    "start": 1490.32,
+    "end": 1493,
+    "text": " for the internet. - Cigarette smoking Marlboro Man."
+  },
+  {
+    "start": 1493,
+    "end": 1495.48,
+    "text": " - Yeah, Bob Norris was the original Marlboro Man"
+  },
+  {
+    "start": 1495.48,
+    "end": 1497.56,
+    "text": " who never smoked cigarettes in his life."
+  },
+  {
+    "start": 1497.56,
+    "end": 1500.08,
+    "text": " He actively was anti it, but he was found"
+  },
+  {
+    "start": 1500.08,
+    "end": 1502.52,
+    "text": " because he was in a photo with John Wayne,"
+  },
+  {
+    "start": 1502.52,
+    "end": 1504.36,
+    "text": " who used to smoke seven packs a day."
+  },
+  {
+    "start": 1504.36,
+    "end": 1505.64,
+    "text": " And they saw him in that shot and went,"
+  },
+  {
+    "start": 1505.64,
+    "end": 1508.68,
+    "text": " \"Hey, that guy looks like he'd be good for our smoking.\""
+  },
+  {
+    "start": 1508.68,
+    "end": 1511.36,
+    "text": " - Weirdly, he'd actually been hired by Stalin to kill Wayne."
+  },
+  {
+    "start": 1511.36,
+    "end": 1512.6,
+    "text": " (laughing)"
+  },
+  {
+    "start": 1512.6,
+    "end": 1513.96,
+    "text": " And then the film people got to him in time,"
+  },
+  {
+    "start": 1513.96,
+    "end": 1514.8,
+    "text": " the cigarette people."
+  },
+  {
+    "start": 1514.8,
+    "end": 1518.16,
+    "text": " - I was looking at other big animals that you can lasso."
+  },
+  {
+    "start": 1518.16,
+    "end": 1519.88,
+    "text": " So, do you know how many lessoes it takes"
+  },
+  {
+    "start": 1519.88,
+    "end": 1521.52,
+    "text": " to get a crocodile safely?"
+  },
+  {
+    "start": 1521.52,
+    "end": 1522.36,
+    "text": " - I would've said one."
+  },
+  {
+    "start": 1522.36,
+    "end": 1524.16,
+    "text": " I would've said one. - Just round the mouth."
+  },
+  {
+    "start": 1524.16,
+    "end": 1525.12,
+    "text": " - I'm gonna say three."
+  },
+  {
+    "start": 1525.12,
+    "end": 1527.64,
+    "text": " - Three, yeah, points to the driver."
+  },
+  {
+    "start": 1527.64,
+    "end": 1529.28,
+    "text": " So apparently, the way they do it"
+  },
+  {
+    "start": 1529.28,
+    "end": 1531.56,
+    "text": " is they lasso the top bit of the mouth,"
+  },
+  {
+    "start": 1531.56,
+    "end": 1533.08,
+    "text": " and they do it again with a second lasso."
+  },
+  {
+    "start": 1533.08,
+    "end": 1535,
+    "text": " I guess that's the most scary part."
+  },
+  {
+    "start": 1535,
+    "end": 1536.64,
+    "text": " And then they do one round the whole mouth,"
+  },
+  {
+    "start": 1536.64,
+    "end": 1539.04,
+    "text": " and then they tape the mouth to be so, so, so sure."
+  },
+  {
+    "start": 1539.04,
+    "end": 1542.12,
+    "text": " And then the advice was, if it all goes pear-shaped, run."
+  },
+  {
+    "start": 1542.12,
+    "end": 1544.76,
+    "text": " - I was gonna say, that's a lot of detail"
+  },
+  {
+    "start": 1544.76,
+    "end": 1546.92,
+    "text": " to get right three times round."
+  },
+  {
+    "start": 1546.92,
+    "end": 1549.04,
+    "text": " We get the clippers sometimes to go to our gigs"
+  },
+  {
+    "start": 1549.04,
+    "end": 1550.64,
+    "text": " at Up The Creek, and whenever the boat comes in,"
+  },
+  {
+    "start": 1550.64,
+    "end": 1552.68,
+    "text": " they always have to lasso the boat."
+  },
+  {
+    "start": 1552.68,
+    "end": 1554.36,
+    "text": " And I always have a bet with whoever I'm standing with,"
+  },
+  {
+    "start": 1554.36,
+    "end": 1555.52,
+    "text": " are they gonna get on the first go?"
+  },
+  {
+    "start": 1555.52,
+    "end": 1556.84,
+    "text": " Sometimes it's the third go,"
+  },
+  {
+    "start": 1556.84,
+    "end": 1558.88,
+    "text": " but the thing is the doc's not gonna eat you,"
+  },
+  {
+    "start": 1558.88,
+    "end": 1563.2,
+    "text": " whereas a crocodile, yeah, that's a fine time."
+  },
+  {
+    "start": 1563.2,
+    "end": 1565.08,
+    "text": " - That's one of the first QI facts I ever learned,"
+  },
+  {
+    "start": 1565.08,
+    "end": 1567.32,
+    "text": " was that a crocodile can, what is it?"
+  },
+  {
+    "start": 1567.32,
+    "end": 1569.44,
+    "text": " It can bite you with the force of a truck"
+  },
+  {
+    "start": 1569.44,
+    "end": 1571.66,
+    "text": " falling off a cliff, but once his mouth is closed,"
+  },
+  {
+    "start": 1571.66,
+    "end": 1573.08,
+    "text": " it presents no threat at all,"
+  },
+  {
+    "start": 1573.08,
+    "end": 1575.32,
+    "text": " because you can hold its mouth shut with your hand."
+  },
+  {
+    "start": 1575.32,
+    "end": 1578.28,
+    "text": " - That's a rubber band, even just a rubber band."
+  },
+  {
+    "start": 1578.28,
+    "end": 1579.64,
+    "text": " - I think the scariest job is the person"
+  },
+  {
+    "start": 1579.64,
+    "end": 1582.44,
+    "text": " who takes the tape off at the end of the procedure."
+  },
+  {
+    "start": 1582.44,
+    "end": 1584.16,
+    "text": " I think that's the real hero."
+  },
+  {
+    "start": 1584.16,
+    "end": 1586.32,
+    "text": " - But at that point it's quite annoyed, probably."
+  },
+  {
+    "start": 1586.32,
+    "end": 1587.4,
+    "text": " - Exactly, yeah."
+  },
+  {
+    "start": 1587.4,
+    "end": 1589.48,
+    "text": " - Have you ever held a crocodile?"
+  },
+  {
+    "start": 1589.48,
+    "end": 1590.56,
+    "text": " - No. - No."
+  },
+  {
+    "start": 1590.56,
+    "end": 1591.64,
+    "text": " - No, me either."
+  },
+  {
+    "start": 1591.64,
+    "end": 1593.08,
+    "text": " (laughing)"
+  },
+  {
+    "start": 1593.08,
+    "end": 1594.88,
+    "text": " - But my wife has, my wife has, so."
+  },
+  {
+    "start": 1594.88,
+    "end": 1596.72,
+    "text": " - I thought we were on the brink of an amazing Jane story."
+  },
+  {
+    "start": 1596.72,
+    "end": 1597.96,
+    "text": " I've never, I've really had she."
+  },
+  {
+    "start": 1597.96,
+    "end": 1600.44,
+    "text": " - Yeah, yeah, we went to the Everglades,"
+  },
+  {
+    "start": 1600.44,
+    "end": 1603.36,
+    "text": " and there was a baby crocodile that you could hold,"
+  },
+  {
+    "start": 1603.36,
+    "end": 1605.04,
+    "text": " called Snappy. - Of course."
+  },
+  {
+    "start": 1605.04,
+    "end": 1608.6,
+    "text": " - And Polina held it, and I didn't have the guts to hold it."
+  },
+  {
+    "start": 1608.6,
+    "end": 1610.2,
+    "text": " - How big was Snappy?"
+  },
+  {
+    "start": 1610.2,
+    "end": 1611.04,
+    "text": " - How big were you talking?"
+  },
+  {
+    "start": 1611.04,
+    "end": 1613.56,
+    "text": " - I would say about a foot and a half."
+  },
+  {
+    "start": 1613.56,
+    "end": 1614.4,
+    "text": " - Okay."
+  },
+  {
+    "start": 1614.4,
+    "end": 1615.36,
+    "text": " - Something like that."
+  },
+  {
+    "start": 1615.36,
+    "end": 1616.56,
+    "text": " - Wow, that's amazing."
+  },
+  {
+    "start": 1616.56,
+    "end": 1618.8,
+    "text": " - I also did once, played mini golf in a place"
+  },
+  {
+    "start": 1618.8,
+    "end": 1622.36,
+    "text": " that had crocodiles sort of roaming around the world."
+  },
+  {
+    "start": 1622.36,
+    "end": 1624.52,
+    "text": " - Yes, yeah, there's that one golf course"
+  },
+  {
+    "start": 1624.52,
+    "end": 1627.52,
+    "text": " where the lake literally has giant snappy crocodiles,"
+  },
+  {
+    "start": 1627.52,
+    "end": 1628.36,
+    "text": " which is amazing."
+  },
+  {
+    "start": 1628.36,
+    "end": 1629.96,
+    "text": " - You just have to stay away from them, basically."
+  },
+  {
+    "start": 1629.96,
+    "end": 1632.36,
+    "text": " - Yeah, okay, we're in London now."
+  },
+  {
+    "start": 1632.36,
+    "end": 1633.2,
+    "text": " - We are."
+  },
+  {
+    "start": 1633.2,
+    "end": 1634.16,
+    "text": " - Right? - Yeah, no crocodiles."
+  },
+  {
+    "start": 1634.16,
+    "end": 1638.56,
+    "text": " - No, no crocodiles, but some cowboys quite near here,"
+  },
+  {
+    "start": 1638.56,
+    "end": 1642,
+    "text": " there is a secret cowboy town in the middle of Kent."
+  },
+  {
+    "start": 1642,
+    "end": 1643.96,
+    "text": " - Really? - Yeah."
+  },
+  {
+    "start": 1643.96,
+    "end": 1647.08,
+    "text": " It's called Laredo, it's founded in 1971,"
+  },
+  {
+    "start": 1647.08,
+    "end": 1648.16,
+    "text": " and they've got a blacksmith,"
+  },
+  {
+    "start": 1648.16,
+    "end": 1651.08,
+    "text": " they've got an undertaker, a tobacconist."
+  },
+  {
+    "start": 1651.08,
+    "end": 1654.08,
+    "text": " - Like a working, these early models."
+  },
+  {
+    "start": 1654.08,
+    "end": 1656.92,
+    "text": " - It's life-size, and it's kind of functional."
+  },
+  {
+    "start": 1656.92,
+    "end": 1659.24,
+    "text": " So it was founded by a bloke called John Trudeau,"
+  },
+  {
+    "start": 1659.24,
+    "end": 1661.44,
+    "text": " who was a pig farmer, and he just loved the Wild West,"
+  },
+  {
+    "start": 1661.44,
+    "end": 1663.2,
+    "text": " and he just wanted to recreate the Wild West"
+  },
+  {
+    "start": 1663.2,
+    "end": 1664.36,
+    "text": " in his corner of Kent."
+  },
+  {
+    "start": 1664.36,
+    "end": 1667.24,
+    "text": " It's members only, and they go there at weekends,"
+  },
+  {
+    "start": 1667.24,
+    "end": 1670,
+    "text": " and they recreate life in the Old West."
+  },
+  {
+    "start": 1670,
+    "end": 1670.84,
+    "text": " - Cool."
+  },
+  {
+    "start": 1670.84,
+    "end": 1671.76,
+    "text": " - Yeah, you can get a half an hour train"
+  },
+  {
+    "start": 1671.76,
+    "end": 1673.92,
+    "text": " from London and arrive in Laredo."
+  },
+  {
+    "start": 1673.92,
+    "end": 1675.2,
+    "text": " - And they won't let you in."
+  },
+  {
+    "start": 1675.2,
+    "end": 1676.56,
+    "text": " - They won't let you in, no, no."
+  },
+  {
+    "start": 1676.56,
+    "end": 1678.64,
+    "text": " - There's like a random Wild West in Morningside,"
+  },
+  {
+    "start": 1678.64,
+    "end": 1679.48,
+    "text": " in Edinburgh."
+  },
+  {
+    "start": 1679.48,
+    "end": 1681.48,
+    "text": " Like it's just, you go like through an archway,"
+  },
+  {
+    "start": 1681.48,
+    "end": 1684,
+    "text": " and it's just a Wild West, like behind a bank of the flats."
+  },
+  {
+    "start": 1684,
+    "end": 1685.44,
+    "text": " Yeah, it's just there."
+  },
+  {
+    "start": 1685.44,
+    "end": 1687.92,
+    "text": " - I read about it, it was created by a furniture shop,"
+  },
+  {
+    "start": 1687.92,
+    "end": 1690.76,
+    "text": " for some reason, it's called the Great American Indoors,"
+  },
+  {
+    "start": 1690.76,
+    "end": 1692.52,
+    "text": " the shop, and they made their own new Wild West."
+  },
+  {
+    "start": 1692.52,
+    "end": 1693.36,
+    "text": " - Yeah, it's not advertised."
+  },
+  {
+    "start": 1693.36,
+    "end": 1694.6,
+    "text": " Then we'll say, have you seen the Wild West?"
+  },
+  {
+    "start": 1694.6,
+    "end": 1696.28,
+    "text": " And you'll be like, no, we're in Scotland,"
+  },
+  {
+    "start": 1696.28,
+    "end": 1697.6,
+    "text": " and they'd say, oh, it's just over there,"
+  },
+  {
+    "start": 1697.6,
+    "end": 1698.44,
+    "text": " and you go and look."
+  },
+  {
+    "start": 1698.44,
+    "end": 1699.28,
+    "text": " - That's so weird."
+  },
+  {
+    "start": 1699.28,
+    "end": 1700.84,
+    "text": " - And that one you can just walk into."
+  },
+  {
+    "start": 1700.84,
+    "end": 1702,
+    "text": " - It's just like behind some flats, yeah."
+  },
+  {
+    "start": 1702,
+    "end": 1702.84,
+    "text": " - So weird."
+  },
+  {
+    "start": 1702.84,
+    "end": 1704.84,
+    "text": " - Does the piano player always stop whenever there's someone?"
+  },
+  {
+    "start": 1704.84,
+    "end": 1706,
+    "text": " - No, but there's like always these planes"
+  },
+  {
+    "start": 1706,
+    "end": 1708.28,
+    "text": " coming down with ropes, so it's very strange."
+  },
+  {
+    "start": 1708.28,
+    "end": 1710.86,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 1710.86,
+    "end": 1716.8,
+    "text": " - Okay, it is time for fact number three,"
+  },
+  {
+    "start": 1716.8,
+    "end": 1719,
+    "text": " and that is James."
+  },
+  {
+    "start": 1719,
+    "end": 1721.76,
+    "text": " - Okay, my fact this week is that one of the best ways"
+  },
+  {
+    "start": 1721.76,
+    "end": 1725.92,
+    "text": " to trick puffins to a new nesting ground is with mirrors,"
+  },
+  {
+    "start": 1725.92,
+    "end": 1727.32,
+    "text": " because they like to be in groups"
+  },
+  {
+    "start": 1727.32,
+    "end": 1729.68,
+    "text": " and can't tell the difference between a puffin"
+  },
+  {
+    "start": 1729.68,
+    "end": 1731.46,
+    "text": " and the reflection of a puffin."
+  },
+  {
+    "start": 1731.46,
+    "end": 1734.04,
+    "text": " - So they fail the mirror test."
+  },
+  {
+    "start": 1734.04,
+    "end": 1735.44,
+    "text": " They don't know that they are."
+  },
+  {
+    "start": 1735.44,
+    "end": 1739,
+    "text": " - Yeah, the mirror test is a thing with animals."
+  },
+  {
+    "start": 1739,
+    "end": 1742.68,
+    "text": " Some animals, if you show them a reflection of themselves"
+  },
+  {
+    "start": 1742.68,
+    "end": 1744.04,
+    "text": " and put a little mark on their head,"
+  },
+  {
+    "start": 1744.04,
+    "end": 1745.52,
+    "text": " they'll realize that it's them,"
+  },
+  {
+    "start": 1745.52,
+    "end": 1747.56,
+    "text": " and they'll try and wipe it off,"
+  },
+  {
+    "start": 1747.56,
+    "end": 1749,
+    "text": " whereas most animals won't do that."
+  },
+  {
+    "start": 1749,
+    "end": 1751.64,
+    "text": " They won't see, they'll see a mirror image of themselves"
+  },
+  {
+    "start": 1751.64,
+    "end": 1753.36,
+    "text": " and think it's another animal."
+  },
+  {
+    "start": 1753.36,
+    "end": 1757.88,
+    "text": " And in fact, humans, my daughter only did it a few weeks ago,"
+  },
+  {
+    "start": 1757.88,
+    "end": 1759.28,
+    "text": " and she's what, 14 months."
+  },
+  {
+    "start": 1759.28,
+    "end": 1761.72,
+    "text": " So it's until that age is the first time you get to do that,"
+  },
+  {
+    "start": 1761.72,
+    "end": 1764.04,
+    "text": " so babies don't know it either."
+  },
+  {
+    "start": 1764.04,
+    "end": 1766.84,
+    "text": " But this is all about a guy called Stephen Kress,"
+  },
+  {
+    "start": 1766.84,
+    "end": 1770.28,
+    "text": " and he was working about trying to get puffins"
+  },
+  {
+    "start": 1770.28,
+    "end": 1771.24,
+    "text": " into a new area."
+  },
+  {
+    "start": 1771.24,
+    "end": 1773.28,
+    "text": " In fact, they'd been in that area before,"
+  },
+  {
+    "start": 1773.28,
+    "end": 1775.52,
+    "text": " but he wanted to get them back into that area"
+  },
+  {
+    "start": 1775.52,
+    "end": 1777.48,
+    "text": " on the East Coast of America."
+  },
+  {
+    "start": 1777.48,
+    "end": 1779.44,
+    "text": " And one of the ways that he did that"
+  },
+  {
+    "start": 1779.44,
+    "end": 1781.76,
+    "text": " was by making these decoys."
+  },
+  {
+    "start": 1781.76,
+    "end": 1784.68,
+    "text": " You can make actual decoys of little puffins,"
+  },
+  {
+    "start": 1784.68,
+    "end": 1786.16,
+    "text": " but one good way of doing it is mirrors,"
+  },
+  {
+    "start": 1786.16,
+    "end": 1788.6,
+    "text": " 'cause you can get multiple puffins."
+  },
+  {
+    "start": 1788.6,
+    "end": 1790.56,
+    "text": " - Oh yeah, hall of mirrors, like kaleidoscope stuff."
+  },
+  {
+    "start": 1790.56,
+    "end": 1791.4,
+    "text": " - Yeah, yeah."
+  },
+  {
+    "start": 1791.4,
+    "end": 1793.28,
+    "text": " Unfortunately, they saw someone that were really tall,"
+  },
+  {
+    "start": 1793.28,
+    "end": 1794.96,
+    "text": " someone that were really tall."
+  },
+  {
+    "start": 1794.96,
+    "end": 1795.8,
+    "text": " - Yeah, yeah, yeah."
+  },
+  {
+    "start": 1795.8,
+    "end": 1797.88,
+    "text": " This mission he was on, 'cause Stephen Kress,"
+  },
+  {
+    "start": 1797.88,
+    "end": 1798.72,
+    "text": " it sounds like a great guy."
+  },
+  {
+    "start": 1798.72,
+    "end": 1800.8,
+    "text": " He's been working on this for about 30 years, 40 years?"
+  },
+  {
+    "start": 1800.8,
+    "end": 1802.64,
+    "text": " - It's 1969."
+  },
+  {
+    "start": 1802.64,
+    "end": 1804.68,
+    "text": " - It's a long career in puffinology."
+  },
+  {
+    "start": 1804.68,
+    "end": 1806.16,
+    "text": " And he, so he and his colleagues,"
+  },
+  {
+    "start": 1806.16,
+    "end": 1807.8,
+    "text": " they went to a breeding colony,"
+  },
+  {
+    "start": 1807.8,
+    "end": 1812.16,
+    "text": " which was healthy in Newfoundland, just Canada."
+  },
+  {
+    "start": 1812.16,
+    "end": 1813.88,
+    "text": " And they basically, they had to kidnap"
+  },
+  {
+    "start": 1813.88,
+    "end": 1815.36,
+    "text": " loads of baby puffins."
+  },
+  {
+    "start": 1815.36,
+    "end": 1817.48,
+    "text": " - Yeah, the start of the story is a bit dodgy, isn't it?"
+  },
+  {
+    "start": 1817.48,
+    "end": 1820.28,
+    "text": " - It's a real villain-to-hero arc,"
+  },
+  {
+    "start": 1820.28,
+    "end": 1821.92,
+    "text": " I think he and his colleagues went on,"
+  },
+  {
+    "start": 1821.92,
+    "end": 1823.68,
+    "text": " 'cause they start off as puffin kidnappers, you know?"
+  },
+  {
+    "start": 1823.68,
+    "end": 1824.8,
+    "text": " - At the start, people are just like,"
+  },
+  {
+    "start": 1824.8,
+    "end": 1827.6,
+    "text": " \"What are you doing, stealing all those puffins?\""
+  },
+  {
+    "start": 1827.6,
+    "end": 1829.16,
+    "text": " - They shoved them in soup cans,"
+  },
+  {
+    "start": 1829.16,
+    "end": 1831.6,
+    "text": " which I like, to transport them all the way"
+  },
+  {
+    "start": 1831.6,
+    "end": 1833.04,
+    "text": " to their new home."
+  },
+  {
+    "start": 1833.04,
+    "end": 1835.36,
+    "text": " But then, then, then, then there's the twist,"
+  },
+  {
+    "start": 1835.36,
+    "end": 1836.8,
+    "text": " the character twist, where he and his colleagues"
+  },
+  {
+    "start": 1836.8,
+    "end": 1839.68,
+    "text": " became puffin nannies, looking after them,"
+  },
+  {
+    "start": 1839.68,
+    "end": 1841.8,
+    "text": " breeding them up on this new island in Maine."
+  },
+  {
+    "start": 1841.8,
+    "end": 1843.28,
+    "text": " And they put them in these fake burrows,"
+  },
+  {
+    "start": 1843.28,
+    "end": 1845.92,
+    "text": " which they had dug, and they fed them,"
+  },
+  {
+    "start": 1845.92,
+    "end": 1847.28,
+    "text": " they left fish in there,"
+  },
+  {
+    "start": 1847.28,
+    "end": 1849.04,
+    "text": " and he constructed all these decoy puffins."
+  },
+  {
+    "start": 1849.04,
+    "end": 1851.76,
+    "text": " And then, the thing is that the puffins go to sea,"
+  },
+  {
+    "start": 1851.76,
+    "end": 1853.4,
+    "text": " eventually, when they become kind of teenagers,"
+  },
+  {
+    "start": 1853.4,
+    "end": 1854.96,
+    "text": " they gain their independence, they go off,"
+  },
+  {
+    "start": 1854.96,
+    "end": 1856.72,
+    "text": " and then, he waited for years,"
+  },
+  {
+    "start": 1856.72,
+    "end": 1858.52,
+    "text": " hoping they would come back to the island."
+  },
+  {
+    "start": 1858.52,
+    "end": 1861.08,
+    "text": " - 'Cause the question is, would they go back to Newfoundland,"
+  },
+  {
+    "start": 1861.08,
+    "end": 1864.24,
+    "text": " where their kind of genes say that they should be living,"
+  },
+  {
+    "start": 1864.24,
+    "end": 1866.72,
+    "text": " or will they remember where they lived as babies,"
+  },
+  {
+    "start": 1866.72,
+    "end": 1868.92,
+    "text": " and then come back to that place, and in the end?"
+  },
+  {
+    "start": 1868.92,
+    "end": 1870,
+    "text": " - In the end, they came back."
+  },
+  {
+    "start": 1870,
+    "end": 1871.8,
+    "text": " But I think, only in the third year,"
+  },
+  {
+    "start": 1871.8,
+    "end": 1873.36,
+    "text": " it was a few years before they did,"
+  },
+  {
+    "start": 1873.36,
+    "end": 1874.32,
+    "text": " and he was getting really worried,"
+  },
+  {
+    "start": 1874.32,
+    "end": 1876.2,
+    "text": " and then, eventually, he built loads of decoys,"
+  },
+  {
+    "start": 1876.2,
+    "end": 1877.8,
+    "text": " and that kind of leered them back."
+  },
+  {
+    "start": 1877.8,
+    "end": 1879.2,
+    "text": " - Right, okay, that's very good."
+  },
+  {
+    "start": 1879.2,
+    "end": 1881.8,
+    "text": " - I was reading about puffins' ministry of silly walks,"
+  },
+  {
+    "start": 1881.8,
+    "end": 1883.76,
+    "text": " so when they want to show that they're not any,"
+  },
+  {
+    "start": 1883.76,
+    "end": 1884.8,
+    "text": " 'cause they live quite close together,"
+  },
+  {
+    "start": 1884.8,
+    "end": 1887.28,
+    "text": " they live in burrows, and so, if you want to cross across,"
+  },
+  {
+    "start": 1887.28,
+    "end": 1888.88,
+    "text": " you'll probably cross lots of other territories,"
+  },
+  {
+    "start": 1888.88,
+    "end": 1890.68,
+    "text": " and if you don't want to start a fight,"
+  },
+  {
+    "start": 1890.68,
+    "end": 1892.48,
+    "text": " they do this like, \"Hey, don't mind me walk,\""
+  },
+  {
+    "start": 1892.48,
+    "end": 1894.48,
+    "text": " where they lower their head,"
+  },
+  {
+    "start": 1894.48,
+    "end": 1895.72,
+    "text": " and they sort of walk quite quickly,"
+  },
+  {
+    "start": 1895.72,
+    "end": 1897.12,
+    "text": " in trying not to get noticed."
+  },
+  {
+    "start": 1897.12,
+    "end": 1898.2,
+    "text": " But if they're on guard duty,"
+  },
+  {
+    "start": 1898.2,
+    "end": 1899.68,
+    "text": " they'll stand outside their burrows nice and tall,"
+  },
+  {
+    "start": 1899.68,
+    "end": 1900.88,
+    "text": " and they'll sort of stamp their feet,"
+  },
+  {
+    "start": 1900.88,
+    "end": 1902.92,
+    "text": " like an exaggerated guard doing a march."
+  },
+  {
+    "start": 1902.92,
+    "end": 1904.44,
+    "text": " - Wow. - Okay, that's a real idea,"
+  },
+  {
+    "start": 1904.44,
+    "end": 1907.12,
+    "text": " of like, \"I'm on patrol, and don't mind me, just over here.\""
+  },
+  {
+    "start": 1907.12,
+    "end": 1908.56,
+    "text": " - That's great. - And that's really funny."
+  },
+  {
+    "start": 1908.56,
+    "end": 1910.4,
+    "text": " - And they take over rabbit burrows as well."
+  },
+  {
+    "start": 1910.4,
+    "end": 1911.4,
+    "text": " I love that they don't even need"
+  },
+  {
+    "start": 1911.4,
+    "end": 1914.08,
+    "text": " to just dig their own burrows, they're just, yeah."
+  },
+  {
+    "start": 1914.08,
+    "end": 1917.2,
+    "text": " - They can make their own burrows if they want to."
+  },
+  {
+    "start": 1917.2,
+    "end": 1920.4,
+    "text": " And actually, sometimes rabbits take their burrows."
+  },
+  {
+    "start": 1920.4,
+    "end": 1922.72,
+    "text": " There's a whole little ecosystem going on there."
+  },
+  {
+    "start": 1922.72,
+    "end": 1924.04,
+    "text": " - That's pretty cool. - I went to the Isle of May"
+  },
+  {
+    "start": 1924.04,
+    "end": 1926.08,
+    "text": " a few years ago, which is off the east coast of Scotland,"
+  },
+  {
+    "start": 1926.08,
+    "end": 1929.12,
+    "text": " and you've got tons and tons of seabirds, loads of puffins,"
+  },
+  {
+    "start": 1929.12,
+    "end": 1930.16,
+    "text": " and there's certain bits where like,"
+  },
+  {
+    "start": 1930.16,
+    "end": 1931.64,
+    "text": " you cannot stray off the path,"
+  },
+  {
+    "start": 1931.64,
+    "end": 1934.08,
+    "text": " because the island is just covered in puffin burrows,"
+  },
+  {
+    "start": 1934.08,
+    "end": 1936.16,
+    "text": " so you've got to walk on the bits that they know are safe,"
+  },
+  {
+    "start": 1936.16,
+    "end": 1937.08,
+    "text": " which is really cool."
+  },
+  {
+    "start": 1937.08,
+    "end": 1939.56,
+    "text": " - Back to Steven Kress very quickly."
+  },
+  {
+    "start": 1939.56,
+    "end": 1943.2,
+    "text": " He had a big problem with gulls."
+  },
+  {
+    "start": 1943.2,
+    "end": 1946.64,
+    "text": " Seagulls would attack the puffins,"
+  },
+  {
+    "start": 1946.64,
+    "end": 1949.92,
+    "text": " because seagulls had been living in this area"
+  },
+  {
+    "start": 1949.92,
+    "end": 1951.8,
+    "text": " long before the puffins came back."
+  },
+  {
+    "start": 1951.8,
+    "end": 1953.52,
+    "text": " So he tried a few different things."
+  },
+  {
+    "start": 1953.52,
+    "end": 1957.16,
+    "text": " He attracted turns, which are like bigger than puffins,"
+  },
+  {
+    "start": 1957.16,
+    "end": 1959.6,
+    "text": " but smaller than gulls, and they'll kind of attack the gulls"
+  },
+  {
+    "start": 1959.6,
+    "end": 1961.44,
+    "text": " to stop them from coming in there."
+  },
+  {
+    "start": 1961.44,
+    "end": 1964.68,
+    "text": " And he also had a thing called a death sandwich,"
+  },
+  {
+    "start": 1964.68,
+    "end": 1970.2,
+    "text": " which is where his arc of being the evil puffin thief,"
+  },
+  {
+    "start": 1970.2,
+    "end": 1973.24,
+    "text": " and then the nice puffin nurse, then at the end,"
+  },
+  {
+    "start": 1973.24,
+    "end": 1975.6,
+    "text": " he becomes the gull killer,"
+  },
+  {
+    "start": 1975.6,
+    "end": 1977.32,
+    "text": " because he puts these death sandwiches,"
+  },
+  {
+    "start": 1977.32,
+    "end": 1980.8,
+    "text": " which is some bread with something called starlicide in,"
+  },
+  {
+    "start": 1980.8,
+    "end": 1982.64,
+    "text": " and starlicide is a chemical,"
+  },
+  {
+    "start": 1982.64,
+    "end": 1985.28,
+    "text": " which is really toxic to starlings and seagulls,"
+  },
+  {
+    "start": 1985.28,
+    "end": 1987.88,
+    "text": " but not toxic to any other animals."
+  },
+  {
+    "start": 1987.88,
+    "end": 1990.56,
+    "text": " He would put those out, which would kill the seagulls."
+  },
+  {
+    "start": 1990.56,
+    "end": 1992,
+    "text": " - Where's his arc sitting now?"
+  },
+  {
+    "start": 1992,
+    "end": 1993.36,
+    "text": " - I think it's good."
+  },
+  {
+    "start": 1993.36,
+    "end": 1995.32,
+    "text": " - If we were doing a fact about gulls, it's not good."
+  },
+  {
+    "start": 1995.32,
+    "end": 1996.32,
+    "text": " - Exactly, but we're not."
+  },
+  {
+    "start": 1996.32,
+    "end": 1998,
+    "text": " We're doing a fact about puffins."
+  },
+  {
+    "start": 1998,
+    "end": 2001.6,
+    "text": " - Sorry, my fact this week is that the evil gull killer,"
+  },
+  {
+    "start": 2001.6,
+    "end": 2004,
+    "text": " Steven Kress, and there are still,"
+  },
+  {
+    "start": 2004,
+    "end": 2005.16,
+    "text": " I think there are still puffiniers,"
+  },
+  {
+    "start": 2005.16,
+    "end": 2006.84,
+    "text": " as they call themselves, who have to go to the island"
+  },
+  {
+    "start": 2006.84,
+    "end": 2009.28,
+    "text": " to keep it healthy for the puffins,"
+  },
+  {
+    "start": 2009.28,
+    "end": 2013.24,
+    "text": " and prevent the gulls from taking root there."
+  },
+  {
+    "start": 2013.24,
+    "end": 2017,
+    "text": " And they have to smash up their nests,"
+  },
+  {
+    "start": 2017,
+    "end": 2018.32,
+    "text": " and they also, I love this,"
+  },
+  {
+    "start": 2018.32,
+    "end": 2019.6,
+    "text": " they have a robot mannequin,"
+  },
+  {
+    "start": 2019.6,
+    "end": 2021.16,
+    "text": " which is dressed in a yellow coat"
+  },
+  {
+    "start": 2021.16,
+    "end": 2023.32,
+    "text": " and an Arnold Schwarzenegger mask, right?"
+  },
+  {
+    "start": 2023.32,
+    "end": 2024.6,
+    "text": " And they inflate that."
+  },
+  {
+    "start": 2024.6,
+    "end": 2025.68,
+    "text": " I know, it sounds terrifying,"
+  },
+  {
+    "start": 2025.68,
+    "end": 2028.12,
+    "text": " and they inflate that to try and scare off the gulls."
+  },
+  {
+    "start": 2028.12,
+    "end": 2029.56,
+    "text": " It's a scarecrow, basically."
+  },
+  {
+    "start": 2029.56,
+    "end": 2030.76,
+    "text": " But the only problem is,"
+  },
+  {
+    "start": 2030.76,
+    "end": 2034.16,
+    "text": " the gulls will eventually realize this is a motionless,"
+  },
+  {
+    "start": 2034.16,
+    "end": 2036.12,
+    "text": " it's not an effective, scary thing,"
+  },
+  {
+    "start": 2036.12,
+    "end": 2037.64,
+    "text": " 'cause it just sits there, it doesn't do anything."
+  },
+  {
+    "start": 2037.64,
+    "end": 2039.56,
+    "text": " So sometimes what the puffiniers will have to do is,"
+  },
+  {
+    "start": 2039.56,
+    "end": 2041.04,
+    "text": " they will have to dress up,"
+  },
+  {
+    "start": 2041.04,
+    "end": 2043.6,
+    "text": " they have to put on the yellow coat and the mask,"
+  },
+  {
+    "start": 2043.6,
+    "end": 2045.88,
+    "text": " and then go around shooting gulls on the island"
+  },
+  {
+    "start": 2045.88,
+    "end": 2048.04,
+    "text": " to prove that it's a dangerous thing,"
+  },
+  {
+    "start": 2048.04,
+    "end": 2050.32,
+    "text": " so the gulls realize what they're doing."
+  },
+  {
+    "start": 2050.32,
+    "end": 2051.28,
+    "text": " - I just can't help thinking,"
+  },
+  {
+    "start": 2051.28,
+    "end": 2052.64,
+    "text": " what if Arnold Schwarzenegger books"
+  },
+  {
+    "start": 2052.64,
+    "end": 2056.08,
+    "text": " a nice relaxing break, and the gulls don't know if it happens?"
+  },
+  {
+    "start": 2056.08,
+    "end": 2059,
+    "text": " - The island's off the coast of Maine, lovely."
+  },
+  {
+    "start": 2059,
+    "end": 2059.84,
+    "text": " - Jesus."
+  },
+  {
+    "start": 2059.84,
+    "end": 2060.68,
+    "text": " - I know."
+  },
+  {
+    "start": 2060.68,
+    "end": 2061.52,
+    "text": " - That's bad."
+  },
+  {
+    "start": 2061.52,
+    "end": 2063,
+    "text": " - But that's what it takes to, you know,"
+  },
+  {
+    "start": 2063,
+    "end": 2065.4,
+    "text": " get puffins up and running again, I'm all for it."
+  },
+  {
+    "start": 2065.4,
+    "end": 2067.48,
+    "text": " - I think there's a lot of gray areas,"
+  },
+  {
+    "start": 2067.48,
+    "end": 2068.32,
+    "text": " I'm looking after puffins,"
+  },
+  {
+    "start": 2068.32,
+    "end": 2070.8,
+    "text": " 'cause I was reading about there's some numbers"
+  },
+  {
+    "start": 2070.8,
+    "end": 2071.92,
+    "text": " that are declining very sadly,"
+  },
+  {
+    "start": 2071.92,
+    "end": 2073.64,
+    "text": " and there's some concerns that perhaps"
+  },
+  {
+    "start": 2073.64,
+    "end": 2074.48,
+    "text": " it's the food they're eating,"
+  },
+  {
+    "start": 2074.48,
+    "end": 2075.32,
+    "text": " they're not getting the right fish,"
+  },
+  {
+    "start": 2075.32,
+    "end": 2076.48,
+    "text": " the fish are getting smaller,"
+  },
+  {
+    "start": 2076.48,
+    "end": 2079.16,
+    "text": " and there's one study where to do this,"
+  },
+  {
+    "start": 2079.16,
+    "end": 2081.36,
+    "text": " they would put up a massive net to catch a puffin,"
+  },
+  {
+    "start": 2081.36,
+    "end": 2084.52,
+    "text": " then take all its fish off them to examine the fish."
+  },
+  {
+    "start": 2084.52,
+    "end": 2087.12,
+    "text": " Doesn't say whether they gave the fish back."
+  },
+  {
+    "start": 2087.12,
+    "end": 2088.56,
+    "text": " - Oh, right, yeah, yeah."
+  },
+  {
+    "start": 2088.56,
+    "end": 2089.64,
+    "text": " Their fishing is amazing,"
+  },
+  {
+    "start": 2089.64,
+    "end": 2093.44,
+    "text": " because often they will have sort of depleted the area"
+  },
+  {
+    "start": 2093.44,
+    "end": 2094.72,
+    "text": " that's closest to an island,"
+  },
+  {
+    "start": 2094.72,
+    "end": 2095.76,
+    "text": " where they're fishing,"
+  },
+  {
+    "start": 2095.76,
+    "end": 2097.96,
+    "text": " and so they have to go on these huge journeys"
+  },
+  {
+    "start": 2097.96,
+    "end": 2099,
+    "text": " in order to get the fish,"
+  },
+  {
+    "start": 2099,
+    "end": 2101.08,
+    "text": " to bring back for their starving kids"
+  },
+  {
+    "start": 2101.08,
+    "end": 2102.88,
+    "text": " who eat like four or five times a day."
+  },
+  {
+    "start": 2102.88,
+    "end": 2104.36,
+    "text": " And I watched this footage, it's amazing,"
+  },
+  {
+    "start": 2104.36,
+    "end": 2106.16,
+    "text": " it was a David Attenborough, Planet Earth,"
+  },
+  {
+    "start": 2106.16,
+    "end": 2108.44,
+    "text": " they fly 50 kilometers out to sea,"
+  },
+  {
+    "start": 2108.44,
+    "end": 2110.68,
+    "text": " 50 kilometers, there's a whole group of them"
+  },
+  {
+    "start": 2110.68,
+    "end": 2112.16,
+    "text": " that just go in one go,"
+  },
+  {
+    "start": 2112.16,
+    "end": 2113.8,
+    "text": " they dive down into the ocean,"
+  },
+  {
+    "start": 2113.8,
+    "end": 2115.96,
+    "text": " and they have an amazing swimming ability,"
+  },
+  {
+    "start": 2115.96,
+    "end": 2118.32,
+    "text": " they can swim for up to a minute holding their breath,"
+  },
+  {
+    "start": 2118.32,
+    "end": 2119.72,
+    "text": " and they use their wings,"
+  },
+  {
+    "start": 2119.72,
+    "end": 2122.44,
+    "text": " like we would use our arms if we were doing front crawl,"
+  },
+  {
+    "start": 2122.44,
+    "end": 2123.48,
+    "text": " as they make their way,"
+  },
+  {
+    "start": 2123.48,
+    "end": 2125.2,
+    "text": " they can go 40 meters deep,"
+  },
+  {
+    "start": 2125.2,
+    "end": 2126.84,
+    "text": " they come back up when they caught a fish,"
+  },
+  {
+    "start": 2126.84,
+    "end": 2130.76,
+    "text": " it's just one fish in most cases in this footage,"
+  },
+  {
+    "start": 2130.76,
+    "end": 2133.92,
+    "text": " they fly them back 50 kilometers again,"
+  },
+  {
+    "start": 2133.92,
+    "end": 2135.32,
+    "text": " and then when they get there,"
+  },
+  {
+    "start": 2135.32,
+    "end": 2136.44,
+    "text": " very similar to the gulls."
+  },
+  {
+    "start": 2136.44,
+    "end": 2137.28,
+    "text": " - Oh, the kids don't want to eat it."
+  },
+  {
+    "start": 2137.28,
+    "end": 2138.86,
+    "text": " - No, they refuse to eat it."
+  },
+  {
+    "start": 2138.86,
+    "end": 2140.44,
+    "text": " - No, I'll have fish yesterday."
+  },
+  {
+    "start": 2140.44,
+    "end": 2142.08,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2142.08,
+    "end": 2144.16,
+    "text": " - There are birds, which are called optic skewers,"
+  },
+  {
+    "start": 2144.16,
+    "end": 2146.68,
+    "text": " who are waiting for them as they come back,"
+  },
+  {
+    "start": 2146.68,
+    "end": 2149.16,
+    "text": " knackered, and they swoop down,"
+  },
+  {
+    "start": 2149.16,
+    "end": 2150.44,
+    "text": " and they steal the fish off them."
+  },
+  {
+    "start": 2150.44,
+    "end": 2152.48,
+    "text": " It's an amazing shot in this Planet Earth documentary,"
+  },
+  {
+    "start": 2152.48,
+    "end": 2154.36,
+    "text": " because suddenly, one of them gets back,"
+  },
+  {
+    "start": 2154.36,
+    "end": 2156.92,
+    "text": " because a guy wearing an Arnold Schwarzenegger mask"
+  },
+  {
+    "start": 2156.92,
+    "end": 2158.48,
+    "text": " is suddenly shooting, say?"
+  },
+  {
+    "start": 2158.48,
+    "end": 2159.4,
+    "text": " No, that doesn't happen,"
+  },
+  {
+    "start": 2159.4,
+    "end": 2161.32,
+    "text": " but you're 100 kilometer round trip,"
+  },
+  {
+    "start": 2161.32,
+    "end": 2163.32,
+    "text": " and then the skewers come for one fish."
+  },
+  {
+    "start": 2163.32,
+    "end": 2165.84,
+    "text": " - Other skewers, they're sort of famously pirate birds,"
+  },
+  {
+    "start": 2165.84,
+    "end": 2166.68,
+    "text": " aren't they?"
+  },
+  {
+    "start": 2166.68,
+    "end": 2167.52,
+    "text": " - Exactly."
+  },
+  {
+    "start": 2167.52,
+    "end": 2168.36,
+    "text": " - Don't they, I think I might be making this up,"
+  },
+  {
+    "start": 2168.36,
+    "end": 2170.64,
+    "text": " do they squeeze other birds to make them vomit up"
+  },
+  {
+    "start": 2170.64,
+    "end": 2172.2,
+    "text": " whatever they've just eaten,"
+  },
+  {
+    "start": 2172.2,
+    "end": 2173.04,
+    "text": " and then eat them?"
+  },
+  {
+    "start": 2173.04,
+    "end": 2173.88,
+    "text": " - They're definitely villains."
+  },
+  {
+    "start": 2173.88,
+    "end": 2175.24,
+    "text": " - So that might be skewers, yeah."
+  },
+  {
+    "start": 2175.24,
+    "end": 2176.92,
+    "text": " - There is a bird that does that, yeah."
+  },
+  {
+    "start": 2176.92,
+    "end": 2178.64,
+    "text": " - The thing with skewers, well,"
+  },
+  {
+    "start": 2178.64,
+    "end": 2182.44,
+    "text": " you pronounce them skewers, skewers, skewers, skewers."
+  },
+  {
+    "start": 2182.44,
+    "end": 2185.52,
+    "text": " The puffins can carry more than one fish,"
+  },
+  {
+    "start": 2185.52,
+    "end": 2188.84,
+    "text": " because they have skewers on their tongue, don't they?"
+  },
+  {
+    "start": 2188.84,
+    "end": 2191,
+    "text": " They have spiky bits on their tongue,"
+  },
+  {
+    "start": 2191,
+    "end": 2193.76,
+    "text": " that they can attach one fish onto each spike,"
+  },
+  {
+    "start": 2193.76,
+    "end": 2195.12,
+    "text": " and then go down for another one."
+  },
+  {
+    "start": 2195.12,
+    "end": 2196.12,
+    "text": " - But if they get attacked,"
+  },
+  {
+    "start": 2196.12,
+    "end": 2198.64,
+    "text": " that's a skewer's crisis, you know?"
+  },
+  {
+    "start": 2198.64,
+    "end": 2199.48,
+    "text": " - Brilliant."
+  },
+  {
+    "start": 2199.48,
+    "end": 2200.32,
+    "text": " - Oh, lovely, thank you."
+  },
+  {
+    "start": 2200.32,
+    "end": 2201.16,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2201.16,
+    "end": 2202.64,
+    "text": " - But part of the reason they're so good at swimming"
+  },
+  {
+    "start": 2202.64,
+    "end": 2204.28,
+    "text": " is their bones are dense, and other birds,"
+  },
+  {
+    "start": 2204.28,
+    "end": 2205.44,
+    "text": " they find it easy to swim,"
+  },
+  {
+    "start": 2205.44,
+    "end": 2207.2,
+    "text": " but they can find it harder to fly."
+  },
+  {
+    "start": 2207.2,
+    "end": 2208.6,
+    "text": " So did you read about these puffin patrols,"
+  },
+  {
+    "start": 2208.6,
+    "end": 2209.44,
+    "text": " they have in Iceland."
+  },
+  {
+    "start": 2209.44,
+    "end": 2210.28,
+    "text": " These are definitely good guys,"
+  },
+  {
+    "start": 2210.28,
+    "end": 2211.52,
+    "text": " not a gray area for these ones."
+  },
+  {
+    "start": 2211.52,
+    "end": 2214.12,
+    "text": " So basically when the little pufflings, the baby ones,"
+  },
+  {
+    "start": 2214.12,
+    "end": 2216.04,
+    "text": " they use the moon to navigate,"
+  },
+  {
+    "start": 2216.04,
+    "end": 2217.32,
+    "text": " but the streetlights come through them off,"
+  },
+  {
+    "start": 2217.32,
+    "end": 2219.24,
+    "text": " so they sort of crash land in the town."
+  },
+  {
+    "start": 2219.24,
+    "end": 2221.52,
+    "text": " And so the whole town is basically united"
+  },
+  {
+    "start": 2221.52,
+    "end": 2222.64,
+    "text": " to like save these pufflings."
+  },
+  {
+    "start": 2222.64,
+    "end": 2224.56,
+    "text": " They go out on patrol, they try and find them,"
+  },
+  {
+    "start": 2224.56,
+    "end": 2226.8,
+    "text": " and if you find a puffling, like you have to look after it,"
+  },
+  {
+    "start": 2226.8,
+    "end": 2227.92,
+    "text": " so they'll like take them to the cliff,"
+  },
+  {
+    "start": 2227.92,
+    "end": 2229.96,
+    "text": " and then they either will hot it down"
+  },
+  {
+    "start": 2229.96,
+    "end": 2231.84,
+    "text": " so it can like trot along and catch the breeze,"
+  },
+  {
+    "start": 2231.84,
+    "end": 2234.48,
+    "text": " or you just lob it into the air and hope it takes flight."
+  },
+  {
+    "start": 2234.48,
+    "end": 2235.8,
+    "text": " - What? - And lob it into the air"
+  },
+  {
+    "start": 2235.8,
+    "end": 2236.64,
+    "text": " in the hope? - Yeah, to get,"
+  },
+  {
+    "start": 2236.64,
+    "end": 2238.36,
+    "text": " 'cause they need to get the momentum to get up"
+  },
+  {
+    "start": 2238.36,
+    "end": 2239.56,
+    "text": " if it throws. - Oh, but you're catching it"
+  },
+  {
+    "start": 2239.56,
+    "end": 2240.4,
+    "text": " if it doesn't, right?"
+  },
+  {
+    "start": 2240.4,
+    "end": 2241.24,
+    "text": " It's going off a cliff."
+  },
+  {
+    "start": 2241.24,
+    "end": 2242.8,
+    "text": " - What if it sprained its wing?"
+  },
+  {
+    "start": 2242.8,
+    "end": 2244.84,
+    "text": " - Hopefully you checked that on the way in."
+  },
+  {
+    "start": 2244.84,
+    "end": 2246.36,
+    "text": " - I don't know, I don't think these guys sound"
+  },
+  {
+    "start": 2246.36,
+    "end": 2249.08,
+    "text": " like an uncomplicatedly benevolent thought."
+  },
+  {
+    "start": 2249.08,
+    "end": 2251.08,
+    "text": " Why don't they turn their streetlights off?"
+  },
+  {
+    "start": 2251.08,
+    "end": 2252.48,
+    "text": " That's what a real good guy would do."
+  },
+  {
+    "start": 2252.48,
+    "end": 2255.28,
+    "text": " - I feel like the terminal velocity of a puffin"
+  },
+  {
+    "start": 2255.28,
+    "end": 2258.6,
+    "text": " wouldn't be fast enough that they would die."
+  },
+  {
+    "start": 2258.6,
+    "end": 2260.44,
+    "text": " I think they might be all right,"
+  },
+  {
+    "start": 2260.44,
+    "end": 2261.96,
+    "text": " 'cause they're quite small, aren't they?"
+  },
+  {
+    "start": 2261.96,
+    "end": 2262.8,
+    "text": " - They're really tiny."
+  },
+  {
+    "start": 2262.8,
+    "end": 2263.88,
+    "text": " - If it's the babies as well,"
+  },
+  {
+    "start": 2263.88,
+    "end": 2266.08,
+    "text": " then they'll have a really low terminal velocity."
+  },
+  {
+    "start": 2266.08,
+    "end": 2267.24,
+    "text": " - Maybe. - You can survive."
+  },
+  {
+    "start": 2267.24,
+    "end": 2269.84,
+    "text": " Like, didn't Gordon Ramsay fall off a cliff"
+  },
+  {
+    "start": 2269.84,
+    "end": 2270.84,
+    "text": " when he was looking for puffins?"
+  },
+  {
+    "start": 2270.84,
+    "end": 2272.44,
+    "text": " - The thing about Gordon Ramsay"
+  },
+  {
+    "start": 2272.44,
+    "end": 2275.8,
+    "text": " is his terminal velocity is famously low, isn't it?"
+  },
+  {
+    "start": 2275.8,
+    "end": 2276.64,
+    "text": " - Yeah, yeah, yeah, yeah."
+  },
+  {
+    "start": 2276.64,
+    "end": 2278.04,
+    "text": " - 85 feet, I think it was, he fell off a cliff."
+  },
+  {
+    "start": 2278.04,
+    "end": 2279.72,
+    "text": " - I imagine when he falls,"
+  },
+  {
+    "start": 2279.72,
+    "end": 2282.88,
+    "text": " he's got like lots of flapping skin on his body"
+  },
+  {
+    "start": 2282.88,
+    "end": 2284,
+    "text": " and that kind of, yeah. - Oh, great."
+  },
+  {
+    "start": 2284,
+    "end": 2286.72,
+    "text": " He turns into one of those gliding parachuters."
+  },
+  {
+    "start": 2286.72,
+    "end": 2288.4,
+    "text": " - Flight fox. - Yeah."
+  },
+  {
+    "start": 2288.4,
+    "end": 2290.12,
+    "text": " - Sorry, why'd Gordon Ramsay fall off a cliff"
+  },
+  {
+    "start": 2290.12,
+    "end": 2291.36,
+    "text": " when he was looking for puffins?"
+  },
+  {
+    "start": 2291.36,
+    "end": 2292.2,
+    "text": " - Do you know what?"
+  },
+  {
+    "start": 2292.2,
+    "end": 2293.52,
+    "text": " This is a story just in the back of my head."
+  },
+  {
+    "start": 2293.52,
+    "end": 2294.96,
+    "text": " I'm gonna connect it to puffins."
+  },
+  {
+    "start": 2294.96,
+    "end": 2296.36,
+    "text": " He was doing a documentary"
+  },
+  {
+    "start": 2296.36,
+    "end": 2298.56,
+    "text": " and he was looking at the various island."
+  },
+  {
+    "start": 2298.56,
+    "end": 2299.72,
+    "text": " He was on the side of a cliff"
+  },
+  {
+    "start": 2299.72,
+    "end": 2301.84,
+    "text": " and they were filming him and he just disappeared."
+  },
+  {
+    "start": 2301.84,
+    "end": 2303.88,
+    "text": " Yeah, and he fell down and he survived."
+  },
+  {
+    "start": 2303.88,
+    "end": 2305.2,
+    "text": " Yeah. - I don't believe that."
+  },
+  {
+    "start": 2305.2,
+    "end": 2306.24,
+    "text": " - It's true. - Is it?"
+  },
+  {
+    "start": 2306.24,
+    "end": 2307.08,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2307.08,
+    "end": 2309.6,
+    "text": " - I think Gordon Ramsay is an honorable guy."
+  },
+  {
+    "start": 2309.6,
+    "end": 2311.28,
+    "text": " I don't see why he would lie."
+  },
+  {
+    "start": 2311.28,
+    "end": 2312.48,
+    "text": " - Presumably, it's on film."
+  },
+  {
+    "start": 2312.48,
+    "end": 2313.72,
+    "text": " - I think they never released the film."
+  },
+  {
+    "start": 2313.72,
+    "end": 2315.16,
+    "text": " - Oh, they accidentally turned off the film"
+  },
+  {
+    "start": 2315.16,
+    "end": 2317.72,
+    "text": " before he fell 80 feet and survived."
+  },
+  {
+    "start": 2317.72,
+    "end": 2320.04,
+    "text": " - 85, 85. - 85."
+  },
+  {
+    "start": 2320.04,
+    "end": 2322.96,
+    "text": " - What's that, 25 meters."
+  },
+  {
+    "start": 2322.96,
+    "end": 2324.68,
+    "text": " Survival, it must have been a big patch of Heather"
+  },
+  {
+    "start": 2324.68,
+    "end": 2326.76,
+    "text": " he landed on, or whatever it was."
+  },
+  {
+    "start": 2326.76,
+    "end": 2330.32,
+    "text": " - It's a big pile of other TV chefs"
+  },
+  {
+    "start": 2330.32,
+    "end": 2331.56,
+    "text": " previously fallen down there."
+  },
+  {
+    "start": 2331.56,
+    "end": 2334.8,
+    "text": " - Bounced off of Laurel Thompson, fortunately for him."
+  },
+  {
+    "start": 2334.8,
+    "end": 2337.52,
+    "text": " There's a thing which a lot of people say about puffins"
+  },
+  {
+    "start": 2337.52,
+    "end": 2339.04,
+    "text": " which is that they're monogamous."
+  },
+  {
+    "start": 2339.04,
+    "end": 2341.12,
+    "text": " You know, they have the same partner every year"
+  },
+  {
+    "start": 2341.12,
+    "end": 2342.76,
+    "text": " and that's very nice."
+  },
+  {
+    "start": 2342.76,
+    "end": 2345.28,
+    "text": " Well, it turns out, I think it is actually true"
+  },
+  {
+    "start": 2345.28,
+    "end": 2347.4,
+    "text": " 'cause a load of birds, it's not true."
+  },
+  {
+    "start": 2347.4,
+    "end": 2352.24,
+    "text": " And they study EPCs, extra pair copulations."
+  },
+  {
+    "start": 2352.24,
+    "end": 2353.08,
+    "text": " That's the, do you remember?"
+  },
+  {
+    "start": 2353.08,
+    "end": 2355.24,
+    "text": " I think we've mentioned this once or twice before."
+  },
+  {
+    "start": 2355.24,
+    "end": 2356.8,
+    "text": " But they did a study of Atlantic puffins"
+  },
+  {
+    "start": 2356.8,
+    "end": 2358.28,
+    "text": " looking at extra pair heritage"
+  },
+  {
+    "start": 2358.28,
+    "end": 2359.4,
+    "text": " 'cause now we've got DNA tests"
+  },
+  {
+    "start": 2359.4,
+    "end": 2362.4,
+    "text": " we can actually sample species."
+  },
+  {
+    "start": 2362.4,
+    "end": 2364.16,
+    "text": " And they are basically monogamous."
+  },
+  {
+    "start": 2364.16,
+    "end": 2365.48,
+    "text": " They are-- - Good for them."
+  },
+  {
+    "start": 2365.48,
+    "end": 2368.84,
+    "text": " - I know, so you know, no gray areas there."
+  },
+  {
+    "start": 2368.84,
+    "end": 2370.68,
+    "text": " It's a nice circle. - No Jerry Springer"
+  },
+  {
+    "start": 2370.68,
+    "end": 2372,
+    "text": " in the-- - No Jerry Springer."
+  },
+  {
+    "start": 2372,
+    "end": 2373.48,
+    "text": " Every DNA test comes back."
+  },
+  {
+    "start": 2373.48,
+    "end": 2376.4,
+    "text": " Yep, it's all fine, you are a father, great news."
+  },
+  {
+    "start": 2376.4,
+    "end": 2379.8,
+    "text": " - My current favorite puffin fact is that"
+  },
+  {
+    "start": 2379.8,
+    "end": 2382.76,
+    "text": " there is scientists creating sunglasses for puffins."
+  },
+  {
+    "start": 2382.76,
+    "end": 2384.68,
+    "text": " - Okay, why? - Because,"
+  },
+  {
+    "start": 2384.68,
+    "end": 2386.72,
+    "text": " I don't know how this happened, but they had a puffin"
+  },
+  {
+    "start": 2386.72,
+    "end": 2389.28,
+    "text": " and they realized that it's beak lit up under UV light."
+  },
+  {
+    "start": 2389.28,
+    "end": 2390.4,
+    "text": " - Okay. - Oh, you just got there."
+  },
+  {
+    "start": 2390.4,
+    "end": 2392.56,
+    "text": " - But the puffin was no longer alive."
+  },
+  {
+    "start": 2392.56,
+    "end": 2393.8,
+    "text": " So they're not completely sure"
+  },
+  {
+    "start": 2393.8,
+    "end": 2395.84,
+    "text": " if it's some sort of the way it decomposes"
+  },
+  {
+    "start": 2395.84,
+    "end": 2397.44,
+    "text": " or whether all puffins do this."
+  },
+  {
+    "start": 2397.44,
+    "end": 2399.48,
+    "text": " So to test it, they need to get some alive puffins"
+  },
+  {
+    "start": 2399.48,
+    "end": 2400.84,
+    "text": " and try and UV on them."
+  },
+  {
+    "start": 2400.84,
+    "end": 2401.88,
+    "text": " But that could hurt their eyes."
+  },
+  {
+    "start": 2401.88,
+    "end": 2404.6,
+    "text": " They got to design little sunglasses to amuse themselves."
+  },
+  {
+    "start": 2404.6,
+    "end": 2405.8,
+    "text": " They've made them aviators."
+  },
+  {
+    "start": 2405.8,
+    "end": 2407.12,
+    "text": " - Okay, cool. - That's brilliant."
+  },
+  {
+    "start": 2407.12,
+    "end": 2409.24,
+    "text": " - What did they find? - I believe still pending."
+  },
+  {
+    "start": 2409.24,
+    "end": 2411.4,
+    "text": " - Still pending. - You'll find a puffin,"
+  },
+  {
+    "start": 2411.4,
+    "end": 2413.08,
+    "text": " give it the sunglasses, shine the light,"
+  },
+  {
+    "start": 2413.08,
+    "end": 2413.92,
+    "text": " and then report back."
+  },
+  {
+    "start": 2413.92,
+    "end": 2415.32,
+    "text": " Because their beaks do change a lot, right?"
+  },
+  {
+    "start": 2415.32,
+    "end": 2416.6,
+    "text": " There's an outer beak that falls off,"
+  },
+  {
+    "start": 2416.6,
+    "end": 2418.36,
+    "text": " the color changes at different seasons."
+  },
+  {
+    "start": 2418.36,
+    "end": 2420.36,
+    "text": " - No, the beak falls off in winter."
+  },
+  {
+    "start": 2420.36,
+    "end": 2422.24,
+    "text": " - And it leaves them with what I found described"
+  },
+  {
+    "start": 2422.24,
+    "end": 2424.52,
+    "text": " in one article as a drab gray pecker."
+  },
+  {
+    "start": 2424.52,
+    "end": 2426.2,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2426.2,
+    "end": 2427.48,
+    "text": " - My old tinder profile."
+  },
+  {
+    "start": 2427.48,
+    "end": 2429.32,
+    "text": " - That's amazing."
+  },
+  {
+    "start": 2429.32,
+    "end": 2431.44,
+    "text": " - I know, young puffins are just completely gray."
+  },
+  {
+    "start": 2431.44,
+    "end": 2433.12,
+    "text": " They sound so boring."
+  },
+  {
+    "start": 2433.12,
+    "end": 2433.96,
+    "text": " Just gray all the way through."
+  },
+  {
+    "start": 2433.96,
+    "end": 2435.56,
+    "text": " Gray beak, gray everything."
+  },
+  {
+    "start": 2435.56,
+    "end": 2437.4,
+    "text": " - I always thought that was your favorite fact of all time."
+  },
+  {
+    "start": 2437.4,
+    "end": 2439.04,
+    "text": " - It was one of my very, very first facts I ever felt"
+  },
+  {
+    "start": 2439.04,
+    "end": 2439.88,
+    "text": " for a QI. - Which one?"
+  },
+  {
+    "start": 2439.88,
+    "end": 2442.08,
+    "text": " - That a baby puffin is called a puffling."
+  },
+  {
+    "start": 2442.08,
+    "end": 2446.52,
+    "text": " But now, puffins, you notice they're on everything."
+  },
+  {
+    "start": 2446.52,
+    "end": 2447.68,
+    "text": " Puffins are everywhere now."
+  },
+  {
+    "start": 2447.68,
+    "end": 2450.08,
+    "text": " So many kids' books about pufflings."
+  },
+  {
+    "start": 2450.08,
+    "end": 2451.52,
+    "text": " And someone I know who works in publishing"
+  },
+  {
+    "start": 2451.52,
+    "end": 2454.8,
+    "text": " used to keep a list of which animals were on trend."
+  },
+  {
+    "start": 2454.8,
+    "end": 2456.68,
+    "text": " So you will have noticed it in me without realizing."
+  },
+  {
+    "start": 2456.68,
+    "end": 2459.88,
+    "text": " So for a while, it was sloths, they were on everything."
+  },
+  {
+    "start": 2459.88,
+    "end": 2462.24,
+    "text": " It was flamingos for a while."
+  },
+  {
+    "start": 2462.24,
+    "end": 2464.56,
+    "text": " Llamas used to have a phase where they were on everything."
+  },
+  {
+    "start": 2464.56,
+    "end": 2465.4,
+    "text": " And I think puffins."
+  },
+  {
+    "start": 2465.4,
+    "end": 2466.52,
+    "text": " - Is it like children's books, do you mean?"
+  },
+  {
+    "start": 2466.52,
+    "end": 2469.36,
+    "text": " - Just like in paper chase or on clothing."
+  },
+  {
+    "start": 2469.36,
+    "end": 2470.2,
+    "text": " You could just notice it."
+  },
+  {
+    "start": 2470.2,
+    "end": 2471.4,
+    "text": " - Mirror cats were massive."
+  },
+  {
+    "start": 2471.4,
+    "end": 2473.48,
+    "text": " - Yeah, certain animals seem to like have their moment."
+  },
+  {
+    "start": 2473.48,
+    "end": 2476.64,
+    "text": " And I'm not quite sure why or how, but they do."
+  },
+  {
+    "start": 2476.64,
+    "end": 2478.56,
+    "text": " - But it's never the disgusting toad worm, is it?"
+  },
+  {
+    "start": 2478.56,
+    "end": 2479.4,
+    "text": " It's never like the--"
+  },
+  {
+    "start": 2479.4,
+    "end": 2481.08,
+    "text": " - He can be spring 2024, aren't they?"
+  },
+  {
+    "start": 2481.08,
+    "end": 2482.16,
+    "text": " - Never the penis worm, is it?"
+  },
+  {
+    "start": 2482.16,
+    "end": 2483.8,
+    "text": " - Yes. (laughs)"
+  },
+  {
+    "start": 2483.8,
+    "end": 2485.88,
+    "text": " - And do you feel slightly responsible for that?"
+  },
+  {
+    "start": 2485.88,
+    "end": 2488.08,
+    "text": " Because I think you're partly responsible"
+  },
+  {
+    "start": 2488.08,
+    "end": 2490.88,
+    "text": " for disseminating the adorable puffling fact."
+  },
+  {
+    "start": 2490.88,
+    "end": 2492.16,
+    "text": " - Because that fact has come out"
+  },
+  {
+    "start": 2492.16,
+    "end": 2494.64,
+    "text": " of various different QI iterations over the years."
+  },
+  {
+    "start": 2494.64,
+    "end": 2495.64,
+    "text": " - I did put it in a lot of things."
+  },
+  {
+    "start": 2495.64,
+    "end": 2496.48,
+    "text": " - Yeah, yeah, yeah."
+  },
+  {
+    "start": 2496.48,
+    "end": 2497.32,
+    "text": " - Yeah, no, after all,"
+  },
+  {
+    "start": 2497.32,
+    "end": 2498.64,
+    "text": " there's tons of puffling stuff up there."
+  },
+  {
+    "start": 2498.64,
+    "end": 2500.16,
+    "text": " And they're super cute, so."
+  },
+  {
+    "start": 2500.16,
+    "end": 2503.76,
+    "text": " You used to get enormous flocks of puffins, didn't you?"
+  },
+  {
+    "start": 2503.76,
+    "end": 2504.8,
+    "text": " In the UK as well."
+  },
+  {
+    "start": 2504.8,
+    "end": 2507.24,
+    "text": " So the island of St. Kilda."
+  },
+  {
+    "start": 2507.24,
+    "end": 2511.4,
+    "text": " This was two people called Hertha and Don in 1897."
+  },
+  {
+    "start": 2511.4,
+    "end": 2513.88,
+    "text": " And they said that the puffins are in such numbers,"
+  },
+  {
+    "start": 2513.88,
+    "end": 2516.4,
+    "text": " the clouds of birds sweep past us"
+  },
+  {
+    "start": 2516.4,
+    "end": 2519,
+    "text": " and make a sound like a whirlwind."
+  },
+  {
+    "start": 2519,
+    "end": 2522.04,
+    "text": " And another one said that it made a great cloud"
+  },
+  {
+    "start": 2522.04,
+    "end": 2525.6,
+    "text": " that perceptively interfered with the light of day."
+  },
+  {
+    "start": 2525.6,
+    "end": 2528.04,
+    "text": " And that parasites fell off the birds"
+  },
+  {
+    "start": 2528.04,
+    "end": 2531.92,
+    "text": " as they swarmed over us, much to our discomfort and annoyance."
+  },
+  {
+    "start": 2531.92,
+    "end": 2534.68,
+    "text": " So you can imagine there's like millions of these birds"
+  },
+  {
+    "start": 2534.68,
+    "end": 2537.16,
+    "text": " just blocking out the sun and flying over you"
+  },
+  {
+    "start": 2537.16,
+    "end": 2539.04,
+    "text": " and dropping the ticks on you and stuff."
+  },
+  {
+    "start": 2539.04,
+    "end": 2539.88,
+    "text": " - Yeah, yeah."
+  },
+  {
+    "start": 2539.88,
+    "end": 2540.72,
+    "text": " - It's been incredible."
+  },
+  {
+    "start": 2540.72,
+    "end": 2541.6,
+    "text": " - Very cool."
+  },
+  {
+    "start": 2541.6,
+    "end": 2546,
+    "text": " In St. Kilda, there was one man who caught 620 puffins"
+  },
+  {
+    "start": 2546,
+    "end": 2547.4,
+    "text": " in a single day."
+  },
+  {
+    "start": 2547.4,
+    "end": 2548.56,
+    "text": " - Lesser of them?"
+  },
+  {
+    "start": 2548.56,
+    "end": 2550.4,
+    "text": " - Yeah, using a noose, no rod."
+  },
+  {
+    "start": 2550.4,
+    "end": 2551.48,
+    "text": " - No way."
+  },
+  {
+    "start": 2551.48,
+    "end": 2552.48,
+    "text": " Sorry to jump in on you there."
+  },
+  {
+    "start": 2552.48,
+    "end": 2553.32,
+    "text": " - No, no."
+  },
+  {
+    "start": 2553.32,
+    "end": 2554.16,
+    "text": " - I didn't expect it was gonna be that."
+  },
+  {
+    "start": 2554.16,
+    "end": 2555,
+    "text": " Wow."
+  },
+  {
+    "start": 2555,
+    "end": 2555.84,
+    "text": " - Yeah, pretty much a Lesser."
+  },
+  {
+    "start": 2555.84,
+    "end": 2556.68,
+    "text": " That's what they used to use."
+  },
+  {
+    "start": 2556.68,
+    "end": 2559.56,
+    "text": " Sort of like fishing rods, but with a better rope on the end."
+  },
+  {
+    "start": 2559.56,
+    "end": 2561.36,
+    "text": " - That's what this cat lady was using in the second one."
+  },
+  {
+    "start": 2561.36,
+    "end": 2562.2,
+    "text": " - Oh yeah."
+  },
+  {
+    "start": 2562.2,
+    "end": 2563.04,
+    "text": " - Yeah, yeah, yeah."
+  },
+  {
+    "start": 2563.04,
+    "end": 2563.88,
+    "text": " Wow."
+  },
+  {
+    "start": 2563.88,
+    "end": 2564.72,
+    "text": " - That's very cool."
+  },
+  {
+    "start": 2564.72,
+    "end": 2565.56,
+    "text": " - That's amazing."
+  },
+  {
+    "start": 2565.56,
+    "end": 2567.16,
+    "text": " - There are some places where the puffins are eaten,"
+  },
+  {
+    "start": 2567.16,
+    "end": 2568,
+    "text": " aren't there?"
+  },
+  {
+    "start": 2568,
+    "end": 2568.84,
+    "text": " - Iceland."
+  },
+  {
+    "start": 2568.84,
+    "end": 2570,
+    "text": " - Yeah, Faroe Islands."
+  },
+  {
+    "start": 2570,
+    "end": 2571.32,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2571.32,
+    "end": 2573.28,
+    "text": " Am I allowed to say I've eaten them in Iceland?"
+  },
+  {
+    "start": 2573.28,
+    "end": 2574.12,
+    "text": " - Have you?"
+  },
+  {
+    "start": 2574.12,
+    "end": 2574.96,
+    "text": " - Have you?"
+  },
+  {
+    "start": 2574.96,
+    "end": 2575.8,
+    "text": " - What did it taste like?"
+  },
+  {
+    "start": 2575.8,
+    "end": 2577.04,
+    "text": " - It was a long time ago."
+  },
+  {
+    "start": 2577.04,
+    "end": 2578.16,
+    "text": " - Oh, it was the 80s."
+  },
+  {
+    "start": 2578.16,
+    "end": 2579.8,
+    "text": " Yeah, yeah, yeah, yeah, yeah."
+  },
+  {
+    "start": 2579.8,
+    "end": 2581.2,
+    "text": " - Not that long ago."
+  },
+  {
+    "start": 2581.2,
+    "end": 2582.76,
+    "text": " - What did it taste like?"
+  },
+  {
+    "start": 2582.76,
+    "end": 2587.56,
+    "text": " - To me, I thought it just tasted like fishy, oily,"
+  },
+  {
+    "start": 2587.56,
+    "end": 2589.16,
+    "text": " not chicken, but like..."
+  },
+  {
+    "start": 2589.16,
+    "end": 2590.2,
+    "text": " - More like fish than like me."
+  },
+  {
+    "start": 2590.2,
+    "end": 2591.96,
+    "text": " - Quail-y kind of stuff."
+  },
+  {
+    "start": 2591.96,
+    "end": 2595.08,
+    "text": " Like, game-y, fishy, chicken."
+  },
+  {
+    "start": 2595.08,
+    "end": 2596.72,
+    "text": " - It's a gray area."
+  },
+  {
+    "start": 2596.72,
+    "end": 2598.32,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2598.32,
+    "end": 2599.68,
+    "text": " - Why is that gray area?"
+  },
+  {
+    "start": 2599.68,
+    "end": 2601.44,
+    "text": " - No, I guess everything we're saying about the puffins"
+  },
+  {
+    "start": 2601.44,
+    "end": 2602.52,
+    "text": " is sort of like, you know,"
+  },
+  {
+    "start": 2602.52,
+    "end": 2603.76,
+    "text": " you've got to kill them to save them."
+  },
+  {
+    "start": 2603.76,
+    "end": 2604.6,
+    "text": " - How's that being,"
+  },
+  {
+    "start": 2604.6,
+    "end": 2606.36,
+    "text": " they're much more endangered than they used to be."
+  },
+  {
+    "start": 2606.36,
+    "end": 2607.2,
+    "text": " - Yeah, yeah."
+  },
+  {
+    "start": 2607.2,
+    "end": 2608.04,
+    "text": " - So you have to..."
+  },
+  {
+    "start": 2608.04,
+    "end": 2608.88,
+    "text": " - Certainly back in the day"
+  },
+  {
+    "start": 2608.88,
+    "end": 2610.72,
+    "text": " when I was eating puffin that one time,"
+  },
+  {
+    "start": 2610.72,
+    "end": 2611.96,
+    "text": " they were all over them."
+  },
+  {
+    "start": 2611.96,
+    "end": 2613.4,
+    "text": " You couldn't move in recubes."
+  },
+  {
+    "start": 2613.4,
+    "end": 2614.6,
+    "text": " - You were on some kill though, weren't you?"
+  },
+  {
+    "start": 2614.6,
+    "end": 2615.84,
+    "text": " And the skies were thick with them."
+  },
+  {
+    "start": 2615.84,
+    "end": 2617.44,
+    "text": " You were actually doing them all the favor, yeah, yeah."
+  },
+  {
+    "start": 2617.44,
+    "end": 2619.36,
+    "text": " - I was so hoping that when you were grasping"
+  },
+  {
+    "start": 2619.36,
+    "end": 2620.2,
+    "text": " for what they tasted like,"
+  },
+  {
+    "start": 2620.2,
+    "end": 2621.92,
+    "text": " you're gonna be like, \"No, a bit like panda.\""
+  },
+  {
+    "start": 2621.92,
+    "end": 2623.24,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2623.24,
+    "end": 2625.24,
+    "text": " - Like a cacopo taste to them."
+  },
+  {
+    "start": 2625.24,
+    "end": 2626.08,
+    "text": " - Yeah, but that's,"
+  },
+  {
+    "start": 2626.08,
+    "end": 2628.12,
+    "text": " I mean, lots of places eat."
+  },
+  {
+    "start": 2628.12,
+    "end": 2628.96,
+    "text": " People eat meat,"
+  },
+  {
+    "start": 2628.96,
+    "end": 2630.4,
+    "text": " and people eat the meats that are close to them."
+  },
+  {
+    "start": 2630.4,
+    "end": 2631.24,
+    "text": " - Exactly, yeah, yeah."
+  },
+  {
+    "start": 2631.24,
+    "end": 2632.68,
+    "text": " - But if a particular meat is endangered,"
+  },
+  {
+    "start": 2632.68,
+    "end": 2633.52,
+    "text": " then you'd change."
+  },
+  {
+    "start": 2633.52,
+    "end": 2635.56,
+    "text": " - Exactly, there was a whale on the menu,"
+  },
+  {
+    "start": 2635.56,
+    "end": 2636.4,
+    "text": " which I didn't eat."
+  },
+  {
+    "start": 2636.4,
+    "end": 2637.24,
+    "text": " - Wow."
+  },
+  {
+    "start": 2637.24,
+    "end": 2638.84,
+    "text": " - Does that help my archetyle?"
+  },
+  {
+    "start": 2638.84,
+    "end": 2639.68,
+    "text": " - Exhilarated, yeah."
+  },
+  {
+    "start": 2639.68,
+    "end": 2642.26,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 2642.26,
+    "end": 2648.28,
+    "text": " - Okay, it is time for our final fact of the show,"
+  },
+  {
+    "start": 2648.28,
+    "end": 2650.16,
+    "text": " and that is Andy."
+  },
+  {
+    "start": 2650.16,
+    "end": 2652.56,
+    "text": " - My fact is that trash talk works better"
+  },
+  {
+    "start": 2652.56,
+    "end": 2655.8,
+    "text": " on dance players than shot putters."
+  },
+  {
+    "start": 2655.8,
+    "end": 2657.56,
+    "text": " - Ah, call that a fact."
+  },
+  {
+    "start": 2657.56,
+    "end": 2658.4,
+    "text": " - There you go."
+  },
+  {
+    "start": 2658.4,
+    "end": 2659.24,
+    "text": " It begins."
+  },
+  {
+    "start": 2659.24,
+    "end": 2660.08,
+    "text": " It begins."
+  },
+  {
+    "start": 2660.08,
+    "end": 2661.4,
+    "text": " I should have known when I picked this fact."
+  },
+  {
+    "start": 2661.4,
+    "end": 2662.24,
+    "text": " Idiot."
+  },
+  {
+    "start": 2662.24,
+    "end": 2664.84,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2664.84,
+    "end": 2665.68,
+    "text": " - That's brilliant."
+  },
+  {
+    "start": 2665.68,
+    "end": 2668.4,
+    "text": " - Yeah, it's just a study of trash talk basically."
+  },
+  {
+    "start": 2668.4,
+    "end": 2669.4,
+    "text": " - Why would that be true?"
+  },
+  {
+    "start": 2669.4,
+    "end": 2671.32,
+    "text": " - Well, this comes from a piece in The Economist,"
+  },
+  {
+    "start": 2671.32,
+    "end": 2674.64,
+    "text": " and it's all about sledging and,"
+  },
+  {
+    "start": 2674.64,
+    "end": 2676.6,
+    "text": " which is cricket-based trash talk."
+  },
+  {
+    "start": 2676.6,
+    "end": 2678.6,
+    "text": " And, you know, sporting insults, basically."
+  },
+  {
+    "start": 2678.6,
+    "end": 2680.36,
+    "text": " You dish out to people you're in a competition against."
+  },
+  {
+    "start": 2680.36,
+    "end": 2682.8,
+    "text": " And it found that there have been studies conducted"
+  },
+  {
+    "start": 2682.8,
+    "end": 2686.04,
+    "text": " which have found that trash talk is especially effective"
+  },
+  {
+    "start": 2686.04,
+    "end": 2688.92,
+    "text": " at distracting players if you're in a sport"
+  },
+  {
+    "start": 2688.92,
+    "end": 2692.08,
+    "text": " that needs fine motor skills or creativity,"
+  },
+  {
+    "start": 2692.08,
+    "end": 2695.6,
+    "text": " rather than brute-strength exhibitions."
+  },
+  {
+    "start": 2695.6,
+    "end": 2697.08,
+    "text": " So sports where you need to concentrate"
+  },
+  {
+    "start": 2697.08,
+    "end": 2698.16,
+    "text": " are much more vulnerable,"
+  },
+  {
+    "start": 2698.16,
+    "end": 2702.44,
+    "text": " which is why maybe cricket is vulnerable to lots of trash talk."
+  },
+  {
+    "start": 2702.44,
+    "end": 2704.44,
+    "text": " Chess, you don't see a lot of smack talk in chess."
+  },
+  {
+    "start": 2704.44,
+    "end": 2705.28,
+    "text": " Yeah."
+  },
+  {
+    "start": 2705.28,
+    "end": 2708.08,
+    "text": " But you do, you get loads and, I mean, it's weird"
+  },
+  {
+    "start": 2708.08,
+    "end": 2710.68,
+    "text": " 'cause lots of sports have different tolerances of it."
+  },
+  {
+    "start": 2710.68,
+    "end": 2713.4,
+    "text": " You know, so cricket has loads of it."
+  },
+  {
+    "start": 2713.4,
+    "end": 2714.92,
+    "text": " Boxing has loads of it, although-"
+  },
+  {
+    "start": 2714.92,
+    "end": 2715.76,
+    "text": " - Yeah, boxing is tough."
+  },
+  {
+    "start": 2715.76,
+    "end": 2717.72,
+    "text": " - It doesn't, you shouldn't need to do any trash talk"
+  },
+  {
+    "start": 2717.72,
+    "end": 2719.2,
+    "text": " 'cause you're trying to hit someone hard anyway."
+  },
+  {
+    "start": 2719.2,
+    "end": 2720.04,
+    "text": " - No, it's psychological."
+  },
+  {
+    "start": 2720.04,
+    "end": 2721.88,
+    "text": " The whole thing is a psychological warfare, right?"
+  },
+  {
+    "start": 2721.88,
+    "end": 2724.32,
+    "text": " - And it's very skillful sport boxing, I would say."
+  },
+  {
+    "start": 2724.32,
+    "end": 2725.16,
+    "text": " - Is it?"
+  },
+  {
+    "start": 2725.16,
+    "end": 2726,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2726,
+    "end": 2726.84,
+    "text": " - I just thought you'd baster the other bloke, didn't you?"
+  },
+  {
+    "start": 2726.84,
+    "end": 2729.6,
+    "text": " - Well, that's one way of doing it."
+  },
+  {
+    "start": 2729.6,
+    "end": 2731.12,
+    "text": " Whatever, if you're a really good boxer,"
+  },
+  {
+    "start": 2731.12,
+    "end": 2731.96,
+    "text": " it's all about movement."
+  },
+  {
+    "start": 2731.96,
+    "end": 2733.8,
+    "text": " - Is this why my boxing career didn't..."
+  },
+  {
+    "start": 2733.8,
+    "end": 2735.04,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2735.04,
+    "end": 2736.36,
+    "text": " Saw like a puppet."
+  },
+  {
+    "start": 2736.36,
+    "end": 2737.64,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2737.64,
+    "end": 2738.96,
+    "text": " - I thought you'd like a giant potato."
+  },
+  {
+    "start": 2738.96,
+    "end": 2740.04,
+    "text": " - Yeah, yeah, yeah."
+  },
+  {
+    "start": 2740.04,
+    "end": 2740.88,
+    "text": " Oh, no."
+  },
+  {
+    "start": 2740.88,
+    "end": 2743.48,
+    "text": " - Yeah, no, that's a really good point."
+  },
+  {
+    "start": 2743.48,
+    "end": 2745.76,
+    "text": " In chess, I guess there is a lot of psychological stuff"
+  },
+  {
+    "start": 2745.76,
+    "end": 2747.44,
+    "text": " goes on, but it's not necessarily-"
+  },
+  {
+    "start": 2747.44,
+    "end": 2748.28,
+    "text": " - It's not normally-"
+  },
+  {
+    "start": 2748.28,
+    "end": 2749.12,
+    "text": " - Your shit."
+  },
+  {
+    "start": 2749.12,
+    "end": 2749.96,
+    "text": " - Your shit."
+  },
+  {
+    "start": 2749.96,
+    "end": 2750.8,
+    "text": " - Yeah, your shit."
+  },
+  {
+    "start": 2750.8,
+    "end": 2751.64,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2751.64,
+    "end": 2752.88,
+    "text": " - In basketball, it's a big thing."
+  },
+  {
+    "start": 2752.88,
+    "end": 2754.96,
+    "text": " And I grew up watching basketball,"
+  },
+  {
+    "start": 2754.96,
+    "end": 2756.64,
+    "text": " so you would always see it happening."
+  },
+  {
+    "start": 2756.64,
+    "end": 2758,
+    "text": " It's amazing when you see it happening,"
+  },
+  {
+    "start": 2758,
+    "end": 2760.84,
+    "text": " trash talking between the sort of top players in the league."
+  },
+  {
+    "start": 2760.84,
+    "end": 2761.68,
+    "text": " So-"
+  },
+  {
+    "start": 2761.68,
+    "end": 2762.52,
+    "text": " - Are they better at it?"
+  },
+  {
+    "start": 2762.52,
+    "end": 2764.72,
+    "text": " - No, they're sort of, it's just interesting watching them,"
+  },
+  {
+    "start": 2764.72,
+    "end": 2766.04,
+    "text": " 'cause they're all on mic, right?"
+  },
+  {
+    "start": 2766.04,
+    "end": 2767.76,
+    "text": " Basically, no, no, you can hear it,"
+  },
+  {
+    "start": 2767.76,
+    "end": 2769.36,
+    "text": " like you can hear it through the mics of the studio."
+  },
+  {
+    "start": 2769.36,
+    "end": 2770.68,
+    "text": " It comes through, you know."
+  },
+  {
+    "start": 2770.68,
+    "end": 2772.08,
+    "text": " - So they hear them saying like, oh."
+  },
+  {
+    "start": 2772.08,
+    "end": 2773.12,
+    "text": " - Yeah, exactly, you hear things."
+  },
+  {
+    "start": 2773.12,
+    "end": 2776.32,
+    "text": " So like, yeah, well, Shaquille O'Neal was up against,"
+  },
+  {
+    "start": 2776.32,
+    "end": 2778.24,
+    "text": " so Shaquille O'Neal, one of the all-time greats"
+  },
+  {
+    "start": 2778.24,
+    "end": 2779.64,
+    "text": " of basketball against Kobe Bryant,"
+  },
+  {
+    "start": 2779.64,
+    "end": 2780.96,
+    "text": " who was also one of the other."
+  },
+  {
+    "start": 2780.96,
+    "end": 2782.32,
+    "text": " And he was overheard saying,"
+  },
+  {
+    "start": 2782.32,
+    "end": 2784.64,
+    "text": " \"Kobe, tell me how my ass tastes,\""
+  },
+  {
+    "start": 2784.64,
+    "end": 2786.68,
+    "text": " as he was about to dunk on him, right?"
+  },
+  {
+    "start": 2786.68,
+    "end": 2787.52,
+    "text": " Like, they say-"
+  },
+  {
+    "start": 2787.52,
+    "end": 2789.24,
+    "text": " - What does that mean, dunk on him?"
+  },
+  {
+    "start": 2789.24,
+    "end": 2790.68,
+    "text": " - Dunk on him, that's disgusting."
+  },
+  {
+    "start": 2790.68,
+    "end": 2793.88,
+    "text": " - Dunking is when you bring the ball into the ring"
+  },
+  {
+    "start": 2793.88,
+    "end": 2795.44,
+    "text": " and you hold the ring, kind of thing."
+  },
+  {
+    "start": 2795.44,
+    "end": 2796.84,
+    "text": " - Why is he tasting his ass when he does that?"
+  },
+  {
+    "start": 2796.84,
+    "end": 2799.2,
+    "text": " - Because he's going so high that the face of Kobe"
+  },
+  {
+    "start": 2799.2,
+    "end": 2802.32,
+    "text": " would be, yeah, and then there's this thing in basketball"
+  },
+  {
+    "start": 2802.32,
+    "end": 2804.44,
+    "text": " where then you make someone taste your ass after you've-"
+  },
+  {
+    "start": 2804.44,
+    "end": 2805.28,
+    "text": " - Got it, okay."
+  },
+  {
+    "start": 2805.28,
+    "end": 2806.12,
+    "text": " - Yeah, that's a good point."
+  },
+  {
+    "start": 2806.12,
+    "end": 2807.88,
+    "text": " - Every day's a school day."
+  },
+  {
+    "start": 2807.88,
+    "end": 2810.36,
+    "text": " - In off the rim, sorry, sorry, sorry, sorry, sorry."
+  },
+  {
+    "start": 2810.36,
+    "end": 2812.92,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 2812.92,
+    "end": 2816.16,
+    "text": " - And one thing they did with this research"
+  },
+  {
+    "start": 2816.16,
+    "end": 2819.64,
+    "text": " you're talking about is they sat people at computers"
+  },
+  {
+    "start": 2819.64,
+    "end": 2823.08,
+    "text": " and you had to move a slider to a particular spot"
+  },
+  {
+    "start": 2823.08,
+    "end": 2825.4,
+    "text": " and see how many you could do in two minutes."
+  },
+  {
+    "start": 2825.4,
+    "end": 2828.32,
+    "text": " And as you did it, a little message would come up"
+  },
+  {
+    "start": 2828.32,
+    "end": 2830.8,
+    "text": " on your screen, supposedly from one of the other people"
+  },
+  {
+    "start": 2830.8,
+    "end": 2832.2,
+    "text": " doing the experiment."
+  },
+  {
+    "start": 2832.2,
+    "end": 2834.96,
+    "text": " And it would either say, \"I'm smarter and faster than you,\""
+  },
+  {
+    "start": 2834.96,
+    "end": 2837.24,
+    "text": " or, \"Let's see what happens.\""
+  },
+  {
+    "start": 2837.24,
+    "end": 2838.08,
+    "text": " - Hi, friend."
+  },
+  {
+    "start": 2838.08,
+    "end": 2839.08,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 2839.08,
+    "end": 2841.24,
+    "text": " - And they found, actually, that people"
+  },
+  {
+    "start": 2841.24,
+    "end": 2843.16,
+    "text": " who got the negative messages performed better"
+  },
+  {
+    "start": 2843.16,
+    "end": 2844.6,
+    "text": " overall in that one."
+  },
+  {
+    "start": 2844.6,
+    "end": 2846.56,
+    "text": " - I think this could spur you on."
+  },
+  {
+    "start": 2846.56,
+    "end": 2848.32,
+    "text": " You think I'm gonna lose, well, I'll just show you."
+  },
+  {
+    "start": 2848.32,
+    "end": 2849.16,
+    "text": " - Yeah, absolutely."
+  },
+  {
+    "start": 2849.16,
+    "end": 2850.92,
+    "text": " And that's what seemed to have happened in that one."
+  },
+  {
+    "start": 2850.92,
+    "end": 2852.84,
+    "text": " But then they tried it in a task"
+  },
+  {
+    "start": 2852.84,
+    "end": 2856.64,
+    "text": " which was slightly more skill-creative-based"
+  },
+  {
+    "start": 2856.64,
+    "end": 2858.72,
+    "text": " and they found that people did worse"
+  },
+  {
+    "start": 2858.72,
+    "end": 2861.04,
+    "text": " and they were more likely to cheat."
+  },
+  {
+    "start": 2861.04,
+    "end": 2861.88,
+    "text": " - Oh, yeah."
+  },
+  {
+    "start": 2861.88,
+    "end": 2863.52,
+    "text": " - 'Cause you turns it dirty, so you're like, \"Well.\""
+  },
+  {
+    "start": 2863.52,
+    "end": 2865.08,
+    "text": " - Yeah, yeah."
+  },
+  {
+    "start": 2865.08,
+    "end": 2869.16,
+    "text": " - I think one of them might have been the study"
+  },
+  {
+    "start": 2869.16,
+    "end": 2871.84,
+    "text": " by Karen McDermott, who was looking into this"
+  },
+  {
+    "start": 2871.84,
+    "end": 2873.4,
+    "text": " from the University of Connecticut."
+  },
+  {
+    "start": 2873.4,
+    "end": 2875.8,
+    "text": " And that involved people playing Mario Kart."
+  },
+  {
+    "start": 2875.8,
+    "end": 2879.08,
+    "text": " And before the game, some of the people were insulted"
+  },
+  {
+    "start": 2879.08,
+    "end": 2883.68,
+    "text": " with various things like, \"Grab a straw because you suck.\""
+  },
+  {
+    "start": 2883.68,
+    "end": 2884.52,
+    "text": " - Brilliant."
+  },
+  {
+    "start": 2884.52,
+    "end": 2885.36,
+    "text": " - And so on."
+  },
+  {
+    "start": 2885.36,
+    "end": 2886.48,
+    "text": " Yeah, I think she had to pick quite carefully"
+  },
+  {
+    "start": 2886.48,
+    "end": 2889.32,
+    "text": " because a lot of insults might be the, you know,"
+  },
+  {
+    "start": 2889.32,
+    "end": 2891.48,
+    "text": " homophobic, or racist, or sexist, or whatever."
+  },
+  {
+    "start": 2891.48,
+    "end": 2893.96,
+    "text": " So she had to pick a carefully delineated selection"
+  },
+  {
+    "start": 2893.96,
+    "end": 2897.04,
+    "text": " of insults, which were cruel enough to sting,"
+  },
+  {
+    "start": 2897.04,
+    "end": 2899.14,
+    "text": " \"Grab a straw because you suck,\" being one of them."
+  },
+  {
+    "start": 2899.14,
+    "end": 2902.24,
+    "text": " And the insulted players performed worse."
+  },
+  {
+    "start": 2902.24,
+    "end": 2903.84,
+    "text": " And they also rated themselves higher"
+  },
+  {
+    "start": 2903.84,
+    "end": 2905.96,
+    "text": " as having experienced anger and shame."
+  },
+  {
+    "start": 2905.96,
+    "end": 2906.8,
+    "text": " - Oh, no."
+  },
+  {
+    "start": 2906.8,
+    "end": 2907.8,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2907.8,
+    "end": 2909.88,
+    "text": " - But were they playing Rainbow Road?"
+  },
+  {
+    "start": 2909.88,
+    "end": 2911,
+    "text": " - If you're playing Rainbow Road,"
+  },
+  {
+    "start": 2911,
+    "end": 2913.2,
+    "text": " you always experience deep, deep shame"
+  },
+  {
+    "start": 2913.2,
+    "end": 2914.96,
+    "text": " and frustration and rage."
+  },
+  {
+    "start": 2914.96,
+    "end": 2916.36,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 2916.36,
+    "end": 2918.12,
+    "text": " So, yeah, but does it make you play better or worse?"
+  },
+  {
+    "start": 2918.12,
+    "end": 2919.76,
+    "text": " There seem to be slightly conflicting studies"
+  },
+  {
+    "start": 2919.76,
+    "end": 2920.6,
+    "text": " on whether or not--"
+  },
+  {
+    "start": 2920.6,
+    "end": 2921.44,
+    "text": " - I read a lot of different ones."
+  },
+  {
+    "start": 2921.44,
+    "end": 2922.28,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2922.28,
+    "end": 2923.12,
+    "text": " - And that's similar to what you were saying."
+  },
+  {
+    "start": 2923.12,
+    "end": 2924.44,
+    "text": " I also read, which just thought was a lovely point,"
+  },
+  {
+    "start": 2924.44,
+    "end": 2927.28,
+    "text": " that in a university study, you've got a university ethics code."
+  },
+  {
+    "start": 2927.28,
+    "end": 2928.7,
+    "text": " So what you can sledge someone with"
+  },
+  {
+    "start": 2928.7,
+    "end": 2930.22,
+    "text": " is kind of very different to what you can have"
+  },
+  {
+    "start": 2930.22,
+    "end": 2931.7,
+    "text": " like a whole stadium chanting at you"
+  },
+  {
+    "start": 2931.7,
+    "end": 2932.54,
+    "text": " in a basketball game."
+  },
+  {
+    "start": 2932.54,
+    "end": 2933.36,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2933.36,
+    "end": 2934.2,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2934.2,
+    "end": 2935.14,
+    "text": " - Oh, yeah, yeah, yeah."
+  },
+  {
+    "start": 2935.14,
+    "end": 2938.38,
+    "text": " I also like the weird social side of trash talking"
+  },
+  {
+    "start": 2938.38,
+    "end": 2940.06,
+    "text": " as well within professional sports,"
+  },
+  {
+    "start": 2940.06,
+    "end": 2942.02,
+    "text": " which is let's say a younger player"
+  },
+  {
+    "start": 2942.02,
+    "end": 2944.54,
+    "text": " if trying to trash talk and create a relationship"
+  },
+  {
+    "start": 2944.54,
+    "end": 2946.98,
+    "text": " of conflict, which would then be on the cameras."
+  },
+  {
+    "start": 2946.98,
+    "end": 2948.74,
+    "text": " And it's a way of social climbing."
+  },
+  {
+    "start": 2948.74,
+    "end": 2951.7,
+    "text": " So like, Michael Jordan, for example,"
+  },
+  {
+    "start": 2951.7,
+    "end": 2954.18,
+    "text": " would never trash talk whenever he was having it"
+  },
+  {
+    "start": 2954.18,
+    "end": 2956.42,
+    "text": " talk to him by like a rookie from a new team."
+  },
+  {
+    "start": 2956.42,
+    "end": 2958.56,
+    "text": " 'Cause he thinks, I'll let my game do the talking"
+  },
+  {
+    "start": 2958.56,
+    "end": 2960.72,
+    "text": " and I don't want, I will make you famous"
+  },
+  {
+    "start": 2960.72,
+    "end": 2962.02,
+    "text": " by trash talking with you."
+  },
+  {
+    "start": 2962.02,
+    "end": 2963.08,
+    "text": " So let's not get that."
+  },
+  {
+    "start": 2963.08,
+    "end": 2963.92,
+    "text": " - It's not worth it."
+  },
+  {
+    "start": 2963.92,
+    "end": 2967.84,
+    "text": " - I think it's worth us saying, off menu as shit."
+  },
+  {
+    "start": 2967.84,
+    "end": 2970,
+    "text": " - Yeah, um, Chris and Rosie Ramsey."
+  },
+  {
+    "start": 2970,
+    "end": 2970.84,
+    "text": " - Oh, Wankers."
+  },
+  {
+    "start": 2970.84,
+    "end": 2971.66,
+    "text": " - Yeah, yeah, yeah, yeah, yeah."
+  },
+  {
+    "start": 2971.66,
+    "end": 2972.72,
+    "text": " - How the hell, fuck you."
+  },
+  {
+    "start": 2972.72,
+    "end": 2973.56,
+    "text": " - Yeah, yeah."
+  },
+  {
+    "start": 2973.56,
+    "end": 2974.92,
+    "text": " - There's no point saying, you know,"
+  },
+  {
+    "start": 2974.92,
+    "end": 2977.32,
+    "text": " John's podcast about nothing."
+  },
+  {
+    "start": 2977.32,
+    "end": 2979.08,
+    "text": " - John's podcast about nothing is good, James."
+  },
+  {
+    "start": 2979.08,
+    "end": 2981.28,
+    "text": " I stand by, I've been listening."
+  },
+  {
+    "start": 2981.28,
+    "end": 2983.64,
+    "text": " I get all my facts from John's podcast about nothing."
+  },
+  {
+    "start": 2983.64,
+    "end": 2985.44,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2985.44,
+    "end": 2986.74,
+    "text": " - Shout out to John."
+  },
+  {
+    "start": 2986.74,
+    "end": 2987.58,
+    "text": " - Hello, John."
+  },
+  {
+    "start": 2987.58,
+    "end": 2989.82,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2989.82,
+    "end": 2995.06,
+    "text": " - One of my favorite sledges that I read"
+  },
+  {
+    "start": 2995.06,
+    "end": 2997.62,
+    "text": " was not so much a sledge, but as an AFL player"
+  },
+  {
+    "start": 2997.62,
+    "end": 2999.86,
+    "text": " called Stevie Baker and apparently during a game"
+  },
+  {
+    "start": 2999.86,
+    "end": 3001.22,
+    "text": " he leaned over to someone and said,"
+  },
+  {
+    "start": 3001.22,
+    "end": 3002.68,
+    "text": " \"Have you got a sausage dog?\""
+  },
+  {
+    "start": 3002.68,
+    "end": 3004.38,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3004.38,
+    "end": 3006.66,
+    "text": " And they spent the next 20 minutes just being like,"
+  },
+  {
+    "start": 3006.66,
+    "end": 3008.14,
+    "text": " \"What, what, what?\""
+  },
+  {
+    "start": 3008.14,
+    "end": 3008.98,
+    "text": " And they couldn't play."
+  },
+  {
+    "start": 3008.98,
+    "end": 3010.14,
+    "text": " It was the worst insult they've heard."
+  },
+  {
+    "start": 3010.14,
+    "end": 3010.98,
+    "text": " - What is it?"
+  },
+  {
+    "start": 3010.98,
+    "end": 3011.82,
+    "text": " I'm sorry."
+  },
+  {
+    "start": 3011.82,
+    "end": 3012.64,
+    "text": " - It turned out that Baker has a sausage dog."
+  },
+  {
+    "start": 3012.64,
+    "end": 3013.48,
+    "text": " He was just like."
+  },
+  {
+    "start": 3013.48,
+    "end": 3014.3,
+    "text": " - I'm just making chat."
+  },
+  {
+    "start": 3014.3,
+    "end": 3016.36,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3016.36,
+    "end": 3018.68,
+    "text": " This guy was like, he couldn't focus on the game."
+  },
+  {
+    "start": 3018.68,
+    "end": 3019.7,
+    "text": " He's like, \"What's he saying?"
+  },
+  {
+    "start": 3019.7,
+    "end": 3020.54,
+    "text": " \"Why does he...\""
+  },
+  {
+    "start": 3020.54,
+    "end": 3022.32,
+    "text": " - Yeah, I mean, I mean, well, it baffled me."
+  },
+  {
+    "start": 3022.32,
+    "end": 3023.82,
+    "text": " Like, I've heard the phrase sausage dog before."
+  },
+  {
+    "start": 3023.82,
+    "end": 3025.6,
+    "text": " I know what that is, but because it was at a sporting match"
+  },
+  {
+    "start": 3025.6,
+    "end": 3026.44,
+    "text": " I was thinking of a hot dog."
+  },
+  {
+    "start": 3026.44,
+    "end": 3027.28,
+    "text": " - Yeah."
+  },
+  {
+    "start": 3027.28,
+    "end": 3028.12,
+    "text": " - And we're like, \"What's a sausage dog?"
+  },
+  {
+    "start": 3028.12,
+    "end": 3028.96,
+    "text": " \"A hot dog is a sausage."
+  },
+  {
+    "start": 3028.96,
+    "end": 3029.8,
+    "text": " \"What are you talking about?\""
+  },
+  {
+    "start": 3029.8,
+    "end": 3031.06,
+    "text": " - This is where I should swoop in and out fact you,"
+  },
+  {
+    "start": 3031.06,
+    "end": 3031.9,
+    "text": " but I..."
+  },
+  {
+    "start": 3031.9,
+    "end": 3033.18,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3033.18,
+    "end": 3034.72,
+    "text": " - It's all about distraction, isn't it, really?"
+  },
+  {
+    "start": 3034.72,
+    "end": 3036.04,
+    "text": " - I found this with you."
+  },
+  {
+    "start": 3036.04,
+    "end": 3037.56,
+    "text": " - This reminds me, this isn't a fact,"
+  },
+  {
+    "start": 3037.56,
+    "end": 3039.56,
+    "text": " but do you ever watch that episode of Cheers"
+  },
+  {
+    "start": 3039.56,
+    "end": 3041.44,
+    "text": " when there was like a basketball player"
+  },
+  {
+    "start": 3041.44,
+    "end": 3043.08,
+    "text": " and he couldn't miss and he was amazing"
+  },
+  {
+    "start": 3043.08,
+    "end": 3044.86,
+    "text": " and he was winning the whole season?"
+  },
+  {
+    "start": 3044.86,
+    "end": 3048.82,
+    "text": " And then he went to the bar and started talking about trivia"
+  },
+  {
+    "start": 3048.82,
+    "end": 3052.94,
+    "text": " with two of the barflies, Norm and whoever else it was."
+  },
+  {
+    "start": 3052.94,
+    "end": 3055.7,
+    "text": " And they asked him how many rivets there were"
+  },
+  {
+    "start": 3055.7,
+    "end": 3057.9,
+    "text": " in the basketball stadium."
+  },
+  {
+    "start": 3057.9,
+    "end": 3060.5,
+    "text": " And he just, all he could think about for the rest"
+  },
+  {
+    "start": 3060.5,
+    "end": 3062.26,
+    "text": " of his career was counting these rivets."
+  },
+  {
+    "start": 3062.26,
+    "end": 3064.02,
+    "text": " And all he would do was walk around counting"
+  },
+  {
+    "start": 3064.02,
+    "end": 3065.06,
+    "text": " and he just couldn't play anymore"
+  },
+  {
+    "start": 3065.06,
+    "end": 3065.9,
+    "text": " 'cause he was so discreet."
+  },
+  {
+    "start": 3065.9,
+    "end": 3067.5,
+    "text": " - That happened to me in an exam once."
+  },
+  {
+    "start": 3067.5,
+    "end": 3068.34,
+    "text": " - What?"
+  },
+  {
+    "start": 3068.34,
+    "end": 3070.78,
+    "text": " - I was in an exam and people would always write on,"
+  },
+  {
+    "start": 3070.78,
+    "end": 3072.08,
+    "text": " and he's like, \"Rickety old desk,"
+  },
+  {
+    "start": 3072.08,
+    "end": 3073.2,
+    "text": " \"you only told them at exam time.\""
+  },
+  {
+    "start": 3073.2,
+    "end": 3075,
+    "text": " And they would say like, \"I heart so and so,\""
+  },
+  {
+    "start": 3075,
+    "end": 3076.46,
+    "text": " or that, \"Maths is rubbish.\""
+  },
+  {
+    "start": 3076.46,
+    "end": 3077.82,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3077.82,
+    "end": 3078.66,
+    "text": " And I was saying it once."
+  },
+  {
+    "start": 3078.66,
+    "end": 3080.68,
+    "text": " - You went to school in an episode of The Beano,"
+  },
+  {
+    "start": 3080.68,
+    "end": 3081.52,
+    "text": " didn't you?"
+  },
+  {
+    "start": 3081.52,
+    "end": 3082.36,
+    "text": " - Yeah, yeah."
+  },
+  {
+    "start": 3082.36,
+    "end": 3083.4,
+    "text": " - I grew up in Dundee, yeah."
+  },
+  {
+    "start": 3083.4,
+    "end": 3084.24,
+    "text": " - Oh, yeah, so you did?"
+  },
+  {
+    "start": 3084.24,
+    "end": 3086.5,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3086.5,
+    "end": 3090.4,
+    "text": " - So, but I was sitting in my seat in my exam"
+  },
+  {
+    "start": 3090.4,
+    "end": 3091.88,
+    "text": " and on my desk, someone had written,"
+  },
+  {
+    "start": 3091.88,
+    "end": 3094.96,
+    "text": " \"There were 32 black lines on the ceiling.\""
+  },
+  {
+    "start": 3094.96,
+    "end": 3096.76,
+    "text": " And so I look up and there are black lines"
+  },
+  {
+    "start": 3096.76,
+    "end": 3098.8,
+    "text": " really close together, never seen them before."
+  },
+  {
+    "start": 3098.8,
+    "end": 3100.72,
+    "text": " So of course I had to count them and I lost count."
+  },
+  {
+    "start": 3100.72,
+    "end": 3102.02,
+    "text": " - So I'd start again."
+  },
+  {
+    "start": 3102.02,
+    "end": 3104.38,
+    "text": " - Wow, do you think that might have been written"
+  },
+  {
+    "start": 3104.38,
+    "end": 3107.82,
+    "text": " by a crafty teacher trying to smoke out"
+  },
+  {
+    "start": 3107.82,
+    "end": 3108.66,
+    "text": " easily distracted children?"
+  },
+  {
+    "start": 3108.66,
+    "end": 3110.78,
+    "text": " - I think it was one person in your class"
+  },
+  {
+    "start": 3110.78,
+    "end": 3113.34,
+    "text": " who wrote it on all the other desks apart from their own."
+  },
+  {
+    "start": 3113.34,
+    "end": 3114.7,
+    "text": " I mean, they would be top of the class."
+  },
+  {
+    "start": 3114.7,
+    "end": 3115.62,
+    "text": " - Yeah, it's good waiting."
+  },
+  {
+    "start": 3115.62,
+    "end": 3116.82,
+    "text": " I'd forgotten that until now,"
+  },
+  {
+    "start": 3116.82,
+    "end": 3118.38,
+    "text": " but I can remember trying to count them."
+  },
+  {
+    "start": 3118.38,
+    "end": 3120.58,
+    "text": " - How did your exam, you'll have still passed, I guess."
+  },
+  {
+    "start": 3120.58,
+    "end": 3123,
+    "text": " - I play very badly, I don't remember."
+  },
+  {
+    "start": 3123,
+    "end": 3124.58,
+    "text": " - That's so funny."
+  },
+  {
+    "start": 3124.58,
+    "end": 3126.06,
+    "text": " I was looking 'cause you were talking about"
+  },
+  {
+    "start": 3126.06,
+    "end": 3130.42,
+    "text": " darts and shop putting, some trash talking in those spots."
+  },
+  {
+    "start": 3130.42,
+    "end": 3133.92,
+    "text": " And of course, we can't not talk about Gary Anderson"
+  },
+  {
+    "start": 3133.92,
+    "end": 3135.24,
+    "text": " and Wesley Harms."
+  },
+  {
+    "start": 3135.24,
+    "end": 3136.32,
+    "text": " - Of course we can't, thank God."
+  },
+  {
+    "start": 3136.32,
+    "end": 3141.32,
+    "text": " - The amazing match when Harms, who lost 10-2,"
+  },
+  {
+    "start": 3141.32,
+    "end": 3144.2,
+    "text": " did an interview and said there was a frequent smell"
+  },
+  {
+    "start": 3144.2,
+    "end": 3146.2,
+    "text": " that came from his opponent."
+  },
+  {
+    "start": 3146.2,
+    "end": 3147.96,
+    "text": " And he said, \"It'll take me two nights"
+  },
+  {
+    "start": 3147.96,
+    "end": 3150.12,
+    "text": " to lose the smell from my nose.\""
+  },
+  {
+    "start": 3150.12,
+    "end": 3150.96,
+    "text": " - Wow."
+  },
+  {
+    "start": 3150.96,
+    "end": 3151.8,
+    "text": " - And he claimed that Gary Anderson"
+  },
+  {
+    "start": 3151.8,
+    "end": 3155.36,
+    "text": " had been farting throughout the match to put him off."
+  },
+  {
+    "start": 3155.36,
+    "end": 3158.4,
+    "text": " And then obviously they interview the loser first"
+  },
+  {
+    "start": 3158.4,
+    "end": 3159.64,
+    "text": " and then they interview the winner"
+  },
+  {
+    "start": 3159.64,
+    "end": 3161.02,
+    "text": " and they interviewed Gary Anderson"
+  },
+  {
+    "start": 3161.02,
+    "end": 3163.64,
+    "text": " and said, \"Why were you farting the whole time?\""
+  },
+  {
+    "start": 3163.64,
+    "end": 3165.56,
+    "text": " And he said, \"There was definitely a smell,"
+  },
+  {
+    "start": 3165.56,
+    "end": 3168.6,
+    "text": " but it was 1,010%, not me."
+  },
+  {
+    "start": 3168.6,
+    "end": 3170.46,
+    "text": " It was definitely the other guy.\""
+  },
+  {
+    "start": 3170.46,
+    "end": 3173.56,
+    "text": " And Anderson said, \"You can put your finger up my arse."
+  },
+  {
+    "start": 3173.56,
+    "end": 3175.36,
+    "text": " There'll be no smell there.\""
+  },
+  {
+    "start": 3175.36,
+    "end": 3176.2,
+    "text": " - What?"
+  },
+  {
+    "start": 3176.2,
+    "end": 3177.04,
+    "text": " - What?"
+  },
+  {
+    "start": 3177.04,
+    "end": 3178.3,
+    "text": " - What is it with this sportsman?"
+  },
+  {
+    "start": 3178.3,
+    "end": 3179.94,
+    "text": " - Yeah."
+  },
+  {
+    "start": 3179.94,
+    "end": 3181.46,
+    "text": " - Okay, I mean, I believe the first guy,"
+  },
+  {
+    "start": 3181.46,
+    "end": 3183.24,
+    "text": " 'cause that's a very high percentage, so."
+  },
+  {
+    "start": 3183.24,
+    "end": 3184.86,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 3184.86,
+    "end": 3187.1,
+    "text": " - Do we have trash talk at QI?"
+  },
+  {
+    "start": 3187.1,
+    "end": 3187.94,
+    "text": " - No."
+  },
+  {
+    "start": 3187.94,
+    "end": 3188.78,
+    "text": " - What do you mean?"
+  },
+  {
+    "start": 3188.78,
+    "end": 3191.42,
+    "text": " - I just, so there was a study of Fortune 500 companies"
+  },
+  {
+    "start": 3191.42,
+    "end": 3193.66,
+    "text": " and like, can you remember people being slagged off"
+  },
+  {
+    "start": 3193.66,
+    "end": 3196.22,
+    "text": " in that kind of gamesmanship way in the office?"
+  },
+  {
+    "start": 3196.22,
+    "end": 3198.58,
+    "text": " 61% of employees found they could remember trash talk"
+  },
+  {
+    "start": 3198.58,
+    "end": 3199.84,
+    "text": " within the last few months."
+  },
+  {
+    "start": 3199.84,
+    "end": 3200.68,
+    "text": " - Yeah."
+  },
+  {
+    "start": 3200.68,
+    "end": 3202.04,
+    "text": " - And I don't think we do sledging here, really."
+  },
+  {
+    "start": 3202.04,
+    "end": 3203.32,
+    "text": " - I've got nine years worth of--"
+  },
+  {
+    "start": 3203.32,
+    "end": 3204.92,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 3204.92,
+    "end": 3207.02,
+    "text": " - And unfortunately for you guys, it's on record."
+  },
+  {
+    "start": 3207.02,
+    "end": 3208.86,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 3208.86,
+    "end": 3209.68,
+    "text": " - Cue the clip."
+  },
+  {
+    "start": 3209.68,
+    "end": 3210.52,
+    "text": " - Yeah."
+  },
+  {
+    "start": 3210.52,
+    "end": 3213.14,
+    "text": " - 'Cause this podcast, the whole HR exercise."
+  },
+  {
+    "start": 3213.14,
+    "end": 3215.94,
+    "text": " - One day you guys are gonna be called into an office, yeah."
+  },
+  {
+    "start": 3218.02,
+    "end": 3221.14,
+    "text": " One place where you get smacked talk famously is wrestling."
+  },
+  {
+    "start": 3221.14,
+    "end": 3222.36,
+    "text": " - Yeah."
+  },
+  {
+    "start": 3222.36,
+    "end": 3223.44,
+    "text": " - And I was reading the book,"
+  },
+  {
+    "start": 3223.44,
+    "end": 3225,
+    "text": " it's called Everything to Play For,"
+  },
+  {
+    "start": 3225,
+    "end": 3227.88,
+    "text": " the QI Book of Sport by James Harkin and Anna Tyshinski."
+  },
+  {
+    "start": 3227.88,
+    "end": 3228.72,
+    "text": " - Oh my goodness."
+  },
+  {
+    "start": 3228.72,
+    "end": 3229.94,
+    "text": " - Sounds a lot of sounds."
+  },
+  {
+    "start": 3229.94,
+    "end": 3232.06,
+    "text": " - Well, I don't know, it doesn't come out until October,"
+  },
+  {
+    "start": 3232.06,
+    "end": 3233.96,
+    "text": " so I don't know if it's rubbish or not,"
+  },
+  {
+    "start": 3233.96,
+    "end": 3236.98,
+    "text": " but I suspect, the big names I suspect it'll be quite good."
+  },
+  {
+    "start": 3236.98,
+    "end": 3238.14,
+    "text": " - It's gonna be a fair hearing, eh?"
+  },
+  {
+    "start": 3238.14,
+    "end": 3239.6,
+    "text": " - But they argue in that book"
+  },
+  {
+    "start": 3239.6,
+    "end": 3240.86,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 3240.86,
+    "end": 3243.66,
+    "text": " that the earliest depictions of wrestling that we have,"
+  },
+  {
+    "start": 3243.66,
+    "end": 3245.52,
+    "text": " which are in the Egyptian tombs,"
+  },
+  {
+    "start": 3245.52,
+    "end": 3248.16,
+    "text": " they're quite similar to today's pro wrestling."
+  },
+  {
+    "start": 3248.16,
+    "end": 3249.96,
+    "text": " So there's an argument that it could be"
+  },
+  {
+    "start": 3249.96,
+    "end": 3251.84,
+    "text": " that all the games were fixed"
+  },
+  {
+    "start": 3251.84,
+    "end": 3254.6,
+    "text": " because they were often shown as being one person"
+  },
+  {
+    "start": 3254.6,
+    "end": 3256.24,
+    "text": " from Egypt, clearly,"
+  },
+  {
+    "start": 3256.24,
+    "end": 3258.86,
+    "text": " and one person from a place that isn't Egypt, clearly,"
+  },
+  {
+    "start": 3258.86,
+    "end": 3260.68,
+    "text": " and the Egyptian one always won."
+  },
+  {
+    "start": 3260.68,
+    "end": 3263.6,
+    "text": " And perhaps it was that they were fixed fights"
+  },
+  {
+    "start": 3263.6,
+    "end": 3266.28,
+    "text": " so that the pharaoh would know"
+  },
+  {
+    "start": 3266.28,
+    "end": 3268.68,
+    "text": " that his people were the greatest in the whole world."
+  },
+  {
+    "start": 3268.68,
+    "end": 3270.84,
+    "text": " - Who's saying ancient Egyptian pro wrestling is fake?"
+  },
+  {
+    "start": 3270.84,
+    "end": 3272,
+    "text": " - That's what I'm saying."
+  },
+  {
+    "start": 3272,
+    "end": 3274.44,
+    "text": " Sorry, no, that's what James Harkin and Anna Tyshinski"
+  },
+  {
+    "start": 3274.44,
+    "end": 3275.72,
+    "text": " are saying in that book,"
+  },
+  {
+    "start": 3275.72,
+    "end": 3279.32,
+    "text": " everything to play for the QI book of spot out in October."
+  },
+  {
+    "start": 3279.32,
+    "end": 3281.64,
+    "text": " But the other thing is that there's a really early one"
+  },
+  {
+    "start": 3281.64,
+    "end": 3284,
+    "text": " and there is some writing next to it."
+  },
+  {
+    "start": 3284,
+    "end": 3287.48,
+    "text": " And it's an Egyptian who defeated a Nubian opponent"
+  },
+  {
+    "start": 3287.48,
+    "end": 3290.4,
+    "text": " and he says, \"Woe to you, O Nubian enemy,"
+  },
+  {
+    "start": 3290.4,
+    "end": 3292.84,
+    "text": " \"I will make you take a hopeless fall"
+  },
+  {
+    "start": 3292.84,
+    "end": 3294.88,
+    "text": " \"in the presence of the pharaoh.\""
+  },
+  {
+    "start": 3294.88,
+    "end": 3299.88,
+    "text": " And so that's basically smack talk from 3,200 years ago."
+  },
+  {
+    "start": 3299.88,
+    "end": 3302.72,
+    "text": " - Tell me the flavor that you find in my ass."
+  },
+  {
+    "start": 3302.72,
+    "end": 3304.96,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3304.96,
+    "end": 3313.64,
+    "text": " - Okay, that's it, that is all of our facts."
+  },
+  {
+    "start": 3313.64,
+    "end": 3314.96,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3314.96,
+    "end": 3316.76,
+    "text": " If you'd like to get in contact with any of us"
+  },
+  {
+    "start": 3316.76,
+    "end": 3317.8,
+    "text": " about the things that we've said"
+  },
+  {
+    "start": 3317.8,
+    "end": 3319.16,
+    "text": " over the course of this podcast,"
+  },
+  {
+    "start": 3319.16,
+    "end": 3320.76,
+    "text": " we can be found on our Twitter accounts."
+  },
+  {
+    "start": 3320.76,
+    "end": 3322.8,
+    "text": " I'm on @Sriberland, James."
+  },
+  {
+    "start": 3322.8,
+    "end": 3323.76,
+    "text": " - @JamesHarkin."
+  },
+  {
+    "start": 3323.76,
+    "end": 3324.6,
+    "text": " - Andy."
+  },
+  {
+    "start": 3324.6,
+    "end": 3325.44,
+    "text": " - @AndrewHunterM."
+  },
+  {
+    "start": 3325.44,
+    "end": 3326.28,
+    "text": " - And Ann."
+  },
+  {
+    "start": 3326.28,
+    "end": 3327.48,
+    "text": " - @Miller_Ann."
+  },
+  {
+    "start": 3327.48,
+    "end": 3328.92,
+    "text": " - Yep, where you can go to our group account,"
+  },
+  {
+    "start": 3328.92,
+    "end": 3330.32,
+    "text": " which is @NoSuchThing,"
+  },
+  {
+    "start": 3330.32,
+    "end": 3332.44,
+    "text": " and you can also get in contact with us"
+  },
+  {
+    "start": 3332.44,
+    "end": 3336.32,
+    "text": " via our email, podcast@QI.com."
+  },
+  {
+    "start": 3336.32,
+    "end": 3337.6,
+    "text": " And also go to our website,"
+  },
+  {
+    "start": 3337.6,
+    "end": 3339.52,
+    "text": " check out all of the previous episodes."
+  },
+  {
+    "start": 3339.52,
+    "end": 3342.24,
+    "text": " They are up there, NoSuchThingIsAfish.com."
+  },
+  {
+    "start": 3342.24,
+    "end": 3344.08,
+    "text": " And otherwise, come back next week."
+  },
+  {
+    "start": 3344.08,
+    "end": 3345,
+    "text": " We're gonna have another guest."
+  },
+  {
+    "start": 3345,
+    "end": 3345.92,
+    "text": " Thanks for coming back."
+  },
+  {
+    "start": 3345.92,
+    "end": 3347.68,
+    "text": " And so good to see you again."
+  },
+  {
+    "start": 3347.68,
+    "end": 3349,
+    "text": " And we'll see you then."
+  },
+  {
+    "start": 3349,
+    "end": 3350.08,
+    "text": " Goodbye."
+  },
+  {
+    "start": 3350.08,
+    "end": 3352.66,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3352.66,
+    "end": 3355.24,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3355.24,
+    "end": 3357.82,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3357.82,
+    "end": 3360.4,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3361.4,
+    "end": 3363.98,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3363.98,
+    "end": 3373.98,
+    "text": " [BLANK_AUDIO]"
+  }
+]

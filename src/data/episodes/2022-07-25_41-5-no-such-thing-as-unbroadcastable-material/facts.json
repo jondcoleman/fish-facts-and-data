@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a collection of humorous and bizarre facts, including stories about astronauts, historical explorers, and unusual occurrences in history. The hosts discuss topics ranging from haunted body parts to the peculiarities of animal behavior and the quirks of historical figures.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In 1860, a new technology entered European life, and women who used it complained that it caused extreme genital excitement. The technology was the sewing machine.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:22:02"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the last Olympics, Usain Bolt ran 100 meters in under 9.3 seconds during his 200-meter race, but it didn't count as a world record because it was part of a longer race.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:07:07"
+    },
+    {
+      "fact_number": 3,
+      "fact": "There was a biting epidemic in 15th century Germany where nuns in convents started biting each other, and it spread from one convent to the next.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:13:21"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Male kangaroos can attract the opposite sex by flexing their biceps, which is a display of strength and fitness.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:15:02"
+    }
+  ]
+}

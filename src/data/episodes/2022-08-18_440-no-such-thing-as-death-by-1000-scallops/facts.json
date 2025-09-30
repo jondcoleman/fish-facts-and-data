@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features discussions on the taste of protons, the impact of Lego figurines on movie plot revelations, the use of disco lights to catch scallops, and the Mpemba effect regarding the freezing of hot water.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Protons taste sour.",
+      "presenter": "Steve Mould",
+      "guest": true,
+      "start_time": "00:01:29"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Fans of Indiana Jones guessed details of the fourth film's plot before it was released from the expressions on the faces of the tie-in Lego characters.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:15:54"
+    },
+    {
+      "fact_number": 3,
+      "fact": "One of the most environmentally friendly ways to catch scallops is to set up an underwater scallop disco.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:26:55"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Scientists still can't decide if hot water freezes faster than cold water.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:37:24"
+    }
+  ]
+}

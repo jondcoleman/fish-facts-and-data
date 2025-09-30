@@ -1,0 +1,4527 @@
+[
+  {
+    "start": 0,
+    "end": 5.12,
+    "text": " Hi everybody, Andy here. Just before we start this week's show, we have two exciting announcements"
+  },
+  {
+    "start": 5.12,
+    "end": 9.12,
+    "text": " to make. The first is about who our special guest is this time and the second is about"
+  },
+  {
+    "start": 9.12,
+    "end": 14.28,
+    "text": " a live show we have coming up. So firstly, our guest this week is the brilliant comedian"
+  },
+  {
+    "start": 14.28,
+    "end": 18.12,
+    "text": " Rachel Parris. Rachel's been on once before, but if you haven't heard of her or you didn't"
+  },
+  {
+    "start": 18.12,
+    "end": 24.68,
+    "text": " hear that episode, she is a fantastic writer, comedian, presenter, musician, you name it."
+  },
+  {
+    "start": 24.68,
+    "end": 30.24,
+    "text": " She's an ostentatious, the Jane Austen themed improvised comedy show. She also is in the"
+  },
+  {
+    "start": 30.24,
+    "end": 34.84,
+    "text": " throes of publishing her first ever book. It's called Advice from Strangers, Everything"
+  },
+  {
+    "start": 34.84,
+    "end": 40.12,
+    "text": " I Know from People I Don't Know. She toured around for a year asking her live audience"
+  },
+  {
+    "start": 40.12,
+    "end": 44.28,
+    "text": " for advice and this book is the brilliant result. It's funny, it's uplifting, the"
+  },
+  {
+    "start": 44.28,
+    "end": 49.76,
+    "text": " advice range is from be kind to never pass up the opportunity for a wee. It spans the"
+  },
+  {
+    "start": 49.76,
+    "end": 54.32,
+    "text": " gamut. It's a brilliant book and it's out in paperback now so do check it out."
+  },
+  {
+    "start": 54.32,
+    "end": 58.28,
+    "text": " The second thing to say is that we have a live No Such Thing as a Fish coming up on"
+  },
+  {
+    "start": 58.28,
+    "end": 64.4,
+    "text": " the 21st of April and this is a global streaming event. Very exciting. We're doing a show"
+  },
+  {
+    "start": 64.4,
+    "end": 70.04,
+    "text": " at the British Library, the world hallowed British Library. As part of their season,"
+  },
+  {
+    "start": 70.04,
+    "end": 74.64,
+    "text": " special season all about animals, it's called Fantastic Beasts and we're going to be having"
+  },
+  {
+    "start": 74.64,
+    "end": 80.72,
+    "text": " a very special guest on the show and the show will be streamed globally. If you go do No"
+  },
+  {
+    "start": 80.72,
+    "end": 85.36,
+    "text": " Such Thing as a Fish dot com forward slash live you'll be able to get streaming tickets"
+  },
+  {
+    "start": 85.36,
+    "end": 89.88,
+    "text": " so you can sign up, buy a ticket and watch from the comfort of your own home wherever"
+  },
+  {
+    "start": 89.88,
+    "end": 95,
+    "text": " in the world you are from Keterine to Kalamazoo, all the tickets as I say at No Such Thing"
+  },
+  {
+    "start": 95,
+    "end": 101.44,
+    "text": " as a Fish dot com slash live. We hope to see you there. Alright, that's it on with the"
+  },
+  {
+    "start": 101.44,
+    "end": 123.72,
+    "text": " show. Hello and welcome to another episode of No Such Thing as a Fish, a weekly podcast"
+  },
+  {
+    "start": 123.72,
+    "end": 128.4,
+    "text": " coming to you from the QI offices in Covent Garden. My name is Dan Schreiber, I am sitting"
+  },
+  {
+    "start": 128.4,
+    "end": 134,
+    "text": " here with James Harkin, Andrew Hunter Murray and Rachel Parris and once again we have gathered"
+  },
+  {
+    "start": 134,
+    "end": 138.6,
+    "text": " round the microphones with our four favorite facts from the last seven days and in a particular"
+  },
+  {
+    "start": 138.6,
+    "end": 145.84,
+    "text": " order here we go. Starting with fact number one, that is Rachel. My fact is Dame Maura"
+  },
+  {
+    "start": 145.84,
+    "end": 151.44,
+    "text": " Limpany remains the only castaway on Desert Island Discs to have chosen entirely her"
+  },
+  {
+    "start": 151.44,
+    "end": 160.28,
+    "text": " own recordings to be marooned with which I admire. Me too, bold. Straight in. I feel"
+  },
+  {
+    "start": 160.28,
+    "end": 164.88,
+    "text": " like I should say straight away like in her defence, it was her second appearance on the"
+  },
+  {
+    "start": 164.88,
+    "end": 170.08,
+    "text": " show, her first was 22 years earlier and she didn't want to repeat any of her choices."
+  },
+  {
+    "start": 170.08,
+    "end": 173.12,
+    "text": " And there probably hadn't been any music in the audience. That's the problem, back in"
+  },
+  {
+    "start": 173.12,
+    "end": 177.68,
+    "text": " the day there was eight songs so that's yeah, that's a big problem. We should quickly say"
+  },
+  {
+    "start": 177.68,
+    "end": 181.6,
+    "text": " because our British listeners will obviously know what Desert Island Discs is but not the"
+  },
+  {
+    "start": 181.6,
+    "end": 186.04,
+    "text": " young ones. Not the young ones possibly, but international people won't know it either."
+  },
+  {
+    "start": 186.04,
+    "end": 198.48,
+    "text": " This is children and foreigners. A new book by Sally Rooney. Yeah, so it's the UK's I"
+  },
+  {
+    "start": 198.48,
+    "end": 202.64,
+    "text": " believe longest running radio show if not it's right up there at the top. It's an interview"
+  },
+  {
+    "start": 202.64,
+    "end": 207.64,
+    "text": " show and the basic premise of it is you bring eight records onto the show, songs you love,"
+  },
+  {
+    "start": 207.64,
+    "end": 210.72,
+    "text": " that means something to you and then at the end you're asked to make a decision. You're"
+  },
+  {
+    "start": 210.72,
+    "end": 214.48,
+    "text": " going to be marooned on the Desert Island. What one song are you going to save while"
+  },
+  {
+    "start": 214.48,
+    "end": 219.08,
+    "text": " the seven other wash away and you get to bring a book and you get to bring a luxury item"
+  },
+  {
+    "start": 219.08,
+    "end": 223.4,
+    "text": " and it's awesome. It's my favourite radio show. Yeah, and they use that to talk about"
+  },
+  {
+    "start": 223.4,
+    "end": 228.72,
+    "text": " their life and thoughts and everything as well. So it's really like esteemed isn't it"
+  },
+  {
+    "start": 228.72,
+    "end": 235.28,
+    "text": " in British culture. I think it was Dame Elizabeth Schwarzkopf who did a lot of her own recording."
+  },
+  {
+    "start": 235.28,
+    "end": 242.4,
+    "text": " She was a soprano, but it was only Maureen Limpany who chose entirely. I read that Schwarzkopf"
+  },
+  {
+    "start": 242.4,
+    "end": 248.04,
+    "text": " picked seven out of eight featured her voice and was Dame Maureen Limpany she was a pianist."
+  },
+  {
+    "start": 248.04,
+    "end": 259.16,
+    "text": " Pianist. Pianist. There's a hinge in Pian. Pianist. To be fair to her Limpany she didn't"
+  },
+  {
+    "start": 259.16,
+    "end": 264.16,
+    "text": " pick songs composed by her. They were Mozart songs and they were Chopin and stuff like that."
+  },
+  {
+    "start": 264.16,
+    "end": 267.08,
+    "text": " So they were all classical pieces that she was playing on, but then you get people like"
+  },
+  {
+    "start": 267.08,
+    "end": 274.32,
+    "text": " Norman Wisdom who is for children and overseas people. He was a comedian, very big in Albania."
+  },
+  {
+    "start": 274.32,
+    "end": 278.56,
+    "text": " I mean anyone under 80 is going to struggle with Norman Wisdom. What about him? Well he"
+  },
+  {
+    "start": 278.56,
+    "end": 283.44,
+    "text": " chose five of his eight as his own songs, but I think his actual own songs don't laugh"
+  },
+  {
+    "start": 283.44,
+    "end": 288.28,
+    "text": " at me because I'm a fool, stuff like that. Someone who chose three of their own for foreigners"
+  },
+  {
+    "start": 288.28,
+    "end": 298.64,
+    "text": " and not for children was Rolf Harris. Oh gosh. Just for the edit. Wow. One weird one was"
+  },
+  {
+    "start": 298.64,
+    "end": 306,
+    "text": " David Frost who picked David Frost interviews. Not even music. Did he do the next one? Most"
+  },
+  {
+    "start": 306,
+    "end": 311.24,
+    "text": " of them. I'm not sure that he did bizarrely. With those people, I do wonder if was it just"
+  },
+  {
+    "start": 311.24,
+    "end": 317.36,
+    "text": " a matter of having not thoroughly researched what the program is? Well, in the early days"
+  },
+  {
+    "start": 317.36,
+    "end": 322.12,
+    "text": " I think. It's so eminent. These days being invited on a desk is basically, in Britain"
+  },
+  {
+    "start": 322.12,
+    "end": 328.54,
+    "text": " it's kind of a minor gong. It's like getting an MBE or something. I'm sure you guys found"
+  },
+  {
+    "start": 328.54,
+    "end": 332.88,
+    "text": " out that some people have done it twice. That's pretty eminent. That's like double gong. You"
+  },
+  {
+    "start": 332.88,
+    "end": 335.6,
+    "text": " got some people who've done it three times. I need two people as far as I can tell I've"
+  },
+  {
+    "start": 335.6,
+    "end": 340.72,
+    "text": " done it four times. Oh really? Yeah. Do we get to guess who? Have a guess. Someone like"
+  },
+  {
+    "start": 340.72,
+    "end": 349.32,
+    "text": " Maggie Smith. Yeah, I would say even more eminent. David Attenborough. Oh wow. And if you guys"
+  },
+  {
+    "start": 349.32,
+    "end": 354.2,
+    "text": " guessed the other one without having read about it already. I was going to try and word"
+  },
+  {
+    "start": 354.2,
+    "end": 358.44,
+    "text": " my way in some way. Wait, I don't know. Is it one of the chuckle brothers? It's Barry"
+  },
+  {
+    "start": 358.44,
+    "end": 363.96,
+    "text": " Chuckle. Yeah, and his luxury was Paul Chuckle, which was nice. Sorry, is it actually bad?"
+  },
+  {
+    "start": 363.96,
+    "end": 369.32,
+    "text": " No, no, no. Don't do that. I believed you. It is a comedian, isn't it, from old? Yeah,"
+  },
+  {
+    "start": 369.32,
+    "end": 373.72,
+    "text": " Arthur Aske. So modern name that cuts a lot of ice today. But like a musical guy, was"
+  },
+  {
+    "start": 373.72,
+    "end": 380.12,
+    "text": " he? Yeah, yeah, a really, really famous comedian in the 50s and 40s and 50s. Yeah. The original"
+  },
+  {
+    "start": 380.12,
+    "end": 384.04,
+    "text": " host was a guy called Roy Plombly who invented it. And he invented it during the Second World"
+  },
+  {
+    "start": 384.04,
+    "end": 388.52,
+    "text": " War, actually. It was a sort of wartime commission to cheer people up and it was just clearly"
+  },
+  {
+    "start": 388.52,
+    "end": 394.8,
+    "text": " a good idea. But he was incredibly austere about it. And in fact, he was so controlling"
+  },
+  {
+    "start": 394.8,
+    "end": 400.08,
+    "text": " that the early shows were scripted. So he would script each dialogue in advance and"
+  },
+  {
+    "start": 400.08,
+    "end": 405.04,
+    "text": " then they'd just sit and they'd read the script. And then that was it. And it was largely just"
+  },
+  {
+    "start": 405.04,
+    "end": 409.4,
+    "text": " about the music, wasn't it? It was basically like being Zoe Ball and sort of going, let's"
+  },
+  {
+    "start": 409.4,
+    "end": 413.96,
+    "text": " listen to this next track. It was, you know, they were DJing to an extent. Also, he would"
+  },
+  {
+    "start": 413.96,
+    "end": 416.86,
+    "text": " ask about whether you could survive on a desert island, as in he was incredibly interested"
+  },
+  {
+    "start": 416.86,
+    "end": 421.28,
+    "text": " in it. He would ask like, can you build your own shelter? Can you fish? Can you swim? You"
+  },
+  {
+    "start": 421.28,
+    "end": 424.72,
+    "text": " know, what are you going to do about the sun? It's like it was it was great. Almost purely"
+  },
+  {
+    "start": 424.72,
+    "end": 428.08,
+    "text": " that feels like that's what it should be. It was really, it was really fun, I think."
+  },
+  {
+    "start": 428.08,
+    "end": 432.72,
+    "text": " Do you know how he pitched this? So he was like 27, I think, when he pitched this. And"
+  },
+  {
+    "start": 432.72,
+    "end": 436.16,
+    "text": " he came up with it. Did he? He came up with it and he thought that it was going to be"
+  },
+  {
+    "start": 436.16,
+    "end": 443.52,
+    "text": " six episodes and that was it. He thought they paid him quite well. Inside of we. And so"
+  },
+  {
+    "start": 443.52,
+    "end": 448.36,
+    "text": " it was a shock that it lasted for him like 41 years and became this national institution."
+  },
+  {
+    "start": 448.36,
+    "end": 452.68,
+    "text": " But before that he was he used to pitch shows to the BBC. And one of the shows he pitched"
+  },
+  {
+    "start": 452.68,
+    "end": 458.52,
+    "text": " was called I know what I hate. And it was a it was a show in which guests choose songs"
+  },
+  {
+    "start": 458.52,
+    "end": 463.4,
+    "text": " that they hated. And they would just have them, you know, either, you know, Room 101"
+  },
+  {
+    "start": 463.4,
+    "end": 467.48,
+    "text": " basically, I guess the pre Room 101. Imagine if you got them mixed up and you're Dame"
+  },
+  {
+    "start": 467.48,
+    "end": 473.88,
+    "text": " Mara. Your own songs. Has desert island discs ever had a gap or is it just run continuous"
+  },
+  {
+    "start": 473.88,
+    "end": 478.76,
+    "text": " in the early days it had? I think these days they only do 40 a year. Oh, right. Okay."
+  },
+  {
+    "start": 478.76,
+    "end": 482.6,
+    "text": " There's a few gaps. But there was there was a there was a couple of years of like five"
+  },
+  {
+    "start": 482.6,
+    "end": 486.92,
+    "text": " year gap where it kind of just went off air all together. Yeah. He also did a panel show"
+  },
+  {
+    "start": 486.92,
+    "end": 492.2,
+    "text": " called many a slip, which sounds amazing. So in a typical round, he would read out a piece"
+  },
+  {
+    "start": 492.2,
+    "end": 496.76,
+    "text": " of text and there would be some grammatical error in there. And the panel had to find the"
+  },
+  {
+    "start": 496.76,
+    "end": 503.64,
+    "text": " grammatical error. Bring it back. Isn't that amazing? Absolutely love that. I would really"
+  },
+  {
+    "start": 503.64,
+    "end": 508.2,
+    "text": " enjoy being on the panel for that. Yeah. I was reading the early guests like the really"
+  },
+  {
+    "start": 508.2,
+    "end": 513,
+    "text": " early sort of the first 10 guests they had. So did you guys read at all about Captain Dingle?"
+  },
+  {
+    "start": 513,
+    "end": 521.08,
+    "text": " Sounds great. He was unbelievably interesting. So it's just listed as Explorer, right? Dan is"
+  },
+  {
+    "start": 521.08,
+    "end": 527.96,
+    "text": " very interested by this. Yeah, keep talking. Well, Captain Alewood Edward Dingle was born in 1874."
+  },
+  {
+    "start": 527.96,
+    "end": 531.72,
+    "text": " And then he was on the show in the mid 40s. So he's pretty old by this point. Yeah. And he was"
+  },
+  {
+    "start": 531.72,
+    "end": 536.12,
+    "text": " uniquely qualified to be on the show. Can you guess why? He was especially good. Because he'd"
+  },
+  {
+    "start": 536.12,
+    "end": 540.2,
+    "text": " lived on a desert island? He had lived on a desert island himself. Or he was a disc."
+  },
+  {
+    "start": 540.2,
+    "end": 547.8,
+    "text": " He was both. He was a uniquely circular guy. No, he had been shipwrecked five times in his life."
+  },
+  {
+    "start": 547.8,
+    "end": 553.4,
+    "text": " Brilliant. Wow. Oh my God. In 1893. So he was 19. He was in a schooner called the Black Pearl."
+  },
+  {
+    "start": 553.4,
+    "end": 557.88,
+    "text": " He and his shipmate were going to retrieve gold from a sunken ship, which had sunk 20 years before."
+  },
+  {
+    "start": 557.88,
+    "end": 561.88,
+    "text": " He was a Black Pearl from Pirates of the Caribbean. It's the same one. Yeah. And so then they got"
+  },
+  {
+    "start": 561.88,
+    "end": 566.44,
+    "text": " shipwrecked. And it was only two of them in this boat. And they spent 11 weeks on a desert island"
+  },
+  {
+    "start": 566.44,
+    "end": 572.44,
+    "text": " eating raw penguin and drinking rain. Wow. There's some good news, which is that while on the island,"
+  },
+  {
+    "start": 572.44,
+    "end": 580.6,
+    "text": " they found some other treasure from a different shipwreck. And the two of them got along so"
+  },
+  {
+    "start": 580.6,
+    "end": 585.96,
+    "text": " badly, these two, that they weren't speaking at all. For like a few days in, they were just not"
+  },
+  {
+    "start": 585.96,
+    "end": 590.2,
+    "text": " speaking for days on end. Right. It's kind of understandable, isn't it? Yeah, completely. Yeah."
+  },
+  {
+    "start": 590.2,
+    "end": 595.48,
+    "text": " This would make such a better episode of desert island discs than how difficult your childhood was."
+  },
+  {
+    "start": 595.48,
+    "end": 603.08,
+    "text": " Bring it back. Bring back exclusively shipwrecked. So who did Dingle's partner do an episode as well"
+  },
+  {
+    "start": 603.08,
+    "end": 609.08,
+    "text": " to sort of counter? Easy balance. I don't know. What a shame. Can I just say one thing about Plomley?"
+  },
+  {
+    "start": 609.08,
+    "end": 617,
+    "text": " Yeah. His grandfather was called, right, Hey Ho. What? He was called, right, Hey Ho. And his"
+  },
+  {
+    "start": 617,
+    "end": 622.44,
+    "text": " surname was Wigg. So his first two names were right, W-R-I-G-H-T. Okay. And his middle name was"
+  },
+  {
+    "start": 622.44,
+    "end": 629.72,
+    "text": " Hey Ho, H-A-Y-H-O-E. What? He was called, right, Hey Ho. Do we know the story? That's amazing."
+  },
+  {
+    "start": 629.72,
+    "end": 632.92,
+    "text": " It's not one of those Bible things, is it? You know how people were named after just putting it?"
+  },
+  {
+    "start": 632.92,
+    "end": 636.84,
+    "text": " They were just normal names back in the day. Imagine at school, like the teacher goes, right,"
+  },
+  {
+    "start": 636.84,
+    "end": 645.88,
+    "text": " Hey Ho. Everybody stop packing up. So good. There's an episode that Dan will be especially"
+  },
+  {
+    "start": 645.88,
+    "end": 654.28,
+    "text": " interested in, the Buzz Aldrin episode, which we've never heard. Okay. It was during Sulawli's"
+  },
+  {
+    "start": 654.28,
+    "end": 659.88,
+    "text": " tenure. She's massively respected, obviously. Amazing broadcaster. And she and the production"
+  },
+  {
+    "start": 659.88,
+    "end": 665.08,
+    "text": " team went to Buzz Aldrin's house in California, right? And they were setting up, you know,"
+  },
+  {
+    "start": 665.08,
+    "end": 670.2,
+    "text": " doing all the sort of pre-chat bits. And Buzz Aldrin left the room and never came back."
+  },
+  {
+    "start": 670.2,
+    "end": 677.24,
+    "text": " I really? Wow. So they didn't make it? Where did you? Did they do it in 1969?"
+  },
+  {
+    "start": 677.24,
+    "end": 684.6,
+    "text": " I've just got to quickly do something. And that's why Lawley was second on the moon,"
+  },
+  {
+    "start": 684.6,
+    "end": 689.56,
+    "text": " because she was trying to get the interview. Yeah, yeah, yeah. That's amazing."
+  },
+  {
+    "start": 689.56,
+    "end": 694.2,
+    "text": " Was he pissed off? Or do we know? We don't know anything. He just walked out. Okay."
+  },
+  {
+    "start": 694.2,
+    "end": 698.28,
+    "text": " I don't know. Someone will know. Someone will know. Buzz will know. Yeah. Let's ask him."
+  },
+  {
+    "start": 698.28,
+    "end": 702.52,
+    "text": " Let's ask him. I mean, he came on our show in a museum of curiosity. Came all the way over here."
+  },
+  {
+    "start": 702.52,
+    "end": 707.64,
+    "text": " We didn't even have to go to California. You should have done a reverse Lawley on him."
+  },
+  {
+    "start": 707.64,
+    "end": 709.08,
+    "text": " You should have. The entire audience leaves."
+  },
+  {
+    "start": 709.08,
+    "end": 717.24,
+    "text": " Alistair McClain, who was a novelist in the 20th century. Like a detective. Yeah,"
+  },
+  {
+    "start": 717.24,
+    "end": 722.04,
+    "text": " thriller, like Where Eagles Dare and Guns of Navarone. I mean, huge author, right?"
+  },
+  {
+    "start": 722.04,
+    "end": 727.8,
+    "text": " And and Plomley was a mega fan. Loved Alistair McClain. Really excited. And he arrived and they"
+  },
+  {
+    "start": 727.8,
+    "end": 730.6,
+    "text": " were doing the pre-interview. You know, they're talking about just talking about what they're"
+  },
+  {
+    "start": 730.6,
+    "end": 736.28,
+    "text": " going to talk about. And as they were doing the pre-interview, Roy Plomley realized he was not"
+  },
+  {
+    "start": 736.28,
+    "end": 741.32,
+    "text": " talking to Alistair McClain, the novelist. He was talking to a guy called Alistair McClain,"
+  },
+  {
+    "start": 741.32,
+    "end": 744.92,
+    "text": " who was the head of the European Tourist Bureau of the Government of Canada."
+  },
+  {
+    "start": 744.92,
+    "end": 751.24,
+    "text": " He must have got the letter. So can you come on the Desert Island disc and thought,"
+  },
+  {
+    "start": 751.24,
+    "end": 758.12,
+    "text": " finally, my work has been appreciated. Why have they waited so long? I've got so much to say"
+  },
+  {
+    "start": 758.12,
+    "end": 764.44,
+    "text": " about Canada. That's amazing. Can you guess what we did? I would say, I think you style it out,"
+  },
+  {
+    "start": 764.44,
+    "end": 769,
+    "text": " don't you? You have to just say, this is the person we've asked. It's the whole point. I reckon"
+  },
+  {
+    "start": 769,
+    "end": 774.92,
+    "text": " he just bezoldrined it and just walked out. Well, he stuck it out. They just recorded it anyway,"
+  },
+  {
+    "start": 774.92,
+    "end": 780.28,
+    "text": " and then didn't broadcast it. Oh, was it just terrible? I have no idea. But I don't think it"
+  },
+  {
+    "start": 780.28,
+    "end": 784.84,
+    "text": " was, I don't think it was broadcast in the end. That's a shame because it is a format that thrives"
+  },
+  {
+    "start": 784.84,
+    "end": 789.56,
+    "text": " on just someone you've never heard of, because the songs allow you in. As a Canadian, this guy"
+  },
+  {
+    "start": 789.56,
+    "end": 794.92,
+    "text": " would probably be quite good at wilderness survival. Yeah, you like some islands in Canada,"
+  },
+  {
+    "start": 794.92,
+    "end": 800.44,
+    "text": " one of the most island. Is it? I think that's absolutely heartbreaking for Alistair McClain,"
+  },
+  {
+    "start": 800.44,
+    "end": 805.24,
+    "text": " the Canadian. Imagine you get the letter and you're so flattered and you're like,"
+  },
+  {
+    "start": 805.24,
+    "end": 811.32,
+    "text": " I knew actually that my life did mean something to people. This really validates everything"
+  },
+  {
+    "start": 811.32,
+    "end": 817.48,
+    "text": " that I've had doubts about, I'll be honest. Years of misery. Being the head of the European"
+  },
+  {
+    "start": 817.48,
+    "end": 821.72,
+    "text": " Torres Bureaus. Am I on the right path? Then you record, you even record it and it goes fine."
+  },
+  {
+    "start": 821.72,
+    "end": 827.64,
+    "text": " And then it never airs and you inquire why it's never aired. They must have told him"
+  },
+  {
+    "start": 827.64,
+    "end": 831.88,
+    "text": " the tapes were burned in a fire. I hope so. I hope that's what they said. The UK's burnt down,"
+  },
+  {
+    "start": 831.88,
+    "end": 835.72,
+    "text": " unfortunately. And he'll be like, I can come back, I can redo it. And they'll be like,"
+  },
+  {
+    "start": 835.72,
+    "end": 844.2,
+    "text": " We're booked up, sorry. It's all 2023, we're booked. I was wondering how many islands there were,"
+  },
+  {
+    "start": 844.2,
+    "end": 850.12,
+    "text": " like in the Pacific, for instance, if you put one celebrity on each one, would that"
+  },
+  {
+    "start": 850.12,
+    "end": 854.44,
+    "text": " have run out now? Could you fit everyone who's been on Desert Island discs onto their own"
+  },
+  {
+    "start": 854.44,
+    "end": 858.68,
+    "text": " individual island? I think even just in the Pacific, you would easily be able to do it."
+  },
+  {
+    "start": 858.68,
+    "end": 861.72,
+    "text": " Wow, amazing. Yeah, but it wouldn't be good for the local flora and fauna."
+  },
+  {
+    "start": 861.88,
+    "end": 866.52,
+    "text": " Yeah, why not? Well, Desert Islands, usually they have lots of species on because there's no"
+  },
+  {
+    "start": 866.52,
+    "end": 872.44,
+    "text": " humans, there's no cats, there's no rats, there's no, so it's quite good for species. But if you put,"
+  },
+  {
+    "start": 872.44,
+    "end": 878.44,
+    "text": " you know, Barry Chuckle on. The insects will be hurting themselves on the pane of glass. He's"
+  },
+  {
+    "start": 878.44,
+    "end": 885.08,
+    "text": " accidentally smashed, carrying. There's a story. Herbert Morrison, who was a politician, he was"
+  },
+  {
+    "start": 885.08,
+    "end": 890.84,
+    "text": " sort of under Clement Attlee in his government. He, when he died, he was found to have his eight"
+  },
+  {
+    "start": 890.84,
+    "end": 896.36,
+    "text": " songs in his wallet waiting. Should he ever be called at moments noticed to suddenly appear"
+  },
+  {
+    "start": 896.36,
+    "end": 903.96,
+    "text": " on Desert Island discs? Yeah, I think quite similarly, I have on purpose learned all of the"
+  },
+  {
+    "start": 903.96,
+    "end": 909.48,
+    "text": " words to trouble by Iggy Azalea, just in case I ever get asked to do a celebrity lip sync."
+  },
+  {
+    "start": 909.48,
+    "end": 914.2,
+    "text": " No way. Is that with Jennifer Hudson? Yeah, because I know the chorus. I will be your"
+  },
+  {
+    "start": 914.2,
+    "end": 922.04,
+    "text": " Jennifer Hudson. That's very good. It's very much the same and equal esteem I think. I have actually"
+  },
+  {
+    "start": 922.04,
+    "end": 927.64,
+    "text": " learned a lot of ice skating moves in case I'm ever invited on, I don't even know the name of the"
+  },
+  {
+    "start": 927.64,
+    "end": 933.88,
+    "text": " show. I've actually been practicing eating kangaroo testicles for the last five years, just in case."
+  },
+  {
+    "start": 933.88,
+    "end": 946.28,
+    "text": " It's a must of mine, a special subject. Kangaroos knackers. Okay, it is time for fact number two,"
+  },
+  {
+    "start": 946.28,
+    "end": 953,
+    "text": " and that is my fact. My fact this week is that a man called Mike Merrill found making decisions so"
+  },
+  {
+    "start": 953,
+    "end": 959.16,
+    "text": " hard that he floated himself as a publicly traded person and for over a decade now has had over"
+  },
+  {
+    "start": 959.16,
+    "end": 965.16,
+    "text": " 800 people making his decisions for him. Great. Very clever. So this guy, yeah, so this was back"
+  },
+  {
+    "start": 965.16,
+    "end": 971.08,
+    "text": " in I think it was 2007. His career was sort of at a point where he wasn't knowing fully what he was"
+  },
+  {
+    "start": 971.08,
+    "end": 978.12,
+    "text": " doing with his life, so he decided to separate himself into 100,000 shares and float himself"
+  },
+  {
+    "start": 978.12,
+    "end": 982.52,
+    "text": " and ask the people who were interested in purchasing these shares at one buck a piece,"
+  },
+  {
+    "start": 982.52,
+    "end": 987.24,
+    "text": " \"Would you like to make the decisions for me?\" Ironically, that is quite a big decision to make."
+  },
+  {
+    "start": 988.68,
+    "end": 996.6,
+    "text": " It is. And he kept the majority shares, right? Yes. But he made his majority shares"
+  },
+  {
+    "start": 996.6,
+    "end": 1003.96,
+    "text": " non-voting. Oh, I see. So he didn't have any sway. So no one can own him. Yeah, no one can own him."
+  },
+  {
+    "start": 1003.96,
+    "end": 1007.4,
+    "text": " But he doesn't have to make the decisions. That they can rule him. Exactly, they can rule him. But"
+  },
+  {
+    "start": 1007.4,
+    "end": 1013,
+    "text": " he throws up the question that he needs deciding. So it's not like they can just say, \"We've decided"
+  },
+  {
+    "start": 1013,
+    "end": 1017.88,
+    "text": " this week we want you to dye your hair pink.\" He has to say, \"Should I dye my hair pink?\" So he set up"
+  },
+  {
+    "start": 1017.88,
+    "end": 1023.56,
+    "text": " a website. It's called K-MikeyM. I went to it in the course of doing the research. I tried to buy"
+  },
+  {
+    "start": 1023.56,
+    "end": 1027.72,
+    "text": " some shares, but none are up at the moment because he's very popular at the moment. He sort of releases"
+  },
+  {
+    "start": 1027.72,
+    "end": 1033.08,
+    "text": " them in small batches on demand and they fluctuate with the demand. So they could be anything as low"
+  },
+  {
+    "start": 1033.08,
+    "end": 1040.44,
+    "text": " as 99 cents, but they can go all the way up to $18. That shares for you? Yeah. Has anyone made a big"
+  },
+  {
+    "start": 1040.44,
+    "end": 1046.2,
+    "text": " profit on Mike Merrill? Yeah, his brother, who sold when he got to a high point. Yeah, he sold"
+  },
+  {
+    "start": 1046.2,
+    "end": 1051.72,
+    "text": " all his shares and bought a new dishwasher, I think, or something. He does make the decisions"
+  },
+  {
+    "start": 1051.72,
+    "end": 1058.12,
+    "text": " about what they vote on, but when he moved in with his girlfriend, he got complaints from the"
+  },
+  {
+    "start": 1058.12,
+    "end": 1063.72,
+    "text": " shareholders who said, \"This is a decision I think you should have consulted us on.\" This is definitely"
+  },
+  {
+    "start": 1063.72,
+    "end": 1068.76,
+    "text": " going to affect, you know, life. It affects the value of him, doesn't it? Yeah. If you get married."
+  },
+  {
+    "start": 1068.76,
+    "end": 1073.4,
+    "text": " Because someone else is then not making decisions, but helping him make decisions, as in if you're"
+  },
+  {
+    "start": 1073.4,
+    "end": 1077.8,
+    "text": " living with a partner, you do chat stuff over with them. They might have an influence on you."
+  },
+  {
+    "start": 1077.8,
+    "end": 1081.16,
+    "text": " Yeah. Well, the other thing is shares depend on how much he's valued at, right?"
+  },
+  {
+    "start": 1081.16,
+    "end": 1089.56,
+    "text": " And his value is going to change when his life changes. So the amount of money you have changes"
+  },
+  {
+    "start": 1089.56,
+    "end": 1093.48,
+    "text": " when you get married, it might change for the better or for the worse. But are you saying his"
+  },
+  {
+    "start": 1093.48,
+    "end": 1098.92,
+    "text": " value would either soar or crater when he moved in with a girlfriend? It's plausible. But it's your"
+  },
+  {
+    "start": 1098.92,
+    "end": 1103.08,
+    "text": " value on different markets, isn't it? So on the dating market, your value is it sinks when you're"
+  },
+  {
+    "start": 1103.08,
+    "end": 1108.04,
+    "text": " limited. Does it sink when you go up from supply and demand? You would think it would increase."
+  },
+  {
+    "start": 1108.04,
+    "end": 1112.6,
+    "text": " Some people say that. Some people say, \"Oh, no one's interested in you,\" and tell you that you"
+  },
+  {
+    "start": 1112.6,
+    "end": 1116.84,
+    "text": " move in with a partner, and then suddenly everyone's after you, you know? Is that your experience?"
+  },
+  {
+    "start": 1116.84,
+    "end": 1122.52,
+    "text": " So you're backfired. My experience is total indifference."
+  },
+  {
+    "start": 1123.4,
+    "end": 1130.52,
+    "text": " You maintained very nicely consistently. Thank you. When this happened, and he had to explain to"
+  },
+  {
+    "start": 1130.52,
+    "end": 1135.24,
+    "text": " his girlfriend that he had to consult his shareholders, he issued her with a relationship"
+  },
+  {
+    "start": 1135.24,
+    "end": 1142.6,
+    "text": " contract that she had to sign. What? Which sounds bonkers. But I'm reading that this is it is quite"
+  },
+  {
+    "start": 1142.6,
+    "end": 1148.2,
+    "text": " bonkers, but also relationship contracts instead of getting married or before marriage are very"
+  },
+  {
+    "start": 1148.2,
+    "end": 1151.56,
+    "text": " much on the rise the last few years. Well, cream ups, especially, I think. In the relationship"
+  },
+  {
+    "start": 1151.56,
+    "end": 1156.92,
+    "text": " contract, do we know any details or is it simply? I don't know the details of that one. I did want"
+  },
+  {
+    "start": 1156.92,
+    "end": 1161,
+    "text": " to tell you, though, about another relationship contract that was in the news recently. So the"
+  },
+  {
+    "start": 1161,
+    "end": 1165.88,
+    "text": " independent reported that Shailene, someone called Shailene, or @salamiqueen on TikTok,"
+  },
+  {
+    "start": 1165.88,
+    "end": 1172.76,
+    "text": " made headlines because she made her boyfriend sign a relationship contract that said that if he cheated"
+  },
+  {
+    "start": 1172.76,
+    "end": 1179.32,
+    "text": " on her, he had to pay all her bills. Indefinitely. That's the thing I put for how long. I don't know"
+  },
+  {
+    "start": 1179.32,
+    "end": 1184.76,
+    "text": " what he said. And her comment on it was, I'm so smart or crazy. I don't know."
+  },
+  {
+    "start": 1184.76,
+    "end": 1190.04,
+    "text": " That's the salamiqueen. I feel like he wouldn't hold off and cart that, I think."
+  },
+  {
+    "start": 1190.04,
+    "end": 1195.8,
+    "text": " He was unconscionable to me. Apparently, it was a legal contract. And yeah, I don't know"
+  },
+  {
+    "start": 1195.8,
+    "end": 1200.6,
+    "text": " if the contract just said pay her bills with no other parameters."
+  },
+  {
+    "start": 1200.6,
+    "end": 1204.28,
+    "text": " You've got to define the terms, haven't you? You've got to define what cheating is, you know."
+  },
+  {
+    "start": 1204.28,
+    "end": 1207.56,
+    "text": " Is it casting a flirty glance at someone? In which case, he's going to be"
+  },
+  {
+    "start": 1207.56,
+    "end": 1211,
+    "text": " paying bills pretty quickly. Is it hiding money underneath the boarding monopoly?"
+  },
+  {
+    "start": 1211,
+    "end": 1218.36,
+    "text": " Yes. Is it making a cup of tea quietly? So you don't have to make the other one a cup of tea."
+  },
+  {
+    "start": 1218.36,
+    "end": 1224.12,
+    "text": " Is it with sleeping with someone else? We don't know. Something like that. We don't know."
+  },
+  {
+    "start": 1224.12,
+    "end": 1231.56,
+    "text": " Did you hear about Patrick Campbell? No. So he owned a company called profitwell.com"
+  },
+  {
+    "start": 1231.56,
+    "end": 1239.72,
+    "text": " and he sold it in 2022 for $200 million. And he decided to do a hostile takeover of Mike Merrill."
+  },
+  {
+    "start": 1239.72,
+    "end": 1247.48,
+    "text": " And he has since bought 15% of Mike's shares. And he reckons, because you can tell how often"
+  },
+  {
+    "start": 1247.48,
+    "end": 1252.2,
+    "text": " people vote. And usually his shareholders, Mike Merrill shareholders, don't vote. Most of them,"
+  },
+  {
+    "start": 1252.2,
+    "end": 1255.08,
+    "text": " it's just a joke and they might vote once or twice, but they don't really do it."
+  },
+  {
+    "start": 1255.08,
+    "end": 1260.52,
+    "text": " This guy, Patrick Campbell, reckons that with 15%, he has enough power to influence all the"
+  },
+  {
+    "start": 1260.52,
+    "end": 1265.8,
+    "text": " shareholder votes and he can basically tell him to do what he wants. Wow. That's amazing. That's"
+  },
+  {
+    "start": 1265.8,
+    "end": 1270.92,
+    "text": " exciting. But he's still got to only tell him to do what has been presented. So Mike can still"
+  },
+  {
+    "start": 1270.92,
+    "end": 1275.64,
+    "text": " only ask certain questions and it's up to him. But he basically now reckons that he will have"
+  },
+  {
+    "start": 1275.64,
+    "end": 1280.68,
+    "text": " the deciding vote on any question that he's asked. He reckons Mike's undervalued at the moment."
+  },
+  {
+    "start": 1280.68,
+    "end": 1287.88,
+    "text": " Well, here's the kind of things that he's probably influencing his decisions on. So he would have"
+  },
+  {
+    "start": 1287.88,
+    "end": 1292.6,
+    "text": " possibly been part of the decision of whether or not Mike invested in a Rwandan chicken farming"
+  },
+  {
+    "start": 1292.6,
+    "end": 1301,
+    "text": " business. That was approved by the shareholders. Grow a winter mustache. That was denied. No"
+  },
+  {
+    "start": 1301,
+    "end": 1307.64,
+    "text": " winter mustache happened. Cold up for Mike. They decided on whether or not Mike believes in ghosts."
+  },
+  {
+    "start": 1307.64,
+    "end": 1314.04,
+    "text": " He asked, do I believe in ghosts? They voted on whether or not he does. 66% said yes, you do."
+  },
+  {
+    "start": 1314.04,
+    "end": 1317.72,
+    "text": " So he does believe in ghosts. I'm sorry. I've been on board with this"
+  },
+  {
+    "start": 1317.72,
+    "end": 1322.84,
+    "text": " until that makes the whole thing look ridiculous. It does. Yeah, yeah. I found it interesting that"
+  },
+  {
+    "start": 1322.84,
+    "end": 1331.24,
+    "text": " when he made the decision to embark on this, he valued his life at $100,000 and sold shares on"
+  },
+  {
+    "start": 1331.24,
+    "end": 1339.16,
+    "text": " that basis. That was a very low calculation compared to what economists value a life at,"
+  },
+  {
+    "start": 1339.16,
+    "end": 1343.08,
+    "text": " because they have to calculate this in terms of what the government make decisions on."
+  },
+  {
+    "start": 1343.08,
+    "end": 1348.52,
+    "text": " Officially, economists think the average human life in the US is worth about $8.7 million."
+  },
+  {
+    "start": 1348.52,
+    "end": 1354.52,
+    "text": " Really? Yeah. Wow. That's a lot. It varies a little bit. I'm rich. So like the Environmental"
+  },
+  {
+    "start": 1354.52,
+    "end": 1360.76,
+    "text": " Protection Agency uses $7.4 million. Another one uses $9.6 million, but there is a figure on it. How"
+  },
+  {
+    "start": 1360.76,
+    "end": 1366.2,
+    "text": " does Andy get at this? Yeah, I'm theoretically loaded. I don't know that you can access it,"
+  },
+  {
+    "start": 1366.2,
+    "end": 1370.28,
+    "text": " but it has a huge... What if he cuts off his leg? Yeah. He's got a worth of $1 million."
+  },
+  {
+    "start": 1370.28,
+    "end": 1378.6,
+    "text": " On the open market. Wow. But I found it so interesting what this means to us in terms of"
+  },
+  {
+    "start": 1378.6,
+    "end": 1387.88,
+    "text": " rulings in government. So for example, in 1972, the auto industry put a life's worth of $885,000"
+  },
+  {
+    "start": 1387.88,
+    "end": 1393.88,
+    "text": " in today's dollars. And then two years later, the figure was more or less the same, the Department"
+  },
+  {
+    "start": 1393.88,
+    "end": 1400.52,
+    "text": " of Transportation rejected a regulation to install bars at the rear of trucks to prevent passenger"
+  },
+  {
+    "start": 1400.52,
+    "end": 1405.64,
+    "text": " vehicles from sliding underneath them. So a safety measure for trucks was rejected because they did"
+  },
+  {
+    "start": 1405.64,
+    "end": 1411.08,
+    "text": " the maths on it, and it wasn't cost effective because the lives that it would save weren't worth"
+  },
+  {
+    "start": 1411.08,
+    "end": 1417,
+    "text": " it for the price that it would cost to install them. Which is bleak, isn't it? It's like it would"
+  },
+  {
+    "start": 1417,
+    "end": 1422.44,
+    "text": " save so many thousands of lives, but they weren't worth enough for them to do it. I guess there's"
+  },
+  {
+    "start": 1422.44,
+    "end": 1429.4,
+    "text": " got to be some kind of calculation. Is it like... Sorry, sorry, sorry. You're making decisions"
+  },
+  {
+    "start": 1429.4,
+    "end": 1434.04,
+    "text": " about a limited amount of resources, all your income as a country, and you're trying to maximise"
+  },
+  {
+    "start": 1434.04,
+    "end": 1442.44,
+    "text": " the human life. Yeah, we all agree I'd rant. But is it like if you're mountaineering and you"
+  },
+  {
+    "start": 1442.44,
+    "end": 1447.08,
+    "text": " know, you get lost and the government are like, well, he's actually already had $3 million because"
+  },
+  {
+    "start": 1447.08,
+    "end": 1452.36,
+    "text": " you know, we put him up in hospital that time. Oh, if you're in one ravine and in the next"
+  },
+  {
+    "start": 1452.36,
+    "end": 1458.44,
+    "text": " ravine, there's a lot of Bitcoin. It makes more sense for the government to go for the Bitcoin."
+  },
+  {
+    "start": 1458.44,
+    "end": 1462.36,
+    "text": " Yeah, yeah. Depending on how Bitcoin's doing, you know, it's very variable. Yeah, well,"
+  },
+  {
+    "start": 1462.36,
+    "end": 1468.6,
+    "text": " food's a thought. I mean, food's big food's a thought. You know, the calculation was actually,"
+  },
+  {
+    "start": 1468.6,
+    "end": 1474.28,
+    "text": " there's a bit more to it, the 100K. So it wasn't that he thought that was his full life that was"
+  },
+  {
+    "start": 1474.28,
+    "end": 1479.72,
+    "text": " worth that amount. He calculated based on the fact that he had a day job and that this decision"
+  },
+  {
+    "start": 1479.72,
+    "end": 1486.12,
+    "text": " making was only going to apply to his free time. So 100K is based on his nights and his weekends."
+  },
+  {
+    "start": 1486.12,
+    "end": 1490.36,
+    "text": " So yeah, there's still, if you round him up, it's still low. It's still, he'd be about a mil,"
+  },
+  {
+    "start": 1490.36,
+    "end": 1494.28,
+    "text": " just under a mil maybe, I guess, for the rest of the, well, there's bleed between your, you can't"
+  },
+  {
+    "start": 1494.28,
+    "end": 1497.64,
+    "text": " separate those perfectly. As in, if you grow a moustache, that will affect your job. Yeah."
+  },
+  {
+    "start": 1497.64,
+    "end": 1502.44,
+    "text": " Depending on what you do for a living. If you believe in ghosts. Exactly. It's a 24/7"
+  },
+  {
+    "start": 1502.44,
+    "end": 1508.2,
+    "text": " activity. It works in a creepy old house. This is true. Yeah. I think it's harder to make decisions"
+  },
+  {
+    "start": 1509.16,
+    "end": 1512.2,
+    "text": " everywhere, for everybody at the moment, because there's the thing about how many more decisions"
+  },
+  {
+    "start": 1512.2,
+    "end": 1516.28,
+    "text": " you have to make. So there's an economist called Eric Beinhacher. I think he was very"
+  },
+  {
+    "start": 1516.28,
+    "end": 1521.48,
+    "text": " eminent and famous and he wrote a book. It was a huge sellout about this kind of thing. And he"
+  },
+  {
+    "start": 1521.48,
+    "end": 1526.6,
+    "text": " had estimated that between 10,000 years ago and the modern day, human choices had multiplied"
+  },
+  {
+    "start": 1526.6,
+    "end": 1535.24,
+    "text": " a hundred million fold. Wow. Oh my God. I have five or six different eye creams in my bedside table."
+  },
+  {
+    "start": 1535.24,
+    "end": 1541.24,
+    "text": " Okay. And every night, I choose one of those five or six eye creams. Based on mood. Yeah,"
+  },
+  {
+    "start": 1541.24,
+    "end": 1546.92,
+    "text": " based on mood. Right. Based on vibe. And I sort of enjoy that process. Yeah."
+  },
+  {
+    "start": 1546.92,
+    "end": 1553.72,
+    "text": " That's just one of the many examples. I've walked 40 minutes near the office wondering"
+  },
+  {
+    "start": 1553.72,
+    "end": 1558.12,
+    "text": " what to have for lunch. Yeah. And I've gone into four places and not had lunch in any of them."
+  },
+  {
+    "start": 1558.12,
+    "end": 1561,
+    "text": " Back in the day, Andy, you would have been walking around the jungle going,"
+  },
+  {
+    "start": 1561.56,
+    "end": 1568.44,
+    "text": " \"Shall I kill that buffalo or shall I go after that?\" Exactly. That lemon. Probably take the"
+  },
+  {
+    "start": 1568.44,
+    "end": 1574.12,
+    "text": " lemon. Yeah. Returning it when it doesn't taste as good. It's a bit of a habit of Andy's. Right."
+  },
+  {
+    "start": 1574.12,
+    "end": 1576.84,
+    "text": " Sorry. Remember the time you returned that sausage? I once."
+  },
+  {
+    "start": 1576.84,
+    "end": 1582.92,
+    "text": " One time. I once went back to a local restaurant. And it wasn't because it didn't taste good. It"
+  },
+  {
+    "start": 1582.92,
+    "end": 1589,
+    "text": " tasted great. Was it a single sausage? Well, yeah. And I was 11 pounds down on the transaction."
+  },
+  {
+    "start": 1589,
+    "end": 1593.88,
+    "text": " A single sausage. I ask you. You must have the picture of you on the door when you walk in,"
+  },
+  {
+    "start": 1593.88,
+    "end": 1598.12,
+    "text": " so do not allow this man to return his sausage. They gave me another sausage in the end. But"
+  },
+  {
+    "start": 1598.12,
+    "end": 1601.48,
+    "text": " by that point, the whole transaction was so spoiled, you know. Yeah. I wasn't able to enjoy"
+  },
+  {
+    "start": 1601.48,
+    "end": 1607,
+    "text": " either of the two sausages I ended up taking away. Yeah. I like that you're holding a fork"
+  },
+  {
+    "start": 1607,
+    "end": 1611.08,
+    "text": " with a sausage on the end. You're walking around the restaurant trying to find the manager."
+  },
+  {
+    "start": 1612.6,
+    "end": 1620.92,
+    "text": " Tutting. Well, it was a takeaway. So I actually had to go back in. So you take the box on trust,"
+  },
+  {
+    "start": 1620.92,
+    "end": 1624.04,
+    "text": " don't you? I'm sure this is a nice dish. You take it away. You open it up. I think this is"
+  },
+  {
+    "start": 1624.04,
+    "end": 1628.68,
+    "text": " ridiculous. Was it a hot dog? Painful. No, it was just a sausage. Rachel, it was a sausage."
+  },
+  {
+    "start": 1628.68,
+    "end": 1634.92,
+    "text": " Why did you buy a sausage to take away? I don't understand the meal. It was a sausage and rice."
+  },
+  {
+    "start": 1636.44,
+    "end": 1642.44,
+    "text": " It was so depressed. But it was a very nicely spiced sausage. But it was still ridiculous."
+  },
+  {
+    "start": 1642.44,
+    "end": 1647.64,
+    "text": " What was wrong with it? It was too small. It was two, it was 11 quid. One small sausage for 11"
+  },
+  {
+    "start": 1647.64,
+    "end": 1651.48,
+    "text": " quid. This was about five years ago, I should say. This was before the cost of living crisis. This was,"
+  },
+  {
+    "start": 1651.48,
+    "end": 1655.88,
+    "text": " you know, at the time sausages were going for like two quid. You know, this is ridiculous. Yeah."
+  },
+  {
+    "start": 1655.88,
+    "end": 1659.32,
+    "text": " This is ridiculous. So you didn't think you were getting your money's worth? I didn't. And I went"
+  },
+  {
+    "start": 1659.32,
+    "end": 1663.88,
+    "text": " back and I remonstrated for quite some time. But you stay, I mean, we had a good 20 minute chat"
+  },
+  {
+    "start": 1663.88,
+    "end": 1668.84,
+    "text": " here where you were deciding whether or not and building the fury. I mean, this is not"
+  },
+  {
+    "start": 1668.84,
+    "end": 1673.4,
+    "text": " me remembering a random thing. This was a big incident. This was sausage gate in this office."
+  },
+  {
+    "start": 1673.4,
+    "end": 1679.32,
+    "text": " I've just got a couple of things on decision making. One of the great ways of deciding is just"
+  },
+  {
+    "start": 1679.32,
+    "end": 1683.56,
+    "text": " coin flipping. So many things in history have been decided from just getting a flip of a coin."
+  },
+  {
+    "start": 1683.56,
+    "end": 1689.24,
+    "text": " So, you know, the company Packard Hewlett. Packard. That's right. Because he won the"
+  },
+  {
+    "start": 1689.24,
+    "end": 1693.24,
+    "text": " Toinkos and that's why he got named that. It could have been the other way around. We could have"
+  },
+  {
+    "start": 1693.24,
+    "end": 1698.36,
+    "text": " had Packard Hewlett. Did you say the Toinkos? Yeah, that's well, and that could have been cool."
+  },
+  {
+    "start": 1698.36,
+    "end": 1702.44,
+    "text": " That was a coin toss that won that way around as well. We wrote that out with a computer, didn't"
+  },
+  {
+    "start": 1702.44,
+    "end": 1709.48,
+    "text": " they? Yeah. So we've got Hewlett Packard off the back of that. Portland, we've all heard of Portland,"
+  },
+  {
+    "start": 1709.48,
+    "end": 1714.68,
+    "text": " the city in America. Yeah. That was meant to be called Boston, but they lost the Toinkos."
+  },
+  {
+    "start": 1714.68,
+    "end": 1720.12,
+    "text": " The Toinkos? We don't keep saying it. Should we call it a Toinkos?"
+  },
+  {
+    "start": 1720.12,
+    "end": 1727.56,
+    "text": " Great. Yeah. So that should have been called Boston. Wait, they were trying to call themselves,"
+  },
+  {
+    "start": 1727.56,
+    "end": 1731,
+    "text": " but what did Boston have to say? I don't think Boston was called Boston at that point."
+  },
+  {
+    "start": 1731,
+    "end": 1733.4,
+    "text": " Oh, okay. I'm guessing. Oh, James thinks it is."
+  },
+  {
+    "start": 1733.4,
+    "end": 1741.4,
+    "text": " Why would they have called it Boston then? Just another Boston. Okay, right. Yeah."
+  },
+  {
+    "start": 1742.36,
+    "end": 1747.4,
+    "text": " Yeah. The Wright brothers as well. So Wilbur Wright. We're going to be called the wrong brothers."
+  },
+  {
+    "start": 1747.4,
+    "end": 1752.6,
+    "text": " Should we go in the air or should we go underground?"
+  },
+  {
+    "start": 1752.6,
+    "end": 1763.24,
+    "text": " So Wilbur became the first person ever to fly a plane because of a Toinkos."
+  },
+  {
+    "start": 1767.64,
+    "end": 1773,
+    "text": " And, but this was an unfortunate one because Wilbur's first flight didn't go. It didn't work."
+  },
+  {
+    "start": 1773,
+    "end": 1777.48,
+    "text": " So the second flight then went to Orville, who then became the first person to fly a plane."
+  },
+  {
+    "start": 1777.48,
+    "end": 1782.92,
+    "text": " So sometimes it can go against you. Yeah. And that's why the duck was called Orville and not Wilbur."
+  },
+  {
+    "start": 1782.92,
+    "end": 1790.6,
+    "text": " Was it? No. No. He famously couldn't fly Horville the duck. I wish I could fly way up in the sky,"
+  },
+  {
+    "start": 1790.6,
+    "end": 1797,
+    "text": " but I can't. You can. I would, I'd like to pick that Lauren as my desert island."
+  },
+  {
+    "start": 1797,
+    "end": 1800.6,
+    "text": " Thank you very much. That one's going out for the children and the foreigners."
+  },
+  {
+    "start": 1800.6,
+    "end": 1812.44,
+    "text": " Okay. It is time for fact number three and that is James. Okay. My fact this week is that according"
+  },
+  {
+    "start": 1812.44,
+    "end": 1818.84,
+    "text": " to a survey of pubs in 1930, the average time someone in Bolton took to drink a pint of beer"
+  },
+  {
+    "start": 1818.84,
+    "end": 1828.6,
+    "text": " was 52 minutes. In Liverpool, it was 22 minutes. 52 is a long time. 22 is quite speedy. I'm in the"
+  },
+  {
+    "start": 1828.6,
+    "end": 1834.52,
+    "text": " like 10 to 15 mark, I reckon. Well, on average, like if you have five pints in a night, it slows"
+  },
+  {
+    "start": 1834.52,
+    "end": 1841.24,
+    "text": " down, doesn't it? Yeah. Okay. So I read this in a book called Darts in England, 1900 to 1939,"
+  },
+  {
+    "start": 1841.24,
+    "end": 1846.28,
+    "text": " a social history by Patrick Chaplin, which I've mentioned before, which is an amazing book,"
+  },
+  {
+    "start": 1846.28,
+    "end": 1851.16,
+    "text": " which is mostly about darts. And he really does talk about darts quite a lot in this context as"
+  },
+  {
+    "start": 1851.16,
+    "end": 1858.52,
+    "text": " well, because it was related to a thing called mass observation, which was, it was this thing in"
+  },
+  {
+    "start": 1858.52,
+    "end": 1863.96,
+    "text": " Britain where they got a panel of observers and they made a diary about what was happening in"
+  },
+  {
+    "start": 1863.96,
+    "end": 1868.52,
+    "text": " their day to day life. And the idea is they do it over time and in different places. And it would"
+  },
+  {
+    "start": 1868.52,
+    "end": 1873.24,
+    "text": " give an idea of what was happening in the country. But anyway, there was this thing in Liverpool"
+  },
+  {
+    "start": 1873.24,
+    "end": 1879.72,
+    "text": " that they banned darts and actually any pub games. And they thought it was encouraging people to go"
+  },
+  {
+    "start": 1879.72,
+    "end": 1883.64,
+    "text": " into pubs. And so they wouldn't let you do it. In fact, Liverpool was the only city in the country"
+  },
+  {
+    "start": 1883.64,
+    "end": 1888.68,
+    "text": " where no one played darts in pubs. But what happened was it had the opposite effect. Because"
+  },
+  {
+    "start": 1888.68,
+    "end": 1893.8,
+    "text": " you couldn't play darts or pool or dominoes or whatever, you had no distractions. You just drank"
+  },
+  {
+    "start": 1893.8,
+    "end": 1897.64,
+    "text": " more because you didn't have anything, you know, if you're playing darts, you have to go and collect"
+  },
+  {
+    "start": 1897.64,
+    "end": 1901.56,
+    "text": " the darts and come back and stuff. And it's, and you're not drinking. Whereas in Liverpool,"
+  },
+  {
+    "start": 1901.56,
+    "end": 1906.36,
+    "text": " they would just get in drunk. Then eventually they brought sports back into pubs in Liverpool."
+  },
+  {
+    "start": 1906.36,
+    "end": 1911,
+    "text": " Is that, is that why? Yeah, because in Bolton was famously at the time, a lot of people played"
+  },
+  {
+    "start": 1911,
+    "end": 1916.04,
+    "text": " darts and played pool and stuff and still do. That's really interesting. This is weird, because I"
+  },
+  {
+    "start": 1916.04,
+    "end": 1922.04,
+    "text": " was separately reading about pubs in Bolton. And but I got a fact from the mass observation study."
+  },
+  {
+    "start": 1922.04,
+    "end": 1927.88,
+    "text": " Oh, really? Yeah. So it was in this one was in 1937 and 38. I don't know whether is that about the"
+  },
+  {
+    "start": 1927.88,
+    "end": 1934.28,
+    "text": " right time? Yeah, 30s. So and yeah, as James says, massive survey of people. But I think they didn't"
+  },
+  {
+    "start": 1934.28,
+    "end": 1939.48,
+    "text": " have many people who were from Bolton doing the studying. So what they did was they got a lot of"
+  },
+  {
+    "start": 1939.48,
+    "end": 1947,
+    "text": " middle and upper class Southerners who dressed as northerners and put on accents and went incognito"
+  },
+  {
+    "start": 1947,
+    "end": 1952.04,
+    "text": " in pubs in Bolton and just drank and and you reckon they got away with that because I'm from"
+  },
+  {
+    "start": 1952.04,
+    "end": 1959.08,
+    "text": " Bolton. I just wonder what it was like. What were they doing? They were observing for the mass."
+  },
+  {
+    "start": 1959.08,
+    "end": 1964.2,
+    "text": " I think observing in people's behaviour in pubs and recording and you know what was said. So I"
+  },
+  {
+    "start": 1964.2,
+    "end": 1969.88,
+    "text": " just a couple of nice details from this study. One observer who was EL in the notes was rendered"
+  },
+  {
+    "start": 1969.88,
+    "end": 1976.04,
+    "text": " incapable of doing any observation after drinking eight pints in an hour and 45 minutes. They got"
+  },
+  {
+    "start": 1976.04,
+    "end": 1980.2,
+    "text": " into a lot of fights. It was all kind of glossed over. I think it was a pretty inglorious. I mean,"
+  },
+  {
+    "start": 1980.2,
+    "end": 1985.56,
+    "text": " if you're a middle class or upper class person from the south going to the north dressed as a"
+  },
+  {
+    "start": 1985.56,
+    "end": 1991,
+    "text": " northerner and doing a fake northern accent, you're going to get in fights. I'm sorry. And they also"
+  },
+  {
+    "start": 1991,
+    "end": 1998.36,
+    "text": " had a covert photographer in the corner. Dressed as a whip. Taking secret pictures, I guess, of the"
+  },
+  {
+    "start": 1998.36,
+    "end": 2007.64,
+    "text": " fights as they broke out. Do you want some pub slang? Sure. A quiz. Pint hole. My mouth. It's not"
+  },
+  {
+    "start": 2007.64,
+    "end": 2015,
+    "text": " the mouth. Oh, dear. How are people drinking pints? We need a funnel. Pint hole. Is it like"
+  },
+  {
+    "start": 2015,
+    "end": 2019.88,
+    "text": " the cellar where you go and get the beer from? This is actually the least good answer of the three"
+  },
+  {
+    "start": 2019.88,
+    "end": 2028.36,
+    "text": " that I've got. It's just the public bar. Oh. All right. A wobble shop. Wobble shop. Wobbling like,"
+  },
+  {
+    "start": 2028.36,
+    "end": 2033.88,
+    "text": " you know, unsteady because you're drunk. It's just another word for a pub again. It's an unlicensed"
+  },
+  {
+    "start": 2033.88,
+    "end": 2041.08,
+    "text": " pub. Apparently. He's down the wobble shop. Do we get unlicensed pubs? Well, they're not loud,"
+  },
+  {
+    "start": 2041.08,
+    "end": 2049.08,
+    "text": " but it's quite bold to be calling yourself a pub. This one's hard, but it's good. You're an"
+  },
+  {
+    "start": 2049.08,
+    "end": 2056.04,
+    "text": " admiral of the narrow seas. Okay. Does it just mean drunk? It is something you do when you're"
+  },
+  {
+    "start": 2056.04,
+    "end": 2061.48,
+    "text": " drunk. You sway like you're on a boat. Very nice. No. Buy some stuff off eBay that you really shouldn't"
+  },
+  {
+    "start": 2061.48,
+    "end": 2067.56,
+    "text": " buy. That's it. That's it. No, it's drunkenly throwing up into someone else's lap. Oh. All right,"
+  },
+  {
+    "start": 2067.56,
+    "end": 2074.92,
+    "text": " but I'm an admiral of the narrow seas. It's okay. I'm qualified. Take it up with the Navy."
+  },
+  {
+    "start": 2074.92,
+    "end": 2081.8,
+    "text": " Come on, Captain Dingle. Let's get out of here. There's a pub in Bolton called the Old Madden"
+  },
+  {
+    "start": 2081.8,
+    "end": 2085.72,
+    "text": " Seyve. We talked about Bolton before. It's possibly the oldest pub in the country. It's"
+  },
+  {
+    "start": 2085.72,
+    "end": 2091.08,
+    "text": " certainly in the top 10. And there's a mention of its name from 1251. So we know it's at least"
+  },
+  {
+    "start": 2091.08,
+    "end": 2096.92,
+    "text": " that old, but it's where the Earl of Derby was executed in 1651 for his part in the Bolton"
+  },
+  {
+    "start": 2096.92,
+    "end": 2101.48,
+    "text": " Massacre. This was during one of the Civil Wars. And there's a chair there. It was the last chair"
+  },
+  {
+    "start": 2101.48,
+    "end": 2106.44,
+    "text": " he sat in before he was beheaded at the Earl of Derby. At the pub? It's in the pub. Yeah, it's"
+  },
+  {
+    "start": 2106.44,
+    "end": 2114.84,
+    "text": " quite very famous in Bolton this. And they have 53 ghosts in this pub apparently, including a ghost"
+  },
+  {
+    "start": 2114.84,
+    "end": 2119.24,
+    "text": " dog that's known to lick the manager's feet when he lets them hang out of the bed in the middle"
+  },
+  {
+    "start": 2119.24,
+    "end": 2124.76,
+    "text": " of the night. Well, Mike Merrill, if you're listening, you need to get there ASAP. But that's"
+  },
+  {
+    "start": 2124.76,
+    "end": 2130.12,
+    "text": " a lot of ghosts for one pub. It's an old pub though. It's from 1251. So, you know. Yeah."
+  },
+  {
+    "start": 2130.12,
+    "end": 2136.52,
+    "text": " Because as I was looking into, there's usually the most haunted everything in Britain. And I"
+  },
+  {
+    "start": 2136.52,
+    "end": 2143.08,
+    "text": " couldn't find pub. And then the ones that I read, they had like four ghosts. So that's huge. I would"
+  },
+  {
+    "start": 2143.08,
+    "end": 2148.84,
+    "text": " imagine with pubs, unlike houses or hotels or anything, because you don't stay there overnight."
+  },
+  {
+    "start": 2148.84,
+    "end": 2153.24,
+    "text": " It's a lot less spooky, isn't it? Because you can just leave. Do you know what I mean? Like,"
+  },
+  {
+    "start": 2153.24,
+    "end": 2157.24,
+    "text": " it's such a fleet that you go to the pub for a few hours, but then you go home and also it's like"
+  },
+  {
+    "start": 2157.24,
+    "end": 2163.4,
+    "text": " busy and social. So, I don't know, it's got a lot less spooky. But most pubs outside cities would"
+  },
+  {
+    "start": 2163.4,
+    "end": 2167.88,
+    "text": " have rooms, wouldn't they? And you know, there are taverns, you know, Jamaica Inn, that kind of"
+  },
+  {
+    "start": 2167.88,
+    "end": 2173.32,
+    "text": " vine, you know, spooky old pub up on the moors. And you know, there's dark business going on there."
+  },
+  {
+    "start": 2173.32,
+    "end": 2179.16,
+    "text": " That's based on Jamaica Inn. Yeah. I accidentally backed into someone's car. Wow. You were the real"
+  },
+  {
+    "start": 2179.16,
+    "end": 2185.08,
+    "text": " pirate. I know. Well, I went into the bar and told them that I did it. There was no problem. But"
+  },
+  {
+    "start": 2185.08,
+    "end": 2189,
+    "text": " yeah, I've been there. And also I've been to what I think is the most haunted or they say it was the"
+  },
+  {
+    "start": 2189,
+    "end": 2194.92,
+    "text": " most haunted, which is the mermaid and rye, which yeah, has got a billion ghosts. What, rye and"
+  },
+  {
+    "start": 2194.92,
+    "end": 2201.48,
+    "text": " Sussex? Yeah, or Kent. It's on the coast. Yeah. Rye's in Sussex. Yeah. Yeah. Rye is a lovely town."
+  },
+  {
+    "start": 2201.48,
+    "end": 2206.04,
+    "text": " It is very nice. The mermaid's a lovely pub. You've been to quite a few supposedly haunted"
+  },
+  {
+    "start": 2206.04,
+    "end": 2211.08,
+    "text": " places. Yeah, I'm a big fan of them. Maybe. I don't believe in any of them. Maybe you're a ghost."
+  },
+  {
+    "start": 2211.08,
+    "end": 2218.04,
+    "text": " That's spooky. Maybe you're Hailey Joel Osmond. I don't know. Grown up. It's six cents."
+  },
+  {
+    "start": 2218.04,
+    "end": 2224.84,
+    "text": " Oh, it's the kids. Sorry, right. I was watching clips from the six cents the other day and that"
+  },
+  {
+    "start": 2224.84,
+    "end": 2229.56,
+    "text": " that joke still went over my head. Sorry. No, no, I love it. Thanks for calling it a joke though."
+  },
+  {
+    "start": 2230.44,
+    "end": 2237.4,
+    "text": " I was just looking into drinking beer fast, which is related to what you're talking about."
+  },
+  {
+    "start": 2237.4,
+    "end": 2247.08,
+    "text": " So before we get to beer, the fastest drinker of a fizzy drink certainly is a guy called Eric"
+  },
+  {
+    "start": 2247.08,
+    "end": 2254.52,
+    "text": " Badlands Booker. Such a sexy, outlawish name. There's obviously just drink fizzy drinks first."
+  },
+  {
+    "start": 2254.52,
+    "end": 2261.32,
+    "text": " He drank a liter of Mountain Dew, the American fizzy drink, from a measuring cup in 6.8 seconds."
+  },
+  {
+    "start": 2261.32,
+    "end": 2268.28,
+    "text": " And previously, his record was drinking two liters in 18 seconds. That was just last year."
+  },
+  {
+    "start": 2268.28,
+    "end": 2275.96,
+    "text": " But I came across this guy who is a British man called Peter Dowdswell. And he has not only got"
+  },
+  {
+    "start": 2275.96,
+    "end": 2285.48,
+    "text": " the record for drinking a pint of beer the quickest, but he's got records in so many food and drink"
+  },
+  {
+    "start": 2285.48,
+    "end": 2295.4,
+    "text": " speed competitions. So he had to retire a few years ago when he suffered back and shoulder"
+  },
+  {
+    "start": 2295.4,
+    "end": 2304.2,
+    "text": " injuries as he tried to sink a pint while being held upside down. He was 71. 71? Yeah. Oh my god."
+  },
+  {
+    "start": 2304.2,
+    "end": 2307.4,
+    "text": " He was dropped twice by the men who were employed to hold his drinks."
+  },
+  {
+    "start": 2307.4,
+    "end": 2308.36,
+    "text": " Who was holding them?"
+  },
+  {
+    "start": 2308.36,
+    "end": 2315.8,
+    "text": " Yeah, that's amazing. So he holds like all, he's gone through, he's really like belt and braces."
+  },
+  {
+    "start": 2315.8,
+    "end": 2323.88,
+    "text": " He holds the records for drinking ale, beer, coke, champagne, milk, and milk upside down."
+  },
+  {
+    "start": 2323.88,
+    "end": 2331.32,
+    "text": " And he holds records for eating quickly, raw eggs, cocktail sausages, pies soaked in Worcester"
+  },
+  {
+    "start": 2331.32,
+    "end": 2340.44,
+    "text": " sauce, sushi, Weeter Bix, sausages upside down. And my favourite, eating quickly, sausages on"
+  },
+  {
+    "start": 2340.44,
+    "end": 2348.92,
+    "text": " John Evans's head. Do we know John Evans's? No, I don't know. I think we're meant to know."
+  },
+  {
+    "start": 2348.92,
+    "end": 2353.56,
+    "text": " Right. Actually, I am impressed by that because it's hard. I would imagine to eat a sausage off"
+  },
+  {
+    "start": 2353.56,
+    "end": 2358.68,
+    "text": " someone's head because heads are not plate shaped. Oh, you see in my head, he was sat on the guy's head."
+  },
+  {
+    "start": 2358.68,
+    "end": 2362.76,
+    "text": " I thought he was sat on. I think you're right. I think you're right. Yeah. I don't, sorry,"
+  },
+  {
+    "start": 2362.76,
+    "end": 2366.04,
+    "text": " you're correct. I'm sure you're right. Yeah, Evans is probably not a plate."
+  },
+  {
+    "start": 2366.04,
+    "end": 2371.56,
+    "text": " I think either could be possible. Yeah. I don't know. Do you know that the, I was reading about"
+  },
+  {
+    "start": 2371.56,
+    "end": 2378.04,
+    "text": " pub quizzes and that when they existed, when they first came about. And if you look at the"
+  },
+  {
+    "start": 2378.04,
+    "end": 2382.44,
+    "text": " internet, it says that they came about in the 1970s, but I found in the newspaper archives,"
+  },
+  {
+    "start": 2382.44,
+    "end": 2388.04,
+    "text": " there was definitely one happening in 1954, in Neath in Wales. So we reckon around just"
+  },
+  {
+    "start": 2388.04,
+    "end": 2395.96,
+    "text": " after World War II. But probably they didn't exist in 1947, because I found an article about a pub"
+  },
+  {
+    "start": 2395.96,
+    "end": 2402.68,
+    "text": " quiz in Sunderland. And this was, they advertised it as the pub quiz. And what it was is young"
+  },
+  {
+    "start": 2402.68,
+    "end": 2407.08,
+    "text": " people could go to a pub and ask a panel of married people about the intricacies of sex."
+  },
+  {
+    "start": 2408.36,
+    "end": 2412.44,
+    "text": " And that was called, it was called a pub quiz. That's amazing. Isn't that amazing?"
+  },
+  {
+    "start": 2412.44,
+    "end": 2416.92,
+    "text": " Quizzing someone asking that question. Yeah, yeah, yeah, yeah. That's, I could do with that."
+  },
+  {
+    "start": 2416.92,
+    "end": 2422.68,
+    "text": " Is that still a thing? I think any good pub quiz master will be able to answer some of your"
+  },
+  {
+    "start": 2422.68,
+    "end": 2425.96,
+    "text": " questions. Not all of them. I didn't have to do it between the rounds as well."
+  },
+  {
+    "start": 2425.96,
+    "end": 2432.12,
+    "text": " But yeah. And I think it's like World War II just finished. They're trying to get the population"
+  },
+  {
+    "start": 2432.12,
+    "end": 2437.24,
+    "text": " up, you know, young married couples got questions. So they, God."
+  },
+  {
+    "start": 2437.24,
+    "end": 2441.48,
+    "text": " She just finished the music round. Any questions? Dan sticks her hands up. Yeah."
+  },
+  {
+    "start": 2441.48,
+    "end": 2450.76,
+    "text": " It's foreplay stuff. Is sexual or optional? I wonder what the questions were that were asked."
+  },
+  {
+    "start": 2450.76,
+    "end": 2456.28,
+    "text": " I didn't say it was just like, this is a thing that's happened. Wow. That would be,"
+  },
+  {
+    "start": 2456.28,
+    "end": 2461.88,
+    "text": " that would be great if you could ask married people what, what it's like. Well, can you remember"
+  },
+  {
+    "start": 2461.88,
+    "end": 2470.6,
+    "text": " what it was like? I think I remember a question when my mum told me about sex when I was, I don't"
+  },
+  {
+    "start": 2470.6,
+    "end": 2478.84,
+    "text": " know what age, like, I think I was nine or something. I think I remember. So she described it to me."
+  },
+  {
+    "start": 2478.84,
+    "end": 2485.56,
+    "text": " And I think I remember asking how, how do you both move at the same time?"
+  },
+  {
+    "start": 2486.44,
+    "end": 2491.72,
+    "text": " Which I still think is quite a valid question. You know, I don't know, I've never had sex, but"
+  },
+  {
+    "start": 2491.72,
+    "end": 2499,
+    "text": " the answer ultimately, of course, you know, you just sort of, just sort of works most of the time."
+  },
+  {
+    "start": 2499,
+    "end": 2503.8,
+    "text": " It just kind of happens. Yeah. I've just, I, did you, the very first time say to someone,"
+  },
+  {
+    "start": 2503.8,
+    "end": 2509.08,
+    "text": " hey, don't worry, I know what you're thinking, but I've got it covered. I spoke to mum, she explained it."
+  },
+  {
+    "start": 2511,
+    "end": 2518.76,
+    "text": " It will work. It's a to me to use situation. The Chuckle Brothers were the greatest lovers"
+  },
+  {
+    "start": 2518.76,
+    "end": 2531,
+    "text": " in history. Okay, it is time for our final fact of the show. And that is Andy. My fact is,"
+  },
+  {
+    "start": 2531,
+    "end": 2536.12,
+    "text": " when he was approached for the role, the first actor to play Mr. Blobby was simultaneously"
+  },
+  {
+    "start": 2536.12,
+    "end": 2544.6,
+    "text": " appearing in Shakespeare's measure for measure. I just imagine him turning up in the wrong outfit."
+  },
+  {
+    "start": 2544.6,
+    "end": 2550.2,
+    "text": " I wish I knew any quotes from measures for measures."
+  },
+  {
+    "start": 2550.2,
+    "end": 2556.44,
+    "text": " When you're playing the Duke of Venice. So this is about Mr. Blobby. And I think for international"
+  },
+  {
+    "start": 2556.44,
+    "end": 2562.92,
+    "text": " lessons, we should just quickly say our children. Mr. Blobby is kind of like one of the national"
+  },
+  {
+    "start": 2562.92,
+    "end": 2572.12,
+    "text": " animals of England, I would say. He's a, he's a big pink object, humanoid creature, pink and yellow."
+  },
+  {
+    "start": 2572.12,
+    "end": 2576.68,
+    "text": " He's seven feet tall. He wears a bow tie and he screams blobby, blobby, blobby. And he wears a"
+  },
+  {
+    "start": 2576.68,
+    "end": 2581.16,
+    "text": " big inflatable suit and he just turns up on TV and causes mayhem. And I think he, Mr. Blobby"
+  },
+  {
+    "start": 2581.16,
+    "end": 2586.52,
+    "text": " doesn't wear a big inflatable suit. Mr. Blobby is the inflatable suit. It's not like inside Mr. Blobby,"
+  },
+  {
+    "start": 2586.52,
+    "end": 2591,
+    "text": " there's a smaller blobby. No, inside there's a man who it turns out is classically trained."
+  },
+  {
+    "start": 2591.8,
+    "end": 2596.04,
+    "text": " Inside there's just a very big heart. Thank you."
+  },
+  {
+    "start": 2596.04,
+    "end": 2599.64,
+    "text": " So basically, Mr. Blobby's been having a bit of a moment because he was really big in the 90s."
+  },
+  {
+    "start": 2599.64,
+    "end": 2607,
+    "text": " And he was on a thing called Noel's House Party, hosted by Noel Evans. And he's been sort of back"
+  },
+  {
+    "start": 2607,
+    "end": 2610.36,
+    "text": " in the news recently, just there's been a few sightings of him and there's been a costume put"
+  },
+  {
+    "start": 2610.36,
+    "end": 2614.28,
+    "text": " up on sale and all this. And I was reading this piece in the news statement, \"Beautiful piece\" by"
+  },
+  {
+    "start": 2614.28,
+    "end": 2620.44,
+    "text": " Stuart Mccony, all about Mr. Blobby. And I just wanted to read you this line because it's, I think"
+  },
+  {
+    "start": 2620.44,
+    "end": 2624.36,
+    "text": " maybe the most beautiful thing that's ever been written about Mr. Blobby. \"Malice and stupidity"
+  },
+  {
+    "start": 2624.36,
+    "end": 2629.88,
+    "text": " were never far from Blobby's puce bulbous surface. There was surely something of Antonin Artode's"
+  },
+  {
+    "start": 2629.88,
+    "end": 2634.76,
+    "text": " Theatre of Cruelty in Blobby's defiantly senseless nihilistic interventions.\""
+  },
+  {
+    "start": 2634.76,
+    "end": 2636.6,
+    "text": " He's such a great writer."
+  },
+  {
+    "start": 2636.6,
+    "end": 2641.8,
+    "text": " He's great. And so he basically, he would just cause absolute mayhem and break things and,"
+  },
+  {
+    "start": 2641.8,
+    "end": 2644.84,
+    "text": " you know, sit on people and throw them, get in fights."
+  },
+  {
+    "start": 2644.84,
+    "end": 2647.8,
+    "text": " Yeah. What was the name of this guy who, who played him?"
+  },
+  {
+    "start": 2647.8,
+    "end": 2649.24,
+    "text": " He was called Barry Killaby."
+  },
+  {
+    "start": 2649.24,
+    "end": 2653.8,
+    "text": " Barry Killaby. And he's gone off and done other things. He's done bits of acting."
+  },
+  {
+    "start": 2653.8,
+    "end": 2657.16,
+    "text": " He was in \"Chucklevision,\" for instance, with the Chucklebrothers on stage."
+  },
+  {
+    "start": 2657.16,
+    "end": 2664.68,
+    "text": " And just before COVID, he put on a one-man theatre show about the final days of Harry Houdini."
+  },
+  {
+    "start": 2664.68,
+    "end": 2671.4,
+    "text": " Again, not in the Blobby costume. He was just doing that. But he has come back and he is doing"
+  },
+  {
+    "start": 2671.4,
+    "end": 2676.76,
+    "text": " the Blobby from time to time. He still goes into the Blobby suit. The reason being that actually"
+  },
+  {
+    "start": 2676.76,
+    "end": 2680.6,
+    "text": " is a lot of acting is, you know, it's a difficult thing to do to get the point across when you're"
+  },
+  {
+    "start": 2680.6,
+    "end": 2687.08,
+    "text": " in a massive suit. But recently he was on \"This Morning\" on ITV. And he was punched in the stomach"
+  },
+  {
+    "start": 2687.08,
+    "end": 2693.48,
+    "text": " by Maggie Philbin. And the article said that he let out a piercing scream and fell down like a sack"
+  },
+  {
+    "start": 2693.48,
+    "end": 2699.48,
+    "text": " of spunts. Now, what I find interesting about that is that Barry had just done a play about Harry"
+  },
+  {
+    "start": 2699.48,
+    "end": 2701.56,
+    "text": " Houdini. How did Harry Houdini die?"
+  },
+  {
+    "start": 2701.56,
+    "end": 2702.6,
+    "text": " He was punched in the stomach."
+  },
+  {
+    "start": 2702.6,
+    "end": 2703.8,
+    "text": " He was punched in the stomach."
+  },
+  {
+    "start": 2703.8,
+    "end": 2704.76,
+    "text": " Oh, yes."
+  },
+  {
+    "start": 2704.76,
+    "end": 2707.8,
+    "text": " Barry must have thought it was the end of his days, wasn't it?"
+  },
+  {
+    "start": 2707.8,
+    "end": 2710.28,
+    "text": " So it's happening again."
+  },
+  {
+    "start": 2710.28,
+    "end": 2715.24,
+    "text": " Does Blobby have an appendix? Which I think Houdini had a plendositis and that's..."
+  },
+  {
+    "start": 2715.24,
+    "end": 2718.68,
+    "text": " We don't know about Blobby's organs. We don't know about the organ structure of a Blobby."
+  },
+  {
+    "start": 2718.68,
+    "end": 2720.52,
+    "text": " No, we don't. No, that's very exciting."
+  },
+  {
+    "start": 2720.52,
+    "end": 2722.2,
+    "text": " That's really... Oh, God, what a spot."
+  },
+  {
+    "start": 2722.2,
+    "end": 2727,
+    "text": " That's interesting. What your mind does because I definitely thought that Houdini died"
+  },
+  {
+    "start": 2727,
+    "end": 2731.24,
+    "text": " from getting trapped in one of his boxes with chains wrapped it. And that's obviously something"
+  },
+  {
+    "start": 2731.24,
+    "end": 2733.48,
+    "text": " I've just invented in my head from films or something."
+  },
+  {
+    "start": 2733.48,
+    "end": 2734.92,
+    "text": " Yeah, no. It would be a good dramatic irony."
+  },
+  {
+    "start": 2734.92,
+    "end": 2736.12,
+    "text": " Yeah."
+  },
+  {
+    "start": 2736.12,
+    "end": 2741.4,
+    "text": " Barry was just... Well, we're talking about his sort of other life outside of Mr. Blobby."
+  },
+  {
+    "start": 2741.4,
+    "end": 2746.68,
+    "text": " So he was married once and then he and his wife broke up"
+  },
+  {
+    "start": 2746.68,
+    "end": 2750.2,
+    "text": " and then he got together with someone else. And do you know who it was?"
+  },
+  {
+    "start": 2750.2,
+    "end": 2750.84,
+    "text": " Miss Blobby?"
+  },
+  {
+    "start": 2750.84,
+    "end": 2753.72,
+    "text": " It was Mr. Blobby."
+  },
+  {
+    "start": 2753.72,
+    "end": 2755.24,
+    "text": " No."
+  },
+  {
+    "start": 2755.24,
+    "end": 2757.56,
+    "text": " Yeah, not Mrs. Blobby. Mr. Blobby."
+  },
+  {
+    "start": 2757.56,
+    "end": 2762.92,
+    "text": " So he was split from his wife and he was invited down to the"
+  },
+  {
+    "start": 2762.92,
+    "end": 2767.48,
+    "text": " staging of the Crinkley Bottom Castle show. So Crinkley Bottom is where Noel's House Party"
+  },
+  {
+    "start": 2767.48,
+    "end": 2768.68,
+    "text": " took place. It's where it kind of..."
+  },
+  {
+    "start": 2768.68,
+    "end": 2769.4,
+    "text": " It's a fictional village."
+  },
+  {
+    "start": 2769.4,
+    "end": 2773.16,
+    "text": " ...fictional village and they opened up a theme park. They did three in total,"
+  },
+  {
+    "start": 2773.16,
+    "end": 2775.96,
+    "text": " which were basically Mr. Blobby theme parks."
+  },
+  {
+    "start": 2775.96,
+    "end": 2779.16,
+    "text": " And part of it was that obviously Mr. Blobby's a character there."
+  },
+  {
+    "start": 2779.16,
+    "end": 2784.28,
+    "text": " So Barry got invited down to teach all the aspiring Blobby's how to move inside the suit."
+  },
+  {
+    "start": 2784.28,
+    "end": 2789.48,
+    "text": " And one of the people, one of the Blobby apprentices was this woman who he then got"
+  },
+  {
+    "start": 2789.48,
+    "end": 2792.28,
+    "text": " on with and they ended up getting together and moving in with each other."
+  },
+  {
+    "start": 2792.28,
+    "end": 2794.84,
+    "text": " So yeah, he's with another Blobby."
+  },
+  {
+    "start": 2794.84,
+    "end": 2795.72,
+    "text": " Incredible."
+  },
+  {
+    "start": 2795.72,
+    "end": 2797.16,
+    "text": " Yeah, just she's stuck it out."
+  },
+  {
+    "start": 2797.16,
+    "end": 2798.92,
+    "text": " Blobby, I mean I want to know so much about the story."
+  },
+  {
+    "start": 2798.92,
+    "end": 2800.52,
+    "text": " I want to know what Blobby Academy was like."
+  },
+  {
+    "start": 2800.52,
+    "end": 2804.04,
+    "text": " I want to see a boot camp montage of Blobby's school."
+  },
+  {
+    "start": 2804.04,
+    "end": 2807.64,
+    "text": " And then I want to see the moment where she takes off the Blobby head"
+  },
+  {
+    "start": 2807.64,
+    "end": 2810.6,
+    "text": " and he realises, oh my god, you're the love of my life."
+  },
+  {
+    "start": 2810.6,
+    "end": 2813.24,
+    "text": " And they lean into kiss but they can't quite make it."
+  },
+  {
+    "start": 2813.24,
+    "end": 2822.12,
+    "text": " I looked at other trained actors in costumes like that."
+  },
+  {
+    "start": 2822.12,
+    "end": 2829.64,
+    "text": " So Teletubbies, Simon Shelton played Tinky Winky and he was a trained ballet dancer"
+  },
+  {
+    "start": 2829.64,
+    "end": 2830.52,
+    "text": " and choreographer."
+  },
+  {
+    "start": 2830.52,
+    "end": 2833.96,
+    "text": " I mean many of them, you know, they're just classically trained, you know,"
+  },
+  {
+    "start": 2833.96,
+    "end": 2837.24,
+    "text": " actors and often, often dancers because of the movement."
+  },
+  {
+    "start": 2837.24,
+    "end": 2842.92,
+    "text": " And I don't know if I think we've all got, we've all got boys, haven't we, little boys?"
+  },
+  {
+    "start": 2842.92,
+    "end": 2843.72,
+    "text": " I've got a girl."
+  },
+  {
+    "start": 2843.72,
+    "end": 2844.44,
+    "text": " Oh, you've got a girl?"
+  },
+  {
+    "start": 2844.44,
+    "end": 2844.92,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 2844.92,
+    "end": 2849.48,
+    "text": " But does anyone actually delete all of this because it's completely relevant to what I'm about to say?"
+  },
+  {
+    "start": 2850.28,
+    "end": 2852.12,
+    "text": " But in The Night Garden."
+  },
+  {
+    "start": 2852.12,
+    "end": 2852.92,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 2852.92,
+    "end": 2854.6,
+    "text": " So that's my dog's favourite show."
+  },
+  {
+    "start": 2854.6,
+    "end": 2854.92,
+    "text": " Yes."
+  },
+  {
+    "start": 2854.92,
+    "end": 2855.8,
+    "text": " Yeah, my boys love it."
+  },
+  {
+    "start": 2855.8,
+    "end": 2856.84,
+    "text": " It's Billy's favourite show."
+  },
+  {
+    "start": 2856.84,
+    "end": 2863.4,
+    "text": " Iggle Pigle is played by Nick Kellington who also starred in two of the recent Star Wars films"
+  },
+  {
+    "start": 2863.4,
+    "end": 2864.52,
+    "text": " and The Dark Crystal."
+  },
+  {
+    "start": 2864.52,
+    "end": 2865.88,
+    "text": " Whoa, is that right?"
+  },
+  {
+    "start": 2865.88,
+    "end": 2866.92,
+    "text": " It's quite a range."
+  },
+  {
+    "start": 2866.92,
+    "end": 2867.88,
+    "text": " Wow."
+  },
+  {
+    "start": 2867.88,
+    "end": 2872.04,
+    "text": " I read the other day that Little Monster from Justin's house, while we're on there,"
+  },
+  {
+    "start": 2872.04,
+    "end": 2877.32,
+    "text": " was also in Jurassic Park, like one of the new Jurassic Parks."
+  },
+  {
+    "start": 2877.32,
+    "end": 2878.12,
+    "text": " Okay, right."
+  },
+  {
+    "start": 2878.12,
+    "end": 2878.84,
+    "text": " A dinosaur."
+  },
+  {
+    "start": 2878.84,
+    "end": 2879.24,
+    "text": " Oh."
+  },
+  {
+    "start": 2879.24,
+    "end": 2881.72,
+    "text": " No, so Little Monster's like a little Muppet thing."
+  },
+  {
+    "start": 2881.72,
+    "end": 2886.2,
+    "text": " But it's the person whose hand is up, Little Monster was also on the dinosaur."
+  },
+  {
+    "start": 2886.2,
+    "end": 2889.88,
+    "text": " Wait, so were you watching Jurassic Park and some random guy goes,"
+  },
+  {
+    "start": 2889.88,
+    "end": 2891.72,
+    "text": " \"Could I get the,\" and you're like, \"I know that hand.\""
+  },
+  {
+    "start": 2891.72,
+    "end": 2895.64,
+    "text": " That's brilliant."
+  },
+  {
+    "start": 2895.64,
+    "end": 2900.2,
+    "text": " Didn't Barney the Dinosaur, he went on to become a Tantric sex instructor?"
+  },
+  {
+    "start": 2900.2,
+    "end": 2901.88,
+    "text": " The guy who played the witch."
+  },
+  {
+    "start": 2901.88,
+    "end": 2904.76,
+    "text": " There was some controversy wasn't there with Barney the Dinosaur."
+  },
+  {
+    "start": 2904.76,
+    "end": 2905.56,
+    "text": " Was that what it was?"
+  },
+  {
+    "start": 2905.56,
+    "end": 2906.44,
+    "text": " I think that's what he did."
+  },
+  {
+    "start": 2906.44,
+    "end": 2910.92,
+    "text": " That's so interesting because there was a New York Times article about Mr. Blobby in the 90s"
+  },
+  {
+    "start": 2910.92,
+    "end": 2913.32,
+    "text": " saying, \"What the hell is this thing in the UK?\""
+  },
+  {
+    "start": 2913.32,
+    "end": 2914.2,
+    "text": " And they compared him."
+  },
+  {
+    "start": 2914.2,
+    "end": 2917.16,
+    "text": " They were saying he's basically Britain's Barney."
+  },
+  {
+    "start": 2917.16,
+    "end": 2921.64,
+    "text": " Yes, he's very similar except with chaos because Barney's a very measured safety,"
+  },
+  {
+    "start": 2921.64,
+    "end": 2922.68,
+    "text": " health and safety guy."
+  },
+  {
+    "start": 2922.68,
+    "end": 2925.24,
+    "text": " I was reading a piece comparing the two."
+  },
+  {
+    "start": 2925.24,
+    "end": 2928.2,
+    "text": " The Fence magazine, which is a brilliant magazine, it said,"
+  },
+  {
+    "start": 2928.2,
+    "end": 2931,
+    "text": " \"Blobby was a dark mirror to Barney the Dinosaur.\""
+  },
+  {
+    "start": 2931.64,
+    "end": 2939.4,
+    "text": " And a later blobby called Paul Denson said he was a reaction to that, to Barney the Dinosaur,"
+  },
+  {
+    "start": 2939.4,
+    "end": 2941.88,
+    "text": " to say, \"What would England have if it was shite?\""
+  },
+  {
+    "start": 2941.88,
+    "end": 2945.4,
+    "text": " And that's what Mr. Blobby is."
+  },
+  {
+    "start": 2945.4,
+    "end": 2946.6,
+    "text": " That's so funny."
+  },
+  {
+    "start": 2946.6,
+    "end": 2949.16,
+    "text": " He was created by a man called Michael Lego."
+  },
+  {
+    "start": 2949.16,
+    "end": 2950.36,
+    "text": " What?"
+  },
+  {
+    "start": 2950.36,
+    "end": 2952.2,
+    "text": " Yeah, and I just like that."
+  },
+  {
+    "start": 2952.2,
+    "end": 2954.92,
+    "text": " Yeah, just in keeping with kids, he was called Mr. Lego."
+  },
+  {
+    "start": 2954.92,
+    "end": 2955.48,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 2955.48,
+    "end": 2957.72,
+    "text": " Can I just say one more thing about In the Night Garden?"
+  },
+  {
+    "start": 2957.72,
+    "end": 2958.28,
+    "text": " Yeah."
+  },
+  {
+    "start": 2958.28,
+    "end": 2961.8,
+    "text": " It's worth just mentioning while we're on this topic that obviously the narrator"
+  },
+  {
+    "start": 2961.8,
+    "end": 2967.4,
+    "text": " of In the Night Garden is National Treasure multi-award-winning Sir Derek Jacobi."
+  },
+  {
+    "start": 2967.4,
+    "end": 2968.68,
+    "text": " Yes, that's right."
+  },
+  {
+    "start": 2968.68,
+    "end": 2975.08,
+    "text": " So you've got this, you know, absolutely hugely famous, fantastic actor going,"
+  },
+  {
+    "start": 2975.08,
+    "end": 2978.52,
+    "text": " \"Maka paka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka waka."
+  },
+  {
+    "start": 2978.52,
+    "end": 2981.72,
+    "text": " \"My name is Eagle Piggle.\""
+  },
+  {
+    "start": 2981.72,
+    "end": 2983,
+    "text": " Is that a pip?"
+  },
+  {
+    "start": 2983.56,
+    "end": 2984.84,
+    "text": " I said it all the time."
+  },
+  {
+    "start": 2984.84,
+    "end": 2986.2,
+    "text": " But they're all like that, aren't they?"
+  },
+  {
+    "start": 2986.2,
+    "end": 2987.96,
+    "text": " It's like, who does the Klangas?"
+  },
+  {
+    "start": 2987.96,
+    "end": 2989.16,
+    "text": " It's someone really famous."
+  },
+  {
+    "start": 2989.16,
+    "end": 2989.88,
+    "text": " What's up, it's Olivier."
+  },
+  {
+    "start": 2989.88,
+    "end": 2991.72,
+    "text": " Late Olivier."
+  },
+  {
+    "start": 2991.72,
+    "end": 2992.52,
+    "text": " What was that?"
+  },
+  {
+    "start": 2992.52,
+    "end": 2993.72,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 2993.72,
+    "end": 2996.52,
+    "text": " And Blobby."
+  },
+  {
+    "start": 2996.52,
+    "end": 2997.08,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 2997.08,
+    "end": 2998.2,
+    "text": " I can't go again."
+  },
+  {
+    "start": 2998.2,
+    "end": 2999.48,
+    "text": " Please, Mr."
+  },
+  {
+    "start": 2999.48,
+    "end": 3002.6,
+    "text": " Sorry, I'm so sorry."
+  },
+  {
+    "start": 3002.6,
+    "end": 3004.12,
+    "text": " How familiar are you with him?"
+  },
+  {
+    "start": 3004.12,
+    "end": 3005.88,
+    "text": " I'm not, I'd love to meet Blobby."
+  },
+  {
+    "start": 3005.88,
+    "end": 3009.64,
+    "text": " It's kind of hard to overach how much a big thing Blobby was in the 90s in Brexit."
+  },
+  {
+    "start": 3009.64,
+    "end": 3010.12,
+    "text": " So was he?"
+  },
+  {
+    "start": 3010.12,
+    "end": 3010.92,
+    "text": " So I wasn't here, was he?"
+  },
+  {
+    "start": 3010.92,
+    "end": 3011.32,
+    "text": " Huge."
+  },
+  {
+    "start": 3011.32,
+    "end": 3011.8,
+    "text": " Yeah, right."
+  },
+  {
+    "start": 3011.8,
+    "end": 3012.36,
+    "text": " Huge."
+  },
+  {
+    "start": 3012.36,
+    "end": 3012.84,
+    "text": " Oddly."
+  },
+  {
+    "start": 3012.84,
+    "end": 3013.32,
+    "text": " Huge."
+  },
+  {
+    "start": 3013.32,
+    "end": 3013.96,
+    "text": " Okay."
+  },
+  {
+    "start": 3013.96,
+    "end": 3015.72,
+    "text": " Let's, Dan, you want some stats?"
+  },
+  {
+    "start": 3015.72,
+    "end": 3016.04,
+    "text": " Yeah."
+  },
+  {
+    "start": 3016.04,
+    "end": 3018.6,
+    "text": " His Christmas single in 1993."
+  },
+  {
+    "start": 3018.6,
+    "end": 3020.04,
+    "text": " Sold 600,000 copies."
+  },
+  {
+    "start": 3020.04,
+    "end": 3022.04,
+    "text": " Which is pretty good."
+  },
+  {
+    "start": 3022.04,
+    "end": 3022.44,
+    "text": " Thank you."
+  },
+  {
+    "start": 3022.44,
+    "end": 3023.56,
+    "text": " Got the Christmas number one."
+  },
+  {
+    "start": 3023.56,
+    "end": 3023.8,
+    "text": " Yeah."
+  },
+  {
+    "start": 3023.8,
+    "end": 3025.64,
+    "text": " Nearly didn't."
+  },
+  {
+    "start": 3025.64,
+    "end": 3027.88,
+    "text": " Was knocked off the top spot by Take That the week before"
+  },
+  {
+    "start": 3027.88,
+    "end": 3030.76,
+    "text": " and then reclaimed it the following week to get the Christmas number one."
+  },
+  {
+    "start": 3030.76,
+    "end": 3036.6,
+    "text": " Merch included lemonade, bubble bath, knitting patterns, pasta, lampshades."
+  },
+  {
+    "start": 3036.6,
+    "end": 3039.56,
+    "text": " I mean, anything you could imagine had Blobby put on it."
+  },
+  {
+    "start": 3039.56,
+    "end": 3042.28,
+    "text": " One of the businessmen evolved so that they'd done some research in the 90s"
+  },
+  {
+    "start": 3042.28,
+    "end": 3046.92,
+    "text": " and found that every household in the country owed at least one piece of Blobby merchandise."
+  },
+  {
+    "start": 3046.92,
+    "end": 3047.4,
+    "text": " Wow."
+  },
+  {
+    "start": 3047.4,
+    "end": 3048.92,
+    "text": " That must have been on average."
+  },
+  {
+    "start": 3048.92,
+    "end": 3051.64,
+    "text": " Because we didn't have any growing up."
+  },
+  {
+    "start": 3051.64,
+    "end": 3053.56,
+    "text": " No, I had two."
+  },
+  {
+    "start": 3053.56,
+    "end": 3054.28,
+    "text": " Exactly. There we go."
+  },
+  {
+    "start": 3054.28,
+    "end": 3054.68,
+    "text": " There we go."
+  },
+  {
+    "start": 3054.68,
+    "end": 3055,
+    "text": " It worked."
+  },
+  {
+    "start": 3055,
+    "end": 3055.56,
+    "text": " The system worked."
+  },
+  {
+    "start": 3055.56,
+    "end": 3056.68,
+    "text": " Rachel, how many did you have?"
+  },
+  {
+    "start": 3056.68,
+    "end": 3056.68,
+    "text": " None."
+  },
+  {
+    "start": 3056.68,
+    "end": 3057.48,
+    "text": " Oh, okay."
+  },
+  {
+    "start": 3057.48,
+    "end": 3058.04,
+    "text": " Okay."
+  },
+  {
+    "start": 3058.04,
+    "end": 3058.84,
+    "text": " Anna will have had two."
+  },
+  {
+    "start": 3058.84,
+    "end": 3059.32,
+    "text": " Yeah."
+  },
+  {
+    "start": 3059.32,
+    "end": 3059.88,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 3059.88,
+    "end": 3060.52,
+    "text": " Knowing Anna."
+  },
+  {
+    "start": 3060.52,
+    "end": 3060.52,
+    "text": " Yeah."
+  },
+  {
+    "start": 3060.52,
+    "end": 3064.6,
+    "text": " I was trying to look into, I'm sure everyone else did,"
+  },
+  {
+    "start": 3064.6,
+    "end": 3067.96,
+    "text": " other similarities between Shakespeare and Mr. Blobby."
+  },
+  {
+    "start": 3067.96,
+    "end": 3069.56,
+    "text": " What a great idea."
+  },
+  {
+    "start": 3069.56,
+    "end": 3071.72,
+    "text": " And I couldn't find many."
+  },
+  {
+    "start": 3071.72,
+    "end": 3072.68,
+    "text": " I found a couple."
+  },
+  {
+    "start": 3072.68,
+    "end": 3075.48,
+    "text": " One is that, one thing they share is that,"
+  },
+  {
+    "start": 3075.48,
+    "end": 3078.76,
+    "text": " so this theme park stuff I was talking about,"
+  },
+  {
+    "start": 3078.76,
+    "end": 3081.64,
+    "text": " there was an abandoned place of one of them."
+  },
+  {
+    "start": 3081.64,
+    "end": 3085.08,
+    "text": " And one of the houses there that survived was called Dun Blobben House,"
+  },
+  {
+    "start": 3085.08,
+    "end": 3087.48,
+    "text": " which is what, is that where he lived?"
+  },
+  {
+    "start": 3087.48,
+    "end": 3088.36,
+    "text": " Dun Blobben House?"
+  },
+  {
+    "start": 3088.36,
+    "end": 3090.68,
+    "text": " Blobby, if he had a house."
+  },
+  {
+    "start": 3090.68,
+    "end": 3093.56,
+    "text": " Well, this was his house in the place."
+  },
+  {
+    "start": 3093.56,
+    "end": 3095.48,
+    "text": " And so they left it and it was abandoned."
+  },
+  {
+    "start": 3095.48,
+    "end": 3099.24,
+    "text": " And so what would happen is, is that ravers would come and have parties all night long in it"
+  },
+  {
+    "start": 3099.24,
+    "end": 3103.08,
+    "text": " and they would just use it as an abandoned party house basically."
+  },
+  {
+    "start": 3103.08,
+    "end": 3107.72,
+    "text": " And so the local guy who owned the area was so pissed off that people kept coming"
+  },
+  {
+    "start": 3107.72,
+    "end": 3112.28,
+    "text": " that he smashed it down, not dissimilar to Shakespeare's home."
+  },
+  {
+    "start": 3112.28,
+    "end": 3112.68,
+    "text": " You know."
+  },
+  {
+    "start": 3112.68,
+    "end": 3113.56,
+    "text": " Do you remember Shakespeare's house?"
+  },
+  {
+    "start": 3113.56,
+    "end": 3114.52,
+    "text": " Is that the link?"
+  },
+  {
+    "start": 3114.52,
+    "end": 3114.92,
+    "text": " Yeah."
+  },
+  {
+    "start": 3114.92,
+    "end": 3116.68,
+    "text": " I thought your link was at Dun Blobben's house,"
+  },
+  {
+    "start": 3116.68,
+    "end": 3118.28,
+    "text": " but like Dun Senane, maybe?"
+  },
+  {
+    "start": 3118.28,
+    "end": 3119.48,
+    "text": " Oh yeah, yeah."
+  },
+  {
+    "start": 3119.48,
+    "end": 3123.16,
+    "text": " No, so where Shakespeare's house was, there was the owner of it,"
+  },
+  {
+    "start": 3123.16,
+    "end": 3126.92,
+    "text": " was so sick of tourists coming and taking photos and messing about that he just knocked it down."
+  },
+  {
+    "start": 3126.92,
+    "end": 3127.16,
+    "text": " What?"
+  },
+  {
+    "start": 3127.16,
+    "end": 3128.92,
+    "text": " And so we lost Shakespeare's, yeah."
+  },
+  {
+    "start": 3128.92,
+    "end": 3131,
+    "text": " A place, so there's one similarity."
+  },
+  {
+    "start": 3131,
+    "end": 3132.28,
+    "text": " Well, second similarity."
+  },
+  {
+    "start": 3132.28,
+    "end": 3133.56,
+    "text": " Oh, sorry, I didn't realize you had one."
+  },
+  {
+    "start": 3133.56,
+    "end": 3136.68,
+    "text": " I worked really hard, Andy, to find this, so I'll just quickly get this on."
+  },
+  {
+    "start": 3136.68,
+    "end": 3139.96,
+    "text": " So the 1993 Christmas single that you were mentioning,"
+  },
+  {
+    "start": 3139.96,
+    "end": 3143.64,
+    "text": " in which there's a very famous video that goes along with it,"
+  },
+  {
+    "start": 3143.64,
+    "end": 3145.08,
+    "text": " it was a parody video."
+  },
+  {
+    "start": 3145.08,
+    "end": 3150.2,
+    "text": " And there's a parody video, it's the link, by Shakespeare's sister, The Bear."
+  },
+  {
+    "start": 3150.2,
+    "end": 3152.2,
+    "text": " They parodied that."
+  },
+  {
+    "start": 3152.2,
+    "end": 3154.36,
+    "text": " So there's your second Shakespeare connection."
+  },
+  {
+    "start": 3154.36,
+    "end": 3155,
+    "text": " You got them, everyone."
+  },
+  {
+    "start": 3155,
+    "end": 3155.56,
+    "text": " All right, amazing."
+  },
+  {
+    "start": 3155.56,
+    "end": 3156.76,
+    "text": " It's almost too close, actually."
+  },
+  {
+    "start": 3156.76,
+    "end": 3158.6,
+    "text": " It's eerie."
+  },
+  {
+    "start": 3158.6,
+    "end": 3162.2,
+    "text": " I was thinking of links, and I didn't put in as much work as Dan."
+  },
+  {
+    "start": 3162.2,
+    "end": 3163.32,
+    "text": " No."
+  },
+  {
+    "start": 3163.32,
+    "end": 3164.52,
+    "text": " How could I?"
+  },
+  {
+    "start": 3164.52,
+    "end": 3168.36,
+    "text": " But I was just thinking measure for measure,"
+  },
+  {
+    "start": 3168.36,
+    "end": 3171.48,
+    "text": " which Barry Kiloby was stirring it, is a problem play."
+  },
+  {
+    "start": 3171.48,
+    "end": 3173.64,
+    "text": " As in, there are these three categories of Shakespeare plays,"
+  },
+  {
+    "start": 3173.64,
+    "end": 3176.68,
+    "text": " the tragedies, the histories, the comedies, and you know, they're all clear."
+  },
+  {
+    "start": 3176.68,
+    "end": 3179.08,
+    "text": " And then there's this fourth quasi category,"
+  },
+  {
+    "start": 3179.08,
+    "end": 3180.6,
+    "text": " which is called the problem plays."
+  },
+  {
+    "start": 3180.6,
+    "end": 3183.96,
+    "text": " And it's basically, they don't obey any of the rules of any of it."
+  },
+  {
+    "start": 3183.96,
+    "end": 3187.08,
+    "text": " So measure for measure is kind of, it has comedy elements,"
+  },
+  {
+    "start": 3187.08,
+    "end": 3190.04,
+    "text": " but there's also a really serious death penalty plot line."
+  },
+  {
+    "start": 3190.04,
+    "end": 3192.04,
+    "text": " So it's a problem that you can't put it into a category,"
+  },
+  {
+    "start": 3192.04,
+    "end": 3192.52,
+    "text": " is that the problem?"
+  },
+  {
+    "start": 3192.52,
+    "end": 3195.08,
+    "text": " Yeah, it's just, it's more problematic for scholars studying it."
+  },
+  {
+    "start": 3195.08,
+    "end": 3199.08,
+    "text": " It's kind of one of these weird, and lots of the later plays are more problem play-ish."
+  },
+  {
+    "start": 3199.08,
+    "end": 3200.68,
+    "text": " I think people say the tempest is one as well."
+  },
+  {
+    "start": 3200.68,
+    "end": 3202.92,
+    "text": " And I, in a way, blobby."
+  },
+  {
+    "start": 3202.92,
+    "end": 3204.28,
+    "text": " Oh, Jesus."
+  },
+  {
+    "start": 3204.28,
+    "end": 3206.92,
+    "text": " Well, he doesn't catch the late comedy and tragedy, I would say."
+  },
+  {
+    "start": 3206.92,
+    "end": 3208.04,
+    "text": " Exactly, exactly."
+  },
+  {
+    "start": 3208.04,
+    "end": 3209.72,
+    "text": " He is comic and tragic at the same time."
+  },
+  {
+    "start": 3209.72,
+    "end": 3210.92,
+    "text": " He puzzles scholars."
+  },
+  {
+    "start": 3210.92,
+    "end": 3212.44,
+    "text": " Exactly."
+  },
+  {
+    "start": 3212.44,
+    "end": 3214.28,
+    "text": " So I think that's watertight."
+  },
+  {
+    "start": 3214.28,
+    "end": 3216.6,
+    "text": " I've got a link between blobby and Dickens."
+  },
+  {
+    "start": 3216.6,
+    "end": 3218.92,
+    "text": " Oh my God, wow, expanding."
+  },
+  {
+    "start": 3218.92,
+    "end": 3220.84,
+    "text": " Well, this is cool, because actually, like,"
+  },
+  {
+    "start": 3220.84,
+    "end": 3223,
+    "text": " the thing about Noel's House Party is,"
+  },
+  {
+    "start": 3223,
+    "end": 3225.08,
+    "text": " they were just looking for something for Noel Edmonds to do."
+  },
+  {
+    "start": 3225.08,
+    "end": 3228.04,
+    "text": " So they gave him 18 different shows that he might possibly do,"
+  },
+  {
+    "start": 3228.04,
+    "end": 3229.96,
+    "text": " and they chose this one because it was the best one."
+  },
+  {
+    "start": 3229.96,
+    "end": 3233.56,
+    "text": " But they had complete autonomy, so they could do what they wanted."
+  },
+  {
+    "start": 3233.56,
+    "end": 3235.64,
+    "text": " And they didn't have a commissioner telling them what to do."
+  },
+  {
+    "start": 3235.64,
+    "end": 3237.08,
+    "text": " They didn't have someone at the BBC saying,"
+  },
+  {
+    "start": 3237.08,
+    "end": 3238.52,
+    "text": " \"You can do this or you can't do this.\""
+  },
+  {
+    "start": 3238.52,
+    "end": 3240.2,
+    "text": " They could do whatever they want."
+  },
+  {
+    "start": 3240.2,
+    "end": 3242.12,
+    "text": " And quite often when you find that in TV,"
+  },
+  {
+    "start": 3242.12,
+    "end": 3244.84,
+    "text": " it's like people take a lot of care about things,"
+  },
+  {
+    "start": 3244.84,
+    "end": 3247.24,
+    "text": " and there's lots of, like, hidden jokes and stuff."
+  },
+  {
+    "start": 3247.24,
+    "end": 3248.84,
+    "text": " And apparently there's a bookcase,"
+  },
+  {
+    "start": 3248.84,
+    "end": 3251,
+    "text": " or there was a bookcase on the side of the set,"
+  },
+  {
+    "start": 3251,
+    "end": 3253.16,
+    "text": " that you never saw."
+  },
+  {
+    "start": 3253.16,
+    "end": 3254.52,
+    "text": " You couldn't read any of the books,"
+  },
+  {
+    "start": 3254.52,
+    "end": 3257,
+    "text": " but all the books had got blobby titles."
+  },
+  {
+    "start": 3257,
+    "end": 3257.48,
+    "text": " Oh, cool."
+  },
+  {
+    "start": 3257.48,
+    "end": 3260.68,
+    "text": " And so there was, like, blob finger instead of gold finger."
+  },
+  {
+    "start": 3260.68,
+    "end": 3261.64,
+    "text": " Oh, I love it."
+  },
+  {
+    "start": 3261.64,
+    "end": 3263.56,
+    "text": " And Martin Blubblewit."
+  },
+  {
+    "start": 3263.56,
+    "end": 3265.56,
+    "text": " That's one of the books."
+  },
+  {
+    "start": 3265.56,
+    "end": 3267,
+    "text": " That's brilliant."
+  },
+  {
+    "start": 3267,
+    "end": 3267.32,
+    "text": " Yeah."
+  },
+  {
+    "start": 3267.32,
+    "end": 3269.16,
+    "text": " But didn't Dickens have a fake bookcase in his house?"
+  },
+  {
+    "start": 3269.16,
+    "end": 3269.56,
+    "text": " He did."
+  },
+  {
+    "start": 3269.56,
+    "end": 3269.96,
+    "text": " He did."
+  },
+  {
+    "start": 3269.96,
+    "end": 3270.28,
+    "text": " He did."
+  },
+  {
+    "start": 3270.28,
+    "end": 3272.52,
+    "text": " He had a bookcase in his house which had fake book titles,"
+  },
+  {
+    "start": 3272.52,
+    "end": 3275.72,
+    "text": " and it was hiding the door to another room or a panel or something,"
+  },
+  {
+    "start": 3275.72,
+    "end": 3277.56,
+    "text": " but it was, or it was above a doorway."
+  },
+  {
+    "start": 3277.56,
+    "end": 3280.12,
+    "text": " And so both blobby and Charles Dickens had the same idea."
+  },
+  {
+    "start": 3280.12,
+    "end": 3280.68,
+    "text": " Amazing."
+  },
+  {
+    "start": 3280.68,
+    "end": 3281.64,
+    "text": " Wow."
+  },
+  {
+    "start": 3281.64,
+    "end": 3284.52,
+    "text": " Blobby is basically a literary great, is what we're saying."
+  },
+  {
+    "start": 3284.52,
+    "end": 3284.68,
+    "text": " Yes."
+  },
+  {
+    "start": 3284.68,
+    "end": 3285.16,
+    "text": " Yeah."
+  },
+  {
+    "start": 3285.16,
+    "end": 3285.64,
+    "text": " Yeah."
+  },
+  {
+    "start": 3285.64,
+    "end": 3286.52,
+    "text": " Yeah, he's huge."
+  },
+  {
+    "start": 3286.52,
+    "end": 3289.4,
+    "text": " Interestingly, we'll never know what Barry Killaby thinks"
+  },
+  {
+    "start": 3289.4,
+    "end": 3291.88,
+    "text": " about Mr. Blobby, because he's never done an interview."
+  },
+  {
+    "start": 3291.88,
+    "end": 3292.52,
+    "text": " Isn't that weird?"
+  },
+  {
+    "start": 3292.52,
+    "end": 3293.16,
+    "text": " Ever."
+  },
+  {
+    "start": 3293.16,
+    "end": 3293.48,
+    "text": " Sorry."
+  },
+  {
+    "start": 3293.48,
+    "end": 3296.84,
+    "text": " I totally thought you were going to a really macabre ending."
+  },
+  {
+    "start": 3296.84,
+    "end": 3299.48,
+    "text": " Because he's dead."
+  },
+  {
+    "start": 3299.48,
+    "end": 3299.72,
+    "text": " Yeah."
+  },
+  {
+    "start": 3299.72,
+    "end": 3302.44,
+    "text": " No, I don't think he'll ever do an interview about it."
+  },
+  {
+    "start": 3302.44,
+    "end": 3305.16,
+    "text": " As in lots of people have tried to make contact over the years,"
+  },
+  {
+    "start": 3305.16,
+    "end": 3307.96,
+    "text": " and I think either he just thinks of it as a job,"
+  },
+  {
+    "start": 3307.96,
+    "end": 3311.08,
+    "text": " and he just doesn't want to become a personality associated with it,"
+  },
+  {
+    "start": 3311.08,
+    "end": 3313.88,
+    "text": " whatever the reason, he's never, ever done it."
+  },
+  {
+    "start": 3313.88,
+    "end": 3315.64,
+    "text": " And it seems like he never will."
+  },
+  {
+    "start": 3315.64,
+    "end": 3316.36,
+    "text": " Interesting."
+  },
+  {
+    "start": 3316.36,
+    "end": 3316.84,
+    "text": " Yeah."
+  },
+  {
+    "start": 3316.84,
+    "end": 3317.48,
+    "text": " And he's--"
+  },
+  {
+    "start": 3317.48,
+    "end": 3318.04,
+    "text": " Sorry."
+  },
+  {
+    "start": 3318.04,
+    "end": 3322.12,
+    "text": " I was just going to say, I like the idea of the people who don't know about Mr. Blobby"
+  },
+  {
+    "start": 3322.12,
+    "end": 3327.72,
+    "text": " and Noel's house party googling it and seeing what it was."
+  },
+  {
+    "start": 3327.72,
+    "end": 3328.2,
+    "text": " Yeah."
+  },
+  {
+    "start": 3328.2,
+    "end": 3329,
+    "text": " That's such a treat ahead of you."
+  },
+  {
+    "start": 3329,
+    "end": 3329.56,
+    "text": " Such a treat."
+  },
+  {
+    "start": 3329.56,
+    "end": 3333.8,
+    "text": " And also, if you just see, like, say, a one minute clip of that show,"
+  },
+  {
+    "start": 3333.8,
+    "end": 3338.2,
+    "text": " that will in no way explain what happens in the rest of the show."
+  },
+  {
+    "start": 3338.2,
+    "end": 3340.68,
+    "text": " You really have to watch our show."
+  },
+  {
+    "start": 3340.68,
+    "end": 3343,
+    "text": " Yeah, I have no idea what I see or what it is."
+  },
+  {
+    "start": 3343,
+    "end": 3343.4,
+    "text": " It's a lot."
+  },
+  {
+    "start": 3343.4,
+    "end": 3347.4,
+    "text": " One of the things you were saying about how so much weird stuff happened on that show,"
+  },
+  {
+    "start": 3347.4,
+    "end": 3350.44,
+    "text": " one of them was NTV, and I don't know if you remember that."
+  },
+  {
+    "start": 3350.44,
+    "end": 3353.48,
+    "text": " So what it was is they would go into someone's house,"
+  },
+  {
+    "start": 3353.48,
+    "end": 3357.24,
+    "text": " and they would put a camera on their TV, and they would talk to them live."
+  },
+  {
+    "start": 3357.24,
+    "end": 3358.28,
+    "text": " Oh, wow, cool."
+  },
+  {
+    "start": 3358.28,
+    "end": 3358.84,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 3358.84,
+    "end": 3359.88,
+    "text": " It was amazing."
+  },
+  {
+    "start": 3359.88,
+    "end": 3360.52,
+    "text": " It was so cool."
+  },
+  {
+    "start": 3360.52,
+    "end": 3361.88,
+    "text": " And they could win prizes or something."
+  },
+  {
+    "start": 3361.88,
+    "end": 3362.44,
+    "text": " Did they know?"
+  },
+  {
+    "start": 3362.44,
+    "end": 3363.24,
+    "text": " Did they know that was it?"
+  },
+  {
+    "start": 3363.24,
+    "end": 3364.44,
+    "text": " No, they didn't know."
+  },
+  {
+    "start": 3364.44,
+    "end": 3368.2,
+    "text": " And the amazing thing was, when you see interviews with Michael Lego,"
+  },
+  {
+    "start": 3368.2,
+    "end": 3373,
+    "text": " he basically said, every day, we didn't know if it was going to work."
+  },
+  {
+    "start": 3373,
+    "end": 3375.72,
+    "text": " And you would be stressed out all the way through the week."
+  },
+  {
+    "start": 3375.72,
+    "end": 3379.56,
+    "text": " And the only time you could breathe is when that person didn't swear"
+  },
+  {
+    "start": 3379.56,
+    "end": 3381.48,
+    "text": " or say something terrible live on air or whatever."
+  },
+  {
+    "start": 3381.48,
+    "end": 3382.28,
+    "text": " Stop masturbating."
+  },
+  {
+    "start": 3382.28,
+    "end": 3384.68,
+    "text": " Oh, Blobby."
+  },
+  {
+    "start": 3385.4,
+    "end": 3389.72,
+    "text": " But apparently, there was a researcher who would go and meet this person the week before"
+  },
+  {
+    "start": 3389.72,
+    "end": 3393.8,
+    "text": " surreptitiously and pretend that they were just randomly meeting this person."
+  },
+  {
+    "start": 3393.8,
+    "end": 3395.72,
+    "text": " Didn't tell them they were on TV or anything."
+  },
+  {
+    "start": 3395.72,
+    "end": 3397.8,
+    "text": " So get into their house, set up the camera."
+  },
+  {
+    "start": 3397.8,
+    "end": 3399.24,
+    "text": " Were they with a-- yeah, exactly."
+  },
+  {
+    "start": 3399.24,
+    "end": 3400.68,
+    "text": " Were they applying the camera to the TV?"
+  },
+  {
+    "start": 3400.68,
+    "end": 3403.88,
+    "text": " Yeah, so someone would have to nominate you,"
+  },
+  {
+    "start": 3403.88,
+    "end": 3405.8,
+    "text": " and that person would have access to the TV."
+  },
+  {
+    "start": 3405.8,
+    "end": 3407.88,
+    "text": " So they'd make sure you weren't in at the time."
+  },
+  {
+    "start": 3407.88,
+    "end": 3410.84,
+    "text": " But a researcher would just come up, someone you've never met before,"
+  },
+  {
+    "start": 3410.84,
+    "end": 3413.4,
+    "text": " and you would come up with some story"
+  },
+  {
+    "start": 3413.4,
+    "end": 3416.28,
+    "text": " that they would chat to you to make sure you weren't a person"
+  },
+  {
+    "start": 3416.28,
+    "end": 3418.28,
+    "text": " who was going to do something terrible live on TV."
+  },
+  {
+    "start": 3418.28,
+    "end": 3423.16,
+    "text": " I feel like if you flunked out of MI5, that would be a job that you could take."
+  },
+  {
+    "start": 3423.16,
+    "end": 3428.2,
+    "text": " It's spy-adjacent, but you're not actually doing any spying."
+  },
+  {
+    "start": 3428.2,
+    "end": 3431.88,
+    "text": " I feel like you would get-- because the Cold War's finished at that time in the 1990s."
+  },
+  {
+    "start": 3431.88,
+    "end": 3437.32,
+    "text": " A lot of those spies went on to do MTV and Blobby."
+  },
+  {
+    "start": 3437.32,
+    "end": 3442.28,
+    "text": " There was a lot of gunging as well on it, the gunge tank."
+  },
+  {
+    "start": 3442.52,
+    "end": 3447.24,
+    "text": " Where sometimes guests, wouldn't they, would get gunged."
+  },
+  {
+    "start": 3447.24,
+    "end": 3449.96,
+    "text": " So you'd be in a big glass tank and gunge would fall on you."
+  },
+  {
+    "start": 3449.96,
+    "end": 3455.24,
+    "text": " But gunge featured fairly heavily on British TV."
+  },
+  {
+    "start": 3455.24,
+    "end": 3457.32,
+    "text": " Yeah, get your own back with Dave Bensonfield."
+  },
+  {
+    "start": 3457.32,
+    "end": 3458.2,
+    "text": " It was very gunge-heavy."
+  },
+  {
+    "start": 3458.2,
+    "end": 3461.24,
+    "text": " There's someone-- this won't make the edit--"
+  },
+  {
+    "start": 3461.24,
+    "end": 3464.6,
+    "text": " but there's someone, a guy on social media."
+  },
+  {
+    "start": 3464.6,
+    "end": 3470.2,
+    "text": " I think it's only on Instagram, who I sort of assume it's all women,"
+  },
+  {
+    "start": 3470.2,
+    "end": 3474.28,
+    "text": " but certainly as me and a load of women I know,"
+  },
+  {
+    "start": 3474.28,
+    "end": 3479.16,
+    "text": " constantly comments, Rachel, will you get gunged?"
+  },
+  {
+    "start": 3479.16,
+    "end": 3480.2,
+    "text": " Are you willing to get gunged?"
+  },
+  {
+    "start": 3480.2,
+    "end": 3481,
+    "text": " Please respond."
+  },
+  {
+    "start": 3481,
+    "end": 3483.4,
+    "text": " Just back on the gunge question."
+  },
+  {
+    "start": 3483.4,
+    "end": 3485.08,
+    "text": " Would love to see you get gunged."
+  },
+  {
+    "start": 3485.08,
+    "end": 3486.12,
+    "text": " Are you willing?"
+  },
+  {
+    "start": 3486.12,
+    "end": 3487.56,
+    "text": " Always very polite."
+  },
+  {
+    "start": 3487.56,
+    "end": 3489.8,
+    "text": " Like, wants it to be fully consensual."
+  },
+  {
+    "start": 3489.8,
+    "end": 3492.76,
+    "text": " And very persistent."
+  },
+  {
+    "start": 3492.76,
+    "end": 3494.44,
+    "text": " Like, to be fair, I don't think I've ever replied."
+  },
+  {
+    "start": 3494.44,
+    "end": 3497.88,
+    "text": " But like, the comments to everyone are the same."
+  },
+  {
+    "start": 3497.88,
+    "end": 3498.92,
+    "text": " He just wants to see."
+  },
+  {
+    "start": 3499.88,
+    "end": 3501.32,
+    "text": " Certain people get gunged."
+  },
+  {
+    "start": 3501.32,
+    "end": 3503.4,
+    "text": " Does he have the capacity to gun?"
+  },
+  {
+    "start": 3503.4,
+    "end": 3505.88,
+    "text": " I don't think I should ask."
+  },
+  {
+    "start": 3505.88,
+    "end": 3509.16,
+    "text": " I think he'd take that as a maybe."
+  },
+  {
+    "start": 3509.16,
+    "end": 3510.36,
+    "text": " Just ask, what's your setup?"
+  },
+  {
+    "start": 3510.36,
+    "end": 3513.4,
+    "text": " Is he using a classic '90s gunge recipe,"
+  },
+  {
+    "start": 3513.4,
+    "end": 3513.96,
+    "text": " or is this him?"
+  },
+  {
+    "start": 3513.96,
+    "end": 3516.04,
+    "text": " Has he recreated his own gunge in a sort of--"
+  },
+  {
+    "start": 3516.04,
+    "end": 3517,
+    "text": " I don't like to think of that."
+  },
+  {
+    "start": 3517,
+    "end": 3518.6,
+    "text": " Oh, God."
+  },
+  {
+    "start": 3518.6,
+    "end": 3526.04,
+    "text": " Well, or is it someone who worked on '90s television"
+  },
+  {
+    "start": 3526.04,
+    "end": 3528.2,
+    "text": " and has kind of picked up this fetish?"
+  },
+  {
+    "start": 3528.2,
+    "end": 3529.56,
+    "text": " He's got all this leftover gunge"
+  },
+  {
+    "start": 3529.56,
+    "end": 3531.08,
+    "text": " after the show got cancelled."
+  },
+  {
+    "start": 3531.08,
+    "end": 3532.28,
+    "text": " What am I going to do with this gunge?"
+  },
+  {
+    "start": 3532.28,
+    "end": 3534.2,
+    "text": " It reminds me of the story."
+  },
+  {
+    "start": 3534.2,
+    "end": 3536.2,
+    "text": " This isn't my story, so I'm not sure if we can keep it in."
+  },
+  {
+    "start": 3536.2,
+    "end": 3538.12,
+    "text": " But you know Rich Turner, our very good friend,"
+  },
+  {
+    "start": 3538.12,
+    "end": 3539.48,
+    "text": " who Dan and I worked with a lot,"
+  },
+  {
+    "start": 3539.48,
+    "end": 3544.12,
+    "text": " and as a radio producer and worked on TV for many, many years."
+  },
+  {
+    "start": 3544.12,
+    "end": 3547,
+    "text": " He worked on a kid's show in the '70s for the BBC."
+  },
+  {
+    "start": 3547,
+    "end": 3549.96,
+    "text": " And he said that there was a child,"
+  },
+  {
+    "start": 3549.96,
+    "end": 3551.4,
+    "text": " and they've kind of--"
+  },
+  {
+    "start": 3551.4,
+    "end": 3552.76,
+    "text": " They've been-- it wasn't gunged,"
+  },
+  {
+    "start": 3552.76,
+    "end": 3555.16,
+    "text": " but there was like a flower fight, you know?"
+  },
+  {
+    "start": 3555.16,
+    "end": 3557.72,
+    "text": " So they covered him flower, like this."
+  },
+  {
+    "start": 3557.72,
+    "end": 3560.12,
+    "text": " And then someone on set had to shout out,"
+  },
+  {
+    "start": 3560.12,
+    "end": 3562.52,
+    "text": " \"Can someone deflower this child, please?\""
+  },
+  {
+    "start": 3562.52,
+    "end": 3568.68,
+    "text": " And that was the only time that was ever heard of him in 1970s"
+  },
+  {
+    "start": 3568.68,
+    "end": 3569.48,
+    "text": " at the BBC."
+  },
+  {
+    "start": 3569.48,
+    "end": 3576.44,
+    "text": " OK, that's it."
+  },
+  {
+    "start": 3576.44,
+    "end": 3577.64,
+    "text": " That is all of our facts."
+  },
+  {
+    "start": 3577.64,
+    "end": 3579,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3579,
+    "end": 3580.84,
+    "text": " If you'd like to get in contact with any of us"
+  },
+  {
+    "start": 3580.84,
+    "end": 3583.32,
+    "text": " about the things that we've said over the course of this podcast,"
+  },
+  {
+    "start": 3583.32,
+    "end": 3585.16,
+    "text": " we can be found on our Twitter accounts."
+  },
+  {
+    "start": 3585.16,
+    "end": 3586.6,
+    "text": " I'm on @Shrieberland."
+  },
+  {
+    "start": 3586.6,
+    "end": 3587.08,
+    "text": " James."
+  },
+  {
+    "start": 3587.08,
+    "end": 3588.12,
+    "text": " At James Harkin."
+  },
+  {
+    "start": 3588.12,
+    "end": 3588.76,
+    "text": " Andy."
+  },
+  {
+    "start": 3588.76,
+    "end": 3589.88,
+    "text": " Will you be gunned?"
+  },
+  {
+    "start": 3589.88,
+    "end": 3594.44,
+    "text": " Rach?"
+  },
+  {
+    "start": 3594.44,
+    "end": 3595.48,
+    "text": " Rachel Parris."
+  },
+  {
+    "start": 3595.48,
+    "end": 3598.44,
+    "text": " Yeah, and remember, as we said at the top of the show,"
+  },
+  {
+    "start": 3598.44,
+    "end": 3600.68,
+    "text": " you can see Rachel live on stage"
+  },
+  {
+    "start": 3600.68,
+    "end": 3603.8,
+    "text": " as part of the great ostentatious ensemble."
+  },
+  {
+    "start": 3603.8,
+    "end": 3605.48,
+    "text": " It is such an amazing night."
+  },
+  {
+    "start": 3605.48,
+    "end": 3608.04,
+    "text": " It's live improvised Jane Austen novels"
+  },
+  {
+    "start": 3608.04,
+    "end": 3610.04,
+    "text": " that have never been performed before."
+  },
+  {
+    "start": 3610.04,
+    "end": 3613.72,
+    "text": " They've been written, I think, 6,000 of them or something like that,"
+  },
+  {
+    "start": 3613.72,
+    "end": 3615.48,
+    "text": " that were lost to time, have been found."
+  },
+  {
+    "start": 3615.48,
+    "end": 3616.92,
+    "text": " They perform a new one each night,"
+  },
+  {
+    "start": 3616.92,
+    "end": 3617.96,
+    "text": " and that's on in the West End."
+  },
+  {
+    "start": 3617.96,
+    "end": 3620.76,
+    "text": " So do check out online to find tickets for that"
+  },
+  {
+    "start": 3620.76,
+    "end": 3623.08,
+    "text": " or make sure to get her book."
+  },
+  {
+    "start": 3623.08,
+    "end": 3625.88,
+    "text": " It is now out on paperback, Advice from Strangers."
+  },
+  {
+    "start": 3625.88,
+    "end": 3627.72,
+    "text": " It's out March 23rd."
+  },
+  {
+    "start": 3627.72,
+    "end": 3630.76,
+    "text": " It's where Rachel spent basically a year of stand-up life"
+  },
+  {
+    "start": 3630.76,
+    "end": 3632.52,
+    "text": " going around the UK in Annan Dabra,"
+  },
+  {
+    "start": 3632.52,
+    "end": 3634.04,
+    "text": " taking advice from strangers"
+  },
+  {
+    "start": 3634.04,
+    "end": 3635.72,
+    "text": " and working out the answers"
+  },
+  {
+    "start": 3635.72,
+    "end": 3637.72,
+    "text": " and working out the philosophy of what they were saying,"
+  },
+  {
+    "start": 3637.72,
+    "end": 3639.08,
+    "text": " meaning it's a brilliant book."
+  },
+  {
+    "start": 3639.08,
+    "end": 3640.36,
+    "text": " It's out now on paperback."
+  },
+  {
+    "start": 3640.36,
+    "end": 3642.12,
+    "text": " So do check it out and do come back next week."
+  },
+  {
+    "start": 3642.12,
+    "end": 3643.32,
+    "text": " We'll have another episode."
+  },
+  {
+    "start": 3643.32,
+    "end": 3644.04,
+    "text": " We'll wait in for you."
+  },
+  {
+    "start": 3644.04,
+    "end": 3645.08,
+    "text": " We'll see you then."
+  },
+  {
+    "start": 3645.08,
+    "end": 3645.88,
+    "text": " Goodbye."
+  },
+  {
+    "start": 3646.2,
+    "end": 3648.78,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3648.78,
+    "end": 3651.36,
+    "text": " (upbeat music)"
+  }
+]

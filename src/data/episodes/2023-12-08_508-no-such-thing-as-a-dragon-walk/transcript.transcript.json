@@ -1,0 +1,7882 @@
+[
+  {
+    "start": 0.84,
+    "end": 4.64,
+    "text": " Hi everybody, just before we start the show, we want to say a big hi to"
+  },
+  {
+    "start": 4.64,
+    "end": 9.72,
+    "text": " new listeners coming to us from BBC Sounds, where the podcast now exists."
+  },
+  {
+    "start": 9.72,
+    "end": 17.08,
+    "text": " Welcome to the fold. We are no such thing as a fish. I'm Anna. I'm here with Dan. Hi Dan. Hello."
+  },
+  {
+    "start": 17.08,
+    "end": 20.88,
+    "text": " What do we do? Yeah, yeah, so there's four of us. We are QI Elbs."
+  },
+  {
+    "start": 20.88,
+    "end": 27.76,
+    "text": " We are the people who are involved in the TV series QI. And if you enjoy that, if you enjoy all the weird facts,"
+  },
+  {
+    "start": 27.76,
+    "end": 34.36,
+    "text": " this is a real kind of concentrated distilled version of it where we just sit around and share the best, most wonderful,"
+  },
+  {
+    "start": 34.36,
+    "end": 37.36,
+    "text": " most odd things that we've discovered over the last seven days."
+  },
+  {
+    "start": 37.36,
+    "end": 42.88,
+    "text": " Yes, and also if you enjoy the occasional incredibly immature sense of humour on QI,"
+  },
+  {
+    "start": 42.88,
+    "end": 49.2,
+    "text": " then you'll get that by the bucket load here. And with a little bit of a warning that there's the occasional bit of adult content."
+  },
+  {
+    "start": 49.2,
+    "end": 55.76,
+    "text": " So there is swearing, there's the odd adult theme, a little bit of animal sex sometimes makes it in, sometimes a little bit of human"
+  },
+  {
+    "start": 55.76,
+    "end": 62.04,
+    "text": " sex facts make it in, but it's all for the purpose of learning weird, interesting, amazing facts."
+  },
+  {
+    "start": 62.04,
+    "end": 68.12,
+    "text": " And you'll notice we've got 10 episodes up there right now on BBC Sounds and from now on every episode will be published there."
+  },
+  {
+    "start": 68.12,
+    "end": 75.76,
+    "text": " That's right. Now we also just want to quickly address the members, the existing listeners of our show and particularly the members of Club Fish."
+  },
+  {
+    "start": 75.76,
+    "end": 80.04,
+    "text": " We know that many of you might have joined Club Fish because you get an ad free version of our show."
+  },
+  {
+    "start": 80.04,
+    "end": 84.68,
+    "text": " Well, if you head over to BBC Sounds, you are going to get the ad free version of the show."
+  },
+  {
+    "start": 84.68,
+    "end": 86.84,
+    "text": " But I wouldn't leave Club Fish. You know what's there?"
+  },
+  {
+    "start": 86.84,
+    "end": 91.76,
+    "text": " The amazing discord, the behind the scenes bonus content like the compilations and drop us a line."
+  },
+  {
+    "start": 91.76,
+    "end": 94.8,
+    "text": " You want to miss out on Andy saying bye at random moments?"
+  },
+  {
+    "start": 94.8,
+    "end": 96.8,
+    "text": " No, you don't. Absolutely not."
+  },
+  {
+    "start": 96.8,
+    "end": 101.24,
+    "text": " So if you do want to go in just for the ad free stuff, absolutely head over to BBC Sounds."
+  },
+  {
+    "start": 101.24,
+    "end": 105.92,
+    "text": " Otherwise, stay with us in Club Fish and enjoy all the background content."
+  },
+  {
+    "start": 105.92,
+    "end": 109.76,
+    "text": " So huge, huge welcome to the BBC Sounds listeners."
+  },
+  {
+    "start": 109.76,
+    "end": 111.2,
+    "text": " Thanks for joining us."
+  },
+  {
+    "start": 111.2,
+    "end": 115.52,
+    "text": " And this is a weekly show and we're going to keep going for the next 400 years."
+  },
+  {
+    "start": 115.52,
+    "end": 119.24,
+    "text": " So enjoy and on with the show on with the show."
+  },
+  {
+    "start": 135.52,
+    "end": 143.04,
+    "text": " Hello and welcome to another episode of No Such Thing as a Fish, a weekly podcast coming to you from the QI offices in Hoburn."
+  },
+  {
+    "start": 143.04,
+    "end": 144.32,
+    "text": " My name is Dan Schreiber."
+  },
+  {
+    "start": 144.32,
+    "end": 148.52,
+    "text": " I'm sitting here with James Harkin, Anna Tyshinski and Alex Bell."
+  },
+  {
+    "start": 148.52,
+    "end": 153.24,
+    "text": " And once again, we have gathered around the microphones with our four favorite facts from the last seven days."
+  },
+  {
+    "start": 153.24,
+    "end": 156.04,
+    "text": " And in no particular order, here we go."
+  },
+  {
+    "start": 156.04,
+    "end": 158.96,
+    "text": " Starting with fact number one, that is James."
+  },
+  {
+    "start": 158.96,
+    "end": 166.76,
+    "text": " OK, my fact this week is the artist Goya, who was famously a deaf man, lived in a house called the House of the Deaf Man."
+  },
+  {
+    "start": 166.76,
+    "end": 170.6,
+    "text": " It was actually named after a different deaf man who lived in that house."
+  },
+  {
+    "start": 170.6,
+    "end": 176,
+    "text": " So first of all, what is Goya's full name?"
+  },
+  {
+    "start": 176,
+    "end": 177.28,
+    "text": " Because I think you were practicing."
+  },
+  {
+    "start": 177.28,
+    "end": 179.96,
+    "text": " Oh, I thought you were calling back something that had happened before."
+  },
+  {
+    "start": 179.96,
+    "end": 186.84,
+    "text": " I was. Yeah, and his full name was Francisco Jose de Goya and Lucien Teff."
+  },
+  {
+    "start": 187.68,
+    "end": 191.72,
+    "text": " Lovely. Nice. That is a lot less Spanish than I went in the pre-show channel."
+  },
+  {
+    "start": 191.72,
+    "end": 194.8,
+    "text": " And he is a very famous artist."
+  },
+  {
+    "start": 194.8,
+    "end": 202.12,
+    "text": " He was around in the early 19th century and he's kind of the link between the old masters like Rembrandt and whoever"
+  },
+  {
+    "start": 202.12,
+    "end": 206.16,
+    "text": " and the modern artists because he was doing lots of satires and lots of incredible stuff."
+  },
+  {
+    "start": 206.16,
+    "end": 208,
+    "text": " He is an absolutely incredible artist."
+  },
+  {
+    "start": 208,
+    "end": 209.64,
+    "text": " He's probably my favorite artist."
+  },
+  {
+    "start": 209.64,
+    "end": 213.92,
+    "text": " Yeah, I think so. I can actually see why I can connect those two things."
+  },
+  {
+    "start": 214,
+    "end": 220.16,
+    "text": " Oh, yeah. Yeah, we'll get into it. Some of his dark, disturbed, latter paintings."
+  },
+  {
+    "start": 220.16,
+    "end": 222.32,
+    "text": " But can you please tell us about this?"
+  },
+  {
+    "start": 222.32,
+    "end": 226.48,
+    "text": " OK, I want to know, did this deaf man name the house after himself, the deaf man?"
+  },
+  {
+    "start": 226.48,
+    "end": 230.24,
+    "text": " No, it was named by locals as that because this deaf man had lived there"
+  },
+  {
+    "start": 230.24,
+    "end": 232.64,
+    "text": " and then later Goya moved in there."
+  },
+  {
+    "start": 232.64,
+    "end": 236.96,
+    "text": " And did he move in there because he was only looking for houses called House for a Deaf Man?"
+  },
+  {
+    "start": 236.96,
+    "end": 240.48,
+    "text": " Yeah, he actually googled House for a Deaf Man and this is what came up."
+  },
+  {
+    "start": 240.48,
+    "end": 243.4,
+    "text": " But there was nothing special about the house that made it like accessible for deaf people."
+  },
+  {
+    "start": 243.4,
+    "end": 247.88,
+    "text": " No, it was a really nice house and he was a former court artist."
+  },
+  {
+    "start": 247.88,
+    "end": 252.52,
+    "text": " So he had money and had a pension from the monarchy and stuff like that."
+  },
+  {
+    "start": 252.52,
+    "end": 254.68,
+    "text": " It was also sort of a way from the politics."
+  },
+  {
+    "start": 254.68,
+    "end": 258.72,
+    "text": " He sort of wanted a place to retreat and sort of get away because he was heavily involved."
+  },
+  {
+    "start": 258.72,
+    "end": 262.4,
+    "text": " His art would often either do satire or make political statements."
+  },
+  {
+    "start": 262.4,
+    "end": 266.48,
+    "text": " Yeah, exactly. He thought if he hangs around where the Spanish Inquisition are,"
+  },
+  {
+    "start": 266.48,
+    "end": 270.8,
+    "text": " then there's a decent chance he might get, you know, so he wanted to get away."
+  },
+  {
+    "start": 271,
+    "end": 276.68,
+    "text": " But one interesting thing about this building is his most famous work for people at home,"
+  },
+  {
+    "start": 276.68,
+    "end": 280.32,
+    "text": " perhaps, is called Saturn Devouring His Son."
+  },
+  {
+    "start": 280.32,
+    "end": 281.4,
+    "text": " You might know it."
+  },
+  {
+    "start": 281.4,
+    "end": 285.84,
+    "text": " It's like a real devilish face and he seems to be biting the head off."
+  },
+  {
+    "start": 285.84,
+    "end": 289.36,
+    "text": " What could be a chicken or could be his son or something like that?"
+  },
+  {
+    "start": 289.36,
+    "end": 291.2,
+    "text": " It's a really sort of dark painting."
+  },
+  {
+    "start": 291.2,
+    "end": 292.6,
+    "text": " It's harrowing. It's like really quite scary."
+  },
+  {
+    "start": 292.6,
+    "end": 295.88,
+    "text": " Yeah, if you Google it, you'll probably recognize it from memes and stuff."
+  },
+  {
+    "start": 295.88,
+    "end": 297.96,
+    "text": " But that was."
+  },
+  {
+    "start": 300.36,
+    "end": 305.16,
+    "text": " But it was on his wall in this house and actually he painted a load of these"
+  },
+  {
+    "start": 305.16,
+    "end": 307.72,
+    "text": " kind of satirical paintings on the wall of his house."
+  },
+  {
+    "start": 307.72,
+    "end": 312.2,
+    "text": " And actually they ended up being chipped off because he didn't intend to sell them"
+  },
+  {
+    "start": 312.2,
+    "end": 314.08,
+    "text": " or anything. They were just murals in his house."
+  },
+  {
+    "start": 314.08,
+    "end": 316.12,
+    "text": " They're known as the black paintings now. Precisely."
+  },
+  {
+    "start": 316.12,
+    "end": 320.4,
+    "text": " He have a whole his whole first period of his life was much more involved in politics,"
+  },
+  {
+    "start": 320.4,
+    "end": 322.16,
+    "text": " like you say, painting on commission for royal courts."
+  },
+  {
+    "start": 322.16,
+    "end": 325.24,
+    "text": " And there was an awful lot more like of a positive vibe to his painting."
+  },
+  {
+    "start": 325.24,
+    "end": 329.4,
+    "text": " And then he got really sick and he went deaf as a result of one of his illnesses."
+  },
+  {
+    "start": 329.6,
+    "end": 333.24,
+    "text": " And then he became very like depressed and obsessed with illness"
+  },
+  {
+    "start": 333.24,
+    "end": 336.24,
+    "text": " and obsessed with like death and kind of neurotic."
+  },
+  {
+    "start": 336.24,
+    "end": 339.2,
+    "text": " And these paintings, we think, reflect this dark state that he was in."
+  },
+  {
+    "start": 339.2,
+    "end": 342.24,
+    "text": " Yeah, they're all really weird and mysterious as well."
+  },
+  {
+    "start": 342.24,
+    "end": 344.72,
+    "text": " We don't actually know that the painting is called Saturn devouring itself."
+  },
+  {
+    "start": 344.72,
+    "end": 346.48,
+    "text": " We don't know anything about. We don't think about them."
+  },
+  {
+    "start": 346.48,
+    "end": 348.96,
+    "text": " Yeah, because like you say, they were all painted on the walls."
+  },
+  {
+    "start": 348.96,
+    "end": 351.36,
+    "text": " And then the wallpaper had to kind of be chipped away from the wall"
+  },
+  {
+    "start": 351.36,
+    "end": 352.84,
+    "text": " and then put onto canvas."
+  },
+  {
+    "start": 352.84,
+    "end": 355.76,
+    "text": " But like a lot of art historians think that like they had to be very"
+  },
+  {
+    "start": 355.76,
+    "end": 357.2,
+    "text": " significantly altered when that happened."
+  },
+  {
+    "start": 357.2,
+    "end": 358.84,
+    "text": " Yeah, definitely restoration."
+  },
+  {
+    "start": 358.84,
+    "end": 362.48,
+    "text": " Yeah, you can spot little bits of it that really they think again,"
+  },
+  {
+    "start": 362.48,
+    "end": 365.32,
+    "text": " it's almost theory. Is that damage or is that what he intended?"
+  },
+  {
+    "start": 365.32,
+    "end": 367,
+    "text": " There's one called the dog."
+  },
+  {
+    "start": 367,
+    "end": 370.48,
+    "text": " It's basically a landscape where you see a dog's head sticking up"
+  },
+  {
+    "start": 370.48,
+    "end": 372.48,
+    "text": " at the bottom of the painting."
+  },
+  {
+    "start": 372.48,
+    "end": 375.2,
+    "text": " And, you know, is he coming over a sort of horizon?"
+  },
+  {
+    "start": 375.2,
+    "end": 378,
+    "text": " Is he coming over a bump in a hill? Is he drowning in quicksand?"
+  },
+  {
+    "start": 378,
+    "end": 379.36,
+    "text": " A lot of people say he's drowning."
+  },
+  {
+    "start": 379.36,
+    "end": 381.48,
+    "text": " I looked at him and thought, oh, it's like it's like kind of begging."
+  },
+  {
+    "start": 381.48,
+    "end": 382.8,
+    "text": " Like you get a dog at a table begging,"
+  },
+  {
+    "start": 382.8,
+    "end": 384.32,
+    "text": " but a lot of people have attempted drowning."
+  },
+  {
+    "start": 384.32,
+    "end": 387.2,
+    "text": " Yeah, but we have no idea, right? He's never intended anyone to see these."
+  },
+  {
+    "start": 387.2,
+    "end": 391.12,
+    "text": " These were private kind of things that he did on his wall at home."
+  },
+  {
+    "start": 391.12,
+    "end": 393.84,
+    "text": " You know, if a kid drills in the wall, they get in trouble, don't they?"
+  },
+  {
+    "start": 393.84,
+    "end": 396.04,
+    "text": " And yeah, kind of example is that setting."
+  },
+  {
+    "start": 396.04,
+    "end": 398.84,
+    "text": " You've got to own your own house in order to then make those decisions, right?"
+  },
+  {
+    "start": 398.84,
+    "end": 402.44,
+    "text": " That's got to imagine if he was renting how pissed off they were."
+  },
+  {
+    "start": 402.44,
+    "end": 404.52,
+    "text": " You'll not get your deposit back."
+  },
+  {
+    "start": 404.52,
+    "end": 406.92,
+    "text": " Yeah, so he gave it he gave the house to his grandson"
+  },
+  {
+    "start": 406.92,
+    "end": 410.04,
+    "text": " and then his grandson sold it to, I don't know, a baron."
+  },
+  {
+    "start": 410.04,
+    "end": 413.32,
+    "text": " And and then that's the guy who went, let's let's take this off,"
+  },
+  {
+    "start": 413.32,
+    "end": 415.64,
+    "text": " put this on canvas, donate it to the museums."
+  },
+  {
+    "start": 415.64,
+    "end": 418.4,
+    "text": " The dog in particular in the museum where it is,"
+  },
+  {
+    "start": 418.4,
+    "end": 421.96,
+    "text": " the curator of that museum says that there's not a single contemporary painter"
+  },
+  {
+    "start": 421.96,
+    "end": 424.48,
+    "text": " in the world who does not pray in front of the dog."
+  },
+  {
+    "start": 424.48,
+    "end": 426.6,
+    "text": " It's that important. Oh, yeah."
+  },
+  {
+    "start": 426.6,
+    "end": 428.56,
+    "text": " I've got to say, the dog doesn't impress me as the guy."
+  },
+  {
+    "start": 428.56,
+    "end": 430.36,
+    "text": " I like I think some of the others are better."
+  },
+  {
+    "start": 430.36,
+    "end": 433,
+    "text": " Really is a big dog doesn't put anything out."
+  },
+  {
+    "start": 433,
+    "end": 435.96,
+    "text": " It's like, it's a massive portrait shaped vertical painting."
+  },
+  {
+    "start": 435.96,
+    "end": 438.08,
+    "text": " The dog's right in the bottom and most of it's just brown."
+  },
+  {
+    "start": 438.08,
+    "end": 440,
+    "text": " Like 95 percent of it is just brown."
+  },
+  {
+    "start": 440.12,
+    "end": 443.8,
+    "text": " Once you learn about Maljevic, by the way, who's painting is just black."
+  },
+  {
+    "start": 443.8,
+    "end": 445.44,
+    "text": " It's like literally just a black square."
+  },
+  {
+    "start": 445.44,
+    "end": 448.44,
+    "text": " Right. Yeah, if you don't like something that's 90 percent brown,"
+  },
+  {
+    "start": 448.44,
+    "end": 449.96,
+    "text": " you're not going to like that."
+  },
+  {
+    "start": 449.96,
+    "end": 451.56,
+    "text": " I think the only reason people like the dogs"
+  },
+  {
+    "start": 451.56,
+    "end": 454.2,
+    "text": " is because you've filed through these like witches and decapitated,"
+  },
+  {
+    "start": 454.2,
+    "end": 457.6,
+    "text": " bloodied people tear each other to shreds and then you've got a little black dog."
+  },
+  {
+    "start": 457.6,
+    "end": 458.56,
+    "text": " People love animals."
+  },
+  {
+    "start": 458.56,
+    "end": 459.4,
+    "text": " Yeah, people love animals."
+  },
+  {
+    "start": 459.4,
+    "end": 461.52,
+    "text": " He knew the tick tock generation was coming up."
+  },
+  {
+    "start": 461.52,
+    "end": 463.2,
+    "text": " He knew memes were on the way."
+  },
+  {
+    "start": 463.2,
+    "end": 465.2,
+    "text": " He's so clever. It's actually doge, isn't it?"
+  },
+  {
+    "start": 465.2,
+    "end": 469.08,
+    "text": " So there's so much written about his art"
+  },
+  {
+    "start": 469.08,
+    "end": 471.88,
+    "text": " and the interpretations of it, but what do we know about Goya the man?"
+  },
+  {
+    "start": 471.88,
+    "end": 474.72,
+    "text": " Here's a few things that we know."
+  },
+  {
+    "start": 474.72,
+    "end": 476.2,
+    "text": " Are you presenting a documentary?"
+  },
+  {
+    "start": 476.2,
+    "end": 478.2,
+    "text": " I thought you were on the South Bank show for a second."
+  },
+  {
+    "start": 478.2,
+    "end": 480.4,
+    "text": " It really felt like I was Melvin Bragg all of a sudden."
+  },
+  {
+    "start": 480.4,
+    "end": 483.16,
+    "text": " The smell of orange. Love the smell of orange."
+  },
+  {
+    "start": 483.16,
+    "end": 484.68,
+    "text": " Oh, yeah. Yeah."
+  },
+  {
+    "start": 484.68,
+    "end": 488.4,
+    "text": " The smell of a girl's armpit loved it as long as it had an orange."
+  },
+  {
+    "start": 488.4,
+    "end": 491.88,
+    "text": " You get this like a dating profile, right?"
+  },
+  {
+    "start": 491.88,
+    "end": 495.88,
+    "text": " Well, this is the whiff of tobacco, the aftertaste of wine"
+  },
+  {
+    "start": 495.88,
+    "end": 498.84,
+    "text": " and the twanging rhythms of a street dance."
+  },
+  {
+    "start": 498.88,
+    "end": 501.6,
+    "text": " This is all according to a biography that was written about him."
+  },
+  {
+    "start": 501.6,
+    "end": 503.32,
+    "text": " Is it according to him himself?"
+  },
+  {
+    "start": 503.32,
+    "end": 506.2,
+    "text": " Because it feels like, OK, he wrote this down somewhere."
+  },
+  {
+    "start": 506.2,
+    "end": 508.44,
+    "text": " It wasn't someone going, he seems like the kind of guy"
+  },
+  {
+    "start": 508.44,
+    "end": 510.32,
+    "text": " who loves sniffing girls armpits."
+  },
+  {
+    "start": 510.32,
+    "end": 512.72,
+    "text": " Let's put that in. Yeah, I love the smell of an orange."
+  },
+  {
+    "start": 512.72,
+    "end": 515.32,
+    "text": " Like, who doesn't like orange is generally pleasant."
+  },
+  {
+    "start": 515.32,
+    "end": 516.76,
+    "text": " Why would you like note that down?"
+  },
+  {
+    "start": 516.76,
+    "end": 518.44,
+    "text": " Well, maybe he chucked the orange thing in there"
+  },
+  {
+    "start": 518.44,
+    "end": 521.2,
+    "text": " to make up for the weirdness of the girls armpits so that there was."
+  },
+  {
+    "start": 521.2,
+    "end": 523.52,
+    "text": " Yeah, I'm not totally crazy."
+  },
+  {
+    "start": 523.52,
+    "end": 525.28,
+    "text": " I like normal things, too."
+  },
+  {
+    "start": 525.28,
+    "end": 529,
+    "text": " He was the first major artist to paint a woman entirely nude"
+  },
+  {
+    "start": 529,
+    "end": 532.04,
+    "text": " in a profane style, as in the this was the one"
+  },
+  {
+    "start": 532.04,
+    "end": 533.84,
+    "text": " that he got summoned by the inquisition."
+  },
+  {
+    "start": 533.84,
+    "end": 536.56,
+    "text": " Yeah, so profane means not religious."
+  },
+  {
+    "start": 536.56,
+    "end": 540,
+    "text": " And this was the naked maca."
+  },
+  {
+    "start": 540,
+    "end": 542.56,
+    "text": " Yes, it was deemed, I think, indecent"
+  },
+  {
+    "start": 542.56,
+    "end": 544.32,
+    "text": " and prejudicial to the common good."
+  },
+  {
+    "start": 544.32,
+    "end": 546.76,
+    "text": " So, yeah, and I didn't know what a maca was,"
+  },
+  {
+    "start": 546.76,
+    "end": 549.72,
+    "text": " but machos and machas were according to the New Yorker."
+  },
+  {
+    "start": 549.72,
+    "end": 553.72,
+    "text": " This is how New Yorker described them flamboyantly cheeky, lower class dandies."
+  },
+  {
+    "start": 554.08,
+    "end": 556.96,
+    "text": " And that's what I've got on my dating profile."
+  },
+  {
+    "start": 556.96,
+    "end": 561.72,
+    "text": " Lower class, please, the other way you talk, Alex."
+  },
+  {
+    "start": 561.72,
+    "end": 565.36,
+    "text": " But yeah, I got summoned by the inquisition"
+  },
+  {
+    "start": 565.36,
+    "end": 568.2,
+    "text": " and I just find his tangles with the inquisition quite bizarre."
+  },
+  {
+    "start": 568.2,
+    "end": 569.24,
+    "text": " Yeah, so weird."
+  },
+  {
+    "start": 569.24,
+    "end": 571.08,
+    "text": " Well, who knew the inquisition was still bloody"
+  },
+  {
+    "start": 571.08,
+    "end": 572.84,
+    "text": " happening the start of the 19th century?"
+  },
+  {
+    "start": 572.84,
+    "end": 574.36,
+    "text": " Are they lasted for ages, didn't they?"
+  },
+  {
+    "start": 574.36,
+    "end": 575.88,
+    "text": " It lasted ridiculously long."
+  },
+  {
+    "start": 575.88,
+    "end": 577.92,
+    "text": " It's practically going since late medieval times."
+  },
+  {
+    "start": 577.92,
+    "end": 579.84,
+    "text": " And still they're struggling on clinging on."
+  },
+  {
+    "start": 579.84,
+    "end": 581.72,
+    "text": " I think they were quite toothless by then."
+  },
+  {
+    "start": 581.72,
+    "end": 583.12,
+    "text": " Python sketch was topical."
+  },
+  {
+    "start": 583.12,
+    "end": 585.2,
+    "text": " Yeah, but he did."
+  },
+  {
+    "start": 585.2,
+    "end": 587.28,
+    "text": " He got away with it with the naked painting."
+  },
+  {
+    "start": 587.28,
+    "end": 590.68,
+    "text": " I believe by saying, well, if you think this was gross,"
+  },
+  {
+    "start": 590.68,
+    "end": 593.04,
+    "text": " then you're condemning your former king because he said"
+  },
+  {
+    "start": 593.04,
+    "end": 595.44,
+    "text": " he was emulating a Velasquez painting"
+  },
+  {
+    "start": 595.44,
+    "end": 597.64,
+    "text": " and that Philip the Fourth of Spain had loved."
+  },
+  {
+    "start": 597.64,
+    "end": 602.2,
+    "text": " So he was going, well, your king loved this, basically, your dead king."
+  },
+  {
+    "start": 602.2,
+    "end": 603.4,
+    "text": " So what are you going to do?"
+  },
+  {
+    "start": 603.4,
+    "end": 605.4,
+    "text": " Well, the interesting thing I think about the naked"
+  },
+  {
+    "start": 605.4,
+    "end": 609.24,
+    "text": " maha is that he gave it or sold it, I should say, to Godoy,"
+  },
+  {
+    "start": 609.24,
+    "end": 611.44,
+    "text": " who was the prime minister of Spain at the time."
+  },
+  {
+    "start": 611.8,
+    "end": 616.48,
+    "text": " And the story goes that we know that Goya made two versions,"
+  },
+  {
+    "start": 616.48,
+    "end": 619.84,
+    "text": " the naked maha and the not-naked maha, the clothed maha,"
+  },
+  {
+    "start": 619.84,
+    "end": 621.6,
+    "text": " you might call it."
+  },
+  {
+    "start": 621.6,
+    "end": 626.16,
+    "text": " And the prime minister supposedly kept the clothed one on display."
+  },
+  {
+    "start": 626.16,
+    "end": 629.4,
+    "text": " And whenever his friends would come round after a few whiskeys,"
+  },
+  {
+    "start": 629.4,
+    "end": 633.04,
+    "text": " he would say, look at this, and he would pull like a secret lever"
+  },
+  {
+    "start": 633.04,
+    "end": 636.32,
+    "text": " and the wall would spin round and the naked one would come out."
+  },
+  {
+    "start": 636.32,
+    "end": 639.52,
+    "text": " That's like one of those pens where you turn it upside down."
+  },
+  {
+    "start": 639.52,
+    "end": 641.32,
+    "text": " It's actually so tacky."
+  },
+  {
+    "start": 641.32,
+    "end": 644.12,
+    "text": " Well, that's the story, and that's supposedly what happened."
+  },
+  {
+    "start": 644.12,
+    "end": 647.64,
+    "text": " But for sure, the reason that he got brought in front of the Inquisition,"
+  },
+  {
+    "start": 647.64,
+    "end": 651.52,
+    "text": " Goya is because Godoy was actually really controversial,"
+  },
+  {
+    "start": 651.52,
+    "end": 652.8,
+    "text": " because he was the prime minister."
+  },
+  {
+    "start": 652.8,
+    "end": 655.24,
+    "text": " And this was one of the really controversial things that he did,"
+  },
+  {
+    "start": 655.24,
+    "end": 657.2,
+    "text": " having this terrible painting."
+  },
+  {
+    "start": 657.2,
+    "end": 660.04,
+    "text": " And it was Goya kind of got pulled into the Inquisition"
+  },
+  {
+    "start": 660.04,
+    "end": 661.64,
+    "text": " because they were going after Godoy."
+  },
+  {
+    "start": 661.64,
+    "end": 663.28,
+    "text": " Really? That's amazing."
+  },
+  {
+    "start": 663.28,
+    "end": 667.36,
+    "text": " It's a painting that has caused controversy for not just his period,"
+  },
+  {
+    "start": 667.36,
+    "end": 668.92,
+    "text": " but well long after his death."
+  },
+  {
+    "start": 668.92,
+    "end": 672.48,
+    "text": " The 155 years well long. Well long, man."
+  },
+  {
+    "start": 672.48,
+    "end": 677.56,
+    "text": " Bare long. He used to say people used to go to Godoy's house and go,"
+  },
+  {
+    "start": 677.56,
+    "end": 680.84,
+    "text": " that is a bad good painting. Do you think this is bad good?"
+  },
+  {
+    "start": 680.84,
+    "end": 688.68,
+    "text": " So many, many years later, it's issued in Spain as a stamp."
+  },
+  {
+    "start": 688.68,
+    "end": 693.56,
+    "text": " And this is suddenly the first stamp where there's a naked woman on a stamp."
+  },
+  {
+    "start": 693.56,
+    "end": 696.4,
+    "text": " And in American, this is 1959, they banned it."
+  },
+  {
+    "start": 696.52,
+    "end": 700.88,
+    "text": " So any letters that came into America, they said, we will not forward them on."
+  },
+  {
+    "start": 700.88,
+    "end": 704.2,
+    "text": " There are a few cases where at the post office, they would actually just,"
+  },
+  {
+    "start": 704.2,
+    "end": 707.76,
+    "text": " you know, they'd scrawled up the stamp, scrawled it over and stuff like that"
+  },
+  {
+    "start": 707.76,
+    "end": 710.32,
+    "text": " and then send it on. But it was a huge, huge problem."
+  },
+  {
+    "start": 710.32,
+    "end": 713.08,
+    "text": " That's amazing. Yeah, the letters returned because of, yeah."
+  },
+  {
+    "start": 713.08,
+    "end": 716.28,
+    "text": " It's a time magazine wrote, an indecent picture is bad enough,"
+  },
+  {
+    "start": 716.28,
+    "end": 719.04,
+    "text": " but a postage stamp whose backside must be licked."
+  },
+  {
+    "start": 719.04,
+    "end": 722.4,
+    "text": " Millions of millions of innocent children collect stamps."
+  },
+  {
+    "start": 722.4,
+    "end": 725.92,
+    "text": " And so, yeah, and there were certain places that kind of allowed it."
+  },
+  {
+    "start": 725.92,
+    "end": 727.4,
+    "text": " But eventually they did ban it entirely."
+  },
+  {
+    "start": 727.4,
+    "end": 730.04,
+    "text": " It didn't have a picture of her bum on the back that you could lick, did it?"
+  },
+  {
+    "start": 730.04,
+    "end": 731.24,
+    "text": " No."
+  },
+  {
+    "start": 731.24,
+    "end": 733.8,
+    "text": " So we don't know who the woman is in that painting,"
+  },
+  {
+    "start": 733.8,
+    "end": 738.16,
+    "text": " but there's a pretty good chance that it's at least partly based on the duchess"
+  },
+  {
+    "start": 738.16,
+    "end": 741.68,
+    "text": " of Alba, who was supposedly Gaius Mistras."
+  },
+  {
+    "start": 741.68,
+    "end": 743.2,
+    "text": " They were definitely very good friends."
+  },
+  {
+    "start": 743.2,
+    "end": 744.72,
+    "text": " We're not sure if they were."
+  },
+  {
+    "start": 744.72,
+    "end": 748.72,
+    "text": " But they were definitely good mates."
+  },
+  {
+    "start": 748.72,
+    "end": 752.08,
+    "text": " That sounded like an event."
+  },
+  {
+    "start": 752.08,
+    "end": 754.56,
+    "text": " They looked after a small bird together."
+  },
+  {
+    "start": 754.56,
+    "end": 757.92,
+    "text": " That sounded like an actual censor on our show that you said a swear word."
+  },
+  {
+    "start": 757.92,
+    "end": 759.56,
+    "text": " And it's now been whistled over."
+  },
+  {
+    "start": 759.56,
+    "end": 763.96,
+    "text": " I thought now that we're possibly going on BBC Sounds, that I should not be saying fucking."
+  },
+  {
+    "start": 763.96,
+    "end": 765.4,
+    "text": " Yeah, true."
+  },
+  {
+    "start": 765.4,
+    "end": 768.2,
+    "text": " Anyway, the duchess of Alba's full name, actually,"
+  },
+  {
+    "start": 768.2,
+    "end": 773.56,
+    "text": " was Donia Maria Dalpila Tareza, Caetana de Silva, Alvarez de Toledo"
+  },
+  {
+    "start": 773.56,
+    "end": 778.04,
+    "text": " and Silva Bazan, Decimo Tercera Duchesa de Alba de Tomes,"
+  },
+  {
+    "start": 778.04,
+    "end": 783.08,
+    "text": " Decimo Premiera Duchesa de Hosca, Sexta Duchesa de Montero,"
+  },
+  {
+    "start": 783.08,
+    "end": 788.8,
+    "text": " Octava Candesa Duchesa de Alvarez, Decimo Premiera Marquiza del Capio,"
+  },
+  {
+    "start": 788.8,
+    "end": 794.12,
+    "text": " Decimo Tercera Marquiza de Coria, Noneba Novena, I won't do them all."
+  },
+  {
+    "start": 794.12,
+    "end": 797.24,
+    "text": " It's 754 letters in total."
+  },
+  {
+    "start": 797.24,
+    "end": 799.6,
+    "text": " Her full name was."
+  },
+  {
+    "start": 799.6,
+    "end": 802.48,
+    "text": " Either we have to say this fact or we have to say all the other factors."
+  },
+  {
+    "start": 802.48,
+    "end": 808.2,
+    "text": " So, yeah, and her descendant, who died in 2014,"
+  },
+  {
+    "start": 808.2,
+    "end": 811.4,
+    "text": " who was actually a quite famous duchess of Alba, the one who was in the painting"
+  },
+  {
+    "start": 811.4,
+    "end": 815.32,
+    "text": " was a 13th and the one who died in 2014 was in the Guinness World Records"
+  },
+  {
+    "start": 815.32,
+    "end": 818.08,
+    "text": " as the aristocrat with most titles."
+  },
+  {
+    "start": 818.08,
+    "end": 819.64,
+    "text": " She was a bit of an eccentric."
+  },
+  {
+    "start": 819.64,
+    "end": 824.64,
+    "text": " Yeah, and the duchess of Alba, who's in the painting."
+  },
+  {
+    "start": 824.64,
+    "end": 827.68,
+    "text": " There's interesting thing about her is she was one of the most powerful people"
+  },
+  {
+    "start": 827.68,
+    "end": 831.28,
+    "text": " because she was also supposedly the mistress of Godoy, the prime minister."
+  },
+  {
+    "start": 831.28,
+    "end": 835.32,
+    "text": " But she had a bit of a beef with Maria Louisa,"
+  },
+  {
+    "start": 835.32,
+    "end": 838.4,
+    "text": " who was the queen consort who was married to Charles IV."
+  },
+  {
+    "start": 838.4,
+    "end": 840.32,
+    "text": " These were the two most powerful women"
+  },
+  {
+    "start": 840.32,
+    "end": 842.48,
+    "text": " and they really, really hated each other."
+  },
+  {
+    "start": 842.48,
+    "end": 846.04,
+    "text": " And one day the queen consort was going to go to a party"
+  },
+  {
+    "start": 846.04,
+    "end": 849.44,
+    "text": " and the duchess of Alba found out what she was going to wear"
+  },
+  {
+    "start": 849.44,
+    "end": 854.08,
+    "text": " and got all of her maids to wear exactly the same clothes as the Countess"
+  },
+  {
+    "start": 854.08,
+    "end": 855.52,
+    "text": " and go to the party."
+  },
+  {
+    "start": 855.52,
+    "end": 859.16,
+    "text": " So suddenly there were like 20 women all wearing exactly the same clothes."
+  },
+  {
+    "start": 859.16,
+    "end": 861.04,
+    "text": " That could be seen as flattery."
+  },
+  {
+    "start": 861.04,
+    "end": 863,
+    "text": " It wasn't. It was seen as famously women."
+  },
+  {
+    "start": 863,
+    "end": 866.8,
+    "text": " Hey, that it was seen as a massive, massive slap."
+  },
+  {
+    "start": 867.52,
+    "end": 870.12,
+    "text": " Do they women you say they don't like that?"
+  },
+  {
+    "start": 870.12,
+    "end": 874.84,
+    "text": " It was seen as a massive, massive slam, so much so that we think"
+  },
+  {
+    "start": 874.84,
+    "end": 878.64,
+    "text": " that the queen consort had the duchess of Alba murdered for that."
+  },
+  {
+    "start": 878.64,
+    "end": 880.28,
+    "text": " Oh, wow. Wow."
+  },
+  {
+    "start": 880.28,
+    "end": 882,
+    "text": " For getting her maids to wear the same clothes."
+  },
+  {
+    "start": 882,
+    "end": 883.32,
+    "text": " That is a magical joke on wrong."
+  },
+  {
+    "start": 883.32,
+    "end": 886.4,
+    "text": " Yeah. So I'm now terrified because sometimes me and Anne come"
+  },
+  {
+    "start": 886.4,
+    "end": 890,
+    "text": " into the office wearing the same jumper with a cuddly animal featured on the front."
+  },
+  {
+    "start": 890,
+    "end": 891.44,
+    "text": " Yeah. Do you think she's plotting my demise?"
+  },
+  {
+    "start": 891.44,
+    "end": 892.92,
+    "text": " I feel like she might be."
+  },
+  {
+    "start": 892.92,
+    "end": 895.2,
+    "text": " Actually, they exhumed her body in 1945."
+  },
+  {
+    "start": 895.2,
+    "end": 897.2,
+    "text": " They think she probably died."
+  },
+  {
+    "start": 898.2,
+    "end": 900.2,
+    "text": " Yeah."
+  },
+  {
+    "start": 900.2,
+    "end": 903.16,
+    "text": " She probably died of meningitis, we think, after being murdered."
+  },
+  {
+    "start": 903.16,
+    "end": 905.12,
+    "text": " But that was the story for hundreds of years."
+  },
+  {
+    "start": 905.12,
+    "end": 906.6,
+    "text": " That's what happened. That's amazing."
+  },
+  {
+    "start": 906.6,
+    "end": 910.72,
+    "text": " The number of paintings by Goya is going down and down by the day."
+  },
+  {
+    "start": 910.72,
+    "end": 911.96,
+    "text": " Right. It's a real."
+  },
+  {
+    "start": 911.96,
+    "end": 913.96,
+    "text": " I'd be more surprised if it was going up."
+  },
+  {
+    "start": 913.96,
+    "end": 920.36,
+    "text": " I suppose sometimes you find paint."
+  },
+  {
+    "start": 920.36,
+    "end": 921.52,
+    "text": " No, that is true."
+  },
+  {
+    "start": 921.52,
+    "end": 923.24,
+    "text": " You do just got the lost paintings."
+  },
+  {
+    "start": 923.24,
+    "end": 925.2,
+    "text": " You might have had another like a shed or something"
+  },
+  {
+    "start": 925.2,
+    "end": 926.92,
+    "text": " that he painted all over that we haven't discovered yet."
+  },
+  {
+    "start": 926.92,
+    "end": 927.44,
+    "text": " Absolutely."
+  },
+  {
+    "start": 927.44,
+    "end": 929.8,
+    "text": " You might have had a second home that he rented out as an Airbnb,"
+  },
+  {
+    "start": 929.8,
+    "end": 932.28,
+    "text": " but then it turns out that it had paintings on it."
+  },
+  {
+    "start": 932.28,
+    "end": 934,
+    "text": " Yeah. But none of these things are true."
+  },
+  {
+    "start": 934,
+    "end": 934.92,
+    "text": " That's what we're saying."
+  },
+  {
+    "start": 934.92,
+    "end": 937,
+    "text": " Well, I think what we're saying is we don't know."
+  },
+  {
+    "start": 937,
+    "end": 937.88,
+    "text": " We just don't know."
+  },
+  {
+    "start": 937.88,
+    "end": 941.16,
+    "text": " If you're staying in an Airbnb with disturbing paintings on the wall,"
+  },
+  {
+    "start": 941.16,
+    "end": 943.84,
+    "text": " get in touch. That's about every Airbnb."
+  },
+  {
+    "start": 943.84,
+    "end": 946.68,
+    "text": " We haven't stayed in like a tastefully decorated Airbnb."
+  },
+  {
+    "start": 946.68,
+    "end": 949.08,
+    "text": " You need to up your budget very slightly at least."
+  },
+  {
+    "start": 949.08,
+    "end": 951.08,
+    "text": " It's a lower class Gabby."
+  },
+  {
+    "start": 951.08,
+    "end": 956.44,
+    "text": " So this is because basically lots of paintings"
+  },
+  {
+    "start": 956.44,
+    "end": 958.92,
+    "text": " that we thought were by him turn out not to be by him."
+  },
+  {
+    "start": 958.92,
+    "end": 959.4,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 959.4,
+    "end": 961.8,
+    "text": " And when, you know, modern analysis is done,"
+  },
+  {
+    "start": 961.8,
+    "end": 963.8,
+    "text": " it looks very closely at brushstrokes"
+  },
+  {
+    "start": 963.8,
+    "end": 965.76,
+    "text": " and the type of materials that we used"
+  },
+  {
+    "start": 965.76,
+    "end": 967.2,
+    "text": " and they make certain deductions."
+  },
+  {
+    "start": 967.2,
+    "end": 968.4,
+    "text": " I'm always skeptical, you know."
+  },
+  {
+    "start": 968.4,
+    "end": 972.36,
+    "text": " So there's actually one of his most famous paintings, Colossus."
+  },
+  {
+    "start": 972.36,
+    "end": 974.88,
+    "text": " They now think was not painted by him."
+  },
+  {
+    "start": 974.88,
+    "end": 977.68,
+    "text": " And there's one expert called Manuela Mena."
+  },
+  {
+    "start": 977.68,
+    "end": 980.36,
+    "text": " And she says that the brushstrokes are inferior"
+  },
+  {
+    "start": 980.36,
+    "end": 981.6,
+    "text": " to what he would have done."
+  },
+  {
+    "start": 981.6,
+    "end": 984.2,
+    "text": " You can tell that the confidence with which they were made"
+  },
+  {
+    "start": 984.2,
+    "end": 985.12,
+    "text": " is not an expert."
+  },
+  {
+    "start": 985.12,
+    "end": 987.24,
+    "text": " And you think he could just be having a bad day?"
+  },
+  {
+    "start": 987.24,
+    "end": 990.04,
+    "text": " Can I just say, if people in the like 200 years,"
+  },
+  {
+    "start": 990.04,
+    "end": 993.2,
+    "text": " they listened to episode 183 of the podcast,"
+  },
+  {
+    "start": 993.2,
+    "end": 994.68,
+    "text": " they weren't very funny in that one."
+  },
+  {
+    "start": 994.68,
+    "end": 997.28,
+    "text": " So I don't think it was them."
+  },
+  {
+    "start": 997.28,
+    "end": 1000.08,
+    "text": " That's that AI thing jumping over their voices."
+  },
+  {
+    "start": 1000.08,
+    "end": 1007.48,
+    "text": " OK, it is time for fact number two."
+  },
+  {
+    "start": 1007.48,
+    "end": 1008.64,
+    "text": " And that is my fact."
+  },
+  {
+    "start": 1008.64,
+    "end": 1010.72,
+    "text": " My fact this week is that before governments"
+  },
+  {
+    "start": 1010.72,
+    "end": 1012.36,
+    "text": " experienced cyber attacks,"
+  },
+  {
+    "start": 1012.36,
+    "end": 1015.2,
+    "text": " they had to deal with fax attacks."
+  },
+  {
+    "start": 1015.2,
+    "end": 1016.92,
+    "text": " Oh, what a great name."
+  },
+  {
+    "start": 1016.92,
+    "end": 1018.16,
+    "text": " Alternative podcast."
+  },
+  {
+    "start": 1018.16,
+    "end": 1018.84,
+    "text": " Fax attack."
+  },
+  {
+    "start": 1018.84,
+    "end": 1019.6,
+    "text": " Fax attack."
+  },
+  {
+    "start": 1019.6,
+    "end": 1021.48,
+    "text": " Oh, yeah, that's true, yeah."
+  },
+  {
+    "start": 1021.48,
+    "end": 1023.84,
+    "text": " So this is a thing that's called a black fax."
+  },
+  {
+    "start": 1023.84,
+    "end": 1025.36,
+    "text": " And people would do this as pranks,"
+  },
+  {
+    "start": 1025.36,
+    "end": 1027.56,
+    "text": " but they would do it to companies that they hated."
+  },
+  {
+    "start": 1027.56,
+    "end": 1028.88,
+    "text": " They would do it to governments"
+  },
+  {
+    "start": 1028.88,
+    "end": 1032.76,
+    "text": " where they would basically send over black paper from their side."
+  },
+  {
+    "start": 1032.76,
+    "end": 1034.88,
+    "text": " And often they would do, they would loop it around."
+  },
+  {
+    "start": 1034.88,
+    "end": 1038.16,
+    "text": " So their fax machine was just sort of eternally"
+  },
+  {
+    "start": 1038.16,
+    "end": 1039.96,
+    "text": " sending a fully black page."
+  },
+  {
+    "start": 1039.96,
+    "end": 1040.68,
+    "text": " Like a conveyor belt."
+  },
+  {
+    "start": 1040.68,
+    "end": 1042.12,
+    "text": " Like a conveyor belt, exactly."
+  },
+  {
+    "start": 1042.12,
+    "end": 1043.76,
+    "text": " And so the people receiving it,"
+  },
+  {
+    "start": 1043.76,
+    "end": 1045.48,
+    "text": " if they were not near their fax machine,"
+  },
+  {
+    "start": 1045.48,
+    "end": 1048.04,
+    "text": " suddenly they would be using all the ink up"
+  },
+  {
+    "start": 1048.04,
+    "end": 1051.16,
+    "text": " or they might even heat the machine up so much"
+  },
+  {
+    "start": 1051.16,
+    "end": 1053.76,
+    "text": " because so much of it was processing the load ages."
+  },
+  {
+    "start": 1053.76,
+    "end": 1055.76,
+    "text": " It would overload and it would sort of just."
+  },
+  {
+    "start": 1055.76,
+    "end": 1057.92,
+    "text": " I suppose also means you can't use the fax"
+  },
+  {
+    "start": 1057.92,
+    "end": 1059.28,
+    "text": " while that's happening. Exactly."
+  },
+  {
+    "start": 1059.28,
+    "end": 1060.88,
+    "text": " We should say, because people will write in,"
+  },
+  {
+    "start": 1060.88,
+    "end": 1063.36,
+    "text": " probably not ink so much as thermal paper."
+  },
+  {
+    "start": 1063.36,
+    "end": 1064.52,
+    "text": " Yes, sorry, yes."
+  },
+  {
+    "start": 1064.52,
+    "end": 1067.32,
+    "text": " But I love already the people who would have written in"
+  },
+  {
+    "start": 1067.32,
+    "end": 1068.28,
+    "text": " to complain about that."
+  },
+  {
+    "start": 1068.28,
+    "end": 1069.72,
+    "text": " I'm sorry we corrected ourselves"
+  },
+  {
+    "start": 1069.72,
+    "end": 1071,
+    "text": " because I want to know you better."
+  },
+  {
+    "start": 1072,
+    "end": 1075.4,
+    "text": " Send your faxes to podcast@qi.com."
+  },
+  {
+    "start": 1075.4,
+    "end": 1077.32,
+    "text": " So yeah, it's a method that was done"
+  },
+  {
+    "start": 1077.32,
+    "end": 1080.92,
+    "text": " and it was done, you know, before cybercrime."
+  },
+  {
+    "start": 1080.92,
+    "end": 1083.88,
+    "text": " If we're being sort of talking about it loosely"
+  },
+  {
+    "start": 1083.88,
+    "end": 1087.36,
+    "text": " because there are always examples of like the 1700s,"
+  },
+  {
+    "start": 1087.36,
+    "end": 1088.36,
+    "text": " a version of cyber attack."
+  },
+  {
+    "start": 1088.36,
+    "end": 1090.6,
+    "text": " Yeah, they say the first one was like 1834,"
+  },
+  {
+    "start": 1090.6,
+    "end": 1091.68,
+    "text": " it was supposed to be the first cyber crime."
+  },
+  {
+    "start": 1091.68,
+    "end": 1092.52,
+    "text": " What was that then?"
+  },
+  {
+    "start": 1092.52,
+    "end": 1094,
+    "text": " Well, it was in France"
+  },
+  {
+    "start": 1094,
+    "end": 1095.88,
+    "text": " and it was obviously before the internet was invented"
+  },
+  {
+    "start": 1095.88,
+    "end": 1099.28,
+    "text": " and it was a way of, sorry."
+  },
+  {
+    "start": 1099.28,
+    "end": 1101.04,
+    "text": " Because these days, they might not know."
+  },
+  {
+    "start": 1101.04,
+    "end": 1107.36,
+    "text": " In those days, financial market data was,"
+  },
+  {
+    "start": 1107.36,
+    "end": 1108.4,
+    "text": " like trading was happening,"
+  },
+  {
+    "start": 1108.4,
+    "end": 1110.68,
+    "text": " but it was sort of done via like letter."
+  },
+  {
+    "start": 1110.68,
+    "end": 1112.4,
+    "text": " So if you were in a different town,"
+  },
+  {
+    "start": 1112.4,
+    "end": 1114.48,
+    "text": " like the information would travel quite slowly"
+  },
+  {
+    "start": 1114.48,
+    "end": 1115.6,
+    "text": " and people were always trying to find a way"
+  },
+  {
+    "start": 1115.6,
+    "end": 1116.44,
+    "text": " to beat that information"
+  },
+  {
+    "start": 1116.44,
+    "end": 1117.84,
+    "text": " and people tried like carrier pigeons"
+  },
+  {
+    "start": 1117.84,
+    "end": 1119.08,
+    "text": " and all sorts of stuff like this."
+  },
+  {
+    "start": 1119.08,
+    "end": 1120.48,
+    "text": " But one way it wasn't communicated"
+  },
+  {
+    "start": 1120.48,
+    "end": 1121.32,
+    "text": " was the telegraph system,"
+  },
+  {
+    "start": 1121.32,
+    "end": 1123.08,
+    "text": " which was used for other things."
+  },
+  {
+    "start": 1123.08,
+    "end": 1125.04,
+    "text": " But these two brothers, the Blanc brothers,"
+  },
+  {
+    "start": 1125.04,
+    "end": 1129.24,
+    "text": " they set up a ruse with some of the telegraph"
+  },
+  {
+    "start": 1129.24,
+    "end": 1130.68,
+    "text": " operators where they smuggled"
+  },
+  {
+    "start": 1130.68,
+    "end": 1133.04,
+    "text": " little information indicators in other messages."
+  },
+  {
+    "start": 1133.04,
+    "end": 1134.96,
+    "text": " But the way the hack worked was that"
+  },
+  {
+    "start": 1134.96,
+    "end": 1136.76,
+    "text": " the information would be like a single character,"
+  },
+  {
+    "start": 1136.76,
+    "end": 1138.8,
+    "text": " like I suppose U for up or D for down"
+  },
+  {
+    "start": 1138.8,
+    "end": 1139.64,
+    "text": " or something like that"
+  },
+  {
+    "start": 1139.64,
+    "end": 1141.56,
+    "text": " to indicate something to do with the stock market."
+  },
+  {
+    "start": 1141.56,
+    "end": 1142.56,
+    "text": " But then if you followed that"
+  },
+  {
+    "start": 1142.56,
+    "end": 1143.68,
+    "text": " with a backspace character,"
+  },
+  {
+    "start": 1143.68,
+    "end": 1145.12,
+    "text": " it meant that it wouldn't get written down"
+  },
+  {
+    "start": 1145.12,
+    "end": 1146.84,
+    "text": " 'cause it would be regarded as a mistake."
+  },
+  {
+    "start": 1146.84,
+    "end": 1148.76,
+    "text": " But the telegraph operator would see it all."
+  },
+  {
+    "start": 1148.76,
+    "end": 1149.72,
+    "text": " So if they were in on it,"
+  },
+  {
+    "start": 1149.72,
+    "end": 1151.08,
+    "text": " they could write down and be like,"
+  },
+  {
+    "start": 1151.08,
+    "end": 1152.44,
+    "text": " \"Yeah, it's sent over as a mistake,"
+  },
+  {
+    "start": 1152.44,
+    "end": 1153.28,
+    "text": " we're not writing it down,"
+  },
+  {
+    "start": 1153.28,
+    "end": 1154.12,
+    "text": " but this is the information.\""
+  },
+  {
+    "start": 1154.12,
+    "end": 1156,
+    "text": " And the idea being that you know"
+  },
+  {
+    "start": 1156,
+    "end": 1158.28,
+    "text": " if the price of gold has gone down"
+  },
+  {
+    "start": 1158.28,
+    "end": 1159.8,
+    "text": " you could sell it for anyone else."
+  },
+  {
+    "start": 1159.8,
+    "end": 1160.64,
+    "text": " - Yeah, exactly."
+  },
+  {
+    "start": 1160.64,
+    "end": 1161.48,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1161.48,
+    "end": 1162.32,
+    "text": " - That's clever."
+  },
+  {
+    "start": 1162.32,
+    "end": 1163.48,
+    "text": " Do you think, obviously,"
+  },
+  {
+    "start": 1163.48,
+    "end": 1164.96,
+    "text": " who was the modern artist we mentioned earlier?"
+  },
+  {
+    "start": 1164.96,
+    "end": 1166.64,
+    "text": " Was it Roscoe who did all the black paintings?"
+  },
+  {
+    "start": 1166.64,
+    "end": 1167.48,
+    "text": " - Oh, Maljevic."
+  },
+  {
+    "start": 1167.48,
+    "end": 1168.8,
+    "text": " - There's Maljevic."
+  },
+  {
+    "start": 1168.8,
+    "end": 1170.44,
+    "text": " All good when he tries to fax the photos"
+  },
+  {
+    "start": 1170.44,
+    "end": 1172.64,
+    "text": " of his new artworks crew."
+  },
+  {
+    "start": 1172.64,
+    "end": 1174.16,
+    "text": " I keep trying to send it to you."
+  },
+  {
+    "start": 1174.16,
+    "end": 1175,
+    "text": " What?"
+  },
+  {
+    "start": 1175,
+    "end": 1176.56,
+    "text": " Stop pranking us."
+  },
+  {
+    "start": 1176.56,
+    "end": 1177.4,
+    "text": " - It's twice worth so much,"
+  },
+  {
+    "start": 1177.4,
+    "end": 1178.72,
+    "text": " it's just the ink."
+  },
+  {
+    "start": 1178.72,
+    "end": 1180.08,
+    "text": " - No, it's not black."
+  },
+  {
+    "start": 1180.08,
+    "end": 1181.48,
+    "text": " It's the Duchess of Alba's name"
+  },
+  {
+    "start": 1181.48,
+    "end": 1182.64,
+    "text": " in very small fonts."
+  },
+  {
+    "start": 1182.64,
+    "end": 1186.2,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 1186.2,
+    "end": 1188.08,
+    "text": " - Do you know who, as of 2017,"
+  },
+  {
+    "start": 1188.08,
+    "end": 1189.16,
+    "text": " so I don't know if it's changed,"
+  },
+  {
+    "start": 1189.16,
+    "end": 1191.04,
+    "text": " but the last report that I saw, 2017,"
+  },
+  {
+    "start": 1191.04,
+    "end": 1195.44,
+    "text": " was the biggest purchasers of fax machines in the UK."
+  },
+  {
+    "start": 1195.44,
+    "end": 1196.28,
+    "text": " - NHS."
+  },
+  {
+    "start": 1196.28,
+    "end": 1197.12,
+    "text": " - NHS."
+  },
+  {
+    "start": 1197.12,
+    "end": 1197.96,
+    "text": " - It's the NHS."
+  },
+  {
+    "start": 1197.96,
+    "end": 1198.8,
+    "text": " - Yeah."
+  },
+  {
+    "start": 1198.8,
+    "end": 1199.92,
+    "text": " - Yeah, so interesting."
+  },
+  {
+    "start": 1199.92,
+    "end": 1202.44,
+    "text": " - They've really phased it out since then."
+  },
+  {
+    "start": 1202.44,
+    "end": 1203.28,
+    "text": " I think, haven't they?"
+  },
+  {
+    "start": 1203.28,
+    "end": 1204.6,
+    "text": " There was a big scandal a couple of years ago."
+  },
+  {
+    "start": 1204.6,
+    "end": 1205.44,
+    "text": " - Yeah, it was controversial, I remember."
+  },
+  {
+    "start": 1205.44,
+    "end": 1206.68,
+    "text": " - They were like, \"We've got to stop.\""
+  },
+  {
+    "start": 1206.68,
+    "end": 1207.52,
+    "text": " - Yeah."
+  },
+  {
+    "start": 1207.52,
+    "end": 1208.36,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 1208.36,
+    "end": 1209.48,
+    "text": " - Yeah, and pages as well, wasn't it?"
+  },
+  {
+    "start": 1209.48,
+    "end": 1210.32,
+    "text": " - Yeah."
+  },
+  {
+    "start": 1210.32,
+    "end": 1211.44,
+    "text": " - I think they decided they wanted to get rid of them all."
+  },
+  {
+    "start": 1211.44,
+    "end": 1214.68,
+    "text": " - Also, the NHS still have a big dictaphone tradition,"
+  },
+  {
+    "start": 1214.68,
+    "end": 1216.28,
+    "text": " where a lot of the older doctors still,"
+  },
+  {
+    "start": 1216.28,
+    "end": 1217.28,
+    "text": " instead of--"
+  },
+  {
+    "start": 1217.28,
+    "end": 1218.64,
+    "text": " - Why don't they just use their fingers?"
+  },
+  {
+    "start": 1218.64,
+    "end": 1221.22,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 1221.22,
+    "end": 1223.32,
+    "text": " - That's one of my favorite jokes."
+  },
+  {
+    "start": 1223.32,
+    "end": 1225.28,
+    "text": " - It's really a joke, it's a great joke."
+  },
+  {
+    "start": 1225.28,
+    "end": 1226.12,
+    "text": " It's great."
+  },
+  {
+    "start": 1226.12,
+    "end": 1227.24,
+    "text": " - Sorry, as you were saying."
+  },
+  {
+    "start": 1227.24,
+    "end": 1229,
+    "text": " - No, just that loads of doctors still"
+  },
+  {
+    "start": 1229,
+    "end": 1230.96,
+    "text": " will be able to log in to the usual NHS account,"
+  },
+  {
+    "start": 1230.96,
+    "end": 1231.8,
+    "text": " and when you go to the doctor,"
+  },
+  {
+    "start": 1231.8,
+    "end": 1232.64,
+    "text": " they'll make your medical notes"
+  },
+  {
+    "start": 1232.64,
+    "end": 1234.36,
+    "text": " and just put them into the system."
+  },
+  {
+    "start": 1234.36,
+    "end": 1237.52,
+    "text": " A lot of older doctors still prefer to use dictaphones,"
+  },
+  {
+    "start": 1237.52,
+    "end": 1240.04,
+    "text": " i.e. manual dictaphones with actual tape cassette tapes"
+  },
+  {
+    "start": 1240.04,
+    "end": 1242.24,
+    "text": " inside, dictate the notes,"
+  },
+  {
+    "start": 1242.24,
+    "end": 1243.52,
+    "text": " and then they're sent away"
+  },
+  {
+    "start": 1243.52,
+    "end": 1245.08,
+    "text": " to a third-party transcription service,"
+  },
+  {
+    "start": 1245.08,
+    "end": 1246.16,
+    "text": " and then the notes are sent back,"
+  },
+  {
+    "start": 1246.16,
+    "end": 1248.12,
+    "text": " and then the doctors then check them,"
+  },
+  {
+    "start": 1248.12,
+    "end": 1249.04,
+    "text": " like the written notes,"
+  },
+  {
+    "start": 1249.04,
+    "end": 1250.16,
+    "text": " and then they're inputted to the system"
+  },
+  {
+    "start": 1250.16,
+    "end": 1251,
+    "text": " by someone else,"
+  },
+  {
+    "start": 1251,
+    "end": 1252.56,
+    "text": " and it's an insanely inefficient system."
+  },
+  {
+    "start": 1252.56,
+    "end": 1254.2,
+    "text": " - You've got to feel bad about that,"
+  },
+  {
+    "start": 1254.2,
+    "end": 1256.4,
+    "text": " surely, doctors. - Yeah, it's ridiculous."
+  },
+  {
+    "start": 1256.4,
+    "end": 1258.28,
+    "text": " - Miley Cyrus uses fax machines."
+  },
+  {
+    "start": 1258.28,
+    "end": 1259.12,
+    "text": " - Okay."
+  },
+  {
+    "start": 1259.12,
+    "end": 1260.36,
+    "text": " - Is this-- - What for?"
+  },
+  {
+    "start": 1260.36,
+    "end": 1262.2,
+    "text": " - For communicating?"
+  },
+  {
+    "start": 1262.2,
+    "end": 1263.4,
+    "text": " - Everything, really."
+  },
+  {
+    "start": 1263.4,
+    "end": 1265.4,
+    "text": " - No, only with one person."
+  },
+  {
+    "start": 1265.4,
+    "end": 1267.72,
+    "text": " She uses them to communicate with her godmother,"
+  },
+  {
+    "start": 1267.72,
+    "end": 1269.8,
+    "text": " Dolly Parton, because Dolly Parton"
+  },
+  {
+    "start": 1269.8,
+    "end": 1271.48,
+    "text": " actually does use them for everything."
+  },
+  {
+    "start": 1271.48,
+    "end": 1272.32,
+    "text": " - Why?"
+  },
+  {
+    "start": 1272.32,
+    "end": 1274.52,
+    "text": " - She refuses to use text messaging,"
+  },
+  {
+    "start": 1274.52,
+    "end": 1276.8,
+    "text": " and instead uses a fax machine for everything."
+  },
+  {
+    "start": 1276.8,
+    "end": 1277.64,
+    "text": " - Really? - Yeah."
+  },
+  {
+    "start": 1277.64,
+    "end": 1278.48,
+    "text": " - You really buried the lead there,"
+  },
+  {
+    "start": 1278.48,
+    "end": 1279.88,
+    "text": " but you were trying to get the kids in by saying,"
+  },
+  {
+    "start": 1279.88,
+    "end": 1282.48,
+    "text": " \"Miley Cyrus uses sometimes his fax machine"
+  },
+  {
+    "start": 1282.48,
+    "end": 1283.68,
+    "text": " \"for Dolly Parton, that's amazing.\""
+  },
+  {
+    "start": 1283.68,
+    "end": 1284.8,
+    "text": " - Yeah, Dolly said,"
+  },
+  {
+    "start": 1284.8,
+    "end": 1286.2,
+    "text": " \"I don't want to talk to everyone"
+  },
+  {
+    "start": 1286.2,
+    "end": 1287.72,
+    "text": " \"that wants to talk to me."
+  },
+  {
+    "start": 1287.72,
+    "end": 1290.72,
+    "text": " \"I don't text 'cause I don't want to have to answer.\""
+  },
+  {
+    "start": 1290.72,
+    "end": 1292.12,
+    "text": " So she thinks if people text her,"
+  },
+  {
+    "start": 1292.12,
+    "end": 1293.36,
+    "text": " she'd have to reply all the time,"
+  },
+  {
+    "start": 1293.36,
+    "end": 1294.32,
+    "text": " but with a fax machine,"
+  },
+  {
+    "start": 1294.32,
+    "end": 1296.12,
+    "text": " she can just, like, get the messages and then--"
+  },
+  {
+    "start": 1296.12,
+    "end": 1297.36,
+    "text": " - Yeah, it's very indirect."
+  },
+  {
+    "start": 1297.36,
+    "end": 1299.2,
+    "text": " You can't do the three dots thing,"
+  },
+  {
+    "start": 1299.2,
+    "end": 1300.76,
+    "text": " or you don't get seen on a fax."
+  },
+  {
+    "start": 1300.76,
+    "end": 1303.56,
+    "text": " - Yeah, but then it's still indirect this way,"
+  },
+  {
+    "start": 1303.56,
+    "end": 1307.24,
+    "text": " because Miley Cyrus says that she doesn't really fax."
+  },
+  {
+    "start": 1307.24,
+    "end": 1308.48,
+    "text": " She has a phone."
+  },
+  {
+    "start": 1308.48,
+    "end": 1311.52,
+    "text": " What happens is Dolly Parton sends a fax,"
+  },
+  {
+    "start": 1311.52,
+    "end": 1313.72,
+    "text": " then somebody at the other end scans the fax"
+  },
+  {
+    "start": 1313.72,
+    "end": 1314.64,
+    "text": " to see what it says,"
+  },
+  {
+    "start": 1314.64,
+    "end": 1316.28,
+    "text": " and then writes it in a text message"
+  },
+  {
+    "start": 1316.28,
+    "end": 1318.84,
+    "text": " that gets sent to Miley Cyrus."
+  },
+  {
+    "start": 1318.84,
+    "end": 1320.68,
+    "text": " - Actually, the real leader of this fax"
+  },
+  {
+    "start": 1320.68,
+    "end": 1323.12,
+    "text": " is that somebody's job is sorting communications"
+  },
+  {
+    "start": 1323.12,
+    "end": 1325.36,
+    "text": " between Miley Cyrus and Dolly Parton exclusively."
+  },
+  {
+    "start": 1325.36,
+    "end": 1327.04,
+    "text": " - Are you telling me you don't want that job?"
+  },
+  {
+    "start": 1327.04,
+    "end": 1328.8,
+    "text": " - Of course I want that job."
+  },
+  {
+    "start": 1328.8,
+    "end": 1329.72,
+    "text": " - It must happen a lot."
+  },
+  {
+    "start": 1329.72,
+    "end": 1331.28,
+    "text": " I mentioned years ago on the podcast"
+  },
+  {
+    "start": 1331.28,
+    "end": 1333.84,
+    "text": " that's how Brian Blessed would do his tweets."
+  },
+  {
+    "start": 1333.84,
+    "end": 1335.52,
+    "text": " So, yeah, it's the exact same thing."
+  },
+  {
+    "start": 1335.52,
+    "end": 1339.84,
+    "text": " He would be sent the tweets to reply to, to his agent,"
+  },
+  {
+    "start": 1339.84,
+    "end": 1341.44,
+    "text": " fax it to him, he would fax back."
+  },
+  {
+    "start": 1341.44,
+    "end": 1342.6,
+    "text": " Like, there was a whole fax system."
+  },
+  {
+    "start": 1342.6,
+    "end": 1344.48,
+    "text": " - Did he write out the replies by hand,"
+  },
+  {
+    "start": 1344.48,
+    "end": 1345.56,
+    "text": " which would then fax back,"
+  },
+  {
+    "start": 1345.56,
+    "end": 1346.4,
+    "text": " and then there would be times--"
+  },
+  {
+    "start": 1346.4,
+    "end": 1347.24,
+    "text": " - I can't remember now, yeah."
+  },
+  {
+    "start": 1347.24,
+    "end": 1348.32,
+    "text": " - It went through, like, eight different modes"
+  },
+  {
+    "start": 1348.32,
+    "end": 1349.16,
+    "text": " of communication."
+  },
+  {
+    "start": 1349.16,
+    "end": 1351.16,
+    "text": " - There was a lot, but maybe that's more,"
+  },
+  {
+    "start": 1351.16,
+    "end": 1353.16,
+    "text": " it can't just be Dolly and Brian Blessed."
+  },
+  {
+    "start": 1353.16,
+    "end": 1355.4,
+    "text": " - Brian Blessed once tweet Miley Cyrus saying,"
+  },
+  {
+    "start": 1355.4,
+    "end": 1358.96,
+    "text": " \"Can you tell Dolly Parton to answer her phone?\""
+  },
+  {
+    "start": 1358.96,
+    "end": 1360.84,
+    "text": " - I think it all had to go through the NHS in the end,"
+  },
+  {
+    "start": 1360.84,
+    "end": 1363.16,
+    "text": " that was where you were."
+  },
+  {
+    "start": 1363.16,
+    "end": 1365.96,
+    "text": " - Have you heard of the fax number of the beast?"
+  },
+  {
+    "start": 1365.96,
+    "end": 1367.88,
+    "text": " - Okay, six, six, six, something."
+  },
+  {
+    "start": 1367.88,
+    "end": 1369.68,
+    "text": " - It's six, six, seven."
+  },
+  {
+    "start": 1369.68,
+    "end": 1371.64,
+    "text": " And it's quite just a little nice nugget"
+  },
+  {
+    "start": 1371.64,
+    "end": 1373.76,
+    "text": " for phone numbers of faxes."
+  },
+  {
+    "start": 1373.76,
+    "end": 1375.96,
+    "text": " - Oh, 'cause of course your fax number used to be"
+  },
+  {
+    "start": 1375.96,
+    "end": 1378.24,
+    "text": " your phone number, but with one digit at the end,"
+  },
+  {
+    "start": 1378.24,
+    "end": 1379.08,
+    "text": " gone one up."
+  },
+  {
+    "start": 1379.08,
+    "end": 1380.56,
+    "text": " - Yeah, exactly."
+  },
+  {
+    "start": 1380.56,
+    "end": 1381.4,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1381.4,
+    "end": 1383.52,
+    "text": " So, six, six, seven is the fax number of the beast."
+  },
+  {
+    "start": 1383.52,
+    "end": 1384.36,
+    "text": " - Oh, I see."
+  },
+  {
+    "start": 1384.36,
+    "end": 1386.88,
+    "text": " - I'm sorry, according to people who--"
+  },
+  {
+    "start": 1386.88,
+    "end": 1387.72,
+    "text": " - I think it's a joke, right?"
+  },
+  {
+    "start": 1387.72,
+    "end": 1388.56,
+    "text": " It's a little joke."
+  },
+  {
+    "start": 1388.56,
+    "end": 1389.4,
+    "text": " - It's a joke."
+  },
+  {
+    "start": 1389.4,
+    "end": 1390.24,
+    "text": " - Yeah, yeah, it's a joke, yeah."
+  },
+  {
+    "start": 1390.24,
+    "end": 1391.08,
+    "text": " - Yeah, no, nice."
+  },
+  {
+    "start": 1391.08,
+    "end": 1391.92,
+    "text": " I like, sorry."
+  },
+  {
+    "start": 1391.92,
+    "end": 1392.76,
+    "text": " (laughing)"
+  },
+  {
+    "start": 1392.76,
+    "end": 1394.08,
+    "text": " I like jokes."
+  },
+  {
+    "start": 1394.08,
+    "end": 1395.48,
+    "text": " I'm the joke guy."
+  },
+  {
+    "start": 1395.48,
+    "end": 1401.36,
+    "text": " - Before we had cyber, let's say urban legends"
+  },
+  {
+    "start": 1401.36,
+    "end": 1404.2,
+    "text": " being sent through email and Facebook and stuff like that,"
+  },
+  {
+    "start": 1404.2,
+    "end": 1406.6,
+    "text": " they were all done on fax machines."
+  },
+  {
+    "start": 1406.6,
+    "end": 1410.32,
+    "text": " And in 1993, there was a big scare in Memphis, Tennessee"
+  },
+  {
+    "start": 1410.32,
+    "end": 1412.88,
+    "text": " because there was a load of faxes going around"
+  },
+  {
+    "start": 1412.88,
+    "end": 1416.52,
+    "text": " about gangs would drive around with the lights off"
+  },
+  {
+    "start": 1416.52,
+    "end": 1418.96,
+    "text": " in the cars, and if anyone flashed them to tell them"
+  },
+  {
+    "start": 1418.96,
+    "end": 1421.84,
+    "text": " their lights were off, then they would chase them,"
+  },
+  {
+    "start": 1421.84,
+    "end": 1423.4,
+    "text": " stop them, and kill them."
+  },
+  {
+    "start": 1423.4,
+    "end": 1424.24,
+    "text": " And obviously--"
+  },
+  {
+    "start": 1424.24,
+    "end": 1425.08,
+    "text": " - Oh my God, was this not true?"
+  },
+  {
+    "start": 1425.08,
+    "end": 1426.9,
+    "text": " 'Cause I heard this rumor quite recently."
+  },
+  {
+    "start": 1426.9,
+    "end": 1428.64,
+    "text": " - It's just got to Anna's fax."
+  },
+  {
+    "start": 1428.64,
+    "end": 1430.64,
+    "text": " - I mean, that still goes around that rumor, right?"
+  },
+  {
+    "start": 1430.64,
+    "end": 1432.16,
+    "text": " But no, it is fake."
+  },
+  {
+    "start": 1432.16,
+    "end": 1433.16,
+    "text": " - But it was called fax law,"
+  },
+  {
+    "start": 1433.16,
+    "end": 1434.76,
+    "text": " the culture of sending faxes around,"
+  },
+  {
+    "start": 1434.76,
+    "end": 1436.52,
+    "text": " and it was the old meme culture, I think."
+  },
+  {
+    "start": 1436.52,
+    "end": 1437.36,
+    "text": " - Yeah, exactly."
+  },
+  {
+    "start": 1437.36,
+    "end": 1439.52,
+    "text": " And when emails came along,"
+  },
+  {
+    "start": 1439.52,
+    "end": 1443.12,
+    "text": " it just went from fax to email directly from there to there."
+  },
+  {
+    "start": 1443.12,
+    "end": 1445.2,
+    "text": " - So, fax law was the name for the rumors,"
+  },
+  {
+    "start": 1445.2,
+    "end": 1446.04,
+    "text": " the lies that were started."
+  },
+  {
+    "start": 1446.04,
+    "end": 1447.2,
+    "text": " - Yeah, like folklore."
+  },
+  {
+    "start": 1447.2,
+    "end": 1448.04,
+    "text": " - Oh wow."
+  },
+  {
+    "start": 1448.04,
+    "end": 1448.88,
+    "text": " - I thank you."
+  },
+  {
+    "start": 1448.88,
+    "end": 1452,
+    "text": " Again, I now get that that's a joke, fax law,"
+  },
+  {
+    "start": 1452,
+    "end": 1452.84,
+    "text": " to play on words."
+  },
+  {
+    "start": 1452.84,
+    "end": 1453.84,
+    "text": " - She likes jokes."
+  },
+  {
+    "start": 1453.84,
+    "end": 1454.68,
+    "text": " - She loves jokes."
+  },
+  {
+    "start": 1454.68,
+    "end": 1455.52,
+    "text": " - Ladies and gentlemen."
+  },
+  {
+    "start": 1455.52,
+    "end": 1456.84,
+    "text": " - I'm a joke, aren't I?"
+  },
+  {
+    "start": 1456.84,
+    "end": 1458.92,
+    "text": " - Oh, the last time I came on this podcast."
+  },
+  {
+    "start": 1458.92,
+    "end": 1463.84,
+    "text": " - Do you know who else used to fax each other"
+  },
+  {
+    "start": 1463.84,
+    "end": 1464.68,
+    "text": " in the '80s?"
+  },
+  {
+    "start": 1464.68,
+    "end": 1465.52,
+    "text": " Well, loads of people."
+  },
+  {
+    "start": 1465.52,
+    "end": 1466.36,
+    "text": " - Give us a list."
+  },
+  {
+    "start": 1466.36,
+    "end": 1467.68,
+    "text": " - I'll give you a list."
+  },
+  {
+    "start": 1467.68,
+    "end": 1469.28,
+    "text": " - I framed that question badly."
+  },
+  {
+    "start": 1469.28,
+    "end": 1471.16,
+    "text": " I've got a better way of framing it."
+  },
+  {
+    "start": 1471.16,
+    "end": 1473.12,
+    "text": " What was the, and pretend that,"
+  },
+  {
+    "start": 1473.12,
+    "end": 1474.24,
+    "text": " I didn't ask that previous question,"
+  },
+  {
+    "start": 1474.24,
+    "end": 1475.6,
+    "text": " 'cause otherwise it'll give it away,"
+  },
+  {
+    "start": 1475.6,
+    "end": 1478.24,
+    "text": " what was the hotline between the White House"
+  },
+  {
+    "start": 1478.24,
+    "end": 1479.64,
+    "text": " and the Kremlin?"
+  },
+  {
+    "start": 1479.64,
+    "end": 1481.12,
+    "text": " - Was it a fax machine?"
+  },
+  {
+    "start": 1481.12,
+    "end": 1483.52,
+    "text": " - Dunno, I know you cheated there."
+  },
+  {
+    "start": 1483.52,
+    "end": 1485.68,
+    "text": " Probably using previous information."
+  },
+  {
+    "start": 1485.68,
+    "end": 1487.6,
+    "text": " - I always thought it was a red telephone."
+  },
+  {
+    "start": 1487.6,
+    "end": 1488.8,
+    "text": " - It wasn't, a phone."
+  },
+  {
+    "start": 1488.8,
+    "end": 1490.36,
+    "text": " - That's Batman you're thinking of."
+  },
+  {
+    "start": 1490.36,
+    "end": 1495.08,
+    "text": " - I think that was part of where the rumor came from"
+  },
+  {
+    "start": 1495.08,
+    "end": 1496.08,
+    "text": " that the hotline was a phone,"
+  },
+  {
+    "start": 1496.08,
+    "end": 1498.24,
+    "text": " 'cause I think it was in one of the Batman films"
+  },
+  {
+    "start": 1498.24,
+    "end": 1500,
+    "text": " who speaks to the White House on the phone."
+  },
+  {
+    "start": 1500,
+    "end": 1501.52,
+    "text": " Anyway, the hotline between the White House"
+  },
+  {
+    "start": 1501.52,
+    "end": 1504.08,
+    "text": " and the Kremlin famously started by Kennedy"
+  },
+  {
+    "start": 1504.08,
+    "end": 1506.32,
+    "text": " and Khrushchev in the '60s,"
+  },
+  {
+    "start": 1506.32,
+    "end": 1508.68,
+    "text": " was never a telephone between them,"
+  },
+  {
+    "start": 1508.68,
+    "end": 1511.04,
+    "text": " but it was in the '80s a fax machine."
+  },
+  {
+    "start": 1511.04,
+    "end": 1514.08,
+    "text": " So it started with type, so it was teletype,"
+  },
+  {
+    "start": 1514.08,
+    "end": 1517.04,
+    "text": " so it was basically like an old version of text"
+  },
+  {
+    "start": 1517.04,
+    "end": 1519.84,
+    "text": " where you'd type a message if you're in the White House"
+  },
+  {
+    "start": 1519.84,
+    "end": 1521.6,
+    "text": " or in fact in the Pentagon where it was."
+  },
+  {
+    "start": 1521.6,
+    "end": 1523.68,
+    "text": " You'd type a message, it would be encrypted by people,"
+  },
+  {
+    "start": 1523.68,
+    "end": 1526.28,
+    "text": " sent to the Kremlin and then translated"
+  },
+  {
+    "start": 1526.28,
+    "end": 1528.2,
+    "text": " by someone at the other end into Russian."
+  },
+  {
+    "start": 1528.2,
+    "end": 1529.88,
+    "text": " And it was quite sweet."
+  },
+  {
+    "start": 1529.88,
+    "end": 1531.04,
+    "text": " The start of the Cold War,"
+  },
+  {
+    "start": 1531.04,
+    "end": 1533.12,
+    "text": " they swapped machines for this teletyping."
+  },
+  {
+    "start": 1533.12,
+    "end": 1535.48,
+    "text": " So the Kremlin posted to the US"
+  },
+  {
+    "start": 1535.48,
+    "end": 1537.48,
+    "text": " four of their teletype machines"
+  },
+  {
+    "start": 1537.48,
+    "end": 1539.08,
+    "text": " that could print stuff out in Cyrillic,"
+  },
+  {
+    "start": 1539.08,
+    "end": 1540.96,
+    "text": " and the US posted back to the Kremlin"
+  },
+  {
+    "start": 1540.96,
+    "end": 1542.2,
+    "text": " four of their machines."
+  },
+  {
+    "start": 1542.2,
+    "end": 1545.04,
+    "text": " And they upgraded to fax machines in the '80s."
+  },
+  {
+    "start": 1545.04,
+    "end": 1547.24,
+    "text": " So in the 1980s, if there was an emergency"
+  },
+  {
+    "start": 1547.24,
+    "end": 1550.28,
+    "text": " between Reagan and Gorbachev,"
+  },
+  {
+    "start": 1550.28,
+    "end": 1551.32,
+    "text": " then they faxed each other."
+  },
+  {
+    "start": 1551.32,
+    "end": 1553.52,
+    "text": " - There's many ways that people have to protect themselves"
+  },
+  {
+    "start": 1553.52,
+    "end": 1555.6,
+    "text": " against cyber attacks these days."
+  },
+  {
+    "start": 1555.6,
+    "end": 1558.32,
+    "text": " What do you reckon, this is now turning just into a quiz,"
+  },
+  {
+    "start": 1558.32,
+    "end": 1559.72,
+    "text": " the answer is not fax machine."
+  },
+  {
+    "start": 1559.72,
+    "end": 1560.92,
+    "text": " (laughing)"
+  },
+  {
+    "start": 1560.92,
+    "end": 1564.2,
+    "text": " What do you reckon, so like for the Navy,"
+  },
+  {
+    "start": 1564.2,
+    "end": 1567.12,
+    "text": " how they get by if they get cyber attacked"
+  },
+  {
+    "start": 1567.12,
+    "end": 1570.8,
+    "text": " for let's say their GPS system is hit with malware"
+  },
+  {
+    "start": 1570.8,
+    "end": 1572.72,
+    "text": " from an unknown enemy and that's how they're scrambled."
+  },
+  {
+    "start": 1572.72,
+    "end": 1574.56,
+    "text": " - Okay, so you need to know which way to go,"
+  },
+  {
+    "start": 1574.56,
+    "end": 1577.2,
+    "text": " but your GPS is broken 'cause you've been hit by cyber."
+  },
+  {
+    "start": 1577.2,
+    "end": 1579.88,
+    "text": " - Yep, you pop up and look at the stars in your periscope."
+  },
+  {
+    "start": 1579.88,
+    "end": 1580.72,
+    "text": " - That's what it is."
+  },
+  {
+    "start": 1580.72,
+    "end": 1581.56,
+    "text": " - Oh shit, sorry."
+  },
+  {
+    "start": 1581.56,
+    "end": 1583.08,
+    "text": " - Celestial navigation."
+  },
+  {
+    "start": 1583.08,
+    "end": 1585.12,
+    "text": " They're all taught celestial navigation, yeah."
+  },
+  {
+    "start": 1585.12,
+    "end": 1587.92,
+    "text": " - I'd make such a great submarine captain"
+  },
+  {
+    "start": 1587.92,
+    "end": 1589.44,
+    "text": " 'cause that was my first thought and I was like,"
+  },
+  {
+    "start": 1589.44,
+    "end": 1591.56,
+    "text": " I mean, I wouldn't know how to do it, but like."
+  },
+  {
+    "start": 1591.56,
+    "end": 1594.6,
+    "text": " - Someone used to celestially navigate, thanks Alex."
+  },
+  {
+    "start": 1594.6,
+    "end": 1595.96,
+    "text": " - That's why the captain's there."
+  },
+  {
+    "start": 1595.96,
+    "end": 1596.8,
+    "text": " - There's no such captain, I'm in charge,"
+  },
+  {
+    "start": 1596.8,
+    "end": 1597.64,
+    "text": " I'm not actually doing anything,"
+  },
+  {
+    "start": 1597.64,
+    "end": 1599.48,
+    "text": " I'm just telling you what to do, right Anna?"
+  },
+  {
+    "start": 1599.48,
+    "end": 1600.92,
+    "text": " But like, think about how quickly"
+  },
+  {
+    "start": 1600.92,
+    "end": 1603.04,
+    "text": " I made that decision and who's right what."
+  },
+  {
+    "start": 1603.04,
+    "end": 1604.04,
+    "text": " - Uh, go on."
+  },
+  {
+    "start": 1604.04,
+    "end": 1605.12,
+    "text": " - No, no, it wasn't funny."
+  },
+  {
+    "start": 1605.12,
+    "end": 1607.92,
+    "text": " - Oh, as she knows funny."
+  },
+  {
+    "start": 1607.92,
+    "end": 1610.18,
+    "text": " (laughing)"
+  },
+  {
+    "start": 1610.18,
+    "end": 1615.28,
+    "text": " - So, we mentioned the number of the beast earlier on."
+  },
+  {
+    "start": 1615.28,
+    "end": 1616.12,
+    "text": " - Yes."
+  },
+  {
+    "start": 1616.12,
+    "end": 1616.96,
+    "text": " - I've got a little quiz for you."
+  },
+  {
+    "start": 1616.96,
+    "end": 1617.8,
+    "text": " - Oh, great."
+  },
+  {
+    "start": 1617.8,
+    "end": 1618.92,
+    "text": " - Are the following things,"
+  },
+  {
+    "start": 1618.92,
+    "end": 1620.48,
+    "text": " are the names of cyber attacks"
+  },
+  {
+    "start": 1620.48,
+    "end": 1623.14,
+    "text": " or the names of bands who have opened for Iron Maiden?"
+  },
+  {
+    "start": 1623.14,
+    "end": 1625.16,
+    "text": " (laughing)"
+  },
+  {
+    "start": 1625.16,
+    "end": 1627.76,
+    "text": " Let's go for Shady Rat."
+  },
+  {
+    "start": 1627.76,
+    "end": 1629.68,
+    "text": " - Shady Rat's a band surely."
+  },
+  {
+    "start": 1629.68,
+    "end": 1630.52,
+    "text": " - Yeah, cyber attack."
+  },
+  {
+    "start": 1630.52,
+    "end": 1631.36,
+    "text": " - I'm gonna go cyber attack."
+  },
+  {
+    "start": 1631.36,
+    "end": 1632.4,
+    "text": " - It's a cyber attack."
+  },
+  {
+    "start": 1632.4,
+    "end": 1633.24,
+    "text": " - Wow."
+  },
+  {
+    "start": 1633.24,
+    "end": 1635.04,
+    "text": " - In fact, it was a series of cyber attacks"
+  },
+  {
+    "start": 1635.04,
+    "end": 1638.28,
+    "text": " in the late 2000s, originated from China."
+  },
+  {
+    "start": 1638.28,
+    "end": 1640.72,
+    "text": " Night Dragon."
+  },
+  {
+    "start": 1640.72,
+    "end": 1641.56,
+    "text": " - Cyber attack."
+  },
+  {
+    "start": 1641.56,
+    "end": 1642.96,
+    "text": " - Band, cyber attack."
+  },
+  {
+    "start": 1642.96,
+    "end": 1644.48,
+    "text": " - Oh, Dan, you suck at this so badly."
+  },
+  {
+    "start": 1644.48,
+    "end": 1645.72,
+    "text": " (laughing)"
+  },
+  {
+    "start": 1645.72,
+    "end": 1647.36,
+    "text": " Around the same time as Shady Rat,"
+  },
+  {
+    "start": 1647.36,
+    "end": 1650.16,
+    "text": " these were attacks on energy companies."
+  },
+  {
+    "start": 1650.16,
+    "end": 1651.68,
+    "text": " Nitro's use."
+  },
+  {
+    "start": 1651.68,
+    "end": 1652.64,
+    "text": " - Cyber attack."
+  },
+  {
+    "start": 1652.64,
+    "end": 1653.72,
+    "text": " - I'm gonna go band this time."
+  },
+  {
+    "start": 1653.72,
+    "end": 1654.54,
+    "text": " - Band."
+  },
+  {
+    "start": 1654.54,
+    "end": 1655.38,
+    "text": " - Cyber attack."
+  },
+  {
+    "start": 1655.38,
+    "end": 1656.72,
+    "text": " (laughing)"
+  },
+  {
+    "start": 1656.72,
+    "end": 1659.04,
+    "text": " - I don't know how my brain works."
+  },
+  {
+    "start": 1659.04,
+    "end": 1660.56,
+    "text": " - Everyone knows Iron Maiden have a policy"
+  },
+  {
+    "start": 1660.56,
+    "end": 1662.08,
+    "text": " of never having a supporting act."
+  },
+  {
+    "start": 1662.08,
+    "end": 1664.84,
+    "text": " (laughing)"
+  },
+  {
+    "start": 1664.84,
+    "end": 1667.48,
+    "text": " - These were attacks on Iran by the US"
+  },
+  {
+    "start": 1667.48,
+    "end": 1669.8,
+    "text": " that were planned if nuclear talks failed."
+  },
+  {
+    "start": 1669.8,
+    "end": 1674.3,
+    "text": " Let's go for Vinnie Vincent's invasion."
+  },
+  {
+    "start": 1674.3,
+    "end": 1675.88,
+    "text": " (laughing)"
+  },
+  {
+    "start": 1675.88,
+    "end": 1676.8,
+    "text": " - I'm gonna say it's a band."
+  },
+  {
+    "start": 1676.8,
+    "end": 1677.64,
+    "text": " Surely it's a band."
+  },
+  {
+    "start": 1677.64,
+    "end": 1678.48,
+    "text": " - Yeah."
+  },
+  {
+    "start": 1678.48,
+    "end": 1679.32,
+    "text": " - That."
+  },
+  {
+    "start": 1679.32,
+    "end": 1680.16,
+    "text": " - Band."
+  },
+  {
+    "start": 1680.16,
+    "end": 1681,
+    "text": " (laughing)"
+  },
+  {
+    "start": 1681,
+    "end": 1682.32,
+    "text": " - I am gonna say cyber attack."
+  },
+  {
+    "start": 1682.32,
+    "end": 1683.6,
+    "text": " - Oh, I know you've lost it."
+  },
+  {
+    "start": 1683.6,
+    "end": 1685.88,
+    "text": " (cheering)"
+  },
+  {
+    "start": 1685.88,
+    "end": 1687.44,
+    "text": " - I actually run out of cyber attacks now."
+  },
+  {
+    "start": 1687.44,
+    "end": 1688.6,
+    "text": " I did the ball at the top."
+  },
+  {
+    "start": 1688.6,
+    "end": 1689.96,
+    "text": " (laughing)"
+  },
+  {
+    "start": 1689.96,
+    "end": 1693.24,
+    "text": " - I was looking at other like kind of non-digital ways"
+  },
+  {
+    "start": 1693.24,
+    "end": 1694.36,
+    "text": " of hacking things."
+  },
+  {
+    "start": 1694.36,
+    "end": 1697.22,
+    "text": " And did you, have you heard of token suckers?"
+  },
+  {
+    "start": 1697.22,
+    "end": 1698.2,
+    "text": " So this was for many years,"
+  },
+  {
+    "start": 1698.2,
+    "end": 1699.92,
+    "text": " the New York subway ran on tokens."
+  },
+  {
+    "start": 1699.92,
+    "end": 1703.08,
+    "text": " It was, you would buy tokens which would go into the slots"
+  },
+  {
+    "start": 1703.08,
+    "end": 1703.92,
+    "text": " to let you through the barriers."
+  },
+  {
+    "start": 1703.92,
+    "end": 1705.44,
+    "text": " And it was because I think the denominations"
+  },
+  {
+    "start": 1705.44,
+    "end": 1707.84,
+    "text": " of coins never always matched up with the fares."
+  },
+  {
+    "start": 1707.84,
+    "end": 1709.48,
+    "text": " And there were people called token suckers"
+  },
+  {
+    "start": 1709.48,
+    "end": 1712.52,
+    "text": " who would steal tokens by jamming up the slots"
+  },
+  {
+    "start": 1712.52,
+    "end": 1713.7,
+    "text": " in the machine with a bit of paper"
+  },
+  {
+    "start": 1713.7,
+    "end": 1715.24,
+    "text": " so that when people put their token in,"
+  },
+  {
+    "start": 1715.24,
+    "end": 1716.8,
+    "text": " they'd lose it, but it wouldn't go all the way in."
+  },
+  {
+    "start": 1716.8,
+    "end": 1718.64,
+    "text": " And then they would come back and they would"
+  },
+  {
+    "start": 1718.64,
+    "end": 1720.72,
+    "text": " just crash down and suck the token out."
+  },
+  {
+    "start": 1720.72,
+    "end": 1721.56,
+    "text": " - With their mouth."
+  },
+  {
+    "start": 1721.56,
+    "end": 1722.4,
+    "text": " - With their mouth."
+  },
+  {
+    "start": 1722.4,
+    "end": 1723.24,
+    "text": " - Really?"
+  },
+  {
+    "start": 1723.24,
+    "end": 1724.08,
+    "text": " - Yeah."
+  },
+  {
+    "start": 1724.08,
+    "end": 1724.92,
+    "text": " - It's a hell of a vacuum you've got on your mouth"
+  },
+  {
+    "start": 1724.92,
+    "end": 1726,
+    "text": " if you can suck a coin out of a slot."
+  },
+  {
+    "start": 1726,
+    "end": 1727.36,
+    "text": " - Yeah, I think if it's just inside,"
+  },
+  {
+    "start": 1727.36,
+    "end": 1729.1,
+    "text": " you can kind of try and get it."
+  },
+  {
+    "start": 1729.1,
+    "end": 1731.72,
+    "text": " - Maybe use your tongue to just soft wiggle it."
+  },
+  {
+    "start": 1731.72,
+    "end": 1732.54,
+    "text": " - Yeah."
+  },
+  {
+    "start": 1732.54,
+    "end": 1733.68,
+    "text": " - You could take a hoover,"
+  },
+  {
+    "start": 1733.68,
+    "end": 1735.24,
+    "text": " you could take a vacuum cleaner to the station."
+  },
+  {
+    "start": 1735.24,
+    "end": 1736.08,
+    "text": " - Like a dice."
+  },
+  {
+    "start": 1736.08,
+    "end": 1736.9,
+    "text": " - A little more suspicious, but yeah."
+  },
+  {
+    "start": 1736.9,
+    "end": 1737.74,
+    "text": " - I think you've had a tax attention."
+  },
+  {
+    "start": 1737.74,
+    "end": 1739.84,
+    "text": " But they used to, some of the subway station attendants"
+  },
+  {
+    "start": 1739.84,
+    "end": 1742.8,
+    "text": " would put chili powder in the slots as a deterrent,"
+  },
+  {
+    "start": 1742.8,
+    "end": 1743.64,
+    "text": " which is nice."
+  },
+  {
+    "start": 1743.64,
+    "end": 1744.72,
+    "text": " - Yeah, that's nice."
+  },
+  {
+    "start": 1744.72,
+    "end": 1747.04,
+    "text": " - You could get half a tennis ball and stick it on"
+  },
+  {
+    "start": 1747.04,
+    "end": 1749.16,
+    "text": " and then wham it and that creates a vacuum"
+  },
+  {
+    "start": 1749.16,
+    "end": 1750.52,
+    "text": " and then when you pull it off, it would suck it."
+  },
+  {
+    "start": 1750.52,
+    "end": 1751.36,
+    "text": " - Really?"
+  },
+  {
+    "start": 1751.36,
+    "end": 1752.2,
+    "text": " - Yeah."
+  },
+  {
+    "start": 1752.2,
+    "end": 1753.02,
+    "text": " - That's good."
+  },
+  {
+    "start": 1753.02,
+    "end": 1753.84,
+    "text": " - Or play at any plunger, I guess."
+  },
+  {
+    "start": 1753.84,
+    "end": 1755,
+    "text": " - Plunger would do the same job."
+  },
+  {
+    "start": 1755,
+    "end": 1756.32,
+    "text": " (laughing)"
+  },
+  {
+    "start": 1756.32,
+    "end": 1758.16,
+    "text": " - That was made twice, yeah?"
+  },
+  {
+    "start": 1758.16,
+    "end": 1760.74,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 1760.74,
+    "end": 1763.9,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 1763.9,
+    "end": 1766.22,
+    "text": " - Okay, it is time for fact number three,"
+  },
+  {
+    "start": 1766.22,
+    "end": 1767.94,
+    "text": " and that is Anna."
+  },
+  {
+    "start": 1767.94,
+    "end": 1770.74,
+    "text": " - My fact this week is that for 200 years,"
+  },
+  {
+    "start": 1770.74,
+    "end": 1774.78,
+    "text": " humans made wire by soaking steel in urine,"
+  },
+  {
+    "start": 1774.78,
+    "end": 1777.24,
+    "text": " but for realizing that water works just as well."
+  },
+  {
+    "start": 1777.24,
+    "end": 1778.62,
+    "text": " (laughing)"
+  },
+  {
+    "start": 1778.62,
+    "end": 1780.26,
+    "text": " - We're so stupid."
+  },
+  {
+    "start": 1780.26,
+    "end": 1781.1,
+    "text": " - I love it."
+  },
+  {
+    "start": 1781.1,
+    "end": 1781.94,
+    "text": " - How recent was this?"
+  },
+  {
+    "start": 1781.94,
+    "end": 1783.14,
+    "text": " It's just like last year we weren't the same."
+  },
+  {
+    "start": 1783.14,
+    "end": 1787.42,
+    "text": " - Yeah, someone squatting down to urinate on the steel again"
+  },
+  {
+    "start": 1787.42,
+    "end": 1790.62,
+    "text": " saying, \"We definitely not just put it under the towel.\""
+  },
+  {
+    "start": 1790.62,
+    "end": 1792.18,
+    "text": " - What was the thought behind it?"
+  },
+  {
+    "start": 1792.18,
+    "end": 1794.3,
+    "text": " - Well, I read this in a great book actually called"
+  },
+  {
+    "start": 1794.3,
+    "end": 1796.02,
+    "text": " How to Invent Everything,"
+  },
+  {
+    "start": 1796.02,
+    "end": 1800.14,
+    "text": " and the thought I think was that urine was used"
+  },
+  {
+    "start": 1800.14,
+    "end": 1803.14,
+    "text": " for various things historically, wasn't it?"
+  },
+  {
+    "start": 1803.14,
+    "end": 1804.54,
+    "text": " The tanning industry springs to mind,"
+  },
+  {
+    "start": 1804.54,
+    "end": 1805.94,
+    "text": " but going through the podcast archive,"
+  },
+  {
+    "start": 1805.94,
+    "end": 1807.7,
+    "text": " it was used for millions of other things,"
+  },
+  {
+    "start": 1807.7,
+    "end": 1811.78,
+    "text": " and so this was in Altena in Germany,"
+  },
+  {
+    "start": 1811.78,
+    "end": 1813.94,
+    "text": " and it was in 1650,"
+  },
+  {
+    "start": 1813.94,
+    "end": 1817.5,
+    "text": " and at that point to make wire out of steel,"
+  },
+  {
+    "start": 1817.5,
+    "end": 1819.3,
+    "text": " you had to pull a steel rod,"
+  },
+  {
+    "start": 1819.3,
+    "end": 1821.38,
+    "text": " so like a thicker rod of steel,"
+  },
+  {
+    "start": 1821.38,
+    "end": 1824.14,
+    "text": " through a funnel of decreasing diameter,"
+  },
+  {
+    "start": 1824.14,
+    "end": 1825.9,
+    "text": " so you know like when you did filtration in science,"
+  },
+  {
+    "start": 1825.9,
+    "end": 1826.74,
+    "text": " you had those funnels,"
+  },
+  {
+    "start": 1826.74,
+    "end": 1828.78,
+    "text": " and so you'd put steel in the wide end,"
+  },
+  {
+    "start": 1828.78,
+    "end": 1831.58,
+    "text": " and you drag it through until it gets thinner and thinner,"
+  },
+  {
+    "start": 1831.58,
+    "end": 1833.94,
+    "text": " and then you get a thin wire coming out the other end,"
+  },
+  {
+    "start": 1833.94,
+    "end": 1835.7,
+    "text": " and to stop there being too much friction,"
+  },
+  {
+    "start": 1835.7,
+    "end": 1837.42,
+    "text": " 'cause you're putting it through really hard,"
+  },
+  {
+    "start": 1837.42,
+    "end": 1838.78,
+    "text": " you use grease or oil,"
+  },
+  {
+    "start": 1838.78,
+    "end": 1841.58,
+    "text": " and then in this place called Altena in Germany,"
+  },
+  {
+    "start": 1841.58,
+    "end": 1844.5,
+    "text": " someone, according to reports from the time,"
+  },
+  {
+    "start": 1844.5,
+    "end": 1847.62,
+    "text": " accidentally sort of urinated all over it,"
+  },
+  {
+    "start": 1847.62,
+    "end": 1848.98,
+    "text": " and then tried it,"
+  },
+  {
+    "start": 1848.98,
+    "end": 1852.94,
+    "text": " and found that it works just as well as the grease and oil,"
+  },
+  {
+    "start": 1852.94,
+    "end": 1854.46,
+    "text": " and so I thought, oh, it must be something special"
+  },
+  {
+    "start": 1854.46,
+    "end": 1855.3,
+    "text": " about the wee."
+  },
+  {
+    "start": 1855.3,
+    "end": 1858.22,
+    "text": " - I believe, I found something from quite near the time"
+  },
+  {
+    "start": 1858.22,
+    "end": 1861.78,
+    "text": " that said that this guy who's called Johann Gerdis,"
+  },
+  {
+    "start": 1861.78,
+    "end": 1866.86,
+    "text": " he had been so annoyed that he couldn't draw it well enough"
+  },
+  {
+    "start": 1866.86,
+    "end": 1869.62,
+    "text": " that he'd thrown his material,"
+  },
+  {
+    "start": 1869.62,
+    "end": 1873.14,
+    "text": " (speaking in foreign language)"
+  },
+  {
+    "start": 1873.14,
+    "end": 1873.98,
+    "text": " - Yes."
+  },
+  {
+    "start": 1873.98,
+    "end": 1875.34,
+    "text": " - Which is where everyone casts their water,"
+  },
+  {
+    "start": 1875.34,
+    "end": 1876.54,
+    "text": " so he didn't urinate on it,"
+  },
+  {
+    "start": 1876.54,
+    "end": 1878.38,
+    "text": " he got annoyed and threw it in the corner"
+  },
+  {
+    "start": 1878.38,
+    "end": 1879.94,
+    "text": " into the tile and that's where."
+  },
+  {
+    "start": 1879.94,
+    "end": 1882.54,
+    "text": " - Yeah, exactly, so he tossed it into the loo,"
+  },
+  {
+    "start": 1882.54,
+    "end": 1884.7,
+    "text": " and then he thought, oh no, that was,"
+  },
+  {
+    "start": 1884.7,
+    "end": 1886.66,
+    "text": " I threw a strop there, that was silly, wasn't I?"
+  },
+  {
+    "start": 1886.66,
+    "end": 1887.82,
+    "text": " But I'll go and get it back,"
+  },
+  {
+    "start": 1887.82,
+    "end": 1890.02,
+    "text": " and so then he went and sort of got my elbow deep."
+  },
+  {
+    "start": 1890.02,
+    "end": 1891.34,
+    "text": " - Pissy metal back."
+  },
+  {
+    "start": 1891.34,
+    "end": 1894.62,
+    "text": " - Exactly, climbed down into the vat of wee,"
+  },
+  {
+    "start": 1894.62,
+    "end": 1896.02,
+    "text": " got it back out,"
+  },
+  {
+    "start": 1896.02,
+    "end": 1898.94,
+    "text": " and then found that it works better, and--"
+  },
+  {
+    "start": 1898.94,
+    "end": 1899.78,
+    "text": " - And when you say work better,"
+  },
+  {
+    "start": 1899.78,
+    "end": 1901.66,
+    "text": " is it just softer and more malleable?"
+  },
+  {
+    "start": 1901.66,
+    "end": 1903.06,
+    "text": " - Yeah, so what it seemed to do,"
+  },
+  {
+    "start": 1903.06,
+    "end": 1906.38,
+    "text": " what it did do is make a soft coating around the metal,"
+  },
+  {
+    "start": 1906.38,
+    "end": 1908.46,
+    "text": " which reduces the friction when you pull it through."
+  },
+  {
+    "start": 1908.46,
+    "end": 1911.14,
+    "text": " Now, we now do know that water also does that,"
+  },
+  {
+    "start": 1911.14,
+    "end": 1912.74,
+    "text": " but for 200 years,"
+  },
+  {
+    "start": 1912.74,
+    "end": 1913.94,
+    "text": " people who worked in this factory"
+  },
+  {
+    "start": 1913.94,
+    "end": 1915.38,
+    "text": " would provide urine to it,"
+  },
+  {
+    "start": 1915.38,
+    "end": 1916.58,
+    "text": " and actually their wives and children"
+  },
+  {
+    "start": 1916.58,
+    "end": 1919.02,
+    "text": " would also donate their urine to this factory."
+  },
+  {
+    "start": 1919.02,
+    "end": 1920.86,
+    "text": " - I like the fact that they,"
+  },
+  {
+    "start": 1920.86,
+    "end": 1923.5,
+    "text": " in between the wee and the water,"
+  },
+  {
+    "start": 1923.5,
+    "end": 1925.42,
+    "text": " they worked out that beer worked."
+  },
+  {
+    "start": 1925.42,
+    "end": 1926.26,
+    "text": " - Really?"
+  },
+  {
+    "start": 1926.26,
+    "end": 1928.06,
+    "text": " - So they did it with the wee for ages,"
+  },
+  {
+    "start": 1928.06,
+    "end": 1930.38,
+    "text": " and then after about 100 years, someone tried beer,"
+  },
+  {
+    "start": 1930.38,
+    "end": 1931.94,
+    "text": " they went, oh, this works just as well."
+  },
+  {
+    "start": 1931.94,
+    "end": 1932.78,
+    "text": " - That's so good."
+  },
+  {
+    "start": 1932.78,
+    "end": 1933.62,
+    "text": " - We don't need to whistle it."
+  },
+  {
+    "start": 1933.62,
+    "end": 1936.18,
+    "text": " - Stop trying, try like 100 different things, yeah?"
+  },
+  {
+    "start": 1936.18,
+    "end": 1937.02,
+    "text": " - Maybe they did."
+  },
+  {
+    "start": 1937.02,
+    "end": 1938.06,
+    "text": " - I kind of wonder what else would work"
+  },
+  {
+    "start": 1938.06,
+    "end": 1939.3,
+    "text": " that we haven't thought of yet."
+  },
+  {
+    "start": 1939.3,
+    "end": 1940.14,
+    "text": " - Yeah."
+  },
+  {
+    "start": 1940.14,
+    "end": 1940.98,
+    "text": " - Better than water."
+  },
+  {
+    "start": 1940.98,
+    "end": 1942.22,
+    "text": " - I think once you've got to water,"
+  },
+  {
+    "start": 1942.22,
+    "end": 1944.46,
+    "text": " it's like, okay, good, this is a simplest trick."
+  },
+  {
+    "start": 1944.46,
+    "end": 1946.14,
+    "text": " - I so love to have been there on the day"
+  },
+  {
+    "start": 1946.14,
+    "end": 1948.18,
+    "text": " that the person who came into town and said,"
+  },
+  {
+    "start": 1948.18,
+    "end": 1949.7,
+    "text": " you know you can just use water,"
+  },
+  {
+    "start": 1949.7,
+    "end": 1951.74,
+    "text": " so they've said that, so can you?"
+  },
+  {
+    "start": 1951.74,
+    "end": 1952.94,
+    "text": " - Or like, dicks in hands."
+  },
+  {
+    "start": 1952.94,
+    "end": 1954.7,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 1954.7,
+    "end": 1956.02,
+    "text": " - Standing here, dick in hand."
+  },
+  {
+    "start": 1956.02,
+    "end": 1959.34,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 1959.34,
+    "end": 1960.66,
+    "text": " - You've been so embarrassed."
+  },
+  {
+    "start": 1960.66,
+    "end": 1961.62,
+    "text": " How long have you been doing this?"
+  },
+  {
+    "start": 1961.62,
+    "end": 1963.46,
+    "text": " 200 years."
+  },
+  {
+    "start": 1963.46,
+    "end": 1966.9,
+    "text": " - It's not important, doesn't matter."
+  },
+  {
+    "start": 1966.9,
+    "end": 1967.94,
+    "text": " - Yeah."
+  },
+  {
+    "start": 1967.94,
+    "end": 1968.78,
+    "text": " - Wow."
+  },
+  {
+    "start": 1968.78,
+    "end": 1970.62,
+    "text": " - I think it's also interesting that you make,"
+  },
+  {
+    "start": 1970.62,
+    "end": 1972.06,
+    "text": " why I like you make spaghetti,"
+  },
+  {
+    "start": 1972.06,
+    "end": 1973.82,
+    "text": " you just squeeze it in a,"
+  },
+  {
+    "start": 1973.82,
+    "end": 1975.02,
+    "text": " I mean, it might have pissed off my spaghetti."
+  },
+  {
+    "start": 1975.02,
+    "end": 1977.38,
+    "text": " I mean, squeezing it through, squeezing it through her face."
+  },
+  {
+    "start": 1977.38,
+    "end": 1978.5,
+    "text": " - Actually, if you could get it in water,"
+  },
+  {
+    "start": 1978.5,
+    "end": 1979.34,
+    "text": " it's even better."
+  },
+  {
+    "start": 1979.34,
+    "end": 1982.74,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 1982.74,
+    "end": 1985.02,
+    "text": " - You know that smell that iron and steel has,"
+  },
+  {
+    "start": 1985.02,
+    "end": 1986.3,
+    "text": " like doorknobs and stuff, you know that?"
+  },
+  {
+    "start": 1986.3,
+    "end": 1987.14,
+    "text": " - Oh yeah."
+  },
+  {
+    "start": 1987.14,
+    "end": 1987.98,
+    "text": " - That smell."
+  },
+  {
+    "start": 1987.98,
+    "end": 1988.82,
+    "text": " - Yeah, yeah."
+  },
+  {
+    "start": 1988.82,
+    "end": 1989.66,
+    "text": " - The metal smell."
+  },
+  {
+    "start": 1989.66,
+    "end": 1990.5,
+    "text": " - So you actually don't,"
+  },
+  {
+    "start": 1990.5,
+    "end": 1992.46,
+    "text": " because it turns out that it doesn't smell,"
+  },
+  {
+    "start": 1992.46,
+    "end": 1993.78,
+    "text": " and you know what it actually is,"
+  },
+  {
+    "start": 1993.78,
+    "end": 1997.42,
+    "text": " is the oils and chemicals excreted by you,"
+  },
+  {
+    "start": 1997.42,
+    "end": 1999.74,
+    "text": " reacting with the surface of the metal."
+  },
+  {
+    "start": 1999.74,
+    "end": 2000.58,
+    "text": " - Very similarly,"
+  },
+  {
+    "start": 2000.58,
+    "end": 2001.94,
+    "text": " and every kitchen should have this,"
+  },
+  {
+    "start": 2001.94,
+    "end": 2003.06,
+    "text": " I don't have this,"
+  },
+  {
+    "start": 2003.06,
+    "end": 2005.98,
+    "text": " but you can get stainless steel soap."
+  },
+  {
+    "start": 2005.98,
+    "end": 2007.22,
+    "text": " And I've never heard of that before."
+  },
+  {
+    "start": 2007.22,
+    "end": 2008.06,
+    "text": " - Oh."
+  },
+  {
+    "start": 2008.06,
+    "end": 2008.9,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2008.9,
+    "end": 2009.74,
+    "text": " - What?"
+  },
+  {
+    "start": 2009.74,
+    "end": 2010.58,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2010.58,
+    "end": 2011.42,
+    "text": " - Well, 'cause stainless steel is like antibacterial, right?"
+  },
+  {
+    "start": 2011.42,
+    "end": 2012.5,
+    "text": " Which is why, like a lot of doorknobs are made out of it,"
+  },
+  {
+    "start": 2012.5,
+    "end": 2013.66,
+    "text": " and especially when you go into public toilets"
+  },
+  {
+    "start": 2013.66,
+    "end": 2015.14,
+    "text": " and stuff, everything's metal."
+  },
+  {
+    "start": 2015.14,
+    "end": 2015.98,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2015.98,
+    "end": 2017.3,
+    "text": " - 'Cause bacteria can't last very long."
+  },
+  {
+    "start": 2017.3,
+    "end": 2018.62,
+    "text": " - So you don't need to wash your hands"
+  },
+  {
+    "start": 2018.62,
+    "end": 2019.46,
+    "text": " when you're leaving the loo."
+  },
+  {
+    "start": 2019.46,
+    "end": 2021.5,
+    "text": " You just turn the metal doorknob and you say,"
+  },
+  {
+    "start": 2021.5,
+    "end": 2022.66,
+    "text": " \"I've done it, as long as you do it both hands.\""
+  },
+  {
+    "start": 2022.66,
+    "end": 2024.14,
+    "text": " - You're not made of metal, Adam."
+  },
+  {
+    "start": 2024.14,
+    "end": 2025.9,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 2025.9,
+    "end": 2027.54,
+    "text": " - Now, this is specifically for,"
+  },
+  {
+    "start": 2027.54,
+    "end": 2029.7,
+    "text": " if you're cutting up onions or you're cutting up garlic,"
+  },
+  {
+    "start": 2029.7,
+    "end": 2032.34,
+    "text": " and the smell gets stuck to your fingers,"
+  },
+  {
+    "start": 2032.34,
+    "end": 2034.14,
+    "text": " and you're like, \"Oh, God, I smell of this.\""
+  },
+  {
+    "start": 2034.14,
+    "end": 2036.42,
+    "text": " Rubbing your hands against stainless steel"
+  },
+  {
+    "start": 2036.42,
+    "end": 2039.26,
+    "text": " creates a reaction that knocks out the smell from it."
+  },
+  {
+    "start": 2039.26,
+    "end": 2042.54,
+    "text": " This is, I don't think it's scientifically proven at all,"
+  },
+  {
+    "start": 2042.54,
+    "end": 2045.82,
+    "text": " but they do sell, as it were, bars of stainless steel soap."
+  },
+  {
+    "start": 2045.82,
+    "end": 2047.7,
+    "text": " - I actually think it is scientifically proven."
+  },
+  {
+    "start": 2047.7,
+    "end": 2048.54,
+    "text": " - What?"
+  },
+  {
+    "start": 2048.54,
+    "end": 2049.38,
+    "text": " - But it doesn't really work."
+  },
+  {
+    "start": 2049.38,
+    "end": 2050.22,
+    "text": " - That's exactly it."
+  },
+  {
+    "start": 2050.22,
+    "end": 2051.5,
+    "text": " - No, it's not, it's not actually practical."
+  },
+  {
+    "start": 2051.5,
+    "end": 2053.66,
+    "text": " - But it's like, \"Nah, I've definitely rubbed"
+  },
+  {
+    "start": 2053.66,
+    "end": 2055.26,
+    "text": " my garlicky fingers up and down,"
+  },
+  {
+    "start": 2055.26,
+    "end": 2057.22,
+    "text": " stainless steel stuff to no avail.\""
+  },
+  {
+    "start": 2057.22,
+    "end": 2059.78,
+    "text": " - And does real soap not work at all for garlic?"
+  },
+  {
+    "start": 2059.78,
+    "end": 2062.42,
+    "text": " - No, I don't think anything works for it,"
+  },
+  {
+    "start": 2062.42,
+    "end": 2063.58,
+    "text": " except using garlic in a jar,"
+  },
+  {
+    "start": 2063.58,
+    "end": 2066.14,
+    "text": " which I've resorted to now in order to sustain my marriage."
+  },
+  {
+    "start": 2066.14,
+    "end": 2069.34,
+    "text": " - I think just being happy with smells of garlic."
+  },
+  {
+    "start": 2069.34,
+    "end": 2071.86,
+    "text": " - All that, James, I wish life were that simple."
+  },
+  {
+    "start": 2071.86,
+    "end": 2072.94,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 2072.94,
+    "end": 2074.94,
+    "text": " - What a weird cryptic sentence about your marriage"
+  },
+  {
+    "start": 2074.94,
+    "end": 2076.02,
+    "text": " that just slipped in there."
+  },
+  {
+    "start": 2076.02,
+    "end": 2077.34,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 2077.34,
+    "end": 2079.22,
+    "text": " - Anna's husband is a vampire."
+  },
+  {
+    "start": 2079.22,
+    "end": 2082.54,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 2082.54,
+    "end": 2084.94,
+    "text": " - Can I give you a QI question,"
+  },
+  {
+    "start": 2084.94,
+    "end": 2086.74,
+    "text": " but you've got to pretend you're in ancient Rome,"
+  },
+  {
+    "start": 2086.74,
+    "end": 2087.58,
+    "text": " and then it works."
+  },
+  {
+    "start": 2087.58,
+    "end": 2089.74,
+    "text": " - Sure, do we have to do it in Latin?"
+  },
+  {
+    "start": 2089.74,
+    "end": 2090.58,
+    "text": " - Yes, so that's okay."
+  },
+  {
+    "start": 2090.58,
+    "end": 2092.78,
+    "text": " I'm sure the listeners at home are fluent."
+  },
+  {
+    "start": 2092.78,
+    "end": 2093.62,
+    "text": " So--"
+  },
+  {
+    "start": 2093.62,
+    "end": 2094.46,
+    "text": " - Shall we?"
+  },
+  {
+    "start": 2094.46,
+    "end": 2095.54,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 2095.54,
+    "end": 2098.34,
+    "text": " - Oh, no, Alex actually can do this."
+  },
+  {
+    "start": 2098.34,
+    "end": 2100.46,
+    "text": " - It's a guy studying Latin."
+  },
+  {
+    "start": 2100.46,
+    "end": 2101.54,
+    "text": " - You only need to know one word,"
+  },
+  {
+    "start": 2101.54,
+    "end": 2103.78,
+    "text": " and that's the Latin word for steel."
+  },
+  {
+    "start": 2103.78,
+    "end": 2105.74,
+    "text": " And astonishingly, they had a version of steel"
+  },
+  {
+    "start": 2105.74,
+    "end": 2106.58,
+    "text": " as far back as then,"
+  },
+  {
+    "start": 2106.58,
+    "end": 2109.46,
+    "text": " which was invented in India about 400 BC,"
+  },
+  {
+    "start": 2109.46,
+    "end": 2112.54,
+    "text": " but it wasn't able to be mass produced until the 19th century."
+  },
+  {
+    "start": 2112.54,
+    "end": 2114.58,
+    "text": " But they did have it, made it to ancient Rome."
+  },
+  {
+    "start": 2114.58,
+    "end": 2117.62,
+    "text": " The Latin word for steel is chalebe,"
+  },
+  {
+    "start": 2117.62,
+    "end": 2120.58,
+    "text": " and it was named after that chalebe's people"
+  },
+  {
+    "start": 2120.58,
+    "end": 2122.14,
+    "text": " who lived on the Black Sea."
+  },
+  {
+    "start": 2122.14,
+    "end": 2124.58,
+    "text": " Okay, so you're in Latin QI."
+  },
+  {
+    "start": 2124.58,
+    "end": 2128.26,
+    "text": " What did the chalebe's people invent?"
+  },
+  {
+    "start": 2128.26,
+    "end": 2131.3,
+    "text": " - The chalebe people, they made metal."
+  },
+  {
+    "start": 2131.3,
+    "end": 2133.38,
+    "text": " - I mean, the Latin for steel is chalebe."
+  },
+  {
+    "start": 2133.38,
+    "end": 2134.22,
+    "text": " I'm just gonna say that."
+  },
+  {
+    "start": 2134.22,
+    "end": 2135.06,
+    "text": " - Oh, okay, I see."
+  },
+  {
+    "start": 2135.06,
+    "end": 2137.82,
+    "text": " - Is it the word caliber?"
+  },
+  {
+    "start": 2137.82,
+    "end": 2140.66,
+    "text": " - X-caliber, swords."
+  },
+  {
+    "start": 2140.66,
+    "end": 2141.98,
+    "text": " - Dan, can I get, I feel like you're the one"
+  },
+  {
+    "start": 2141.98,
+    "end": 2143.58,
+    "text": " who gives the more obvious stupid answer."
+  },
+  {
+    "start": 2143.58,
+    "end": 2144.42,
+    "text": " Can you do that now?"
+  },
+  {
+    "start": 2144.42,
+    "end": 2147.1,
+    "text": " - I'm still busy trying to picture myself."
+  },
+  {
+    "start": 2147.1,
+    "end": 2150.06,
+    "text": " What character I am, what do I know, what do I not know?"
+  },
+  {
+    "start": 2150.06,
+    "end": 2151.9,
+    "text": " - Chalebe, and what there's supposed to be"
+  },
+  {
+    "start": 2151.9,
+    "end": 2153.26,
+    "text": " an obvious answer to this."
+  },
+  {
+    "start": 2153.26,
+    "end": 2154.94,
+    "text": " - They invented steel."
+  },
+  {
+    "start": 2154.94,
+    "end": 2156.14,
+    "text": " - Oh, they invented steel."
+  },
+  {
+    "start": 2156.14,
+    "end": 2157.1,
+    "text": " Did they invent steel?"
+  },
+  {
+    "start": 2157.1,
+    "end": 2158.7,
+    "text": " - And then you get a klaxon."
+  },
+  {
+    "start": 2158.7,
+    "end": 2161.06,
+    "text": " - They invented steel."
+  },
+  {
+    "start": 2161.06,
+    "end": 2161.9,
+    "text": " - I don't know what's going on."
+  },
+  {
+    "start": 2161.9,
+    "end": 2164.86,
+    "text": " I think God, Anna didn't pitch QI to the BBC initially."
+  },
+  {
+    "start": 2164.86,
+    "end": 2165.7,
+    "text": " - It's a script editor."
+  },
+  {
+    "start": 2165.7,
+    "end": 2167.3,
+    "text": " I don't understand how she's made such a mess of this."
+  },
+  {
+    "start": 2167.3,
+    "end": 2168.98,
+    "text": " - I've rewritten all the scripts in Latin."
+  },
+  {
+    "start": 2168.98,
+    "end": 2170.86,
+    "text": " This is so awkward."
+  },
+  {
+    "start": 2170.86,
+    "end": 2172.38,
+    "text": " I'm saying to a Latin audience,"
+  },
+  {
+    "start": 2172.38,
+    "end": 2174.54,
+    "text": " what did the chalebe's people invent?"
+  },
+  {
+    "start": 2174.54,
+    "end": 2176.02,
+    "text": " You know, speaking Latin,"
+  },
+  {
+    "start": 2176.02,
+    "end": 2178.02,
+    "text": " that chalebe is Latin for steel."
+  },
+  {
+    "start": 2178.02,
+    "end": 2179.34,
+    "text": " - Okay, so it's steel."
+  },
+  {
+    "start": 2179.34,
+    "end": 2180.34,
+    "text": " - Steel, woo, woo, woo."
+  },
+  {
+    "start": 2180.34,
+    "end": 2182.34,
+    "text": " - Klaxon, okay, go ahead, okay, yeah, let me see."
+  },
+  {
+    "start": 2182.34,
+    "end": 2183.18,
+    "text": " - And they didn't,"
+  },
+  {
+    "start": 2183.18,
+    "end": 2185.3,
+    "text": " they just invented another kind of hybrid iron."
+  },
+  {
+    "start": 2185.3,
+    "end": 2187.62,
+    "text": " They had this kind of iron, steel."
+  },
+  {
+    "start": 2187.62,
+    "end": 2190.7,
+    "text": " - Do you wanna hear about the barbed wire was?"
+  },
+  {
+    "start": 2190.7,
+    "end": 2191.54,
+    "text": " - Yes."
+  },
+  {
+    "start": 2191.54,
+    "end": 2193.86,
+    "text": " - Okay, so barbed wire invented"
+  },
+  {
+    "start": 2193.86,
+    "end": 2197.78,
+    "text": " in 1873 in America by Joseph Glidden"
+  },
+  {
+    "start": 2197.78,
+    "end": 2200.54,
+    "text": " and used by farmers to protect their farms."
+  },
+  {
+    "start": 2200.54,
+    "end": 2202.22,
+    "text": " Who was not happy about it?"
+  },
+  {
+    "start": 2202.22,
+    "end": 2204.74,
+    "text": " - The blunt wire manufacturers."
+  },
+  {
+    "start": 2204.74,
+    "end": 2205.58,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2205.58,
+    "end": 2207.02,
+    "text": " - Yeah, fence makers."
+  },
+  {
+    "start": 2207.02,
+    "end": 2207.86,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2207.86,
+    "end": 2209.02,
+    "text": " - Oh, yeah, that's true."
+  },
+  {
+    "start": 2209.02,
+    "end": 2210.18,
+    "text": " - Ramblers."
+  },
+  {
+    "start": 2210.18,
+    "end": 2211.66,
+    "text": " - Ramblers, lots of ramblers in there."
+  },
+  {
+    "start": 2211.66,
+    "end": 2212.5,
+    "text": " - Golfers."
+  },
+  {
+    "start": 2212.5,
+    "end": 2215.02,
+    "text": " - Golfers, yeah, these are all great answers."
+  },
+  {
+    "start": 2215.02,
+    "end": 2217.14,
+    "text": " But all wrong."
+  },
+  {
+    "start": 2217.14,
+    "end": 2219.22,
+    "text": " - I actually feel like ramblers,"
+  },
+  {
+    "start": 2219.22,
+    "end": 2221.5,
+    "text": " 'cause I think I may know the answer,"
+  },
+  {
+    "start": 2221.5,
+    "end": 2223.86,
+    "text": " but ramblers might be a vaguely correct-ish."
+  },
+  {
+    "start": 2223.86,
+    "end": 2225.34,
+    "text": " People who wanted to ramble, right?"
+  },
+  {
+    "start": 2225.34,
+    "end": 2226.18,
+    "text": " - I think it's true."
+  },
+  {
+    "start": 2226.18,
+    "end": 2228.86,
+    "text": " I mean, not many people like barbed wire, I'd say, but."
+  },
+  {
+    "start": 2228.86,
+    "end": 2231.42,
+    "text": " - The answer is cowboys,"
+  },
+  {
+    "start": 2231.42,
+    "end": 2235.94,
+    "text": " because if you had a farm and you didn't have fences,"
+  },
+  {
+    "start": 2235.94,
+    "end": 2238.38,
+    "text": " your cows and sheep could run anywhere,"
+  },
+  {
+    "start": 2238.38,
+    "end": 2241.46,
+    "text": " but you kept them in the right place by employing cowboys."
+  },
+  {
+    "start": 2241.46,
+    "end": 2242.7,
+    "text": " But as soon as you had bad wire,"
+  },
+  {
+    "start": 2242.7,
+    "end": 2244.86,
+    "text": " you didn't need to employ cowboys anymore."
+  },
+  {
+    "start": 2244.86,
+    "end": 2247.18,
+    "text": " - This is the first 18. - Who ramble freely,"
+  },
+  {
+    "start": 2247.18,
+    "end": 2249.42,
+    "text": " which is why I've given Alex half the points."
+  },
+  {
+    "start": 2249.42,
+    "end": 2252.34,
+    "text": " - Rambles, they're on horses."
+  },
+  {
+    "start": 2252.34,
+    "end": 2255.02,
+    "text": " - Yeah, I think of rambling as just sort of roaming free,"
+  },
+  {
+    "start": 2255.02,
+    "end": 2256.78,
+    "text": " but do you think it has to be on foot?"
+  },
+  {
+    "start": 2256.78,
+    "end": 2259.18,
+    "text": " - I think what we're doing now is rambling."
+  },
+  {
+    "start": 2259.18,
+    "end": 2260.02,
+    "text": " - But the other thing,"
+  },
+  {
+    "start": 2260.02,
+    "end": 2262.94,
+    "text": " the other people didn't like it were small ranchers,"
+  },
+  {
+    "start": 2262.94,
+    "end": 2264.22,
+    "text": " because if you had a big ranch"
+  },
+  {
+    "start": 2264.22,
+    "end": 2266.14,
+    "text": " and you could afford loads of barbed wire,"
+  },
+  {
+    "start": 2266.14,
+    "end": 2269.18,
+    "text": " you could put loads of barbed wire around your farm."
+  },
+  {
+    "start": 2269.18,
+    "end": 2270.58,
+    "text": " But actually, in those days,"
+  },
+  {
+    "start": 2270.58,
+    "end": 2272.54,
+    "text": " people weren't really sure where one farm stopped"
+  },
+  {
+    "start": 2272.54,
+    "end": 2274.06,
+    "text": " and another farm started."
+  },
+  {
+    "start": 2274.06,
+    "end": 2275.46,
+    "text": " So if you were a small rancher,"
+  },
+  {
+    "start": 2275.46,
+    "end": 2278.06,
+    "text": " you would often find that you would turn up to your ranch"
+  },
+  {
+    "start": 2278.06,
+    "end": 2278.9,
+    "text": " and there's a load of barbed wire"
+  },
+  {
+    "start": 2278.9,
+    "end": 2280.7,
+    "text": " and you couldn't get to your stuff anymore."
+  },
+  {
+    "start": 2280.7,
+    "end": 2284.62,
+    "text": " And so there was a huge amount of violence and tension"
+  },
+  {
+    "start": 2284.62,
+    "end": 2287.46,
+    "text": " between these kind of small ranchers and the big ranchers."
+  },
+  {
+    "start": 2287.46,
+    "end": 2289.34,
+    "text": " And there were wire cutting groups"
+  },
+  {
+    "start": 2289.34,
+    "end": 2291.26,
+    "text": " that would go out and cut all the wires."
+  },
+  {
+    "start": 2291.26,
+    "end": 2292.7,
+    "text": " And actually Grover Cleveland,"
+  },
+  {
+    "start": 2292.7,
+    "end": 2294.38,
+    "text": " the president had to send in the army"
+  },
+  {
+    "start": 2294.38,
+    "end": 2297.3,
+    "text": " to remove any unlawful barbed wire fences."
+  },
+  {
+    "start": 2297.3,
+    "end": 2300.3,
+    "text": " - They formed sort of gangs, didn't they?"
+  },
+  {
+    "start": 2300.3,
+    "end": 2301.3,
+    "text": " With really fun names."
+  },
+  {
+    "start": 2301.3,
+    "end": 2304.02,
+    "text": " They were called like the blue devils, the owls."
+  },
+  {
+    "start": 2304.02,
+    "end": 2306.74,
+    "text": " - They supported Iron Maiden, didn't they?"
+  },
+  {
+    "start": 2306.74,
+    "end": 2308.06,
+    "text": " - Sorry, you're right."
+  },
+  {
+    "start": 2308.82,
+    "end": 2311.7,
+    "text": " - Native Americans as well didn't like it"
+  },
+  {
+    "start": 2311.7,
+    "end": 2314.3,
+    "text": " because it stopped buffaloes rambling."
+  },
+  {
+    "start": 2314.3,
+    "end": 2319.26,
+    "text": " I'm gonna make ramble happen."
+  },
+  {
+    "start": 2319.26,
+    "end": 2322.78,
+    "text": " And they depended so much on their livelihood for buffaloes."
+  },
+  {
+    "start": 2322.78,
+    "end": 2323.98,
+    "text": " It's one of the reasons that buffaloes"
+  },
+  {
+    "start": 2323.98,
+    "end": 2325.82,
+    "text": " basically went extinct by the end of the century"
+  },
+  {
+    "start": 2325.82,
+    "end": 2327.94,
+    "text": " is that they couldn't roam free anymore."
+  },
+  {
+    "start": 2327.94,
+    "end": 2329.62,
+    "text": " They were fenced in."
+  },
+  {
+    "start": 2329.62,
+    "end": 2331.34,
+    "text": " And it was all kind of Lincoln's fault, wasn't it?"
+  },
+  {
+    "start": 2331.34,
+    "end": 2332.66,
+    "text": " 'Cause he signed this act,"
+  },
+  {
+    "start": 2332.66,
+    "end": 2336.02,
+    "text": " which said everyone can have a bunch of free land"
+  },
+  {
+    "start": 2336.02,
+    "end": 2338.3,
+    "text": " in the Wild West if you agree to farm it."
+  },
+  {
+    "start": 2338.3,
+    "end": 2339.74,
+    "text": " So all these farmers moved there."
+  },
+  {
+    "start": 2339.74,
+    "end": 2342.62,
+    "text": " And then we're like, how do we stop these buffaloes"
+  },
+  {
+    "start": 2342.62,
+    "end": 2344.7,
+    "text": " from trampling all over our crops?"
+  },
+  {
+    "start": 2344.7,
+    "end": 2345.54,
+    "text": " - Bloody Lincoln."
+  },
+  {
+    "start": 2345.54,
+    "end": 2346.82,
+    "text": " - Electric wire, right?"
+  },
+  {
+    "start": 2346.82,
+    "end": 2348.22,
+    "text": " After the barbed wire."
+  },
+  {
+    "start": 2348.22,
+    "end": 2349.06,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2349.06,
+    "end": 2350.34,
+    "text": " - I'm just trying to think."
+  },
+  {
+    "start": 2350.34,
+    "end": 2352.58,
+    "text": " I wonder how many people died in that small town"
+  },
+  {
+    "start": 2352.58,
+    "end": 2354.66,
+    "text": " who were having a nostalgic piss on a bit of wire."
+  },
+  {
+    "start": 2354.66,
+    "end": 2356.9,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2356.9,
+    "end": 2360.06,
+    "text": " - I think that's a myth, isn't it?"
+  },
+  {
+    "start": 2360.06,
+    "end": 2362.66,
+    "text": " If you piss on electric feds, you get electrocuted."
+  },
+  {
+    "start": 2362.66,
+    "end": 2364.02,
+    "text": " Don't try it at home."
+  },
+  {
+    "start": 2364.02,
+    "end": 2364.86,
+    "text": " Don't try it at home."
+  },
+  {
+    "start": 2364.86,
+    "end": 2365.94,
+    "text": " Who's got electric feds at home?"
+  },
+  {
+    "start": 2365.94,
+    "end": 2368.66,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2368.66,
+    "end": 2369.98,
+    "text": " - Get out of my room, Mum."
+  },
+  {
+    "start": 2369.98,
+    "end": 2371.06,
+    "text": " I did warn you."
+  },
+  {
+    "start": 2371.06,
+    "end": 2372.14,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2372.14,
+    "end": 2374.18,
+    "text": " - I think the myth that I remember,"
+  },
+  {
+    "start": 2374.18,
+    "end": 2376.14,
+    "text": " and again, I'm not sure that this is true,"
+  },
+  {
+    "start": 2376.14,
+    "end": 2379.94,
+    "text": " so people shouldn't try it at someone else's home."
+  },
+  {
+    "start": 2379.94,
+    "end": 2383.3,
+    "text": " But your urine stream isn't usually a complete stream."
+  },
+  {
+    "start": 2383.3,
+    "end": 2384.9,
+    "text": " It's usually got gaps in it enough"
+  },
+  {
+    "start": 2384.9,
+    "end": 2387.46,
+    "text": " that the electricity can't travel up it."
+  },
+  {
+    "start": 2387.46,
+    "end": 2389.14,
+    "text": " - Did anyone come across"
+  },
+  {
+    "start": 2389.14,
+    "end": 2391.02,
+    "text": " this Guardian Notes and Queries section?"
+  },
+  {
+    "start": 2391.02,
+    "end": 2392.74,
+    "text": " So you know, the Guardian notes and queries"
+  },
+  {
+    "start": 2392.74,
+    "end": 2394.66,
+    "text": " and someone asks a question and lots of,"
+  },
+  {
+    "start": 2394.66,
+    "end": 2397.94,
+    "text": " often people who have inside knowledge answer underneath."
+  },
+  {
+    "start": 2397.94,
+    "end": 2400.86,
+    "text": " And there's one that's When Was Wire Invented."
+  },
+  {
+    "start": 2400.86,
+    "end": 2402.18,
+    "text": " Did any of you see this?"
+  },
+  {
+    "start": 2402.18,
+    "end": 2403.02,
+    "text": " - No."
+  },
+  {
+    "start": 2403.02,
+    "end": 2403.94,
+    "text": " - It's just very confusing."
+  },
+  {
+    "start": 2403.94,
+    "end": 2405.82,
+    "text": " So there's When Was Wire Invented"
+  },
+  {
+    "start": 2405.82,
+    "end": 2408.98,
+    "text": " and then various people underneath give their answers."
+  },
+  {
+    "start": 2408.98,
+    "end": 2411.66,
+    "text": " And one of the answers is,"
+  },
+  {
+    "start": 2411.66,
+    "end": 2414.62,
+    "text": " fierce controversy surrounded the invention of wire."
+  },
+  {
+    "start": 2414.62,
+    "end": 2416.54,
+    "text": " And it goes on to explain that Thomas Malham"
+  },
+  {
+    "start": 2416.54,
+    "end": 2418.74,
+    "text": " said he invented wire in 1830"
+  },
+  {
+    "start": 2418.74,
+    "end": 2420.34,
+    "text": " at his foundry in Sheffield."
+  },
+  {
+    "start": 2420.34,
+    "end": 2423.26,
+    "text": " But a Frenchman, Jean-François Martin,"
+  },
+  {
+    "start": 2423.26,
+    "end": 2425.82,
+    "text": " also said he'd invented wire at the same time."
+  },
+  {
+    "start": 2425.82,
+    "end": 2427.1,
+    "text": " There was this legal action"
+  },
+  {
+    "start": 2427.1,
+    "end": 2428.62,
+    "text": " contesting the right to the patent."
+  },
+  {
+    "start": 2428.62,
+    "end": 2430.78,
+    "text": " It was never resolved 'cause Thomas Malham died"
+  },
+  {
+    "start": 2430.78,
+    "end": 2432.5,
+    "text": " of an inflamed liver."
+  },
+  {
+    "start": 2432.5,
+    "end": 2434.5,
+    "text": " And then it said, it's extraordinary fact."
+  },
+  {
+    "start": 2434.5,
+    "end": 2437.7,
+    "text": " Thomas Malham's memorial is an Abney Park cemetery,"
+  },
+  {
+    "start": 2437.7,
+    "end": 2438.54,
+    "text": " very near where I used to live,"
+  },
+  {
+    "start": 2438.54,
+    "end": 2440.66,
+    "text": " which has lots of amazing gravestones on it."
+  },
+  {
+    "start": 2440.66,
+    "end": 2442.34,
+    "text": " And it's now rusted away,"
+  },
+  {
+    "start": 2442.34,
+    "end": 2445.18,
+    "text": " but it used to be constructed entirely of wire"
+  },
+  {
+    "start": 2445.18,
+    "end": 2447.7,
+    "text": " in the shape of an anvil topped with a falcon."
+  },
+  {
+    "start": 2447.7,
+    "end": 2450.5,
+    "text": " And the source was a book called Wire,"
+  },
+  {
+    "start": 2450.5,
+    "end": 2454.12,
+    "text": " It's History and Application by Dr. A. Stone."
+  },
+  {
+    "start": 2454.12,
+    "end": 2456.7,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 2456.7,
+    "end": 2459.98,
+    "text": " - It's a different material."
+  },
+  {
+    "start": 2459.98,
+    "end": 2462.62,
+    "text": " - Well, it is a different material."
+  },
+  {
+    "start": 2462.62,
+    "end": 2464.3,
+    "text": " But there's nothing obviously in this to give away"
+  },
+  {
+    "start": 2464.3,
+    "end": 2465.58,
+    "text": " that it's completely made up."
+  },
+  {
+    "start": 2465.58,
+    "end": 2467.14,
+    "text": " It's completely made up. - Oh, it's completely made up."
+  },
+  {
+    "start": 2467.14,
+    "end": 2468.46,
+    "text": " Oh, okay, fine."
+  },
+  {
+    "start": 2468.46,
+    "end": 2470.58,
+    "text": " - This person gives this extraordinary story"
+  },
+  {
+    "start": 2470.58,
+    "end": 2472.14,
+    "text": " of the history of the Foundry of Wire."
+  },
+  {
+    "start": 2472.14,
+    "end": 2473.9,
+    "text": " And I was like, brilliant, something fascinating."
+  },
+  {
+    "start": 2473.9,
+    "end": 2475.02,
+    "text": " God, there's Abney Park."
+  },
+  {
+    "start": 2475.02,
+    "end": 2476.78,
+    "text": " I can't believe I never saw that."
+  },
+  {
+    "start": 2476.78,
+    "end": 2477.9,
+    "text": " - It's completely false."
+  },
+  {
+    "start": 2477.9,
+    "end": 2479.98,
+    "text": " - So this is the story of you reading a comment section,"
+  },
+  {
+    "start": 2479.98,
+    "end": 2481.1,
+    "text": " finding the information ought to be true."
+  },
+  {
+    "start": 2481.1,
+    "end": 2482.54,
+    "text": " - It's not a comment section."
+  },
+  {
+    "start": 2482.54,
+    "end": 2484.34,
+    "text": " It's Guardian Notes and Queries, okay?"
+  },
+  {
+    "start": 2484.34,
+    "end": 2487.94,
+    "text": " You get highbrow experts replying to people about,"
+  },
+  {
+    "start": 2487.94,
+    "end": 2489.78,
+    "text": " and then practices. - But the joke is can slip in."
+  },
+  {
+    "start": 2489.78,
+    "end": 2490.62,
+    "text": " That's the problem."
+  },
+  {
+    "start": 2490.62,
+    "end": 2492.58,
+    "text": " - Yeah, it's not a very good joke though, is it?"
+  },
+  {
+    "start": 2492.58,
+    "end": 2493.98,
+    "text": " - I don't know, A. Stone."
+  },
+  {
+    "start": 2493.98,
+    "end": 2494.82,
+    "text": " - A. Stone?"
+  },
+  {
+    "start": 2494.82,
+    "end": 2497.14,
+    "text": " - Pretty good, I did laugh really hard at this."
+  },
+  {
+    "start": 2497.14,
+    "end": 2498.3,
+    "text": " - That's not a joke."
+  },
+  {
+    "start": 2498.3,
+    "end": 2499.54,
+    "text": " I know jokes, guys."
+  },
+  {
+    "start": 2499.54,
+    "end": 2502.58,
+    "text": " (all laughing)"
+  },
+  {
+    "start": 2502.58,
+    "end": 2504.86,
+    "text": " - Just on other things you can use your info."
+  },
+  {
+    "start": 2504.86,
+    "end": 2506.5,
+    "text": " Virgin Boy eggs."
+  },
+  {
+    "start": 2506.5,
+    "end": 2507.34,
+    "text": " - Oh, yeah."
+  },
+  {
+    "start": 2507.34,
+    "end": 2508.18,
+    "text": " - Do you remember this?"
+  },
+  {
+    "start": 2508.18,
+    "end": 2509.02,
+    "text": " - Virgin Boy eggs."
+  },
+  {
+    "start": 2509.02,
+    "end": 2512.7,
+    "text": " - So they are a traditional dish from China, from Dongyang."
+  },
+  {
+    "start": 2512.7,
+    "end": 2515.1,
+    "text": " And basically, it's exactly what it sounds like."
+  },
+  {
+    "start": 2515.1,
+    "end": 2517.86,
+    "text": " They boil eggs in the urine of young boys."
+  },
+  {
+    "start": 2517.86,
+    "end": 2519.26,
+    "text": " So like 10 or younger."
+  },
+  {
+    "start": 2519.26,
+    "end": 2521.94,
+    "text": " - That's not what Virgin Boy eggs sounds like."
+  },
+  {
+    "start": 2521.94,
+    "end": 2522.78,
+    "text": " That's gonna be 20."
+  },
+  {
+    "start": 2522.78,
+    "end": 2524.78,
+    "text": " - It's what it translates with boy egg, fine."
+  },
+  {
+    "start": 2524.78,
+    "end": 2525.9,
+    "text": " Like, again, urine boy eggs."
+  },
+  {
+    "start": 2525.9,
+    "end": 2526.74,
+    "text": " You're absolutely right, yeah."
+  },
+  {
+    "start": 2526.74,
+    "end": 2527.58,
+    "text": " - Urine boy eggs, got it."
+  },
+  {
+    "start": 2527.58,
+    "end": 2528.42,
+    "text": " - You're trying to, sorry."
+  },
+  {
+    "start": 2528.42,
+    "end": 2530.14,
+    "text": " They are, it translates as Virgin Boy eggs,"
+  },
+  {
+    "start": 2530.14,
+    "end": 2532.46,
+    "text": " Virgin Boy being like small boy eggs."
+  },
+  {
+    "start": 2532.46,
+    "end": 2535.5,
+    "text": " And yeah, they, all through the town,"
+  },
+  {
+    "start": 2535.5,
+    "end": 2536.78,
+    "text": " the kids are encouraged to,"
+  },
+  {
+    "start": 2536.78,
+    "end": 2537.74,
+    "text": " when they go to the loon schools,"
+  },
+  {
+    "start": 2537.74,
+    "end": 2539.06,
+    "text": " they either can go to the normal toilet"
+  },
+  {
+    "start": 2539.06,
+    "end": 2541.42,
+    "text": " or they can go and pee in like a collection bucket"
+  },
+  {
+    "start": 2541.42,
+    "end": 2542.74,
+    "text": " in the corridor."
+  },
+  {
+    "start": 2542.74,
+    "end": 2547.18,
+    "text": " And then all of this urine gets taken"
+  },
+  {
+    "start": 2547.18,
+    "end": 2548.94,
+    "text": " and then eggs are boiled in them."
+  },
+  {
+    "start": 2548.94,
+    "end": 2551.06,
+    "text": " And it's a whole process where like they're double boiled"
+  },
+  {
+    "start": 2551.06,
+    "end": 2552.62,
+    "text": " in this urine and people eat them"
+  },
+  {
+    "start": 2552.62,
+    "end": 2553.78,
+    "text": " and it's like a delicacy."
+  },
+  {
+    "start": 2553.78,
+    "end": 2556.74,
+    "text": " - Yeah, urine's been used like that for a lot, hasn't it?"
+  },
+  {
+    "start": 2556.74,
+    "end": 2557.58,
+    "text": " - Yeah, it's interesting."
+  },
+  {
+    "start": 2557.58,
+    "end": 2559.26,
+    "text": " There is definitely like a legit ick factor there"
+  },
+  {
+    "start": 2559.26,
+    "end": 2560.7,
+    "text": " where I'm like, it's somebody else's urine"
+  },
+  {
+    "start": 2560.7,
+    "end": 2562.18,
+    "text": " that this has been cooked in."
+  },
+  {
+    "start": 2562.18,
+    "end": 2563.02,
+    "text": " - Yeah, yeah."
+  },
+  {
+    "start": 2563.02,
+    "end": 2563.86,
+    "text": " - It's very interesting."
+  },
+  {
+    "start": 2563.86,
+    "end": 2565.5,
+    "text": " - They had 100 years eggs."
+  },
+  {
+    "start": 2565.5,
+    "end": 2566.34,
+    "text": " - 100 years eggs?"
+  },
+  {
+    "start": 2566.34,
+    "end": 2568.9,
+    "text": " - Yeah, they're like supposed to be 100 years old."
+  },
+  {
+    "start": 2568.9,
+    "end": 2570.1,
+    "text": " They're not really 100 years old,"
+  },
+  {
+    "start": 2570.1,
+    "end": 2571.02,
+    "text": " but they are quite old."
+  },
+  {
+    "start": 2571.02,
+    "end": 2571.86,
+    "text": " - Very old, yeah."
+  },
+  {
+    "start": 2571.86,
+    "end": 2574.78,
+    "text": " - Yeah, and they just taste really sulfurous."
+  },
+  {
+    "start": 2574.78,
+    "end": 2576.34,
+    "text": " - But they haven't been bathed in urine, have they?"
+  },
+  {
+    "start": 2576.34,
+    "end": 2577.18,
+    "text": " - No, they're just standard."
+  },
+  {
+    "start": 2577.18,
+    "end": 2578.54,
+    "text": " - They're just a different kind of weird egg, yeah."
+  },
+  {
+    "start": 2578.54,
+    "end": 2580.06,
+    "text": " - It's the urine thing I don't like, yeah."
+  },
+  {
+    "start": 2580.06,
+    "end": 2582.06,
+    "text": " - I can talk about weird eggs that I've eaten."
+  },
+  {
+    "start": 2582.06,
+    "end": 2583.7,
+    "text": " I had that at Balut, you know,"
+  },
+  {
+    "start": 2583.7,
+    "end": 2587.18,
+    "text": " that has the baby chickens, the embryo of the chickens."
+  },
+  {
+    "start": 2587.18,
+    "end": 2588.02,
+    "text": " - Oh yeah."
+  },
+  {
+    "start": 2588.02,
+    "end": 2589.74,
+    "text": " All right, so save it for your spin-off weird eggs"
+  },
+  {
+    "start": 2589.74,
+    "end": 2593.02,
+    "text": " I've eaten podcast, which will run forever and ever."
+  },
+  {
+    "start": 2593.02,
+    "end": 2594.7,
+    "text": " It's, they've actually poached me."
+  },
+  {
+    "start": 2594.7,
+    "end": 2595.54,
+    "text": " Poached me."
+  },
+  {
+    "start": 2595.54,
+    "end": 2596.38,
+    "text": " - Hey."
+  },
+  {
+    "start": 2596.38,
+    "end": 2597.22,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2597.22,
+    "end": 2598.74,
+    "text": " - The rest is weird eggs."
+  },
+  {
+    "start": 2598.74,
+    "end": 2600.98,
+    "text": " This is you, go find your podcast."
+  },
+  {
+    "start": 2600.98,
+    "end": 2602.86,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2602.86,
+    "end": 2605.98,
+    "text": " It's me and Delia Smith just talking about weird eggs."
+  },
+  {
+    "start": 2605.98,
+    "end": 2607.32,
+    "text": " - Weird eggs."
+  },
+  {
+    "start": 2607.32,
+    "end": 2609.9,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 2609.9,
+    "end": 2615.34,
+    "text": " - Okay, it's time for our final fact of the show,"
+  },
+  {
+    "start": 2615.34,
+    "end": 2616.94,
+    "text": " and that is Alex."
+  },
+  {
+    "start": 2616.94,
+    "end": 2619.26,
+    "text": " - My fact this week is that dragonfly wings"
+  },
+  {
+    "start": 2619.26,
+    "end": 2620.98,
+    "text": " are equipped with tiny knives"
+  },
+  {
+    "start": 2620.98,
+    "end": 2623.82,
+    "text": " that physically rip bacteria apart."
+  },
+  {
+    "start": 2623.82,
+    "end": 2624.66,
+    "text": " - What?"
+  },
+  {
+    "start": 2624.66,
+    "end": 2625.5,
+    "text": " - Nice."
+  },
+  {
+    "start": 2625.5,
+    "end": 2626.34,
+    "text": " - It's amazing."
+  },
+  {
+    "start": 2626.34,
+    "end": 2627.18,
+    "text": " - Oh my God."
+  },
+  {
+    "start": 2627.18,
+    "end": 2628,
+    "text": " - It's just, it's the property they have"
+  },
+  {
+    "start": 2628,
+    "end": 2628.84,
+    "text": " that keeps their wings clean."
+  },
+  {
+    "start": 2628.84,
+    "end": 2629.68,
+    "text": " - So clever."
+  },
+  {
+    "start": 2629.68,
+    "end": 2630.52,
+    "text": " - Can I ask a question?"
+  },
+  {
+    "start": 2630.52,
+    "end": 2631.36,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2631.36,
+    "end": 2633.02,
+    "text": " - Alex, straight off the bat."
+  },
+  {
+    "start": 2633.02,
+    "end": 2634.82,
+    "text": " I've currently got a chest infection,"
+  },
+  {
+    "start": 2634.82,
+    "end": 2636.62,
+    "text": " and I'm on antibiotics."
+  },
+  {
+    "start": 2636.62,
+    "end": 2639.82,
+    "text": " Could I instead chuck some dragonfly wings?"
+  },
+  {
+    "start": 2639.82,
+    "end": 2641.44,
+    "text": " - That's such a great question."
+  },
+  {
+    "start": 2641.44,
+    "end": 2645.14,
+    "text": " - I don't want to answer that in case you die."
+  },
+  {
+    "start": 2645.14,
+    "end": 2646.7,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2646.7,
+    "end": 2647.54,
+    "text": " - I thought you were gonna say,"
+  },
+  {
+    "start": 2647.54,
+    "end": 2649.74,
+    "text": " should I strap a series of knives to my arms"
+  },
+  {
+    "start": 2649.74,
+    "end": 2651.04,
+    "text": " and flap them around?"
+  },
+  {
+    "start": 2651.04,
+    "end": 2651.88,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2651.88,
+    "end": 2652.86,
+    "text": " - All sort of option."
+  },
+  {
+    "start": 2652.86,
+    "end": 2653.7,
+    "text": " - I think probably not."
+  },
+  {
+    "start": 2653.7,
+    "end": 2654.82,
+    "text": " I think dragonflies are amazing"
+  },
+  {
+    "start": 2654.82,
+    "end": 2656.38,
+    "text": " if humans use them as inspiration"
+  },
+  {
+    "start": 2656.38,
+    "end": 2658.34,
+    "text": " for scientific innovations so much,"
+  },
+  {
+    "start": 2658.34,
+    "end": 2660.7,
+    "text": " but one of the things that we are doing"
+  },
+  {
+    "start": 2660.7,
+    "end": 2662.5,
+    "text": " is trying to emulate this,"
+  },
+  {
+    "start": 2662.5,
+    "end": 2663.82,
+    "text": " what's called, they're called nanopillars,"
+  },
+  {
+    "start": 2663.82,
+    "end": 2666.24,
+    "text": " these tiny, tiny sort of blunt pillars"
+  },
+  {
+    "start": 2666.24,
+    "end": 2667.36,
+    "text": " that are so, so small."
+  },
+  {
+    "start": 2667.36,
+    "end": 2670.74,
+    "text": " They're 100,000th of the width of a human hair."
+  },
+  {
+    "start": 2670.74,
+    "end": 2671.86,
+    "text": " I mean, so, so tiny."
+  },
+  {
+    "start": 2671.86,
+    "end": 2673.58,
+    "text": " So bacteria literally lands on them,"
+  },
+  {
+    "start": 2673.58,
+    "end": 2675.2,
+    "text": " gets caught between two and gets ripped apart."
+  },
+  {
+    "start": 2675.2,
+    "end": 2677.22,
+    "text": " I mean, it's absolutely astonishing how small it is."
+  },
+  {
+    "start": 2677.22,
+    "end": 2678.96,
+    "text": " - There's more than 10 billion of them"
+  },
+  {
+    "start": 2678.96,
+    "end": 2681.06,
+    "text": " per wing, basically, on each one."
+  },
+  {
+    "start": 2681.06,
+    "end": 2681.98,
+    "text": " - Absolutely mad."
+  },
+  {
+    "start": 2681.98,
+    "end": 2682.82,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2682.82,
+    "end": 2684.7,
+    "text": " And they're really, really good at destroying"
+  },
+  {
+    "start": 2684.7,
+    "end": 2686.14,
+    "text": " almost all bacteria that lands on them."
+  },
+  {
+    "start": 2686.14,
+    "end": 2688.26,
+    "text": " So, there's a university in Melbourne, Australia"
+  },
+  {
+    "start": 2688.26,
+    "end": 2691.3,
+    "text": " who have successfully made a sort of plastic version."
+  },
+  {
+    "start": 2691.3,
+    "end": 2694.02,
+    "text": " So, that could be the new stainless steel."
+  },
+  {
+    "start": 2694.02,
+    "end": 2695.86,
+    "text": " You know, next time you go into your public bathroom,"
+  },
+  {
+    "start": 2695.86,
+    "end": 2697.46,
+    "text": " there'll be a plastic handle."
+  },
+  {
+    "start": 2697.46,
+    "end": 2700.86,
+    "text": " - So scientists have managed to make stuff that small?"
+  },
+  {
+    "start": 2700.86,
+    "end": 2701.7,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2701.7,
+    "end": 2702.54,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2702.54,
+    "end": 2703.38,
+    "text": " - Well done."
+  },
+  {
+    "start": 2703.38,
+    "end": 2704.22,
+    "text": " - Well done."
+  },
+  {
+    "start": 2704.22,
+    "end": 2705.06,
+    "text": " - I don't know."
+  },
+  {
+    "start": 2705.06,
+    "end": 2705.9,
+    "text": " - Well, you can see when they sort of,"
+  },
+  {
+    "start": 2705.9,
+    "end": 2706.74,
+    "text": " you can do novels on rice now."
+  },
+  {
+    "start": 2706.74,
+    "end": 2709.72,
+    "text": " - You know that that's quite different to having something"
+  },
+  {
+    "start": 2709.72,
+    "end": 2711.74,
+    "text": " that there's 10 billion of them on a wing."
+  },
+  {
+    "start": 2711.74,
+    "end": 2714.16,
+    "text": " - I don't think they've been manually sharpening each one"
+  },
+  {
+    "start": 2714.16,
+    "end": 2716.72,
+    "text": " with a tiny, tiny set of carving knives or anything."
+  },
+  {
+    "start": 2716.72,
+    "end": 2718.32,
+    "text": " - I once pushed an electron"
+  },
+  {
+    "start": 2718.32,
+    "end": 2720.28,
+    "text": " with a scanning tunneling microscope."
+  },
+  {
+    "start": 2720.28,
+    "end": 2721.12,
+    "text": " - Wow."
+  },
+  {
+    "start": 2721.12,
+    "end": 2721.96,
+    "text": " - Right."
+  },
+  {
+    "start": 2721.96,
+    "end": 2724.28,
+    "text": " And it took me about an hour and a half."
+  },
+  {
+    "start": 2724.28,
+    "end": 2726.12,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2726.12,
+    "end": 2727.48,
+    "text": " - It was quite a long time ago."
+  },
+  {
+    "start": 2727.48,
+    "end": 2729.4,
+    "text": " No, just like to slightly other place"
+  },
+  {
+    "start": 2729.4,
+    "end": 2730.48,
+    "text": " to where it already was."
+  },
+  {
+    "start": 2730.48,
+    "end": 2731.72,
+    "text": " Like, I just moved it."
+  },
+  {
+    "start": 2731.72,
+    "end": 2732.68,
+    "text": " - Can you just blown it?"
+  },
+  {
+    "start": 2732.68,
+    "end": 2733.72,
+    "text": " - No, 'cause it's an electron."
+  },
+  {
+    "start": 2733.72,
+    "end": 2734.84,
+    "text": " It's so small."
+  },
+  {
+    "start": 2734.84,
+    "end": 2737.66,
+    "text": " So you have this little sort of, it's like a needle,"
+  },
+  {
+    "start": 2737.66,
+    "end": 2739.74,
+    "text": " but it says some kind of quantum effect."
+  },
+  {
+    "start": 2739.74,
+    "end": 2740.58,
+    "text": " I don't know."
+  },
+  {
+    "start": 2740.58,
+    "end": 2742.14,
+    "text": " I did study it, but I don't really understand it."
+  },
+  {
+    "start": 2742.14,
+    "end": 2744.7,
+    "text": " But I had the machine and then it was like a computer game"
+  },
+  {
+    "start": 2744.7,
+    "end": 2747.18,
+    "text": " thing and you would kind of push this one electron."
+  },
+  {
+    "start": 2747.18,
+    "end": 2748.02,
+    "text": " And the idea was I need to."
+  },
+  {
+    "start": 2748.02,
+    "end": 2749.06,
+    "text": " - Oh, they meant you to."
+  },
+  {
+    "start": 2749.06,
+    "end": 2749.9,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2749.9,
+    "end": 2750.74,
+    "text": " - It wasn't like OCD."
+  },
+  {
+    "start": 2750.74,
+    "end": 2751.74,
+    "text": " You didn't just, it's like walking in"
+  },
+  {
+    "start": 2751.74,
+    "end": 2753.18,
+    "text": " and seeing a painting slightly askew."
+  },
+  {
+    "start": 2753.18,
+    "end": 2755.42,
+    "text": " You're like, oh, I'm really uncomfortable with that."
+  },
+  {
+    "start": 2755.42,
+    "end": 2757.58,
+    "text": " - I really like Princess and the P.E. too."
+  },
+  {
+    "start": 2757.58,
+    "end": 2758.78,
+    "text": " This place is such a mess."
+  },
+  {
+    "start": 2758.78,
+    "end": 2761.02,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2762.62,
+    "end": 2765.8,
+    "text": " - But yeah, dragonflies are actually astonishing."
+  },
+  {
+    "start": 2765.8,
+    "end": 2766.64,
+    "text": " - They're incredible."
+  },
+  {
+    "start": 2766.64,
+    "end": 2767.48,
+    "text": " - They are amazing."
+  },
+  {
+    "start": 2767.48,
+    "end": 2768.84,
+    "text": " Every fact I learn about them is that you're"
+  },
+  {
+    "start": 2768.84,
+    "end": 2770.2,
+    "text": " the most metal insane."
+  },
+  {
+    "start": 2770.2,
+    "end": 2772.84,
+    "text": " They are the most efficient killers in nature."
+  },
+  {
+    "start": 2772.84,
+    "end": 2775,
+    "text": " They are the most efficient predators."
+  },
+  {
+    "start": 2775,
+    "end": 2778.52,
+    "text": " They kill over 95% of the prey that they chase,"
+  },
+  {
+    "start": 2778.52,
+    "end": 2780.36,
+    "text": " which is like, that's unbelievable."
+  },
+  {
+    "start": 2780.36,
+    "end": 2782.56,
+    "text": " We're so lucky they're so small and they don't eat us."
+  },
+  {
+    "start": 2782.56,
+    "end": 2783.4,
+    "text": " - Yeah."
+  },
+  {
+    "start": 2783.4,
+    "end": 2784.24,
+    "text": " I love you called them the most metal."
+  },
+  {
+    "start": 2784.24,
+    "end": 2785.12,
+    "text": " They've opened for Iron Maiden."
+  },
+  {
+    "start": 2785.12,
+    "end": 2787.28,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2787.28,
+    "end": 2790.6,
+    "text": " - When they're lava, so like little worm things,"
+  },
+  {
+    "start": 2790.6,
+    "end": 2792.56,
+    "text": " they kind of live underwater."
+  },
+  {
+    "start": 2792.56,
+    "end": 2794.82,
+    "text": " And then they shed the larval skin"
+  },
+  {
+    "start": 2794.82,
+    "end": 2796.98,
+    "text": " and start to become a dragonfly."
+  },
+  {
+    "start": 2796.98,
+    "end": 2799.7,
+    "text": " And they create these wings,"
+  },
+  {
+    "start": 2799.7,
+    "end": 2801.5,
+    "text": " but the wings are like made of jelly."
+  },
+  {
+    "start": 2801.5,
+    "end": 2803.96,
+    "text": " They're not like the wings that they have when they're older."
+  },
+  {
+    "start": 2803.96,
+    "end": 2805.66,
+    "text": " So they need to dry them out."
+  },
+  {
+    "start": 2805.66,
+    "end": 2810.2,
+    "text": " And so they produce sodium bicarbonate in the rectum"
+  },
+  {
+    "start": 2810.2,
+    "end": 2813.06,
+    "text": " and they fart it out and it reacts with the water"
+  },
+  {
+    "start": 2813.06,
+    "end": 2816.26,
+    "text": " and it creates CO2 and it dries out their wings,"
+  },
+  {
+    "start": 2816.26,
+    "end": 2818.66,
+    "text": " which means that they become proper wings."
+  },
+  {
+    "start": 2818.66,
+    "end": 2820.42,
+    "text": " - They are their own hairdryer."
+  },
+  {
+    "start": 2820.42,
+    "end": 2822.14,
+    "text": " - Their ass is a hairdryer."
+  },
+  {
+    "start": 2822.14,
+    "end": 2823.08,
+    "text": " - But also when they're lava,"
+  },
+  {
+    "start": 2823.08,
+    "end": 2825.68,
+    "text": " they eat through their anus as well."
+  },
+  {
+    "start": 2825.68,
+    "end": 2827.88,
+    "text": " And they also spend most of their lives as lava."
+  },
+  {
+    "start": 2827.88,
+    "end": 2830,
+    "text": " So they can, some species live up to five years,"
+  },
+  {
+    "start": 2830,
+    "end": 2831.48,
+    "text": " but they spend nearly all of it as a lava."
+  },
+  {
+    "start": 2831.48,
+    "end": 2832.32,
+    "text": " And then they become a dragonfly"
+  },
+  {
+    "start": 2832.32,
+    "end": 2834,
+    "text": " for just a couple of months and flying around."
+  },
+  {
+    "start": 2834,
+    "end": 2836,
+    "text": " - I always think it's weird with, it's not weird at all,"
+  },
+  {
+    "start": 2836,
+    "end": 2837.96,
+    "text": " but it's unfair to these animals"
+  },
+  {
+    "start": 2837.96,
+    "end": 2839.4,
+    "text": " that we think of them as dragonflies."
+  },
+  {
+    "start": 2839.4,
+    "end": 2841,
+    "text": " When actually for almost all their life,"
+  },
+  {
+    "start": 2841,
+    "end": 2842.4,
+    "text": " they're not dragonflies at all."
+  },
+  {
+    "start": 2842.4,
+    "end": 2844.12,
+    "text": " - I think they want to be thought of as dragonflies"
+  },
+  {
+    "start": 2844.12,
+    "end": 2846.28,
+    "text": " rather than these weird underwater insects."
+  },
+  {
+    "start": 2846.28,
+    "end": 2848.24,
+    "text": " A bit creepy, yeah, yeah."
+  },
+  {
+    "start": 2848.24,
+    "end": 2850.08,
+    "text": " It must be, I watched a great,"
+  },
+  {
+    "start": 2850.08,
+    "end": 2851.84,
+    "text": " I watched a couple of great documentaries actually about them."
+  },
+  {
+    "start": 2851.84,
+    "end": 2854.4,
+    "text": " One of them was talking about the extraordinary moment"
+  },
+  {
+    "start": 2854.4,
+    "end": 2857.34,
+    "text": " when they're climbing up a blade of sort of grass,"
+  },
+  {
+    "start": 2857.34,
+    "end": 2858.76,
+    "text": " which they would do when they're emerging"
+  },
+  {
+    "start": 2858.76,
+    "end": 2860.74,
+    "text": " from nymph phase into dragonfly phase,"
+  },
+  {
+    "start": 2860.74,
+    "end": 2862.5,
+    "text": " climb a blade of grass out of the water."
+  },
+  {
+    "start": 2862.5,
+    "end": 2865.32,
+    "text": " And that first time that you feel the weight of gravity"
+  },
+  {
+    "start": 2865.32,
+    "end": 2867.52,
+    "text": " on you, they've been floating in water all of their lives."
+  },
+  {
+    "start": 2867.52,
+    "end": 2870.32,
+    "text": " And suddenly they slow down massively"
+  },
+  {
+    "start": 2870.32,
+    "end": 2873.12,
+    "text": " 'cause it's suddenly having to wrench their body weight up."
+  },
+  {
+    "start": 2873.12,
+    "end": 2875.04,
+    "text": " And then if you watch videos of them emerging"
+  },
+  {
+    "start": 2875.04,
+    "end": 2877.62,
+    "text": " from the Exoskeleton, it's very cool."
+  },
+  {
+    "start": 2877.62,
+    "end": 2881.88,
+    "text": " So their abdomen as a dragonfly is concertinid,"
+  },
+  {
+    "start": 2881.88,
+    "end": 2885.54,
+    "text": " just like a telescope inside of their larval cell."
+  },
+  {
+    "start": 2885.54,
+    "end": 2886.86,
+    "text": " So when they burst out,"
+  },
+  {
+    "start": 2886.86,
+    "end": 2888.74,
+    "text": " suddenly it's like pulling a telescope out"
+  },
+  {
+    "start": 2888.74,
+    "end": 2890.6,
+    "text": " to its full extension."
+  },
+  {
+    "start": 2890.6,
+    "end": 2893.66,
+    "text": " And when they climb up, they can retreat at any point."
+  },
+  {
+    "start": 2893.66,
+    "end": 2896.78,
+    "text": " So they're not dragonfly yet until their massive googly eyes,"
+  },
+  {
+    "start": 2896.78,
+    "end": 2897.82,
+    "text": " you know, they've got this big eyes,"
+  },
+  {
+    "start": 2897.82,
+    "end": 2900.94,
+    "text": " until their eyes turn cloudy and white."
+  },
+  {
+    "start": 2900.94,
+    "end": 2902.98,
+    "text": " And then once the eyes have gone milky,"
+  },
+  {
+    "start": 2902.98,
+    "end": 2903.86,
+    "text": " there's no going back."
+  },
+  {
+    "start": 2903.86,
+    "end": 2905.06,
+    "text": " - Oh my God, that's incredible."
+  },
+  {
+    "start": 2905.06,
+    "end": 2905.9,
+    "text": " - That's awesome."
+  },
+  {
+    "start": 2905.9,
+    "end": 2906.74,
+    "text": " - That's how you can tell."
+  },
+  {
+    "start": 2906.74,
+    "end": 2908.46,
+    "text": " - Wow, did you know they can't walk?"
+  },
+  {
+    "start": 2908.46,
+    "end": 2911.02,
+    "text": " They've got six legs and they can climb with them,"
+  },
+  {
+    "start": 2911.02,
+    "end": 2912.06,
+    "text": " but they can't walk on them."
+  },
+  {
+    "start": 2912.06,
+    "end": 2915.1,
+    "text": " But they mostly use them to like grab their prey in mid air"
+  },
+  {
+    "start": 2915.1,
+    "end": 2917.1,
+    "text": " and like stab it and like."
+  },
+  {
+    "start": 2917.1,
+    "end": 2919.3,
+    "text": " - They're not called dragonwalks, Alex."
+  },
+  {
+    "start": 2919.3,
+    "end": 2921.62,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2921.62,
+    "end": 2923.42,
+    "text": " - I feel it's weird having to like as in most,"
+  },
+  {
+    "start": 2923.42,
+    "end": 2926.82,
+    "text": " most flies and insects land or can also walk on there."
+  },
+  {
+    "start": 2926.82,
+    "end": 2928.86,
+    "text": " Let them use it to like stand and walk."
+  },
+  {
+    "start": 2928.86,
+    "end": 2930.66,
+    "text": " Whereas dragonflies specifically use it to grab"
+  },
+  {
+    "start": 2930.66,
+    "end": 2932.58,
+    "text": " and hunt them more like pincers, that's great."
+  },
+  {
+    "start": 2932.58,
+    "end": 2934.98,
+    "text": " - They're so awesome that the U.S. decided to create"
+  },
+  {
+    "start": 2934.98,
+    "end": 2939.3,
+    "text": " a spying dragonfly drone, which was based on"
+  },
+  {
+    "start": 2939.3,
+    "end": 2941.38,
+    "text": " all these amazing things that dragonflies could do."
+  },
+  {
+    "start": 2941.38,
+    "end": 2944.42,
+    "text": " So it had tiny beads that could reflect light"
+  },
+  {
+    "start": 2944.42,
+    "end": 2946.02,
+    "text": " and could check for oscillations."
+  },
+  {
+    "start": 2946.02,
+    "end": 2947.74,
+    "text": " So you could work out what someone was saying"
+  },
+  {
+    "start": 2947.74,
+    "end": 2949.1,
+    "text": " from a massive distance away."
+  },
+  {
+    "start": 2949.1,
+    "end": 2952.22,
+    "text": " It could flap its wings 1800 times per minute"
+  },
+  {
+    "start": 2952.22,
+    "end": 2956.46,
+    "text": " using the lithium nitrate crystals controlled by lasers."
+  },
+  {
+    "start": 2956.46,
+    "end": 2959.54,
+    "text": " It costs about $2 million for each ones,"
+  },
+  {
+    "start": 2959.54,
+    "end": 2961.98,
+    "text": " but they only ever tested it in lab conditions."
+  },
+  {
+    "start": 2961.98,
+    "end": 2963.18,
+    "text": " And then when they took it out,"
+  },
+  {
+    "start": 2963.18,
+    "end": 2964.98,
+    "text": " they realized it couldn't cope with wind."
+  },
+  {
+    "start": 2964.98,
+    "end": 2967.1,
+    "text": " (laughing)"
+  },
+  {
+    "start": 2967.1,
+    "end": 2969.9,
+    "text": " - I found a documentary by David Attenborough,"
+  },
+  {
+    "start": 2969.9,
+    "end": 2971.98,
+    "text": " which was called \"Dragons and Damsels\"."
+  },
+  {
+    "start": 2971.98,
+    "end": 2973.94,
+    "text": " He made it in 2019, it was a TV special."
+  },
+  {
+    "start": 2973.94,
+    "end": 2975.94,
+    "text": " And I really wanted to watch it."
+  },
+  {
+    "start": 2975.94,
+    "end": 2977.78,
+    "text": " And so I was Googling \"Dragons and Damsels\""
+  },
+  {
+    "start": 2977.78,
+    "end": 2979.7,
+    "text": " to see where you could get it."
+  },
+  {
+    "start": 2979.7,
+    "end": 2982.14,
+    "text": " Sadly, the closest I could get was a documentary"
+  },
+  {
+    "start": 2982.14,
+    "end": 2986.14,
+    "text": " of similar length, about 45 minutes called \"Dragons and Damsels\","
+  },
+  {
+    "start": 2986.14,
+    "end": 2989.34,
+    "text": " released on YouTube by Buxton Civic Associations"
+  },
+  {
+    "start": 2989.34,
+    "end": 2991.94,
+    "text": " during the pandemic and hosted by a chap called"
+  },
+  {
+    "start": 2991.94,
+    "end": 2996.42,
+    "text": " Richard Nisley Marple, which was really good as well."
+  },
+  {
+    "start": 2996.42,
+    "end": 2998.26,
+    "text": " And so I'm gonna tell you some things I've learned"
+  },
+  {
+    "start": 2998.26,
+    "end": 2999.98,
+    "text": " from \"Dragons and Damsels\"."
+  },
+  {
+    "start": 2999.98,
+    "end": 3002.66,
+    "text": " The production quality's slightly lower."
+  },
+  {
+    "start": 3002.66,
+    "end": 3004.06,
+    "text": " There were interruptions like,"
+  },
+  {
+    "start": 3004.06,
+    "end": 3006.46,
+    "text": " \"Can you see my cursor as I'm moving it out there?\""
+  },
+  {
+    "start": 3006.46,
+    "end": 3008.66,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3008.66,
+    "end": 3010.46,
+    "text": " And sort of, \"Can everyone see me on the screen?\""
+  },
+  {
+    "start": 3010.46,
+    "end": 3012.54,
+    "text": " or \"Can you see the thing I'm showing you?\""
+  },
+  {
+    "start": 3012.54,
+    "end": 3013.38,
+    "text": " But..."
+  },
+  {
+    "start": 3013.38,
+    "end": 3014.22,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3014.22,
+    "end": 3015.3,
+    "text": " - I'm never gonna, Attenborough doing that"
+  },
+  {
+    "start": 3015.3,
+    "end": 3016.62,
+    "text": " or flying him out to the art, because they're like,"
+  },
+  {
+    "start": 3016.62,
+    "end": 3017.78,
+    "text": " \"Why can't I see them?\""
+  },
+  {
+    "start": 3017.78,
+    "end": 3019.86,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3019.86,
+    "end": 3021.1,
+    "text": " - But I would love to see Attenborough"
+  },
+  {
+    "start": 3021.1,
+    "end": 3023.66,
+    "text": " doing a new narration over this documentary."
+  },
+  {
+    "start": 3023.66,
+    "end": 3026.18,
+    "text": " \"Here we see the human attempt, the cursor.\""
+  },
+  {
+    "start": 3026.18,
+    "end": 3028.86,
+    "text": " - Yes, the thumbnails have confused"
+  },
+  {
+    "start": 3028.86,
+    "end": 3030.98,
+    "text": " the good Jesus out of him."
+  },
+  {
+    "start": 3030.98,
+    "end": 3031.82,
+    "text": " - Was it good though?"
+  },
+  {
+    "start": 3031.82,
+    "end": 3032.66,
+    "text": " - It was really good."
+  },
+  {
+    "start": 3032.66,
+    "end": 3034.66,
+    "text": " So he said, \"Sweetly,\" he said,"
+  },
+  {
+    "start": 3034.66,
+    "end": 3037.22,
+    "text": " \"The Southern Hawker dragonfly."
+  },
+  {
+    "start": 3037.22,
+    "end": 3039.26,
+    "text": " \"They're the only dragonflies that will fly up to you"
+  },
+  {
+    "start": 3039.26,
+    "end": 3041.02,
+    "text": " \"and look you straight in the eye.\""
+  },
+  {
+    "start": 3041.02,
+    "end": 3041.86,
+    "text": " - That's scary."
+  },
+  {
+    "start": 3041.86,
+    "end": 3044.06,
+    "text": " - He said, \"It's quite frightening.\""
+  },
+  {
+    "start": 3044.06,
+    "end": 3046.42,
+    "text": " - Sounds like a U.S. drug, doesn't it really?"
+  },
+  {
+    "start": 3046.42,
+    "end": 3047.86,
+    "text": " - Maybe that's what they are."
+  },
+  {
+    "start": 3047.86,
+    "end": 3049.3,
+    "text": " They always have been."
+  },
+  {
+    "start": 3049.3,
+    "end": 3050.5,
+    "text": " He said, \"The way to tell the difference"
+  },
+  {
+    "start": 3050.5,
+    "end": 3052.22,
+    "text": " \"between damselflies and dragonflies,\""
+  },
+  {
+    "start": 3052.22,
+    "end": 3053.14,
+    "text": " where there are many ways,"
+  },
+  {
+    "start": 3053.14,
+    "end": 3055.22,
+    "text": " but one of them is, and you have to look quite closely,"
+  },
+  {
+    "start": 3055.22,
+    "end": 3058.22,
+    "text": " but during mating, they both grab the female from behind,"
+  },
+  {
+    "start": 3058.22,
+    "end": 3062.78,
+    "text": " but dragonflies grab the female on the back of the head,"
+  },
+  {
+    "start": 3062.78,
+    "end": 3065.86,
+    "text": " whereas damsels grab the female on the back of the neck."
+  },
+  {
+    "start": 3065.86,
+    "end": 3067.62,
+    "text": " So you do have to be quite close."
+  },
+  {
+    "start": 3067.62,
+    "end": 3070.34,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3070.34,
+    "end": 3072.3,
+    "text": " And also I really enjoyed a metaphor he used,"
+  },
+  {
+    "start": 3072.3,
+    "end": 3074.54,
+    "text": " which actually referenced a fact that we mentioned before,"
+  },
+  {
+    "start": 3074.54,
+    "end": 3077.02,
+    "text": " which is that ancient dragonflies millions of years ago"
+  },
+  {
+    "start": 3077.02,
+    "end": 3079.14,
+    "text": " were up to a meter wide."
+  },
+  {
+    "start": 3079.14,
+    "end": 3081.1,
+    "text": " And as he said, you can imagine what sort of a mess"
+  },
+  {
+    "start": 3081.1,
+    "end": 3082.86,
+    "text": " that would make if it hit your windscreen."
+  },
+  {
+    "start": 3082.86,
+    "end": 3084.5,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3084.5,
+    "end": 3086.54,
+    "text": " I actually laughed out loud at that."
+  },
+  {
+    "start": 3086.54,
+    "end": 3088.3,
+    "text": " And I've never laughed out loud at David Attenborough."
+  },
+  {
+    "start": 3088.3,
+    "end": 3090.34,
+    "text": " - Or any of our jokes on this podcast yet."
+  },
+  {
+    "start": 3090.34,
+    "end": 3091.62,
+    "text": " - She knows jokes."
+  },
+  {
+    "start": 3091.62,
+    "end": 3092.46,
+    "text": " - She does."
+  },
+  {
+    "start": 3092.46,
+    "end": 3093.78,
+    "text": " - Anyone knows jokes."
+  },
+  {
+    "start": 3093.78,
+    "end": 3095.46,
+    "text": " - But the female dragonflies also,"
+  },
+  {
+    "start": 3095.46,
+    "end": 3097.78,
+    "text": " they fake their deaths to avoid having sex sometimes."
+  },
+  {
+    "start": 3097.78,
+    "end": 3098.62,
+    "text": " - Yes."
+  },
+  {
+    "start": 3098.62,
+    "end": 3099.94,
+    "text": " - Oh, they do do that, don't they?"
+  },
+  {
+    "start": 3099.94,
+    "end": 3101.14,
+    "text": " - And the other thing I know about dragonflies' sex"
+  },
+  {
+    "start": 3101.14,
+    "end": 3103.58,
+    "text": " is that the males have spoon-shaped penises"
+  },
+  {
+    "start": 3103.58,
+    "end": 3106.06,
+    "text": " so that they can scoop out sperm of the previous guy"
+  },
+  {
+    "start": 3106.06,
+    "end": 3107.1,
+    "text": " if he finds any inside."
+  },
+  {
+    "start": 3107.1,
+    "end": 3109.26,
+    "text": " - Ah, that is clever."
+  },
+  {
+    "start": 3109.26,
+    "end": 3111.06,
+    "text": " Bit gross, but yeah."
+  },
+  {
+    "start": 3111.06,
+    "end": 3112.7,
+    "text": " Well, no, but necessary, right?"
+  },
+  {
+    "start": 3112.7,
+    "end": 3113.86,
+    "text": " - Well, yeah, I suppose so."
+  },
+  {
+    "start": 3113.86,
+    "end": 3115.5,
+    "text": " - Arguably humans have that as well."
+  },
+  {
+    "start": 3115.5,
+    "end": 3116.34,
+    "text": " - Really, yeah."
+  },
+  {
+    "start": 3116.34,
+    "end": 3117.18,
+    "text": " - What?"
+  },
+  {
+    "start": 3117.18,
+    "end": 3119.86,
+    "text": " The idea is that the bell-end shape at the top of a penis"
+  },
+  {
+    "start": 3119.86,
+    "end": 3123.9,
+    "text": " could possibly be used to scrape out other people's semen."
+  },
+  {
+    "start": 3123.9,
+    "end": 3127.22,
+    "text": " - Yeah, or just get a half-cut tennis ball"
+  },
+  {
+    "start": 3127.22,
+    "end": 3130.82,
+    "text": " and you can plunge that out."
+  },
+  {
+    "start": 3130.82,
+    "end": 3134.3,
+    "text": " - I'm actually starting to question your fact now, Alex,"
+  },
+  {
+    "start": 3134.3,
+    "end": 3136.18,
+    "text": " having just looked at my notes,"
+  },
+  {
+    "start": 3136.18,
+    "end": 3139.78,
+    "text": " 'cause Anna previously gave us a fake fact from A Stone."
+  },
+  {
+    "start": 3139.78,
+    "end": 3142.3,
+    "text": " And your fact about an insect"
+  },
+  {
+    "start": 3142.3,
+    "end": 3144.38,
+    "text": " comes from someone called a wolf."
+  },
+  {
+    "start": 3144.38,
+    "end": 3145.22,
+    "text": " - Really?"
+  },
+  {
+    "start": 3145.22,
+    "end": 3146.54,
+    "text": " - Yeah."
+  },
+  {
+    "start": 3146.54,
+    "end": 3149.78,
+    "text": " It's Dr. Annalena Wolf."
+  },
+  {
+    "start": 3149.78,
+    "end": 3151.66,
+    "text": " She does make this, there's this amazing point"
+  },
+  {
+    "start": 3151.66,
+    "end": 3152.98,
+    "text": " that's made inside this article,"
+  },
+  {
+    "start": 3152.98,
+    "end": 3154.18,
+    "text": " which you touched on earlier,"
+  },
+  {
+    "start": 3154.18,
+    "end": 3156.98,
+    "text": " which is basically all the things that we're looking for"
+  },
+  {
+    "start": 3156.98,
+    "end": 3159.26,
+    "text": " for modern invention,"
+  },
+  {
+    "start": 3159.26,
+    "end": 3162.06,
+    "text": " evolution has worked out somewhere on our planet."
+  },
+  {
+    "start": 3162.06,
+    "end": 3163.38,
+    "text": " We just need to look around"
+  },
+  {
+    "start": 3163.38,
+    "end": 3166.26,
+    "text": " for a four billion years worth of evolution"
+  },
+  {
+    "start": 3166.26,
+    "end": 3167.94,
+    "text": " and you eventually find something"
+  },
+  {
+    "start": 3167.94,
+    "end": 3171.1,
+    "text": " that can be then taken into the lab to try and mimic,"
+  },
+  {
+    "start": 3171.1,
+    "end": 3172.58,
+    "text": " which is pretty awesome."
+  },
+  {
+    "start": 3172.58,
+    "end": 3174.26,
+    "text": " - It's the mimicking that's hard, I think, sometimes."
+  },
+  {
+    "start": 3174.26,
+    "end": 3177.02,
+    "text": " We actually don't have four billion years to make it."
+  },
+  {
+    "start": 3177.02,
+    "end": 3179.18,
+    "text": " We've got about a week before the funding dries up."
+  },
+  {
+    "start": 3179.18,
+    "end": 3180.02,
+    "text": " - Yeah."
+  },
+  {
+    "start": 3180.02,
+    "end": 3180.86,
+    "text": " (laughing)"
+  },
+  {
+    "start": 3180.86,
+    "end": 3183.46,
+    "text": " But they've been around 300 million years."
+  },
+  {
+    "start": 3183.46,
+    "end": 3185.5,
+    "text": " Dinosaurs were walking the planet."
+  },
+  {
+    "start": 3185.5,
+    "end": 3187.1,
+    "text": " I mean, that's always, 'cause in my head,"
+  },
+  {
+    "start": 3187.1,
+    "end": 3188.86,
+    "text": " the romanticism of the dinosaurs"
+  },
+  {
+    "start": 3188.86,
+    "end": 3190.62,
+    "text": " being just because of how old they were in alive,"
+  },
+  {
+    "start": 3190.62,
+    "end": 3191.9,
+    "text": " and we forget all these animals."
+  },
+  {
+    "start": 3191.9,
+    "end": 3192.86,
+    "text": " Dragonflies were there."
+  },
+  {
+    "start": 3192.86,
+    "end": 3193.98,
+    "text": " - Sure, a different version."
+  },
+  {
+    "start": 3193.98,
+    "end": 3196.7,
+    "text": " - In fairness to people who make cartoons"
+  },
+  {
+    "start": 3196.7,
+    "end": 3198.06,
+    "text": " and dinosaur movies,"
+  },
+  {
+    "start": 3198.06,
+    "end": 3200.26,
+    "text": " they do often have dragonflies flying around."
+  },
+  {
+    "start": 3200.26,
+    "end": 3201.1,
+    "text": " - They do, they do, that's true."
+  },
+  {
+    "start": 3201.1,
+    "end": 3201.94,
+    "text": " - They do, that's true."
+  },
+  {
+    "start": 3201.94,
+    "end": 3203.06,
+    "text": " - Dragonflies, yeah, that's so true."
+  },
+  {
+    "start": 3203.06,
+    "end": 3203.9,
+    "text": " - That is true."
+  },
+  {
+    "start": 3203.9,
+    "end": 3204.74,
+    "text": " - Yeah."
+  },
+  {
+    "start": 3204.74,
+    "end": 3205.86,
+    "text": " - One other incredible thing about them"
+  },
+  {
+    "start": 3205.86,
+    "end": 3208.82,
+    "text": " you wouldn't expect is how far they can fly,"
+  },
+  {
+    "start": 3208.82,
+    "end": 3211.1,
+    "text": " and that's another thing that scientists are looking into."
+  },
+  {
+    "start": 3211.1,
+    "end": 3212.5,
+    "text": " Can we replicate it?"
+  },
+  {
+    "start": 3212.5,
+    "end": 3214.22,
+    "text": " 'Cause the globe skimmer dragonfly"
+  },
+  {
+    "start": 3214.22,
+    "end": 3217.06,
+    "text": " has the record for the longest insect migration,"
+  },
+  {
+    "start": 3217.06,
+    "end": 3220.9,
+    "text": " and it does a round trip of 18,000 kilometers."
+  },
+  {
+    "start": 3220.9,
+    "end": 3221.74,
+    "text": " - That is insane."
+  },
+  {
+    "start": 3221.74,
+    "end": 3223.82,
+    "text": " It's always one of these things where I think,"
+  },
+  {
+    "start": 3223.82,
+    "end": 3226.46,
+    "text": " does it count if it's multi-generational?"
+  },
+  {
+    "start": 3226.46,
+    "end": 3228.7,
+    "text": " - Yeah, absolutely not, yeah."
+  },
+  {
+    "start": 3228.7,
+    "end": 3230.86,
+    "text": " - 'Cause it is one of these things where the dragonfly,"
+  },
+  {
+    "start": 3230.86,
+    "end": 3232.86,
+    "text": " this particular dragonfly lays its eggs"
+  },
+  {
+    "start": 3232.86,
+    "end": 3234.54,
+    "text": " and lives and mates in shallow pools,"
+  },
+  {
+    "start": 3234.54,
+    "end": 3236.58,
+    "text": " 'cause the pools are warmer if they're shallow,"
+  },
+  {
+    "start": 3236.58,
+    "end": 3237.98,
+    "text": " and so it can grow faster."
+  },
+  {
+    "start": 3237.98,
+    "end": 3240.5,
+    "text": " So it follows the rain, so it can follow shallow pools,"
+  },
+  {
+    "start": 3240.5,
+    "end": 3243.06,
+    "text": " so it flies from India to Africa,"
+  },
+  {
+    "start": 3243.06,
+    "end": 3246.26,
+    "text": " and then the next generation flies back."
+  },
+  {
+    "start": 3246.26,
+    "end": 3247.86,
+    "text": " - If I went on a gap here and then like,"
+  },
+  {
+    "start": 3247.86,
+    "end": 3249.7,
+    "text": " I came back and it was my son,"
+  },
+  {
+    "start": 3249.7,
+    "end": 3252.42,
+    "text": " like you wouldn't be like, \"How is Africa?\""
+  },
+  {
+    "start": 3252.42,
+    "end": 3254.54,
+    "text": " Like, \"What was your dad?\""
+  },
+  {
+    "start": 3254.54,
+    "end": 3256.66,
+    "text": " - Alex is so well-traveled."
+  },
+  {
+    "start": 3256.66,
+    "end": 3258.54,
+    "text": " Alex and Alex Jr. together."
+  },
+  {
+    "start": 3258.54,
+    "end": 3261.12,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3261.12,
+    "end": 3265.78,
+    "text": " - Okay, that is it."
+  },
+  {
+    "start": 3265.78,
+    "end": 3266.86,
+    "text": " That is all of our facts."
+  },
+  {
+    "start": 3266.86,
+    "end": 3268.22,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3268.22,
+    "end": 3270.5,
+    "text": " If you'd like to get in contact with any of us"
+  },
+  {
+    "start": 3270.5,
+    "end": 3271.62,
+    "text": " about the things that we have said"
+  },
+  {
+    "start": 3271.62,
+    "end": 3273.06,
+    "text": " over the course of this podcast,"
+  },
+  {
+    "start": 3273.06,
+    "end": 3275.82,
+    "text": " we can be found at various places on the internet."
+  },
+  {
+    "start": 3275.82,
+    "end": 3278.98,
+    "text": " I'm on Instagram, on @Shriberland, James."
+  },
+  {
+    "start": 3278.98,
+    "end": 3281.42,
+    "text": " And my Instagram is @NoSuchThingAsJamesHarkin."
+  },
+  {
+    "start": 3281.42,
+    "end": 3283.94,
+    "text": " - Alex, I don't have any socials at the moment."
+  },
+  {
+    "start": 3283.94,
+    "end": 3284.78,
+    "text": " - Yeah?"
+  },
+  {
+    "start": 3284.78,
+    "end": 3286.46,
+    "text": " - Ooh, look at me."
+  },
+  {
+    "start": 3286.46,
+    "end": 3287.54,
+    "text": " - Copycat."
+  },
+  {
+    "start": 3287.54,
+    "end": 3288.38,
+    "text": " - Live my life."
+  },
+  {
+    "start": 3288.38,
+    "end": 3290.9,
+    "text": " - And Anna, how can they get in touch with all of us?"
+  },
+  {
+    "start": 3290.9,
+    "end": 3292.54,
+    "text": " - And you can get in touch with all of us"
+  },
+  {
+    "start": 3292.54,
+    "end": 3294.54,
+    "text": " by emailing podcast@QI.com"
+  },
+  {
+    "start": 3294.54,
+    "end": 3296.66,
+    "text": " or by tweeting @NoSuchThing."
+  },
+  {
+    "start": 3296.66,
+    "end": 3298.82,
+    "text": " - That's right, or you can go to our website,"
+  },
+  {
+    "start": 3298.82,
+    "end": 3300.3,
+    "text": " NoSuchThingAsafish.com."
+  },
+  {
+    "start": 3300.3,
+    "end": 3302.46,
+    "text": " All of the previous episodes are up there."
+  },
+  {
+    "start": 3302.46,
+    "end": 3304.14,
+    "text": " Do check them out."
+  },
+  {
+    "start": 3304.14,
+    "end": 3305.54,
+    "text": " Also check out Club Fish,"
+  },
+  {
+    "start": 3305.54,
+    "end": 3308.38,
+    "text": " which is our behind-the-scenes special fun place"
+  },
+  {
+    "start": 3308.38,
+    "end": 3310.3,
+    "text": " where we have lots of bonus material,"
+  },
+  {
+    "start": 3310.3,
+    "end": 3312.62,
+    "text": " little fun extra shows like Drop Us Aligns,"
+  },
+  {
+    "start": 3312.62,
+    "end": 3314.18,
+    "text": " lots of great stuff there."
+  },
+  {
+    "start": 3314.18,
+    "end": 3316.34,
+    "text": " But otherwise, just come back next week for another episode"
+  },
+  {
+    "start": 3316.34,
+    "end": 3317.54,
+    "text": " and we'll see you then."
+  },
+  {
+    "start": 3317.54,
+    "end": 3318.38,
+    "text": " Goodbye."
+  },
+  {
+    "start": 3318.38,
+    "end": 3320.96,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3320.96,
+    "end": 3323.54,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3323.54,
+    "end": 3326.12,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3326.12,
+    "end": 3328.7,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3328.7,
+    "end": 3338.7,
+    "text": " [BLANK_AUDIO]"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of quirky and historical facts, including a mishap involving chloroform at the 1930 World Cup, a group of astronomers who chase solar eclipses around the world, an early 20th-century music streaming service using telephones, and the use of sound devices by Australian Aboriginal people to attract emus.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the 1930 World Cup semi-final between the USA and Argentina, the American medic accidentally chloroformed himself and had to be carried off.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:16"
+    },
+    {
+      "fact_number": 2,
+      "fact": "There's a group of astronomers called Solar Wind Sherpas who drag their equipment around the world to watch every single solar eclipse.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:18:29"
+    },
+    {
+      "fact_number": 3,
+      "fact": "In 1906, there was a music streaming service which involved just two people playing keyboards down the telephone.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:32:22"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Australian Aboriginal people sometimes built objects specifically to arouse the curiosity of emus.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:44:32"
+    }
+  ]
+}

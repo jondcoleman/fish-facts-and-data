@@ -1,0 +1,7202 @@
+[
+  {
+    "start": 0,
+    "end": 1.6,
+    "text": " [Music]"
+  },
+  {
+    "start": 1.6,
+    "end": 5.4,
+    "text": " Hi everyone, welcome to this week's episode of No Such Thing as a Fish."
+  },
+  {
+    "start": 5.4,
+    "end": 8.6,
+    "text": " Daniel Shriver is away this week."
+  },
+  {
+    "start": 8.6,
+    "end": 12.4,
+    "text": " I thought it was because his wife was having a baby,"
+  },
+  {
+    "start": 12.4,
+    "end": 14.4,
+    "text": " but he's just sent an email saying,"
+  },
+  {
+    "start": 14.4,
+    "end": 18.9,
+    "text": " \"Tell them it's something to do with, by brand new book, The Theory of Everything Else,"
+  },
+  {
+    "start": 18.9,
+    "end": 20.7,
+    "text": " available in all good bookshops.\""
+  },
+  {
+    "start": 20.7,
+    "end": 23.4,
+    "text": " And I'm like, well, look, whatever reason he's away,"
+  },
+  {
+    "start": 23.4,
+    "end": 26.1,
+    "text": " we have a very exciting guest that is in his stead,"
+  },
+  {
+    "start": 26.1,
+    "end": 30.2,
+    "text": " and that is the wonderful comedian Angela Barnes."
+  },
+  {
+    "start": 30.2,
+    "end": 35.2,
+    "text": " You will have seen her on your televisions most notably on the TV show Mock the Week,"
+  },
+  {
+    "start": 35.2,
+    "end": 36.7,
+    "text": " but she does all sorts of other stuff."
+  },
+  {
+    "start": 36.7,
+    "end": 39.7,
+    "text": " I appeared on her radio show a couple of years ago"
+  },
+  {
+    "start": 39.7,
+    "end": 43.2,
+    "text": " and immediately knew that she would be perfect for fish."
+  },
+  {
+    "start": 43.2,
+    "end": 46.4,
+    "text": " She is the most inquisitive, interested person."
+  },
+  {
+    "start": 46.4,
+    "end": 48.3,
+    "text": " You're going to absolutely love her."
+  },
+  {
+    "start": 48.3,
+    "end": 53.7,
+    "text": " And once you've heard the show, you are going to want to go and see her live in her upcoming tour,"
+  },
+  {
+    "start": 53.7,
+    "end": 59.4,
+    "text": " called Hot Mess, and tickets for that are currently available on her website,"
+  },
+  {
+    "start": 59.4,
+    "end": 63.3,
+    "text": " which is angelabarnescomedy.co.uk."
+  },
+  {
+    "start": 63.3,
+    "end": 67.7,
+    "text": " If you can't wait to see her live, then why not go and check out her podcast."
+  },
+  {
+    "start": 67.7,
+    "end": 73,
+    "text": " It is called We Are History Podcast, which she does with John O'Farrell,"
+  },
+  {
+    "start": 73,
+    "end": 74.7,
+    "text": " and it is all about history."
+  },
+  {
+    "start": 74.7,
+    "end": 76.4,
+    "text": " It's really funny. It's really great."
+  },
+  {
+    "start": 76.4,
+    "end": 77.3,
+    "text": " You've got to go and listen."
+  },
+  {
+    "start": 77.3,
+    "end": 80.4,
+    "text": " It's available wherever you get your podcasts."
+  },
+  {
+    "start": 80.4,
+    "end": 82.9,
+    "text": " Anyway, Dan will be back next week."
+  },
+  {
+    "start": 82.9,
+    "end": 85.4,
+    "text": " But in the meantime, on with the podcast."
+  },
+  {
+    "start": 85.4,
+    "end": 105.8,
+    "text": " Hello and welcome to another episode of No Such Thing as a Fish,"
+  },
+  {
+    "start": 105.8,
+    "end": 110.6,
+    "text": " a weekly podcast coming to you from the QI offices in Covent Garden."
+  },
+  {
+    "start": 110.6,
+    "end": 116,
+    "text": " My name is Anna Tyshinski, and I am joined today by Andrew Hunter-Murray,"
+  },
+  {
+    "start": 116,
+    "end": 121.4,
+    "text": " James Hawkin, and our very special guest, Dan Schreiber Replacement,"
+  },
+  {
+    "start": 121.4,
+    "end": 124,
+    "text": " a hopefully permanent Angela Barnes."
+  },
+  {
+    "start": 124,
+    "end": 124.7,
+    "text": " Hello."
+  },
+  {
+    "start": 124.7,
+    "end": 126.1,
+    "text": " Hello."
+  },
+  {
+    "start": 126.1,
+    "end": 130.5,
+    "text": " Okay, once again, we've gathered around the microphone with our four favorite facts from the last seven days,"
+  },
+  {
+    "start": 130.5,
+    "end": 135.4,
+    "text": " and in no particular order, here we go, starting with you, Angela."
+  },
+  {
+    "start": 135.4,
+    "end": 137.2,
+    "text": " Okay, so I've always wanted to say this."
+  },
+  {
+    "start": 137.2,
+    "end": 143.7,
+    "text": " My fact this week is that in communist East Germany in the 1950s,"
+  },
+  {
+    "start": 143.7,
+    "end": 150,
+    "text": " the state came up with a sanctioned dance for their teenagers to do."
+  },
+  {
+    "start": 150,
+    "end": 152.9,
+    "text": " They were a bit worried about the influence of rock and roll from the West."
+  },
+  {
+    "start": 152.9,
+    "end": 156.2,
+    "text": " Elvis Presley was doing his military service in West Germany."
+  },
+  {
+    "start": 156.2,
+    "end": 160,
+    "text": " So they were picking up all the Elvis on their radios and their TVs."
+  },
+  {
+    "start": 160,
+    "end": 162.3,
+    "text": " Elvis sang while he was doing his service to me."
+  },
+  {
+    "start": 162.3,
+    "end": 164.3,
+    "text": " Really loudly over the wall."
+  },
+  {
+    "start": 164.3,
+    "end": 169.3,
+    "text": " And so they were all the youngsters, they were worried about their hip-fusting movements."
+  },
+  {
+    "start": 169.3,
+    "end": 175.3,
+    "text": " And the state felt that dancing on your own was subversive, that you should dance in a couple."
+  },
+  {
+    "start": 175.3,
+    "end": 176,
+    "text": " Yeah."
+  },
+  {
+    "start": 176,
+    "end": 180.1,
+    "text": " But when you did dance in a couple, you shouldn't be gyrating like Elvis."
+  },
+  {
+    "start": 180.1,
+    "end": 180.7,
+    "text": " Fair enough."
+  },
+  {
+    "start": 180.7,
+    "end": 183.4,
+    "text": " And what I know about teenagers is not very much."
+  },
+  {
+    "start": 183.4,
+    "end": 184.1,
+    "text": " Right."
+  },
+  {
+    "start": 184.1,
+    "end": 188.1,
+    "text": " Probably that they wouldn't necessarily do what the government told them are."
+  },
+  {
+    "start": 188.1,
+    "end": 189.4,
+    "text": " Well, no."
+  },
+  {
+    "start": 189.4,
+    "end": 192.5,
+    "text": " But it was the dance in question, the lipsy dance."
+  },
+  {
+    "start": 192.5,
+    "end": 193.3,
+    "text": " The lipsy."
+  },
+  {
+    "start": 193.3,
+    "end": 196.1,
+    "text": " It would have to be unbelievably good for teenagers to want to do it."
+  },
+  {
+    "start": 196.1,
+    "end": 197.4,
+    "text": " It'd have to be Agadou."
+  },
+  {
+    "start": 197.4,
+    "end": 199.8,
+    "text": " Was it Agadou?"
+  },
+  {
+    "start": 199.8,
+    "end": 201.1,
+    "text": " And was it Agadou?"
+  },
+  {
+    "start": 201.1,
+    "end": 203.2,
+    "text": " It definitely wasn't Agadou."
+  },
+  {
+    "start": 203.2,
+    "end": 205.6,
+    "text": " What was it? Was it good? I haven't seen this dance."
+  },
+  {
+    "start": 205.6,
+    "end": 211.8,
+    "text": " So it was two choreographers came up with the dance, Krista and Helmut Seifert."
+  },
+  {
+    "start": 211.8,
+    "end": 217.7,
+    "text": " And they came up the steps and it was an East German composer called René Dubianski who came up with the music."
+  },
+  {
+    "start": 217.7,
+    "end": 220,
+    "text": " And it was basically it was a fast waltz."
+  },
+  {
+    "start": 220,
+    "end": 225.8,
+    "text": " So he merged two waltz beats into a six-four beat because there's nothing that teenagers like more than waltz."
+  },
+  {
+    "start": 225.8,
+    "end": 226.8,
+    "text": " A double waltz."
+  },
+  {
+    "start": 226.8,
+    "end": 232.4,
+    "text": " And the idea was that they would dance together, but their hips wouldn't wiggle."
+  },
+  {
+    "start": 232.4,
+    "end": 239.2,
+    "text": " So there's footage of it on YouTube and it just at first it looks like a normal sort of Latin-y kind of dance."
+  },
+  {
+    "start": 239.2,
+    "end": 241.7,
+    "text": " And then you realize that their hips don't move."
+  },
+  {
+    "start": 241.7,
+    "end": 242.3,
+    "text": " Weird."
+  },
+  {
+    "start": 242.3,
+    "end": 243.5,
+    "text": " And it just looks old."
+  },
+  {
+    "start": 243.5,
+    "end": 247.6,
+    "text": " It feels like a reverse Irish dance kind of."
+  },
+  {
+    "start": 247.6,
+    "end": 248.3,
+    "text": " Is that not right?"
+  },
+  {
+    "start": 248.3,
+    "end": 251.7,
+    "text": " Is Irish dancing just hips moving but the rest of the world?"
+  },
+  {
+    "start": 251.7,
+    "end": 254.2,
+    "text": " It's just like the bottom half moving."
+  },
+  {
+    "start": 254.2,
+    "end": 255.6,
+    "text": " Yeah, I suppose it is."
+  },
+  {
+    "start": 255.6,
+    "end": 256.4,
+    "text": " No, it's not like that."
+  },
+  {
+    "start": 256.4,
+    "end": 259.8,
+    "text": " Even Irish dance doesn't move your hips around much."
+  },
+  {
+    "start": 259.8,
+    "end": 262.7,
+    "text": " I've taken Irish dancing classes in my time."
+  },
+  {
+    "start": 262.7,
+    "end": 264.1,
+    "text": " Yeah, I can really picture that."
+  },
+  {
+    "start": 264.1,
+    "end": 264.6,
+    "text": " Can you?"
+  },
+  {
+    "start": 264.6,
+    "end": 268.1,
+    "text": " It's a Michael flatly about you."
+  },
+  {
+    "start": 268.1,
+    "end": 271.4,
+    "text": " Yeah, as a boy I learned some river dance."
+  },
+  {
+    "start": 271.4,
+    "end": 276.3,
+    "text": " Actually, what we never noticed because we always record around the table is that you're always river dancing."
+  },
+  {
+    "start": 276.3,
+    "end": 276.9,
+    "text": " Yep."
+  },
+  {
+    "start": 276.9,
+    "end": 280.2,
+    "text": " I wonder why I kept getting bruised shins."
+  },
+  {
+    "start": 280.2,
+    "end": 284.8,
+    "text": " The effort in the edit to remove the constant clackity-clack of me dancing away."
+  },
+  {
+    "start": 284.8,
+    "end": 291.1,
+    "text": " I actually had a doctor say to me once, so I have something called periodic limb movement disorder which means in my sleep my legs flail."
+  },
+  {
+    "start": 291.1,
+    "end": 291.9,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 291.9,
+    "end": 296.5,
+    "text": " And I did a sleep study once at Guy's Hospital and in the official report he said two things."
+  },
+  {
+    "start": 296.5,
+    "end": 301.5,
+    "text": " One was that my snoring was and I quote heroic, which I was very proud of."
+  },
+  {
+    "start": 301.5,
+    "end": 305.1,
+    "text": " And the other was that like watching me sleep was like watching horizontal river dance."
+  },
+  {
+    "start": 305.1,
+    "end": 306.9,
+    "text": " That's in my official."
+  },
+  {
+    "start": 306.9,
+    "end": 308.9,
+    "text": " They really sound like compliments, both of those things."
+  },
+  {
+    "start": 308.9,
+    "end": 309.3,
+    "text": " I know, right?"
+  },
+  {
+    "start": 309.3,
+    "end": 310.3,
+    "text": " That's pretty thoughtful."
+  },
+  {
+    "start": 310.3,
+    "end": 311.8,
+    "text": " I was such a lucky man."
+  },
+  {
+    "start": 311.8,
+    "end": 315.9,
+    "text": " Do you have to sort of have a mini sleeping bag for your legs alone or?"
+  },
+  {
+    "start": 315.9,
+    "end": 317.3,
+    "text": " Well, I don't think it can take."
+  },
+  {
+    "start": 317.3,
+    "end": 320.2,
+    "text": " So whenever I have slept in a sleeping bag, I've woken up with it on the floor."
+  },
+  {
+    "start": 320.2,
+    "end": 320.9,
+    "text": " You can't be contained."
+  },
+  {
+    "start": 320.9,
+    "end": 322.2,
+    "text": " So I just can't be contained."
+  },
+  {
+    "start": 322.2,
+    "end": 322.9,
+    "text": " The energy."
+  },
+  {
+    "start": 322.9,
+    "end": 327.3,
+    "text": " If I could wire it up to the national grid in this energy crisis, we'd be all right."
+  },
+  {
+    "start": 327.3,
+    "end": 328.2,
+    "text": " What were we talking about?"
+  },
+  {
+    "start": 328.2,
+    "end": 328.5,
+    "text": " Dancing."
+  },
+  {
+    "start": 328.5,
+    "end": 329.5,
+    "text": " Dancing, yes."
+  },
+  {
+    "start": 329.5,
+    "end": 330.6,
+    "text": " Dancing, yes."
+  },
+  {
+    "start": 330.6,
+    "end": 334.6,
+    "text": " I didn't realise how what a threat Elvis was at the time."
+  },
+  {
+    "start": 334.6,
+    "end": 336.3,
+    "text": " God, people went nuts over Elvis."
+  },
+  {
+    "start": 336.3,
+    "end": 339.8,
+    "text": " They thought he was going to impregnate every woman on earth."
+  },
+  {
+    "start": 339.8,
+    "end": 346.6,
+    "text": " Well, riots in East Germany in 1959 in in about 14 East German cities and towns."
+  },
+  {
+    "start": 346.6,
+    "end": 348.6,
+    "text": " And they then had to be crackdowns."
+  },
+  {
+    "start": 348.6,
+    "end": 350.5,
+    "text": " So Leipzig had a crackdown."
+  },
+  {
+    "start": 350.5,
+    "end": 352.2,
+    "text": " Leipzig is where the Lipsy dance."
+  },
+  {
+    "start": 352.2,
+    "end": 355.6,
+    "text": " The state one is from the Latin name for Cypsey."
+  },
+  {
+    "start": 355.6,
+    "end": 361.2,
+    "text": " Yeah, and they sentenced 15 demonstrators to prison sentences of between six months"
+  },
+  {
+    "start": 361.2,
+    "end": 364.3,
+    "text": " and four and a half years for going to pro Elvis protests."
+  },
+  {
+    "start": 364.3,
+    "end": 365,
+    "text": " Really?"
+  },
+  {
+    "start": 365,
+    "end": 365.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 365.6,
+    "end": 366.8,
+    "text": " But it was everywhere."
+  },
+  {
+    "start": 366.8,
+    "end": 369.4,
+    "text": " We shouldn't tar East Germany with this solitary brush."
+  },
+  {
+    "start": 369.4,
+    "end": 374.6,
+    "text": " Rock 'n' Roll was sort of vilified in a way that I don't think any legitimate music ever has been."
+  },
+  {
+    "start": 374.6,
+    "end": 379.1,
+    "text": " There's plenty of Americans that were frightened about the influence of Elvis as well."
+  },
+  {
+    "start": 379.1,
+    "end": 383.4,
+    "text": " There was a state-sponsored Rock 'n' Roll festival in the US."
+  },
+  {
+    "start": 383.4,
+    "end": 384.5,
+    "text": " In the US?"
+  },
+  {
+    "start": 384.5,
+    "end": 388.3,
+    "text": " Yeah, in America, which like hated Rock 'n' Roll as well."
+  },
+  {
+    "start": 388.3,
+    "end": 389.9,
+    "text": " But it was called Vortex One."
+  },
+  {
+    "start": 389.9,
+    "end": 392.8,
+    "text": " It sounds like the saddest thing ever, but Paranoia was quite popular."
+  },
+  {
+    "start": 392.8,
+    "end": 394.6,
+    "text": " Do you remember the Festival of Brexit?"
+  },
+  {
+    "start": 394.6,
+    "end": 396.5,
+    "text": " Oh, no!"
+  },
+  {
+    "start": 396.5,
+    "end": 398.4,
+    "text": " This was like if that had been a success."
+  },
+  {
+    "start": 398.4,
+    "end": 399.3,
+    "text": " Yeah, okay."
+  },
+  {
+    "start": 399.3,
+    "end": 400.1,
+    "text": " This is that."
+  },
+  {
+    "start": 400.1,
+    "end": 401.1,
+    "text": " It was in Oregon."
+  },
+  {
+    "start": 401.1,
+    "end": 408.8,
+    "text": " And I'm surprised that the hippies agreed to go to it because it was basically because Nixon was going to visit Portland, Oregon in 1970, I believe."
+  },
+  {
+    "start": 408.8,
+    "end": 417.1,
+    "text": " And this was obviously at a time of extreme anti-war protests and extreme government crackdowns on those protests in America."
+  },
+  {
+    "start": 417.1,
+    "end": 421.2,
+    "text": " And there was a fear that the hippies would start protesting or the peace protest would start protesting."
+  },
+  {
+    "start": 421.2,
+    "end": 426.7,
+    "text": " So to get rid of them, basically, the state government said, \"Guys, do you want to give you a festival?\""
+  },
+  {
+    "start": 426.7,
+    "end": 433.3,
+    "text": " And they all went for it because they really wanted peace, but more than that, they wanted a rock festival where they had license to take drugs."
+  },
+  {
+    "start": 433.3,
+    "end": 437.5,
+    "text": " Like the state was like, \"Look, we'll turn a blind eye to all the drug-taking and the nudity.\""
+  },
+  {
+    "start": 437.5,
+    "end": 440.5,
+    "text": " Just to get, sorry, is it just to get them out of town when Nixon's in town?"
+  },
+  {
+    "start": 440.5,
+    "end": 441.5,
+    "text": " Sounds like it."
+  },
+  {
+    "start": 441.5,
+    "end": 442,
+    "text": " That's basically it."
+  },
+  {
+    "start": 442,
+    "end": 443,
+    "text": " Sounds like a sitcom."
+  },
+  {
+    "start": 443,
+    "end": 444.5,
+    "text": " It does."
+  },
+  {
+    "start": 444.5,
+    "end": 446.7,
+    "text": " Oh no, we've accidentally got them crossing paths."
+  },
+  {
+    "start": 446.7,
+    "end": 450.2,
+    "text": " And he didn't even turn up in the end."
+  },
+  {
+    "start": 450.2,
+    "end": 451.2,
+    "text": " No."
+  },
+  {
+    "start": 451.2,
+    "end": 453.2,
+    "text": " So they just got a festival for nothing."
+  },
+  {
+    "start": 453.2,
+    "end": 454.2,
+    "text": " That's amazing."
+  },
+  {
+    "start": 454.2,
+    "end": 455.2,
+    "text": " It's awesome."
+  },
+  {
+    "start": 455.2,
+    "end": 458.2,
+    "text": " So I've read a book we see about the Stasi Poetry Circle."
+  },
+  {
+    "start": 458.2,
+    "end": 459.2,
+    "text": " Sounds fun."
+  },
+  {
+    "start": 459.2,
+    "end": 460.2,
+    "text": " I know, right?"
+  },
+  {
+    "start": 460.2,
+    "end": 463.2,
+    "text": " Your work and leisure was really tied up in East Germany."
+  },
+  {
+    "start": 463.2,
+    "end": 465.7,
+    "text": " So you would go on holiday with the people you were with."
+  },
+  {
+    "start": 465.7,
+    "end": 466.7,
+    "text": " Sounds awful."
+  },
+  {
+    "start": 466.7,
+    "end": 472.7,
+    "text": " And all your leisure activities were bound up with the company that you worked for and stuff."
+  },
+  {
+    "start": 472.7,
+    "end": 474.2,
+    "text": " And it was the same with the Stasi."
+  },
+  {
+    "start": 474.2,
+    "end": 477.7,
+    "text": " And so they would have these sort of art circles."
+  },
+  {
+    "start": 477.7,
+    "end": 479.7,
+    "text": " And one of them, they had a poetry circle."
+  },
+  {
+    "start": 479.7,
+    "end": 484.7,
+    "text": " But the guy who ran it, Uwe Berger, I think his name was, he wasn't a member of the party,"
+  },
+  {
+    "start": 484.7,
+    "end": 490.2,
+    "text": " but he was one of the hundreds of thousands of misarbiters they called."
+  },
+  {
+    "start": 490.2,
+    "end": 492.2,
+    "text": " So these unofficial collaborators."
+  },
+  {
+    "start": 492.2,
+    "end": 493.2,
+    "text": " The Stasi."
+  },
+  {
+    "start": 493.2,
+    "end": 494.7,
+    "text": " So he would get all the poetry."
+  },
+  {
+    "start": 494.7,
+    "end": 499.2,
+    "text": " These young Stasi officers would be writing their poetry in their poetry circle."
+  },
+  {
+    "start": 499.2,
+    "end": 501.7,
+    "text": " And then he'd be looking for dissidents among them and feeding it back."
+  },
+  {
+    "start": 501.7,
+    "end": 503.2,
+    "text": " And was he looking through the medium of the poetry?"
+  },
+  {
+    "start": 503.2,
+    "end": 504.2,
+    "text": " Yeah."
+  },
+  {
+    "start": 504.2,
+    "end": 509.7,
+    "text": " Oh, so he was looking for maybe dissident users of meter or half rhymes."
+  },
+  {
+    "start": 509.7,
+    "end": 514.7,
+    "text": " Or just anybody that basically wasn't socialist realism or showed any sort of freedom of thought."
+  },
+  {
+    "start": 514.7,
+    "end": 515.7,
+    "text": " How interesting."
+  },
+  {
+    "start": 515.7,
+    "end": 516.7,
+    "text": " Yeah."
+  },
+  {
+    "start": 516.7,
+    "end": 519.7,
+    "text": " Because they did also, they infiltrated punk groups."
+  },
+  {
+    "start": 519.7,
+    "end": 522.2,
+    "text": " They were very threatened by punk music when it came in in East Germany."
+  },
+  {
+    "start": 522.2,
+    "end": 523.2,
+    "text": " And so the Stasi infiltrated."
+  },
+  {
+    "start": 523.2,
+    "end": 524.2,
+    "text": " I feel threatened by that still."
+  },
+  {
+    "start": 524.2,
+    "end": 525.2,
+    "text": " Sure."
+  },
+  {
+    "start": 525.2,
+    "end": 526.7,
+    "text": " I mean, they infiltrated everybody."
+  },
+  {
+    "start": 526.7,
+    "end": 528.2,
+    "text": " That's the thing about the Stasi."
+  },
+  {
+    "start": 528.2,
+    "end": 530.7,
+    "text": " And they were the biggest administrators of any."
+  },
+  {
+    "start": 530.7,
+    "end": 536.7,
+    "text": " So out of the whole of German history from the Middle Ages to World War Two, there were"
+  },
+  {
+    "start": 536.7,
+    "end": 542.2,
+    "text": " more written records kept in the 40 years of the German Democratic Republic than the"
+  },
+  {
+    "start": 542.2,
+    "end": 544.2,
+    "text": " rest of German history put together."
+  },
+  {
+    "start": 544.2,
+    "end": 545.2,
+    "text": " Really?"
+  },
+  {
+    "start": 545.2,
+    "end": 546.2,
+    "text": " Yeah."
+  },
+  {
+    "start": 546.2,
+    "end": 547.2,
+    "text": " But it's all bad poetry."
+  },
+  {
+    "start": 547.2,
+    "end": 548.2,
+    "text": " It's mostly bad poetry."
+  },
+  {
+    "start": 548.2,
+    "end": 554.7,
+    "text": " So when the war came down and then in January 1990, the people stormed the Stasi headquarters"
+  },
+  {
+    "start": 554.7,
+    "end": 558.2,
+    "text": " in Leipzig, a place called Rundert Ecke, the round corner, to their offices."
+  },
+  {
+    "start": 558.2,
+    "end": 565.1,
+    "text": " And they rescued these sacks of, I think there's 15,500 sacks of shredded documents."
+  },
+  {
+    "start": 565.1,
+    "end": 566.7,
+    "text": " And there's these people that are called the puzzlers."
+  },
+  {
+    "start": 566.7,
+    "end": 568.7,
+    "text": " Who piece them back together?"
+  },
+  {
+    "start": 568.7,
+    "end": 569.7,
+    "text": " Who piece them back together."
+  },
+  {
+    "start": 569.7,
+    "end": 570.7,
+    "text": " And they've been doing that since 1991."
+  },
+  {
+    "start": 570.7,
+    "end": 571.7,
+    "text": " They're still doing it?"
+  },
+  {
+    "start": 571.7,
+    "end": 572.7,
+    "text": " They're still doing it."
+  },
+  {
+    "start": 572.7,
+    "end": 576.9,
+    "text": " So there were millions of shredded bits of paper and it will take centuries to put them"
+  },
+  {
+    "start": 576.9,
+    "end": 577.9,
+    "text": " all back together."
+  },
+  {
+    "start": 577.9,
+    "end": 584.6,
+    "text": " I just feel like, you know, you've got an old lady in Leipzig doing her little jigsaw."
+  },
+  {
+    "start": 584.6,
+    "end": 588.62,
+    "text": " And then she gets a tap on the shoulder, \"Mr. Schmidt, we have a job for you.\""
+  },
+  {
+    "start": 588.62,
+    "end": 591.14,
+    "text": " You heard about the Schwartzer Canal."
+  },
+  {
+    "start": 591.14,
+    "end": 595.74,
+    "text": " So in East Germany, they could pick up Western television because obviously it's not far"
+  },
+  {
+    "start": 595.74,
+    "end": 597.74,
+    "text": " away."
+  },
+  {
+    "start": 597.74,
+    "end": 600.5,
+    "text": " But you could be arrested if your TV area was pointing west."
+  },
+  {
+    "start": 600.5,
+    "end": 601.94,
+    "text": " So you had to be a bit careful."
+  },
+  {
+    "start": 601.94,
+    "end": 603.62,
+    "text": " They eased off on that as time went on."
+  },
+  {
+    "start": 603.62,
+    "end": 608.26,
+    "text": " But there were two East German channels and on one of them there was a program that was"
+  },
+  {
+    "start": 608.26,
+    "end": 613.1,
+    "text": " on every Monday night and it was called the Schwartzer Canal and what it was, it was 20"
+  },
+  {
+    "start": 613.1,
+    "end": 620,
+    "text": " minutes of clips of West German TV programs with a Communist commentary saying why they"
+  },
+  {
+    "start": 620,
+    "end": 621,
+    "text": " were so bad."
+  },
+  {
+    "start": 621,
+    "end": 622,
+    "text": " Say why it was so bad."
+  },
+  {
+    "start": 622,
+    "end": 625.36,
+    "text": " I'd watch programs that had a commentary over the top explaining why they were so bad."
+  },
+  {
+    "start": 625.36,
+    "end": 626.36,
+    "text": " You should get on Twitter."
+  },
+  {
+    "start": 626.36,
+    "end": 628.36,
+    "text": " It's just Gogglebox, isn't it?"
+  },
+  {
+    "start": 628.36,
+    "end": 630.36,
+    "text": " What you've described is basically..."
+  },
+  {
+    "start": 630.36,
+    "end": 634.36,
+    "text": " Yeah, it's like Gogglebox."
+  },
+  {
+    "start": 634.36,
+    "end": 642.68,
+    "text": " There had been a program in West Germany called Die Horte Optik, which is the red viewpoints."
+  },
+  {
+    "start": 642.68,
+    "end": 646.62,
+    "text": " So which was sort of slagging off what was happening in East Germany."
+  },
+  {
+    "start": 646.62,
+    "end": 649.34,
+    "text": " So that was their sort of retort to that was the Black Channel."
+  },
+  {
+    "start": 649.34,
+    "end": 653.9,
+    "text": " And also it's called the Black Channel because that was like a plumbing slang for a sewer."
+  },
+  {
+    "start": 653.9,
+    "end": 654.9,
+    "text": " Oh, that's clever."
+  },
+  {
+    "start": 654.9,
+    "end": 655.9,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 655.9,
+    "end": 658.28,
+    "text": " So it was like a little pun as well."
+  },
+  {
+    "start": 658.28,
+    "end": 659.28,
+    "text": " Is the red..."
+  },
+  {
+    "start": 659.28,
+    "end": 660.28,
+    "text": " Die Rote..."
+  },
+  {
+    "start": 660.28,
+    "end": 661.28,
+    "text": " Do you call it?"
+  },
+  {
+    "start": 661.28,
+    "end": 662.28,
+    "text": " Die Rote Optik."
+  },
+  {
+    "start": 662.28,
+    "end": 663.28,
+    "text": " The red viewpoint."
+  },
+  {
+    "start": 663.28,
+    "end": 664.84,
+    "text": " Is that a joke on Rose Tinted Spectacles?"
+  },
+  {
+    "start": 664.84,
+    "end": 668.92,
+    "text": " Like, oh, in the East, they're all seeing, you know, they're probably not."
+  },
+  {
+    "start": 668.92,
+    "end": 674.56,
+    "text": " Do you think they came up with the titles before the concepts and all things like this?"
+  },
+  {
+    "start": 674.56,
+    "end": 679.76,
+    "text": " You know, the BBC had studios in nuclear bunkers in the Cold War."
+  },
+  {
+    "start": 679.76,
+    "end": 684.6,
+    "text": " So I mean, I'll have to reign it in because I could go on forever about nuclear bunkers."
+  },
+  {
+    "start": 684.6,
+    "end": 685.6,
+    "text": " That's my little obsession."
+  },
+  {
+    "start": 685.6,
+    "end": 690.52,
+    "text": " But in the regional seats of government, nuclear bunkers, of which there were 12 in the Cold"
+  },
+  {
+    "start": 690.52,
+    "end": 696.52,
+    "text": " War period in Britain, they were for politicians for offices of state and things like that."
+  },
+  {
+    "start": 696.52,
+    "end": 699.48,
+    "text": " And each of them would have a BBC studio inside."
+  },
+  {
+    "start": 699.48,
+    "end": 700.48,
+    "text": " Really?"
+  },
+  {
+    "start": 700.48,
+    "end": 701.48,
+    "text": " Yeah."
+  },
+  {
+    "start": 701.48,
+    "end": 702.48,
+    "text": " So you can visit the one at..."
+  },
+  {
+    "start": 702.48,
+    "end": 705.72,
+    "text": " There's one at Kelverton Hatch in Essex, which is open to the public, one at Hack Green"
+  },
+  {
+    "start": 705.72,
+    "end": 708.84,
+    "text": " in Cheshire, which is, and you can see the BBC studio in there."
+  },
+  {
+    "start": 708.84,
+    "end": 714.12,
+    "text": " And they have, in Kelverton Hatch, I think they have playing the actual BBC broadcast"
+  },
+  {
+    "start": 714.12,
+    "end": 715.12,
+    "text": " that would have been..."
+  },
+  {
+    "start": 715.12,
+    "end": 716.12,
+    "text": " Cool."
+  },
+  {
+    "start": 716.12,
+    "end": 717.12,
+    "text": " Playing the hats."
+  },
+  {
+    "start": 717.12,
+    "end": 721.04,
+    "text": " You know, so when you kind of go to the nuclear bunker, like all your politicians go there"
+  },
+  {
+    "start": 721.04,
+    "end": 725.04,
+    "text": " or whatever, all your important people, would they have had to take a BBC sound engineer"
+  },
+  {
+    "start": 725.04,
+    "end": 727.7,
+    "text": " with them because it's going to be quite echoey in those places."
+  },
+  {
+    "start": 727.7,
+    "end": 728.7,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 728.7,
+    "end": 734.48,
+    "text": " So you had a BBC sound engineer and presenters, like heating engineers and, you know, electrical"
+  },
+  {
+    "start": 734.48,
+    "end": 738.28,
+    "text": " engineers and various different specialties would need to be in this bunker to keep it"
+  },
+  {
+    "start": 738.28,
+    "end": 739.28,
+    "text": " maintained."
+  },
+  {
+    "start": 739.28,
+    "end": 740.28,
+    "text": " How interesting."
+  },
+  {
+    "start": 740.28,
+    "end": 743.12,
+    "text": " So if you were selected, you'd sign the official secret tax, you wouldn't tell anyone."
+  },
+  {
+    "start": 743.12,
+    "end": 746.76,
+    "text": " That's so funny because obviously I'm sure you know a lot of BBC sound engineers like"
+  },
+  {
+    "start": 746.76,
+    "end": 747.76,
+    "text": " I do."
+  },
+  {
+    "start": 747.76,
+    "end": 748.76,
+    "text": " Well."
+  },
+  {
+    "start": 748.76,
+    "end": 752,
+    "text": " And I just, yeah, I wonder if they all got this job thinking, well, if it all goes"
+  },
+  {
+    "start": 752,
+    "end": 753.64,
+    "text": " south, at least we can..."
+  },
+  {
+    "start": 753.64,
+    "end": 758.96,
+    "text": " But these days, if that happened, do you think there'd be any room in the bunker for podcasters?"
+  },
+  {
+    "start": 758.96,
+    "end": 763.24,
+    "text": " Well, I know, I'm not sure how much of this I'm allowed to say because I..."
+  },
+  {
+    "start": 763.24,
+    "end": 765.96,
+    "text": " Oh my God, you're on the list."
+  },
+  {
+    "start": 765.96,
+    "end": 766.96,
+    "text": " You're on the list."
+  },
+  {
+    "start": 766.96,
+    "end": 767.96,
+    "text": " Yeah."
+  },
+  {
+    "start": 767.96,
+    "end": 768.96,
+    "text": " I'm not on the list."
+  },
+  {
+    "start": 768.96,
+    "end": 769.96,
+    "text": " I promise I'm not on the list."
+  },
+  {
+    "start": 769.96,
+    "end": 770.96,
+    "text": " But I do know that they still do..."
+  },
+  {
+    "start": 770.96,
+    "end": 772.2,
+    "text": " You were until not the week finish."
+  },
+  {
+    "start": 772.2,
+    "end": 773.2,
+    "text": " Yeah."
+  },
+  {
+    "start": 773.2,
+    "end": 777.56,
+    "text": " I do know that they still do drills and that they still take a BBC presenter."
+  },
+  {
+    "start": 777.56,
+    "end": 781.24,
+    "text": " Which BBC presenter would you take to your nuclear bunker?"
+  },
+  {
+    "start": 781.24,
+    "end": 782.24,
+    "text": " BBC."
+  },
+  {
+    "start": 782.24,
+    "end": 783.24,
+    "text": " It has to be BBC."
+  },
+  {
+    "start": 783.24,
+    "end": 784.24,
+    "text": " Yeah."
+  },
+  {
+    "start": 784.24,
+    "end": 785.8,
+    "text": " I'd probably go for Hugh Edwards."
+  },
+  {
+    "start": 785.8,
+    "end": 786.8,
+    "text": " Would you?"
+  },
+  {
+    "start": 786.8,
+    "end": 789.56,
+    "text": " I just want stability and continuity and he provides it."
+  },
+  {
+    "start": 789.56,
+    "end": 790.56,
+    "text": " That's interesting."
+  },
+  {
+    "start": 790.56,
+    "end": 793.96,
+    "text": " I was thinking, does Dion Dublin do houses under the hammer or something?"
+  },
+  {
+    "start": 793.96,
+    "end": 794.96,
+    "text": " Yeah."
+  },
+  {
+    "start": 794.96,
+    "end": 795.96,
+    "text": " He could do a great guide to the bunker, couldn't he?"
+  },
+  {
+    "start": 795.96,
+    "end": 796.96,
+    "text": " Yeah."
+  },
+  {
+    "start": 796.96,
+    "end": 797.96,
+    "text": " To improve your bunker."
+  },
+  {
+    "start": 797.96,
+    "end": 799.8,
+    "text": " But here, that's a solid wall."
+  },
+  {
+    "start": 799.8,
+    "end": 800.8,
+    "text": " That's not..."
+  },
+  {
+    "start": 800.8,
+    "end": 801.8,
+    "text": " Yeah, that's a solid wall too."
+  },
+  {
+    "start": 801.8,
+    "end": 806.44,
+    "text": " Lots of solid walls in here, very few partition walls."
+  },
+  {
+    "start": 806.44,
+    "end": 810.08,
+    "text": " I've got one fact about Agadu, just because Angela mentioned it earlier."
+  },
+  {
+    "start": 810.08,
+    "end": 812.4,
+    "text": " So the singer of Agadu..."
+  },
+  {
+    "start": 812.4,
+    "end": 813.4,
+    "text": " Black lace."
+  },
+  {
+    "start": 813.4,
+    "end": 814.4,
+    "text": " Black lace, right?"
+  },
+  {
+    "start": 814.4,
+    "end": 815.4,
+    "text": " You're right."
+  },
+  {
+    "start": 815.4,
+    "end": 816.4,
+    "text": " And the guy is Dean Michael."
+  },
+  {
+    "start": 816.4,
+    "end": 817.4,
+    "text": " So he was sent to prison in 2016."
+  },
+  {
+    "start": 817.4,
+    "end": 818.4,
+    "text": " What was he?"
+  },
+  {
+    "start": 818.4,
+    "end": 819.4,
+    "text": " Not for the dance."
+  },
+  {
+    "start": 819.4,
+    "end": 820.4,
+    "text": " And not for the usual..."
+  },
+  {
+    "start": 820.4,
+    "end": 822.4,
+    "text": " He was pushing pineapples, wasn't he?"
+  },
+  {
+    "start": 822.4,
+    "end": 823.4,
+    "text": " Shaking trees."
+  },
+  {
+    "start": 823.4,
+    "end": 824.4,
+    "text": " Brandy coffee."
+  },
+  {
+    "start": 824.4,
+    "end": 827.4,
+    "text": " It was for benefits fraud."
+  },
+  {
+    "start": 827.4,
+    "end": 831.56,
+    "text": " It doesn't come up in the song anywhere."
+  },
+  {
+    "start": 831.56,
+    "end": 832.56,
+    "text": " But he was in for 10 weeks."
+  },
+  {
+    "start": 832.56,
+    "end": 837.6,
+    "text": " He claimed he couldn't walk but then he was also doing gigs on stage where he was dancing"
+  },
+  {
+    "start": 837.6,
+    "end": 838.6,
+    "text": " very vigorously."
+  },
+  {
+    "start": 838.6,
+    "end": 844.68,
+    "text": " I know, we got put away for 10 weeks and anyway, he says, after he came out, he said that"
+  },
+  {
+    "start": 844.68,
+    "end": 852.68,
+    "text": " while he was in prison, he got through the tough times by leading a giant conga of prisoners."
+  },
+  {
+    "start": 852.68,
+    "end": 858.28,
+    "text": " That's how they all escaped, isn't it?"
+  },
+  {
+    "start": 858.28,
+    "end": 859.28,
+    "text": " That's so funny."
+  },
+  {
+    "start": 859.28,
+    "end": 865,
+    "text": " At night, the entire wing was singing in chorus, \"Aggadu, dude.\""
+  },
+  {
+    "start": 865,
+    "end": 869.24,
+    "text": " I sort of missed those days when dances had really clear instructions."
+  },
+  {
+    "start": 869.24,
+    "end": 871.16,
+    "text": " I'm not one of nature's dancers."
+  },
+  {
+    "start": 871.16,
+    "end": 874.72,
+    "text": " So when they tell me what to do, that superman that was that place as well, wasn't it?"
+  },
+  {
+    "start": 874.72,
+    "end": 875.72,
+    "text": " I knew what to do then."
+  },
+  {
+    "start": 875.72,
+    "end": 878,
+    "text": " That was why we all loved the Macarena."
+  },
+  {
+    "start": 878,
+    "end": 879,
+    "text": " Exactly."
+  },
+  {
+    "start": 879,
+    "end": 881.4,
+    "text": " You knew what to do."
+  },
+  {
+    "start": 881.4,
+    "end": 887,
+    "text": " There was a movie in 1984 which I'm sure you all know called Footloose."
+  },
+  {
+    "start": 887,
+    "end": 892.32,
+    "text": " And it's a story of a teenager who goes to a small town where dancing has been banned"
+  },
+  {
+    "start": 892.32,
+    "end": 896.34,
+    "text": " by the local government, so that's why I'm talking about that."
+  },
+  {
+    "start": 896.34,
+    "end": 900.44,
+    "text": " One of the people who was in this movie was the actor Kevin Bacon."
+  },
+  {
+    "start": 900.44,
+    "end": 906.2,
+    "text": " He was 24 at the time, but to get himself into the role, he enrolled into a local high"
+  },
+  {
+    "start": 906.2,
+    "end": 912,
+    "text": " school pretending to be a 17-year-old, isn't that amazing?"
+  },
+  {
+    "start": 912,
+    "end": 913,
+    "text": " Wow."
+  },
+  {
+    "start": 913,
+    "end": 914.56,
+    "text": " Was he rumbled?"
+  },
+  {
+    "start": 914.56,
+    "end": 915.56,
+    "text": " He was not rumbled."
+  },
+  {
+    "start": 915.56,
+    "end": 916.82,
+    "text": " How old was he at the time, sorry?"
+  },
+  {
+    "start": 916.82,
+    "end": 920.2,
+    "text": " He was 24 and he was pretending to be 17."
+  },
+  {
+    "start": 920.2,
+    "end": 924.24,
+    "text": " The principal apparently knew about it, but no one else knew about it at all."
+  },
+  {
+    "start": 924.24,
+    "end": 925.24,
+    "text": " Oh my God."
+  },
+  {
+    "start": 925.24,
+    "end": 928.04,
+    "text": " And he fell in love with Drew Barrymore at the end."
+  },
+  {
+    "start": 928.04,
+    "end": 931.44,
+    "text": " Well, the amazing thing is he got really badly bullied."
+  },
+  {
+    "start": 931.44,
+    "end": 932.44,
+    "text": " Really?"
+  },
+  {
+    "start": 932.44,
+    "end": 936.52,
+    "text": " He went to the school and he thought, like, his character was that he'd come from the"
+  },
+  {
+    "start": 936.52,
+    "end": 941.72,
+    "text": " city and he was in like a small town school, and so he was wearing clothes that he imagined"
+  },
+  {
+    "start": 941.72,
+    "end": 947.28,
+    "text": " a 17-year-old would wear if they'd come from, you know, Philadelphia and gone into a school."
+  },
+  {
+    "start": 947.28,
+    "end": 951.16,
+    "text": " Obviously, he looked very different than all the other kids and so they just really, really"
+  },
+  {
+    "start": 951.16,
+    "end": 957.32,
+    "text": " bullied him quite badly until one of the kids kind of came and sort of took him under his"
+  },
+  {
+    "start": 957.32,
+    "end": 960.72,
+    "text": " wing and apparently that's kind of something that happens in the movie, although I haven't"
+  },
+  {
+    "start": 960.72,
+    "end": 961.88,
+    "text": " seen it, so I don't know."
+  },
+  {
+    "start": 961.88,
+    "end": 965.72,
+    "text": " I don't believe that Never Been Kiss was not just entirely based on this story."
+  },
+  {
+    "start": 965.72,
+    "end": 966.96,
+    "text": " I mean, that is the whole plot."
+  },
+  {
+    "start": 966.96,
+    "end": 967.96,
+    "text": " Is it?"
+  },
+  {
+    "start": 967.96,
+    "end": 968.96,
+    "text": " I don't know."
+  },
+  {
+    "start": 968.96,
+    "end": 969.96,
+    "text": " Is Never Been Kiss someone goes back into a school?"
+  },
+  {
+    "start": 969.96,
+    "end": 970.96,
+    "text": " Guys, Drew Barrymore."
+  },
+  {
+    "start": 970.96,
+    "end": 971.96,
+    "text": " She's about 24."
+  },
+  {
+    "start": 971.96,
+    "end": 972.96,
+    "text": " She's a reporter."
+  },
+  {
+    "start": 972.96,
+    "end": 976.32,
+    "text": " She disguises herself as 17-year-old to go back into a school where she gets badly bullied"
+  },
+  {
+    "start": 976.32,
+    "end": 978.2,
+    "text": " until someone takes her under their wing."
+  },
+  {
+    "start": 978.2,
+    "end": 980.12,
+    "text": " Was it laid after 1984?"
+  },
+  {
+    "start": 980.12,
+    "end": 981.12,
+    "text": " It certainly was, yeah."
+  },
+  {
+    "start": 981.12,
+    "end": 982.12,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 982.12,
+    "end": 983.12,
+    "text": " It's 21 Jump Street."
+  },
+  {
+    "start": 983.12,
+    "end": 984.12,
+    "text": " That's that as well, isn't it?"
+  },
+  {
+    "start": 984.12,
+    "end": 985.12,
+    "text": " Is it 21 Jump Street?"
+  },
+  {
+    "start": 985.12,
+    "end": 986.12,
+    "text": " Yeah, they do that."
+  },
+  {
+    "start": 986.12,
+    "end": 987.12,
+    "text": " Cops go back to school."
+  },
+  {
+    "start": 987.12,
+    "end": 990.32,
+    "text": " All I know is, is that the one where there's a meme where he goes, \"How do you do fellow"
+  },
+  {
+    "start": 990.32,
+    "end": 991.32,
+    "text": " kids?\""
+  },
+  {
+    "start": 991.32,
+    "end": 992.32,
+    "text": " It's what, is that?"
+  },
+  {
+    "start": 992.32,
+    "end": 993.32,
+    "text": " Is that really what the meme?"
+  },
+  {
+    "start": 993.32,
+    "end": 994.32,
+    "text": " I only know the meme."
+  },
+  {
+    "start": 994.32,
+    "end": 995.32,
+    "text": " The meme must come from that."
+  },
+  {
+    "start": 995.32,
+    "end": 1000.36,
+    "text": " And very weirdly, I've got something about banned or official dancers in the USA."
+  },
+  {
+    "start": 1000.36,
+    "end": 1001.36,
+    "text": " Okay."
+  },
+  {
+    "start": 1001.36,
+    "end": 1003.32,
+    "text": " So, and it relates to Hollywood as well."
+  },
+  {
+    "start": 1003.32,
+    "end": 1004.32,
+    "text": " Right."
+  },
+  {
+    "start": 1004.32,
+    "end": 1009.88,
+    "text": " So, the four U.S. states have passed laws designating square dancing the official state"
+  },
+  {
+    "start": 1009.88,
+    "end": 1010.88,
+    "text": " folk dance."
+  },
+  {
+    "start": 1010.88,
+    "end": 1011.88,
+    "text": " Right?"
+  },
+  {
+    "start": 1011.88,
+    "end": 1012.88,
+    "text": " I thought you were going to say it was banned."
+  },
+  {
+    "start": 1012.88,
+    "end": 1013.88,
+    "text": " No, no, no."
+  },
+  {
+    "start": 1013.88,
+    "end": 1014.88,
+    "text": " Far from it."
+  },
+  {
+    "start": 1014.88,
+    "end": 1015.88,
+    "text": " Far from it."
+  },
+  {
+    "start": 1015.88,
+    "end": 1020.36,
+    "text": " There have been so many attempts to make square dancing the national folk dance."
+  },
+  {
+    "start": 1020.36,
+    "end": 1023.76,
+    "text": " And people keep saying at the national level, \"Look, this is not really a national thing."
+  },
+  {
+    "start": 1023.76,
+    "end": 1025.32,
+    "text": " We don't, you know, there's lots going on."
+  },
+  {
+    "start": 1025.32,
+    "end": 1026.32,
+    "text": " We don't care.\""
+  },
+  {
+    "start": 1026.32,
+    "end": 1027.32,
+    "text": " So, there are other ones."
+  },
+  {
+    "start": 1027.32,
+    "end": 1029.44,
+    "text": " So, like, Hawaii has the hula, obviously."
+  },
+  {
+    "start": 1029.44,
+    "end": 1031.12,
+    "text": " Kentucky has clogging."
+  },
+  {
+    "start": 1031.12,
+    "end": 1034.48,
+    "text": " It didn't look into you very much."
+  },
+  {
+    "start": 1034.48,
+    "end": 1040,
+    "text": " Because North Carolina has the Carolina Shag and that's the official dance."
+  },
+  {
+    "start": 1040,
+    "end": 1045.16,
+    "text": " And there is a 1989 movie starring Bridget Fonda, which is simply called Shag."
+  },
+  {
+    "start": 1045.16,
+    "end": 1048.84,
+    "text": " And it's about four high school students on a road trip."
+  },
+  {
+    "start": 1048.84,
+    "end": 1051.04,
+    "text": " I was really disappointed when I went to the movie."
+  },
+  {
+    "start": 1051.04,
+    "end": 1056.8,
+    "text": " I was expecting a documentary about carpets and I went as a bird lover."
+  },
+  {
+    "start": 1056.8,
+    "end": 1062.6,
+    "text": " It culminates in a shagging contest, basically."
+  },
+  {
+    "start": 1062.6,
+    "end": 1063.6,
+    "text": " Shag dancing contest."
+  },
+  {
+    "start": 1063.6,
+    "end": 1065.6,
+    "text": " Is the dance anything like a shag?"
+  },
+  {
+    "start": 1065.6,
+    "end": 1066.6,
+    "text": " I mean, dance though."
+  },
+  {
+    "start": 1066.6,
+    "end": 1069.28,
+    "text": " It depends how you do it."
+  },
+  {
+    "start": 1069.28,
+    "end": 1074.36,
+    "text": " Any dance can be, can't it?"
+  },
+  {
+    "start": 1074.36,
+    "end": 1081,
+    "text": " OK, it's time for fact number two and that is Andes."
+  },
+  {
+    "start": 1081,
+    "end": 1084.84,
+    "text": " My fact is that in the 7th century, one of the most impressive things you could be buried"
+  },
+  {
+    "start": 1084.84,
+    "end": 1088.8,
+    "text": " with was a folding chair."
+  },
+  {
+    "start": 1088.8,
+    "end": 1090.28,
+    "text": " That was hot, hot stuff."
+  },
+  {
+    "start": 1090.28,
+    "end": 1094.52,
+    "text": " Is that because they were from the future, when you had a time machine?"
+  },
+  {
+    "start": 1094.52,
+    "end": 1097.8,
+    "text": " It was not because of that, but that was..."
+  },
+  {
+    "start": 1097.8,
+    "end": 1101.72,
+    "text": " Usually it's like things that you were buried with as for use in the afterlife."
+  },
+  {
+    "start": 1101.72,
+    "end": 1104.76,
+    "text": " Maybe, you know, might want to now sit down."
+  },
+  {
+    "start": 1104.76,
+    "end": 1105.76,
+    "text": " Always."
+  },
+  {
+    "start": 1105.76,
+    "end": 1109.4,
+    "text": " Well, the woman they was found with was in a, they think was in her 40s or 50s."
+  },
+  {
+    "start": 1109.4,
+    "end": 1112.88,
+    "text": " And as a woman in her 40s, I could relate to carrying a chair around."
+  },
+  {
+    "start": 1112.88,
+    "end": 1114.36,
+    "text": " Where are you going?"
+  },
+  {
+    "start": 1114.36,
+    "end": 1117,
+    "text": " Yeah, this is the thing."
+  },
+  {
+    "start": 1117,
+    "end": 1120.28,
+    "text": " They're normally found in women's graves, the kind of grave goods."
+  },
+  {
+    "start": 1120.28,
+    "end": 1125.6,
+    "text": " And about 30 medieval gravesites have been found with chair burials, as they call them."
+  },
+  {
+    "start": 1125.6,
+    "end": 1127.12,
+    "text": " This latest one, it's quite a recent find."
+  },
+  {
+    "start": 1127.12,
+    "end": 1129.52,
+    "text": " It dates back to about 600 AD."
+  },
+  {
+    "start": 1129.52,
+    "end": 1135.2,
+    "text": " And it's kind of, it might not be that they were very, very powerful, wealthy people in"
+  },
+  {
+    "start": 1135.2,
+    "end": 1136.2,
+    "text": " life."
+  },
+  {
+    "start": 1136.2,
+    "end": 1139.16,
+    "text": " It's kind of because they're often buried with lots of humble grave goods as well."
+  },
+  {
+    "start": 1139.16,
+    "end": 1141.64,
+    "text": " But they seem to be kind of spiritually significant."
+  },
+  {
+    "start": 1141.64,
+    "end": 1142.64,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 1142.64,
+    "end": 1143.64,
+    "text": " They're having a folding chair."
+  },
+  {
+    "start": 1143.64,
+    "end": 1144.64,
+    "text": " It seems, yeah."
+  },
+  {
+    "start": 1144.64,
+    "end": 1146.24,
+    "text": " Like a wise woman kind of thing."
+  },
+  {
+    "start": 1146.24,
+    "end": 1147.24,
+    "text": " Exactly."
+  },
+  {
+    "start": 1147.24,
+    "end": 1148.24,
+    "text": " A healer or a magician."
+  },
+  {
+    "start": 1148.24,
+    "end": 1149.24,
+    "text": " I think, I've misunderstood."
+  },
+  {
+    "start": 1149.24,
+    "end": 1151.08,
+    "text": " So they were buried sat on the chair?"
+  },
+  {
+    "start": 1151.08,
+    "end": 1152.96,
+    "text": " No, I think the chair was just included."
+  },
+  {
+    "start": 1152.96,
+    "end": 1154.92,
+    "text": " It was just included, like, as their favorite chair."
+  },
+  {
+    "start": 1154.92,
+    "end": 1158.2,
+    "text": " I wouldn't have the image of it, I'm lowered on a chair."
+  },
+  {
+    "start": 1158.2,
+    "end": 1159.2,
+    "text": " No."
+  },
+  {
+    "start": 1159.2,
+    "end": 1162.16,
+    "text": " There's an archaeologist called Bettina Pfaff."
+  },
+  {
+    "start": 1162.16,
+    "end": 1166.6,
+    "text": " And who, she thinks that these women, it's mostly women, belong to a kind of spiritual"
+  },
+  {
+    "start": 1166.6,
+    "end": 1167.6,
+    "text": " elite."
+  },
+  {
+    "start": 1167.6,
+    "end": 1168.6,
+    "text": " How interesting."
+  },
+  {
+    "start": 1168.6,
+    "end": 1169.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 1169.6,
+    "end": 1172.16,
+    "text": " So in life, they would sit on the chair whilst reading someone's palm or something, presumably."
+  },
+  {
+    "start": 1172.16,
+    "end": 1176.16,
+    "text": " Maybe, yeah, or leading a ceremony or something, and they were buried with it."
+  },
+  {
+    "start": 1176.16,
+    "end": 1177.16,
+    "text": " Yeah."
+  },
+  {
+    "start": 1177.16,
+    "end": 1178.16,
+    "text": " Cool."
+  },
+  {
+    "start": 1178.16,
+    "end": 1179.16,
+    "text": " And where was this?"
+  },
+  {
+    "start": 1179.16,
+    "end": 1180.16,
+    "text": " In Europe?"
+  },
+  {
+    "start": 1180.16,
+    "end": 1181.16,
+    "text": " Across lots of Europe, yeah."
+  },
+  {
+    "start": 1181.16,
+    "end": 1182.16,
+    "text": " Germany, especially, I think."
+  },
+  {
+    "start": 1182.16,
+    "end": 1183.16,
+    "text": " Quite a lot in Germany."
+  },
+  {
+    "start": 1183.16,
+    "end": 1184.16,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 1184.16,
+    "end": 1185.16,
+    "text": " Yeah."
+  },
+  {
+    "start": 1185.16,
+    "end": 1186.16,
+    "text": " Yeah, big deal."
+  },
+  {
+    "start": 1186.16,
+    "end": 1190.64,
+    "text": " So I did a series called \"You Can't Take It With You\" on Radio 4, which is about, it started"
+  },
+  {
+    "start": 1190.64,
+    "end": 1195.44,
+    "text": " off being about when my dad died, we went a bit mad putting stuff in the coffin to the"
+  },
+  {
+    "start": 1195.44,
+    "end": 1197.72,
+    "text": " point we thought we might have to take him out."
+  },
+  {
+    "start": 1197.72,
+    "end": 1202.64,
+    "text": " Just filled it up with stuff."
+  },
+  {
+    "start": 1202.64,
+    "end": 1206.56,
+    "text": " And so I got really into sort of reading about grave goods a bit, and one of my favorite"
+  },
+  {
+    "start": 1206.56,
+    "end": 1212.68,
+    "text": " things I found was a website where you can buy a coffin with drawers in so that you can"
+  },
+  {
+    "start": 1212.68,
+    "end": 1215.6,
+    "text": " put the goods for the person in the drawers."
+  },
+  {
+    "start": 1215.6,
+    "end": 1220.04,
+    "text": " And my favorite line on this website says, \"If you do choose to bury the deceased with"
+  },
+  {
+    "start": 1220.04,
+    "end": 1224.32,
+    "text": " some personal items, it's important to remember that these are items you will not get back.\""
+  },
+  {
+    "start": 1224.32,
+    "end": 1225.32,
+    "text": " That is useful."
+  },
+  {
+    "start": 1225.32,
+    "end": 1229.08,
+    "text": " He's putting their car keys in there."
+  },
+  {
+    "start": 1229.08,
+    "end": 1230.08,
+    "text": " Wow."
+  },
+  {
+    "start": 1230.08,
+    "end": 1231.08,
+    "text": " That's amazing."
+  },
+  {
+    "start": 1231.08,
+    "end": 1234.84,
+    "text": " I didn't even think that was like a modern thing to put grave goods in."
+  },
+  {
+    "start": 1234.84,
+    "end": 1235.84,
+    "text": " No."
+  },
+  {
+    "start": 1235.84,
+    "end": 1238.2,
+    "text": " The drawers at the bottom, sort of under the body, are they?"
+  },
+  {
+    "start": 1238.2,
+    "end": 1239.2,
+    "text": " Yeah."
+  },
+  {
+    "start": 1239.2,
+    "end": 1242.44,
+    "text": " I think it's a bit cruel, because if they do go to an afterlife, have they got access"
+  },
+  {
+    "start": 1242.44,
+    "end": 1243.44,
+    "text": " to those drawers?"
+  },
+  {
+    "start": 1243.44,
+    "end": 1247.16,
+    "text": " Yeah, because they're all, I've got my favorite things, but I can't get them."
+  },
+  {
+    "start": 1247.16,
+    "end": 1252.28,
+    "text": " I think it started with when my dad died, he had his head was on this sort of lacy pillow."
+  },
+  {
+    "start": 1252.28,
+    "end": 1253.28,
+    "text": " It just wasn't right."
+  },
+  {
+    "start": 1253.28,
+    "end": 1254.64,
+    "text": " My dad ran a sex shop for a living."
+  },
+  {
+    "start": 1254.64,
+    "end": 1255.64,
+    "text": " It didn't look right."
+  },
+  {
+    "start": 1255.64,
+    "end": 1258.92,
+    "text": " It sounds like it could fit by running to a sex shop."
+  },
+  {
+    "start": 1258.92,
+    "end": 1261.56,
+    "text": " His girlfriend replaced it with some inflatable breasts."
+  },
+  {
+    "start": 1261.56,
+    "end": 1262.56,
+    "text": " Wow."
+  },
+  {
+    "start": 1262.56,
+    "end": 1263.56,
+    "text": " That is brilliant."
+  },
+  {
+    "start": 1263.56,
+    "end": 1267.96,
+    "text": " Imagine the archeologists in such a place."
+  },
+  {
+    "start": 1267.96,
+    "end": 1269.76,
+    "text": " I love imagining that."
+  },
+  {
+    "start": 1269.76,
+    "end": 1273.04,
+    "text": " And they'll jump to such conclusions about our entire society."
+  },
+  {
+    "start": 1273.04,
+    "end": 1275.32,
+    "text": " He thinks it's sex wizard, we think."
+  },
+  {
+    "start": 1275.32,
+    "end": 1279.08,
+    "text": " Well, actually, he was cremated, so, and that's the other thing."
+  },
+  {
+    "start": 1279.08,
+    "end": 1283.72,
+    "text": " So I started asking people, A, about what they would want buried with them, and B, what"
+  },
+  {
+    "start": 1283.72,
+    "end": 1287.04,
+    "text": " they would put in my coffin, because I just thought you don't get a say, do you, at that"
+  },
+  {
+    "start": 1287.04,
+    "end": 1288.04,
+    "text": " point?"
+  },
+  {
+    "start": 1288.04,
+    "end": 1290.16,
+    "text": " Someone else is deciding what you want to say with you."
+  },
+  {
+    "start": 1290.16,
+    "end": 1293.84,
+    "text": " And of course, most people I spoke to were going to be cremated, and so everyone would"
+  },
+  {
+    "start": 1293.84,
+    "end": 1294.84,
+    "text": " say popcorn kernels."
+  },
+  {
+    "start": 1294.84,
+    "end": 1297.12,
+    "text": " So I'm going to build my coffin with."
+  },
+  {
+    "start": 1297.12,
+    "end": 1298.12,
+    "text": " That's fun."
+  },
+  {
+    "start": 1298.12,
+    "end": 1299.12,
+    "text": " That's fun."
+  },
+  {
+    "start": 1299.12,
+    "end": 1300.12,
+    "text": " A little fireworks."
+  },
+  {
+    "start": 1300.12,
+    "end": 1303.2,
+    "text": " Yeah, fireworks or cannabis, something just to make it a bit more fun."
+  },
+  {
+    "start": 1303.2,
+    "end": 1308.76,
+    "text": " So yeah, chairs, folding chairs that go back a long way, which makes sense, actually."
+  },
+  {
+    "start": 1308.76,
+    "end": 1315.64,
+    "text": " There's a book on chairs by a guy called Rittold Rybsinski, and I always come back to this"
+  },
+  {
+    "start": 1315.64,
+    "end": 1316.64,
+    "text": " in my research."
+  },
+  {
+    "start": 1316.64,
+    "end": 1320.64,
+    "text": " It's such a good book, but he says he thinks the oldest chairs ever will have been folding."
+  },
+  {
+    "start": 1320.64,
+    "end": 1323.08,
+    "text": " It's a cracker, I'm telling you."
+  },
+  {
+    "start": 1323.08,
+    "end": 1326.68,
+    "text": " I disagree with Mr. Rybsinski or whatever he was called."
+  },
+  {
+    "start": 1326.68,
+    "end": 1328.08,
+    "text": " You don't think the oldest chairs are folding?"
+  },
+  {
+    "start": 1328.08,
+    "end": 1331.8,
+    "text": " I don't really, because I think the oldest chair would be literally just a box."
+  },
+  {
+    "start": 1331.8,
+    "end": 1334.08,
+    "text": " And I think it requires something extra to."
+  },
+  {
+    "start": 1334.08,
+    "end": 1338.48,
+    "text": " I think once you've made it into, once you've used some human skill rather than just sitting"
+  },
+  {
+    "start": 1338.48,
+    "end": 1343.28,
+    "text": " on a flat rock and claiming it's a chair, because it would be nomadic societies."
+  },
+  {
+    "start": 1343.28,
+    "end": 1347.92,
+    "text": " So I think the oldest evidence of folding chairs we have might be ancient Mongolian"
+  },
+  {
+    "start": 1347.92,
+    "end": 1350.6,
+    "text": " societies who were nomadic."
+  },
+  {
+    "start": 1350.6,
+    "end": 1353.56,
+    "text": " So the important people would take a chair with them."
+  },
+  {
+    "start": 1353.56,
+    "end": 1354.56,
+    "text": " And that's."
+  },
+  {
+    "start": 1354.56,
+    "end": 1355.56,
+    "text": " That's great."
+  },
+  {
+    "start": 1355.56,
+    "end": 1359.6,
+    "text": " And they looked exactly like those beach chairs that you get, you know, the old people sitting"
+  },
+  {
+    "start": 1359.6,
+    "end": 1360.6,
+    "text": " on beaches."
+  },
+  {
+    "start": 1360.6,
+    "end": 1362.84,
+    "text": " There are eight folding stools in the British Museum."
+  },
+  {
+    "start": 1362.84,
+    "end": 1363.84,
+    "text": " Wow."
+  },
+  {
+    "start": 1363.84,
+    "end": 1364.84,
+    "text": " Wow."
+  },
+  {
+    "start": 1364.84,
+    "end": 1365.84,
+    "text": " And the earliest one is."
+  },
+  {
+    "start": 1365.84,
+    "end": 1366.84,
+    "text": " What for just people to sit in."
+  },
+  {
+    "start": 1366.84,
+    "end": 1372.04,
+    "text": " Such a good point, because they have those people who sit and make sure you don't steal"
+  },
+  {
+    "start": 1372.04,
+    "end": 1373.04,
+    "text": " anything."
+  },
+  {
+    "start": 1373.04,
+    "end": 1374.04,
+    "text": " Don't you?"
+  },
+  {
+    "start": 1374.04,
+    "end": 1375.04,
+    "text": " And they sit on little stools."
+  },
+  {
+    "start": 1375.04,
+    "end": 1376.04,
+    "text": " Also very old, those people."
+  },
+  {
+    "start": 1376.04,
+    "end": 1377.04,
+    "text": " A lot of the time."
+  },
+  {
+    "start": 1377.04,
+    "end": 1383.88,
+    "text": " The oldest one they have is from the 18th Dynasty of Egypt, which is 1500 BC to 1800"
+  },
+  {
+    "start": 1383.88,
+    "end": 1384.88,
+    "text": " BC."
+  },
+  {
+    "start": 1384.88,
+    "end": 1385.88,
+    "text": " So that's pretty old."
+  },
+  {
+    "start": 1385.88,
+    "end": 1386.88,
+    "text": " Wow."
+  },
+  {
+    "start": 1386.88,
+    "end": 1387.88,
+    "text": " And how, what do they look like?"
+  },
+  {
+    "start": 1387.88,
+    "end": 1389.4,
+    "text": " How easily foldable are they?"
+  },
+  {
+    "start": 1389.4,
+    "end": 1395.48,
+    "text": " They just look like an X with a pivot in where the two lines of the X meet and then a little"
+  },
+  {
+    "start": 1395.48,
+    "end": 1398.92,
+    "text": " bit of cloth on the top, although the cloth is rotted away because that's."
+  },
+  {
+    "start": 1398.92,
+    "end": 1399.92,
+    "text": " Yeah."
+  },
+  {
+    "start": 1399.92,
+    "end": 1400.92,
+    "text": " Perished."
+  },
+  {
+    "start": 1400.92,
+    "end": 1403.32,
+    "text": " So easier than a beach deck chair, which I still can't do."
+  },
+  {
+    "start": 1403.32,
+    "end": 1404.32,
+    "text": " No."
+  },
+  {
+    "start": 1404.32,
+    "end": 1406.76,
+    "text": " Stripey beach deck chairs are just there to torment me."
+  },
+  {
+    "start": 1406.76,
+    "end": 1407.76,
+    "text": " They're a struggle."
+  },
+  {
+    "start": 1407.76,
+    "end": 1408.76,
+    "text": " It's like a Brompton."
+  },
+  {
+    "start": 1408.76,
+    "end": 1409.76,
+    "text": " Your fingers won't survive."
+  },
+  {
+    "start": 1409.76,
+    "end": 1414.28,
+    "text": " Um, lots of folding chairs are big for lots of people."
+  },
+  {
+    "start": 1414.28,
+    "end": 1415.88,
+    "text": " So I mean, James, you mentioned the Egyptian ones."
+  },
+  {
+    "start": 1415.88,
+    "end": 1416.88,
+    "text": " Tutankhamun had one."
+  },
+  {
+    "start": 1416.88,
+    "end": 1419.16,
+    "text": " Tutankhamun had a couple in this tomb, I think."
+  },
+  {
+    "start": 1419.16,
+    "end": 1420.96,
+    "text": " One was Ebony and Ivory."
+  },
+  {
+    "start": 1420.96,
+    "end": 1421.96,
+    "text": " Pretty cool."
+  },
+  {
+    "start": 1421.96,
+    "end": 1424.28,
+    "text": " Bishops had a folding chair in medieval times."
+  },
+  {
+    "start": 1424.28,
+    "end": 1425.28,
+    "text": " That was a huge deal."
+  },
+  {
+    "start": 1425.28,
+    "end": 1430.04,
+    "text": " And, um, there was a thing called the Cathedral, which is the bishop's official throne."
+  },
+  {
+    "start": 1430.04,
+    "end": 1433.56,
+    "text": " But if you were traveling around your diocese or whatever it was, you'd have to have a"
+  },
+  {
+    "start": 1433.56,
+    "end": 1434.56,
+    "text": " traveling."
+  },
+  {
+    "start": 1434.56,
+    "end": 1435.56,
+    "text": " A travel phone."
+  },
+  {
+    "start": 1435.56,
+    "end": 1436.56,
+    "text": " A travel phone."
+  },
+  {
+    "start": 1436.56,
+    "end": 1437.56,
+    "text": " Pretty much."
+  },
+  {
+    "start": 1437.56,
+    "end": 1438.56,
+    "text": " That's amazing."
+  },
+  {
+    "start": 1438.56,
+    "end": 1439.56,
+    "text": " A traveling cathedral."
+  },
+  {
+    "start": 1439.56,
+    "end": 1440.56,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1440.56,
+    "end": 1441.56,
+    "text": " Travel through."
+  },
+  {
+    "start": 1441.56,
+    "end": 1447.04,
+    "text": " Speaking of religion and chairs, not a folding chair as such, but is it a myth, the papal"
+  },
+  {
+    "start": 1447.04,
+    "end": 1449.68,
+    "text": " chair, the hole in the papal chair?"
+  },
+  {
+    "start": 1449.68,
+    "end": 1450.68,
+    "text": " That is a myth."
+  },
+  {
+    "start": 1450.68,
+    "end": 1451.68,
+    "text": " That is a myth."
+  },
+  {
+    "start": 1451.68,
+    "end": 1452.68,
+    "text": " The hole."
+  },
+  {
+    "start": 1452.68,
+    "end": 1454.8,
+    "text": " So the whole Pope Joan thing, isn't it?"
+  },
+  {
+    "start": 1454.8,
+    "end": 1460.36,
+    "text": " Like, Pope Joan, the supposed ninth century lady pope who probably didn't exist."
+  },
+  {
+    "start": 1460.36,
+    "end": 1464.48,
+    "text": " And that they then, the papal chair, had a hole in it so that their genitalia could"
+  },
+  {
+    "start": 1464.48,
+    "end": 1467.04,
+    "text": " be inspected from beneath to check they weren't a woman."
+  },
+  {
+    "start": 1467.04,
+    "end": 1468.04,
+    "text": " And then they'd shout."
+  },
+  {
+    "start": 1468.04,
+    "end": 1473.92,
+    "text": " There'd be some cry when they're like, he's got knackers in Latin, and then we can continue"
+  },
+  {
+    "start": 1473.92,
+    "end": 1475.24,
+    "text": " with the Catholic Church."
+  },
+  {
+    "start": 1475.24,
+    "end": 1478.44,
+    "text": " It's like, yeah, I think that definitely is a myth."
+  },
+  {
+    "start": 1478.44,
+    "end": 1479.44,
+    "text": " It's a myth."
+  },
+  {
+    "start": 1479.44,
+    "end": 1480.44,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1480.44,
+    "end": 1483.24,
+    "text": " And that's what happened these days for real."
+  },
+  {
+    "start": 1483.24,
+    "end": 1487.32,
+    "text": " I was, there seemed to be a spate of people getting their testicles trapped in folding"
+  },
+  {
+    "start": 1487.32,
+    "end": 1488.32,
+    "text": " chair."
+  },
+  {
+    "start": 1488.32,
+    "end": 1489.32,
+    "text": " Oh God."
+  },
+  {
+    "start": 1489.32,
+    "end": 1491.08,
+    "text": " I didn't even have some of my eyes watered."
+  },
+  {
+    "start": 1491.08,
+    "end": 1495,
+    "text": " I didn't read about any popes doing it, maybe those just didn't make the news."
+  },
+  {
+    "start": 1495,
+    "end": 1496,
+    "text": " It's so common."
+  },
+  {
+    "start": 1496,
+    "end": 1499.36,
+    "text": " Well, I looked, I thought, I think I was just looking at the chair accidents."
+  },
+  {
+    "start": 1499.36,
+    "end": 1504.52,
+    "text": " And I came across like a just a 60-something year old man in 2018 who was sitting in his"
+  },
+  {
+    "start": 1504.52,
+    "end": 1508.92,
+    "text": " folding chair, which had little slats before we got to the shower."
+  },
+  {
+    "start": 1508.92,
+    "end": 1513.56,
+    "text": " And they fell through and couldn't get them out, had to have the fibregaine come."
+  },
+  {
+    "start": 1513.56,
+    "end": 1516.6,
+    "text": " His testicles is that because they do, they do hang lower in older men, don't they?"
+  },
+  {
+    "start": 1516.6,
+    "end": 1517.6,
+    "text": " Where?"
+  },
+  {
+    "start": 1517.6,
+    "end": 1520.08,
+    "text": " It's interesting you say that because all the stories I found, which were then, I think"
+  },
+  {
+    "start": 1520.08,
+    "end": 1523.36,
+    "text": " I found five different stories, they were all older men."
+  },
+  {
+    "start": 1523.36,
+    "end": 1527.6,
+    "text": " The rubber perishes as time goes on, and there's a certain."
+  },
+  {
+    "start": 1527.6,
+    "end": 1528.6,
+    "text": " Like a worn out slinky."
+  },
+  {
+    "start": 1528.6,
+    "end": 1533.16,
+    "text": " Yeah, there's more given system."
+  },
+  {
+    "start": 1533.16,
+    "end": 1534.16,
+    "text": " Yeah, it's tough."
+  },
+  {
+    "start": 1534.16,
+    "end": 1537.56,
+    "text": " There are some great photos there if you want to look at them."
+  },
+  {
+    "start": 1537.56,
+    "end": 1539.44,
+    "text": " What are the photos of?"
+  },
+  {
+    "start": 1539.44,
+    "end": 1544.12,
+    "text": " It's mostly like there's a man lying on a stretcher, but he's obviously still sitting"
+  },
+  {
+    "start": 1544.12,
+    "end": 1546.12,
+    "text": " on the chair."
+  },
+  {
+    "start": 1546.12,
+    "end": 1550.36,
+    "text": " Actually, if you go to Blackpool, you know those cutouts where you can put your head"
+  },
+  {
+    "start": 1550.36,
+    "end": 1551.36,
+    "text": " in."
+  },
+  {
+    "start": 1551.36,
+    "end": 1552.36,
+    "text": " There's one of those."
+  },
+  {
+    "start": 1552.36,
+    "end": 1556.4,
+    "text": " A dangling pair of testicles stuck through a deck chair."
+  },
+  {
+    "start": 1556.4,
+    "end": 1559.24,
+    "text": " They have to have the fibregaine on hand at all times."
+  },
+  {
+    "start": 1559.24,
+    "end": 1562.92,
+    "text": " Because it's scary when the fibregaine turn up, because they've got things like angle"
+  },
+  {
+    "start": 1562.92,
+    "end": 1565.84,
+    "text": " grinders and they've got all sorts of big kit, haven't they?"
+  },
+  {
+    "start": 1565.84,
+    "end": 1568.08,
+    "text": " It doesn't really go for the fibregaine, I would have thought."
+  },
+  {
+    "start": 1568.08,
+    "end": 1569.8,
+    "text": " It goes for a delicate."
+  },
+  {
+    "start": 1569.8,
+    "end": 1570.8,
+    "text": " Surgeon."
+  },
+  {
+    "start": 1570.8,
+    "end": 1571.8,
+    "text": " A massaging."
+  },
+  {
+    "start": 1571.8,
+    "end": 1572.8,
+    "text": " Yeah."
+  },
+  {
+    "start": 1572.8,
+    "end": 1573.8,
+    "text": " Some oils."
+  },
+  {
+    "start": 1573.8,
+    "end": 1575.04,
+    "text": " They have to cut the chairs."
+  },
+  {
+    "start": 1575.04,
+    "end": 1579,
+    "text": " I think there's sometimes no mass and level of massaging you can do, which is a bit frightening."
+  },
+  {
+    "start": 1579,
+    "end": 1580,
+    "text": " Yeah."
+  },
+  {
+    "start": 1580,
+    "end": 1583.96,
+    "text": " And I have to say I respected the fire, it was firemen, two firemen so much in one photo"
+  },
+  {
+    "start": 1583.96,
+    "end": 1588.96,
+    "text": " I saw who had such grave looks on their faces, which I imagine took a huge amount of effort"
+  },
+  {
+    "start": 1588.96,
+    "end": 1591.24,
+    "text": " to try to free some of those testicles from a chair."
+  },
+  {
+    "start": 1591.24,
+    "end": 1595.16,
+    "text": " We used to call it, so I used to be a nurse and you'd call it the nurses mask or the,"
+  },
+  {
+    "start": 1595.16,
+    "end": 1597.28,
+    "text": " and I think firemen had the same thing."
+  },
+  {
+    "start": 1597.28,
+    "end": 1601.88,
+    "text": " Because sometimes you'd see things that were funny or that were horrific and you can't,"
+  },
+  {
+    "start": 1601.88,
+    "end": 1604.8,
+    "text": " you know, you can't take a bandage off and go, oh my God, you know, you have to just"
+  },
+  {
+    "start": 1604.8,
+    "end": 1608.88,
+    "text": " sort of maintain this kind of nurses mask and they call it, yeah."
+  },
+  {
+    "start": 1608.88,
+    "end": 1610.84,
+    "text": " Is it a sort of a creepy grin?"
+  },
+  {
+    "start": 1610.84,
+    "end": 1611.84,
+    "text": " Amazing."
+  },
+  {
+    "start": 1611.84,
+    "end": 1616.92,
+    "text": " Do you know who the first person to use the word deck chair was?"
+  },
+  {
+    "start": 1616.92,
+    "end": 1620.28,
+    "text": " We're going to say invented the word deck chair, but famous person, famous person."
+  },
+  {
+    "start": 1620.28,
+    "end": 1621.28,
+    "text": " So it's gettable."
+  },
+  {
+    "start": 1621.28,
+    "end": 1622.28,
+    "text": " Oh, no."
+  },
+  {
+    "start": 1622.28,
+    "end": 1626.48,
+    "text": " I'd be astonished if you guys use the word deck chair."
+  },
+  {
+    "start": 1626.48,
+    "end": 1627.48,
+    "text": " Give us a century."
+  },
+  {
+    "start": 1627.48,
+    "end": 1633.48,
+    "text": " 1880s, author of a children's book, often ran a service car."
+  },
+  {
+    "start": 1633.48,
+    "end": 1634.48,
+    "text": " Oh, Louis Carlsson."
+  },
+  {
+    "start": 1634.48,
+    "end": 1635.48,
+    "text": " No, that's not 1880s."
+  },
+  {
+    "start": 1635.48,
+    "end": 1636.48,
+    "text": " 1880s."
+  },
+  {
+    "start": 1636.48,
+    "end": 1639.84,
+    "text": " Oh, Kenneth Graham, who wrote The Wind and the Willows."
+  },
+  {
+    "start": 1639.84,
+    "end": 1640.84,
+    "text": " All good one, but no."
+  },
+  {
+    "start": 1640.84,
+    "end": 1641.84,
+    "text": " British?"
+  },
+  {
+    "start": 1641.84,
+    "end": 1642.84,
+    "text": " British, yeah."
+  },
+  {
+    "start": 1642.84,
+    "end": 1644.84,
+    "text": " British children's of the 1880s."
+  },
+  {
+    "start": 1644.84,
+    "end": 1645.84,
+    "text": " 1880s."
+  },
+  {
+    "start": 1645.84,
+    "end": 1646.84,
+    "text": " It's tough."
+  },
+  {
+    "start": 1646.84,
+    "end": 1647.84,
+    "text": " Robert Louis Stevenson."
+  },
+  {
+    "start": 1647.84,
+    "end": 1648.84,
+    "text": " No."
+  },
+  {
+    "start": 1648.84,
+    "end": 1650.84,
+    "text": " You like it because you wrote the pirate books?"
+  },
+  {
+    "start": 1650.84,
+    "end": 1651.84,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1651.84,
+    "end": 1652.84,
+    "text": " Think of that surname."
+  },
+  {
+    "start": 1652.84,
+    "end": 1653.84,
+    "text": " Stevenson."
+  },
+  {
+    "start": 1653.84,
+    "end": 1656.4,
+    "text": " I think of what else Stevenson's are related to."
+  },
+  {
+    "start": 1656.4,
+    "end": 1658.84,
+    "text": " That's Stevenson's rocket was the first train."
+  },
+  {
+    "start": 1658.84,
+    "end": 1659.84,
+    "text": " Oh, Nesbit."
+  },
+  {
+    "start": 1659.84,
+    "end": 1660.84,
+    "text": " Oh, Nesbit."
+  },
+  {
+    "start": 1660.84,
+    "end": 1662.84,
+    "text": " Yeah, yeah, I wrote my place."
+  },
+  {
+    "start": 1662.84,
+    "end": 1663.84,
+    "text": " That was good."
+  },
+  {
+    "start": 1663.84,
+    "end": 1665.84,
+    "text": " That was stunningly good."
+  },
+  {
+    "start": 1665.84,
+    "end": 1671.84,
+    "text": " Ian Nesbit, who wrote The Railway Children, deck chair was first used in that book."
+  },
+  {
+    "start": 1671.84,
+    "end": 1673.84,
+    "text": " Also, great clue giving from Stevenson."
+  },
+  {
+    "start": 1673.84,
+    "end": 1674.84,
+    "text": " Yeah, that was."
+  },
+  {
+    "start": 1674.84,
+    "end": 1676.84,
+    "text": " It was a great throw and a great catch."
+  },
+  {
+    "start": 1676.84,
+    "end": 1678.84,
+    "text": " I enjoyed that very much."
+  },
+  {
+    "start": 1678.84,
+    "end": 1680.84,
+    "text": " It was good part of the audience."
+  },
+  {
+    "start": 1680.84,
+    "end": 1681.84,
+    "text": " On either side."
+  },
+  {
+    "start": 1681.84,
+    "end": 1684.84,
+    "text": " Some other words invented by Ian Nesbit in the OED."
+  },
+  {
+    "start": 1684.84,
+    "end": 1687.84,
+    "text": " Brecky, snarky and zooming."
+  },
+  {
+    "start": 1687.84,
+    "end": 1688.84,
+    "text": " Wow."
+  },
+  {
+    "start": 1688.84,
+    "end": 1690.84,
+    "text": " Zooming as in moving around quickly."
+  },
+  {
+    "start": 1690.84,
+    "end": 1691.84,
+    "text": " My dog gets the zoomies."
+  },
+  {
+    "start": 1691.84,
+    "end": 1692.84,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 1692.84,
+    "end": 1693.84,
+    "text": " Zooming, yeah."
+  },
+  {
+    "start": 1693.84,
+    "end": 1694.84,
+    "text": " Wait, what does the dog do?"
+  },
+  {
+    "start": 1694.84,
+    "end": 1696.84,
+    "text": " It's called a zoomie."
+  },
+  {
+    "start": 1696.84,
+    "end": 1698.84,
+    "text": " Yeah, she gets some zoomie."
+  },
+  {
+    "start": 1698.84,
+    "end": 1699.84,
+    "text": " Of course, my mum."
+  },
+  {
+    "start": 1699.84,
+    "end": 1703.84,
+    "text": " You know, when dogs just get really hyper excited, they just run about."
+  },
+  {
+    "start": 1703.84,
+    "end": 1704.84,
+    "text": " They call it the zoomies."
+  },
+  {
+    "start": 1704.84,
+    "end": 1705.84,
+    "text": " Is that what the zoomies is?"
+  },
+  {
+    "start": 1705.84,
+    "end": 1706.84,
+    "text": " Yeah."
+  },
+  {
+    "start": 1706.84,
+    "end": 1708.84,
+    "text": " I thought the zoomies was a drug thing."
+  },
+  {
+    "start": 1708.84,
+    "end": 1710.84,
+    "text": " It might also be that."
+  },
+  {
+    "start": 1710.84,
+    "end": 1712.84,
+    "text": " It's drug paraphernalia, your honour."
+  },
+  {
+    "start": 1712.84,
+    "end": 1714.84,
+    "text": " Wow."
+  },
+  {
+    "start": 1714.84,
+    "end": 1717.84,
+    "text": " Do they ban the deck chairs on Bournemouth Beach?"
+  },
+  {
+    "start": 1717.84,
+    "end": 1719.84,
+    "text": " I think it was last year."
+  },
+  {
+    "start": 1719.84,
+    "end": 1722.84,
+    "text": " There was, so, oh, they stopped renting them out."
+  },
+  {
+    "start": 1722.84,
+    "end": 1725.84,
+    "text": " You didn't get a rescue if you bought your own deck chair."
+  },
+  {
+    "start": 1725.84,
+    "end": 1729.84,
+    "text": " Wouldn't immediate climb down from a promising little hill."
+  },
+  {
+    "start": 1729.84,
+    "end": 1731.84,
+    "text": " It's a molehill now."
+  },
+  {
+    "start": 1731.84,
+    "end": 1733.84,
+    "text": " It was a government thing, or a council thing."
+  },
+  {
+    "start": 1733.84,
+    "end": 1734.84,
+    "text": " It was a council thing."
+  },
+  {
+    "start": 1734.84,
+    "end": 1735.84,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 1735.84,
+    "end": 1737.84,
+    "text": " Because they were afraid they were going to be used as weapons."
+  },
+  {
+    "start": 1737.84,
+    "end": 1738.84,
+    "text": " Really?"
+  },
+  {
+    "start": 1738.84,
+    "end": 1740.84,
+    "text": " I couldn't really find any evidence that they have been used as weapons."
+  },
+  {
+    "start": 1740.84,
+    "end": 1742.84,
+    "text": " It feels like a pretext, doesn't it?"
+  },
+  {
+    "start": 1742.84,
+    "end": 1743.84,
+    "text": " It does, but for what, why?"
+  },
+  {
+    "start": 1743.84,
+    "end": 1744.84,
+    "text": " Why didn't they want to rent them out?"
+  },
+  {
+    "start": 1744.84,
+    "end": 1746.84,
+    "text": " It lost the council about 200 grand that year."
+  },
+  {
+    "start": 1746.84,
+    "end": 1747.84,
+    "text": " Really?"
+  },
+  {
+    "start": 1747.84,
+    "end": 1753.84,
+    "text": " How would they think that you'd go around and sort of snap old men's testicles on them?"
+  },
+  {
+    "start": 1753.84,
+    "end": 1759.84,
+    "text": " I suppose chairs as weapons is, like, every time there's any sort of football violence, whatever,"
+  },
+  {
+    "start": 1759.84,
+    "end": 1762.84,
+    "text": " it's always plastic chairs being thrown around, isn't it?"
+  },
+  {
+    "start": 1762.84,
+    "end": 1763.84,
+    "text": " Oh, it's plastic one."
+  },
+  {
+    "start": 1763.84,
+    "end": 1765.84,
+    "text": " And in wrestling, of course, they have the steel chair,"
+  },
+  {
+    "start": 1765.84,
+    "end": 1767.84,
+    "text": " but it's very rarely the deck chair."
+  },
+  {
+    "start": 1767.84,
+    "end": 1769.84,
+    "text": " He's getting out the deck chair."
+  },
+  {
+    "start": 1769.84,
+    "end": 1771.84,
+    "text": " Oh, he's still getting it out."
+  },
+  {
+    "start": 1771.84,
+    "end": 1773.84,
+    "text": " He wants it out."
+  },
+  {
+    "start": 1773.84,
+    "end": 1776.84,
+    "text": " You're in trouble."
+  },
+  {
+    "start": 1776.84,
+    "end": 1779.84,
+    "text": " You talked about Bournemouth, Anna, I think."
+  },
+  {
+    "start": 1779.84,
+    "end": 1783.84,
+    "text": " There was an article in 2021 in the Telegraph about deck chairs in Scarborough."
+  },
+  {
+    "start": 1783.84,
+    "end": 1786.84,
+    "text": " This was a 58-year-old woman called Dawn Avison,"
+  },
+  {
+    "start": 1786.84,
+    "end": 1790.84,
+    "text": " who runs the last remaining deck chair concession in Scarborough."
+  },
+  {
+    "start": 1790.84,
+    "end": 1794.84,
+    "text": " She's got what they described as a deep mahogany tan,"
+  },
+  {
+    "start": 1794.84,
+    "end": 1797.84,
+    "text": " and apparently locally it's known as Scarborough Rust,"
+  },
+  {
+    "start": 1797.84,
+    "end": 1801.84,
+    "text": " which is if you work on the beach."
+  },
+  {
+    "start": 1801.84,
+    "end": 1803.84,
+    "text": " That's your tan that you have."
+  },
+  {
+    "start": 1803.84,
+    "end": 1806.84,
+    "text": " And she said that last summer,"
+  },
+  {
+    "start": 1806.84,
+    "end": 1809.84,
+    "text": " former Education Secretary Gavin Williamson"
+  },
+  {
+    "start": 1809.84,
+    "end": 1812.84,
+    "text": " sat down on one of her deck chairs for a selfie"
+  },
+  {
+    "start": 1812.84,
+    "end": 1814.84,
+    "text": " and then left without paying."
+  },
+  {
+    "start": 1814.84,
+    "end": 1815.84,
+    "text": " What?"
+  },
+  {
+    "start": 1815.84,
+    "end": 1817.84,
+    "text": " And now he's a minister without portfolio,"
+  },
+  {
+    "start": 1817.84,
+    "end": 1819.84,
+    "text": " so I think that just says, you know..."
+  },
+  {
+    "start": 1819.84,
+    "end": 1820.84,
+    "text": " Wow."
+  },
+  {
+    "start": 1820.84,
+    "end": 1822.84,
+    "text": " He's a man who I genuinely don't think could put up a deck chair."
+  },
+  {
+    "start": 1822.84,
+    "end": 1824.84,
+    "text": " Gavin Williamson, no."
+  },
+  {
+    "start": 1824.84,
+    "end": 1827.84,
+    "text": " I don't think any of them could, because they're the current cabinet."
+  },
+  {
+    "start": 1827.84,
+    "end": 1829.84,
+    "text": " Can I tell you one bit of folding chair news?"
+  },
+  {
+    "start": 1829.84,
+    "end": 1830.84,
+    "text": " Yeah."
+  },
+  {
+    "start": 1830.84,
+    "end": 1833.84,
+    "text": " Are you guys familiar with Sidney Jo, the 27-year-old tiktoker?"
+  },
+  {
+    "start": 1833.84,
+    "end": 1834.84,
+    "text": " Of course."
+  },
+  {
+    "start": 1834.84,
+    "end": 1835.84,
+    "text": " There you go."
+  },
+  {
+    "start": 1835.84,
+    "end": 1836.84,
+    "text": " I knew you would be..."
+  },
+  {
+    "start": 1836.84,
+    "end": 1837.84,
+    "text": " 27-year-old tiktoker."
+  },
+  {
+    "start": 1837.84,
+    "end": 1840.84,
+    "text": " I don't know anything about tiktok, but that feels old."
+  },
+  {
+    "start": 1840.84,
+    "end": 1843.84,
+    "text": " Well, she's appealing to the youth."
+  },
+  {
+    "start": 1843.84,
+    "end": 1846.84,
+    "text": " So she got stuck in a folding chair,"
+  },
+  {
+    "start": 1846.84,
+    "end": 1848.84,
+    "text": " which is kind of amazing."
+  },
+  {
+    "start": 1848.84,
+    "end": 1850.84,
+    "text": " There's a picture and she's looking at her body"
+  },
+  {
+    "start": 1850.84,
+    "end": 1852.84,
+    "text": " through the middle of it, it's folded around her,"
+  },
+  {
+    "start": 1852.84,
+    "end": 1854.84,
+    "text": " and she had to be removed by the fire brigade."
+  },
+  {
+    "start": 1854.84,
+    "end": 1856.84,
+    "text": " I think this was last year,"
+  },
+  {
+    "start": 1856.84,
+    "end": 1858.84,
+    "text": " and they used jaws of life,"
+  },
+  {
+    "start": 1858.84,
+    "end": 1860.84,
+    "text": " the hydraulic things that you used"
+  },
+  {
+    "start": 1860.84,
+    "end": 1863.84,
+    "text": " to extract people from crashed cars and stuff,"
+  },
+  {
+    "start": 1863.84,
+    "end": 1865.84,
+    "text": " which sounds quite frightening."
+  },
+  {
+    "start": 1865.84,
+    "end": 1867.84,
+    "text": " And the reason that she'd got stuck"
+  },
+  {
+    "start": 1867.84,
+    "end": 1871.84,
+    "text": " is because she has a $199 per minute channel"
+  },
+  {
+    "start": 1871.84,
+    "end": 1874.84,
+    "text": " where she gets stuck in things and then frees herself,"
+  },
+  {
+    "start": 1874.84,
+    "end": 1876.84,
+    "text": " and it went wrong."
+  },
+  {
+    "start": 1876.84,
+    "end": 1878.84,
+    "text": " Oh, what do you mean?"
+  },
+  {
+    "start": 1878.84,
+    "end": 1881.84,
+    "text": " It's like people pay to watch their escape from stuff."
+  },
+  {
+    "start": 1881.84,
+    "end": 1884.84,
+    "text": " Yes, I think we're all asking, is this a sex thing?"
+  },
+  {
+    "start": 1884.84,
+    "end": 1885.84,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1885.84,
+    "end": 1888.84,
+    "text": " Look, it says it's a fetish channel."
+  },
+  {
+    "start": 1888.84,
+    "end": 1890.84,
+    "text": " That sounds like sex."
+  },
+  {
+    "start": 1890.84,
+    "end": 1892.84,
+    "text": " I'm not down with all the lingo,"
+  },
+  {
+    "start": 1892.84,
+    "end": 1894.84,
+    "text": " but I think that is a sex thing."
+  },
+  {
+    "start": 1894.84,
+    "end": 1897.84,
+    "text": " God, the poor, bloody fire brigade in her local area."
+  },
+  {
+    "start": 1897.84,
+    "end": 1898.84,
+    "text": " Hello, it's me."
+  },
+  {
+    "start": 1898.84,
+    "end": 1899.84,
+    "text": " This is me again."
+  },
+  {
+    "start": 1899.84,
+    "end": 1900.84,
+    "text": " Yes."
+  },
+  {
+    "start": 1900.84,
+    "end": 1902.84,
+    "text": " No, a washing machine this time, yeah."
+  },
+  {
+    "start": 1902.84,
+    "end": 1911.84,
+    "text": " Okay, it's time for fact number three,"
+  },
+  {
+    "start": 1911.84,
+    "end": 1913.84,
+    "text": " and that is my fact."
+  },
+  {
+    "start": 1913.84,
+    "end": 1916.84,
+    "text": " This week is that most people dislike kale"
+  },
+  {
+    "start": 1916.84,
+    "end": 1919.84,
+    "text": " before they're even born."
+  },
+  {
+    "start": 1919.84,
+    "end": 1922.84,
+    "text": " That's how long lasting the loathing is."
+  },
+  {
+    "start": 1922.84,
+    "end": 1924.84,
+    "text": " This is this weird thing that came out recently,"
+  },
+  {
+    "start": 1924.84,
+    "end": 1926.84,
+    "text": " and it's quite a small study,"
+  },
+  {
+    "start": 1926.84,
+    "end": 1929.84,
+    "text": " but it looked at ultrasound scans in 70,"
+  },
+  {
+    "start": 1929.84,
+    "end": 1933.84,
+    "text": " about 70 pregnant women in the late in the third trimester,"
+  },
+  {
+    "start": 1933.84,
+    "end": 1936.84,
+    "text": " and then they got the pregnant women to take capsules"
+  },
+  {
+    "start": 1936.84,
+    "end": 1941.84,
+    "text": " of either powdered kale or powdered carrot or nothing."
+  },
+  {
+    "start": 1941.84,
+    "end": 1944.84,
+    "text": " And then they looked at what the fetuses were doing,"
+  },
+  {
+    "start": 1944.84,
+    "end": 1947.84,
+    "text": " and the fetuses made the facial expressions"
+  },
+  {
+    "start": 1947.84,
+    "end": 1949.84,
+    "text": " that, well, when they had the kale,"
+  },
+  {
+    "start": 1949.84,
+    "end": 1951.84,
+    "text": " they made the facial expression they make when they cry."
+  },
+  {
+    "start": 1951.84,
+    "end": 1955.84,
+    "text": " An unmistakable kind of wint of displeasure."
+  },
+  {
+    "start": 1955.84,
+    "end": 1957.84,
+    "text": " I mean, we're not 100%,"
+  },
+  {
+    "start": 1957.84,
+    "end": 1959.84,
+    "text": " and that's what a fetus means when it makes that face,"
+  },
+  {
+    "start": 1959.84,
+    "end": 1960.84,
+    "text": " but come on."
+  },
+  {
+    "start": 1960.84,
+    "end": 1962.84,
+    "text": " It feels like ethical issues here, right?"
+  },
+  {
+    "start": 1962.84,
+    "end": 1964.84,
+    "text": " If you're making your fetus unhappy, making it cry."
+  },
+  {
+    "start": 1964.84,
+    "end": 1965.84,
+    "text": " You're right."
+  },
+  {
+    "start": 1965.84,
+    "end": 1967.84,
+    "text": " The ethical issues with feeding people kale,"
+  },
+  {
+    "start": 1967.84,
+    "end": 1970.84,
+    "text": " that's every parent who makes their kid eat vegetables."
+  },
+  {
+    "start": 1970.84,
+    "end": 1972.84,
+    "text": " So at what point is the baby crying?"
+  },
+  {
+    "start": 1972.84,
+    "end": 1974.84,
+    "text": " Because obviously the mother's eating the, takes the capsule,"
+  },
+  {
+    "start": 1974.84,
+    "end": 1976.84,
+    "text": " so they're waiting for it to,"
+  },
+  {
+    "start": 1976.84,
+    "end": 1978.84,
+    "text": " how do they know that that, at that point,"
+  },
+  {
+    "start": 1978.84,
+    "end": 1980.84,
+    "text": " that the baby's receiving the kale?"
+  },
+  {
+    "start": 1980.84,
+    "end": 1982.84,
+    "text": " I think it was, they waited 20 minutes,"
+  },
+  {
+    "start": 1982.84,
+    "end": 1983.84,
+    "text": " and I think by that point,"
+  },
+  {
+    "start": 1983.84,
+    "end": 1985.84,
+    "text": " whatever you've eaten has filtered through"
+  },
+  {
+    "start": 1985.84,
+    "end": 1987.84,
+    "text": " to the amniotic fluid, whatever it is."
+  },
+  {
+    "start": 1987.84,
+    "end": 1990.84,
+    "text": " So the flavor, they know the chemical is in there at that point."
+  },
+  {
+    "start": 1990.84,
+    "end": 1991.84,
+    "text": " Right."
+  },
+  {
+    "start": 1991.84,
+    "end": 1993.84,
+    "text": " And they can compare it to the people who've had the carrot"
+  },
+  {
+    "start": 1993.84,
+    "end": 1995.84,
+    "text": " or the nothing and see at an exact moment"
+  },
+  {
+    "start": 1995.84,
+    "end": 1996.84,
+    "text": " when their expression changes."
+  },
+  {
+    "start": 1996.84,
+    "end": 1999.84,
+    "text": " But it might be a benevolent thing, actually,"
+  },
+  {
+    "start": 1999.84,
+    "end": 2003.84,
+    "text": " because if theoretically you eat lots of kale in pregnancy,"
+  },
+  {
+    "start": 2003.84,
+    "end": 2007.84,
+    "text": " you might then be able to stop your child hating kale"
+  },
+  {
+    "start": 2007.84,
+    "end": 2011.84,
+    "text": " in outside pregnancy, in childhood."
+  },
+  {
+    "start": 2011.84,
+    "end": 2012.84,
+    "text": " I think that works."
+  },
+  {
+    "start": 2012.84,
+    "end": 2013.84,
+    "text": " That does work a bit, I think."
+  },
+  {
+    "start": 2013.84,
+    "end": 2017.84,
+    "text": " It's possible that you can prevent fussy eating, basically,"
+  },
+  {
+    "start": 2017.84,
+    "end": 2020.84,
+    "text": " by just exposing the child to as many flavors as possible early on."
+  },
+  {
+    "start": 2020.84,
+    "end": 2021.84,
+    "text": " Right."
+  },
+  {
+    "start": 2021.84,
+    "end": 2022.84,
+    "text": " It's a bit less unfamiliar later on"
+  },
+  {
+    "start": 2022.84,
+    "end": 2024.84,
+    "text": " when you're giving them whatever for the first time."
+  },
+  {
+    "start": 2024.84,
+    "end": 2026.84,
+    "text": " Obviously the problem being that you'll feel so ill"
+  },
+  {
+    "start": 2026.84,
+    "end": 2029.84,
+    "text": " for most of your pregnancy that you will only eat bread and biscuit."
+  },
+  {
+    "start": 2029.84,
+    "end": 2033.84,
+    "text": " Okay, I think my mum must have mostly eaten refined sugar jelly."
+  },
+  {
+    "start": 2033.84,
+    "end": 2035.84,
+    "text": " But they actually like the carrots,"
+  },
+  {
+    "start": 2035.84,
+    "end": 2036.84,
+    "text": " which I find quite surprising."
+  },
+  {
+    "start": 2036.84,
+    "end": 2038.84,
+    "text": " I know carrots are sweet, everyone always says,"
+  },
+  {
+    "start": 2038.84,
+    "end": 2040.84,
+    "text": " but they're no whisper bar, are they?"
+  },
+  {
+    "start": 2040.84,
+    "end": 2042.84,
+    "text": " If you've never had a whisper bar,"
+  },
+  {
+    "start": 2042.84,
+    "end": 2044.84,
+    "text": " if all you've got to compare it to is kale,"
+  },
+  {
+    "start": 2044.84,
+    "end": 2045.84,
+    "text": " then carrots are pretty good."
+  },
+  {
+    "start": 2045.84,
+    "end": 2046.84,
+    "text": " You're absolutely right."
+  },
+  {
+    "start": 2046.84,
+    "end": 2048.84,
+    "text": " Yeah, they did a little sort of smile,"
+  },
+  {
+    "start": 2048.84,
+    "end": 2050.84,
+    "text": " sort of fetus equivalent of a smile"
+  },
+  {
+    "start": 2050.84,
+    "end": 2052.84,
+    "text": " when they tasted the carrot twice as often"
+  },
+  {
+    "start": 2052.84,
+    "end": 2053.84,
+    "text": " as when they tasted nothing."
+  },
+  {
+    "start": 2053.84,
+    "end": 2055.84,
+    "text": " I wonder if that's because the carrots help them see"
+  },
+  {
+    "start": 2055.84,
+    "end": 2058.84,
+    "text": " in the dark and then it's like, \"Oh, I can see where I am!\""
+  },
+  {
+    "start": 2058.84,
+    "end": 2061.84,
+    "text": " Oh, and it's gross."
+  },
+  {
+    "start": 2061.84,
+    "end": 2063.84,
+    "text": " But yeah, it is..."
+  },
+  {
+    "start": 2063.84,
+    "end": 2064.84,
+    "text": " I don't think kale's that bad."
+  },
+  {
+    "start": 2064.84,
+    "end": 2066.84,
+    "text": " I think I can't taste bitterness as much as some people."
+  },
+  {
+    "start": 2066.84,
+    "end": 2067.84,
+    "text": " It's all right."
+  },
+  {
+    "start": 2067.84,
+    "end": 2070.84,
+    "text": " I had some in research for this podcast"
+  },
+  {
+    "start": 2070.84,
+    "end": 2072.84,
+    "text": " when I knew we were going to be talking about kale."
+  },
+  {
+    "start": 2072.84,
+    "end": 2075.84,
+    "text": " I went and had a sort of salad and..."
+  },
+  {
+    "start": 2075.84,
+    "end": 2077.84,
+    "text": " Then as in you searched out the kale,"
+  },
+  {
+    "start": 2077.84,
+    "end": 2079.84,
+    "text": " because I don't have kale in the house anyway."
+  },
+  {
+    "start": 2079.84,
+    "end": 2081.84,
+    "text": " Right, so I never do."
+  },
+  {
+    "start": 2081.84,
+    "end": 2082.84,
+    "text": " No, no, no."
+  },
+  {
+    "start": 2082.84,
+    "end": 2084.84,
+    "text": " I went to a cafe."
+  },
+  {
+    "start": 2084.84,
+    "end": 2087.84,
+    "text": " I was like, \"I'll have that kale salad, please.\""
+  },
+  {
+    "start": 2087.84,
+    "end": 2089.84,
+    "text": " I was pleasantly surprised."
+  },
+  {
+    "start": 2089.84,
+    "end": 2091.84,
+    "text": " I thought it was horrible and I don't mind it."
+  },
+  {
+    "start": 2091.84,
+    "end": 2093.84,
+    "text": " I feel like kale was only invented"
+  },
+  {
+    "start": 2093.84,
+    "end": 2095.84,
+    "text": " sort of about 10 years ago."
+  },
+  {
+    "start": 2095.84,
+    "end": 2097.84,
+    "text": " I wasn't eating kale in my childhood."
+  },
+  {
+    "start": 2097.84,
+    "end": 2098.84,
+    "text": " I was eating cabbage."
+  },
+  {
+    "start": 2098.84,
+    "end": 2100.84,
+    "text": " It was pretty much 2012 when it kicked off,"
+  },
+  {
+    "start": 2100.84,
+    "end": 2101.84,
+    "text": " 2011, 2012."
+  },
+  {
+    "start": 2101.84,
+    "end": 2103.84,
+    "text": " And before that, literally no one ate it."
+  },
+  {
+    "start": 2103.84,
+    "end": 2106.84,
+    "text": " I think kale was invented in 1976."
+  },
+  {
+    "start": 2106.84,
+    "end": 2107.84,
+    "text": " This was..."
+  },
+  {
+    "start": 2107.84,
+    "end": 2110.84,
+    "text": " It was the year I was invented."
+  },
+  {
+    "start": 2110.84,
+    "end": 2113.84,
+    "text": " You had a twin, kale."
+  },
+  {
+    "start": 2113.84,
+    "end": 2114.84,
+    "text": " This was..."
+  },
+  {
+    "start": 2114.84,
+    "end": 2116.84,
+    "text": " I didn't eat it in the womb."
+  },
+  {
+    "start": 2116.84,
+    "end": 2118.84,
+    "text": " Unlike my other twin."
+  },
+  {
+    "start": 2118.84,
+    "end": 2121.84,
+    "text": " This was New York Times food critic Mimi Sheraton."
+  },
+  {
+    "start": 2121.84,
+    "end": 2123.84,
+    "text": " In fact, she was the first female restaurant critic"
+  },
+  {
+    "start": 2123.84,
+    "end": 2125.84,
+    "text": " at the New York Times."
+  },
+  {
+    "start": 2125.84,
+    "end": 2127.84,
+    "text": " And she wrote about how great kale was."
+  },
+  {
+    "start": 2127.84,
+    "end": 2129.84,
+    "text": " And at that time, literally no one ate kale"
+  },
+  {
+    "start": 2129.84,
+    "end": 2131.84,
+    "text": " in the United States,"
+  },
+  {
+    "start": 2131.84,
+    "end": 2133.84,
+    "text": " but she helped to make it popular."
+  },
+  {
+    "start": 2133.84,
+    "end": 2135.84,
+    "text": " But they interviewed her a couple of years ago"
+  },
+  {
+    "start": 2135.84,
+    "end": 2139.84,
+    "text": " and she said she really regrets now making kale popular."
+  },
+  {
+    "start": 2139.84,
+    "end": 2141.84,
+    "text": " She says..."
+  },
+  {
+    "start": 2141.84,
+    "end": 2144.84,
+    "text": " Well, she says she read through the article"
+  },
+  {
+    "start": 2144.84,
+    "end": 2147.84,
+    "text": " and she realizes that in those days she liked kale"
+  },
+  {
+    "start": 2147.84,
+    "end": 2149.84,
+    "text": " because it was cooked properly."
+  },
+  {
+    "start": 2149.84,
+    "end": 2151.84,
+    "text": " And in these days, people serve it raw."
+  },
+  {
+    "start": 2151.84,
+    "end": 2154.84,
+    "text": " They kind of roast it like I often have roasted kale,"
+  },
+  {
+    "start": 2154.84,
+    "end": 2156.84,
+    "text": " which is, you know, it does taste quite burnt"
+  },
+  {
+    "start": 2156.84,
+    "end": 2158.84,
+    "text": " and not the way I cook anyway."
+  },
+  {
+    "start": 2158.84,
+    "end": 2160.84,
+    "text": " Do you make kale crisps?"
+  },
+  {
+    "start": 2160.84,
+    "end": 2161.84,
+    "text": " I've tried so many times to do that."
+  },
+  {
+    "start": 2161.84,
+    "end": 2163.84,
+    "text": " And every time I went up, we just burnt kale."
+  },
+  {
+    "start": 2163.84,
+    "end": 2165.84,
+    "text": " I think that's just how it's meant to be."
+  },
+  {
+    "start": 2165.84,
+    "end": 2167.84,
+    "text": " You've just been confused by the word crisps and the fact that..."
+  },
+  {
+    "start": 2167.84,
+    "end": 2168.84,
+    "text": " Right."
+  },
+  {
+    "start": 2168.84,
+    "end": 2170.84,
+    "text": " I thought it was going to come out like golden wonder."
+  },
+  {
+    "start": 2170.84,
+    "end": 2172.84,
+    "text": " All the recipes claim it's heaven."
+  },
+  {
+    "start": 2172.84,
+    "end": 2174.84,
+    "text": " It's kind of okay."
+  },
+  {
+    "start": 2174.84,
+    "end": 2177.84,
+    "text": " But Mimi Sheraton says if you eat it like you're supposed to eat it,"
+  },
+  {
+    "start": 2177.84,
+    "end": 2179.84,
+    "text": " which is like a winter vegetable,"
+  },
+  {
+    "start": 2179.84,
+    "end": 2181.84,
+    "text": " like you might have cabbage or something like that,"
+  },
+  {
+    "start": 2181.84,
+    "end": 2183.84,
+    "text": " quite often boiled or stewed or stuff like that,"
+  },
+  {
+    "start": 2183.84,
+    "end": 2185.84,
+    "text": " then it's really delicious."
+  },
+  {
+    "start": 2185.84,
+    "end": 2187.84,
+    "text": " But these days, the way that people cook it is wrong"
+  },
+  {
+    "start": 2187.84,
+    "end": 2189.84,
+    "text": " and she feels quite responsible for that."
+  },
+  {
+    "start": 2189.84,
+    "end": 2191.84,
+    "text": " That's so interesting."
+  },
+  {
+    "start": 2191.84,
+    "end": 2193.84,
+    "text": " That is the one thing I think my Nan might have got it right,"
+  },
+  {
+    "start": 2193.84,
+    "end": 2195.84,
+    "text": " that you do have to boil it for three days."
+  },
+  {
+    "start": 2195.84,
+    "end": 2196.84,
+    "text": " Yeah."
+  },
+  {
+    "start": 2196.84,
+    "end": 2198.84,
+    "text": " Oh, well, do you know what you're supposed to do"
+  },
+  {
+    "start": 2198.84,
+    "end": 2200.84,
+    "text": " if you don't have three days?"
+  },
+  {
+    "start": 2200.84,
+    "end": 2202.84,
+    "text": " You're supposed to massage it."
+  },
+  {
+    "start": 2202.84,
+    "end": 2204.84,
+    "text": " Which I did not know."
+  },
+  {
+    "start": 2204.84,
+    "end": 2206.84,
+    "text": " And this completely transforms kale."
+  },
+  {
+    "start": 2206.84,
+    "end": 2208.84,
+    "text": " A, it stops it making you fart."
+  },
+  {
+    "start": 2208.84,
+    "end": 2210.84,
+    "text": " And B, it stops it tasting bitter."
+  },
+  {
+    "start": 2210.84,
+    "end": 2212.84,
+    "text": " And this is if you..."
+  },
+  {
+    "start": 2212.84,
+    "end": 2214.84,
+    "text": " Before you do anything to it, you just give it..."
+  },
+  {
+    "start": 2214.84,
+    "end": 2216.84,
+    "text": " If you massage it with a whisper bar."
+  },
+  {
+    "start": 2216.84,
+    "end": 2219.84,
+    "text": " No, it's because it has a lot of sugars that don't get broken down"
+  },
+  {
+    "start": 2219.84,
+    "end": 2221.84,
+    "text": " until they're waved through your digestive system"
+  },
+  {
+    "start": 2221.84,
+    "end": 2223.84,
+    "text": " and your large intestine."
+  },
+  {
+    "start": 2223.84,
+    "end": 2225.84,
+    "text": " So A, then that gives you lots of bad gas."
+  },
+  {
+    "start": 2225.84,
+    "end": 2228.84,
+    "text": " B, that means that on the way through, you're not tasting those sugars"
+  },
+  {
+    "start": 2228.84,
+    "end": 2230.84,
+    "text": " and so it tastes bitter."
+  },
+  {
+    "start": 2230.84,
+    "end": 2232.84,
+    "text": " But if you massage, and I meant to try this,"
+  },
+  {
+    "start": 2232.84,
+    "end": 2234.84,
+    "text": " but I didn't do the first time research,"
+  },
+  {
+    "start": 2234.84,
+    "end": 2236.84,
+    "text": " but I'm sure people will write in."
+  },
+  {
+    "start": 2236.84,
+    "end": 2238.84,
+    "text": " But yeah, if you squeeze it properly,"
+  },
+  {
+    "start": 2238.84,
+    "end": 2240.84,
+    "text": " just like you're rubbing it in before you cook it,"
+  },
+  {
+    "start": 2240.84,
+    "end": 2242.84,
+    "text": " then it tastes much sweeter and much nicer."
+  },
+  {
+    "start": 2242.84,
+    "end": 2244.84,
+    "text": " So not with oil or anything, just with..."
+  },
+  {
+    "start": 2244.84,
+    "end": 2246.84,
+    "text": " With your fingers, yeah."
+  },
+  {
+    "start": 2246.84,
+    "end": 2248.84,
+    "text": " I mean, I'm giving it a full-on massage."
+  },
+  {
+    "start": 2248.84,
+    "end": 2250.84,
+    "text": " Like some candles, yeah."
+  },
+  {
+    "start": 2250.84,
+    "end": 2252.84,
+    "text": " It's romantic music on."
+  },
+  {
+    "start": 2252.84,
+    "end": 2255.84,
+    "text": " I've got to say, I also thought it had been invented in 2012"
+  },
+  {
+    "start": 2255.84,
+    "end": 2258.84,
+    "text": " and I didn't realise it was really huge in previous centuries,"
+  },
+  {
+    "start": 2258.84,
+    "end": 2260.84,
+    "text": " especially in Scotland."
+  },
+  {
+    "start": 2260.84,
+    "end": 2262.84,
+    "text": " And I didn't know this at all."
+  },
+  {
+    "start": 2262.84,
+    "end": 2265.84,
+    "text": " And it was because it can grow for a start"
+  },
+  {
+    "start": 2265.84,
+    "end": 2268.84,
+    "text": " in quite tough Northern climates, which is a good thing."
+  },
+  {
+    "start": 2268.84,
+    "end": 2271.84,
+    "text": " And also it grows over the January to April period,"
+  },
+  {
+    "start": 2271.84,
+    "end": 2273.84,
+    "text": " which got called the Hungry Gap,"
+  },
+  {
+    "start": 2273.84,
+    "end": 2276.84,
+    "text": " which is where lots of previous crops might be running a bit low."
+  },
+  {
+    "start": 2276.84,
+    "end": 2279.84,
+    "text": " And so it's a very useful staple food."
+  },
+  {
+    "start": 2279.84,
+    "end": 2282.84,
+    "text": " And it's all this Scots dialect about kale."
+  },
+  {
+    "start": 2282.84,
+    "end": 2285.84,
+    "text": " All these words, like a kale bell is a dinner bell."
+  },
+  {
+    "start": 2285.84,
+    "end": 2288.84,
+    "text": " Kale was used interchangeably with food,"
+  },
+  {
+    "start": 2288.84,
+    "end": 2290.84,
+    "text": " as in kale might just mean food."
+  },
+  {
+    "start": 2290.84,
+    "end": 2292.84,
+    "text": " And there were sayings as well."
+  },
+  {
+    "start": 2292.84,
+    "end": 2295.84,
+    "text": " Have you heard called kale het again?"
+  },
+  {
+    "start": 2295.84,
+    "end": 2297.84,
+    "text": " Called kale het again."
+  },
+  {
+    "start": 2297.84,
+    "end": 2299.84,
+    "text": " No, what does that mean?"
+  },
+  {
+    "start": 2299.84,
+    "end": 2301.84,
+    "text": " Cold kale heated up again."
+  },
+  {
+    "start": 2301.84,
+    "end": 2303.84,
+    "text": " Oh, it's that simple."
+  },
+  {
+    "start": 2303.84,
+    "end": 2305.84,
+    "text": " What does that mean as a say?"
+  },
+  {
+    "start": 2305.84,
+    "end": 2307.84,
+    "text": " Oh, I see."
+  },
+  {
+    "start": 2307.84,
+    "end": 2309.84,
+    "text": " It means that he's washed up."
+  },
+  {
+    "start": 2309.84,
+    "end": 2312.84,
+    "text": " Yeah, later in life, it's a comeback almost."
+  },
+  {
+    "start": 2312.84,
+    "end": 2315.84,
+    "text": " That's nice. That's much more positive than the real meaning,"
+  },
+  {
+    "start": 2315.84,
+    "end": 2318.84,
+    "text": " which is that I've heard this story dozens of times before."
+  },
+  {
+    "start": 2318.84,
+    "end": 2320.84,
+    "text": " This is called kale het again."
+  },
+  {
+    "start": 2320.84,
+    "end": 2322.84,
+    "text": " Oh, God, that's useful."
+  },
+  {
+    "start": 2322.84,
+    "end": 2324.84,
+    "text": " Start using that constant."
+  },
+  {
+    "start": 2324.84,
+    "end": 2326.84,
+    "text": " A lot of my relations."
+  },
+  {
+    "start": 2326.84,
+    "end": 2328.84,
+    "text": " I'll give him his kale through the reek."
+  },
+  {
+    "start": 2328.84,
+    "end": 2330.84,
+    "text": " Through the reek. What is a reek?"
+  },
+  {
+    "start": 2330.84,
+    "end": 2332.84,
+    "text": " Through the reek."
+  },
+  {
+    "start": 2332.84,
+    "end": 2334.84,
+    "text": " The old reek he is Edinburgh."
+  },
+  {
+    "start": 2334.84,
+    "end": 2337.84,
+    "text": " Through the nose, through the nose."
+  },
+  {
+    "start": 2337.84,
+    "end": 2340.84,
+    "text": " Yeah, because reek means smell."
+  },
+  {
+    "start": 2340.84,
+    "end": 2343.84,
+    "text": " It means what you say when someone farts."
+  },
+  {
+    "start": 2343.84,
+    "end": 2346.84,
+    "text": " As if someone's farts in the room, you don't know who it is,"
+  },
+  {
+    "start": 2346.84,
+    "end": 2349.84,
+    "text": " and you're like, \"Oh, I'll give some more kale through the reek.\""
+  },
+  {
+    "start": 2349.84,
+    "end": 2351.84,
+    "text": " All lovely guesses."
+  },
+  {
+    "start": 2351.84,
+    "end": 2353.84,
+    "text": " So reek is smoke."
+  },
+  {
+    "start": 2353.84,
+    "end": 2356.84,
+    "text": " And basically, I'll give him his kale through the reek."
+  },
+  {
+    "start": 2356.84,
+    "end": 2358.84,
+    "text": " It means I'm going to treat someone badly."
+  },
+  {
+    "start": 2358.84,
+    "end": 2362.84,
+    "text": " I'm going to hand you your kale for dinner through the smoke of the fire,"
+  },
+  {
+    "start": 2362.84,
+    "end": 2364.84,
+    "text": " so it tastes gross."
+  },
+  {
+    "start": 2364.84,
+    "end": 2367.84,
+    "text": " Oh, so it's roasted instead of massaged."
+  },
+  {
+    "start": 2367.84,
+    "end": 2369.84,
+    "text": " Exactly, yeah, yeah."
+  },
+  {
+    "start": 2369.84,
+    "end": 2371.84,
+    "text": " The word for garden was kale yard, really, wasn't it?"
+  },
+  {
+    "start": 2371.84,
+    "end": 2374.84,
+    "text": " For a small vegetable garden, it was kale yard from about 14th century."
+  },
+  {
+    "start": 2374.84,
+    "end": 2377.84,
+    "text": " And then it morphed into kale yard fiction,"
+  },
+  {
+    "start": 2377.84,
+    "end": 2379.84,
+    "text": " which I was not familiar with."
+  },
+  {
+    "start": 2379.84,
+    "end": 2382.84,
+    "text": " But this is, well, can you guess what kale yard fiction is?"
+  },
+  {
+    "start": 2382.84,
+    "end": 2385.84,
+    "text": " It makes you cry. It makes you grimace."
+  },
+  {
+    "start": 2385.84,
+    "end": 2387.84,
+    "text": " It's sob stories."
+  },
+  {
+    "start": 2387.84,
+    "end": 2389.84,
+    "text": " It makes you do all of those things."
+  },
+  {
+    "start": 2389.84,
+    "end": 2391.84,
+    "text": " Written since 2012."
+  },
+  {
+    "start": 2391.84,
+    "end": 2393.84,
+    "text": " And it makes you fart."
+  },
+  {
+    "start": 2393.84,
+    "end": 2396.84,
+    "text": " OK, I don't know if it does any of those things."
+  },
+  {
+    "start": 2396.84,
+    "end": 2400.84,
+    "text": " It's just a derogatory term for sort of a really bucolic, overly sentimentalised,"
+  },
+  {
+    "start": 2400.84,
+    "end": 2406.84,
+    "text": " rural, rustic fiction, because, you know, it's like old-fashioned kale yards in Scotland."
+  },
+  {
+    "start": 2406.84,
+    "end": 2410.84,
+    "text": " And J.M. Barrie was accused of being a kale yard writer."
+  },
+  {
+    "start": 2410.84,
+    "end": 2414.84,
+    "text": " For his books like, \"Old Lich Iddils.\""
+  },
+  {
+    "start": 2414.84,
+    "end": 2420.84,
+    "text": " I read an article on Atlas Obscura about Halloween in Scotland."
+  },
+  {
+    "start": 2420.84,
+    "end": 2424.84,
+    "text": " I don't know if you saw this, about how kale was quite popular in that time."
+  },
+  {
+    "start": 2424.84,
+    "end": 2427.84,
+    "text": " Because it was kind of the growing season of kale."
+  },
+  {
+    "start": 2427.84,
+    "end": 2429.84,
+    "text": " Like you said, it was more of a winter vegetable."
+  },
+  {
+    "start": 2429.84,
+    "end": 2432.84,
+    "text": " But apparently, youths would blindfold each other,"
+  },
+  {
+    "start": 2432.84,
+    "end": 2437.84,
+    "text": " pull stalks of kale from the ground, and then analyse their length and girth,"
+  },
+  {
+    "start": 2437.84,
+    "end": 2440.84,
+    "text": " and the amount of dirt caked onto them,"
+  },
+  {
+    "start": 2440.84,
+    "end": 2443.84,
+    "text": " and it would tell them what kind of partner they'll marry."
+  },
+  {
+    "start": 2443.84,
+    "end": 2446.84,
+    "text": " Why do they have to be blindfolded?"
+  },
+  {
+    "start": 2446.84,
+    "end": 2453.84,
+    "text": " And then you could say, \"Oh, I think I'll marry that tall, girthy, non-soiled girl.\""
+  },
+  {
+    "start": 2453.84,
+    "end": 2455.84,
+    "text": " No one wants a soiled girl."
+  },
+  {
+    "start": 2455.84,
+    "end": 2457.84,
+    "text": " But I guess that's what you would do then."
+  },
+  {
+    "start": 2457.84,
+    "end": 2461.84,
+    "text": " You'd go around the bars looking for a soiled, girthy woman."
+  },
+  {
+    "start": 2461.84,
+    "end": 2463.84,
+    "text": " The first one you said kale used in Halloween,"
+  },
+  {
+    "start": 2463.84,
+    "end": 2466.84,
+    "text": " I thought it was going to be the world's most disappointing trick or treat."
+  },
+  {
+    "start": 2466.84,
+    "end": 2469.84,
+    "text": " Have you never bobbed for kale?"
+  },
+  {
+    "start": 2469.84,
+    "end": 2472.84,
+    "text": " When I was a young girl in the '80s,"
+  },
+  {
+    "start": 2472.84,
+    "end": 2474.84,
+    "text": " trick or treat wasn't a thing, really."
+  },
+  {
+    "start": 2474.84,
+    "end": 2477.84,
+    "text": " When it started to come in, I remember my mum."
+  },
+  {
+    "start": 2477.84,
+    "end": 2480.84,
+    "text": " There was a ring at the doorbell, and these two kids said trick or treat,"
+  },
+  {
+    "start": 2480.84,
+    "end": 2482.84,
+    "text": " and my mum didn't know what it meant at all."
+  },
+  {
+    "start": 2482.84,
+    "end": 2484.84,
+    "text": " It just hadn't been a thing here."
+  },
+  {
+    "start": 2484.84,
+    "end": 2486.84,
+    "text": " And so my mum went, \"Oh, treat! Two of this week!\""
+  },
+  {
+    "start": 2486.84,
+    "end": 2488.84,
+    "text": " She shot the doorbell."
+  },
+  {
+    "start": 2488.84,
+    "end": 2489.84,
+    "text": " Amazing."
+  },
+  {
+    "start": 2489.84,
+    "end": 2491.84,
+    "text": " That's the choice she was making."
+  },
+  {
+    "start": 2491.84,
+    "end": 2492.84,
+    "text": " That's great."
+  },
+  {
+    "start": 2492.84,
+    "end": 2498.84,
+    "text": " I was really disappointed to read that kale is very high in vitamins K, A and E,"
+  },
+  {
+    "start": 2498.84,
+    "end": 2501.84,
+    "text": " but not L."
+  },
+  {
+    "start": 2501.84,
+    "end": 2503.84,
+    "text": " Is there a vitamin L?"
+  },
+  {
+    "start": 2503.84,
+    "end": 2505.84,
+    "text": " Well, there is."
+  },
+  {
+    "start": 2505.84,
+    "end": 2508.84,
+    "text": " There's a guy called Dr. W. Nakahara,"
+  },
+  {
+    "start": 2508.84,
+    "end": 2512.84,
+    "text": " who in the 1930s discovered something that he called vitamin L,"
+  },
+  {
+    "start": 2512.84,
+    "end": 2517.84,
+    "text": " but it turned out to be a couple of chemicals which are not vitamins at all"
+  },
+  {
+    "start": 2517.84,
+    "end": 2519.84,
+    "text": " and which aren't in kale."
+  },
+  {
+    "start": 2519.84,
+    "end": 2523.84,
+    "text": " But he called it vitamin L because he thought it was good for lactation"
+  },
+  {
+    "start": 2523.84,
+    "end": 2525.84,
+    "text": " in rats in particular."
+  },
+  {
+    "start": 2525.84,
+    "end": 2528.84,
+    "text": " But it turns out that, yeah, not only is it not a vitamin,"
+  },
+  {
+    "start": 2528.84,
+    "end": 2531.84,
+    "text": " it's not particularly good for lactation either."
+  },
+  {
+    "start": 2531.84,
+    "end": 2533.84,
+    "text": " But it is a thing, vitamin L."
+  },
+  {
+    "start": 2533.84,
+    "end": 2535.84,
+    "text": " It's vitamin L, but the L stands for lie."
+  },
+  {
+    "start": 2535.84,
+    "end": 2537.84,
+    "text": " Yes, exactly."
+  },
+  {
+    "start": 2537.84,
+    "end": 2544.84,
+    "text": " But 130 grams of kale contains 1,000% of your daily vitamin K nutrition."
+  },
+  {
+    "start": 2544.84,
+    "end": 2545.84,
+    "text": " Wow."
+  },
+  {
+    "start": 2545.84,
+    "end": 2548.84,
+    "text": " What does vitamin K do? You get stiff bones, really."
+  },
+  {
+    "start": 2548.84,
+    "end": 2550.84,
+    "text": " Stiff bones?"
+  },
+  {
+    "start": 2550.84,
+    "end": 2555.84,
+    "text": " Do make sure to try and get your bones as stiff as you possibly can."
+  },
+  {
+    "start": 2555.84,
+    "end": 2559.84,
+    "text": " I just hear if it's vitamin K, it just feels like a euphemism for ketamine."
+  },
+  {
+    "start": 2559.84,
+    "end": 2561.84,
+    "text": " Yes."
+  },
+  {
+    "start": 2561.84,
+    "end": 2563.84,
+    "text": " How much kale was that?"
+  },
+  {
+    "start": 2563.84,
+    "end": 2565.84,
+    "text": " 130 grams, not much."
+  },
+  {
+    "start": 2565.84,
+    "end": 2567.84,
+    "text": " I was about to say the opposite."
+  },
+  {
+    "start": 2567.84,
+    "end": 2569.84,
+    "text": " That's quite light, isn't it, kale?"
+  },
+  {
+    "start": 2569.84,
+    "end": 2571.84,
+    "text": " It's light, I suppose."
+  },
+  {
+    "start": 2571.84,
+    "end": 2573.84,
+    "text": " Truth is, it's 1,000%."
+  },
+  {
+    "start": 2573.84,
+    "end": 2576.84,
+    "text": " So you only need 13 grams."
+  },
+  {
+    "start": 2576.84,
+    "end": 2581.84,
+    "text": " But people who take blood thinners should be careful with kale"
+  },
+  {
+    "start": 2581.84,
+    "end": 2583.84,
+    "text": " because if you have too much vitamin K,"
+  },
+  {
+    "start": 2583.84,
+    "end": 2586.84,
+    "text": " it can be a problem with your clotting of your blood."
+  },
+  {
+    "start": 2586.84,
+    "end": 2592.84,
+    "text": " And also, if you have iodine deficiency and you eat an enormous amount of kale,"
+  },
+  {
+    "start": 2592.84,
+    "end": 2596.84,
+    "text": " you can get hypothyroidism, where you make too much of your thyroid hormone."
+  },
+  {
+    "start": 2596.84,
+    "end": 2599.84,
+    "text": " You can get a nice goiter on your neck."
+  },
+  {
+    "start": 2599.84,
+    "end": 2604.84,
+    "text": " An 88-year-old woman got severe hypothyroidism and went into a coma after eating."
+  },
+  {
+    "start": 2604.84,
+    "end": 2609.84,
+    "text": " But she was eating between 1 and 1.5 kilograms a day."
+  },
+  {
+    "start": 2609.84,
+    "end": 2614.84,
+    "text": " This is actually bok choy, which has a similar property, raw bok choy for several months."
+  },
+  {
+    "start": 2614.84,
+    "end": 2618.84,
+    "text": " But that's more than 10,000% of her daily fit of kale."
+  },
+  {
+    "start": 2618.84,
+    "end": 2620.84,
+    "text": " So she was overdoing it."
+  },
+  {
+    "start": 2620.84,
+    "end": 2622.84,
+    "text": " And how can you physically eat that much bok choy?"
+  },
+  {
+    "start": 2622.84,
+    "end": 2624.84,
+    "text": " It's really light."
+  },
+  {
+    "start": 2624.84,
+    "end": 2627.84,
+    "text": " She can't have been doing much else with her days."
+  },
+  {
+    "start": 2627.84,
+    "end": 2633.84,
+    "text": " It's like a panda, just all day, just chewing on bok choy."
+  },
+  {
+    "start": 2633.84,
+    "end": 2639.84,
+    "text": " That's a hipster panda, isn't it?"
+  },
+  {
+    "start": 2639.84,
+    "end": 2648.84,
+    "text": " Okay, it is time for our final fact of the week, and that is James's fact."
+  },
+  {
+    "start": 2648.84,
+    "end": 2651.84,
+    "text": " Okay, my fact this week is that Goldfinger was such a difficult boss"
+  },
+  {
+    "start": 2651.84,
+    "end": 2655.84,
+    "text": " that he once fired someone who didn't even work for him."
+  },
+  {
+    "start": 2655.84,
+    "end": 2658.84,
+    "text": " You don't want a fictional Goldfinger here."
+  },
+  {
+    "start": 2658.84,
+    "end": 2661.84,
+    "text": " Goldfinger!"
+  },
+  {
+    "start": 2661.84,
+    "end": 2664.84,
+    "text": " No, I deliberately missed out."
+  },
+  {
+    "start": 2664.84,
+    "end": 2670.84,
+    "text": " The start of this fact, which is Brutalist Architect, Erno Goldfinger, did all this stuff."
+  },
+  {
+    "start": 2670.84,
+    "end": 2674.84,
+    "text": " We knew Angela was coming on the show, and we know you like a bit of Brutalism architecture."
+  },
+  {
+    "start": 2674.84,
+    "end": 2680.84,
+    "text": " And so I dug out my book Concretopia, which was written by a good friend, John Grindrod,"
+  },
+  {
+    "start": 2680.84,
+    "end": 2682.84,
+    "text": " all about Brutalist architecture."
+  },
+  {
+    "start": 2682.84,
+    "end": 2685.84,
+    "text": " And I thought I'd find some facts about Erno Goldfinger."
+  },
+  {
+    "start": 2685.84,
+    "end": 2687.84,
+    "text": " And he was a very angry man, apparently."
+  },
+  {
+    "start": 2687.84,
+    "end": 2689.84,
+    "text": " Maybe he was stuck in a texture."
+  },
+  {
+    "start": 2689.84,
+    "end": 2691.84,
+    "text": " Yes."
+  },
+  {
+    "start": 2691.84,
+    "end": 2693.84,
+    "text": " He'd have to be a big dexter, he was a big man."
+  },
+  {
+    "start": 2693.84,
+    "end": 2694.84,
+    "text": " Was he?"
+  },
+  {
+    "start": 2694.84,
+    "end": 2695.84,
+    "text": " Yeah."
+  },
+  {
+    "start": 2695.84,
+    "end": 2700.84,
+    "text": " He used to show his strength to the people in his office by using a hole punch"
+  },
+  {
+    "start": 2700.84,
+    "end": 2704.84,
+    "text": " to punch through stacks of card that no one else was strong enough to do."
+  },
+  {
+    "start": 2704.84,
+    "end": 2710.84,
+    "text": " And that was his way of going, don't mess with me, look how many bits of card I can punch a hole through."
+  },
+  {
+    "start": 2710.84,
+    "end": 2713.84,
+    "text": " What's the threat there? I can punch a hole through your torso?"
+  },
+  {
+    "start": 2713.84,
+    "end": 2716.84,
+    "text": " It's weird that in World's Strongest Man they don't have this ability."
+  },
+  {
+    "start": 2716.84,
+    "end": 2718.84,
+    "text": " They're missing a trick."
+  },
+  {
+    "start": 2718.84,
+    "end": 2721.84,
+    "text": " It'd be great, because an office-based World's Strongest Man would be very funny."
+  },
+  {
+    "start": 2721.84,
+    "end": 2722.84,
+    "text": " Yeah."
+  },
+  {
+    "start": 2722.84,
+    "end": 2723.84,
+    "text": " And fun."
+  },
+  {
+    "start": 2723.84,
+    "end": 2727.84,
+    "text": " So Erno Goldfinger, people, especially who live in London, will know some of his buildings."
+  },
+  {
+    "start": 2727.84,
+    "end": 2733.84,
+    "text": " Trelik Tower, I think, is his most famous one, which is only because I used to live near."
+  },
+  {
+    "start": 2733.84,
+    "end": 2739.84,
+    "text": " But yeah, he did a lot of these concrete buildings, very popular for about three years,"
+  },
+  {
+    "start": 2739.84,
+    "end": 2742.84,
+    "text": " but they're all still here."
+  },
+  {
+    "start": 2742.84,
+    "end": 2749.84,
+    "text": " And John Grindroth, who wrote this book Concretopia, he spoke to James Dunnett, who worked with Erno Goldfinger,"
+  },
+  {
+    "start": 2749.84,
+    "end": 2753.84,
+    "text": " and then Dunnett sort of related this story, that he was a very fiery character."
+  },
+  {
+    "start": 2753.84,
+    "end": 2758.84,
+    "text": " And whenever you came to work for Goldfinger, a lot of people only lasted less than a day,"
+  },
+  {
+    "start": 2758.84,
+    "end": 2760.84,
+    "text": " and they'd be fired at lunchtime."
+  },
+  {
+    "start": 2760.84,
+    "end": 2764.84,
+    "text": " And apparently one day, Goldfinger was in one of his rages, you know,"
+  },
+  {
+    "start": 2764.84,
+    "end": 2768.84,
+    "text": " probably he didn't get his hole punch working properly, and he stormed through a reception,"
+  },
+  {
+    "start": 2768.84,
+    "end": 2772.84,
+    "text": " and there was a guy just waiting in reception, and he just went, \"You're fired!\""
+  },
+  {
+    "start": 2772.84,
+    "end": 2775.84,
+    "text": " And he didn't even work for them."
+  },
+  {
+    "start": 2775.84,
+    "end": 2782.84,
+    "text": " He apparently, between 1954 and 1955, in that year, he lost 26 employees in a small office,"
+  },
+  {
+    "start": 2782.84,
+    "end": 2785.84,
+    "text": " either through sacking them or they left because of stress."
+  },
+  {
+    "start": 2785.84,
+    "end": 2787.84,
+    "text": " That was just in one year."
+  },
+  {
+    "start": 2787.84,
+    "end": 2793.84,
+    "text": " And you know, obviously, the actual Ian Fleming Goldfinger connection with Goldfinger."
+  },
+  {
+    "start": 2793.84,
+    "end": 2798.84,
+    "text": " So Ian Fleming named the character Goldfinger after Erno Goldfinger."
+  },
+  {
+    "start": 2798.84,
+    "end": 2805.84,
+    "text": " So Erno Goldfinger, the architect, was married to Isabel Blackwell from, yeah, from Cossum Blackwell family,"
+  },
+  {
+    "start": 2805.84,
+    "end": 2809.84,
+    "text": " and her cousin played golf with Ian Fleming."
+  },
+  {
+    "start": 2809.84,
+    "end": 2813.84,
+    "text": " And the family all hated Erno Goldfinger because he was so mean and nasty."
+  },
+  {
+    "start": 2813.84,
+    "end": 2819.84,
+    "text": " And Ian Fleming didn't like him because he'd demolished some houses in Hampstead"
+  },
+  {
+    "start": 2819.84,
+    "end": 2822.84,
+    "text": " to build the Willow Avenue, is it, Willow Road?"
+  },
+  {
+    "start": 2822.84,
+    "end": 2826.84,
+    "text": " Two Willow Road, his house, yeah, in Hampstead."
+  },
+  {
+    "start": 2826.84,
+    "end": 2831.84,
+    "text": " And so Ian Fleming was angry that he'd demolished these cottages that had been there before,"
+  },
+  {
+    "start": 2831.84,
+    "end": 2833.84,
+    "text": " and so that's why he called him Goldfinger."
+  },
+  {
+    "start": 2833.84,
+    "end": 2839.84,
+    "text": " And Erno Goldfinger sort of got his lawyers involved to sort of try and stop it,"
+  },
+  {
+    "start": 2839.84,
+    "end": 2845.84,
+    "text": " and Ian Fleming suggested that what he would be prepared to do was put a slip in every copy of the book"
+  },
+  {
+    "start": 2845.84,
+    "end": 2849.84,
+    "text": " that said, actually, his name is Goldprick."
+  },
+  {
+    "start": 2849.84,
+    "end": 2852.84,
+    "text": " But in the end, they settled and it was fine."
+  },
+  {
+    "start": 2852.84,
+    "end": 2858.84,
+    "text": " Didn't they settle because Ian said, OK, I'll use Alrick Goldfinger as in his first name"
+  },
+  {
+    "start": 2858.84,
+    "end": 2860.84,
+    "text": " in every mention of him in the book?"
+  },
+  {
+    "start": 2860.84,
+    "end": 2862.84,
+    "text": " To clarify the full name is, yeah, he did do that."
+  },
+  {
+    "start": 2862.84,
+    "end": 2865.84,
+    "text": " It's nothing to do with you, it's a complete coincidence."
+  },
+  {
+    "start": 2865.84,
+    "end": 2869.84,
+    "text": " The story doesn't reflect very well on Ian Fleming, I think,"
+  },
+  {
+    "start": 2869.84,
+    "end": 2875.84,
+    "text": " because between the destruction of these cottages in Hampstead and the writing of the book,"
+  },
+  {
+    "start": 2875.84,
+    "end": 2877.84,
+    "text": " I think it was about 20 years."
+  },
+  {
+    "start": 2877.84,
+    "end": 2880.84,
+    "text": " I think it's a long grudge that was held."
+  },
+  {
+    "start": 2880.84,
+    "end": 2884.84,
+    "text": " Well, the thing is with Fleming is, so Pierce Fletcher, who's the producer of QI,"
+  },
+  {
+    "start": 2884.84,
+    "end": 2887.84,
+    "text": " he says he knows someone called Scaramanga,"
+  },
+  {
+    "start": 2887.84,
+    "end": 2892.84,
+    "text": " and this guy called Scaramanga, his father went to school with Ian Fleming, right?"
+  },
+  {
+    "start": 2892.84,
+    "end": 2897.84,
+    "text": " And I've met, I don't know if you've met, blow felt the cricket commentator."
+  },
+  {
+    "start": 2897.84,
+    "end": 2900.84,
+    "text": " Surely that character is not based on the cricket commentator blow felt."
+  },
+  {
+    "start": 2900.84,
+    "end": 2902.84,
+    "text": " I can't see any similarities."
+  },
+  {
+    "start": 2902.84,
+    "end": 2904.84,
+    "text": " It's based on his father, apparently."
+  },
+  {
+    "start": 2904.84,
+    "end": 2907.84,
+    "text": " And according to blowers, he says that they went to the same club,"
+  },
+  {
+    "start": 2907.84,
+    "end": 2911.84,
+    "text": " and Fleming saw the name in the club list and stuff like that."
+  },
+  {
+    "start": 2911.84,
+    "end": 2912.84,
+    "text": " We're not quite sure."
+  },
+  {
+    "start": 2912.84,
+    "end": 2917.84,
+    "text": " But basically, I mean, Ian Fleming just knew so many people with amazing names."
+  },
+  {
+    "start": 2917.84,
+    "end": 2918.84,
+    "text": " Incredible."
+  },
+  {
+    "start": 2918.84,
+    "end": 2922.84,
+    "text": " Because I looked at all my Facebook friends yesterday to see if any of my friends"
+  },
+  {
+    "start": 2922.84,
+    "end": 2925.84,
+    "text": " had good enough names to be Bond villains, and none of them do."
+  },
+  {
+    "start": 2925.84,
+    "end": 2928.84,
+    "text": " Like, literally, I don't have a single friend who has a funny surname."
+  },
+  {
+    "start": 2928.84,
+    "end": 2932.84,
+    "text": " But the settlement they came to was that the publisher would pay Goldfingers,"
+  },
+  {
+    "start": 2932.84,
+    "end": 2936.84,
+    "text": " I think some of his legal costs, and they would also provide six copies of the book."
+  },
+  {
+    "start": 2936.84,
+    "end": 2938.84,
+    "text": " That's all right then."
+  },
+  {
+    "start": 2938.84,
+    "end": 2941.84,
+    "text": " As long as I've got six copies of the book that's hanging me off, I don't mind."
+  },
+  {
+    "start": 2941.84,
+    "end": 2945.84,
+    "text": " But I think it probably didn't pay off for Goldfinger in the end because for years afterwards,"
+  },
+  {
+    "start": 2945.84,
+    "end": 2948.84,
+    "text": " or for years after the movie came out, the James Bond film,"
+  },
+  {
+    "start": 2948.84,
+    "end": 2950.84,
+    "text": " people would ring him up and do a Sean Connery voice and say,"
+  },
+  {
+    "start": 2950.84,
+    "end": 2953.84,
+    "text": " \"Goldfinger, this is double all seven.\""
+  },
+  {
+    "start": 2953.84,
+    "end": 2957.84,
+    "text": " Well, you shouldn't have made your address so public with this famous house you built."
+  },
+  {
+    "start": 2957.84,
+    "end": 2958.84,
+    "text": " That's true."
+  },
+  {
+    "start": 2958.84,
+    "end": 2961.84,
+    "text": " He was a lifelong Marxist as well, and he used to sell..."
+  },
+  {
+    "start": 2961.84,
+    "end": 2963.84,
+    "text": " He had art sales for..."
+  },
+  {
+    "start": 2963.84,
+    "end": 2969.84,
+    "text": " Him and his wife used to hold these art sales to raise money for the Red Army."
+  },
+  {
+    "start": 2969.84,
+    "end": 2970.84,
+    "text": " Oh, did they?"
+  },
+  {
+    "start": 2970.84,
+    "end": 2972.84,
+    "text": " Yeah, and we're friends with..."
+  },
+  {
+    "start": 2972.84,
+    "end": 2975.84,
+    "text": " I think Barbara Hepworth used to sell stuff with him."
+  },
+  {
+    "start": 2975.84,
+    "end": 2976.84,
+    "text": " Yeah."
+  },
+  {
+    "start": 2976.84,
+    "end": 2981.84,
+    "text": " I guess his kind of architecture, brutalist architecture, gets associated with left-wing ideology."
+  },
+  {
+    "start": 2981.84,
+    "end": 2984.84,
+    "text": " And I think the anti-brutalism movement of saying,"
+  },
+  {
+    "start": 2984.84,
+    "end": 2986.84,
+    "text": " \"We really hate these buildings. They're so ugly."
+  },
+  {
+    "start": 2986.84,
+    "end": 2989.84,
+    "text": " Can we get some more classical Roman stuff up, please?\""
+  },
+  {
+    "start": 2989.84,
+    "end": 2992.84,
+    "text": " is more associated with conservative hypes."
+  },
+  {
+    "start": 2992.84,
+    "end": 2994.84,
+    "text": " It's very eastern block."
+  },
+  {
+    "start": 2994.84,
+    "end": 2996.84,
+    "text": " The concrete..."
+  },
+  {
+    "start": 2996.84,
+    "end": 2998.84,
+    "text": " It puts the block in eastern block."
+  },
+  {
+    "start": 2998.84,
+    "end": 3000.84,
+    "text": " It's very strong."
+  },
+  {
+    "start": 3000.84,
+    "end": 3002.84,
+    "text": " It's a function over form, isn't it?"
+  },
+  {
+    "start": 3002.84,
+    "end": 3007.84,
+    "text": " The whole idea of modernist showing you're working, which I think is beautiful."
+  },
+  {
+    "start": 3007.84,
+    "end": 3010.84,
+    "text": " I have a concrete wedding ring and a concrete engagement ring."
+  },
+  {
+    "start": 3010.84,
+    "end": 3013.84,
+    "text": " I'm showing this. That's my concrete engagement ring, which I'm showing you."
+  },
+  {
+    "start": 3013.84,
+    "end": 3014.84,
+    "text": " It's like a square of concrete."
+  },
+  {
+    "start": 3014.84,
+    "end": 3016.84,
+    "text": " And that is my concrete wedding ring."
+  },
+  {
+    "start": 3016.84,
+    "end": 3019.84,
+    "text": " My husband has one the same, and the aggregate is pebbles from Brighton Beach,"
+  },
+  {
+    "start": 3019.84,
+    "end": 3021.84,
+    "text": " because we live in Brighton."
+  },
+  {
+    "start": 3021.84,
+    "end": 3024.84,
+    "text": " So, yeah, I'm a little obsessed with concrete as a medium."
+  },
+  {
+    "start": 3024.84,
+    "end": 3027.84,
+    "text": " It's the most attractive I've ever seen concrete be, actually."
+  },
+  {
+    "start": 3027.84,
+    "end": 3029.84,
+    "text": " Well, I've got a little theory about that."
+  },
+  {
+    "start": 3029.84,
+    "end": 3032.84,
+    "text": " I wrote an article about this in The Independent a little while ago"
+  },
+  {
+    "start": 3032.84,
+    "end": 3038.84,
+    "text": " about this idea of, you know, like, I was going to say Prince Charles, King Charles,"
+  },
+  {
+    "start": 3038.84,
+    "end": 3042.84,
+    "text": " or as Dara O'Brien keeps calling him, what the week, King Prince Charles, which..."
+  },
+  {
+    "start": 3042.84,
+    "end": 3047.84,
+    "text": " He obviously spoke out against Brutus architecture quite a lot."
+  },
+  {
+    "start": 3047.84,
+    "end": 3050.84,
+    "text": " He described the National Theatre as something like a clever way"
+  },
+  {
+    "start": 3050.84,
+    "end": 3053.84,
+    "text": " of disguising a nuclear power station in the centre of London or something like that."
+  },
+  {
+    "start": 3053.84,
+    "end": 3056.84,
+    "text": " And the monstrous carbon cores and all of that."
+  },
+  {
+    "start": 3056.84,
+    "end": 3060.84,
+    "text": " But my theory is that we're sort of triggered by nostalgia human beings,"
+  },
+  {
+    "start": 3060.84,
+    "end": 3062.84,
+    "text": " you know, about things that make us think about home."
+  },
+  {
+    "start": 3062.84,
+    "end": 3066.84,
+    "text": " If you grew up in Buckingham Palace, then yes, the National Theatre is going to look quite ugly."
+  },
+  {
+    "start": 3066.84,
+    "end": 3070.84,
+    "text": " But if you grew up like I did on an estate, you know, where there's lots of concrete"
+  },
+  {
+    "start": 3070.84,
+    "end": 3073.84,
+    "text": " about concrete subways, concrete, then those buildings make me feel nostalgic"
+  },
+  {
+    "start": 3073.84,
+    "end": 3076.84,
+    "text": " and warm and, you know, so it's all relative."
+  },
+  {
+    "start": 3076.84,
+    "end": 3081.84,
+    "text": " Like, for example, Wellbeck Street Car Park was a famous Brutus structure in Soho"
+  },
+  {
+    "start": 3081.84,
+    "end": 3083.84,
+    "text": " that got demolished a few years ago."
+  },
+  {
+    "start": 3083.84,
+    "end": 3085.84,
+    "text": " That beautiful sort of..."
+  },
+  {
+    "start": 3085.84,
+    "end": 3087.84,
+    "text": " Oh, yeah, I go past it all the time."
+  },
+  {
+    "start": 3087.84,
+    "end": 3090.84,
+    "text": " It sort of looks like they pour concrete into a beehive,"
+  },
+  {
+    "start": 3090.84,
+    "end": 3094.84,
+    "text": " that kind of sort of tessellated, beautiful structure and they knocked it down."
+  },
+  {
+    "start": 3094.84,
+    "end": 3096.84,
+    "text": " I just think, well, where's the difference there?"
+  },
+  {
+    "start": 3096.84,
+    "end": 3099.84,
+    "text": " Like, people will preserve, say, old coaching-ins."
+  },
+  {
+    "start": 3099.84,
+    "end": 3100.84,
+    "text": " Yeah."
+  },
+  {
+    "start": 3100.84,
+    "end": 3102.84,
+    "text": " Because Charles I stayed there once or whatever."
+  },
+  {
+    "start": 3102.84,
+    "end": 3104.84,
+    "text": " You go, well, who parked their car in that car park?"
+  },
+  {
+    "start": 3104.84,
+    "end": 3106.84,
+    "text": " I bet a load of really famous people did."
+  },
+  {
+    "start": 3106.84,
+    "end": 3108.84,
+    "text": " Because of where it is in Soho."
+  },
+  {
+    "start": 3108.84,
+    "end": 3110.84,
+    "text": " You've got to get the blue past down."
+  },
+  {
+    "start": 3110.84,
+    "end": 3113.84,
+    "text": " But you know, this idea that things that seem modern to us and ugly,"
+  },
+  {
+    "start": 3113.84,
+    "end": 3115.84,
+    "text": " well, in the future we'll have historic values. Stop knocking them down."
+  },
+  {
+    "start": 3115.84,
+    "end": 3116.84,
+    "text": " Yeah, I agree."
+  },
+  {
+    "start": 3116.84,
+    "end": 3119.84,
+    "text": " I would love a car park plaque scheme."
+  },
+  {
+    "start": 3119.84,
+    "end": 3123.84,
+    "text": " You know, if you found out Gary Lernicker parked here in 1996,"
+  },
+  {
+    "start": 3123.84,
+    "end": 3125.84,
+    "text": " it would change the way I felt about that in space."
+  },
+  {
+    "start": 3125.84,
+    "end": 3127.84,
+    "text": " Because basically every Indian restaurant in the country"
+  },
+  {
+    "start": 3127.84,
+    "end": 3129.84,
+    "text": " has a picture of Gary Lernicker."
+  },
+  {
+    "start": 3129.84,
+    "end": 3132.84,
+    "text": " Does that make you feel different about those?"
+  },
+  {
+    "start": 3132.84,
+    "end": 3134.84,
+    "text": " It's, I can't believe..."
+  },
+  {
+    "start": 3134.84,
+    "end": 3135.84,
+    "text": " He must have parked somewhere."
+  },
+  {
+    "start": 3135.84,
+    "end": 3138.84,
+    "text": " He must have gone to so many Indian restaurants around the country"
+  },
+  {
+    "start": 3138.84,
+    "end": 3139.84,
+    "text": " because they are, it's everywhere."
+  },
+  {
+    "start": 3139.84,
+    "end": 3142.84,
+    "text": " There's one right near here, right near where we're recording this now."
+  },
+  {
+    "start": 3142.84,
+    "end": 3146.84,
+    "text": " And it's, I just can't imagine how he had the time as a top-class footballer"
+  },
+  {
+    "start": 3146.84,
+    "end": 3149.84,
+    "text": " to be plowing through that many curries."
+  },
+  {
+    "start": 3149.84,
+    "end": 3152.84,
+    "text": " I can't imagine what it's like to share a bathroom with him."
+  },
+  {
+    "start": 3152.84,
+    "end": 3156.84,
+    "text": " Slightly related, I saw Gary Lernicker once in a service station."
+  },
+  {
+    "start": 3156.84,
+    "end": 3159.84,
+    "text": " I can't remember which one, like a proper sort of motorway service station."
+  },
+  {
+    "start": 3159.84,
+    "end": 3162.84,
+    "text": " And I was with the comedian John Robbins, we were now waiting for a gig somewhere."
+  },
+  {
+    "start": 3162.84,
+    "end": 3166.84,
+    "text": " And he's only like, nice to be with Gary Lernicker ahead of us in the queue."
+  },
+  {
+    "start": 3166.84,
+    "end": 3169.84,
+    "text": " And the thing that just amazed us most was he'd obviously been travelling"
+  },
+  {
+    "start": 3169.84,
+    "end": 3172.84,
+    "text": " from somewhere to somewhere and was wearing the most crisp white shirt"
+  },
+  {
+    "start": 3172.84,
+    "end": 3173.84,
+    "text": " without a crease in it."
+  },
+  {
+    "start": 3173.84,
+    "end": 3174.84,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 3174.84,
+    "end": 3175.84,
+    "text": " So you've obviously got out of a car."
+  },
+  {
+    "start": 3175.84,
+    "end": 3177.84,
+    "text": " How are you looking so amazing?"
+  },
+  {
+    "start": 3177.84,
+    "end": 3178.84,
+    "text": " That's interesting."
+  },
+  {
+    "start": 3178.84,
+    "end": 3179.84,
+    "text": " Nice. Well done, Gary."
+  },
+  {
+    "start": 3179.84,
+    "end": 3183.84,
+    "text": " Was he absolutely going to town on a Cormor or something like this?"
+  },
+  {
+    "start": 3183.84,
+    "end": 3185.84,
+    "text": " Not in Starbucks, no."
+  },
+  {
+    "start": 3185.84,
+    "end": 3187.84,
+    "text": " He was signing a cup for them, though."
+  },
+  {
+    "start": 3187.84,
+    "end": 3190.84,
+    "text": " So I guess they were going to put that on the way."
+  },
+  {
+    "start": 3190.84,
+    "end": 3192.84,
+    "text": " Well, see, all celebrities get around a lot."
+  },
+  {
+    "start": 3192.84,
+    "end": 3195.84,
+    "text": " Gary's the only one who comes with his own marker pen."
+  },
+  {
+    "start": 3195.84,
+    "end": 3198.84,
+    "text": " But yeah, you're right."
+  },
+  {
+    "start": 3198.84,
+    "end": 3200.84,
+    "text": " Going back to this architecture,"
+  },
+  {
+    "start": 3200.84,
+    "end": 3203.84,
+    "text": " which we're talking about, I think,"
+  },
+  {
+    "start": 3203.84,
+    "end": 3206.84,
+    "text": " there is this assumption that it's bad for a community."
+  },
+  {
+    "start": 3206.84,
+    "end": 3208.84,
+    "text": " People get very depressed."
+  },
+  {
+    "start": 3208.84,
+    "end": 3210.84,
+    "text": " It has a negative impact on mental health."
+  },
+  {
+    "start": 3210.84,
+    "end": 3213.84,
+    "text": " There was lots of chat in the '80s, which, like, in Thatcher Zero,"
+  },
+  {
+    "start": 3213.84,
+    "end": 3216.84,
+    "text": " there was this big pushback against all this brutalist architecture."
+  },
+  {
+    "start": 3216.84,
+    "end": 3219.84,
+    "text": " And people were saying, like, Thatcher's favourite housing expert,"
+  },
+  {
+    "start": 3219.84,
+    "end": 3221.84,
+    "text": " who was a woman called Alice Coleman,"
+  },
+  {
+    "start": 3221.84,
+    "end": 3225.84,
+    "text": " saying it's increasing levels of crime and antisocial behaviour"
+  },
+  {
+    "start": 3225.84,
+    "end": 3228.84,
+    "text": " in all these areas, partly because I think there's less surveillance."
+  },
+  {
+    "start": 3228.84,
+    "end": 3230.84,
+    "text": " If you've got those big tower blocks,"
+  },
+  {
+    "start": 3230.84,
+    "end": 3232.84,
+    "text": " you can get away with a lot, she said."
+  },
+  {
+    "start": 3232.84,
+    "end": 3234.84,
+    "text": " And people do assume that."
+  },
+  {
+    "start": 3234.84,
+    "end": 3237.84,
+    "text": " And I couldn't really find any evidence of any studies"
+  },
+  {
+    "start": 3237.84,
+    "end": 3240.84,
+    "text": " that say people's mental health is affected."
+  },
+  {
+    "start": 3240.84,
+    "end": 3242.84,
+    "text": " And also, I think, what happened?"
+  },
+  {
+    "start": 3242.84,
+    "end": 3244.84,
+    "text": " So, post-war, when there was a housing shortage, you know,"
+  },
+  {
+    "start": 3244.84,
+    "end": 3246.84,
+    "text": " after the Blitz and everything, you had to build quickly."
+  },
+  {
+    "start": 3246.84,
+    "end": 3248.84,
+    "text": " And there was this fashion in Europe"
+  },
+  {
+    "start": 3248.84,
+    "end": 3250.84,
+    "text": " for building up these modernist architects."
+  },
+  {
+    "start": 3250.84,
+    "end": 3253.84,
+    "text": " So, Le Corbusier, who built Unité d'Abertation,"
+  },
+  {
+    "start": 3253.84,
+    "end": 3255.84,
+    "text": " all these grand ideas."
+  },
+  {
+    "start": 3255.84,
+    "end": 3257.84,
+    "text": " But what we tried to do here is do it cheaply."
+  },
+  {
+    "start": 3257.84,
+    "end": 3260.84,
+    "text": " Because you had, when Churchill's government came back in '51,"
+  },
+  {
+    "start": 3260.84,
+    "end": 3263.84,
+    "text": " and you then had, I think the housing minister then was Macmillan,"
+  },
+  {
+    "start": 3263.84,
+    "end": 3267.84,
+    "text": " and the idea was to build quickly and cheaply."
+  },
+  {
+    "start": 3267.84,
+    "end": 3270.84,
+    "text": " And so, there was the disaster that happened at Ronan Point,"
+  },
+  {
+    "start": 3270.84,
+    "end": 3272.84,
+    "text": " which was a tower block in Newham."
+  },
+  {
+    "start": 3272.84,
+    "end": 3276.84,
+    "text": " And it was built 16 stories higher than it should have been."
+  },
+  {
+    "start": 3276.84,
+    "end": 3278.84,
+    "text": " So, the designs were for it to be 16 stories lower."
+  },
+  {
+    "start": 3278.84,
+    "end": 3280.84,
+    "text": " That's a lot. That's a lot to add."
+  },
+  {
+    "start": 3280.84,
+    "end": 3282.84,
+    "text": " And they used what was called an LPS system,"
+  },
+  {
+    "start": 3282.84,
+    "end": 3284.84,
+    "text": " which is a large panel system."
+  },
+  {
+    "start": 3284.84,
+    "end": 3287.84,
+    "text": " So, it's precast concrete panels that are then slotted together in situ."
+  },
+  {
+    "start": 3287.84,
+    "end": 3289.84,
+    "text": " And what happened?"
+  },
+  {
+    "start": 3289.84,
+    "end": 3291.84,
+    "text": " Apparently, in this particular building,"
+  },
+  {
+    "start": 3291.84,
+    "end": 3294.84,
+    "text": " some of the gaps between the panels were so big,"
+  },
+  {
+    "start": 3294.84,
+    "end": 3296.84,
+    "text": " you could put a coin through them."
+  },
+  {
+    "start": 3296.84,
+    "end": 3298.84,
+    "text": " And they just stuffed them with newspaper."
+  },
+  {
+    "start": 3298.84,
+    "end": 3301.84,
+    "text": " And then a gas explosion happened."
+  },
+  {
+    "start": 3301.84,
+    "end": 3304.84,
+    "text": " And one corner, the pictures all over the papers,"
+  },
+  {
+    "start": 3304.84,
+    "end": 3306.84,
+    "text": " this corner blowing off of this thing."
+  },
+  {
+    "start": 3306.84,
+    "end": 3308.84,
+    "text": " But of course, it spread really quickly because of the gaps"
+  },
+  {
+    "start": 3308.84,
+    "end": 3310.84,
+    "text": " in the panel system and all of this."
+  },
+  {
+    "start": 3310.84,
+    "end": 3313.84,
+    "text": " So, it was all kind of set up to fail in this country."
+  },
+  {
+    "start": 3313.84,
+    "end": 3316.84,
+    "text": " Because there were tower blocks in Europe that worked perfectly well."
+  },
+  {
+    "start": 3316.84,
+    "end": 3320.84,
+    "text": " And obviously, what happened as well is that when Right to Buy came in,"
+  },
+  {
+    "start": 3320.84,
+    "end": 3322.84,
+    "text": " people would buy their council homes,"
+  },
+  {
+    "start": 3322.84,
+    "end": 3324.84,
+    "text": " and then they'd move up the property ladder, move out,"
+  },
+  {
+    "start": 3324.84,
+    "end": 3326.84,
+    "text": " and then private landlords would let them..."
+  },
+  {
+    "start": 3326.84,
+    "end": 3329.84,
+    "text": " So, you end up with this situation where it's the poorest people in society"
+  },
+  {
+    "start": 3329.84,
+    "end": 3332.84,
+    "text": " all packed together in places without a concierge,"
+  },
+  {
+    "start": 3332.84,
+    "end": 3334.84,
+    "text": " without any proper management,"
+  },
+  {
+    "start": 3334.84,
+    "end": 3337.84,
+    "text": " and with nooks and crannies where drug dealers or whatever could..."
+  },
+  {
+    "start": 3337.84,
+    "end": 3340.84,
+    "text": " So, they were set up to fail from the off, really."
+  },
+  {
+    "start": 3340.84,
+    "end": 3342.84,
+    "text": " So, it's not the building's fault."
+  },
+  {
+    "start": 3342.84,
+    "end": 3345.84,
+    "text": " It's the funding and the government, you know, at the time."
+  },
+  {
+    "start": 3345.84,
+    "end": 3347.84,
+    "text": " These big ideas cost money."
+  },
+  {
+    "start": 3347.84,
+    "end": 3350.84,
+    "text": " Architects that came up with these big ideas never had to live in them."
+  },
+  {
+    "start": 3350.84,
+    "end": 3353.84,
+    "text": " - Yeah. - Although, old Goldfinger did."
+  },
+  {
+    "start": 3353.84,
+    "end": 3355.84,
+    "text": " - Oh, he did live in Balfront Tower, didn't he? - He did."
+  },
+  {
+    "start": 3355.84,
+    "end": 3356.84,
+    "text": " I mean, only for a couple of months."
+  },
+  {
+    "start": 3356.84,
+    "end": 3358.84,
+    "text": " He did say of his... of Balfront Tower,"
+  },
+  {
+    "start": 3358.84,
+    "end": 3362.84,
+    "text": " which was like the first big thing that he built in London."
+  },
+  {
+    "start": 3362.84,
+    "end": 3365.84,
+    "text": " And he said, \"Everything I did, I did as if it was done for me.\""
+  },
+  {
+    "start": 3365.84,
+    "end": 3368.84,
+    "text": " And to show that he went and moved in with his wife."
+  },
+  {
+    "start": 3368.84,
+    "end": 3371.84,
+    "text": " And he used to host champagne receptions for all the residents"
+  },
+  {
+    "start": 3371.84,
+    "end": 3373.84,
+    "text": " where they would come and tell him what they thought of the building"
+  },
+  {
+    "start": 3373.84,
+    "end": 3375.84,
+    "text": " and what they liked and didn't like about it."
+  },
+  {
+    "start": 3375.84,
+    "end": 3378.84,
+    "text": " Although, if you do, after two months, just move to your swanky pad in London."
+  },
+  {
+    "start": 3378.84,
+    "end": 3380.84,
+    "text": " - Yeah, yeah. - You can go back to Hampstead."
+  },
+  {
+    "start": 3380.84,
+    "end": 3382.84,
+    "text": " - Is it worth saying something about the word \"brutalism\"? - Yeah, definitely."
+  },
+  {
+    "start": 3382.84,
+    "end": 3386.84,
+    "text": " Because \"brutalism\", I think people think, is because it looks brutal."
+  },
+  {
+    "start": 3386.84,
+    "end": 3390.84,
+    "text": " But it's actually from Béton Brut, which is French for raw concrete."
+  },
+  {
+    "start": 3390.84,
+    "end": 3392.84,
+    "text": " - OK. - So, that's where..."
+  },
+  {
+    "start": 3392.84,
+    "end": 3394.84,
+    "text": " And the term \"brutalism\" came from..."
+  },
+  {
+    "start": 3394.84,
+    "end": 3396.84,
+    "text": " There's a couple called Alison and Peter Smithson,"
+  },
+  {
+    "start": 3396.84,
+    "end": 3398.84,
+    "text": " who were sort of pioneers of new brutalism."
+  },
+  {
+    "start": 3398.84,
+    "end": 3401.84,
+    "text": " They were the kind of radical young architects in the '50s."
+  },
+  {
+    "start": 3401.84,
+    "end": 3405.84,
+    "text": " And they wrote an essay where they mentioned new brutalism"
+  },
+  {
+    "start": 3405.84,
+    "end": 3408.84,
+    "text": " as this new form over function..."
+  },
+  {
+    "start": 3408.84,
+    "end": 3410.84,
+    "text": " Sorry, function over form, ascetic."
+  },
+  {
+    "start": 3410.84,
+    "end": 3413.84,
+    "text": " Which we should say, because it's confused me for a long time researching."
+  },
+  {
+    "start": 3413.84,
+    "end": 3415.84,
+    "text": " You'll definitely know it. New brutalism was just brutalism."
+  },
+  {
+    "start": 3415.84,
+    "end": 3417.84,
+    "text": " - There was no old brutalism. - No, no."
+  },
+  {
+    "start": 3417.84,
+    "end": 3419.84,
+    "text": " - They just started. - But they're new."
+  },
+  {
+    "start": 3419.84,
+    "end": 3421.84,
+    "text": " I think Sweden or somewhere, it's called Nybrutalism,"
+  },
+  {
+    "start": 3421.84,
+    "end": 3424.84,
+    "text": " was the sort of original in the late '40s, I think."
+  },
+  {
+    "start": 3424.84,
+    "end": 3427.84,
+    "text": " And then they sort of picked up that and ran with it."
+  },
+  {
+    "start": 3427.84,
+    "end": 3431.84,
+    "text": " And then there was an architectural journalist, Peter Raynabanam,"
+  },
+  {
+    "start": 3431.84,
+    "end": 3434.84,
+    "text": " who then wrote about it in the architectural review."
+  },
+  {
+    "start": 3434.84,
+    "end": 3437.84,
+    "text": " And they described it as an ethic, not an aesthetic."
+  },
+  {
+    "start": 3437.84,
+    "end": 3440.84,
+    "text": " So, this idea that buildings should be for functional purposes"
+  },
+  {
+    "start": 3440.84,
+    "end": 3443.84,
+    "text": " for people to live in, rather than to just look pretty."
+  },
+  {
+    "start": 3443.84,
+    "end": 3448.84,
+    "text": " So, it was Raynabanam who kind of brought brutalism as a word, right?"
+  },
+  {
+    "start": 3448.84,
+    "end": 3451.84,
+    "text": " It was kind of... They talked about new brutalism,"
+  },
+  {
+    "start": 3451.84,
+    "end": 3453.84,
+    "text": " and then he was the one who kind of made a joke"
+  },
+  {
+    "start": 3453.84,
+    "end": 3456.84,
+    "text": " about the brute concrete in France. Is that right?"
+  },
+  {
+    "start": 3456.84,
+    "end": 3458.84,
+    "text": " - Yeah, I think so, yeah. - 'Cause I wrote to John Grindroth,"
+  },
+  {
+    "start": 3458.84,
+    "end": 3461.84,
+    "text": " and he sent me some facts, and he said that the brute in brutalism,"
+  },
+  {
+    "start": 3461.84,
+    "end": 3464.84,
+    "text": " because it comes from the same root as Breton Brute,"
+  },
+  {
+    "start": 3464.84,
+    "end": 3466.84,
+    "text": " it's the same brute as you get in Champagne."
+  },
+  {
+    "start": 3466.84,
+    "end": 3469.84,
+    "text": " - Really? - So, yeah, Brute Champagne means dry,"
+  },
+  {
+    "start": 3469.84,
+    "end": 3472.84,
+    "text": " it also means raw, I think, in French."
+  },
+  {
+    "start": 3472.84,
+    "end": 3476.84,
+    "text": " Concrete, would you like a glass of concrete to celebrate?"
+  },
+  {
+    "start": 3476.84,
+    "end": 3479.84,
+    "text": " - That's what we had at our wedding. - No."
+  },
+  {
+    "start": 3479.84,
+    "end": 3483.84,
+    "text": " Although we did have, actually, the tables at our wedding"
+  },
+  {
+    "start": 3483.84,
+    "end": 3488.84,
+    "text": " were named after either whiskeys, 'cause my husband's a big whisky fan,"
+  },
+  {
+    "start": 3488.84,
+    "end": 3490.84,
+    "text": " - or Brutalist buildings. - That's right."
+  },
+  {
+    "start": 3490.84,
+    "end": 3493.84,
+    "text": " So, we had a Wellbeck Street car park table."
+  },
+  {
+    "start": 3493.84,
+    "end": 3496.84,
+    "text": " - That's so good. - We had a number one Croydon table."
+  },
+  {
+    "start": 3496.84,
+    "end": 3499.84,
+    "text": " We had... My favourite structures, one of them,"
+  },
+  {
+    "start": 3499.84,
+    "end": 3503.84,
+    "text": " is the Pennine Tower at Lancaster Services."
+  },
+  {
+    "start": 3503.84,
+    "end": 3508.84,
+    "text": " I love that structure so much, we had a table named after that."
+  },
+  {
+    "start": 3508.84,
+    "end": 3511.84,
+    "text": " I used to live there, I used to live near there,"
+  },
+  {
+    "start": 3511.84,
+    "end": 3514.84,
+    "text": " and I moved to a town, it's called Silverdale,"
+  },
+  {
+    "start": 3514.84,
+    "end": 3516.84,
+    "text": " and just to try and get in with the locals,"
+  },
+  {
+    "start": 3516.84,
+    "end": 3519.84,
+    "text": " I did a pub quiz there, and they had a question,"
+  },
+  {
+    "start": 3519.84,
+    "end": 3522.84,
+    "text": " it was around where they gave you ten clues,"
+  },
+  {
+    "start": 3522.84,
+    "end": 3524.84,
+    "text": " and if you got the right answer,"
+  },
+  {
+    "start": 3524.84,
+    "end": 3526.84,
+    "text": " if you got it in the first clue, you get ten points,"
+  },
+  {
+    "start": 3526.84,
+    "end": 3528.84,
+    "text": " and it'd go all the way down."
+  },
+  {
+    "start": 3528.84,
+    "end": 3532.84,
+    "text": " The first question was, this building was designed by whoever it was..."
+  },
+  {
+    "start": 3532.84,
+    "end": 3535.84,
+    "text": " - Oh, God, now you've got a TP something. - Whatever it's called."
+  },
+  {
+    "start": 3535.84,
+    "end": 3538.84,
+    "text": " Every other team in the quiz ran to him saying,"
+  },
+  {
+    "start": 3538.84,
+    "end": 3540.84,
+    "text": " \"We've got the answer, we've got the answer.\""
+  },
+  {
+    "start": 3540.84,
+    "end": 3543.84,
+    "text": " And me and my partner at the time were sat in the corner,"
+  },
+  {
+    "start": 3543.84,
+    "end": 3547.84,
+    "text": " \"No, okay, next clue, next clue, next clue.\""
+  },
+  {
+    "start": 3547.84,
+    "end": 3550.84,
+    "text": " They got all the way down to the last clue,"
+  },
+  {
+    "start": 3550.84,
+    "end": 3554.84,
+    "text": " which was like, it can be seen on the M6 just outside Silverdale,"
+  },
+  {
+    "start": 3554.84,
+    "end": 3557.84,
+    "text": " and we guessed that it must be that service station."
+  },
+  {
+    "start": 3557.84,
+    "end": 3560.84,
+    "text": " And yeah, that was a typical kind of quiz in that town"
+  },
+  {
+    "start": 3560.84,
+    "end": 3562.84,
+    "text": " where all the locals knew all the answers,"
+  },
+  {
+    "start": 3562.84,
+    "end": 3564.84,
+    "text": " but if you weren't local, you had no chance."
+  },
+  {
+    "start": 3564.84,
+    "end": 3567.84,
+    "text": " - That's so funny. - It's a beautiful structure,"
+  },
+  {
+    "start": 3567.84,
+    "end": 3572.84,
+    "text": " it's a kind of like a space age, a kind of like a flying saucer on a pole."
+  },
+  {
+    "start": 3572.84,
+    "end": 3576.84,
+    "text": " - Fortin Tower. - You would have got on, I think, quite well with Thomas Edison,"
+  },
+  {
+    "start": 3576.84,
+    "end": 3579.84,
+    "text": " who was also, do you know about his concrete obsession?"
+  },
+  {
+    "start": 3579.84,
+    "end": 3583.84,
+    "text": " - I don't think I do, no. - Oh, God, I think you might have married him in a different life."
+  },
+  {
+    "start": 3583.84,
+    "end": 3586.84,
+    "text": " He was obsessed with it. He set up Edison Portland Cement Company,"
+  },
+  {
+    "start": 3586.84,
+    "end": 3590.84,
+    "text": " and he wanted to make houses and all of their interiors entirely out of concrete."
+  },
+  {
+    "start": 3590.84,
+    "end": 3593.84,
+    "text": " And he actually, I think it was because he had lots of sand left over"
+  },
+  {
+    "start": 3593.84,
+    "end": 3596.84,
+    "text": " from other stuff he was trying, so..."
+  },
+  {
+    "start": 3596.84,
+    "end": 3599.84,
+    "text": " I don't know why he was making sand castles."
+  },
+  {
+    "start": 3599.84,
+    "end": 3602.84,
+    "text": " And he imagined houses made entirely of concrete,"
+  },
+  {
+    "start": 3602.84,
+    "end": 3605.84,
+    "text": " but then inside they would have concrete tables and chairs"
+  },
+  {
+    "start": 3605.84,
+    "end": 3610.84,
+    "text": " and bath towers made of concrete, fridges made of concrete pianos."
+  },
+  {
+    "start": 3610.84,
+    "end": 3614.84,
+    "text": " And he built, I think he built a little version, a little concrete cottage,"
+  },
+  {
+    "start": 3614.84,
+    "end": 3617.84,
+    "text": " and it does look like someone's taken a normal house,"
+  },
+  {
+    "start": 3617.84,
+    "end": 3620.84,
+    "text": " and then they've poured concrete over all the items in it."
+  },
+  {
+    "start": 3620.84,
+    "end": 3622.84,
+    "text": " - I think that was kind of his idea, right?"
+  },
+  {
+    "start": 3622.84,
+    "end": 3625.84,
+    "text": " He would just get this kind of shape of a house,"
+  },
+  {
+    "start": 3625.84,
+    "end": 3627.84,
+    "text": " and all you would have to do is pour concrete in,"
+  },
+  {
+    "start": 3627.84,
+    "end": 3629.84,
+    "text": " and eventually it was set, you'd take off the mould,"
+  },
+  {
+    "start": 3629.84,
+    "end": 3632.84,
+    "text": " and you'd have a house, and it would have all the tables in and everything."
+  },
+  {
+    "start": 3632.84,
+    "end": 3634.84,
+    "text": " But I think that's, does that still exist, that building?"
+  },
+  {
+    "start": 3634.84,
+    "end": 3637.84,
+    "text": " - There might be one. - I think that original one might still exist."
+  },
+  {
+    "start": 3637.84,
+    "end": 3641.84,
+    "text": " - They probably have tried to get rid of it, but found it impossible to destroy."
+  },
+  {
+    "start": 3641.84,
+    "end": 3645.84,
+    "text": " - It's a place called Hermits Castle, which is in Scotland somewhere,"
+  },
+  {
+    "start": 3645.84,
+    "end": 3649.84,
+    "text": " and I can't remember exactly where, but it was an early sort of,"
+  },
+  {
+    "start": 3649.84,
+    "end": 3653.84,
+    "text": " I think in the early '50s, maybe, this architect, David, someone, I can't remember his name."
+  },
+  {
+    "start": 3653.84,
+    "end": 3656.84,
+    "text": " This is just full of me trying to remember people's names."
+  },
+  {
+    "start": 3656.84,
+    "end": 3661.84,
+    "text": " But he built this little, out of concrete, this little castle,"
+  },
+  {
+    "start": 3661.84,
+    "end": 3665.84,
+    "text": " and the idea was that anyone walking could then just sleep in it, and people do."
+  },
+  {
+    "start": 3665.84,
+    "end": 3668.84,
+    "text": " But he did exactly that, like the beds all moulded into it,"
+  },
+  {
+    "start": 3668.84,
+    "end": 3672.84,
+    "text": " and the little shelves and things, it's all moulded into it."
+  },
+  {
+    "start": 3672.84,
+    "end": 3677.84,
+    "text": " It's called shuttering, so you use wooden panels,"
+  },
+  {
+    "start": 3677.84,
+    "end": 3680.84,
+    "text": " or wooden moulds to pour the concrete into."
+  },
+  {
+    "start": 3680.84,
+    "end": 3684.84,
+    "text": " You sort of line them with resin, and then move them away."
+  },
+  {
+    "start": 3684.84,
+    "end": 3688.84,
+    "text": " So that's why concrete is so exciting, because you can make any shape out of it."
+  },
+  {
+    "start": 3688.84,
+    "end": 3690.84,
+    "text": " - It's like plastic, I guess, right? - Yeah."
+  },
+  {
+    "start": 3690.84,
+    "end": 3692.84,
+    "text": " - Not comfortable, though, to sleep on."
+  },
+  {
+    "start": 3692.84,
+    "end": 3695.84,
+    "text": " - You wish that someone had made a bouncy castle."
+  },
+  {
+    "start": 3695.84,
+    "end": 3698.84,
+    "text": " A house made of doovies."
+  },
+  {
+    "start": 3698.84,
+    "end": 3700.84,
+    "text": " - Angela, have you seen the film 'Lock'?"
+  },
+  {
+    "start": 3700.84,
+    "end": 3703.84,
+    "text": " It's Tom Hardy. - Oh, in the car? Yes, I have."
+  },
+  {
+    "start": 3703.84,
+    "end": 3706.84,
+    "text": " I forgot it was called that, about the big concrete port."
+  },
+  {
+    "start": 3706.84,
+    "end": 3712.84,
+    "text": " So I did British Brutalist Architecture for Mastermind a few months ago,"
+  },
+  {
+    "start": 3712.84,
+    "end": 3716.84,
+    "text": " and I just found myself down this YouTube rabbit hole,"
+  },
+  {
+    "start": 3716.84,
+    "end": 3719.84,
+    "text": " and about four in the morning I was watching videos of concrete pours,"
+  },
+  {
+    "start": 3719.84,
+    "end": 3721.84,
+    "text": " going, \"This isn't what I'm doing!\""
+  },
+  {
+    "start": 3721.84,
+    "end": 3723.84,
+    "text": " \"This is not going to come up!\""
+  },
+  {
+    "start": 3723.84,
+    "end": 3726.84,
+    "text": " You should start a festive site."
+  },
+  {
+    "start": 3726.84,
+    "end": 3734.84,
+    "text": " OK, that is it, that is all of our facts."
+  },
+  {
+    "start": 3734.84,
+    "end": 3736.84,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3736.84,
+    "end": 3738.84,
+    "text": " If you would like to get in touch with any of us,"
+  },
+  {
+    "start": 3738.84,
+    "end": 3741.84,
+    "text": " we can be found on our Twitter account, Andy's On."
+  },
+  {
+    "start": 3741.84,
+    "end": 3743.84,
+    "text": " - @AndrewHunterM. - @JamesHarken."
+  },
+  {
+    "start": 3743.84,
+    "end": 3746.84,
+    "text": " And Angela, I didn't actually know if you have a Twitter account."
+  },
+  {
+    "start": 3746.84,
+    "end": 3749.84,
+    "text": " - I do, it's @AngelaBarns. - @AngelaBarns, an easy one to remember,"
+  },
+  {
+    "start": 3749.84,
+    "end": 3753.84,
+    "text": " and you can contact me by emailing podcast@QI.com."
+  },
+  {
+    "start": 3753.84,
+    "end": 3756.84,
+    "text": " Or you can go to our website, knowsuchthingasafish.com,"
+  },
+  {
+    "start": 3756.84,
+    "end": 3758.84,
+    "text": " where you can find all of our previous episodes,"
+  },
+  {
+    "start": 3758.84,
+    "end": 3763.84,
+    "text": " and lots of other fun stuff, as well as a link to join Club Fish,"
+  },
+  {
+    "start": 3763.84,
+    "end": 3765.84,
+    "text": " our super secret exclusive, not that secret,"
+  },
+  {
+    "start": 3765.84,
+    "end": 3767.84,
+    "text": " because we announce it every week."
+  },
+  {
+    "start": 3767.84,
+    "end": 3770.84,
+    "text": " Members Club, where you can get ad-free episodes,"
+  },
+  {
+    "start": 3770.84,
+    "end": 3772.84,
+    "text": " if you just hate those adverts,"
+  },
+  {
+    "start": 3772.84,
+    "end": 3775.84,
+    "text": " and you can also get extra special bonus content as we release it."
+  },
+  {
+    "start": 3775.84,
+    "end": 3777.84,
+    "text": " But more importantly, Angela,"
+  },
+  {
+    "start": 3777.84,
+    "end": 3779.84,
+    "text": " where can people get tickets to your tour?"
+  },
+  {
+    "start": 3779.84,
+    "end": 3781.84,
+    "text": " Oh yes, I'll be going on tour in February 2023,"
+  },
+  {
+    "start": 3781.84,
+    "end": 3783.84,
+    "text": " throughout the spring, and they can get tickets from my website,"
+  },
+  {
+    "start": 3783.84,
+    "end": 3786.84,
+    "text": " which is @AngelaBarnsComedy.co.uk."
+  },
+  {
+    "start": 3786.84,
+    "end": 3788.84,
+    "text": " Yeah, do that, don't join Club Fish."
+  },
+  {
+    "start": 3788.84,
+    "end": 3792.84,
+    "text": " OK, thanks everyone very much for listening,"
+  },
+  {
+    "start": 3792.84,
+    "end": 3794.84,
+    "text": " and we'll be back again next week."
+  },
+  {
+    "start": 3794.84,
+    "end": 3796.84,
+    "text": " We'll see you then, goodbye."
+  },
+  {
+    "start": 3796.84,
+    "end": 3801.84,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3801.84,
+    "end": 3804.42,
+    "text": " (upbeat music)"
+  }
+]

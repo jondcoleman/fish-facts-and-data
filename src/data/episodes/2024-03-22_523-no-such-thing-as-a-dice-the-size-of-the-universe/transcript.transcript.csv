@@ -1,0 +1,819 @@
+start_hhmmss,end_hhmmss,text
+00:00:00,00:00:06,"Hi everyone, welcome to this week's episode of No Such Thing as a Fish When We Were Joined"
+00:00:06,00:00:13,"by the incredible mathematician, YouTuber, science communicator, all-round smart guy"
+00:00:13,00:00:19,"Matt Parker. Now, a lot of you will know a lot of Matt's work. He's written a lot of"
+00:00:19,00:00:24,"books, things to make and do in the fourth dimensions. One of his humble pie was an"
+00:00:24,00:00:30,"absolutely massive book for him. He has a new book out. It is called Love Triangle, The"
+00:00:30,00:00:35,"Life-Changing Magic of Trigonometry. I haven't read it yet, but I can tell you having read"
+00:00:35,00:00:41,"his other books, it is going to be absolutely incredible. And you can pre-order it right"
+00:00:41,00:00:52,now by going to mathsgear.co.uk. That's M-A-T-H-S-G-E-A-R.co.uk. Don't forget that S if you're in America.
+00:00:52,00:00:58,"And you can pre-order a signed copy with a limited edition dust jacket. Of course, it"
+00:00:58,00:01:04,will be available in all of the local bookshops and probably in those big online book retailers
+00:01:04,00:01:11,"as well. A few other things about Matt, he is in a podcast called A Problem Squared with"
+00:01:11,00:01:16,"Beck Hill, who you might remember from a few months ago. She came on the podcast and talks"
+00:01:16,00:01:21,about Cabbage Patch Kids. Beck and Matt have this incredible podcast. It's definitely worth
+00:01:21,00:01:27,listening to. And there is also a podcast of unnecessary detail that Matt does with two
+00:01:27,00:01:34,"other ex-fish alumni, Steve Mould and Helen Arney from the Festival of the Spoken Nerd."
+00:01:34,00:01:38,"Anyway, I'm sure you're going to love this week's show. Don't forget at the end of it,"
+00:01:38,00:01:44,"go to mathsgear.co.uk to pre-order Matt's new book, Love Triangle. But for now, all that's"
+00:01:44,00:01:47,left to say is on with the podcast.
+00:01:47,00:02:10,"Hello, and welcome to another episode of No Such Thing as a Fish, a weekly podcast coming"
+00:02:10,00:02:15,to you from the QI offices in Hovern. My name is Dan Shriver. I am sitting here with Anna
+00:02:15,00:02:19,"Tyshinski, James Harkin and Matt Parker. And once again, we have gathered around the"
+00:02:19,00:02:23,microphones with our four favorite facts from the last seven days. And in no particular
+00:02:23,00:02:31,"order, here we go. Starting with fact number one, that is Matt. The first computer to ever"
+00:02:31,00:02:38,"discover a shape starred in the 1980s sitcom. Well, starred was in an episode of the 1980s"
+00:02:38,00:02:45,sitcom Laverne and Shirley. Wow. There are a couple of concepts in there. I'm not familiar
+00:02:45,00:02:51,"with them. I like to pack a lot of concepts into a sentence. Okay, so computer shape, Laverne"
+00:02:51,00:02:57,or Shirley? Can we talk about how you discover a shape? Good point. That feels like the bigger
+00:02:57,00:03:01,question. I also don't know what Laverne and Shirley show you'd recommend. I'm unfamiliar
+00:03:01,00:03:07,"with their non-computer based episodes. I used to watch it as a kid. Really? Yeah, yeah."
+00:03:07,00:03:10,"And it's good. Yeah, it's, I mean, it was a spinoff from Happy Days. Yeah, it's Gary"
+00:03:10,00:03:16,"Marshall, who was the, yeah, the creator of it. He was the Happy Days guy. Yeah, yeah."
+00:03:16,00:03:19,"Apparently it was a lot of, sorry, we're in Laverne and Shirley territory now. That was"
+00:03:19,00:03:23,"in the main part of my own. Apparently they were like really kind of like, you know, they"
+00:03:23,00:03:27,"had lots of fights on set and Happy Days, the cast, they used to put glass to the walls"
+00:03:27,00:03:31,"to hear the Argivets that were going on on the other side. Yeah, it was all that stuff."
+00:03:31,00:03:38,"On Happy Days. Yeah. But it was, it was early 80s, I think, Laverne and Shirley. So that's"
+00:03:38,00:03:44,"quite early for, no, it's not that early for computers, is it? It was a 1980 episode and"
+00:03:44,00:03:51,the same computer had previously starred in The Land of the Giants in 1969. God didn't
+00:03:51,00:03:57,"get work for a while then. No, it went out for a while. So it was in 60s like sci-fi and"
+00:03:57,00:04:05,"being in a 1986 com was actually like the final bit of its Hollywood career. Yeah, it's pretty"
+00:04:05,00:04:08,"about you've, you've as a result of this fact and we will get to the new shape. Sorry,"
+00:04:08,00:04:14,"Anna, for knocking out of this, but this website that you sent starring the computer, starring"
+00:04:14,00:04:19,the computer is phenomenal. Right. It's the IMDB of computers and movies that they have
+00:04:19,00:04:24,appeared in. And it's run by this one guy who he has this amazing Twitter account where
+00:04:24,00:04:28,"he just constantly puts up photos from movies he's watching going, what's this? Does anyone"
+00:04:28,00:04:32,know? And the people go hunting to try and track down the exact computer that's in the
+00:04:32,00:04:38,in the movie. So good. What was this computer first? The Burroughs 220. Okay. Once you've
+00:04:38,00:04:41,"seen it in Laverne and Shirley, do you think people then go, well, I want to watch The"
+00:04:41,00:04:45,"Land of the Giants now and I want to watch? Watch this entire bat catalog. Yeah, you might"
+00:04:45,00:04:50,"be with an actor. Well, what's good about this computer? The Burroughs 220 really looks"
+00:04:50,00:04:55,"like a computer. Like if you're thinking 60s computers, like with tape spinning and light"
+00:04:55,00:05:02,"splashing, it's like your classic retro computer look. Okay. I read that a similar one, which"
+00:05:02,00:05:11,"was the B205. Oh, yes. Was the bat computer in Batman. I wondered if there were ever"
+00:05:11,00:05:15,computers that played other computers. And I guess that's an example. Like a Mac playing
+00:05:15,00:05:21,"at Dell or something. Yeah. Yeah. But I wanted to find out more about the bat computer. Unfortunately,"
+00:05:21,00:05:27,one of the most popular internet firms in Lagos is called bat computers. I did find
+00:05:27,00:05:32,"a few things about the bat computer. And by the way, the Burroughs 205 absolutely smashes"
+00:05:32,00:05:38,"the hell out of the 220. It does. It had way better casting. Yeah, it's in the top 10 most"
+00:05:38,00:05:42,appeared in movies computers in the world. Family of computers for the record. Yeah. One
+00:05:42,00:05:48,"big Burroughs family. So here we go. A dynasty, you might say. What you get with the bat computer,"
+00:05:48,00:05:53,"the Burroughs 205 is you get the bat correction signal, which alerts Batman when he has said"
+00:05:53,00:05:57,"something incorrect. You have the bat computer input slot, which I remember. Wait a minute."
+00:05:57,00:06:03,So they invented the QI Klaxon. Exactly. Yeah. There's the input slot where it's just it's
+00:06:03,00:06:06,"kind of like where you would it's like a mail slot where you put your post in, but it's"
+00:06:06,00:06:11,"like, here's an entire book and you just shove the book in and it computes the whole book"
+00:06:11,00:06:15,really quickly. Wow. Accelerated concentration switch. That's sort of giving it more computing
+00:06:15,00:06:22,"power in order to deal with the problem. And special escaped arch criminal bat locator,"
+00:06:22,00:06:26,"which is a preset of the computer, basically, but specifically for like the Joker and the"
+00:06:26,00:06:32,"Reddler. That's clever. So I find my own app, but like find my villain. Exactly. Yeah. And"
+00:06:32,00:06:37,"the bat keyboard, that's an actual thing. It is a keyboard, which only has I think five"
+00:06:37,00:06:43,or six or seven keys on it. And you can make any letter by playing a chord. Do you know
+00:06:43,00:06:49,"these math, like no keyboards? So you don't need 26 keys to play all the stonography would"
+00:06:49,00:06:54,"use. I think so. Yeah. But it was used for like disabled people who, you know, only had"
+00:06:54,00:06:58,one hand or something like that. And you could type letters quickly by knowing that if you
+00:06:58,00:07:02,"want to do an A, you might press the first one, the third one, the fourth one or whatever."
+00:07:02,00:07:07,"Because there's 30. Well, if you include pressing nothing, 32 options, so that you've got enough"
+00:07:07,00:07:11,for the whole alphabet. How many keys with five? Five keys. Five keys will give you 32
+00:07:11,00:07:18,"options, including the null press, which is not using the keyboard. So 31 distinct presses."
+00:07:18,00:07:24,"And then if you include your nose, now you can do upper and lower case. I do have a keyboard."
+00:07:24,00:07:28,I removed all the keys apart from the zero and the one on a keyboard because I can type
+00:07:28,00:07:34,in binary. So I could I included the backspace. I'm not a monster. So I can and enter so I
+00:07:34,00:07:38,could type out. I tried doing it on stage. I'll type people's names in binary and then
+00:07:38,00:07:44,hit enter. Really? It will come up in text. Wow. I was looking at that website for all
+00:07:44,00:07:51,"the examples of this B205, which is what the bat computer is. And one just caught my eye,"
+00:07:51,00:07:58,which was sex kittens go to college. The movie. I don't know why. But this is an amazing movie
+00:07:58,00:08:03,"because it didn't just have this computer in it, the B205. It also had a robot called"
+00:08:03,00:08:10,Electro in it. And Electro was an exhibit of the 1939 World's Fair. It was like a huge
+00:08:10,00:08:15,"seven foot tall robot. It could walk by voice commands. So if you told it to walk, it could"
+00:08:15,00:08:20,"walk. It could speak 700 words using a record player. It could smoke cigarettes, blow up"
+00:08:20,00:08:26,balloons and move its hands and arms. All the parts of the chewing test.
+00:08:26,00:08:32,"Wow. So this was like a really famous robot in the World's Fair, 1939. And then by, you"
+00:08:32,00:08:37,"know, the 1960s, it was in sex kittens go to college. So good. What a career decline."
+00:08:37,00:08:41,Is it good or is it depressing for that poor robot? I just love it. I love all the movies.
+00:08:41,00:08:45,"I didn't read that movie. Like there are so many, like you get big ones like Austin Powers,"
+00:08:45,00:08:48,the spy who shagged me. It appears in that. But then you also got Dr. Goldfoot and the
+00:08:48,00:08:55,"Bikini machine. So good. And the Burroughs, by the way, it was a company. Yeah. And it"
+00:08:55,00:09:00,"was started by William Seward Burroughs, who was a grandfather of William S. Burroughs."
+00:09:00,00:09:05,"Really? He invented, at least this is, I'm sure there are other claims to it, but he"
+00:09:05,00:09:09,"invented and filed the patent for the first calculator. You wouldn't imagine that spawning,"
+00:09:09,00:09:15,"William Burroughs. Not really. Two generations later, it's sort of like chain smoking, romantic."
+00:09:15,00:09:18,Wife shooting. Wife shooting. You like to put that further down in C.
+00:09:18,00:09:22,"We rarely talk about the fact that he killed his wife. Yeah. Well, apparently he said that"
+00:09:22,00:09:27,he was trying to do a William Tell thing. Yeah. And shoot an apple off her head and accidentally
+00:09:27,00:09:30,shot her butt. Yeah. I'm not sure we all buy that. But apparently that will get you off
+00:09:30,00:09:35,in court because he didn't go to jail. Yeah. Everything was fine. Yeah. Just leave an apple
+00:09:35,00:09:44,nearby at the scene of the crime. Yeah. That's what I was aiming for. Another cool pop culture
+00:09:44,00:09:50,computer crossover I came across. Did you guys know that Steve Jobs is Homer Simpson's
+00:09:50,00:09:59,"uncle? Oh, what? Yes. Yes. This is so weird, this fact. It's so weird. It's so bizarre."
+00:09:59,00:10:04,So Steve Jobs' dad is a guy called Abdul Fattah Jandali. Steve Jobs was put up for adoption
+00:10:04,00:10:11,by this guy because his partner's family disapproved of the marriage because he was Syrian Muslim.
+00:10:11,00:10:14,"So Steve Jobs went out for adoption, never met his father, actually. This guy, Abdul"
+00:10:14,00:10:20,"Fattah Jandali, had another kid also who ended up estranged from him. She was called Mona"
+00:10:20,00:10:25,Simpson and she married a guy weirdly called Richard Apple. So Steve Jobs' brother-in-law
+00:10:25,00:10:30,"is called Apple. What? Brilliant. She married a guy called Richard Apple, who is a riser"
+00:10:30,00:10:37,"on the Simpsons and he came up with the character of Mona Simpson, Homer's mum, named after"
+00:10:37,00:10:42,"his partner, Mona Simpson. So Steve Jobs' sister is Mona Simpson, Homer Simpson's"
+00:10:42,00:10:47,"mum. Okay. Yeah. I followed that, but maybe because I knew it beforehand. I'm not sure"
+00:10:47,00:10:51,if that worked because we got too confused looking. Imagining a very complicated family
+00:10:51,00:10:56,"tree. Yeah. I'm thinking like the Hapsburgs, the other family tree where they're all kind"
+00:10:56,00:11:00,"of into it. Yeah. It is like that. And also, if that branched on into fiction for one bit"
+00:11:00,00:11:04,"of it, it's a little bit like Icelandic sagas where you're like, ""Is this true or is it"
+00:11:04,00:11:10,"not?"" So shapes? How does a computer? How does a computer invent a shape? Well, this"
+00:11:10,00:11:16,"is the problem. So everyone, and this is a perfect example of what happened in computing,"
+00:11:16,00:11:23,everyone loves the B205 and all these other fancy computers. The B220 was like a vacuum
+00:11:23,00:11:28,"tube miscalculation because they barely made any, no one really bought them. Transistors"
+00:11:28,00:11:32,had come along and blown these old ones out of the water. So they were pretty much a forgotten
+00:11:32,00:11:39,computer. Until I was reading a old maths paper from 1962 and it was someone called
+00:11:39,00:11:49,"Donald Grace who was trying to find the biggest shape. Now, you're going to need some constraints"
+00:11:49,00:11:56,"on that. Otherwise, the biggest shape is whatever shape the universe is. But they were trying"
+00:11:56,00:12:00,to work out the biggest shape that you could fit in like a unit sphere. Okay. So the biggest
+00:12:00,00:12:04,shape you can fit in a ball. Okay. And you can imagine it the size of the universe if
+00:12:04,00:12:08,"you want, no one's stopping you. Yeah. Or you can imagine it at a nice manageable basketball"
+00:12:08,00:12:13,"esque size. Okay. And to make it a bit more manageable again, they would do it for the"
+00:12:13,00:12:17,"number of vertices, the number of corners a shape has. Right. And Donald specifically"
+00:12:17,00:12:23,was curious what's the biggest shape with eight vertices on it. Okay. Which some people
+00:12:23,00:12:29,might think we just work out how to put eight points on a sphere as far apart as possible
+00:12:29,00:12:34,and join them all up to make a cube and doesn't work. That is the best way to position your
+00:12:34,00:12:39,points on a sphere. And that's actually quite difficult to do. That's a whole other no one
+00:12:39,00:12:45,has a good systematic way to arrange dots on a sphere. That's so interesting. What in
+00:12:45,00:12:52,that in that regular way that makes a cube despite all the funding from big golf? What
+00:12:52,00:12:58,is the biggest golf? There's no it's called the Thompson problem. There's no because it
+00:12:58,00:13:06,came out of is it named after Gulf Alexi Thompson? It's not right. Okay. It came out of Thompson
+00:13:06,00:13:11,"looking at electrons in an atom to work out how they be spaced. And they're like, Oh,"
+00:13:11,00:13:15,"well, it's easy. They just space such that they've got the as close as possible to the"
+00:13:15,00:13:18,"same distance between them. And they're like, we just work that. Oh, that's really hard"
+00:13:18,00:13:23,to work out. And it doesn't even solve this other problem. So we were a bit mathematician
+00:13:23,00:13:27,"with a bit of a dead end. And Donald Grace was studying at Stanford, studying what would"
+00:13:27,00:13:31,"later be called computer science. And they were like, you know what, I'll just see if"
+00:13:31,00:13:36,I can get a computer to solve this problem. Because if I program a computer to start with
+00:13:36,00:13:40,"eight points on a sphere, and work out the shape that they define, and then jiggle them"
+00:13:40,00:13:46,"all around a bit, and see which direction of jiggling increases the volume by the most."
+00:13:46,00:13:50,"And just do that more times in a human ever could, you'll eventually evolve your way into"
+00:13:50,00:13:57,"the biggest possible shape. Yeah, okay. So I read the paper. And I wasn't kind of aware"
+00:13:57,00:14:01,"of that at the time, I was just looking because I like the shapes. I was reading through the"
+00:14:01,00:14:05,"paper. And there's a line that said, oh, we ran this on a borrows 220 computer system."
+00:14:05,00:14:10,"And I was like, that's weird, like, that's commonplace in modern math research. But I"
+00:14:10,00:14:14,"was looking at this going, that's what a computer already. And the paper was submitted"
+00:14:14,00:14:21,in August 1962. How did he have access to a computer? And it turns out they did have
+00:14:21,00:14:27,"the borrows 220 at Stanford, they got it in 1960. So Donald has since passed away, spoke"
+00:14:27,00:14:31,"to his kids, and they're like, Oh, we used to volunteer and go in at night. Take the"
+00:14:31,00:14:36,"night shift from the computer lab, that meant he could run his code on the computer. Because"
+00:14:36,00:14:39,"otherwise, they were not going to waste their computer time for someone finding the biggest"
+00:14:39,00:14:44,"shape. Yeah, exactly. And he found it. He found the biggest shape and he published it. And"
+00:14:44,00:14:48,"he's like, I found this thing. And do you have any idea? Can we explain what the shape"
+00:14:48,00:14:55,"is? Or is it tough? It looks a little bit like a dice from D&D. Okay, yeah, it's made"
+00:14:55,00:15:01,"entirely out of triangles. But because it's not like an icosahedron, like a D20, or like"
+00:15:01,00:15:05,"a D8, that's nice and neat, because they're platonic solids, it's somewhere in the middle."
+00:15:05,00:15:11,So it's still a lot of triangles put together. And it looks quite regular. But it's not exactly
+00:15:11,00:15:15,"tidy, because that's an awkward number of vertices. You couldn't you couldn't roll it"
+00:15:15,00:15:20,"as a physical die. It'll be slightly unfair. Yeah. And it's massive. I mean, it's going"
+00:15:20,00:15:27,"to be difficult, isn't it? Heavy. Well, it's size of the universe. Can we talk about golf?"
+00:15:27,00:15:34,"Yeah, sure. I made a classic error there. Can I say no? No, you can't say no, because"
+00:15:34,00:15:39,"this is interesting, right? So I learned this from researching for this. I looked at my golf"
+00:15:39,00:15:44,"balls, and there's loads of dimples on them, right? All the dimples are hexagons. Or are"
+00:15:44,00:15:51,"they all hexagons, Matt? Because it's a sphere. They can't be, right? And so I found out that"
+00:15:51,00:15:58,"every golf ball has 12 pentagons on it. It's amazing. That was Anna, by the way. It's"
+00:15:58,00:16:05,"true. That wasn't a weird Star Wars creature that just suddenly came on. We went to Epcot,"
+00:16:05,00:16:09,"Disney World, and I made everyone else with stop so we could look at the massive Epcot"
+00:16:09,00:16:14,"sphere, which is a giant golf ball, I guess. I'm like, ""In there somewhere,"" I said, ""at"
+00:16:14,00:16:18,"12 pentagons."" Oh, my God. I'm going to try and find some. But the interesting thing is,"
+00:16:18,00:16:23,"this is the least interesting part of it. Now, I think this has improved my golf game,"
+00:16:23,00:16:28,"because what I do is when I put the ball on the tee, I line up one of the pentagons to"
+00:16:28,00:16:32,"where I want to hit, and it helps me concentrate that that's the part of the ball that I want"
+00:16:32,00:16:38,"to hit. Oh, that's great. Yeah. That's like with bowling. I use the triangle in the middle."
+00:16:38,00:16:41,"Well, you're supposed to. That's what they're there for. I don't think anyone does those,"
+00:16:41,00:16:46,"but I do. I do, and it works. Yeah. I mean, that's what that's there for. That's quite"
+00:16:46,00:16:49,"annoying for the golfer behind you who has to wait for you to just constantly go, ""Hang"
+00:16:49,00:16:55,"on. I know there are loads here."" Trying to find his pentagons. Well, that's amazing,"
+00:16:55,00:16:59,"isn't it? Yeah, that's incredible. 12 pentagons, because you can't put hexagons on a sphere."
+00:16:59,00:17:03,"You can't. And I've gotten very upset because the UK street signs for a football stadium,"
+00:17:03,00:17:09,"a picture of a football, and they've forgotten the pentagons. It's all hexagons, which is"
+00:17:09,00:17:13,"mathematically impossible. So why can't be if they made the sign work? Well, they just"
+00:17:13,00:17:18,"drawn a hexagon kind of slightly distorted grid, and then cut out a circle of it and"
+00:17:18,00:17:24,"put it on the sign. And we never see the other side of that. Yeah, of course. So I ran a"
+00:17:24,00:17:28,"big petition. Right. I got 20,000 signatures on a parliamentary petition. Yeah. So the"
+00:17:28,00:17:32,government has to write to you at that point to say what they're going to do about this
+00:17:32,00:17:36,important issue you've raised. Yeah. And they wrote to me to say they're not going to change
+00:17:36,00:17:40,"the street signs to be correct. They're like, no. They said that the correct geometry would"
+00:17:40,00:17:44,be so similar to the current signs. There's no point changing it. And they also said the
+00:17:44,00:17:49,"correct geometry would be so distracting, it might increase the likelihood of accidents."
+00:17:49,00:17:57,Really? Absolutely bullshit. We've got an election coming up. Thank you. I think if any
+00:17:57,00:18:01,"party decides to go for that, we're going to change the shape of footballs on road signs."
+00:18:01,00:18:06,"It's got to be a huge majority. Yeah. Yeah, I completely agree. Although I did now talk"
+00:18:06,00:18:12,"to someone who makes custom footballs, soccer balls, and got them to make me a ball where"
+00:18:12,00:18:20,"from one specific angle, it looks like the street sign. Nice. So someone who runs a company"
+00:18:20,00:18:25,"called 12 pentagons, John Paul designed this ball where from the front and the back looks"
+00:18:25,00:18:31,"like the street sign, but like the equator around the bit is a nightmare of weird shapes"
+00:18:31,00:18:36,to patch the drama together to make it work in physical reality. Yeah. And you have that.
+00:18:36,00:18:40,"I got the ball. I took it up to Liverpool Football Club. No. Yeah, I got their sports"
+00:18:40,00:18:45,"analytics team to have a kick around with it. I was not allowed. They're like, you have"
+00:18:45,00:18:50,to come on a day where we can guarantee there will be no players around. Imagine if Mo Sala
+00:18:50,00:18:54,played with that ball and it fucked up his entire career. I can't play with these other
+00:18:54,00:18:59,"balls anymore. Yeah, this is the one. It'd be great to see a lower league team like in"
+00:18:59,00:19:04,"the EFL training with that ball, knowing the game with that ball, then playing a Premier"
+00:19:04,00:19:07,"League team and just seeing the difference. Can you deal with the ball? Yeah, exactly."
+00:19:07,00:19:11,"It's the guys at Tramir, my team are listening. Give it a go. Can't be much worse than what's"
+00:19:11,00:19:23,"happening this season. Okay, it is time for fact number two. That is James. Okay, my fact"
+00:19:23,00:19:27,this week is that the woman who invented the trolley problem was the daughter of a man
+00:19:27,00:19:33,who made railway tracks for a living. So amazing. And the trolley problem is the issue where
+00:19:33,00:19:36,you're in a supermarket and one of the wheels gets stuck and you can't push in a straight
+00:19:36,00:19:41,"line. No, it's when your coin won't fit into the slot to release it from the big bunch"
+00:19:41,00:19:45,of trolleys. I feel like I have to give a little bit more information about the trolley
+00:19:45,00:19:50,problem. So it's like a philosophical idea that you've got a trolley or like a trolley
+00:19:50,00:19:55,"car in America, I guess it is, and it's going down some tracks and it's going to kill five"
+00:19:55,00:20:00,people who are working on the tracks or who are tied to the tracks depending on the version.
+00:20:00,00:20:04,But you have a lever and you can pull the lever and the trolley can go in the other direction
+00:20:04,00:20:10,and it will kill only one person. Do you pull the lever to kill that one person or do you
+00:20:10,00:20:14,"just do nothing and let the five people die? Yeah, not everyone agrees with what's the"
+00:20:14,00:20:18,correct answer. So it's always interesting. Yeah. And that was so that was originally
+00:20:18,00:20:22,"called the Tram problem, which was created by Philip of foot. She married a guy called"
+00:20:22,00:20:27,"foot, which feels quite rebellious if your dad makes railroad tracks. That's true. And"
+00:20:27,00:20:34,"she is known as the Grand Dam of philosophy. Yeah. And her mother was Esther Cleveland,"
+00:20:34,00:20:39,"who was the first president's child to be born in the White House, the daughter of Grover"
+00:20:39,00:20:46,"Cleveland. And her father was William Sidney, Benson Quay, who managed skinning grove steel"
+00:20:46,00:20:51,works in Yorkshire. And he made a lot of the tracks for the train tracks in the north of
+00:20:51,00:20:56,England. And I'm not sure it had any bearing on her philosophical works. I just like the
+00:20:56,00:21:00,idea. I think it's good that she had parents who worked on railroads because imagine if
+00:21:00,00:21:05,"her parents were like an accountant and a librarian, yeah, like it'd be a very different"
+00:21:05,00:21:11,"hypothetical situation. You know, five people want to borrow the same book. Yeah. But one"
+00:21:11,00:21:16,other person needs it for their own self is going to fall on. It's going to go one of
+00:21:16,00:21:20,two ways. There's five people on one side. You can shove it the other way and get one
+00:21:20,00:21:24,person that side thinking. Yeah. I don't think it would have caught on as the philosophical
+00:21:24,00:21:30,meme it is today. But Philippa Foote was amazing. She's incredible. And it's amazing that all
+00:21:30,00:21:33,"the connections, you know, Grand Order of Grover Cleveland came up with this massive"
+00:21:33,00:21:39,"philosophical dilemma, flatmate of Iris Murdoch. You know, she's like got so many interesting"
+00:21:39,00:21:44,little cultural touch points that I just surprised I've never heard of. Yeah. I guess they all
+00:21:44,00:21:48,"there seem to be a coterie of very interesting female philosophers around about that time,"
+00:21:48,00:21:53,which I suppose was the 30s and 40s. 40s. She got her degree in 42. Got it. So around
+00:21:53,00:21:58,"the 40s. And yeah, Iris Murdoch, who I never really thought of as a philosopher, and that's"
+00:21:58,00:22:03,just my ignorance. I just read a couple of Iris Murdoch's years ago. And it makes me
+00:22:03,00:22:07,"feel much more high brown now having read them because really Iris Murdoch books, have you"
+00:22:07,00:22:11,"guys ever read her? No. They're basically about loads of people having affairs. Well,"
+00:22:11,00:22:15,"the two that I read and I think all the rest of them. But once you know she's a moral philosopher,"
+00:22:15,00:22:21,there's a huge moral undercurrent that you're supposed to think about. So the trolley problem.
+00:22:21,00:22:25,"So it started as a tram problem with Phillipa Foote. Actually, let's go around the table."
+00:22:25,00:22:30,"Sorry to interrupt that. Yeah, yeah. Let's go around the table. Pull on that pole. Okay."
+00:22:30,00:22:34,Would you pull on that pole? Pull. Pull. Yeah. But what depends on the freight. The whole
+00:22:34,00:22:40,point is you change insignificant details and flips what people will say. And that seems
+00:22:40,00:22:44,"to be what happened. So this one seems to be relatively straightforward, although there's"
+00:22:44,00:22:48,"some disagreement, but almost everyone says they would pull. But then when you add lots"
+00:22:48,00:22:51,"of other bits of the scenario, and that seems to have been done by this other woman called"
+00:22:51,00:22:55,"Judith Jarvis Thompson, who was the person who made the trolley problem famous, came"
+00:22:55,00:23:00,up with the term the trolley problem. It's trolleyology is this whole kind of area of
+00:23:00,00:23:05,"study that's because of her. And yeah, she expanded on it with loads of possible examples."
+00:23:05,00:23:10,I think the most famous is probably the bystander case where rather than being the driver of
+00:23:10,00:23:15,"the trolley, you're now just on a bridge and you see the driver of the train faint. And"
+00:23:15,00:23:19,"then as a bystander, do you step in? And then that's like, are you intervening now?"
+00:23:19,00:23:22,"Well, it's slightly different. The bridge one's slightly different. There's two options"
+00:23:22,00:23:26,that Judith came up with. One is that you're on the side watching the trolley come and there's
+00:23:26,00:23:29,"a lever that you're able to pull. So you now need to make the decision, the five people"
+00:23:29,00:23:34,or one people. The bridge decision is you're standing on the bridge. You've suddenly done
+00:23:34,00:23:39,an interesting calculation where you realize that if you chucked what they call the fat
+00:23:39,00:23:46,"man, someone big enough, not yourself. You've diagnosed you're too small. But there's someone"
+00:23:46,00:23:50,who's big and weighty next to you and you somehow have the skill to throw them off the
+00:23:50,00:23:55,bridge and stop it. Would you then do that? That's the biggest dilemma because that's taking
+00:23:55,00:24:01,an innocent bystander. And there is another version where the bystander is not just big
+00:24:01,00:24:05,"enough to stop the train, but he's also the person who put the five people on the track"
+00:24:05,00:24:10,in the first place. So he's the villain. So is it better to push him? If you know he's
+00:24:10,00:24:13,"a bad guy, he's the one who set this whole terrible scheme up."
+00:24:13,00:24:17,"Did he do it deliberately? I need so much backstory now. Okay, well, what are the five"
+00:24:17,00:24:19,"people done to him? Oh, well, that's a good question."
+00:24:19,00:24:24,This is why if their workers versus tied to the track can change it sometimes. Because
+00:24:24,00:24:27,are they foolish workers who didn't follow health and safety? Or are they there of no
+00:24:27,00:24:28,fault of their own?
+00:24:28,00:24:32,"You're right. They had it coming, mate. You don't follow health and safety."
+00:24:32,00:24:35,This feels like a game of pool whenever I go to a pub and you have to work out what rules
+00:24:35,00:24:36,you're playing.
+00:24:36,00:24:39,Two shot carry. Is it two shots on the black? What is it?
+00:24:39,00:24:44,"But I like the bridge one because a lot of people would, in the standard issue version"
+00:24:44,00:24:49,"of this, pull the lever and sacrifice one person to save five. But then there's the hospital"
+00:24:49,00:24:53,"waiting room problem, which is where a perfectly healthy person walks in and sits down the"
+00:24:53,00:24:57,hospital waiting room and they realize there are five people who all desperately need an
+00:24:57,00:25:02,organ transplant. And if they got the organ that all live. So if we take this one healthy
+00:25:02,00:25:08,"person, we can take their organs and five, which in the abstract is equivalent to the"
+00:25:08,00:25:14,same problem. But now it's universally no as opposed to almost universally yes.
+00:25:14,00:25:19,And I think this is what befuddled old Judith Jarvis Thompson and she changed her mind.
+00:25:19,00:25:23,"On her solution, she said you shouldn't push the bystander off. And this was years later."
+00:25:23,00:25:25,So it was in the 70s that she came up with her.
+00:25:25,00:25:30,It was a bit late by then because she's already killed 500 people in the experiment.
+00:25:30,00:25:35,"She suddenly was like, I feel terrible about this. It's wrong. But she said, it's kind"
+00:25:35,00:25:38,"of what you were saying, Matt. She said, actually, if you're on the bridge and you've got the"
+00:25:38,00:25:42,"option to push someone off the bridge to save the five people, but sacrificing them, would"
+00:25:42,00:25:47,"you sacrifice yourself? And if the answer is no, then you've got no right to sacrifice"
+00:25:47,00:25:51,"the other person. And if the answer is even yes, you've still got no right because their"
+00:25:51,00:25:56,"answer might be no. Yeah, which kind of makes sense. Well, is it absolutely right Danny definitively"
+00:25:56,00:26:00,"saying that? My answer to the trolley problem, if I'm on the trolley, I would immediately"
+00:26:00,00:26:03,"look out, see if someone's standing near a lever, go pull the lever for Christ's sake,"
+00:26:03,00:26:09,if you want. Or yell up to the bridge. Is there anyone who's just having a bad time of
+00:26:09,00:26:14,it? You just kind of want to be a hero. You need to be over 16 stone. I'm having a bad
+00:26:14,00:26:19,time of it. Judith Thompson was really important in the abortion debate and around Roe versus
+00:26:19,00:26:24,wage. She wrote probably the most famous or maybe the most seminal paper about it with
+00:26:24,00:26:28,"another thought experiment that she came up with, which and I guess what's quite fun"
+00:26:28,00:26:33,about thought experiments is the kind of a bit funny abortion often not a funny subject.
+00:26:33,00:26:41,"But she just made it funny. She found the comedy and she said in defense of abortion,"
+00:26:41,00:26:46,"she wrote, imagine this, you wake up one morning and you find yourself back to back in bed"
+00:26:46,00:26:54,"with famous unconscious violinist Nigel Kennedy say not say Nigel Kennedy yet. In fact, because"
+00:26:54,00:26:58,"he's probably the only famous violinist you can name Jack Benny. All right, you can have"
+00:26:58,00:27:06,"Jack Benny. This is a game I was not equipped to play. Vanessa May. Very good. All right,"
+00:27:06,00:27:10,it can be any famous unconscious violinist. It's not really important which specific
+00:27:10,00:27:16,"violinist it is. We're playing the famous violinist tennis. No, no, no, please. I'll"
+00:27:16,00:27:22,"go on. Can't think of one. So the famous violinist has a fatal kidney. Sorry, that's just the"
+00:27:22,00:27:29,smallest violin playing for me in my sadness of losing. So the violinist has a fatal kidney
+00:27:29,00:27:35,ailment and the Society of Musical Lovers have therefore kidnapped you and rigged up
+00:27:35,00:27:42,"your circulatory system to the violinist and this will save the violinist, him or her."
+00:27:42,00:27:45,"And you go to the hospital and you're like, someone's rigged up my circulatory system with"
+00:27:45,00:27:49,"this fucking violinist and I don't want it there. And the hospital's like, look, we're"
+00:27:49,00:27:54,super sorry. Wouldn't let it happen if we'd known about it. But now it's happened. It's
+00:27:54,00:27:59,"kind of letting him die if we unplug you. She says, should you have to agree to be plugged"
+00:27:59,00:28:02,"into him? And her argument is no, you shouldn't have to agree."
+00:28:02,00:28:06,"And the doctor also says in nine months it will be fine and you'll be unplugged anyway,"
+00:28:06,00:28:10,right? The doctor says in nine months it'll be fine. Yes. Although she sort of expands
+00:28:10,00:28:14,"on it a bit because, you know, if you have a child often it's not straight up. So in nine"
+00:28:14,00:28:18,"months it'll be fine, but there is no reason. You still have to look after the traumatic"
+00:28:18,00:28:23,complexion. You've got to look after the violinist. You've got to change the nappy.
+00:28:23,00:28:27,"I think Philip Heffort's original one was also about abortion, the one with the trolley"
+00:28:27,00:28:31,"problem. Because it had the trolley problem in it, but it also had another quandary which"
+00:28:31,00:28:38,was a magistrate who executes one man in order to quell a riot in which five innocent men
+00:28:38,00:28:44,"will die. And so she asked people, should you be able to execute one person to save five"
+00:28:44,00:28:48,"people in the riot? And almost everyone said no. And then you said, but should you pull"
+00:28:48,00:28:52,this lever so that the trolley kills this one person? And almost everyone said yes. And
+00:28:52,00:28:56,"she's like, this is a weird dichotomy of ideas. And I think, I think maybe that's where our"
+00:28:56,00:29:01,"argument came in of one of them, the judge is actively killing someone versus just not"
+00:29:01,00:29:06,"saving people, wasn't it? So she was like, that's a slightly different, it's very confusing."
+00:29:06,00:29:11,And then Daniel Bartels of Columbia University says this is all bullshit because these dilemmas
+00:29:11,00:29:16,"are really engaging situations that people enjoy thinking about, but in real life, you"
+00:29:16,00:29:21,"wouldn't enjoy it at all. If you had to make that decision, you probably would be a bit"
+00:29:21,00:29:27,"stressed. On Mastodon, the new Twitter, and there's a user called Sidereal who came up"
+00:29:27,00:29:32,with a solution where the trolley is going down and you've got a lever. And what you
+00:29:32,00:29:38,"do is you pull the lever just when the front wheels of the trolley have passed, but before"
+00:29:38,00:29:42,"the back wheels of the trolley have passed, and that will make the trolley cast stop."
+00:29:42,00:29:44,They won't kill anyone.
+00:29:44,00:29:45,You kill everyone.
+00:29:45,00:29:46,Yeah.
+00:29:46,00:29:53,"No, you kill no one. And apparently this is how railroad workers stop runaway trains,"
+00:29:53,00:29:57,and how railroad robberies used to take place in the Wild West is you would make the tracks
+00:29:57,00:29:59,change just as the train's going over you.
+00:29:59,00:30:00,Me too.
+00:30:00,00:30:01,Right.
+00:30:01,00:30:02,So that's a way to trick it.
+00:30:02,00:30:03,That's brilliant.
+00:30:03,00:30:04,Did you read the really recent story about a runaway train?
+00:30:04,00:30:05,No.
+00:30:05,00:30:06,No.
+00:30:06,00:30:14,"It was mad. In Japan, it was a freight train. It had 50 carriages, and it went for 80 kilometres"
+00:30:14,00:30:20,"on its own, totally driverless at 100 kilometres per hour. So the driver disembarks for like"
+00:30:20,00:30:26,"a driver stop at a station in a place called Jammu, and it just started rolling, and it"
+00:30:26,00:30:29,"kept going. And they had to close all the road crossings ahead of it. They were like,"
+00:30:29,00:30:33,"""Oh my God, we can't stop this train quickly. Make sure pedestrians aren't crossing the"
+00:30:33,00:30:38,"tracks."" It went for 80 kilometres, and eventually I think someone came and put blocks on the"
+00:30:38,00:30:39,track to stop it.
+00:30:39,00:30:40,Wow.
+00:30:40,00:30:41,So it ran and trained on it.
+00:30:41,00:30:42,"And there was no people on it, the driver had gone and..."
+00:30:42,00:30:45,"No people, just shed loads of bricks, I think."
+00:30:45,00:30:47,That's a worst-case scenario.
+00:30:47,00:30:50,Not pillows and marshmallows.
+00:30:50,00:30:52,That's probably not.
+00:30:52,00:30:56,"Do you guys know Vsauce, the YouTuber?"
+00:30:56,00:30:57,Yeah.
+00:30:57,00:30:58,Michael.
+00:30:58,00:30:59,"Oh, your buddies are them."
+00:30:59,00:31:00,"Your actual friends, yeah."
+00:31:00,00:31:03,Are you? I really want to know your opinion on the fact that he actually tried the trolley
+00:31:03,00:31:08,"problem for real, which has never been done before, and is so weird to watch. I mean, I"
+00:31:08,00:31:10,think he did it. He's claiming to have done it.
+00:31:10,00:31:11,Do you?
+00:31:11,00:31:13,"Yeah. It's really hard to work out if people are acting or not, because you really..."
+00:31:13,00:31:15,Did he kill five people or one person?
+00:31:15,00:31:16,Yeah.
+00:31:16,00:31:22,The next video comes from Jail. Maybe it's also Michael in Jail here.
+00:31:22,00:31:28,"Yeah, it wasn't quite that extreme, but basically he took volunteers from the street and told"
+00:31:28,00:31:33,"them they were in an experiment about high-speed rail, and like, ""We're testing this train,"
+00:31:33,00:31:36,"this automated train,"" took them into a switching station, and he says, ""Why don't you have a"
+00:31:36,00:31:39,"look at how this switching station works while you're here?"" And there's a guy who's"
+00:31:39,00:31:44,"there saying, ""Hey, this is the button I press to put the train on a different track,"""
+00:31:44,00:31:48,and then he gets a phone call and has to leave. So the volunteer is just alone in the switching
+00:31:48,00:31:52,"station, and they suddenly see a train coming, and they're watching workers on the track"
+00:31:52,00:31:57,"with headphones on, so they can't hear what's happening. And they think that the only way"
+00:31:57,00:32:01,"to save these workers is to click that switch they've just been shown, and to kill one person"
+00:32:01,00:32:06,"but save the other five. And it's incredible to watch, and it's mad to me that it was"
+00:32:06,00:32:10,"allowed to happen, but he took it through this, like, ethics boards, went through the"
+00:32:10,00:32:15,"ethics boards, and seven people did it. Do you want to guess how many, because obviously"
+00:32:15,00:32:18,"the other thing about the trolley problem is people always say they'd switch, and in"
+00:32:18,00:32:24,"real life, would you actually? Seven people, how many people do you think click the switch?"
+00:32:24,00:32:29,"I'm going to go one. Nice. I think just like, if you're in someone else's office, you just"
+00:32:29,00:32:33,"don't want to touch anything, no matter what. All the other social, like you're like, oh,"
+00:32:33,00:32:37,"yeah, yeah, people dying, but the, oh, the social awkwardness of touching someone's work"
+00:32:37,00:32:45,"station. And that's how good human beings are. You're absolutely right, it's two people."
+00:32:45,00:32:48,"Two people. And a lot of them did say that, they were like, well, it's not really my,"
+00:32:48,00:32:53,"I don't know, maybe he's broken under control. Yeah. Yeah. Gosh. It is part of the dilemma"
+00:32:53,00:32:57,that you sort of think the act of pulling the lever makes you complicit to a murder
+00:32:57,00:33:02,"versus. Yeah. I hadn't thought of that really, like that being part of the emotion. I'm"
+00:33:02,00:33:07,"deciding you die. Oh yeah. Whereas if I just don't touch it. Like if it's your job, then"
+00:33:07,00:33:11,"you could be negligent for not pressing it, right? Because you've let five people die"
+00:33:11,00:33:14,and it's your job and you should have made that decision. But if you've just been left
+00:33:14,00:33:19,"in that room. You're a real group. But if you've misunderstood this, the situation, you make"
+00:33:19,00:33:33,"it worse. I'm releasing more trains. Okay, it is time for fact number three and that"
+00:33:33,00:33:40,"is Anna. My fact this week is that on the first ever road trip across America, multiple bridges"
+00:33:40,00:33:45,collapsed under the weight of the cars and had to be rebuilt along the way. Wow. It's
+00:33:45,00:33:50,presumably crumbled behind you often crumbled with the vehicles on it and they would plunge
+00:33:50,00:33:55,"into a river. Oh, right. I was thinking like Dan, maybe it's like, you know, when you're"
+00:33:55,00:33:59,"walking in the countryside and you have to close all the gates behind you, just like"
+00:33:59,00:34:06,consider a driving in America. Bridge back now. So cows can cross. This was a very specific
+00:34:06,00:34:13,"road trip and involved a lot of cars. So it was 1919. And it was 79 vehicles. Specifically,"
+00:34:13,00:34:20,it was the Army Motor Transport Corps. And they were driving across America to check
+00:34:20,00:34:24,"out the state of the road. So it was ordered by the War Department, this road trip. And"
+00:34:24,00:34:28,no one had ever traveled from East Coast to West Coast America because the roads just
+00:34:28,00:34:33,weren't equipped for that. There wasn't an interstate road system. And so this trip was
+00:34:33,00:34:38,commissioned to see if the roads were possible and it turned out not really. And there were
+00:34:38,00:34:45,just constant diversions because like cars would sink in the mud or they often had to
+00:34:45,00:34:49,disassemble covered bridges because the trucks were too tall. So they'd have to take a bridge
+00:34:49,00:34:52,apart and then put it back together when the trucks had gone through. And then if you look
+00:34:52,00:34:56,"up news reports about it, it was a huge media deal. Every new state they went into this"
+00:34:56,00:35:01,"caravan of cars. Everyone was like, Hey, so it was always reported in the news. And the"
+00:35:01,00:35:07,"news was always saying, you know, 12 bridges repaired today, eight bridges collapsed today,"
+00:35:07,00:35:10,"you know, another 12 bridges, this truck fell and had to be pulled out of a gully."
+00:35:10,00:35:14,"So really, if you were a small town, you'd want to divert the roads to your worst bridges"
+00:35:14,00:35:20,"so that you're getting free repair. What was the date again? Sorry, Anna, I know you"
+00:35:20,00:35:26,"said 1919, 1919. Gosh, how many cars were on it? There's about 79 vehicles. And it took"
+00:35:26,00:35:31,a seriously long time because the roads were so bad. So it took all together. They traveled
+00:35:31,00:35:39,"3,242 miles. And it took 62 days, which ended up being an average of about five miles an"
+00:35:39,00:35:45,"hour, a bit over five miles an hour. Wow, they took 20 days longer to do this than the record"
+00:35:45,00:35:49,"for running across America today. Right. Oh, wow. So then this caused this report to be"
+00:35:49,00:35:57,"written by loads of people, one of whom was a chap called Eisenhower in 1919, who went"
+00:35:57,00:36:01,"on along for the road trip, wrote a report saying we've got to fix these roads, became"
+00:36:01,00:36:04,"president more than 30 years later. It was like, they haven't fixed these bloody roads"
+00:36:04,00:36:09,yet. And so he was the one who fixed the roads. I find it amazing that the interstate system
+00:36:09,00:36:14,"in America is basically an army thing. It's a defense thing, isn't it? That's why they"
+00:36:14,00:36:18,built it. Is that why they did it initially? It's actually officially known as the Dwight
+00:36:18,00:36:24,"D. Eisenhower National System of Interstate and Defense Highways. So yeah, but then after"
+00:36:24,00:36:29,"it had been going for 40 years, they claimed that it had saved the lives of 187,000 people."
+00:36:29,00:36:33,Is that because it's so safe? It is because motorways and highways are just super safe
+00:36:33,00:36:39,compared to normal roads because everyone's going in the same direction. And it's so regimented
+00:36:39,00:36:45,"how it works. So I didn't really know anything about the interstate highway system, but all"
+00:36:45,00:36:49,the rules are exactly the same across the board. So America didn't have a unified road
+00:36:49,00:36:54,system by the 1950s. You still couldn't really cross efficiently from one state to another
+00:36:54,00:36:58,because it's just not in a state's interest to make the crossing between states good.
+00:36:58,00:37:03,"So the federal government took over. And yeah, it's super safe, but like everything down"
+00:37:03,00:37:07,to the last detail is the same across the board. So tunnels and bridges are exactly the
+00:37:07,00:37:12,same height everywhere. There's the same gradient of slope at the edge of the roads for water
+00:37:12,00:37:17,runoff. Everything's the same. That's cool. That universally across America still to this
+00:37:17,00:37:23,"day? Just in the interstate highway system. Yeah. Yeah. And sweetly, Alaska and Hawaii"
+00:37:23,00:37:28,"both have interstate highway roads, even though they've got no states to go to. I've been"
+00:37:28,00:37:32,on the one in Alaska and it's not like it doesn't seem the same as the ones in New York.
+00:37:32,00:37:37,"Oh, does it not? Really? No. Okay. Yeah. They maybe have played it a bit faster than these"
+00:37:37,00:37:40,for the rules out there. Yeah. The ones in Hawaii are the ones in Honolulu. They're exactly
+00:37:40,00:37:46,like anywhere in America for sure. The average age of bridges in the US is a year younger
+00:37:46,00:37:58,"than me. Wow. We're talking like 54, 55. And will that always be true? They age with you?"
+00:37:58,00:38:02,"No, they'll chase them and repair them and get new ones. They're not going to get older"
+00:38:02,00:38:06,"than you, though, sadly our way. They're not going to change you and repair you. That's"
+00:38:06,00:38:10,true. How often do you remove a bridge though? Like how many bridges are we losing? I guess
+00:38:10,00:38:14,"if they totally replace one, that would reset the clock. Well, a third of them are classified"
+00:38:14,00:38:20,"as structurally deficient in the US. So they are having to replace them, but they've kind"
+00:38:20,00:38:24,of kicked the can down the road for years and years and years and now. Who has a longer
+00:38:24,00:38:31,life expectancy? Me or a bridge. An average bridge or you? I reckon the bridges probably
+00:38:31,00:38:35,"don't drink as much as me, but I get a bit more exercise. Who would you save in the trolley"
+00:38:35,00:38:39,problem if there's a trolley who's going to kill a bridge? There's a bridge on top of
+00:38:39,00:38:46,a fat man. Do you push them up? I would love to see a website where it's you and listed
+00:38:46,00:38:50,all the other bridges of America and let's see who wins. Let's see who makes it to the
+00:38:50,00:38:56,end. This is like List Trust versus a lettuce. This is a terrible memento mori which I wasn't
+00:38:56,00:39:04,expecting. It would be a great update that James has outlived another bridge. Bridges
+00:39:04,00:39:10,are not surprise collapse with cars. Engineering and designing a bridge is complicated. Yeah.
+00:39:10,00:39:16,"And more engineering is kind of experimental. I mean, less so now we've got computers. Now"
+00:39:16,00:39:22,"we're in the post borrows, 220 era. But back in the day, you build a bridge, you're over"
+00:39:22,00:39:29,engineering a bunch and hope it stays up. But it's only really as good as the load cases
+00:39:29,00:39:33,"that have been over it so far. Right. So when they wheeled out cars, I'm not surprised. This"
+00:39:33,00:39:38,is a whole new load case. Yeah. Bridges failed. Yeah. They built a bridge in the north of
+00:39:38,00:39:44,England in 1846. It was a railway bridge and it was fine. It was like longer than they'd
+00:39:44,00:39:49,ever built before. So they tensioned it up to make it extra stiff and trains were going
+00:39:49,00:39:53,fine over it. And then they added a bit more rock and aggregate to the top of it to kind
+00:39:53,00:40:00,of protect the sleepers. And that additional mass opened up a new mode of movement for
+00:40:00,00:40:03,the bridge that they'd never seen before. And the next train that went over the middle
+00:40:03,00:40:08,of the bridge was long enough that the middle bit could twist. And they just they just never
+00:40:08,00:40:11,seen that happen before because no bridge had been big enough or had that load put on
+00:40:11,00:40:20,"it. That's now Alton towers. What happened? A lot of injuries, five people died. The first"
+00:40:20,00:40:26,train that went over after they added this extra rock caused it to twist in a new mode
+00:40:26,00:40:31,in the middle of the bridge that hadn't been seen before. And it'll happen every now and
+00:40:31,00:40:36,"then we'll build something bigger or different to before. Yeah. And until you test it, we"
+00:40:36,00:40:39,"have no I mean now obviously with computers, we can do a lot more modeling and testing"
+00:40:39,00:40:46,"in advance, but particularly historically, it was a builder and survivor. Yeah. Whenever"
+00:40:46,00:40:51,"I'm on Instagram and I'm just scrolling through videos, there often is an advert that comes"
+00:40:51,00:40:56,up for a game where you have to build a bridge and you have to put the positions of the. Yeah.
+00:40:56,00:41:00,The steel underneath it. And I just watched this ad for minutes on end because every
+00:41:00,00:41:06,"conceivable way I think a bridge should be built, it collapses and flips and crashes and"
+00:41:06,00:41:11,thank God you're not a civil engineer. Not the first time I thought that to be honest.
+00:41:11,00:41:17,"She's saying, yeah, that's right. It's more complicated than we realize. Yeah. But like"
+00:41:17,00:41:20,"the it was kind of a big deal at the time, although I have to say I've forgotten about"
+00:41:20,00:41:26,"it until reminded researching this, but like the Millennium Bridge was a big case, wasn't"
+00:41:26,00:41:31,"it? And exactly as you say, sort of untested was a huge deal. So for our listeners, it"
+00:41:31,00:41:36,was a quite beautiful bridge across the Thames in London that was opened in the year 2000
+00:41:36,00:41:40,"in the summer. And I think it closed up to two days because it was wobbling, wasn't"
+00:41:40,00:41:44,it? It was moving about seven and a half centimetres backwards and forwards. And people felt like
+00:41:44,00:41:48,"it didn't sound like a lot. But if you're standing on this bridge, that's earthquake"
+00:41:48,00:41:52,"levels. Yeah, it's noticeable. And it's because it was able to move from side to side. And"
+00:41:52,00:41:56,what I really like about it is Londoners called it the wobbly bridge. They didn't call it
+00:41:56,00:42:00,the bouncy bridge because it wasn't going up and down. It was very specifically going
+00:42:00,00:42:05,"side to side. It had this lateral back and forth. They accidentally, when they built"
+00:42:05,00:42:13,"it, tuned it, I say tuned, it wasn't deliberate. It ended up being tuned to be able to resonate"
+00:42:13,00:42:18,"at about one hertz. And when a human walks, we take about two steps a second. So we're"
+00:42:18,00:42:24,basically a mass going backwards and forwards at a rate of one hertz. And people walking
+00:42:24,00:42:27,across the bridge are naturally walking at a hertz where their body's moving backwards
+00:42:27,00:42:31,and forwards once a second. And it would cause the bridge to move a little bit. But then
+00:42:31,00:42:36,"you had this synchronizing effect where because the bridge is moving slightly, people are"
+00:42:36,00:42:43,"more likely to step in rhythm with it. And so they were all natural dancers. So yeah,"
+00:42:43,00:42:46,"then it makes it worse and worse. I feel like it's the same as on a trampoline, you know,"
+00:42:46,00:42:50,when someone's bouncing and you automatically bounce in sync with them to make them more
+00:42:50,00:42:54,comfortable. So it's quite cool to imagine everyone on Millennium Bridge was walking
+00:42:54,00:43:01,"exactly in step. And then all vomiting. Yeah, you got seasickness going over the bridge."
+00:43:01,00:43:06,Is it the case that they had to fix it? Was it dangerous because you could break the bridge?
+00:43:06,00:43:10,"It could have got worse and worse. So at the levels it was happening, it wasn't dangerous,"
+00:43:10,00:43:13,but no one wants to be on a bridge wobbling backwards and forwards. It genuinely made people
+00:43:13,00:43:16,feel sick. That's why they had to fix it. This is my new entry for how I'd solve the
+00:43:16,00:43:21,"trolley problem. I would be on the bridge. I would see the trolley coming and I'd say,"
+00:43:21,00:43:27,"everyone, let's walk in sync and let's down the bridge. Shake the bridge. Shake the bridge."
+00:43:27,00:43:32,It costs an extra £5 million to fix. It was like on the original budget of £17 or £18
+00:43:32,00:43:37,million to build it. It took them two years and £5 million. Really? They had to add extra
+00:43:37,00:43:42,"damping to take out those frequencies. Yeah, yeah. By doing that, they increased the damping"
+00:43:42,00:43:47,"below one and a half hertz by about 15, 20% and that was enough to stop that runaway feedback"
+00:43:47,00:43:53,group. How interesting. So if you got a load of shorter people with shorter legs walking
+00:43:53,00:44:01,"along, might it happen again? If you were able to walk at a frequency that... Would it be"
+00:44:01,00:44:06,"faster or slightly like race walkers? The way it's been designed now, you'd have to"
+00:44:06,00:44:11,"be running. You'd be at a higher frequency to cause a problem, but you'd have to have"
+00:44:11,00:44:16,"a lot of people running at once to fall in sync. So if the London Marathon changes,"
+00:44:16,00:44:22,dive over. But they do this like people who work on designing football stadiums have to
+00:44:22,00:44:27,make sure the stadium is not accidentally tuned to any of the frequencies where a concert
+00:44:27,00:44:33,that's put in the stadium might match to. What do you mean because then the actual structure
+00:44:33,00:44:38,"could vibrate? The whole structure, there's video of people dancing in a stadium. It was"
+00:44:38,00:44:42,a football chant that people were doing and you can see the whole structure starts to
+00:44:42,00:44:47,go up and down because they've hit that resonant frequency. Every engineer on the stadium has
+00:44:47,00:44:55,"to go, the referee's a wanker. Don't do it to that one. The famous one up near where"
+00:44:55,00:44:59,I live is the Broughton Suspension Bridge between Manchester and Bolton which collapsed
+00:44:59,00:45:05,in 1831 and was supposedly because people were marching across it and that resonance
+00:45:05,00:45:10,"caused the bridge to collapse. I think that's the first, in my research that's the first"
+00:45:10,00:45:17,"bridge that collapsed due to resonance. Supposedly, yeah. And the military from then on were always"
+00:45:17,00:45:22,told to break step when they cross over a bridge. It is sensible to not walk exactly
+00:45:22,00:45:27,"at the same pace if you're going over a bridge, I think. Yeah, actually for the British Army"
+00:45:27,00:45:32,"at certain points you have to stop playing the music. So, you know, the Trumpeters have"
+00:45:32,00:45:37,"to shut up as you go over a bridge. So, you can all walk really carefully, not coordinating"
+00:45:37,00:45:42,with anyone else's walk. Everyone walk totally randomly and different to everyone else walking
+00:45:42,00:45:48,randomly. You could just put some music that's really difficult to dance to. Yeah. Something
+00:45:48,00:46:03,"that lets some Shostakovich, some really sort of... Get all three of the best known violinists."
+00:46:03,00:46:07,"Okay, it is time for our final fact of the show and that is my fact. My fact this week"
+00:46:07,00:46:12,"is that in the board game Rising Sun, players are able to collect monsters that are inspired"
+00:46:12,00:46:19,"by both Japanese mythology and, by complete accident, a New Zealand farmer. This is the"
+00:46:19,00:46:23,"board game which they put on Kickstarter. They needed 300,000 in order to get the game"
+00:46:23,00:46:27,"going but they ended up getting over four million dollars. And so, they had all this"
+00:46:27,00:46:33,"additional... Well, we might as well add a farmer. That was a stretch goal. One guy from"
+00:46:33,00:46:39,"New Zealand gets to pick a monster. So, what they did was they said, ""Okay, well, as we've"
+00:46:39,00:46:42,"got all this extra money, what we're going to do is we're going to produce more characters."""
+00:46:42,00:46:45,"So, it's like a bonus pack that you get. So, one of these monsters is called the Katahi"
+00:46:45,00:46:51,"and basically, it's described as a Manawa Bradford, a spirit monkey that is very hairy"
+00:46:51,00:46:56,"and gets engulfed in rage. Are you the New Zealand farmer, Dan?"
+00:46:56,00:47:04,"I've never seen you consumed with rage. No, but you have seen me naked. It's made him"
+00:47:04,00:47:09,"pretty angry actually. But yes, so then what happens is the game comes out, all these characters"
+00:47:09,00:47:14,"are out there and then there's this guy who's online who says, ""Hey, I'm actually from Japan"
+00:47:14,00:47:18,"and I've never heard of this character. Does anyone know anything more about it?"" So, it"
+00:47:18,00:47:23,"sparks off a big, you know, hunt online for people to try and get to the bottom of it."
+00:47:23,00:47:27,"Someone eventually discovers that there's a Wikipedia page, legendary Japanese monsters"
+00:47:27,00:47:33,that has all the characters on it and in there is an entry for this Katahi and a guy in New
+00:47:33,00:47:38,"Zealand, 19-year-old and his buddy Dick and about online, went to this page and they named"
+00:47:38,00:47:43,it after him and it just sat there for over a year and the makers of this game went on
+00:47:43,00:47:48,"to Wikipedia, cut and paste all of the characters on there, didn't do any additional research"
+00:47:48,00:47:53,and ended up using him and so he's immortalised in this game as a Japanese mythological character.
+00:47:53,00:47:57,Awesome. That's just going to encourage more people to edit Wikipedia and that desperate
+00:47:57,00:48:01,"hope they'll make it to a ball game. Yeah, that's true and there's this great line"
+00:48:01,00:48:06,"which says, someone was describing it saying, ""This is the most exciting thing to happen"
+00:48:06,00:48:11,"in Daneverk, which is the rural town where he's from in New Zealand, since someone tried"
+00:48:11,00:48:17,"to open a brothel there in 2008 and it lasted precisely three weeks."" I think, I mean, people"
+00:48:17,00:48:21,got really moralistic about it. One woman said she'd sit outside the brothel every day
+00:48:21,00:48:26,"knitting to shame anyone who came in and she also said, ""I can't see any of our men paying"
+00:48:26,00:48:30,"a hundred dollars a bonk."" Which I can see a lot of her men reading that and going, ""Can't"
+00:48:30,00:48:37,"you love a bonk?"" No, I know. She's from the 50s. One of the district council chiefs"
+00:48:37,00:48:41,said that brothels were illegal business and the only thing that they could do was impose
+00:48:41,00:48:48,"environmental conditions on it and his name was Roger 20 Man, which sounds like something"
+00:48:48,00:48:56,on the menu at the brothel. Have we ever mentioned the Anton Deck Saturday night takeaway board
+00:48:56,00:49:02,game? I don't think so. You say that as if we must have been in. The game we play all
+00:49:02,00:49:04,"the time. Yeah, we've mentioned it in pretty much every episode. I don't know what you're"
+00:49:04,00:49:09,on about. This came out in 2017. It was an Anton Deck board game called Saturday Night
+00:49:09,00:49:13,Takeaway based on their TV show and it was basically a quiz. So you would play the board
+00:49:13,00:49:18,"game and get lots of trivial questions. Sounds good. It was, in theory, good, except it was"
+00:49:18,00:49:25,"just riddled with mistakes. One question asked, ""Where is Stonehenge located?"" It said Somerset."
+00:49:25,00:49:29,"They said that Albert Einstein died in 1949 instead of 55, which is, I guess, you're not"
+00:49:29,00:49:33,going to automatically know if that's right or wrong. How about this one? True or false?
+00:49:33,00:49:36,"This is not the question. I'm rephrasing the question here. True or false, the moon is"
+00:49:36,00:49:44,"the same distance from London to Australia. That is incorrect. Incorrect. Yeah, and it's"
+00:49:44,00:49:51,incorrect that they said that. They said it was the same distance as London to Blackpool.
+00:49:51,00:49:57,"In answer to how far away is the moon, they put 225 miles as the correct answer. It's"
+00:49:57,00:50:03,"posted 238,000. Wow. The short-lived TV game show Color"
+00:50:03,00:50:11,of Money. I only know it from the game in pubs. A bunch of cash machines you could choose
+00:50:11,00:50:17,from. They hired a mathematician to analyze the game for them. A mathematician ran the
+00:50:17,00:50:20,"numbers and came back and said, ""This is a terrible game. No one's ever going to win."""
+00:50:20,00:50:25,"They're like, ""Oh, no, but I tested it when I was home with the family and my grandma"
+00:50:25,00:50:29,"won and everyone had a great time."" They put the game into production and basically no"
+00:50:29,00:50:34,one won. That was it for the game and it was gone.
+00:50:34,00:50:37,"That sounds like a good thing for the production company though, right? No, if it doesn't make"
+00:50:37,00:50:41,good TV. No one wants to watch it.
+00:50:41,00:50:43,Did they ever think of putting that grandma on the show?
+00:50:43,00:50:47,They should have. Lucky grandma. That's where you're going wrong.
+00:50:47,00:50:52,"Just sweep up, take it all home. It's like the fruit machines, pokies. You"
+00:50:52,00:50:56,can tune the payout rate. It's not doing ... You're pulling the lever but it's just hitting
+00:50:56,00:51:04,a switch that's then spinning the things. The payout rate is programmed in to be once every
+00:51:04,00:51:09,kind of sell often. It's not even doing something particularly randomly. It's evening out the
+00:51:09,00:51:12,payout rate. You just have to watch and once it's been
+00:51:12,00:51:18,"long enough, then you go on ... When I used to work in a bar, we would watch it and if"
+00:51:18,00:51:21,"no one won all night and people were playing it all night, then once everyone else had"
+00:51:21,00:51:24,"gone home, we'd put all our tips in and lose all our tips."
+00:51:24,00:51:32,"Then we were just terrible at those. For instance, there was a QI quiz machine game."
+00:51:32,00:51:34,Have we said this on here? I don't think so.
+00:51:34,00:51:40,"So there's a QI quiz machine game and before it went out, they sent me all of the questions"
+00:51:40,00:51:43,so that I could check through them to make sure there wasn't any mistakes and make sure
+00:51:43,00:51:48,"that it was kind of QI as it should be. There was probably, I think there was 20,000. It"
+00:51:48,00:51:53,"might have been more. Anyway, I had a database of all the questions and they put one in the"
+00:51:53,00:51:58,"pub next to where we worked. Yeah, in Covent Garden, it was a pub down the road."
+00:51:58,00:52:02,This is ... We're going to clean up here and so we went and played and we just lost all
+00:52:02,00:52:04,our money. We just couldn't do it.
+00:52:04,00:52:09,We just couldn't do it. It was ridiculous. Oh my God.
+00:52:09,00:52:14,"On Japanese games, in the 1980s, I think it was 1985 or 1986, did you know that almost"
+00:52:14,00:52:20,"half of Japanese people owned a computer domestically when in the US, for instance, that was about"
+00:52:20,00:52:22,9%? In what year?
+00:52:22,00:52:28,"I think it was 1985 or '06. I just read it this week, but that's because they all owned"
+00:52:28,00:52:34,"Famicon, which was a family computer, which was the Nintendo console thing and they were"
+00:52:34,00:52:35,all playing Nintendo.
+00:52:35,00:52:40,"In 1990, I only knew one person who had a computer in Bolton."
+00:52:40,00:52:45,"Yeah, there you go. It was called, interestingly, everyone called it Familycom, and they still"
+00:52:45,00:52:49,"do, and they still always call it Familycom, but the name is Familycomputer because they"
+00:52:49,00:52:54,weren't allowed to trademark it as Familycom because there was an oven released a couple
+00:52:54,00:53:01,"of years earlier, which was a Familyconvection oven, which was Familycon."
+00:53:01,00:53:05,"Just on board games, cool new weird board games, which are always fun. People always"
+00:53:05,00:53:11,coming up with them these days. Have you guys heard of Consentical?
+00:53:11,00:53:14,No and I already regret half hearing about it.
+00:53:14,00:53:16,"Go on, guess what it is?"
+00:53:16,00:53:21,"Yes, you can touch my balls."
+00:53:21,00:53:28,"So it's a cooperative card game for two players, and it's about a consensual, crucially, sexual"
+00:53:28,00:53:35,encounter between a curious human and a tentacled alien.
+00:53:35,00:53:36,And the way it works...
+00:53:36,00:53:40,I see like tentacle. Not testicle.
+00:53:40,00:53:44,I see Consentacle. Consentical is a testicle one.
+00:53:44,00:53:48,I think Consentical is the one where if you and Mr. Tickle had that.
+00:53:48,00:53:53,There are lots of variations. It's like the trolley problem. It was built on a lot.
+00:53:53,00:54:00,"Anyway, so I'm super fun. So you've got these cards, which are things that you might want"
+00:54:00,00:54:07,"to do to this alien that you fancy with tentacles. So Wink, Gaze, Envelop, Bite, Lick, Penetrate"
+00:54:07,00:54:12,"is one of the cards, and you convey which card you want to mutually put down with faces"
+00:54:12,00:54:17,"and gestures. So you make a certain face. I'm looking at Matt, and it's like..."
+00:54:17,00:54:24,"Not me. I'm looking at that plant over there, doing a lot of copies of those QI books over"
+00:54:24,00:54:25,there.
+00:54:25,00:54:28,That looks as penetrate at that plant.
+00:54:28,00:54:33,There's a famous... Is it by Hokusai? There's a famous painting of a woman having sex with
+00:54:33,00:54:34,a octopus.
+00:54:34,00:54:35,"Yeah, with an octopus."
+00:54:35,00:54:36,Yeah.
+00:54:36,00:54:40,And a load of octopus scientists looked at it and said it didn't look like the octopus
+00:54:40,00:54:46,"was enjoying itself very much, because apparently octopuses have ways of changing their body whenever"
+00:54:46,00:54:48,they're mating and stuff like that.
+00:54:48,00:54:53,"I think there was a exhibition at the British Museum that had a bunch of these, effectively"
+00:54:53,00:54:58,"a monster erotica paintings, and in the year that they were there, if you go to the website"
+00:54:58,00:55:02,"and you looked at the data, there were more searches for that exhibition than there were"
+00:55:02,00:55:05,for the opening hours of the British Museum.
+00:55:05,00:55:11,"Well, maybe that's what inspired this game, you know. It's like stop having this non-consensual"
+00:55:11,00:55:12,sex with octopuses.
+00:55:12,00:55:14,"So what happens... Sorry, you put the cards down and..."
+00:55:14,00:55:18,I would need to convey through a series of looks and gestures what kind of sex move we
+00:55:18,00:55:25,"should make with each other, and then we would look at the table."
+00:55:25,00:55:28,The plants over there can eat it.
+00:55:28,00:55:31,"And then you would play a card, and I would play a card, and we would hope that our cards"
+00:55:31,00:55:36,mutually matched each other and built trust between us rather than being non-consensual.
+00:55:36,00:55:37,It's snap.
+00:55:37,00:55:38,Yeah.
+00:55:38,00:55:39,It's sexy snap.
+00:55:39,00:55:40,Sexy snap.
+00:55:40,00:55:41,It's snap.
+00:55:41,00:55:42,"Oh, snap."
+00:55:42,00:55:43,"Oh, snap."
+00:55:43,00:55:44,Yeah.
+00:55:44,00:55:48,It's a really random thing that is a board game I'd love to get my hands on. It's a
+00:55:48,00:55:55,"game which you can get in Sierra Leone, which is essential to be played by anyone who's"
+00:55:55,00:55:57,trying to obtain a driver's license.
+00:55:57,00:56:03,"It's not fully, but it's just the only piece is the car."
+00:56:03,00:56:07,"I think you go around the bar and whatever you land on it, ask you a question about the"
+00:56:07,00:56:08,highway code.
+00:56:08,00:56:09,Yeah.
+00:56:09,00:56:10,Right.
+00:56:10,00:56:14,"So you do the test for two to three months, and then you do the test, and the game supposedly"
+00:56:14,00:56:16,gets you ready for the test.
+00:56:16,00:56:17,It's so good.
+00:56:17,00:56:18,I could do with that.
+00:56:18,00:56:20,"I'm learning to drive at the moment, and I'm dreading the theory test because it's a big"
+00:56:20,00:56:25,"old book to read, that old highway code, so a board game would be amazing."
+00:56:25,00:56:26,There you go.
+00:56:26,00:56:29,"If you're listening, please, God, make a board game otherwise."
+00:56:29,00:56:34,"Please make it as difficult as possible, so I'm not the best."
+00:56:34,00:56:36,Did you guys ever play the game Guess Who?
+00:56:36,00:56:37,"Yes, yes."
+00:56:37,00:56:38,Still play it.
+00:56:38,00:56:39,"Good on you, mate."
+00:56:39,00:56:40,Yes.
+00:56:40,00:56:51,"That was invented by this couple called Aura and Theo Koster, who created a company called"
+00:56:51,00:56:52,Theora.
+00:56:52,00:56:54,"It's invented in the, I think it was the '60s."
+00:56:54,00:56:58,"Theo was actually a classmate of Anne Frank, went to school with her."
+00:56:58,00:56:59,No.
+00:56:59,00:57:00,Yeah.
+00:57:00,00:57:01,Wow.
+00:57:01,00:57:03,"Interestingly, his original name was Morris, but he was brought up in the Netherlands when"
+00:57:03,00:57:07,"it was under German occupation, so changed his name and hid his Jewish identity."
+00:57:07,00:57:10,"Yeah, they married, and they became amazing game designers."
+00:57:10,00:57:15,"They designed loads of extremely popular games, one of which was Guess Who, and they"
+00:57:15,00:57:20,"died, one of them died in 2019, one in 2021, I think, both age 90, and their gravestones"
+00:57:20,00:57:22,are the Guess Who pop-ups?
+00:57:22,00:57:25,You can flip their gravestone down.
+00:57:25,00:57:27,You can't flip them sadly.
+00:57:27,00:57:29,"That would be so cool, but no, you can't."
+00:57:29,00:57:30,What is it?
+00:57:30,00:57:31,What do they have?
+00:57:31,00:57:35,"They just have the same design as the Guess Who pop-ups, which are quite similar to an"
+00:57:35,00:57:37,actual gravestone.
+00:57:37,00:57:39,"Well, guess who?"
+00:57:39,00:57:46,You want to be able to split the remaining possible people as evenly in half as possible.
+00:57:46,00:57:47,Yes.
+00:57:47,00:57:48,Because you want to basically do a binary search.
+00:57:48,00:57:53,"You want to split it in half each time, and that's the fastest way to get to the final"
+00:57:53,00:57:58,"answer, and the way you need to do that is by stacking your conditions at once, which"
+00:57:58,00:58:04,"a lot of other people will claim is cheating or making the game not fun anymore, but you"
+00:58:04,00:58:12,"can say if it's a man, do they have glasses, or if it's a woman, have they got a hat?"
+00:58:12,00:58:18,"And there's still a yes or no right response, but now you've used the categories to better"
+00:58:18,00:58:19,split the options in half.
+00:58:19,00:58:21,That is so much better than the way we play it.
+00:58:21,00:58:22,"Yeah, that's brilliant."
+00:58:22,00:58:27,"We always say, does your guy like peas, and you just have to make a judgment."
+00:58:27,00:58:29,Look deep into their eyes.
+00:58:29,00:58:31,Would you trust them with the trolley problem?
+00:58:31,00:58:35,"So roughly, how quickly do you destroy the seven-year-old you're playing?"
+00:58:35,00:58:41,"I wonder, have mathematicians had a go at the other game invented by Aura and Theo Costa,"
+00:58:41,00:58:48,"which is the, and they made it in the 1970s, the popping out rubber spheres game that's"
+00:58:48,00:58:49,become really popular recently.
+00:58:49,00:58:51,I've only seen it because suddenly I'm surrounded by young children.
+00:58:51,00:58:52,"Yeah, we've got a few at home."
+00:58:52,00:58:53,Yeah.
+00:58:53,00:58:54,Yeah.
+00:58:54,00:58:55,Do you guys know what I mean?
+00:58:55,00:58:56,The fidgety toy thing.
+00:58:56,00:58:57,Yeah.
+00:58:57,00:58:58,And people are into it.
+00:58:58,00:58:59,Stress ties.
+00:58:59,00:59:04,I thought they were invented by someone who is inspired by a field of breasts.
+00:59:04,00:59:05,You're absolutely right.
+00:59:05,00:59:07,And that is Aura Costa.
+00:59:07,00:59:08,Wow.
+00:59:08,00:59:09,Really?
+00:59:09,00:59:14,"She was actually sweetly and darkly inspired by her sister, who very sadly got breast cancer,"
+00:59:14,00:59:19,and she had a dream around that time of a huge field of her sister's breasts and woke
+00:59:19,00:59:22,"up and went to the game designer and was like, make me a field of boobs."
+00:59:22,00:59:23,Wow.
+00:59:23,00:59:24,Oh my God.
+00:59:24,00:59:27,I had a dream last night where there was a referee in a football match and he tried
+00:59:27,00:59:30,"someone off, but he pulled out a rice cake instead."
+00:59:30,00:59:31,Oh yeah.
+00:59:31,00:59:32,Can we turn that into a game?
+00:59:32,00:59:34,Not all dreams are going to be money spinners.
+00:59:34,00:59:39,"That should have been her tombstone, a giant robber, a gravestone that you could push down"
+00:59:39,00:59:40,into the ground.
+00:59:40,00:59:43,But then what if she pops it back up?
+00:59:43,00:59:47,That is scary.
+00:59:47,00:59:53,"Okay, that's it."
+00:59:53,00:59:54,That is all of our facts.
+00:59:54,00:59:55,Thank you so much for listening.
+00:59:55,00:59:58,If you'd like to get in contact with any of us about the things that we've said over
+00:59:58,01:00:02,"the course of this podcast, we can be found on our various social media accounts."
+01:00:02,01:00:06,"I'm on Instagram, on Shriverland, James."
+01:00:06,01:00:08,My Instagram is no such thing as James Harkin.
+01:00:08,01:00:11,"Matt, I'm standupmaths, pretty much everywhere."
+01:00:11,01:00:12,Yep.
+01:00:12,01:00:13,And Anna.
+01:00:13,01:00:17,"You can find us on Twitter, on @NoSuchThing, or on Instagram, no such thing as a fish,"
+01:00:17,01:00:18,or you can email podcast.qi.com.
+01:00:18,01:00:19,Yep.
+01:00:19,01:00:23,"Or you can just head straight to our website, which is nosuchthingasafish.com."
+01:00:23,01:00:25,You'll find all of our previous episodes up there.
+01:00:25,01:00:29,"You'll find a link to Club Fish, our secret members club, where we have lots of bonus"
+01:00:29,01:00:30,episodes.
+01:00:30,01:00:35,"But most important of all, you should find yourself to a pre-order link for Matt's new"
+01:00:35,01:00:37,"book, which is coming out this June, you were saying?"
+01:00:37,01:00:38,Yep.
+01:00:38,01:00:39,"June in the UK, August in the US."
+01:00:39,01:00:40,And where's the best place for them to go?
+01:00:40,01:00:45,"If you go to massgear.co.uk, you can get the signed pre-ordered copies by me."
+01:00:45,01:00:49,But you can support your local independent bookshop or anywhere else online to pre-order
+01:00:49,01:00:50,it.
+01:00:50,01:00:51,Remind us what it's called.
+01:00:51,01:00:52,It's called Love Triangle.
+01:00:52,01:00:53,"Okay, that's it."
+01:00:53,01:00:55,"I'll see you next week with another episode, and we'll see you then."
+01:00:55,01:00:56,Goodbye!
+01:00:56,01:00:58,[Music]
+01:00:58,01:01:00,[Music]
+01:01:00,01:01:02,[Music]
+01:01:02,01:01:12,[Music]
+01:01:12,01:01:14,(upbeat music)
+01:01:14,01:01:17,(upbeat music)

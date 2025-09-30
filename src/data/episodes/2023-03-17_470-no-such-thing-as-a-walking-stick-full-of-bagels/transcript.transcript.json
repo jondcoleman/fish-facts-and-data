@@ -1,0 +1,5487 @@
+[
+  {
+    "start": 0,
+    "end": 6.28,
+    "text": " Hi everybody, Andy here. Just before we start this week's show, we have two exciting announcements"
+  },
+  {
+    "start": 6.28,
+    "end": 12.2,
+    "text": " to make. The first is about who our special guest is this week. She is a brilliant Canadian"
+  },
+  {
+    "start": 12.2,
+    "end": 19.9,
+    "text": " writer, screenwriter, showrunner, now also a first time author. She is Monica Heisey"
+  },
+  {
+    "start": 19.9,
+    "end": 24.48,
+    "text": " and her debut novel, Really Good Actually is out within the last few weeks and it is"
+  },
+  {
+    "start": 24.48,
+    "end": 29.12,
+    "text": " unsurprisingly really good actually. It's all about the life and travails of a woman"
+  },
+  {
+    "start": 29.12,
+    "end": 34.04,
+    "text": " who has become a surprisingly young divorcee. It is extremely funny. It's kind of, you"
+  },
+  {
+    "start": 34.04,
+    "end": 39.56,
+    "text": " know, accidentally snort milk out of your nose funny. It's great. Highly recommended."
+  },
+  {
+    "start": 39.56,
+    "end": 43.8,
+    "text": " So we hope you enjoy the show. Monica was great as you will hear shortly. The second"
+  },
+  {
+    "start": 43.8,
+    "end": 48.8,
+    "text": " announcement we have to make is that we are doing a live show of no such thing as a fish."
+  },
+  {
+    "start": 48.8,
+    "end": 53.72,
+    "text": " Very exciting. We are going to be at the Hallowed British Library in London. They are having"
+  },
+  {
+    "start": 53.72,
+    "end": 59.48,
+    "text": " a season all about animals and as part of that, we are doing a show called Fantastic Beasts."
+  },
+  {
+    "start": 59.48,
+    "end": 63.54,
+    "text": " It's going to be Dan, James, myself and a special guest to be announced. It's going"
+  },
+  {
+    "start": 63.54,
+    "end": 67.12,
+    "text": " to be on the 21st of April and if you don't live anywhere near the British Library, there"
+  },
+  {
+    "start": 67.12,
+    "end": 74.52,
+    "text": " is also going to be a streamed version of it. So just go to no such thing as a fish.com/live."
+  },
+  {
+    "start": 74.52,
+    "end": 78.72,
+    "text": " You will see there the tickets are available for our British Library show. So check it"
+  },
+  {
+    "start": 78.72,
+    "end": 96.2,
+    "text": " out. Okay, that's it. That's all of the announcements on with the show."
+  },
+  {
+    "start": 96.2,
+    "end": 101.68,
+    "text": " Hello and welcome to another episode of no such thing as a fish, a weekly podcast coming"
+  },
+  {
+    "start": 101.68,
+    "end": 107.44,
+    "text": " to you from four undisclosed locations in the UK. My name is Dan Schreiber. I am sitting"
+  },
+  {
+    "start": 107.44,
+    "end": 112.72,
+    "text": " here with James Harkin, Andrew Hunter Murray and Monica Heisei. And once again, we have"
+  },
+  {
+    "start": 112.72,
+    "end": 117.04,
+    "text": " gathered around the microphones with our four favorite facts from the last seven days."
+  },
+  {
+    "start": 117.04,
+    "end": 124.04,
+    "text": " And in a particular order here we go. Starting with fact number one, that is Monica."
+  },
+  {
+    "start": 124.04,
+    "end": 130.08,
+    "text": " So my fact is that in ancient Hebrew times, men could get a divorce if their wife had"
+  },
+  {
+    "start": 130.08,
+    "end": 134.56,
+    "text": " been alone in a room with another man. And I was really interested in this fact because"
+  },
+  {
+    "start": 134.56,
+    "end": 141,
+    "text": " my divorce lawyer told me that this may still be true. I couldn't find anything backing"
+  },
+  {
+    "start": 141,
+    "end": 147.08,
+    "text": " up, but she basically said if he could prove that a man and a woman had been alone together"
+  },
+  {
+    "start": 147.08,
+    "end": 152.36,
+    "text": " in a room for more than an hour, it could be reasonably assumed legally that adultery"
+  },
+  {
+    "start": 152.36,
+    "end": 155.6,
+    "text": " had occurred. I think we should just say that we're not all in the same room at the"
+  },
+  {
+    "start": 155.6,
+    "end": 162.68,
+    "text": " moment. I think that's very important. No. I think people were a bit desperate because"
+  },
+  {
+    "start": 162.68,
+    "end": 168.2,
+    "text": " it used to be that you could only get divorced for five reasons, one of which was adultery."
+  },
+  {
+    "start": 168.2,
+    "end": 171.84,
+    "text": " And so I think people just could stretch it a bit to prove you really just trying to get"
+  },
+  {
+    "start": 171.84,
+    "end": 176.56,
+    "text": " out. The history of what you needed to say or"
+  },
+  {
+    "start": 176.56,
+    "end": 180.92,
+    "text": " allege or agree that you had been doing to get divorced is absolutely mad. For a long"
+  },
+  {
+    "start": 180.92,
+    "end": 186.4,
+    "text": " time it was only adultery or adultery was the only substantial grounds and then they"
+  },
+  {
+    "start": 186.4,
+    "end": 190.12,
+    "text": " introduced other ones a bit later on. But there was one rule where if one of you had"
+  },
+  {
+    "start": 190.12,
+    "end": 195.72,
+    "text": " committed adultery, then your partner could divorce you. But if you both had, they might"
+  },
+  {
+    "start": 195.72,
+    "end": 199.84,
+    "text": " not be able to because legally the divorce was kind of an acknowledgement that one person"
+  },
+  {
+    "start": 199.84,
+    "end": 204.84,
+    "text": " had committed wrong with the other was being like an eye for an eye and a shag for a shag."
+  },
+  {
+    "start": 204.84,
+    "end": 210.12,
+    "text": " Yeah. And if you'd both done it, then you weren't allowed to lie saying, \"Oh, I've committed"
+  },
+  {
+    "start": 210.12,
+    "end": 214.8,
+    "text": " adulterally.\" Sorry, that's a Ned Flanders version of adultery. You weren't allowed to"
+  },
+  {
+    "start": 214.8,
+    "end": 219.28,
+    "text": " lie saying you'd committed adultery. That's perjury. So they made it very, very difficult."
+  },
+  {
+    "start": 219.28,
+    "end": 225.24,
+    "text": " Well, that's religion for you. And also it was a very specific definition as well. Adultery"
+  },
+  {
+    "start": 225.24,
+    "end": 232.12,
+    "text": " legally is a married person having full sex with someone of the opposite gender. So if"
+  },
+  {
+    "start": 232.12,
+    "end": 236.64,
+    "text": " your husband had a gay affair and you were a woman, you couldn't sue him for divorce"
+  },
+  {
+    "start": 236.64,
+    "end": 240.56,
+    "text": " on grounds of adultery, but you could sue him for unreasonable behavior."
+  },
+  {
+    "start": 240.56,
+    "end": 246.32,
+    "text": " No, really? Yeah. Wow. This thing in the Jewish law, this is from the Mishnah, which is the"
+  },
+  {
+    "start": 246.32,
+    "end": 252.12,
+    "text": " oldest written question of Jewish oral traditions. And the thing is that because if the woman"
+  },
+  {
+    "start": 252.12,
+    "end": 258.12,
+    "text": " had been in a room with another man, in theory, there can't be any other witnesses, right?"
+  },
+  {
+    "start": 258.12,
+    "end": 262.2,
+    "text": " Because it's basically one person's word against another person's word. And okay, you have"
+  },
+  {
+    "start": 262.2,
+    "end": 265.96,
+    "text": " the perjury thing. But what they would do is they would give you the ordeal of bitter"
+  },
+  {
+    "start": 265.96,
+    "end": 271.04,
+    "text": " water. And this was to tell if you were telling the truth or not. So they would give the woman"
+  },
+  {
+    "start": 271.04,
+    "end": 277.24,
+    "text": " some water with some dust in it. And it's not really clear what the dust is. It might"
+  },
+  {
+    "start": 277.24,
+    "end": 282.72,
+    "text": " be bits of barley, it might be bits of something else. And the idea is if the woman drinks it"
+  },
+  {
+    "start": 282.72,
+    "end": 287.36,
+    "text": " and the water is so bitter that she has to like spit it out. And then that proves that"
+  },
+  {
+    "start": 287.36,
+    "end": 288.36,
+    "text": " she was in the wrong."
+  },
+  {
+    "start": 288.36,
+    "end": 289.36,
+    "text": " God, it's like witch trials."
+  },
+  {
+    "start": 289.36,
+    "end": 292.36,
+    "text": " A little bit like that. It's a trial by ordeal though, we can't let it."
+  },
+  {
+    "start": 292.36,
+    "end": 297.16,
+    "text": " I feel like I give myself this test every morning when I try for one sip of the water that's"
+  },
+  {
+    "start": 297.16,
+    "end": 299.2,
+    "text": " been out by my bedside table all night."
+  },
+  {
+    "start": 299.2,
+    "end": 305.12,
+    "text": " I'll tell you, the worst divorce situation I read about in this research was to do with"
+  },
+  {
+    "start": 305.12,
+    "end": 308.12,
+    "text": " if you were divorcing the king of Thailand."
+  },
+  {
+    "start": 308.12,
+    "end": 313.52,
+    "text": " The problem is that if you go to divorce the king of Thailand, you have to obviously accuse"
+  },
+  {
+    "start": 313.52,
+    "end": 318.6,
+    "text": " the king of Thailand of reasons for the divorce. Unfortunately, by law in Thailand, you were"
+  },
+  {
+    "start": 318.6,
+    "end": 324.08,
+    "text": " not allowed to accuse the king of anything. So when the current king's divorce case was"
+  },
+  {
+    "start": 324.08,
+    "end": 328.32,
+    "text": " going on, I think he was the crown prince at the time, he went to court and he made"
+  },
+  {
+    "start": 328.32,
+    "end": 333.12,
+    "text": " all these accusations against the wife. And the wife had to just say, \"Yeah, he was fine."
+  },
+  {
+    "start": 333.12,
+    "end": 338.32,
+    "text": " Couldn't say anything. Couldn't defend himself.\" Yeah. So he obviously won."
+  },
+  {
+    "start": 338.32,
+    "end": 344.6,
+    "text": " I've got a fact about the king of Thailand. Do you remember the king and I, the play or"
+  },
+  {
+    "start": 344.6,
+    "end": 345.6,
+    "text": " Mee's Coldplay?"
+  },
+  {
+    "start": 345.6,
+    "end": 346.6,
+    "text": " Yeah."
+  },
+  {
+    "start": 346.6,
+    "end": 352.88,
+    "text": " It's about someone called Anna Leonowens who went to work for the king of Thailand. And"
+  },
+  {
+    "start": 352.88,
+    "end": 358.4,
+    "text": " the real life Anna Leonowens was the great aunt of Boris Karloff who played, was it"
+  },
+  {
+    "start": 358.4,
+    "end": 359.4,
+    "text": " Frankenstein or?"
+  },
+  {
+    "start": 359.4,
+    "end": 360.4,
+    "text": " Yeah."
+  },
+  {
+    "start": 360.4,
+    "end": 363.4,
+    "text": " Yeah. Yeah. It's just a fact."
+  },
+  {
+    "start": 363.4,
+    "end": 369.48,
+    "text": " It's just two people you wouldn't expect to be related to each other, I reckon."
+  },
+  {
+    "start": 369.48,
+    "end": 374.08,
+    "text": " Yes. Yeah. That's very true. Like Ben Elton and Luke Longley are brothers-in-law. That would"
+  },
+  {
+    "start": 374.08,
+    "end": 376.88,
+    "text": " mean nothing to no one except Australians. Yeah."
+  },
+  {
+    "start": 376.88,
+    "end": 379.2,
+    "text": " I've never heard of Luke. Who's Luke Longley?"
+  },
+  {
+    "start": 379.2,
+    "end": 383.28,
+    "text": " One of the great Australian basketball players played with the Chicago Bulls in the Michael"
+  },
+  {
+    "start": 383.28,
+    "end": 385.6,
+    "text": " Jordan period. He's a legend."
+  },
+  {
+    "start": 385.6,
+    "end": 390.48,
+    "text": " One of the great Australian basketball players. How big is this cohort?"
+  },
+  {
+    "start": 390.48,
+    "end": 395.92,
+    "text": " There's three of them. And one of them is related by marriage, but not blood to Ben Elton."
+  },
+  {
+    "start": 395.92,
+    "end": 396.92,
+    "text": " Amazing."
+  },
+  {
+    "start": 396.92,
+    "end": 399.44,
+    "text": " Gosh. Why didn't you pick that as your headline fact this week, Darren?"
+  },
+  {
+    "start": 399.44,
+    "end": 403.6,
+    "text": " I've been pitching it for nine years, you guys. Swatting it away every week. I found"
+  },
+  {
+    "start": 403.6,
+    "end": 408.64,
+    "text": " a modern divorce story, which I can't believe that this is true, but it was reported in a"
+  },
+  {
+    "start": 408.64,
+    "end": 416.96,
+    "text": " bunch of places. So this is to do with a Bosnian couple, Sana Klarek and her husband, Adnan."
+  },
+  {
+    "start": 416.96,
+    "end": 423,
+    "text": " And Adnan had not been happy in the marriage, and he started looking around for love and"
+  },
+  {
+    "start": 423,
+    "end": 427.84,
+    "text": " he went online. And so he started chatting to someone online. He used a fake name just"
+  },
+  {
+    "start": 427.84,
+    "end": 433,
+    "text": " to make sure that no one could clock on to who he was. He met someone. He said, \"I suddenly"
+  },
+  {
+    "start": 433,
+    "end": 436.6,
+    "text": " was in love again. It was beautiful. I thought I'd finally found someone who understands"
+  },
+  {
+    "start": 436.6,
+    "end": 441.92,
+    "text": " me and who's in a similar situation in a bad marriage like I am.\" So they decided to meet"
+  },
+  {
+    "start": 441.92,
+    "end": 449.08,
+    "text": " up. And they meet up and he sees a city in the spot where his online love should be."
+  },
+  {
+    "start": 449.08,
+    "end": 454.92,
+    "text": " His wife, who has also gone online, created a pseudonym, looked for love. They found each"
+  },
+  {
+    "start": 454.92,
+    "end": 459.64,
+    "text": " other. And what's remarkable is that is how they found out that each of them were basically"
+  },
+  {
+    "start": 459.64,
+    "end": 464.76,
+    "text": " cheating on each other and divorced off the back of it, despite falling back in love with"
+  },
+  {
+    "start": 464.76,
+    "end": 468.9,
+    "text": " each other in this online scenario. They looked at it as negative."
+  },
+  {
+    "start": 468.9,
+    "end": 472.44,
+    "text": " Reverse Pina Colada song."
+  },
+  {
+    "start": 472.44,
+    "end": 476.2,
+    "text": " It's like a Richard Curtis film until the last sentence, isn't it?"
+  },
+  {
+    "start": 476.2,
+    "end": 479.64,
+    "text": " Yeah. Yeah. Super plot twist in the end there."
+  },
+  {
+    "start": 479.64,
+    "end": 485.64,
+    "text": " There was a guy in New York. He was from New York anyway. And he divorced his wife in Dominican"
+  },
+  {
+    "start": 485.64,
+    "end": 493.24,
+    "text": " Republic and she didn't find out for 22 years. So he filled in the form and got her to sign"
+  },
+  {
+    "start": 493.24,
+    "end": 498.48,
+    "text": " something which she didn't know what she was signing. And he got an official divorce and"
+  },
+  {
+    "start": 498.48,
+    "end": 503.08,
+    "text": " then she only found out when she got a letter through about the house that they owned and"
+  },
+  {
+    "start": 503.08,
+    "end": 506.96,
+    "text": " her name wasn't on the deeds. And she sort of rang her lawyer and said, \"What's going"
+  },
+  {
+    "start": 506.96,
+    "end": 510.96,
+    "text": " on?\" And he said, \"Well, it turns out you're not married and you haven't been for 22 years.\""
+  },
+  {
+    "start": 510.96,
+    "end": 513.16,
+    "text": " But they can't have been living together."
+  },
+  {
+    "start": 513.16,
+    "end": 514.16,
+    "text": " Yeah."
+  },
+  {
+    "start": 514.16,
+    "end": 515.16,
+    "text": " What?"
+  },
+  {
+    "start": 515.16,
+    "end": 518.96,
+    "text": " He just didn't tell her that they weren't married anymore. And what she said in the case"
+  },
+  {
+    "start": 518.96,
+    "end": 523.52,
+    "text": " and I couldn't find out what in the end happened, but she said that she thought that he'd done"
+  },
+  {
+    "start": 523.52,
+    "end": 528.28,
+    "text": " it deliberately so that he would own everything. If he left her in the future, she wouldn't"
+  },
+  {
+    "start": 528.28,
+    "end": 529.88,
+    "text": " have any rights. That's what she said."
+  },
+  {
+    "start": 529.88,
+    "end": 532,
+    "text": " But then he stayed with her for decades?"
+  },
+  {
+    "start": 532,
+    "end": 536.56,
+    "text": " Yeah. Because apparently, I mean, I can't really speak for him. But what she said is"
+  },
+  {
+    "start": 536.56,
+    "end": 542.2,
+    "text": " that the marriage was kind of happy, but he just did it as a kind of backup in case he"
+  },
+  {
+    "start": 542.2,
+    "end": 543.2,
+    "text": " needed it in the future."
+  },
+  {
+    "start": 543.2,
+    "end": 544.2,
+    "text": " Oh my God."
+  },
+  {
+    "start": 544.2,
+    "end": 545.2,
+    "text": " Oh no."
+  },
+  {
+    "start": 545.2,
+    "end": 547.2,
+    "text": " That's about that, isn't it?"
+  },
+  {
+    "start": 547.2,
+    "end": 553.72,
+    "text": " I became really obsessed with unreasonable behavior as a category. So they changed the"
+  },
+  {
+    "start": 553.72,
+    "end": 560.24,
+    "text": " law in 2022 and now you could have a no fault divorce in the UK, which means that you don't"
+  },
+  {
+    "start": 560.24,
+    "end": 564.24,
+    "text": " have to identify a guilty parting. You can just both agree that you want to dissolve"
+  },
+  {
+    "start": 564.24,
+    "end": 568.88,
+    "text": " your marriage. But prior to that, you had to pick one of these five categories, kind"
+  },
+  {
+    "start": 568.88,
+    "end": 573.36,
+    "text": " of whether or not there was something going on. And unreasonable behavior is such a very"
+  },
+  {
+    "start": 573.36,
+    "end": 578.76,
+    "text": " capacious category. And I think 51% of women filing for divorce in this country, that was"
+  },
+  {
+    "start": 578.76,
+    "end": 584.36,
+    "text": " their grounds. They're only 36% of men. And a lot of it has to do with gaming. People"
+  },
+  {
+    "start": 584.36,
+    "end": 588.68,
+    "text": " were divorcing because either their husbands were gaming too often, but a lot of them like"
+  },
+  {
+    "start": 588.68,
+    "end": 592.4,
+    "text": " a non-negligible portion, or people who are having digital affairs."
+  },
+  {
+    "start": 592.4,
+    "end": 595.8,
+    "text": " So you're basically meeting someone via, not by fortnight."
+  },
+  {
+    "start": 595.8,
+    "end": 602.56,
+    "text": " Your Sims avatar is having sex with someone else's Sim."
+  },
+  {
+    "start": 602.56,
+    "end": 607.6,
+    "text": " So what are the other limits to this, what was it called again?"
+  },
+  {
+    "start": 607.6,
+    "end": 608.6,
+    "text": " Unreasonable behavior."
+  },
+  {
+    "start": 608.6,
+    "end": 609.6,
+    "text": " Unreasonable behavior."
+  },
+  {
+    "start": 609.6,
+    "end": 611.16,
+    "text": " What are you worried about, Dan?"
+  },
+  {
+    "start": 611.16,
+    "end": 616.72,
+    "text": " Excessive Ben Elton memorabilia purchases from eBay. Is that, do I need to watch out?"
+  },
+  {
+    "start": 616.72,
+    "end": 623.76,
+    "text": " I do think it's a very bendy category. It basically is like a prolonged commitment to behavior"
+  },
+  {
+    "start": 623.76,
+    "end": 629.92,
+    "text": " that is a problem to the marriage. So that can include like actively building a life separate"
+  },
+  {
+    "start": 629.92,
+    "end": 635.48,
+    "text": " to your partner. If you're developing too many not shared interests, or you're really"
+  },
+  {
+    "start": 635.48,
+    "end": 641.04,
+    "text": " going hard on, I don't know, you have a new hobby and you're going away and pursuing rock"
+  },
+  {
+    "start": 641.04,
+    "end": 645.84,
+    "text": " climbing all the time, and your partner is no interested in whatsoever. Eventually, after"
+  },
+  {
+    "start": 645.84,
+    "end": 649.56,
+    "text": " a certain amount of rock climbing, I suppose it can become unreasonable."
+  },
+  {
+    "start": 649.56,
+    "end": 655.36,
+    "text": " I think reckless spending counts as well. If you're spending loads of money on Ben Elton"
+  },
+  {
+    "start": 655.36,
+    "end": 656.36,
+    "text": " memorabilia, Dan."
+  },
+  {
+    "start": 656.36,
+    "end": 661.66,
+    "text": " I'm done. Yeah. Did you guys ever hear of the Brighton Quickie?"
+  },
+  {
+    "start": 661.66,
+    "end": 665.2,
+    "text": " This is a divorce practice. And I've done a fair bit of reading about it. I can't quite"
+  },
+  {
+    "start": 665.2,
+    "end": 669.68,
+    "text": " work out how real it was. Basically, in 1923, the law was changed saying you could petition"
+  },
+  {
+    "start": 669.68,
+    "end": 673.76,
+    "text": " on adultery only. It was the only grounds for divorce. And that led to this thing where"
+  },
+  {
+    "start": 673.76,
+    "end": 677.64,
+    "text": " it's kind of like Monica's original fact about the being in a room together. You would"
+  },
+  {
+    "start": 677.64,
+    "end": 682,
+    "text": " go down, as the husband, you would agree to be the adulterer. You'd book a hotel room"
+  },
+  {
+    "start": 682,
+    "end": 686.8,
+    "text": " in Brighton because it's easy on the train from London. You spend the night there with"
+  },
+  {
+    "start": 686.8,
+    "end": 691.12,
+    "text": " a woman you don't know. You don't have sex or anything. But there's a hotel receipt saying"
+  },
+  {
+    "start": 691.12,
+    "end": 695,
+    "text": " you've booked a room for two the next morning. Maybe you're witnessed by the chambermaid."
+  },
+  {
+    "start": 695,
+    "end": 697.76,
+    "text": " You could two pairs of shoes outside the door."
+  },
+  {
+    "start": 697.76,
+    "end": 703.44,
+    "text": " Exactly. Exactly. And there's then a small body of evidence that you can use to get your"
+  },
+  {
+    "start": 703.44,
+    "end": 704.44,
+    "text": " divorce."
+  },
+  {
+    "start": 704.44,
+    "end": 705.44,
+    "text": " And then Tim's link back."
+  },
+  {
+    "start": 705.44,
+    "end": 710.04,
+    "text": " Yeah. You haven't even got to commit adultery, but you will be divorced in due course. But"
+  },
+  {
+    "start": 710.04,
+    "end": 714.96,
+    "text": " I just can't tell how much it actually happened if at all. It's in a few novels and it's"
+  },
+  {
+    "start": 714.96,
+    "end": 715.96,
+    "text": " written about at the time."
+  },
+  {
+    "start": 715.96,
+    "end": 716.96,
+    "text": " But it's not."
+  },
+  {
+    "start": 716.96,
+    "end": 720.8,
+    "text": " Also, how important is the chambermaid in this? Are all the rooms in this hotel packed"
+  },
+  {
+    "start": 720.8,
+    "end": 723.8,
+    "text": " with people going for a Brighton quickie? And she's got to sort of be..."
+  },
+  {
+    "start": 723.8,
+    "end": 724.8,
+    "text": " She's the witness."
+  },
+  {
+    "start": 724.8,
+    "end": 728.48,
+    "text": " Yeah. She's the witness for like 40 things a day where she has to..."
+  },
+  {
+    "start": 728.48,
+    "end": 732.8,
+    "text": " Was that... Yeah. Then I saw the shoes outside that door. And then was it the pancakes?"
+  },
+  {
+    "start": 732.8,
+    "end": 737.76,
+    "text": " I took a tea and they were on top of the bed. There was a pillow on the floor. So that's"
+  },
+  {
+    "start": 737.76,
+    "end": 738.76,
+    "text": " suggestive."
+  },
+  {
+    "start": 738.76,
+    "end": 742.84,
+    "text": " I read that in Delaware and Colorado, you can get your marriage annulled if you did"
+  },
+  {
+    "start": 742.84,
+    "end": 750.48,
+    "text": " it for a dare. But none of the other 48 states is that explicitly in the rules. Like probably"
+  },
+  {
+    "start": 750.48,
+    "end": 753.6,
+    "text": " you still could get an annullment if you said that but you would have to go into something"
+  },
+  {
+    "start": 753.6,
+    "end": 758.98,
+    "text": " else. But in those two states, it explicitly says it is illegal to get married on a dare."
+  },
+  {
+    "start": 758.98,
+    "end": 761.52,
+    "text": " I mean, all marriages are kind of a dare."
+  },
+  {
+    "start": 761.52,
+    "end": 762.52,
+    "text": " Oh, they're?"
+  },
+  {
+    "start": 762.52,
+    "end": 763.52,
+    "text": " Yeah."
+  },
+  {
+    "start": 763.52,
+    "end": 764.52,
+    "text": " That's what a proposal is. It's a big dare."
+  },
+  {
+    "start": 764.52,
+    "end": 768.2,
+    "text": " Yeah. I dare you to stay with me until one or both of us dies."
+  },
+  {
+    "start": 768.2,
+    "end": 770.56,
+    "text": " I bet your wife is wishing she shows truth though."
+  },
+  {
+    "start": 770.56,
+    "end": 772.92,
+    "text": " Yeah. Every day."
+  },
+  {
+    "start": 772.92,
+    "end": 779.44,
+    "text": " I got a thing which is one of really classic Marvin Gaye albums, which was called Here,"
+  },
+  {
+    "start": 779.44,
+    "end": 784.98,
+    "text": " My Dear, was made within a divorce proceeding whereby Marvin Gaye didn't quite have the"
+  },
+  {
+    "start": 784.98,
+    "end": 790.36,
+    "text": " alimony that he needed to pay for his child. And so the agreement was the next album that"
+  },
+  {
+    "start": 790.36,
+    "end": 795.12,
+    "text": " you do, your wife, who you're now divorcing, is going to get half of the money, royalties"
+  },
+  {
+    "start": 795.12,
+    "end": 800.72,
+    "text": " and the upfront money from the album itself. And he decided, well, I don't want her making"
+  },
+  {
+    "start": 800.72,
+    "end": 804.64,
+    "text": " any money. So I'm going to do a quickie album basically. I'm just going to not really do"
+  },
+  {
+    "start": 804.64,
+    "end": 808.2,
+    "text": " anything good. It's going to come out and it's just going to be panned by the critics."
+  },
+  {
+    "start": 808.2,
+    "end": 813,
+    "text": " No one's going to like it. And then suddenly he got fascinated by the notion of this album"
+  },
+  {
+    "start": 813,
+    "end": 818,
+    "text": " and ended up putting more heart and soul into this album, possibly than any of his other"
+  },
+  {
+    "start": 818,
+    "end": 821.72,
+    "text": " albums. He was really hands on. He wrote the lyrics. He never writes lyrics for his songs"
+  },
+  {
+    "start": 821.72,
+    "end": 826.12,
+    "text": " according to the stuff that I was reading. He never really was hands on with playing"
+  },
+  {
+    "start": 826.12,
+    "end": 831.06,
+    "text": " the piano. But in this album, he insisted on doing the lyrics, the piano. And it was"
+  },
+  {
+    "start": 831.06,
+    "end": 835.16,
+    "text": " panned at the time, but it's been, it's one of those albums that's been reviewed by everyone"
+  },
+  {
+    "start": 835.16,
+    "end": 840.88,
+    "text": " since, you know, the Rolling Stone has named it one of the best 500 albums ever made three"
+  },
+  {
+    "start": 840.88,
+    "end": 844.8,
+    "text": " times in lists that they released. And it constantly appears on these lists now, but"
+  },
+  {
+    "start": 844.8,
+    "end": 848.24,
+    "text": " it was a, it's a pure divorce album. Pretty cool."
+  },
+  {
+    "start": 848.24,
+    "end": 851.54,
+    "text": " What's the story of the producers, the film the producers done? We've just done, you've"
+  },
+  {
+    "start": 851.54,
+    "end": 855.64,
+    "text": " given us a fact, which is the song Pina Colada, and now you've given us the film, the producers,"
+  },
+  {
+    "start": 855.64,
+    "end": 857.48,
+    "text": " but you've translated it to being about Marvin Gaye."
+  },
+  {
+    "start": 857.48,
+    "end": 858.48,
+    "text": " No, no, no."
+  },
+  {
+    "start": 858.48,
+    "end": 860,
+    "text": " We see you. We see what you do."
+  },
+  {
+    "start": 860,
+    "end": 864.64,
+    "text": " They made it bad. He made this good during the process. The producers was bad."
+  },
+  {
+    "start": 864.64,
+    "end": 869.44,
+    "text": " I wonder at what point he decided to start making it good. Like if he's like, I'm going"
+  },
+  {
+    "start": 869.44,
+    "end": 874.32,
+    "text": " to make it so bad. And then what day did he realize, oh, I'm actually very invested."
+  },
+  {
+    "start": 874.32,
+    "end": 875.92,
+    "text": " I'm really trying quite hard now."
+  },
+  {
+    "start": 875.92,
+    "end": 876.92,
+    "text": " Yeah. I don't know."
+  },
+  {
+    "start": 876.92,
+    "end": 879.72,
+    "text": " I guess if you're an artist, it's going to be really hard to go. I'll just put out a"
+  },
+  {
+    "start": 879.72,
+    "end": 884.4,
+    "text": " shit album. Like that's, that must be a painful thing to do, to make a decision on."
+  },
+  {
+    "start": 884.4,
+    "end": 889.52,
+    "text": " I don't know. Some of them managed, don't they? But I think like, I think if he didn't"
+  },
+  {
+    "start": 889.52,
+    "end": 893.92,
+    "text": " normally play piano and didn't normally write the lyrics, and then he started doing it,"
+  },
+  {
+    "start": 893.92,
+    "end": 897.6,
+    "text": " he must have not normally done it because he didn't think he was as good as the people"
+  },
+  {
+    "start": 897.6,
+    "end": 901.68,
+    "text": " who were doing it, right? Originally. And then when he started doing it, he's like, oh,"
+  },
+  {
+    "start": 901.68,
+    "end": 902.68,
+    "text": " this is pretty good."
+  },
+  {
+    "start": 902.68,
+    "end": 908.04,
+    "text": " It's also a little bit self myth making. I tried to make an album which said I've made"
+  },
+  {
+    "start": 908.04,
+    "end": 911.44,
+    "text": " one of the 500 greatest of all time."
+  },
+  {
+    "start": 911.44,
+    "end": 913.92,
+    "text": " Oh, that's just me."
+  },
+  {
+    "start": 913.92,
+    "end": 922,
+    "text": " Okay, it is time for fact number two. And that is Andy."
+  },
+  {
+    "start": 922,
+    "end": 927.48,
+    "text": " My fact is that the same fingers are responsible for the clicks in the Adams family theme,"
+  },
+  {
+    "start": 927.48,
+    "end": 933.44,
+    "text": " the bongos in the Mission Impossible theme, and the xylophone in the Simpsons theme. The"
+  },
+  {
+    "start": 933.44,
+    "end": 939.12,
+    "text": " same human fingers created three of the great artworks of the 20th century. I think it's"
+  },
+  {
+    "start": 939.12,
+    "end": 941.52,
+    "text": " unbelievable. I think it's so great."
+  },
+  {
+    "start": 941.52,
+    "end": 944.16,
+    "text": " Would you say that you play the xylophone with your fingers?"
+  },
+  {
+    "start": 944.16,
+    "end": 945.76,
+    "text": " I was going to question that."
+  },
+  {
+    "start": 945.76,
+    "end": 946.76,
+    "text": " Yeah."
+  },
+  {
+    "start": 946.76,
+    "end": 954.32,
+    "text": " His name was Woodfingers Richards and he, he was incredible. You know what fingers Richards,"
+  },
+  {
+    "start": 954.32,
+    "end": 959.96,
+    "text": " when he clicked his fingers for the Adams family, he set himself on fire."
+  },
+  {
+    "start": 959.96,
+    "end": 964,
+    "text": " Emil Richards, he was a hero of percussion. I should say where I got this. It was via"
+  },
+  {
+    "start": 964,
+    "end": 968.24,
+    "text": " a brilliant piece published each year by a guy called Tom Whitwell, which is a 52 things"
+  },
+  {
+    "start": 968.24,
+    "end": 972.12,
+    "text": " you learn each year. I think I may have mentioned him before, either one or two or three years"
+  },
+  {
+    "start": 972.12,
+    "end": 975.44,
+    "text": " ago, but anyway, it's a brilliant list. And this is one of the facts. I just couldn't"
+  },
+  {
+    "start": 975.44,
+    "end": 981.88,
+    "text": " believe it. And Emil Richards, it turns out, born 1932, died 2019 in between those two dates,"
+  },
+  {
+    "start": 981.88,
+    "end": 985,
+    "text": " at the most amazing musical career."
+  },
+  {
+    "start": 985,
+    "end": 986,
+    "text": " Yeah."
+  },
+  {
+    "start": 986,
+    "end": 991.44,
+    "text": " He played with Frank Sinatra. He toured with George Harrison. He was one of the most amazing"
+  },
+  {
+    "start": 991.44,
+    "end": 994.8,
+    "text": " session musicians ever. The list of people who played with this just,"
+  },
+  {
+    "start": 994.8,
+    "end": 999.84,
+    "text": " He played with Charlie Mingus, you know, he was proppered into the scene of jazz and blues"
+  },
+  {
+    "start": 999.84,
+    "end": 1003.96,
+    "text": " and, and then, yeah, as you say, he went on tour and also played on three George Harrison"
+  },
+  {
+    "start": 1003.96,
+    "end": 1009.92,
+    "text": " albums. He was inducted into the Percussive Arts Society Hall of Fame in 1994. That's"
+  },
+  {
+    "start": 1009.92,
+    "end": 1012.76,
+    "text": " a very hard Hall of Fame to get into."
+  },
+  {
+    "start": 1012.76,
+    "end": 1015.76,
+    "text": " Is it harder to get into than the Australian Basketball Hall of Fame?"
+  },
+  {
+    "start": 1015.76,
+    "end": 1016.76,
+    "text": " Yes."
+  },
+  {
+    "start": 1016.76,
+    "end": 1021.48,
+    "text": " I imagine to get in, you have to do a special knock to get into the Percussive Art of Fame."
+  },
+  {
+    "start": 1021.48,
+    "end": 1024.16,
+    "text": " But no, yeah, what an extraordinary guy."
+  },
+  {
+    "start": 1024.16,
+    "end": 1028.58,
+    "text": " Yeah, it's amazing. Frank Zafer, Doris Day, The Beach Boys, The Bee Gees, Blondie, Ella"
+  },
+  {
+    "start": 1028.58,
+    "end": 1033.04,
+    "text": " Fitzgerald, Marvin Gaye. I don't know if it was on the, the album."
+  },
+  {
+    "start": 1033.04,
+    "end": 1034.04,
+    "text": " Oh, imagine."
+  },
+  {
+    "start": 1034.04,
+    "end": 1037.32,
+    "text": " What? I think, I think Marvin did all his finger clicks on that album."
+  },
+  {
+    "start": 1037.32,
+    "end": 1043.16,
+    "text": " Right, okay. He was just incredible. I love this. His autobiography was called My Life"
+  },
+  {
+    "start": 1043.16,
+    "end": 1044.16,
+    "text": " Behind Bars."
+  },
+  {
+    "start": 1044.16,
+    "end": 1045.16,
+    "text": " Oh, very nice."
+  },
+  {
+    "start": 1045.16,
+    "end": 1050.52,
+    "text": " Oh, you may have come across this in the course of your research. Do you, can you guess what"
+  },
+  {
+    "start": 1050.52,
+    "end": 1053.08,
+    "text": " kind of animal he wanted to come back as in the next life?"
+  },
+  {
+    "start": 1053.08,
+    "end": 1054.08,
+    "text": " Oh, I didn't see that."
+  },
+  {
+    "start": 1054.08,
+    "end": 1055.08,
+    "text": " I did not see that."
+  },
+  {
+    "start": 1055.08,
+    "end": 1058.12,
+    "text": " Something, something percussive. So, uh..."
+  },
+  {
+    "start": 1058.12,
+    "end": 1059.12,
+    "text": " Woodpecker."
+  },
+  {
+    "start": 1059.12,
+    "end": 1062.24,
+    "text": " Oh, such a good, such a good guess. I wish it was that."
+  },
+  {
+    "start": 1062.24,
+    "end": 1063.92,
+    "text": " Imagine it's just totally unrelated."
+  },
+  {
+    "start": 1063.92,
+    "end": 1066.2,
+    "text": " No, no, no. It is related to his percussionist life."
+  },
+  {
+    "start": 1066.2,
+    "end": 1067.2,
+    "text": " Oh, it is."
+  },
+  {
+    "start": 1067.2,
+    "end": 1068.2,
+    "text": " He had an octopus."
+  },
+  {
+    "start": 1068.2,
+    "end": 1070.2,
+    "text": " Oh, so he can have more arms."
+  },
+  {
+    "start": 1070.2,
+    "end": 1073.16,
+    "text": " Woodpecker is better, actually, yeah."
+  },
+  {
+    "start": 1073.16,
+    "end": 1077.56,
+    "text": " Six of them are legs in an octopus."
+  },
+  {
+    "start": 1077.56,
+    "end": 1080.44,
+    "text": " He had the world's largest collection of percussive instruments."
+  },
+  {
+    "start": 1080.44,
+    "end": 1081.44,
+    "text": " Really?"
+  },
+  {
+    "start": 1081.44,
+    "end": 1085.64,
+    "text": " This guy, yeah, he had 700, over 770."
+  },
+  {
+    "start": 1085.64,
+    "end": 1096.12,
+    "text": " I don't know if that's 771, maybe, but he, he had an angklung, a bulbul terang, a chimta,"
+  },
+  {
+    "start": 1096.12,
+    "end": 1103.56,
+    "text": " a flapamba, a jengu, a mvira, and a pak havaj."
+  },
+  {
+    "start": 1103.56,
+    "end": 1107.28,
+    "text": " When I was looking him up, they said he's a, he plays the vibraphone and I went to look"
+  },
+  {
+    "start": 1107.28,
+    "end": 1111.84,
+    "text": " up what a vibraphone was and the first thing that just said not to be confused with the"
+  },
+  {
+    "start": 1111.84,
+    "end": 1112.84,
+    "text": " vibraphlap."
+  },
+  {
+    "start": 1112.84,
+    "end": 1115.24,
+    "text": " And what is that?"
+  },
+  {
+    "start": 1115.24,
+    "end": 1116.24,
+    "text": " Always getting them fixed up."
+  },
+  {
+    "start": 1116.24,
+    "end": 1120.6,
+    "text": " The vibraphlap is, have you ever seen that instrument? It's like a piece of wire bent"
+  },
+  {
+    "start": 1120.6,
+    "end": 1123.72,
+    "text": " into a U and there's a wooden ball on the end."
+  },
+  {
+    "start": 1123.72,
+    "end": 1129.88,
+    "text": " It hits the box. So that's a vibraphlap and a vibraphone is more, looks like a xylophone."
+  },
+  {
+    "start": 1129.88,
+    "end": 1131.56,
+    "text": " I don't know how you would confuse them."
+  },
+  {
+    "start": 1131.56,
+    "end": 1136.48,
+    "text": " They don't look at all alike and they're both so obscure that I feel like it's very unlikely"
+  },
+  {
+    "start": 1136.48,
+    "end": 1140.5,
+    "text": " you'll be talking about one and not know what the other one is like either you're not talking"
+  },
+  {
+    "start": 1140.5,
+    "end": 1146.84,
+    "text": " about these at all or there's no risk of you confusing the two."
+  },
+  {
+    "start": 1146.84,
+    "end": 1149.44,
+    "text": " So he did the Mission Impossible theme tune."
+  },
+  {
+    "start": 1149.44,
+    "end": 1154.68,
+    "text": " The bong goes on that and I was looking into the Mission Impossible theme tune generally."
+  },
+  {
+    "start": 1154.68,
+    "end": 1160.48,
+    "text": " So there's this fact, which is that the beat of the song was written to the Morse code"
+  },
+  {
+    "start": 1160.48,
+    "end": 1162.2,
+    "text": " of M and I."
+  },
+  {
+    "start": 1162.2,
+    "end": 1165.32,
+    "text": " So can you give us the one it goes like for anyone who doesn't."
+  },
+  {
+    "start": 1165.32,
+    "end": 1166.6,
+    "text": " Andy, you're a bigger fan."
+  },
+  {
+    "start": 1166.6,
+    "end": 1168.4,
+    "text": " I always end up doing Bond by accident."
+  },
+  {
+    "start": 1168.4,
+    "end": 1169.4,
+    "text": " Can you do it quickly?"
+  },
+  {
+    "start": 1169.4,
+    "end": 1173.96,
+    "text": " Do you mean the bit they go bam, bam, bam, bam, bam, bam, bam, bam, bam, bam, bam."
+  },
+  {
+    "start": 1173.96,
+    "end": 1174.96,
+    "text": " Yes."
+  },
+  {
+    "start": 1174.96,
+    "end": 1175.96,
+    "text": " Yeah."
+  },
+  {
+    "start": 1175.96,
+    "end": 1178.68,
+    "text": " So it's dash, dash, dot, dot is the thing for it."
+  },
+  {
+    "start": 1178.68,
+    "end": 1179.68,
+    "text": " Great."
+  },
+  {
+    "start": 1179.68,
+    "end": 1184.44,
+    "text": " But the guy who wrote it, Shifrin, he wrote that whole song he says in three minutes."
+  },
+  {
+    "start": 1184.44,
+    "end": 1185.44,
+    "text": " Wow."
+  },
+  {
+    "start": 1185.44,
+    "end": 1186.44,
+    "text": " Really?"
+  },
+  {
+    "start": 1186.44,
+    "end": 1187.44,
+    "text": " Yeah."
+  },
+  {
+    "start": 1187.44,
+    "end": 1190,
+    "text": " You often hear that with a few musicians where they say I just banged that out and it just"
+  },
+  {
+    "start": 1190,
+    "end": 1194.32,
+    "text": " came to me as a fully formed piece and that happened and that happened with Mission Impossible."
+  },
+  {
+    "start": 1194.32,
+    "end": 1195.32,
+    "text": " So that's quite cool."
+  },
+  {
+    "start": 1195.32,
+    "end": 1198.12,
+    "text": " And the same with the James Bond theme."
+  },
+  {
+    "start": 1198.12,
+    "end": 1203.6,
+    "text": " That wasn't written in a quick time, but if by a guy called Monty Norman and he actually,"
+  },
+  {
+    "start": 1203.6,
+    "end": 1208.8,
+    "text": " which is, I really like this, he was hired by the Bond people to come up specifically"
+  },
+  {
+    "start": 1208.8,
+    "end": 1209.8,
+    "text": " with this theme."
+  },
+  {
+    "start": 1209.8,
+    "end": 1215.2,
+    "text": " And they took him out to Jamaica on a holiday and he met Connery out there and Ursula Andres."
+  },
+  {
+    "start": 1215.2,
+    "end": 1217.2,
+    "text": " Because they were filming Dr. No."
+  },
+  {
+    "start": 1217.2,
+    "end": 1219.24,
+    "text": " Yeah, they were filming Dr. No, the first one out there."
+  },
+  {
+    "start": 1219.24,
+    "end": 1222.12,
+    "text": " And so he was brought to meet them all and get a vibe of it."
+  },
+  {
+    "start": 1222.12,
+    "end": 1226.68,
+    "text": " And he ended up just using a previous tune that he had written for a completely different"
+  },
+  {
+    "start": 1226.68,
+    "end": 1228.36,
+    "text": " adaption that never got used."
+  },
+  {
+    "start": 1228.36,
+    "end": 1234.04,
+    "text": " It was a stage production of VS Naples' novel, A House for Mr. Biswas."
+  },
+  {
+    "start": 1234.04,
+    "end": 1238.16,
+    "text": " That's the original James Bond theme and it was played on Sitar."
+  },
+  {
+    "start": 1238.16,
+    "end": 1243.16,
+    "text": " It's the other one that goes da, da, da, da, da, da, da, da, oh, because I know the original"
+  },
+  {
+    "start": 1243.16,
+    "end": 1248.72,
+    "text": " lyrics about something like, I was born with an unfortunate sneeze and yes, that's it."
+  },
+  {
+    "start": 1248.72,
+    "end": 1252.16,
+    "text": " My parents said that I was made the wrong way around."
+  },
+  {
+    "start": 1252.16,
+    "end": 1254.52,
+    "text": " Oh my God."
+  },
+  {
+    "start": 1254.52,
+    "end": 1258.52,
+    "text": " This is a bigger repurpose than Candle in the Wind."
+  },
+  {
+    "start": 1258.52,
+    "end": 1260.84,
+    "text": " This is a big shift."
+  },
+  {
+    "start": 1260.84,
+    "end": 1261.84,
+    "text": " So strange."
+  },
+  {
+    "start": 1261.84,
+    "end": 1267.88,
+    "text": " And I think at the end of the song, he sneezes so much that he falls into a lay cuss of that"
+  },
+  {
+    "start": 1267.88,
+    "end": 1268.88,
+    "text": " tune."
+  },
+  {
+    "start": 1268.88,
+    "end": 1269.88,
+    "text": " Oh, right."
+  },
+  {
+    "start": 1269.88,
+    "end": 1270.88,
+    "text": " Wow."
+  },
+  {
+    "start": 1270.88,
+    "end": 1273.12,
+    "text": " This guy, Monty Norman, he also wrote an autobiography."
+  },
+  {
+    "start": 1273.12,
+    "end": 1275.28,
+    "text": " So Life Behind Bar is a very good title."
+  },
+  {
+    "start": 1275.28,
+    "end": 1278.52,
+    "text": " Do you know, Andy, you look like you might know the title of his autobiography."
+  },
+  {
+    "start": 1278.52,
+    "end": 1279.52,
+    "text": " No, I don't."
+  },
+  {
+    "start": 1279.52,
+    "end": 1280.96,
+    "text": " Is it Musical and James Bond theme?"
+  },
+  {
+    "start": 1280.96,
+    "end": 1281.96,
+    "text": " No."
+  },
+  {
+    "start": 1281.96,
+    "end": 1282.96,
+    "text": " Well, I'm not going to get it."
+  },
+  {
+    "start": 1282.96,
+    "end": 1286.16,
+    "text": " It was called A Walking Stick Full of Bagels."
+  },
+  {
+    "start": 1286.16,
+    "end": 1287.16,
+    "text": " Okay."
+  },
+  {
+    "start": 1287.16,
+    "end": 1288.16,
+    "text": " You know that."
+  },
+  {
+    "start": 1288.16,
+    "end": 1290.16,
+    "text": " Without knowing the context, that is not a good title for it."
+  },
+  {
+    "start": 1290.16,
+    "end": 1292.72,
+    "text": " I think that must have been a classic phrase back in the day."
+  },
+  {
+    "start": 1292.72,
+    "end": 1294.48,
+    "text": " You're like a walking stick full of bagels."
+  },
+  {
+    "start": 1294.48,
+    "end": 1295.64,
+    "text": " And what does that mean?"
+  },
+  {
+    "start": 1295.64,
+    "end": 1297.36,
+    "text": " How would a stick be full of anything?"
+  },
+  {
+    "start": 1297.36,
+    "end": 1298.36,
+    "text": " There we go."
+  },
+  {
+    "start": 1298.36,
+    "end": 1299.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 1299.36,
+    "end": 1300.36,
+    "text": " So many questions."
+  },
+  {
+    "start": 1300.36,
+    "end": 1303.24,
+    "text": " I bet they were all answered in the unpublished autobiography and we are yet to find out."
+  },
+  {
+    "start": 1303.24,
+    "end": 1309.16,
+    "text": " I think the best autobiography title I've ever heard was Tori Spelling's Autobiography,"
+  },
+  {
+    "start": 1309.16,
+    "end": 1311.16,
+    "text": " Storytelling by Tori Spelling."
+  },
+  {
+    "start": 1311.16,
+    "end": 1312.16,
+    "text": " Genius."
+  },
+  {
+    "start": 1312.16,
+    "end": 1313.16,
+    "text": " Really strong title."
+  },
+  {
+    "start": 1313.16,
+    "end": 1314.16,
+    "text": " I've got it."
+  },
+  {
+    "start": 1314.16,
+    "end": 1315.16,
+    "text": " I got it off that title."
+  },
+  {
+    "start": 1315.16,
+    "end": 1318.16,
+    "text": " But that doesn't go down well in the divorce case."
+  },
+  {
+    "start": 1318.16,
+    "end": 1319.16,
+    "text": " Tori Spelling's Autobiography."
+  },
+  {
+    "start": 1319.16,
+    "end": 1327.16,
+    "text": " Have you guys heard of the village of Kong Thong in northeast India?"
+  },
+  {
+    "start": 1327.16,
+    "end": 1328.16,
+    "text": " No."
+  },
+  {
+    "start": 1328.16,
+    "end": 1332.4,
+    "text": " This is a village where every child is given a theme tune."
+  },
+  {
+    "start": 1332.4,
+    "end": 1333.4,
+    "text": " Oh, cool."
+  },
+  {
+    "start": 1333.4,
+    "end": 1334.92,
+    "text": " So it's a little village."
+  },
+  {
+    "start": 1334.92,
+    "end": 1336.96,
+    "text": " It's really cut off from the rest of India."
+  },
+  {
+    "start": 1336.96,
+    "end": 1338.44,
+    "text": " I don't think you can get that by car."
+  },
+  {
+    "start": 1338.44,
+    "end": 1340.88,
+    "text": " I think you can get that by boat."
+  },
+  {
+    "start": 1340.88,
+    "end": 1346.16,
+    "text": " It's in the middle of a jungle and people would forage for broom grass, which they would"
+  },
+  {
+    "start": 1346.16,
+    "end": 1347.28,
+    "text": " sell on."
+  },
+  {
+    "start": 1347.28,
+    "end": 1351.12,
+    "text": " And so a lot of the time you would spend in the jungle sort of walking around probably"
+  },
+  {
+    "start": 1351.12,
+    "end": 1352.12,
+    "text": " alone."
+  },
+  {
+    "start": 1352.12,
+    "end": 1356.8,
+    "text": " And the thing is in the jungle is quite hard to hear people for long distances because"
+  },
+  {
+    "start": 1356.8,
+    "end": 1359.2,
+    "text": " it all gets soaked in by the trees."
+  },
+  {
+    "start": 1359.2,
+    "end": 1363.8,
+    "text": " And so they came up with this different way of telling people you're around by having"
+  },
+  {
+    "start": 1363.8,
+    "end": 1367.56,
+    "text": " a different tune that you would whistle or you would shout or whatever."
+  },
+  {
+    "start": 1367.56,
+    "end": 1372.2,
+    "text": " And so when you're born, you get your theme tune and then for the rest of your life, whenever"
+  },
+  {
+    "start": 1372.2,
+    "end": 1375.08,
+    "text": " you're in the jungle, people will make this little doodoo doodoo doodoo."
+  },
+  {
+    "start": 1375.08,
+    "end": 1377.08,
+    "text": " You'd be like, oh, that's me."
+  },
+  {
+    "start": 1377.08,
+    "end": 1378.08,
+    "text": " That was the Simpsons."
+  },
+  {
+    "start": 1378.08,
+    "end": 1379.08,
+    "text": " So cool."
+  },
+  {
+    "start": 1379.08,
+    "end": 1380.08,
+    "text": " Yeah."
+  },
+  {
+    "start": 1380.08,
+    "end": 1381.08,
+    "text": " Yeah."
+  },
+  {
+    "start": 1381.08,
+    "end": 1385.88,
+    "text": " I think lawyers will be in touch with that kid."
+  },
+  {
+    "start": 1385.88,
+    "end": 1389.16,
+    "text": " He was from the Simpson family of Kong Thong."
+  },
+  {
+    "start": 1389.16,
+    "end": 1391.08,
+    "text": " That is so cool, isn't it?"
+  },
+  {
+    "start": 1391.08,
+    "end": 1392.08,
+    "text": " That's awesome."
+  },
+  {
+    "start": 1392.08,
+    "end": 1396.32,
+    "text": " Unfortunately, it's kind of dying out because people now will connect with each other using"
+  },
+  {
+    "start": 1396.32,
+    "end": 1399.68,
+    "text": " mobile phones so they don't need these theme tunes so much."
+  },
+  {
+    "start": 1399.68,
+    "end": 1402.72,
+    "text": " Yes, again, the internet's ruined it all."
+  },
+  {
+    "start": 1402.72,
+    "end": 1408.96,
+    "text": " I'm having a quick think about songs that use the old Panda Rooze as a kind of iconic"
+  },
+  {
+    "start": 1408.96,
+    "end": 1409.96,
+    "text": " bit of it."
+  },
+  {
+    "start": 1409.96,
+    "end": 1414.24,
+    "text": " And obviously, if you're thinking theme tunes, the Friends theme tune, I'll be there for"
+  },
+  {
+    "start": 1414.24,
+    "end": 1416.08,
+    "text": " you by the Rem Brands."
+  },
+  {
+    "start": 1416.08,
+    "end": 1418.2,
+    "text": " There's like a clapping bit, right?"
+  },
+  {
+    "start": 1418.2,
+    "end": 1419.2,
+    "text": " Yeah."
+  },
+  {
+    "start": 1419.2,
+    "end": 1420.2,
+    "text": " So it's four claps."
+  },
+  {
+    "start": 1420.2,
+    "end": 1423.52,
+    "text": " Apparently, there's a bit of controversy because Courtney Cox did five claps on a TV"
+  },
+  {
+    "start": 1423.52,
+    "end": 1426.28,
+    "text": " show once and it sent the writers of the song mad."
+  },
+  {
+    "start": 1426.28,
+    "end": 1431.48,
+    "text": " But the song, I'll be there for you, it was actually a song composed specifically for"
+  },
+  {
+    "start": 1431.48,
+    "end": 1435.56,
+    "text": " the TV show and the Rem Brands had very minimal input into the writing itself."
+  },
+  {
+    "start": 1435.56,
+    "end": 1442,
+    "text": " It was the actual creators of Friends who wrote the song and it proved to be such an"
+  },
+  {
+    "start": 1442,
+    "end": 1446.24,
+    "text": " iconic theme tune that everyone was begging for it to be released in the..."
+  },
+  {
+    "start": 1446.24,
+    "end": 1449.32,
+    "text": " Yeah, I bought it in the chance when it came out."
+  },
+  {
+    "start": 1449.32,
+    "end": 1454.12,
+    "text": " So what that was was they had to go into a studio and write a whole song because there"
+  },
+  {
+    "start": 1454.12,
+    "end": 1455.6,
+    "text": " wasn't a whole song."
+  },
+  {
+    "start": 1455.6,
+    "end": 1457.76,
+    "text": " It was only the theme tune bit of the song."
+  },
+  {
+    "start": 1457.76,
+    "end": 1459.8,
+    "text": " They needed two more verses to be added in."
+  },
+  {
+    "start": 1459.8,
+    "end": 1460.8,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 1460.8,
+    "end": 1461.8,
+    "text": " Yeah."
+  },
+  {
+    "start": 1461.8,
+    "end": 1465.32,
+    "text": " So it was a backwards constructed full song that ended up coming out."
+  },
+  {
+    "start": 1465.32,
+    "end": 1466.32,
+    "text": " That's so interesting."
+  },
+  {
+    "start": 1466.32,
+    "end": 1467.32,
+    "text": " So it was 40 seconds long."
+  },
+  {
+    "start": 1467.32,
+    "end": 1471.32,
+    "text": " There was like a time in the 90s when all the theme tunes used to come out and you could"
+  },
+  {
+    "start": 1471.32,
+    "end": 1475.48,
+    "text": " buy them for the charts like the exfiles did around that time as well."
+  },
+  {
+    "start": 1475.48,
+    "end": 1479.08,
+    "text": " And they all did quite well in the charts just because people thought, oh, I like that"
+  },
+  {
+    "start": 1479.08,
+    "end": 1480.08,
+    "text": " song."
+  },
+  {
+    "start": 1480.08,
+    "end": 1481.08,
+    "text": " Yeah."
+  },
+  {
+    "start": 1481.08,
+    "end": 1482.08,
+    "text": " I love..."
+  },
+  {
+    "start": 1482.08,
+    "end": 1483.08,
+    "text": " I mean, the exfiles is my favorite theme tune of all time."
+  },
+  {
+    "start": 1483.08,
+    "end": 1484.8,
+    "text": " And it turns out, so the guy who composed that's called..."
+  },
+  {
+    "start": 1484.8,
+    "end": 1485.8,
+    "text": " Mark Snow?"
+  },
+  {
+    "start": 1485.8,
+    "end": 1486.96,
+    "text": " Yeah, Mark Snow."
+  },
+  {
+    "start": 1486.96,
+    "end": 1489.36,
+    "text": " And David DeColvany claims, I think this is tongue in cheek."
+  },
+  {
+    "start": 1489.36,
+    "end": 1493.92,
+    "text": " I mean, it completely is tongue in cheek, but he says there were lyrics to the exfiles"
+  },
+  {
+    "start": 1493.92,
+    "end": 1498.76,
+    "text": " theme tune by Mark Snow and these are the lyrics."
+  },
+  {
+    "start": 1498.76,
+    "end": 1505.4,
+    "text": " The exfiles is a show, show, show, show, show, with music by Mark Snow, snow, snow, snow."
+  },
+  {
+    "start": 1505.4,
+    "end": 1510.48,
+    "text": " Those are the only two lyrics that we know of according to DeColvany."
+  },
+  {
+    "start": 1510.48,
+    "end": 1513.04,
+    "text": " Do you guys know what composers of TV theme tunes hate?"
+  },
+  {
+    "start": 1513.04,
+    "end": 1514.04,
+    "text": " I guess."
+  },
+  {
+    "start": 1514.04,
+    "end": 1521.12,
+    "text": " Oh, when on TV shows, when the continuity announcer goes next up on BBC Three."
+  },
+  {
+    "start": 1521.12,
+    "end": 1524.2,
+    "text": " That's a really good point."
+  },
+  {
+    "start": 1524.2,
+    "end": 1529.64,
+    "text": " I'm specifically talking about the skip intro button, which is very controversial."
+  },
+  {
+    "start": 1529.64,
+    "end": 1534.68,
+    "text": " They get furious, those guys and gals, about the skip intro because Netflix found out that"
+  },
+  {
+    "start": 1534.68,
+    "end": 1537.68,
+    "text": " users were frequently fast forwarding a bit because, you know, if you're watching three"
+  },
+  {
+    "start": 1537.68,
+    "end": 1540.56,
+    "text": " episodes in a night, you don't want to see the theme tune three times."
+  },
+  {
+    "start": 1540.56,
+    "end": 1545.96,
+    "text": " So Netflix claims, I can't quite believe this, skip intro is pressed 136 million times a"
+  },
+  {
+    "start": 1545.96,
+    "end": 1551.44,
+    "text": " day, which cumulatively saves 130 years of human time."
+  },
+  {
+    "start": 1551.44,
+    "end": 1557.2,
+    "text": " We never, especially the shows where they've put some proper effort into the, into the"
+  },
+  {
+    "start": 1557.2,
+    "end": 1558.2,
+    "text": " intros."
+  },
+  {
+    "start": 1558.2,
+    "end": 1560.76,
+    "text": " I think you lose quite a lot from not having those intros."
+  },
+  {
+    "start": 1560.76,
+    "end": 1564.84,
+    "text": " Can you imagine watching Game of Thrones and not having that amazing theme tune with"
+  },
+  {
+    "start": 1564.84,
+    "end": 1569.56,
+    "text": " all the stuff happening and then just going straight into the shaggy nuts?"
+  },
+  {
+    "start": 1569.56,
+    "end": 1570.56,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 1570.56,
+    "end": 1571.56,
+    "text": " Yeah."
+  },
+  {
+    "start": 1571.56,
+    "end": 1572.56,
+    "text": " It really sets the vibe."
+  },
+  {
+    "start": 1572.56,
+    "end": 1577.44,
+    "text": " I think grooving to the soprano's theme is like maybe 30% of what I like about watching"
+  },
+  {
+    "start": 1577.44,
+    "end": 1578.44,
+    "text": " the show."
+  },
+  {
+    "start": 1578.44,
+    "end": 1582.92,
+    "text": " Obviously the rest of the other 70% is that it's groundbreaking, beautiful human drama."
+  },
+  {
+    "start": 1582.92,
+    "end": 1585,
+    "text": " But the theme tune is also up there."
+  },
+  {
+    "start": 1585,
+    "end": 1586,
+    "text": " It's a bop."
+  },
+  {
+    "start": 1586,
+    "end": 1587,
+    "text": " I agree."
+  },
+  {
+    "start": 1587,
+    "end": 1588.1,
+    "text": " We stand up in our house."
+  },
+  {
+    "start": 1588.1,
+    "end": 1590.44,
+    "text": " We stand in silence for every theme tune."
+  },
+  {
+    "start": 1590.44,
+    "end": 1592.96,
+    "text": " It's a huge respect in this household."
+  },
+  {
+    "start": 1592.96,
+    "end": 1596.28,
+    "text": " Monica, aren't you show running on a show at the moment?"
+  },
+  {
+    "start": 1596.28,
+    "end": 1598.84,
+    "text": " I just finished show running on a show."
+  },
+  {
+    "start": 1598.84,
+    "end": 1600.88,
+    "text": " Are you going to get to pick the theme tune?"
+  },
+  {
+    "start": 1600.88,
+    "end": 1604,
+    "text": " I think we're going to have like proper opening titles."
+  },
+  {
+    "start": 1604,
+    "end": 1606.64,
+    "text": " So we're going to have to do a whole, you're going to have to figure out a whole thing."
+  },
+  {
+    "start": 1606.64,
+    "end": 1607.64,
+    "text": " Yeah."
+  },
+  {
+    "start": 1607.64,
+    "end": 1610.76,
+    "text": " I've really been shown my own limitations in this area because my description is like,"
+  },
+  {
+    "start": 1610.76,
+    "end": 1613.2,
+    "text": " I want it to sound cool."
+  },
+  {
+    "start": 1613.2,
+    "end": 1618.2,
+    "text": " No, out of their fiend back home."
+  },
+  {
+    "start": 1618.2,
+    "end": 1620.04,
+    "text": " Well, I got, I got some advice for you, Monica."
+  },
+  {
+    "start": 1620.04,
+    "end": 1625.14,
+    "text": " If you're working with the sound person, do a, do a secret thing here, which is do actually"
+  },
+  {
+    "start": 1625.14,
+    "end": 1631.08,
+    "text": " write lyrics to whatever the theme tune is, but don't put them out because you could then"
+  },
+  {
+    "start": 1631.08,
+    "end": 1633.64,
+    "text": " claim 50% royalties on the song."
+  },
+  {
+    "start": 1633.64,
+    "end": 1636.24,
+    "text": " This is what Jean Roddenberry did with Star Trek."
+  },
+  {
+    "start": 1636.24,
+    "end": 1638.4,
+    "text": " He wrote lyrics for the Star Trek song."
+  },
+  {
+    "start": 1638.4,
+    "end": 1640.12,
+    "text": " They never use them."
+  },
+  {
+    "start": 1640.12,
+    "end": 1643.48,
+    "text": " And anytime a royalty check came in, he was a co-writer of the song."
+  },
+  {
+    "start": 1643.48,
+    "end": 1645.68,
+    "text": " So he got 50% of everything."
+  },
+  {
+    "start": 1645.68,
+    "end": 1647.44,
+    "text": " And the song suicide is painless."
+  },
+  {
+    "start": 1647.44,
+    "end": 1648.92,
+    "text": " The mash theme tune."
+  },
+  {
+    "start": 1648.92,
+    "end": 1654.88,
+    "text": " It was used in the Robert Altman movie commissioned specifically for that movie by Robert Altman."
+  },
+  {
+    "start": 1654.88,
+    "end": 1657.66,
+    "text": " And he tried to write the lyrics for it, couldn't crack it."
+  },
+  {
+    "start": 1657.66,
+    "end": 1662.94,
+    "text": " And so he asked his son, Michael, who was 15 years old at the time, to write the lyrics."
+  },
+  {
+    "start": 1662.94,
+    "end": 1664.58,
+    "text": " So Michael did that."
+  },
+  {
+    "start": 1664.58,
+    "end": 1669.26,
+    "text": " And as a result of that song not only being used in the movie, but then the long running"
+  },
+  {
+    "start": 1669.26,
+    "end": 1674.46,
+    "text": " TV show with Alan Alder, he says, Altman says that he made $70,000 for directing that"
+  },
+  {
+    "start": 1674.46,
+    "end": 1675.46,
+    "text": " movie."
+  },
+  {
+    "start": 1675.46,
+    "end": 1680.1,
+    "text": " And his son has earned more than a million dollars over the years just from that being"
+  },
+  {
+    "start": 1680.1,
+    "end": 1681.1,
+    "text": " sold."
+  },
+  {
+    "start": 1681.1,
+    "end": 1684.02,
+    "text": " Those lyrics are good though, aren't they, for suicide is painless."
+  },
+  {
+    "start": 1684.02,
+    "end": 1689.2,
+    "text": " But G. Roddenberry, is he not just stealing half of the credit?"
+  },
+  {
+    "start": 1689.2,
+    "end": 1690.2,
+    "text": " Yeah."
+  },
+  {
+    "start": 1690.2,
+    "end": 1691.2,
+    "text": " It feels like it."
+  },
+  {
+    "start": 1691.2,
+    "end": 1694.84,
+    "text": " It feels like the workers and the musicians who have done all this work and he's just"
+  },
+  {
+    "start": 1694.84,
+    "end": 1697.84,
+    "text": " like, well, I'll pretend that I've written some lyrics and take half the money."
+  },
+  {
+    "start": 1697.84,
+    "end": 1699.24,
+    "text": " It's quite cheeky."
+  },
+  {
+    "start": 1699.24,
+    "end": 1700.24,
+    "text": " It's very cheeky."
+  },
+  {
+    "start": 1700.24,
+    "end": 1702.02,
+    "text": " Hey, that's the business we're in, guys."
+  },
+  {
+    "start": 1702.02,
+    "end": 1703.02,
+    "text": " And Monica."
+  },
+  {
+    "start": 1703.02,
+    "end": 1704.02,
+    "text": " Is it?"
+  },
+  {
+    "start": 1704.02,
+    "end": 1705.02,
+    "text": " Oh."
+  },
+  {
+    "start": 1705.02,
+    "end": 1706.02,
+    "text": " That's Hollywood, baby."
+  },
+  {
+    "start": 1706.02,
+    "end": 1707.02,
+    "text": " Gosh."
+  },
+  {
+    "start": 1707.02,
+    "end": 1708.02,
+    "text": " Business is business."
+  },
+  {
+    "start": 1708.02,
+    "end": 1713.52,
+    "text": " Just quickly, Ed Sheeran has written the theme tune to James Bond, despite no one having"
+  },
+  {
+    "start": 1713.52,
+    "end": 1717.38,
+    "text": " requested that he do that, which I think is quite sweet."
+  },
+  {
+    "start": 1717.38,
+    "end": 1719.66,
+    "text": " I think that's a very Ed Sheeran thing to do."
+  },
+  {
+    "start": 1719.66,
+    "end": 1724.46,
+    "text": " But that's, isn't that, I would say that when a new Bond comes out, people submit songs."
+  },
+  {
+    "start": 1724.46,
+    "end": 1725.7,
+    "text": " That's how that's always worked."
+  },
+  {
+    "start": 1725.7,
+    "end": 1726.7,
+    "text": " No, it's not."
+  },
+  {
+    "start": 1726.7,
+    "end": 1727.7,
+    "text": " You don't send in."
+  },
+  {
+    "start": 1727.7,
+    "end": 1731.3,
+    "text": " There are so many songs that are out that are rejected Bond songs by bands that submitted"
+  },
+  {
+    "start": 1731.3,
+    "end": 1733.98,
+    "text": " a song that didn't get used, which they then use."
+  },
+  {
+    "start": 1733.98,
+    "end": 1734.98,
+    "text": " Is there a process?"
+  },
+  {
+    "start": 1734.98,
+    "end": 1737.34,
+    "text": " Is there an open process by which, I mean, could we submit one?"
+  },
+  {
+    "start": 1737.34,
+    "end": 1738.34,
+    "text": " Yeah."
+  },
+  {
+    "start": 1738.34,
+    "end": 1739.34,
+    "text": " That's what I was thinking."
+  },
+  {
+    "start": 1739.34,
+    "end": 1740.34,
+    "text": " Did they accept anything?"
+  },
+  {
+    "start": 1740.34,
+    "end": 1741.34,
+    "text": " They've..."
+  },
+  {
+    "start": 1741.34,
+    "end": 1742.34,
+    "text": " That can't be true."
+  },
+  {
+    "start": 1742.34,
+    "end": 1744.32,
+    "text": " I thought that they would commission a cool art."
+  },
+  {
+    "start": 1744.32,
+    "end": 1746.82,
+    "text": " It can't be like a bake-off."
+  },
+  {
+    "start": 1746.82,
+    "end": 1749.42,
+    "text": " The last film, they asked Billie Eilish to do..."
+  },
+  {
+    "start": 1749.42,
+    "end": 1750.42,
+    "text": " Yeah."
+  },
+  {
+    "start": 1750.42,
+    "end": 1751.42,
+    "text": " No, she just got lucky."
+  },
+  {
+    "start": 1751.42,
+    "end": 1753.42,
+    "text": " She just happens to have the best what they said in a million."
+  },
+  {
+    "start": 1753.42,
+    "end": 1754.42,
+    "text": " Yeah."
+  },
+  {
+    "start": 1754.42,
+    "end": 1755.42,
+    "text": " Wow."
+  },
+  {
+    "start": 1755.42,
+    "end": 1756.42,
+    "text": " Exactly."
+  },
+  {
+    "start": 1756.42,
+    "end": 1757.42,
+    "text": " And hers just happens to be the best one."
+  },
+  {
+    "start": 1757.42,
+    "end": 1758.42,
+    "text": " And they listen to them blind as well."
+  },
+  {
+    "start": 1758.42,
+    "end": 1759.42,
+    "text": " Yeah."
+  },
+  {
+    "start": 1759.42,
+    "end": 1760.42,
+    "text": " They don't, you know, they don't prejudice themselves."
+  },
+  {
+    "start": 1760.42,
+    "end": 1761.42,
+    "text": " It's like the voice."
+  },
+  {
+    "start": 1761.42,
+    "end": 1762.42,
+    "text": " It's like the voice."
+  },
+  {
+    "start": 1762.42,
+    "end": 1763.42,
+    "text": " It could be anyone."
+  },
+  {
+    "start": 1763.42,
+    "end": 1764.42,
+    "text": " But I can't be true, Dan."
+  },
+  {
+    "start": 1764.42,
+    "end": 1765.42,
+    "text": " It can't be true."
+  },
+  {
+    "start": 1765.42,
+    "end": 1767.94,
+    "text": " Because they always pick the trendiest person in the world at the time, don't they?"
+  },
+  {
+    "start": 1767.94,
+    "end": 1768.94,
+    "text": " No, I mean..."
+  },
+  {
+    "start": 1768.94,
+    "end": 1771.42,
+    "text": " And Ed Sheeran has consistently been the second trendiest person in the world."
+  },
+  {
+    "start": 1771.42,
+    "end": 1773.42,
+    "text": " She just keeps missing it."
+  },
+  {
+    "start": 1773.42,
+    "end": 1776.5,
+    "text": " The reason I say it is I know that Radiohead had a rejected Bond song."
+  },
+  {
+    "start": 1776.5,
+    "end": 1778.9,
+    "text": " So I'm trying to work back from there."
+  },
+  {
+    "start": 1778.9,
+    "end": 1781.54,
+    "text": " And I'm pretty sure Johnny Cash had one as well."
+  },
+  {
+    "start": 1781.54,
+    "end": 1783.26,
+    "text": " And I think this is a thing."
+  },
+  {
+    "start": 1783.26,
+    "end": 1784.26,
+    "text": " Yeah."
+  },
+  {
+    "start": 1784.26,
+    "end": 1785.26,
+    "text": " But I can't say for sure."
+  },
+  {
+    "start": 1785.26,
+    "end": 1786.26,
+    "text": " Wow."
+  },
+  {
+    "start": 1786.26,
+    "end": 1789.94,
+    "text": " Maybe they asked people to tender for it, rather than anyone being able to send stuff in."
+  },
+  {
+    "start": 1789.94,
+    "end": 1790.94,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 1790.94,
+    "end": 1791.94,
+    "text": " I think they sent..."
+  },
+  {
+    "start": 1791.94,
+    "end": 1793.26,
+    "text": " I think they asked, like, a group of people."
+  },
+  {
+    "start": 1793.26,
+    "end": 1794.54,
+    "text": " I don't think it is open."
+  },
+  {
+    "start": 1794.54,
+    "end": 1795.54,
+    "text": " Right."
+  },
+  {
+    "start": 1795.54,
+    "end": 1796.54,
+    "text": " Yeah."
+  },
+  {
+    "start": 1796.54,
+    "end": 1797.54,
+    "text": " It's not quite as open as that."
+  },
+  {
+    "start": 1797.54,
+    "end": 1798.54,
+    "text": " Open season."
+  },
+  {
+    "start": 1798.54,
+    "end": 1799.54,
+    "text": " Because you'd see..."
+  },
+  {
+    "start": 1799.54,
+    "end": 1800.54,
+    "text": " There'd be a thing every three years, wouldn't there?"
+  },
+  {
+    "start": 1800.54,
+    "end": 1801.54,
+    "text": " Yeah, exactly."
+  },
+  {
+    "start": 1801.54,
+    "end": 1804.94,
+    "text": " Have you guys heard of Dusan Sestic?"
+  },
+  {
+    "start": 1804.94,
+    "end": 1807.94,
+    "text": " He's a composer of the Bosnian National Anthem."
+  },
+  {
+    "start": 1807.94,
+    "end": 1809.58,
+    "text": " We spoke about Bosnia earlier."
+  },
+  {
+    "start": 1809.58,
+    "end": 1814.7,
+    "text": " He entered the competition to do the Bosnian National Anthem."
+  },
+  {
+    "start": 1814.7,
+    "end": 1815.86,
+    "text": " He did really want to win."
+  },
+  {
+    "start": 1815.86,
+    "end": 1818.18,
+    "text": " He just wanted to get, like, second or third place."
+  },
+  {
+    "start": 1818.18,
+    "end": 1819.38,
+    "text": " There was money for it."
+  },
+  {
+    "start": 1819.38,
+    "end": 1821.9,
+    "text": " He, like, was quite into the old Yugoslavia."
+  },
+  {
+    "start": 1821.9,
+    "end": 1823.86,
+    "text": " He didn't really care about the new Bosnia."
+  },
+  {
+    "start": 1823.86,
+    "end": 1827.18,
+    "text": " But he thought, \"I'll get some money out of it because I'm a decent composer.\""
+  },
+  {
+    "start": 1827.18,
+    "end": 1831.82,
+    "text": " Anyway, he won and he wrote the National Anthem for Bosnia."
+  },
+  {
+    "start": 1831.82,
+    "end": 1836.62,
+    "text": " And then, in 2009, someone noticed that it was remarkably similar to the theme tune of"
+  },
+  {
+    "start": 1836.62,
+    "end": 1840.9,
+    "text": " National Lampoon's Animal House, the 1978 movie."
+  },
+  {
+    "start": 1840.9,
+    "end": 1841.9,
+    "text": " Right."
+  },
+  {
+    "start": 1841.9,
+    "end": 1845.7,
+    "text": " And when you listen to the both, they are almost identical."
+  },
+  {
+    "start": 1845.7,
+    "end": 1848.26,
+    "text": " Like, there is no difference whatsoever."
+  },
+  {
+    "start": 1848.26,
+    "end": 1853.14,
+    "text": " But, bless him, he went on TV and they were all like, \"Well, how come you made our National"
+  },
+  {
+    "start": 1853.14,
+    "end": 1854.14,
+    "text": " Lampoon the theme tune?\""
+  },
+  {
+    "start": 1854.14,
+    "end": 1856.34,
+    "text": " She said, \"That's the Lampoon's Animal House.\""
+  },
+  {
+    "start": 1856.34,
+    "end": 1860.18,
+    "text": " And he said, \"Oh, maybe as a young man, I heard it and it kind of stuck in my head."
+  },
+  {
+    "start": 1860.18,
+    "end": 1862.7,
+    "text": " But I didn't deliberately plagiarise it."
+  },
+  {
+    "start": 1862.7,
+    "end": 1863.7,
+    "text": " It just so happened.\""
+  },
+  {
+    "start": 1863.7,
+    "end": 1864.7,
+    "text": " That is brilliant."
+  },
+  {
+    "start": 1864.7,
+    "end": 1865.7,
+    "text": " Yeah."
+  },
+  {
+    "start": 1865.7,
+    "end": 1870.58,
+    "text": " This is the problem with big national policies being decided by right-in contest."
+  },
+  {
+    "start": 1870.58,
+    "end": 1874.5,
+    "text": " This is why Canadian legal tender is called the Looney and the Tooney."
+  },
+  {
+    "start": 1874.5,
+    "end": 1877.02,
+    "text": " Oh, what?"
+  },
+  {
+    "start": 1877.02,
+    "end": 1879.82,
+    "text": " The $1 coin has a loon on it, so it's called the Looney."
+  },
+  {
+    "start": 1879.82,
+    "end": 1883.86,
+    "text": " And then they had a contest to name the $2 coin, which has a polar bear on it."
+  },
+  {
+    "start": 1883.86,
+    "end": 1886.5,
+    "text": " And the winning entry was the Tooney."
+  },
+  {
+    "start": 1886.5,
+    "end": 1888.42,
+    "text": " And now that is actually what we call it."
+  },
+  {
+    "start": 1888.42,
+    "end": 1892.82,
+    "text": " And it just makes us sound like a joke country."
+  },
+  {
+    "start": 1892.82,
+    "end": 1896.7,
+    "text": " Without knowing the other options, Monica, I do think Tooney's quite good."
+  },
+  {
+    "start": 1896.7,
+    "end": 1899.46,
+    "text": " I think there's a bit of Bodie McBoatface to it."
+  },
+  {
+    "start": 1899.46,
+    "end": 1900.46,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 1900.46,
+    "end": 1901.46,
+    "text": " We can't speak."
+  },
+  {
+    "start": 1901.46,
+    "end": 1902.46,
+    "text": " Haven't they also..."
+  },
+  {
+    "start": 1902.46,
+    "end": 1903.46,
+    "text": " The Looney and the Tooney."
+  },
+  {
+    "start": 1903.46,
+    "end": 1904.46,
+    "text": " Yeah, it works."
+  },
+  {
+    "start": 1904.46,
+    "end": 1913.54,
+    "text": " Haven't they recently, just while we're talking about money and having mentioned Star Trek,"
+  },
+  {
+    "start": 1913.54,
+    "end": 1918.22,
+    "text": " there was the thing where you would spockify your Canadian dollar, right?"
+  },
+  {
+    "start": 1918.22,
+    "end": 1923.18,
+    "text": " The guy who was on the picture looks so similar to Leonardo Nimoy from Star Trek that you"
+  },
+  {
+    "start": 1923.18,
+    "end": 1926.02,
+    "text": " would draw spockiers on him and you would draw the hair, basically."
+  },
+  {
+    "start": 1926.02,
+    "end": 1927.42,
+    "text": " Yes, it was called spocking."
+  },
+  {
+    "start": 1927.42,
+    "end": 1928.42,
+    "text": " Spocking."
+  },
+  {
+    "start": 1928.42,
+    "end": 1934.42,
+    "text": " And the Bank of Canada had to issue a statement saying that it was legal to do but inappropriate."
+  },
+  {
+    "start": 1934.42,
+    "end": 1941.06,
+    "text": " And I think they've, from what I read, they've changed his image now on the bill."
+  },
+  {
+    "start": 1941.06,
+    "end": 1942.06,
+    "text": " Is that right?"
+  },
+  {
+    "start": 1942.06,
+    "end": 1945.78,
+    "text": " There's a new version of the same guy just so it's less spockable."
+  },
+  {
+    "start": 1945.78,
+    "end": 1946.78,
+    "text": " Yeah."
+  },
+  {
+    "start": 1946.78,
+    "end": 1951.02,
+    "text": " I think if you draw that spock on any note, then Chee Roddenberry owns half your money."
+  },
+  {
+    "start": 1951.02,
+    "end": 1956.18,
+    "text": " Yeah, and then a spock, that was spockspersonic for another agency in Canada, an angel agency"
+  },
+  {
+    "start": 1956.18,
+    "end": 1960.38,
+    "text": " said to the Bank of Canada, \"This is fine as you say it's perfectly legal and I'm sure"
+  },
+  {
+    "start": 1960.38,
+    "end": 1963.38,
+    "text": " Sir Wilfrid Laurier would get it."
+  },
+  {
+    "start": 1963.38,
+    "end": 1966.82,
+    "text": " Who's the man pictured off the bill who died in 1919.\""
+  },
+  {
+    "start": 1966.82,
+    "end": 1973.78,
+    "text": " I've just got one more theme tune I quickly want to bring up, which is The Fresh Prince"
+  },
+  {
+    "start": 1973.78,
+    "end": 1974.86,
+    "text": " of Bel Air."
+  },
+  {
+    "start": 1974.86,
+    "end": 1977.5,
+    "text": " So we all know that theme tune."
+  },
+  {
+    "start": 1977.5,
+    "end": 1983.18,
+    "text": " It's a Kraken song by Will Smith and it was a song that he wrote despite not being necessarily"
+  },
+  {
+    "start": 1983.18,
+    "end": 1984.42,
+    "text": " asked to write it at the time."
+  },
+  {
+    "start": 1984.42,
+    "end": 1987.58,
+    "text": " He kind of just did it and he showed it to, I believe it was Quincy Jones who was doing"
+  },
+  {
+    "start": 1987.58,
+    "end": 1991.06,
+    "text": " the music for the show and they said, \"Yeah, you can go and do it.\""
+  },
+  {
+    "start": 1991.06,
+    "end": 1995.58,
+    "text": " Obviously it's a massive hit and when it was released in 1992 as a single, but here's"
+  },
+  {
+    "start": 1995.58,
+    "end": 1999.74,
+    "text": " the thing, I don't know if James, you bought singles as you were saying back in the day."
+  },
+  {
+    "start": 1999.74,
+    "end": 2005.34,
+    "text": " In 1992, The Fresh Prince of Bel Air theme tune was only released exclusively in the Netherlands"
+  },
+  {
+    "start": 2005.34,
+    "end": 2007.86,
+    "text": " and Spain and that's where it charted."
+  },
+  {
+    "start": 2007.86,
+    "end": 2008.86,
+    "text": " That's it."
+  },
+  {
+    "start": 2008.86,
+    "end": 2012.34,
+    "text": " That's really, because when you said that, I thought to myself, how come I didn't buy"
+  },
+  {
+    "start": 2012.34,
+    "end": 2013.34,
+    "text": " that?"
+  },
+  {
+    "start": 2013.34,
+    "end": 2016.5,
+    "text": " Like I was so sure that I would, if I was around at the time I would have bought it because"
+  },
+  {
+    "start": 2016.5,
+    "end": 2020.42,
+    "text": " I bought Wicky Wicky Wild Wild West or whatever it was by Will Smith."
+  },
+  {
+    "start": 2020.42,
+    "end": 2021.42,
+    "text": " Great song."
+  },
+  {
+    "start": 2021.42,
+    "end": 2024.82,
+    "text": " Yeah, I bought all his other crap, so I was really surprised."
+  },
+  {
+    "start": 2024.82,
+    "end": 2027.62,
+    "text": " James, did you buy Willenium?"
+  },
+  {
+    "start": 2027.62,
+    "end": 2028.62,
+    "text": " That was a great album."
+  },
+  {
+    "start": 2028.62,
+    "end": 2029.62,
+    "text": " Oh, an album."
+  },
+  {
+    "start": 2029.62,
+    "end": 2031.18,
+    "text": " No, I was more of a singles buyer really."
+  },
+  {
+    "start": 2031.18,
+    "end": 2034.18,
+    "text": " It's not a good album then."
+  },
+  {
+    "start": 2034.18,
+    "end": 2040.7,
+    "text": " I'm sorry, I think enough time has passed that I'm able to have a pop at Willenium."
+  },
+  {
+    "start": 2040.7,
+    "end": 2047.18,
+    "text": " What's the name of that album out of your dash?"
+  },
+  {
+    "start": 2047.18,
+    "end": 2053.46,
+    "text": " Okay, it is time for fact number three and that is my fact."
+  },
+  {
+    "start": 2053.46,
+    "end": 2059.66,
+    "text": " My fact this week is that in 2024, the first ever theater production of Dracula will celebrate"
+  },
+  {
+    "start": 2059.66,
+    "end": 2061.94,
+    "text": " its hundredth anniversary."
+  },
+  {
+    "start": 2061.94,
+    "end": 2066.42,
+    "text": " Unfortunately, fans can't celebrate it in the venue it was performed in because it's"
+  },
+  {
+    "start": 2066.42,
+    "end": 2073.62,
+    "text": " currently occupied by an over 18s adult themed crazy golf course called the House of Holes."
+  },
+  {
+    "start": 2073.62,
+    "end": 2076.62,
+    "text": " Filthy."
+  },
+  {
+    "start": 2076.62,
+    "end": 2083.22,
+    "text": " This is in Darby, a city in the UK and I was there recently on the weekend for a game of"
+  },
+  {
+    "start": 2083.22,
+    "end": 2084.22,
+    "text": " bitty golf."
+  },
+  {
+    "start": 2084.22,
+    "end": 2087.62,
+    "text": " How was your quick round?"
+  },
+  {
+    "start": 2087.62,
+    "end": 2092.86,
+    "text": " I was there doing a ghost story festival and afterwards I was hanging out with this really"
+  },
+  {
+    "start": 2092.86,
+    "end": 2096.38,
+    "text": " cool guy called Chris Horton and he said I've got a fish fact for you."
+  },
+  {
+    "start": 2096.38,
+    "end": 2101.14,
+    "text": " And he told me he'd passed the House of Holes and made him laugh and so yeah, so it is a"
+  },
+  {
+    "start": 2101.14,
+    "end": 2104.46,
+    "text": " very well known theater as well as called the Grand Theater."
+  },
+  {
+    "start": 2104.46,
+    "end": 2108.7,
+    "text": " Then it just got repurposed over the years to be something new and there was restaurants"
+  },
+  {
+    "start": 2108.7,
+    "end": 2113.58,
+    "text": " in its place and so on and now there is this amazing crazy golf."
+  },
+  {
+    "start": 2113.58,
+    "end": 2114.74,
+    "text": " The House of Holes."
+  },
+  {
+    "start": 2114.74,
+    "end": 2115.74,
+    "text": " Yeah."
+  },
+  {
+    "start": 2115.74,
+    "end": 2119.86,
+    "text": " Can I just, I'm sure we'll talk more about crazy or can I talk specifically about the"
+  },
+  {
+    "start": 2119.86,
+    "end": 2121.38,
+    "text": " House of Holes and Darby."
+  },
+  {
+    "start": 2121.38,
+    "end": 2122.38,
+    "text": " Yeah, sure."
+  },
+  {
+    "start": 2122.38,
+    "end": 2124.34,
+    "text": " I don't mean to cast any experts on it."
+  },
+  {
+    "start": 2124.34,
+    "end": 2125.86,
+    "text": " I don't think it's terribly erotic."
+  },
+  {
+    "start": 2125.86,
+    "end": 2126.86,
+    "text": " It doesn't seem to be from the website."
+  },
+  {
+    "start": 2126.86,
+    "end": 2127.86,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 2127.86,
+    "end": 2129.26,
+    "text": " It seems like a lot of it just seems to be novelty."
+  },
+  {
+    "start": 2129.26,
+    "end": 2132.74,
+    "text": " Because I think that people at home, some people at home will have an image in their"
+  },
+  {
+    "start": 2132.74,
+    "end": 2135.3,
+    "text": " heads of what it is."
+  },
+  {
+    "start": 2135.3,
+    "end": 2136.3,
+    "text": " Yeah."
+  },
+  {
+    "start": 2136.3,
+    "end": 2138.9,
+    "text": " But let's sort of give context then through images."
+  },
+  {
+    "start": 2138.9,
+    "end": 2144.14,
+    "text": " One of the holes, you have to hit the ball through a bunch of standing dildos for example."
+  },
+  {
+    "start": 2144.14,
+    "end": 2146.54,
+    "text": " Yes, I'm not saying it's totally erotic."
+  },
+  {
+    "start": 2146.54,
+    "end": 2152.66,
+    "text": " There's another one where for some reason there's a lot of blow-up dolls that are uninflated"
+  },
+  {
+    "start": 2152.66,
+    "end": 2157.42,
+    "text": " hanging on washing lines, just hanging in the vicinity of the hole itself."
+  },
+  {
+    "start": 2157.42,
+    "end": 2161.66,
+    "text": " Yeah, the area where you play pool, because you know these places, indoor places have"
+  },
+  {
+    "start": 2161.66,
+    "end": 2163.3,
+    "text": " like, you can play arcades and stuff."
+  },
+  {
+    "start": 2163.3,
+    "end": 2167.02,
+    "text": " The area where you play pool is called anal butt."
+  },
+  {
+    "start": 2167.02,
+    "end": 2168.02,
+    "text": " What?"
+  },
+  {
+    "start": 2168.02,
+    "end": 2174.26,
+    "text": " Yeah, and anal has a four instead of the second A in anal, so AN4L butt."
+  },
+  {
+    "start": 2174.26,
+    "end": 2176.26,
+    "text": " Well, it's not got to do with pool."
+  },
+  {
+    "start": 2176.26,
+    "end": 2177.26,
+    "text": " What does that mean?"
+  },
+  {
+    "start": 2177.26,
+    "end": 2178.26,
+    "text": " Not quite sure."
+  },
+  {
+    "start": 2178.26,
+    "end": 2179.26,
+    "text": " I couldn't get to the bottom of that one."
+  },
+  {
+    "start": 2179.26,
+    "end": 2180.26,
+    "text": " But it's there."
+  },
+  {
+    "start": 2180.26,
+    "end": 2186.22,
+    "text": " Surely the phrase anal and butt are sort of achieving the same, feeling a little redundant"
+  },
+  {
+    "start": 2186.22,
+    "end": 2187.22,
+    "text": " to me personally."
+  },
+  {
+    "start": 2187.22,
+    "end": 2190.1,
+    "text": " It's definitely a redundant adjective, isn't it?"
+  },
+  {
+    "start": 2190.1,
+    "end": 2193.54,
+    "text": " How's your butt, well, it's very anal."
+  },
+  {
+    "start": 2193.54,
+    "end": 2198.78,
+    "text": " But I don't know what's in the water in Derby, but there was a newspaper piece a couple of"
+  },
+  {
+    "start": 2198.78,
+    "end": 2199.78,
+    "text": " months ago."
+  },
+  {
+    "start": 2199.78,
+    "end": 2205.66,
+    "text": " Derby is now about to get its second erotic mini golf venue."
+  },
+  {
+    "start": 2205.66,
+    "end": 2206.9,
+    "text": " It's really popular."
+  },
+  {
+    "start": 2206.9,
+    "end": 2216.34,
+    "text": " The new glory holes golf venue will apparently include risque items and decor and some Derby"
+  },
+  {
+    "start": 2216.34,
+    "end": 2217.54,
+    "text": " themed holes as well."
+  },
+  {
+    "start": 2217.54,
+    "end": 2218.54,
+    "text": " So that's nice."
+  },
+  {
+    "start": 2218.54,
+    "end": 2219.54,
+    "text": " That's cool."
+  },
+  {
+    "start": 2219.54,
+    "end": 2220.54,
+    "text": " That's good."
+  },
+  {
+    "start": 2220.54,
+    "end": 2223.86,
+    "text": " Can I quickly, just because let's give this fact just a tiny bit of substance before we"
+  },
+  {
+    "start": 2223.86,
+    "end": 2229.78,
+    "text": " get into erotic golf, I just want to quickly say that the production just for context was"
+  },
+  {
+    "start": 2229.78,
+    "end": 2235.18,
+    "text": " the first ever Dracula production and it was put on in the early 1920s and it was a show"
+  },
+  {
+    "start": 2235.18,
+    "end": 2241.26,
+    "text": " that was sanctioned and approved by Florence Stoker, who was the widow of Bram Stoker."
+  },
+  {
+    "start": 2241.26,
+    "end": 2245.22,
+    "text": " And this was the production that became the sort of official theater production that as"
+  },
+  {
+    "start": 2245.22,
+    "end": 2251.98,
+    "text": " it traveled around the UK and then went international, cast in its lead, Bella Lagosi, who became,"
+  },
+  {
+    "start": 2251.98,
+    "end": 2254.54,
+    "text": " as we all know, the iconic Dracula in film."
+  },
+  {
+    "start": 2254.54,
+    "end": 2261.14,
+    "text": " And weirdly, the final performance that Bella Lagosi ever did as Dracula on stage was back"
+  },
+  {
+    "start": 2261.14,
+    "end": 2267.02,
+    "text": " in Derby at another theater just around the corner from the ground some 20-odd years later."
+  },
+  {
+    "start": 2267.02,
+    "end": 2272.62,
+    "text": " So Derby does have a real Dracula connection as a result of this, very interesting."
+  },
+  {
+    "start": 2272.62,
+    "end": 2277.18,
+    "text": " And Lagosi, so he got the role in 1927 when the play moved to the USA."
+  },
+  {
+    "start": 2277.18,
+    "end": 2278.7,
+    "text": " That's when Lagosi entered the scene."
+  },
+  {
+    "start": 2278.7,
+    "end": 2283.82,
+    "text": " And then in the fifties, it was when he toured again and came back to Derby and did a big"
+  },
+  {
+    "start": 2283.82,
+    "end": 2285.5,
+    "text": " English tour of this show."
+  },
+  {
+    "start": 2285.5,
+    "end": 2288.34,
+    "text": " And he got really upset because apparently the audiences were laughing sometimes because"
+  },
+  {
+    "start": 2288.34,
+    "end": 2290.06,
+    "text": " Dracula was no longer the big scary thing."
+  },
+  {
+    "start": 2290.06,
+    "end": 2294.9,
+    "text": " It had been, it was the early fifties, you know, people have been through a bit since"
+  },
+  {
+    "start": 2294.9,
+    "end": 2295.9,
+    "text": " the time t's."
+  },
+  {
+    "start": 2295.9,
+    "end": 2301.66,
+    "text": " They, they're not as scared and yeah, it seems to have prompted the end of his career, which"
+  },
+  {
+    "start": 2301.66,
+    "end": 2302.66,
+    "text": " is very sad."
+  },
+  {
+    "start": 2302.66,
+    "end": 2306.34,
+    "text": " And it was also this play was also very important for the image of Dracula, the guy who wrote"
+  },
+  {
+    "start": 2306.34,
+    "end": 2308.42,
+    "text": " it, a guy called Hamilton Dean."
+  },
+  {
+    "start": 2308.42,
+    "end": 2314.78,
+    "text": " He made Dracula appear as that more modern suave sort of coat wearing cocktail drinking"
+  },
+  {
+    "start": 2314.78,
+    "end": 2320.86,
+    "text": " kind of character rather than Brams just all out vampire chaos energy zombie like sir."
+  },
+  {
+    "start": 2320.86,
+    "end": 2323.02,
+    "text": " Does it, he drink cocktails?"
+  },
+  {
+    "start": 2323.02,
+    "end": 2324.02,
+    "text": " Does he?"
+  },
+  {
+    "start": 2324.02,
+    "end": 2326.14,
+    "text": " Is it passion fruit martini?"
+  },
+  {
+    "start": 2326.14,
+    "end": 2327.7,
+    "text": " Sorry, he does."
+  },
+  {
+    "start": 2327.7,
+    "end": 2332.7,
+    "text": " There was actually one earlier theater production of Dracula, which came out eight days before"
+  },
+  {
+    "start": 2332.7,
+    "end": 2334.56,
+    "text": " the novel came out."
+  },
+  {
+    "start": 2334.56,
+    "end": 2339.62,
+    "text": " This was if you did a novel, someone else could make a play of it and there's not much"
+  },
+  {
+    "start": 2339.62,
+    "end": 2343.66,
+    "text": " you can do about it unless you put on your own play."
+  },
+  {
+    "start": 2343.66,
+    "end": 2350.88,
+    "text": " And so what Bram Stoker did was he had a dramatic reading of his book on stage."
+  },
+  {
+    "start": 2350.88,
+    "end": 2353.82,
+    "text": " They had to have it open for the paying public."
+  },
+  {
+    "start": 2353.82,
+    "end": 2360.58,
+    "text": " So they would put bills up half an hour before it started saying Dracula on in half an hour"
+  },
+  {
+    "start": 2360.58,
+    "end": 2366.42,
+    "text": " add two people bought tickets for it and sat in the audience while a couple of actors sort"
+  },
+  {
+    "start": 2366.42,
+    "end": 2368.58,
+    "text": " of just read through the book."
+  },
+  {
+    "start": 2368.58,
+    "end": 2372.38,
+    "text": " And from them doing that, it meant that no one else could play on because he owed copyright"
+  },
+  {
+    "start": 2372.38,
+    "end": 2373.82,
+    "text": " on the theater production."
+  },
+  {
+    "start": 2373.82,
+    "end": 2374.82,
+    "text": " How amazing."
+  },
+  {
+    "start": 2374.82,
+    "end": 2375.82,
+    "text": " Yeah."
+  },
+  {
+    "start": 2375.82,
+    "end": 2376.82,
+    "text": " Monica, have you done that with really good actually?"
+  },
+  {
+    "start": 2376.82,
+    "end": 2380.9,
+    "text": " I should do to stop someone doing a bootleg play."
+  },
+  {
+    "start": 2380.9,
+    "end": 2386.62,
+    "text": " That's basically what my experience of doing the Edinburgh fringe was going out half an"
+  },
+  {
+    "start": 2386.62,
+    "end": 2393.62,
+    "text": " hour before the show being like somebody and then you know, mildly entertaining two people."
+  },
+  {
+    "start": 2393.62,
+    "end": 2397.1,
+    "text": " Chills, actual chills remembering that everyone's Edinburgh."
+  },
+  {
+    "start": 2397.1,
+    "end": 2398.1,
+    "text": " Yeah."
+  },
+  {
+    "start": 2398.1,
+    "end": 2399.1,
+    "text": " Okay, Dan."
+  },
+  {
+    "start": 2399.1,
+    "end": 2400.1,
+    "text": " We've done the Dracula thing."
+  },
+  {
+    "start": 2400.1,
+    "end": 2401.1,
+    "text": " Can we go back to the erotic?"
+  },
+  {
+    "start": 2401.1,
+    "end": 2402.1,
+    "text": " Mini golf."
+  },
+  {
+    "start": 2402.1,
+    "end": 2403.1,
+    "text": " Let's do it."
+  },
+  {
+    "start": 2403.1,
+    "end": 2407.62,
+    "text": " I just remembered when you were talking about that that I have played not played golf, but"
+  },
+  {
+    "start": 2407.62,
+    "end": 2414.46,
+    "text": " I've used a golf club shaped like a penis at the penis museum in Reykjavik."
+  },
+  {
+    "start": 2414.46,
+    "end": 2418.98,
+    "text": " They have one and you can sort of pick it up and play with it."
+  },
+  {
+    "start": 2418.98,
+    "end": 2424.1,
+    "text": " And yeah, it's like it's just the head part of the golf club is shaped like a penis."
+  },
+  {
+    "start": 2424.1,
+    "end": 2426.42,
+    "text": " But it's not it's not for a serious golfer, right?"
+  },
+  {
+    "start": 2426.42,
+    "end": 2430.26,
+    "text": " As in it's not built for proper play, you know, master's conditions."
+  },
+  {
+    "start": 2430.26,
+    "end": 2435.26,
+    "text": " I don't think it adheres to the official USPGA rules."
+  },
+  {
+    "start": 2435.26,
+    "end": 2436.86,
+    "text": " It's like a walking stick full of bagels."
+  },
+  {
+    "start": 2436.86,
+    "end": 2442.06,
+    "text": " You're not going to use it as an actual assist as a walking stick."
+  },
+  {
+    "start": 2442.06,
+    "end": 2448.22,
+    "text": " I think there's a link between the original boom in crazy golf and the current Derby based"
+  },
+  {
+    "start": 2448.22,
+    "end": 2450.14,
+    "text": " boom in erotic golf."
+  },
+  {
+    "start": 2450.14,
+    "end": 2451.14,
+    "text": " Okay."
+  },
+  {
+    "start": 2451.14,
+    "end": 2452.86,
+    "text": " So when was the original boom?"
+  },
+  {
+    "start": 2452.86,
+    "end": 2455.18,
+    "text": " Twenties and thirties."
+  },
+  {
+    "start": 2455.18,
+    "end": 2458.82,
+    "text": " Some some lots of sources say that it completely went out when the Great Depression happened."
+  },
+  {
+    "start": 2458.82,
+    "end": 2465.02,
+    "text": " But actually, it didn't really it actually boomed during the early thirties."
+  },
+  {
+    "start": 2465.02,
+    "end": 2469.74,
+    "text": " During that period, apparently the USA built 25,000 mini golf courses."
+  },
+  {
+    "start": 2469.74,
+    "end": 2474.02,
+    "text": " It was described as a devastating craze in the times in 1930."
+  },
+  {
+    "start": 2474.02,
+    "end": 2477.74,
+    "text": " And I think the theory behind it is that property value had collapsed and the value of lots"
+  },
+  {
+    "start": 2477.74,
+    "end": 2481.66,
+    "text": " of things have collapsed and people started their own tiny businesses to generate small"
+  },
+  {
+    "start": 2481.66,
+    "end": 2483.3,
+    "text": " amounts of income."
+  },
+  {
+    "start": 2483.3,
+    "end": 2487.22,
+    "text": " You know, it doesn't have to be anything huge, but it's it's a small local thing on"
+  },
+  {
+    "start": 2487.22,
+    "end": 2490.58,
+    "text": " whatever kind of waste ground or land you've got."
+  },
+  {
+    "start": 2490.58,
+    "end": 2494.42,
+    "text": " You know, some restaurants turned it half the restaurant became a mini golf course and"
+  },
+  {
+    "start": 2494.42,
+    "end": 2496.1,
+    "text": " the rest of it stayed a restaurant."
+  },
+  {
+    "start": 2496.1,
+    "end": 2499.32,
+    "text": " So maybe times of financial hardship when you get a lot more mini golf because you get"
+  },
+  {
+    "start": 2499.32,
+    "end": 2501.3,
+    "text": " shops that are closed or empty."
+  },
+  {
+    "start": 2501.3,
+    "end": 2505.58,
+    "text": " So the new glory hole golf is the site of the old gap store in Derby."
+  },
+  {
+    "start": 2505.58,
+    "end": 2507.7,
+    "text": " You know, you've got retail space available."
+  },
+  {
+    "start": 2507.7,
+    "end": 2508.7,
+    "text": " What is a glory hole?"
+  },
+  {
+    "start": 2508.7,
+    "end": 2509.7,
+    "text": " I've got a gap."
+  },
+  {
+    "start": 2509.7,
+    "end": 2514.02,
+    "text": " So no, that's my economic theory."
+  },
+  {
+    "start": 2514.02,
+    "end": 2516.14,
+    "text": " No, it's a really, yeah, it's a really good theory."
+  },
+  {
+    "start": 2516.14,
+    "end": 2519.62,
+    "text": " It's almost a thesis rather than a podcast, isn't it?"
+  },
+  {
+    "start": 2519.62,
+    "end": 2521.46,
+    "text": " Mini golf doesn't use golf balls."
+  },
+  {
+    "start": 2521.46,
+    "end": 2524.46,
+    "text": " Yes, they do."
+  },
+  {
+    "start": 2524.46,
+    "end": 2529.1,
+    "text": " There are there are special mini golf balls."
+  },
+  {
+    "start": 2529.1,
+    "end": 2530.1,
+    "text": " They're kind of more rubbery."
+  },
+  {
+    "start": 2530.1,
+    "end": 2531.1,
+    "text": " They're more rubbery."
+  },
+  {
+    "start": 2531.1,
+    "end": 2532.1,
+    "text": " They bounce more."
+  },
+  {
+    "start": 2532.1,
+    "end": 2534.9,
+    "text": " And there's a stand that I find this mad."
+  },
+  {
+    "start": 2534.9,
+    "end": 2536.38,
+    "text": " There's the world crazy golf championships."
+  },
+  {
+    "start": 2536.38,
+    "end": 2539.1,
+    "text": " I mean, there are a few world crazy golf championships."
+  },
+  {
+    "start": 2539.1,
+    "end": 2543.02,
+    "text": " One is in Hastings and normally apparently they only get about three overseas players"
+  },
+  {
+    "start": 2543.02,
+    "end": 2544.02,
+    "text": " each year."
+  },
+  {
+    "start": 2544.02,
+    "end": 2549.9,
+    "text": " So the extent to which this world is a bit debatable, but they don't tell you at the"
+  },
+  {
+    "start": 2549.9,
+    "end": 2554.62,
+    "text": " world crazy golf championships what the ball is until the day before it starts."
+  },
+  {
+    "start": 2554.62,
+    "end": 2557.26,
+    "text": " Okay, but it's always going to be spherical."
+  },
+  {
+    "start": 2557.26,
+    "end": 2558.26,
+    "text": " It's always going to be spherical."
+  },
+  {
+    "start": 2558.26,
+    "end": 2559.42,
+    "text": " I'm pretty sure about that."
+  },
+  {
+    "start": 2559.42,
+    "end": 2563.38,
+    "text": " But then other championships, they will they'll let you play a different ball on every hole."
+  },
+  {
+    "start": 2563.38,
+    "end": 2566.26,
+    "text": " And the only rule is that once you've started a hole, you have to play the same ball all"
+  },
+  {
+    "start": 2566.26,
+    "end": 2567.26,
+    "text": " the way through the end."
+  },
+  {
+    "start": 2567.26,
+    "end": 2568.26,
+    "text": " Like normal golf."
+  },
+  {
+    "start": 2568.26,
+    "end": 2569.26,
+    "text": " Is that true?"
+  },
+  {
+    "start": 2569.26,
+    "end": 2570.26,
+    "text": " How about local?"
+  },
+  {
+    "start": 2570.26,
+    "end": 2571.26,
+    "text": " Or mini golf?"
+  },
+  {
+    "start": 2571.26,
+    "end": 2573.82,
+    "text": " Like we play in Narrabean in Australia."
+  },
+  {
+    "start": 2573.82,
+    "end": 2575.42,
+    "text": " They're using special balls."
+  },
+  {
+    "start": 2575.42,
+    "end": 2578.7,
+    "text": " I think they'll be more rubbery for sure if you check them."
+  },
+  {
+    "start": 2578.7,
+    "end": 2579.7,
+    "text": " Yeah."
+  },
+  {
+    "start": 2579.7,
+    "end": 2583.02,
+    "text": " Who would have thought this would be the fact that blew my mind most in this whole round"
+  },
+  {
+    "start": 2583.02,
+    "end": 2585.22,
+    "text": " of nine years golf again."
+  },
+  {
+    "start": 2585.22,
+    "end": 2587.06,
+    "text": " I'm going."
+  },
+  {
+    "start": 2587.06,
+    "end": 2591.42,
+    "text": " This is I'm afraid it's back to the it's back to a tangent from the original erotic"
+  },
+  {
+    "start": 2591.42,
+    "end": 2592.42,
+    "text": " mini golf thing."
+  },
+  {
+    "start": 2592.42,
+    "end": 2593.42,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 2593.42,
+    "end": 2596.46,
+    "text": " Just that it was on, you know, this new place opening up is going to be called glory holes"
+  },
+  {
+    "start": 2596.46,
+    "end": 2597.46,
+    "text": " golf."
+  },
+  {
+    "start": 2597.46,
+    "end": 2602.42,
+    "text": " And we got an email in the fish and box recently subject line Gibbon glory hole action."
+  },
+  {
+    "start": 2602.42,
+    "end": 2603.42,
+    "text": " Oh my God."
+  },
+  {
+    "start": 2603.42,
+    "end": 2604.42,
+    "text": " I know this story."
+  },
+  {
+    "start": 2604.42,
+    "end": 2605.42,
+    "text": " This is incredible."
+  },
+  {
+    "start": 2605.42,
+    "end": 2609.82,
+    "text": " This is a Gibbon in a zoo or a sanctuary."
+  },
+  {
+    "start": 2609.82,
+    "end": 2614.66,
+    "text": " This is a female Gibbon and she was living on her own and she got pregnant and it"
+  },
+  {
+    "start": 2614.66,
+    "end": 2619.82,
+    "text": " was it was basically a virgin birth and it was it was so exciting for the scientists."
+  },
+  {
+    "start": 2619.82,
+    "end": 2620.82,
+    "text": " They thought I can't believe this."
+  },
+  {
+    "start": 2620.82,
+    "end": 2624.62,
+    "text": " Anyway, they did a bit of an investigation and it turned out obviously it was not a virgin"
+  },
+  {
+    "start": 2624.62,
+    "end": 2625.62,
+    "text": " birth."
+  },
+  {
+    "start": 2625.62,
+    "end": 2631.7,
+    "text": " In between her enclosure and the next door neighbor male Gibbons enclosure was a nine"
+  },
+  {
+    "start": 2631.7,
+    "end": 2639.18,
+    "text": " millimeter hole through which they had managed to successfully breed and become parents."
+  },
+  {
+    "start": 2639.18,
+    "end": 2640.18,
+    "text": " Nine."
+  },
+  {
+    "start": 2640.18,
+    "end": 2644.58,
+    "text": " They were just sort of both mushing up against the wall."
+  },
+  {
+    "start": 2644.58,
+    "end": 2646.14,
+    "text": " I'm afraid so."
+  },
+  {
+    "start": 2646.14,
+    "end": 2647.14,
+    "text": " Life finds a way."
+  },
+  {
+    "start": 2647.14,
+    "end": 2648.14,
+    "text": " Yes."
+  },
+  {
+    "start": 2648.14,
+    "end": 2649.14,
+    "text": " Wow."
+  },
+  {
+    "start": 2649.14,
+    "end": 2651.7,
+    "text": " That's a scene I don't want to see in Jurassic Park."
+  },
+  {
+    "start": 2651.7,
+    "end": 2655.22,
+    "text": " I would like to hear David Attenborough do one of his little jokes."
+  },
+  {
+    "start": 2655.22,
+    "end": 2659.74,
+    "text": " You know when he sort of makes the animals a fool or he's like our nest is as good a"
+  },
+  {
+    "start": 2659.74,
+    "end": 2661.7,
+    "text": " place as any."
+  },
+  {
+    "start": 2661.7,
+    "end": 2671.66,
+    "text": " Okay, it's time for our final fact of the show and that is James."
+  },
+  {
+    "start": 2671.66,
+    "end": 2676.74,
+    "text": " Okay, my fact this week is that in twenty nine and eight to the Canadian Prime Minister"
+  },
+  {
+    "start": 2676.74,
+    "end": 2682.38,
+    "text": " called ten Downing Street to offer condolences for the death of Margaret Thatcher."
+  },
+  {
+    "start": 2682.38,
+    "end": 2684.06,
+    "text": " In fact, she wasn't dead."
+  },
+  {
+    "start": 2684.06,
+    "end": 2688.58,
+    "text": " It was a misunderstanding due to the death of the Canadian Transport Minister's cat"
+  },
+  {
+    "start": 2688.58,
+    "end": 2690.26,
+    "text": " who was also called Thatcher."
+  },
+  {
+    "start": 2690.26,
+    "end": 2691.26,
+    "text": " Superb."
+  },
+  {
+    "start": 2691.26,
+    "end": 2692.26,
+    "text": " Yeah."
+  },
+  {
+    "start": 2692.26,
+    "end": 2693.26,
+    "text": " Really good."
+  },
+  {
+    "start": 2693.26,
+    "end": 2694.26,
+    "text": " What a cool."
+  },
+  {
+    "start": 2694.26,
+    "end": 2695.26,
+    "text": " What a cool."
+  },
+  {
+    "start": 2695.26,
+    "end": 2696.26,
+    "text": " Flying the wall at that cool."
+  },
+  {
+    "start": 2696.26,
+    "end": 2697.26,
+    "text": " Yeah."
+  },
+  {
+    "start": 2697.26,
+    "end": 2698.26,
+    "text": " A muggy, not a Maggie."
+  },
+  {
+    "start": 2698.26,
+    "end": 2699.26,
+    "text": " Oh, brilliant."
+  },
+  {
+    "start": 2699.26,
+    "end": 2700.26,
+    "text": " Brilliant."
+  },
+  {
+    "start": 2700.26,
+    "end": 2701.26,
+    "text": " Was that you Dan?"
+  },
+  {
+    "start": 2701.26,
+    "end": 2702.26,
+    "text": " Someone else?"
+  },
+  {
+    "start": 2702.26,
+    "end": 2703.26,
+    "text": " No, no, no."
+  },
+  {
+    "start": 2703.26,
+    "end": 2704.26,
+    "text": " That's the headline of the Guardian article."
+  },
+  {
+    "start": 2704.26,
+    "end": 2705.26,
+    "text": " That's wrong."
+  },
+  {
+    "start": 2705.26,
+    "end": 2706.26,
+    "text": " Amazing."
+  },
+  {
+    "start": 2706.26,
+    "end": 2708.78,
+    "text": " It was a black tie dinner in Toronto."
+  },
+  {
+    "start": 2708.78,
+    "end": 2714.1,
+    "text": " Two thousand Canadian Conservatives were there and many of them got a text message saying"
+  },
+  {
+    "start": 2714.1,
+    "end": 2721.62,
+    "text": " simply Thatcher has died and Demetri Seedas, who was the aide to the Prime Minister, who"
+  },
+  {
+    "start": 2721.62,
+    "end": 2726.78,
+    "text": " was Stephen Harper at the time, he was sent to ride a letter of condolence and he ran"
+  },
+  {
+    "start": 2726.78,
+    "end": 2731.1,
+    "text": " Buckingham Palace in Ten Downing Street to kind of work out what they should say and"
+  },
+  {
+    "start": 2731.1,
+    "end": 2736.06,
+    "text": " you know, and offer condolences as well and then he found out that they hadn't died and"
+  },
+  {
+    "start": 2736.06,
+    "end": 2742.62,
+    "text": " it turned out that Transport Minister John Baird had a 16 year old grey cat called Thatcher"
+  },
+  {
+    "start": 2742.62,
+    "end": 2748.74,
+    "text": " and sadly that cat had died but he denied sending the text later on but there definitely"
+  },
+  {
+    "start": 2748.74,
+    "end": 2752.7,
+    "text": " was a text that was sent to all these people about the cat."
+  },
+  {
+    "start": 2752.7,
+    "end": 2757.46,
+    "text": " This is like international incident version of David's dead on Big Brezwick."
+  },
+  {
+    "start": 2757.46,
+    "end": 2758.46,
+    "text": " Yes."
+  },
+  {
+    "start": 2758.46,
+    "end": 2762.9,
+    "text": " That's the greatest TV moment ever."
+  },
+  {
+    "start": 2762.9,
+    "end": 2764.42,
+    "text": " There was a famous David who died."
+  },
+  {
+    "start": 2764.42,
+    "end": 2765.42,
+    "text": " David Bowie."
+  },
+  {
+    "start": 2765.42,
+    "end": 2766.42,
+    "text": " Yeah."
+  },
+  {
+    "start": 2766.42,
+    "end": 2770.46,
+    "text": " Did someone in the building know who, I don't know why I'm telling this story, everyone"
+  },
+  {
+    "start": 2770.46,
+    "end": 2771.46,
+    "text": " knows it better than me apparently."
+  },
+  {
+    "start": 2771.46,
+    "end": 2772.46,
+    "text": " Monica, you can tell it."
+  },
+  {
+    "start": 2772.46,
+    "end": 2773.46,
+    "text": " No, no, no."
+  },
+  {
+    "start": 2773.46,
+    "end": 2774.46,
+    "text": " Please, you tell it."
+  },
+  {
+    "start": 2774.46,
+    "end": 2775.46,
+    "text": " I've actually only seen the clip."
+  },
+  {
+    "start": 2775.46,
+    "end": 2779.62,
+    "text": " Okay, so in the Big Brother household that year was Angie Bowie, the first wife of David"
+  },
+  {
+    "start": 2779.62,
+    "end": 2785.66,
+    "text": " Bowie and also in the house that year was David Guest, who was Liza Minnelli's ex-husband."
+  },
+  {
+    "start": 2785.66,
+    "end": 2786.66,
+    "text": " Right."
+  },
+  {
+    "start": 2786.66,
+    "end": 2790.38,
+    "text": " Angie gets called in while David Guest is having a sleep in his bed."
+  },
+  {
+    "start": 2790.38,
+    "end": 2794.82,
+    "text": " Everyone knows he's having a sleep so he's not around and she gets told that David Bowie"
+  },
+  {
+    "start": 2794.82,
+    "end": 2801.26,
+    "text": " has died, so she is obviously, she didn't like her ex-husband, but she's also very distressed"
+  },
+  {
+    "start": 2801.26,
+    "end": 2802.58,
+    "text": " because he was a huge part of her life."
+  },
+  {
+    "start": 2802.58,
+    "end": 2806.38,
+    "text": " She comes out, she's trying to keep it secret, and one of the other Americans who's staying"
+  },
+  {
+    "start": 2806.38,
+    "end": 2809.26,
+    "text": " in the house comes up and says, \"Are you okay?\""
+  },
+  {
+    "start": 2809.26,
+    "end": 2812.88,
+    "text": " And she says, \"You can't tell anyone, but David's dead.\""
+  },
+  {
+    "start": 2812.88,
+    "end": 2816.9,
+    "text": " And this other woman immediately freaks out because she thinks it's David Guest who's"
+  },
+  {
+    "start": 2816.9,
+    "end": 2819.54,
+    "text": " died, but Angie hasn't made the connection."
+  },
+  {
+    "start": 2819.54,
+    "end": 2822.06,
+    "text": " So Angie's kind of going, \"God, I didn't think you were that big a Bowie fan."
+  },
+  {
+    "start": 2822.06,
+    "end": 2827.26,
+    "text": " I can't see how this has erupted, and it causes chaos in the house for five minutes."
+  },
+  {
+    "start": 2827.26,
+    "end": 2828.78,
+    "text": " It's TV at its finest.\""
+  },
+  {
+    "start": 2828.78,
+    "end": 2831.94,
+    "text": " Well, imagine that, but with 2,000 Canadian conservatives."
+  },
+  {
+    "start": 2831.94,
+    "end": 2832.94,
+    "text": " Yeah."
+  },
+  {
+    "start": 2832.94,
+    "end": 2834.9,
+    "text": " What a scene it must have been."
+  },
+  {
+    "start": 2834.9,
+    "end": 2836.62,
+    "text": " The true patriot love tribute dinner."
+  },
+  {
+    "start": 2836.62,
+    "end": 2837.62,
+    "text": " Oh, is that what it was?"
+  },
+  {
+    "start": 2837.62,
+    "end": 2838.62,
+    "text": " That's what it was called."
+  },
+  {
+    "start": 2838.62,
+    "end": 2842.86,
+    "text": " Military family's honoring thing, but Canadian politics moniker is fabulous."
+  },
+  {
+    "start": 2842.86,
+    "end": 2844.86,
+    "text": " Who's doing it?"
+  },
+  {
+    "start": 2844.86,
+    "end": 2849.3,
+    "text": " Well, I feel like there is, I feel like there is a list of political scandals in Canada"
+  },
+  {
+    "start": 2849.3,
+    "end": 2856.86,
+    "text": " on Wikipedia and some of them are pretty dry, like the usual grift or bribery or slightly"
+  },
+  {
+    "start": 2856.86,
+    "end": 2857.86,
+    "text": " dodgy dealings."
+  },
+  {
+    "start": 2857.86,
+    "end": 2859.9,
+    "text": " But there are some fun ones."
+  },
+  {
+    "start": 2859.9,
+    "end": 2862.54,
+    "text": " Tunergate might be my favorite."
+  },
+  {
+    "start": 2862.54,
+    "end": 2863.54,
+    "text": " Tunergate."
+  },
+  {
+    "start": 2863.54,
+    "end": 2865.86,
+    "text": " Were you involved in Tunergate, Monica?"
+  },
+  {
+    "start": 2865.86,
+    "end": 2868.62,
+    "text": " Not to my knowledge, but I'll never admit it if so."
+  },
+  {
+    "start": 2868.62,
+    "end": 2870.22,
+    "text": " You'll never catch me."
+  },
+  {
+    "start": 2870.22,
+    "end": 2871.22,
+    "text": " Sorry."
+  },
+  {
+    "start": 2871.22,
+    "end": 2874.38,
+    "text": " Tunergate, actually think about it now, Tunergate is way too long ago."
+  },
+  {
+    "start": 2874.38,
+    "end": 2875.38,
+    "text": " You're clear."
+  },
+  {
+    "start": 2875.38,
+    "end": 2876.38,
+    "text": " You're clear."
+  },
+  {
+    "start": 2876.38,
+    "end": 2877.38,
+    "text": " You're clear."
+  },
+  {
+    "start": 2877.38,
+    "end": 2879.54,
+    "text": " I'm a Canadian cans of decomposing tuna."
+  },
+  {
+    "start": 2879.54,
+    "end": 2881.82,
+    "text": " Oh, that was the central problem, right?"
+  },
+  {
+    "start": 2881.82,
+    "end": 2885.74,
+    "text": " And it wasn't really, really, really unsafe, but it had started to go off before it was"
+  },
+  {
+    "start": 2885.74,
+    "end": 2886.74,
+    "text": " put in the cans."
+  },
+  {
+    "start": 2886.74,
+    "end": 2890.62,
+    "text": " The firm involved was called Starkis and they said, \"No, you just, these inspectors, they"
+  },
+  {
+    "start": 2890.62,
+    "end": 2892.02,
+    "text": " just don't like fish."
+  },
+  {
+    "start": 2892.02,
+    "end": 2893.02,
+    "text": " That's their problem.\""
+  },
+  {
+    "start": 2893.02,
+    "end": 2895.9,
+    "text": " And they said, \"And we'll close down our plant and you'll lose all these jobs.\""
+  },
+  {
+    "start": 2895.9,
+    "end": 2898.1,
+    "text": " And you know, and that's when it becomes a political thing."
+  },
+  {
+    "start": 2898.1,
+    "end": 2902.06,
+    "text": " Because then the fisheries minister said, \"Oh, yeah, it's probably, it's fine."
+  },
+  {
+    "start": 2902.06,
+    "end": 2903.9,
+    "text": " Yeah, all this stuff, it's great."
+  },
+  {
+    "start": 2903.9,
+    "end": 2905.5,
+    "text": " It's actually good.\""
+  },
+  {
+    "start": 2905.5,
+    "end": 2909.18,
+    "text": " And he got a panel together, just like, \"Look, can you just assess this tuna, please?\""
+  },
+  {
+    "start": 2909.18,
+    "end": 2911.66,
+    "text": " And they said, \"Yeah, this is rotting tuna in these cans.\""
+  },
+  {
+    "start": 2911.66,
+    "end": 2914.22,
+    "text": " And he says, \"Okay, I think we need a different panel.\""
+  },
+  {
+    "start": 2914.22,
+    "end": 2917.5,
+    "text": " And he got a different panel together who eventually said, \"Yes, these million tons"
+  },
+  {
+    "start": 2917.5,
+    "end": 2919.46,
+    "text": " of rotting tuna are fine.\""
+  },
+  {
+    "start": 2919.46,
+    "end": 2920.46,
+    "text": " And then he resigned."
+  },
+  {
+    "start": 2920.46,
+    "end": 2921.46,
+    "text": " Yeah."
+  },
+  {
+    "start": 2921.46,
+    "end": 2922.94,
+    "text": " And I don't think much of the tuna was eaten in the end."
+  },
+  {
+    "start": 2922.94,
+    "end": 2924.46,
+    "text": " And then the firm went bust anyway."
+  },
+  {
+    "start": 2924.46,
+    "end": 2929.06,
+    "text": " So that's a very classic Canadian scandal where it's like, it threatened to really kick off"
+  },
+  {
+    "start": 2929.06,
+    "end": 2935.78,
+    "text": " and ultimately they just, nobody really consumed the tuna and it was sort of fine."
+  },
+  {
+    "start": 2935.78,
+    "end": 2939.58,
+    "text": " That's like the other great Canadian political scandal, the Fuddleduddle incident."
+  },
+  {
+    "start": 2939.58,
+    "end": 2940.58,
+    "text": " What's this?"
+  },
+  {
+    "start": 2940.58,
+    "end": 2946.38,
+    "text": " The Fuddleduddle incident in 1971 happened to the first Prime Minister Trudeau, our current"
+  },
+  {
+    "start": 2946.38,
+    "end": 2951.94,
+    "text": " Prime Minister's father, who was accused of having spoken or at least mouthed unparliamentary"
+  },
+  {
+    "start": 2951.94,
+    "end": 2953.98,
+    "text": " language in the House of Commons."
+  },
+  {
+    "start": 2953.98,
+    "end": 2958.62,
+    "text": " He seemed to have been caught mouthing the words \"fuck off.\""
+  },
+  {
+    "start": 2958.62,
+    "end": 2963.62,
+    "text": " But when pressed by television reporters would only admit having moved his lips, they were"
+  },
+  {
+    "start": 2963.62,
+    "end": 2965.82,
+    "text": " like, \"What were you thinking when you moved your lips?\""
+  },
+  {
+    "start": 2965.82,
+    "end": 2971.14,
+    "text": " And his response was, \"What is the nature of your thoughts when you say Fuddleduddle"
+  },
+  {
+    "start": 2971.14,
+    "end": 2973.38,
+    "text": " or something like that?\""
+  },
+  {
+    "start": 2973.38,
+    "end": 2976.1,
+    "text": " Implying that he had said Fuddleduddle instead of \"fuck off.\""
+  },
+  {
+    "start": 2976.1,
+    "end": 2977.1,
+    "text": " Right."
+  },
+  {
+    "start": 2977.1,
+    "end": 2978.1,
+    "text": " That's good."
+  },
+  {
+    "start": 2978.1,
+    "end": 2981.06,
+    "text": " If no one's heard you, you know, you're across the room from them."
+  },
+  {
+    "start": 2981.06,
+    "end": 2986.34,
+    "text": " Well, then in 2015, his son actually stated on the record that his dad had not said Fuddleduddle."
+  },
+  {
+    "start": 2986.34,
+    "end": 2987.98,
+    "text": " And this is a big scandal."
+  },
+  {
+    "start": 2987.98,
+    "end": 2988.98,
+    "text": " Minor scandal."
+  },
+  {
+    "start": 2988.98,
+    "end": 2989.98,
+    "text": " But that's sort of the scale."
+  },
+  {
+    "start": 2989.98,
+    "end": 2995.06,
+    "text": " It's like someone, that's always the scale, it's always a little bit funny, like someone"
+  },
+  {
+    "start": 2995.06,
+    "end": 2999.42,
+    "text": " threw a pie in Jean Chrétien's face in the '90s and that was quite a big deal."
+  },
+  {
+    "start": 2999.42,
+    "end": 3005.86,
+    "text": " The pies were actually coordinated ongoing assault with Fuddleduddle, entartiste, sewer"
+  },
+  {
+    "start": 3005.86,
+    "end": 3008.34,
+    "text": " Canadian satirical political group."
+  },
+  {
+    "start": 3008.34,
+    "end": 3014.1,
+    "text": " And they even released a hit list of people they wanted to get with pies, including Celine"
+  },
+  {
+    "start": 3014.1,
+    "end": 3016.54,
+    "text": " Dion and Conrad Black and Chrétien."
+  },
+  {
+    "start": 3016.54,
+    "end": 3020.18,
+    "text": " And then they were successful in pieing Chrétien twice."
+  },
+  {
+    "start": 3020.18,
+    "end": 3021.18,
+    "text": " Right."
+  },
+  {
+    "start": 3021.18,
+    "end": 3022.26,
+    "text": " Oh, that's got to stink."
+  },
+  {
+    "start": 3022.26,
+    "end": 3027.3,
+    "text": " The pies, were they the kind of clown pies where it's just custard or is it actual like"
+  },
+  {
+    "start": 3027.3,
+    "end": 3028.3,
+    "text": " apple pies?"
+  },
+  {
+    "start": 3028.3,
+    "end": 3029.3,
+    "text": " Cream pies."
+  },
+  {
+    "start": 3029.3,
+    "end": 3031.22,
+    "text": " Like, oh, it's just cream pies."
+  },
+  {
+    "start": 3031.22,
+    "end": 3035.64,
+    "text": " It may even have been shaving cream or just like what you guys would unfortunately call"
+  },
+  {
+    "start": 3035.64,
+    "end": 3036.64,
+    "text": " squirty cream."
+  },
+  {
+    "start": 3036.64,
+    "end": 3037.64,
+    "text": " Squirty cream."
+  },
+  {
+    "start": 3037.64,
+    "end": 3041.34,
+    "text": " It's not a nice thing to say and I'm sorry to say it."
+  },
+  {
+    "start": 3041.34,
+    "end": 3046.86,
+    "text": " Speaking of shaving cream, I can't believe we managed to get onto shaving cream."
+  },
+  {
+    "start": 3046.86,
+    "end": 3051.94,
+    "text": " William Lyon Mackenzie King, who was Prime Minister of Canada for 22 years."
+  },
+  {
+    "start": 3051.94,
+    "end": 3052.94,
+    "text": " My favourite."
+  },
+  {
+    "start": 3052.94,
+    "end": 3056.58,
+    "text": " Well, I'm not surprised because he did seances and stuff right then."
+  },
+  {
+    "start": 3056.58,
+    "end": 3061.22,
+    "text": " But he also used to see symbols in his shaving cream in the morning, which he thought would"
+  },
+  {
+    "start": 3061.22,
+    "end": 3062.22,
+    "text": " predict the future."
+  },
+  {
+    "start": 3062.22,
+    "end": 3063.22,
+    "text": " Yeah."
+  },
+  {
+    "start": 3063.22,
+    "end": 3064.22,
+    "text": " Wow."
+  },
+  {
+    "start": 3064.22,
+    "end": 3068.2,
+    "text": " I mean, he was he was Prime Minister for 21 years, which possibly is still the record"
+  },
+  {
+    "start": 3068.2,
+    "end": 3069.8,
+    "text": " length or anyone to do it."
+  },
+  {
+    "start": 3069.8,
+    "end": 3071.28,
+    "text": " He had quite a tragic family life."
+  },
+  {
+    "start": 3071.28,
+    "end": 3074.24,
+    "text": " He lost all of his family during the war."
+  },
+  {
+    "start": 3074.24,
+    "end": 3079.28,
+    "text": " And so as a result, turned like many people did to spirituality as a thing."
+  },
+  {
+    "start": 3079.28,
+    "end": 3083.72,
+    "text": " But what many people didn't realise at the time was he was taking that spirituality into"
+  },
+  {
+    "start": 3083.72,
+    "end": 3091,
+    "text": " the into the office with him as a Prime Minister and getting guidance from the spirits of Leonardo"
+  },
+  {
+    "start": 3091,
+    "end": 3094.04,
+    "text": " Da Vinci and his deceased dogs."
+  },
+  {
+    "start": 3094.04,
+    "end": 3098.06,
+    "text": " The shaving film thing, he was shaved and then the shaving film would go into the water"
+  },
+  {
+    "start": 3098.06,
+    "end": 3100.86,
+    "text": " on the in the sink kind of thing."
+  },
+  {
+    "start": 3100.86,
+    "end": 3106.3,
+    "text": " And at one stage, he saw a polar bear and an eagle and the polar bear was supposed to"
+  },
+  {
+    "start": 3106.3,
+    "end": 3110.9,
+    "text": " represent like Russia or Soviet Union, I should say, and the eagle supposed to represent"
+  },
+  {
+    "start": 3110.9,
+    "end": 3111.9,
+    "text": " America."
+  },
+  {
+    "start": 3111.9,
+    "end": 3115.22,
+    "text": " And they were kind of fighting in shaving cream."
+  },
+  {
+    "start": 3115.22,
+    "end": 3120.3,
+    "text": " And then a dog appeared in the shaving cream, which he thought symbolised Canada, and then"
+  },
+  {
+    "start": 3120.3,
+    "end": 3123.86,
+    "text": " it came and helped to push the bear off the eagle."
+  },
+  {
+    "start": 3123.86,
+    "end": 3128.04,
+    "text": " And that was kind of him thinking that he what side he needs to be in the Cold War needs"
+  },
+  {
+    "start": 3128.04,
+    "end": 3129.04,
+    "text": " to be on the other side."
+  },
+  {
+    "start": 3129.04,
+    "end": 3132.3,
+    "text": " As if he didn't know what side he should probably be on in the Cold War."
+  },
+  {
+    "start": 3132.3,
+    "end": 3136.46,
+    "text": " I think that probably just confirmed his suspicions."
+  },
+  {
+    "start": 3136.46,
+    "end": 3140.88,
+    "text": " I do feel like a polar bear would be fairly easy to see in shaving cream."
+  },
+  {
+    "start": 3140.88,
+    "end": 3145.16,
+    "text": " Like I'm wondering if the shapes he was seeing were sort of like, you know, I saw a vision"
+  },
+  {
+    "start": 3145.16,
+    "end": 3149.44,
+    "text": " in my shaving cream of a cloud meeting sort of a fog."
+  },
+  {
+    "start": 3149.44,
+    "end": 3150.44,
+    "text": " Yeah."
+  },
+  {
+    "start": 3150.44,
+    "end": 3151.44,
+    "text": " Oh my God."
+  },
+  {
+    "start": 3151.44,
+    "end": 3152.44,
+    "text": " What a character."
+  },
+  {
+    "start": 3152.44,
+    "end": 3153.44,
+    "text": " Yeah, amazing guy."
+  },
+  {
+    "start": 3153.44,
+    "end": 3158.14,
+    "text": " So just having a look through the old, the old fish inbox, podcast at qi.com."
+  },
+  {
+    "start": 3158.14,
+    "end": 3160.64,
+    "text": " Really good fact we got in from, from John Ford."
+  },
+  {
+    "start": 3160.64,
+    "end": 3161.64,
+    "text": " So thank you, John."
+  },
+  {
+    "start": 3161.64,
+    "end": 3163.98,
+    "text": " This is something maybe you've done at Monica."
+  },
+  {
+    "start": 3163.98,
+    "end": 3170.26,
+    "text": " It's that Canada flies a new flag over its parliament every single day, every single"
+  },
+  {
+    "start": 3170.26,
+    "end": 3177.1,
+    "text": " day there's a new flag, and they give the used one to a Canadian and you can apply to"
+  },
+  {
+    "start": 3177.1,
+    "end": 3178.1,
+    "text": " get your own flag."
+  },
+  {
+    "start": 3178.1,
+    "end": 3181.18,
+    "text": " And you think I have done this?"
+  },
+  {
+    "start": 3181.18,
+    "end": 3184.72,
+    "text": " Well, guess it's possible."
+  },
+  {
+    "start": 3184.72,
+    "end": 3190,
+    "text": " Feel like you haven't anymore."
+  },
+  {
+    "start": 3190,
+    "end": 3194.08,
+    "text": " I haven't quite, no, but if I said that I have the option, well, you have the option,"
+  },
+  {
+    "start": 3194.08,
+    "end": 3196.96,
+    "text": " but unfortunately you won't get the flag."
+  },
+  {
+    "start": 3196.96,
+    "end": 3198.4,
+    "text": " So this is a bad thing."
+  },
+  {
+    "start": 3198.4,
+    "end": 3201.96,
+    "text": " The current waiting time is 100 years."
+  },
+  {
+    "start": 3201.96,
+    "end": 3204.96,
+    "text": " It's more than a century because so many people have applied."
+  },
+  {
+    "start": 3204.96,
+    "end": 3207.36,
+    "text": " So they mentioned this on the website, like it's a totally normal thing."
+  },
+  {
+    "start": 3207.36,
+    "end": 3210.12,
+    "text": " Yeah, they say the current waiting time is more than 100 years."
+  },
+  {
+    "start": 3210.12,
+    "end": 3214.9,
+    "text": " And so you can either log on and make a request, why would you, or you can change your details"
+  },
+  {
+    "start": 3214.9,
+    "end": 3218.78,
+    "text": " if you made a request, you know, five years ago and you're moving house now."
+  },
+  {
+    "start": 3218.78,
+    "end": 3219.94,
+    "text": " Just to keep it updated."
+  },
+  {
+    "start": 3219.94,
+    "end": 3221.34,
+    "text": " But why would you do that either?"
+  },
+  {
+    "start": 3221.34,
+    "end": 3224.34,
+    "text": " Are you allowed to do it for your next generation?"
+  },
+  {
+    "start": 3224.34,
+    "end": 3225.34,
+    "text": " Exactly."
+  },
+  {
+    "start": 3225.34,
+    "end": 3226.34,
+    "text": " Can I go to the descendants?"
+  },
+  {
+    "start": 3226.34,
+    "end": 3230.9,
+    "text": " I don't think I'll know any of my hundred year from now descendants well enough to care"
+  },
+  {
+    "start": 3230.9,
+    "end": 3233.18,
+    "text": " whether or not they get a flag."
+  },
+  {
+    "start": 3233.18,
+    "end": 3235.78,
+    "text": " It's also like not hard to get."
+  },
+  {
+    "start": 3235.78,
+    "end": 3236.78,
+    "text": " It's not very special."
+  },
+  {
+    "start": 3236.78,
+    "end": 3239.48,
+    "text": " It's only been up over a parliament for one day."
+  },
+  {
+    "start": 3239.48,
+    "end": 3240.48,
+    "text": " Yep."
+  },
+  {
+    "start": 3240.48,
+    "end": 3242.68,
+    "text": " You could just get your own flag."
+  },
+  {
+    "start": 3242.68,
+    "end": 3245.68,
+    "text": " It's the kind of shit I buy in eBay."
+  },
+  {
+    "start": 3245.68,
+    "end": 3248.44,
+    "text": " This is all part of my divorce."
+  },
+  {
+    "start": 3248.44,
+    "end": 3251.34,
+    "text": " That's giving unreasonable behavior to me actually."
+  },
+  {
+    "start": 3251.34,
+    "end": 3259.28,
+    "text": " Have you been reading about William Amos from the Liberal Party in the last few months?"
+  },
+  {
+    "start": 3259.28,
+    "end": 3268.06,
+    "text": " Very recently he was on a parliamentary Zoom call and he had to apologize because he said"
+  },
+  {
+    "start": 3268.06,
+    "end": 3275.66,
+    "text": " I urinated without realizing I was on camera and the amazing thing was is that the month"
+  },
+  {
+    "start": 3275.66,
+    "end": 3281.26,
+    "text": " earlier he'd also been recorded in the nude during the virtual session of the Canadian"
+  },
+  {
+    "start": 3281.26,
+    "end": 3282.34,
+    "text": " Parliament."
+  },
+  {
+    "start": 3282.34,
+    "end": 3284.46,
+    "text": " So twice in two months."
+  },
+  {
+    "start": 3284.46,
+    "end": 3290.52,
+    "text": " The first time he'd been out for a jog and he was kind of getting changed while the"
+  },
+  {
+    "start": 3290.52,
+    "end": 3293.72,
+    "text": " session was going on and they could see."
+  },
+  {
+    "start": 3293.72,
+    "end": 3294.72,
+    "text": " See it all."
+  },
+  {
+    "start": 3294.72,
+    "end": 3295.72,
+    "text": " Yeah."
+  },
+  {
+    "start": 3295.72,
+    "end": 3296.72,
+    "text": " See the right honorable member."
+  },
+  {
+    "start": 3296.72,
+    "end": 3299.16,
+    "text": " See his loony and his toony."
+  },
+  {
+    "start": 3299.16,
+    "end": 3301.88,
+    "text": " But yeah."
+  },
+  {
+    "start": 3301.88,
+    "end": 3306.88,
+    "text": " I can see myself not falling for that just I can see myself doing that."
+  },
+  {
+    "start": 3306.88,
+    "end": 3307.88,
+    "text": " Twice in a row?"
+  },
+  {
+    "start": 3307.88,
+    "end": 3310.36,
+    "text": " You quickly check maybe not twice in a row."
+  },
+  {
+    "start": 3310.36,
+    "end": 3312.72,
+    "text": " I think what's better than this case right?"
+  },
+  {
+    "start": 3312.72,
+    "end": 3316.34,
+    "text": " Yeah I would definitely get a post-it for the camera after the first time."
+  },
+  {
+    "start": 3316.34,
+    "end": 3317.34,
+    "text": " Yeah."
+  },
+  {
+    "start": 3317.34,
+    "end": 3318.34,
+    "text": " Would I?"
+  },
+  {
+    "start": 3318.34,
+    "end": 3319.34,
+    "text": " I don't know."
+  },
+  {
+    "start": 3319.34,
+    "end": 3320.84,
+    "text": " No you would think I couldn't possibly do that again."
+  },
+  {
+    "start": 3320.84,
+    "end": 3321.84,
+    "text": " That's what you think."
+  },
+  {
+    "start": 3321.84,
+    "end": 3322.84,
+    "text": " That's what you think."
+  },
+  {
+    "start": 3322.84,
+    "end": 3324.74,
+    "text": " Oh my god that was the stupidest day of my life."
+  },
+  {
+    "start": 3324.74,
+    "end": 3328.18,
+    "text": " No more mistakes on that front and then you just go along and you know do you say he was"
+  },
+  {
+    "start": 3328.18,
+    "end": 3330.1,
+    "text": " urinating into a cup or something?"
+  },
+  {
+    "start": 3330.1,
+    "end": 3331.1,
+    "text": " I don't."
+  },
+  {
+    "start": 3331.1,
+    "end": 3332.1,
+    "text": " I don't know."
+  },
+  {
+    "start": 3332.1,
+    "end": 3335.7,
+    "text": " As far as I can tell because this kind of thing has now happened you know we're pretty"
+  },
+  {
+    "start": 3335.7,
+    "end": 3336.7,
+    "text": " deep in the pandemic."
+  },
+  {
+    "start": 3336.7,
+    "end": 3338.1,
+    "text": " It's not happened a number of times."
+  },
+  {
+    "start": 3338.1,
+    "end": 3343.38,
+    "text": " It's been fairly high profile people and it has as far as I'm aware never happened to"
+  },
+  {
+    "start": 3343.38,
+    "end": 3344.38,
+    "text": " a woman."
+  },
+  {
+    "start": 3344.38,
+    "end": 3351.28,
+    "text": " It's just men who I don't know haven't thought it through or aren't worried enough."
+  },
+  {
+    "start": 3351.28,
+    "end": 3354.26,
+    "text": " I can't even believe that you're saying that you think this could happen to you."
+  },
+  {
+    "start": 3354.26,
+    "end": 3356.92,
+    "text": " This would never happen to me."
+  },
+  {
+    "start": 3356.92,
+    "end": 3362.44,
+    "text": " There's no world in which I would be like okay I'm doing a work Zoom."
+  },
+  {
+    "start": 3362.44,
+    "end": 3365,
+    "text": " I'm going to quickly get fully nude."
+  },
+  {
+    "start": 3365,
+    "end": 3373.46,
+    "text": " No one has to know."
+  },
+  {
+    "start": 3373.46,
+    "end": 3374.46,
+    "text": " Okay that's it."
+  },
+  {
+    "start": 3374.46,
+    "end": 3375.46,
+    "text": " That is all of our facts."
+  },
+  {
+    "start": 3375.46,
+    "end": 3376.46,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3376.46,
+    "end": 3380.06,
+    "text": " If you'd like to get in contact with any of us about the things that we have said over"
+  },
+  {
+    "start": 3380.06,
+    "end": 3383.42,
+    "text": " the course of this podcast we can be found on our Twitter accounts."
+  },
+  {
+    "start": 3383.42,
+    "end": 3391.14,
+    "text": " I'm on @Shriberland, Andy, @AndrewHunterM, James, @JamesHarken and Monica, @MonicaHeisey."
+  },
+  {
+    "start": 3391.14,
+    "end": 3396.72,
+    "text": " Yep, or if you'd like to book a round of golf at the House of Holes you can head to @HouseofHolesUK."
+  },
+  {
+    "start": 3396.72,
+    "end": 3398.48,
+    "text": " It genuinely has amazing reviews."
+  },
+  {
+    "start": 3398.48,
+    "end": 3400.8,
+    "text": " Do check it out."
+  },
+  {
+    "start": 3400.8,
+    "end": 3401.8,
+    "text": " Everyone loved it there."
+  },
+  {
+    "start": 3401.8,
+    "end": 3402.8,
+    "text": " Everyone loved it."
+  },
+  {
+    "start": 3402.8,
+    "end": 3407.28,
+    "text": " Or you can go to @NoSuchThing which is our actual Twitter handle and you can get through"
+  },
+  {
+    "start": 3407.28,
+    "end": 3408.28,
+    "text": " to us there."
+  },
+  {
+    "start": 3408.28,
+    "end": 3412.44,
+    "text": " Or you can email us at podcast@QI.com."
+  },
+  {
+    "start": 3412.44,
+    "end": 3415.36,
+    "text": " Also do check out our website NoSuchThingasafish.com."
+  },
+  {
+    "start": 3415.36,
+    "end": 3419.64,
+    "text": " All of the previous episodes are up there but the main thing that you need to do is get"
+  },
+  {
+    "start": 3419.64,
+    "end": 3425.02,
+    "text": " to a bookshop or an online bookshop and get really good actually by Monica Heisey."
+  },
+  {
+    "start": 3425.02,
+    "end": 3427.14,
+    "text": " It is Storming the Charts here."
+  },
+  {
+    "start": 3427.14,
+    "end": 3431.26,
+    "text": " As we speak it's been in the Sunday Times Best Sellers list for four weeks."
+  },
+  {
+    "start": 3431.26,
+    "end": 3433.14,
+    "text": " It is an absolute rockin' book."
+  },
+  {
+    "start": 3433.14,
+    "end": 3434.46,
+    "text": " It's incredibly funny."
+  },
+  {
+    "start": 3434.46,
+    "end": 3438.62,
+    "text": " So do get it now and otherwise come back because we're going to be back with another episode"
+  },
+  {
+    "start": 3438.62,
+    "end": 3440.54,
+    "text": " next week and we'll see you then."
+  },
+  {
+    "start": 3440.54,
+    "end": 3441.04,
+    "text": " Goodbye."
+  },
+  {
+    "start": 3441.04,
+    "end": 3451.04,
+    "text": " [Music]"
+  }
+]

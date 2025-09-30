@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features a variety of quirky and intriguing facts, including the last case of scurvy in the Royal Navy, a unique Vietnamese noodle dish, the history of the Ashes cricket trophy, and the peculiarities of Hawaiian monk seals.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The last case of scurvy in the British Royal Navy was in the 1970s.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:08"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Cao Lầu is a Vietnamese noodle dish that can only be made in the town of Hoi An because it requires water from a specific well and ash from a local tree.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:04:09"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The Ashes, the trophy for the cricket series between England and Australia, originated from a satirical obituary published in 1882 that declared the death of English cricket.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:06:01"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Hawaiian monk seals keep getting eels stuck up their noses, possibly due to regurgitation or defensive eel behavior.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:24:40"
+    }
+  ]
+}

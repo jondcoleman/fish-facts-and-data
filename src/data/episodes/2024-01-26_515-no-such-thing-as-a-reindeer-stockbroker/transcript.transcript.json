@@ -1,0 +1,4387 @@
+[
+  {
+    "start": 0,
+    "end": 6.36,
+    "text": " Hi everyone, welcome to this week's episode of No Such Thing as a Fish. Dan Shriver is"
+  },
+  {
+    "start": 6.36,
+    "end": 13.12,
+    "text": " not with us today, unfortunately. He is off doing community service. By which I mean he's"
+  },
+  {
+    "start": 13.12,
+    "end": 18.84,
+    "text": " doing jury duty, which means he won't be here this week or next. But in his place, we are"
+  },
+  {
+    "start": 18.84,
+    "end": 26.52,
+    "text": " joined by our colleague and very, very good friend, Liying Li. Now, some of you, the Super"
+  },
+  {
+    "start": 26.52,
+    "end": 33.24,
+    "text": " Duper Fish fans, will already know who Liying is. She has appeared on our Meet the Elves feature in"
+  },
+  {
+    "start": 33.24,
+    "end": 39.2,
+    "text": " Club Fish. She was so good on that that we decided to ask her onto the main podcast. I'm sure you're"
+  },
+  {
+    "start": 39.2,
+    "end": 43.52,
+    "text": " going to really enjoy it. She's absolutely brilliant. If you want to know more about all the other elves,"
+  },
+  {
+    "start": 43.52,
+    "end": 50.2,
+    "text": " then go to nosuchthingsafish.com/apple and nosuchthingsafish.com/patreon. And if you go there,"
+  },
+  {
+    "start": 50.2,
+    "end": 54.52,
+    "text": " you can hear all the other episodes of Meet the Elves, as well as Drop As Aligned, which is our"
+  },
+  {
+    "start": 54.52,
+    "end": 60.76,
+    "text": " mailbag show, compilations, and much, much more. Anyway, there's not much more to say today, apart"
+  },
+  {
+    "start": 60.76,
+    "end": 64.96,
+    "text": " from really hope you enjoy the show with Liying. And on with the podcast!"
+  },
+  {
+    "start": 81.2,
+    "end": 86,
+    "text": " Hello, and welcome to No Such Thing as a Fish, a weekly podcast coming to you from the QI"
+  },
+  {
+    "start": 86,
+    "end": 91.52,
+    "text": " offices in Hoban. My name is Anna Tyshinski, and I'm sitting here with James Harkin, Andrew Hunter"
+  },
+  {
+    "start": 91.52,
+    "end": 96.56,
+    "text": " Murray, and Liying Li, and we are gathered here today with our four favourite facts from the last"
+  },
+  {
+    "start": 96.56,
+    "end": 103.08,
+    "text": " seven days. So in no particular order, here we go. Liying, what's your fact? My fact this week is"
+  },
+  {
+    "start": 103.08,
+    "end": 110.56,
+    "text": " that during World War II, Bletchley Park was forced to have a teacup amnesty. So it was an amnesty"
+  },
+  {
+    "start": 110.56,
+    "end": 114.08,
+    "text": " like where you have to go and turn your teacup in. Yeah, and you won't be arrested. You won't be"
+  },
+  {
+    "start": 114.08,
+    "end": 118.48,
+    "text": " arrested. And you won't be arrested. There was a memo that was sent out that said, \"It is regretted"
+  },
+  {
+    "start": 118.48,
+    "end": 123.68,
+    "text": " that owing to losses, it is no longer possible to provide service crockery for morning and afternoon"
+  },
+  {
+    "start": 123.68,
+    "end": 129.28,
+    "text": " teas.\" Wow. And that was all they did at Bletchley. Yeah, they only drank tea. They didn't do any"
+  },
+  {
+    "start": 129.28,
+    "end": 134.32,
+    "text": " important work at all. No longer providing service crockery for morning and afternoon teas. I feel"
+  },
+  {
+    "start": 134.32,
+    "end": 139.36,
+    "text": " like that's the point at which England really started to decline. Yeah, the start of England's"
+  },
+  {
+    "start": 139.36,
+    "end": 145.12,
+    "text": " decline was the middle of World War II. Is that what we're saying? Yeah. The counterpoint."
+  },
+  {
+    "start": 145.12,
+    "end": 151.52,
+    "text": " Wasn't the famous thing about Bletchley was that Alan Turing who worked there used to chain his mug"
+  },
+  {
+    "start": 151.52,
+    "end": 158.08,
+    "text": " to the radiator as the story is. And then poor Alan would be teased by people picking the lock"
+  },
+  {
+    "start": 158.08,
+    "end": 165.44,
+    "text": " on the chain and nicking his teacup just to annoy him. If he can't set a code on his lock that's"
+  },
+  {
+    "start": 165.44,
+    "end": 170.08,
+    "text": " not possible to break by the others, then I don't know if I trust this guy to win our war."
+  },
+  {
+    "start": 170.08,
+    "end": 176.08,
+    "text": " The thing about Turing is I read an interview with someone else who worked at Bletchley,"
+  },
+  {
+    "start": 176.08,
+    "end": 180.56,
+    "text": " and apparently when he wasn't in his office, he used to tie his mug to his hand. So if they go"
+  },
+  {
+    "start": 180.56,
+    "end": 184.64,
+    "text": " outside, there's a big lake at Bletchley, and they'd often have like a picnic out there,"
+  },
+  {
+    "start": 184.64,
+    "end": 189.28,
+    "text": " and he would be there with it tied by rope to his hand so no one could steal it. Fantastic."
+  },
+  {
+    "start": 189.28,
+    "end": 193.04,
+    "text": " Wasn't there a rumour that they threw crockery into the lake? Do we think that was just a rumour?"
+  },
+  {
+    "start": 193.6,
+    "end": 199.52,
+    "text": " Well, yeah, that's an interesting question. So I found quite a lot of sources, kind of diary"
+  },
+  {
+    "start": 199.52,
+    "end": 205.2,
+    "text": " entries and things like that. So sources or sources. Very good, very good. I went to Bletchley myself"
+  },
+  {
+    "start": 205.2,
+    "end": 212.64,
+    "text": " and dredged the lake and found sources, and I found some sources that people like Josh Cooper,"
+  },
+  {
+    "start": 212.64,
+    "end": 217.68,
+    "text": " who was the really kind of eccentric head of the air section, he would go around the lake,"
+  },
+  {
+    "start": 217.68,
+    "end": 224,
+    "text": " finish his coffee and then throw his cup into the lake. And also there's a good reason for"
+  },
+  {
+    "start": 224,
+    "end": 230.4,
+    "text": " Alan Turing to chain his mug up because apparently his deputy, Hugh Alexander, would also be known"
+  },
+  {
+    "start": 230.4,
+    "end": 235.12,
+    "text": " to throw his teacups into the lake. Why? Was there a reason for it? Was it like a celebration or was"
+  },
+  {
+    "start": 235.12,
+    "end": 240.24,
+    "text": " it, oh, we've cracked today's code? They were all Greek. Right, so is it? They would just smash"
+  },
+  {
+    "start": 240.24,
+    "end": 244.24,
+    "text": " the plates and throw the teacups away. Yeah, it feels like that, doesn't it? Yeah, and well,"
+  },
+  {
+    "start": 244.24,
+    "end": 249.28,
+    "text": " it wasn't just lakes as well. There was another memo that said that they ended up finding loads"
+  },
+  {
+    "start": 249.28,
+    "end": 256.48,
+    "text": " of cups and sources in the shrubs. It feels like there was some kind of weird Easter egg hunt game"
+  },
+  {
+    "start": 256.48,
+    "end": 259.36,
+    "text": " going on that we don't know about. If we know anything, it's that they were good at keeping"
+  },
+  {
+    "start": 259.36,
+    "end": 263.92,
+    "text": " secrets at Bletchley. And I think this one is still Official Secrets Act. Yeah, because"
+  },
+  {
+    "start": 263.92,
+    "end": 268,
+    "text": " Liam, you emailed them and asked them if it was true, right? Yeah, well, the thing that was mostly"
+  },
+  {
+    "start": 268,
+    "end": 273.36,
+    "text": " interesting checking was something that said that after the war, the administrators at Bletchley"
+  },
+  {
+    "start": 273.36,
+    "end": 278.96,
+    "text": " dredged the lake, hoping to find kind of discarded equipment that was used to kind of crack the"
+  },
+  {
+    "start": 278.96,
+    "end": 283.68,
+    "text": " enigma code and really fascinating kind of historical artifacts. And instead, all they found"
+  },
+  {
+    "start": 283.68,
+    "end": 289.68,
+    "text": " was giant heaps of cutlery and crockery and resources and stuff, which would have been fantastic."
+  },
+  {
+    "start": 289.68,
+    "end": 294,
+    "text": " So I emailed them just a double check. And I talked to this amazing woman called Heather,"
+  },
+  {
+    "start": 294,
+    "end": 300.24,
+    "text": " hi Heather, if you're listening. And she said that she's always listening. She's actually"
+  },
+  {
+    "start": 300.24,
+    "end": 303.6,
+    "text": " translating what we're saying into three languages simultaneously. Yeah, it's being"
+  },
+  {
+    "start": 303.6,
+    "end": 310.24,
+    "text": " encrypted right now. But she said, unfortunately, they think it's a myth or certainly a bit of an"
+  },
+  {
+    "start": 310.24,
+    "end": 317.12,
+    "text": " exaggeration. But they do know that certainly Josh Cooper may have thrown a cup in once."
+  },
+  {
+    "start": 317.12,
+    "end": 324.96,
+    "text": " So interesting. Yeah, they're drawing us away from the real story. I think that's it. That's it."
+  },
+  {
+    "start": 324.96,
+    "end": 330.72,
+    "text": " As I said, maybe actually, it's something very secret to do with the way that we cracked codes"
+  },
+  {
+    "start": 330.72,
+    "end": 334.24,
+    "text": " or fought the war. And they just don't want people to know. Fair enough. Should we say for"
+  },
+  {
+    "start": 334.24,
+    "end": 337.68,
+    "text": " maybe for international listeners? I think we should. Like what Bletchley was. I think I know"
+  },
+  {
+    "start": 337.68,
+    "end": 342.56,
+    "text": " we've been speaking ten minutes. Right. So early 40s, Britain on the ropes. There's a war going on."
+  },
+  {
+    "start": 342.56,
+    "end": 348.4,
+    "text": " There's a war going on. We're about to go downhill. The tea services declined dramatically."
+  },
+  {
+    "start": 348.4,
+    "end": 354.16,
+    "text": " The Nazis have overrun Europe. And they are communicating using enigma machines."
+  },
+  {
+    "start": 354.16,
+    "end": 358.96,
+    "text": " They look like typewriters. And they allow you very easily to to encrypt what you're saying."
+  },
+  {
+    "start": 358.96,
+    "end": 363.44,
+    "text": " It divides it into blocks of letters. It looks like complete rubbish. And the Germans are so"
+  },
+  {
+    "start": 363.44,
+    "end": 368.4,
+    "text": " confident about the security of enigma, because there are 364 billion possible codes. And there's"
+  },
+  {
+    "start": 368.4,
+    "end": 373.44,
+    "text": " a new code every day. They're so confident they just transmit the messages. They don't try and"
+  },
+  {
+    "start": 373.44,
+    "end": 378.24,
+    "text": " jam the signal or anything. So these messages are out there. And they're undecyparable. There's a"
+  },
+  {
+    "start": 378.24,
+    "end": 384.4,
+    "text": " nightmare. You know, completely impossible. Cocky. And that was their mistake. Because Polish"
+  },
+  {
+    "start": 384.4,
+    "end": 388.96,
+    "text": " intelligence had just cracked enigma just before the war and handed part of the secret, a big part"
+  },
+  {
+    "start": 388.96,
+    "end": 393.68,
+    "text": " of it, to British intelligence. So at Bletchley Park, which is this country estate in England,"
+  },
+  {
+    "start": 393.68,
+    "end": 398.24,
+    "text": " the British government gathers together hundreds and hundreds of codecrackers and administrators"
+  },
+  {
+    "start": 398.24,
+    "end": 403.2,
+    "text": " and people who set to work, including famously Alan Turing, but thousands of people by the end."
+  },
+  {
+    "start": 403.2,
+    "end": 407.6,
+    "text": " Who do a variety of stuff, right? Famous chess players or people who are great at solving crosswords."
+  },
+  {
+    "start": 407.6,
+    "end": 411.92,
+    "text": " Yeah. It's an odd collection. Like everyone just sort of piles in to Bletchley Park and start solving"
+  },
+  {
+    "start": 411.92,
+    "end": 415.76,
+    "text": " codes and cracking codes. And it goes on until the war ends. And it's amazingly successful."
+  },
+  {
+    "start": 415.76,
+    "end": 421.04,
+    "text": " It is. And also the thing about Bletchley, again, that it's famous for here is the fact that it was"
+  },
+  {
+    "start": 421.04,
+    "end": 426.4,
+    "text": " mostly women. So it was a women outnumbered men at Bletchley by about eight to one, I think. And"
+  },
+  {
+    "start": 426.4,
+    "end": 430.8,
+    "text": " they were there doing that mechanical work of every day, taking down all the codes that were coming"
+  },
+  {
+    "start": 430.8,
+    "end": 436.88,
+    "text": " through. Yeah. In fact, I hadn't realized that Baroness Trumpington, who was a real character"
+  },
+  {
+    "start": 436.88,
+    "end": 441.36,
+    "text": " in British politics until she died a few years ago, was at Bletchley. I swear there was a period"
+  },
+  {
+    "start": 441.36,
+    "end": 446.32,
+    "text": " where sort of any elderly posh woman in sort of the nineties when I was growing up had actually"
+  },
+  {
+    "start": 446.32,
+    "end": 449.44,
+    "text": " been at Bletchley at some point. Because also they weren't allowed to say anything, were they?"
+  },
+  {
+    "start": 449.44,
+    "end": 454.4,
+    "text": " So it was like national secrets for so long, so long, so long. And then the nineties came along"
+  },
+  {
+    "start": 454.4,
+    "end": 459.6,
+    "text": " and everything got declassified. And everyone went, oh yeah, I was there. Yeah, so was I. I was."
+  },
+  {
+    "start": 459.6,
+    "end": 463.44,
+    "text": " Well, they had a whole thing where they were trying to recruit what they called boffins and"
+  },
+  {
+    "start": 463.44,
+    "end": 470,
+    "text": " devs, boffins being kind of clever people and devs being debutants, as in high society,"
+  },
+  {
+    "start": 470,
+    "end": 476.64,
+    "text": " socialite women. Oh, why? Because they felt that, you know, they had that kind of level of education."
+  },
+  {
+    "start": 476.64,
+    "end": 481.2,
+    "text": " And they were often not bilingual. Exactly. They often they could speak French or they could speak"
+  },
+  {
+    "start": 481.2,
+    "end": 485.52,
+    "text": " German or they'd had a university education. And so as you say, it turns out that a lot of the"
+  },
+  {
+    "start": 485.52,
+    "end": 491.6,
+    "text": " people there came from quite high society and then they found themselves, you know, bunking with all"
+  },
+  {
+    "start": 491.6,
+    "end": 495.76,
+    "text": " of these. Yeah. In the class. In Bletchley. Because they were posh, they were often like quite"
+  },
+  {
+    "start": 495.76,
+    "end": 500.16,
+    "text": " eccentric and prone to misbehavior because they could get away with it. So a lot of the women"
+  },
+  {
+    "start": 500.16,
+    "end": 504.24,
+    "text": " would bunk off constantly and go and shag their boyfriends. For instance, there was one woman who"
+  },
+  {
+    "start": 504.24,
+    "end": 507.92,
+    "text": " was in charge called Pamela Rose, who she was actually an actress. She wanted to be in the"
+  },
+  {
+    "start": 507.92,
+    "end": 513.04,
+    "text": " West End. And she was in charge of overseeing 50 women in one of the huts. And one of them was"
+  },
+  {
+    "start": 513.04,
+    "end": 517.76,
+    "text": " actually Baroness Trumpington, who was called Jean Campbell Harris at the time. And at one point"
+  },
+  {
+    "start": 517.76,
+    "end": 522.16,
+    "text": " she had to stuff Baroness Trumpington into a laundry basket and rolled her down the corridor"
+  },
+  {
+    "start": 522.16,
+    "end": 527.28,
+    "text": " into an officer's room, I think, who was quite annoyed, who was trying to do serious work."
+  },
+  {
+    "start": 527.28,
+    "end": 531.44,
+    "text": " Was that to make her escape? I think it might have been a bit of japery. I'm not sure if it was a"
+  },
+  {
+    "start": 531.44,
+    "end": 536.96,
+    "text": " genuine punishment or having a half. Bad news. Bad news. We've lost another 30,000 troops at C."
+  },
+  {
+    "start": 536.96,
+    "end": 540.72,
+    "text": " One of the convoys has been sunk by the U-boats, which was due to us not cracking a vital message."
+  },
+  {
+    "start": 540.72,
+    "end": 544.4,
+    "text": " Good news. We all had a great team building exercise. We've got a laundry basket."
+  },
+  {
+    "start": 544.4,
+    "end": 548.96,
+    "text": " I think it was amazing. They would, when they turned up, they would be asked two questions."
+  },
+  {
+    "start": 548.96,
+    "end": 554,
+    "text": " One, do you like crossword puzzles? Two, are you engaged to be married? That was your first two"
+  },
+  {
+    "start": 554,
+    "end": 558.64,
+    "text": " questions. And then if you said, yes, I like crosswords and no, I'm not engaged, they go,"
+  },
+  {
+    "start": 558.64,
+    "end": 564,
+    "text": " okay, now you can have an interview. Oh, you're through. I know also the thing,"
+  },
+  {
+    "start": 564,
+    "end": 567.52,
+    "text": " the amazing thing about the secrecy is just how secret it was, as in, you don't know what the"
+  },
+  {
+    "start": 567.52,
+    "end": 570.8,
+    "text": " person in the next hut is doing. You don't know what the people in the same room as you were doing."
+  },
+  {
+    "start": 570.8,
+    "end": 576.48,
+    "text": " So often you don't know what you're doing. I've been in some jobs where I didn't know what I was"
+  },
+  {
+    "start": 576.48,
+    "end": 580.88,
+    "text": " doing. I didn't really know what anyone else was doing. Is it possible you've worked at GCHQ"
+  },
+  {
+    "start": 580.88,
+    "end": 585.44,
+    "text": " without knowing it? That could be true. I thought I was an accountant because it's just numbers."
+  },
+  {
+    "start": 585.44,
+    "end": 590.24,
+    "text": " Oh my, you've done some significant stuff, I bet, without really. But who?"
+  },
+  {
+    "start": 590.24,
+    "end": 596,
+    "text": " Because you're just like cracking these cut and you're grinding through huge numbers of"
+  },
+  {
+    "start": 596,
+    "end": 600.16,
+    "text": " huge amounts of information. And Churchill wrote a six volume history of the second reward,"
+  },
+  {
+    "start": 600.16,
+    "end": 604,
+    "text": " never mentioned Bletchley, because it was still super, super secret, because they had to hide the"
+  },
+  {
+    "start": 604,
+    "end": 607.76,
+    "text": " fact that towards the end of the war, Hitler was an open book. As in, Bletchley Parker were getting"
+  },
+  {
+    "start": 607.76,
+    "end": 612.88,
+    "text": " and translating and deciphering his messages before, like, Rommel or Girl or whatever. That's"
+  },
+  {
+    "start": 612.88,
+    "end": 618.32,
+    "text": " incredible. And then you have to turn, they haven't. Yeah. And the fact that the secrecy lasted for so"
+  },
+  {
+    "start": 618.32,
+    "end": 622.96,
+    "text": " long as well, there are so many veterans who, you know, took the secrets of their graves or"
+  },
+  {
+    "start": 622.96,
+    "end": 628.16,
+    "text": " there are amazing stories of, you know, husband and wives who met at Bletchley, but didn't actually"
+  },
+  {
+    "start": 628.16,
+    "end": 631.84,
+    "text": " know what the other person was doing. And then they had kids and they couldn't tell their kids"
+  },
+  {
+    "start": 631.84,
+    "end": 637.2,
+    "text": " what they were doing during the war as well. And so it was just decades and decades and decades"
+  },
+  {
+    "start": 637.2,
+    "end": 643.52,
+    "text": " of secrecy. And what's really fascinating to me is that the first person to kind of publish a book"
+  },
+  {
+    "start": 643.52,
+    "end": 649.2,
+    "text": " about what happened at Bletchley was treated as such a traitor by a lot of the veterans who were"
+  },
+  {
+    "start": 649.2,
+    "end": 654,
+    "text": " there. It was quite self aggrandizing. It was, you know, kind of like, oh, I did this and I did"
+  },
+  {
+    "start": 654,
+    "end": 658.16,
+    "text": " this. That's vital to the war effort and all of this. That was probably another reason he sounded"
+  },
+  {
+    "start": 658.16,
+    "end": 662.64,
+    "text": " like a bit of an arrogant prick. But for a lot of the veterans at Bletchley, it was one of those"
+  },
+  {
+    "start": 662.64,
+    "end": 666.88,
+    "text": " things where it was, you know, it's secret and we're going to take these secrets to our graves."
+  },
+  {
+    "start": 666.88,
+    "end": 671.2,
+    "text": " Have you guys been there? Yeah. A while ago, actually, I can't remember much about it,"
+  },
+  {
+    "start": 671.2,
+    "end": 676.48,
+    "text": " but that's okay. I was there for a public speaking competition as a teenager. Unfortunately,"
+  },
+  {
+    "start": 676.48,
+    "end": 683.12,
+    "text": " you were engaged to be married, so you could get a job there. Crosswords. That's cool."
+  },
+  {
+    "start": 683.12,
+    "end": 686.8,
+    "text": " Do you know if you were interviewed there? Another question you might be asked was if you"
+  },
+  {
+    "start": 686.8,
+    "end": 692.24,
+    "text": " were interviewed by Dilly Knox, who was one of the most important people at Bletchley and he was a"
+  },
+  {
+    "start": 692.24,
+    "end": 699.52,
+    "text": " real eccentric. And he would ask people the question, which way round the hands of a clock go?"
+  },
+  {
+    "start": 699.52,
+    "end": 702.48,
+    "text": " Brilliant. What would you say for that? Mark wise."
+  },
+  {
+    "start": 702.48,
+    "end": 707.84,
+    "text": " You're out. You put the minute hand on first and then the hour hand."
+  },
+  {
+    "start": 707.84,
+    "end": 710.64,
+    "text": " And then the second hand. You're building a clock."
+  },
+  {
+    "start": 710.64,
+    "end": 714.4,
+    "text": " Oh, I see you've, you've interpreted it that way. Second hand goes right at the bottom, I think."
+  },
+  {
+    "start": 714.4,
+    "end": 718.4,
+    "text": " You've thought outside the box, but no, the correct answer according to him is it depends"
+  },
+  {
+    "start": 718.4,
+    "end": 721.52,
+    "text": " whether you're looking at the clock or whether you are the clock. Brilliant."
+  },
+  {
+    "start": 721.52,
+    "end": 728.24,
+    "text": " That's interesting because I imagine no one got that right. So how on earth do we get anyone?"
+  },
+  {
+    "start": 728.24,
+    "end": 734,
+    "text": " It sounds a lot like the kind of questions that you think get asked at Oxbridge interviews"
+  },
+  {
+    "start": 734,
+    "end": 738.4,
+    "text": " and things like that. And considering that so many people there were from Oxbridge,"
+  },
+  {
+    "start": 738.4,
+    "end": 742.48,
+    "text": " maybe they did kind of think outside the box in that way. I think it was that sort of thing."
+  },
+  {
+    "start": 742.48,
+    "end": 746.24,
+    "text": " What was the name of the person that you said wanted to be a West End actress?"
+  },
+  {
+    "start": 746.24,
+    "end": 750.48,
+    "text": " That was Pamela Rose. Pamela Rose. So I wonder when Pamela Rose was at Bletchley,"
+  },
+  {
+    "start": 750.48,
+    "end": 753.92,
+    "text": " whether or not she joined the Bletchley Park Dramatic Club."
+  },
+  {
+    "start": 753.92,
+    "end": 760.08,
+    "text": " She did. She loved it. Yeah, I'm sure she did. I loved reading about this. So at Bletchley,"
+  },
+  {
+    "start": 760.08,
+    "end": 764.72,
+    "text": " it turns out that there was quite a campus-like feel there. A lot of people, you know, their"
+  },
+  {
+    "start": 764.72,
+    "end": 770.48,
+    "text": " university was interrupted by the war and they got recruited by Bletchley. And so,"
+  },
+  {
+    "start": 770.48,
+    "end": 775.76,
+    "text": " one particular veteran described it as being like their university. So there was all the other kind"
+  },
+  {
+    "start": 775.76,
+    "end": 782,
+    "text": " of stuff that you'd associate with uni. There was like social clubs. They had Christmas pantos"
+  },
+  {
+    "start": 782,
+    "end": 787.6,
+    "text": " that they put on. And he's like, I don't remember any of this at uni. I remember being de-bagged a"
+  },
+  {
+    "start": 787.6,
+    "end": 795.04,
+    "text": " lot. You were the one in the laundry basket with me. But one person that I found that I"
+  },
+  {
+    "start": 795.04,
+    "end": 801.92,
+    "text": " thought was so interesting is that Olivia Newton-John's dad, Bryn Newton-John, he was an officer"
+  },
+  {
+    "start": 801.92,
+    "end": 808.24,
+    "text": " at Bletchley and he was a member of the Drama Club. No way, really. He'd find his name Bryn"
+  },
+  {
+    "start": 808.24,
+    "end": 813.6,
+    "text": " Newton-John in all of the programmes for all the shows that they'd put on. Just on the results"
+  },
+  {
+    "start": 813.6,
+    "end": 818.48,
+    "text": " they got. Because it is quite abstract and it's very sort of, you know, there's people like"
+  },
+  {
+    "start": 818.48,
+    "end": 821.92,
+    "text": " poshos in the countryside and actually lots of them weren't posh. Lots of them were Rens,"
+  },
+  {
+    "start": 821.92,
+    "end": 825.92,
+    "text": " women's Royal Naval Service, who were getting on with the like basic work every single day."
+  },
+  {
+    "start": 825.92,
+    "end": 830.48,
+    "text": " But some of the things they did, for example, they worked out the location of every milk cow"
+  },
+  {
+    "start": 830.48,
+    "end": 836.64,
+    "text": " in the Atlantic Ocean. That's pretty easy. I reckon I could do that now. Not the one on the bottom."
+  },
+  {
+    "start": 840,
+    "end": 845.36,
+    "text": " So the milk cows were the tankers that were in the Atlantic and they were to refuel"
+  },
+  {
+    "start": 845.36,
+    "end": 850.72,
+    "text": " German U-boats. Oh, really? There were, you know, a couple of dozen maximum and they obviously were"
+  },
+  {
+    "start": 850.72,
+    "end": 855.04,
+    "text": " the most significant thing for the entire U-boat operation. They were all located thanks to Enigma"
+  },
+  {
+    "start": 855.04,
+    "end": 858.48,
+    "text": " and they were all sunk. So the U-boat, that was a big part of winning the war against the U-boats."
+  },
+  {
+    "start": 858.48,
+    "end": 863.6,
+    "text": " I really like one of the ways that they worked. Like you say, the Germans had improved the"
+  },
+  {
+    "start": 863.6,
+    "end": 868.08,
+    "text": " Enigma. So we did know how they worked, but it was still hard to crack the codes every day."
+  },
+  {
+    "start": 868.8,
+    "end": 873.92,
+    "text": " And so what you needed was some information that you knew. So when they sent the information,"
+  },
+  {
+    "start": 873.92,
+    "end": 878.56,
+    "text": " you know what you're looking for. And so what they did was they would drop bombs in very obvious"
+  },
+  {
+    "start": 878.56,
+    "end": 883.52,
+    "text": " places and they drop in a place where you know exactly where it is. And so the Germans then"
+  },
+  {
+    "start": 883.52,
+    "end": 889.52,
+    "text": " would send a message saying there's been a bomb in, you know, 25 miles north of Dresden or something."
+  },
+  {
+    "start": 889.52,
+    "end": 894.56,
+    "text": " And you know what 25 miles north of Dresden is. And you know, probably might even by then know"
+  },
+  {
+    "start": 894.56,
+    "end": 899.2,
+    "text": " that you're looking for the word \"Meinen\", which is German for a mine or a bomb. So you would know"
+  },
+  {
+    "start": 899.2,
+    "end": 904,
+    "text": " what you're looking for. And it's called \"Gardening\". I think this is the kind of thing where we're like,"
+  },
+  {
+    "start": 904,
+    "end": 907.36,
+    "text": " that's so clever. And if you were one of the actual code breakers listening, you'd be like,"
+  },
+  {
+    "start": 907.36,
+    "end": 914.72,
+    "text": " God, that's the most basic thing. Wow. Can I give you something on crockery and throwing"
+  },
+  {
+    "start": 914.72,
+    "end": 920.4,
+    "text": " crockery around? So this fact was perhaps about people throwing crockery. So I thought I'd look"
+  },
+  {
+    "start": 920.4,
+    "end": 926.96,
+    "text": " at plate smashing in Greece. I've seen various articles about where it comes from. And some"
+  },
+  {
+    "start": 926.96,
+    "end": 931.44,
+    "text": " people say, oh, it's an ancient Greek thing that they would do in funerals. I'm not really so sure."
+  },
+  {
+    "start": 931.44,
+    "end": 938,
+    "text": " I think it might be quite a modern thing that came in the 1960s and 70s. But actually in 1969,"
+  },
+  {
+    "start": 938,
+    "end": 945.44,
+    "text": " it was banned by the military dictator, Georgeus Papadopoulos. He banned any plate smashing in"
+  },
+  {
+    "start": 945.44,
+    "end": 950.24,
+    "text": " Greece because it was so dangerous. Oh, not because we didn't have enough crockery for"
+  },
+  {
+    "start": 950.24,
+    "end": 957.76,
+    "text": " art and tea anymore. No, because they set up these factories where you would make fake crockery."
+  },
+  {
+    "start": 957.76,
+    "end": 962,
+    "text": " Amazing. So it was like, it was real crockery. It was made of china and stuff, but it was like"
+  },
+  {
+    "start": 962,
+    "end": 965.76,
+    "text": " really low quality. There was no patterns on it, anything like that. It was just something that"
+  },
+  {
+    "start": 965.76,
+    "end": 972.96,
+    "text": " was made deliberately so you could then smash it. And there were 53 manufacturers of these fake"
+  },
+  {
+    "start": 972.96,
+    "end": 979.68,
+    "text": " plates in Thessaloniki alone. Stop it! Yeah, honestly. Very good. How many plates were being"
+  },
+  {
+    "start": 979.68,
+    "end": 987.76,
+    "text": " smashed? There was in the 60s up to 100,000 per month, it's estimated. Why? At the end of your"
+  },
+  {
+    "start": 987.76,
+    "end": 991.52,
+    "text": " meal, if you've got a great restaurant, they'll smash the plates for you. It's just like a"
+  },
+  {
+    "start": 991.52,
+    "end": 994.96,
+    "text": " tradition. They'll smash it for you. You don't even get to do the smashing. Well, you used to do it"
+  },
+  {
+    "start": 994.96,
+    "end": 1000.56,
+    "text": " yourself and then like health and safety came in and you would get like some waiters would,"
+  },
+  {
+    "start": 1000.56,
+    "end": 1004.08,
+    "text": " you know, put on their glasses so that they don't get any peace in their eyes and do it."
+  },
+  {
+    "start": 1004.08,
+    "end": 1006.32,
+    "text": " They'd actually take them away for the controlled explosion."
+  },
+  {
+    "start": 1006.32,
+    "end": 1013.28,
+    "text": " And today there's only one manufacturer of fake plates in the whole of Thessaloniki."
+  },
+  {
+    "start": 1013.28,
+    "end": 1018.8,
+    "text": " That was actually what we remember when the Greeks had the terrible recession around the time of the"
+  },
+  {
+    "start": 1018.8,
+    "end": 1022.8,
+    "text": " credit crunch. That was mostly caused by the fake plate industry, wasn't it? Yeah. But like,"
+  },
+  {
+    "start": 1022.8,
+    "end": 1026.32,
+    "text": " what is a fake plate? Is in what's a fake plate? It's interesting because you could still use them"
+  },
+  {
+    "start": 1026.32,
+    "end": 1031.52,
+    "text": " as a plate. Absolutely. But they're much cheaper to manufacture. They're not bothered if there's"
+  },
+  {
+    "start": 1031.52,
+    "end": 1035.52,
+    "text": " cracks in there or anything like that. There's no patterns on there. They're just white"
+  },
+  {
+    "start": 1035.52,
+    "end": 1039.92,
+    "text": " china plates. Not as fun to smash, though. I bet there were proper hardcore smashes who still went"
+  },
+  {
+    "start": 1039.92,
+    "end": 1044.72,
+    "text": " for the sort of £100 property there. Yeah. Do you still go to the, to the museum in Athens?"
+  },
+  {
+    "start": 1044.72,
+    "end": 1050.88,
+    "text": " Is this why we're not giving the Parthenon marbles back? Do you think they're going to be used to"
+  },
+  {
+    "start": 1050.88,
+    "end": 1057.28,
+    "text": " this sort of smash orgy? I don't know if you've seen the Elgi marbles, but they are quite smashed"
+  },
+  {
+    "start": 1057.28,
+    "end": 1061.36,
+    "text": " orgy. Well, why do you think they got like that in the first place?"
+  },
+  {
+    "start": 1061.36,
+    "end": 1072.24,
+    "text": " Okay, it's time for fact number two. And that's my fact. My fact is that 18th century sea captains"
+  },
+  {
+    "start": 1072.24,
+    "end": 1080.4,
+    "text": " sometimes use their sailors as sails. Brilliant. This is actually in a book called See People"
+  },
+  {
+    "start": 1080.4,
+    "end": 1084.8,
+    "text": " by a woman called Christina Thompson, and it's such a good book. It's so fantastically written."
+  },
+  {
+    "start": 1084.8,
+    "end": 1091.2,
+    "text": " And this is a practice called Manning the Four Shrouds. And it was used throughout kind of the"
+  },
+  {
+    "start": 1091.2,
+    "end": 1096,
+    "text": " great age of sail, which I suppose was 15th century to 19th century, a long period. And basically,"
+  },
+  {
+    "start": 1096,
+    "end": 1099.92,
+    "text": " if the wind is too high, if there's a big gale, if there's a storm, then it's very dangerous to put"
+  },
+  {
+    "start": 1099.92,
+    "end": 1105.04,
+    "text": " your sails up because they could be completely shredded. The mask could be toppled. The boat's"
+  },
+  {
+    "start": 1105.04,
+    "end": 1108.72,
+    "text": " going to be there. Oh, yeah. You don't want to get any of your sails shredded instead. Put one of"
+  },
+  {
+    "start": 1108.72,
+    "end": 1115.68,
+    "text": " your men up there. We've got 400 sailors and only one big sail. No, that makes sense."
+  },
+  {
+    "start": 1115.68,
+    "end": 1122.24,
+    "text": " Send up Stanley Big Shirt. Is that a reference to my friend? Yeah. That's very good because we've"
+  },
+  {
+    "start": 1122.24,
+    "end": 1125.68,
+    "text": " never mentioned him on here. Probably. I don't think so. You used to have a friend whose nickname"
+  },
+  {
+    "start": 1125.68,
+    "end": 1130.88,
+    "text": " was Stanley Big Shirt. That's so good because it worked for the listener, and then it worked"
+  },
+  {
+    "start": 1130.88,
+    "end": 1135.52,
+    "text": " even better for James on a higher level. Thank you. So this is where the captain of a ship would"
+  },
+  {
+    "start": 1135.52,
+    "end": 1140.72,
+    "text": " say to Stanley Big Shirt and Co, \"Could you please climb up onto the Four Shrouds?\" So the"
+  },
+  {
+    "start": 1140.72,
+    "end": 1146.96,
+    "text": " shrouds of a ship are, if you see a big sailing ship, there's what look like, you know, like a salt"
+  },
+  {
+    "start": 1146.96,
+    "end": 1152.24,
+    "text": " coarse rope platters and climbing frames. Yeah, rigging frames kind of thing. Yeah, exactly. That"
+  },
+  {
+    "start": 1152.24,
+    "end": 1156.08,
+    "text": " rigging is what the shrouds are, and they're what support the masks, and you can climb up them really"
+  },
+  {
+    "start": 1156.08,
+    "end": 1160.24,
+    "text": " easily. So the sailors would all climb up, and they'd spread out their hands and legs, and they'd"
+  },
+  {
+    "start": 1160.24,
+    "end": 1166.56,
+    "text": " literally just face up against the wind. Just sounds like utter nonsense, doesn't it? So they'd need"
+  },
+  {
+    "start": 1166.56,
+    "end": 1173.12,
+    "text": " a density of sailors such that it was the solid wall of sailors. Yeah. That's a lot of sailors."
+  },
+  {
+    "start": 1173.12,
+    "end": 1176.32,
+    "text": " Well, it's a lot of sailors. So it's kind of holding, can't it, and still be pretty functional,"
+  },
+  {
+    "start": 1176.32,
+    "end": 1180.4,
+    "text": " but you get most of the effect. I think that was because you didn't want it to be too strong. That"
+  },
+  {
+    "start": 1180.4,
+    "end": 1183.2,
+    "text": " was the thing. They're not going to be as strong as a sail, but there was one. There was a ship"
+  },
+  {
+    "start": 1183.2,
+    "end": 1188.08,
+    "text": " captain by Sir Hyde Parker in the 1700s, where 200 sailors were sent up into the rigging. The one"
+  },
+  {
+    "start": 1188.08,
+    "end": 1193.04,
+    "text": " that Christina Thompson in her book refers to is Commodore George Anson, who was involved in the"
+  },
+  {
+    "start": 1193.04,
+    "end": 1197.84,
+    "text": " War of Jenkins-Ear, which I think we must have mentioned. I don't think we have. And again,"
+  },
+  {
+    "start": 1197.84,
+    "end": 1201.68,
+    "text": " for international listeners, this was a huge deal for Britain, the War of Jenkins-Ear. I actually"
+  },
+  {
+    "start": 1201.68,
+    "end": 1207.6,
+    "text": " think the British listeners, the War of Jenkins-Ear is, I don't think it's GCSE syllabus."
+  },
+  {
+    "start": 1207.6,
+    "end": 1211.44,
+    "text": " It was about 70, no, I'm thinking of the Seven Years' War. Sorry, no, disregard that. That was"
+  },
+  {
+    "start": 1211.44,
+    "end": 1216.24,
+    "text": " a bigger deal. I would say it goes World War II, World War I, War of Jenkins-Ear are the three main"
+  },
+  {
+    "start": 1216.24,
+    "end": 1221.2,
+    "text": " things on the syllabus in English schools, certainly. And basically, there's a War of Jenkins-Ear in"
+  },
+  {
+    "start": 1221.2,
+    "end": 1227.44,
+    "text": " 1740, which was named after a humorous slam in Parliament, where someone waved an ear around,"
+  },
+  {
+    "start": 1227.44,
+    "end": 1230.96,
+    "text": " Google it. I thought it was someone. I thought it was someone."
+  },
+  {
+    "start": 1230.96,
+    "end": 1234.56,
+    "text": " It faded a little. Jenkins-Ear got cut off in a naval fracar."
+  },
+  {
+    "start": 1234.56,
+    "end": 1237.68,
+    "text": " I thought it did. Didn't the cut off ear get waved around? I think I might have made up"
+  },
+  {
+    "start": 1237.68,
+    "end": 1241.04,
+    "text": " that bit. I've embellished it in my head. Yeah. I don't think you allow props in the"
+  },
+  {
+    "start": 1241.04,
+    "end": 1244.48,
+    "text": " hands of Parliament. That's their rule. You're right."
+  },
+  {
+    "start": 1244.48,
+    "end": 1247.36,
+    "text": " That's why they've had to remove the official rubber chicken from Parliament."
+  },
+  {
+    "start": 1247.36,
+    "end": 1250.4,
+    "text": " It's really said they're an out-of-the-sector, and that's the one prop they have here."
+  },
+  {
+    "start": 1250.4,
+    "end": 1257.04,
+    "text": " Anyway, this captain recorded in his diary in 1740 that we dared not venture any sail abroad,"
+  },
+  {
+    "start": 1257.04,
+    "end": 1261.52,
+    "text": " so instead we had to put the helm of weather, as in, I think, face the helm towards the wind"
+  },
+  {
+    "start": 1261.52,
+    "end": 1266.72,
+    "text": " and man the four shrouds. And in kind of classic 1700s understatement, he recorded,"
+  },
+  {
+    "start": 1266.72,
+    "end": 1270.88,
+    "text": " \"It proved successful for the end intended, although one of our best men did go overboard.\""
+  },
+  {
+    "start": 1270.88,
+    "end": 1273.6,
+    "text": " Wow. So, yeah, good trick."
+  },
+  {
+    "start": 1273.6,
+    "end": 1277.04,
+    "text": " Feels like a rare move. Yeah, it must have been. They might have been doing it often."
+  },
+  {
+    "start": 1277.04,
+    "end": 1281.44,
+    "text": " I would say it was what we might call a life hack. It came up a bit. I was reading in a..."
+  },
+  {
+    "start": 1281.44,
+    "end": 1288.16,
+    "text": " In Captain's Weekly. These 12 weird tricks. You won't believe number eight."
+  },
+  {
+    "start": 1288.16,
+    "end": 1295.44,
+    "text": " I think it was... Silas, hate him. But, like, was that the only thing they used the sailors for?"
+  },
+  {
+    "start": 1295.44,
+    "end": 1298.96,
+    "text": " Could you have used one as an oar, for instance? Lovely. Yeah."
+  },
+  {
+    "start": 1298.96,
+    "end": 1303.6,
+    "text": " Your tallest, straightest soldier could be used. Bigster Tony. Yeah, exactly, yeah."
+  },
+  {
+    "start": 1303.6,
+    "end": 1310.64,
+    "text": " I didn't... You could look into that, because they did sometimes. I read one thing in an 1810"
+  },
+  {
+    "start": 1310.64,
+    "end": 1315.12,
+    "text": " book of sailing instructions that said, \"If you're in a gale, you either man the four shrouds,"
+  },
+  {
+    "start": 1315.12,
+    "end": 1318.88,
+    "text": " or if you've got some spare canvas or hammocks,\" which, I guess, the sailors are desperately"
+  },
+  {
+    "start": 1318.88,
+    "end": 1322.24,
+    "text": " struggling for hammocks at this point to get up there instead. If you've got some hammocks,"
+  },
+  {
+    "start": 1322.24,
+    "end": 1326.88,
+    "text": " you put them up there instead. Yeah. Well, that did actually happen once with the"
+  },
+  {
+    "start": 1326.88,
+    "end": 1332.4,
+    "text": " hammocks. But in the 1920s, so that was a good, what, 200 years after? They were still using"
+  },
+  {
+    "start": 1332.4,
+    "end": 1337.52,
+    "text": " random hammocks and blankets and things. So why were they doing that? Yeah, so there was a US"
+  },
+  {
+    "start": 1337.52,
+    "end": 1342.8,
+    "text": " submarine that ran out of fuel and lost communications. A sail not very useful in the submarine, I would say."
+  },
+  {
+    "start": 1342.8,
+    "end": 1346.24,
+    "text": " What? What? You would think. You would think. There should be a milk cow around here somewhere."
+  },
+  {
+    "start": 1346.24,
+    "end": 1352.08,
+    "text": " We'll be actually taking them all out at that point. They thought, \"How are we going to get home?\""
+  },
+  {
+    "start": 1352.08,
+    "end": 1359.2,
+    "text": " And so the commanding officer basically commanded his men to grab the hammocks and grab the blankets"
+  },
+  {
+    "start": 1359.2,
+    "end": 1367.76,
+    "text": " and grab the bunk bed frames. And they built masts and sails and put them on their submarine"
+  },
+  {
+    "start": 1367.76,
+    "end": 1372,
+    "text": " and sailed their submarine home. That is so cool. Because submarines weren't mostly surface vessels,"
+  },
+  {
+    "start": 1372,
+    "end": 1375.44,
+    "text": " weren't they, in the '10s and '20s? Were they? Well, they just called Marines then."
+  },
+  {
+    "start": 1375.44,
+    "end": 1380.08,
+    "text": " Well, they couldn't go down for long, could they? They could, like, early proto-submarines."
+  },
+  {
+    "start": 1380.08,
+    "end": 1382.08,
+    "text": " Did everyone on board have to hold their breath?"
+  },
+  {
+    "start": 1382.08,
+    "end": 1391.28,
+    "text": " Age of sail stuff is so, is so cool. I just, I really, really like all of it. So I got some"
+  },
+  {
+    "start": 1391.28,
+    "end": 1395.44,
+    "text": " nautical slang for you. The manning the foreshadows thing, I thought. This is to a"
+  },
+  {
+    "start": 1395.44,
+    "end": 1398.64,
+    "text": " guide to nautical slang from John Hard. And it was published only about 30 years ago. So it's"
+  },
+  {
+    "start": 1398.64,
+    "end": 1406.4,
+    "text": " got some more modern stuff. \"Bronzy bronzy\". It's where you conferred in a battle. That's right."
+  },
+  {
+    "start": 1407.52,
+    "end": 1412.88,
+    "text": " Really bad result. Cold and silver. And you're like, \"Ah, bad news. We got bronzy bronzy this time.\""
+  },
+  {
+    "start": 1412.88,
+    "end": 1416.88,
+    "text": " You didn't even lose. No, that's suntanned, if you're suntanned."
+  },
+  {
+    "start": 1416.88,
+    "end": 1424.24,
+    "text": " Bunch of bastards. The French. Always correct. But it's also some tangled rope."
+  },
+  {
+    "start": 1424.24,
+    "end": 1433.2,
+    "text": " Bunghole. Ah, no. Is it the Agnes? The newest recruit always had to,"
+  },
+  {
+    "start": 1433.2,
+    "end": 1437.28,
+    "text": " it was part of the initiation ceremony, wasn't it? Bunghole. No, that's just some cheese."
+  },
+  {
+    "start": 1437.28,
+    "end": 1440.96,
+    "text": " What? Cheese. Is it, do they use the cheese sometimes to bung up holes?"
+  },
+  {
+    "start": 1440.96,
+    "end": 1446.24,
+    "text": " Yeah, maybe. So it's just, bunghole is cheese. Do you know what a nip cheese was? Oh, no."
+  },
+  {
+    "start": 1446.24,
+    "end": 1451.2,
+    "text": " This was in a book called The Sailor's Word book, an alphabetical digest of nautical terms,"
+  },
+  {
+    "start": 1451.2,
+    "end": 1457.44,
+    "text": " which is a very, very old. Nip cheese. Nip cheese. So I'm imagining it's not a kind of cheese."
+  },
+  {
+    "start": 1457.44,
+    "end": 1461.2,
+    "text": " Is it just mice on boats? Oh, that's a great one. No, it's not quite that."
+  },
+  {
+    "start": 1461.2,
+    "end": 1468.48,
+    "text": " We ain't got any ideas. Oh, I mean, yes, but... I'm not sure."
+  },
+  {
+    "start": 1468.48,
+    "end": 1473.6,
+    "text": " Is it a nipple thing? No, it's not an Andy. Well, quite, as if, like, you guys are parents,"
+  },
+  {
+    "start": 1473.6,
+    "end": 1477.68,
+    "text": " you've heard of like neck cheese, right? Oh, as in they get stuck in the folds."
+  },
+  {
+    "start": 1477.68,
+    "end": 1481.28,
+    "text": " Yeah, you know, like, you know, kind of when a baby's breastfeeding and then"
+  },
+  {
+    "start": 1481.28,
+    "end": 1485.52,
+    "text": " the breast milk kind of dribbles down and then kind of gets stuck in the folds of their neck."
+  },
+  {
+    "start": 1485.52,
+    "end": 1489.28,
+    "text": " Yeah, yeah. It's never got to a cheese like status, I have to say, in my experience. I've"
+  },
+  {
+    "start": 1489.28,
+    "end": 1493.28,
+    "text": " never been able to ferment it properly. But despite your best efforts, is it?"
+  },
+  {
+    "start": 1493.28,
+    "end": 1497.04,
+    "text": " Oh, yeah. I love any cheese. No, it's not the same as that, but on the nipples."
+  },
+  {
+    "start": 1497.04,
+    "end": 1502.48,
+    "text": " It's the name for a purse's steward. So the person who looks after the money,"
+  },
+  {
+    "start": 1502.48,
+    "end": 1507.28,
+    "text": " if you imagine, like, cutting bits of cheese to kind of share the money."
+  },
+  {
+    "start": 1507.28,
+    "end": 1511.2,
+    "text": " He's like cheese pairing. Yeah, exactly like that. Stingy. Yeah, yeah."
+  },
+  {
+    "start": 1511.2,
+    "end": 1514.96,
+    "text": " Do you know why we call a poop deck a poop deck? Everyone shouts on it."
+  },
+  {
+    "start": 1514.96,
+    "end": 1521.44,
+    "text": " I don't know. Everyone shouts on it. That's what they did with it. Yeah. What's a poop deck?"
+  },
+  {
+    "start": 1521.44,
+    "end": 1526.24,
+    "text": " Well, a particular deck on the ship, not the main deck. The back. Well, there's the four deck,"
+  },
+  {
+    "start": 1526.24,
+    "end": 1530.88,
+    "text": " there's the main deck and I don't know where the poop deck is actually. Well, if you knew that,"
+  },
+  {
+    "start": 1530.88,
+    "end": 1534.96,
+    "text": " it might give you a clue. Is it at the back? It's on the stern and it comes from the French"
+  },
+  {
+    "start": 1534.96,
+    "end": 1541.36,
+    "text": " la poop, which means the stern. Love the boat. And for that reason, you have some other things."
+  },
+  {
+    "start": 1541.36,
+    "end": 1548.16,
+    "text": " You have the pooping sea and that is where you're going down the sea and the current is going at"
+  },
+  {
+    "start": 1548.16,
+    "end": 1554,
+    "text": " the same speed as your stern. So your rudder can't really get any purchase because you're"
+  },
+  {
+    "start": 1554,
+    "end": 1557.76,
+    "text": " going at the same speed as the water. That's great. Do you know what a bunting tosser is?"
+  },
+  {
+    "start": 1557.76,
+    "end": 1561.92,
+    "text": " Someone from the Jubilee. Is it? That's right."
+  },
+  {
+    "start": 1561.92,
+    "end": 1568.24,
+    "text": " Actually, you're dead on. Oh, have I? Well, it kind of, it is flag-related."
+  },
+  {
+    "start": 1569.84,
+    "end": 1573.52,
+    "text": " It's a radio operator and that would traditionally have been a signalman"
+  },
+  {
+    "start": 1573.52,
+    "end": 1577.84,
+    "text": " who has is raising the signal flags and so bunting tosser. That's exactly what I said."
+  },
+  {
+    "start": 1577.84,
+    "end": 1589.52,
+    "text": " Snorkers. Just sausages guys. Just sausages. Oh, okay. And the beach master. The beach master."
+  },
+  {
+    "start": 1589.52,
+    "end": 1595.68,
+    "text": " He was someone who stood on the beach and said, \"This way guys. This way. Keep going. Keep going."
+  },
+  {
+    "start": 1595.68,
+    "end": 1598.72,
+    "text": " Keep going. Oh, too far. Too far. Oh, shit. Do you know what? I'm going to give you that."
+  },
+  {
+    "start": 1598.72,
+    "end": 1602.48,
+    "text": " Well, and again, this is going to be something completely different."
+  },
+  {
+    "start": 1602.48,
+    "end": 1607.92,
+    "text": " Did he have those kind of like ping pong bats? That's it. Yeah. It's a superior officer who is"
+  },
+  {
+    "start": 1607.92,
+    "end": 1613.6,
+    "text": " appointed to lead the storming party. The beach master. So yeah. Do you remember we talked two"
+  },
+  {
+    "start": 1613.6,
+    "end": 1621.76,
+    "text": " weeks ago about elephant seals? They're beach masters. Our heaps of jubia. Is there ever been"
+  },
+  {
+    "start": 1621.76,
+    "end": 1627.36,
+    "text": " a situation where an elephant seal beach master and the British naval beach master have been"
+  },
+  {
+    "start": 1627.36,
+    "end": 1634,
+    "text": " mixed up with hilarious consequences? Dozens. Oh, no. The storming party is just one"
+  },
+  {
+    "start": 1634,
+    "end": 1638.48,
+    "text": " elephant seal with his harem of a hundred females. That's great. I mean, you would run away, wouldn't"
+  },
+  {
+    "start": 1638.48,
+    "end": 1645.44,
+    "text": " you? Yeah. Scary. This is sort of relates back to the Bletchleef Act, but there was a Cornish"
+  },
+  {
+    "start": 1645.44,
+    "end": 1652.64,
+    "text": " pirate called Robert Culliford, and he once loaded their cannons with China crockery in the hope that"
+  },
+  {
+    "start": 1652.64,
+    "end": 1659.2,
+    "text": " it would tear the sails of the opposition ships. That's a great idea, didn't it? How'd that work?"
+  },
+  {
+    "start": 1659.2,
+    "end": 1664.16,
+    "text": " It did not work well. They actually exploded into a fine powder by the time they had met the enemy"
+  },
+  {
+    "start": 1664.16,
+    "end": 1669.76,
+    "text": " sails. So just rained down. Nice bit of rain. Yes. I think they also, they did that in the"
+  },
+  {
+    "start": 1669.76,
+    "end": 1677.12,
+    "text": " Trojan War, didn't they? And that's why Greek people, to this day, smash plates at the end of a meal."
+  },
+  {
+    "start": 1677.12,
+    "end": 1682.32,
+    "text": " Have you heard of the pine tree riot? This is a thing that pretty much prompted the American War"
+  },
+  {
+    "start": 1682.32,
+    "end": 1687.92,
+    "text": " of Independence and was directly related to the navy. Okay. Well, was it tax related? Yes."
+  },
+  {
+    "start": 1687.92,
+    "end": 1693.76,
+    "text": " Just getting it all right. I mean, actually, you have got it right. Yeah. So basically,"
+  },
+  {
+    "start": 1693.76,
+    "end": 1699.44,
+    "text": " Britain and France both wanted to build ships and to build a ship with a big mast, you need a big"
+  },
+  {
+    "start": 1699.44,
+    "end": 1703.92,
+    "text": " tree. I got this, by the way, from a brilliant book called The Age of Wood, which is such a"
+  },
+  {
+    "start": 1703.92,
+    "end": 1709.6,
+    "text": " good book. You thought it was something different, didn't you? Britain had very little forest at this"
+  },
+  {
+    "start": 1709.6,
+    "end": 1714.48,
+    "text": " time, partly because it's kind of all into ships, and had to get them from America, because in America"
+  },
+  {
+    "start": 1714.48,
+    "end": 1720.88,
+    "text": " there are these gorgeous massive pine trees that will make a cracking mast. Yeah. And they had all"
+  },
+  {
+    "start": 1720.88,
+    "end": 1725.44,
+    "text": " sorts of trouble. They basically decreed, right, all trees over 24 inches across, which is what you"
+  },
+  {
+    "start": 1725.44,
+    "end": 1730,
+    "text": " need for a ship mast. They belong to the Crown, and we mark them with a little arrow and their"
+  },
+  {
+    "start": 1730,
+    "end": 1734.96,
+    "text": " hours, and you can't have them, you colonists. And in fact, having wide floorboards was a sign that"
+  },
+  {
+    "start": 1734.96,
+    "end": 1739.28,
+    "text": " you were a patriotic American colonist that you were just cocking a snook at the British,"
+  },
+  {
+    "start": 1739.28,
+    "end": 1743.2,
+    "text": " because you had used these wide trees. Nice. Rather than glowing the British up."
+  },
+  {
+    "start": 1743.2,
+    "end": 1749.52,
+    "text": " You rebel you with your wide floorboards. And this all led to this confrontation where the British"
+  },
+  {
+    "start": 1749.52,
+    "end": 1753.68,
+    "text": " sent the authorities to try and say, look, these really are our trees, and the Americans kind of"
+  },
+  {
+    "start": 1753.68,
+    "end": 1756.8,
+    "text": " sent them away with their tail between their legs and embarrassed them and humiliated them."
+  },
+  {
+    "start": 1756.8,
+    "end": 1761.28,
+    "text": " And this was a thing called the Pine Tree Riot, and that was 1772, and that pretty much led"
+  },
+  {
+    "start": 1761.28,
+    "end": 1768.4,
+    "text": " on to the Boston Tea Party, 1773, and from there, you know, everything went downhill."
+  },
+  {
+    "start": 1768.4,
+    "end": 1776.08,
+    "text": " Yeah, but that was like, that was mostly mast related. Interesting. Yeah. The age of wood,"
+  },
+  {
+    "start": 1776.08,
+    "end": 1782.72,
+    "text": " by the way, just count the rigs, that'll do it. Fantastic. James, we did spend a 300 paid contract"
+  },
+  {
+    "start": 1783.52,
+    "end": 1790.56,
+    "text": " with the British. I was looking a bit into what sails are made out of. And nowadays,"
+  },
+  {
+    "start": 1790.56,
+    "end": 1796,
+    "text": " they can be all sorts from natural fibers like cotton and blacks to synthetic fibers like nylon,"
+  },
+  {
+    "start": 1796,
+    "end": 1801.28,
+    "text": " polyester, all of that. But one thing I found that was quite interesting to me was that hemp"
+  },
+  {
+    "start": 1801.28,
+    "end": 1807.92,
+    "text": " was used basically throughout the ship for everything. So hemp oil was used in the lamps,"
+  },
+  {
+    "start": 1808.48,
+    "end": 1813.84,
+    "text": " the sailors would wear clothing made out of hemp, the ship's logs would be written on hemp paper."
+  },
+  {
+    "start": 1813.84,
+    "end": 1818.56,
+    "text": " But it turns out that some of these massive sailing ships, they would actually carry hemp"
+  },
+  {
+    "start": 1818.56,
+    "end": 1824.56,
+    "text": " seeds with them so that if they ended up in a shipwreck or they had damage, they could plant the"
+  },
+  {
+    "start": 1824.56,
+    "end": 1831.52,
+    "text": " seeds to grow hemp. Grow your ship! And then mend their rope or their canvas, because hemp is one"
+  },
+  {
+    "start": 1831.52,
+    "end": 1837.84,
+    "text": " of the fastest growing plants on earth. That's fantastic. That's really cool. And they would use"
+  },
+  {
+    "start": 1837.84,
+    "end": 1846.24,
+    "text": " hemp to make the canvas for the sails and the ropes. And the word canvas actually comes from"
+  },
+  {
+    "start": 1846.24,
+    "end": 1854.08,
+    "text": " the word cannabis. Get away! It's good. Which is the same plant as hemp. Which is, yeah. For any"
+  },
+  {
+    "start": 1854.08,
+    "end": 1859.44,
+    "text": " squares listening. Sorry, just quick mention of the old wacky-backy."
+  },
+  {
+    "start": 1859.44,
+    "end": 1870.64,
+    "text": " Okay, we should move on to fact number three. And that is Andy."
+  },
+  {
+    "start": 1870.64,
+    "end": 1876.16,
+    "text": " My fact is that reindeer can chew in their sleep. Oh, that's useful. It's so cool."
+  },
+  {
+    "start": 1876.16,
+    "end": 1879.44,
+    "text": " Gavaskorn must do a good business in the reindeer community, wasn't it?"
+  },
+  {
+    "start": 1881.04,
+    "end": 1885.28,
+    "text": " So it's really clever. It's all to do with where they live because they live in the very high regions"
+  },
+  {
+    "start": 1885.28,
+    "end": 1894.08,
+    "text": " of the earth. Not necessarily higher, I would say. I mean further north. Not like on top of Everest."
+  },
+  {
+    "start": 1894.08,
+    "end": 1898.88,
+    "text": " Okay, we're being squares about it. This is why you never travel north of Watford. You're like,"
+  },
+  {
+    "start": 1898.88,
+    "end": 1904.24,
+    "text": " \"Oh, I'm so higher.\" I can't get the oxygen. Okay, they live in the Arctic Circle. We're being"
+  },
+  {
+    "start": 1904.24,
+    "end": 1909.68,
+    "text": " like, \"Do we be?\" Yeah, sure. And obviously the light there changes a lot, doesn't it? So some"
+  },
+  {
+    "start": 1909.68,
+    "end": 1914.4,
+    "text": " of the year, it's always light. Some of the year, it's never light. It's dark for ages."
+  },
+  {
+    "start": 1914.4,
+    "end": 1920.24,
+    "text": " And they have a very, very weak body clock. So in summer, they have to eat a great deal all the"
+  },
+  {
+    "start": 1920.24,
+    "end": 1925.52,
+    "text": " time to gain weight to survive the winter. And they're ruminants, so they bring food back up"
+  },
+  {
+    "start": 1925.52,
+    "end": 1930.64,
+    "text": " from one of their stomachs and they keep chewing it. And because they're having to do a lot of this"
+  },
+  {
+    "start": 1930.64,
+    "end": 1936.32,
+    "text": " during the summer, they will regurgitate food and they will keep chewing it while they're asleep."
+  },
+  {
+    "start": 1936.32,
+    "end": 1939.68,
+    "text": " We weren't sure before what they were doing. They just look a bit dazed and a bit"
+  },
+  {
+    "start": 1939.68,
+    "end": 1944.72,
+    "text": " dozy. And the Norwegian Institute of Bioeconomy Research have measured their brainwaves while"
+  },
+  {
+    "start": 1944.72,
+    "end": 1949.12,
+    "text": " they're doing this, standing around chewing. And it sounds like they are in a light stage of sleep"
+  },
+  {
+    "start": 1949.12,
+    "end": 1952.96,
+    "text": " while they're eating. That's brilliant. Wait, we couldn't tell if they were asleep. Do they not"
+  },
+  {
+    "start": 1952.96,
+    "end": 1957.44,
+    "text": " have their eyes closed? I think brain activity is a better guide, isn't it, than whether you've got"
+  },
+  {
+    "start": 1957.44,
+    "end": 1961.2,
+    "text": " your eyes closed. It's not like every time you close your eyes, you're asleep. No, I know. I just"
+  },
+  {
+    "start": 1961.2,
+    "end": 1965.04,
+    "text": " feel like I'd know if I just looked at the reindeer. You'd be like, \"Well, they're obviously asleep.\""
+  },
+  {
+    "start": 1965.04,
+    "end": 1966.56,
+    "text": " You've just fell asleep for a second there."
+  },
+  {
+    "start": 1966.56,
+    "end": 1974.16,
+    "text": " That thing is really interesting about the body clocks because it means they don't get jet-lagged,"
+  },
+  {
+    "start": 1974.16,
+    "end": 1980.96,
+    "text": " right? So our body clock is 24 hours. We deal with the light, the dark, we're on a 24-hour clock."
+  },
+  {
+    "start": 1980.96,
+    "end": 1987.12,
+    "text": " If we go through some time zones, then we're not on 24 hours anymore and we're all over the place."
+  },
+  {
+    "start": 1987.12,
+    "end": 1994.08,
+    "text": " But if reindeers would do regular flights to Australia, like they might do once a year"
+  },
+  {
+    "start": 1994.08,
+    "end": 2000,
+    "text": " to deliver presents, for instance, they wouldn't get jet-lagged. And the interesting thing about"
+  },
+  {
+    "start": 2000,
+    "end": 2005.28,
+    "text": " that is, you know, there are gene variants that cause this and maybe we can turn those genes on"
+  },
+  {
+    "start": 2005.28,
+    "end": 2009.92,
+    "text": " and off in humans one day to stop humans from getting jet-lagged. That feels like a drastic"
+  },
+  {
+    "start": 2009.92,
+    "end": 2018.56,
+    "text": " intervention for jet lag. Yeah, we would also grow horns. Yeah, reindeer. Reindeer are cool,"
+  },
+  {
+    "start": 2018.56,
+    "end": 2021.68,
+    "text": " aren't they? Most of my facts are about the Sami people who are obsessed with reindeer."
+  },
+  {
+    "start": 2022.56,
+    "end": 2027.04,
+    "text": " But, well, I say obsessed. Obsessed with, usually, reliant on them for their survival."
+  },
+  {
+    "start": 2027.04,
+    "end": 2029.92,
+    "text": " Guys, get over there. Obsessed with oxygen and water."
+  },
+  {
+    "start": 2029.92,
+    "end": 2037.2,
+    "text": " No, I love the Sami people. They are the people who live up in the Arctic Circle, really,"
+  },
+  {
+    "start": 2037.2,
+    "end": 2040.88,
+    "text": " in the northern parts of Norway and Sweden and Finland. The high places of the earth."
+  },
+  {
+    "start": 2040.88,
+    "end": 2046.16,
+    "text": " The high places, yes. So they paid their taxes in live reindeer for a long time. They have special"
+  },
+  {
+    "start": 2046.16,
+    "end": 2051.84,
+    "text": " designations sort of in the sort of equivalent of the Magna Carta of that region. So it's called"
+  },
+  {
+    "start": 2051.84,
+    "end": 2056.72,
+    "text": " the Lap Kodassil and it was a clause added to the 1751 Treaty which designated the borders of all"
+  },
+  {
+    "start": 2056.72,
+    "end": 2061.12,
+    "text": " those countries. And it said that they are allowed to move totally freely across borders because the"
+  },
+  {
+    "start": 2061.12,
+    "end": 2065.84,
+    "text": " reindeer need to move across borders and they need to herd them. Although herding reindeer is"
+  },
+  {
+    "start": 2065.84,
+    "end": 2070.32,
+    "text": " basically just following them, I think. Oh, really? The reindeer go where they want to find"
+  },
+  {
+    "start": 2070.32,
+    "end": 2074.8,
+    "text": " food to get sustenance to go to better climates and the Sami people just follow them to make sure"
+  },
+  {
+    "start": 2074.8,
+    "end": 2079.6,
+    "text": " they keep. That is mostly true. You can get them to go in the direction you want. And the way you"
+  },
+  {
+    "start": 2079.6,
+    "end": 2085.28,
+    "text": " do that is you piss in a bottle and you carry it around with you and if they start going in the"
+  },
+  {
+    "start": 2085.28,
+    "end": 2089.28,
+    "text": " direction you don't want them to go in, you pour a little bit in this direction and they all go,"
+  },
+  {
+    "start": 2089.28,
+    "end": 2094.16,
+    "text": " \"Oh, piss lovely\" and they all walk towards where the piss smell is because it's like got salt and"
+  },
+  {
+    "start": 2094.16,
+    "end": 2101.52,
+    "text": " minerals and stuff like that. Oh, just a life hack, we call that. Good to know. Anyway, they have over"
+  },
+  {
+    "start": 2101.52,
+    "end": 2107.44,
+    "text": " a thousand words for reindeer and they really do because reindeer are so important. So they have"
+  },
+  {
+    "start": 2107.44,
+    "end": 2113.36,
+    "text": " like a liami, which means a short fat female reindeer. They have a snari, a reindeer whose"
+  },
+  {
+    "start": 2113.36,
+    "end": 2118.88,
+    "text": " antlers are short and branched. A nijiru is an unmanageable female. And they're a bit sexist"
+  },
+  {
+    "start": 2118.88,
+    "end": 2125.04,
+    "text": " these names, aren't they? There's no room for your woke political niceties in the unforgiving"
+  },
+  {
+    "start": 2125.04,
+    "end": 2130.96,
+    "text": " tundra, James. Well, there's a lot of snowflakes up there I have heard."
+  },
+  {
+    "start": 2134.72,
+    "end": 2140.24,
+    "text": " That's cool. They do have a word for a bull with one testicle. So maybe the feminist reindeer are"
+  },
+  {
+    "start": 2140.24,
+    "end": 2145.44,
+    "text": " getting upset and cutting off the testicles of the males. They have night vision goggles,"
+  },
+  {
+    "start": 2145.44,
+    "end": 2153.68,
+    "text": " effectively, inside their eyes. Reindeer. So reindeer's eyes change colour over the season."
+  },
+  {
+    "start": 2153.68,
+    "end": 2158.8,
+    "text": " So they're golden in summer and then they're blue in the winter. And the reason that's helpful"
+  },
+  {
+    "start": 2158.8,
+    "end": 2165.52,
+    "text": " is that in winter they can see a lot more UV light. And the reason that UV light is helpful"
+  },
+  {
+    "start": 2165.52,
+    "end": 2170.96,
+    "text": " is that their favourite food is this thing called reindeer moss. Disappointingly, it's a kind of"
+  },
+  {
+    "start": 2170.96,
+    "end": 2176.08,
+    "text": " lichen. But it's really yummy and it's very nutritious and there's a lot of it about in the"
+  },
+  {
+    "start": 2176.08,
+    "end": 2181.44,
+    "text": " Arctic. So reindeer love it and they like to find it. And it's impossible for a human to find it"
+  },
+  {
+    "start": 2181.44,
+    "end": 2185.28,
+    "text": " because it's pale. But to a reindeer it's incredibly obvious where the patches of reindeer moss are"
+  },
+  {
+    "start": 2185.28,
+    "end": 2189.84,
+    "text": " because it looks a completely different colour to them. Because I think snow gives off UV light,"
+  },
+  {
+    "start": 2189.84,
+    "end": 2194.8,
+    "text": " doesn't it? Whereas it doesn't. So it looks like dark because they have this ability to see the UV"
+  },
+  {
+    "start": 2194.8,
+    "end": 2199.44,
+    "text": " light. They can see what the moss is. So it's very, very cool. They're very well adapted for their"
+  },
+  {
+    "start": 2199.44,
+    "end": 2204.56,
+    "text": " environment. What's interesting is that they're not actually 100% sure how the eyeball actually"
+  },
+  {
+    "start": 2204.56,
+    "end": 2208.96,
+    "text": " changes from golden to blue. And we should say as well actually that the colour changes not in your"
+  },
+  {
+    "start": 2208.96,
+    "end": 2214.64,
+    "text": " iris. No, because otherwise it sounds insane that they've discovered this in like 2030. It's like"
+  },
+  {
+    "start": 2214.64,
+    "end": 2219.04,
+    "text": " wait a minute, we've domesticated these guys for how long? We've not looked at their eyes? So yeah,"
+  },
+  {
+    "start": 2219.04,
+    "end": 2223.6,
+    "text": " it's not that you're looking at them on the outside and their eye colour changes. It's the inside."
+  },
+  {
+    "start": 2223.6,
+    "end": 2228.4,
+    "text": " It's the thing called the tappatum lucidum, I think I'm saying that correctly,"
+  },
+  {
+    "start": 2228.4,
+    "end": 2232.56,
+    "text": " which is kind of on the back of the eye and it does all of the reflecting of the light"
+  },
+  {
+    "start": 2232.56,
+    "end": 2238.4,
+    "text": " around your eye. Well, you would see that, I reckon, is if you were taking a photo of a load"
+  },
+  {
+    "start": 2238.4,
+    "end": 2243.28,
+    "text": " of reindeer and one of them looked directly at the flash, I reckon you would see the changes over"
+  },
+  {
+    "start": 2243.28,
+    "end": 2247.2,
+    "text": " there. Is that right? Yeah, that's why if you photograph animals in the dark, yeah, that's their"
+  },
+  {
+    "start": 2247.2,
+    "end": 2251.12,
+    "text": " tappatum lucidum. Because that's why we get red eyes is because the back of our eyes is red,"
+  },
+  {
+    "start": 2251.12,
+    "end": 2256.48,
+    "text": " because it's got a lot of blood in there. And so when the flash goes, you see the light goes into"
+  },
+  {
+    "start": 2256.48,
+    "end": 2260.8,
+    "text": " the back of your eye where all the blood vessels are. And that's why you get red eyes. Is that why"
+  },
+  {
+    "start": 2260.8,
+    "end": 2265.84,
+    "text": " you get red eyes? In old, like mostly in old, is it from film photos? Do you get that on digital"
+  },
+  {
+    "start": 2265.84,
+    "end": 2271.04,
+    "text": " photos now? I've seen newer photos, yeah. Do you? Yeah, yeah. I've never done that. So that doesn't"
+  },
+  {
+    "start": 2271.04,
+    "end": 2276.8,
+    "text": " point that no one had ever taken a photograph of a reindeer. I've never taken it with flash, at least."
+  },
+  {
+    "start": 2276.8,
+    "end": 2280.96,
+    "text": " I think it's quite hard to take a photo of reindeer with flash. They're very camera shy, aren't they?"
+  },
+  {
+    "start": 2280.96,
+    "end": 2287.28,
+    "text": " Well, they have a very shiny nose. Oh, your nose has come out red in this one and this one."
+  },
+  {
+    "start": 2289.76,
+    "end": 2293.12,
+    "text": " I didn't know the UK has reindeer. I was incredibly excited to find that out."
+  },
+  {
+    "start": 2293.12,
+    "end": 2301.28,
+    "text": " There's one wild herd of reindeer and they're at the Cairngorm reindeer centre, but they are wild."
+  },
+  {
+    "start": 2301.28,
+    "end": 2306.4,
+    "text": " It's not a zoo or an enclosure. They're not penned. High up. Very high up, near Inverness. I mean,"
+  },
+  {
+    "start": 2306.4,
+    "end": 2310,
+    "text": " probably in the top of the mountains because it's the Cairngorms I was thinking as opposed to."
+  },
+  {
+    "start": 2310,
+    "end": 2316.48,
+    "text": " Well, that too. And they were introduced by this great couple, Mikkel Utsi and his wife,"
+  },
+  {
+    "start": 2316.48,
+    "end": 2321.28,
+    "text": " Dr Ethel Lindgren in 1952, probably overshadowed by the change of monarchy and the Everest"
+  },
+  {
+    "start": 2321.28,
+    "end": 2325.12,
+    "text": " expedition. But still, and they gave them all these furious reasons of why we could, because"
+  },
+  {
+    "start": 2325.12,
+    "end": 2329.68,
+    "text": " it's basically early rewilding, you know, just by any other name. And the reasons they gave these"
+  },
+  {
+    "start": 2329.68,
+    "end": 2333.52,
+    "text": " two scientists, they said, well, great source of meat, great source of fur, useful for military"
+  },
+  {
+    "start": 2333.52,
+    "end": 2338.56,
+    "text": " transport in case of the Cold War turning hot. Sure. I saw that and I couldn't work out what,"
+  },
+  {
+    "start": 2338.56,
+    "end": 2343.2,
+    "text": " did they imagine that they would be bringing the reindeer to the Soviet Union and using them to"
+  },
+  {
+    "start": 2343.2,
+    "end": 2349.36,
+    "text": " transport stuff like military equipment or maybe are we being invaded? Nuclear winter,"
+  },
+  {
+    "start": 2349.36,
+    "end": 2355.52,
+    "text": " maybe. And so we get a load of snow. They might be useful. There was a story in the Russian press"
+  },
+  {
+    "start": 2355.52,
+    "end": 2362.56,
+    "text": " in the, when was this? It was in the 2000s that criminals like gangs were using reindeer to do"
+  },
+  {
+    "start": 2362.56,
+    "end": 2368.08,
+    "text": " their crimes. And the reason being that they were in Siberia. So the police are coming to get them."
+  },
+  {
+    "start": 2368.08,
+    "end": 2372.24,
+    "text": " And the police had snowmobiles, but the reindeer were quicker than the snowmobiles."
+  },
+  {
+    "start": 2372.24,
+    "end": 2376.72,
+    "text": " And so the criminals realised that and they would use them to..."
+  },
+  {
+    "start": 2376.72,
+    "end": 2380.16,
+    "text": " Is there like getaway vehicle? Yeah, yeah, getaway. Cool."
+  },
+  {
+    "start": 2380.16,
+    "end": 2384.56,
+    "text": " Would they ride them? No, they'd be pulled on sleighs. Yeah."
+  },
+  {
+    "start": 2384.56,
+    "end": 2389.92,
+    "text": " Doesn't sound weird, these got-nick-russian criminals being pulled by..."
+  },
+  {
+    "start": 2389.92,
+    "end": 2391.44,
+    "text": " And children running to them."
+  },
+  {
+    "start": 2391.44,
+    "end": 2397.84,
+    "text": " Well, if you've just robbed a bank, though, you've probably got sacks of money waiting on the back"
+  },
+  {
+    "start": 2397.84,
+    "end": 2401.84,
+    "text": " of the sleigh. Yeah. And one will fall off. Maybe that's the origin of the Santa Claus myth."
+  },
+  {
+    "start": 2401.84,
+    "end": 2407.68,
+    "text": " But the Kengor reindeer-centred staff, very excitingly, they did a naked calendar just"
+  },
+  {
+    "start": 2407.68,
+    "end": 2412.8,
+    "text": " a few years ago. Naked humans or naked reindeer? Naked the reindeer, I think,"
+  },
+  {
+    "start": 2412.8,
+    "end": 2418.32,
+    "text": " were mostly in harnesses and things. They didn't shave them all. They all died of cold."
+  },
+  {
+    "start": 2418.32,
+    "end": 2423.04,
+    "text": " No, but there were 17 herders and they're all posing in the hall together to raise money for"
+  },
+  {
+    "start": 2423.04,
+    "end": 2427.44,
+    "text": " the Kengor mountain rescue team. Did we approve of this? I mean, like, I don't mind"
+  },
+  {
+    "start": 2427.44,
+    "end": 2431.6,
+    "text": " that group of what were they, Women's Institute people doing it the first time."
+  },
+  {
+    "start": 2431.6,
+    "end": 2438.08,
+    "text": " You've repeatedly turned down my idea, James, for a fish nude calendar where we're all hiding behind"
+  },
+  {
+    "start": 2438.08,
+    "end": 2444.08,
+    "text": " facts. But this trend of people doing this? Well, I'll just give you a line from the"
+  },
+  {
+    "start": 2444.08,
+    "end": 2450,
+    "text": " photographer who said... Who said, \"It's very cold in the Kengars.\""
+  },
+  {
+    "start": 2450,
+    "end": 2456.56,
+    "text": " Taking pictures of my naked friends and colleagues, not to mention my girlfriend's mum"
+  },
+  {
+    "start": 2456.56,
+    "end": 2461.84,
+    "text": " was certainly a surreal experience. I can't believe they fell for it, who said?"
+  },
+  {
+    "start": 2461.84,
+    "end": 2470.16,
+    "text": " She goes from town to town posing naked calendars. It's really nice to hear for a"
+  },
+  {
+    "start": 2470.16,
+    "end": 2477.84,
+    "text": " perfect scam, isn't it? Just go to another office. Hello! I'm just wondering if you like a naked"
+  },
+  {
+    "start": 2477.84,
+    "end": 2489.52,
+    "text": " calendar or a cherry. Oh, I want a dark film, \"Canada Girls\" because I can't put that lens on it."
+  },
+  {
+    "start": 2489.52,
+    "end": 2497.68,
+    "text": " Oh, dear. Good gracious. More stuff on reindeer, guys. They are very fast. The robbers are right."
+  },
+  {
+    "start": 2497.68,
+    "end": 2503.68,
+    "text": " And they're fast and very young. They can outrun an Olympic sprinter when they're only a day old."
+  },
+  {
+    "start": 2503.68,
+    "end": 2509.36,
+    "text": " Stop it. That's so cool. What? Newborns can stand and walk almost straight away,"
+  },
+  {
+    "start": 2509.36,
+    "end": 2514.4,
+    "text": " and then within an hour, they can run. That is very good. Which is good. It makes me wonder if"
+  },
+  {
+    "start": 2514.4,
+    "end": 2519.12,
+    "text": " they do that competition within 15 minutes. Some parents are like, \"Mine's actually running already.\""
+  },
+  {
+    "start": 2519.12,
+    "end": 2526,
+    "text": " You should get Santa's reindeer to be your financial advisors."
+  },
+  {
+    "start": 2526,
+    "end": 2530.72,
+    "text": " Because they're not employed for the rest of the year. Very nice."
+  },
+  {
+    "start": 2531.52,
+    "end": 2536.32,
+    "text": " Or they're free in January for the tax deadline. Exactly. They're twiddling their hooves otherwise."
+  },
+  {
+    "start": 2536.32,
+    "end": 2542.24,
+    "text": " So what it is is that a team of researchers at Dartmouth College, bearing in mind this is an"
+  },
+  {
+    "start": 2542.24,
+    "end": 2548,
+    "text": " Ivy League University, right? They did a very, very serious study where they got a bunch of"
+  },
+  {
+    "start": 2548,
+    "end": 2555.76,
+    "text": " Santa's reindeer at a local kind of Christmas theme park. They were Dasha, Dancer, Prancer, Vixen, Comet,"
+  },
+  {
+    "start": 2555.76,
+    "end": 2561.04,
+    "text": " Cupid, Donna, Blitz and Rudolph, and Boris. Boris was a trainee."
+  },
+  {
+    "start": 2561.04,
+    "end": 2566.08,
+    "text": " Can I just ask, are these real reindeer, and are they really Santa's reindeer?"
+  },
+  {
+    "start": 2566.08,
+    "end": 2572.64,
+    "text": " They are real reindeer, and Santa is real. Okay, cool. So they're living reindeer. It wasn't like,"
+  },
+  {
+    "start": 2572.64,
+    "end": 2577.12,
+    "text": " \"Mod, okay, right?\" And what they did was they laid out copies of the Wall Street Journal's stock"
+  },
+  {
+    "start": 2577.12,
+    "end": 2583.6,
+    "text": " pages on the floor of their barn, and they got them to select stocks that they wanted them to buy."
+  },
+  {
+    "start": 2583.6,
+    "end": 2588.08,
+    "text": " So they made hoof prints on the newspaper pages, and then they went and purchased these stocks to"
+  },
+  {
+    "start": 2588.08,
+    "end": 2596,
+    "text": " create a reindeer portfolio. And they found that it outdid the S&P 500, which is the kind of top"
+  },
+  {
+    "start": 2596,
+    "end": 2602.88,
+    "text": " 500 companies in the US. It outdid the growth of those companies by 5%. And apparently, that's"
+  },
+  {
+    "start": 2602.88,
+    "end": 2609.76,
+    "text": " statistically significant. What? Is it? Is it apparently so? There's the Ivy League researchers."
+  },
+  {
+    "start": 2609.76,
+    "end": 2616.32,
+    "text": " But the thing that they did... Sorry, just to say, that is significant. If you could make 5% more"
+  },
+  {
+    "start": 2616.32,
+    "end": 2620.96,
+    "text": " than the average on the stock market, and you could consistently do that, then you'd be very"
+  },
+  {
+    "start": 2620.96,
+    "end": 2625.52,
+    "text": " rich. Yeah, you'd be doing well. That's the consistently thing, isn't it? Well, all we have is"
+  },
+  {
+    "start": 2625.52,
+    "end": 2630,
+    "text": " evidence that they are consistent. No, over six months. But the reason why they did this was"
+  },
+  {
+    "start": 2630,
+    "end": 2636.56,
+    "text": " kind of to prove that senators and congressmen, who are often in America accused of using their"
+  },
+  {
+    "start": 2636.56,
+    "end": 2642.4,
+    "text": " inside knowledge to play the stock market, that what they did was they compared the portfolios"
+  },
+  {
+    "start": 2642.4,
+    "end": 2648.8,
+    "text": " of the senators to the reindeer portfolio and found that the reindeer was still better than the"
+  },
+  {
+    "start": 2648.8,
+    "end": 2654,
+    "text": " senators and the congressmen who had inside knowledge. And one of the researchers actually said"
+  },
+  {
+    "start": 2654,
+    "end": 2659.52,
+    "text": " that it turns out that these politicians are as feckless as the rest of us at stock pickings."
+  },
+  {
+    "start": 2659.52,
+    "end": 2664.56,
+    "text": " Well, it could be that they're scrupulously honest, and they don't use any of their internal"
+  },
+  {
+    "start": 2664.56,
+    "end": 2668.16,
+    "text": " knowledge. Very, very good point. Very good point. And maybe they prove that with the reindeer"
+  },
+  {
+    "start": 2668.16,
+    "end": 2673.28,
+    "text": " portfolio. Or it could be reindeers are absolutely massive inside of it. They're going around the"
+  },
+  {
+    "start": 2673.28,
+    "end": 2678.88,
+    "text": " country once a year, like while Santas delivering the presents, they're hecking into emails. They go"
+  },
+  {
+    "start": 2678.88,
+    "end": 2682.8,
+    "text": " through the filing cabinet. Yeah, they always take a bite out of the apple, drink the sherry,"
+  },
+  {
+    "start": 2682.8,
+    "end": 2687.2,
+    "text": " and go through all of your books. Why are there hoof prints left inside the house after he's been?"
+  },
+  {
+    "start": 2687.2,
+    "end": 2690.32,
+    "text": " It doesn't make any sense. No, you're so right. Do they fall down the chimney? This should be on"
+  },
+  {
+    "start": 2690.32,
+    "end": 2695.12,
+    "text": " the roof. Yeah, who found the roof. That's a good title for a children's book. Lovely. Don't"
+  },
+  {
+    "start": 2695.12,
+    "end": 2700.72,
+    "text": " give your reindeer's carrots. Why not? I don't know any reindeers. Next question. No, I'm listening."
+  },
+  {
+    "start": 2700.72,
+    "end": 2705.44,
+    "text": " I do. Yeah. Well, just because we were saying about, you know, sherry and Ms. Pisces, I mean,"
+  },
+  {
+    "start": 2705.44,
+    "end": 2710.32,
+    "text": " don't give them them either. But yeah, they can't digest them. But what am I going to cover my penis"
+  },
+  {
+    "start": 2710.32,
+    "end": 2717.92,
+    "text": " with in the naked calendar? Maybe there's some other baby vegetables that they make. I don't know."
+  },
+  {
+    "start": 2720.08,
+    "end": 2721.36,
+    "text": " Let's see if I can find a runner bean."
+  },
+  {
+    "start": 2721.36,
+    "end": 2734,
+    "text": " Great stuff. Okay. All right, it's time to pee. Do you want to go now?"
+  },
+  {
+    "start": 2734,
+    "end": 2735.44,
+    "text": " A pee's not going to be big enough."
+  },
+  {
+    "start": 2746.88,
+    "end": 2751.68,
+    "text": " Okay, it is time for our final fact this week, and that is James. Okay,"
+  },
+  {
+    "start": 2751.68,
+    "end": 2758.64,
+    "text": " my fact this week is that from 1841 to 1851, the MP for thirst thought he was a bird."
+  },
+  {
+    "start": 2758.64,
+    "end": 2762.64,
+    "text": " He was then replaced by a man who was later killed by a turnip."
+  },
+  {
+    "start": 2762.64,
+    "end": 2768.96,
+    "text": " Was he killed by an actual turnip or another MP who thought he was a turnip?"
+  },
+  {
+    "start": 2768.96,
+    "end": 2773.76,
+    "text": " He was killed by an actual turnip. Did it get into the campaign literature?"
+  },
+  {
+    "start": 2773.76,
+    "end": 2775.52,
+    "text": " Vote for me. The other guy thinks he's a bird."
+  },
+  {
+    "start": 2776.4,
+    "end": 2777.6,
+    "text": " I'm safe around turnips."
+  },
+  {
+    "start": 2777.6,
+    "end": 2784.16,
+    "text": " There wasn't much in the way of campaigning in these days, especially in thirst."
+  },
+  {
+    "start": 2784.16,
+    "end": 2790,
+    "text": " All of these people all got in without any opponents. Who do you want to hear about first?"
+  },
+  {
+    "start": 2790,
+    "end": 2796.64,
+    "text": " The bird of the bird man, I think. Okay, the bird man of thirst was a guy called John Bell."
+  },
+  {
+    "start": 2796.64,
+    "end": 2802,
+    "text": " Basically, in this area, they had to have an MP. They had a railway and there were a few people"
+  },
+  {
+    "start": 2802,
+    "end": 2808.32,
+    "text": " living there. They had to have an MP, and there wasn't really anyone to do it. A few people from"
+  },
+  {
+    "start": 2808.32,
+    "end": 2812.88,
+    "text": " outside of the town came in. They might want to do it, but no one in the town wanted to vote for"
+  },
+  {
+    "start": 2812.88,
+    "end": 2817.52,
+    "text": " them. So they all voted for this guy called John Bell because his family owned half of the houses"
+  },
+  {
+    "start": 2817.52,
+    "end": 2822.4,
+    "text": " in the town, and everyone liked them. He was the right man for the job, really."
+  },
+  {
+    "start": 2822.4,
+    "end": 2827.52,
+    "text": " So they voted for him, but after he'd been in there for a little while, it turned out that he"
+  },
+  {
+    "start": 2827.52,
+    "end": 2835.2,
+    "text": " was of unsound mind, and they did an inquiry as to his unsoundness of mind, which took place at"
+  },
+  {
+    "start": 2835.2,
+    "end": 2841.04,
+    "text": " the three tons hotel in thirst, which is now a Weatherspoons. In this inquiry, they said that"
+  },
+  {
+    "start": 2841.04,
+    "end": 2846.08,
+    "text": " he sometimes fancied himself to be an eagle and made motions with his arms as if endeavouring"
+  },
+  {
+    "start": 2846.08,
+    "end": 2851.28,
+    "text": " to raise himself from the ground to fly. He was also convinced that someone was trying to poison"
+  },
+  {
+    "start": 2851.28,
+    "end": 2858.72,
+    "text": " him with iodine in his tea. A bit of a callback to the last episode, iodine. And then on other"
+  },
+  {
+    "start": 2858.72,
+    "end": 2862.48,
+    "text": " occasions, when in company, he would forget that he was at the dinner table and start to undress"
+  },
+  {
+    "start": 2862.48,
+    "end": 2868.64,
+    "text": " himself. But in those days, there was no way to get rid of someone. If they were an MP and there"
+  },
+  {
+    "start": 2868.64,
+    "end": 2872.96,
+    "text": " wasn't an election, and even if there was an election and people there wanted to send back"
+  },
+  {
+    "start": 2872.96,
+    "end": 2878.4,
+    "text": " the same guy, there's no way to get rid of them if they were of unsound mind. I guess I don't even"
+  },
+  {
+    "start": 2878.4,
+    "end": 2883.12,
+    "text": " know how you would now, because in fact, then legislation was introduced, and then there were"
+  },
+  {
+    "start": 2883.12,
+    "end": 2887.92,
+    "text": " various upgrades to it. But I think it was all repealed in about 2012 or 13. So, you know..."
+  },
+  {
+    "start": 2887.92,
+    "end": 2892.08,
+    "text": " I can't imagine any of our politicians would be of unsound mind."
+  },
+  {
+    "start": 2892.08,
+    "end": 2896.64,
+    "text": " You're right. It's just not relevant anymore. And anyway, he unfortunately died."
+  },
+  {
+    "start": 2896.64,
+    "end": 2901.04,
+    "text": " Was he an honest MP, by the way, or was he feathering his own nest?"
+  },
+  {
+    "start": 2901.04,
+    "end": 2902.88,
+    "text": " Very good. Thank you. Any more of that?"
+  },
+  {
+    "start": 2902.88,
+    "end": 2907.92,
+    "text": " No, no, no. I just had that one stored up and I didn't want it to sit around inside me."
+  },
+  {
+    "start": 2907.92,
+    "end": 2913.6,
+    "text": " I can't wait for your turnip pun that's upcoming. Because he was replaced by a guy called Sir"
+  },
+  {
+    "start": 2913.6,
+    "end": 2920.64,
+    "text": " William Payne Galway, and he was out shooting in the parish, and he walked across a turnip field,"
+  },
+  {
+    "start": 2920.64,
+    "end": 2925.76,
+    "text": " and he fell with his body onto a turnip. I'm quoting from the York Herald here."
+  },
+  {
+    "start": 2925.76,
+    "end": 2930.56,
+    "text": " He fell with his body onto a turnip, sustaining severe internal injuries."
+  },
+  {
+    "start": 2930.56,
+    "end": 2934.48,
+    "text": " No, that's a fake excuse when you're talking to the hospital, isn't it?"
+  },
+  {
+    "start": 2935.6,
+    "end": 2939.12,
+    "text": " And in the Hoover, I just kicked him when the vacuum was on."
+  },
+  {
+    "start": 2939.12,
+    "end": 2943.84,
+    "text": " He was nakedly shooting in a field, and he fell and the turnip went up his arse."
+  },
+  {
+    "start": 2943.84,
+    "end": 2951.52,
+    "text": " No, he fell on the turnip and injured himself, and the next day he failed to recover."
+  },
+  {
+    "start": 2951.52,
+    "end": 2957.52,
+    "text": " And turnips are not funny things to fall onto. They're big serious. They're big hard things, you know."
+  },
+  {
+    "start": 2957.52,
+    "end": 2960.8,
+    "text": " I mean, turnips are inherently funny, I think. Sorry. I don't know why I said that,"
+  },
+  {
+    "start": 2960.8,
+    "end": 2965.28,
+    "text": " but they're not really funny. He wasn't the only MP who died in a turnip-related incident."
+  },
+  {
+    "start": 2965.44,
+    "end": 2969.36,
+    "text": " I don't know if you guys found the story of Lewis Fenton, the wig MP for Huddersfield."
+  },
+  {
+    "start": 2969.36,
+    "end": 2977.28,
+    "text": " So he died a little earlier than this. This was 1833, about 50 years before,"
+  },
+  {
+    "start": 2977.28,
+    "end": 2980.56,
+    "text": " and he fell out of a window at home. Very sadly, he died of his injuries,"
+  },
+  {
+    "start": 2980.56,
+    "end": 2985.2,
+    "text": " you know, tragic, and his widow explained that he was in the habit of going up to the attic"
+  },
+  {
+    "start": 2985.2,
+    "end": 2989.44,
+    "text": " to look out of the window at a piece of ground where his turnips were growing."
+  },
+  {
+    "start": 2989.44,
+    "end": 2990,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 2990,
+    "end": 2994.88,
+    "text": " To make sure that the cows had not, also his cows, had not got into the turnip enclosure,"
+  },
+  {
+    "start": 2994.88,
+    "end": 2996.32,
+    "text": " and were not, you know, yet."
+  },
+  {
+    "start": 2996.32,
+    "end": 2999.52,
+    "text": " So when he'd disappear for hours at a time, he'd be like, \"No, darling, you know,"
+  },
+  {
+    "start": 2999.52,
+    "end": 3001.68,
+    "text": " I'm watching the turnips. I promise I'm watching the turnips.\""
+  },
+  {
+    "start": 3001.68,
+    "end": 3005.44,
+    "text": " Some strange noises come out of the attic. No, no, that's my turnip watching."
+  },
+  {
+    "start": 3005.44,
+    "end": 3008.8,
+    "text": " I don't think we're going to imply anything unsavory about a turnip."
+  },
+  {
+    "start": 3008.8,
+    "end": 3013.44,
+    "text": " The band's dead, well, he should be, you know, and he probably just was looking so much that"
+  },
+  {
+    "start": 3013.44,
+    "end": 3016.96,
+    "text": " he overbalanced and tipped out of the window. Must have been, must have been, yeah."
+  },
+  {
+    "start": 3016.96,
+    "end": 3022.16,
+    "text": " I was just, just the word for the mental disorder that you have when you think you are,"
+  },
+  {
+    "start": 3022.16,
+    "end": 3026.4,
+    "text": " let's say, a bird is clinical lycanthropy, which I just looked up and I was wondering"
+  },
+  {
+    "start": 3026.4,
+    "end": 3027.44,
+    "text": " whether it was a thing."
+  },
+  {
+    "start": 3027.44,
+    "end": 3028.48,
+    "text": " Like a werewolf."
+  },
+  {
+    "start": 3028.48,
+    "end": 3030.32,
+    "text": " I think lycanthropy must be werewolf."
+  },
+  {
+    "start": 3030.32,
+    "end": 3033.28,
+    "text": " It comes from the idea of, yeah, exactly, being like a wolf,"
+  },
+  {
+    "start": 3033.28,
+    "end": 3035.2,
+    "text": " but it applies to thinking you're like any animal."
+  },
+  {
+    "start": 3035.2,
+    "end": 3036.96,
+    "text": " I guess they couldn't be asked to come up with a different word for thinking you're like."
+  },
+  {
+    "start": 3036.96,
+    "end": 3039.84,
+    "text": " You were thinking it would be zotropy or something."
+  },
+  {
+    "start": 3039.84,
+    "end": 3043.2,
+    "text": " Yeah, I get, but it must be more common to think you're a wolf."
+  },
+  {
+    "start": 3043.2,
+    "end": 3047.36,
+    "text": " But I just, I like the Wikipedia page on clinical lycanthropy"
+  },
+  {
+    "start": 3047.36,
+    "end": 3051.84,
+    "text": " just because it used the case history of a 25 year old man who was sent for treatment"
+  },
+  {
+    "start": 3051.84,
+    "end": 3055.44,
+    "text": " during a period of excessive hand washing, irritable behaviour, decreased sleep,"
+  },
+  {
+    "start": 3055.44,
+    "end": 3056.8,
+    "text": " and acting like a buffalo."
+  },
+  {
+    "start": 3056.8,
+    "end": 3062.48,
+    "text": " Buffaloes famously obsessively wash their hands."
+  },
+  {
+    "start": 3062.48,
+    "end": 3062.96,
+    "text": " They do."
+  },
+  {
+    "start": 3062.96,
+    "end": 3064.24,
+    "text": " No, that's a bison."
+  },
+  {
+    "start": 3064.24,
+    "end": 3066.72,
+    "text": " Brilliant, there we go. Brilliant."
+  },
+  {
+    "start": 3066.72,
+    "end": 3070.48,
+    "text": " That's a bucket list joke."
+  },
+  {
+    "start": 3070.48,
+    "end": 3073.92,
+    "text": " That was one."
+  },
+  {
+    "start": 3073.92,
+    "end": 3078.56,
+    "text": " I got that from a Christmas cracker 25 years ago and I've been trying to, she hold it in."
+  },
+  {
+    "start": 3080,
+    "end": 3080.72,
+    "text": " Oh my god."
+  },
+  {
+    "start": 3080.72,
+    "end": 3087.28,
+    "text": " The MP's page on Wikipedia for notable MPs with records in various directions"
+  },
+  {
+    "start": 3087.28,
+    "end": 3088.32,
+    "text": " is unbelievably good."
+  },
+  {
+    "start": 3088.32,
+    "end": 3089.36,
+    "text": " I don't know who's written that, but it's..."
+  },
+  {
+    "start": 3089.36,
+    "end": 3091.04,
+    "text": " What do you mean records in directions?"
+  },
+  {
+    "start": 3091.04,
+    "end": 3092.48,
+    "text": " So here's one."
+  },
+  {
+    "start": 3092.48,
+    "end": 3094.8,
+    "text": " The youngest MP ever in the House of Commons in England."
+  },
+  {
+    "start": 3094.8,
+    "end": 3095.12,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 3095.12,
+    "end": 3098.64,
+    "text": " Christopher Monk who was elected MP for Devon aged 13."
+  },
+  {
+    "start": 3098.64,
+    "end": 3099.84,
+    "text": " Yeah."
+  },
+  {
+    "start": 3099.84,
+    "end": 3101.12,
+    "text": " How old did he become a monk?"
+  },
+  {
+    "start": 3101.12,
+    "end": 3101.76,
+    "text": " That's the question."
+  },
+  {
+    "start": 3101.76,
+    "end": 3103.12,
+    "text": " Brilliant."
+  },
+  {
+    "start": 3103.12,
+    "end": 3106.32,
+    "text": " You know the interesting thing about Christopher Monk?"
+  },
+  {
+    "start": 3106.32,
+    "end": 3108.88,
+    "text": " I haven't seen that page, but I do have him in my notes."
+  },
+  {
+    "start": 3108.88,
+    "end": 3109.6,
+    "text": " Fantastic."
+  },
+  {
+    "start": 3109.6,
+    "end": 3116.16,
+    "text": " And he in 1681 arranged a boxing match between his butler and his butcher,"
+  },
+  {
+    "start": 3116.16,
+    "end": 3118.8,
+    "text": " which is the first recorded boxing match in England."
+  },
+  {
+    "start": 3118.8,
+    "end": 3120.56,
+    "text": " That's really good."
+  },
+  {
+    "start": 3120.56,
+    "end": 3121.92,
+    "text": " Yeah, 1681."
+  },
+  {
+    "start": 3121.92,
+    "end": 3123.52,
+    "text": " He's a real man of the people as well, wasn't he?"
+  },
+  {
+    "start": 3123.52,
+    "end": 3129.6,
+    "text": " And the butcher won, we know, but we don't know much more about that."
+  },
+  {
+    "start": 3129.6,
+    "end": 3131.12,
+    "text": " He had a big right hook, didn't he?"
+  },
+  {
+    "start": 3131.12,
+    "end": 3132.24,
+    "text": " Yeah, I like it."
+  },
+  {
+    "start": 3132.24,
+    "end": 3133.12,
+    "text": " Nice."
+  },
+  {
+    "start": 3133.12,
+    "end": 3134.16,
+    "text": " Thank you."
+  },
+  {
+    "start": 3134.16,
+    "end": 3135.28,
+    "text": " They're all coming out tonight."
+  },
+  {
+    "start": 3135.28,
+    "end": 3135.68,
+    "text": " Oh yeah."
+  },
+  {
+    "start": 3135.68,
+    "end": 3138.56,
+    "text": " Wow."
+  },
+  {
+    "start": 3138.56,
+    "end": 3141.28,
+    "text": " But the oldest MP, Samuel Young, are on a list."
+  },
+  {
+    "start": 3141.28,
+    "end": 3143.12,
+    "text": " No, that's brilliant."
+  },
+  {
+    "start": 3143.12,
+    "end": 3145.12,
+    "text": " Served until he was 96 years old."
+  },
+  {
+    "start": 3145.12,
+    "end": 3146.64,
+    "text": " Really impressive."
+  },
+  {
+    "start": 3146.64,
+    "end": 3150.24,
+    "text": " How old was Baroness Trumpington when she died?"
+  },
+  {
+    "start": 3150.24,
+    "end": 3151.84,
+    "text": " She was really old."
+  },
+  {
+    "start": 3151.84,
+    "end": 3155.68,
+    "text": " She was in the Lords, and I think most people in the Lords are at least 90, aren't they?"
+  },
+  {
+    "start": 3155.68,
+    "end": 3159.84,
+    "text": " But you know, Parliament wasn't for a long time, it was very unofficial,"
+  },
+  {
+    "start": 3159.84,
+    "end": 3162.4,
+    "text": " but you know, it was local landowners, and then it was Barons,"
+  },
+  {
+    "start": 3162.4,
+    "end": 3165.36,
+    "text": " and then as they gradually extended the right to vote to more people,"
+  },
+  {
+    "start": 3165.36,
+    "end": 3168.48,
+    "text": " they gradually thought, \"Probably can't be only Baroness."
+  },
+  {
+    "start": 3168.48,
+    "end": 3169.36,
+    "text": " We've got it in the house of Trump.\""
+  },
+  {
+    "start": 3169.36,
+    "end": 3169.76,
+    "text": " Whatever."
+  },
+  {
+    "start": 3169.76,
+    "end": 3171.52,
+    "text": " Yeah, yeah."
+  },
+  {
+    "start": 3171.52,
+    "end": 3175.92,
+    "text": " I liked George Sitwell, who's actually Edith Sitwell, the poet's dad,"
+  },
+  {
+    "start": 3175.92,
+    "end": 3180.8,
+    "text": " but he was an MP in the 1880s and 90s, MP for Scarborough,"
+  },
+  {
+    "start": 3180.8,
+    "end": 3183.44,
+    "text": " and he was just a fun guy."
+  },
+  {
+    "start": 3183.44,
+    "end": 3184.64,
+    "text": " He spent his time writing books."
+  },
+  {
+    "start": 3184.64,
+    "end": 3188.4,
+    "text": " He wrote books on pig keeping in the 13th century, lepers squints."
+  },
+  {
+    "start": 3188.4,
+    "end": 3191.6,
+    "text": " Acorns is an article of medieval diet and the history of the fork."
+  },
+  {
+    "start": 3191.6,
+    "end": 3193.84,
+    "text": " Lepers squints."
+  },
+  {
+    "start": 3193.84,
+    "end": 3194.96,
+    "text": " Yeah, wrote a book."
+  },
+  {
+    "start": 3194.96,
+    "end": 3196.16,
+    "text": " I don't think he got these books published."
+  },
+  {
+    "start": 3196.16,
+    "end": 3199.28,
+    "text": " He sounds very much like a QI researcher."
+  },
+  {
+    "start": 3199.28,
+    "end": 3200.32,
+    "text": " Yeah, he really does."
+  },
+  {
+    "start": 3200.32,
+    "end": 3202.48,
+    "text": " Researching random topics of his own interest."
+  },
+  {
+    "start": 3202.48,
+    "end": 3206.16,
+    "text": " He does, and actually, very creative as well, as we all have to be,"
+  },
+  {
+    "start": 3206.16,
+    "end": 3211.28,
+    "text": " because he invented a musical toothbrush that played a song while you cleaned your teeth."
+  },
+  {
+    "start": 3211.28,
+    "end": 3212,
+    "text": " That is good."
+  },
+  {
+    "start": 3212,
+    "end": 3212.48,
+    "text": " That's good."
+  },
+  {
+    "start": 3212.48,
+    "end": 3213.6,
+    "text": " This one in the 1880s."
+  },
+  {
+    "start": 3213.6,
+    "end": 3214.08,
+    "text": " Yeah."
+  },
+  {
+    "start": 3214.08,
+    "end": 3218.32,
+    "text": " He also invented a mini gun for shooting wasps, and the Sitwell egg."
+  },
+  {
+    "start": 3218.32,
+    "end": 3223.76,
+    "text": " It was nothing, you know, you didn't sit on it."
+  },
+  {
+    "start": 3223.76,
+    "end": 3225.68,
+    "text": " It wasn't a Gwyneth Paltrow kind of freak."
+  },
+  {
+    "start": 3225.68,
+    "end": 3228.24,
+    "text": " You're sitting well."
+  },
+  {
+    "start": 3228.24,
+    "end": 3231.28,
+    "text": " Tell me about it."
+  },
+  {
+    "start": 3231.28,
+    "end": 3232.24,
+    "text": " Got the egg up there."
+  },
+  {
+    "start": 3232.24,
+    "end": 3236.48,
+    "text": " No, it was made of smoked meat, which was the yolk,"
+  },
+  {
+    "start": 3236.48,
+    "end": 3238.88,
+    "text": " and then it was wrapped in the white, which was rice,"
+  },
+  {
+    "start": 3238.88,
+    "end": 3242.48,
+    "text": " and then a synthetic shell around it, and he tried to sell it into his self-ridges."
+  },
+  {
+    "start": 3242.48,
+    "end": 3245.28,
+    "text": " So he was trying to have a new Scotch egg, basically."
+  },
+  {
+    "start": 3245.28,
+    "end": 3247.68,
+    "text": " But we go stock with rice, did you say?"
+  },
+  {
+    "start": 3247.68,
+    "end": 3248.32,
+    "text": " With rice, exactly."
+  },
+  {
+    "start": 3248.32,
+    "end": 3251.12,
+    "text": " Well, that's like an umu subi, like the kind of Japanese one."
+  },
+  {
+    "start": 3251.12,
+    "end": 3252.4,
+    "text": " Yes, I was actually going to say sushi,"
+  },
+  {
+    "start": 3252.4,
+    "end": 3254.88,
+    "text": " but it sounds like you've said the proper thing that it is."
+  },
+  {
+    "start": 3254.88,
+    "end": 3259.12,
+    "text": " Apparently, when he went to self-ridges,"
+  },
+  {
+    "start": 3259.12,
+    "end": 3261.68,
+    "text": " he walked into the front door and said,"
+  },
+  {
+    "start": 3261.68,
+    "end": 3264.96,
+    "text": " \"I am Sir George Sitwell, and I brought my egg with me.\""
+  },
+  {
+    "start": 3264.96,
+    "end": 3268.08,
+    "text": " Hello, dragons."
+  },
+  {
+    "start": 3268.08,
+    "end": 3278.32,
+    "text": " I love Ignatius Timothy Trebich Lincoln."
+  },
+  {
+    "start": 3278.32,
+    "end": 3279.44,
+    "text": " So do I."
+  },
+  {
+    "start": 3279.44,
+    "end": 3281.92,
+    "text": " Another man of the people judging by his name, clearly."
+  },
+  {
+    "start": 3281.92,
+    "end": 3286.64,
+    "text": " But he had the most insane CV of anybody I have ever heard of."
+  },
+  {
+    "start": 3286.64,
+    "end": 3290.16,
+    "text": " So he was born in Hungary to an Orthodox Jewish family."
+  },
+  {
+    "start": 3290.16,
+    "end": 3294.16,
+    "text": " He was a student rabbi, but then he became wanted for petty theft."
+  },
+  {
+    "start": 3294.16,
+    "end": 3296.72,
+    "text": " So he fled to London, he became a Christian,"
+  },
+  {
+    "start": 3296.72,
+    "end": 3299.84,
+    "text": " and then he went to Canada as a Presbyterian missionary,"
+  },
+  {
+    "start": 3299.84,
+    "end": 3302.64,
+    "text": " and then he went back to England as an Anglican curate,"
+  },
+  {
+    "start": 3302.64,
+    "end": 3306,
+    "text": " and then he was an MP for Darlington in 1910."
+  },
+  {
+    "start": 3306,
+    "end": 3309.68,
+    "text": " He ran out of money, so he stopped being an MP."
+  },
+  {
+    "start": 3309.68,
+    "end": 3312.24,
+    "text": " He became a speculator in Romanian oil,"
+  },
+  {
+    "start": 3312.24,
+    "end": 3315.12,
+    "text": " a German continental spy in World War I,"
+  },
+  {
+    "start": 3315.12,
+    "end": 3317.68,
+    "text": " and then a munition merchant in China."
+  },
+  {
+    "start": 3317.68,
+    "end": 3321.84,
+    "text": " And then he converted to Buddhism, became a monk,"
+  },
+  {
+    "start": 3321.84,
+    "end": 3324.48,
+    "text": " and then tried to become a Nazi collaborator."
+  },
+  {
+    "start": 3324.48,
+    "end": 3327.52,
+    "text": " That all sounds very tiring."
+  },
+  {
+    "start": 3327.52,
+    "end": 3328.72,
+    "text": " He could have just been a liar."
+  },
+  {
+    "start": 3328.72,
+    "end": 3332.4,
+    "text": " And then you could do all that stuff."
+  },
+  {
+    "start": 3332.4,
+    "end": 3336.24,
+    "text": " That's true, but the absolute cherry on the cake for me is that"
+  },
+  {
+    "start": 3336.24,
+    "end": 3338.72,
+    "text": " he made contact with the Nazis, right?"
+  },
+  {
+    "start": 3338.72,
+    "end": 3340.32,
+    "text": " Because he said to him, \"Listen,"
+  },
+  {
+    "start": 3340.32,
+    "end": 3342.56,
+    "text": " I have declared myself the Dalai Lama.\""
+  },
+  {
+    "start": 3342.56,
+    "end": 3347.2,
+    "text": " And I am backed by the Japanese."
+  },
+  {
+    "start": 3347.2,
+    "end": 3349.6,
+    "text": " The Tibetans were less keen on this idea,"
+  },
+  {
+    "start": 3349.6,
+    "end": 3350.56,
+    "text": " but the Japanese were like,"
+  },
+  {
+    "start": 3350.56,
+    "end": 3354.56,
+    "text": " \"Yeah, this random Hungarian Jewish Christian MP guy,"
+  },
+  {
+    "start": 3354.56,
+    "end": 3356.16,
+    "text": " he can be our Dalai Lama.\""
+  },
+  {
+    "start": 3356.16,
+    "end": 3359.6,
+    "text": " And he said, \"I can help you lead a Buddhist uprising"
+  },
+  {
+    "start": 3359.6,
+    "end": 3361.6,
+    "text": " in the East for the Nazis.\""
+  },
+  {
+    "start": 3361.6,
+    "end": 3364.64,
+    "text": " That's a great alternative history of the war."
+  },
+  {
+    "start": 3364.64,
+    "end": 3365.12,
+    "text": " Right."
+  },
+  {
+    "start": 3365.12,
+    "end": 3365.92,
+    "text": " Did they go for it?"
+  },
+  {
+    "start": 3366.48,
+    "end": 3369.28,
+    "text": " Unfortunately, they didn't, sadly."
+  },
+  {
+    "start": 3369.28,
+    "end": 3370.24,
+    "text": " Sadly."
+  },
+  {
+    "start": 3370.24,
+    "end": 3372.08,
+    "text": " Sadly, the Nazis did the war."
+  },
+  {
+    "start": 3372.08,
+    "end": 3375.28,
+    "text": " But how amazing would history would have been"
+  },
+  {
+    "start": 3375.28,
+    "end": 3377.04,
+    "text": " if the Hungarian Dalai Lama?"
+  },
+  {
+    "start": 3377.04,
+    "end": 3378.16,
+    "text": " Good grief."
+  },
+  {
+    "start": 3378.16,
+    "end": 3378.96,
+    "text": " The names are incredible."
+  },
+  {
+    "start": 3378.96,
+    "end": 3380.16,
+    "text": " What's he called it? Ignatius?"
+  },
+  {
+    "start": 3380.16,
+    "end": 3382.16,
+    "text": " Ignatius Timothy Trebuch Lincoln."
+  },
+  {
+    "start": 3382.16,
+    "end": 3384.48,
+    "text": " They do have just good..."
+  },
+  {
+    "start": 3384.48,
+    "end": 3386.64,
+    "text": " I don't know whether it's like minor aristocracy"
+  },
+  {
+    "start": 3386.64,
+    "end": 3388.96,
+    "text": " who are the kind of people who wear MPs in the 17th century,"
+  },
+  {
+    "start": 3388.96,
+    "end": 3390.96,
+    "text": " but Sir Freshville Hollars."
+  },
+  {
+    "start": 3390.96,
+    "end": 3391.84,
+    "text": " Lovely."
+  },
+  {
+    "start": 3391.84,
+    "end": 3392.32,
+    "text": " Grimsby."
+  },
+  {
+    "start": 3392.32,
+    "end": 3395.6,
+    "text": " I was looking at MPs who'd been injured in the line of..."
+  },
+  {
+    "start": 3395.6,
+    "end": 3397.68,
+    "text": " Not the line of duty, actually, just in their lives in general,"
+  },
+  {
+    "start": 3397.68,
+    "end": 3400.24,
+    "text": " because there were lots who'd lost arms in sea battles,"
+  },
+  {
+    "start": 3400.24,
+    "end": 3401.84,
+    "text": " as Sir Freshville did."
+  },
+  {
+    "start": 3401.84,
+    "end": 3404.8,
+    "text": " Sackville Tufton was wounded in the Battle of Schuenevelt."
+  },
+  {
+    "start": 3404.8,
+    "end": 3409.28,
+    "text": " Brooke Watson lost his right leg to a shark in Havana in 1749."
+  },
+  {
+    "start": 3409.28,
+    "end": 3411.6,
+    "text": " I mean, these guys had really interesting careers."
+  },
+  {
+    "start": 3411.6,
+    "end": 3412.88,
+    "text": " What's he doing there?"
+  },
+  {
+    "start": 3412.88,
+    "end": 3413.52,
+    "text": " Sailing around."
+  },
+  {
+    "start": 3413.52,
+    "end": 3415.84,
+    "text": " He was being used as an ore, wasn't he?"
+  },
+  {
+    "start": 3415.84,
+    "end": 3420.08,
+    "text": " John Stubbs, I love this."
+  },
+  {
+    "start": 3420.08,
+    "end": 3420.96,
+    "text": " This is a really interesting one."
+  },
+  {
+    "start": 3420.96,
+    "end": 3422.24,
+    "text": " He was the MP for Great Yarmouth."
+  },
+  {
+    "start": 3422.24,
+    "end": 3425.2,
+    "text": " He lost a hand for distributing a pamphlet"
+  },
+  {
+    "start": 3425.2,
+    "end": 3426.32,
+    "text": " in 1579."
+  },
+  {
+    "start": 3426.32,
+    "end": 3427.44,
+    "text": " What, to a lion?"
+  },
+  {
+    "start": 3427.44,
+    "end": 3428.24,
+    "text": " Oh, to a pamphlet."
+  },
+  {
+    "start": 3428.24,
+    "end": 3428.8,
+    "text": " Paper cut."
+  },
+  {
+    "start": 3428.8,
+    "end": 3431.92,
+    "text": " Bad paper cut."
+  },
+  {
+    "start": 3431.92,
+    "end": 3433.12,
+    "text": " His pamphlet was titled,"
+  },
+  {
+    "start": 3433.12,
+    "end": 3435.68,
+    "text": " \"The discovery of a gaping gulf where unto England"
+  },
+  {
+    "start": 3435.68,
+    "end": 3438.08,
+    "text": " is like to be swallowed by another French marriage"
+  },
+  {
+    "start": 3438.08,
+    "end": 3440.16,
+    "text": " if the Lord forbid not the bans.\""
+  },
+  {
+    "start": 3440.16,
+    "end": 3441.84,
+    "text": " And it was arguing that Queen Elizabeth"
+  },
+  {
+    "start": 3441.84,
+    "end": 3443.6,
+    "text": " was too old to have children,"
+  },
+  {
+    "start": 3443.6,
+    "end": 3446.8,
+    "text": " and she should therefore not marry the Duke of Anjou,"
+  },
+  {
+    "start": 3446.8,
+    "end": 3448.08,
+    "text": " who was a French prince,"
+  },
+  {
+    "start": 3448.08,
+    "end": 3450.48,
+    "text": " and he was sentenced to death."
+  },
+  {
+    "start": 3450.48,
+    "end": 3452.88,
+    "text": " And then that was commuted to losing a hand."
+  },
+  {
+    "start": 3452.88,
+    "end": 3454.72,
+    "text": " And then just before it happened,"
+  },
+  {
+    "start": 3454.72,
+    "end": 3456,
+    "text": " he said, \"Pray for me now."
+  },
+  {
+    "start": 3456,
+    "end": 3457.52,
+    "text": " My calamity is at hand.\""
+  },
+  {
+    "start": 3457.52,
+    "end": 3458.88,
+    "text": " Oh, yeah."
+  },
+  {
+    "start": 3458.88,
+    "end": 3459.68,
+    "text": " Oh, funny."
+  },
+  {
+    "start": 3459.68,
+    "end": 3461.36,
+    "text": " It's just nice of a pun to go before..."
+  },
+  {
+    "start": 3461.36,
+    "end": 3462.24,
+    "text": " It should have had a podcast."
+  },
+  {
+    "start": 3462.24,
+    "end": 3466,
+    "text": " He would have loved my bison gel, Gary."
+  },
+  {
+    "start": 3466,
+    "end": 3468.48,
+    "text": " Speaking of excellent names,"
+  },
+  {
+    "start": 3468.48,
+    "end": 3469.92,
+    "text": " just a very quick one here for you."
+  },
+  {
+    "start": 3469.92,
+    "end": 3474.32,
+    "text": " The Labour MP for Brockstow from 1929 to 1953"
+  },
+  {
+    "start": 3474.32,
+    "end": 3475.92,
+    "text": " was called Seymour Cox."
+  },
+  {
+    "start": 3475.92,
+    "end": 3477.52,
+    "text": " Brilliant."
+  },
+  {
+    "start": 3477.52,
+    "end": 3478.08,
+    "text": " Wow."
+  },
+  {
+    "start": 3478.08,
+    "end": 3479.12,
+    "text": " Brilliant."
+  },
+  {
+    "start": 3479.12,
+    "end": 3480.88,
+    "text": " Can't believe I've never heard of him."
+  },
+  {
+    "start": 3480.88,
+    "end": 3483.52,
+    "text": " I mean, as if you're not going to cross next to his name."
+  },
+  {
+    "start": 3483.52,
+    "end": 3485.28,
+    "text": " You don't need to come after Seymour, do you?"
+  },
+  {
+    "start": 3485.28,
+    "end": 3487.84,
+    "text": " Seymour Cox."
+  },
+  {
+    "start": 3487.84,
+    "end": 3489.36,
+    "text": " Yeah, that was his name."
+  },
+  {
+    "start": 3489.36,
+    "end": 3490.72,
+    "text": " It was also his campaign slogan."
+  },
+  {
+    "start": 3490.72,
+    "end": 3496,
+    "text": " But that's like a name that Bart would ring up most bar with."
+  },
+  {
+    "start": 3496,
+    "end": 3498.72,
+    "text": " Seymour Cox."
+  },
+  {
+    "start": 3498.72,
+    "end": 3501.36,
+    "text": " I don't know what x-rated Simpsons you've been watching."
+  },
+  {
+    "start": 3501.36,
+    "end": 3506.48,
+    "text": " Wow."
+  },
+  {
+    "start": 3506.48,
+    "end": 3507.6,
+    "text": " Seymour Cox."
+  },
+  {
+    "start": 3507.6,
+    "end": 3510.08,
+    "text": " Um, just one more said the MP."
+  },
+  {
+    "start": 3510.08,
+    "end": 3511.84,
+    "text": " Or, except for MP."
+  },
+  {
+    "start": 3511.84,
+    "end": 3512.32,
+    "text": " Yeah."
+  },
+  {
+    "start": 3512.32,
+    "end": 3514.08,
+    "text": " Um, God, it's so hard to choose."
+  },
+  {
+    "start": 3514.08,
+    "end": 3517.76,
+    "text": " There have been so many, but I do like John Mitten,"
+  },
+  {
+    "start": 3517.76,
+    "end": 3520.24,
+    "text": " who was a Tory MP in 1819."
+  },
+  {
+    "start": 3520.24,
+    "end": 3522.56,
+    "text": " Not for very long, because he found it really boring."
+  },
+  {
+    "start": 3522.56,
+    "end": 3525.04,
+    "text": " But he just did lots of fun stuff."
+  },
+  {
+    "start": 3525.04,
+    "end": 3528.24,
+    "text": " He once rode a horse into a hotel in Leamington Spa"
+  },
+  {
+    "start": 3528.24,
+    "end": 3530.88,
+    "text": " and rode it up the grand staircase in the middle"
+  },
+  {
+    "start": 3530.88,
+    "end": 3534.08,
+    "text": " onto a balcony and then jumped it down from the balcony"
+  },
+  {
+    "start": 3534.08,
+    "end": 3535.52,
+    "text": " over the diners in the restaurant below"
+  },
+  {
+    "start": 3535.52,
+    "end": 3536.88,
+    "text": " and out through the window."
+  },
+  {
+    "start": 3536.88,
+    "end": 3539.84,
+    "text": " If you're rich and a man here, a middle class,"
+  },
+  {
+    "start": 3539.84,
+    "end": 3541.92,
+    "text": " you could be a cuck for me."
+  },
+  {
+    "start": 3541.92,
+    "end": 3543.52,
+    "text": " I don't even think it was middle class, to be honest."
+  },
+  {
+    "start": 3543.52,
+    "end": 3545.52,
+    "text": " He was very, very, very..."
+  },
+  {
+    "start": 3545.52,
+    "end": 3548.48,
+    "text": " He would hunt a lot and like to do it naked."
+  },
+  {
+    "start": 3548.48,
+    "end": 3549.92,
+    "text": " Sometimes he'd start to hunt clothes"
+  },
+  {
+    "start": 3549.92,
+    "end": 3551.44,
+    "text": " and then apparently get so excited mid-hunt"
+  },
+  {
+    "start": 3551.44,
+    "end": 3552.8,
+    "text": " that he'd strip off all his clothes"
+  },
+  {
+    "start": 3552.8,
+    "end": 3554.08,
+    "text": " and then arrive back naked."
+  },
+  {
+    "start": 3554.08,
+    "end": 3556.96,
+    "text": " And in winter as well, so quite hardy,"
+  },
+  {
+    "start": 3556.96,
+    "end": 3559.6,
+    "text": " then he hunted ducks on a frozen lake naked as well."
+  },
+  {
+    "start": 3559.6,
+    "end": 3563.84,
+    "text": " He liked animals, I don't know if that ingrates you."
+  },
+  {
+    "start": 3563.84,
+    "end": 3565.36,
+    "text": " It doesn't sound like he did,"
+  },
+  {
+    "start": 3565.36,
+    "end": 3567.84,
+    "text": " because he was hunting all the time."
+  },
+  {
+    "start": 3567.84,
+    "end": 3569.2,
+    "text": " He liked very specific animals."
+  },
+  {
+    "start": 3569.2,
+    "end": 3570.24,
+    "text": " I love animals."
+  },
+  {
+    "start": 3570.24,
+    "end": 3571.76,
+    "text": " I love shooting them."
+  },
+  {
+    "start": 3571.76,
+    "end": 3572.8,
+    "text": " I love hunting them."
+  },
+  {
+    "start": 3572.8,
+    "end": 3575.36,
+    "text": " Much like a lot of people who like hunting"
+  },
+  {
+    "start": 3575.36,
+    "end": 3576.56,
+    "text": " and killing certain animals."
+  },
+  {
+    "start": 3576.56,
+    "end": 3578.88,
+    "text": " He loved other animals, like his horse,"
+  },
+  {
+    "start": 3578.88,
+    "end": 3580.8,
+    "text": " who he used to nap with by the fireplace"
+  },
+  {
+    "start": 3580.8,
+    "end": 3582.48,
+    "text": " and who lived inside his house with him."
+  },
+  {
+    "start": 3582.48,
+    "end": 3584.16,
+    "text": " He's one of these people who..."
+  },
+  {
+    "start": 3584.16,
+    "end": 3585.28,
+    "text": " The stories are incredible"
+  },
+  {
+    "start": 3585.28,
+    "end": 3586.64,
+    "text": " and you think he would have been a nightmare"
+  },
+  {
+    "start": 3586.64,
+    "end": 3587.84,
+    "text": " to have in your extended family"
+  },
+  {
+    "start": 3587.84,
+    "end": 3589.52,
+    "text": " because it's always Mad Jack Mittens turned up"
+  },
+  {
+    "start": 3589.52,
+    "end": 3590.88,
+    "text": " and done something wacky again."
+  },
+  {
+    "start": 3590.88,
+    "end": 3592.8,
+    "text": " And I think he died in poverty, in debt,"
+  },
+  {
+    "start": 3592.8,
+    "end": 3594.72,
+    "text": " in prison at the age of about 30."
+  },
+  {
+    "start": 3594.72,
+    "end": 3595.6,
+    "text": " Yeah, yeah, yeah."
+  },
+  {
+    "start": 3595.6,
+    "end": 3597.68,
+    "text": " Am I allowed to say good?"
+  },
+  {
+    "start": 3598.96,
+    "end": 3600.32,
+    "text": " Well, yeah, you can tell what you like."
+  },
+  {
+    "start": 3600.32,
+    "end": 3602.56,
+    "text": " Yeah, he was a very eccentric dude."
+  },
+  {
+    "start": 3602.56,
+    "end": 3603.76,
+    "text": " He was, he loved being naked."
+  },
+  {
+    "start": 3603.76,
+    "end": 3606.8,
+    "text": " That's not eccentric."
+  },
+  {
+    "start": 3606.8,
+    "end": 3608,
+    "text": " No, it's illegal."
+  },
+  {
+    "start": 3608,
+    "end": 3609.12,
+    "text": " It's not illegal."
+  },
+  {
+    "start": 3609.12,
+    "end": 3610.32,
+    "text": " It's actually only illegal"
+  },
+  {
+    "start": 3610.32,
+    "end": 3612.4,
+    "text": " if you're causing hard-walled distress or intending to."
+  },
+  {
+    "start": 3612.4,
+    "end": 3614.48,
+    "text": " Sorry, you don't need to justify yourself to me."
+  },
+  {
+    "start": 3614.48,
+    "end": 3618.72,
+    "text": " And that very well-positioned baby carrot"
+  },
+  {
+    "start": 3618.72,
+    "end": 3620.8,
+    "text": " saves your blushes anyway."
+  },
+  {
+    "start": 3620.8,
+    "end": 3624.32,
+    "text": " My calendar, it's not a company one."
+  },
+  {
+    "start": 3624.32,
+    "end": 3627.12,
+    "text": " It's just, this is actually legal calendar, 2024."
+  },
+  {
+    "start": 3627.68,
+    "end": 3629.68,
+    "text": " I'm not intending a larval distress."
+  },
+  {
+    "start": 3629.68,
+    "end": 3631.44,
+    "text": " And if you feel it, that's on you."
+  },
+  {
+    "start": 3631.44,
+    "end": 3634.32,
+    "text": " Well, I apologise if."
+  },
+  {
+    "start": 3634.32,
+    "end": 3637.36,
+    "text": " Sorry about the way you feel calendar."
+  },
+  {
+    "start": 3637.36,
+    "end": 3645.44,
+    "text": " Okay, that's all of our facts"
+  },
+  {
+    "start": 3645.44,
+    "end": 3647.12,
+    "text": " and thank you so much for listening."
+  },
+  {
+    "start": 3647.12,
+    "end": 3648.56,
+    "text": " We'll be back again next week"
+  },
+  {
+    "start": 3648.56,
+    "end": 3649.84,
+    "text": " with another episode."
+  },
+  {
+    "start": 3649.84,
+    "end": 3652.64,
+    "text": " In the meantime, you can get in touch with any of us"
+  },
+  {
+    "start": 3652.64,
+    "end": 3654.32,
+    "text": " on various social media accounts."
+  },
+  {
+    "start": 3654.32,
+    "end": 3655.36,
+    "text": " James."
+  },
+  {
+    "start": 3655.36,
+    "end": 3657.84,
+    "text": " I'm on Twitter @JamesHarken."
+  },
+  {
+    "start": 3657.84,
+    "end": 3658.24,
+    "text": " Andy."
+  },
+  {
+    "start": 3658.24,
+    "end": 3659.12,
+    "text": " @AndrewHunterM."
+  },
+  {
+    "start": 3659.12,
+    "end": 3660.64,
+    "text": " Liam."
+  },
+  {
+    "start": 3660.64,
+    "end": 3661.76,
+    "text": " I'm not on anything."
+  },
+  {
+    "start": 3661.76,
+    "end": 3663.76,
+    "text": " Good on you, me neither."
+  },
+  {
+    "start": 3663.76,
+    "end": 3666.24,
+    "text": " But if you want to get in touch with a lot of us,"
+  },
+  {
+    "start": 3666.24,
+    "end": 3668.32,
+    "text": " you can email podcast.qi.com"
+  },
+  {
+    "start": 3668.32,
+    "end": 3670.8,
+    "text": " or you can tweet @NoSuchThing."
+  },
+  {
+    "start": 3670.8,
+    "end": 3672.16,
+    "text": " Or feel free to go to our website"
+  },
+  {
+    "start": 3672.16,
+    "end": 3674,
+    "text": " where you can get all our episodes"
+  },
+  {
+    "start": 3674,
+    "end": 3676.32,
+    "text": " and links to various other things that we do."
+  },
+  {
+    "start": 3676.32,
+    "end": 3678.64,
+    "text": " That's no such thing as a fish.com."
+  },
+  {
+    "start": 3678.64,
+    "end": 3681.44,
+    "text": " That will also give you a link to Club Fish,"
+  },
+  {
+    "start": 3681.44,
+    "end": 3683.68,
+    "text": " which is our special secret society,"
+  },
+  {
+    "start": 3683.68,
+    "end": 3686.24,
+    "text": " subscriber society where we put all of our good content."
+  },
+  {
+    "start": 3686.24,
+    "end": 3690.4,
+    "text": " I think it's where you can buy Andy's new calendar, isn't it?"
+  },
+  {
+    "start": 3690.4,
+    "end": 3690.96,
+    "text": " Certainly is."
+  },
+  {
+    "start": 3690.96,
+    "end": 3694,
+    "text": " You actually get someone whether you want to or not."
+  },
+  {
+    "start": 3694,
+    "end": 3696.16,
+    "text": " You have to pay extra not to get the calendar."
+  },
+  {
+    "start": 3696.16,
+    "end": 3701.12,
+    "text": " And other than that,"
+  },
+  {
+    "start": 3701.12,
+    "end": 3704.64,
+    "text": " please join us again next week for another episode."
+  },
+  {
+    "start": 3704.64,
+    "end": 3705.68,
+    "text": " Thank you so much for listening."
+  },
+  {
+    "start": 3705.68,
+    "end": 3707.12,
+    "text": " We'll see you again."
+  },
+  {
+    "start": 3707.12,
+    "end": 3707.76,
+    "text": " Goodbye."
+  },
+  {
+    "start": 3707.76,
+    "end": 3717.76,
+    "text": " [Music]"
+  },
+  {
+    "start": 3717.76,
+    "end": 3727.76,
+    "text": " [BLANK_AUDIO]"
+  }
+]

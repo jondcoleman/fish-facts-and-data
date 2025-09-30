@@ -1,0 +1,3072 @@
+[
+  {
+    "start": 0,
+    "end": 4.32,
+    "text": " Hi everybody, Andy here. Just a couple of announcements before we start this week's show."
+  },
+  {
+    "start": 4.32,
+    "end": 8.32,
+    "text": " The first announcement is that as you will see from the episode number here,"
+  },
+  {
+    "start": 8.32,
+    "end": 15.36,
+    "text": " this is the 500th episode of No Such Thing as a Fish. And we just wanted to say we are so thrilled"
+  },
+  {
+    "start": 15.36,
+    "end": 21.04,
+    "text": " to have made it to 500. We definitely didn't think we would when we started this in 2014."
+  },
+  {
+    "start": 21.04,
+    "end": 24.8,
+    "text": " And we wanted to say thank you to all of you for listening. We know loads of you have been"
+  },
+  {
+    "start": 24.8,
+    "end": 28.48,
+    "text": " listening for many years. Plenty of you have been listening right from the get-go. And whether"
+  },
+  {
+    "start": 28.48,
+    "end": 32.72,
+    "text": " you've listened to 500 episodes or whether you've just started, we wanted to say a huge thank you."
+  },
+  {
+    "start": 32.72,
+    "end": 37.36,
+    "text": " It would not have happened without you and we're thrilled you're here. This show is a very special"
+  },
+  {
+    "start": 37.36,
+    "end": 42.32,
+    "text": " one. It was recorded live at the London Podcast Festival. And as many of you know, we've been"
+  },
+  {
+    "start": 42.32,
+    "end": 47.44,
+    "text": " having lots of guests to cover. Anna on maternity leave. This time we pulled out all the stops."
+  },
+  {
+    "start": 47.44,
+    "end": 52.88,
+    "text": " And our special guest is a name that will be familiar to many of you because it's Anna. Anna"
+  },
+  {
+    "start": 52.88,
+    "end": 57.84,
+    "text": " Tadinski is back everybody. She's back. She's better than ever. She insults us all in the first"
+  },
+  {
+    "start": 57.84,
+    "end": 62.4,
+    "text": " three minutes of the recording. We really hope you enjoy this show. And Anna will be back full"
+  },
+  {
+    "start": 62.4,
+    "end": 66.8,
+    "text": " time in another month or so. The second announcement is about a very exciting new book that's been"
+  },
+  {
+    "start": 66.8,
+    "end": 73.28,
+    "text": " published. It's called Everything to Play for the QI Book of Sports. And its authors are none other"
+  },
+  {
+    "start": 73.28,
+    "end": 78.4,
+    "text": " than James Arkin and Anna Tadinski of this podcast. That's right. James and Anna have written their"
+  },
+  {
+    "start": 78.4,
+    "end": 84.56,
+    "text": " first joint book without me in Dan with. It's a brilliant book. It's a history of basically the"
+  },
+  {
+    "start": 84.56,
+    "end": 89.52,
+    "text": " entire world through the medium of sport. So it's great for people who like sport, but it's also"
+  },
+  {
+    "start": 89.52,
+    "end": 93.68,
+    "text": " great for people who don't think of themselves as sport lovers. I don't think of myself as a sport"
+  },
+  {
+    "start": 93.68,
+    "end": 98.48,
+    "text": " lover, but I'm reading it now and I'm absolutely engrossed. I'm learning fantastic new things on"
+  },
+  {
+    "start": 98.48,
+    "end": 104.16,
+    "text": " every single page. If you know someone who likes sport or if you like this podcast, you will love"
+  },
+  {
+    "start": 104.16,
+    "end": 109.44,
+    "text": " this book. It is absolutely full of mad, bizarre, wonderful niche things about the biggest sports"
+  },
+  {
+    "start": 109.44,
+    "end": 113.76,
+    "text": " in the world and the smallest ones and everything else in between. James and Anna have also read"
+  },
+  {
+    "start": 113.76,
+    "end": 118.48,
+    "text": " out the audiobook. So if you'd like to listen to them reading it, that's like a huge bumper"
+  },
+  {
+    "start": 118.48,
+    "end": 123.36,
+    "text": " bonus episode of Fish. That can be done too. Once again, it's called Everything to Play for,"
+  },
+  {
+    "start": 123.36,
+    "end": 128.16,
+    "text": " the QI Book of Sports. Get it now. Get one for yourself and one for someone else at Christmas."
+  },
+  {
+    "start": 128.16,
+    "end": 130.56,
+    "text": " That's it. Hope you enjoy it on with the show."
+  },
+  {
+    "start": 131.36,
+    "end": 137.36,
+    "text": " [Music]"
+  },
+  {
+    "start": 137.36,
+    "end": 154.88,
+    "text": " Ladies and gentlemen, welcome to a very special edition of No Such Thing as a Fish, our 500th"
+  },
+  {
+    "start": 154.88,
+    "end": 165.2,
+    "text": " show."
+  },
+  {
+    "start": 165.2,
+    "end": 175.2,
+    "text": " And then, yes, it turns out you get to run over by a tree."
+  },
+  {
+    "start": 175.2,
+    "end": 177.52,
+    "text": " Oh my god, I'm just around in a fight."
+  },
+  {
+    "start": 177.52,
+    "end": 189.84,
+    "text": " Yes, yes, yes."
+  },
+  {
+    "start": 189.84,
+    "end": 200.16,
+    "text": " [Music]"
+  },
+  {
+    "start": 200.16,
+    "end": 210.48,
+    "text": " [Applause]"
+  },
+  {
+    "start": 210.48,
+    "end": 220.8,
+    "text": " [Music]"
+  },
+  {
+    "start": 220.8,
+    "end": 235.6,
+    "text": " Good evening, ladies and gentlemen, and welcome to King's Place. Please welcome to the stage. No"
+  },
+  {
+    "start": 235.6,
+    "end": 243.92,
+    "text": " such thing as a fish."
+  },
+  {
+    "start": 243.92,
+    "end": 251.52,
+    "text": " Hey, everyone. Thanks so much for coming, everyone, tonight. How are you doing?"
+  },
+  {
+    "start": 251.52,
+    "end": 261.76,
+    "text": " Fuck yes. All right. Call the music, please. So we are so excited to be here tonight for our"
+  },
+  {
+    "start": 261.76,
+    "end": 270.32,
+    "text": " 500th episode. We are, thank you so much. We've been having a lot of guests over the last nine"
+  },
+  {
+    "start": 270.32,
+    "end": 275.12,
+    "text": " months to come on in Place of Anna because she's away of maternity, and so we've had a lot of fun."
+  },
+  {
+    "start": 275.12,
+    "end": 282.88,
+    "text": " Arguably the show's been better, I would say. It's felt stronger. Yeah. I'm joking, guys."
+  },
+  {
+    "start": 282.88,
+    "end": 286.4,
+    "text": " Do you think I'd ever say that? I've actually heard that. She'd kick my fucking ass."
+  },
+  {
+    "start": 287.76,
+    "end": 292.56,
+    "text": " So, yeah, anyway, we've been having amazing guests coming on, but we thought for the 500th episode,"
+  },
+  {
+    "start": 292.56,
+    "end": 297.04,
+    "text": " we need a big gun. We need someone who's going to really deliver the goods. Unfortunately,"
+  },
+  {
+    "start": 297.04,
+    "end": 303.04,
+    "text": " we've found someone a rookie. So please make a feel welcome, kind of guide her in. Please welcome"
+  },
+  {
+    "start": 303.04,
+    "end": 308.08,
+    "text": " the stage. Ladies and gentlemen, it is the return of Anna Tyshynski."
+  },
+  {
+    "start": 308.08,
+    "end": 328.16,
+    "text": " [APPLAUSE]"
+  },
+  {
+    "start": 328.16,
+    "end": 331.76,
+    "text": " What a funny ruse, Dan. What a hilarious little gag there."
+  },
+  {
+    "start": 333.36,
+    "end": 341.2,
+    "text": " We're back. Shit. Can I just say, no intro music for me, huge, ridiculously disproportionate buildup"
+  },
+  {
+    "start": 341.2,
+    "end": 346.88,
+    "text": " that's like welcoming Neil Armstrong back from the moon style buildup, and then no, no intro music"
+  },
+  {
+    "start": 346.88,
+    "end": 353.2,
+    "text": " for the super special, most exciting guest you've ever had on. Okay. Just a little director's note."
+  },
+  {
+    "start": 353.2,
+    "end": 356.56,
+    "text": " Well, let's see how you do in this episode, and we might have you back for more."
+  },
+  {
+    "start": 358.4,
+    "end": 363.6,
+    "text": " Thanks. All right. So we got a wheel ready to go. Shall we do it? 500th episode. All right. Okay."
+  },
+  {
+    "start": 363.6,
+    "end": 365.28,
+    "text": " Let's roll theme tune."
+  },
+  {
+    "start": 365.28,
+    "end": 383.52,
+    "text": " Hello and welcome to another episode of No Such Thing as a Fish, a weekly podcast this"
+  },
+  {
+    "start": 383.52,
+    "end": 393.92,
+    "text": " week coming to you from the London podcast festival. My name is Dan Schreiber. I am sitting"
+  },
+  {
+    "start": 393.92,
+    "end": 398.88,
+    "text": " here with James Harkin, Andrew Hunter Murray, and ladies and gentlemen, it is the return of Anna"
+  },
+  {
+    "start": 398.88,
+    "end": 407.6,
+    "text": " Tyshynski. And once again, we have gathered around the microphones with our four favorite facts"
+  },
+  {
+    "start": 407.6,
+    "end": 414.08,
+    "text": " for this very special 500th episode of No Such Thing as a Fish, and in no particular order,"
+  },
+  {
+    "start": 414.08,
+    "end": 421.04,
+    "text": " here we go. Starting with fact number one, and that is my fact. My fact this week is that in"
+  },
+  {
+    "start": 421.04,
+    "end": 427.44,
+    "text": " preparation for the 500th anniversary of the creation of Michelangelo's David, the people in"
+  },
+  {
+    "start": 427.44,
+    "end": 432.88,
+    "text": " charge of cleaning him had a huge falling out because they couldn't agree if he should be washed"
+  },
+  {
+    "start": 433.44,
+    "end": 441.76,
+    "text": " or dry cleaned. This was a big deal. There was 10 years of preparation for this big"
+  },
+  {
+    "start": 441.76,
+    "end": 446.16,
+    "text": " birthday that was coming up, but the one thing that they couldn't decide on near the end was"
+  },
+  {
+    "start": 446.16,
+    "end": 450.24,
+    "text": " how do you actually do the cleaning process itself? From the image behind us, it looks like"
+  },
+  {
+    "start": 450.24,
+    "end": 456.64,
+    "text": " he's been hoovered. Well, so this is after a decision has been made and a vacuum was involved,"
+  },
+  {
+    "start": 456.64,
+    "end": 462.48,
+    "text": " yes. I see. And also I haven't seen Michelangelo's David. Is he really, really big or is the person"
+  },
+  {
+    "start": 462.48,
+    "end": 468.48,
+    "text": " doing it a tiny little borrower? He's 17 foot, which I'm told by the internet is the average"
+  },
+  {
+    "start": 468.48,
+    "end": 474.48,
+    "text": " size of a giraffe. If you want to picture that, because we've all seen a giraffe. Well, no, I"
+  },
+  {
+    "start": 474.48,
+    "end": 478.96,
+    "text": " have. I've just realized I have. Sorry. That's why I say no. Yeah, they've got one at the zoo. Yeah."
+  },
+  {
+    "start": 478.96,
+    "end": 484.56,
+    "text": " But they don't have one of these at the zoo. No. That's how you can tell the difference in many."
+  },
+  {
+    "start": 484.56,
+    "end": 489.68,
+    "text": " Take a tell if you're in the zoo or in Florence. Yeah. What if you're in Florence?"
+  },
+  {
+    "start": 489.68,
+    "end": 493.84,
+    "text": " So it's, yeah, that's the, that's the one test case, which doesn't work because they've got both."
+  },
+  {
+    "start": 493.84,
+    "end": 501.68,
+    "text": " Yeah. Has it always been this slick? It's not director's commentary. No, it is amazing."
+  },
+  {
+    "start": 501.68,
+    "end": 505.6,
+    "text": " In fact, the, so for the people listening at home that we've got a picture here of the lady who's"
+  },
+  {
+    "start": 505.6,
+    "end": 510.08,
+    "text": " cleaning him, I think her name might be Eleonora Pucci, because she's the lady who currently"
+  },
+  {
+    "start": 510.08,
+    "end": 515.6,
+    "text": " cleans David. And she was interviewed about it this year. And she does it every two months."
+  },
+  {
+    "start": 515.6,
+    "end": 519.04,
+    "text": " And she photographs him very carefully to see where basically where the dust is and whether"
+  },
+  {
+    "start": 519.04,
+    "end": 524.48,
+    "text": " any extra grime has accumulated. And then she, she dusts it and she has the special vacuum cleaner"
+  },
+  {
+    "start": 524.48,
+    "end": 529.84,
+    "text": " designed for statues, which I had no idea was even a thing. And she, she gets on a scaffold"
+  },
+  {
+    "start": 529.84,
+    "end": 533.76,
+    "text": " and she has this backpack vacuum cleaner and just hoops him. I just thought it was a low"
+  },
+  {
+    "start": 533.76,
+    "end": 538.16,
+    "text": " pressure vacuum. Is it designed for statues? It's not just a crap vacuum cleaner. It's a Henry."
+  },
+  {
+    "start": 538.16,
+    "end": 544.64,
+    "text": " Okay. Henry is high pressure. Is it famously? Yeah. I think my vacuum cleaner, I might have"
+  },
+  {
+    "start": 544.64,
+    "end": 549.36,
+    "text": " accidentally bought a statue vacuum cleaner. Can't even get rid of a cobweb thread. But yeah,"
+  },
+  {
+    "start": 549.36,
+    "end": 553.44,
+    "text": " I think there might be some jealousy amongst the other statues. Cause did you read, I think it was"
+  },
+  {
+    "start": 553.44,
+    "end": 558.88,
+    "text": " the comment from her when she said, we dust the other statues four times a year, but his majesty"
+  },
+  {
+    "start": 558.88,
+    "end": 566.16,
+    "text": " gets the treatment every two months. After they did the big restoration, I was reading an interview"
+  },
+  {
+    "start": 566.16,
+    "end": 572,
+    "text": " with a member of the team called Antonio Pallucci. And he said, only someone with expert"
+  },
+  {
+    "start": 572,
+    "end": 576.96,
+    "text": " knowledge and a thorough and long familiarity with the statue will be able to tell that"
+  },
+  {
+    "start": 576.96,
+    "end": 582.16,
+    "text": " certain irregularities are no longer there. Okay. And I'm just thinking that that's what I would"
+  },
+  {
+    "start": 582.16,
+    "end": 588,
+    "text": " say if I hadn't done it. Yes. Oh, you can't say it. Well, that's because you're not an expert."
+  },
+  {
+    "start": 588,
+    "end": 591.68,
+    "text": " If you're an expert, you'd be able to see what I've done. Yeah. They got so angry about it,"
+  },
+  {
+    "start": 591.68,
+    "end": 597.04,
+    "text": " didn't they? There was so much drama. Like someone, someone resigned over which cleaning method"
+  },
+  {
+    "start": 597.04,
+    "end": 600.8,
+    "text": " they were going to use. Can we talk about what is the difference in statue terms? Cause I'm not"
+  },
+  {
+    "start": 600.8,
+    "end": 603.84,
+    "text": " even sure what the difference is in clothes terms between washing and dry cleaning. What's the"
+  },
+  {
+    "start": 603.84,
+    "end": 608.8,
+    "text": " difference in statutes? Okay. Well, okay. Um, so what I'm going to tell you has a lot of gaps"
+  },
+  {
+    "start": 608.8,
+    "end": 617.52,
+    "text": " because I don't understand it, but, um, roughly what I'm about to tell you roughly, it's very"
+  },
+  {
+    "start": 617.52,
+    "end": 622.56,
+    "text": " hard to clean a statue. Okay. That's one of the big problems. You're not even dealing with the"
+  },
+  {
+    "start": 622.56,
+    "end": 626.56,
+    "text": " grime that it's accumulated over the past. It's about the previous cleaning methods that have"
+  },
+  {
+    "start": 626.56,
+    "end": 631.44,
+    "text": " messed up the statue. So you're kind of dealing with the problems of the past. So, so David was"
+  },
+  {
+    "start": 631.44,
+    "end": 637.92,
+    "text": " cleaned in the 1800s at some time and then nothing until 2004 or three when they were getting ready"
+  },
+  {
+    "start": 637.92,
+    "end": 644,
+    "text": " for the big 500 anniversary. So if you use anything that's wet on it, you're going to be making things"
+  },
+  {
+    "start": 644,
+    "end": 648.8,
+    "text": " worse. Whereas the brush is just a light thing. So is that dry cleaning? The dry cleaning is the"
+  },
+  {
+    "start": 648.8,
+    "end": 654.08,
+    "text": " brush. The vacuuming is the, is the dry cleaning. A wet cleaning would be washing machine, soapy"
+  },
+  {
+    "start": 654.08,
+    "end": 660.48,
+    "text": " water, soapy water, a big car. I'll imagine a car wash with the David Cakes. Yeah. So, but"
+  },
+  {
+    "start": 660.48,
+    "end": 664.4,
+    "text": " you had these two people. You had the director of the museum who was going for one side. You had"
+  },
+  {
+    "start": 664.4,
+    "end": 668.24,
+    "text": " the person who was brought in arguing for the other side. And then there was an international"
+  },
+  {
+    "start": 668.24,
+    "end": 673.52,
+    "text": " body of artists who were protesting and writing letters saying, let them just stay dirty. They"
+  },
+  {
+    "start": 673.52,
+    "end": 678.4,
+    "text": " didn't want them cleaned at all. Yeah. So it's, uh, why do we want them to stay dirty? Is that"
+  },
+  {
+    "start": 678.4,
+    "end": 683.04,
+    "text": " because I think in case of a case of damage, yeah, because they did in the olden days, didn't"
+  },
+  {
+    "start": 683.04,
+    "end": 686.4,
+    "text": " they? Like they cleaned in with hydrochloric acid, I think that time in the 19th century,"
+  },
+  {
+    "start": 686.4,
+    "end": 692.08,
+    "text": " yeah, which really screwed them up. Yeah. Wow. Have you heard of, uh, natural enzyme cleaning?"
+  },
+  {
+    "start": 692.08,
+    "end": 695.84,
+    "text": " No, what's that? There's a thing that lots of curators do and it's basically spitting on the"
+  },
+  {
+    "start": 695.84,
+    "end": 701.44,
+    "text": " artworks that you, oh yeah. Yeah. They don't actually spit that. I think, well, the good ones"
+  },
+  {
+    "start": 701.44,
+    "end": 706.4,
+    "text": " don't spit on the artworks. Basically you use, you, you lick a cotton bud and then you use that."
+  },
+  {
+    "start": 706.4,
+    "end": 710.16,
+    "text": " But, uh, but during COVID, they stopped this practice, but loads of really senior people"
+  },
+  {
+    "start": 710.16,
+    "end": 714.96,
+    "text": " but it's so safe. That's the thing. It's so, it's one of those things which was a bit,"
+  },
+  {
+    "start": 714.96,
+    "end": 719.52,
+    "text": " it was a bit overkill. Yeah. People aren't going licking David, are they? Exactly. Unless visitors"
+  },
+  {
+    "start": 719.52,
+    "end": 723.76,
+    "text": " are actually licking the thing, then it was, it is totally safe. So if you are in the National"
+  },
+  {
+    "start": 723.76,
+    "end": 729.52,
+    "text": " Gallery and you spit on a painting, is that defense, do you think? When they come around"
+  },
+  {
+    "start": 729.52,
+    "end": 734.08,
+    "text": " and say, we said not to go near it, I think you can probably say, I'm just cleaning,"
+  },
+  {
+    "start": 734.08,
+    "end": 740.08,
+    "text": " my lease or whatever. Who's not in the National Gallery? I know. Yeah. It's worth trying, I think."
+  },
+  {
+    "start": 740.08,
+    "end": 744.96,
+    "text": " If you do anything. Do you know, so one of the few things that were on David that needed cleaning,"
+  },
+  {
+    "start": 744.96,
+    "end": 752.8,
+    "text": " there was beeswax on him. Really? Why would there be beeswax? Because, because bees have made a,"
+  },
+  {
+    "start": 752.8,
+    "end": 760,
+    "text": " made a hive inside his butt crack. Good call. No. Yeah. Um, I'd say the same answer was James."
+  },
+  {
+    "start": 760,
+    "end": 767.44,
+    "text": " Yeah. Correct. Yeah. Sometimes I just need to hear it a second time. So beeswax is used to,"
+  },
+  {
+    "start": 767.44,
+    "end": 772.88,
+    "text": " that's a cleaning product, isn't it? That's, that's why. Yeah, you get beeswax to clean with. Yeah,"
+  },
+  {
+    "start": 772.88,
+    "end": 777.44,
+    "text": " presumably. So they're not entirely sure, but what they think it is, is that back in the day,"
+  },
+  {
+    "start": 777.44,
+    "end": 781.84,
+    "text": " pre-electricity, when people were coming to see, and they were on, let's say, a higher ledge to"
+  },
+  {
+    "start": 781.84,
+    "end": 787.68,
+    "text": " look over it, the candles that they were holding to get a better view was melting on top of David."
+  },
+  {
+    "start": 787.68,
+    "end": 793.92,
+    "text": " And so they found 15 splashes of beeswax. He was actually bald originally, wasn't he?"
+  },
+  {
+    "start": 793.92,
+    "end": 798.96,
+    "text": " That's all just wax accumulated. It is weird, isn't it? That, because it's David, David is"
+  },
+  {
+    "start": 798.96,
+    "end": 806.72,
+    "text": " famously a smaller person in the story. Yeah. He's so big. Have you not seen the Goliath statue?"
+  },
+  {
+    "start": 806.72,
+    "end": 814.24,
+    "text": " It's next star. Oh, wow. In the zoo. How many? There's one thing in particular that I have in"
+  },
+  {
+    "start": 814.24,
+    "end": 818.96,
+    "text": " common with David, the statue. Can you guess what that is? Not the penis."
+  },
+  {
+    "start": 818.96,
+    "end": 827.04,
+    "text": " What do we know about it? You make your wife whoop you every day before you go to work."
+  },
+  {
+    "start": 827.04,
+    "end": 833.04,
+    "text": " We have a lot of suction on our Henry."
+  },
+  {
+    "start": 833.04,
+    "end": 840.24,
+    "text": " It's very much a three-person relationship. I need my wife and Henry."
+  },
+  {
+    "start": 842,
+    "end": 843.68,
+    "text": " That's why he's smiling all the time."
+  },
+  {
+    "start": 843.68,
+    "end": 850.88,
+    "text": " What do you have the same as him? Does he have the face blindness thing that you have?"
+  },
+  {
+    "start": 850.88,
+    "end": 858.16,
+    "text": " Because he looks like he doesn't recognize anyone. He's mad at us so many times. Look at"
+  },
+  {
+    "start": 858.16,
+    "end": 862.16,
+    "text": " him. He's like, who are you? I know you. I'll be honest, you're not going to get this. We would"
+  },
+  {
+    "start": 862.16,
+    "end": 869.44,
+    "text": " both collapse if we were tilted forward 15 degrees. Is that not the case with all of us?"
+  },
+  {
+    "start": 869.44,
+    "end": 873.84,
+    "text": " No, so a normal human will fall over after about 20 degrees of tilt."
+  },
+  {
+    "start": 873.84,
+    "end": 879.12,
+    "text": " Who got your big head? Is that what it is?"
+  },
+  {
+    "start": 879.12,
+    "end": 885.68,
+    "text": " He's got cracks on his ankles and if you tilt him, his ankles will absolutely collapse."
+  },
+  {
+    "start": 885.68,
+    "end": 892.72,
+    "text": " And I tried this. I videoed myself at home leaning forward until I fell over and then paused it and"
+  },
+  {
+    "start": 892.72,
+    "end": 900.24,
+    "text": " then measured exactly where I stopped. Did you really? Your wife's next door? Darling, Henry and I are waiting."
+  },
+  {
+    "start": 900.24,
+    "end": 906.08,
+    "text": " And it turns out that I can't get much further than 15 either."
+  },
+  {
+    "start": 906.08,
+    "end": 910.72,
+    "text": " I just want to be clear. I meant you've got a physically big head, not a metaphorically big"
+  },
+  {
+    "start": 910.72,
+    "end": 917.6,
+    "text": " head. Because that's better, I think. Oh, here's the thing. Michelangelo. Or are you calling Michelangelo"
+  },
+  {
+    "start": 917.6,
+    "end": 924.16,
+    "text": " or Michelangelo? What do you prefer? Michelangelo. Yeah, I think calling by the name that everyone"
+  },
+  {
+    "start": 924.16,
+    "end": 936.8,
+    "text": " knows him by. Okay. Yeah. Okay. So he was shorter than real life David. I want to say real life David."
+  },
+  {
+    "start": 936.8,
+    "end": 944.48,
+    "text": " He was just 16 feet. Yeah. No, I'm so sorry. So David in the Bible, the thing is the Bible doesn't"
+  },
+  {
+    "start": 944.48,
+    "end": 948.8,
+    "text": " say the height and weight classes of David and Goliath before they went into the fight. But"
+  },
+  {
+    "start": 948.8,
+    "end": 953.6,
+    "text": " there are lots of sort of biblical scholars who've had a rough, had a go at it. They think"
+  },
+  {
+    "start": 953.6,
+    "end": 958.32,
+    "text": " he, some think he might be five foot three. And Michelangelo was five two. But we only know that"
+  },
+  {
+    "start": 958.32,
+    "end": 963.2,
+    "text": " because shoes were found in his house. And they basically measured from the shoes. They assessed"
+  },
+  {
+    "start": 963.2,
+    "end": 967.76,
+    "text": " how tall, like if his shoes are this big, then he's this big. So how big was he?"
+  },
+  {
+    "start": 967.76,
+    "end": 972.64,
+    "text": " Five two. He's five foot three. So that's about the same as Lady Gaga or Yuri Gagarin."
+  },
+  {
+    "start": 972.64,
+    "end": 976.96,
+    "text": " Right. And he would be too short to be an Emirates airline flight attendant."
+  },
+  {
+    "start": 976.96,
+    "end": 982.96,
+    "text": " This is one of those studies, whoever came up with that, that is one of the many reasons I left"
+  },
+  {
+    "start": 982.96,
+    "end": 990.16,
+    "text": " this show originally. Shoes back in the olden days were not measured with that kind of precision."
+  },
+  {
+    "start": 990.16,
+    "end": 993.92,
+    "text": " A, that meant you could judge someone's height. And then B, you do get to all people with small"
+  },
+  {
+    "start": 993.92,
+    "end": 998.56,
+    "text": " feet. Yeah, it's, it's, it's an asset. Also, we don't know if they were his shoes. But yeah,"
+  },
+  {
+    "start": 1000.64,
+    "end": 1004.88,
+    "text": " they were found in his home. So, you know, yeah. Could have been a servant, could have been his"
+  },
+  {
+    "start": 1004.88,
+    "end": 1007.76,
+    "text": " wife. Could have been a servant, could have been his wife. I'm not sure if there was a Mrs. Michelangelo."
+  },
+  {
+    "start": 1007.76,
+    "end": 1012.24,
+    "text": " I don't know. Right. I think so. I think a lot of people think that he liked men."
+  },
+  {
+    "start": 1012.24,
+    "end": 1019.36,
+    "text": " And Michelangelo. Yes. And one of the reasons, fancied men, I mean, and one of the reasons"
+  },
+  {
+    "start": 1019.36,
+    "end": 1025.2,
+    "text": " is that his female sculptures often seem to be men with breasts. And a lot of people have looked"
+  },
+  {
+    "start": 1025.2,
+    "end": 1030.08,
+    "text": " into it and you should like look up Michelangelo female drawings and sculptures. They are,"
+  },
+  {
+    "start": 1030.08,
+    "end": 1035.04,
+    "text": " they're just men. It's like Arnold Schwarzenegger. And then with a sort of pair of lemons jammed"
+  },
+  {
+    "start": 1035.04,
+    "end": 1041.76,
+    "text": " onto the front. It's so weird. You know, there's a theory as to why his penis is so small. Have"
+  },
+  {
+    "start": 1041.76,
+    "end": 1052.96,
+    "text": " you read that? David's. No, James. Look, after all those nights with Henry, as dark as it used to be."
+  },
+  {
+    "start": 1052.96,
+    "end": 1062.08,
+    "text": " Oh, dear. Okay. So he famously has a small penis. Yeah. What is it called? No, it's so I thought"
+  },
+  {
+    "start": 1062.08,
+    "end": 1071.28,
+    "text": " you said, what is it called? Jeff, it's a private thing. No, so there was a study done and someone"
+  },
+  {
+    "start": 1071.28,
+    "end": 1076.4,
+    "text": " who read this study kind of pulled this out as a, as I don't think the authors of the study was"
+  },
+  {
+    "start": 1076.4,
+    "end": 1082.48,
+    "text": " specifically saying it, but they read from the detail. It's because he's about to fight a fucking"
+  },
+  {
+    "start": 1082.48,
+    "end": 1088.4,
+    "text": " giant and he's terrified. Right. Right. So his penis has shrunk in terror. And that's, that's"
+  },
+  {
+    "start": 1088.4,
+    "end": 1094.88,
+    "text": " Michelangelo showing that, um, yeah, like it was an adrenaline thing, isn't it? The body,"
+  },
+  {
+    "start": 1094.88,
+    "end": 1100.4,
+    "text": " the body doesn't remove blood from where it's not needed at the moment and puts it in, you know,"
+  },
+  {
+    "start": 1100.4,
+    "end": 1104.32,
+    "text": " like muscles for fight or flight and things like that. Your body doesn't suck it up so that it"
+  },
+  {
+    "start": 1104.32,
+    "end": 1110.24,
+    "text": " doesn't get hurt in the battle. That would be great. The actual penis on this statue is"
+  },
+  {
+    "start": 1110.24,
+    "end": 1117.28,
+    "text": " about six inches in length. So, you know, it's not, not small by real terms, but someone on"
+  },
+  {
+    "start": 1117.28,
+    "end": 1127.28,
+    "text": " Reddit called bendy, bendy spine. He worked out that in real life, if David was brought down to"
+  },
+  {
+    "start": 1127.28,
+    "end": 1134.64,
+    "text": " real size, he would be just under five centimeters. And that means according to standard UK guidelines,"
+  },
+  {
+    "start": 1134.64,
+    "end": 1142,
+    "text": " he would be considered a candidate for penile lengthening surgery. I noticed though he's"
+  },
+  {
+    "start": 1142,
+    "end": 1148.72,
+    "text": " converted it to centimeters to make it sound bigger. Yeah, there are a number of standard"
+  },
+  {
+    "start": 1148.72,
+    "end": 1154.88,
+    "text": " maneuvers you can pull. That's sure. But also it's not, it's not, it's not, um, it's not up. No,"
+  },
+  {
+    "start": 1154.88,
+    "end": 1158.56,
+    "text": " so it's faster. Yeah. But is that, is that, is that the measurement under which you qualify?"
+  },
+  {
+    "start": 1158.56,
+    "end": 1164.64,
+    "text": " Not, I don't need to ask. I'm not asking the fact. So let's just, you know, um, I'll set"
+  },
+  {
+    "start": 1164.64,
+    "end": 1173.84,
+    "text": " your legs up for the show. Thank you very much. Cheers. It is time for fact number two, and that"
+  },
+  {
+    "start": 1173.84,
+    "end": 1181.2,
+    "text": " is Anna. My fact is that having 10 fingers and no thumbs is very useful for playing the piano."
+  },
+  {
+    "start": 1181.2,
+    "end": 1188.16,
+    "text": " Okay. Yeah. So if anyone's got that in the audience, then take up the piano. Okay. So how"
+  },
+  {
+    "start": 1188.16,
+    "end": 1194.96,
+    "text": " do you end up with? Uh, so this is a condition, a rare condition, sure. But it's where you can be"
+  },
+  {
+    "start": 1194.96,
+    "end": 1200,
+    "text": " born with, um, no thumbs and instead of thumbs, you have fingers and I just find all this stuff so"
+  },
+  {
+    "start": 1200,
+    "end": 1205.76,
+    "text": " interesting. So it's little tweaks in our genes. So we have genes that specify like the position"
+  },
+  {
+    "start": 1205.76,
+    "end": 1209.52,
+    "text": " of things in our body and they're called hox genes. So that says like your arm goes on your"
+  },
+  {
+    "start": 1209.52,
+    "end": 1214.56,
+    "text": " shoulder, your foot goes on your leg. It's like funny bones. That book is kind of like that,"
+  },
+  {
+    "start": 1214.56,
+    "end": 1220.48,
+    "text": " the hox gene. And if the hox gene gets a mutation in it, then you might end up with something in"
+  },
+  {
+    "start": 1220.48,
+    "end": 1225.12,
+    "text": " the wrong place. And so if there's a particular mutation, you might end up with a finger as your"
+  },
+  {
+    "start": 1225.12,
+    "end": 1233.36,
+    "text": " thumb. And I happen to read two accounts. One is of a woman who had this five finger trait in 1957."
+  },
+  {
+    "start": 1233.36,
+    "end": 1238.24,
+    "text": " I actually initially read this in a book called quirks of human anatomy, an evo devo look at the"
+  },
+  {
+    "start": 1238.24,
+    "end": 1243.76,
+    "text": " human body, which is so interesting. And I would recommend anyway. Yep. She said she didn't think"
+  },
+  {
+    "start": 1243.76,
+    "end": 1247.52,
+    "text": " of it as a disability. It didn't hold her back in any way. And actually it meant that she played"
+  },
+  {
+    "start": 1247.52,
+    "end": 1253.52,
+    "text": " the piano more easily. And then there was a Reddit AMA quite recently with a man who has"
+  },
+  {
+    "start": 1253.52,
+    "end": 1258.48,
+    "text": " the same symptom. And again, he's a professional musician and he said it makes me better at the"
+  },
+  {
+    "start": 1258.48,
+    "end": 1262.72,
+    "text": " piano. Really? Now I know they don't know how good they would have been at the piano if they'd"
+  },
+  {
+    "start": 1262.72,
+    "end": 1268.88,
+    "text": " had eight fingers and two thumbs, but wait, hang on. Have you got two joints? You've got, um,"
+  },
+  {
+    "start": 1268.88,
+    "end": 1273.44,
+    "text": " I think it varies a little bit, but one of them had one of them was opposable and the other wasn't."
+  },
+  {
+    "start": 1273.44,
+    "end": 1278.16,
+    "text": " Because some people get this is a trifalangeal thumb. That's what it's called. And it's where"
+  },
+  {
+    "start": 1278.16,
+    "end": 1283.92,
+    "text": " your thumb has three phalanges. Those are the bones inside your fingers instead of two. So it"
+  },
+  {
+    "start": 1283.92,
+    "end": 1287.04,
+    "text": " might give you a longer thumb, but it might also give you a weaker thumb. And often those are not"
+  },
+  {
+    "start": 1287.04,
+    "end": 1291.84,
+    "text": " opposable, which is a pain. That is a pain. So it's useful very much on piano. It lies in on a flat"
+  },
+  {
+    "start": 1291.84,
+    "end": 1297.04,
+    "text": " surface, but not on a, you know, another environment like a guitar, which is weird because this guy"
+  },
+  {
+    "start": 1297.04,
+    "end": 1302.08,
+    "text": " also played the guitar and said it was useful for that. It sounds like he's a really sunny guy."
+  },
+  {
+    "start": 1302.16,
+    "end": 1309.84,
+    "text": " Like, yeah, he's making it work. It's amazing. In the, um, report about this woman in 1957,"
+  },
+  {
+    "start": 1309.84,
+    "end": 1314.72,
+    "text": " the woman with the five, five fingers on each hand, it said that she came into hospital because she"
+  },
+  {
+    "start": 1314.72,
+    "end": 1319.12,
+    "text": " was giving birth and that's when they documented her. And then it said her newborn was the same."
+  },
+  {
+    "start": 1319.12,
+    "end": 1326.96,
+    "text": " So we think the trait is probably genetic. That's a proper scientist. It's not like those"
+  },
+  {
+    "start": 1326.96,
+    "end": 1330.32,
+    "text": " chances. He found a shoe in Michelangelo's house and said, Oh, well, we think he was five foot"
+  },
+  {
+    "start": 1330.32,
+    "end": 1339.12,
+    "text": " two, actually. Do you guys think a thumb is a finger? No. Yeah. For the audience, is the thumb"
+  },
+  {
+    "start": 1339.12,
+    "end": 1350.08,
+    "text": " a finger? Yes. Is it not? Pretty evenly match. Well, it's a good job. You guys aren't finger surgeons"
+  },
+  {
+    "start": 1350.08,
+    "end": 1356.24,
+    "text": " because this is a problem in finger surgery that some surgeons count a thumb as a finger"
+  },
+  {
+    "start": 1356.24,
+    "end": 1362.72,
+    "text": " and some don't. And if you say to someone, you need to remove the fourth finger on someone's hand."
+  },
+  {
+    "start": 1362.72,
+    "end": 1367.28,
+    "text": " There have been cases where people have counted from the thumb when they shouldn't have done"
+  },
+  {
+    "start": 1367.28,
+    "end": 1371.6,
+    "text": " and they've taken the wrong finger. Stop it. Really? That has happened. We've invented so"
+  },
+  {
+    "start": 1371.6,
+    "end": 1377.28,
+    "text": " much stuff as a species. We kind of like the label to go, that's crazy. Well, there are a few papers"
+  },
+  {
+    "start": 1377.28,
+    "end": 1382.08,
+    "text": " that have talked about this and most of them say we should call them index finger, ring finger,"
+  },
+  {
+    "start": 1382.08,
+    "end": 1387.36,
+    "text": " all that kind of stuff and that will remove any problems. But as late as 2009 was the last paper"
+  },
+  {
+    "start": 1387.36,
+    "end": 1392.64,
+    "text": " that this came in in the Canadian Medical Journal, who said we really need to stop saying fourth finger"
+  },
+  {
+    "start": 1392.64,
+    "end": 1396.72,
+    "text": " or third finger or whatever. I mean, for instance, you could be counting from this way or from this"
+  },
+  {
+    "start": 1396.72,
+    "end": 1402.24,
+    "text": " way. Yeah. No, who starts with a little finger? That's like people who say a potato. They just don't"
+  },
+  {
+    "start": 1402.24,
+    "end": 1409.6,
+    "text": " exist. Or Michelangelo. Yeah, exactly. They should have a like this little piggy system."
+  },
+  {
+    "start": 1409.6,
+    "end": 1414.64,
+    "text": " Yeah, like which little piggy the piggy who had roast beef there? We all know which piggy we're"
+  },
+  {
+    "start": 1414.64,
+    "end": 1418.96,
+    "text": " talking about. There's not usually toes. Yeah, God, you're a terrible surgeon."
+  },
+  {
+    "start": 1418.96,
+    "end": 1423.68,
+    "text": " Great news. Got both little piggies. Won't be needing those middle fingers again. What?"
+  },
+  {
+    "start": 1423.68,
+    "end": 1428.16,
+    "text": " Back in the 19th century, they used to use fingers as a way of determining quite a few"
+  },
+  {
+    "start": 1428.16,
+    "end": 1432.56,
+    "text": " medical things. And one of the things was, are you dead? How did they do that? So one of the"
+  },
+  {
+    "start": 1432.56,
+    "end": 1441.68,
+    "text": " things was there was a guy who's a French doctor, Leon Collonges. It's like being on the backs of"
+  },
+  {
+    "start": 1441.68,
+    "end": 1448.24,
+    "text": " the sand, isn't it? Oh, lovely. I can't say Collonges. It reads like colon juice. I can't."
+  },
+  {
+    "start": 1448.24,
+    "end": 1456,
+    "text": " Collonges. Join me to read out your facts. Yeah, yeah, please. Leon. Leon Smith."
+  },
+  {
+    "start": 1459.2,
+    "end": 1463.6,
+    "text": " His way he believed of confirming if someone was dead, I think they were quite nervous about"
+  },
+  {
+    "start": 1463.6,
+    "end": 1467.28,
+    "text": " actually if someone was dead in a coma, if there's if their stats were just lower,"
+  },
+  {
+    "start": 1467.28,
+    "end": 1471.84,
+    "text": " we didn't have the technology was to take a finger. He would take their finger and he would put it in"
+  },
+  {
+    "start": 1471.84,
+    "end": 1478.48,
+    "text": " his ear. And he would listen for a buzz, because they sort of thought that the body just emitted"
+  },
+  {
+    "start": 1478.48,
+    "end": 1482.24,
+    "text": " a buzz when it was still alive. So he would sit there and he would take their finger, put it in"
+  },
+  {
+    "start": 1482.24,
+    "end": 1488.32,
+    "text": " his ear and say, no, he's dead. But wait a minute, fingers don't emit buzzes. So does he just think"
+  },
+  {
+    "start": 1488.32,
+    "end": 1492.96,
+    "text": " that everyone's dead when he puts a finger in the ear? I mean, you know, this was a time where"
+  },
+  {
+    "start": 1492.96,
+    "end": 1497.92,
+    "text": " he was developing a theory and obviously he wasn't. I do know this is about when they didn't know"
+  },
+  {
+    "start": 1497.92,
+    "end": 1502.16,
+    "text": " whether they didn't really know about the pulse and brain activity in the way they do now. And"
+  },
+  {
+    "start": 1502.16,
+    "end": 1507.76,
+    "text": " there were competitions to see which doctors could come up with a guaranteed way of determining"
+  },
+  {
+    "start": 1507.76,
+    "end": 1512.64,
+    "text": " whether. Yeah, I think we still don't really know when the brain is dead compared to the rest of"
+  },
+  {
+    "start": 1512.64,
+    "end": 1516.72,
+    "text": " the body. Yeah, but they did have all and this was one method and they had another was to put an"
+  },
+  {
+    "start": 1516.72,
+    "end": 1522,
+    "text": " insect in the patient's ear, I think or nose. It must have been like who can resist. Okay."
+  },
+  {
+    "start": 1522,
+    "end": 1527.84,
+    "text": " If you don't know that, you're dead. And then another finger based one from the 18th century"
+  },
+  {
+    "start": 1527.84,
+    "end": 1533.04,
+    "text": " was if someone was in a coma or potentially dead, you would cut their finger off. And yeah,"
+  },
+  {
+    "start": 1533.04,
+    "end": 1538.8,
+    "text": " and the idea was you'd cut it off and they'd be like, whoa. And they'd either wake up from death"
+  },
+  {
+    "start": 1538.8,
+    "end": 1544.48,
+    "text": " or from a coma. So that was another method. Yeah. Do you know just speaking of bodies giving off"
+  },
+  {
+    "start": 1544.48,
+    "end": 1549.68,
+    "text": " buzzing sounds? I remember reading ages ago, you know, tinnitus. Yeah. Obviously is when you can"
+  },
+  {
+    "start": 1549.68,
+    "end": 1554.4,
+    "text": " hear a buzzing in your ear. Some people have a form of tinnitus where they emit a buzzing."
+  },
+  {
+    "start": 1554.4,
+    "end": 1560.4,
+    "text": " If you get really close as the ENT surgeon, you can be like, yep, you're right. You've got tinnitus."
+  },
+  {
+    "start": 1560.4,
+    "end": 1566.08,
+    "text": " That must be really annoying. And isn't that insane? It's crazy. Wow. But I wouldn't hear,"
+  },
+  {
+    "start": 1566.08,
+    "end": 1569.28,
+    "text": " like I wouldn't hear your tinnitus and go, God, I've got tinnitus because I was sitting too"
+  },
+  {
+    "start": 1569.28,
+    "end": 1573.44,
+    "text": " close to you. No, you'd be able to hear it if you were confused it as my own. No, because I would"
+  },
+  {
+    "start": 1573.44,
+    "end": 1576.64,
+    "text": " leave the room and then you go, God, it's so weird. My tinnitus only appears when Anna comes in."
+  },
+  {
+    "start": 1576.64,
+    "end": 1580.88,
+    "text": " I do usually get a weird headache when you are around."
+  },
+  {
+    "start": 1580.88,
+    "end": 1588.24,
+    "text": " That's perfectly normal. Can I tell you about Joe Swarbrick? Yeah. Joe Swarbrick was a"
+  },
+  {
+    "start": 1588.24,
+    "end": 1594.16,
+    "text": " Belfast man who lost a finger in the luckiest way imaginable. Oh, okay. So one that he wouldn't"
+  },
+  {
+    "start": 1594.16,
+    "end": 1599.28,
+    "text": " have otherwise needed. I actually don't know that. Oh, okay. No, I like your thinking. A lucky"
+  },
+  {
+    "start": 1599.28,
+    "end": 1603.52,
+    "text": " finger to have lost. It's more about the circumstances under which he lost the finger."
+  },
+  {
+    "start": 1603.52,
+    "end": 1608.24,
+    "text": " And he's called Swarbrick. That won't help you. Are you sure? I don't know. I was thinking people"
+  },
+  {
+    "start": 1608.24,
+    "end": 1612.72,
+    "text": " used to be named after things that they'd done and he may have sworn at someone with his middle"
+  },
+  {
+    "start": 1612.72,
+    "end": 1617.12,
+    "text": " finger and then a brick took it out. It's gone. Brilliant. I've missed the theorizing. Nope. That's"
+  },
+  {
+    "start": 1617.12,
+    "end": 1623.12,
+    "text": " not it. Okay. He was in a job where he only ever had to count to nine. Yeah, that's it. So he was"
+  },
+  {
+    "start": 1623.12,
+    "end": 1629.52,
+    "text": " trying to travel to Canada. Okay. Is that a clue? Barely. Like, Oh, barely. Is this something to"
+  },
+  {
+    "start": 1629.52,
+    "end": 1635.28,
+    "text": " with bears? No. Oh, okay. And he and his brother wanted, he wanted to go with his brother from"
+  },
+  {
+    "start": 1635.28,
+    "end": 1643.6,
+    "text": " Belfast to Canada. Yeah. Okay. And he found a job. Oh, Titanic. Titanic. He found a job on a ship."
+  },
+  {
+    "start": 1643.6,
+    "end": 1647.36,
+    "text": " But sadly, at Southampton, there was an accident in the end room, lost his finger,"
+  },
+  {
+    "start": 1647.36,
+    "end": 1650.08,
+    "text": " yet they had to kick him off the ship and they said, and take your brother with you too. His"
+  },
+  {
+    "start": 1650.08,
+    "end": 1656.08,
+    "text": " brother escorted him off the ship and that ship was the Titanic. Wow. Yeah. Why did the brother"
+  },
+  {
+    "start": 1656.08,
+    "end": 1662.32,
+    "text": " have to go from the version I read unclear? I guess. Wait, you've got a brother, Dan. You're"
+  },
+  {
+    "start": 1662.32,
+    "end": 1668,
+    "text": " working with him on a job. His finger in an awful accident gets chopped off. Yeah. He needs to be"
+  },
+  {
+    "start": 1668,
+    "end": 1671.12,
+    "text": " escorted away from where you work in the job. You'd be like, Well, mate, I still want to do my"
+  },
+  {
+    "start": 1671.12,
+    "end": 1677.68,
+    "text": " holiday. So hang on, is it go with him? Wouldn't you? Is it on launch day? It's it's out Southampton"
+  },
+  {
+    "start": 1677.68,
+    "end": 1681.52,
+    "text": " at that point. Yeah. So it's just before it was just before it's really just you would have got on,"
+  },
+  {
+    "start": 1681.52,
+    "end": 1689.04,
+    "text": " wouldn't you? Oh, it's the Titanic. I'm going to send a postcard. How's the finger? Yeah."
+  },
+  {
+    "start": 1689.04,
+    "end": 1698.96,
+    "text": " You won't send a postcard, you know, spoiler alert. Okay. Yeah, that's a good story. And then he"
+  },
+  {
+    "start": 1698.96,
+    "end": 1703.36,
+    "text": " was in the Navy in both World Wars and he lived until the fifties. Oh, wow. He was injured in the"
+  },
+  {
+    "start": 1703.36,
+    "end": 1707.36,
+    "text": " Second World War as well. He was really, yeah, he was very so he went back to sea and still risked"
+  },
+  {
+    "start": 1707.36,
+    "end": 1713.52,
+    "text": " his life then. Wow. After that for impressive and the brother. This guy's getting shafted and more"
+  },
+  {
+    "start": 1713.52,
+    "end": 1719.12,
+    "text": " shafted in this story. He's kicked off his job because his idiot brother loses a finger. Next"
+  },
+  {
+    "start": 1719.12,
+    "end": 1724.56,
+    "text": " fingerless guy goes on to World War hero. He's written out a history. He actually I'm sorry."
+  },
+  {
+    "start": 1724.56,
+    "end": 1728.96,
+    "text": " Joe Swalbrick himself did get an OBE for his work, not even in the war, just being a great guy in"
+  },
+  {
+    "start": 1728.96,
+    "end": 1735.84,
+    "text": " shipping. So yeah, no word on the brother. That's a fucking rough deal, man. You really take"
+  },
+  {
+    "start": 1735.84,
+    "end": 1740.64,
+    "text": " in sides of which brother you are. Yeah, that's it. Yeah, you're the brother here. Stay on the"
+  },
+  {
+    "start": 1740.64,
+    "end": 1746.16,
+    "text": " boat that's going to sink. That's what I say. Wow. Do you guys know what kind of finger a"
+  },
+  {
+    "start": 1746.16,
+    "end": 1753.6,
+    "text": " masculitane is? Say it again. Masculitane. Masculitane. No idea. You're not going to get it."
+  },
+  {
+    "start": 1753.6,
+    "end": 1758.56,
+    "text": " Is it like an animal finger or is it a? No, it's not. I'm just going to tell you. It's a finger"
+  },
+  {
+    "start": 1758.56,
+    "end": 1770.24,
+    "text": " that's under your armpit. Oh, and can you beckon with it? Yeah, because that is the greatest"
+  },
+  {
+    "start": 1770.24,
+    "end": 1777.92,
+    "text": " thing that I have. I have to. This is awful, but I have to explain for people listening to the"
+  },
+  {
+    "start": 1777.92,
+    "end": 1785.6,
+    "text": " podcast what just happened. Andy is giving me the come to bed finger underneath his armpit."
+  },
+  {
+    "start": 1787.04,
+    "end": 1790,
+    "text": " I haven't been so around since I saw that smile on Henry's face."
+  },
+  {
+    "start": 1790,
+    "end": 1798.24,
+    "text": " Oh, dear. Oh, gosh. It's not a means of seduction. I don't know why you think exposing your armpit"
+  },
+  {
+    "start": 1798.24,
+    "end": 1801.68,
+    "text": " would usually be a means of seduction. Well, normally, if you're getting to exposing your"
+  },
+  {
+    "start": 1801.68,
+    "end": 1806.72,
+    "text": " armpit, things are getting pretty hot and heavy, aren't they? Do you go to the beach and go, \"Wow,"
+  },
+  {
+    "start": 1806.72,
+    "end": 1813.76,
+    "text": " these people want it?\" Normally in a three-piece tweed suit, you know, I'm heavily dressed down"
+  },
+  {
+    "start": 1813.76,
+    "end": 1818.16,
+    "text": " for this. Yeah. You cut the holes, don't you? And then it's armed off if you like someone."
+  },
+  {
+    "start": 1818.16,
+    "end": 1823.52,
+    "text": " It's nothing to do with that. Is that another genetic quote? No, this is actually something"
+  },
+  {
+    "start": 1823.52,
+    "end": 1827.84,
+    "text": " in ancient Greece. And I came across this in a study that was called armpitting among the"
+  },
+  {
+    "start": 1827.84,
+    "end": 1833.76,
+    "text": " ancient Greeks. And basically, it was where if you'd killed someone, then you would cut their"
+  },
+  {
+    "start": 1833.76,
+    "end": 1838.96,
+    "text": " finger off and shove it under their armpit. Oh. And we're not quite sure why they did this. We"
+  },
+  {
+    "start": 1838.96,
+    "end": 1844.24,
+    "text": " think maybe it's either offering it to the gods as like a, \"Sorry, I killed this person. Please"
+  },
+  {
+    "start": 1844.24,
+    "end": 1850.64,
+    "text": " forgive me. Have their finger thing,\" which seems a bit kind of on the nose. Or it means that the"
+  },
+  {
+    "start": 1850.64,
+    "end": 1854.48,
+    "text": " dead person can't take vengeance in the next world because they don't have a finger. But..."
+  },
+  {
+    "start": 1854.48,
+    "end": 1861.52,
+    "text": " Can you point out the guy who killed you? No. Anyway, this was so common, also known, that there"
+  },
+  {
+    "start": 1861.52,
+    "end": 1866.32,
+    "text": " was a specific word, which was masculine, which would literally mean stuff under the armpit,"
+  },
+  {
+    "start": 1866.32,
+    "end": 1869.52,
+    "text": " which refers to fingers under an armpit. Fingers tucked into an armpit."
+  },
+  {
+    "start": 1869.52,
+    "end": 1874.32,
+    "text": " Weird. Or sorry, \"Maskalizmata\" is the stuff under the armpit. \"Maskalitzane\" is to put a"
+  },
+  {
+    "start": 1874.32,
+    "end": 1879.68,
+    "text": " finger under the armpit again. Do you know what animal has like the longest finger?"
+  },
+  {
+    "start": 1879.68,
+    "end": 1887.28,
+    "text": " Is it the Madagascar, the eye? The eye, you got it. So if you ever see an image of an eye,"
+  },
+  {
+    "start": 1887.28,
+    "end": 1892.08,
+    "text": " they're like a really cute little primate thing, but they've got this really, really long finger"
+  },
+  {
+    "start": 1892.08,
+    "end": 1897.6,
+    "text": " that's almost as long as their, probably their whole head, maybe a bit more even. And the interesting"
+  },
+  {
+    "start": 1897.6,
+    "end": 1904.96,
+    "text": " thing about that is they love to pick their nose. And when they pick their nose, they go all the way"
+  },
+  {
+    "start": 1904.96,
+    "end": 1910.72,
+    "text": " in. And no one could work out exactly what was going on because where does your finger go? If"
+  },
+  {
+    "start": 1910.72,
+    "end": 1915.6,
+    "text": " your finger is, let's say human finger is three times longer at least, and you're putting it all"
+  },
+  {
+    "start": 1915.6,
+    "end": 1921.84,
+    "text": " the way up your nose, where is the finger going to end up? A bit in the brain. Or in the eye."
+  },
+  {
+    "start": 1922.8,
+    "end": 1927.76,
+    "text": " Exactly. That's what you think, right? So they did a CT scan on an eye who was picking her nose."
+  },
+  {
+    "start": 1927.76,
+    "end": 1934.08,
+    "text": " And they turned out that actually it kind of goes into the nose through the sinuses and then"
+  },
+  {
+    "start": 1934.08,
+    "end": 1939.68,
+    "text": " down into the back of the throat. And this is... You can get rid of phlegm as well as snot."
+  },
+  {
+    "start": 1939.68,
+    "end": 1945.84,
+    "text": " Is that what it's for? It's almost like that, almost as disgusting as that. In fact, perhaps more"
+  },
+  {
+    "start": 1945.84,
+    "end": 1950.16,
+    "text": " disgusting than that. Basically, they think that what they're doing is picking their nose"
+  },
+  {
+    "start": 1950.88,
+    "end": 1956.4,
+    "text": " and then they're eating it, but they don't have to go through the mouth. Oh, brilliant."
+  },
+  {
+    "start": 1956.4,
+    "end": 1962.32,
+    "text": " So it doesn't get stuck in their teeth? Secret bogey eating. I'm saving. I would argue not that"
+  },
+  {
+    "start": 1962.32,
+    "end": 1966.8,
+    "text": " secret. And what's secret until those bloody scientists came along with their CT scanner?"
+  },
+  {
+    "start": 1966.8,
+    "end": 1973.2,
+    "text": " What a great scam, rumbled. We need to evolve that. We will eventually, socially, so that you'll"
+  },
+  {
+    "start": 1973.2,
+    "end": 1978.32,
+    "text": " never know who's eating their bogeys and who isn't. We will no longer be socially ashamed."
+  },
+  {
+    "start": 1978.32,
+    "end": 1980.56,
+    "text": " They will no longer be socially ashamed, those people."
+  },
+  {
+    "start": 1980.56,
+    "end": 1996.32,
+    "text": " It is time for fact number three and that is James. Okay, my fact this week is that in the late 1950s,"
+  },
+  {
+    "start": 1996.32,
+    "end": 2002.64,
+    "text": " a woman called Cougar Annie put an advert in a newspaper looking for a younger man to marry."
+  },
+  {
+    "start": 2002.64,
+    "end": 2007.84,
+    "text": " But that isn't why she got her nickname. She was just really good at killing Cougars."
+  },
+  {
+    "start": 2007.84,
+    "end": 2016.96,
+    "text": " There she is on our screen for people at home. She was one of the most badass people that I've"
+  },
+  {
+    "start": 2016.96,
+    "end": 2022.64,
+    "text": " ever read about. She lived on Vancouver Island. Long story short, we'll get into it all, but"
+  },
+  {
+    "start": 2022.64,
+    "end": 2029.04,
+    "text": " basically she was married to an opium addict and she lived in Vancouver and to escape the opium dens"
+  },
+  {
+    "start": 2029.04,
+    "end": 2034.88,
+    "text": " of Vancouver. You know those famous opium dens of Vancouver. Her family moved to this really"
+  },
+  {
+    "start": 2034.88,
+    "end": 2040.08,
+    "text": " remote area of Vancouver Island and she spent her whole time clearing the lands, so getting rid of"
+  },
+  {
+    "start": 2040.08,
+    "end": 2045.28,
+    "text": " all the shrubbery, getting rid of all the any kind of wild animals that came to protect herself and"
+  },
+  {
+    "start": 2045.28,
+    "end": 2052.4,
+    "text": " protect her family. She often had to kill them and according to reports obituaries and stuff like"
+  },
+  {
+    "start": 2052.4,
+    "end": 2059.04,
+    "text": " that, she definitely shot at least 60 Cougars in her life, mostly in self-defense, but then later"
+  },
+  {
+    "start": 2059.04,
+    "end": 2064.24,
+    "text": " the government started giving money to people who did it because they wanted to have more humans living"
+  },
+  {
+    "start": 2064.24,
+    "end": 2069.28,
+    "text": " in that area, so she was making money from it as well. Some contemporary obituaries said that she"
+  },
+  {
+    "start": 2069.28,
+    "end": 2075.84,
+    "text": " shot more than 100 Cougars in her lifetime and she also got 80 bears as well. But yeah, she was"
+  },
+  {
+    "start": 2075.84,
+    "end": 2080.88,
+    "text": " basically going to this area where no humans lived and she was just trying to clear the area so she"
+  },
+  {
+    "start": 2080.88,
+    "end": 2085.2,
+    "text": " could live there. And so her husband dies. She has three kids and she decides I want to look for"
+  },
+  {
+    "start": 2085.2,
+    "end": 2090.32,
+    "text": " another husband. So in 1936, she advertises... Oh, this is sorry, there are two separate occasions"
+  },
+  {
+    "start": 2090.32,
+    "end": 2094.24,
+    "text": " on which she advertised for a younger husband. Yeah, this is the first one, but she used the"
+  },
+  {
+    "start": 2094.24,
+    "end": 2100.88,
+    "text": " same advert both times. Exactly. Yeah, 1936, the Western producer, which is where she advertised it,"
+  },
+  {
+    "start": 2100.88,
+    "end": 2107.68,
+    "text": " she said, \"BC widow with nursery and orchard wishes partner, widower preferred, object matrimony.\""
+  },
+  {
+    "start": 2107.68,
+    "end": 2114.16,
+    "text": " And she married someone, right? And she had a few marriages in the end. She lost the husband that"
+  },
+  {
+    "start": 2114.16,
+    "end": 2121.28,
+    "text": " she had from the 1936 advertising in 1942 when he accidentally shot himself and... Allegedly."
+  },
+  {
+    "start": 2121.28,
+    "end": 2126.88,
+    "text": " Allegedly. Yeah. He was dressed as a Cougar at the time though, wasn't he? He was, yeah."
+  },
+  {
+    "start": 2126.88,
+    "end": 2132.72,
+    "text": " There were suspicions. Yeah. And so then she re-advertises as Andy says with the exact same"
+  },
+  {
+    "start": 2132.72,
+    "end": 2138.32,
+    "text": " wording. Copy and paste for a new husband. Yeah. So good. Well, when you've worked on the wording,"
+  },
+  {
+    "start": 2138.32,
+    "end": 2143.36,
+    "text": " it's clearly done the job once. Use it again. Did it work? Hard to say because he wasn't did"
+  },
+  {
+    "start": 2143.36,
+    "end": 2147.6,
+    "text": " a young man 12 years younger, was it? The last one, yeah. The fourth one. The fourth husband,"
+  },
+  {
+    "start": 2147.6,
+    "end": 2154,
+    "text": " but he was also not very nice. So I think he was a drunk and he stole from her. And then"
+  },
+  {
+    "start": 2154,
+    "end": 2157.92,
+    "text": " eventually, and you probably read more about this, apparently he attempted to run Andy off a cliff"
+  },
+  {
+    "start": 2157.92,
+    "end": 2161.92,
+    "text": " in order to take over her farm and she chased him away with her shotgun."
+  },
+  {
+    "start": 2161.92,
+    "end": 2166,
+    "text": " She did. That's what happened. And he never came back. And then she lived on in the homestead into"
+  },
+  {
+    "start": 2166,
+    "end": 2171.28,
+    "text": " her 90s and carried on kind of working on there, living off the land, kind of selling bits and"
+  },
+  {
+    "start": 2171.28,
+    "end": 2178.24,
+    "text": " pieces. She also set up a post office in the area. There was no one else there. And so basically,"
+  },
+  {
+    "start": 2178.24,
+    "end": 2183.76,
+    "text": " she would be able to get all these stamps in and then she used the stamps to pay her bills. It was"
+  },
+  {
+    "start": 2183.76,
+    "end": 2189.36,
+    "text": " like a bit of a scam. But yeah. And by the way, a lot of this time when she was clearing the land"
+  },
+  {
+    "start": 2189.36,
+    "end": 2195.44,
+    "text": " and trying to get rid of these wild animals, she was pregnant. So between 1915 and 1931,"
+  },
+  {
+    "start": 2195.44,
+    "end": 2200.72,
+    "text": " which was when she did most of the work, she gave birth to at least 11 children. So I'm just saying"
+  },
+  {
+    "start": 2200.72,
+    "end": 2208.96,
+    "text": " at a nine months off. But maternity leave conditions weren't as beneficial in those days."
+  },
+  {
+    "start": 2208.96,
+    "end": 2214.4,
+    "text": " You know, if she'd got full salary for a few months, then how many bears have you killed during the"
+  },
+  {
+    "start": 2214.4,
+    "end": 2219.12,
+    "text": " you know, she does sound remarkable. There were a lot of sort of they've paid a lot of"
+  },
+  {
+    "start": 2219.12,
+    "end": 2222.96,
+    "text": " bounties, didn't they for killing cougars back in the day? They did. You know, they were trying to"
+  },
+  {
+    "start": 2222.96,
+    "end": 2228.48,
+    "text": " sort of, you know, tame the frontiers effectively. And so there were like 200 profession professionals"
+  },
+  {
+    "start": 2228.48,
+    "end": 2234.4,
+    "text": " in the USA in 1930. And loads more like those were the federal ones and loads of other state ones."
+  },
+  {
+    "start": 2234.4,
+    "end": 2240.32,
+    "text": " People like Cougar Smith, or Ben Lilly, who hunted cougars with a knife, which I respect a bit more."
+  },
+  {
+    "start": 2240.32,
+    "end": 2245.36,
+    "text": " Okay. As in I think, you know, that's giving the cougar a fighting chance. Yeah, it's not as"
+  },
+  {
+    "start": 2245.36,
+    "end": 2251.52,
+    "text": " efficient, is it? It's like if I did this podcast every week, but I decided to find all my facts"
+  },
+  {
+    "start": 2251.52,
+    "end": 2257.6,
+    "text": " from the local library only using books between 1812 and 1829. It's like, how interesting that"
+  },
+  {
+    "start": 2257.6,
+    "end": 2261.84,
+    "text": " you do that. You're not nearly as good at the job. I'm pretty sure you've just described that Andy"
+  },
+  {
+    "start": 2261.84,
+    "end": 2268.32,
+    "text": " finds fags. Dan, can you not spoiler my fact about the Prince Regent today?"
+  },
+  {
+    "start": 2268.32,
+    "end": 2276.64,
+    "text": " On one occasion, Annie heard her dogs barking outside. It was the middle of the night. Obviously,"
+  },
+  {
+    "start": 2276.64,
+    "end": 2280.16,
+    "text": " she's in the middle of nowhere. So there's no street lights or anything like that. She went"
+  },
+  {
+    "start": 2280.16,
+    "end": 2286.56,
+    "text": " outside. She could hear a commotion. She got her gun to shot into the darkness and then went back"
+  },
+  {
+    "start": 2286.56,
+    "end": 2293.28,
+    "text": " to bed. And then when she woke up, she saw that she had actually got a cougar with her gun shot."
+  },
+  {
+    "start": 2293.28,
+    "end": 2299.28,
+    "text": " It's very impressive. Wow. That's amazing. Canada was wall-to-wall cougars at the time."
+  },
+  {
+    "start": 2299.28,
+    "end": 2304.88,
+    "text": " It's less impressive than it sounds. You couldn't miss. So she's not the origin of the word cougar,"
+  },
+  {
+    "start": 2304.88,
+    "end": 2309.44,
+    "text": " to mean a woman who goes out the younger bed. No, that came well after she died. Yeah, that was"
+  },
+  {
+    "start": 2309.44,
+    "end": 2314.24,
+    "text": " sort of 19. They think it might have been 1999, which seems quite early. There was a website called"
+  },
+  {
+    "start": 2314.24,
+    "end": 2320.96,
+    "text": " CougarDate.com, which was specifically for women of a certain age, looking for men of a younger"
+  },
+  {
+    "start": 2320.96,
+    "end": 2324.88,
+    "text": " age. That was the idea. I mean, it's definitely that. There are some etymologies lost in the"
+  },
+  {
+    "start": 2324.88,
+    "end": 2329.36,
+    "text": " midst of time, but we don't know this all. But I think we can say for sure. I must say I actually"
+  },
+  {
+    "start": 2329.36,
+    "end": 2334,
+    "text": " read some articles of the people who set up CougarDate.com and they said that they'd heard the"
+  },
+  {
+    "start": 2334,
+    "end": 2340.08,
+    "text": " name mentioned through their friends earlier, sometime in the 1990s in Vancouver. But it was"
+  },
+  {
+    "start": 2340.08,
+    "end": 2346.16,
+    "text": " Vancouver, which is where Cougar Annie was from. Cougars themselves are not cougars."
+  },
+  {
+    "start": 2346.16,
+    "end": 2354.48,
+    "text": " So actual cougars, the cats I'm talking about, females reach maturity at two and a half years of"
+  },
+  {
+    "start": 2354.48,
+    "end": 2361.04,
+    "text": " age and males at three. So do you see what I mean? Yeah, they don't go for younger males."
+  },
+  {
+    "start": 2361.04,
+    "end": 2365.52,
+    "text": " Do you know what? I was so glad just because it confirmed something that we've always kind of"
+  },
+  {
+    "start": 2365.52,
+    "end": 2369.84,
+    "text": " thought. You know how cougars have all these different names and you're never sure what"
+  },
+  {
+    "start": 2369.84,
+    "end": 2375.76,
+    "text": " it is. You're like a puma, a panther, a mountain lion, a catamount. What the hell is going on?"
+  },
+  {
+    "start": 2375.76,
+    "end": 2379.52,
+    "text": " What are all these cats? And they're all the same thing. And it does have the Guinness"
+  },
+  {
+    "start": 2379.52,
+    "end": 2385.52,
+    "text": " World Record for the most names for a mammal. Yeah. So there you go. And that's 40 according to them."
+  },
+  {
+    "start": 2385.52,
+    "end": 2392.88,
+    "text": " Surely the humans have more than 40 names. I'm sorry. No. Cool dude. Awesome. No, I mean actual"
+  },
+  {
+    "start": 2392.88,
+    "end": 2398.96,
+    "text": " names like Jeff and David. Humans have more than 40 of those. If I was given enough time,"
+  },
+  {
+    "start": 2398.96,
+    "end": 2402.96,
+    "text": " I could think of more than 40 names. I'm just saying it's the non-human mammal with the most"
+  },
+  {
+    "start": 2402.96,
+    "end": 2406.88,
+    "text": " names. No, no, no, it's not because they also have their own names. You understand there's a"
+  },
+  {
+    "start": 2406.88,
+    "end": 2412.08,
+    "text": " different meaning to the word name, right? Some cougars are called Jeff. She's back by me."
+  },
+  {
+    "start": 2412.08,
+    "end": 2415.76,
+    "text": " Some cougars are called Jeff."
+  },
+  {
+    "start": 2415.76,
+    "end": 2422,
+    "text": " No, the names are incredible. Like I'd never heard the name catamount, which means cat of the"
+  },
+  {
+    "start": 2422,
+    "end": 2427.12,
+    "text": " mountain. But they also get called the deer tiger, the purple feather. I'm not sure how many people"
+  },
+  {
+    "start": 2427.12,
+    "end": 2430.08,
+    "text": " are using purple feather these days. Is that really one? The purple feather? That's what mountain"
+  },
+  {
+    "start": 2430.08,
+    "end": 2435.28,
+    "text": " screamer would try to love. You wouldn't call an ambulance when you say there's a purple feather"
+  },
+  {
+    "start": 2435.28,
+    "end": 2439.92,
+    "text": " coming at me. It's a purple feather. It feels like you'd use one of the other ones. Do you know"
+  },
+  {
+    "start": 2439.92,
+    "end": 2444.8,
+    "text": " how you defend yourself against a cougar? We should say because it's useful. I would run. I would try"
+  },
+  {
+    "start": 2444.8,
+    "end": 2450.56,
+    "text": " and run. Don't run. Oh, you're dead. Okay. No, you're dead. Dan and Anna have got a guess. What?"
+  },
+  {
+    "start": 2450.56,
+    "end": 2455.52,
+    "text": " Can I have another guess? Yeah, give James a quick guess. Let's say you've magically been resuscitated."
+  },
+  {
+    "start": 2456.16,
+    "end": 2462.48,
+    "text": " Play dead. Play dead? Yeah. You're dead again. What? Sorry. If you play dead. Well, so I can't run"
+  },
+  {
+    "start": 2462.48,
+    "end": 2467.04,
+    "text": " and I can't just stay there playing dead. No, that's right. Shotgun. Shotgun. That's the"
+  },
+  {
+    "start": 2467.04,
+    "end": 2474.48,
+    "text": " Cougar Anna. Basically, don't turn around and don't look away. Make yourself big. Oh, the ace of"
+  },
+  {
+    "start": 2474.48,
+    "end": 2479.68,
+    "text": " base defence. Stand your ground. You know, like stand on a rock, bear your teeth, shout anything"
+  },
+  {
+    "start": 2479.68,
+    "end": 2483.52,
+    "text": " to frighten it and scare it away. Basically, and I've thought of a mnemonic for this, which I think"
+  },
+  {
+    "start": 2483.52,
+    "end": 2488.32,
+    "text": " might be helpful for listeners. So just remember, if it's a mountain lion, don't be lion down."
+  },
+  {
+    "start": 2488.32,
+    "end": 2492.8,
+    "text": " And that's the useful like, what if it's an actual lion? I don't know."
+  },
+  {
+    "start": 2492.8,
+    "end": 2499.6,
+    "text": " I don't know. I thought you were going to say opera singing, sing opera at it."
+  },
+  {
+    "start": 2499.6,
+    "end": 2504.88,
+    "text": " Yeah, because that's not on my list. There was a case of a woman who was being stalked by a cougar"
+  },
+  {
+    "start": 2504.88,
+    "end": 2508.8,
+    "text": " and she started hiding and she didn't know what to do. And she just got up and started just singing"
+  },
+  {
+    "start": 2508.8,
+    "end": 2516.08,
+    "text": " opera and the cougar just went, whoa, I'm with the cougar there. Actually, cougars really hate"
+  },
+  {
+    "start": 2516.08,
+    "end": 2522.96,
+    "text": " podcasts. Really? Yeah, this was this is quite a recent study done in California, which ones name"
+  },
+  {
+    "start": 2522.96,
+    "end": 2530.96,
+    "text": " and shape. Yeah, is it off menu? Come on. Do you mean it makes them angry or they just they don't"
+  },
+  {
+    "start": 2530.96,
+    "end": 2537.76,
+    "text": " want to be around it? No, it puts them off the dinner. So let's say you're a cougar and off menu"
+  },
+  {
+    "start": 2537.76,
+    "end": 2544,
+    "text": " comes on. Yeah. And he's like, James A. Castor, he's talking about his food and stuff. And they"
+  },
+  {
+    "start": 2544,
+    "end": 2548.8,
+    "text": " would just look at their kill, their deer that they killed and just go, Oh, I don't really fancy"
+  },
+  {
+    "start": 2548.8,
+    "end": 2554.08,
+    "text": " that anymore. In actual fact, the study is to check how they react to humans more generally."
+  },
+  {
+    "start": 2554.08,
+    "end": 2559.6,
+    "text": " Mostly men. Yeah. Mostly men. You're saying it's not a study about whether there's an untapped podcast"
+  },
+  {
+    "start": 2559.6,
+    "end": 2567.68,
+    "text": " market out there. You astonished me. They wanted to see how they reacted to humans talking if humans"
+  },
+  {
+    "start": 2567.68,
+    "end": 2572.8,
+    "text": " are nearby. And what better way to do that than talk radio podcast, that kind of thing. So they"
+  },
+  {
+    "start": 2572.8,
+    "end": 2579.6,
+    "text": " played some chatting humans, and they just left their food alone and just went off. And the problem"
+  },
+  {
+    "start": 2579.6,
+    "end": 2584.96,
+    "text": " with this, this is really important. So if you are a cougar and you kill something and you don't"
+  },
+  {
+    "start": 2584.96,
+    "end": 2589.84,
+    "text": " eat it, then that means you have to kill something else because you have to eat that. Right. And so"
+  },
+  {
+    "start": 2589.84,
+    "end": 2595.44,
+    "text": " this is the fact that fear really changes ecosystems. If an animal is really scared because"
+  },
+  {
+    "start": 2595.44,
+    "end": 2601.04,
+    "text": " there's humans around, it actually affects the ecosystem in ways you don't expect as in loads"
+  },
+  {
+    "start": 2601.04,
+    "end": 2606.4,
+    "text": " of the prey will get killed. It's not just that the cougar itself is scared. Wait, sorry, the prey"
+  },
+  {
+    "start": 2606.4,
+    "end": 2609.84,
+    "text": " will get killed because the cougar has to go and find something else. Yeah, because it gets put off"
+  },
+  {
+    "start": 2609.84,
+    "end": 2614.08,
+    "text": " its food. So it needs to go and find something else. And then another podcast comes along, maybe"
+  },
+  {
+    "start": 2614.08,
+    "end": 2618.08,
+    "text": " Chris and Rosie Rams, you start chatting to it. And then it has to go and kill another animal."
+  },
+  {
+    "start": 2619.28,
+    "end": 2625.44,
+    "text": " Nightmare. We're putting nature off its food. Yeah. If I'm ever attacked and just go hello and"
+  },
+  {
+    "start": 2625.44,
+    "end": 2632.56,
+    "text": " welcome to another episode of. Can I tell you another record that Cougars have got? Oh, yeah."
+  },
+  {
+    "start": 2632.56,
+    "end": 2635.6,
+    "text": " This is another Guinness World Record that Cougars have got. I'm going to quite directly. Mountain"
+  },
+  {
+    "start": 2635.6,
+    "end": 2640.64,
+    "text": " Lions, large hind legs have greater muscle mass than their front legs. This enables them to jump"
+  },
+  {
+    "start": 2640.64,
+    "end": 2647.52,
+    "text": " up to 18 feet into a tree. So they could they could leap over the statue of David. Yes. Yes."
+  },
+  {
+    "start": 2648.64,
+    "end": 2652.56,
+    "text": " The highest jump on record for any mammal, any mammal, they could just jump over and lick off"
+  },
+  {
+    "start": 2652.56,
+    "end": 2660.4,
+    "text": " that beeswax. It was recorded for a Puma or a mountain lion, which jumped seven meters, 23 feet,"
+  },
+  {
+    "start": 2660.4,
+    "end": 2667.28,
+    "text": " straight up from a standstill. They could jump into the top of an open top bus if they were walking"
+  },
+  {
+    "start": 2667.28,
+    "end": 2672.4,
+    "text": " alongside it. This is so amazing. Like I read another claim made by the US wildlife authorities,"
+  },
+  {
+    "start": 2672.4,
+    "end": 2679.28,
+    "text": " they could jump over a school bus the long way round, like front to back. Wow. So what's the"
+  },
+  {
+    "start": 2679.28,
+    "end": 2688.08,
+    "text": " distance they can get? Long. I've just named a load of statistics. It's 40 feet. Okay. 17 feet"
+  },
+  {
+    "start": 2688.08,
+    "end": 2693.68,
+    "text": " by long is what we're saying. Can I just ask a quick question? Yeah. Because this bothers me"
+  },
+  {
+    "start": 2693.68,
+    "end": 2699.2,
+    "text": " about these kind of stats. What is the difference in length between a school bus and a bus? I wonder"
+  },
+  {
+    "start": 2699.2,
+    "end": 2704.16,
+    "text": " if it's slightly an evil, carnival thing, because a lot of stunts were about leaping over back to"
+  },
+  {
+    "start": 2704.16,
+    "end": 2708.88,
+    "text": " back. Yeah. Transport. No, but they never said school buses. They just said buses for evil,"
+  },
+  {
+    "start": 2708.88,
+    "end": 2713.04,
+    "text": " carnival, because they weren't afraid that evil carnival was going to eat their children inside"
+  },
+  {
+    "start": 2713.04,
+    "end": 2718.48,
+    "text": " the bus. Whereas they always say school buses. If it's a slightly threatening animal, because it's"
+  },
+  {
+    "start": 2718.48,
+    "end": 2723.44,
+    "text": " like it will leap over it and then come in the front door, buy its ticket and eat your kids."
+  },
+  {
+    "start": 2724.4,
+    "end": 2729.92,
+    "text": " You don't have to buy tickets for a school bus. Yeah. Well, it's just all the faster to get on"
+  },
+  {
+    "start": 2729.92,
+    "end": 2735.52,
+    "text": " with eating your children, my dear. Yeah. But they also save human lives, cougars, more human lives"
+  },
+  {
+    "start": 2735.52,
+    "end": 2741.68,
+    "text": " than they end. Probably because they don't really kill, they don't kill many people at all. Very,"
+  },
+  {
+    "start": 2741.68,
+    "end": 2748.16,
+    "text": " very rare to get attacked by a cougar. But what they do prey on a lot is deer. And deer cause 1.2"
+  },
+  {
+    "start": 2748.16,
+    "end": 2754.56,
+    "text": " million car crashes in America a year and killed 200 people. And they did a study which looked at"
+  },
+  {
+    "start": 2754.56,
+    "end": 2759.28,
+    "text": " if you were introduced cougars, how many people they'd save. And because they've eaten all the deer"
+  },
+  {
+    "start": 2759.28,
+    "end": 2764.88,
+    "text": " which are hitting the cars. Exactly. It's a tough sell, though, isn't it? Yeah. When you've got this"
+  },
+  {
+    "start": 2764.88,
+    "end": 2770.48,
+    "text": " animal that could jump over my school bus, come in, buy a ticket and kill all my kids. Are you"
+  },
+  {
+    "start": 2770.48,
+    "end": 2780.88,
+    "text": " like, yeah, but he's going to eat a few deer. Yeah, it is. All right, I need to move us on to our"
+  },
+  {
+    "start": 2780.88,
+    "end": 2786.72,
+    "text": " final fact of the show. Time for a final fact of the show. And that is Andy. My fact is that nobody"
+  },
+  {
+    "start": 2786.72,
+    "end": 2791.92,
+    "text": " knows how large the world's largest crocodile is. What they should do is get a cougar to jump over"
+  },
+  {
+    "start": 2791.92,
+    "end": 2800.48,
+    "text": " it. And all right, here's Cassius. So on the screen is a very large crocodile. He's called"
+  },
+  {
+    "start": 2800.48,
+    "end": 2806.8,
+    "text": " Cassius. He's the largest known crocodile, because he's the largest crocodile in captivity. He is"
+  },
+  {
+    "start": 2806.8,
+    "end": 2813.28,
+    "text": " approximately approximately 18 feet. Which means if you stood him upright."
+  },
+  {
+    "start": 2815.6,
+    "end": 2822.72,
+    "text": " That is amazing. I want to see that show where you've got one cougar, one statue of David,"
+  },
+  {
+    "start": 2822.72,
+    "end": 2828.08,
+    "text": " and one enormous crocodile. God, I didn't notice that until now now."
+  },
+  {
+    "start": 2828.08,
+    "end": 2834,
+    "text": " Channel five, if you're listening, this is big buzz. Yeah. And this is the thing, like, he's been"
+  },
+  {
+    "start": 2834,
+    "end": 2838.24,
+    "text": " estimated that they're not sure exactly how old he is, his keepers, because they they took him in"
+  },
+  {
+    "start": 2838.24,
+    "end": 2845.52,
+    "text": " about 40 years ago, 35. And they believe he might be 80. Some keepers think he might be up to 120"
+  },
+  {
+    "start": 2845.52,
+    "end": 2854.32,
+    "text": " years old. Yeah, old crocodile. And he was last measured in 2011 at 18 feet. But even then when"
+  },
+  {
+    "start": 2854.32,
+    "end": 2858.8,
+    "text": " they took him in, he was missing bits of his snout and his tail, because of fights or accidents or"
+  },
+  {
+    "start": 2858.8,
+    "end": 2863.6,
+    "text": " whatever. And no one has tried to measure him since then. And he's probably grown, but just,"
+  },
+  {
+    "start": 2863.6,
+    "end": 2867.92,
+    "text": " you know, because I think they grow their whole lives that they crocodile. So that he's probably"
+  },
+  {
+    "start": 2867.92,
+    "end": 2873.52,
+    "text": " grown, but they really don't want the like the admin of measuring. He's really terrifying. He's"
+  },
+  {
+    "start": 2873.52,
+    "end": 2878.24,
+    "text": " so huge. And he is terrifying. I mean, what I was thinking, what you don't want to hear about a"
+  },
+  {
+    "start": 2878.24,
+    "end": 2884.48,
+    "text": " crocodile is how his carer describes him, the guy who looks after him, who's a guy called 2D Scott,"
+  },
+  {
+    "start": 2884.48,
+    "end": 2892.24,
+    "text": " which is a funny name. And 2D says he still has a lot of spark in him, which is not what you want"
+  },
+  {
+    "start": 2892.24,
+    "end": 2896.88,
+    "text": " at all. He says, because most crocodiles are quite disinterested, you know, they just sit there"
+  },
+  {
+    "start": 2896.88,
+    "end": 2902.32,
+    "text": " like a motionless lump. But this one, when you walk in, Cassius, he every time he sees you, he"
+  },
+  {
+    "start": 2902.32,
+    "end": 2909.6,
+    "text": " wants to come up and say good day in his eyes. His eyes light up tragically 2D Scott was actually"
+  },
+  {
+    "start": 2909.6,
+    "end": 2916.8,
+    "text": " called 3D Scott until an accident in the pen. He's terrifying. He's met a load of celebrities."
+  },
+  {
+    "start": 2916.8,
+    "end": 2924,
+    "text": " Cassius. Yeah, Queen Elizabeth II. No, Xi Jinping, King of Thailand. They're not so much celebrities"
+  },
+  {
+    "start": 2924,
+    "end": 2930.08,
+    "text": " as heads of state. Scott Morrison, who's not a head of state. He's the head of government. Queen"
+  },
+  {
+    "start": 2930.08,
+    "end": 2936.88,
+    "text": " Elizabeth was the head of state at the time. But nonetheless, God, that seemed so important"
+  },
+  {
+    "start": 2936.88,
+    "end": 2942.56,
+    "text": " when I said it. And as the words were leaving my mouth, I thought, who gives a toss. Has he met"
+  },
+  {
+    "start": 2942.56,
+    "end": 2949.84,
+    "text": " Kim Kardashian? No data, don't know. So he hasn't been the longest for that long, has he? The longest"
+  },
+  {
+    "start": 2949.84,
+    "end": 2956.96,
+    "text": " crocodile? Because there was another crocodile who I think died in 2013, who was called La Long."
+  },
+  {
+    "start": 2956.96,
+    "end": 2961.92,
+    "text": " Oh, yeah. And so long, they added an extra L and O to the beginning of his name."
+  },
+  {
+    "start": 2961.92,
+    "end": 2965.52,
+    "text": " They're just so astonished every time they see him, they go, he's long."
+  },
+  {
+    "start": 2965.52,
+    "end": 2974.4,
+    "text": " Anyway, he was 6.13 meters a little bit longer than Cassius. And he was caught in 2011. I think"
+  },
+  {
+    "start": 2974.4,
+    "end": 2979.12,
+    "text": " these are taken into captivity when they're dangerous. So he'd eaten some fishermen and a"
+  },
+  {
+    "start": 2979.12,
+    "end": 2988.08,
+    "text": " girl, I think. And so it was a black mark against your name, I think. And so it was hunted. And"
+  },
+  {
+    "start": 2988.08,
+    "end": 2992.72,
+    "text": " actually, La Long, when he was hunted, it took over 100 people to bring him on to land. He was"
+  },
+  {
+    "start": 2992.72,
+    "end": 2998.56,
+    "text": " really aggressive. He sort of broke his restraining rope twice. And he was named after the crocodile"
+  },
+  {
+    "start": 2998.56,
+    "end": 3004.72,
+    "text": " hunter in the area, whose nickname was La Long. Oh, okay. La Long died, didn't he? He did. La Long"
+  },
+  {
+    "start": 3004.72,
+    "end": 3008.08,
+    "text": " died. And I imagine for the obituary, they would have gone with so long, la long."
+  },
+  {
+    "start": 3008.08,
+    "end": 3020.56,
+    "text": " If you have a baby crying, let's say on a speaker, then a crocodile will run very quickly and"
+  },
+  {
+    "start": 3020.56,
+    "end": 3029.44,
+    "text": " aggressively towards it. To change it or feed it? I'm afraid not because then they start biting the"
+  },
+  {
+    "start": 3029.44,
+    "end": 3036.88,
+    "text": " speaker. They're really attracted to the sound of primates crying and human babies crying the same"
+  },
+  {
+    "start": 3036.88,
+    "end": 3042.88,
+    "text": " way that bonobos might or chimpanzees might. And probably because they hear a baby crying,"
+  },
+  {
+    "start": 3042.88,
+    "end": 3047.76,
+    "text": " they think this is an easy meal. And what do these crocodiles think of the rest is politics?"
+  },
+  {
+    "start": 3047.76,
+    "end": 3058,
+    "text": " Would they engage with it? I read about that study. And the most amazing thing is that they"
+  },
+  {
+    "start": 3058,
+    "end": 3063.2,
+    "text": " can tell the difference between how upset a baby is more than you can. And then they'll respond"
+  },
+  {
+    "start": 3063.2,
+    "end": 3068.64,
+    "text": " accordingly. And the way they tested this, which I quite like, is by recording human babies screaming"
+  },
+  {
+    "start": 3068.64,
+    "end": 3075.6,
+    "text": " at different levels of emergency. And you can't torture a baby for science these days. So instead,"
+  },
+  {
+    "start": 3075.6,
+    "end": 3081.52,
+    "text": " what they did was... Anna said with a faint tang of regret in the voice. They recorded babies"
+  },
+  {
+    "start": 3081.52,
+    "end": 3087.12,
+    "text": " at bath time when sometimes they cry. And then when they get vaccinated, when they cry in a bit"
+  },
+  {
+    "start": 3087.12,
+    "end": 3091.04,
+    "text": " more of an emergency way... A needle, any kind of needle, yeah. Yeah, it's a bit more of someone"
+  },
+  {
+    "start": 3091.04,
+    "end": 3097.52,
+    "text": " stabbing me kind of cry. And the crocodiles swim more vigorously, more fast towards the speakers"
+  },
+  {
+    "start": 3097.52,
+    "end": 3102.48,
+    "text": " that emit the vaccination cry. And they can tell us at a frequency difference that even we can't."
+  },
+  {
+    "start": 3102.48,
+    "end": 3108.8,
+    "text": " Crocodiles, anti-vaxxers, that's what we're taking from that. I knew I never liked them."
+  },
+  {
+    "start": 3108.8,
+    "end": 3114.96,
+    "text": " Can I mention very quickly, we're talking about crocodiles. Can't not mention the great Steve Irwin."
+  },
+  {
+    "start": 3116.48,
+    "end": 3122.72,
+    "text": " Thank you for the silent respect. Crocodile hunter. Yeah, he was a crocodile hunter. But he"
+  },
+  {
+    "start": 3122.72,
+    "end": 3127.52,
+    "text": " had Australia Zoo, and that was his big thing. He used to jump on a lot of massive crocodiles."
+  },
+  {
+    "start": 3127.52,
+    "end": 3132.32,
+    "text": " And one of the things which is said about him, and there's a tiny bit of question about it,"
+  },
+  {
+    "start": 3132.32,
+    "end": 3138.64,
+    "text": " but a lot of people say this is true, is that he had a Galapagos tortoise inside Australia Zoo."
+  },
+  {
+    "start": 3138.64,
+    "end": 3143.92,
+    "text": " And the previous owner of the tortoise was Charles Darwin. Isn't that insane?"
+  },
+  {
+    "start": 3143.92,
+    "end": 3149.44,
+    "text": " Oh my God, that's so cool. So she was called Harriet. She survived from the time of the Beagle"
+  },
+  {
+    "start": 3149.44,
+    "end": 3154.48,
+    "text": " Expeditions all the way through to Steve Irwin's zoo, just to give you the idea of the span of"
+  },
+  {
+    "start": 3154.48,
+    "end": 3159.76,
+    "text": " time. And it's quite nice because Steve Irwin was definitely a huge hero of mine. There is a"
+  },
+  {
+    "start": 3159.76,
+    "end": 3165.92,
+    "text": " minor planet out in the universe now named for him. So out there somewhere is a minor planet"
+  },
+  {
+    "start": 3165.92,
+    "end": 3175.84,
+    "text": " called Crikey. Something clever that crocodiles do, which is really mean and evil, is they,"
+  },
+  {
+    "start": 3175.84,
+    "end": 3181.84,
+    "text": " well, I'll tell you what they do and you'll tell me why. They lie underwater and allocators do this"
+  },
+  {
+    "start": 3181.84,
+    "end": 3186.72,
+    "text": " as well. And they just have a little bit of their head sticking out. And then they put sticks or"
+  },
+  {
+    "start": 3186.72,
+    "end": 3190.64,
+    "text": " branches on their head. What are they doing? They're leering human children who like to"
+  },
+  {
+    "start": 3190.64,
+    "end": 3197.12,
+    "text": " play pickup sticks. You're very close and that could be a secondary purpose. Oh, they're pretending"
+  },
+  {
+    "start": 3197.12,
+    "end": 3202.56,
+    "text": " to be a bird's nest. So a bird will land on them and delete them. You're basically, between you,"
+  },
+  {
+    "start": 3202.56,
+    "end": 3214.64,
+    "text": " you're correct. A human baby flies down and picks out one of the sticks and then says Jenga."
+  },
+  {
+    "start": 3216.56,
+    "end": 3222.32,
+    "text": " You've gone the wrong way. It's to trick birds into thinking that they're sort of a tree because"
+  },
+  {
+    "start": 3222.32,
+    "end": 3226.96,
+    "text": " they look quite tree like, don't they? They look like branches and try and go and collect their"
+  },
+  {
+    "start": 3226.96,
+    "end": 3230.16,
+    "text": " sticks to make their nest with. So then the bird will go and land on them to pick up a stick to"
+  },
+  {
+    "start": 3230.16,
+    "end": 3235.84,
+    "text": " make a nest. Snap. You're done. Dinner. Do you know how to measure? This is for alligators. I hope"
+  },
+  {
+    "start": 3235.84,
+    "end": 3241.04,
+    "text": " I'm allowed a sort of slight curve. How to measure an alligator if you see one in the wild."
+  },
+  {
+    "start": 3241.04,
+    "end": 3246.4,
+    "text": " So it's possible to measure an alligator in the wild, but it's not possible to measure"
+  },
+  {
+    "start": 3246.4,
+    "end": 3252.24,
+    "text": " this crocodile, which is in captivity. Good point. I suppose if you're in the wild and you see an"
+  },
+  {
+    "start": 3252.24,
+    "end": 3256,
+    "text": " alligator and you think, I wonder how big that alligator is. Okay. So you want to see, you don't"
+  },
+  {
+    "start": 3256,
+    "end": 3261.04,
+    "text": " want to go up to it with a tape measure. So you see something else around it, which you know,"
+  },
+  {
+    "start": 3261.04,
+    "end": 3265.12,
+    "text": " you throw your iPhone at it. That's it. The iPhone lands on it and you work out how many"
+  },
+  {
+    "start": 3265.12,
+    "end": 3272.8,
+    "text": " iPhones it is. Exactly. Actually, you have to find an old pair of its shoes in its vest. Crocodile"
+  },
+  {
+    "start": 3272.8,
+    "end": 3281.52,
+    "text": " shoes. That's what the song's about. No, it's so easy. And I just want to get like another little"
+  },
+  {
+    "start": 3281.52,
+    "end": 3286.72,
+    "text": " tip. Yeah, you just approach it at night with a torch and then you locate the midpoint on its"
+  },
+  {
+    "start": 3286.72,
+    "end": 3292.8,
+    "text": " skull and you estimate the distance to the end of the nostrils. Don't wake it up. And then every"
+  },
+  {
+    "start": 3292.8,
+    "end": 3299.36,
+    "text": " inch of that distance is a foot of the alligator. Okay. So like if that distance is six inches,"
+  },
+  {
+    "start": 3299.36,
+    "end": 3303.52,
+    "text": " you've got a six foot alligator and so on. Okay, that's clever. Crocodiles do a crazy thing where"
+  },
+  {
+    "start": 3303.52,
+    "end": 3309.44,
+    "text": " they, you would think in any scenario where they live, they're like the dominant species, right?"
+  },
+  {
+    "start": 3309.44,
+    "end": 3315.6,
+    "text": " And they're not. Often hippos, if they're around, are much bigger. So talking earlier about"
+  },
+  {
+    "start": 3315.6,
+    "end": 3320.48,
+    "text": " crocodiles running to a baby monitor and hearing baby crying, one thing that hippos tend to use"
+  },
+  {
+    "start": 3320.48,
+    "end": 3326.8,
+    "text": " them as is basically like a baby chewing toy. They'll go up and while the croc is just laying there,"
+  },
+  {
+    "start": 3326.8,
+    "end": 3330.72,
+    "text": " they'll go and they'll start licking it, they'll start chewing it and the crocodile will just lay"
+  },
+  {
+    "start": 3330.72,
+    "end": 3336.32,
+    "text": " there as if nothing's going on. Yeah, because if it makes any movement, it might antagonize the"
+  },
+  {
+    "start": 3336.32,
+    "end": 3341.6,
+    "text": " hippo into eating it. So it just has to sit there and be. Is this a baby hippo though that's chewing"
+  },
+  {
+    "start": 3341.6,
+    "end": 3346.88,
+    "text": " on it? Yeah, yeah, yeah. It's just, you just, it has to lay there and just be sucked on, licked on,"
+  },
+  {
+    "start": 3346.88,
+    "end": 3352.16,
+    "text": " just take it. Well, not everyone has a Henry Hoovey, you know. We've all got one somehow."
+  },
+  {
+    "start": 3353.28,
+    "end": 3357.44,
+    "text": " I need to wrap us up very soon. Oh, just some things on big animals. Okay, yeah."
+  },
+  {
+    "start": 3357.44,
+    "end": 3363.2,
+    "text": " Seeing as that's what this was about. I was looking at big, small animals. So the largest ant,"
+  },
+  {
+    "start": 3363.2,
+    "end": 3369.12,
+    "text": " the largest ant in the world is the safari ant, which is five centimeters in length,"
+  },
+  {
+    "start": 3369.12,
+    "end": 3373.36,
+    "text": " which is the same length as David's penis if he was human sized."
+  },
+  {
+    "start": 3373.36,
+    "end": 3378.72,
+    "text": " If he was human sized, okay. So if you can imagine a human with the world's largest ant,"
+  },
+  {
+    "start": 3378.72,
+    "end": 3384.72,
+    "text": " where your penis would be. Yeah. Yes. That's David. That's really helpful. Thank you, James."
+  },
+  {
+    "start": 3384.72,
+    "end": 3391.92,
+    "text": " The world's longest insect in total is a stick insect. They found one in China,"
+  },
+  {
+    "start": 3391.92,
+    "end": 3399.28,
+    "text": " which was 24.6 inches in total length, which means that you couldn't legally use her as a rounder's"
+  },
+  {
+    "start": 3399.28,
+    "end": 3408.48,
+    "text": " bat. So good. Anything else before we, Anna, you all again? I've just, all I can think about now"
+  },
+  {
+    "start": 3408.48,
+    "end": 3412.64,
+    "text": " is giant house spiders, because I've had a real problem with spiders lately. So we've been talking"
+  },
+  {
+    "start": 3412.64,
+    "end": 3420.8,
+    "text": " about big animals, but they are the biggest. And genuinely, there was one in my room the other day,"
+  },
+  {
+    "start": 3420.8,
+    "end": 3425.2,
+    "text": " and after an hour and a half of staring at it, I was on my own and eventually managing to kill it"
+  },
+  {
+    "start": 3425.2,
+    "end": 3430,
+    "text": " with the longest object I could find, me at one end, it at the other. And they don't die, obviously,"
+  },
+  {
+    "start": 3430,
+    "end": 3435.04,
+    "text": " so that its legs are so wriggling. They don't die. They die. They can't. It's not possible to kill them."
+  },
+  {
+    "start": 3435.04,
+    "end": 3443.04,
+    "text": " They don't die. And it was two in the morning. I was on my own. This newborn baby was next door."
+  },
+  {
+    "start": 3443.04,
+    "end": 3448.72,
+    "text": " My newborn baby was next door and asleep. And you know how like the worst thing that can possibly"
+  },
+  {
+    "start": 3448.72,
+    "end": 3455.6,
+    "text": " happen if you have a baby is that it wakes up and then it's legs. There were three legs still"
+  },
+  {
+    "start": 3455.6,
+    "end": 3460.8,
+    "text": " moving over the thing that I crushed it with. And I screamed at the top of my lungs, no, no, no,"
+  },
+  {
+    "start": 3460.8,
+    "end": 3468.96,
+    "text": " you can't be alive. You can't be alive. Please die. And anyway, so I looked up how to deter"
+  },
+  {
+    "start": 3468.96,
+    "end": 3474.88,
+    "text": " spiders and you can draw lines of chalk everywhere. So apparently they don't like the taste of chalk"
+  },
+  {
+    "start": 3474.88,
+    "end": 3479.28,
+    "text": " and they taste with their legs. Like it's all over there. I thought you meant like drawing an outline,"
+  },
+  {
+    "start": 3479.28,
+    "end": 3484.16,
+    "text": " like emergency. Yeah, yeah. Whoa, this person kills spiders. Let's get out of here, man."
+  },
+  {
+    "start": 3484.16,
+    "end": 3496.96,
+    "text": " Okay, that is it. That is all of our facts. Thank you so much for listening to our 500th episode,"
+  },
+  {
+    "start": 3496.96,
+    "end": 3504.72,
+    "text": " everybody. We can all be found on our Twitter accounts. I'm on at Shriverland James."
+  },
+  {
+    "start": 3504.72,
+    "end": 3513.76,
+    "text": " James Harkin, Andy, and Anna. I'm uncontactable. Oh, sorry. Yeah, podcast.qi.com and Andy will"
+  },
+  {
+    "start": 3513.76,
+    "end": 3518.8,
+    "text": " pick it up and he'll text me and I'll ignore it. Yeah, we can get us on a group account at no such"
+  },
+  {
+    "start": 3518.8,
+    "end": 3522.56,
+    "text": " thing. You can also find our website, no such thing as a fish.com where all of our previous"
+  },
+  {
+    "start": 3522.56,
+    "end": 3527.36,
+    "text": " episodes are up and you can find merchandise and so on. Thank you everyone so much for being here"
+  },
+  {
+    "start": 3527.36,
+    "end": 3531.44,
+    "text": " in the room tonight. Thank you everyone watching us from around the world. We really appreciate it."
+  },
+  {
+    "start": 3531.44,
+    "end": 3537.28,
+    "text": " We're going to be back again next week with episode 501. The story continues. The facts"
+  },
+  {
+    "start": 3537.28,
+    "end": 3547.36,
+    "text": " keep going. We'll see you then. Goodbye!"
+  },
+  {
+    "start": 3547.68,
+    "end": 3548.24,
+    "text": " you"
+  },
+  {
+    "start": 3548.24,
+    "end": 3548.8,
+    "text": " you"
+  },
+  {
+    "start": 3549.12,
+    "end": 3549.68,
+    "text": " you"
+  },
+  {
+    "start": 3549.76,
+    "end": 3550.32,
+    "text": " you"
+  },
+  {
+    "start": 3550.32,
+    "end": 3550.88,
+    "text": " you"
+  },
+  {
+    "start": 3551.2,
+    "end": 3551.76,
+    "text": " you"
+  },
+  {
+    "start": 3552.08,
+    "end": 3552.64,
+    "text": " you"
+  },
+  {
+    "start": 3553.36,
+    "end": 3553.86,
+    "text": " you"
+  },
+  {
+    "start": 3553.86,
+    "end": 3563.86,
+    "text": " [BLANK_AUDIO]"
+  }
+]
