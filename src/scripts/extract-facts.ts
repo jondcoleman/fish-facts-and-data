@@ -44,18 +44,13 @@ function createBatchRequest({
   customId: string;
 }) {
   const instructions = `
-You are given a transcript of an episode of "No Such Thing As A Fish" podcast in CSV format with columns: start_hhmmss,end_hhmmss,text.
+You are given a transcript of a STANDARD episode of "No Such Thing As A Fish" podcast in CSV format with columns: start_hhmmss,end_hhmmss,text.
 
-EPISODE TYPE CLASSIFICATION (CRITICAL):
-- "standard": The regular weekly episode format with exactly FOUR numbered facts (fact 1, fact 2, fact 3, fact 4). This is the default and most common type. Episodes are numbered (e.g., "575. No Such Thing As..."). If you see phrases like "it's time for fact number 1/2/3/4" or "our first/second/third/final fact", this is STANDARD.
-- "bonus": Special episodes that explicitly have "bonus" in the title (e.g., "Bonus: Drop Us A Line", "Bonus: Meet The Elves"). These typically do NOT follow the four-fact structure.
-- "compilation": Episodes with "compilation" in the title. These are clip shows and do NOT have four new facts.
-- "other": Quizzes, live shows with unusual formats, or anything truly unusual.
+This is a regular weekly episode with exactly FOUR numbered facts. Your task is to extract these four facts.
 
-IMPORTANT: If the episode follows the standard pattern of introducing four numbered facts with phrases like "it's time for fact number X" or "our Xth fact of the show", it is STANDARD, not bonus or other. Most numbered episodes (e.g., "575", "602") are STANDARD.
-
-FACT EXTRACTION (for STANDARD episodes only):
+FACT EXTRACTION:
 - Extract the exact 1-2 sentence wording of each fact as stated by the presenter
+- Each fact is numbered 1-4
 - The four main hosts are: James Harkin, Anna Ptaszynski, Dan Schreiber, Andrew Hunter Murray
 - If only first names are used (James, Anna, Dan, Andy/Andrew), match to full names above
 - Identify guest presenters by context (they'll be introduced by name)
@@ -76,7 +71,7 @@ Example fact introduction:
  and that is Anna.
 ---
 
-For NON-STANDARD episodes (compilation, bonus, other): Return an EMPTY facts array.
+SUMMARY: Provide a brief 1-2 sentence summary of the episode's topics.
 
 Return only JSON that matches the provided schema.`;
 
@@ -108,11 +103,12 @@ Return only JSON that matches the provided schema.`;
             properties: {
               episode_type: {
                 type: "string",
-                enum: ["standard", "compilation", "bonus", "other"],
+                const: "standard",
               },
               episode_summary: { type: "string" },
               facts: {
                 type: "array",
+                minItems: 4,
                 maxItems: 4,
                 items: {
                   type: "object",

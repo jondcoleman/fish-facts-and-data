@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 import "dotenv/config";
+import * as fs from "fs/promises";
 import * as path from "path";
 import {
   discoverNewEpisodes,
@@ -12,6 +13,7 @@ import {
   saveEpisodeMetadata,
   getEpisodeDir,
   fileExists,
+  writeJson,
   logInfo,
   logSuccess,
   logError,
@@ -160,13 +162,38 @@ async function main() {
         const episodeDir = getEpisodeDir(episode.dirName);
         const vttPath = path.join(episodeDir, "transcript.vtt");
         const factsPath = path.join(episodeDir, "facts.json");
+        const metadataPath = path.join(episodeDir, "metadata.json");
 
         // Only include episodes that don't already have facts.json
         const factsExist = await fileExists(factsPath);
         if (!factsExist) {
-          vttPaths.push(vttPath);
-          outputDirs.push(episodeDir);
-          episodeIdsForExtraction.push(episode.id);
+          // Check if this is a standard episode by reading metadata
+          const metadata = JSON.parse(
+            await fs.readFile(metadataPath, "utf-8")
+          );
+
+          // Standard episodes have itunes.episode number and NOT episodeType: "bonus"
+          const isStandard = metadata.itunes?.episode && metadata.itunes?.episodeType !== "bonus";
+
+          if (isStandard) {
+            // Standard episode - extract facts via LLM
+            vttPaths.push(vttPath);
+            outputDirs.push(episodeDir);
+            episodeIdsForExtraction.push(episode.id);
+          } else {
+            // Non-standard episode - create empty facts file
+            const episodeType = metadata.itunes?.episodeType === "bonus"
+              ? (metadata.title?.toLowerCase().includes("compilation") ? "compilation" : "bonus")
+              : "other";
+
+            await writeJson(factsPath, {
+              episode_type: episodeType,
+              episode_summary: "",
+              facts: [],
+            });
+            await markEpisodeProcessed(episode.id);
+            logInfo(`Created empty facts for ${episodeType} episode: ${episode.dirName}`);
+          }
         } else {
           // Already has facts, mark as processed now
           await markEpisodeProcessed(episode.id);
