@@ -10,6 +10,7 @@
     "process": "tsx src/scripts/process-episodes.ts",
     "discover": "tsx src/scripts/discover.ts",
     "extract-facts": "tsx src/scripts/extract-facts.ts",
+    "retry-facts": "tsx src/scripts/retry-facts.ts",
     "bootstrap": "tsx src/scripts/bootstrap-episodes.ts",
     "migrate-audio-urls": "tsx src/scripts/migrate-audio-urls.ts",
     "migrate-poc": "tsx src/scripts/migrate-poc-files.ts",

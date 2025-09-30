@@ -11,14 +11,11 @@ const totalFacts = episodes.reduce((sum, ep) => sum + ep.facts.length, 0);
 		<div class="container">
 			<header>
 				<h1 class="header">No Such Thing As A Timestamped Fact</h1>
-				<p class="subtitle header">Browse timestamped facts from every episode of the No Such Thing As A Fish podcast</p>
-				<div class="stats">
-					<span>{episodes.length} Episodes</span>
-					<span>•</span>
-					<span>{totalFacts} Facts</span>
-				</div>
+				<p class="subtitle header">Browse timestamped facts from every standard episode of the No Such Thing As A Fish podcast</p>
 				<div class="disclaimer">
 					<p>Fact extraction powered by AI so it may not be perfect. <a href="https://github.com/jondcoleman/fish-facts-and-data/issues" target="_blank" rel="noopener noreferrer">Report issues</a> or <a href="https://github.com/jondcoleman/fish-facts-and-data" target="_blank" rel="noopener noreferrer">submit a PR</a>.</p>
+					<br>
+					<p>Timestamps are from the no-ads Patreon version, so timing will be off if you have ads.</p>
 				</div>
 			</header>
 
@@ -32,7 +29,7 @@ const totalFacts = episodes.reduce((sum, ep) => sum + ep.facts.length, 0);
 							<input
 								type="text"
 								id="episode-search"
-								placeholder="Search episodes..."
+								placeholder="Search episode titles..."
 								class="search-input"
 							/>
 						</div>

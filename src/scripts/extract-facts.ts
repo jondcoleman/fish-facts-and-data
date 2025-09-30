@@ -381,8 +381,8 @@ async function findEpisodesNeedingFacts(): Promise<
         metadata.itunes?.episode && metadata.itunes?.episodeType !== "bonus";
       const isFullEpisode = metadata.itunes?.episodeType === "full";
       const titleHasNumber = /^\d+[.:]/.test(metadata.title);
-      const titleHasBonus = /^Bonus Compilation|^Bonus:/i.test(metadata.title);
-      const isStandard = (hasEpisodeNumber || isFullEpisode || titleHasNumber) && !titleHasBonus;
+      const titleHasCompilationOrBonus = /compilation|^bonus/i.test(metadata.title);
+      const isStandard = (hasEpisodeNumber || isFullEpisode || titleHasNumber) && !titleHasCompilationOrBonus;
 
       if (isStandard) {
         episodes.push({ vttPath, outputDir: episodeDir, dirName: entry.name });
