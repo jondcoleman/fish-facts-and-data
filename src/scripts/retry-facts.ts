@@ -18,7 +18,6 @@ import {
   logSection,
   logWarning,
 } from "./utils/index.js";
-import { markEpisodeProcessed } from "./discover.js";
 
 interface Metadata {
   id: string;
@@ -112,8 +111,6 @@ async function retryFactExtraction(episodeIdentifier: string): Promise<boolean> 
   const result = await extractFactsFromVtt([vttPath], [episodeDir], true);
 
   if (result.ok === 1) {
-    // Mark as processed
-    await markEpisodeProcessed(episode.id);
     logSuccess(`Successfully extracted facts for: ${episode.dirName}`);
     return true;
   } else {

@@ -4,7 +4,6 @@ import * as fs from "fs/promises";
 import * as path from "path";
 import {
   discoverNewEpisodes,
-  markEpisodeProcessed,
 } from "./discover.js";
 import { downloadAndPrepareAudio } from "./download.js";
 import { transcribeAudio } from "./transcribe.js";
@@ -197,12 +196,8 @@ async function main() {
               episode_summary: "",
               facts: [],
             });
-            await markEpisodeProcessed(episode.id);
             logInfo(`Created empty facts for ${episodeType} episode: ${episode.dirName}`);
           }
-        } else {
-          // Already has facts, mark as processed now
-          await markEpisodeProcessed(episode.id);
         }
       } else {
         stats.failed++;
@@ -222,20 +217,17 @@ async function main() {
         `Fact extraction complete: ${extractionResults.ok} successful, ${extractionResults.fail} failed, ${extractionResults.skipped} skipped`
       );
 
-      // Mark episodes as processed only if their facts.json was created
-      logInfo("Marking episodes as processed...");
-      let markedCount = 0;
+      // Check how many episodes successfully got facts
+      let successCount = 0;
       for (let i = 0; i < episodeIdsForExtraction.length; i++) {
         const factsPath = path.join(outputDirs[i], "facts.json");
         if (await fileExists(factsPath)) {
-          await markEpisodeProcessed(episodeIdsForExtraction[i]);
-          markedCount++;
+          successCount++;
         }
       }
-      logSuccess(`Marked ${markedCount} episodes as processed`);
 
-      if (markedCount < episodeIdsForExtraction.length) {
-        logWarning(`${episodeIdsForExtraction.length - markedCount} episodes failed fact extraction and were not marked as processed`);
+      if (successCount < episodeIdsForExtraction.length) {
+        logWarning(`${episodeIdsForExtraction.length - successCount} episodes failed fact extraction`);
       }
     }
 

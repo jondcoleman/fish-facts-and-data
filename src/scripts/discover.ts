@@ -1,11 +1,12 @@
 import "dotenv/config";
 import Parser, { type Item } from "rss-parser";
 import * as path from "path";
+import * as fs from "fs/promises";
 import { fileURLToPath } from "url";
 import {
   readJson,
-  writeJson,
   createEpisodeDirName,
+  fileExists,
   logInfo,
   logSuccess,
   logError,
@@ -14,14 +15,6 @@ import {
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
-/**
- * Episode index structure
- */
-interface EpisodeIndex {
-  processed: string[];
-  lastUpdated: string | null;
-}
 
 /**
  * Episode metadata to be saved
@@ -38,7 +31,7 @@ interface EpisodeMetadata {
 }
 
 const RSS_FEED_URL = process.env.PODCAST_RSS_FEED_URL;
-const INDEX_PATH = path.join(__dirname, "../data/episodes/index.json");
+const EPISODES_DIR = path.join(__dirname, "../data/episodes");
 
 /**
  * Parse RSS feed and return all items
@@ -54,29 +47,6 @@ async function parseFeed(): Promise<Item[]> {
   logSuccess(`Found ${feed.items.length} episodes in feed`);
 
   return feed.items;
-}
-
-/**
- * Load the episode index
- */
-async function loadIndex(): Promise<EpisodeIndex> {
-  try {
-    return await readJson<EpisodeIndex>(INDEX_PATH);
-  } catch {
-    logInfo("Index not found, creating new index");
-    return {
-      processed: [],
-      lastUpdated: null,
-    };
-  }
-}
-
-/**
- * Save the episode index
- */
-async function saveIndex(index: EpisodeIndex): Promise<void> {
-  await writeJson(INDEX_PATH, index);
-  logSuccess(`Index updated with ${index.processed.length} processed episodes`);
 }
 
 /**
@@ -114,57 +84,49 @@ function createEpisodeMetadata(item: Item): EpisodeMetadata | null {
 }
 
 /**
+ * Check if an episode has already been processed
+ * An episode is considered processed if it has a facts.json file
+ */
+async function isEpisodeProcessed(dirName: string): Promise<boolean> {
+  const factsPath = path.join(EPISODES_DIR, dirName, "facts.json");
+  return await fileExists(factsPath);
+}
+
+/**
  * Find new episodes that haven't been processed yet
+ * An episode needs processing if:
+ * - It exists in the RSS feed
+ * - It doesn't have a facts.json file
  */
 export async function discoverNewEpisodes(): Promise<EpisodeMetadata[]> {
   logSection("Episode Discovery");
 
-  // Load index and feed
-  const index = await loadIndex();
   const feedItems = await parseFeed();
 
   // Find new episodes
   const newEpisodes: EpisodeMetadata[] = [];
+  let alreadyProcessed = 0;
 
   for (const item of feedItems) {
-    const id = createEpisodeId(item);
-
-    if (index.processed.includes(id)) {
-      continue; // Already processed
-    }
-
     const metadata = createEpisodeMetadata(item);
-    if (metadata) {
-      newEpisodes.push(metadata);
+    if (!metadata) continue;
+
+    // Check if this episode has been processed
+    const processed = await isEpisodeProcessed(metadata.dirName);
+
+    if (processed) {
+      alreadyProcessed++;
+      continue;
     }
+
+    newEpisodes.push(metadata);
   }
 
   logSuccess(
-    `Found ${newEpisodes.length} new episodes (${index.processed.length} already processed)`
+    `Found ${newEpisodes.length} new episodes (${alreadyProcessed} already processed)`
   );
 
   return newEpisodes;
-}
-
-/**
- * Mark an episode as processed in the index
- */
-export async function markEpisodeProcessed(episodeId: string): Promise<void> {
-  const index = await loadIndex();
-
-  if (!index.processed.includes(episodeId)) {
-    index.processed.push(episodeId);
-    index.lastUpdated = new Date().toISOString();
-    await saveIndex(index);
-  }
-}
-
-/**
- * Get all processed episode IDs
- */
-export async function getProcessedEpisodes(): Promise<string[]> {
-  const index = await loadIndex();
-  return index.processed;
 }
 
 // CLI usage
