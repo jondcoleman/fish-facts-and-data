@@ -22,18 +22,13 @@ if (!episode) {
 		<div class="container">
 			<a href="/" class="back-link">← Back to Episodes</a>
 
-			<article class="episode">
+			<article >
 				<header class="episode-header">
-					<div class="episode-type">{episode.episode_type}</div>
 					<h1>{episode.metadata.title}</h1>
-					{episode.metadata.itunes?.episode && (
-						<div class="episode-number">Episode {episode.metadata.itunes.episode}</div>
-					)}
 				</header>
 
 				{episode.facts.length > 0 && (
 					<section class="facts">
-						<h2>Facts</h2>
 						<div class="facts-grid">
 							{episode.facts.map((fact) => (
 								<div class="fact-card">
@@ -111,7 +106,7 @@ if (!episode) {
 	}
 
 	h1 {
-		font-size: 2.5rem;
+		font-size: 1.5rem;
 		margin-bottom: 0.5rem;
 		color: #FFD700;
 		line-height: 1.2;
@@ -123,7 +118,7 @@ if (!episode) {
 	}
 
 	.facts h2 {
-		font-size: 1.5rem;
+		font-size: 1rem;
 		margin-bottom: 1.5rem;
 		color: #FFD700;
 	}
