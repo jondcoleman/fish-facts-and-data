@@ -46,7 +46,7 @@ const totalFacts = episodes.reduce((sum, ep) => sum + ep.facts.length, 0);
 							const hasFacts = episode.facts.length === 4 &&
 								episode.facts.every(f => f.start_time && f.start_time !== "unknown");
 							return (
-								<a href={`/episodes/${episode.metadata.dirName}`} class="episode-row" data-title={episode.metadata.title.toLowerCase()}>
+								<a href={`/episodes/${episode.metadata.slug}`} class="episode-row" data-title={episode.metadata.title.toLowerCase()}>
 									<span class="title-text">{episode.metadata.title}</span>
 									<span class="has-facts">{hasFacts ? '4' : ''}</span>
 								</a>

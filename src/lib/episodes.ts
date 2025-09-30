@@ -10,6 +10,7 @@ export interface EpisodeWithMetadata extends Episode {
     id: string;
     title: string;
     dirName: string;
+    slug: string;
     publishDate: string;
     audioUrl?: string;
     processedAt?: string;
@@ -57,9 +58,18 @@ export async function getAllEpisodes(): Promise<EpisodeWithMetadata[]> {
             };
           }
 
+          // Add slug derived from title
+          const slug = metadata.title
+            .toLowerCase()
+            .replace(/[^a-z0-9]+/g, "-")
+            .replace(/^-+|-+$/g, "");
+
           episodes.push({
             ...facts,
-            metadata,
+            metadata: {
+              ...metadata,
+              slug,
+            },
           });
         } catch (error) {
           // Facts file doesn't exist, skip this episode
@@ -115,14 +125,33 @@ export async function getEpisodeByDirName(
       };
     }
 
+    // Add slug derived from title
+    const slug = metadata.title
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "");
+
     return {
       ...facts,
-      metadata,
+      metadata: {
+        ...metadata,
+        slug,
+      },
     };
   } catch (error) {
     console.error(`Error reading episode ${dirName}:`, error);
     return null;
   }
+}
+
+/**
+ * Get a single episode by slug
+ */
+export async function getEpisodeBySlug(
+  slug: string
+): Promise<EpisodeWithMetadata | null> {
+  const episodes = await getAllEpisodes();
+  return episodes.find((ep) => ep.metadata.slug === slug) || null;
 }
 
 /**

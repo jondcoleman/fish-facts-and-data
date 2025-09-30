@@ -1,16 +1,16 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { getAllEpisodes, getEpisodeByDirName } from '../../lib/episodes';
+import { getAllEpisodes, getEpisodeBySlug } from '../../lib/episodes';
 
 export async function getStaticPaths() {
 	const episodes = await getAllEpisodes();
 	return episodes.map(episode => ({
-		params: { dirName: episode.metadata.dirName },
+		params: { slug: episode.metadata.slug },
 	}));
 }
 
-const { dirName } = Astro.params;
-const episode = await getEpisodeByDirName(dirName!);
+const { slug } = Astro.params;
+const episode = await getEpisodeBySlug(slug!);
 
 if (!episode) {
 	return Astro.redirect('/404');
