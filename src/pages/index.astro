@@ -9,13 +9,16 @@ const totalFacts = episodes.reduce((sum, ep) => sum + ep.facts.length, 0);
 <Layout>
 	<main>
 		<div class="container">
-			<header class="header">
-				<h1>🐟 No Such Thing As A Fish</h1>
-				<p class="subtitle">Timestamps for facts in each standard episode</p>
+			<header>
+				<h1 class="header">No Such Thing As A Timestamped Fact</h1>
+				<p class="subtitle header">Browse timestamped facts from every episode of the No Such Thing As A Fish podcast</p>
 				<div class="stats">
 					<span>{episodes.length} Episodes</span>
 					<span>•</span>
 					<span>{totalFacts} Facts</span>
+				</div>
+				<div class="disclaimer">
+					<p>Fact extraction powered by AI so it may not be perfect. <a href="https://github.com/jondcoleman/fish-facts-and-data/issues" target="_blank" rel="noopener noreferrer">Report issues</a> or <a href="https://github.com/jondcoleman/fish-facts-and-data" target="_blank" rel="noopener noreferrer">submit a PR</a>.</p>
 				</div>
 			</header>
 
@@ -66,17 +69,17 @@ const totalFacts = episodes.reduce((sum, ep) => sum + ep.facts.length, 0);
 
 	.header {
 		text-align: center;
-		margin-bottom: 3rem;
+		margin-bottom: 2rem;
 	}
 
 	h1 {
-		font-size: 3rem;
+		font-size: 2rem;
 		margin-bottom: 0.5rem;
 		color: #1a1a1a;
 	}
 
 	.subtitle {
-		font-size: 1.25rem;
+		font-size: 1rem;
 		color: #666;
 		margin-bottom: 1rem;
 	}
@@ -87,6 +90,30 @@ const totalFacts = episodes.reduce((sum, ep) => sum + ep.facts.length, 0);
 		justify-content: center;
 		color: #888;
 		font-size: 0.9rem;
+	}
+
+	.disclaimer {
+		margin-top: 1.5rem;
+		margin-bottom: 1.5rem;
+		padding: 1rem;
+		background: #1a1a1a;
+		border: 1px solid #333333;
+		border-radius: 8px;
+	}
+
+	.disclaimer p {
+		font-size: 0.85rem;
+		color: #999999;
+		line-height: 1.5;
+	}
+
+	.disclaimer a {
+		color: #FFD700;
+		text-decoration: none;
+	}
+
+	.disclaimer a:hover {
+		text-decoration: underline;
 	}
 
 	.episodes h2 {

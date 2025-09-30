@@ -5,11 +5,21 @@
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
-		<title>No Such Thing As A Fish - Facts Database</title>
+		<title>No Such Thing As A Timestamped Fact</title>
 		<meta name="description" content="Browse and explore facts from the No Such Thing As A Fish podcast" />
 	</head>
 	<body>
 		<slot />
+		<footer class="site-footer">
+			<div class="footer-content">
+				<a href="https://github.com/jondcoleman/fish-facts-and-data" target="_blank" rel="noopener noreferrer" class="github-link">
+					<svg height="20" viewBox="0 0 16 16" width="20" fill="currentColor">
+						<path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path>
+					</svg>
+					<span>View on GitHub</span>
+				</a>
+			</div>
+		</footer>
 	</body>
 </html>
 
@@ -29,7 +39,7 @@
 	}
 
 	body {
-		background: #f8f9fa;
+		background: #000000;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -43,5 +53,32 @@
 
 	a {
 		color: #1976d2;
+	}
+
+	.site-footer {
+		background: #000000;
+		border-top: 1px solid #333333;
+		padding: 2rem 0;
+	}
+
+	.footer-content {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: 0 2rem;
+		text-align: center;
+	}
+
+	.github-link {
+		color: #FFD700;
+		text-decoration: none;
+		font-weight: 500;
+		transition: opacity 0.15s;
+		display: inline-flex;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.github-link:hover {
+		opacity: 0.8;
 	}
 </style>
