@@ -29,13 +29,6 @@ if (!episode) {
 					{episode.metadata.itunes?.episode && (
 						<div class="episode-number">Episode {episode.metadata.itunes.episode}</div>
 					)}
-					<div class="episode-date">
-						{new Date(episode.metadata.publishDate).toLocaleDateString('en-US', {
-							year: 'numeric',
-							month: 'long',
-							day: 'numeric'
-						})}
-					</div>
 				</header>
 
 				{episode.facts.length > 0 && (
@@ -127,12 +120,6 @@ if (!episode) {
 	.episode-number {
 		font-size: 1.1rem;
 		color: #cccccc;
-		margin-bottom: 0.5rem;
-	}
-
-	.episode-date {
-		color: #999999;
-		font-size: 0.95rem;
 	}
 
 	.facts h2 {
