@@ -1,6 +1,5 @@
 import "dotenv/config";
 import * as fs from "fs/promises";
-import { createReadStream } from "fs";
 import * as path from "path";
 import OpenAI from "openai";
 import { parse as parseSubtitle } from "@plussub/srt-vtt-parser";
@@ -17,140 +16,84 @@ import {
   logError,
   logWarning,
   logSection,
+  getEpisodeDir,
+  readJson,
 } from "./utils/index.js";
 
-const MODEL = process.env.OPENAI_MODEL || "gpt-4o";
+const MODEL = process.env.OPENAI_MODEL || "gpt-4o-mini";
 const client = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 /**
- * Prepared VTT file data for batch processing
+ * Token tracking for rate limiting
  */
-interface PreparedVtt {
-  fileBase: string;
-  csv: string;
-  outputPath: string;
+class TokenTracker {
+  private tokensUsed: { timestamp: number; tokens: number }[] = [];
+  private readonly maxTPM: number;
+  private readonly safetyMargin = 0.9; // Use 90% of limit to be safe
+
+  constructor(maxTPM: number = 2_000_000) {
+    this.maxTPM = maxTPM * this.safetyMargin;
+  }
+
+  /**
+   * Add tokens to tracker
+   */
+  add(tokens: number) {
+    this.tokensUsed.push({ timestamp: Date.now(), tokens });
+    this.cleanup();
+  }
+
+  /**
+   * Remove entries older than 60 seconds
+   */
+  private cleanup() {
+    const cutoff = Date.now() - 60000;
+    this.tokensUsed = this.tokensUsed.filter((t) => t.timestamp > cutoff);
+  }
+
+  /**
+   * Get total tokens used in last 60 seconds
+   */
+  getUsage(): number {
+    this.cleanup();
+    return this.tokensUsed.reduce((sum, t) => sum + t.tokens, 0);
+  }
+
+  /**
+   * Check if we can add tokens without exceeding limit
+   */
+  canAdd(tokens: number): boolean {
+    return this.getUsage() + tokens <= this.maxTPM;
+  }
+
+  /**
+   * Wait until we can add tokens
+   */
+  async waitForCapacity(tokens: number) {
+    while (!this.canAdd(tokens)) {
+      const usage = this.getUsage();
+      const waitTime = Math.ceil((usage + tokens - this.maxTPM) / (this.maxTPM / 60));
+      logInfo(`Rate limit approaching. Waiting ${waitTime}s...`);
+      await new Promise((resolve) => setTimeout(resolve, Math.max(1000, waitTime * 1000)));
+    }
+  }
 }
 
 /**
- * Create batch request for OpenAI API
+ * Estimate tokens in text (rough approximation: ~4 chars per token)
  */
-function createBatchRequest({
-  fileBase,
-  csv,
-  customId,
-}: {
-  fileBase: string;
-  csv: string;
-  customId: string;
-}) {
-  const instructions = `
-You are given a transcript of a STANDARD episode of "No Such Thing As A Fish" podcast in CSV format with columns: start_hhmmss,end_hhmmss,text.
-
-This is a regular weekly episode with exactly FOUR numbered facts. Your task is to extract these four facts.
-
-FACT EXTRACTION:
-- Extract the exact 1-2 sentence wording of each fact as stated by the presenter
-- Each fact is numbered 1-4
-- The four main hosts are: James Harkin, Anna Ptaszynski, Dan Schreiber, Andrew Hunter Murray
-- If only first names are used (James, Anna, Dan, Andy/Andrew), match to full names above
-- Identify guest presenters by context (they'll be introduced by name)
-- Almost never does the same person present multiple facts in one episode
-- Start times should be HH:MM:SS format from the transcript; use "unknown" if unreliable
-
-Facts are typically introduced with patterns like:
-- "It's time for fact number 1/2/3/4"
-- "Our first/second/third/final fact of the show"
-- "Okay, it is time for fact number X and that is [Name]"
-
-Example fact introduction:
----
-00:37:02.560 --> 00:37:07.260
- - Okay, it is time for a final fact of the show
-
-00:37:07.260 --> 00:37:09.020
- and that is Anna.
----
-
-SUMMARY: Provide a brief 1-2 sentence summary of the episode's topics.
-
-Return only JSON that matches the provided schema.`;
-
-  const input = `Filename: ${fileBase}.vtt\n\nTranscript CSV:\n${csv}`;
-
-  return {
-    custom_id: customId,
-    method: "POST",
-    url: "/v1/chat/completions",
-    body: {
-      model: MODEL,
-      messages: [
-        {
-          role: "system",
-          content: instructions,
-        },
-        {
-          role: "user",
-          content: input,
-        },
-      ],
-      temperature: 0,
-      response_format: {
-        type: "json_schema",
-        json_schema: {
-          name: "episode_extraction",
-          schema: {
-            type: "object",
-            properties: {
-              episode_type: {
-                type: "string",
-                const: "standard",
-              },
-              episode_summary: { type: "string" },
-              facts: {
-                type: "array",
-                minItems: 4,
-                maxItems: 4,
-                items: {
-                  type: "object",
-                  properties: {
-                    fact_number: { type: "integer", minimum: 1, maximum: 4 },
-                    fact: { type: "string" },
-                    presenter: { type: "string" },
-                    guest: { type: "boolean" },
-                    start_time: {
-                      type: "string",
-                      pattern: "^(\\d{2}:\\d{2}:\\d{2}|unknown)$",
-                    },
-                  },
-                  required: [
-                    "fact_number",
-                    "fact",
-                    "presenter",
-                    "guest",
-                    "start_time",
-                  ],
-                  additionalProperties: false,
-                },
-              },
-            },
-            required: ["episode_type", "episode_summary", "facts"],
-            additionalProperties: false,
-          },
-          strict: true,
-        },
-      },
-    },
-  };
+function estimateTokens(text: string): number {
+  return Math.ceil(text.length / 4);
 }
 
 /**
- * Prepare VTT file for batch processing (convert to CSV)
+ * Prepare VTT file for processing (convert to CSV)
  */
 export async function prepareVttFile(
   vttPath: string,
   outputDir: string,
   force = false
-): Promise<PreparedVtt | null> {
+): Promise<{ csv: string; outputPath: string } | null> {
   const base = path.basename(vttPath, ".vtt");
   const outJsonTranscript = path.join(outputDir, `${base}.transcript.json`);
   const outCsvTranscript = path.join(outputDir, `${base}.transcript.csv`);
@@ -158,11 +101,8 @@ export async function prepareVttFile(
 
   // Check if output already exists and skip unless forced
   if (!force && (await fileExists(outFacts))) {
-    logInfo(`Skipping ${vttPath} (facts.json already exists)`);
     return null;
   }
-
-  logInfo(`Preparing: ${vttPath}`);
 
   // Read VTT
   let vttContent: string;
@@ -222,37 +162,151 @@ export async function prepareVttFile(
     logWarning(`Could not write ${outCsvTranscript}`);
   }
 
-  return { fileBase: base, csv, outputPath: outFacts };
+  return { csv, outputPath: outFacts };
 }
 
 /**
- * Process batch results and save validated episodes
+ * Create prompt for fact extraction
  */
-async function processBatchResults(
-  batchResults: any[],
-  fileMap: Map<string, string>
-): Promise<{ ok: number; fail: number }> {
-  let ok = 0;
-  let fail = 0;
+function createPrompt(fileBase: string, csv: string): string {
+  const instructions = `
+You are given a transcript of a STANDARD episode of "No Such Thing As A Fish" podcast in CSV format with columns: start_hhmmss,end_hhmmss,text.
 
-  for (const result of batchResults) {
-    const { custom_id, response, error } = result;
-    const outputPath = fileMap.get(custom_id);
+This is a regular weekly episode with exactly FOUR numbered facts. Your task is to extract these four facts.
 
-    if (!outputPath) {
-      logError(`No output path found for custom_id: ${custom_id}`);
-      fail++;
-      continue;
-    }
+FACT EXTRACTION:
+- Extract the exact 1-2 sentence wording of each fact as stated by the presenter
+- Each fact is numbered 1-4
+- The four main hosts are: James Harkin, Anna Ptaszynski, Dan Schreiber, Andrew Hunter Murray
+- If only first names are used (James, Anna, Dan, Andy/Andrew), match to full names above
+- Identify guest presenters by context (they'll be introduced by name)
+- Almost never does the same person present multiple facts in one episode
+- Start times should be HH:MM:SS format from the transcript; use "unknown" if unreliable
 
-    if (error) {
-      logError(`API error for ${custom_id}: ${error.message}`);
-      fail++;
-      continue;
-    }
+Facts are typically introduced with patterns like:
+- "It's time for fact number 1/2/3/4"
+- "Our first/second/third/final fact of the show"
+- "Okay, it is time for fact number X and that is [Name]"
 
+Example fact introduction:
+---
+00:37:02.560 --> 00:37:07.260
+ - Okay, it is time for a final fact of the show
+
+00:37:07.260 --> 00:37:09.020
+ and that is Anna.
+---
+
+SUMMARY: Provide a brief 1-2 sentence summary of the episode's topics.
+
+Return only JSON that matches the provided schema.`;
+
+  return `Filename: ${fileBase}.vtt\n\nTranscript CSV:\n${csv}`;
+}
+
+/**
+ * Extract facts from a single episode using synchronous API
+ */
+async function extractFactsFromEpisode(
+  fileBase: string,
+  csv: string,
+  outputPath: string,
+  retries = 3
+): Promise<boolean> {
+  const prompt = createPrompt(fileBase, csv);
+
+  for (let attempt = 1; attempt <= retries; attempt++) {
     try {
-      const text = response.body.choices[0]?.message?.content;
+      const response = await client.chat.completions.create({
+        model: MODEL,
+        messages: [
+          {
+            role: "system",
+            content: `You are given a transcript of a STANDARD episode of "No Such Thing As A Fish" podcast in CSV format with columns: start_hhmmss,end_hhmmss,text.
+
+This is a regular weekly episode with exactly FOUR numbered facts. Your task is to extract these four facts.
+
+FACT EXTRACTION:
+- Extract the exact 1-2 sentence wording of each fact as stated by the presenter
+- Each fact is numbered 1-4
+- The four main hosts are: James Harkin, Anna Ptaszynski, Dan Schreiber, Andrew Hunter Murray
+- If only first names are used (James, Anna, Dan, Andy/Andrew), match to full names above
+- Identify guest presenters by context (they'll be introduced by name)
+- Almost never does the same person present multiple facts in one episode
+- Start times should be HH:MM:SS format from the transcript; use "unknown" if unreliable
+
+Facts are typically introduced with patterns like:
+- "It's time for fact number 1/2/3/4"
+- "Our first/second/third/final fact of the show"
+- "Okay, it is time for fact number X and that is [Name]"
+
+Example fact introduction:
+---
+00:37:02.560 --> 00:37:07.260
+ - Okay, it is time for a final fact of the show
+
+00:37:07.260 --> 00:37:09.020
+ and that is Anna.
+---
+
+SUMMARY: Provide a brief 1-2 sentence summary of the episode's topics.
+
+Return only JSON that matches the provided schema.`,
+          },
+          {
+            role: "user",
+            content: prompt,
+          },
+        ],
+        temperature: 0,
+        response_format: {
+          type: "json_schema",
+          json_schema: {
+            name: "episode_extraction",
+            schema: {
+              type: "object",
+              properties: {
+                episode_type: {
+                  type: "string",
+                  const: "standard",
+                },
+                episode_summary: { type: "string" },
+                facts: {
+                  type: "array",
+                  minItems: 4,
+                  maxItems: 4,
+                  items: {
+                    type: "object",
+                    properties: {
+                      fact_number: { type: "integer", minimum: 1, maximum: 4 },
+                      fact: { type: "string" },
+                      presenter: { type: "string" },
+                      guest: { type: "boolean" },
+                      start_time: {
+                        type: "string",
+                        pattern: "^(\\d{2}:\\d{2}:\\d{2}|unknown)$",
+                      },
+                    },
+                    required: [
+                      "fact_number",
+                      "fact",
+                      "presenter",
+                      "guest",
+                      "start_time",
+                    ],
+                    additionalProperties: false,
+                  },
+                },
+              },
+              required: ["episode_type", "episode_summary", "facts"],
+              additionalProperties: false,
+            },
+            strict: true,
+          },
+        },
+      });
+
+      const text = response.choices[0]?.message?.content;
       if (!text || !text.trim()) {
         throw new Error("Empty response from model");
       }
@@ -269,100 +323,77 @@ async function processBatchResults(
       }
 
       await writeJson(outputPath, parsedEpisode);
-      logSuccess(`Wrote ${outputPath}`);
-      ok++;
-    } catch (error) {
-      logError(`Failed to process ${custom_id}`, error);
-      fail++;
+      return true;
+    } catch (error: any) {
+      // Handle rate limit errors with exponential backoff
+      if (error?.status === 429 && attempt < retries) {
+        const waitTime = Math.pow(2, attempt) * 1000;
+        logWarning(
+          `Rate limited (attempt ${attempt}/${retries}). Waiting ${waitTime / 1000}s...`
+        );
+        await new Promise((resolve) => setTimeout(resolve, waitTime));
+        continue;
+      }
+
+      // Log error and return false on final attempt
+      if (attempt === retries) {
+        logError(`Failed to extract facts for ${fileBase}`, error);
+        return false;
+      }
     }
   }
 
-  return { ok, fail };
+  return false;
 }
 
 /**
- * Create and submit batch file to OpenAI
+ * Find all episodes that need fact extraction
  */
-async function createAndSubmitBatch(
-  batchRequests: any[]
-): Promise<string> {
-  const batchContent = batchRequests.map((req) => JSON.stringify(req)).join("\n");
-  const tempFile = path.join(process.cwd(), `batch_${Date.now()}.jsonl`);
+async function findEpisodesNeedingFacts(): Promise<
+  { vttPath: string; outputDir: string; dirName: string }[]
+> {
+  const EPISODES_DIR = path.join(process.cwd(), "src/data/episodes");
+  const entries = await fs.readdir(EPISODES_DIR, { withFileTypes: true });
 
-  await fs.writeFile(tempFile, batchContent, "utf-8");
+  const episodes: { vttPath: string; outputDir: string; dirName: string }[] =
+    [];
 
-  try {
-    // Upload batch file
-    const fileStream = createReadStream(tempFile);
-    const file = await client.files.create({
-      file: fileStream,
-      purpose: "batch",
-    });
+  for (const entry of entries) {
+    if (entry.isDirectory() && !entry.name.startsWith(".")) {
+      const episodeDir = getEpisodeDir(entry.name);
+      const metadataPath = path.join(episodeDir, "metadata.json");
+      const vttPath = path.join(episodeDir, "transcript.vtt");
+      const factsPath = path.join(episodeDir, "facts.json");
 
-    // Submit batch
-    const batch = await client.batches.create({
-      input_file_id: file.id,
-      endpoint: "/v1/chat/completions",
-      completion_window: "24h",
-    });
+      // Skip if facts already exist or no transcript
+      if (
+        (await fileExists(factsPath)) ||
+        !(await fileExists(vttPath)) ||
+        !(await fileExists(metadataPath))
+      ) {
+        continue;
+      }
 
-    // Clean up local file
-    await fs.unlink(tempFile);
+      // Check if it's a standard episode
+      const metadata = await readJson<any>(metadataPath);
 
-    return batch.id;
-  } catch (error) {
-    // Clean up on error
-    try {
-      await fs.unlink(tempFile);
-    } catch {}
-    throw error;
-  }
-}
+      const hasEpisodeNumber =
+        metadata.itunes?.episode && metadata.itunes?.episodeType !== "bonus";
+      const isFullEpisode = metadata.itunes?.episodeType === "full";
+      const titleHasNumber = /^\d+\./.test(metadata.title);
+      const isStandard = hasEpisodeNumber || isFullEpisode || titleHasNumber;
 
-/**
- * Wait for batch completion
- */
-async function waitForBatchCompletion(batchId: string): Promise<any> {
-  logInfo(`Waiting for batch ${batchId} to complete...`);
-
-  while (true) {
-    const batch = await client.batches.retrieve(batchId);
-    logInfo(`Batch status: ${batch.status}`);
-
-    if (batch.status === "completed") {
-      return batch;
-    } else if (
-      batch.status === "failed" ||
-      batch.status === "expired" ||
-      batch.status === "cancelled"
-    ) {
-      throw new Error(`Batch failed with status: ${batch.status}`);
-    }
-
-    // Wait 30 seconds before checking again
-    await new Promise((resolve) => setTimeout(resolve, 30000));
-  }
-}
-
-/**
- * Download batch results
- */
-async function downloadBatchResults(outputFileId: string): Promise<any[]> {
-  const fileResponse = await client.files.content(outputFileId);
-  const results = [];
-  const lines = (await fileResponse.text()).trim().split("\n");
-
-  for (const line of lines) {
-    if (line.trim()) {
-      results.push(JSON.parse(line));
+      if (isStandard) {
+        episodes.push({ vttPath, outputDir: episodeDir, dirName: entry.name });
+      }
     }
   }
 
-  return results;
+  return episodes;
 }
 
 /**
- * Extract facts from VTT files using OpenAI Batch API
+ * Extract facts from VTT files using synchronous API
  */
 export async function extractFactsFromVtt(
   vttPaths: string[],
@@ -375,50 +406,94 @@ export async function extractFactsFromVtt(
     throw new Error("OPENAI_API_KEY not set in environment");
   }
 
-  const batchRequests = [];
-  const fileMap = new Map<string, string>();
+  const tokenTracker = new TokenTracker();
+  let ok = 0;
+  let fail = 0;
   let skipped = 0;
 
-  // Prepare all files
+  // Process each episode
   for (let i = 0; i < vttPaths.length; i++) {
     const vttPath = vttPaths[i];
     const outputDir = outputDirs[i];
 
+    logInfo(`[${i + 1}/${vttPaths.length}] Processing: ${path.basename(vttPath)}`);
+
     const prepared = await prepareVttFile(vttPath, outputDir, force);
-    if (prepared) {
-      const customId = `request_${i}_${path.basename(vttPath, ".vtt")}`;
-      const batchRequest = createBatchRequest({
-        fileBase: prepared.fileBase,
-        csv: prepared.csv,
-        customId,
-      });
-
-      batchRequests.push(batchRequest);
-      fileMap.set(customId, prepared.outputPath);
-    } else {
+    if (!prepared) {
       skipped++;
+      continue;
     }
+
+    const { csv, outputPath } = prepared;
+    const fileBase = path.basename(vttPath, ".vtt");
+
+    // Estimate tokens for this request
+    const estimatedTokens = estimateTokens(csv) + 2000; // CSV + prompt + response
+
+    // Wait for rate limit capacity
+    await tokenTracker.waitForCapacity(estimatedTokens);
+
+    // Extract facts
+    const success = await extractFactsFromEpisode(fileBase, csv, outputPath);
+
+    if (success) {
+      logSuccess(`✓ Extracted facts: ${fileBase}`);
+      ok++;
+    } else {
+      fail++;
+    }
+
+    // Track tokens used
+    tokenTracker.add(estimatedTokens);
   }
-
-  if (batchRequests.length === 0) {
-    logInfo("All files already processed");
-    return { ok: 0, fail: 0, skipped };
-  }
-
-  logInfo(`Created ${batchRequests.length} batch requests`);
-
-  // Submit batch
-  const batchId = await createAndSubmitBatch(batchRequests);
-  logSuccess(`Batch submitted: ${batchId}`);
-
-  // Wait for completion
-  const completedBatch = await waitForBatchCompletion(batchId);
-
-  // Download and process results
-  const batchResults = await downloadBatchResults(
-    completedBatch.output_file_id
-  );
-  const { ok, fail } = await processBatchResults(batchResults, fileMap);
 
   return { ok, fail, skipped };
+}
+
+/**
+ * Main function for CLI usage
+ */
+async function main() {
+  const args = process.argv.slice(2);
+  const limit = args.includes("--limit")
+    ? parseInt(args[args.indexOf("--limit") + 1] || "0")
+    : undefined;
+
+  logSection("Fact Extraction - Synchronous API");
+
+  // Find all episodes needing facts
+  const episodes = await findEpisodesNeedingFacts();
+
+  if (episodes.length === 0) {
+    logInfo("No episodes need fact extraction");
+    return;
+  }
+
+  const episodesToProcess = limit ? episodes.slice(0, limit) : episodes;
+
+  logInfo(
+    `Found ${episodes.length} episodes needing facts${limit ? `, processing first ${episodesToProcess.length}` : ""}`
+  );
+
+  const vttPaths = episodesToProcess.map((e) => e.vttPath);
+  const outputDirs = episodesToProcess.map((e) => e.outputDir);
+
+  const result = await extractFactsFromVtt(vttPaths, outputDirs, false);
+
+  logSection("Complete");
+  logInfo(`Successful: ${result.ok}`);
+  logInfo(`Failed: ${result.fail}`);
+  logInfo(`Skipped: ${result.skipped}`);
+
+  if (result.fail > 0) {
+    process.exit(1);
+  }
+}
+
+// Run if called directly
+if (import.meta.url === `file://${process.argv[1]}`) {
+  main().catch((error) => {
+    logError("Script failed", error);
+    process.exit(1);
+  });
 }
