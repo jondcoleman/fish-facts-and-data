@@ -38,11 +38,6 @@ if (!episode) {
 					</div>
 				</header>
 
-				<section class="summary">
-					<h2>Summary</h2>
-					<p>{episode.episode_summary}</p>
-				</section>
-
 				{episode.facts.length > 0 && (
 					<section class="facts">
 						<h2>Facts</h2>
@@ -88,7 +83,7 @@ if (!episode) {
 	.back-link {
 		display: inline-block;
 		margin-bottom: 2rem;
-		color: #1976d2;
+		color: #FFD700;
 		text-decoration: none;
 		font-weight: 500;
 	}
@@ -98,26 +93,26 @@ if (!episode) {
 	}
 
 	.episode {
-		background: white;
+		background: #1a1a1a;
 		border-radius: 12px;
 		padding: 2rem;
-		box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+		border: 1px solid #333333;
 	}
 
 	.episode-header {
 		margin-bottom: 2rem;
 		padding-bottom: 2rem;
-		border-bottom: 2px solid #f0f0f0;
+		border-bottom: 2px solid #333333;
 	}
 
 	.episode-type {
 		display: inline-block;
 		padding: 0.25rem 0.75rem;
-		background: #e3f2fd;
-		color: #1976d2;
+		background: #333333;
+		color: #cccccc;
 		border-radius: 12px;
 		font-size: 0.75rem;
-		text-transform: uppercase;
+		text-transform: lowercase;
 		font-weight: 600;
 		margin-bottom: 1rem;
 	}
@@ -125,41 +120,25 @@ if (!episode) {
 	h1 {
 		font-size: 2.5rem;
 		margin-bottom: 0.5rem;
-		color: #1a1a1a;
+		color: #FFD700;
 		line-height: 1.2;
 	}
 
 	.episode-number {
 		font-size: 1.1rem;
-		color: #666;
+		color: #cccccc;
 		margin-bottom: 0.5rem;
 	}
 
 	.episode-date {
-		color: #888;
+		color: #999999;
 		font-size: 0.95rem;
-	}
-
-	.summary {
-		margin-bottom: 2rem;
-	}
-
-	.summary h2 {
-		font-size: 1.5rem;
-		margin-bottom: 1rem;
-		color: #1a1a1a;
-	}
-
-	.summary p {
-		font-size: 1.1rem;
-		line-height: 1.7;
-		color: #444;
 	}
 
 	.facts h2 {
 		font-size: 1.5rem;
 		margin-bottom: 1.5rem;
-		color: #1a1a1a;
+		color: #FFD700;
 	}
 
 	.facts-grid {
@@ -169,8 +148,8 @@ if (!episode) {
 
 	.fact-card {
 		padding: 1.5rem;
-		background: #f8f9fa;
-		border-left: 4px solid #1976d2;
+		background: #2a2a2a;
+		border-left: 4px solid #FFD700;
 		border-radius: 8px;
 	}
 
@@ -185,12 +164,12 @@ if (!episode) {
 
 	.fact-number {
 		font-weight: 700;
-		color: #1976d2;
+		color: #FFD700;
 		font-size: 0.9rem;
 	}
 
 	.fact-presenter {
-		color: #666;
+		color: #cccccc;
 		font-size: 0.95rem;
 		font-weight: 500;
 		display: flex;
@@ -201,8 +180,8 @@ if (!episode) {
 	.guest-badge {
 		display: inline-block;
 		padding: 0.15rem 0.5rem;
-		background: #fff3e0;
-		color: #f57c00;
+		background: #444444;
+		color: #FFD700;
 		border-radius: 8px;
 		font-size: 0.7rem;
 		text-transform: uppercase;
@@ -212,26 +191,26 @@ if (!episode) {
 	.fact-text {
 		font-size: 1.05rem;
 		line-height: 1.6;
-		color: #222;
+		color: #ffffff;
 		margin-bottom: 1rem;
 	}
 
 	.fact-time {
-		color: #888;
+		color: #999999;
 		font-size: 0.85rem;
 	}
 
 	.no-facts {
 		text-align: center;
 		padding: 3rem;
-		color: #666;
-		background: #f8f9fa;
+		color: #cccccc;
+		background: #2a2a2a;
 		border-radius: 8px;
 	}
 
 	main {
 		min-height: 100vh;
-		background: linear-gradient(to bottom, #f8f9fa, #ffffff);
+		background: #000000;
 		padding: 2rem 0;
 	}
 </style>

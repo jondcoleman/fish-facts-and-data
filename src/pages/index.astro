@@ -11,7 +11,7 @@ const totalFacts = episodes.reduce((sum, ep) => sum + ep.facts.length, 0);
 		<div class="container">
 			<header class="header">
 				<h1>🐟 No Such Thing As A Fish</h1>
-				<p class="subtitle">Facts Database & Episode Browser</p>
+				<p class="subtitle">Timestamps for facts in each standard episode</p>
 				<div class="stats">
 					<span>{episodes.length} Episodes</span>
 					<span>•</span>
@@ -24,23 +24,26 @@ const totalFacts = episodes.reduce((sum, ep) => sum + ep.facts.length, 0);
 				{episodes.length === 0 ? (
 					<p class="no-data">No episodes processed yet. Run <code>npm run process</code> to get started.</p>
 				) : (
-					<div class="episode-grid">
-						{episodes.map((episode) => (
-							<a href={`/episodes/${episode.metadata.dirName}`} class="episode-card">
-								<div class="episode-type">{episode.episode_type}</div>
-								<h3>{episode.metadata.title}</h3>
-								{episode.metadata.itunes?.episode && (
-									<div class="episode-number">Episode {episode.metadata.itunes.episode}</div>
-								)}
-								<p class="episode-summary">{episode.episode_summary}</p>
-								<div class="episode-meta">
-									<span>{episode.facts.length} facts</span>
-									<span>•</span>
-									<span>{new Date(episode.metadata.publishDate).toLocaleDateString()}</span>
-								</div>
-							</a>
-						))}
-					</div>
+					<>
+						<div class="legend">
+							<span class="legend-item">
+								<span class="has-facts-icon">4</span> = Facts extracted with timestamps
+							</span>
+						</div>
+						<div class="episode-list">
+						{episodes.map((episode) => {
+							const hasFacts = episode.facts.length === 4 &&
+								episode.facts.every(f => f.start_time && f.start_time !== "unknown");
+							return (
+								<a href={`/episodes/${episode.metadata.dirName}`} class="episode-row">
+									<span class="title-text">{episode.metadata.title}</span>
+									<span class="has-facts">{hasFacts ? '4' : ''}</span>
+									<span class="date">{new Date(episode.metadata.publishDate).toLocaleDateString()}</span>
+								</a>
+							);
+						})}
+						</div>
+					</>
 				)}
 			</section>
 		</div>
@@ -81,7 +84,29 @@ const totalFacts = episodes.reduce((sum, ep) => sum + ep.facts.length, 0);
 
 	.episodes h2 {
 		font-size: 2rem;
-		margin-bottom: 1.5rem;
+		margin-bottom: 1rem;
+	}
+
+	.legend {
+		margin-bottom: 1rem;
+		padding: 0.75rem 1rem;
+		background: #1a1a1a;
+		border: 1px solid #333333;
+		border-radius: 8px;
+		font-size: 0.85rem;
+		color: #cccccc;
+	}
+
+	.legend-item {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.has-facts-icon {
+		color: #FFD700;
+		font-weight: 700;
+		font-size: 1rem;
 	}
 
 	.no-data {
@@ -97,72 +122,156 @@ const totalFacts = episodes.reduce((sum, ep) => sum + ep.facts.length, 0);
 		font-family: monospace;
 	}
 
-	.episode-grid {
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-		gap: 1.5rem;
-	}
-
-	.episode-card {
-		display: block;
-		padding: 1.5rem;
-		background: white;
+	.episode-list {
+		display: flex;
+		flex-direction: column;
+		gap: 0;
 		border: 1px solid #e0e0e0;
 		border-radius: 8px;
+		overflow: hidden;
+		background: white;
+	}
+
+	.episode-row {
+		display: grid;
+		grid-template-columns: 1fr 2rem 6rem;
+		align-items: center;
+		padding: 0.75rem 1rem;
 		text-decoration: none;
 		color: inherit;
-		transition: transform 0.2s, box-shadow 0.2s;
+		border-bottom: 1px solid #2a2a2a;
+		transition: background 0.15s;
+		gap: 1rem;
 	}
 
-	.episode-card:hover {
-		transform: translateY(-2px);
-		box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+	.episode-row:last-child {
+		border-bottom: none;
 	}
 
-	.episode-type {
-		display: inline-block;
-		padding: 0.25rem 0.75rem;
-		background: #e3f2fd;
-		color: #1976d2;
-		border-radius: 12px;
-		font-size: 0.75rem;
-		text-transform: uppercase;
-		font-weight: 600;
-		margin-bottom: 0.75rem;
+	.episode-row:hover {
+		background: #2a2a2a;
 	}
 
-	.episode-card h3 {
-		font-size: 1.25rem;
-		margin-bottom: 0.5rem;
-		color: #1a1a1a;
+	.episode-title {
+		min-width: 0;
 	}
 
-	.episode-number {
-		font-size: 0.9rem;
-		color: #666;
-		margin-bottom: 0.5rem;
-	}
-
-	.episode-summary {
-		color: #555;
-		font-size: 0.9rem;
-		line-height: 1.5;
-		margin-bottom: 1rem;
-		display: -webkit-box;
-		-webkit-line-clamp: 3;
-		-webkit-box-orient: vertical;
+	.title-text {
 		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		display: block;
 	}
 
-	.episode-meta {
-		display: flex;
-		gap: 0.5rem;
+	.has-facts {
+		color: #FFD700;
+		font-weight: 700;
+		font-size: 1rem;
+		text-align: center;
+		min-width: 1rem;
+	}
+
+	.date {
+		color: #888888;
+		white-space: nowrap;
 		font-size: 0.85rem;
-		color: #888;
+		text-align: right;
+	}
+
+	/* Mobile layout */
+	@media (max-width: 768px) {
+		.episode-row {
+			grid-template-columns: 1fr auto;
+			grid-template-rows: auto auto;
+			padding: 1rem;
+			gap: 0.5rem 1rem;
+		}
+
+		.title-text {
+			white-space: normal;
+			line-height: 1.4;
+			grid-column: 1;
+			grid-row: 1 / 3;
+			align-self: start;
+		}
+
+		.has-facts {
+			grid-column: 2;
+			grid-row: 1;
+			align-self: start;
+		}
+
+		.date {
+			grid-column: 2;
+			grid-row: 2;
+			align-self: end;
+			font-size: 0.8rem;
+		}
+
+		.legend {
+			font-size: 0.8rem;
+			padding: 0.5rem 0.75rem;
+		}
+
+		.container {
+			padding: 1rem;
+		}
+
+		h1 {
+			font-size: 2rem;
+		}
+
+		.episodes h2 {
+			font-size: 1.5rem;
+		}
 	}
 
 	main {
 		min-height: 100vh;
-		background: linear-gradient(to bottom, #f8f9fa, #ffffff);
+		background: #000000;
+		color: #ffffff;
+	}
+
+	h1, h2 {
+		color: #FFD700;
+	}
+
+	.subtitle {
+		color: #cccccc;
+	}
+
+	.stats {
+		color: #999999;
+	}
+
+	.episode-list {
+		background: #1a1a1a;
+		border: 1px solid #333333;
+	}
+
+	.episode-row {
+		border-bottom: 1px solid #2a2a2a;
+	}
+
+	.episode-row:hover {
+		background: #2a2a2a;
+	}
+
+	.episode-number {
+		color: #FFD700;
+		font-weight: 700;
+	}
+
+	.title-text {
+		color: #ffffff;
+	}
+
+	.type-badge {
+		background: #333333;
+		color: #cccccc;
+	}
+
+	.fact-count, .date {
+		color: #888888;
 	}
 </style>
