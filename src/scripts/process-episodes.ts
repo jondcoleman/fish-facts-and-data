@@ -172,8 +172,14 @@ async function main() {
             await fs.readFile(metadataPath, "utf-8")
           );
 
-          // Standard episodes have itunes.episode number and NOT episodeType: "bonus"
-          const isStandard = metadata.itunes?.episode && metadata.itunes?.episodeType !== "bonus";
+          // Check if it's a standard episode:
+          // 1. Has itunes.episode number AND episodeType is not "bonus"
+          // 2. OR has episodeType "full" (even without episode number)
+          // 3. OR title starts with a number (e.g., "601. No Such Thing...")
+          const hasEpisodeNumber = metadata.itunes?.episode && metadata.itunes?.episodeType !== "bonus";
+          const isFullEpisode = metadata.itunes?.episodeType === "full";
+          const titleHasNumber = /^\d+\./.test(metadata.title);
+          const isStandard = hasEpisodeNumber || isFullEpisode || titleHasNumber;
 
           if (isStandard) {
             // Standard episode - extract facts via LLM

@@ -34,11 +34,16 @@ audio/
 *.aac
 *.flac
 
-# Generated transcripts and artifacts
+# Old POC transcript directories (no longer used)
 transcripts/
 downloads/
-*.srt
-*.vtt
+
+# Episode transcripts are committed (in src/data/episodes/)
+# Only ignore transcript files in root or audio directory
+/audio/*.srt
+/audio/*.vtt
+/*.srt
+/*.vtt
 
 # Patreon-protected audio URLs (keep private)
 **/audio-urls.json
