@@ -1,0 +1,358 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout>
+	<main>
+		<div class="container">
+			<header>
+				<h1 class="header">Search Facts</h1>
+				<p class="subtitle header">Search across all 2,400+ facts from No Such Thing As A Fish</p>
+				<div class="download-link">
+					<a href="/facts-index.csv" download>⬇️ Download Full Facts Index (CSV)</a>
+				</div>
+			</header>
+
+			<section class="search-section">
+				<div class="search-controls">
+					<input
+						type="text"
+						id="search-input"
+						placeholder="Search facts, episodes, or presenters..."
+						class="search-input"
+						autofocus
+					/>
+					<select id="search-mode" class="search-mode">
+						<option value="all">All Fields</option>
+						<option value="episode_title">Episode Title</option>
+						<option value="fact_text">Fact Content</option>
+						<option value="presenter">Presenter</option>
+					</select>
+				</div>
+
+				<div id="search-status" class="search-status"></div>
+
+				<div id="results-container" class="results-container">
+					<div class="loading">Type to search...</div>
+				</div>
+			</section>
+
+			<div class="back-link">
+				<a href="/">← Back to Episode List</a>
+			</div>
+		</div>
+	</main>
+</Layout>
+
+<style>
+	.container {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: 2rem;
+	}
+
+	.header {
+		text-align: center;
+		margin-bottom: 2rem;
+	}
+
+	h1 {
+		font-size: 2rem;
+		margin-bottom: 0.5rem;
+		color: #FFD700;
+	}
+
+	.subtitle {
+		font-size: 1rem;
+		color: #cccccc;
+		margin-bottom: 1rem;
+	}
+
+	.download-link {
+		text-align: center;
+		margin-top: 1rem;
+	}
+
+	.download-link a {
+		color: #FFD700;
+		text-decoration: none;
+		font-size: 0.9rem;
+		padding: 0.5rem 1rem;
+		border: 1px solid #FFD700;
+		border-radius: 4px;
+		display: inline-block;
+		transition: background 0.2s;
+	}
+
+	.download-link a:hover {
+		background: rgba(255, 215, 0, 0.1);
+	}
+
+	.search-section {
+		margin-top: 2rem;
+	}
+
+	.search-controls {
+		display: flex;
+		gap: 1rem;
+		margin-bottom: 1rem;
+	}
+
+	.search-input {
+		flex: 1;
+		padding: 0.75rem 1rem;
+		font-size: 1rem;
+		background: #1a1a1a;
+		border: 1px solid #333333;
+		border-radius: 8px;
+		color: #ffffff;
+		outline: none;
+	}
+
+	.search-input:focus {
+		border-color: #FFD700;
+	}
+
+	.search-mode {
+		padding: 0.75rem 1rem;
+		font-size: 1rem;
+		background: #1a1a1a;
+		border: 1px solid #333333;
+		border-radius: 8px;
+		color: #ffffff;
+		outline: none;
+		cursor: pointer;
+		min-width: 180px;
+	}
+
+	.search-mode:focus {
+		border-color: #FFD700;
+	}
+
+	.search-status {
+		margin-bottom: 1rem;
+		color: #999999;
+		font-size: 0.9rem;
+	}
+
+	.results-container {
+		min-height: 200px;
+	}
+
+	.loading {
+		text-align: center;
+		color: #666666;
+		padding: 3rem;
+		font-size: 1rem;
+	}
+
+	.result-card {
+		background: #1a1a1a;
+		border: 1px solid #333333;
+		border-radius: 8px;
+		padding: 1.5rem;
+		margin-bottom: 1rem;
+		transition: border-color 0.2s;
+	}
+
+	.result-card:hover {
+		border-color: #FFD700;
+	}
+
+	.result-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-start;
+		margin-bottom: 1rem;
+		gap: 1rem;
+	}
+
+	.result-meta {
+		display: flex;
+		gap: 0.75rem;
+		align-items: center;
+		flex-wrap: wrap;
+	}
+
+	.fact-badge {
+		background: #FFD700;
+		color: #000000;
+		padding: 0.25rem 0.5rem;
+		border-radius: 4px;
+		font-weight: 700;
+		font-size: 0.85rem;
+	}
+
+	.presenter {
+		color: #999999;
+		font-size: 0.9rem;
+	}
+
+	.timestamp {
+		color: #666666;
+		font-size: 0.85rem;
+		font-family: monospace;
+	}
+
+	.fact-text {
+		font-size: 1.1rem;
+		line-height: 1.6;
+		color: #ffffff;
+		margin-bottom: 1rem;
+	}
+
+	.episode-link {
+		color: #FFD700;
+		text-decoration: none;
+		font-size: 0.9rem;
+	}
+
+	.episode-link:hover {
+		text-decoration: underline;
+	}
+
+	.back-link {
+		margin-top: 2rem;
+		text-align: center;
+	}
+
+	.back-link a {
+		color: #FFD700;
+		text-decoration: none;
+	}
+
+	.back-link a:hover {
+		text-decoration: underline;
+	}
+
+	main {
+		min-height: 100vh;
+		background: #000000;
+		color: #ffffff;
+	}
+
+	@media (max-width: 768px) {
+		.search-controls {
+			flex-direction: column;
+		}
+
+		.search-mode {
+			min-width: 100%;
+		}
+
+		.result-header {
+			flex-direction: column;
+		}
+
+		.container {
+			padding: 1rem;
+		}
+	}
+</style>
+
+<script>
+	import MiniSearch from 'minisearch';
+
+	let miniSearch: MiniSearch | null = null;
+	const searchInput = document.getElementById('search-input') as HTMLInputElement;
+	const searchMode = document.getElementById('search-mode') as HTMLSelectElement;
+	const resultsContainer = document.getElementById('results-container') as HTMLElement;
+	const searchStatus = document.getElementById('search-status') as HTMLElement;
+
+	// Load search index
+	async function loadSearchIndex() {
+		try {
+			const response = await fetch('/no-such-thing-facts-index.json');
+			const indexData = await response.json();
+
+			miniSearch = MiniSearch.loadJSON(indexData, {
+				fields: ['episode_title', 'fact_text', 'presenter'],
+				storeFields: [
+					'episode_title',
+					'episode_number',
+					'episode_slug',
+					'fact_number',
+					'fact_text',
+					'presenter',
+					'start_time',
+					'publish_date',
+				],
+			});
+
+			resultsContainer.innerHTML = '<div class="loading">Ready to search! Type something above.</div>';
+		} catch (error) {
+			console.error('Error loading search index:', error);
+			resultsContainer.innerHTML = '<div class="loading">Error loading search index. Please refresh.</div>';
+		}
+	}
+
+	// Perform search
+	function performSearch() {
+		if (!miniSearch || !searchInput.value.trim()) {
+			resultsContainer.innerHTML = '<div class="loading">Type to search...</div>';
+			searchStatus.textContent = '';
+			return;
+		}
+
+		const query = searchInput.value.trim();
+		const mode = searchMode.value;
+
+		// Configure search based on mode
+		const searchOptions: any = {
+			fuzzy: 0.2,
+			prefix: true,
+			boost: { episode_title: 2, presenter: 1.5, fact_text: 1 },
+		};
+
+		if (mode !== 'all') {
+			searchOptions.fields = [mode];
+		}
+
+		const results = miniSearch.search(query, searchOptions);
+
+		// Display results
+		if (results.length === 0) {
+			resultsContainer.innerHTML = '<div class="loading">No results found. Try a different search term.</div>';
+			searchStatus.textContent = '';
+		} else {
+			searchStatus.textContent = `Found ${results.length} result${results.length === 1 ? '' : 's'}`;
+
+			const html = results.map((result: any) => {
+				const episodeNumber = result.episode_number ? `${result.episode_number}: ` : '';
+				const episodeTitle = `${episodeNumber}${result.episode_title}`;
+
+				return `
+					<div class="result-card">
+						<div class="result-header">
+							<div class="result-meta">
+								<span class="fact-badge">Fact ${result.fact_number}</span>
+								<span class="presenter">${result.presenter}</span>
+								<span class="timestamp">${result.start_time}</span>
+							</div>
+						</div>
+						<div class="fact-text">${result.fact_text}</div>
+						<a href="/episodes/${result.episode_slug}" class="episode-link">
+							${episodeTitle}
+						</a>
+					</div>
+				`;
+			}).join('');
+
+			resultsContainer.innerHTML = html;
+		}
+	}
+
+	// Debounce search
+	let searchTimeout: number;
+	function debounceSearch() {
+		clearTimeout(searchTimeout);
+		searchTimeout = setTimeout(performSearch, 300);
+	}
+
+	// Event listeners
+	searchInput.addEventListener('input', debounceSearch);
+	searchMode.addEventListener('change', performSearch);
+
+	// Load index on page load
+	loadSearchIndex();
+</script>

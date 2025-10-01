@@ -9,7 +9,9 @@ An automated podcast transcript and fact-extraction pipeline for the "No Such Th
 - 🎯 **AI-Powered Transcription** - Use Whisper for accurate speech-to-text transcription
 - 🤖 **Fact Extraction** - Extract structured facts using OpenAI's Batch API
 - 🔍 **Episode Browser** - Browse episodes and facts in a clean Astro frontend
+- 🔎 **Advanced Fact Search** - Fuzzy search across 2,400+ facts with field-specific filtering
 - 📊 **Structured Data** - All data stored as JSON for easy querying and integration
+- 📄 **CSV Export** - Download complete facts database for external analysis
 
 ## Setup
 
@@ -100,7 +102,7 @@ Visit `http://localhost:4321` to browse episodes and facts.
 
 ### Build for Production
 
-Build the static site:
+Build the static site (automatically generates search index):
 
 ```bash
 npm run build
@@ -111,6 +113,18 @@ Preview the production build:
 ```bash
 npm run preview
 ```
+
+### Generate Search Index
+
+The search index is automatically generated during build, but you can regenerate it manually:
+
+```bash
+npm run generate-index
+```
+
+This creates:
+- `public/no-such-thing-facts-index.json` - Pre-built MiniSearch index for client-side search
+- `public/facts-index.csv` - Downloadable CSV export of all facts
 
 ## Project Structure
 
@@ -136,11 +150,13 @@ npm run preview
 │   │   ├── extract-facts.ts   # AI fact extraction (batch API)
 │   │   ├── process-episodes.ts # Main orchestrator
 │   │   ├── retry-facts.ts     # Retry fact extraction for episodes
-│   │   └── bootstrap-episodes.ts # Bootstrap from RSS (one-time)
+│   │   ├── bootstrap-episodes.ts # Bootstrap from RSS (one-time)
+│   │   └── generate-search-index.ts # Build-time search index generator
 │   ├── lib/
 │   │   └── episodes.ts        # Episode data access for Astro
 │   └── pages/
 │       ├── index.astro        # Homepage with episode list
+│       ├── search.astro       # Advanced fact search page
 │       └── episodes/
 │           └── [dirName].astro # Individual episode pages
 └── package.json
@@ -228,6 +244,32 @@ To fully reprocess an episode (download, transcribe, extract):
 1. Delete the episode directory from `src/data/episodes/`
 2. Remove the episode ID from `src/data/episodes/index.json`
 3. Run `npm run process`
+
+## Search Feature
+
+The site includes an advanced client-side search powered by [MiniSearch](https://github.com/lucaong/minisearch).
+
+### Search Capabilities
+
+- **Fuzzy matching** - Handles typos and partial matches (e.g., "Harken" finds "James Harkin")
+- **Field-specific search** - Search by episode title, fact content, or presenter
+- **Fast client-side** - Search index (~2,400 facts) loads once, searches instantly
+- **Rich results** - Shows fact text, presenter, episode title, fact number, and timestamp
+
+### Search Modes
+
+1. **All Fields** - Search across episodes, facts, and presenters (default)
+2. **Episode Title** - Search episode titles and numbers only
+3. **Fact Content** - Search the actual fact text
+4. **Presenter** - Search by presenter name (Dan, Anna, James, Andy)
+
+### CSV Export
+
+Download the complete facts database at `/facts-index.csv` for:
+- ChatGPT analysis
+- Excel/spreadsheet analysis
+- External integrations
+- Data science projects
 
 ## Important Notes
 

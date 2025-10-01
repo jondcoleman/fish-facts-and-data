@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "npm run generate-index && astro build",
     "preview": "astro preview",
     "astro": "astro",
     "process": "tsx src/scripts/process-episodes.ts",
@@ -14,7 +14,8 @@
     "bootstrap": "tsx src/scripts/bootstrap-episodes.ts",
     "migrate-audio-urls": "tsx src/scripts/migrate-audio-urls.ts",
     "migrate-poc": "tsx src/scripts/migrate-poc-files.ts",
-    "debug-rss": "tsx src/scripts/debug-rss.ts"
+    "debug-rss": "tsx src/scripts/debug-rss.ts",
+    "generate-index": "tsx src/scripts/generate-search-index.ts"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
@@ -23,6 +24,7 @@
     "csv-stringify": "^6.6.0",
     "fluent-ffmpeg": "^2.1.3",
     "fs-extra": "^11.3.2",
+    "minisearch": "^7.2.0",
     "openai": "^5.23.1",
     "rss-parser": "^3.13.0",
     "whisper-node": "^1.1.1",

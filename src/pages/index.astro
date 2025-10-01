@@ -12,6 +12,9 @@ const totalFacts = episodes.reduce((sum, ep) => sum + ep.facts.length, 0);
 			<header>
 				<h1 class="header">No Such Thing As A Timestamped Fact</h1>
 				<p class="subtitle header">Browse timestamped facts from every standard episode of the No Such Thing As A Fish podcast</p>
+				<div class="search-facts-link">
+					<a href="/search" class="search-button">🔍 Search All Facts</a>
+				</div>
 				<div class="disclaimer">
 					<p>Fact extraction powered by AI so it may not be perfect. <a href="https://github.com/jondcoleman/fish-facts-and-data/issues" target="_blank" rel="noopener noreferrer">Report issues</a> or <a href="https://github.com/jondcoleman/fish-facts-and-data" target="_blank" rel="noopener noreferrer">submit a PR</a>.</p>
 					<br>
@@ -79,6 +82,28 @@ const totalFacts = episodes.reduce((sum, ep) => sum + ep.facts.length, 0);
 		font-size: 1rem;
 		color: #666;
 		margin-bottom: 1rem;
+	}
+
+	.search-facts-link {
+		text-align: center;
+		margin: 1.5rem 0;
+	}
+
+	.search-button {
+		display: inline-block;
+		padding: 0.75rem 1.5rem;
+		background: #FFD700;
+		color: #000000;
+		text-decoration: none;
+		border-radius: 8px;
+		font-weight: 600;
+		font-size: 1rem;
+		transition: background 0.2s, transform 0.1s;
+	}
+
+	.search-button:hover {
+		background: #FFC700;
+		transform: translateY(-1px);
 	}
 
 	.stats {

@@ -11,11 +11,12 @@ Automated podcast transcript and fact-extraction pipeline for "No Such Thing As 
 | Command | Purpose |
 |---------|---------|
 | `npm run dev` | Start Astro development server at `localhost:4321` |
-| `npm run build` | Build static site to `./dist/` |
+| `npm run build` | Build static site to `./dist/` (auto-generates search index) |
 | `npm run preview` | Preview production build locally |
 | `npm run process` | Run complete episode processing pipeline |
 | `npm run discover` | Preview new episodes without processing |
 | `npm run extract-facts` | Extract facts from episodes (supports `--limit N` for incremental processing) |
+| `npm run generate-index` | Generate search index and CSV export from all facts |
 
 ## Project Structure
 
@@ -33,11 +34,13 @@ src/
 │   ├── transcribe.ts       # Whisper transcription
 │   ├── extract-facts.ts    # OpenAI synchronous API fact extraction
 │   ├── process-episodes.ts # Main orchestrator
-│   └── retry-facts.ts      # Retry fact extraction for specific episodes
+│   ├── retry-facts.ts      # Retry fact extraction for specific episodes
+│   └── generate-search-index.ts  # Build-time search index generator
 ├── lib/
 │   └── episodes.ts         # Episode data access for Astro
 └── pages/
     ├── index.astro         # Episode list homepage
+    ├── search.astro        # Advanced fact search page
     └── episodes/[dirName].astro  # Dynamic episode pages
 ```
 
@@ -65,6 +68,17 @@ src/
 - **Static generation**: Each episode directory becomes a route via `[dirName].astro`
 - **No runtime database**: All data is pre-rendered from JSON files
 
+### Search Feature
+
+- **Build-time index generation**: `generate-search-index.ts` creates searchable index during build
+- **Client-side search**: Uses [MiniSearch](https://github.com/lucaong/minisearch) for fuzzy fact search
+- **Search modes**: All fields, episode title, fact content, or presenter (fuzzy matching)
+- **Generated files**:
+  - `public/no-such-thing-facts-index.json` - Pre-built MiniSearch index (~2,400 facts)
+  - `public/facts-index.csv` - Downloadable CSV for external use (ChatGPT, analysis, etc.)
+- **Search page**: `/search` - Dedicated fact search with rich result display
+- **Homepage integration**: Simple episode filter + prominent search link
+
 ## Key Files
 
 - **Zod Schemas** (`src/scripts/utils/schemas.ts`): Type-safe validation for episodes and facts
@@ -90,3 +104,4 @@ PODCAST_RSS_FEED_URL=...
 - **Directory naming**: Episodes stored as `YYYY-MM-DD_sanitized-title` for chronological sorting
 - **Git tracking**: Episode JSON is committed; audio/transcripts are gitignored
 - **Processing state**: Presence of `facts.json` indicates completed processing (no separate index file)
+- Always remember to update our claude.md and readme.md along with finishing any feature additions or edits. Commit these changes along with the feature changes.
