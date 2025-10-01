@@ -263,7 +263,12 @@ import Layout from '../layouts/Layout.astro';
 	async function loadSearchIndex() {
 		try {
 			const response = await fetch('/no-such-thing-facts-index.json');
-			const indexData = await response.json();
+			if (!response.ok) {
+				throw new Error(`Failed to fetch index: ${response.status}`);
+			}
+
+			const jsonText = await response.text();
+			const indexData = JSON.parse(jsonText);
 
 			miniSearch = MiniSearch.loadJSON(indexData, {
 				fields: ['episode_title', 'fact_text', 'presenter'],
@@ -282,7 +287,7 @@ import Layout from '../layouts/Layout.astro';
 			resultsContainer.innerHTML = '<div class="loading">Ready to search! Type something above.</div>';
 		} catch (error) {
 			console.error('Error loading search index:', error);
-			resultsContainer.innerHTML = '<div class="loading">Error loading search index. Please refresh.</div>';
+			resultsContainer.innerHTML = '<div class="loading">Error loading search index. Please refresh the page or run: npm run generate-index</div>';
 		}
 	}
 
