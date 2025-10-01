@@ -146,6 +146,43 @@ import Layout from '../layouts/Layout.astro';
 		font-size: 1rem;
 	}
 
+	.back-link {
+		margin-top: 2rem;
+		text-align: center;
+	}
+
+	.back-link a {
+		color: #FFD700;
+		text-decoration: none;
+	}
+
+	.back-link a:hover {
+		text-decoration: underline;
+	}
+
+	main {
+		min-height: 100vh;
+		background: #000000;
+		color: #ffffff;
+	}
+
+	@media (max-width: 768px) {
+		.search-controls {
+			flex-direction: column;
+		}
+
+		.search-mode {
+			min-width: 100%;
+		}
+
+		.container {
+			padding: 1rem;
+		}
+	}
+</style>
+
+<style is:global>
+	/* Styles for dynamically generated search results */
 	.result-card {
 		background: #1a1a1a;
 		border: 1px solid #333333;
@@ -211,41 +248,9 @@ import Layout from '../layouts/Layout.astro';
 		text-decoration: underline;
 	}
 
-	.back-link {
-		margin-top: 2rem;
-		text-align: center;
-	}
-
-	.back-link a {
-		color: #FFD700;
-		text-decoration: none;
-	}
-
-	.back-link a:hover {
-		text-decoration: underline;
-	}
-
-	main {
-		min-height: 100vh;
-		background: #000000;
-		color: #ffffff;
-	}
-
 	@media (max-width: 768px) {
-		.search-controls {
-			flex-direction: column;
-		}
-
-		.search-mode {
-			min-width: 100%;
-		}
-
 		.result-header {
 			flex-direction: column;
-		}
-
-		.container {
-			padding: 1rem;
 		}
 	}
 </style>
