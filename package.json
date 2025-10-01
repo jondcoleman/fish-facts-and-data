@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
+    "dev": "npm run generate-index && astro dev",
     "build": "npm run generate-index && astro build",
     "preview": "astro preview",
     "astro": "astro",

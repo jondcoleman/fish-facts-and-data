@@ -267,10 +267,10 @@ import Layout from '../layouts/Layout.astro';
 				throw new Error(`Failed to fetch index: ${response.status}`);
 			}
 
-			const jsonText = await response.text();
-			const indexData = JSON.parse(jsonText);
+			// MiniSearch.loadJSON expects a JSON string, not a parsed object
+			const jsonString = await response.text();
 
-			miniSearch = MiniSearch.loadJSON(indexData, {
+			miniSearch = MiniSearch.loadJSON(jsonString, {
 				fields: ['episode_title', 'fact_text', 'presenter'],
 				storeFields: [
 					'episode_title',
