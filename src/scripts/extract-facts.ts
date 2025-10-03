@@ -127,15 +127,15 @@ export async function prepareVttFile(
     parsed
   )
     ? parsed.map((c: any) => ({
-        start: (c.from || c.start || 0) / 1000, // Convert ms to seconds
-        end: (c.to || c.end || 0) / 1000,
-        text: c.text,
-      }))
+      start: (c.from || c.start || 0) / 1000, // Convert ms to seconds
+      end: (c.to || c.end || 0) / 1000,
+      text: c.text,
+    }))
     : ((parsed as any).entries || (parsed as any).cues || []).map((c: any) => ({
-        start: (c.from || c.start || 0) / 1000,
-        end: (c.to || c.end || 0) / 1000,
-        text: c.text,
-      }));
+      start: (c.from || c.start || 0) / 1000,
+      end: (c.to || c.end || 0) / 1000,
+      text: c.text,
+    }));
 
   // Save JSON transcript
   try {
@@ -258,7 +258,7 @@ Return only JSON that matches the provided schema.`,
             content: prompt,
           },
         ],
-        temperature: 0,
+        temperature: MODEL.startsWith("gpt-5") ? 1 : 0,
         response_format: {
           type: "json_schema",
           json_schema: {
