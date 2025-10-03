@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "A live-show compilation episode of No Such Thing As A Fish featuring a string of audience anecdotes and trivia from the hosts, including stories about a supposed 'soft rock' pillow that turned out to be a cow-pat, New York's nunchuck ban, an elderly Mount Everest climber, and a curious Norwegian military underwear rule.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "So in 1974, nunchucks were banned in New York. But basically, this ban lasted for more than 40 years, and it was struck down in 2018.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:21:44"
+    },
+    {
+      "fact_number": 2,
+      "fact": "So he took everyone to the field that he fell asleep in and he went, \"There, there's the soft rock.\" And what they discovered was, it was a hardened cow-pat that was shell-like and it just slightly dented to the shape of his head when he laid on it.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:43"
+    },
+    {
+      "fact_number": 3,
+      "fact": "He was the oldest person in the world to climb Mount Everest. He climbed at age 70.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:10:17"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that when leaving the Norwegian military, soldiers must now hand over their used underpants and socks for the next recruit to wear.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:29:39"
+    }
+  ]
+}

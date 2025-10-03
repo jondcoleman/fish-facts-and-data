@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "The hosts share four facts: that Harriet Beatrice Stowe reportedly rewrote Uncle Tom's Cabin later in life; some tortoises (hingeback tortoises) have a hinge in their shell; Frida Kahlo's clothes and possessions were locked away in a bathroom for around 50 years; and actor Noel Gubiemi has repeatedly been cast as characters named Hector, becoming typecast.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that Harriet Beecher Stowe, author of Uncle Tom's Cabin, wrote the novel for the first time twice.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is, some tortoises have hinges. So these are imaginatively named animals called hingeback tortoises, and there are loads of species, and they have a hinge at the back.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:11:19"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that after Frida Kahlo died, all her clothes and possessions spent 50 years in a bathroom.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:25:39"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that actor Noel Gubiemi played Hector in the Fast and the Furious. Since then, he has played a character called Hector in 30 other projects.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:36:14"
+    }
+  ]
+}
