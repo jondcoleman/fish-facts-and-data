@@ -59,3 +59,6 @@ transcription.log
 
 # Batch processing files
 batch_*.jsonl
+
+public/facts-index.csv
+public/no-such-thing-facts-index.json
