@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Guest Melanie Bracewell joins the hosts to share facts ranging from Australian traffic-reducing tunnel lights and quirky road and biscuit-tin trivia to a New Zealander's swipe card found in Antarctica after 21 years and a punning Australian Bureau of Statistics pie-chart about bakers and pi. The episode mixes transport, parliamentary oddities, ocean currents and pi-related miscellany.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that a congested tunnel in Australia has installed moving lights that you race against, and it has helped reduce stop, start traffic by 70%.",
+      "presenter": "Melanie Bracewell",
+      "guest": true,
+      "start_time": "00:02:30"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The fact this week is New Zealand decides new laws to debate and Parliament by pulling them at random out of a 30-year-old biscuit tin.",
+      "presenter": "Melanie Bracewell",
+      "guest": true,
+      "start_time": "00:14:35"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Well, my fact this week, guys, is that a man in New Zealand was reunited with his work swipe card, 21 years after losing it in Wellington. It was found by researchers in Antarctica.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:29:25"
+    },
+    {
+      "fact_number": 4,
+      "fact": "I'm not common during the podcast but my fact this week is that the Australian Bureau of Statistics have revealed that 3.14% of bakers are women living in South Australia which they released as a pie graph about people who make pies including the number pie.",
+      "presenter": "Melanie Bracewell",
+      "guest": true,
+      "start_time": "00:41:09"
+    }
+  ]
+}

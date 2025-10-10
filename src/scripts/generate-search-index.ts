@@ -6,7 +6,6 @@ import { stringify } from "csv-stringify/sync";
 interface SearchDocument {
   id: string;
   episode_title: string;
-  episode_number: string;
   episode_slug: string;
   fact_number: number;
   fact_text: string;
@@ -65,15 +64,12 @@ async function generateSearchIndex() {
         .replace(/[^a-z0-9]+/g, "-")
         .replace(/^-+|-+$/g, "");
 
-      const episodeNumber = metadata.itunes?.episode || "";
-
       // Add each fact as a searchable document
       if (facts.facts && Array.isArray(facts.facts)) {
         for (const fact of facts.facts) {
           documents.push({
             id: `${entry.name}_${fact.fact_number}`,
             episode_title: metadata.title,
-            episode_number: episodeNumber,
             episode_slug: slug,
             fact_number: fact.fact_number,
             fact_text: fact.fact,
@@ -92,7 +88,6 @@ async function generateSearchIndex() {
       fields: ["episode_title", "fact_text", "presenter"], // Fields to index
       storeFields: [
         "episode_title",
-        "episode_number",
         "episode_slug",
         "fact_number",
         "fact_text",
@@ -123,7 +118,6 @@ async function generateSearchIndex() {
     const csvData = stringify(documents, {
       header: true,
       columns: [
-        { key: "episode_number", header: "Episode Number" },
         { key: "episode_title", header: "Episode Title" },
         { key: "fact_number", header: "Fact Number" },
         { key: "presenter", header: "Presenter" },
