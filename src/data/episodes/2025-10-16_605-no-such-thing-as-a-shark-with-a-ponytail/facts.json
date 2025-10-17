@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Guest Sarah Pascoe joins Dan Schreiber, James Harkin, and Andrew Hunter Murray to share four facts. Topics include Saturn’s rings versus sharks’ ages, how Blade Runner got its title, psychological contagion illustrated by Hitler’s jumper, and a Norfolk raft spider that can catch fish and its conservation comeback.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Saturn's wings are younger than sharks.",
+      "presenter": "Sarah Pascoe",
+      "guest": true,
+      "start_time": "00:02:03"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that because he didn't like the name of the novel that he was adapting into a movie, director Ridley Scott bought the film rights to a William Burrers novel called Blade Runner, just so he could steal that title instead.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:09"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Because that most people wouldn't wear a sweater owned by Hitler. But they might if Mother Teresa wore it for long enough in between.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:27:44"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact is, there is a spider in Norfolk which can catch fish.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:40:42"
+    }
+  ]
+}
