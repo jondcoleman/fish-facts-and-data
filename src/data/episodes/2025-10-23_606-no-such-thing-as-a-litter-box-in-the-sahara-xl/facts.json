@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Live at the London Podcast Festival with guest Jamie Morton, the team discussed a legendary West End theatre cat, Japan’s onsen baths (including electric and radioactive options), the vengeful inventor of the first letter bomb, and a Thai scandal involving monks and “Mrs. Golf.” Tangents ranged from Cats the musical to ramen and coffee baths.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Iconic, Festbian, beer bone, had a walk on part in every single production at the Geal Good Theatre in London's West End for 20 years. And fittingly, had a front page obituary in the stage newspaper.",
+      "presenter": "Jamie Morton",
+      "guest": true,
+      "start_time": "00:07:33"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that at one of the oldest bath houses in Japan, visitors have the option of soaking in hot water, cold water, electric water or condom water. There are many others, but the other one is radioactive water.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:23:47"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact is, the first named man who sent a letter bomb only invented it to get back at people who had rejected all his other ideas for inventions.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:37:09"
+    },
+    {
+      "fact_number": 4,
+      "fact": "OK, my fact this week is that there is currently a scandal in Thailand after at least a dozen supposedly celibate monks admitted to having sex with a woman called Mrs. Golf.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:48:52"
+    }
+  ]
+}
