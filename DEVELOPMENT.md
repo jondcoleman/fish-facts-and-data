@@ -5,12 +5,18 @@ This project processes the "No Such Thing As A Fish" podcast RSS feed to automat
 
 ## Quick Start (After Coming Back)
 
-### Check for New Episodes
+### Automated Processing
+New episodes are automatically processed every Friday at 12:01am via launchd.
+Check logs: `cat /tmp/weekly-process.log`
+
+### Manual Processing
+
+#### Check for New Episodes
 ```bash
 npm run discover
 ```
 
-### Process New Episodes
+#### Process New Episodes
 ```bash
 npm run process
 ```

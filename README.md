@@ -223,12 +223,35 @@ Each episode's `facts.json` follows this structure:
 
 ## Maintenance
 
-### Weekly Processing
+### Automated Weekly Processing
 
-Set up a weekly cron job or GitHub Action to:
-1. Run `npm run process`
-2. Commit updated JSON files
-3. Trigger site rebuild
+A launchd job is configured to run every Friday at 12:01am that:
+1. Runs `npm run process` to discover and process new episodes
+2. Automatically commits and pushes any new data files
+3. Logs output to `/tmp/weekly-process.log`
+
+The automation is managed by:
+- **Script**: `weekly-process.sh` in the project root
+- **Scheduler**: `~/Library/LaunchAgents/com.fish-facts.weekly-process.plist`
+
+**Management commands:**
+```bash
+# Check if job is running
+launchctl list | grep fish-facts
+
+# Test run manually
+./weekly-process.sh
+
+# View logs
+cat /tmp/weekly-process.log
+cat /tmp/weekly-process-error.log
+
+# Stop the job
+launchctl unload ~/Library/LaunchAgents/com.fish-facts.weekly-process.plist
+
+# Start the job
+launchctl load ~/Library/LaunchAgents/com.fish-facts.weekly-process.plist
+```
 
 ### Retry Failed Fact Extractions
 
