@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Listener-submitted curios sparked chats about Britain’s windiest spot, a toilet-related spark to the Second World War, an eponymous surgical incision with a panhandle shape, and the creamed-corn smell associated with stem cell transplants. The hosts riffed through the facts with extra historical and medical tidbits and plenty of side tangents.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The windiest place in the UK is the butt of Lewis.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:01:28"
+    },
+    {
+      "fact_number": 2,
+      "fact": "A soldier who spent too long on the toilet because of an upset stomach caused the start of World War II?",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:05:06"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Now the incision is called Fanon Steel, because Fanon Steel in German means Panhandle, okay? But the surgeon who first described it was called Herman Johannes Fanon Steel.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:08:57"
+    },
+    {
+      "fact_number": 4,
+      "fact": "when you get to stem cell transplant, you will stink of creamed corn for a couple of days.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:14:25"
+    }
+  ]
+}

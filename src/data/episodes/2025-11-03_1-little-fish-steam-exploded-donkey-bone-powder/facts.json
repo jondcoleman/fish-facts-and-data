@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "The hosts launch their new listener-led Little Fish, sharing rapid-fire submitted curiosities about a McDonald’s UK executive aptly named Zoe Hamburger, why so-called spiral staircases are actually helices, astronauts still getting morning erections in space, and the rafflesia flower audibly “thwacking” open before it smells. They also riff on other odd submissions and introduce a new “custodian of facts” certificate for supporters.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "It's about an executive leaving a job at McDonald's UK after 18 months in post. And the reason it's a great fact is because her name is Zoe Hamburger.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:50"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Wayne says spiral staircases are not spirals.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:05:12"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Astronauts, in space, still get morning wood.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:09:10"
+    },
+    {
+      "fact_number": 4,
+      "fact": "my fight is you can hear a reflezier flower bloom before you can smell it.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:12:11"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Live from the Cheltenham Literature Festival with guest Rachel Parris, the team discuss an 18th-century baboon prank that led to an erotic poem in the House of Lords, Japan’s miso-soup-enabled prison breaks, Tom Stoppard’s hidden Hollywood script work on Beethoven, and endangered or obsolete British crafts with cheeky job titles.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact is, in 1764, the Earl of Sandwich read a long erotic poem out in the House of Lords as revenge for a fellow MP setting a baboon on him.",
+      "presenter": "Rachel Parris",
+      "guest": true,
+      "start_time": "00:02:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is that Japan's greatest ever prison escape artist escaped four times twice by using his own miso soup.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:14:59"
+    },
+    {
+      "fact_number": 3,
+      "fact": "OK, my fact this week is that one of Britain's greatest living playwrights, Tom Stoppard, wrote the final draft of the movie, \"Bate Hulvin.\"",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:25:52"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is, old jobs in the UK that you used to be able to do, included but-woman, baller, boner, and bottom-stainer.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:36:11"
+    }
+  ]
+}
