@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Guest comedian Amy Gledhill joins Dan, James, and Andy for facts about North Carolina’s strict bingo limits, Pizza Express’s trial of staff flirting, Laurel and Hardy’s multilingual film shoots, and the Aunt Bessie brand’s nuclear-deterrent-inspired origin. The chat ranges through bingo culture and calls, AI-aided flirting, classic comedy double acts, and Hull/Yorkshire food lore.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In North Carolina, it's illegal to play Bingo for six hours straight.",
+      "presenter": "Amy Gledhill",
+      "guest": true,
+      "start_time": "00:02:23"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My point is that in 2010, it was reported that pizza or express was training its staff how to flirt subtly with customers so they felt more relaxed.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:15:20"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that in 1931, Laurel and Hardy simultaneously filmed up to five versions of every movie that they made, each time, speaking in a different language, despite the fact that they only knew English.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:29:02"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that the character of Aunt Bessie was invented in 1994 to stop people mistaking Yorkshire puddings for nuclear weapons.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:39:08"
+    }
+  ]
+}

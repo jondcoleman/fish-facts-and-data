@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "The team discuss Bazalgette’s legacy from London’s sewers to his descendant in 1980s band The Vapors, resilient microbes found in NASA clean rooms, how Byron’s Don Juan was inspired by a pantomime, and the land-speed record era of Pendine Sands in South Wales.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact is that Joseph Baseljet, the famous engineer who designed London Surers, who was inspired by the great stink. His great great grandson was the league guitarist of the band The Vapers.",
+      "presenter": "Cariad Lloyd",
+      "guest": true,
+      "start_time": "00:02:46"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that this year, 26 new bacteria species were discovered in a room specifically designed to not have any bacteria in them.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:50"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Okay, my fact this week is that Byron's Don Jewen, which Gerta called a work of boundless genius, was inspired by a pantomime.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:49"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact is, for several years in the 1920s, a beach in South Wales was the fastest place on the planet.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:37:45"
+    }
+  ]
+}
