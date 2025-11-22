@@ -26,11 +26,13 @@ An automated podcast transcript and fact-extraction pipeline for the "No Such Th
 
 1. Clone the repository
 2. Install dependencies:
+
    ```bash
    npm install
    ```
 
 3. Copy `.env.example` to `.env` and configure:
+
    ```bash
    cp .env.example .env
    ```
@@ -53,10 +55,12 @@ npm run process
 ```
 
 **Options:**
+
 - `--limit N` - Process only the first N new episodes
 - `--model NAME` - Specify Whisper model (tiny, base, small, medium, large; default: base)
 
 **Example:**
+
 ```bash
 npm run process -- --limit 5 --model base
 ```
@@ -70,6 +74,7 @@ tsx src/scripts/retry-facts.ts <episode-number-or-id> [...]
 ```
 
 **Examples:**
+
 ```bash
 tsx src/scripts/retry-facts.ts 575
 tsx src/scripts/retry-facts.ts 575 576 601
@@ -77,6 +82,7 @@ tsx src/scripts/retry-facts.ts 124785842
 ```
 
 This will:
+
 1. Find the episode by number (e.g., "575"), ID (e.g., "124785842"), or title pattern
 2. Delete existing facts.json
 3. Re-extract facts using OpenAI Batch API
@@ -123,6 +129,7 @@ npm run generate-index
 ```
 
 This creates:
+
 - `public/no-such-thing-facts-index.json` - Pre-built MiniSearch index for client-side search
 - `public/facts-index.csv` - Downloadable CSV export of all facts
 
@@ -190,6 +197,7 @@ Example: `2025-01-15_no-such-thing-as-a-fish-episode-500`
 Each episode's `facts.json` follows this structure:
 
 ### Standard Episodes
+
 ```typescript
 {
   episode_type: "standard";
@@ -207,15 +215,17 @@ Each episode's `facts.json` follows this structure:
 ```
 
 ### Non-Standard Episodes
+
 ```typescript
 {
   episode_type: "compilation" | "bonus" | "other";
   episode_summary: "";
-  facts: []
+  facts: [];
 }
 ```
 
 **Episode Type Classification:**
+
 - `standard` - Regular weekly episodes with exactly 4 facts
 - `compilation` - Monthly compilation episodes
 - `bonus` - Bonus episodes (Drop Us A Line, Meet The Elves, etc.)
@@ -226,15 +236,20 @@ Each episode's `facts.json` follows this structure:
 ### Automated Weekly Processing
 
 A launchd job is configured to run every Friday at 12:01am that:
+
 1. Runs `npm run process` to discover and process new episodes
 2. Automatically commits and pushes any new data files
 3. Logs output to `/tmp/weekly-process.log`
 
 The automation is managed by:
+
 - **Script**: `weekly-process.sh` in the project root
 - **Scheduler**: `~/Library/LaunchAgents/com.fish-facts.weekly-process.plist`
 
+**Note**: The plist file includes `EnvironmentVariables` with the PATH to ensure `npm` is available when launchd runs the script (since launchd doesn't inherit shell environment variables). If you recreate the plist, make sure to include the PATH with your node/npm installation directory.
+
 **Management commands:**
+
 ```bash
 # Check if job is running
 launchctl list | grep fish-facts
@@ -264,6 +279,7 @@ tsx src/scripts/retry-facts.ts <episode-number>
 ### Full Reprocessing
 
 To fully reprocess an episode (download, transcribe, extract):
+
 1. Delete the episode directory from `src/data/episodes/`
 2. Remove the episode ID from `src/data/episodes/index.json`
 3. Run `npm run process`
@@ -289,6 +305,7 @@ The site includes an advanced client-side search powered by [MiniSearch](https:/
 ### CSV Export
 
 Download the complete facts database at `/facts-index.csv` for:
+
 - ChatGPT analysis
 - Excel/spreadsheet analysis
 - External integrations
@@ -297,16 +314,20 @@ Download the complete facts database at `/facts-index.csv` for:
 ## Important Notes
 
 ### Episode Type Detection
+
 The pipeline automatically filters episodes by metadata **before** sending to OpenAI:
+
 - Only standard episodes are sent to the LLM for fact extraction
 - Non-standard episodes get empty facts.json immediately
 - This significantly reduces API costs (~100+ fewer calls)
 
 ### Model Selection
+
 - **Transcription**: Whisper base model (default) - runs locally
 - **Fact Extraction**: gpt-4o - better accuracy than gpt-4o-mini for classification
 
 ### File Locations
+
 - Audio files: Stored in episode directories (not in separate `audio/` folder)
 - Transcripts: Stored in episode directories alongside metadata
 - All episode data is committed to the repository
