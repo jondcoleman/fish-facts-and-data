@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "The team is joined by returning guest Anne Miller for four facts spanning festive baking, ancient musical architecture, extreme climbing, and a very British naming competition. They discuss why panettone are hung upside down, musical staircases akin to Big’s floor piano in Indian temples, Alex Honnold’s and his mother’s El Capitan records, and the Post Office Tower’s staff-suggested names and history.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "After you bake panatoni, you have to hang them upside down like that's.",
+      "presenter": "Anne Miller",
+      "guest": true,
+      "start_time": "00:03:17"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that those giant walking keyboards that Tom Hanks plays in big have existed in India for 500 years.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:16:11"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that three months after Alex Honald became the first person ever to free solo climb El Capitan, his mum became the oldest woman to ever climb it.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:29:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact is, when the post office had a competition to name the post office's new tower, star suggestions included, Prince Philip's finger, the eye full tower, monstrosity and spud. The name eventually chosen was the post office tower.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:42:15"
+    }
+  ]
+}
