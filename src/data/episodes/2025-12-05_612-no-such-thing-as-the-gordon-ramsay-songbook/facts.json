@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Michael Palin joins Dan Schreiber, Andrew Hunter Murray, and James Harkin to share four facts spanning Venezuela’s record-breaking cable car and ice-cream parlour, BBC censorship that once banned jokes about “McGillicutty of the Reeks,” the eccentric search methods for the lost Franklin Expedition, and Bologna’s term for grumpy pensioners who monitor roadworks. The episode ranges from travel tales and broadcasting history to polar exploration and Italian street culture.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In the Venezuelan Andes, there's a town called Millida, and it has two entries in the Guinness Book of Records. One is the tallest cable car in the world, and the other is the El Adarier Colomoto, which is an ice cream parlor, which has the record number of ice cream varieties on sale.",
+      "presenter": "Michael Palin",
+      "guest": true,
+      "start_time": "00:02:28"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that in 1949, the BBC issued a company-wide ban on making any rude jokes about solicitors, chambermaids, and one very specific Irishman called Mr. McGillicutty.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:37"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact is, the rescue team who tried to find the Lost Franklin Expedition did so with rockets, kites, flashing lights, gunshots, horns, drums, and by putting collars on Arctic foxes.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:28:29"
+    },
+    {
+      "fact_number": 4,
+      "fact": "OK, my fact this week is that in Bologna, there is a word, um, a role, which describes a grumpy pensioner who stands with his hands behind his back, complaining about road works.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:39:47"
+    }
+  ]
+}
