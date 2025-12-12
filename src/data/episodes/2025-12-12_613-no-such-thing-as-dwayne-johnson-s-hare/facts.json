@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "With guest Adam Chase and co-host Anne Miller, the team discuss China’s intentionally skewed digital maps, Germany’s unreliable train announcements and delays, marathon oddities including women’s urinals that speed up pit stops, and the decades-long mystery of the Masquerade golden hare that Dan claims to know the whereabouts of. Along the way they swap mapping, transit, and treasure-hunt anecdotes.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact is that every map of China is a little bit wrong.",
+      "presenter": "Adam Chase",
+      "guest": true,
+      "start_time": "00:02:49"
+    },
+    {
+      "fact_number": 2,
+      "fact": "And my fact is that German train station Tanois are so bad that an idiom for I don't understand in Germany is if for Steyer nor Bonhoff or I only understand train station.",
+      "presenter": "Anne Miller",
+      "guest": true,
+      "start_time": "00:14:15"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Okay, my fact this week is that female London marathon runners are 20% slower than Boston marathon runners. But they urinate 170% quicker.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:30"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that there is a hair that has been missing for 40 years. But I know where it is.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:39:12"
+    }
+  ]
+}
