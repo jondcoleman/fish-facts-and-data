@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "A Boxing Day year-in-review special with guest clips: Dan, Andy, and James share standout 2024 news items, including a study showing who laughs most at dad jokes, a Lake District DJ’s 24-hour ‘number two’ chart protest against sewage, Team GB’s canoe polo bronze powered by four McCutchen brothers, and the discovery that the famous “You wouldn’t steal a car” anti-piracy advert used a pirated font. The trio also riff on related science, protests, sport, and music oddities before swapping Christmas presents.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The people who find dad jokes the funniest are, in fact, dads.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:04:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "I'm the presenter on Lake District Radio who played a marathon 24 hour show of number two records to highlight the real number two problem, sewage in our lakes and waterways.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:31"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The answer is we're part of the British canoe follow team who won bronze at this year's World Games in Chengdu.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:33:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "I designed a font called FF Confidential. This year, an investigation found that the font seems to have been pirated and used in a very famous advert saying you wouldn't steal a car.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:44:46"
+    }
+  ]
+}
