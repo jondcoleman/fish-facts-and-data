@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Live at the Royal Institution with guest Professor Alice Roberts, the team discuss a perilous first ascent into the stratosphere, historic misconceptions about blood and the circulation, and a real mineral with Superman-style “kryptonite” chemistry that could power EVs. They finish with how Pokemon was created to share the joy of insect collecting, with digressions into science history, EV safety, and archaeology.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first person to travel into the stratosphere did so with a pillow on his head.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:31"
+    },
+    {
+      "fact_number": 2,
+      "fact": "people used to think that arteries carried air not blood and that the airways themselves were full of fluid.",
+      "presenter": "Professor Alice Roberts",
+      "guest": true,
+      "start_time": "00:15:23"
+    },
+    {
+      "fact_number": 3,
+      "fact": "theoretically electric cars could run on kryptonite.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:16"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Pokemon was invented so that others could experience the joy of insect hunting.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:41:24"
+    }
+  ]
+}
