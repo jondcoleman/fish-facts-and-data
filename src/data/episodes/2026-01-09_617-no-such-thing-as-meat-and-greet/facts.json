@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers right-ear dominance in persuasion, the raven-derived origins and curious history of Ramsgate, a Nobel Prize winner who missed the call while off-grid and a dive into off-grid living, and Morrissey’s meat-free gig policies leading to security pat-downs. Along the way the gang riff on hearing differences, wartime tunnels, celebrity riders, and infamous bad sex writing.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Well you're more likely to get your way if you ask one for a favor in the right ear and not the left ear it's called right ear dominance",
+      "presenter": "Lou Sanders",
+      "guest": true,
+      "start_time": "00:01:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "my fat this week is that the town of Ramsgate is named after a gate for Ravens",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:14:35"
+    },
+    {
+      "fact_number": 3,
+      "fact": "my fact is the scientist who won this year's Nobel prize for medicine didn't find out for nearly a day because he'd gone off grid and he only found out after his wife got two hundred texts",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:27:40"
+    },
+    {
+      "fact_number": 4,
+      "fact": "my fact this week is that at Morrissey gigs security have been known to pat down fans to search them for meat",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:41:38"
+    }
+  ]
+}
