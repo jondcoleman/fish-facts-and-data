@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Guest Tom Allen joins Dan, Andy and James for a romp through Noel Coward’s wartime spy life and Nazi blacklist, a Marvel superhero whose power is immaculate horticulture, a Greek king’s fatal monkey bite with big geopolitical fallout, and the rhinestone-suited celebrity tailor “Newdy.”",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In September 1945, a small booklet was discovered in the main offices of the third Reich in Berlin, or Reich, if you're from southern Germany. In Berlin, it was a secret list of 2,820 British individuals who'd be rounded up in the event of a successful invasion, and Noel Coward found his name on page 34.",
+      "presenter": "Tom Allen",
+      "guest": true,
+      "start_time": "00:02:27"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that there is a Marvel superhero called The Gardener, whose superpower is that he is insanely good at gardening.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:49"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact is, in 1920, the king of Greece died after trying to break up a fight between a dog and a monkey.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:28:10"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Okay, my fact this week is that one of the most popular celebrity tailors of the 1950s was, ironically, called Newdy.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:38:28"
+    }
+  ]
+}
