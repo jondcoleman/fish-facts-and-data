@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features guest Tom Allen alongside Dan Schreiber, Andrew Hunter Murray, and James Harkin, covering topics from Noel Coward’s appearance on a Nazi roundup list and Marvel’s gardening-obsessed superhero to a Greek king’s death by monkey bite and the flamboyant rhinestone suits of 1950s celebrity tailor “Newdy.” The chat detours into gardening quirks, ornamental hermits, unusual royal deaths, and fashion innovations including Elvis’s gold lamé suit.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "In September 1945, a small booklet was discovered in the main offices of the third Reich in Berlin, or Reich, if you're from southern Germany. In Berlin, it was a secret list of 2,820 British individuals who'd be rounded up in the event of a successful invasion, and Noel Coward found his name on page 34.",
+      "presenter": "Tom Allen",
+      "guest": true,
+      "start_time": "00:02:27"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that there is a Marvel superhero called The Gardener, whose superpower is that he is insanely good at gardening.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:49"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact is, in 1920, the King of Greece died after trying to break up a fight between a dog and a monkey.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:28:10"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Okay, my fact this week is that one of the most popular celebrity tailors of the 1950s was, ironically called Newdy.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:38:30"
+    }
+  ]
+}

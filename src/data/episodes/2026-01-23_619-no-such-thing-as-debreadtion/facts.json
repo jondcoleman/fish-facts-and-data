@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Guest Olga Koch joins Dan, James, and Andy for four facts spanning music-industry showdowns with TLC, Japanese number-word puns behind Tokyo Skytree’s height, a proposal to rewet a 500‑mile belt of bogs to hinder Russian expansion while storing carbon, and the chaotic first online pizza delivery in 1994 that drew a press scrum and went awry. Along the way they detour through K‑/J‑pop, railway jingles, peatlands, and early e‑commerce origins.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact is that TLC held the head of their recording label, Clive Davis Hostage, in order to renegotiate their recording contract.",
+      "presenter": "Olga Koch",
+      "guest": true,
+      "start_time": "00:02:16"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that the height of the world's third tallest structure was picked because it worked as a pun.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:55"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Okay, my fact this week is that one idea to block Russian expansion in Eastern Europe is to create a 500 mile long bog.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:30:30"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact is, when the first ever online pizza delivery was made, a hundred journalists turned up to report on it. The driver got lost.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:43:24"
+    }
+  ]
+}
