@@ -5,6 +5,7 @@ import * as path from "path";
 import {
   discoverNewEpisodes,
 } from "./discover.js";
+import { loadEpisodeIgnoreList } from "./utils/episode-ignore.js";
 import { downloadAndPrepareAudio } from "./download.js";
 import { transcribeAudio } from "./transcribe.js";
 import { extractFactsFromVtt } from "./extract-facts.js";
@@ -134,9 +135,20 @@ async function main() {
       return;
     }
 
+    // Apply ignore list (episodes that consistently fail, e.g. Whisper bugs on certain audio)
+    const ignoreSet = await loadEpisodeIgnoreList();
+    const afterIgnore = newEpisodes.filter((ep) => {
+      if (ignoreSet.has(ep.dirName)) {
+        logInfo(`Skipping ignored episode: ${ep.dirName} (${ep.title})`);
+        stats.skipped++;
+        return false;
+      }
+      return true;
+    });
+
     const episodesToProcess = limit
-      ? newEpisodes.slice(0, limit)
-      : newEpisodes;
+      ? afterIgnore.slice(0, limit)
+      : afterIgnore;
 
     stats.total = episodesToProcess.length;
 
@@ -238,6 +250,7 @@ async function main() {
     logInfo(`Total episodes: ${stats.total}`);
     logInfo(`Successful: ${stats.successful}`);
     logInfo(`Failed: ${stats.failed}`);
+    if (stats.skipped > 0) logInfo(`Skipped (ignored): ${stats.skipped}`);
     logInfo(`Total time: ${totalTime.toFixed(1)} minutes`);
 
     if (stats.failed > 0) {

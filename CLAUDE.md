@@ -84,6 +84,7 @@ src/
 - **Zod Schemas** (`src/scripts/utils/schemas.ts`): Type-safe validation for episodes and facts
 - **Text Utilities** (`src/scripts/utils/text.ts`): Timestamp conversion, filename sanitization, JSON extraction
 - **Episode Discovery** (`src/scripts/discover.ts`): Tracks processing via `facts.json` file existence (no separate index)
+- **Episode ignore list** (`episodes-ignore.txt`): DirNames to skip during processing (one per line); loaded by `process-episodes.ts` via `utils/episode-ignore.ts`
 
 ## Environment Variables
 

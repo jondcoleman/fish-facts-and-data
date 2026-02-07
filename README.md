@@ -278,6 +278,10 @@ If fact extraction fails or needs improvement for specific episodes:
 tsx src/scripts/retry-facts.ts <episode-number>
 ```
 
+### Ignoring Episodes
+
+Some episodes may consistently fail (e.g. Whisper errors on certain audio). Add their directory names to `episodes-ignore.txt` in the project root, one per line. The pipeline will skip them and log "Skipping ignored episode". Use the exact `dirName` (e.g. `2025-01-07_bonus-audience-facts-january-2025`). Lines starting with `#` and blank lines are ignored.
+
 ### Full Reprocessing
 
 To fully reprocess an episode (download, transcribe, extract):

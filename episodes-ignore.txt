@@ -1,0 +1,8 @@
+# Episodes to skip during processing (one directory name per line).
+# Use the exact dirName, e.g. 2025-01-07_bonus-audience-facts-january-2025
+# Lines starting with # and blank lines are ignored.
+
+2025-01-07_bonus-audience-facts-january-2025
+2024-12-24_bonus-drop-us-a-line-december-2024
+2024-05-07_bonus-andy-s-audiobook-exclusive
+2022-07-26_audiobook-of-the-year-2019-preview
