@@ -137,6 +137,9 @@ async function main() {
 
     // Apply ignore list (episodes that consistently fail, e.g. Whisper bugs on certain audio)
     const ignoreSet = await loadEpisodeIgnoreList();
+    if (ignoreSet.size > 0) {
+      logInfo(`Loaded ${ignoreSet.size} episode(s) from episodes-ignore.txt`);
+    }
     const afterIgnore = newEpisodes.filter((ep) => {
       if (ignoreSet.has(ep.dirName)) {
         logInfo(`Skipping ignored episode: ${ep.dirName} (${ep.title})`);
