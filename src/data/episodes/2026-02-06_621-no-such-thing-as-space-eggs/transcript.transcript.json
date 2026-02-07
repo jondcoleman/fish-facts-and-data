@@ -1,0 +1,3002 @@
+[
+  {
+    "start": 0,
+    "end": 3.36,
+    "text": " [music]"
+  },
+  {
+    "start": 3.36,
+    "end": 7.44,
+    "text": " Hi everyone, welcome to this week's episode of No Such Things A Fish, where we were joined by a"
+  },
+  {
+    "start": 7.44,
+    "end": 13.28,
+    "text": " very, very good friend, Leven Scera. Now, regular listeners of No Such Things A Fish will be well"
+  },
+  {
+    "start": 13.28,
+    "end": 18.4,
+    "text": " aware of Leven. He has been on our show many, many times. He is always absolutely brilliant,"
+  },
+  {
+    "start": 18.4,
+    "end": 24.16,
+    "text": " and we always love it when he comes over from Belgium and tells us all his amazing facts about"
+  },
+  {
+    "start": 24.16,
+    "end": 31.44,
+    "text": " science. Now, if you would like to learn more about a particular kind of science, AI, then do I"
+  },
+  {
+    "start": 31.44,
+    "end": 37.84,
+    "text": " have good news for you? Because Leven is coming over in March to do a live tour across the UK,"
+  },
+  {
+    "start": 37.84,
+    "end": 42.64,
+    "text": " North, South, East, West. He's coming along and he will be telling you all about AI. Would you"
+  },
+  {
+    "start": 42.64,
+    "end": 48.88,
+    "text": " believe it's more complicated than just getting a program on your computer and asking it questions"
+  },
+  {
+    "start": 48.88,
+    "end": 54,
+    "text": " and getting the questions wrong? There is more to it and we're better to learn about it than with"
+  },
+  {
+    "start": 54,
+    "end": 60.96,
+    "text": " Leven Scera, the man sometimes called the Stephen Fry of Belgium. I know that quite a lot of companies"
+  },
+  {
+    "start": 60.96,
+    "end": 66,
+    "text": " are snapping up tickets because they want their employees to learn all about AI and Leven is"
+  },
+  {
+    "start": 66,
+    "end": 70.64,
+    "text": " such a good science communicator. Definitely, it is a place to go if you want to learn about"
+  },
+  {
+    "start": 70.64,
+    "end": 75.52,
+    "text": " that subject and have a laugh along the way. If you want to know more about that, then go to"
+  },
+  {
+    "start": 75.52,
+    "end": 83.44,
+    "text": " levenscera.com. Probably you can't spell that if you're British, so he has also bought the domain"
+  },
+  {
+    "start": 83.44,
+    "end": 90.48,
+    "text": " leaving Shire, like what a hobby it might do. Perhaps leaving Shire.com, if you type that into your"
+  },
+  {
+    "start": 90.48,
+    "end": 95.28,
+    "text": " address bar, you will get his website and you'll be able to get tickets. If you want to learn more"
+  },
+  {
+    "start": 95.28,
+    "end": 101.6,
+    "text": " about noses, it's things of fish. Then a good place to go at the moment is patreon.com/nosesthingsofish,"
+  },
+  {
+    "start": 101.6,
+    "end": 106.72,
+    "text": " where you can join any one of our three tiers, the lowest of which four pounds a month will get you"
+  },
+  {
+    "start": 106.72,
+    "end": 112.16,
+    "text": " dual droppers of line. Have you ever listened to the show and thought, \"Those guys have got something"
+  },
+  {
+    "start": 112.16,
+    "end": 117.68,
+    "text": " wrong?\" Well, if you have, then other people have thought that as well and they have sent us emails"
+  },
+  {
+    "start": 117.68,
+    "end": 122.88,
+    "text": " and Andy goes through them and picks out the very best and he quizzes us about them. It's not"
+  },
+  {
+    "start": 122.88,
+    "end": 127.68,
+    "text": " just things we got wrong, it's also people with extra material because there are so many experts"
+  },
+  {
+    "start": 127.68,
+    "end": 133.04,
+    "text": " listening to our show, so it's a really good place if you've enjoyed the previous episodes to learn"
+  },
+  {
+    "start": 133.04,
+    "end": 139.52,
+    "text": " a little bit more about those subjects. Patreon's also got a free tier. There's a little bit on there,"
+  },
+  {
+    "start": 139.52,
+    "end": 144.72,
+    "text": " I think, if you sign up to nosesthingsofish on the free tier, but it's also a place where we will"
+  },
+  {
+    "start": 144.72,
+    "end": 151.44,
+    "text": " announce new things as and when they happen and I could tell you a lot is cooking up and nosesthingsofish HQ."
+  },
+  {
+    "start": 151.44,
+    "end": 157.36,
+    "text": " So if you want to learn more, go to patreon.com/nosesuchthing as a fish. Anyway, really hope you enjoy this"
+  },
+  {
+    "start": 157.36,
+    "end": 161.36,
+    "text": " week show with Leverna Schiller on with the podcast."
+  },
+  {
+    "start": 161.36,
+    "end": 183.04,
+    "text": " Hello and welcome to another episode of no such thing as a fish, a weekly podcast coming to you"
+  },
+  {
+    "start": 183.04,
+    "end": 189.12,
+    "text": " from the QI offices in Hobern. My name is Dan Schreiber, I am sitting here with Andrew Hunter Murray,"
+  },
+  {
+    "start": 189.12,
+    "end": 194.48,
+    "text": " James Harkin, and Leven Scherah. And once again, we have gathered around the microphones with our"
+  },
+  {
+    "start": 194.48,
+    "end": 200.48,
+    "text": " four favorite facts from the last seven days and in a particular order, here we go. Starting with"
+  },
+  {
+    "start": 200.48,
+    "end": 207.76,
+    "text": " fact number one, and that is James. Okay, my fat this week is that when the father of supercomputing"
+  },
+  {
+    "start": 207.76,
+    "end": 214.8,
+    "text": " Seymour Kray got stuck on a problem, he would go into tunnels, he built under his house and speak to elves."
+  },
+  {
+    "start": 214.8,
+    "end": 223.2,
+    "text": " My kind of guy. Yeah, so this is a guy called Seymour Kray. He built some of the first supercomputers,"
+  },
+  {
+    "start": 223.2,
+    "end": 229.04,
+    "text": " and according to one of his colleagues, who's John Role Wagon, Kray said that when he got stuck"
+  },
+  {
+    "start": 229.04,
+    "end": 233.6,
+    "text": " on a problem, he'd go under there and the elves come with the solutions to his problems. Why"
+  },
+  {
+    "start": 233.6,
+    "end": 238.96,
+    "text": " certainly true is that he was brilliant at sort of getting a computer problem, going away, just"
+  },
+  {
+    "start": 238.96,
+    "end": 243.28,
+    "text": " thinking about it and then getting the answer. Yeah, so it's an interesting story because it's sort of,"
+  },
+  {
+    "start": 243.28,
+    "end": 248.56,
+    "text": " he had such weird myths about him. Did he really talk to elves? Was he messing with his friend?"
+  },
+  {
+    "start": 248.56,
+    "end": 255.04,
+    "text": " There was a story that he built his own boat, and at the end of every year, he would burn the boat,"
+  },
+  {
+    "start": 255.04,
+    "end": 259.2,
+    "text": " and then he would build a new boat the next year because he loved building things and he loved"
+  },
+  {
+    "start": 259.2,
+    "end": 264.56,
+    "text": " creating a new thing on the blank page. I heard that he burned a boat just because he'd built a new one,"
+  },
+  {
+    "start": 264.56,
+    "end": 271.28,
+    "text": " and he didn't want to pay the tax on two boats. Unclared. Well, a lot of people think that he did"
+  },
+  {
+    "start": 271.28,
+    "end": 277.44,
+    "text": " do that once, and then it became the myth that he did it once a year, but he did like his thinking time."
+  },
+  {
+    "start": 277.44,
+    "end": 283.12,
+    "text": " Yeah, have you come across this guy, Lever? No, I haven't. Some supercomputers have a great history,"
+  },
+  {
+    "start": 283.12,
+    "end": 287.68,
+    "text": " you know, that he was Air Force once built the supercomputer out of PlayStation Trees."
+  },
+  {
+    "start": 287.68,
+    "end": 293.92,
+    "text": " No. The Condor console. Really? Yeah. They bought two million dollars of PlayStation Trees."
+  },
+  {
+    "start": 293.92,
+    "end": 299.6,
+    "text": " Wow. They took out the computer chip. What were they trying to play? Analyzing satellite images."
+  },
+  {
+    "start": 299.6,
+    "end": 303.92,
+    "text": " Cool. And the thing, I've not, I've not played that game. It sounds good. It sounds right up"
+  },
+  {
+    "start": 303.92,
+    "end": 307.68,
+    "text": " your street in Paris, Andy. Well, once flight simulator has been knocked on the head,"
+  },
+  {
+    "start": 307.68,
+    "end": 315.92,
+    "text": " you need 1,760 PS3s to to build a supercomputer. The reason they did it was that it saved them eight"
+  },
+  {
+    "start": 315.92,
+    "end": 321.04,
+    "text": " million dollars, but they weren't using the PlayStation itself. They were extracting a chip from it,"
+  },
+  {
+    "start": 321.04,
+    "end": 326.72,
+    "text": " did you say? I think they used most of the hardware. You could run Linux on it back in the day."
+  },
+  {
+    "start": 326.72,
+    "end": 333.2,
+    "text": " So you're in the Russian military and your secrets are cracked by 1,700 PS3s. But so what is a"
+  },
+  {
+    "start": 333.2,
+    "end": 338,
+    "text": " supercomputer then? Because that's a collection of PlayStation. Does that count as a supercomputer? I think"
+  },
+  {
+    "start": 338,
+    "end": 343.2,
+    "text": " there's no like official definition of them. But it's a term that I think was coined to make the"
+  },
+  {
+    "start": 343.2,
+    "end": 348.48,
+    "text": " difference with the mainstream computing power of that time and that changes constantly."
+  },
+  {
+    "start": 348.48,
+    "end": 355.44,
+    "text": " Now, the PS3 supercomputer was in the top 50 of computing power at that time, 2010. So it did"
+  },
+  {
+    "start": 355.44,
+    "end": 361.44,
+    "text": " qualify as a supercomputer. And this guy, Seymour Cray, his computers were super because he basically"
+  },
+  {
+    "start": 361.44,
+    "end": 366.16,
+    "text": " was one of the first people to use transistors. So a transistor is like an electrical switch."
+  },
+  {
+    "start": 366.16,
+    "end": 369.92,
+    "text": " You know, a computer goes with zeros and one is your transistor. We'll tell you if it's a zero"
+  },
+  {
+    "start": 369.92,
+    "end": 376,
+    "text": " or a one because it switches one way or the other. Before that, they used vacuum tubes so like light bulbs"
+  },
+  {
+    "start": 376,
+    "end": 380.16,
+    "text": " almost. And whether the light bulb was on or whether it was off, that would be your zero or one."
+  },
+  {
+    "start": 380.16,
+    "end": 384.08,
+    "text": " And that's how they work out all the logical things they had to work out. So he could suddenly make"
+  },
+  {
+    "start": 384.08,
+    "end": 389.52,
+    "text": " things much, much smaller. The fastest supercomputer right now. What can it do in the space of a second?"
+  },
+  {
+    "start": 389.52,
+    "end": 394.8,
+    "text": " So the fastest supercomputer I think at the moment is called El Capitan at the Lawrence Livermore"
+  },
+  {
+    "start": 394.8,
+    "end": 401.12,
+    "text": " National Laboratory. And let's say, Dan, you were to do a coin flip against everyone in Japan."
+  },
+  {
+    "start": 401.12,
+    "end": 406.64,
+    "text": " Yeah. Okay. As you do. As I've been trying to do for many decades now. You'll get a yes from"
+  },
+  {
+    "start": 406.64,
+    "end": 411.36,
+    "text": " a commissioner one day. It's a great fun idea. And then once you've done, then Leven does the same"
+  },
+  {
+    "start": 411.36,
+    "end": 416.16,
+    "text": " against everyone in Japan. Yeah. And then Andy does. Then I do. And then everyone in the world"
+  },
+  {
+    "start": 416.16,
+    "end": 421.92,
+    "text": " does a coin flip against every single person in Japan. This El Capitan would be able to manage"
+  },
+  {
+    "start": 421.92,
+    "end": 429.6,
+    "text": " all those results in a single second, which is not a long TV show. I can see why AI is ruining the"
+  },
+  {
+    "start": 429.6,
+    "end": 438.08,
+    "text": " arts. Japan against the world. It's petaflop time. But I like this word petaflop. So flop is a floating"
+  },
+  {
+    "start": 438.08,
+    "end": 444.48,
+    "text": " floating point operations or an additional or a multiplication. And then petta comes after"
+  },
+  {
+    "start": 444.48,
+    "end": 453.2,
+    "text": " tera, I think mega giga X is after petaflop. X is even bigger. So we've got a new supercomputer in the UK."
+  },
+  {
+    "start": 453.2,
+    "end": 461.04,
+    "text": " It opened up last summer. It's in Bristol. It's called Ismbard AI. And it's going to be used."
+  },
+  {
+    "start": 461.04,
+    "end": 465.12,
+    "text": " The Guardian report of various things is going to be useful. Improving skin cancer detection rates."
+  },
+  {
+    "start": 465.12,
+    "end": 470.56,
+    "text": " Right. Really good. Predicting crowd movements. And maybe if there's going to be an accident on"
+  },
+  {
+    "start": 470.56,
+    "end": 475.76,
+    "text": " a construction site, you know, it can sort of like a brick starts falling. It can work out where"
+  },
+  {
+    "start": 475.76,
+    "end": 481.52,
+    "text": " it's going to land. Exactly. I mean, or maybe even more useful than that. And also how to spot sick"
+  },
+  {
+    "start": 481.52,
+    "end": 486.16,
+    "text": " dairy cows in Somerset. That's good. And there are a lot of dairy cows in Somerset. And if they get"
+  },
+  {
+    "start": 486.16,
+    "end": 491.52,
+    "text": " if they're getting early signs of mistitis, that's a real pain for them. You know what? I went on to"
+  },
+  {
+    "start": 491.52,
+    "end": 497.28,
+    "text": " Google News last week. Yeah. And I searched for super computer. And these headlines were all on"
+  },
+  {
+    "start": 497.28,
+    "end": 504.8,
+    "text": " the first page. Super computer tips Morocco to win 2025 African nation's trophy. Super computer"
+  },
+  {
+    "start": 504.8,
+    "end": 510,
+    "text": " reveals who's had the easiest ties in the FA Cup. Super computer predicts man United finishes."
+  },
+  {
+    "start": 510,
+    "end": 515.36,
+    "text": " Michael Carrick takes over. Super computer delivers leech United versus bollum prediction."
+  },
+  {
+    "start": 515.36,
+    "end": 520.32,
+    "text": " And super computer predicts where FA Cup journey will end for Mansfield Town. I can see who's"
+  },
+  {
+    "start": 520.32,
+    "end": 524.8,
+    "text": " funding the research. Yeah. And so that we're using city's worth of war for an electricity to come"
+  },
+  {
+    "start": 524.8,
+    "end": 530.88,
+    "text": " out with his vital stuff about Mansfield Town. It's not so weird. But what I think is happening"
+  },
+  {
+    "start": 530.88,
+    "end": 536.8,
+    "text": " is a normal computer is doing these calculations in a journalist office somewhere. And they're just"
+  },
+  {
+    "start": 536.8,
+    "end": 541.28,
+    "text": " thinking, let's call out a super computer. I assume that's what's happening, right? Yeah. It's"
+  },
+  {
+    "start": 541.28,
+    "end": 545.68,
+    "text": " not a protected term, is it? I don't think so. I don't think it is. Super in front of everything."
+  },
+  {
+    "start": 545.68,
+    "end": 551.36,
+    "text": " I feel like Seymour Craze was the first properly called a super computer. Right. I think I just"
+  },
+  {
+    "start": 551.36,
+    "end": 556.64,
+    "text": " won last fact on him. So Dan, you said he had this intense focus. He would spend days in complete"
+  },
+  {
+    "start": 556.64,
+    "end": 561.04,
+    "text": " seclusion, maybe in the tunnels under his house. There are stories also that he was very afraid about"
+  },
+  {
+    "start": 561.04,
+    "end": 565.92,
+    "text": " nuclear war. So he dug, he was digging sort of bombshell or having bombshells as dug under his"
+  },
+  {
+    "start": 565.92,
+    "end": 570.64,
+    "text": " home. I don't know how true that is. But apparently he would often on family car journeys"
+  },
+  {
+    "start": 570.64,
+    "end": 576.8,
+    "text": " demand complete silence. So he could think for the entire duration of the journey. I mean,"
+  },
+  {
+    "start": 576.8,
+    "end": 584.08,
+    "text": " the dream. So, but wait a minute, Charlie, the kids are watching Frozen in the back."
+  },
+  {
+    "start": 584.08,
+    "end": 586.4,
+    "text": " Have they watched that on mute? They're not allowed to watch anything."
+  },
+  {
+    "start": 586.4,
+    "end": 591.12,
+    "text": " What? Family have to stay silent because dad is driving and thinking. They're watching a great man"
+  },
+  {
+    "start": 591.12,
+    "end": 596.56,
+    "text": " think. What more entertainment can you have? Let it go is nothing compared to Seymour Craze."
+  },
+  {
+    "start": 596.56,
+    "end": 601.28,
+    "text": " Have a better idea. Pay to watch Seymour Craze think from the back of a car. I don't care how the"
+  },
+  {
+    "start": 601.28,
+    "end": 607.52,
+    "text": " wheels are the fucking bus going. I need to work on how many pizza flops in this computer."
+  },
+  {
+    "start": 607.52,
+    "end": 613.36,
+    "text": " Or you will not have the iPad by 2010 to watch your shows on mute."
+  },
+  {
+    "start": 613.36,
+    "end": 617.04,
+    "text": " Yes, exactly. And then when everybody else is science, you still have the elves bubbling in"
+  },
+  {
+    "start": 617.04,
+    "end": 622.16,
+    "text": " your ear of course. Shut up, Elf. Can I tell you a man thing about where super computers are going"
+  },
+  {
+    "start": 622.16,
+    "end": 626.96,
+    "text": " to go next? Oh, yes, please. Have a guess. League 2. That's our results."
+  },
+  {
+    "start": 628.16,
+    "end": 632.64,
+    "text": " Where it's going to go next? Space. Quantum computing? Oh, computer's in space."
+  },
+  {
+    "start": 632.64,
+    "end": 635.6,
+    "text": " It's going to go up there. It is. Yeah, for the cooling and the cold."
+  },
+  {
+    "start": 635.6,
+    "end": 639.36,
+    "text": " China are trying to get what lots of people are trying to get a super computer in space."
+  },
+  {
+    "start": 639.36,
+    "end": 644.88,
+    "text": " Everyone wants it to be in orbit. Bees awesome, all sorts of people."
+  },
+  {
+    "start": 644.88,
+    "end": 651.12,
+    "text": " Basically, the theory is on the ground, all the computing power uses lots of energy and lots of"
+  },
+  {
+    "start": 651.12,
+    "end": 656.32,
+    "text": " water for the cooling and things like this. Up there, it's solar power. We have solar power down here,"
+  },
+  {
+    "start": 656.32,
+    "end": 661.84,
+    "text": " but solar and cooling requirements are not nearly as big. Well, solar power is 24 hours if you choose"
+  },
+  {
+    "start": 661.84,
+    "end": 668.24,
+    "text": " the right orbit. So you don't have nights. Cooling is a strange thing because it is very cold,"
+  },
+  {
+    "start": 668.24,
+    "end": 674.32,
+    "text": " but also there is very little materials. You're kind of in a vacuum. It's like you can't sweat."
+  },
+  {
+    "start": 674.32,
+    "end": 681.44,
+    "text": " Yeah, so the ISS has this big gray things that some people think there are solar panels,"
+  },
+  {
+    "start": 681.44,
+    "end": 687.6,
+    "text": " but they're actually the only way to cool the ISS is by radiation, like radiate the power off,"
+  },
+  {
+    "start": 687.6,
+    "end": 693.2,
+    "text": " and these things are to radiate the power. So you need some sort of cooling in space too."
+  },
+  {
+    "start": 693.2,
+    "end": 698.48,
+    "text": " But it's a different way than liquid cooling that we do here. Could we cook something with"
+  },
+  {
+    "start": 698.48,
+    "end": 704.16,
+    "text": " radiation in space and then that comes back to Earth? I guess so. Yeah. I've just had an idea"
+  },
+  {
+    "start": 704.16,
+    "end": 708.32,
+    "text": " that's all I'm just going to write a beasel after this. But why? Andrew, space sausage. I'm thinking"
+  },
+  {
+    "start": 708.32,
+    "end": 716.24,
+    "text": " space sausage. What when space eggs is straight there? Space eggs. Oh my god. I don't want to deal with"
+  },
+  {
+    "start": 716.24,
+    "end": 725.04,
+    "text": " masks. Space sausage. You send the satellite up surrounded by a thick layer of meat, right? It's"
+  },
+  {
+    "start": 725.04,
+    "end": 730.8,
+    "text": " like a Scotch egg. Don't Scotch egg as well. And as it cooks, it drops off and comes back to Earth."
+  },
+  {
+    "start": 730.8,
+    "end": 735.6,
+    "text": " When it's cooked, how does it not burn on reentry? Oh, we'd have we'll salt this down the line."
+  },
+  {
+    "start": 735.6,
+    "end": 745.44,
+    "text": " I'm asking for $100 million. Just bad news. Just quickly on Seymour Cray, he was born and eventually"
+  },
+  {
+    "start": 745.44,
+    "end": 752.88,
+    "text": " set up his offices in a place called Chippewa Falls in Wisconsin. Oh yeah. I tried to see if there"
+  },
+  {
+    "start": 752.88,
+    "end": 758.72,
+    "text": " had any other impact on the world, Chippewa Falls as well. So two I could find a lady called"
+  },
+  {
+    "start": 758.72,
+    "end": 765.12,
+    "text": " Judith Ann Hensk, who was a singer in America, was the original singer of a song that's had a bit"
+  },
+  {
+    "start": 765.12,
+    "end": 770.16,
+    "text": " of an influence on the world because the song was called High Flying Bird. Oh, and Nol Gallagher's"
+  },
+  {
+    "start": 770.16,
+    "end": 776.24,
+    "text": " band is named after it. Nol Gallagher's band is named after that. So yeah, huge influence on"
+  },
+  {
+    "start": 776.24,
+    "end": 781.12,
+    "text": " the world there. That's one. The second one is it's going to be better. I don't think I'd stop that."
+  },
+  {
+    "start": 781.12,
+    "end": 786.48,
+    "text": " I don't think you're going to cap. Get ready. Go on. It is the hometown of Jack Dawson,"
+  },
+  {
+    "start": 787.2,
+    "end": 794,
+    "text": " who sadly died on the Titanic in the movie Titanic. What? Leonardo DiCaprio's character is called"
+  },
+  {
+    "start": 794,
+    "end": 799.04,
+    "text": " Jack Dawson. Okay. Okay. So there's a scene in the movie where Kate Winslet is standing on the front"
+  },
+  {
+    "start": 799.04,
+    "end": 803.84,
+    "text": " and she's about to jump off and he talks her out of it and he talks about the time when he was"
+  },
+  {
+    "start": 803.84,
+    "end": 808.56,
+    "text": " standing on a frozen lake in Chippewa Falls, his hometown and how it cracked and how cold it was when"
+  },
+  {
+    "start": 808.56,
+    "end": 814.8,
+    "text": " he went under and so on. And so that's the other main thing that they're known for except the lake"
+  },
+  {
+    "start": 814.8,
+    "end": 820.8,
+    "text": " wasn't there until after the sinking of the Titanic. So it's a goof. There's a new lake. Yeah,"
+  },
+  {
+    "start": 820.8,
+    "end": 828.4,
+    "text": " it's sort of a man-made lake in Chippewa Falls and it wasn't made until 1917. Gosh. Now James Cameron did"
+  },
+  {
+    "start": 828.4,
+    "end": 833.36,
+    "text": " the whole thing where he changed the literal sky to put the stars in the right place when he redid"
+  },
+  {
+    "start": 833.36,
+    "end": 837.6,
+    "text": " the Titanic movie because he got it wrong. Neil the Grass Tyson complained about it. Yeah. Neil"
+  },
+  {
+    "start": 837.6,
+    "end": 842.4,
+    "text": " the Grass Tyson was watching the movie and at one point said the sky is wrong. I think Neil the Grass"
+  },
+  {
+    "start": 842.4,
+    "end": 848.64,
+    "text": " Tyson needs to get his priorities right with the complaining. Well Cameron changed it. He redid it"
+  },
+  {
+    "start": 848.64,
+    "end": 852.4,
+    "text": " for the anniversary release and he hasn't changed this. He's going to have to go back now and do it"
+  },
+  {
+    "start": 852.4,
+    "end": 856.48,
+    "text": " all over again. Wow. Yeah. You think you have the same authority as Neil the Grass Tyson when it"
+  },
+  {
+    "start": 856.48,
+    "end": 861.92,
+    "text": " comes to James Cameron's ear. Hundy P. Hundy P. Of course. Yeah. He'll probably just hand back all the"
+  },
+  {
+    "start": 861.92,
+    "end": 868.16,
+    "text": " money. I'm going to stop making Avatar 9 and I'm just going to focus the whole time on time"
+  },
+  {
+    "start": 868.16,
+    "end": 873.2,
+    "text": " traveling this lake back in time. That'll be his solution. Avatar by the way, which is 100%"
+  },
+  {
+    "start": 873.2,
+    "end": 877.92,
+    "text": " scientifically accurate on my show, right? Yeah, exactly. I haven't seen what the modern"
+  },
+  {
+    "start": 877.92,
+    "end": 883.2,
+    "text": " computers look like, the supercomputers, but aesthetically they were really beautiful the original"
+  },
+  {
+    "start": 883.2,
+    "end": 889.52,
+    "text": " Cray supercomputers. So Seymour Cray's Cray 1 was a sort of tall cylinder in the middle. Oh,"
+  },
+  {
+    "start": 889.52,
+    "end": 893.12,
+    "text": " that's right. And then it had sort of like leather seating around the bottom that you could"
+  },
+  {
+    "start": 893.12,
+    "end": 899.04,
+    "text": " genuinely sit on and it was because the cooling system that it needed was underneath and it just"
+  },
+  {
+    "start": 899.04,
+    "end": 905.28,
+    "text": " was a thing that was part of the design. Was it heated seats? Yeah, super heated seats. Yeah,"
+  },
+  {
+    "start": 905.28,
+    "end": 910.48,
+    "text": " he's getting referenced as love seats and there's a few suggestions that people would sleep on it."
+  },
+  {
+    "start": 910.48,
+    "end": 919.28,
+    "text": " Not for 60s. Yeah, but is that a big cylindrical supercomputer in Japan? I'm afraid it's an exafop."
+  },
+  {
+    "start": 919.28,
+    "end": 933.6,
+    "text": " Okay, it's time for fact number two and that is Lieben. My fact is that a crane is called a crane"
+  },
+  {
+    "start": 933.6,
+    "end": 941.68,
+    "text": " because it looks like a crane. Any question? Yes. It's crane is wet. Aha. The crane, the machine"
+  },
+  {
+    "start": 941.68,
+    "end": 949.04,
+    "text": " is named after the crane the bird. And what does this have to do with Seymour Cray? Nothing yet."
+  },
+  {
+    "start": 949.04,
+    "end": 955.68,
+    "text": " I'll ask the elves. Yeah. Medieval cranes looked like the birds. Have you seen a medieval crane"
+  },
+  {
+    "start": 955.68,
+    "end": 960.8,
+    "text": " on paintings? Only through the process of researching this, yeah. Oh yeah, before nine. Yeah,"
+  },
+  {
+    "start": 960.8,
+    "end": 968.64,
+    "text": " so a medieval crane would be a wooden building in a way. And it had these two, what do you call them,"
+  },
+  {
+    "start": 968.64,
+    "end": 973.28,
+    "text": " where the hamster would want to round them? Tread mills. Yeah, treadmills. So it had two big"
+  },
+  {
+    "start": 973.28,
+    "end": 980.16,
+    "text": " treadmills at the site and people would walk into treadmills to make the rope move. And then from"
+  },
+  {
+    "start": 980.16,
+    "end": 986.24,
+    "text": " these two large treadmills, there was kind of a wooden building diagonally going up like 10,"
+  },
+  {
+    "start": 986.24,
+    "end": 991.84,
+    "text": " 15 meters. And then from the top, there would be a small piece going diagonally down again,"
+  },
+  {
+    "start": 991.84,
+    "end": 997.04,
+    "text": " where the rope would come out. And they would use this in harbours to take loads out of it."
+  },
+  {
+    "start": 997.04,
+    "end": 1002.64,
+    "text": " And these old medieval cranes, they look a lot like a crane, the bird standing in a field."
+  },
+  {
+    "start": 1002.64,
+    "end": 1007.2,
+    "text": " And so that's why they were called cranes. So cool. They're very beautiful. I had not seen one"
+  },
+  {
+    "start": 1007.2,
+    "end": 1014.08,
+    "text": " of these before. These tread wheel cranes. And they're mad. I think there's a place where they're"
+  },
+  {
+    "start": 1014.08,
+    "end": 1018.48,
+    "text": " trying to build a castle authentically in France. And they're using one or two of these actual"
+  },
+  {
+    "start": 1018.48,
+    "end": 1023.68,
+    "text": " things. And Tom Scott, who's built this show, has made a video where he goes and like operates this"
+  },
+  {
+    "start": 1023.68,
+    "end": 1030.56,
+    "text": " crane. It's crazy. And they were used for like quite famous things like column cathedral. So much."
+  },
+  {
+    "start": 1030.56,
+    "end": 1034.88,
+    "text": " Salisbury Cathedral. And it turns out that if you have enough people and enough time as well,"
+  },
+  {
+    "start": 1034.88,
+    "end": 1040.64,
+    "text": " because it moves slowly. But you can basically lift many, many, many tons in weight just by someone"
+  },
+  {
+    "start": 1040.64,
+    "end": 1044.88,
+    "text": " walking around. If you have the right gears. Yeah. If you have the right gears, then you can,"
+  },
+  {
+    "start": 1044.88,
+    "end": 1050.08,
+    "text": " you can certainly do it. Could you like ratchet it and then use it as a catapult or something?"
+  },
+  {
+    "start": 1050.08,
+    "end": 1054.48,
+    "text": " A trebuchet. I don't know. I don't know if, because then you need a lot of torque in there. And"
+  },
+  {
+    "start": 1054.48,
+    "end": 1061.04,
+    "text": " maybe the wood wouldn't, because I was thinking for Andy's meat in space business. Yes. That's how we'll"
+  },
+  {
+    "start": 1061.04,
+    "end": 1064.4,
+    "text": " get it back down. That's a good idea. Is that how you're lobbing it up? That's how I was lobbing it up."
+  },
+  {
+    "start": 1064.4,
+    "end": 1070,
+    "text": " Oh, sorry. Okay. Can I get the sausage up there, mate? Is there that slang expression? I'm not"
+  },
+  {
+    "start": 1070,
+    "end": 1076.48,
+    "text": " familiar with it. Very, very normal expression here. I'll be okay. But your sausage hot, mate."
+  },
+  {
+    "start": 1076.48,
+    "end": 1082.16,
+    "text": " There was a Roman one called a polyspaston, which could lift 3,000 kilos per person walking"
+  },
+  {
+    "start": 1082.16,
+    "end": 1086,
+    "text": " in this line. I mean, the gearings are amazing. And then they were used in ancient Rome, and then"
+  },
+  {
+    "start": 1086,
+    "end": 1091.36,
+    "text": " they weren't used for many centuries, and then in medieval times they came back. But they were still"
+  },
+  {
+    "start": 1091.36,
+    "end": 1096.96,
+    "text": " being installed in London in the 1850s. Okay. Wow. I think there's one down in Guilford, actually."
+  },
+  {
+    "start": 1096.96,
+    "end": 1102.56,
+    "text": " It's not in operation to that. It's a historical one. But there are a few that can still be found"
+  },
+  {
+    "start": 1102.56,
+    "end": 1108.08,
+    "text": " in the sellers of cathedrals, because they used to move up with the floors. So if you've built the"
+  },
+  {
+    "start": 1108.08,
+    "end": 1113.2,
+    "text": " first floor, you would disassemble the entire crane and build it again on the first floor."
+  },
+  {
+    "start": 1113.2,
+    "end": 1117.12,
+    "text": " So you could work your way up there. And then when they were at the top and the church was finished,"
+  },
+  {
+    "start": 1117.12,
+    "end": 1121.76,
+    "text": " they would just store it in the seller. Like they wouldn't build it up again. But all the material"
+  },
+  {
+    "start": 1121.76,
+    "end": 1126.88,
+    "text": " would be there. That's very good. Do you know what the world's biggest crane is right now?"
+  },
+  {
+    "start": 1126.88,
+    "end": 1131.04,
+    "text": " Right now. Probably the bigger machine. We're talking machine still, I think."
+  },
+  {
+    "start": 1131.04,
+    "end": 1136.56,
+    "text": " Yes, sure. So this is guessable. Absolutely not. Is it? What would you call it? What would you call it?"
+  },
+  {
+    "start": 1136.56,
+    "end": 1142.32,
+    "text": " Manath. Manath. Oh, I see. Master Don't. These are great names. It's called Big Karl."
+  },
+  {
+    "start": 1142.32,
+    "end": 1148.56,
+    "text": " And it's named after Karl Sarans, who works. He's a director of Sarans Engineering,"
+  },
+  {
+    "start": 1148.56,
+    "end": 1154.24,
+    "text": " which is a Flemish family business. Oh, which what what's it called? Sarans."
+  },
+  {
+    "start": 1154.24,
+    "end": 1161.84,
+    "text": " Absolutely. I see Sarans cranes all the time. There are family business. They started"
+  },
+  {
+    "start": 1161.84,
+    "end": 1166.32,
+    "text": " moving trees with horses and carts as you do. And now they're into the world's biggest cranes."
+  },
+  {
+    "start": 1166.32,
+    "end": 1172.08,
+    "text": " Right. And I was reading a trade magazine with an interview with Karl and they said what's going"
+  },
+  {
+    "start": 1172.08,
+    "end": 1177.12,
+    "text": " on with the crane industry and he said the whole industry is picking up. Brilliant."
+  },
+  {
+    "start": 1177.12,
+    "end": 1182.96,
+    "text": " Which I don't think he deliberately did as a joke. Doesn't translate in Dutch actually."
+  },
+  {
+    "start": 1182.96,
+    "end": 1190.08,
+    "text": " That's it. Through the roof. It's so good. In these medieval cranes, we had these big treadmills"
+  },
+  {
+    "start": 1190.08,
+    "end": 1197.68,
+    "text": " and they used people to walk in there sometimes children. Actually, in Ghent, there's still a crane"
+  },
+  {
+    "start": 1197.68,
+    "end": 1203.52,
+    "text": " children street. Can't get in there. So they weren't like really small kids, but they were like"
+  },
+  {
+    "start": 1203.52,
+    "end": 1211.84,
+    "text": " teenagers and that were used. And they used animals. Dogs, for example. There's still pictures of"
+  },
+  {
+    "start": 1211.84,
+    "end": 1217.76,
+    "text": " dogs standing in these treadmills kind of sealed off of the world with a small wooden wall left"
+  },
+  {
+    "start": 1217.76,
+    "end": 1221.84,
+    "text": " and right. So in the morning, you would put your dog in a treadmill and it would just walk in"
+  },
+  {
+    "start": 1221.84,
+    "end": 1224.8,
+    "text": " and evening, you opened the door and it could come out. You've got to make sure to put the dog"
+  },
+  {
+    "start": 1224.8,
+    "end": 1228.64,
+    "text": " in the right way around. Otherwise, you get over the end of the day. It's disassembled half a"
+  },
+  {
+    "start": 1228.64,
+    "end": 1238.32,
+    "text": " cathedral. My man. Not again, fee fee. These ones that we used. You've heard of a capstan, maybe."
+  },
+  {
+    "start": 1238.32,
+    "end": 1243.12,
+    "text": " That's the thing. You see them on board a ship for lifting various things. It's where you've"
+  },
+  {
+    "start": 1243.12,
+    "end": 1248.96,
+    "text": " got a pole vertically and there are four spars coming out of it on the ground and you have people"
+  },
+  {
+    "start": 1248.96,
+    "end": 1253.04,
+    "text": " pushing them around in a circle. Oh yeah. And that lifts something upwards. That was a big thing."
+  },
+  {
+    "start": 1253.04,
+    "end": 1261.44,
+    "text": " In the, they were used a lot in the 15th, 16th century, especially to raise obelisks because Rome"
+  },
+  {
+    "start": 1261.44,
+    "end": 1267.2,
+    "text": " basically got a lot of obelisks from its territories in Egypt. So they were all in Stull. Stull?"
+  },
+  {
+    "start": 1268.16,
+    "end": 1274.08,
+    "text": " Yeah. Why am I worried about medieval Romans coming at me? Yeah, they were all sort of nicked."
+  },
+  {
+    "start": 1274.08,
+    "end": 1279.36,
+    "text": " But basically to raise these, they would use cap stands with hundreds of men and horses involved"
+  },
+  {
+    "start": 1279.36,
+    "end": 1283.92,
+    "text": " pushing them around to lift them up. And I just love this detail. This comes by the way from"
+  },
+  {
+    "start": 1283.92,
+    "end": 1289.52,
+    "text": " Low Tech magazine. It's amazing. It's about the past and forgotten tech and how it can actually be"
+  },
+  {
+    "start": 1289.52,
+    "end": 1295.68,
+    "text": " very useful today. The website is solar powered. It runs off the author's home solar power system."
+  },
+  {
+    "start": 1296.56,
+    "end": 1302.64,
+    "text": " Anyway, to raise this obelisk in the Vatican in 1586, it used 800 men, 140 horses,"
+  },
+  {
+    "start": 1302.64,
+    "end": 1308.72,
+    "text": " and the best details, spectators were ordered not to speak or make a noise on pain of death."
+  },
+  {
+    "start": 1308.72,
+    "end": 1312.24,
+    "text": " Oh god. Because hundreds of people were watching this very delicate operation."
+  },
+  {
+    "start": 1312.24,
+    "end": 1316.64,
+    "text": " Like watching Snooker. It's like watching Snooker. And it was apparently enforced."
+  },
+  {
+    "start": 1316.64,
+    "end": 1322,
+    "text": " Seymour Cray was there. Will you shut up? Oh, I want to see more Cray."
+  },
+  {
+    "start": 1325.92,
+    "end": 1330.64,
+    "text": " So was the reason because like often you can't make noise because there's someone"
+  },
+  {
+    "start": 1330.64,
+    "end": 1334.72,
+    "text": " drumming to make sure everyone goes in the right. It might have, it might well have been that."
+  },
+  {
+    "start": 1334.72,
+    "end": 1339.12,
+    "text": " I don't know whether it was that or just like a mistake from distraction could have been"
+  },
+  {
+    "start": 1339.12,
+    "end": 1344.64,
+    "text": " fatal. You know, but yeah, sounds exciting. One last thing on Cray and Cray. In 2005."
+  },
+  {
+    "start": 1344.64,
+    "end": 1351.12,
+    "text": " Well, for these things are Cray and Cray. Which one are we talking about? Mechanical Cray."
+  },
+  {
+    "start": 1353.28,
+    "end": 1356.72,
+    "text": " This is just a crazy story. It happened in London, south London, 2005."
+  },
+  {
+    "start": 1356.72,
+    "end": 1364.24,
+    "text": " 15 year old girl was found on a crane at night 130 feet above the ground. Riddle me this."
+  },
+  {
+    "start": 1364.24,
+    "end": 1370.56,
+    "text": " Well, sleepwalk is the obvious one. She was asleep. She's like, she'd sleepwalked up there and a passer-by"
+  },
+  {
+    "start": 1370.56,
+    "end": 1374.72,
+    "text": " had seen someone up there called the authorities and then a fireman went up, crawled out,"
+  },
+  {
+    "start": 1374.72,
+    "end": 1379.28,
+    "text": " found her there asleep. Didn't know how to wake her up because thought if I wake her up,"
+  },
+  {
+    "start": 1379.28,
+    "end": 1387.28,
+    "text": " she might panic. Where was she asleep? I seem to have a vague memory of the story that she was on"
+  },
+  {
+    "start": 1387.28,
+    "end": 1394.08,
+    "text": " the weight on the other side. It's not even like she was in the cabin bit. No, no, no. She was quite"
+  },
+  {
+    "start": 1394.08,
+    "end": 1403.12,
+    "text": " not that. Quite not. So it seems like he got her phone out of her pocket and called her parents"
+  },
+  {
+    "start": 1403.12,
+    "end": 1409.44,
+    "text": " from the phone and said, can you ring back so that I can so that that'll wake her up. How did he get"
+  },
+  {
+    "start": 1409.44,
+    "end": 1415.44,
+    "text": " her log into her foot? Did he lift up her head and hold the camera in front of it? It's 2006."
+  },
+  {
+    "start": 1415.44,
+    "end": 1419.76,
+    "text": " It was a simpler time. It was a simpler time. What if you still had codes on first, did you? Maybe."
+  },
+  {
+    "start": 1419.76,
+    "end": 1423.6,
+    "text": " Well, anyway, it was all fine in the end. How do you navigate that opening sentence with the"
+  },
+  {
+    "start": 1423.6,
+    "end": 1434.8,
+    "text": " parents? Yes. I'm on a crane. A crane crane? Crambrees are named after cranes. Really?"
+  },
+  {
+    "start": 1434.8,
+    "end": 1440.56,
+    "text": " Crane berries, yeah. The organic crane. Lovely. Because the plant stamens look a bit like the"
+  },
+  {
+    "start": 1440.56,
+    "end": 1446.96,
+    "text": " beaks of cranes. Geraniums are named after cranes. Wow. From the Greek Geranus, meaning crane,"
+  },
+  {
+    "start": 1446.96,
+    "end": 1453.12,
+    "text": " because their seeds look like the crane bills. The Dutch word for geraniums is a stalk beak."
+  },
+  {
+    "start": 1453.52,
+    "end": 1461.04,
+    "text": " Stored bill. That's quite similar to that. Pedigree, the word pedigree also comes from the word"
+  },
+  {
+    "start": 1461.04,
+    "end": 1468.8,
+    "text": " for crane, the Geranus. That's because the foot of a crane has bits that stick out. When you draw"
+  },
+  {
+    "start": 1468.8,
+    "end": 1476.16,
+    "text": " like a family tree, you have bits that stick out. Pediggeranus, foot of a crane. That's really nice."
+  },
+  {
+    "start": 1476.16,
+    "end": 1480.8,
+    "text": " Oh, I love these etymology things that suddenly remove the blanket for something."
+  },
+  {
+    "start": 1480.8,
+    "end": 1489.12,
+    "text": " I love it. That's great. The crane is called a crane because of the noise. They have their"
+  },
+  {
+    "start": 1489.12,
+    "end": 1496.48,
+    "text": " migratary birds that use the right amount of syllables. Yes, migratary birds. And so they fly over"
+  },
+  {
+    "start": 1496.48,
+    "end": 1500.96,
+    "text": " Belgium and Holland in huge groups, sometimes thousands of them. They're quite high up. They have"
+  },
+  {
+    "start": 1500.96,
+    "end": 1508.88,
+    "text": " have these long necks and then you can hear... they make this crane crane. And so if you want to finish"
+  },
+  {
+    "start": 1508.88,
+    "end": 1512.64,
+    "text": " the etymology the machine is named after the bird and the bird is named after the sound it makes."
+  },
+  {
+    "start": 1512.64,
+    "end": 1521.44,
+    "text": " And in Belgium we also say crane to tap water tap faucet because they also have... well they used to"
+  },
+  {
+    "start": 1521.44,
+    "end": 1528,
+    "text": " have this vertical piece and then the horizontal piece like a pump. Cranes, Britain's tallest bird."
+  },
+  {
+    "start": 1528.88,
+    "end": 1534.96,
+    "text": " What are we talking? Oh nine, ten, twelve feet. That big. Are they? Why have you put them on a hill?"
+  },
+  {
+    "start": 1534.96,
+    "end": 1540.24,
+    "text": " Yeah, four feet or something. One one we did twenty something. Yeah, that is four feet."
+  },
+  {
+    "start": 1540.24,
+    "end": 1545.68,
+    "text": " But they're making a comeback across the UK which is very nice because they were"
+  },
+  {
+    "start": 1545.68,
+    "end": 1552.56,
+    "text": " hunted and eaten to extinction of the UK. Also drying out wetlands. A lot of that went on in"
+  },
+  {
+    "start": 1552.56,
+    "end": 1556.72,
+    "text": " the Middle Ages and that really damages the habitats. People at cranes, I've never heard of that"
+  },
+  {
+    "start": 1556.72,
+    "end": 1560.8,
+    "text": " people eating cranes. Apparently they're... I'm afraid to say they're absolutely delicious."
+  },
+  {
+    "start": 1560.8,
+    "end": 1567.6,
+    "text": " Well they certainly were in the 14th century when the food was a bit less nice. But no,"
+  },
+  {
+    "start": 1567.6,
+    "end": 1573.76,
+    "text": " in 1465 there was a new archbishop of York and 204 cranes were roasted to celebrate the fact"
+  },
+  {
+    "start": 1573.76,
+    "end": 1580.8,
+    "text": " at the feast. Right. And then by 1600 miraculously they were extinct. But they're back,"
+  },
+  {
+    "start": 1580.8,
+    "end": 1585.2,
+    "text": " they're back and it's partly because of random pair got blown off course as you were saying"
+  },
+  {
+    "start": 1585.2,
+    "end": 1590.08,
+    "text": " leave and they're migratory. In 1979 they got blown off course they ended up in the Norfolk"
+  },
+  {
+    "start": 1590.08,
+    "end": 1595.52,
+    "text": " Broads. And now there are maybe a couple of hundred and lots more breeding pairs which is obviously"
+  },
+  {
+    "start": 1595.52,
+    "end": 1601.44,
+    "text": " the main thing. And there's a place in Suffolk where they are breeding. An RSPB site,"
+  },
+  {
+    "start": 1601.44,
+    "end": 1606.8,
+    "text": " Royal Society for the Protection of Birds. And to help them breed the staff have cut runways"
+  },
+  {
+    "start": 1606.8,
+    "end": 1612.72,
+    "text": " for them in the grasses, in the reeds just to help them take off and land safely. With the light"
+  },
+  {
+    "start": 1612.72,
+    "end": 1616.96,
+    "text": " and everything under control and the guy with the ping pong bats. We've got five cranes,"
+  },
+  {
+    "start": 1616.96,
+    "end": 1623.2,
+    "text": " got three or five faster. Look out you got a bump into a crane. What kind of crane? A crane crane."
+  },
+  {
+    "start": 1623.2,
+    "end": 1630,
+    "text": " Small fact about the light-hearted topic of eating birds into extinction."
+  },
+  {
+    "start": 1631.12,
+    "end": 1645.76,
+    "text": " I, this week, I personally ate the stalk into extinction. No, I held with my hands the very last"
+  },
+  {
+    "start": 1645.76,
+    "end": 1654.64,
+    "text": " great ock that ever walked on this earth. Really? It was strangled in 1844 on L.A., an island in Iceland."
+  },
+  {
+    "start": 1655.44,
+    "end": 1663.44,
+    "text": " And so great orcs got really rare because they can't fly so people used to eat them. And back then,"
+  },
+  {
+    "start": 1663.44,
+    "end": 1669.52,
+    "text": " like 19th century, if an animal became really rare, it became super expensive because all the"
+  },
+  {
+    "start": 1669.52,
+    "end": 1673.92,
+    "text": " collectioners wanted one. It's amazing. I read an article about this where it's like it would"
+  },
+  {
+    "start": 1673.92,
+    "end": 1678.32,
+    "text": " become well known that there was an animal that they were about to go extinct. And what people thought"
+  },
+  {
+    "start": 1678.32,
+    "end": 1683.44,
+    "text": " was not shall we save them. They were like, this is our last chance to catch one. And so these"
+  },
+  {
+    "start": 1683.44,
+    "end": 1687.92,
+    "text": " Icelandic sailors could make a nice buck out of strength. You have to strangle them because"
+  },
+  {
+    "start": 1687.92,
+    "end": 1696.96,
+    "text": " all the ways you damaged the meat in the skin. So they know that the last great ock was killed on"
+  },
+  {
+    "start": 1696.96,
+    "end": 1702.08,
+    "text": " that island. The intestines were capped at Copenhagen and for a long time they didn't know where the"
+  },
+  {
+    "start": 1702.08,
+    "end": 1708.64,
+    "text": " skin ended up. And then they did genetic testing on the intestines and on all the 67 great orcs that"
+  },
+  {
+    "start": 1708.64,
+    "end": 1715.92,
+    "text": " are in museums and it's in Brussels. So they found out this is the very last great ock that ever lived."
+  },
+  {
+    "start": 1715.92,
+    "end": 1722.8,
+    "text": " And it's now up there. It's in a place called, well, it's our national institute for natural"
+  },
+  {
+    "start": 1722.8,
+    "end": 1732.72,
+    "text": " science. They have a huge collection of taxidermy. They have one million mammals, birds, amphibians,"
+  },
+  {
+    "start": 1732.72,
+    "end": 1737.52,
+    "text": " reptiles. And then they have, I think, 30 million if you count all the insects with it."
+  },
+  {
+    "start": 1738.24,
+    "end": 1744.08,
+    "text": " And they have this separate room for extinct species. That is extra secured because they are very"
+  },
+  {
+    "start": 1744.08,
+    "end": 1752.88,
+    "text": " valuable. I met one of the conservators there. And almost weekly, he makes the sad walk with a new"
+  },
+  {
+    "start": 1752.88,
+    "end": 1760.48,
+    "text": " species to the extinction. This is, I want to film this one day, this weekly walk of getting the"
+  },
+  {
+    "start": 1760.48,
+    "end": 1764.48,
+    "text": " phone call like, yeah, you know, that bird over there in that island. Well, extinct now put it in"
+  },
+  {
+    "start": 1764.48,
+    "end": 1770.16,
+    "text": " it, put it in the special room. And then you have to take an animal to the extinction room."
+  },
+  {
+    "start": 1770.16,
+    "end": 1773.84,
+    "text": " That's so sad. It is. You got anything funny to end the section? No."
+  },
+  {
+    "start": 1773.84,
+    "end": 1784.8,
+    "text": " Okay, it is time for fact number three. And that is Andy. My question is, a single gram"
+  },
+  {
+    "start": 1784.8,
+    "end": 1794,
+    "text": " of silica gel has an area of 800 square meters. Okay, strap it everyone. This is so much fun."
+  },
+  {
+    "start": 1794.4,
+    "end": 1798.48,
+    "text": " You're about to go on the right of your life, guys. There's a fantastic website called Scope of"
+  },
+  {
+    "start": 1798.48,
+    "end": 1802.72,
+    "text": " Work. It's really good. It's amazing essays about all sorts of stuff. You know, the silica"
+  },
+  {
+    "start": 1802.72,
+    "end": 1809.68,
+    "text": " gel, the little packets do not eat, right? They often come in one gram packets. And they're to dry"
+  },
+  {
+    "start": 1809.68,
+    "end": 1813.84,
+    "text": " things out, right? They're to dry things out. They'll be in your shoes when you buy them all. Exactly."
+  },
+  {
+    "start": 1813.84,
+    "end": 1820.72,
+    "text": " Or a bit of furniture or whatever. And that stuff in there is silica gel. And the reason it's amazing"
+  },
+  {
+    "start": 1820.72,
+    "end": 1828.56,
+    "text": " at drying things out is that when you zoom in on it, it's not like glass, which is silicon,"
+  },
+  {
+    "start": 1828.56,
+    "end": 1835.04,
+    "text": " silicon dioxide. It's much less dense than glass. Silica gel is full of these tiny, tiny, tiny"
+  },
+  {
+    "start": 1835.04,
+    "end": 1840.72,
+    "text": " pores. So they're 2.5 nanometers across, which is the width of one strand of DNA."
+  },
+  {
+    "start": 1840.72,
+    "end": 1847.6,
+    "text": " But these little balls of silica gel are so riddled with these voids, these holes everywhere,"
+  },
+  {
+    "start": 1847.6,
+    "end": 1853.44,
+    "text": " that one gram of it has an internal area of 800 square meters. So that's 4 tennis courts."
+  },
+  {
+    "start": 1853.44,
+    "end": 1860.48,
+    "text": " They're absolutely amazing at taking on their own weight and water vapor, because it all condenses"
+  },
+  {
+    "start": 1860.48,
+    "end": 1865.76,
+    "text": " in their tiny capillaries. So that's why they're so effective. And when you're a, you know,"
+  },
+  {
+    "start": 1865.76,
+    "end": 1870.88,
+    "text": " shoemaker, for example, you're trying to say they will say silica gel sellers, how big do you"
+  },
+  {
+    "start": 1870.88,
+    "end": 1875.44,
+    "text": " want to keep dry? How big an area? How big a volume? And how dry do you want it to be? What's the"
+  },
+  {
+    "start": 1875.44,
+    "end": 1880.32,
+    "text": " maximum moisture you want inside the shoebox? Yes. And they can just gear it exactly because they know"
+  },
+  {
+    "start": 1880.32,
+    "end": 1885.12,
+    "text": " how much silica gel can absorb. It is pretty amazing. I mean, we all know these packs. We've all"
+  },
+  {
+    "start": 1885.12,
+    "end": 1891.36,
+    "text": " got them in various items that we've bought. The say do not eat on it turns out that's not because"
+  },
+  {
+    "start": 1891.36,
+    "end": 1896.4,
+    "text": " as everyone assumes that they're toxic, they're not toxic, they're delicious. They're like the"
+  },
+  {
+    "start": 1896.4,
+    "end": 1902.8,
+    "text": " grains. I remember when the Archbishop of Durham came on a few years ago, they had 200,000"
+  },
+  {
+    "start": 1902.8,
+    "end": 1909.28,
+    "text": " silica gel packets. So don't eat them, but it's largely for the packet, isn't it? To say,"
+  },
+  {
+    "start": 1909.28,
+    "end": 1914.48,
+    "text": " don't eat, it's a choking hazard. It's very fun. We have to say don't eat them, because obviously"
+  },
+  {
+    "start": 1914.48,
+    "end": 1918.08,
+    "text": " we're not recommending people eat silica gel, but it doesn't seem like actual. I don't think it"
+  },
+  {
+    "start": 1918.08,
+    "end": 1925.2,
+    "text": " would be any good for you, because it would absorb all the water, sorry, it would absorb all the water,"
+  },
+  {
+    "start": 1925.2,
+    "end": 1930.56,
+    "text": " because it doesn't absorb. Absorb is like a sponge. You get the water goes inside of it."
+  },
+  {
+    "start": 1930.56,
+    "end": 1935.92,
+    "text": " Absorb means that it sticks to the outside of it. It's really weird. But the outside is on the inside,"
+  },
+  {
+    "start": 1935.92,
+    "end": 1941.36,
+    "text": " precisely. Of the silica gel. It's like a weird net thing. But anyway, so yeah, if I think if you"
+  },
+  {
+    "start": 1941.36,
+    "end": 1945.76,
+    "text": " did eat a few of them and you had swallowing problems already, I don't think it would be that good."
+  },
+  {
+    "start": 1945.76,
+    "end": 1949.84,
+    "text": " Yeah, definitely. It's not like, you're not going to, people won't find an ancient Egyptian mummy."
+  },
+  {
+    "start": 1949.84,
+    "end": 1953.84,
+    "text": " If you, if you, have accidentally swallowing a tiny bit of it, it's not like it dries you into your"
+  },
+  {
+    "start": 1953.84,
+    "end": 1960.8,
+    "text": " past. An amazing assassination method. Like the end of Indiana Jones. That's how they"
+  },
+  {
+    "start": 1960.8,
+    "end": 1966.56,
+    "text": " achieve that effect. All of these telluses have got a bit of silica gel in them apart from one."
+  },
+  {
+    "start": 1966.56,
+    "end": 1974,
+    "text": " We should say that the only potential reason you should need them is that some of the beads"
+  },
+  {
+    "start": 1974,
+    "end": 1978.88,
+    "text": " might have a little moisture indicator, like which is to indicate when they change color, like"
+  },
+  {
+    "start": 1978.88,
+    "end": 1983.36,
+    "text": " color chloride, which could be dangerous if you ate enough of it. Yeah, don't just don't eat them."
+  },
+  {
+    "start": 1983.36,
+    "end": 1987.36,
+    "text": " Don't eat them. It says don't eat them. It says don't eat them. Take your advice from the packet and"
+  },
+  {
+    "start": 1987.36,
+    "end": 1993.52,
+    "text": " I'll remind you that you'll be fine. But one thing you could do, which I don't, I see that I get"
+  },
+  {
+    "start": 1993.52,
+    "end": 1997.92,
+    "text": " scared. It's toxic, chuck it in the bin. Yes. Actually, collecting them is quite useful because they"
+  },
+  {
+    "start": 1997.92,
+    "end": 2002,
+    "text": " can be used that aren't to eat. Not to eat. No. Sorry, but we've covered some pretty nerdy"
+  },
+  {
+    "start": 2002,
+    "end": 2009.04,
+    "text": " collections. Surely there are collections. It's not for the sake. It's not like a stamp collection."
+  },
+  {
+    "start": 2009.04,
+    "end": 2015.36,
+    "text": " It is for if you drop your phone in the toilet or the bath. Instead of putting it in rice,"
+  },
+  {
+    "start": 2015.36,
+    "end": 2020.24,
+    "text": " put it in a box full of these little packs and it's going to probably act better than the rice."
+  },
+  {
+    "start": 2020.24,
+    "end": 2024.88,
+    "text": " So they have their they have their uses. Apparently they're great for defogging windshields as well."
+  },
+  {
+    "start": 2025.92,
+    "end": 2033.2,
+    "text": " Just chuck your hundred silica packs you've saved. I've heard musty smells of books. Yep. It"
+  },
+  {
+    "start": 2033.2,
+    "end": 2039.2,
+    "text": " add dissolves all of the musty smell. Rust in toolboxes. If you've got like a slightly damp"
+  },
+  {
+    "start": 2039.2,
+    "end": 2042.8,
+    "text": " garage or something, just pop a bit of that in. Allegedly, if you have a big enough packet,"
+  },
+  {
+    "start": 2042.8,
+    "end": 2048,
+    "text": " you can deodorize your laundry. But why don't we collect them and use them to lower the sea levels"
+  },
+  {
+    "start": 2048,
+    "end": 2055.52,
+    "text": " again? Oh yeah. Yeah. Yeah. The thing with these numbers is that people have no idea of how small"
+  },
+  {
+    "start": 2055.52,
+    "end": 2063.68,
+    "text": " atoms are. Yeah. It's just crazy. We can't get our head around it. I used to have an example in"
+  },
+  {
+    "start": 2063.68,
+    "end": 2069.92,
+    "text": " my show on genetics. I talked about Julius Caesar, who bled to death. Let's say he lost one liter of"
+  },
+  {
+    "start": 2069.92,
+    "end": 2074.16,
+    "text": " blood. You take one glass of water like I have in front of me. What is the chance that I have a"
+  },
+  {
+    "start": 2074.16,
+    "end": 2080.4,
+    "text": " molecule in here and H2O molecule that literally exited a wound of Caesar as you bled to death?"
+  },
+  {
+    "start": 2080.4,
+    "end": 2084.96,
+    "text": " It's about 2000 in each glass of water. Wow. Well, you definitely have that in there. Yeah."
+  },
+  {
+    "start": 2084.96,
+    "end": 2091.04,
+    "text": " That belongs to the museum, man. Yeah. Well, the thing is that there are a lot more H2O molecules in"
+  },
+  {
+    "start": 2091.04,
+    "end": 2097.68,
+    "text": " a glass of water than there are glasses of water on earth. But so how much of history is sitting in"
+  },
+  {
+    "start": 2097.68,
+    "end": 2102.4,
+    "text": " that glass right now that everything from the beginning of the planet. Dinosaur piss. Dinosaur piss."
+  },
+  {
+    "start": 2102.4,
+    "end": 2107.6,
+    "text": " Oh, a lot of dinosaur piss. That's what I always, that's what I always tell the homeopats. Like"
+  },
+  {
+    "start": 2107.6,
+    "end": 2112.72,
+    "text": " diluted dinosaur piss. Yeah. But maybe it turns out that actually dinosaur piss is the secret"
+  },
+  {
+    "start": 2112.72,
+    "end": 2117.2,
+    "text": " panacea medicine. And they've been right all this time. Who knows? Yeah. Yeah. I didn't know. I've"
+  },
+  {
+    "start": 2117.2,
+    "end": 2122.88,
+    "text": " been drinking Hitler piss. There's some Dalai Lama piss in there too and some Magandhi piss so it"
+  },
+  {
+    "start": 2122.88,
+    "end": 2129.84,
+    "text": " kind of evens out. Okay. Here's something you can do with silica gel. You can make opals out of it."
+  },
+  {
+    "start": 2129.84,
+    "end": 2139.28,
+    "text": " So the cars or the stones? The stones. All the fruits. Yeah. Now the stones. Basically opal is made of"
+  },
+  {
+    "start": 2139.28,
+    "end": 2146.88,
+    "text": " silica. But it's dehydrated and it's compressed by nature. But you can make opals in the lab by getting"
+  },
+  {
+    "start": 2146.88,
+    "end": 2152.08,
+    "text": " a load of silica gel, putting it in water, leaving it for weeks and weeks and months and months until"
+  },
+  {
+    "start": 2152.08,
+    "end": 2157.92,
+    "text": " it all sinks down and stacks itself perfectly. And then you remove all of the water and it's in a"
+  },
+  {
+    "start": 2157.92,
+    "end": 2163.92,
+    "text": " perfect lattice. And that's how you make lab made opals. That's very cool. This is the same material,"
+  },
+  {
+    "start": 2163.92,
+    "end": 2169.68,
+    "text": " basically, in a different crystal structure. When you start zooming in enough like this,"
+  },
+  {
+    "start": 2169.68,
+    "end": 2176.4,
+    "text": " everything gets a bit weird. I find like this stuff. Silica gel was first created in the early 20th"
+  },
+  {
+    "start": 2176.4,
+    "end": 2182.16,
+    "text": " century by a researcher at Johns Hopkins University called Walter Patrick and he created it out of a"
+  },
+  {
+    "start": 2182.16,
+    "end": 2190,
+    "text": " material called water glass, which as far as I can tell is water soluble glass. Okay. That's not"
+  },
+  {
+    "start": 2190,
+    "end": 2195.12,
+    "text": " very useful. What is construction? Quite hard to have a glass. That just feels like sandy water,"
+  },
+  {
+    "start": 2195.12,
+    "end": 2199.52,
+    "text": " doesn't it? I think if you pour the, if you pour, if you have a glass of this stuff and you pour some"
+  },
+  {
+    "start": 2199.52,
+    "end": 2205.6,
+    "text": " water in, it dissolves, which is a good prank. There's nothing else. But I just, I find it so bizarre"
+  },
+  {
+    "start": 2205.6,
+    "end": 2211.36,
+    "text": " that this exists and there's an amazing 1930 paper, The Story of Silica Gel, which I've read too much"
+  },
+  {
+    "start": 2211.36,
+    "end": 2217.68,
+    "text": " of, is by the main silica gel making company, basically. And it begins. I just like, people really"
+  },
+  {
+    "start": 2217.68,
+    "end": 2223.92,
+    "text": " knew how to write science in the old days. Oh, so it wasn't very dry. Oh my god."
+  },
+  {
+    "start": 2223.92,
+    "end": 2235.04,
+    "text": " Walk right into that. You said it up yourself. I know. I know. I left the rake out. The story of"
+  },
+  {
+    "start": 2235.04,
+    "end": 2239.52,
+    "text": " silica gel, just listen to the way this begins. All right. Someday, the true history of mankind will"
+  },
+  {
+    "start": 2239.52,
+    "end": 2244.64,
+    "text": " be written, a history that will treat not the struggle of man against man, but of the epic struggle"
+  },
+  {
+    "start": 2244.64,
+    "end": 2251.12,
+    "text": " of man against the forces of nature. One great force of nature is oxidation, the intimate union of"
+  },
+  {
+    "start": 2251.12,
+    "end": 2256.88,
+    "text": " oxygen and carbon producing combustion, combustion produces heat and primitive man. So this is about"
+  },
+  {
+    "start": 2256.88,
+    "end": 2261.68,
+    "text": " silica gel. It's great. Wonderful. It's so good. It's Lord of the Rings-style science. It really is,"
+  },
+  {
+    "start": 2261.68,
+    "end": 2267.12,
+    "text": " though, isn't it? Yeah. One of us uses way more silica gel than the others. Can you guess? Is it"
+  },
+  {
+    "start": 2267.12,
+    "end": 2272.24,
+    "text": " me because there's a K-pop band called silica gel? That's not the reason. But it is you. Oh, well,"
+  },
+  {
+    "start": 2272.24,
+    "end": 2278.24,
+    "text": " I think I know why. Go on. I think just through my research. Yeah. I think it's James because of his cat."
+  },
+  {
+    "start": 2278.24,
+    "end": 2287.2,
+    "text": " Yes. Okay. Oh, that's how I dry her. But that in the rain. In there with the shoes now."
+  },
+  {
+    "start": 2287.2,
+    "end": 2297.84,
+    "text": " Don't eat it. It's cat litter. Cat litter, cat litter. Yeah. I think we've been used it so world"
+  },
+  {
+    "start": 2297.84,
+    "end": 2304.88,
+    "text": " one after the invention by Walter Patrick, it was used in gas masks. Yeah. Yeah. Salt shakers"
+  },
+  {
+    "start": 2304.88,
+    "end": 2310.08,
+    "text": " used to use it in the cap. You would put little bits of it so that the salt wouldn't dry out. Clump up."
+  },
+  {
+    "start": 2310.08,
+    "end": 2313.12,
+    "text": " Yeah. So it doesn't clump up because people would put bits of rice in there, right?"
+  },
+  {
+    "start": 2313.12,
+    "end": 2317.2,
+    "text": " But you would actually put little silica inside the top of salt cap. I'm going to put some in my coffee"
+  },
+  {
+    "start": 2317.2,
+    "end": 2322.88,
+    "text": " tin when I get home. Do not eat. I'm sorry. How many times do we have to tell you? But am I allowed to"
+  },
+  {
+    "start": 2322.88,
+    "end": 2329.92,
+    "text": " drink it? You sounded like a health and safety dog like there. Do not eat. I just imagine that you"
+  },
+  {
+    "start": 2329.92,
+    "end": 2333.28,
+    "text": " put it in your coffee and you pour the water in your coffee and all the water's gone."
+  },
+  {
+    "start": 2333.28,
+    "end": 2344.48,
+    "text": " Three capsules in here. You can do that with the powder from diapers. It's a typical magic"
+  },
+  {
+    "start": 2344.48,
+    "end": 2349.44,
+    "text": " trick that you do in science shows. You take like three cups, like non-transparent cups, like"
+  },
+  {
+    "start": 2349.44,
+    "end": 2355.84,
+    "text": " paper cups. And in one of them, you put the powder that is inside a diaper, like a baby diaper."
+  },
+  {
+    "start": 2355.84,
+    "end": 2361.44,
+    "text": " You put it like one or two centimeters at the bottom and then you pour water in all three of them."
+  },
+  {
+    "start": 2361.44,
+    "end": 2365.68,
+    "text": " And if you take the one that had the powder, you can turn it around over your head and"
+  },
+  {
+    "start": 2365.68,
+    "end": 2371.36,
+    "text": " nothing will come out because it absorbs or add soaps. But it also sticks to the sides."
+  },
+  {
+    "start": 2371.36,
+    "end": 2377.76,
+    "text": " It turns a little bit white or something and I've seen people use it as fake snow bastard."
+  },
+  {
+    "start": 2377.76,
+    "end": 2380.16,
+    "text": " Really? Don't eat the yellows now though."
+  },
+  {
+    "start": 2380.16,
+    "end": 2393.76,
+    "text": " I had one more thing about these one atom layers. Oh yeah. Like graphene. So graphene is"
+  },
+  {
+    "start": 2393.76,
+    "end": 2399.68,
+    "text": " stuff that is made of one layer of carbon atoms all in hexagonal shapes."
+  },
+  {
+    "start": 2399.68,
+    "end": 2406.96,
+    "text": " It's the stuff that your pencil is made of. So you're writing with graphene. And the"
+  },
+  {
+    "start": 2406.96,
+    "end": 2412.96,
+    "text": " cheapest way that they made one layered graph, it's very difficult to make something of one atom thick."
+  },
+  {
+    "start": 2412.96,
+    "end": 2419.12,
+    "text": " The cheapest way was with sticky tape. You just put sticky tape on a pencil and you rip it off"
+  },
+  {
+    "start": 2419.12,
+    "end": 2422.4,
+    "text": " and then you put sticky tape on the sticky tape and you rip it off again and you keep going"
+  },
+  {
+    "start": 2422.4,
+    "end": 2426.88,
+    "text": " until there's just one layer left. It's got a low tech way to make to make graphene."
+  },
+  {
+    "start": 2426.88,
+    "end": 2431.76,
+    "text": " This is silly question. How do you get off the sticky tape? I do not know. I think you study it"
+  },
+  {
+    "start": 2431.76,
+    "end": 2437.2,
+    "text": " on the sticky tape. Oh okay, so there's not for production. No. No. Then you put electricity on it"
+  },
+  {
+    "start": 2437.2,
+    "end": 2445.76,
+    "text": " in there. Yeah. We've met Andre Geim. Yeah. Discovered it, I think. But he won a Nobel prize for"
+  },
+  {
+    "start": 2445.76,
+    "end": 2453.12,
+    "text": " it definitely and he also won an ignoble prize for levitating frogs. Yes. That's right. He was"
+  },
+  {
+    "start": 2453.12,
+    "end": 2457.6,
+    "text": " at his university and there was a giant magnet and he was walking past it one day. And I think"
+  },
+  {
+    "start": 2457.6,
+    "end": 2464.16,
+    "text": " on a whim, he chucked a ham sandwich and just to see if it would float and it did. So then he"
+  },
+  {
+    "start": 2464.16,
+    "end": 2469.6,
+    "text": " he misses how these people cut like putting a sausage in space, putting a ham sandwich in a magnet."
+  },
+  {
+    "start": 2469.6,
+    "end": 2474,
+    "text": " You know, these ideas, they seem stupid at the time. We do the impossible. And then 30 years from now,"
+  },
+  {
+    "start": 2474,
+    "end": 2477.36,
+    "text": " we get the call from the Nobel committee and it's like, yeah, thought that would happen"
+  },
+  {
+    "start": 2477.36,
+    "end": 2488.24,
+    "text": " later. It was the egg Nobel prize. He won for that one. The Nobel prize. The guy who does the egg"
+  },
+  {
+    "start": 2488.24,
+    "end": 2494.88,
+    "text": " Nobel prize, it sounds incredibly serious. He's the opposite of the Swedish chef. My favorite"
+  },
+  {
+    "start": 2494.88,
+    "end": 2500.8,
+    "text": " ignoble prize is also has to do with surface was mathematics. I think it was 2002. Ignoble"
+  },
+  {
+    "start": 2500.8,
+    "end": 2506.08,
+    "text": " prize in mathematics for an Indian researcher who calculated the entire surface if you were to"
+  },
+  {
+    "start": 2506.08,
+    "end": 2513.36,
+    "text": " fold an Indian elephant open. Yeah. So what is the surface? What is the surface of an Indian"
+  },
+  {
+    "start": 2513.36,
+    "end": 2517.12,
+    "text": " elephant if you were to fold it open? What do you mean by that? Yeah. Fold it open. Like you're"
+  },
+  {
+    "start": 2517.12,
+    "end": 2522.96,
+    "text": " doing cut in half and then fold. I think I think fold all the surface area. So it's very wrinkled."
+  },
+  {
+    "start": 2522.96,
+    "end": 2531.6,
+    "text": " Yeah. And it was really useful research because for especially vats when they had to dose"
+  },
+  {
+    "start": 2531.6,
+    "end": 2535.84,
+    "text": " medication for elephants, they had to measure the height of the elephant and it was very dangerous."
+  },
+  {
+    "start": 2535.84,
+    "end": 2542.96,
+    "text": " Because they're moody creatures. People get killed by them. And he could calculate it from a footprint."
+  },
+  {
+    "start": 2542.96,
+    "end": 2549.12,
+    "text": " So he could just let an elephant walk over some mud and then measure the area of the footprint"
+  },
+  {
+    "start": 2549.12,
+    "end": 2553.12,
+    "text": " and then he could say the entire surface area of the elephant is this. So the dosage of the"
+  },
+  {
+    "start": 2553.12,
+    "end": 2557.6,
+    "text": " medication is this and you don't have to get near it and get killed. Wow. Yeah. You know what they"
+  },
+  {
+    "start": 2557.6,
+    "end": 2561.92,
+    "text": " say about elephants with big feet? They're just big in general. Yeah. That's what they say. That's"
+  },
+  {
+    "start": 2561.92,
+    "end": 2574.08,
+    "text": " another saying here. You don't look like the sausage up there. Okay. It is time for our final"
+  },
+  {
+    "start": 2574.08,
+    "end": 2579.6,
+    "text": " fact of the show. And that is my fact. My fact this week is that the first female scientist to be"
+  },
+  {
+    "start": 2579.6,
+    "end": 2586.16,
+    "text": " celebrated with a marble bust at the Royal Society was never able to visit it because women weren't"
+  },
+  {
+    "start": 2586.16,
+    "end": 2593.2,
+    "text": " allowed in the building. Wow. This is kind of a nice story at the start because she's got a bust."
+  },
+  {
+    "start": 2593.2,
+    "end": 2598.08,
+    "text": " Yes. And then it tells off quite a lot of the end that. Yeah. And this was a fact that was told to"
+  },
+  {
+    "start": 2598.08,
+    "end": 2603.36,
+    "text": " me directly by a particle accelerator physicist from Australia called Dr. Susie Shihi. It's"
+  },
+  {
+    "start": 2603.36,
+    "end": 2609.2,
+    "text": " SHWHWF. Anyone wants to look her up? She's really awesome. And she was saying it's really fascinating."
+  },
+  {
+    "start": 2609.2,
+    "end": 2615.6,
+    "text": " This incredible scientist who was born 1780 called Mary Somerville was known as the Queen of"
+  },
+  {
+    "start": 2615.6,
+    "end": 2620.88,
+    "text": " Sciences in her time. She was such an influence that all the members of the society wanted to"
+  },
+  {
+    "start": 2620.88,
+    "end": 2626.16,
+    "text": " commemorate her with a bust in her own lifetime. And they did so. But because the rules of the"
+  },
+  {
+    "start": 2626.16,
+    "end": 2630.96,
+    "text": " society did not allow women into the building, she was never literally allowed to go and see it."
+  },
+  {
+    "start": 2630.96,
+    "end": 2635.36,
+    "text": " Yeah. They could have flexed the rules. But they didn't. She said it's outrageous in hindsight."
+  },
+  {
+    "start": 2635.36,
+    "end": 2642.48,
+    "text": " It's absolutely outrageous. We could have seen it. I think because in 1834 when she was still alive,"
+  },
+  {
+    "start": 2642.48,
+    "end": 2647.52,
+    "text": " there was a ship that was named after her called the Mary Somerville ship and the figurehead"
+  },
+  {
+    "start": 2647.52,
+    "end": 2653.68,
+    "text": " of that ship was copied from that bust. And not only for the ship, a lot of the leading scientists"
+  },
+  {
+    "start": 2653.68,
+    "end": 2657.6,
+    "text": " of the Royal Society loved it so much that they asked for a casting of it for their own home."
+  },
+  {
+    "start": 2657.6,
+    "end": 2661.68,
+    "text": " So she could have gone to their houses as well. Again, these are just bad reasons not to let her in."
+  },
+  {
+    "start": 2661.68,
+    "end": 2665.36,
+    "text": " I'm just, I'm just, I'm just livid about it. We're not, we're not saying if this is a good"
+  },
+  {
+    "start": 2665.36,
+    "end": 2669.84,
+    "text": " conversation, but she likely would have seen it in people's homes as the front of a ship. So it's"
+  },
+  {
+    "start": 2669.84,
+    "end": 2674.88,
+    "text": " pretty cool. It got a lot of outing. But her, her history at the Royal Society was amazing. She,"
+  },
+  {
+    "start": 2674.88,
+    "end": 2679.92,
+    "text": " I think, was she the first woman to have a paper read out, authored by her at the Royal Society,"
+  },
+  {
+    "start": 2679.92,
+    "end": 2684.4,
+    "text": " but she wasn't allowed in. Her husband had to read it out on her behalf. Yeah."
+  },
+  {
+    "start": 2684.4,
+    "end": 2689.84,
+    "text": " You know, I think he had to get things out of the library from her. And she's amazing. She wrote so"
+  },
+  {
+    "start": 2689.84,
+    "end": 2695.92,
+    "text": " many extraordinary scientific works. She was an amazing mathematician. I mean, she just achieved so"
+  },
+  {
+    "start": 2695.92,
+    "end": 2707.6,
+    "text": " much in 19th century science. She pre-discovered a planet. So in 1842, she, she wrote, she wrote her"
+  },
+  {
+    "start": 2707.6,
+    "end": 2712.88,
+    "text": " work saying, you know, there are some get ready disturbances in the movements of Uranus. All right."
+  },
+  {
+    "start": 2712.88,
+    "end": 2719.12,
+    "text": " Not giggling in the back. Thank you. Yeah. And she basically said, it looks like there might be"
+  },
+  {
+    "start": 2719.12,
+    "end": 2724.64,
+    "text": " something else that is causing these disturbances in the movements of Uranus. And she inspired an"
+  },
+  {
+    "start": 2724.64,
+    "end": 2729.12,
+    "text": " astronomer called Dronecouch Adams, lo and behold, four years later, Neptune is discovered. Yeah."
+  },
+  {
+    "start": 2729.12,
+    "end": 2735.04,
+    "text": " Right where she said it would be. It's very cool. It is very cool. She and she tutored Ada Lovelace."
+  },
+  {
+    "start": 2735.04,
+    "end": 2741.52,
+    "text": " Really? Yeah. So she was, she was really sort of a pivotal figure for science back then. But she"
+  },
+  {
+    "start": 2741.52,
+    "end": 2746,
+    "text": " was a woman, therefore, it was hard. And what was the reason that she got to science? Because"
+  },
+  {
+    "start": 2746,
+    "end": 2751.84,
+    "text": " of course, back then, you had to have time and money. Yeah. So she, when she was a child,"
+  },
+  {
+    "start": 2751.84,
+    "end": 2758.24,
+    "text": " she got into Euclid, like a lot of scientists did. So Euclid is an old Greek book where he"
+  },
+  {
+    "start": 2758.24,
+    "end": 2764.4,
+    "text": " approves lots of geometry. But it's really easy to follow. You can just pick it up from the first"
+  },
+  {
+    "start": 2764.4,
+    "end": 2768.88,
+    "text": " pages, like this is what a dot is, this is what a line is. And then the final pages, this is an"
+  },
+  {
+    "start": 2768.88,
+    "end": 2772.88,
+    "text": " incredibly complicated bit of geometry. So it's really interesting for younger people to go through."
+  },
+  {
+    "start": 2772.88,
+    "end": 2779.04,
+    "text": " So she was interested in it. And then she married her cousin. And her cousin died, but he was very"
+  },
+  {
+    "start": 2779.04,
+    "end": 2783.76,
+    "text": " rich. So she became a woman of wealth. So she could do whatever she wants. She was quite young at this"
+  },
+  {
+    "start": 2783.76,
+    "end": 2788.08,
+    "text": " age. In actual fact, she then married another cousin of hers. She had a type. She had a type."
+  },
+  {
+    "start": 2788.08,
+    "end": 2795.2,
+    "text": " But rich cousins. But she was, yeah, she was wealthy and she was interested in the sciences and so."
+  },
+  {
+    "start": 2795.2,
+    "end": 2800.08,
+    "text": " And her parents originally didn't want her to learn too much. And I think for the first seven or"
+  },
+  {
+    "start": 2800.08,
+    "end": 2803.92,
+    "text": " eight years of her life, she, she wasn't taught to read. She wasn't taught anything. And eventually,"
+  },
+  {
+    "start": 2803.92,
+    "end": 2807.84,
+    "text": " her parents thought we better teach her, you know, the basics of reading and accounting. Then she"
+  },
+  {
+    "start": 2807.84,
+    "end": 2811.92,
+    "text": " was getting too good. She was reading too much Euclid and they freaked out a bit because they thought"
+  },
+  {
+    "start": 2811.92,
+    "end": 2817.68,
+    "text": " too much education had driven her sister insane. So her sister, her sister, yeah, she had an older sister,"
+  },
+  {
+    "start": 2817.68,
+    "end": 2823.6,
+    "text": " I think. And her first husband who you mentioned, James, who was cousin number one, Samuel Grieg,"
+  },
+  {
+    "start": 2823.6,
+    "end": 2828.96,
+    "text": " was a bit of a hindrance to her. He didn't agree with women being educated, basically."
+  },
+  {
+    "start": 2828.96,
+    "end": 2833.52,
+    "text": " Happily, he died after three years, leaving her everything. So as you say, she then got the"
+  },
+  {
+    "start": 2833.52,
+    "end": 2837.76,
+    "text": " married cousin number two, who was a brilliant support all the way through her career, you know,"
+  },
+  {
+    "start": 2837.76,
+    "end": 2843.28,
+    "text": " and and, you know, hung back so she could shine as it were. It sounds like education was this"
+  },
+  {
+    "start": 2843.28,
+    "end": 2848.72,
+    "text": " green time of the children back then. Just half an hour of education today will drive you insane."
+  },
+  {
+    "start": 2848.72,
+    "end": 2854.16,
+    "text": " They used to take her candles away at night. Yeah, the parents would come in and go and we're"
+  },
+  {
+    "start": 2854.16,
+    "end": 2858.56,
+    "text": " taking your candles. You're reading too much. But this is a thing you would like James, especially."
+  },
+  {
+    "start": 2858.56,
+    "end": 2863.2,
+    "text": " I think she got into it because there was an algebra puzzle in a friend's fashion magazine."
+  },
+  {
+    "start": 2863.2,
+    "end": 2868.24,
+    "text": " And that's what brought her to Euclid. She thought that seems interesting. She begged her brother's"
+  },
+  {
+    "start": 2868.24,
+    "end": 2872.8,
+    "text": " tutor to buy her the elements of drama tree. And I would like this because I like fashion magazines."
+  },
+  {
+    "start": 2872.8,
+    "end": 2878.8,
+    "text": " That's it. You see James in public, he's never without a gratz here. I just think puzzles, I love"
+  },
+  {
+    "start": 2878.8,
+    "end": 2883.68,
+    "text": " puzzles. An era where fashion magazines printed algebra puzzles is a great era. So the raw"
+  },
+  {
+    "start": 2883.68,
+    "end": 2891.44,
+    "text": " society, they didn't allow women to be members and into the building until 1945. And it was founded"
+  },
+  {
+    "start": 2891.44,
+    "end": 2896.64,
+    "text": " around 1660. There was a moment where a woman did make it in Margaret Cavendish, who was also one of"
+  },
+  {
+    "start": 2896.64,
+    "end": 2904.96,
+    "text": " the early great female scientists of that period. She went in in May of 1667 and it caused such"
+  },
+  {
+    "start": 2904.96,
+    "end": 2911.12,
+    "text": " unuproar and scandal that no one was back until 1945 basically. She sort of got around with them or"
+  },
+  {
+    "start": 2911.12,
+    "end": 2914.56,
+    "text": " that was just this agreement. Yeah. I think she pointed out some mistakes in the experiments"
+  },
+  {
+    "start": 2914.56,
+    "end": 2919.44,
+    "text": " probably. She was really interested in science. Yeah. She was very extravagant for her age."
+  },
+  {
+    "start": 2920.24,
+    "end": 2926.64,
+    "text": " She wore men's clothes, which was seen very strange at the time. John Evelyn, who was there, said her"
+  },
+  {
+    "start": 2926.64,
+    "end": 2932.8,
+    "text": " headgear was so pretty, I never saw anything so witty. Though I was half a beard. God bless us. When I"
+  },
+  {
+    "start": 2932.8,
+    "end": 2939.28,
+    "text": " did see her, she looked like a cavalier, but that she had no beard. Some of your peeps who was there,"
+  },
+  {
+    "start": 2939.28,
+    "end": 2945.92,
+    "text": " said the duchess have been good, calmly woman, but her dress is so amtic and her department so"
+  },
+  {
+    "start": 2945.92,
+    "end": 2952,
+    "text": " on ordinary that I do not like her at all. So I think she was just a bit like she wasn't what you would"
+  },
+  {
+    "start": 2952,
+    "end": 2957.68,
+    "text": " expect to be in the Royal Society at the time and that was it. But there was actually someone who"
+  },
+  {
+    "start": 2957.68,
+    "end": 2966.64,
+    "text": " was a fellow before 1945, a woman and that was Queen Victoria. She was an honorary royal fellow"
+  },
+  {
+    "start": 2966.64,
+    "end": 2972.56,
+    "text": " because it's the Royal Society and she was Royal Society. So she was allowed to be a member but like"
+  },
+  {
+    "start": 2972.56,
+    "end": 2978.56,
+    "text": " it was a member by name really. So this the idea of women not being part of these science institutions,"
+  },
+  {
+    "start": 2978.56,
+    "end": 2984.4,
+    "text": " not just the UK, like this was this was global. There's one great example, which is that in France,"
+  },
+  {
+    "start": 2984.4,
+    "end": 2991.68,
+    "text": " in 1911, the Academy rejected Marie Curie to be a member of it. 1911 is the year that she won her"
+  },
+  {
+    "start": 2991.68,
+    "end": 2997.84,
+    "text": " second Nobel Prize in sciences. If you get three, if you get three, we'll let you in. But two,"
+  },
+  {
+    "start": 2997.84,
+    "end": 3003.36,
+    "text": " I think you're still an amateur if you only have two Nobel prizes. So weird that you have these"
+  },
+  {
+    "start": 3003.36,
+    "end": 3010.48,
+    "text": " people who are supposed to be very logical doing experiments, but still the just the having a"
+  },
+  {
+    "start": 3010.48,
+    "end": 3014.8,
+    "text": " woman there who has won two Nobel prizes still going well now. I don't I don't think it's appropriate"
+  },
+  {
+    "start": 3014.8,
+    "end": 3019.2,
+    "text": " for you to enter here. How do you how do you get your head well? Humans are very creative in"
+  },
+  {
+    "start": 3019.2,
+    "end": 3024.72,
+    "text": " rationalising these things. Yeah. There was a to come back to the UK, the Royal Society,"
+  },
+  {
+    "start": 3024.72,
+    "end": 3031.12,
+    "text": " their earliest published report by a woman in their journal was attributed to Governor Belcher's"
+  },
+  {
+    "start": 3031.12,
+    "end": 3039.04,
+    "text": " lady. That's who's written right. Yeah. And there was a hertha Erton. She was a brilliant scientist"
+  },
+  {
+    "start": 3039.04,
+    "end": 3044.96,
+    "text": " and she she improved electric lighting dramatically. I think in the early 20th century and a group of"
+  },
+  {
+    "start": 3044.96,
+    "end": 3050.08,
+    "text": " scholars proposed that we really should let in a woman into the society. And then they said,"
+  },
+  {
+    "start": 3050.08,
+    "end": 3056.32,
+    "text": " oh, sorry, you're married. Sorry, if you've been single, different matter. And hertha Erton,"
+  },
+  {
+    "start": 3056.32,
+    "end": 3062.32,
+    "text": " she was told at the age of 52, I'm sorry, you're just too old to contribute to the Royal Society."
+  },
+  {
+    "start": 3062.32,
+    "end": 3067.92,
+    "text": " While the society's president at the time was in his 80s, I mean, yeah, obviously massive"
+  },
+  {
+    "start": 3067.92,
+    "end": 3073.6,
+    "text": " double standards, but yeah. Maria Mitchell's another interesting one. So she was an astronomy"
+  },
+  {
+    "start": 3073.6,
+    "end": 3080.16,
+    "text": " person in the 19th century and she was friends with Mary Somerville. She came to over to Europe to"
+  },
+  {
+    "start": 3080.16,
+    "end": 3086.48,
+    "text": " meet her. She couldn't get into the Royal Society. They wouldn't let her in there. But when she met"
+  },
+  {
+    "start": 3086.48,
+    "end": 3092.8,
+    "text": " George Erie FRS, the British astronomer Royal, he said to her, in England, there is no astronomical"
+  },
+  {
+    "start": 3092.8,
+    "end": 3099.92,
+    "text": " public and we do not need to make science popular. Wow. So she went on around Europe and visited"
+  },
+  {
+    "start": 3099.92,
+    "end": 3105.76,
+    "text": " lots of people. And then she went to the Vatican where they had an amazing astronomy place and she"
+  },
+  {
+    "start": 3105.76,
+    "end": 3110.8,
+    "text": " wanted to go and look at their telescopes. And she was told that because she was a woman, she wasn't"
+  },
+  {
+    "start": 3110.8,
+    "end": 3115.76,
+    "text": " allowed there after dark. So she could go and look at the telescopes during the day. Oh, no."
+  },
+  {
+    "start": 3115.76,
+    "end": 3121.92,
+    "text": " But as soon as it went dark, women were not allowed in. Oh, that's true. Isn't that amazing?"
+  },
+  {
+    "start": 3121.92,
+    "end": 3129.68,
+    "text": " We've mentioned that there was the Mary Somerville ship. And that was, again,"
+  },
+  {
+    "start": 3129.68,
+    "end": 3134.32,
+    "text": " in her lifetime that ship was out there. So she would have seen the bus. It sank with all hands"
+  },
+  {
+    "start": 3134.32,
+    "end": 3139.36,
+    "text": " aboard in her lifetime. Yes. It was about 20 years and then. Yeah, exactly. There's only one other"
+  },
+  {
+    "start": 3139.36,
+    "end": 3144.24,
+    "text": " fact as far as I can tell that also had a ship named after it that we've done on today's show."
+  },
+  {
+    "start": 3144.24,
+    "end": 3151.44,
+    "text": " Little quiz question. Oh, we don't cry. It's incredible to see it plow its way across the sea bed."
+  },
+  {
+    "start": 3152.4,
+    "end": 3159.84,
+    "text": " Always in dry dark. Is the correct answer. No, it was a ship that was named after silica."
+  },
+  {
+    "start": 3159.84,
+    "end": 3167.92,
+    "text": " And it to also sank. So it's now at the bottom of the ocean somewhere, slowly getting bigger and"
+  },
+  {
+    "start": 3167.92,
+    "end": 3172.08,
+    "text": " bigger and bigger. Yeah. I wonder how much higher the ocean would be if that didn't. That's great."
+  },
+  {
+    "start": 3172.08,
+    "end": 3176.64,
+    "text": " She's on the Scottish tenor now. Mary Somerville, which is nice because she grew up in Scotland"
+  },
+  {
+    "start": 3176.64,
+    "end": 3182,
+    "text": " as of 2017. And if you look at it under UV light, there's a little Easter egg"
+  },
+  {
+    "start": 3182,
+    "end": 3186.8,
+    "text": " hidden in there. It's a lunar diagram, which is from one of her books called The Mechanism of"
+  },
+  {
+    "start": 3186.8,
+    "end": 3190.8,
+    "text": " the Heavens. That's very cool. She was very also the other thing she did. She was a real science"
+  },
+  {
+    "start": 3190.8,
+    "end": 3196.56,
+    "text": " communicator, like she did do brilliant mathematical work and science in herself. But she also"
+  },
+  {
+    "start": 3196.56,
+    "end": 3202.4,
+    "text": " wrote these incredible books, which explained and drew together science to lots of people."
+  },
+  {
+    "start": 3202.4,
+    "end": 3206.48,
+    "text": " And there's this report. You see in lots of places said that she was called the first person"
+  },
+  {
+    "start": 3206.48,
+    "end": 3210.72,
+    "text": " ever called a scientist because there was a review of one of her books by William Hewell,"
+  },
+  {
+    "start": 3210.72,
+    "end": 3215.6,
+    "text": " who coined the word scientist in review. He didn't actually call her a scientist. He just said it's"
+  },
+  {
+    "start": 3215.6,
+    "end": 3220.32,
+    "text": " crazy that we have chemists and biologists and we have bloodists and everything. But where's the word?"
+  },
+  {
+    "start": 3220.32,
+    "end": 3224,
+    "text": " Why don't we call them a scientist? And scientists at the time hated the idea of the word"
+  },
+  {
+    "start": 3224,
+    "end": 3227.68,
+    "text": " scientist. Yeah. Because they were getting very snotty about the idea of professional scientists"
+  },
+  {
+    "start": 3227.68,
+    "end": 3232.96,
+    "text": " coming and ruining a traditionally amateurs game for rich blocs. Well, as a physicist, you don't"
+  },
+  {
+    "start": 3232.96,
+    "end": 3238.4,
+    "text": " want to be in a Zoom rule with a chemist. Of course, you shouldn't be one word or an engineer."
+  },
+  {
+    "start": 3240,
+    "end": 3245.84,
+    "text": " Can I tell you a thing about her husband, her second husband? Yes. So I've got here, you can see,"
+  },
+  {
+    "start": 3245.84,
+    "end": 3252.64,
+    "text": " this is reflections by Mary Somerville. This is a first edition of her memoir. Wow. Which was printed"
+  },
+  {
+    "start": 3252.64,
+    "end": 3257.68,
+    "text": " a couple of years after she died. Look, there's the bust. You can see the Royal Society bust."
+  },
+  {
+    "start": 3257.68,
+    "end": 3265.2,
+    "text": " And it begins with a little intro from her daughter saying, this is genuinely how it begins, right?"
+  },
+  {
+    "start": 3266.72,
+    "end": 3270.64,
+    "text": " The life of a woman entirely devoted to her family duties and to scientific pursuits"
+  },
+  {
+    "start": 3270.64,
+    "end": 3276.08,
+    "text": " affords a little scope for a biography. Okay. Why have I just bought this? There are in it"
+  },
+  {
+    "start": 3276.08,
+    "end": 3282,
+    "text": " neither stirring events nor brilliant deeds. Okay. And my mother was strongly aversed to gossip and"
+  },
+  {
+    "start": 3282,
+    "end": 3286.08,
+    "text": " to revelations of private life or intimate correspondence. So nothing of the kind will be found in the"
+  },
+  {
+    "start": 3286.08,
+    "end": 3290.32,
+    "text": " following pages. Why have I bought this book? It's the silicon gel of literature as well."
+  },
+  {
+    "start": 3293.6,
+    "end": 3296.72,
+    "text": " And she's under selling it, right? Because in the first two pages, there's a shipwreck,"
+  },
+  {
+    "start": 3296.72,
+    "end": 3300.96,
+    "text": " and there's two sea baffles and the American Revolution, and her father was involved in all of that."
+  },
+  {
+    "start": 3300.96,
+    "end": 3305.52,
+    "text": " Oh, wow. And then get this. Get this about so her second husband, also her cousin, right?"
+  },
+  {
+    "start": 3305.52,
+    "end": 3312.32,
+    "text": " Yeah. Okay. I'm just going to read this. My mother was dangerously ill when Mary herself was born."
+  },
+  {
+    "start": 3312.32,
+    "end": 3318.56,
+    "text": " But my aunt was about to wean her second daughter Janet. So my aunt nursed me till a wet nurse"
+  },
+  {
+    "start": 3318.56,
+    "end": 3323.52,
+    "text": " could be found. So I was born in the house of my future husband and nursed by his mother."
+  },
+  {
+    "start": 3323.52,
+    "end": 3331.6,
+    "text": " See if they both. They both been suckled with this about the same age. They were about the same age."
+  },
+  {
+    "start": 3331.6,
+    "end": 3335.76,
+    "text": " On each tea. It might have been no wonder the daughter's like nothing to read here."
+  },
+  {
+    "start": 3335.76,
+    "end": 3343.12,
+    "text": " Maybe put it down. Just put it down. Five pages in. You're getting some double suckling stories."
+  },
+  {
+    "start": 3343.12,
+    "end": 3352.96,
+    "text": " Okay, that's it. That is all of our facts. Thank you so much for listening."
+  },
+  {
+    "start": 3352.96,
+    "end": 3356.8,
+    "text": " If you'd like to get in contact with any of us about things that we have said over the course of this"
+  },
+  {
+    "start": 3356.8,
+    "end": 3363.04,
+    "text": " podcast, we're all online. I'm on Instagram on @Streiberland. James, this morning, leave"
+  },
+  {
+    "start": 3363.04,
+    "end": 3368.72,
+    "text": " another me on LinkedIn. I did. So why not act me on LinkedIn as well? I got a request as well."
+  },
+  {
+    "start": 3368.72,
+    "end": 3375.2,
+    "text": " Yeah, I can tell you why because I'm touring with this AI show. It's so popular amongst companies"
+  },
+  {
+    "start": 3375.2,
+    "end": 3380.32,
+    "text": " that I have to go to LinkedIn to promote this stuff. It's the boomer take talk and that's where I'm"
+  },
+  {
+    "start": 3380.32,
+    "end": 3386.88,
+    "text": " on it. Is there anywhere else to find you online? Yes, on my website, leaveinschaer.com, but because"
+  },
+  {
+    "start": 3386.88,
+    "end": 3396,
+    "text": " you cannot spell this, I've also registered leavingshire.com. Andy, I'm on Instagram @AndruhunterM."
+  },
+  {
+    "start": 3396,
+    "end": 3402.16,
+    "text": " Yep, and you can get to us as a group online as well. But if you want to send us anything, podcast@qy.com,"
+  },
+  {
+    "start": 3402.16,
+    "end": 3406.88,
+    "text": " that is our email address. All the emails go to Andy. He reads them through. He collects the"
+  },
+  {
+    "start": 3406.88,
+    "end": 3412.64,
+    "text": " best of them and he brings it to our bonus episode, which is the mail bag episode called drop us a line."
+  },
+  {
+    "start": 3412.64,
+    "end": 3417.2,
+    "text": " We do it every two weeks. We absolutely love it. So if you've got a great story about something you've"
+  },
+  {
+    "start": 3417.2,
+    "end": 3422.16,
+    "text": " heard us say, send it there. Or if you have a great fact, also send it there because Andy collects"
+  },
+  {
+    "start": 3422.16,
+    "end": 3426.88,
+    "text": " those and we bring it to little fish, which is our new Monday show. Hopefully you've heard it by"
+  },
+  {
+    "start": 3426.88,
+    "end": 3433.68,
+    "text": " now. We're instead of our facts. We do all of your facts. So if you want to listen to Jule, go to patreon.com/nosuchthing"
+  },
+  {
+    "start": 3433.68,
+    "end": 3438.88,
+    "text": " as a fish. You can join up there. We've got lots of fun tears if you want to just listen to our other"
+  },
+  {
+    "start": 3438.88,
+    "end": 3443.2,
+    "text": " shows or you want to check out anything else about us. Want to go to nosuchthing as a fish.com. All of"
+  },
+  {
+    "start": 3443.2,
+    "end": 3448.88,
+    "text": " our previous episodes are up there. And if you want to see an incredible night of science, go to"
+  },
+  {
+    "start": 3448.88,
+    "end": 3453.76,
+    "text": " Leavenskirer's AI tour, which is happening in the next couple of months. Leaven, when do you start?"
+  },
+  {
+    "start": 3453.76,
+    "end": 3459.68,
+    "text": " It's March. I start, I think, the 10th of March. I will start in Leeds and then I go all over"
+  },
+  {
+    "start": 3459.68,
+    "end": 3463.84,
+    "text": " the country. It's not in a geographical, logical order. So I'm going to drive up and down all the time."
+  },
+  {
+    "start": 3463.84,
+    "end": 3471.36,
+    "text": " Amazing. Yeah. Okay. Great. So it's the last, the last three weeks of March and I, I'll end in London"
+  },
+  {
+    "start": 3471.36,
+    "end": 3476.24,
+    "text": " on March 28th. That's right. Let's do square theatre. That's very exciting. All right. Well, that is"
+  },
+  {
+    "start": 3476.24,
+    "end": 3482,
+    "text": " it for us. Thank you as well to our production team, Leigh Engley, Ethan Ruperrelia and all of the"
+  },
+  {
+    "start": 3482,
+    "end": 3486.24,
+    "text": " other fish busters who are working behind the scenes. And we're going to be back again next week"
+  },
+  {
+    "start": 3486.24,
+    "end": 3497.76,
+    "text": " with another episode. We'll see you then. Goodbye."
+  },
+  {
+    "start": 3497.76,
+    "end": 3507.76,
+    "text": " [BLANK_AUDIO]"
+  }
+]
