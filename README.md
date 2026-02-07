@@ -239,12 +239,14 @@ A launchd job is configured to run every Friday at 12:01am that:
 
 1. Runs `npm run process` to discover and process new episodes
 2. Automatically commits and pushes any new data files
-3. Logs output to `/tmp/weekly-process.log`
+3. Logs to the repo’s `logs/` directory (see below)
 
 The automation is managed by:
 
 - **Script**: `weekly-process.sh` in the project root
 - **Scheduler**: `~/Library/LaunchAgents/com.fish-facts.weekly-process.plist`
+
+**Logs**: The script always appends stdout/stderr to `logs/weekly-process.log` and `logs/weekly-process-error.log` in the repo, whether run manually or by launchd. Those files persist across reboots. When run in a terminal, output also appears in the terminal.
 
 **Note**: The plist file includes `EnvironmentVariables` with the PATH to ensure `npm` is available when launchd runs the script (since launchd doesn't inherit shell environment variables). If you recreate the plist, make sure to include the PATH with your node/npm installation directory.
 
@@ -257,9 +259,9 @@ launchctl list | grep fish-facts
 # Test run manually
 ./weekly-process.sh
 
-# View logs
-cat /tmp/weekly-process.log
-cat /tmp/weekly-process-error.log
+# View logs (always in repo logs/)
+cat logs/weekly-process.log
+cat logs/weekly-process-error.log
 
 # Stop the job
 launchctl unload ~/Library/LaunchAgents/com.fish-facts.weekly-process.plist

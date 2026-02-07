@@ -56,6 +56,7 @@ temp/
 # Logs
 *.log
 transcription.log
+logs/*.log
 
 # Batch processing files
 batch_*.jsonl

@@ -5,6 +5,12 @@
 
 cd /Volumes/datastore/repos/fish-facts-and-data
 
+# Always log to repo logs/ (works whether run by launchd or manually)
+LOG_DIR="$(pwd)/logs"
+mkdir -p "$LOG_DIR"
+exec 3>&1 4>&2
+exec 1> >(tee -a "$LOG_DIR/weekly-process.log" >&3) 2> >(tee -a "$LOG_DIR/weekly-process-error.log" >&4)
+
 # Run the npm process
 echo "$(date): Starting weekly data process..."
 npm run process
