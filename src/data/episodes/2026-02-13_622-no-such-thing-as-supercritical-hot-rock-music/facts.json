@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Guest Maddie Mote joins Dan, Andy, and James to discuss recalled cereal-box toys, a Harvard astronomer’s change of mind about galaxies thanks to Hubble, the birth and future of geothermal power, and new legal rights for stingless bees in Peru.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "So the fact is, in 1988, one particular company had to recall 30 million flutes.",
+      "presenter": "Maddie Mote",
+      "guest": true,
+      "start_time": "00:02:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that after years of publicly arguing that the Milky Way is the only galaxy in the universe, one of Harvard University's head astronomers realized that actually he was wrong and then went on to map 76,000 galaxies.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:47"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact is, the first ever geothermal power station powered five light bulbs or some sources say full, but I prefer that I'm backing it.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:30:03"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that in Peru, you can be sued by a B.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:41:29"
+    }
+  ]
+}
