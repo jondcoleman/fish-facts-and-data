@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "With guest Ray O'Leary, the team share facts about the Jeopardy theme’s massive royalties, Japan’s national phone-answering championship, Jean-Jacques Rousseau’s unusual public spanking habit, and manta/devil rays leaping and belly-flopping to communicate and court.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that a 30-second lullaby written in 1963 has made more than $70 million in royalties.",
+      "presenter": "Ray O'Leary",
+      "guest": true,
+      "start_time": "00:02:16"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that every year in Japan, thousands of receptionists apply to compete against each other in the all-Japan phone answering championship.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:12:45"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that philosopher Jean Jacques Rousseau, one of the most important figures of the Enlightenment, father of European political thought, and one of the inspirations behind the French Revolution, would run around Paris with his bum out hoping someone would spank him.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:25:18"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact is, \"Rays Flirt\" by Belly Flopping.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:34:48"
+    }
+  ]
+}
