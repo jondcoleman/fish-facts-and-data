@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "With guest Melanie Bracewell, the team explore New Zealand’s use of limited-edition “Selina Gomez” Oreos to lure invasive possums and the Victorian-era belief that twin beds protected spouses from having their vitality drained. They also delve into why daffodils are warmer inside than the surrounding air and new research suggesting chronic sinusitis might be treated with a “snot transplant.”",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that the New Zealand government is stopping invasive species by using Selina Gomez Oreos. It's specifically possum.",
+      "presenter": "Melanie Bracewell",
+      "guest": true,
+      "start_time": "00:02:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that one of the reasons married couples slept in twin beds in Victorian England is because doctors claimed that the weak sleepers stole their partner's vitality during the night.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact is, it's eight degrees warmer inside a daffodil than outside.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:26:30"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Okay, my fact this week is that you may be able to cure chronically blocked noses with a snot transplant.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:38:25"
+    }
+  ]
+}
