@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "With guest Daniel Sloss, the team covers Rome’s earliest written slam of Scotland and assorted Scottish curios, Nikola Tesla’s achievements and eccentric “pigeon girlfriend,” a Swedish Lord of the Rings translation that provoked feuds with Tolkien, and the near-unbeatable checkers legend Marion Tinsley and his battles with computers.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The first known written reference about Scotland comes from Rome and it said, \"Don't go there, it's awful.\"",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:02:25"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is, the man responsible for harnessing the power of Niagara Falls also had a pigeon girlfriend.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:08"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that the first Swedish translation of \"Lord of the Rings\" inspired two follow-up works.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:29:14"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Okay, my fact this week is that in the 1950s, the Alabama Drafts Champion proposed to the twin sister of the World Drafts Champion with the aim of creating a family of drafts geniuses.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:42:31"
+    }
+  ]
+}

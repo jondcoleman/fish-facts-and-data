@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "A Little Fish audience-facts special: the team share listener-submitted nuggets about border-guarding geese, a Kentucky Derby horse named The Winner finishing seventh, almond extract often coming from peaches, and St. John’s weather-dependent Regatta Day, with tangents on regattas, tax quirks, and more.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "And his fact is China defends its border partly with geese.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:35"
+    },
+    {
+      "fact_number": 2,
+      "fact": "And Jeff says that in the 1896 Kentucky Derby horse race, the winner came in seventh place.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:36"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Very, very little almond extract is made with actual almonds. It's made of peaches.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:05:01"
+    },
+    {
+      "fact_number": 4,
+      "fact": "So the Canadian city of St. John's in Newfoundland and Labrador has a public holiday that only happens if the weather is nice. However, if the weather isn't good enough for rowing, then the regatta has to be postponed.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:08:12"
+    }
+  ]
+}
