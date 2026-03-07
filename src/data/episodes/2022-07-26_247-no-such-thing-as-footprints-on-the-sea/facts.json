@@ -1,31 +1,31 @@
 {
   "episode_type": "standard",
-  "episode_summary": "This episode features discussions on historical exploration, Shakespearean adaptations, creative advertising techniques, and a peculiar whistling oyster from the 19th century.",
+  "episode_summary": "The team (with guest Ed Brooke-Hitching) discuss a veteran goat on Captain Cook’s voyage, Shakespeare’s King Lear spending 150 years with a happy ending, sneaky ad tricks like single-pixel “dust” to induce clicks, and a Victorian whistling oyster celebrity. Along the way they explore exploration history, censorship and rewrites, and quirky marketing stunts.",
   "facts": [
     {
       "fact_number": 1,
-      "fact": "The most experienced sailor of all on Captain Cook's First Voyage was a goat.",
-      "presenter": "Ed Brooke Hitching",
+      "fact": "So my fact is the most experienced sailor of all Captain Cook's First Voyage was a goat.",
+      "presenter": "Ed Brooke-Hitching",
       "guest": true,
       "start_time": "00:01:10"
     },
     {
       "fact_number": 2,
-      "fact": "For 150 years, Shakespeare's play The Tragedy of King Lear had a happy ending.",
+      "fact": "My fact this week is that for 150 years, Shakespeare's play The Tragedy of King Lear had a happy ending.",
       "presenter": "Anna Ptaszynski",
       "guest": false,
-      "start_time": "00:31:31"
+      "start_time": "00:11:23"
     },
     {
       "fact_number": 3,
-      "fact": "Some advertisers have started putting single pixels on mobile phone ads so you think it's dust, try to wipe it off and accidentally click on the advert.",
+      "fact": "My fact is that some advertisers have started putting single pixels on mobile phones ads so you think it's dust, try to wipe it off and accidentally click on the advert.",
       "presenter": "Andrew Hunter Murray",
       "guest": false,
       "start_time": "00:23:15"
     },
     {
       "fact_number": 4,
-      "fact": "One of the most popular celebrities in London in 1860 was an oyster who could whistle.",
+      "fact": "OK, my fact this week is that one of the most popular celebrities in London in 1860, was an oyster who could whistle.",
       "presenter": "James Harkin",
       "guest": false,
       "start_time": "00:30:11"

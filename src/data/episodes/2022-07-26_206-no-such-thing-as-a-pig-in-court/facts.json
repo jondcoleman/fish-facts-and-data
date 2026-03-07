@@ -1,31 +1,31 @@
 {
   "episode_type": "standard",
-  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a variety of intriguing topics, including the unique construction materials of the Taj Mahal, the challenges of playing golf on an ever-changing ice course in Greenland, the historical prohibition of stripes in 14th-century France, and the Victorian obsession with ferns that nearly led to the extinction of some species.",
+  "episode_summary": "The hosts discuss the Taj Mahal’s unusual building materials, a shifting ice golf championship in Greenland, medieval bans on stripes, and Victorian Britain’s fern-collecting craze. Along the way they explore construction oddities, golf quirks, historical dress codes, and the Wardian case’s global impact on botany.",
   "facts": [
     {
       "fact_number": 1,
-      "fact": "The dome of the Taj Mahal is held together with sugar, fruit juice, and egg white.",
+      "fact": "My fact this week is that the dome of the Taj Mahal is held together with sugar, fruit juice and egg white.",
       "presenter": "Anna Ptaszynski",
       "guest": false,
-      "start_time": "00:00:36"
+      "start_time": "00:00:41"
     },
     {
       "fact_number": 2,
-      "fact": "There is an ice golf championship held each year in Greenland, 600 kilometers north of the Arctic Circle, but no players hold any records on that course because it changes on a daily basis.",
+      "fact": "My fact this week is that there is an ice golf championship held each year in Greenland, 600 kilometers north of the Arctic Circle. However, because of the constantly shifting ice shelf, no players hold any records on that course because it changes on a daily basis.",
       "presenter": "Dan Schreiber",
       "guest": false,
-      "start_time": "00:38:38"
+      "start_time": "00:09:43"
     },
     {
       "fact_number": 3,
-      "fact": "In the 14th century, you could be executed in France for wearing stripes because they were the clothing of the devil.",
+      "fact": "Okay, my fact this week is that in the 14th century, you could be executed in France for wearing stripes because they were the clothing of the devil.",
       "presenter": "James Harkin",
       "guest": false,
-      "start_time": "00:19:01"
+      "start_time": "00:19:07"
     },
     {
       "fact_number": 4,
-      "fact": "Victorian Britain had such a fern mania for so many years that some species were almost completely wiped out.",
+      "fact": "My fact is that Victorian Britain had such a fern mania for so many years that some species were almost completely wiped out.",
       "presenter": "Andrew Hunter Murray",
       "guest": false,
       "start_time": "00:26:27"

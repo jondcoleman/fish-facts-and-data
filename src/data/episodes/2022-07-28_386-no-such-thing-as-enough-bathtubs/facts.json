@@ -1,34 +1,34 @@
 {
   "episode_type": "standard",
-  "episode_summary": "This episode of \"No Such Thing As A Fish\" covers a range of fascinating topics, including the mishaps during the filming of a Buster Keaton movie, a surprising discovery of uranium in Kazakhstan, the unique urination habits of frog hopper insects, and the involvement of H.G. Wells' great-grandson in the making of \"Back to the Future 2.\"",
+  "episode_summary": "The team discuss Buster Keaton’s chaotic boat props, a Kazakh stash of bomb‑grade uranium uncovered via a U.S. diplomat’s car mechanic and other nuclear near-misses, the extreme pee‑projectile and foamy lifestyles of frog hoppers, and H. G. Wells’ legacy—including his great‑grandson consulting on Back to the Future Part II.",
   "facts": [
     {
       "fact_number": 1,
-      "fact": "For the 1921 Buster Keaton film The Boat, two prop boats were built, one designed to float and one designed to sink. Unfortunately, the one meant to float persistently sank and the one designed to sink repeatedly stayed afloat.",
+      "fact": "My fact is that for the 1921 Buster Keaton film The Boat, two prop boats were built, one designed to float and one designed to sink. Unfortunately, the one meant to float persistently sank and the one designed to sink repeatedly stayed afloat.",
       "presenter": "Andrew Hunter Murray",
       "guest": false,
       "start_time": "00:02:02"
     },
     {
       "fact_number": 2,
-      "fact": "In 1993, America learned that Kazakhstan had enough uranium to make 24 nuclear bombs when a U.S. diplomat's car mechanic tried to sell it all to him.",
+      "fact": "My fact this week is that in 1993, America learned that Kazakhstan had enough uranium to make 24 nuclear bombs when a U.S. diplomat's car mechanic tried to sell it all to him.",
       "presenter": "Anna Ptaszynski",
       "guest": false,
-      "start_time": "00:37:07"
+      "start_time": "00:17:12"
     },
     {
       "fact_number": 3,
-      "fact": "Frog hopper insects can shoot their urine away from their body 20 times their own body length. If they didn't do that, they'd probably drown in their own piss.",
+      "fact": "Okay, my fact this week is that frog hopper insects can shoot their urine away from their body 20 times their own body length. If they didn't do that, they'd probably drown in their own piss.",
       "presenter": "James Harkin",
       "guest": false,
-      "start_time": "00:30:44"
+      "start_time": "00:30:47"
     },
     {
       "fact_number": 4,
-      "fact": "The person credited as official consultant about the future for the movie Back to the Future 2 is the great grandson of H. G. Wells.",
+      "fact": "My fact this week is that the person credited as official consultant about the future for the movie Back to the Future 2 is the great grandson of H. G. Wells.",
       "presenter": "Dan Schreiber",
       "guest": false,
-      "start_time": "00:39:45"
+      "start_time": "00:39:53"
     }
   ]
 }

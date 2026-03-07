@@ -51,8 +51,8 @@ async function findEpisodeByIdOrNumber(
           return { dirName: entry.name, id: metadata.id };
         }
 
-        // Match by number in title (e.g., "575" matches "575. No Such Thing...")
-        if (metadata.title.match(new RegExp(`^${search}\\.`))) {
+        // Match by number in title (e.g., "575" matches "575. No Such Thing..." or "575: No Such Thing...")
+        if (metadata.title.match(new RegExp(`^${search}[.:]`))) {
           return { dirName: entry.name, id: metadata.id };
         }
       }

@@ -1,34 +1,34 @@
 {
   "episode_type": "standard",
-  "episode_summary": "This episode covers a variety of intriguing topics, including a shooting simulator at a political conference, the unique sounds of comets, the Nobel Prize ceremony's quirky traditions, and the recovery of stolen Van Gogh paintings linked to a cocaine cartel.",
+  "episode_summary": "The gang discuss a Tory conference stall featuring a shooting simulator and other party-conference oddities, the Rosetta mission’s findings including a comet’s cat-dolphin-like hum, the rituals and mishaps of Nobel Prize ceremonies and after-parties, and the recovery of stolen Van Gogh paintings—framed via their cocaine-equivalent value. Listener-submitted news snippets add extra bizarre headlines along the way.",
   "facts": [
     {
       "fact_number": 1,
-      "fact": "One of the stalls at the Conservative Party conference this week is a grounds shooting simulator.",
+      "fact": "My fact this week is that one of these stalls at the Conservative Party conference this week is a grounds shooting simulator.",
       "presenter": "Anna Ptaszynski",
       "guest": false,
       "start_time": "00:01:21"
     },
     {
       "fact_number": 2,
-      "fact": "Comets sound like a cross between a cat and a dolphin.",
+      "fact": "My fact is that comets sound like a cross between a cat and a dolphin.",
       "presenter": "Andrew Hunter Murray",
       "guest": false,
-      "start_time": "00:22:27"
+      "start_time": "00:10:29"
     },
     {
       "fact_number": 3,
-      "fact": "Nobel Prize winners always immediately return their award so they don't lose it in the subsequent party.",
+      "fact": "OK, my fact this week is that Nobel Prize winners always immediately return their award so they don't lose it in the subsequent party.",
       "presenter": "James Harkin",
       "guest": false,
-      "start_time": "00:19:16"
+      "start_time": "00:19:20"
     },
     {
       "fact_number": 4,
-      "fact": "Two recently recovered stolen Van Gogh paintings would buy you enough cocaine that you could snort a continuous line from here to Moscow.",
+      "fact": "My fact this week is that two recently recovered stolen vangoff paintings would buy you enough cocaine that you could snort a continuous line from here to Moscow. And you'd still have a bit left over for when you get there.",
       "presenter": "Dan Schreiber",
       "guest": false,
-      "start_time": "00:25:54"
+      "start_time": "00:25:58"
     }
   ]
 }

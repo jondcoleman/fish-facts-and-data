@@ -1,31 +1,31 @@
 {
   "episode_type": "standard",
-  "episode_summary": "This episode covers a range of quirky and intriguing facts, including a glowing sheep accidentally sold to an abattoir, a kangaroo stuck in a lift during the launch of BBC 2, a Dr. Seuss film that predicted the Manhattan Project, and the peculiar timing of Google searches for 'why is my poop green.'",
+  "episode_summary": "This episode features facts about a glow-in-the-dark genetically engineered sheep that ended up at an abattoir, the farcical BBC2 launch where a kangaroo got stuck in a lift, a Dr. Seuss–penned wartime cartoon that was banned for mirroring the Manhattan Project, and the odd timing patterns of Google searches such as “why is my poop green.” The hosts spin off into bioluminescence, TV history and test cards, Dr. Seuss lore, and internet search behavior.",
   "facts": [
     {
       "fact_number": 1,
-      "fact": "Ruby, a sheep who'd been genetically engineered to glow in the dark, was accidentally sold to an abattoir.",
+      "fact": "My fact is that Ruby, a sheep who'd been genetically engineered to glow in the dark, was accidentally sold to an abattoir.",
       "presenter": "Anne Miller",
       "guest": true,
-      "start_time": "00:00:34"
+      "start_time": "00:00:40"
     },
     {
       "fact_number": 2,
-      "fact": "During the launch of BBC 2 in 1964, a live kangaroo got stuck in a lift at television centre.",
+      "fact": "My fact this week is that during the launch of BBC 2 in 1964, a live kangaroo got stuck in a lift at television centre.",
       "presenter": "Alex Bell",
       "guest": true,
-      "start_time": "00:17:13"
+      "start_time": "00:05:17"
     },
     {
       "fact_number": 3,
-      "fact": "Dr. Seuss once wrote a Warner Brothers film that was banned because it accidentally predicted the Manhattan project.",
-      "presenter": "Anna Kashinsky",
+      "fact": "This week is that Dr. Seuss once wrote a Warner Brothers film that was banned because it accidentally predicted the Manhattan project.",
+      "presenter": "Anna Ptaszynski",
       "guest": false,
       "start_time": "00:12:50"
     },
     {
       "fact_number": 4,
-      "fact": "The phrase 'why is my poop green' is Google's most commonly between 5 and 6 in the morning.",
+      "fact": "My fact is that the phrase \"why is my poop green\" is Google's most commonly between 5 and 6 in the morning.",
       "presenter": "James Harkin",
       "guest": false,
       "start_time": "00:19:20"

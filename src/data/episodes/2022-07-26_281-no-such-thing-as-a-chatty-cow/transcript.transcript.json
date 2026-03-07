@@ -1,1147 +1,3082 @@
 [
   {
     "start": 0,
-    "end": 2,
-    "text": " [Music]"
+    "end": 2.5,
+    "text": " [music]"
   },
   {
-    "start": 2,
-    "end": 4,
-    "text": " [Music]"
+    "start": 2.5,
+    "end": 13,
+    "text": " [music]"
   },
   {
-    "start": 4,
-    "end": 14,
-    "text": " [Music]"
+    "start": 13,
+    "end": 16,
+    "text": " Hello!"
   },
   {
-    "start": 14,
+    "start": 16,
     "end": 22,
-    "text": " [Applause]"
+    "text": " [applause]"
   },
   {
     "start": 22,
+    "end": 26,
+    "text": " This week coming to you live from the States of America!"
+  },
+  {
+    "start": 26,
+    "end": 29,
+    "text": " [applause]"
+  },
+  {
+    "start": 29,
+    "end": 31,
+    "text": " My name is Jay Shriver."
+  },
+  {
+    "start": 31,
+    "end": 36,
+    "text": " I am sitting here with Anna Chasinski, Andrew Hunter Murray and James Harkin."
+  },
+  {
+    "start": 36,
+    "end": 41,
+    "text": " And once again we have gathered around the microphones with our four favorite facts from the last seven days."
+  },
+  {
+    "start": 41,
+    "end": 44,
+    "text": " And in no particular order, here we go."
+  },
+  {
+    "start": 44,
     "end": 46,
-    "text": " [Applause]"
+    "text": " Starting with you, Chasinski."
   },
   {
     "start": 46,
-    "end": 56,
-    "text": " [Music]"
+    "end": 55,
+    "text": " My fact this week is that there was a Disneyland in England 569 years before there was one in America."
   },
   {
-    "start": 56,
+    "start": 55,
+    "end": 57,
+    "text": " [laughter]"
+  },
+  {
+    "start": 57,
+    "end": 59,
+    "text": " Yeah."
+  },
+  {
+    "start": 59,
+    "end": 63,
+    "text": " It must have been very bad at four actually."
+  },
+  {
+    "start": 63,
+    "end": 64,
+    "text": " [laughter]"
+  },
+  {
+    "start": 64,
     "end": 66,
-    "text": " [Music]"
+    "text": " It's just a slide and a swing."
   },
   {
     "start": 66,
-    "end": 76,
-    "text": " [Music]"
+    "end": 69,
+    "text": " It's just a field overrun with mice. Is that what you're saying?"
   },
   {
-    "start": 76,
+    "start": 69,
+    "end": 70,
+    "text": " [laughter]"
+  },
+  {
+    "start": 70,
+    "end": 75,
+    "text": " Well, it was a field, so you're half right."
+  },
+  {
+    "start": 75,
+    "end": 82,
+    "text": " This is from a book, a new book called A New Dictionary of English Field Names, which is set to be..."
+  },
+  {
+    "start": 82,
+    "end": 84,
+    "text": " That sounds like a hell of a read."
+  },
+  {
+    "start": 84,
     "end": 86,
-    "text": " [Music]"
+    "text": " [laughter]"
   },
   {
     "start": 86,
+    "end": 88,
+    "text": " Welcome to Anna Chasinski's book club."
+  },
+  {
+    "start": 88,
     "end": 90,
-    "text": " [Applause]"
+    "text": " [laughter]"
   },
   {
     "start": 90,
+    "end": 92,
+    "text": " Membership one."
+  },
+  {
+    "start": 92,
+    "end": 97,
+    "text": " No, it sounds great. And The Telegraph actually did a review of it, this obscure book."
+  },
+  {
+    "start": 97,
+    "end": 106,
+    "text": " And basically it's this guy who's gone back and traced 45,000 field names from various things like old tithe records and things like that."
+  },
+  {
+    "start": 106,
+    "end": 110,
+    "text": " He's called Paul Cavill and he's warning that..."
+  },
+  {
+    "start": 110,
+    "end": 112,
+    "text": " And he's single ladies."
+  },
+  {
+    "start": 112,
     "end": 118,
-    "text": " [Music]"
+    "text": " [laughter]"
   },
   {
     "start": 118,
-    "end": 128,
-    "text": " [Applause]"
+    "end": 120,
+    "text": " He's out there playing the field."
   },
   {
-    "start": 128,
-    "end": 138,
-    "text": " [Music]"
+    "start": 120,
+    "end": 127,
+    "text": " [laughter and applause]"
   },
   {
-    "start": 138,
-    "end": 148,
-    "text": " [Applause]"
+    "start": 127,
+    "end": 130,
+    "text": " I'm not having this because I'm a huge fan of Paul's."
   },
   {
-    "start": 148,
-    "end": 158,
-    "text": " [Music]"
+    "start": 130,
+    "end": 136,
+    "text": " He's warned that these field names could be dying out. No one seems to be naming their fields anymore. Can you believe it?"
   },
   {
-    "start": 158,
-    "end": 168,
-    "text": " [Music]"
+    "start": 136,
+    "end": 139,
+    "text": " Oh no! Call the Avengers."
   },
   {
-    "start": 168,
-    "end": 178,
-    "text": " [Music]"
+    "start": 139,
+    "end": 142,
+    "text": " [laughter]"
   },
   {
-    "start": 178,
+    "start": 142,
+    "end": 147,
+    "text": " And yet they used to. So it's a really important thing. I'm actually surprised farmers don't still name their fields."
+  },
+  {
+    "start": 147,
+    "end": 152,
+    "text": " Because the reason you do it is if you've got to say like, oh, if you're like, you know, where's the collie?"
+  },
+  {
+    "start": 152,
+    "end": 159,
+    "text": " Oh, I left him in, you know, that field that's like three along, five up. It's much easier to say, oh, I left him in Disneyland."
+  },
+  {
+    "start": 159,
+    "end": 167,
+    "text": " And so this one was called Disneyland because this was in 1386 he found the record, as in the record was in 1386."
+  },
+  {
+    "start": 167,
+    "end": 169,
+    "text": " He hasn't been writing the book for that long."
+  },
+  {
+    "start": 169,
+    "end": 176,
+    "text": " And it was the Disney family. And they were called that because they were originally from a place called Disney in France."
+  },
+  {
+    "start": 176,
+    "end": 181,
+    "text": " And so that was why it was called that. I guess they had one field. But yeah, they all used to be named."
+  },
+  {
+    "start": 181,
     "end": 188,
-    "text": " [Music]"
+    "text": " There are still quite a lot of fields which do have names. So there is a UK field named Database with over 200,000 fields."
   },
   {
     "start": 188,
-    "end": 198,
-    "text": " [Music]"
+    "end": 191,
+    "text": " And do you know what the most popular name is?"
   },
   {
-    "start": 198,
-    "end": 208,
-    "text": " [Music]"
+    "start": 191,
+    "end": 192,
+    "text": " What?"
   },
   {
-    "start": 208,
-    "end": 218,
-    "text": " [Music]"
+    "start": 192,
+    "end": 193,
+    "text": " Big Field."
   },
   {
-    "start": 218,
-    "end": 228,
-    "text": " [Music]"
+    "start": 193,
+    "end": 205,
+    "text": " Yeah, I saw people online. So on Twitter, they were sort of asked, does anyone know of field names that might not be logged or just is there one near you?"
   },
   {
-    "start": 228,
-    "end": 238,
-    "text": " [Music]"
+    "start": 205,
+    "end": 212,
+    "text": " And a lot of people responded. My favorite one was from a guy called Tim who said, we have a first Humpty and a second Humpty."
   },
   {
-    "start": 238,
-    "end": 248,
-    "text": " [Music]"
+    "start": 212,
+    "end": 217,
+    "text": " So named as they're both Humpty and one is in front of the other."
   },
   {
-    "start": 248,
-    "end": 258,
-    "text": " [Music]"
+    "start": 217,
+    "end": 222,
+    "text": " There was Sodom Field and Gomorrah Close. Those are field names."
   },
   {
-    "start": 258,
-    "end": 268,
-    "text": " [Music]"
+    "start": 222,
+    "end": 230,
+    "text": " That's quite creative. So they did seem to be quite creative sometimes. They had, well, they had ketchup piece in Northamptonshire."
   },
   {
-    "start": 268,
-    "end": 278,
-    "text": " [Music]"
+    "start": 230,
+    "end": 235,
+    "text": " And that actually was a mushroom field because ketchup, the original ketchup was made of mushrooms."
   },
   {
-    "start": 278,
-    "end": 288,
-    "text": " [Music]"
+    "start": 235,
+    "end": 240,
+    "text": " So the first ever ketchup was made in 1727 out of mushrooms. That's ketchup, please."
   },
   {
-    "start": 288,
-    "end": 298,
-    "text": " [Music]"
+    "start": 240,
+    "end": 245,
+    "text": " There was apparently there was a field called Please Your Honor. And this was in Essex."
   },
   {
-    "start": 298,
-    "end": 308,
-    "text": " [Music]"
+    "start": 245,
+    "end": 251,
+    "text": " And it's thought apparently to be the place where the Lord of the Manor arranged to meet local girls."
   },
   {
-    "start": 308,
-    "end": 328,
-    "text": " [Music]"
+    "start": 251,
+    "end": 256,
+    "text": " And you don't want to think too much about the connection there."
   },
   {
-    "start": 328,
-    "end": 338,
-    "text": " [Music]"
+    "start": 256,
+    "end": 261,
+    "text": " And actually for the locals, it was useful to know these names, right?"
   },
   {
-    "start": 338,
-    "end": 340,
-    "text": " [Applause]"
+    "start": 261,
+    "end": 267,
+    "text": " Because if you had a field with the word die-core sitch in it, that meant that you knew that there was water in it."
   },
   {
-    "start": 340,
-    "end": 348,
-    "text": " [Music]"
+    "start": 267,
+    "end": 275,
+    "text": " So you knew it was wet and boggy. And if it was called Yes Your Honor or whatever, you need to leave it alone on Friday nights."
   },
   {
-    "start": 348,
-    "end": 358,
-    "text": " [Music]"
+    "start": 275,
+    "end": 279,
+    "text": " But it meant that you knew something about these fields before you went there."
   },
   {
-    "start": 358,
-    "end": 368,
-    "text": " [Music]"
+    "start": 279,
+    "end": 289,
+    "text": " Yeah, yeah. Like if they were a weird shape. There was, you got things like footed stocking and ladies' gown tail if they were shaped like what those things."
   },
   {
-    "start": 368,
-    "end": 378,
-    "text": " [Music]"
+    "start": 289,
+    "end": 293,
+    "text": " Okay. Could you get in trouble if you sold your field with a misleading name?"
   },
   {
-    "start": 378,
-    "end": 388,
-    "text": " [Music]"
+    "start": 293,
+    "end": 299,
+    "text": " If I had a tiny field and I called it Big Field, could I be sold for a mis-selling?"
   },
   {
-    "start": 388,
-    "end": 398,
-    "text": " [Music]"
+    "start": 299,
+    "end": 305,
+    "text": " No, because I think only the biggest idiot purchaser is going to buy a field off you without coming and checking it out."
   },
   {
-    "start": 398,
-    "end": 408,
-    "text": " [Music]"
+    "start": 305,
+    "end": 311,
+    "text": " Not even asking for the measurements. No, it's called Big Field. I'm not telling you anymore."
   },
   {
-    "start": 408,
+    "start": 311,
+    "end": 313,
+    "text": " What was the book called, then?"
+  },
+  {
+    "start": 313,
+    "end": 316,
+    "text": " The book is called A New Dictionary of English Field Names."
+  },
+  {
+    "start": 316,
+    "end": 322,
+    "text": " So that's the new one, because there is a book called English Field Names, A Dictionary, which is a previous book of English field names."
+  },
+  {
+    "start": 322,
+    "end": 327,
+    "text": " And that is by a man called John Field."
+  },
+  {
+    "start": 327,
+    "end": 331,
+    "text": " No way."
+  },
+  {
+    "start": 331,
+    "end": 339,
+    "text": " And it's not just a list of names in his own family."
+  },
+  {
+    "start": 339,
+    "end": 341,
+    "text": " That is amazing."
+  },
+  {
+    "start": 341,
+    "end": 343,
+    "text": " We need to move on to our next fact very shortly."
+  },
+  {
+    "start": 343,
+    "end": 346,
+    "text": " Oh my goodness. Then we should do some Disneyland stuff, I guess."
+  },
+  {
+    "start": 346,
+    "end": 347,
+    "text": " Sure."
+  },
+  {
+    "start": 347,
+    "end": 357,
+    "text": " Or some Disney stuff. So between 1993 and 2010, Miramax was owned by Disney, which means technically these are Disney films."
+  },
+  {
+    "start": 357,
+    "end": 366,
+    "text": " Pulp Fiction, Bridget Jones' Diary, Scream, Gangs of New York and Mansfield Park."
+  },
+  {
+    "start": 366,
+    "end": 372,
+    "text": " Disneyland actually has a special kind of invisible green."
+  },
+  {
+    "start": 372,
+    "end": 377,
+    "text": " I don't think you can be invisible and green, can you? Or can you?"
+  },
+  {
+    "start": 377,
+    "end": 387,
+    "text": " No, not really. But it was designed to conceal the less glam bits, because obviously the park needs to have unsexy stuff like bins and fences and things."
+  },
+  {
+    "start": 387,
+    "end": 390,
+    "text": " And it's not part of the cool Disney fantasy, is it?"
+  },
+  {
+    "start": 390,
+    "end": 396,
+    "text": " So the designers came up with a particular kind of green, which you don't really notice."
+  },
+  {
+    "start": 396,
+    "end": 399,
+    "text": " And they call it no-see-um green, because you can't really see it."
+  },
+  {
+    "start": 399,
+    "end": 406,
+    "text": " Although I don't know what happens if you're looking for a bin in Disneyland. It must be quite irritating."
+  },
+  {
+    "start": 406,
+    "end": 412,
+    "text": " So there's a thing about fields, which is that they have all... not all."
+  },
+  {
+    "start": 412,
     "end": 418,
-    "text": " [Music]"
+    "text": " There's a thing about fields, which is that a lot of them have changed shape in the last 40 years."
   },
   {
     "start": 418,
-    "end": 428,
-    "text": " [Music]"
+    "end": 422,
+    "text": " Really? So they've gone from ladies gown to undone stocking or...?"
   },
   {
-    "start": 428,
+    "start": 422,
+    "end": 426,
+    "text": " Exactly, yeah. Well, they've gone from rectangular to circular."
+  },
+  {
+    "start": 426,
+    "end": 427,
+    "text": " Really?"
+  },
+  {
+    "start": 427,
+    "end": 432,
+    "text": " If you look at the farms in America from above, they are circular. All the fields are circular."
+  },
+  {
+    "start": 432,
+    "end": 434,
+    "text": " Crop circles?"
+  },
+  {
+    "start": 434,
+    "end": 437,
+    "text": " No. No, no, no."
+  },
+  {
+    "start": 437,
     "end": 438,
-    "text": " [Music]"
+    "text": " It's the aliens."
   },
   {
     "start": 438,
-    "end": 448,
-    "text": " [Music]"
+    "end": 439,
+    "text": " It's not the aliens."
   },
   {
-    "start": 448,
-    "end": 458,
-    "text": " [Music]"
+    "start": 439,
+    "end": 440,
+    "text": " They're here."
   },
   {
-    "start": 458,
-    "end": 468,
-    "text": " [Music]"
+    "start": 440,
+    "end": 442,
+    "text": " No, we know what it is."
   },
   {
-    "start": 468,
-    "end": 478,
-    "text": " [Music]"
+    "start": 442,
+    "end": 447,
+    "text": " It's circular fields because it's better for irrigation, so it's a more effective way."
   },
   {
-    "start": 478,
-    "end": 488,
-    "text": " [Music]"
+    "start": 447,
+    "end": 449,
+    "text": " You can have a well almost in the middle of the field, you know, and it..."
   },
   {
-    "start": 488,
+    "start": 449,
+    "end": 455,
+    "text": " Yeah, you have one of these kind of squirting fountains that goes in a circle right there, so it only hits."
+  },
+  {
+    "start": 455,
+    "end": 459,
+    "text": " Yeah, it's really efficient. And we know the guy who invented it, but it's creating a massive problem"
+  },
+  {
+    "start": 459,
+    "end": 466,
+    "text": " because it's sucking up all America's water because it's so good that it means that farmers then plant more intensively"
+  },
+  {
+    "start": 466,
+    "end": 470,
+    "text": " and they grow crops which require more water because they've got this more efficient system."
+  },
+  {
+    "start": 470,
+    "end": 476,
+    "text": " So there's a thing called the Ogallala Aquifer, which is under the Great Plains in America."
+  },
+  {
+    "start": 476,
+    "end": 484,
+    "text": " It's a huge underwater pond, basically, which covers 174,000 square miles."
+  },
+  {
+    "start": 484,
+    "end": 485,
+    "text": " Wow."
+  },
+  {
+    "start": 485,
+    "end": 492,
+    "text": " It's one pond for a given value of pond, and it's being emptied really rapidly,"
+  },
+  {
+    "start": 492,
+    "end": 496,
+    "text": " and it's going to take hundreds of thousands of years of rain to replace it, so there's a problem."
+  },
+  {
+    "start": 496,
     "end": 498,
-    "text": " [Music]"
+    "text": " Oh, so they shouldn't have been so good, basically."
   },
   {
     "start": 498,
+    "end": 499,
+    "text": " Yeah."
+  },
+  {
+    "start": 499,
+    "end": 501,
+    "text": " Because they are good farmers, the Americans."
+  },
+  {
+    "start": 501,
+    "end": 507,
+    "text": " So they're the world's number one exporter of food by value, which is kind of unsurprising."
+  },
+  {
+    "start": 507,
     "end": 508,
-    "text": " [Music]"
+    "text": " They're a big country."
   },
   {
     "start": 508,
+    "end": 510,
+    "text": " Do you guys know what number two is?"
+  },
+  {
+    "start": 510,
+    "end": 511,
+    "text": " Netherlands."
+  },
+  {
+    "start": 511,
+    "end": 513,
+    "text": " These guys know."
+  },
+  {
+    "start": 513,
+    "end": 515,
+    "text": " Is it Belgium?"
+  },
+  {
+    "start": 515,
+    "end": 517,
+    "text": " It's Belgium, yeah."
+  },
+  {
+    "start": 517,
     "end": 518,
-    "text": " [Music]"
+    "text": " Denmark."
   },
   {
     "start": 518,
-    "end": 528,
-    "text": " [Music]"
+    "end": 519,
+    "text": " Denmark."
   },
   {
-    "start": 528,
-    "end": 538,
-    "text": " [Applause]"
+    "start": 519,
+    "end": 520,
+    "text": " It must be Denmark."
   },
   {
-    "start": 538,
+    "start": 520,
+    "end": 521,
+    "text": " They're number three."
+  },
+  {
+    "start": 521,
+    "end": 523,
+    "text": " The poor old Dutch can't grow a thing, though."
+  },
+  {
+    "start": 523,
+    "end": 524,
+    "text": " It's embarrassing."
+  },
+  {
+    "start": 524,
+    "end": 526,
+    "text": " No, it is the Netherlands."
+  },
+  {
+    "start": 526,
+    "end": 530,
+    "text": " And this is kind of unbelievable."
+  },
+  {
+    "start": 530,
+    "end": 532,
+    "text": " How are you so good at farming?"
+  },
+  {
+    "start": 532,
+    "end": 537,
+    "text": " So the number, by amount, the world number two exporter of food by value,"
+  },
+  {
+    "start": 537,
+    "end": 542,
+    "text": " and they have 270 times smaller land mass than the U.S."
+  },
+  {
+    "start": 542,
+    "end": 547,
+    "text": " So apparently there have just been all these incredible farming innovations over the last sort of 20 years."
+  },
+  {
+    "start": 547,
+    "end": 552,
+    "text": " So there are greenhouses that are up to 175 acres big, one greenhouse."
+  },
+  {
+    "start": 552,
+    "end": 557,
+    "text": " I think all the greenhouses in the Netherlands take up the size of Manhattan, or a bit bigger than Manhattan."
+  },
+  {
+    "start": 557,
     "end": 558,
-    "text": " [Music]"
+    "text": " Wow."
   },
   {
     "start": 558,
-    "end": 568,
-    "text": " [Music]"
+    "end": 559,
+    "text": " And yeah."
   },
   {
-    "start": 568,
-    "end": 578,
-    "text": " [Music]"
+    "start": 559,
+    "end": 560,
+    "text": " Wow."
   },
   {
-    "start": 578,
-    "end": 582,
-    "text": " [Music]"
+    "start": 560,
+    "end": 565,
+    "text": " So here we were making fun of that field book, and yet everyone in the audience is like, \"Give me a copy.\""
   },
   {
-    "start": 582,
+    "start": 565,
+    "end": 567,
+    "text": " It's amazing."
+  },
+  {
+    "start": 567,
+    "end": 572,
+    "text": " The Netherlands is so good at farming, there is now a black market in cow poo."
+  },
+  {
+    "start": 572,
+    "end": 576,
+    "text": " It's really more of a ground market, isn't it?"
+  },
+  {
+    "start": 576,
+    "end": 583,
+    "text": " It's because there's loads of -- the Netherlands as a country produces 76 billion kilos of manure every year."
+  },
+  {
+    "start": 583,
+    "end": 584,
+    "text": " Okay."
+  },
+  {
+    "start": 584,
     "end": 586,
-    "text": " [Music]"
+    "text": " And who's buying it?"
   },
   {
     "start": 586,
-    "end": 596,
-    "text": " [Music]"
+    "end": 593,
+    "text": " Well, you're only legally allowed to produce a certain amount because it's quite a pollutive stuff if it's not treated right."
   },
   {
-    "start": 596,
+    "start": 593,
+    "end": 599,
+    "text": " So either there is manure fraud where people trade it secretly, or they spread it on their land at night to avoid being spotted."
+  },
+  {
+    "start": 599,
+    "end": 600,
+    "text": " Wow."
+  },
+  {
+    "start": 600,
+    "end": 601,
+    "text": " Yeah."
+  },
+  {
+    "start": 601,
+    "end": 604,
+    "text": " This is obviously a good fertilizer, but you're not allowed enough -- too much of it."
+  },
+  {
+    "start": 604,
+    "end": 605,
+    "text": " Oh, really?"
+  },
+  {
+    "start": 605,
     "end": 606,
-    "text": " [Music]"
+    "text": " That's interesting."
   },
   {
     "start": 606,
+    "end": 608,
+    "text": " Any poo smugglers in tonight?"
+  },
+  {
+    "start": 608,
+    "end": 611,
+    "text": " That does sound like a euphemism for something, doesn't it?"
+  },
+  {
+    "start": 611,
     "end": 616,
-    "text": " [Music]"
+    "text": " I don't know about that."
   },
   {
     "start": 616,
+    "end": 619,
+    "text": " It actually sounds like quite a cute name for your baby or something."
+  },
+  {
+    "start": 619,
+    "end": 620,
+    "text": " Do you call your baby that?"
+  },
+  {
+    "start": 620,
+    "end": 621,
+    "text": " I feel like you could."
+  },
+  {
+    "start": 621,
+    "end": 622,
+    "text": " Poo smuggler?"
+  },
+  {
+    "start": 622,
+    "end": 623,
+    "text": " You could call your baby a poo smuggler."
+  },
+  {
+    "start": 623,
     "end": 626,
-    "text": " [Music]"
+    "text": " That's what they're doing all the time, isn't it?"
   },
   {
     "start": 626,
-    "end": 636,
-    "text": " [Music]"
+    "end": 627,
+    "text": " They're not smuggling poo."
   },
   {
-    "start": 636,
-    "end": 646,
-    "text": " [Music]"
+    "start": 627,
+    "end": 630,
+    "text": " Yeah, and they're in their bottom."
   },
   {
-    "start": 646,
+    "start": 630,
+    "end": 634,
+    "text": " That's why you smuggle things."
+  },
+  {
+    "start": 634,
+    "end": 642,
+    "text": " How often at an airport do the people go up and go, \"Aha!\""
+  },
+  {
+    "start": 642,
+    "end": 649,
+    "text": " What's this then, sir?"
+  },
+  {
+    "start": 649,
+    "end": 653,
+    "text": " It is time for fact number two, and that is my fact."
+  },
+  {
+    "start": 653,
+    "end": 660,
+    "text": " My fact this week is that every year in Japan, there is an annual anti-Valentine march held"
+  },
+  {
+    "start": 660,
+    "end": 665,
+    "text": " by a group known as the Revolutionary Alliance of Unpopular Men."
+  },
+  {
+    "start": 665,
     "end": 666,
-    "text": " [Music]"
+    "text": " Wow."
   },
   {
     "start": 666,
+    "end": 669,
+    "text": " Are they recruiting?"
+  },
+  {
+    "start": 669,
+    "end": 674,
+    "text": " I don't think they'd let you in on the --"
+  },
+  {
+    "start": 674,
     "end": 676,
-    "text": " [Music]"
+    "text": " So yeah, this is an annual thing that happens in Japan."
   },
   {
     "start": 676,
-    "end": 686,
-    "text": " [Music]"
+    "end": 682,
+    "text": " These men are sick of what they say is \"romantic capitalism,\" and of course they're single,"
   },
   {
-    "start": 686,
-    "end": 696,
-    "text": " [Music]"
+    "start": 682,
+    "end": 687,
+    "text": " and they go on street marches to sort of say this is too much."
   },
   {
-    "start": 696,
-    "end": 706,
-    "text": " [Music]"
+    "start": 687,
+    "end": 694,
+    "text": " It's currently being led by a guy called Takayuki Akimoto, and he likes to have placards, and"
   },
   {
-    "start": 706,
-    "end": 716,
-    "text": " [Music]"
+    "start": 694,
+    "end": 695,
+    "text": " he likes to take to the streets."
   },
   {
-    "start": 716,
+    "start": 695,
+    "end": 700,
+    "text": " They only do it once a year, but obviously they like to have anything that has groups"
+  },
+  {
+    "start": 700,
+    "end": 704,
+    "text": " of people together to be protested against, so Christmas is a big thing as well."
+  },
+  {
+    "start": 704,
+    "end": 710,
+    "text": " They protest an annual Christmas march, but unfortunately in 2018 they couldn't get the"
+  },
+  {
+    "start": 710,
+    "end": 714,
+    "text": " permit for the park they wanted to do it in, so they had to do it indoors in a room instead,"
+  },
+  {
+    "start": 714,
+    "end": 717,
+    "text": " so no one really saw that one."
+  },
+  {
+    "start": 717,
+    "end": 721,
+    "text": " And they had to clear all the video games out of the way."
+  },
+  {
+    "start": 721,
+    "end": 724,
+    "text": " I mean, apparently there aren't many of them, are there?"
+  },
+  {
+    "start": 724,
+    "end": 725,
+    "text": " No."
+  },
+  {
+    "start": 725,
     "end": 726,
-    "text": " [Music]"
+    "text": " It's a handful."
   },
   {
     "start": 726,
+    "end": 727,
+    "text": " It's double figures."
+  },
+  {
+    "start": 727,
+    "end": 728,
+    "text": " Yes."
+  },
+  {
+    "start": 728,
+    "end": 729,
+    "text": " Yeah."
+  },
+  {
+    "start": 729,
+    "end": 730,
+    "text": " I hope it's double figures."
+  },
+  {
+    "start": 730,
+    "end": 731,
+    "text": " Yeah."
+  },
+  {
+    "start": 731,
+    "end": 732,
+    "text": " It's quite controversial in Japan, isn't it?"
+  },
+  {
+    "start": 732,
     "end": 736,
-    "text": " [Music]"
+    "text": " The whole Valentine's Day thing, people have really gone off it, and it's because this"
   },
   {
     "start": 736,
-    "end": 746,
-    "text": " [Music]"
+    "end": 740,
+    "text": " is something we've briefly mentioned before, but actually the 14th of February in places"
   },
   {
-    "start": 746,
-    "end": 756,
-    "text": " [Music]"
+    "start": 740,
+    "end": 745,
+    "text": " like Japan, Korea, Thailand, is just a day when women are supposed to give presents to"
   },
   {
-    "start": 756,
+    "start": 745,
+    "end": 749,
+    "text": " men, and then exactly a month later men are supposed to give presents to women."
+  },
+  {
+    "start": 749,
+    "end": 753,
+    "text": " But apparently it's really an obligation, and so women are getting really pissed off"
+  },
+  {
+    "start": 753,
+    "end": 757,
+    "text": " because they feel like on the 14th of February they have to give chocolates, for instance,"
+  },
+  {
+    "start": 757,
+    "end": 759,
+    "text": " to all of their male colleagues."
+  },
+  {
+    "start": 759,
+    "end": 763,
+    "text": " And so women are saying, you know, I'm spending hundreds and hundreds of pounds every year"
+  },
+  {
+    "start": 763,
     "end": 766,
-    "text": " [Music]"
+    "text": " on colleagues I don't know or like, just giving them chocolates."
   },
   {
     "start": 766,
-    "end": 776,
-    "text": " [Music]"
+    "end": 770,
+    "text": " And then on the 14th of March the men have to do it three or two times more, so then"
   },
   {
-    "start": 776,
+    "start": 770,
+    "end": 772,
+    "text": " they have to spend even more."
+  },
+  {
+    "start": 772,
+    "end": 774,
+    "text": " It sounds like it's got kind of out of control."
+  },
+  {
+    "start": 774,
+    "end": 778,
+    "text": " Yeah, but I think, you know, it's not that bad, especially for countries that export"
+  },
+  {
+    "start": 778,
+    "end": 780,
+    "text": " vast amounts of flowers."
+  },
+  {
+    "start": 780,
+    "end": 781,
+    "text": " Yeah."
+  },
+  {
+    "start": 781,
     "end": 786,
-    "text": " [Music]"
+    "text": " But there's this whole vocabulary of the chocolate."
   },
   {
     "start": 786,
-    "end": 796,
-    "text": " [Music]"
+    "end": 791,
+    "text": " So this is called giri-choco, or obligation chocolate, basically."
   },
   {
-    "start": 796,
-    "end": 806,
-    "text": " [Music]"
+    "start": 791,
+    "end": 793,
+    "text": " Obligation chocolate."
   },
   {
-    "start": 806,
+    "start": 793,
+    "end": 798,
+    "text": " Nothing says I love you like obligation chocolate."
+  },
+  {
+    "start": 798,
+    "end": 804,
+    "text": " And there's also honmei, which is chocolate for your true love, and there are now tomo-choco,"
+  },
+  {
+    "start": 804,
+    "end": 810,
+    "text": " which is friend chocolates, and the best kind, jiko-choco, which is chocolate given to yourself"
+  },
+  {
+    "start": 810,
+    "end": 813,
+    "text": " as an act of self-love."
+  },
+  {
+    "start": 813,
+    "end": 814,
+    "text": " Wow."
+  },
+  {
+    "start": 814,
     "end": 816,
-    "text": " [Music]"
+    "text": " That's quite nice."
   },
   {
     "start": 816,
+    "end": 818,
+    "text": " When you say self-love, you just mean..."
+  },
+  {
+    "start": 818,
+    "end": 823,
+    "text": " I just mean no funny business."
+  },
+  {
+    "start": 823,
     "end": 826,
-    "text": " [Music]"
+    "text": " That's what it says on the card when you get your chocolates, you sense yourself."
   },
   {
     "start": 826,
-    "end": 836,
-    "text": " [Music]"
+    "end": 828,
+    "text": " All right, no funny business, man."
   },
   {
-    "start": 836,
-    "end": 846,
-    "text": " [Music]"
+    "start": 828,
+    "end": 833,
+    "text": " You know, in China they also have a group that is like the Alliance of Unpopular Men"
   },
   {
-    "start": 846,
+    "start": 833,
+    "end": 834,
+    "text": " in Japan."
+  },
+  {
+    "start": 834,
+    "end": 841,
+    "text": " They have single people who try to pull pranks on Valentine Day in order to stop people having"
+  },
+  {
+    "start": 841,
+    "end": 842,
+    "text": " a good night."
+  },
+  {
+    "start": 842,
+    "end": 848,
+    "text": " So there was one case in 2004 where a group of single people in Shanghai purchased every"
+  },
+  {
+    "start": 848,
+    "end": 852,
+    "text": " single odd-numbered seat for a cinema."
+  },
+  {
+    "start": 852,
     "end": 856,
-    "text": " [Music]"
+    "text": " That is strong, isn't it?"
   },
   {
     "start": 856,
-    "end": 866,
-    "text": " [Music]"
+    "end": 857,
+    "text": " That's very good."
   },
   {
-    "start": 866,
-    "end": 876,
-    "text": " [Music]"
+    "start": 857,
+    "end": 858,
+    "text": " That's really good."
   },
   {
-    "start": 876,
-    "end": 886,
-    "text": " [Music]"
+    "start": 858,
+    "end": 859,
+    "text": " Yeah."
   },
   {
-    "start": 886,
-    "end": 896,
-    "text": " [Music]"
+    "start": 859,
+    "end": 863,
+    "text": " So yeah, it was a movie called Love Story, Beijing Love Story."
   },
   {
-    "start": 896,
-    "end": 906,
-    "text": " [Music]"
+    "start": 863,
+    "end": 864,
+    "text": " Yeah."
   },
   {
-    "start": 906,
-    "end": 916,
-    "text": " [Music]"
+    "start": 864,
+    "end": 868,
+    "text": " In the 17th and 18th centuries, Valentine's was slightly different."
   },
   {
-    "start": 916,
+    "start": 868,
+    "end": 874,
+    "text": " For some places in Europe, you would choose your Valentine by drawing lots in a village."
+  },
+  {
+    "start": 874,
+    "end": 878,
+    "text": " So basically, it would be Valentine's Day and everyone would write down their names and"
+  },
+  {
+    "start": 878,
+    "end": 882,
+    "text": " they put it in a big hat and then you pick one out and that would be your Valentine."
+  },
+  {
+    "start": 882,
+    "end": 887,
+    "text": " And some people said that then the courtship was obliged to last until the following Valentine's"
+  },
+  {
+    "start": 887,
+    "end": 888,
+    "text": " Day."
+  },
+  {
+    "start": 888,
+    "end": 889,
+    "text": " Whoa."
+  },
+  {
+    "start": 889,
+    "end": 897,
+    "text": " You don't want to get old John the Pooh smuggler, do you?"
+  },
+  {
+    "start": 897,
+    "end": 899,
+    "text": " Oh no."
+  },
+  {
+    "start": 899,
+    "end": 903,
+    "text": " Actually, this is a bit like how Romans did it."
+  },
+  {
+    "start": 903,
+    "end": 908,
+    "text": " So Romans basically had invented the origin of Valentine's Day, which was lupicalia, which"
+  },
+  {
+    "start": 908,
+    "end": 913,
+    "text": " was around that February time and that was sort of morphed into Valentine's Day by a"
+  },
+  {
+    "start": 913,
+    "end": 914,
+    "text": " pope a few centuries later."
+  },
+  {
+    "start": 914,
+    "end": 919,
+    "text": " But yeah, what they did was first of all, the men sacrificed a goat and a dog and then"
+  },
+  {
+    "start": 919,
+    "end": 923,
+    "text": " they got the hides of the animals they'd sacrificed and they chased after women whipping them"
+  },
+  {
+    "start": 923,
     "end": 926,
-    "text": " [Music]"
+    "text": " and then the women wanted it."
   },
   {
     "start": 926,
+    "end": 930,
+    "text": " They queued up to be whipped because they believed it made them fertile."
+  },
+  {
+    "start": 930,
     "end": 936,
-    "text": " [Music]"
+    "text": " But after all that happened, everyone was naked and then I believe..."
   },
   {
     "start": 936,
-    "end": 940,
-    "text": " [Music]"
+    "end": 939,
+    "text": " You've buried the lead on this story."
   },
   {
-    "start": 940,
-    "end": 950,
-    "text": " [Music]"
+    "start": 939,
+    "end": 943,
+    "text": " I thought you'd assume it's ancient Rome."
   },
   {
-    "start": 950,
-    "end": 960,
-    "text": " [Music]"
+    "start": 943,
+    "end": 947,
+    "text": " And then everyone picked names from a jar just like that and the name that you picked"
   },
   {
-    "start": 960,
-    "end": 970,
-    "text": " [Music]"
+    "start": 947,
+    "end": 951,
+    "text": " from a jar was the person you were paired up with to do sexy stuff with for the duration"
   },
   {
-    "start": 970,
+    "start": 951,
+    "end": 955,
+    "text": " of the festival and that was their Valentine's and it sounds like a hell of a lot of fun."
+  },
+  {
+    "start": 955,
+    "end": 962,
+    "text": " There's another old English technique for Valentine's Day which was your Valentine would"
+  },
+  {
+    "start": 962,
+    "end": 966,
+    "text": " be the first person you laid eyes on on the day."
+  },
+  {
+    "start": 966,
+    "end": 972,
+    "text": " Okay, so this led to some people hiding below the windows of the person they wanted to date"
+  },
+  {
+    "start": 972,
+    "end": 977,
+    "text": " and then as soon as they woke up just going, \"Surprise!\""
+  },
+  {
+    "start": 977,
     "end": 980,
-    "text": " [Music]"
+    "text": " And that's actually mentioned in Hamlet."
   },
   {
     "start": 980,
-    "end": 990,
-    "text": " [Music]"
+    "end": 985,
+    "text": " Is it? Yeah, Ophelia says, \"Tomorrow is St. Valentine's Day. All in the morning be time"
   },
   {
-    "start": 990,
+    "start": 985,
+    "end": 989,
+    "text": " and I am made at your window to be your Valentine.\""
+  },
+  {
+    "start": 989,
+    "end": 993,
+    "text": " Wow. That's so cool."
+  },
+  {
+    "start": 993,
+    "end": 995,
+    "text": " Valentine cards."
+  },
+  {
+    "start": 995,
     "end": 1000,
-    "text": " [Music]"
+    "text": " So there was a tradition in the 19th century as well as sending nice cards of sending"
   },
   {
     "start": 1000,
-    "end": 1010,
-    "text": " [Music]"
+    "end": 1002,
+    "text": " horrible valentines to people."
   },
   {
-    "start": 1010,
-    "end": 1020,
-    "text": " [Music]"
+    "start": 1002,
+    "end": 1008,
+    "text": " They were called vinegar valentines and there were specific cards for all kinds of things."
   },
   {
-    "start": 1020,
-    "end": 1030,
-    "text": " [Music]"
+    "start": 1008,
+    "end": 1013,
+    "text": " So there were cards where you could say the recipient was drunk or ugly or stuck up."
   },
   {
-    "start": 1030,
-    "end": 1040,
-    "text": " [Music]"
+    "start": 1013,
+    "end": 1015,
+    "text": " All kinds of stuff."
   },
   {
-    "start": 1040,
-    "end": 1050,
-    "text": " [Music]"
+    "start": 1015,
+    "end": 1019,
+    "text": " There were specific cards for grocers being rude about them saying, \"You've cheated me"
   },
   {
-    "start": 1050,
-    "end": 1060,
-    "text": " [Music]"
+    "start": 1019,
+    "end": 1021,
+    "text": " on my groceries.\""
   },
   {
-    "start": 1060,
-    "end": 1070,
-    "text": " [Music]"
+    "start": 1021,
+    "end": 1025,
+    "text": " Which doesn't feel strictly relevant to Valentine's Day but it was just a good opportunity."
   },
   {
-    "start": 1070,
+    "start": 1025,
+    "end": 1033,
+    "text": " There was one with a picture of the man in the moon saying, \"This is the only man who smiles on you.\""
+  },
+  {
+    "start": 1033,
+    "end": 1041,
+    "text": " And they were sent without postage paid so you had to pay to receive it."
+  },
+  {
+    "start": 1041,
+    "end": 1043,
+    "text": " Salt in the wound."
+  },
+  {
+    "start": 1043,
+    "end": 1045,
+    "text": " And they were more popular."
+  },
+  {
+    "start": 1045,
+    "end": 1049,
+    "text": " Apparently by the 1880s they were more popular and better selling than actual Valentine's"
+  },
+  {
+    "start": 1049,
+    "end": 1051,
+    "text": " cards that said, \"Nice stuff.\""
+  },
+  {
+    "start": 1051,
+    "end": 1052,
+    "text": " And they're so weird."
+  },
+  {
+    "start": 1052,
+    "end": 1056,
+    "text": " If you look them up, there's one that's a coiled snake with the head of this gentleman"
+  },
+  {
+    "start": 1056,
+    "end": 1059,
+    "text": " wearing a top hat and it just says, \"Beware the snake in the grass.\""
+  },
+  {
+    "start": 1059,
+    "end": 1063,
+    "text": " And there's another which has these really good rhymes quite often."
+  },
+  {
+    "start": 1063,
+    "end": 1067,
+    "text": " So there's one whose rhyme is, \"You're as vulgar a cat as I'd wish to meet and what's more"
+  },
+  {
+    "start": 1067,
+    "end": 1071,
+    "text": " you're devoured by pride and conceit but I fancy before very long you'll find out that"
+  },
+  {
+    "start": 1071,
     "end": 1074,
-    "text": " [Music]"
+    "text": " everyone thinks you're an ignorant lout.\""
   },
   {
     "start": 1074,
-    "end": 1084,
-    "text": " [Music]"
+    "end": 1077,
+    "text": " Imagine that on Valentine's Day."
   },
   {
-    "start": 1084,
+    "start": 1077,
+    "end": 1080,
+    "text": " Well at least it's something."
+  },
+  {
+    "start": 1080,
+    "end": 1086,
+    "text": " Roses are red, violets are blue, tell the police, \"Old John smuggles poo.\""
+  },
+  {
+    "start": 1086,
+    "end": 1090,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1090,
+    "end": 1091,
+    "text": " Very creepy."
+  },
+  {
+    "start": 1091,
     "end": 1094,
-    "text": " [Music]"
+    "text": " Okay."
   },
   {
     "start": 1094,
-    "end": 1104,
-    "text": " [Music]"
+    "end": 1097,
+    "text": " I feel like old John is now more important to this podcast than I am."
   },
   {
-    "start": 1104,
-    "end": 1114,
-    "text": " [Music]"
+    "start": 1097,
+    "end": 1100,
+    "text": " [laughter]"
   },
   {
-    "start": 1114,
-    "end": 1124,
-    "text": " [Music]"
+    "start": 1100,
+    "end": 1103,
+    "text": " Here's a kind of fun thing that you can do on Valentine's Day."
   },
   {
-    "start": 1124,
-    "end": 1134,
-    "text": " [Music]"
+    "start": 1103,
+    "end": 1107,
+    "text": " There's a French inventor who has invented to make part of the experience of the day"
   },
   {
-    "start": 1134,
-    "end": 1144,
-    "text": " [Music]"
+    "start": 1107,
+    "end": 1110,
+    "text": " when you're in a couple even better."
   },
   {
-    "start": 1144,
-    "end": 1154,
-    "text": " [Music]"
+    "start": 1110,
+    "end": 1111,
+    "text": " It's a flatulence pill."
   },
   {
-    "start": 1154,
-    "end": 1164,
-    "text": " [Music]"
+    "start": 1111,
+    "end": 1115,
+    "text": " So it's designed so that you have it at the beginning of the date and if you need to go"
   },
   {
-    "start": 1164,
-    "end": 1174,
-    "text": " [Music]"
+    "start": 1115,
+    "end": 1119,
+    "text": " and have a fart, you don't need to leave the table as I do."
   },
   {
-    "start": 1174,
-    "end": 1184,
-    "text": " [Music]"
+    "start": 1119,
+    "end": 1122,
+    "text": " [laughter]"
   },
   {
-    "start": 1184,
-    "end": 1194,
-    "text": " [Music]"
+    "start": 1122,
+    "end": 1125,
+    "text": " It's usually about this time of the podcast that you do, guys."
   },
   {
-    "start": 1194,
-    "end": 1204,
-    "text": " [Music]"
+    "start": 1125,
+    "end": 1126,
+    "text": " [laughter]"
   },
   {
-    "start": 1204,
-    "end": 1214,
-    "text": " [Music]"
+    "start": 1126,
+    "end": 1129,
+    "text": " Guys, I'll be back when I bring my mic."
   },
   {
-    "start": 1214,
-    "end": 1224,
-    "text": " [Music]"
+    "start": 1129,
+    "end": 1130,
+    "text": " Stupid move."
   },
   {
-    "start": 1224,
+    "start": 1130,
+    "end": 1131,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1131,
+    "end": 1133,
+    "text": " Sorry, so what effect does it have?"
+  },
+  {
+    "start": 1133,
+    "end": 1135,
+    "text": " It starts you from farting."
+  },
+  {
+    "start": 1135,
+    "end": 1137,
+    "text": " No, no, it scents your fart."
+  },
+  {
+    "start": 1137,
+    "end": 1141,
+    "text": " So it makes it so it comes out smelling gingery or rose-like or violet."
+  },
+  {
+    "start": 1141,
+    "end": 1143,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1143,
+    "end": 1147,
+    "text": " How much more disturbed would you be by a date if their ass smelled of ginger?"
+  },
+  {
+    "start": 1147,
+    "end": 1149,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1149,
+    "end": 1151,
+    "text": " We need to move on to our next fact in a second."
+  },
+  {
+    "start": 1151,
+    "end": 1156,
+    "text": " In 2015, Seattle Aquarium had a Valentine's event."
+  },
+  {
+    "start": 1156,
+    "end": 1161,
+    "text": " In fact, they have this every year where you can watch octopuses have sex."
+  },
+  {
+    "start": 1161,
+    "end": 1167,
+    "text": " But the one in 2015 they had to cancel, in fact, due to cannibalism concerns."
+  },
+  {
+    "start": 1167,
+    "end": 1169,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1169,
+    "end": 1173,
+    "text": " Because they were worried that their male octopus called Kong was too big for his partner"
+  },
+  {
+    "start": 1173,
+    "end": 1175,
+    "text": " and that he was going to eat her."
+  },
+  {
+    "start": 1175,
+    "end": 1177,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1177,
+    "end": 1180,
+    "text": " It's awful when that happens when one person is just a bit bigger than the other"
+  },
+  {
+    "start": 1180,
+    "end": 1182,
+    "text": " and they accidentally eat their partner."
+  },
+  {
+    "start": 1182,
+    "end": 1186,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1186,
+    "end": 1188,
+    "text": " Shall we move on to our next fact?"
+  },
+  {
+    "start": 1188,
+    "end": 1192,
+    "text": " It is time for fact number three, and that is James."
+  },
+  {
+    "start": 1192,
+    "end": 1196,
+    "text": " Okay, my fact this week is that during World War II,"
+  },
+  {
+    "start": 1196,
+    "end": 1203,
+    "text": " the sons of the ship the HMS Queen Elizabeth were cleaned by wrapping a priest in a large cloth"
+  },
+  {
+    "start": 1203,
+    "end": 1207,
+    "text": " and pulling him through the barrels like a human pipe cleaner."
+  },
+  {
+    "start": 1207,
+    "end": 1209,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1209,
+    "end": 1213,
+    "text": " [applause]"
+  },
+  {
+    "start": 1213,
+    "end": 1215,
+    "text": " So cool."
+  },
+  {
+    "start": 1215,
+    "end": 1217,
+    "text": " It does not sound very true, does it?"
+  },
+  {
+    "start": 1217,
+    "end": 1219,
+    "text": " But this is true."
+  },
+  {
+    "start": 1219,
+    "end": 1226,
+    "text": " And this was, so I read this first of all in a book which is called A Field Guide, but it's not about field."
+  },
+  {
+    "start": 1226,
+    "end": 1231,
+    "text": " It's called A Field Guide to the English Clergy by Fergus Butler Gaily."
+  },
+  {
+    "start": 1231,
     "end": 1234,
-    "text": " [Music]"
+    "text": " And it's about a guy called Lancelot Fleming."
   },
   {
     "start": 1234,
-    "end": 1244,
-    "text": " [Music]"
+    "end": 1236,
+    "text": " And this guy was pretty amazing."
   },
   {
-    "start": 1244,
-    "end": 1254,
-    "text": " [Music]"
+    "start": 1236,
+    "end": 1241,
+    "text": " He was a priest and he was a priest in the services during the war."
   },
   {
-    "start": 1254,
-    "end": 1264,
-    "text": " [Music]"
+    "start": 1241,
+    "end": 1243,
+    "text": " But there's loads of amazing things about him."
   },
   {
-    "start": 1264,
-    "end": 1274,
-    "text": " [Music]"
+    "start": 1243,
+    "end": 1250,
+    "text": " He met his first wife after a massive drinking binge where he picked up and put on a motorbike helmet"
   },
   {
-    "start": 1274,
+    "start": 1250,
+    "end": 1255,
+    "text": " and then saw her in the street and said to her, \"I'm a space bishop.\""
+  },
+  {
+    "start": 1255,
+    "end": 1259,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1259,
+    "end": 1261,
+    "text": " And three years later she married him."
+  },
+  {
+    "start": 1261,
+    "end": 1263,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1263,
+    "end": 1266,
+    "text": " Wait, but people weren't even going into space at this point, were they?"
+  },
+  {
+    "start": 1266,
+    "end": 1268,
+    "text": " No, he was a man ahead of his time."
+  },
+  {
+    "start": 1268,
+    "end": 1270,
+    "text": " Wow."
+  },
+  {
+    "start": 1270,
+    "end": 1272,
+    "text": " But they did know that space existed."
+  },
+  {
+    "start": 1272,
+    "end": 1276,
+    "text": " Yes, and I guess they assumed you'd need to wear a helmet there."
+  },
+  {
+    "start": 1276,
+    "end": 1278,
+    "text": " I guess so."
+  },
+  {
+    "start": 1278,
+    "end": 1281,
+    "text": " Did he volunteer himself for the cannon cleaning?"
+  },
+  {
+    "start": 1281,
     "end": 1284,
-    "text": " [Music]"
+    "text": " Yes, he did. He was a very slight man."
   },
   {
     "start": 1284,
-    "end": 1294,
-    "text": " [Music]"
+    "end": 1286,
+    "text": " So it was only for the small cannons?"
   },
   {
-    "start": 1294,
-    "end": 1304,
-    "text": " [Music]"
+    "start": 1286,
+    "end": 1291,
+    "text": " Yeah, so I looked at Wikipedia to see what the cannons were on the HMS Queen Elizabeth."
   },
   {
-    "start": 1304,
+    "start": 1291,
+    "end": 1298,
+    "text": " And they had 16 six-inch guns, two three-inch guns, and four five-centimeter guns."
+  },
+  {
+    "start": 1298,
+    "end": 1300,
+    "text": " And I don't think it was those ones."
+  },
+  {
+    "start": 1300,
+    "end": 1303,
+    "text": " He could have cleaned them a bit."
+  },
+  {
+    "start": 1303,
+    "end": 1309,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1309,
+    "end": 1311,
+    "text": " Five-inch gun, no problem."
+  },
+  {
+    "start": 1311,
     "end": 1314,
-    "text": " [Music]"
+    "text": " [laughter]"
   },
   {
     "start": 1314,
+    "end": 1319,
+    "text": " And for anyone thinking of writing in, \"I know that's the diameter, not the length.\""
+  },
+  {
+    "start": 1319,
+    "end": 1321,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1321,
     "end": 1324,
-    "text": " [Music]"
+    "text": " I thought you were just being incredibly..."
   },
   {
     "start": 1324,
-    "end": 1334,
-    "text": " [Music]"
+    "end": 1326,
+    "text": " Anyway, so..."
   },
   {
-    "start": 1334,
-    "end": 1344,
-    "text": " [Music]"
+    "start": 1326,
+    "end": 1331,
+    "text": " They also had some 15-inch guns, which you could just about squeeze in if you had really thin shoulders,"
   },
   {
-    "start": 1344,
+    "start": 1331,
+    "end": 1335,
+    "text": " and a 21-inch torpedo tube, so I think it might have been one of those."
+  },
+  {
+    "start": 1335,
+    "end": 1337,
+    "text": " Chaplains in the Army, just very quickly."
+  },
+  {
+    "start": 1337,
+    "end": 1343,
+    "text": " The modern-day chaplain in the U.S. Army is flame-resistant."
+  },
+  {
+    "start": 1343,
+    "end": 1345,
+    "text": " [laughter]"
+  },
+  {
+    "start": 1345,
+    "end": 1346,
+    "text": " Who calls that?"
+  },
+  {
+    "start": 1346,
+    "end": 1348,
+    "text": " Okay, what do you mean by that?"
+  },
+  {
+    "start": 1348,
     "end": 1354,
-    "text": " [Music]"
+    "text": " So this is from Mary Roach's book, Grunt, and she points out the man of cloth has various different cloths"
   },
   {
     "start": 1354,
-    "end": 1364,
-    "text": " [Music]"
+    "end": 1360,
+    "text": " that he can wear when he's going into, say, a tank, or if he's just out where there's combat."
   },
   {
-    "start": 1364,
-    "end": 1374,
-    "text": " [Music]"
+    "start": 1360,
+    "end": 1368,
+    "text": " So if he's just traveling with a field artillery, he'll have his cloths,"
   },
   {
-    "start": 1374,
+    "start": 1368,
+    "end": 1375,
+    "text": " which will be moderately flame-retardant, insect-repellent as well, and 25% Kevlar."
+  },
+  {
+    "start": 1375,
+    "end": 1379,
+    "text": " If he's in a tank mission, he's really fire-resistant."
+  },
+  {
+    "start": 1379,
     "end": 1384,
-    "text": " [Music]"
+    "text": " It's a really strong fire-resistant, but that's too expensive for day-to-day use."
   },
   {
     "start": 1384,
+    "end": 1388,
+    "text": " And then when he's back at just the camp, he's just wearing normal clothes."
+  },
+  {
+    "start": 1388,
+    "end": 1392,
+    "text": " But yeah, he's got three different outfits for not catching on fire."
+  },
+  {
+    "start": 1392,
     "end": 1394,
-    "text": " [Music]"
+    "text": " Very clever."
   },
   {
     "start": 1394,
-    "end": 1404,
-    "text": " [Music]"
+    "end": 1397,
+    "text": " Fetch the asbestos priest."
   },
   {
-    "start": 1404,
-    "end": 1414,
-    "text": " [Music]"
+    "start": 1397,
+    "end": 1402,
+    "text": " And he also, he doesn't carry any weapons, but he does have an assistant with him at all times who has a gun,"
   },
   {
-    "start": 1414,
+    "start": 1402,
+    "end": 1405,
+    "text": " so that's the protection."
+  },
+  {
+    "start": 1405,
+    "end": 1410,
+    "text": " And they do, they have all these things that they have, like they have portable confessionals,"
+  },
+  {
+    "start": 1410,
+    "end": 1413,
+    "text": " should they need to have a quick confessional out in the field."
+  },
+  {
+    "start": 1413,
+    "end": 1420,
+    "text": " They have containers that are turned into chapels, and they have extended shelf-life communion wafers."
+  },
+  {
+    "start": 1420,
+    "end": 1421,
+    "text": " It's very cool."
+  },
+  {
+    "start": 1421,
     "end": 1424,
-    "text": " [Music]"
+    "text": " No one likes a stale communion wafer."
   },
   {
     "start": 1424,
+    "end": 1429,
+    "text": " So I was trying to find out about more priests, and there was someone called Hugh Barrett Leonard,"
+  },
+  {
+    "start": 1429,
     "end": 1434,
-    "text": " [Music]"
+    "text": " who was a British clergyman who had a title which was \"Extraordinary Confessor,\""
   },
   {
     "start": 1434,
+    "end": 1437,
+    "text": " which is a proper title, but he really pushed it."
+  },
+  {
+    "start": 1437,
     "end": 1444,
-    "text": " [Music]"
+    "text": " So once when a woman asked to hear confession outside a church, he just held up a tennis racket between them."
   },
   {
     "start": 1444,
+    "end": 1448,
+    "text": " That's amazing."
+  },
+  {
+    "start": 1448,
     "end": 1454,
-    "text": " [Music]"
+    "text": " The telegraph ran his obituary, and it said that although he mostly heard confessions in his room,"
   },
   {
     "start": 1454,
-    "end": 1464,
-    "text": " [Music]"
+    "end": 1458,
+    "text": " he was prepared to do so behind a hedge."
   },
   {
-    "start": 1464,
-    "end": 1474,
-    "text": " [Music]"
+    "start": 1458,
+    "end": 1459,
+    "text": " That's so good."
   },
   {
-    "start": 1474,
-    "end": 1484,
-    "text": " [Music]"
+    "start": 1459,
+    "end": 1463,
+    "text": " We have such a tradition of weird clergy in the UK, don't we?"
   },
   {
-    "start": 1484,
-    "end": 1494,
-    "text": " [Music]"
+    "start": 1463,
+    "end": 1466,
+    "text": " There was a guy called the Reverend Edward Drax Free,"
   },
   {
-    "start": 1494,
-    "end": 1504,
-    "text": " [Music]"
+    "start": 1466,
+    "end": 1471,
+    "text": " and his congregation tried to get him out of the priesthood because he was repeatedly drunk"
   },
   {
-    "start": 1504,
-    "end": 1514,
-    "text": " [Music]"
+    "start": 1471,
+    "end": 1475,
+    "text": " and he was stealing lead from the church roof."
   },
   {
-    "start": 1514,
+    "start": 1475,
+    "end": 1481,
+    "text": " And to stop them from getting rid of him, he decided to lock himself in this study with his favourite maid,"
+  },
+  {
+    "start": 1481,
+    "end": 1487,
+    "text": " a brace of pistols, and a stack of French pornography."
+  },
+  {
+    "start": 1487,
+    "end": 1491,
+    "text": " That's a real slam on the maid, I think."
+  },
+  {
+    "start": 1491,
+    "end": 1495,
+    "text": " There was another guy from the 1800s called Reverend Robert Hawker,"
+  },
+  {
+    "start": 1495,
+    "end": 1499,
+    "text": " and he was both a priest and a mermaid."
+  },
+  {
+    "start": 1499,
+    "end": 1502,
+    "text": " That was the thing he really wanted to be."
+  },
+  {
+    "start": 1502,
+    "end": 1507,
+    "text": " So he made a wig out of seaweed, and then he was naked apart from oil skin around his legs,"
+  },
+  {
+    "start": 1507,
+    "end": 1510,
+    "text": " and he rode out to a rock, which was called Bute Harbour,"
+  },
+  {
+    "start": 1510,
+    "end": 1516,
+    "text": " and he sat on it and he just would sing, and then go home and, you know, go to church."
+  },
+  {
+    "start": 1516,
+    "end": 1521,
+    "text": " Didn't his sort of mermaid rain end, or merman rain end,"
+  },
+  {
+    "start": 1521,
     "end": 1524,
-    "text": " [Music]"
+    "text": " when he went out and he did this as a prank for the locals,"
   },
   {
     "start": 1524,
+    "end": 1528,
+    "text": " and everyone was looking at him through their eyeglasses they had at the time,"
+  },
+  {
+    "start": 1528,
+    "end": 1531,
+    "text": " and then he overheard one of the bigger, burlier farmers go,"
+  },
+  {
+    "start": 1531,
     "end": 1534,
-    "text": " [Music]"
+    "text": " \"Right, I'm going to go and get my gun, we've got to shoot him down.\""
   },
   {
     "start": 1534,
     "end": 1538,
-    "text": " [Music]"
+    "text": " And he ducked underwater and never tried the prank again, I think."
   },
   {
     "start": 1538,
-    "end": 1548,
-    "text": " [Music]"
+    "end": 1543,
+    "text": " Some stuff on maybe cannons or guns or something like that, that's what the fact's about."
   },
   {
-    "start": 1548,
-    "end": 1558,
-    "text": " [Music]"
+    "start": 1543,
+    "end": 1547,
+    "text": " So the cannon kind of came into Europe in the 16th century."
   },
   {
-    "start": 1558,
-    "end": 1568,
-    "text": " [Music]"
+    "start": 1547,
+    "end": 1551,
+    "text": " Before that they used trebuchets, which was where they flung stuff along,"
   },
   {
-    "start": 1568,
+    "start": 1551,
+    "end": 1557,
+    "text": " and a lot of people liked them because of their phallicism, for obvious reasons."
+  },
+  {
+    "start": 1557,
+    "end": 1564,
+    "text": " So at the siege of Mirandola, the Pope at the time, Pope Julius, was quoted as saying,"
+  },
+  {
+    "start": 1564,
+    "end": 1570,
+    "text": " \"Now we'll see whose bowls are bigger, mine or Louis's.\""
+  },
+  {
+    "start": 1570,
+    "end": 1574,
+    "text": " And they also thought, because they were so phallic in shape,"
+  },
+  {
+    "start": 1574,
     "end": 1578,
-    "text": " [Music]"
+    "text": " they thought that if you could make them excited, it would stop them from working."
   },
   {
     "start": 1578,
+    "end": 1581,
+    "text": " And so at the siege... honestly..."
+  },
+  {
+    "start": 1581,
+    "end": 1583,
+    "text": " - What? - Yeah."
+  },
+  {
+    "start": 1583,
     "end": 1588,
-    "text": " [Music]"
+    "text": " At the siege of Chekiang in 1861 to 1862,"
   },
   {
     "start": 1588,
-    "end": 1598,
-    "text": " [Music]"
+    "end": 1593,
+    "text": " Taiping rebels had prostitutes take off their trousers and moon the forces"
   },
   {
-    "start": 1598,
-    "end": 1608,
-    "text": " [Music]"
+    "start": 1593,
+    "end": 1597,
+    "text": " in the hope that it would cause the cannon to misfire or burst."
   },
   {
-    "start": 1608,
-    "end": 1618,
-    "text": " [Music]"
+    "start": 1597,
+    "end": 1602,
+    "text": " Honestly, it's history, Anna."
   },
   {
-    "start": 1618,
+    "start": 1602,
+    "end": 1606,
+    "text": " That feels like a flimsy excuse by the Taiping rebels."
+  },
+  {
+    "start": 1606,
+    "end": 1611,
+    "text": " Wow. Well, some ships' guns have things called tampions,"
+  },
+  {
+    "start": 1611,
+    "end": 1614,
+    "text": " which comes from exactly the same route as tampons."
+  },
+  {
+    "start": 1614,
+    "end": 1616,
+    "text": " And these are basically plugs for the guns,"
+  },
+  {
+    "start": 1616,
+    "end": 1619,
+    "text": " and it's to stop the guns' insides rusting when they're not being used."
+  },
+  {
+    "start": 1619,
+    "end": 1623,
+    "text": " And there used to be an old method of doing it, which was really cool, to stop rust."
+  },
+  {
+    "start": 1623,
     "end": 1628,
-    "text": " [Music]"
+    "text": " They would just put a cannonball inside the barrel and then slosh a load of olive oil inside."
   },
   {
     "start": 1628,
-    "end": 1638,
-    "text": " [Music]"
+    "end": 1631,
+    "text": " And so then when the ship's bumping up and down,"
   },
   {
-    "start": 1638,
-    "end": 1648,
-    "text": " [Music]"
+    "start": 1631,
+    "end": 1634,
+    "text": " the cannonball rolls the olive oil up and down the barrel, and it doesn't rust."
   },
   {
-    "start": 1648,
-    "end": 1658,
-    "text": " [Music]"
+    "start": 1634,
+    "end": 1637,
+    "text": " - Oh, cool. Very clever. - Very clever."
   },
   {
-    "start": 1658,
-    "end": 1668,
-    "text": " [Music]"
+    "start": 1637,
+    "end": 1643,
+    "text": " I read about a... it's not a cannon, it's a gun type, but it wasn't shooting bullets."
   },
   {
-    "start": 1668,
-    "end": 1678,
-    "text": " [Music]"
+    "start": 1643,
+    "end": 1647,
+    "text": " This is a thing that would shoot into the air a bunch of mines"
   },
   {
-    "start": 1678,
-    "end": 1688,
-    "text": " [Music]"
+    "start": 1647,
+    "end": 1650,
+    "text": " that would be attached to parachutes, so mines like you would get in the ground."
   },
   {
-    "start": 1688,
-    "end": 1698,
-    "text": " [Music]"
+    "start": 1650,
+    "end": 1653,
+    "text": " The idea is that this was to stop ships from being attacked by planes."
   },
   {
-    "start": 1698,
-    "end": 1708,
-    "text": " [Music]"
+    "start": 1653,
+    "end": 1657,
+    "text": " So the planes would come, the parachutes would latch onto the planes,"
   },
   {
-    "start": 1708,
-    "end": 1718,
-    "text": " [Music]"
+    "start": 1657,
+    "end": 1661,
+    "text": " tangle up, swing the mines into the plane, and explode the plane."
   },
   {
-    "start": 1718,
-    "end": 1728,
-    "text": " [Music]"
+    "start": 1661,
+    "end": 1663,
+    "text": " So that was the idea. It's an incredible idea."
   },
   {
-    "start": 1728,
-    "end": 1738,
-    "text": " [Music]"
+    "start": 1663,
+    "end": 1666,
+    "text": " The problem was is they kept launching these into the sky,"
   },
   {
-    "start": 1738,
-    "end": 1748,
-    "text": " [Music]"
+    "start": 1666,
+    "end": 1669,
+    "text": " and the airplanes could see them, and they knew what was coming,"
   },
   {
-    "start": 1748,
-    "end": 1758,
-    "text": " [Music]"
+    "start": 1669,
+    "end": 1672,
+    "text": " so they could get out of the way. So it never got them."
   },
   {
-    "start": 1758,
-    "end": 1768,
-    "text": " [Music]"
+    "start": 1672,
+    "end": 1676,
+    "text": " And what actually they didn't really count on is there's a lot of wind out there,"
   },
   {
-    "start": 1768,
-    "end": 1778,
-    "text": " [Music]"
+    "start": 1676,
+    "end": 1680,
+    "text": " and very often the wind would blow the mines on the parachutes right back to the boat"
   },
   {
-    "start": 1778,
+    "start": 1680,
+    "end": 1684,
+    "text": " that launched them, and they suffered more British deaths from that than they did."
+  },
+  {
+    "start": 1684,
+    "end": 1686,
+    "text": " - Wow. - When was that?"
+  },
+  {
+    "start": 1686,
+    "end": 1689,
+    "text": " It was in... I believe it was in the Second World War."
+  },
+  {
+    "start": 1689,
+    "end": 1692,
+    "text": " - Really? - But we can edit that out."
+  },
+  {
+    "start": 1692,
+    "end": 1697,
+    "text": " The torpedoes. So you could have torpedoes and ships,"
+  },
+  {
+    "start": 1697,
+    "end": 1701,
+    "text": " and they've just invented a new torpedo that can fire humans."
+  },
+  {
+    "start": 1701,
+    "end": 1703,
+    "text": " - What? - So this is..."
+  },
+  {
+    "start": 1703,
+    "end": 1706,
+    "text": " I believe, even though I haven't seen it, it's in You Only Live Twice."
+  },
+  {
+    "start": 1706,
+    "end": 1710,
+    "text": " James Bond gets in a torpedo gun and gets fired through it."
+  },
+  {
+    "start": 1710,
+    "end": 1713,
+    "text": " I read on the internet. That may be true or maybe not true."
+  },
+  {
+    "start": 1713,
+    "end": 1716,
+    "text": " But apparently there's this new thing where you can get in a little kind of"
+  },
+  {
+    "start": 1716,
+    "end": 1720,
+    "text": " torpedo-shaped thing with you and your mate, and it will fire you off,"
+  },
+  {
+    "start": 1720,
+    "end": 1723,
+    "text": " and it helps you to get closer to the enemy."
+  },
+  {
+    "start": 1723,
+    "end": 1730,
+    "text": " It's over a range of 10... It says 10 nm, which I don't think is nanometers."
+  },
+  {
+    "start": 1732,
+    "end": 1735,
+    "text": " - Oh, nautical miles. - Nautical miles."
+  },
+  {
+    "start": 1735,
+    "end": 1741,
+    "text": " - Hang on, a torpedo is 10 nautical miles? - 10 nautical miles, yeah."
+  },
+  {
+    "start": 1741,
+    "end": 1745,
+    "text": " - How do you survive the landing? - Well, you're underwater the whole way."
+  },
+  {
+    "start": 1745,
+    "end": 1747,
+    "text": " - Underwater? - It's a torpedo."
+  },
+  {
+    "start": 1747,
+    "end": 1750,
+    "text": " But some of the earliest torpedoes were... You got it?"
+  },
+  {
+    "start": 1750,
+    "end": 1755,
+    "text": " But some of the earliest torpedoes were underwater ones."
+  },
+  {
+    "start": 1755,
+    "end": 1757,
+    "text": " And they were... Oh, my God."
+  },
+  {
+    "start": 1757,
+    "end": 1761,
+    "text": " It's catching."
+  },
+  {
+    "start": 1762,
+    "end": 1766,
+    "text": " Some of the earliest torpedoes were rideable torpedoes."
+  },
+  {
+    "start": 1766,
+    "end": 1769,
+    "text": " In fact, some of the very first ones had two-man crews"
+  },
+  {
+    "start": 1769,
+    "end": 1772,
+    "text": " where you would get on it and motor yourself along,"
+  },
+  {
+    "start": 1772,
+    "end": 1776,
+    "text": " and then you would leave the torpedo there next to the enemy ship"
+  },
+  {
+    "start": 1776,
+    "end": 1779,
+    "text": " and then hopefully sail around and back."
+  },
+  {
+    "start": 1779,
+    "end": 1782,
+    "text": " I've got one last thing, which is on religion and boats,"
+  },
+  {
+    "start": 1782,
+    "end": 1784,
+    "text": " bringing the two things in together."
+  },
+  {
+    "start": 1784,
     "end": 1788,
-    "text": " [Music]"
+    "text": " This is from this year. Two students from Christchurch Academy in Jacksonville,"
   },
   {
     "start": 1788,
-    "end": 1798,
-    "text": " [Music]"
+    "end": 1791,
+    "text": " which is in Florida, they were swept out to sea."
   },
   {
-    "start": 1798,
-    "end": 1808,
-    "text": " [Music]"
+    "start": 1791,
+    "end": 1794,
+    "text": " And it was two of them, and they thought they were going to be lost"
   },
   {
-    "start": 1808,
-    "end": 1812,
-    "text": " [Music]"
+    "start": 1794,
+    "end": 1796,
+    "text": " if they were going to die out there."
   },
   {
-    "start": 1812,
+    "start": 1796,
+    "end": 1799,
+    "text": " And they spent their whole time praying to God to be saved."
+  },
+  {
+    "start": 1799,
+    "end": 1802,
+    "text": " And they finally were saved by a passing boat."
+  },
+  {
+    "start": 1802,
+    "end": 1804,
+    "text": " And that boat was called Amen."
+  },
+  {
+    "start": 1804,
+    "end": 1807,
+    "text": " - How cool is that? - Very nice."
+  },
+  {
+    "start": 1807,
     "end": 1816,
-    "text": " [Music]"
+    "text": " OK, it is time for our final fact of the show, and that is Andy."
   },
   {
     "start": 1816,
-    "end": 1826,
-    "text": " [Music]"
+    "end": 1820,
+    "text": " My fact is that between 1910 and 1912,"
   },
   {
-    "start": 1826,
+    "start": 1820,
+    "end": 1825,
+    "text": " the Washington Post frequently tried to interview the president's pet cow."
+  },
+  {
+    "start": 1825,
+    "end": 1832,
+    "text": " And was she just very coy, didn't give interviews?"
+  },
+  {
+    "start": 1832,
     "end": 1836,
-    "text": " [Music]"
+    "text": " No, she was very chatty, according to the reporters of the Washington Post."
   },
   {
     "start": 1836,
-    "end": 1846,
-    "text": " [Music]"
+    "end": 1839,
+    "text": " So this was a specific cow."
   },
   {
-    "start": 1846,
-    "end": 1856,
-    "text": " [Music]"
+    "start": 1839,
+    "end": 1843,
+    "text": " She was owned by President William Taft, who was president at the time."
   },
   {
-    "start": 1856,
-    "end": 1866,
-    "text": " [Music]"
+    "start": 1843,
+    "end": 1847,
+    "text": " She was actually the last cow ever to graze freely on the White House lawn."
   },
   {
-    "start": 1866,
-    "end": 1876,
-    "text": " [Music]"
+    "start": 1847,
+    "end": 1851,
+    "text": " Her name was Pauline Wayne, which is a weird name for a cow."
   },
   {
-    "start": 1876,
-    "end": 1886,
-    "text": " [Music]"
+    "start": 1851,
+    "end": 1857,
+    "text": " But they ran over 20 stories about her in this short two-year period."
   },
   {
-    "start": 1886,
+    "start": 1857,
+    "end": 1862,
+    "text": " So one of them, the reporter from the Post, asked her if she was milked without her consent."
+  },
+  {
+    "start": 1862,
+    "end": 1869,
+    "text": " And it reported that, \"To each query, modest Pauline returned from her soft brown eyes"
+  },
+  {
+    "start": 1869,
+    "end": 1874,
+    "text": " at a glance, bespeaking reproach and indignation.\""
+  },
+  {
+    "start": 1874,
+    "end": 1877,
+    "text": " Which is to say, in bovine, he did not."
+  },
+  {
+    "start": 1877,
+    "end": 1880,
+    "text": " It's very #MeMoo."
+  },
+  {
+    "start": 1880,
+    "end": 1889,
+    "text": " She was very famous. She was a very famous cow."
+  },
+  {
+    "start": 1889,
+    "end": 1891,
+    "text": " You could buy souvenir milk from Pauline Wayne."
+  },
+  {
+    "start": 1891,
+    "end": 1893,
+    "text": " She was, and she used to go on tour, didn't she?"
+  },
+  {
+    "start": 1893,
+    "end": 1894,
+    "text": " Yeah."
+  },
+  {
+    "start": 1894,
     "end": 1896,
-    "text": " [Music]"
+    "text": " In fact, she got lost at one point, right?"
   },
   {
     "start": 1896,
-    "end": 1906,
-    "text": " [Music]"
+    "end": 1901,
+    "text": " She would go on tour around the country, and so her milk could be sold at agricultural fairs and stuff."
   },
   {
-    "start": 1906,
-    "end": 1916,
-    "text": " [Music]"
+    "start": 1901,
+    "end": 1907,
+    "text": " And once she was accidentally put on a standard cattle car with the masses of cows"
   },
   {
-    "start": 1916,
-    "end": 1926,
-    "text": " [Music]"
+    "start": 1907,
+    "end": 1911,
+    "text": " instead of her usual private luxury cow coach."
   },
   {
-    "start": 1926,
-    "end": 1936,
-    "text": " [Music]"
+    "start": 1911,
+    "end": 1913,
+    "text": " And she was taken to the slaughter."
   },
   {
-    "start": 1936,
-    "end": 1946,
-    "text": " [Music]"
+    "start": 1913,
+    "end": 1917,
+    "text": " I think she was missing for two days, and there was panic across the land."
   },
   {
-    "start": 1946,
-    "end": 1956,
-    "text": " [Music]"
+    "start": 1917,
+    "end": 1919,
+    "text": " And she was just saved."
   },
   {
-    "start": 1956,
-    "end": 1966,
-    "text": " [Music]"
+    "start": 1919,
+    "end": 1922,
+    "text": " This was in 1911, I think. Someone just spotted her in time and said,"
   },
   {
-    "start": 1966,
+    "start": 1922,
+    "end": 1924,
+    "text": " \"That looks like the president's cow.\""
+  },
+  {
+    "start": 1924,
+    "end": 1928,
+    "text": " How do you tell the difference between the president's cow and a non-president's cow?"
+  },
+  {
+    "start": 1928,
+    "end": 1932,
+    "text": " She kept on singing the Stars and Stripes."
+  },
+  {
+    "start": 1932,
+    "end": 1934,
+    "text": " When she first came to the White House,"
+  },
+  {
+    "start": 1934,
+    "end": 1938,
+    "text": " she was actually a president from a Wisconsin senator to Taft."
+  },
+  {
+    "start": 1938,
+    "end": 1940,
+    "text": " And when she first arrived, she was pregnant."
+  },
+  {
+    "start": 1940,
+    "end": 1944,
+    "text": " The president offered the calf to a local farmer because he couldn't look after them both."
+  },
+  {
+    "start": 1944,
+    "end": 1949,
+    "text": " And the Washington Times said that Pauline has not been consulted."
+  },
+  {
+    "start": 1949,
+    "end": 1955,
+    "text": " But as a government employee, she is subject to the executive mandate."
+  },
+  {
+    "start": 1955,
+    "end": 1961,
+    "text": " It just feels like in 1910, '11 and '12, there just wasn't that much going on."
+  },
+  {
+    "start": 1961,
+    "end": 1964,
+    "text": " Well, we don't really hear much about Taft, do we?"
+  },
+  {
+    "start": 1964,
+    "end": 1970,
+    "text": " Because it was, what, Theodore Roosevelt before him and Woodrow Wilson or someone after him"
+  },
+  {
+    "start": 1970,
+    "end": 1973,
+    "text": " who were quite famous, and he just doesn't really come up much."
+  },
+  {
+    "start": 1973,
     "end": 1976,
-    "text": " [Music]"
+    "text": " He's mostly famous for being very fat, isn't he?"
   },
   {
     "start": 1976,
+    "end": 1979,
+    "text": " He's the fattest ever president, right?"
+  },
+  {
+    "start": 1979,
+    "end": 1982,
+    "text": " He is, although we're not quite sure about Trump."
+  },
+  {
+    "start": 1982,
     "end": 1986,
-    "text": " [Music]"
+    "text": " But Trump is definitely in the top two, I think."
   },
   {
     "start": 1986,
+    "end": 1991,
+    "text": " He's mostly known for a myth, isn't he, which is that he was said to have been stuck in his bathtub."
+  },
+  {
+    "start": 1991,
+    "end": 1994,
+    "text": " He went for a bath and he couldn't get back out again."
+  },
+  {
+    "start": 1994,
     "end": 1996,
-    "text": " [Music]"
+    "text": " But it's a complete lie."
   },
   {
     "start": 1996,
-    "end": 2006,
-    "text": " [Music]"
+    "end": 2001,
+    "text": " But that's one thing that a lot of people will say, \"Oh, William Taft, the guy stuck in the bath.\""
   },
   {
-    "start": 2006,
+    "start": 2001,
+    "end": 2003,
+    "text": " Yeah, he wasn't that famous."
+  },
+  {
+    "start": 2003,
+    "end": 2008,
+    "text": " Theodore Roosevelt was really famous, and one of the ways that he carried on being famous is"
+  },
+  {
+    "start": 2008,
+    "end": 2011,
+    "text": " he named the teddy bear, or it was named after him."
+  },
+  {
+    "start": 2011,
+    "end": 2014,
+    "text": " The teddy from Teddy Roosevelt comes from the teddy bear."
+  },
+  {
+    "start": 2014,
+    "end": 2019,
+    "text": " And when Theodore Roosevelt left office, toy manufacturers still needed to sell toys,"
+  },
+  {
+    "start": 2019,
     "end": 2026,
-    "text": " [Music]"
+    "text": " and so they came up with something called a Billy Possum, which was named after Taft."
   },
   {
     "start": 2026,
-    "end": 2036,
-    "text": " [Music]"
+    "end": 2030,
+    "text": " And we all have one of those today."
   },
   {
-    "start": 2036,
+    "start": 2030,
+    "end": 2035,
+    "text": " How awful for your pet cow to have been more famous than you as the president."
+  },
+  {
+    "start": 2035,
+    "end": 2037,
+    "text": " And she wasn't his first cow, was she?"
+  },
+  {
+    "start": 2037,
+    "end": 2043,
+    "text": " He had another one who died in 1910, I think, and she was called Moolly Woolly."
+  },
+  {
+    "start": 2043,
     "end": 2046,
-    "text": " [Music]"
+    "text": " And she died because she..."
   },
   {
     "start": 2046,
-    "end": 2056,
-    "text": " [Music]"
+    "end": 2049,
+    "text": " So he loved them so much he used to keep them stabled with the horses,"
   },
   {
-    "start": 2056,
-    "end": 2066,
-    "text": " [Music]"
+    "start": 2049,
+    "end": 2054,
+    "text": " and so she shared the horses' food, and she died after eating too many oats."
   },
   {
-    "start": 2066,
+    "start": 2054,
+    "end": 2057,
+    "text": " Because she'd never been told that oats were for horses, apparently."
+  },
+  {
+    "start": 2057,
+    "end": 2060,
+    "text": " And even if they had told her, she wouldn't understand."
+  },
+  {
+    "start": 2060,
+    "end": 2061,
+    "text": " No."
+  },
+  {
+    "start": 2061,
+    "end": 2064,
+    "text": " It's a very human tragedy."
+  },
+  {
+    "start": 2064,
+    "end": 2069,
+    "text": " I think this is true, that you know the name Fido for a dog?"
+  },
+  {
+    "start": 2069,
+    "end": 2070,
+    "text": " Yes."
+  },
+  {
+    "start": 2070,
+    "end": 2072,
+    "text": " Sort of archetypal dog name."
+  },
+  {
+    "start": 2072,
     "end": 2076,
-    "text": " [Music]"
+    "text": " This comes from Abraham Lincoln's dog, Fido, which I didn't know."
   },
   {
     "start": 2076,
-    "end": 2086,
-    "text": " [Music]"
+    "end": 2078,
+    "text": " Where did he get the name from, do you know?"
   },
   {
-    "start": 2086,
+    "start": 2078,
+    "end": 2080,
+    "text": " I don't know where he got it from."
+  },
+  {
+    "start": 2080,
+    "end": 2082,
+    "text": " I mean, it looks like Latin, I trust."
+  },
+  {
+    "start": 2082,
+    "end": 2089,
+    "text": " But Lincoln's dog, Fido, was also assassinated a few months after President Lincoln was assassinated."
+  },
+  {
+    "start": 2089,
+    "end": 2090,
+    "text": " No."
+  },
+  {
+    "start": 2090,
+    "end": 2091,
+    "text": " No way."
+  },
+  {
+    "start": 2091,
+    "end": 2092,
+    "text": " Why?"
+  },
+  {
+    "start": 2092,
+    "end": 2094,
+    "text": " By a dog."
+  },
+  {
+    "start": 2094,
     "end": 2096,
-    "text": " [Music]"
+    "text": " Yeah, by a dog."
   },
   {
     "start": 2096,
-    "end": 2106,
-    "text": " [Music]"
+    "end": 2099,
+    "text": " It was at a dog theatre."
   },
   {
-    "start": 2106,
-    "end": 2116,
-    "text": " [Music]"
+    "start": 2099,
+    "end": 2103,
+    "text": " It's like crufts."
   },
   {
-    "start": 2116,
-    "end": 2126,
-    "text": " [Music]"
+    "start": 2103,
+    "end": 2105,
+    "text": " I'm afraid I don't know who assassinated it."
   },
   {
-    "start": 2126,
-    "end": 2136,
-    "text": " [Music]"
+    "start": 2105,
+    "end": 2108,
+    "text": " But it was a deliberate assassination."
   },
   {
-    "start": 2136,
-    "end": 2146,
-    "text": " [Music]"
+    "start": 2108,
+    "end": 2115,
+    "text": " Yeah, I feel like using the word \"assassination\" to describe Fido's death trivialises the death of Abraham Lincoln."
   },
   {
-    "start": 2146,
+    "start": 2115,
+    "end": 2118,
+    "text": " Oh, I think we need to elevate Fido's death."
+  },
+  {
+    "start": 2118,
+    "end": 2120,
+    "text": " Just on pet cows."
+  },
+  {
+    "start": 2120,
+    "end": 2123,
+    "text": " There's one quite famous cow, Emily the cow."
+  },
+  {
+    "start": 2123,
+    "end": 2125,
+    "text": " This is a cow who's very well known in the '90s."
+  },
+  {
+    "start": 2125,
+    "end": 2131,
+    "text": " So in 1995, she was off to the slaughter in Massachusetts, and she escaped."
+  },
+  {
+    "start": 2131,
+    "end": 2134,
+    "text": " So the workmen at the slaughterhouse were having lunch, I believe."
+  },
+  {
+    "start": 2134,
+    "end": 2140,
+    "text": " And she leapt over a gate and fled, and the workers saw her and chased after her, couldn't catch her."
+  },
+  {
+    "start": 2140,
+    "end": 2148,
+    "text": " And she wandered the state for 40 days, and the police were sent out with instructions to kill on sight, and they couldn't catch her."
+  },
+  {
+    "start": 2148,
     "end": 2156,
-    "text": " [Music]"
+    "text": " And she foraged in people's backyards and stuff, and it's thought that people sort of helped her by leaving out bits of grass in their backyard."
   },
   {
     "start": 2156,
-    "end": 2166,
-    "text": " [Music]"
+    "end": 2158,
+    "text": " Leaving out bits of grass?"
   },
   {
-    "start": 2166,
-    "end": 2176,
-    "text": " [Music]"
+    "start": 2158,
+    "end": 2161,
+    "text": " Maybe some of their backyards already contained grass."
   },
   {
-    "start": 2176,
-    "end": 2186,
-    "text": " [Music]"
+    "start": 2161,
+    "end": 2167,
+    "text": " Where did they leave the grass? On the lawn?"
   },
   {
-    "start": 2186,
-    "end": 2196,
-    "text": " [Music]"
+    "start": 2167,
+    "end": 2171,
+    "text": " That cow must be wandering around going, \"I can't find any grass anywhere.\""
   },
   {
-    "start": 2196,
-    "end": 2206,
-    "text": " [Music]"
+    "start": 2171,
+    "end": 2175,
+    "text": " I can't see the grass for the grass."
   },
   {
-    "start": 2206,
-    "end": 2226,
-    "text": " [Music]"
+    "start": 2175,
+    "end": 2181,
+    "text": " Maybe it was made of invisible green grass."
   },
   {
-    "start": 2226,
-    "end": 2236,
-    "text": " [Music]"
+    "start": 2181,
+    "end": 2185,
+    "text": " So she spent 40 days and 40 nights effectively wandering in the wilderness."
   },
   {
-    "start": 2236,
+    "start": 2185,
+    "end": 2189,
+    "text": " Yes, she was the Jesus of the cow world."
+  },
+  {
+    "start": 2189,
+    "end": 2193,
+    "text": " She was seen once running with a herd of deer."
+  },
+  {
+    "start": 2193,
+    "end": 2195,
+    "text": " A miracle, a holy miracle, go on."
+  },
+  {
+    "start": 2195,
+    "end": 2197,
+    "text": " She eluded capture."
+  },
+  {
+    "start": 2197,
+    "end": 2201,
+    "text": " And she ended up in an abbey, so there you go."
+  },
+  {
+    "start": 2201,
+    "end": 2207,
+    "text": " Wait, are you sure she didn't end up in an abattoir, because that just sounds more likely."
+  },
+  {
+    "start": 2207,
+    "end": 2214,
+    "text": " No, there was a place called Peace Abbey, which was an interfaith movement who saw the story, went to the abattoir and bought her for a dollar."
+  },
+  {
+    "start": 2214,
+    "end": 2216,
+    "text": " She's still on the run at this point."
+  },
+  {
+    "start": 2216,
+    "end": 2221,
+    "text": " So they went to try and find her, and they caught her, and she lived with them for a further eight years happily."
+  },
+  {
+    "start": 2221,
+    "end": 2227,
+    "text": " And she ended up being a bridesmaid in two weddings."
+  },
+  {
+    "start": 2227,
+    "end": 2231,
+    "text": " Okay, that is it. That is all of our facts. Thank you so much for listening."
+  },
+  {
+    "start": 2231,
+    "end": 2238,
+    "text": " If you'd like to get in contact with any of us about the things that we said in the course of this podcast, you can find us on our Twitter accounts."
+  },
+  {
+    "start": 2238,
+    "end": 2240,
+    "text": " I'm on @ScribbleLand, Andy."
+  },
+  {
+    "start": 2240,
+    "end": 2243,
+    "text": " @OldJohnThePooSmuggler."
+  },
+  {
+    "start": 2243,
     "end": 2246,
-    "text": " [Music]"
+    "text": " James?"
   },
   {
     "start": 2246,
-    "end": 2256,
-    "text": " [Music]"
+    "end": 2247,
+    "text": " Do you want me to say the normal one as well?"
   },
   {
-    "start": 2256,
-    "end": 2266,
-    "text": " [Music]"
+    "start": 2247,
+    "end": 2248,
+    "text": " No, no, it's fine."
   },
   {
-    "start": 2266,
-    "end": 2276,
-    "text": " [Music]"
+    "start": 2248,
+    "end": 2251,
+    "text": " You'll just have to keep in the poo smuggling bit now."
   },
   {
-    "start": 2276,
-    "end": 2296,
-    "text": " [Music]"
+    "start": 2251,
+    "end": 2258,
+    "text": " I'm really going to cut that out and just have that as your Twitter video."
   },
   {
-    "start": 2296,
-    "end": 2299,
-    "text": " (audience cheering)"
+    "start": 2258,
+    "end": 2265,
+    "text": " For the next 20 episodes."
+  },
+  {
+    "start": 2265,
+    "end": 2268,
+    "text": " Who is the mysterious OldJohnThePooSmuggler?"
+  },
+  {
+    "start": 2268,
+    "end": 2272,
+    "text": " He sounds like Andrew Hunter Murray."
+  },
+  {
+    "start": 2272,
+    "end": 2273,
+    "text": " James?"
+  },
+  {
+    "start": 2273,
+    "end": 2277,
+    "text": " @JamesHarkins."
+  },
+  {
+    "start": 2277,
+    "end": 2278,
+    "text": " And Shazinsky?"
+  },
+  {
+    "start": 2278,
+    "end": 2280,
+    "text": " You can email podcast@QI.com."
+  },
+  {
+    "start": 2280,
+    "end": 2285,
+    "text": " Yep, or you can go to our group account, which is @nosuchthing, or our website, nosuchthingasafish.com."
+  },
+  {
+    "start": 2285,
+    "end": 2290,
+    "text": " We have everything up there from our previous episodes, upcoming tour dates, bits of merchandise."
+  },
+  {
+    "start": 2290,
+    "end": 2294,
+    "text": " Thank you so much, Amsterdam. That was awesome. We'll see you again. Good night!"
+  },
+  {
+    "start": 2294,
+    "end": 2297,
+    "text": " [Applause]"
+  },
+  {
+    "start": 2297,
+    "end": 2299.58,
+    "text": " (upbeat music)"
   }
 ]

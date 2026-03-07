@@ -1,34 +1,34 @@
 {
   "episode_type": "standard",
-  "episode_summary": "This episode features a variety of quirky and intriguing facts, including the origins of sausages, the peculiarities of NASCAR headlights, the massive data traffic through a Virginia county, and the unique celebration of Frozen Dead Guy Days in Colorado.",
+  "episode_summary": "A bonus compilation charity episode packed with rapid‑fire curios and oddities, from NASCAR’s sticker headlights and eel houses to records for cycling backwards, bears using combs, solved checkers, and WWII bathtime strategy demos—interspersed with appeals to support the Care Workers Charity.",
   "facts": [
     {
       "fact_number": 1,
-      "fact": "The first sausages were supposedly invented by Emperor Nero's cook, Gayas, who discovered them when a pig's intestine puffed up due to heat after the pig had been starved.",
-      "presenter": "James Harkin",
+      "fact": "The world record for cycling backwards is 333 kilometres in a day. And this is done by an Australian guy called Helinger.",
+      "presenter": "Dan Schreiber",
       "guest": false,
-      "start_time": "00:02:06"
+      "start_time": "00:08:46"
     },
     {
       "fact_number": 2,
-      "fact": "NASCAR cars don't have real headlights; they use stickers to simulate them because the races are either during the day or under floodlights, so functional headlights are unnecessary.",
+      "fact": "Grizzly bears can do one thing that I can't do. And that is user comb.",
       "presenter": "Anna Ptaszynski",
       "guest": false,
-      "start_time": "00:07:01"
+      "start_time": "00:19:53"
     },
     {
       "fact_number": 3,
-      "fact": "Loudoun County in Virginia supposedly handles 70% of the world's online traffic due to its large concentration of data centers.",
-      "presenter": "Dan Schreiber",
+      "fact": "I have a historical use of Lufa's, which may have changed the course of the Second World War. So, a Lufa was used in the Second World War to convince Churchill of a point, okay?",
+      "presenter": "James Harkin",
       "guest": false,
-      "start_time": "00:05:12"
+      "start_time": "00:41:37"
     },
     {
       "fact_number": 4,
-      "fact": "Frozen Dead Guy Days is an annual celebration in Nederland, Colorado, where they honor a man who was cryogenically frozen by his family and kept in a shed.",
+      "fact": "Yeah, drafts, it turns out, has been solved. There is now, there is now a, there is now no point in playing draft because there is a correct way to play it.",
       "presenter": "Andrew Hunter Murray",
       "guest": false,
-      "start_time": "00:16:22"
+      "start_time": "00:43:24"
     }
   ]
 }
