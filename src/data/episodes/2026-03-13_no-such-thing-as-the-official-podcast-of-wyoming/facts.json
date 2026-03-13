@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Mary Roach joins Dan, James, and Andy for a fact-packed episode covering early blood banks that hid staff behind partition walls, moss forensics solving crimes, the first breast implants tested on a dog, and New Mexico’s unique official state smell. Along the way they explore forensics, medical implants, and the quirky world of U.S. state symbols and smells.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "At the early blood banks, we're talking around 1915 or so, the staff sat hidden behind a wall with holes cut every few feet. Donors would come in, sit down, stick their arm through a hole, and thereby be spared the sight of needles and blood.",
+      "presenter": "Mary Roach",
+      "guest": true,
+      "start_time": "00:03:15"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Okay, my fact this week is that moss can solve crimes but it's woefully underappreciated.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:14:53"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that the first recipient of breast implants had to have them removed after she chewed through the stitches.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:26:27"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact is, there is only one American state with an official state smell.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:40:11"
+    }
+  ]
+}

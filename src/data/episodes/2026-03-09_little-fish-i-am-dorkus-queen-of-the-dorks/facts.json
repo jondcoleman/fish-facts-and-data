@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "A Little Fish mini-episode where Dan, Andrew, and James share listener-submitted facts ranging from a 17th-century British Chancellor named Julius Caesar to modern oddities like a 3D-printed Starbucks, nominative determinism, and historical time overlaps such as Jack the Ripper and the London Underground. They also chat about 3D-printed restorations, deep-rooted fig trees, and wrap up with custodianship shout-outs to classic Fish facts.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "It's from Kev Osman and it's that the Chancellor of the Exchequer between 1606 and 1614 was Julius Caesar.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "And Michael says that in our east of me is a town called Brownsville, Texas that has the very first 3D printed Starbucks. It opened in April 2025 and Michael was hired to take photos of it because he is an aerial photographer.",
+      "presenter": "Unknown",
+      "guest": false,
+      "start_time": "00:04:29"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The former CEO is called Robin Muffood.",
+      "presenter": "Unknown",
+      "guest": false,
+      "start_time": "00:06:44"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My favorite one of these is that Jack the Ripper could have taken the London tube to Whitechapel because they cross over in time.",
+      "presenter": "Unknown",
+      "guest": false,
+      "start_time": "00:11:42"
+    }
+  ]
+}
