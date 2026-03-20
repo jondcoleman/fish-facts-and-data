@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "An A Little Fish–style grab bag: the trio share listener-submitted curios, covering Santa Claus’s political role in North Pole, Alaska, the movie-trailer industry’s “Golden Fleece” award, a Nazi-era photo contest that accidentally chose a Jewish baby, and Australia’s second Prime Minister secretly moonlighting as a journalist. The chat also detours through sports oddities and assorted historical and transport trivia.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "This has been sent to us by Meg O'Connor, who says, 'Perhaps you were already aware, but Santa Claus is not the mayor of the North Pole.'",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:40"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is that the most prized award in the industry isn't best trailer or agency of the year, but it's an award for the best trailer for the worst movie, which is dubbed the Golden Fleece.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:03:10"
+    },
+    {
+      "fact_number": 3,
+      "fact": "When the Nazis ran a contest for a baby who exemplified the Aryan ideal, they picked a Jewish child.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:08:35"
+    },
+    {
+      "fact_number": 4,
+      "fact": "This fact is coming from Oliver Frederick who writes that when he was Prime Minister, Deakin had a secret second job. He had taken on a gig being a journalist writing secret political commentary on the Australian Parliament.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:04"
+    }
+  ]
+}

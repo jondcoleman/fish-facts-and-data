@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features facts about Inca-era ventriloquism, how Princess Margaret’s birth helped launch modern newspaper horoscopes, gorilla tourism and habituation methods in Congo, and a 19th-century Shakespeare scholar who both advanced and faked key textual edits. Along the way, the panel dives into royal gossip, primate etiquette, and the oddities of Shakespearean editing history.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Okay, my fact this week is that one of the most important people in Income society was the ventriloquist.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:03:02"
+    },
+    {
+      "fact_number": 2,
+      "fact": "And very surprisingly, we have Princess Margaret's birth to thank for horoscopes and newspapers and the modern day sort of horoscope.",
+      "presenter": "Nina Conti",
+      "guest": true,
+      "start_time": "00:16:43"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that when Caucasian tourists started visiting the mountain gorillas of Congo, local guides went around wearing envelopes as masks, so as to help the gorillas get used to the idea of white people.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:30:43"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact is the greatest Shakespeare editor of all time is also the worst Shakespeare editor of all time.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:42:09"
+    }
+  ]
+}
