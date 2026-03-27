@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode features guest Deliso Chaponda joining Dan, James, and Andy to share four facts spanning clandestine Bible smuggling to China, Lake Malawi’s astonishing fish diversity, an early British spacesuit complete with cape and walking stick, and Queen’s Scrabble-inspired album title. Along the way they delve into banned books, Malawi history and culture, space suit design quirks, and musicians’ nerdy hobbies like Scrabble and model railways.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "So my fact is in 1981, more than 1 million bibles were smuggled into China by water.",
+      "presenter": "Deliso Chaponda",
+      "guest": true,
+      "start_time": "00:02:28"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is, Lake Malawi contains a thousand species of the same kind of fish, one lake, a thousand different species.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:17:08"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that the first ever British space suit designed included a cape and a walking stick.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:30:46"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Okay, my fact this week is that the last queen album released while Freddie Mercury was alive, was named after his favorite words to play at Scrabble.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:45:10"
+    }
+  ]
+}

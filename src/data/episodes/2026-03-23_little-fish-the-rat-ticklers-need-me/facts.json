@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "A Little Fish episode where Andrew, Dan, and James share listener-submitted mini-facts ranging from a Swedish snow-penis tradition and Jupiter’s liquid interior to New Delhi’s kite-diversion chicken and a prank “fungus” golf ball at Kew, followed by a run of patron custodian shout-outs with quirky historical tidbits. The show mixes surprising science, odd public art, animal behavior, and cultural trivia.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Henry says that in 2016, a Gothenburg man apologized for removing a giant snow penis by replacing it with a much larger snow penis, and this has led to a spin-off tradition and even a new political party.",
+      "presenter": "Unknown",
+      "guest": false,
+      "start_time": "00:01:30"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Magnus writes, \"My fact is that Jupiter is not mostly composed of gas, but is in fact largely liquid hydrogen covered by gas clouds.\"",
+      "presenter": "Unknown",
+      "guest": false,
+      "start_time": "00:05:11"
+    },
+    {
+      "fact_number": 3,
+      "fact": "It's that the Indian Republic Day Parade held in New Delhi features 1,270 kilos of boneless chicken.",
+      "presenter": "Unknown",
+      "guest": false,
+      "start_time": "00:07:47"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Here is a fact from Jennifer Neal and Jennifer writes about species of fungi found in the Hungarian at few gardens that does not grow naturally anywhere else in the world.",
+      "presenter": "Unknown",
+      "guest": false,
+      "start_time": "00:10:48"
+    }
+  ]
+}
