@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Dan, James, Andy, and guest Angela Barnes share four new facts covering synesthesia and how some people perceive numbers with colors and personalities, strict royal etiquette around touching Elizabeth I and the role of the Master of the Horse, the quirks of Formula One licensing and driver ages, and a 16th-century chain of pubs serving purging ale. The episode mixes science, royal history, motorsport, and historical medicine with plenty of jokes and tangents.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "OK, so my fact is that the number four is orange and a lot kinder, the number five, which has an attitude problem.",
+      "presenter": "Angela Barnes",
+      "guest": true,
+      "start_time": "00:02:14"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is, in 1577, there was only one man in England permitted to touch the queen.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:48"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that the 10th best formula one driver in the world can't drive. He can't drive regular cars.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:30:27"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Okay, my fact this week is that in 16th century London, there was a chain of pubs that sold laxatives on tap.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:45:17"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "A Little Fish bonus episode where the team shares listener‑submitted mini-facts from the past week. Highlights include Stonehenge vs the A303, family pairings in sport, Canada’s “storm chips,” and odd news like a fatal falling poodle and runaway hamsters grounding a plane.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "The A303 was not built close to Stonehenge. Stonehenge was built close to the A303.",
+      "presenter": "Unknown",
+      "guest": false,
+      "start_time": "00:01:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "So Swindon Wildcats are a hockey team, a nice hockey team. And this year, not one, but two father and son duos played on the same roster.",
+      "presenter": "Unknown",
+      "guest": false,
+      "start_time": "00:04:08"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Canadians have special crisps to eat during storms.",
+      "presenter": "Unknown",
+      "guest": false,
+      "start_time": "00:07:00"
+    },
+    {
+      "fact_number": 4,
+      "fact": "On October 24, 1988, a falling poodle calls the death of three people in Buenos Aires.",
+      "presenter": "Unknown",
+      "guest": false,
+      "start_time": "00:14:30"
+    }
+  ]
+}
