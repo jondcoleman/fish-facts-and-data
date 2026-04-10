@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Andy reveals a Ben-Hur dedication that accidentally implied the author’s wife had died; Ann explores obscure Greek deities including Chiomites, the god of beans, and modern worship; Dan tells how archivist William “Blackbeard” saved millions of original American comic strips and the history and censorship of comics; James dives into naked mole rats’ rigid job roles and their bizarre superpowers.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact is, the author of Ben Her dedicated the book to his wife, but he accidentally made it sound like she died. And when he tried to fix it, made it sound even more like she died.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:52"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is that, as well as more famous Greek gods, like Poseidon and Zeus, there was also Chiomites, the God of Beans.",
+      "presenter": "Ann Miller",
+      "guest": true,
+      "start_time": "00:15:00"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that the greatest ever treasure trove of original American comic strips was discovered in a naval warehouse by a man called Blackbeard.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:52"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Okay, my fact this week is that naked mole rat toilet cleaners have no hope for promotion.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:41:18"
+    }
+  ]
+}

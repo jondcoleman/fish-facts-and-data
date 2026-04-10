@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "A Little Fish mailbag episode where the team share listener-submitted curios: from the Dogs Playing Poker artist’s mosquito opera and the pseudonymous poet duo Michael Field, to Amundsen’s well-fed polar team and an octillion laser pointers to blow up Earth, with assorted detours into nominative determinism, last meals, Olympic plant names, and peacock “lasers.”",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "This is a fact that is sent into us by James Udell and it is the artist behind the famous dogs playing poker paintings. Also once wrote a comic opera about an anthropomorphic giant mosquito.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:39"
+    },
+    {
+      "fact_number": 2,
+      "fact": "But it's Michael Field is a very interesting poet because he, quote unquote, was two women Catherine Bradley and Edith Cooper, aka Bradley Cooper.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:05:11"
+    },
+    {
+      "fact_number": 3,
+      "fact": "So the first one is that \"Rolled Adminson's Polar Thrust\" was so well planned that all five in his group had gained weight upon returning to base camp.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:06:43"
+    },
+    {
+      "fact_number": 4,
+      "fact": "According to Lucas' calculations, it is 1.422 octillion.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:15:45"
+    }
+  ]
+}
