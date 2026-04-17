@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Guest Zoe Lyons joins Dan, James, and Andy for facts on human endurance running and persistence hunting; Anthony Bourdain’s meteorite kitchen knife; how scientists collect semen from sharks and unusual shark biology; and Eddie the Eagle’s ski-jumping exploits and equipment mishaps.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Apparently researchers have discovered that humans may have evolved to run long distances as a result of their endurance pursuit hunting skills.",
+      "presenter": "Zoe Lyons",
+      "guest": true,
+      "start_time": "00:02:33"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Celebrity chef Anthony Bourdain used to chop his onions with a knife from outer space.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:22"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The steps to get semen from a shark are number one, get the shark to lie on its back and number two, remove the semen from the shark. The first of these is by far the hardest.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:30:14"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The British Olympic skier, Eddie the Eagle, once came second to his own helmet.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:44:15"
+    }
+  ]
+}

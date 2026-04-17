@@ -1,0 +1,3072 @@
+[
+  {
+    "start": 0,
+    "end": 4.48,
+    "text": " Hi everyone! Welcome to this week's episode of No Stitch Things The Fish, where we were"
+  },
+  {
+    "start": 4.48,
+    "end": 11.56,
+    "text": " joined by the incredibly funny and the absolutely charming Zoe Lyons. If you watch QI,"
+  },
+  {
+    "start": 11.56,
+    "end": 15.16,
+    "text": " which I bet you do if you listen to this, then you will know all about Zoe. She's always"
+  },
+  {
+    "start": 15.16,
+    "end": 19.52,
+    "text": " fantastic when she comes on our show. She's also brilliant on all the other things she"
+  },
+  {
+    "start": 19.52,
+    "end": 24.6,
+    "text": " does. Mock The Week is probably what I mostly associate her with, but yeah, she's a brilliant"
+  },
+  {
+    "start": 24.6,
+    "end": 29.68,
+    "text": " comedian. She's so funny, she's so nice and so quick. I mean, all these comedians are,"
+  },
+  {
+    "start": 29.68,
+    "end": 35.28,
+    "text": " but Zoe, honestly, she is so quick off the blocks. It's unbelievable. And actually, what a"
+  },
+  {
+    "start": 35.28,
+    "end": 41.44,
+    "text": " nice segue. She has a podcast out, all about running. Her podcast is called The Running"
+  },
+  {
+    "start": 41.44,
+    "end": 46.48,
+    "text": " Joke. It's with her and Esther Minito, and they just talk all about running. Yeah, you"
+  },
+  {
+    "start": 46.48,
+    "end": 50.28,
+    "text": " don't have to be a fast runner to enjoy it. It's for everyone, really, even if you just"
+  },
+  {
+    "start": 50.28,
+    "end": 55.4,
+    "text": " applaud along at your own pace. It's for you. It's extremely accessible. It's extremely funny,"
+  },
+  {
+    "start": 55.4,
+    "end": 60.2,
+    "text": " as you would expect everything to be that involves Zoe and highly recommend you get that."
+  },
+  {
+    "start": 60.2,
+    "end": 64.36,
+    "text": " It's called The Running Joke, and you get it wherever you get your podcasts. While I'm"
+  },
+  {
+    "start": 64.36,
+    "end": 70.24,
+    "text": " here, like always, I should remind you about clubfish. Go to patreon.com/clubfish. If you"
+  },
+  {
+    "start": 70.24,
+    "end": 73.88,
+    "text": " would like to get involved there, just sign up. You don't need to give us any money and"
+  },
+  {
+    "start": 73.88,
+    "end": 78.36,
+    "text": " you will get extra little bits every now and then. Like a newsletter that we're currently"
+  },
+  {
+    "start": 78.36,
+    "end": 82.36,
+    "text": " doing, which has lots of behind the scenes stuff. Or you could give us a little bit of money"
+  },
+  {
+    "start": 82.36,
+    "end": 87.2,
+    "text": " every month, help support the podcast. And you can get ad free episodes. You can get bonus"
+  },
+  {
+    "start": 87.2,
+    "end": 92.56,
+    "text": " content. You can get merch. You can even get a shout out on our other show, Little Fish."
+  },
+  {
+    "start": 92.56,
+    "end": 98.44,
+    "text": " There's all sorts there for everyone. Go to patreon.com/clubfish to learn more about that."
+  },
+  {
+    "start": 98.44,
+    "end": 102.76,
+    "text": " But in the meantime, please enjoy this show, which I'm absolutely certain you will with"
+  },
+  {
+    "start": 102.76,
+    "end": 117.2,
+    "text": " the incredible Zoe Lyons. Ok, up with the podcast."
+  },
+  {
+    "start": 117.2,
+    "end": 129.32,
+    "text": " Hello, and welcome to another episode of No Such Thing as a Fish, a weekly podcast coming"
+  },
+  {
+    "start": 129.32,
+    "end": 134.28,
+    "text": " to you from the QI offices in Hobern. My name is Dan Shriver. I'm sitting here with James"
+  },
+  {
+    "start": 134.28,
+    "end": 139.6,
+    "text": " Harkin, Andrew Hunter Murray, and Zoe Lyons. And once again, we have gathered around the microphones"
+  },
+  {
+    "start": 139.6,
+    "end": 144.24,
+    "text": " with our four favorite facts from the last seven days. And in a particular order, here"
+  },
+  {
+    "start": 144.24,
+    "end": 148.44,
+    "text": " we go. Starting with fact number one, and that is Zoe."
+  },
+  {
+    "start": 148.44,
+    "end": 153.12,
+    "text": " Thank you very much, and I've brought a lovely little fact along for this week. Apparently"
+  },
+  {
+    "start": 153.12,
+    "end": 161.68,
+    "text": " researchers have discovered that humans may have evolved to run long distances as a result"
+  },
+  {
+    "start": 161.68,
+    "end": 170.28,
+    "text": " of their endurance pursuit hunting skills. So the idea being that humans would pursue"
+  },
+  {
+    "start": 170.28,
+    "end": 177.68,
+    "text": " its prey for long, long periods of time to exhaust it, their user technique of sort of"
+  },
+  {
+    "start": 177.68,
+    "end": 184.64,
+    "text": " running in the heat predominantly, so that the animal would become completely exhausted"
+  },
+  {
+    "start": 184.64,
+    "end": 189.56,
+    "text": " and suffer from heat exhaustion, eventually tire. We don't know how long it would take"
+  },
+  {
+    "start": 189.56,
+    "end": 193,
+    "text": " to tire, but I'm guessing quite a while, if you'd dare."
+  },
+  {
+    "start": 193,
+    "end": 198.68,
+    "text": " Over one mile, almost every animal in the world beats us. Yeah, or at least any mammal,"
+  },
+  {
+    "start": 198.68,
+    "end": 205.32,
+    "text": " not insects out, but a house cat would absolutely batter us over a mile. But the further"
+  },
+  {
+    "start": 205.32,
+    "end": 210.72,
+    "text": " we get, the closer we get to them, and eventually over a couple of days, we beat everyone."
+  },
+  {
+    "start": 210.72,
+    "end": 217.16,
+    "text": " And is that because we've got things like energy buzz and supportive, it's largely"
+  },
+  {
+    "start": 217.16,
+    "end": 220.2,
+    "text": " Gatorade that has helped us become the dominant species of climate."
+  },
+  {
+    "start": 220.2,
+    "end": 223.4,
+    "text": " Because we've got a good audio book going on and we don't want to stop. Yeah, yeah."
+  },
+  {
+    "start": 223.4,
+    "end": 228.4,
+    "text": " Whereas cats, silly things, don't listen to things like that. There are loads of different"
+  },
+  {
+    "start": 228.4,
+    "end": 232.44,
+    "text": " reasons, but it's all due to our anatomy, right? Yes, yes. So we've got longer legs."
+  },
+  {
+    "start": 232.44,
+    "end": 238.16,
+    "text": " We've got a longer leg, but also we've got, I'm going to say cracking buttocks."
+  },
+  {
+    "start": 238.16,
+    "end": 242.32,
+    "text": " Do we? Yeah, we've got really good buttocks that help you. Thank you for noticing. Thank you"
+  },
+  {
+    "start": 242.32,
+    "end": 246.16,
+    "text": " for noticing. You're the first guest we've ever had who noticed that. Yeah, cracking buttocks."
+  },
+  {
+    "start": 246.16,
+    "end": 251.32,
+    "text": " It's the only reason why the podcast is a sit-around for the selection of absolutely cracking"
+  },
+  {
+    "start": 251.32,
+    "end": 257.04,
+    "text": " buttocks. Cracking buttocks is a great name for a podcast. It is, isn't it. But we've got"
+  },
+  {
+    "start": 257.04,
+    "end": 264.72,
+    "text": " cracking buttocks. We've got long tendons and we've also got an incredible ability to sweat"
+  },
+  {
+    "start": 264.72,
+    "end": 272.88,
+    "text": " profusely. That has been mentioned there. Yes, yes, it has been cracking a window in a minute."
+  },
+  {
+    "start": 272.88,
+    "end": 278.64,
+    "text": " So it means that whereas a deer or another man might suffer with the heat over long, long"
+  },
+  {
+    "start": 278.64,
+    "end": 284.04,
+    "text": " endurance runs, we are able to literally sweat it out. We can just get radios and chuck it"
+  },
+  {
+    "start": 284.04,
+    "end": 286.88,
+    "text": " away and that's really good. I also read that the upright thing is"
+  },
+  {
+    "start": 286.88,
+    "end": 292.72,
+    "text": " really interesting because us being upright means that when we're running, we can separate"
+  },
+  {
+    "start": 292.72,
+    "end": 297.52,
+    "text": " breathing in and out and our strides, right? If you're a quadruped and you're running"
+  },
+  {
+    "start": 297.52,
+    "end": 303.68,
+    "text": " with your legs going in and out, you're sort of moving like an accordion. So you're"
+  },
+  {
+    "start": 303.68,
+    "end": 308.24,
+    "text": " sort of having to time your breathing, you get exqueased at various points. And of course"
+  },
+  {
+    "start": 308.24,
+    "end": 313.64,
+    "text": " is why horses and dogs are famously bad runners. I tell you what, when I do running, I sound"
+  },
+  {
+    "start": 313.64,
+    "end": 320.96,
+    "text": " a bit like an accordion. That wheezing sound. But we can breathe independently of our stride,"
+  },
+  {
+    "start": 320.96,
+    "end": 324.84,
+    "text": " which is helpful when you're running around. Although, sorry, you run a lot, right?"
+  },
+  {
+    "start": 324.84,
+    "end": 330.04,
+    "text": " Yeah, I've gone through phases of running a lot. I am now getting back into it and I really,"
+  },
+  {
+    "start": 330.04,
+    "end": 334.6,
+    "text": " really, it really took off me during the pandemic when we could do nothing else. So I started running"
+  },
+  {
+    "start": 334.6,
+    "end": 340.4,
+    "text": " and didn't really stop. But for example, yes, so without fear. And it culminated in my brother"
+  },
+  {
+    "start": 340.4,
+    "end": 346.64,
+    "text": " and I running from London to Brighton. So we did, yeah, what is that? How long is that?"
+  },
+  {
+    "start": 346.64,
+    "end": 350.72,
+    "text": " At 100 kilometres. Wow. Which sounds, it's 60 miles, but I always say 100 kilometres, because"
+  },
+  {
+    "start": 350.72,
+    "end": 354.8,
+    "text": " I think that sounds more impressive. Triple figs in it. Yes, they're a big old hill right"
+  },
+  {
+    "start": 354.8,
+    "end": 362.68,
+    "text": " near the end. Right, right at the end. Very, very close to the end. It's just, it is ditchly"
+  },
+  {
+    "start": 362.68,
+    "end": 367.56,
+    "text": " and beacon. It's an absolute bastard. And why is it a bit a nightmare for you? Well, I cycle"
+  },
+  {
+    "start": 367.56,
+    "end": 371.88,
+    "text": " London. Oh, yeah, everybody complains about that when they cycle it, yeah, it's a real pain."
+  },
+  {
+    "start": 371.88,
+    "end": 376.44,
+    "text": " And it's quite a thing right at the end. Right. We hit it, you know, it was like two o'clock"
+  },
+  {
+    "start": 376.44,
+    "end": 379.96,
+    "text": " in the morning by the time we hit that. So did you do it in one go? We did it in one go."
+  },
+  {
+    "start": 379.96,
+    "end": 385.56,
+    "text": " Oh, yeah. It took a very, very, very, very long time. The reason I asked you that so is, because"
+  },
+  {
+    "start": 385.56,
+    "end": 391.4,
+    "text": " when I was running, you tend to, you do breathe on your steps, don't you? It's like a rhythm,"
+  },
+  {
+    "start": 391.4,
+    "end": 395.72,
+    "text": " you try and breathe when you're stepping. Yeah. Is that right? Well, I, now that I'm getting"
+  },
+  {
+    "start": 395.72,
+    "end": 399.72,
+    "text": " back into my running and I just did a half marathon a couple of weeks ago. I have a sort of"
+  },
+  {
+    "start": 399.72,
+    "end": 404.12,
+    "text": " meditative thing in my head where I asked a long distance runner once, he used to run hundreds"
+  },
+  {
+    "start": 404.12,
+    "end": 410.52,
+    "text": " of miles. I said, what do you think about? And he said, I just go one, two, three, one, two, three."
+  },
+  {
+    "start": 410.52,
+    "end": 416.36,
+    "text": " And I went really? Psychopath. Yeah. Sorry, because he wants it. He's just one, two, three. Yeah."
+  },
+  {
+    "start": 416.36,
+    "end": 422.6,
+    "text": " Skip ball change, skip ball change. One, two, three. And shuffle, shuffle, shuffle, shuffle. Yeah."
+  },
+  {
+    "start": 422.6,
+    "end": 427.08,
+    "text": " I mean, he did pretty well, but it's partnered and it backwards. Yeah, yeah, yeah, yeah, exactly."
+  },
+  {
+    "start": 427.08,
+    "end": 431.24,
+    "text": " When they came to the lifts, it all fell apart. But I do that now when I run it. I've got,"
+  },
+  {
+    "start": 431.24,
+    "end": 435.8,
+    "text": " but I don't, I don't supple three. I go to eight. And it really helps with the breathing. It's"
+  },
+  {
+    "start": 435.8,
+    "end": 441.64,
+    "text": " one, two, three, four, five, six, seven, eight. And it becomes so meditative. It becomes so"
+  },
+  {
+    "start": 441.64,
+    "end": 446.12,
+    "text": " meditative. And it sort of tunes into your way of thinking and the sort of flow of your brain and"
+  },
+  {
+    "start": 446.12,
+    "end": 450.04,
+    "text": " the flow of your breath. Do you know what might have happened to you during that one run between"
+  },
+  {
+    "start": 450.04,
+    "end": 455.72,
+    "text": " London and Brighton? At the end of it, you would have been shorter. Yes. You would have been about"
+  },
+  {
+    "start": 455.72,
+    "end": 460.2,
+    "text": " half an inch shorter. Yes. Because your spine gets so compressed as you're running that you"
+  },
+  {
+    "start": 460.2,
+    "end": 465.56,
+    "text": " literally lose height. So that would have recovered about 20 to 48 hours afterwards. But because of the"
+  },
+  {
+    "start": 465.56,
+    "end": 470.6,
+    "text": " length that you ran, not only might you have been shorter, but your brain might have been six percent"
+  },
+  {
+    "start": 470.6,
+    "end": 476.92,
+    "text": " smaller. Wow. Or up to six percent smaller. Really? Yeah. Well, I mean, I did question every"
+  },
+  {
+    "start": 476.92,
+    "end": 482.92,
+    "text": " moment of it after like there wasn't a bit where I was going, why on earth are we doing this?"
+  },
+  {
+    "start": 482.92,
+    "end": 488.2,
+    "text": " Well, this is it's more Ultramarathon runners experience. And it's basically when your body has run"
+  },
+  {
+    "start": 488.2,
+    "end": 492.52,
+    "text": " out of things to burn or is running out of things to burn, there's a fatty substance in your brain"
+  },
+  {
+    "start": 492.52,
+    "end": 497.4,
+    "text": " that coats around nerve cells called myelin. And your brain just starts eating itself. Oh, my goodness."
+  },
+  {
+    "start": 497.4,
+    "end": 502.04,
+    "text": " Yeah. And that takes like six months to recover from. Are you serious? So you might have been"
+  },
+  {
+    "start": 502.04,
+    "end": 506.68,
+    "text": " half an inch shorter and six percent less intelligent. Absolutely delirious by the end. Right."
+  },
+  {
+    "start": 506.68,
+    "end": 511.64,
+    "text": " I was completely delirious by the end. It does awful things to your body. I hadn't trained running"
+  },
+  {
+    "start": 511.64,
+    "end": 517.96,
+    "text": " and eating. And I told my brother this as we set off and he went, oh, my God. Really? I said,"
+  },
+  {
+    "start": 517.96,
+    "end": 522.04,
+    "text": " yeah, I'll be fine. He went, you mean, you've never run and eaten at the same time. I mean, no,"
+  },
+  {
+    "start": 522.04,
+    "end": 528.68,
+    "text": " I'm sure it'd be absolutely fine. Anyway, stop. Well, I mean, yes, but it's, but it's your body can't"
+  },
+  {
+    "start": 528.68,
+    "end": 535.48,
+    "text": " quite digest it. Let me just say it was quite catastrophic. Oh, yeah, yeah, it was. I finished the race,"
+  },
+  {
+    "start": 535.48,
+    "end": 544.52,
+    "text": " but not in the shorts I started in. Yeah, yeah, yeah, yeah. As a cracking butt."
+  },
+  {
+    "start": 544.52,
+    "end": 554.36,
+    "text": " I was reading about this. So ultra-marathons can induce consequences of all sorts through the world."
+  },
+  {
+    "start": 554.36,
+    "end": 559.56,
+    "text": " Where are adults here? What do you mean? Okay, this is a piece on, I think it was running world."
+  },
+  {
+    "start": 559.56,
+    "end": 566.28,
+    "text": " If you've ever seen post-race urine samples, you will know that things can be bad. I have seen a few"
+  },
+  {
+    "start": 566.28,
+    "end": 571.72,
+    "text": " p-cups after hot, grueling ultra-marathons and they could serve as the set location for my next"
+  },
+  {
+    "start": 571.72,
+    "end": 578.84,
+    "text": " big game show, Coca-Cola, tomato soup, or urine. Wow. Yeah. It can be brown. It can have pulp."
+  },
+  {
+    "start": 579.64,
+    "end": 586.6,
+    "text": " Apparently, who's just gonna have bits? You don't want to know what that is apparently. I mean, it"
+  },
+  {
+    "start": 586.6,
+    "end": 592.36,
+    "text": " gets. Oh, gosh. But yeah, I guess if it, like, I've had friends who've done like the marathon"
+  },
+  {
+    "start": 592.36,
+    "end": 599.56,
+    "text": " disarble in the Sahara and that, you know, that is intense. Absolutely. And the level of dehydration"
+  },
+  {
+    "start": 599.56,
+    "end": 605.16,
+    "text": " must be just, yeah, yeah, yeah. You'd be weeing out all sorts and it will dust I would imagine by the"
+  },
+  {
+    "start": 605.16,
+    "end": 614.04,
+    "text": " end of that. Yeah. So the idea that we've evolved to run is also the idea behind maybe barefoot"
+  },
+  {
+    "start": 614.04,
+    "end": 619.72,
+    "text": " running. Yes. Some people think it's healthier to run without shoes than it is to run with shoes."
+  },
+  {
+    "start": 619.72,
+    "end": 625.88,
+    "text": " And I think the studies look at it and probably say that it's better to be barefoot than to just get"
+  },
+  {
+    "start": 625.88,
+    "end": 630.68,
+    "text": " a pair of trainers off the shelf. Yeah. But if you get really specialist trainers, they're probably"
+  },
+  {
+    "start": 630.68,
+    "end": 635.4,
+    "text": " better still. They're so bouncy these days. Honestly, I'm wearing basically two mattresses."
+  },
+  {
+    "start": 635.4,
+    "end": 643.4,
+    "text": " It's, I've got a new pair of shoes and they are bouncy. Yeah, yeah, yeah, they do help with the"
+  },
+  {
+    "start": 643.4,
+    "end": 647.32,
+    "text": " knees and everything. Because I'm getting older as well. So it's, you've got to be careful of the"
+  },
+  {
+    "start": 647.32,
+    "end": 652.6,
+    "text": " joints and everything. So yeah, two big bouncy pairs of shoes. Speaking of bouncy, some people think"
+  },
+  {
+    "start": 652.6,
+    "end": 658.76,
+    "text": " that the obvious next step from barefoot running is completely naked running. Oh, I'm going to"
+  },
+  {
+    "start": 658.76,
+    "end": 665.32,
+    "text": " disagree with that. Just say chaffing. Chaffing is bad. I was thinking there would be less chaffing"
+  },
+  {
+    "start": 665.32,
+    "end": 670.92,
+    "text": " if there was less clothing. No skin on skin is not good. It's not good. Yeah. But there are some"
+  },
+  {
+    "start": 670.92,
+    "end": 676.28,
+    "text": " manufacturers that make something called naked shorts. We're about as naked as you can get with,"
+  },
+  {
+    "start": 676.28,
+    "end": 681.24,
+    "text": " but they're still shorts. They still preserve your modesty. Right. But they're like, you can hardly"
+  },
+  {
+    "start": 681.24,
+    "end": 685.16,
+    "text": " feel that they're on there. I was talking to somebody about this the other day about naked running"
+  },
+  {
+    "start": 685.16,
+    "end": 690.04,
+    "text": " for me and the thing is, you know, we've got sort of high tech running gear. It's designed to sort of"
+  },
+  {
+    "start": 690.04,
+    "end": 696.2,
+    "text": " pull the moisture away from the skin. So you do, you stay drier. But if you've just got sweaty"
+  },
+  {
+    "start": 696.2,
+    "end": 701.8,
+    "text": " skin on sweaty skin, wherever that may be, whichever is touching with other, other bit, you will get"
+  },
+  {
+    "start": 701.8,
+    "end": 705.32,
+    "text": " problems. And it's things on the long distance, on the little things that you don't think about,"
+  },
+  {
+    "start": 705.32,
+    "end": 712.76,
+    "text": " like a label in your shorts, can just over time, you know, take a leg off. And also once it gets in"
+  },
+  {
+    "start": 712.76,
+    "end": 718.04,
+    "text": " your head, that's the thing, isn't it? So you're running. And basically, if you're relatively fit,"
+  },
+  {
+    "start": 718.04,
+    "end": 723.24,
+    "text": " you can keep running. But your brain is always telling you to stop unless you're an athlete."
+  },
+  {
+    "start": 723.24,
+    "end": 726.92,
+    "text": " Yes. The brain's always saying, oh, I'll just get to that next lamp post and then I'll stop."
+  },
+  {
+    "start": 726.92,
+    "end": 730.6,
+    "text": " Yeah. And so if you feel anything like a little label, your brain is just saying,"
+  },
+  {
+    "start": 730.6,
+    "end": 735.32,
+    "text": " I need to stop. Stop and sort that label out. That's a very interesting point. And there's a,"
+  },
+  {
+    "start": 735.32,
+    "end": 741.16,
+    "text": " I've only found out recently, there's a technique of running called Jeffing, which apparently is what"
+  },
+  {
+    "start": 741.16,
+    "end": 747.96,
+    "text": " these hunters used to do as well, which is a combination of run walking. And it's after a guy called"
+  },
+  {
+    "start": 747.96,
+    "end": 753.8,
+    "text": " Jeff Galloway, who was an American Olympian. And it's used by a lot of runners now where you do"
+  },
+  {
+    "start": 753.8,
+    "end": 762.04,
+    "text": " conserve energy going up slight inclines or if you to stop long term fatigue, walk for a bit."
+  },
+  {
+    "start": 762.04,
+    "end": 766.12,
+    "text": " So it's running and walking. It's a combination of both. And apparently people are doing really,"
+  },
+  {
+    "start": 766.12,
+    "end": 771,
+    "text": " really good times on long distance runs by using that combination of running and what and Jeffing,"
+  },
+  {
+    "start": 771,
+    "end": 775.8,
+    "text": " I trust it. Yeah. I didn't realise I was actually a professional athlete by just walking for a bit."
+  },
+  {
+    "start": 775.8,
+    "end": 784.68,
+    "text": " Can I ask a question of user as the champion runner around the table? Do you smile?"
+  },
+  {
+    "start": 784.68,
+    "end": 790.76,
+    "text": " Well, while I'm running. Yeah. Well, not according to the race photos I just got through."
+  },
+  {
+    "start": 792.2,
+    "end": 798.92,
+    "text": " Which I'm going to say alarming. Okay. Okay. In the latest one, I look weirdly like David Cameron."
+  },
+  {
+    "start": 798.92,
+    "end": 803.8,
+    "text": " Yeah. Right. Just like bitterly disappointed and puffy in the face."
+  },
+  {
+    "start": 803.8,
+    "end": 809.4,
+    "text": " A race photo that's kind of like a roller coaster photo. Yeah. It's a spot that just takes everyone."
+  },
+  {
+    "start": 809.4,
+    "end": 815.16,
+    "text": " Yeah. Yeah. Yeah. Yeah. Yeah. Oh, I do not look good in those photos. I think I'm smiling,"
+  },
+  {
+    "start": 815.16,
+    "end": 821.32,
+    "text": " but I'm clearly not. I'm, yeah, because it could help. Right. This is, there have been lots of,"
+  },
+  {
+    "start": 821.32,
+    "end": 824.76,
+    "text": " obviously, so many people are interested in what helps and doesn't help when you're running."
+  },
+  {
+    "start": 824.76,
+    "end": 830.76,
+    "text": " If you smile, it doesn't have to be a real smile. Yeah. You just have to stick one on."
+  },
+  {
+    "start": 830.76,
+    "end": 837.4,
+    "text": " Okay. It means you will use a bit less oxygen. You will run a bit more economically and your internal"
+  },
+  {
+    "start": 837.4,
+    "end": 843,
+    "text": " perceived exertion is lower than people who are frowning while they're running. I get that."
+  },
+  {
+    "start": 843,
+    "end": 846.92,
+    "text": " I do understand. It goes back to what you were saying about saying, stop, stop. You almost stop."
+  },
+  {
+    "start": 846.92,
+    "end": 851.8,
+    "text": " Apparently, if you change your internal monologue, and this goes by Jeff Galloway,"
+  },
+  {
+    "start": 851.8,
+    "end": 856.92,
+    "text": " apparently trained people to think of positive words and his words were written down."
+  },
+  {
+    "start": 856.92,
+    "end": 864.2,
+    "text": " It was really lovely. It was, um, relax, power, glide. Fantastic. So if you have those words going"
+  },
+  {
+    "start": 864.2,
+    "end": 869.64,
+    "text": " around in your head as you're running, that will help. I'm going to smile. Well, this is what I'm"
+  },
+  {
+    "start": 869.64,
+    "end": 879.72,
+    "text": " going to start shouting at joggers. Yeah. Why don't you try relaxing? Is it the old thing that"
+  },
+  {
+    "start": 879.72,
+    "end": 884.84,
+    "text": " you used to see on Greeting's card, which is like it takes fewer muscles to smile them frown or"
+  },
+  {
+    "start": 884.84,
+    "end": 889.48,
+    "text": " whatever. Yeah. Is it to do with that? Right. It takes fewer muscles still to stuff that card up"
+  },
+  {
+    "start": 889.48,
+    "end": 899,
+    "text": " somebody else also. Show that where the sun doesn't shine. Yeah. Very funny. There is of course one"
+  },
+  {
+    "start": 899,
+    "end": 903.64,
+    "text": " animal that can outrun all humans. I know you said that almost every mammal is better."
+  },
+  {
+    "start": 903.64,
+    "end": 910.2,
+    "text": " Really? Over long distances. Over long distances? Yeah. A heron. Okay. Heron. But that is cheating"
+  },
+  {
+    "start": 910.2,
+    "end": 915.32,
+    "text": " if you're running with your wings in the air. No, no. This is, um, Kami Heron, who is an ultra-marathon"
+  },
+  {
+    "start": 915.32,
+    "end": 923.32,
+    "text": " woman. And you all walked right into my little track there. Absolutely. Yeah. She's great. She's"
+  },
+  {
+    "start": 923.32,
+    "end": 930.28,
+    "text": " broken various records. She's run at 1.560 miles in six days. Oh my goodness. Yeah. But there's been"
+  },
+  {
+    "start": 930.28,
+    "end": 938.2,
+    "text": " a bit of a scandal about her. Oh, her. She's lost her support from Lululemon. Okay. Oh, so Lululemon"
+  },
+  {
+    "start": 938.2,
+    "end": 943.8,
+    "text": " is a clothing company. They do very, very expensive sports gear. Yeah. And basically her husband"
+  },
+  {
+    "start": 943.8,
+    "end": 950.36,
+    "text": " was found to have been editing Wikipedia entries of other runners, to remove various runs that they"
+  },
+  {
+    "start": 950.36,
+    "end": 954.44,
+    "text": " had done a various achievements that they've made. I think the implication is to make, to make"
+  },
+  {
+    "start": 954.44,
+    "end": 958.84,
+    "text": " his wife look better. Yes. Oh, dear. Apparently she didn't know about it, but it's, it's cool to"
+  },
+  {
+    "start": 958.84,
+    "end": 965,
+    "text": " better. My wife does that with other podcasters on wiki. And it's, I don't see what's wrong with it."
+  },
+  {
+    "start": 965,
+    "end": 971.64,
+    "text": " Yes. You'll find no trace at all of off-menual Wikipedia. It's a huge show. It should be there."
+  },
+  {
+    "start": 971.64,
+    "end": 982.92,
+    "text": " That doesn't exist. Okay. It is time for fact number two. And that is my fact. My fact this week"
+  },
+  {
+    "start": 982.92,
+    "end": 989.24,
+    "text": " is that celebrity chef Anthony Bourdain used to chop his onions with a knife from outer space."
+  },
+  {
+    "start": 989.24,
+    "end": 998.76,
+    "text": " Correct. Correct. Correct reaction. Yeah. So I discovered this. This is, there's an amazing photo"
+  },
+  {
+    "start": 998.76,
+    "end": 1003.56,
+    "text": " on a blog of a photographer called David Scott Holloway, who has this beautiful shot of this knife"
+  },
+  {
+    "start": 1003.56,
+    "end": 1010.6,
+    "text": " that used to belong to Bourdain. And it was a knife that featured originally in a TV show that Bourdain"
+  },
+  {
+    "start": 1010.6,
+    "end": 1015.48,
+    "text": " had done where he was meeting a lot of master craftsmen who were involved in the world of food. And one"
+  },
+  {
+    "start": 1015.48,
+    "end": 1021.96,
+    "text": " of the people was Bob Kramer. And Bob Kramer makes knives where he blends steel and meteorite"
+  },
+  {
+    "start": 1021.96,
+    "end": 1027.8,
+    "text": " together. And there's a huge waiting list of people who request them. And largely they're bought at"
+  },
+  {
+    "start": 1027.8,
+    "end": 1033.48,
+    "text": " auction these days. And Bourdain said it was his favourite knife. And so now Bourdain is dead. And"
+  },
+  {
+    "start": 1033.48,
+    "end": 1041.4,
+    "text": " a lot of his stuff was auctioned. So it went up for auction. I was outbid, unfortunately."
+  },
+  {
+    "start": 1041.4,
+    "end": 1047.48,
+    "text": " I was outbid before it started, because the opening price was 50,000. Wow."
+  },
+  {
+    "start": 1047.48,
+    "end": 1053,
+    "text": " It went for 250,000 American. American dollars. Yeah. Yeah. And it wasn't signed. So you weren't"
+  },
+  {
+    "start": 1053,
+    "end": 1056.44,
+    "text": " going to pay that. Oh, I'm not interested in an unsigned space knife. Are you getting me?"
+  },
+  {
+    "start": 1056.44,
+    "end": 1062.92,
+    "text": " Can you put it in the dishwasher? I need to know. If it costs a million dollars. Yeah, pretty"
+  },
+  {
+    "start": 1062.92,
+    "end": 1069.64,
+    "text": " wild, isn't it? Yes. Because actually all my knives cut onions perfectly well. Yes."
+  },
+  {
+    "start": 1069.64,
+    "end": 1073.8,
+    "text": " So, you know, was this that much better than it's worth that, do you think? Well, this,"
+  },
+  {
+    "start": 1073.8,
+    "end": 1078.2,
+    "text": " I mean, this is Bourdain saying that it is. So we have to go by him, because obviously we haven't"
+  },
+  {
+    "start": 1078.2,
+    "end": 1082.2,
+    "text": " touched it, but it's just cool, isn't it? That it's made of meteorite. It is just cool."
+  },
+  {
+    "start": 1082.2,
+    "end": 1089.32,
+    "text": " And does Kramer, does he still make them? Yeah, I believe so. Yeah. Um, yeah, it's kind of his thing."
+  },
+  {
+    "start": 1089.32,
+    "end": 1095,
+    "text": " But yeah. So there are some of these meteorite knives out there. It's not just, it's not a one-off."
+  },
+  {
+    "start": 1095,
+    "end": 1101.24,
+    "text": " It's not a one-off. No. I think I have heard that every Toby Carver in the UK has one meteorite."
+  },
+  {
+    "start": 1101.24,
+    "end": 1104.84,
+    "text": " Really? Samurai knife. Yeah, that's what they is, you know? Right. Yeah. I think he gets his"
+  },
+  {
+    "start": 1104.84,
+    "end": 1109.8,
+    "text": " media right off eBay as well. He's like, there's so much media right on eBay. Do you source your"
+  },
+  {
+    "start": 1109.8,
+    "end": 1115.08,
+    "text": " meteorite? Well, probably there's a call it a meat meat. You're right. Yeah. Wow. I have some"
+  },
+  {
+    "start": 1115.08,
+    "end": 1119.16,
+    "text": " meteorite at home, which I just bought of eBay. Hey, yeah. Yeah, you can't just buy it. They're not"
+  },
+  {
+    "start": 1119.16,
+    "end": 1123.96,
+    "text": " very expensive. Little bits of meteorite. How do you verify its meteorite? Like to your, when you"
+  },
+  {
+    "start": 1123.96,
+    "end": 1130.84,
+    "text": " feel it, are you like, what does it feel very worldly? It's in a, it's in a tube. But it has a little"
+  },
+  {
+    "start": 1130.84,
+    "end": 1135.72,
+    "text": " little thing next to it saying this is a meteorite. Well, I was about to say where does it come from"
+  },
+  {
+    "start": 1135.72,
+    "end": 1142.04,
+    "text": " outer space, but it's from Morocco. That's so cool. How did you come by that? I just bought it for my wife"
+  },
+  {
+    "start": 1142.04,
+    "end": 1147.96,
+    "text": " for a Christmas. Oh, that's pretty. That's a good Christmas present. It's very cheap. Was it?"
+  },
+  {
+    "start": 1147.96,
+    "end": 1152.28,
+    "text": " Well, cheap, I can't remember exactly how much, but fascinating. Because then you can do a kind of"
+  },
+  {
+    "start": 1152.28,
+    "end": 1156.84,
+    "text": " follow your under star thing, aren't you? I brought, well, you know, the Christmas story, the"
+  },
+  {
+    "start": 1156.84,
+    "end": 1161.72,
+    "text": " star in this guy. Well, I've captured that star and I bought a bit of it. Stars aren't made of steel,"
+  },
+  {
+    "start": 1161.72,
+    "end": 1167.88,
+    "text": " though. Well, let's press on too. Can I tell you my favourite knife? Yes. So, have you had a"
+  },
+  {
+    "start": 1167.88,
+    "end": 1175.32,
+    "text": " Kinmen? Who? Kinmen is an island. Tiny Taiwanese island. Very close to the mainland of China,"
+  },
+  {
+    "start": 1175.32,
+    "end": 1181,
+    "text": " right? So there was a spell of weirdly China and Taiwan, they used to not get along very well."
+  },
+  {
+    "start": 1181,
+    "end": 1186.68,
+    "text": " And the spell they became one country. Time of recording and all that."
+  },
+  {
+    "start": 1186.68,
+    "end": 1191.08,
+    "text": " No, they would bomb each other. They would shell each other. And I think they would do it on"
+  },
+  {
+    "start": 1191.08,
+    "end": 1195.32,
+    "text": " alternate days of the week. So China got to bomb Kinmen on Mondays, Wednesdays and Fridays."
+  },
+  {
+    "start": 1195.32,
+    "end": 1199.88,
+    "text": " And then Kinmen would bomb on Tuesdays, Thursdays, Saturdays. I think it had Sundays off."
+  },
+  {
+    "start": 1199.88,
+    "end": 1205.8,
+    "text": " Anyway, for years China had this shelling campaign against Kinmen. And you know, there were just"
+  },
+  {
+    "start": 1205.8,
+    "end": 1210.92,
+    "text": " artillery shells hitting the island all the time. There are now knife makers who have these huge"
+  },
+  {
+    "start": 1210.92,
+    "end": 1217.16,
+    "text": " stocks of old artillery shells, which are made of really high quality steel. Because you do need"
+  },
+  {
+    "start": 1217.16,
+    "end": 1222.68,
+    "text": " for artillery, you need good steel. And the blacksmiths all over the island produce these amazing"
+  },
+  {
+    "start": 1222.68,
+    "end": 1228.04,
+    "text": " knives. And you can buy them. That's a really wonderful form of recycling. It's really sort of"
+  },
+  {
+    "start": 1228.04,
+    "end": 1232.84,
+    "text": " about shares, isn't it? I mean, it's properly... Have they started throwing the knives back in?"
+  },
+  {
+    "start": 1232.84,
+    "end": 1239.48,
+    "text": " Just for cooking, I believe. Yeah, but they've got a lot of it still left. They used to make them out of gold."
+  },
+  {
+    "start": 1240.28,
+    "end": 1247.96,
+    "text": " Oh, nice. Quite soft. Quite actually quite soft, but quite heavy. Okay. And I was reading the"
+  },
+  {
+    "start": 1247.96,
+    "end": 1253,
+    "text": " Oxford Companion to Food and they said that the only real danger comes from if you drop it on your"
+  },
+  {
+    "start": 1253,
+    "end": 1258.84,
+    "text": " foot, basically, a gold knife. Silver cutlery. Silver spoon for the silver spoon in your mouth,"
+  },
+  {
+    "start": 1258.84,
+    "end": 1266.28,
+    "text": " for instance. Silver is quite poisonous if it gets tarnished. Like if you cut eggs with it,"
+  },
+  {
+    "start": 1266.28,
+    "end": 1271.4,
+    "text": " the sulfur sort of reacts with the silver, and it can become mildly poisonous. So if you crack your"
+  },
+  {
+    "start": 1271.4,
+    "end": 1276.68,
+    "text": " boiled eggs with a silver spoon, it's the sulfur is inside the egg, so it's not the shell which"
+  },
+  {
+    "start": 1276.68,
+    "end": 1280.84,
+    "text": " is made of calcium, it's the inside of the egg. But if you eat eggs with a silver spoon, it will get"
+  },
+  {
+    "start": 1280.84,
+    "end": 1287.56,
+    "text": " tarnished and it's mildly poisonous. Wow. And Napoleon III, he gave his most honored guest,"
+  },
+  {
+    "start": 1287.56,
+    "end": 1293.16,
+    "text": " aluminium cutlery. Actually, everyone else used gold, but the really best one is used aluminium."
+  },
+  {
+    "start": 1293.8,
+    "end": 1300.92,
+    "text": " Why? Because at the time, aluminium was way, way, way more expensive than gold. This is in the 1880s."
+  },
+  {
+    "start": 1300.92,
+    "end": 1306.28,
+    "text": " Actually, before the 1880s, it was very difficult to get aluminium. You'd get boxed out, you'd have"
+  },
+  {
+    "start": 1306.28,
+    "end": 1311.32,
+    "text": " to get it out of there. It took ages and ages to get this out and you can only get tiny bits out."
+  },
+  {
+    "start": 1311.32,
+    "end": 1317.72,
+    "text": " But then there's a thing called the whole hero process, which changed it so that in 1852,"
+  },
+  {
+    "start": 1317.72,
+    "end": 1325.88,
+    "text": " aluminium was $1,200 per kilo. And by the early 20th century, it was $1 per kilo. Wow, poor investment."
+  },
+  {
+    "start": 1325.88,
+    "end": 1328.92,
+    "text": " All of your money. It took currency of the day."
+  },
+  {
+    "start": 1328.92,
+    "end": 1336.12,
+    "text": " But you find that a banquet, and somebody beside me was having gold cutlery and I was having"
+  },
+  {
+    "start": 1336.12,
+    "end": 1339.88,
+    "text": " aluminium cutlery. I know you'd been slightly out of place, I think. I think I would have heard of it."
+  },
+  {
+    "start": 1339.88,
+    "end": 1344.2,
+    "text": " Yes, we've been able to get it back in. And those are Washington Monument has a big load of"
+  },
+  {
+    "start": 1344.2,
+    "end": 1349.96,
+    "text": " aluminium on the top of it. Because at the time, it was so expensive. But now you could just do that for $20."
+  },
+  {
+    "start": 1349.96,
+    "end": 1355,
+    "text": " I got a question for you, Zoe. So you've been on MasterChef, right? On MasterChef, when you go"
+  },
+  {
+    "start": 1355,
+    "end": 1361.4,
+    "text": " and cook there, do they give you the absolute high quality, amazing knives? Or is it like all"
+  },
+  {
+    "start": 1361.4,
+    "end": 1365.88,
+    "text": " other TV? They just give you the cheap to stuff they could find? Well, I did end up with a lot of"
+  },
+  {
+    "start": 1365.88,
+    "end": 1372.52,
+    "text": " blue plasters on my digits. So they were quite sharp knives. They were sharp knives, yeah. So they"
+  },
+  {
+    "start": 1372.52,
+    "end": 1377.48,
+    "text": " were good. And the other thing that absolutely lacerated to pieces is those little graters,"
+  },
+  {
+    "start": 1377.48,
+    "end": 1386.36,
+    "text": " you know, that lose it. For not mag and garlic and ginger, I had no knuckles for a few months, yeah."
+  },
+  {
+    "start": 1386.36,
+    "end": 1391.48,
+    "text": " Can I just quickly qualify who this Anthony Bourdain guy is? Because a lot of people might not have"
+  },
+  {
+    "start": 1391.48,
+    "end": 1397.72,
+    "text": " heard of him, but he was this sort of rock and roll chef. He was a bit counterculture. A lot of people"
+  },
+  {
+    "start": 1397.72,
+    "end": 1402.84,
+    "text": " relate him to people like Hunter S. Thompson, fear and loathing in Las Vegas, because he had quite a"
+  },
+  {
+    "start": 1402.84,
+    "end": 1408.04,
+    "text": " deborched life and he did a lot of drugs. And even his origin story of becoming a chef, which he writes"
+  },
+  {
+    "start": 1408.04,
+    "end": 1413.08,
+    "text": " about in what became quite a cult iconic book, Kitchen Confidential. He says that when he was 17,"
+  },
+  {
+    "start": 1413.08,
+    "end": 1417.4,
+    "text": " he was working as a dishwasher for a wedding reception. And later on in the evening, he saw the"
+  },
+  {
+    "start": 1417.4,
+    "end": 1422.6,
+    "text": " bride and the chef having sex by the garbage. And he thought, okay, that's the job for me. Yeah."
+  },
+  {
+    "start": 1424.92,
+    "end": 1431.56,
+    "text": " And he he was a guy who made multiple different kinds of TV shows. He makes that sound so much"
+  },
+  {
+    "start": 1431.56,
+    "end": 1438.12,
+    "text": " cool. Really does. You've read it, haven't you? I have read it. Yeah. He's got a very funny anecdote"
+  },
+  {
+    "start": 1438.12,
+    "end": 1443.4,
+    "text": " about his he's going up for this huge, sheffing job and a proprietor of the restaurant and the manager"
+  },
+  {
+    "start": 1443.4,
+    "end": 1450.6,
+    "text": " of the whole thing. They're interviewing him and they're griddling him. And the owner says to him,"
+  },
+  {
+    "start": 1450.6,
+    "end": 1454.68,
+    "text": " what do you know about me? And and Anthony Bourdain doesn't know much about this proprietor at all."
+  },
+  {
+    "start": 1454.68,
+    "end": 1457.96,
+    "text": " He's going through in his head the whole chapter of the book. He's thinking about how the ways he"
+  },
+  {
+    "start": 1457.96,
+    "end": 1462.04,
+    "text": " can answer this question. Shall I be honest? Shall I be honest? Shall I say this? Shall I flatter?"
+  },
+  {
+    "start": 1462.04,
+    "end": 1466.12,
+    "text": " Shall I do a bit of, you know, criticism? And eventually he's decides to be honest. He says,"
+  },
+  {
+    "start": 1466.12,
+    "end": 1472.44,
+    "text": " next to nothing. What do you know about me? Next to nothing. And the interview goes incredibly"
+  },
+  {
+    "start": 1472.44,
+    "end": 1476.2,
+    "text": " badly from that boy nobbs. And he leaves and he doesn't get the job. And four days later,"
+  },
+  {
+    "start": 1476.2,
+    "end": 1479.32,
+    "text": " he's replaying it in his head like, how did I get that so badly wrong? And he realizes what he was"
+  },
+  {
+    "start": 1479.32,
+    "end": 1487.8,
+    "text": " being asked was, what do you know about meat? Not what do you know about me? And he says, next to nothing."
+  },
+  {
+    "start": 1487.8,
+    "end": 1498.84,
+    "text": " Unless it was a vegan restaurant. Exactly. I like how he became this big selling author."
+  },
+  {
+    "start": 1498.84,
+    "end": 1502.44,
+    "text": " Because the question was confidential. I say a cult book. At the time, he was massive."
+  },
+  {
+    "start": 1502.44,
+    "end": 1508.84,
+    "text": " Spent 44 weeks in the bestseller list in America translated into 22 languages. It's still constantly"
+  },
+  {
+    "start": 1508.84,
+    "end": 1516.76,
+    "text": " in print reissued. And it's all because while he was a chef, he got drunk and he decided to write"
+  },
+  {
+    "start": 1516.76,
+    "end": 1523.08,
+    "text": " an article called, don't eat before reading this. And he sent it to the New Yorker. And he never"
+  },
+  {
+    "start": 1523.08,
+    "end": 1527.56,
+    "text": " intended it to be published. He was just drunk and he sent it. And they went, this is amazing."
+  },
+  {
+    "start": 1527.56,
+    "end": 1531.24,
+    "text": " And they published it. And it got such a response that publisher has gone and touched saying, can you"
+  },
+  {
+    "start": 1531.24,
+    "end": 1536.76,
+    "text": " expand this into an entire book? Yeah, I read that. It's called yesterday. And it's pretty, I've"
+  },
+  {
+    "start": 1536.76,
+    "end": 1542.52,
+    "text": " worked in a kitchen and I would say it's pretty spot on really. Yeah. Yeah. Like for instance, he says,"
+  },
+  {
+    "start": 1542.52,
+    "end": 1546.76,
+    "text": " that all the new food comes in on a Tuesday. So whatever you do, don't go to a restaurant on a"
+  },
+  {
+    "start": 1546.76,
+    "end": 1551.32,
+    "text": " Monday. Yeah. And also a lot of chefs take Monday off. So you probably don't have the best chef and"
+  },
+  {
+    "start": 1551.32,
+    "end": 1555.32,
+    "text": " you definitely don't have the best food. This isn't in all restaurants, but it's in quite a lot of them."
+  },
+  {
+    "start": 1555.32,
+    "end": 1560.04,
+    "text": " And he said that there was another thing called save for well done. So if you find a piece of meat,"
+  },
+  {
+    "start": 1560.04,
+    "end": 1566.44,
+    "text": " and it's like, it's really not very nice. So you drop it on the floor or it's just really awful."
+  },
+  {
+    "start": 1567,
+    "end": 1571.64,
+    "text": " You only give it to people who order it well done because they're such filestines that they"
+  },
+  {
+    "start": 1571.64,
+    "end": 1578.28,
+    "text": " wouldn't know the difference between good meat and bad meat. That's great. Have you heard of maybe my"
+  },
+  {
+    "start": 1578.28,
+    "end": 1585.32,
+    "text": " favorite, um, carver of all time, just were on slicing meat and all of this, a renaissance Italian"
+  },
+  {
+    "start": 1585.32,
+    "end": 1591.24,
+    "text": " called vincenzo c'è de vio. And basically lots of houses used to have their own professional"
+  },
+  {
+    "start": 1591.24,
+    "end": 1595.24,
+    "text": " carvers. That was a sign that you were doing really well. Wow. I know. That was a sign you were doing"
+  },
+  {
+    "start": 1595.24,
+    "end": 1603.4,
+    "text": " really well. That showed you would kind of serve Billy Big Bulls. It's like 42-inch TV tonight."
+  },
+  {
+    "start": 1603.4,
+    "end": 1608.2,
+    "text": " Exactly. Exactly. And they would just arrive, slice the meat, slice off certain cuts,"
+  },
+  {
+    "start": 1608.2,
+    "end": 1611.56,
+    "text": " and they'd do a really good job of it, and then your guests would help themselves, and that was"
+  },
+  {
+    "start": 1611.56,
+    "end": 1615.24,
+    "text": " that's what they do. Oh, they do live with you. They were hired for an occasion. No, there's some,"
+  },
+  {
+    "start": 1615.24,
+    "end": 1619.08,
+    "text": " there are records of courtly carvers from the 15th century where they would live and that was"
+  },
+  {
+    "start": 1619.08,
+    "end": 1623.8,
+    "text": " their job. Yeah, which is just incredible. You would hold the carvership. It's quite a big deal."
+  },
+  {
+    "start": 1623.8,
+    "end": 1629.24,
+    "text": " And this is sort of why the idea of Toby Carvery does feel a bit ancient and medieval, despite not"
+  },
+  {
+    "start": 1629.24,
+    "end": 1634.76,
+    "text": " being. I'm sorry to cast a spell. I love that you sold it like that. You sold it like that."
+  },
+  {
+    "start": 1634.76,
+    "end": 1641.88,
+    "text": " Between Toby Carvery and Paul. It's why they call it the Carvery, isn't it? It sort of sounds like"
+  },
+  {
+    "start": 1641.88,
+    "end": 1645,
+    "text": " you're partaking of this ancient... I don't want it, I don't want it. I don't want it."
+  },
+  {
+    "start": 1645,
+    "end": 1650.6,
+    "text": " It plays green sleeves on his elutes whenever he goes. You get 10%, you get 10% off if you"
+  },
+  {
+    "start": 1650.6,
+    "end": 1656.76,
+    "text": " break B-Y-O-L. It's a sort of place where you can get all the meats, isn't it? It's a big franchise,"
+  },
+  {
+    "start": 1656.76,
+    "end": 1661.48,
+    "text": " all the meats. It's a big chain, yeah, across the country. Anyway, Cheravio could carve a goose"
+  },
+  {
+    "start": 1661.48,
+    "end": 1671.64,
+    "text": " in mid-air. He was a goose. He would arrive. You're all asking the right questions. He would arrive"
+  },
+  {
+    "start": 1671.64,
+    "end": 1676.92,
+    "text": " holding a goose on a big fork, right? Holding it up. So the goose is impaled on the fork. He's holding"
+  },
+  {
+    "start": 1676.92,
+    "end": 1682.92,
+    "text": " it up right. It's been cooked. It's done. He would gracefully carve it away with his free hand."
+  },
+  {
+    "start": 1682.92,
+    "end": 1688.36,
+    "text": " That was the Italian way of carving. Basically, all Italians did it like that. It was the Germans"
+  },
+  {
+    "start": 1688.36,
+    "end": 1693.32,
+    "text": " who did it where you stick a fork on the table and cut it that way. How interesting. He wrote"
+  },
+  {
+    "start": 1693.32,
+    "end": 1698.28,
+    "text": " this book with 86 chapters about the carving of particular foods and the duties of a carver."
+  },
+  {
+    "start": 1698.28,
+    "end": 1701.72,
+    "text": " He said that carving on a plate is just incredibly pathetic and basic."
+  },
+  {
+    "start": 1701.72,
+    "end": 1707.96,
+    "text": " Anyone who can't carve in mid-air, so the meat lands hot and perfect on the plate is doing it wrong."
+  },
+  {
+    "start": 1707.96,
+    "end": 1717.16,
+    "text": " He was like the salt bay of his time. So you were on MasterChef, is that because you were a good chef"
+  },
+  {
+    "start": 1717.16,
+    "end": 1723.24,
+    "text": " or did you just put in a good audition? You used to do it with my availability. Anything I've"
+  },
+  {
+    "start": 1723.24,
+    "end": 1729.4,
+    "text": " ever been on has usually been aligned with my availability. But I do like food. Yeah, I like food a lot."
+  },
+  {
+    "start": 1730.68,
+    "end": 1737,
+    "text": " But I have such a... I've got a very scattergun approach to cooking. Sometimes it's excellent."
+  },
+  {
+    "start": 1737,
+    "end": 1741.4,
+    "text": " Sometimes it's really not. And it took me a long time to get out of that thing of, well,"
+  },
+  {
+    "start": 1741.4,
+    "end": 1747.24,
+    "text": " if one chilli in it is good, five is going to be amazing. And I'm very proud to say that I have cooked"
+  },
+  {
+    "start": 1747.24,
+    "end": 1752.68,
+    "text": " something that Greg Wallace took one bite of when I can't see that. And I was like, \"Yes,"
+  },
+  {
+    "start": 1752.68,
+    "end": 1759.24,
+    "text": " I made his face go numb.\" I put so much. I made a medieval chicken pie. I don't know what I was"
+  },
+  {
+    "start": 1759.24,
+    "end": 1765.56,
+    "text": " thinking. I was panicking at this point. And I put so much clove in it, I numbed Greg Wallace's face."
+  },
+  {
+    "start": 1765.56,
+    "end": 1769.96,
+    "text": " I think that's why he left MasterChef and he had probably... I think that's when the wheels started to"
+  },
+  {
+    "start": 1769.96,
+    "end": 1777.64,
+    "text": " come off. Yes. That's not clove. That's because you're... Because clove, I think dentists used to use"
+  },
+  {
+    "start": 1777.64,
+    "end": 1784.76,
+    "text": " clove. Yes. For two say, it has a numbing effect. And I was like, \"Oh, this is tasty.\" So I just kept"
+  },
+  {
+    "start": 1784.76,
+    "end": 1790.6,
+    "text": " more and more and more and more in and basically I made an anesthetic pie. What's a medieval pie? I feel"
+  },
+  {
+    "start": 1790.6,
+    "end": 1796.52,
+    "text": " like that's got like pigeon in it. Well, I was using quite a lot of clove and herbs and yeah."
+  },
+  {
+    "start": 1796.52,
+    "end": 1801.08,
+    "text": " Yeah, it's clove, it's a very old clove. It feels quite medieval. Yeah. Spaces."
+  },
+  {
+    "start": 1801.08,
+    "end": 1814.04,
+    "text": " It was spicy. Yeah. Okay, it is time for fact number three. That is James. Okay, my fact this"
+  },
+  {
+    "start": 1814.04,
+    "end": 1820.6,
+    "text": " week is that the steps to get semen from a shark are number one, get the shark to lie on its back"
+  },
+  {
+    "start": 1820.6,
+    "end": 1825.64,
+    "text": " and number two, remove the semen from the shark. The first of these is by far the hardest."
+  },
+  {
+    "start": 1825.64,
+    "end": 1834.44,
+    "text": " Welcome to shark semen academy. It's a two-part course. So first of all, semen, I'm talking about"
+  },
+  {
+    "start": 1834.44,
+    "end": 1840.6,
+    "text": " ejaculatory fluid, not sailors. Right. Yeah. Just got to make that clear. But this is an article"
+  },
+  {
+    "start": 1840.6,
+    "end": 1846.28,
+    "text": " that I read on interestingengineering.com and it was about an Australian team who are collecting"
+  },
+  {
+    "start": 1846.28,
+    "end": 1852.68,
+    "text": " semen from wild male leopard sharks. To boost the population and genetic diversity, it's called"
+  },
+  {
+    "start": 1852.68,
+    "end": 1862.28,
+    "text": " the Great Australian Stegostoma semen expedition. It's easy for you to say. And the way that they do it"
+  },
+  {
+    "start": 1862.28,
+    "end": 1866.68,
+    "text": " is that they turn the shark upside down because if you turn sharks upside down, they go into something"
+  },
+  {
+    "start": 1866.68,
+    "end": 1871.8,
+    "text": " called tonic immobility, where they're like hypnotized. There's a few different ways to do it,"
+  },
+  {
+    "start": 1871.8,
+    "end": 1877.4,
+    "text": " but that's the main way. It's crazy that various animals, because it's sharks and a few other things"
+  },
+  {
+    "start": 1877.4,
+    "end": 1883.24,
+    "text": " have this tonic immobility, isn't it? I've heard some theories that humans do it. Really? I don't"
+  },
+  {
+    "start": 1883.24,
+    "end": 1888.44,
+    "text": " think this is true for sure, but like sometimes if people get in very, very stressed or situations,"
+  },
+  {
+    "start": 1888.44,
+    "end": 1892.44,
+    "text": " they just kind of shut down. Is that kind of thing? Just find it crazy that some animals have"
+  },
+  {
+    "start": 1892.44,
+    "end": 1897.8,
+    "text": " effectively a factory settings position. You put the shark upside down and it happens. Yes."
+  },
+  {
+    "start": 1897.8,
+    "end": 1910.92,
+    "text": " Well, I loved about this story, it's not all sharks. Not all sharks and it's less successful"
+  },
+  {
+    "start": 1910.92,
+    "end": 1917.96,
+    "text": " with great whites. I'm not to have they found that. This is the big question because we know that"
+  },
+  {
+    "start": 1917.96,
+    "end": 1922.28,
+    "text": " the famous thing of saying who was the first person to have the idea to pull the others of a"
+  },
+  {
+    "start": 1922.28,
+    "end": 1927.56,
+    "text": " cow to get milk. Who's the first person to flip a shark and discover not only that it goes into"
+  },
+  {
+    "start": 1927.56,
+    "end": 1932.36,
+    "text": " this state, but it lasts for about 15 minutes. I want to know how many lives were lost in the"
+  },
+  {
+    "start": 1932.36,
+    "end": 1939.24,
+    "text": " process. The last thing is that there have been examples of animals doing this to sharks, so"
+  },
+  {
+    "start": 1939.24,
+    "end": 1947.4,
+    "text": " there was a witness in California who saw a female orca holding a shark upside down to kill it,"
+  },
+  {
+    "start": 1947.4,
+    "end": 1951.32,
+    "text": " basically, to suffocate its death, because it couldn't breathe. So it is possible the humans saw"
+  },
+  {
+    "start": 1951.32,
+    "end": 1955.88,
+    "text": " that and then copied the other animals. Yes, so that will be when it's possible. Is there an"
+  },
+  {
+    "start": 1955.88,
+    "end": 1962.28,
+    "text": " evolutionary benefit to tonic immobility for leopard sharks? I don't know what it is if there is."
+  },
+  {
+    "start": 1962.28,
+    "end": 1968.44,
+    "text": " Yeah, it could be like that thanatosis where you pretend to be dead, other animals will leave"
+  },
+  {
+    "start": 1968.44,
+    "end": 1973,
+    "text": " your own. Yeah, but it feels like they can't get themselves out of it. They can't stop after"
+  },
+  {
+    "start": 1973,
+    "end": 1978.36,
+    "text": " 10 minutes. No, they have to just wait until it wears off. It's so weird. It could be just like a"
+  },
+  {
+    "start": 1978.36,
+    "end": 1983.24,
+    "text": " quirk of like, you know, their design, because they've got so many sensors, haven't they on the"
+  },
+  {
+    "start": 1983.24,
+    "end": 1989.08,
+    "text": " front of their noses? Yeah. And they're really hypersensitive to it. Yeah, they've got things called"
+  },
+  {
+    "start": 1989.08,
+    "end": 1995.64,
+    "text": " ampules of Lorenzini, which pick up electrical signals, so they can almost the same way that you can"
+  },
+  {
+    "start": 1995.64,
+    "end": 2002.28,
+    "text": " taste an onion, they can taste electricity through these ampules. I think I'm writing saying a shark"
+  },
+  {
+    "start": 2002.28,
+    "end": 2009.32,
+    "text": " can pick up when an animal is in distress, because of the change in, yeah, screaming, the legs come off."
+  },
+  {
+    "start": 2009.32,
+    "end": 2016.2,
+    "text": " Well, like, like heightened, um, uh, heart rate, the electrical impulses."
+  },
+  {
+    "start": 2016.2,
+    "end": 2021.8,
+    "text": " Okay, so the reason we're talking about sharks is because you have swung with sharks. Yes,"
+  },
+  {
+    "start": 2021.8,
+    "end": 2026.84,
+    "text": " yeah, yeah, your heart rate go up. So yeah, well, I've been, I was aware of that piece of information"
+  },
+  {
+    "start": 2026.84,
+    "end": 2031,
+    "text": " when I was in the water with sharks going, I must appear calm in case they pick up on my electrical"
+  },
+  {
+    "start": 2031,
+    "end": 2038.12,
+    "text": " impulses going through the fucking roof at this point. What sort of sharks? I've died with various sharks,"
+  },
+  {
+    "start": 2038.12,
+    "end": 2049.56,
+    "text": " bull sharks, tigers, oceanic white tips, reef sharks, whale sharks, scallop hammerheads,"
+  },
+  {
+    "start": 2049.56,
+    "end": 2053.08,
+    "text": " and giant hammers. All at the same time. All at the same time. No, no, no, no, no, different,"
+  },
+  {
+    "start": 2053.08,
+    "end": 2057.72,
+    "text": " different, different times. Like Pokemon, it feels like, yeah, or freshers, also as soon as,"
+  },
+  {
+    "start": 2057.72,
+    "end": 2062.04,
+    "text": " freshers. This was training for experience in Greg Wallace, wasn't it? That was it, that was it. That"
+  },
+  {
+    "start": 2062.04,
+    "end": 2067.64,
+    "text": " was all training, just a numb Greg Wallace's face. Well, I just rubbed him on his nose and he flipped"
+  },
+  {
+    "start": 2067.64,
+    "end": 2073.88,
+    "text": " over on his back. Are you trying to swim with as many sharks as possible? It feels like there's"
+  },
+  {
+    "start": 2073.88,
+    "end": 2079.16,
+    "text": " can't be an accident. I used to have what I would call probably a normal level of fear around sharks."
+  },
+  {
+    "start": 2079.16,
+    "end": 2083.56,
+    "text": " I just, you know, the first time I saw a shark in the water, I really did feel my heart rate go"
+  },
+  {
+    "start": 2083.56,
+    "end": 2087.24,
+    "text": " through the roof. It was in the Egypt, diving in Egypt, and the shark came out of nowhere, and I was"
+  },
+  {
+    "start": 2087.24,
+    "end": 2093.96,
+    "text": " like, but then once that fear went down, I went, I got there beautiful. They're so beautiful. So since"
+  },
+  {
+    "start": 2093.96,
+    "end": 2100.92,
+    "text": " then we've sort of tried to tailor our diving in order to see specific species. And I'm slightly"
+  },
+  {
+    "start": 2100.92,
+    "end": 2106.6,
+    "text": " obsessed with just a beauty and shape of hammerheads. And I always wanted to see a hammerhead. And"
+  },
+  {
+    "start": 2106.6,
+    "end": 2111.88,
+    "text": " the first time I saw what I turned around, I was on a diving Mexico, and there was one behind me,"
+  },
+  {
+    "start": 2111.88,
+    "end": 2117.24,
+    "text": " and I just burst into tears in my mask. Yeah. What's the biggest shark? Well, the biggest one that we"
+  },
+  {
+    "start": 2117.24,
+    "end": 2122.92,
+    "text": " heard was it was quite funny. We were on a dive. It was at a cleaning station where there were sharks"
+  },
+  {
+    "start": 2122.92,
+    "end": 2126.6,
+    "text": " being cleaned by little fish. And we were watching these sharks, and we were like, these are beautiful."
+  },
+  {
+    "start": 2126.6,
+    "end": 2132.76,
+    "text": " I would think they were galapagos sharks and black, black tips. And all of a sudden my friend turned"
+  },
+  {
+    "start": 2132.76,
+    "end": 2137.56,
+    "text": " around. And if you've ever wondered whether it's possible to hear somebody scream on the water,"
+  },
+  {
+    "start": 2137.56,
+    "end": 2143,
+    "text": " I can tell you what it is. Because going right behind us, obviously just looking at all of our"
+  },
+  {
+    "start": 2143,
+    "end": 2150.76,
+    "text": " back sides as we were facing the other way, it was an enormous tiger shark. Cracking us. Well,"
+  },
+  {
+    "start": 2150.76,
+    "end": 2155.8,
+    "text": " they are very scary. And they do attack if they're having fun. They are less fussy about what they"
+  },
+  {
+    "start": 2155.8,
+    "end": 2160.68,
+    "text": " eat, should we say. Okay. Yeah. So they will be a little bit more opportunistic. Yeah. Yeah. But it"
+  },
+  {
+    "start": 2160.68,
+    "end": 2165.32,
+    "text": " was just clearly going past all of our bum's going, not that one, not that one. That's got a bit of"
+  },
+  {
+    "start": 2165.32,
+    "end": 2172.44,
+    "text": " meat on it. And you could do the the snote rubbing on a tiger shark. That does work as well."
+  },
+  {
+    "start": 2172.44,
+    "end": 2177.08,
+    "text": " It is how people have saved their lives in the past. Yeah. When they approach sharks. Yeah."
+  },
+  {
+    "start": 2177.08,
+    "end": 2181.56,
+    "text": " Or indeed say sharks. So obviously there's lots of sharks in the ocean with hooks that are"
+  },
+  {
+    "start": 2181.56,
+    "end": 2185.64,
+    "text": " affecting them and they're extracting them out. And they've been divers have learned how to calm"
+  },
+  {
+    "start": 2185.64,
+    "end": 2191,
+    "text": " them down and remove the sharks and hooks. That's incredible. That's such a sort of, gosh, you think"
+  },
+  {
+    "start": 2191,
+    "end": 2197.08,
+    "text": " people who do bomb disposal underwater. Yeah. Yeah. Yeah. They are. That is not taking anything away from"
+  },
+  {
+    "start": 2197.08,
+    "end": 2202.44,
+    "text": " that. I'm sorry. Okay. Soky.com, right? And you're listening to this while you're disposing above"
+  },
+  {
+    "start": 2202.44,
+    "end": 2208.92,
+    "text": " underwater. I do think you're pretty cool, actually. That's very casual approach. My favorite fact about"
+  },
+  {
+    "start": 2208.92,
+    "end": 2214.04,
+    "text": " sharks. I learned in researching this fact, shark semen as we were on shark semen at the start of this."
+  },
+  {
+    "start": 2214.04,
+    "end": 2221.64,
+    "text": " Yeah. It's extraordinary. Shark semen can last for four years. Really? After deployment. A female shark"
+  },
+  {
+    "start": 2221.64,
+    "end": 2229.8,
+    "text": " can keep sperm. Oh, right. Do you decide herself for four years? And then say, go. The time is"
+  },
+  {
+    "start": 2229.8,
+    "end": 2235.48,
+    "text": " right. We've just moved into a new place. Whatever. We're ready. Is that more about her than the semen,"
+  },
+  {
+    "start": 2235.48,
+    "end": 2240.52,
+    "text": " though? As in if a shark let the semen out just into the ocean and you collected it four years"
+  },
+  {
+    "start": 2240.52,
+    "end": 2245.4,
+    "text": " later, floating. I don't think sharks have super semen which can just survive on the tides for"
+  },
+  {
+    "start": 2245.4,
+    "end": 2249.32,
+    "text": " four years. I think it's inside the feet. It's something that's looking for clarity. It's where"
+  },
+  {
+    "start": 2249.32,
+    "end": 2253.48,
+    "text": " the female's keeping it. So there was an aquarium in California which had a female bamboo shark."
+  },
+  {
+    "start": 2253.48,
+    "end": 2259.96,
+    "text": " She laid an egg which grew into a happy healthy young shark. She hadn't been with any males for"
+  },
+  {
+    "start": 2259.96,
+    "end": 2266.2,
+    "text": " 45 months. Yeah. And it wasn't that because some sharks can do a kind of virgin birth pathogenesis"
+  },
+  {
+    "start": 2266.2,
+    "end": 2269.8,
+    "text": " where they clone themselves effectively. They produce an egg which just turns into the mother."
+  },
+  {
+    "start": 2269.8,
+    "end": 2275.64,
+    "text": " But this was her and a male shark producing a new shark. Just imagine that. It's really clever."
+  },
+  {
+    "start": 2275.64,
+    "end": 2280.84,
+    "text": " I'm going on a date with someone and it goes well. And then five years later, you're going to"
+  },
+  {
+    "start": 2280.84,
+    "end": 2287.32,
+    "text": " say, meet your son. Yeah. Exactly. I'll meet your yet to be born, son. Exactly. It's like that,"
+  },
+  {
+    "start": 2287.32,
+    "end": 2292.04,
+    "text": " isn't it? It's not like you've got a five year old. It's like we're about to have a baby. Yes. Yeah."
+  },
+  {
+    "start": 2292.04,
+    "end": 2296.68,
+    "text": " Crazy. We mentioned before about some sharks not being that fussy about what they eat."
+  },
+  {
+    "start": 2297.64,
+    "end": 2304.76,
+    "text": " Most of them only eat meat. But there is one omnivorous shark that I found, which is the bonnet"
+  },
+  {
+    "start": 2304.76,
+    "end": 2310.84,
+    "text": " head shark. So it's kind of related to the hammerhead, but it's just got a really kind of rubbish hammer."
+  },
+  {
+    "start": 2310.84,
+    "end": 2317.08,
+    "text": " It doesn't go very well. It's quite a narrow hammer. But they found that it has seagrass in it,"
+  },
+  {
+    "start": 2317.08,
+    "end": 2322.92,
+    "text": " stomach, which is very unusual. It's a type of vegetable you get in the in the water. And what they"
+  },
+  {
+    "start": 2322.92,
+    "end": 2329.4,
+    "text": " think is that it eats it to kind of line its stomach. And then it eats these really sort of spiky"
+  },
+  {
+    "start": 2329.4,
+    "end": 2335.64,
+    "text": " crabs. And it means that the spiky crabs don't injure its stomach when it eats it. Like Gavascond"
+  },
+  {
+    "start": 2335.64,
+    "end": 2342.92,
+    "text": " for sharks. That's incredible. Yeah. That's very clever though. Yeah. It is. It's stunning. Yeah."
+  },
+  {
+    "start": 2342.92,
+    "end": 2347.48,
+    "text": " I've never heard of a bonnet head shark. No, I'm not thinking of the list. Yeah. There's some weird"
+  },
+  {
+    "start": 2347.48,
+    "end": 2353.48,
+    "text": " looking sharks out there. Have you ever seen a goblin shark? Oh, that is. Oh, that's oh, it's got"
+  },
+  {
+    "start": 2353.48,
+    "end": 2358.6,
+    "text": " really wrong. What's named for the fact that it basically looks like a goblin. In fact, I think"
+  },
+  {
+    "start": 2358.6,
+    "end": 2362.84,
+    "text": " it I think not because it's goblin. Yeah, yeah, yeah, yeah. In sharks, a goblin shark. Yeah."
+  },
+  {
+    "start": 2362.84,
+    "end": 2368.44,
+    "text": " The raggy tooth shark. Brilliant. And it's just got oh, it's all over the place. It's like"
+  },
+  {
+    "start": 2368.44,
+    "end": 2373.72,
+    "text": " in British waters. Yeah. It's just it's all up to the roll over. What's the dream shark then for you"
+  },
+  {
+    "start": 2373.72,
+    "end": 2378.6,
+    "text": " to see? Oh, well, it was the giant hammerheads and I've seen them and I've been very, very close."
+  },
+  {
+    "start": 2378.6,
+    "end": 2384.6,
+    "text": " Yeah. I've had a hammerhead look me in the eye. Right. Yeah. I've never been in the water with a"
+  },
+  {
+    "start": 2384.6,
+    "end": 2392.04,
+    "text": " great white and I am cautious about that. Yeah. It does sound rather dangerous. Yes. I was reading"
+  },
+  {
+    "start": 2392.04,
+    "end": 2397.8,
+    "text": " about what you should do if you do find yourself with an aggressive shark or a shark that is coming"
+  },
+  {
+    "start": 2397.8,
+    "end": 2403.64,
+    "text": " for you. The University of Florida's international shark file says that if you are going to swim with"
+  },
+  {
+    "start": 2403.64,
+    "end": 2409.08,
+    "text": " sharks to sort of help your chances. If it's coming for you, leave the water immediately. So that's"
+  },
+  {
+    "start": 2409.08,
+    "end": 2413.96,
+    "text": " that's good. That's good advice. Oh gosh. I would never have thought of that. Yeah. But this is a"
+  },
+  {
+    "start": 2413.96,
+    "end": 2419.48,
+    "text": " this is a great one. Ideally do it with someone else so you don't become a solitary target."
+  },
+  {
+    "start": 2419.48,
+    "end": 2424.84,
+    "text": " Yeah. Well, which is the old changing your shoes for running shoes so you outrun the other. Yeah."
+  },
+  {
+    "start": 2424.84,
+    "end": 2432.76,
+    "text": " Yeah. Yeah. I've sort of done that. Once on a dive trip in Egypt, the Egyptian navy came and"
+  },
+  {
+    "start": 2432.76,
+    "end": 2437.88,
+    "text": " took our little dinghy away that we were using to get back into to the boat. It commandeered it to move"
+  },
+  {
+    "start": 2437.88,
+    "end": 2443.56,
+    "text": " some of their own stuff so it left us in the water with an oceanic white tip circling underneath us."
+  },
+  {
+    "start": 2443.56,
+    "end": 2447.8,
+    "text": " And the oceanic white tips are they're interesting shark because they're the ones that you know when"
+  },
+  {
+    "start": 2447.8,
+    "end": 2451.72,
+    "text": " you hear about sort of pirates being eaten in shipwrecks or planes going down and people being eaten by"
+  },
+  {
+    "start": 2451.72,
+    "end": 2456.52,
+    "text": " sharks, it's usually oceanic white tips. They're sort of yeah, they're sort of scavenger sharks in that"
+  },
+  {
+    "start": 2456.52,
+    "end": 2464.2,
+    "text": " respect. And it was it was circling underneath us. And I was in the water with this German guy who I"
+  },
+  {
+    "start": 2464.2,
+    "end": 2470.52,
+    "text": " hadn't spoken to prior to that point. And I just hung on to him because he was massive. And I"
+  },
+  {
+    "start": 2470.52,
+    "end": 2475.4,
+    "text": " thought, well, if it does come for us, I'm hoping it'll prefer a German worst."
+  },
+  {
+    "start": 2480.68,
+    "end": 2487.24,
+    "text": " Oh my god. Robin Closel. Yeah, Robin Closel. I'll just numb you. He's more yummy. I'm more"
+  },
+  {
+    "start": 2487.24,
+    "end": 2493.16,
+    "text": " yummy. I read in the counter what it's like to be bitten by a shark by a man called Eric Norrie."
+  },
+  {
+    "start": 2493.16,
+    "end": 2499.48,
+    "text": " And Eric Norrie says it is the scariest thing that you can go through. Even scarier according to him"
+  },
+  {
+    "start": 2499.48,
+    "end": 2503.72,
+    "text": " than some of the other things that have happened to him, which include having been struck by lightning,"
+  },
+  {
+    "start": 2503.72,
+    "end": 2507.72,
+    "text": " bitten by a rattlesnake and nearly beaten to death by a series of monkeys. Wow."
+  },
+  {
+    "start": 2508.6,
+    "end": 2512.52,
+    "text": " This ranked. This ranked as the highest and he more than anything."
+  },
+  {
+    "start": 2512.52,
+    "end": 2520.44,
+    "text": " Any prior claims. Oh, yeah, hang on. What was the first one?"
+  },
+  {
+    "start": 2520.44,
+    "end": 2523.24,
+    "text": " Hit by lightning. He got hit by lightning. He was bitten by a rattlesnake."
+  },
+  {
+    "start": 2523.24,
+    "end": 2529.32,
+    "text": " And then he was beaten, punched up by monkeys, two separate times and bitten by a shark."
+  },
+  {
+    "start": 2529.32,
+    "end": 2533.64,
+    "text": " And then bitten by a shark. And that was the one. His name is Japanese for seaweed, right?"
+  },
+  {
+    "start": 2533.64,
+    "end": 2540.84,
+    "text": " Norrie. So maybe he was just lining his stomach. Okay, I feel like we're avoiding it."
+  },
+  {
+    "start": 2540.84,
+    "end": 2543.64,
+    "text": " How do you get Simon out of a shark? That sounds like the start of a joke."
+  },
+  {
+    "start": 2543.64,
+    "end": 2548.52,
+    "text": " Very very carefully. Would there are different methods? Some, it's because different sharks,"
+  },
+  {
+    "start": 2548.52,
+    "end": 2553.4,
+    "text": " you know, they're very, and sharks don't have penises in the classic human sense. All right,"
+  },
+  {
+    "start": 2553.4,
+    "end": 2555.8,
+    "text": " so you don't hammer the head. Oh my god."
+  },
+  {
+    "start": 2559.96,
+    "end": 2563.8,
+    "text": " They've got these claspers, which are grooved organs used for delivery of sperm,"
+  },
+  {
+    "start": 2563.8,
+    "end": 2568.44,
+    "text": " which I have to say sound quite penicy to me. And they're inserted into the female's vent."
+  },
+  {
+    "start": 2568.44,
+    "end": 2572.12,
+    "text": " Again, it sounds a little bit penicy, doesn't it? And then they unfold in complicated ways."
+  },
+  {
+    "start": 2572.12,
+    "end": 2576.92,
+    "text": " Ha, that's not what a penis does. So, yeah, yeah. But you can, some of them you have to, I believe,"
+  },
+  {
+    "start": 2576.92,
+    "end": 2582.12,
+    "text": " excite. Yeah. How do you do that? Well, dress up as a dolphin."
+  },
+  {
+    "start": 2582.12,
+    "end": 2587.4,
+    "text": " Cheeky little dolphin. I think it's more of a manual thing. I don't think there's a visual"
+  },
+  {
+    "start": 2587.4,
+    "end": 2591.32,
+    "text": " element to it. I don't think any dress does it. Because they knock down at this point. Sorry."
+  },
+  {
+    "start": 2591.32,
+    "end": 2594.76,
+    "text": " They're knocked out at this point. Exactly. They're upside down. But you can pop a string in,"
+  },
+  {
+    "start": 2594.76,
+    "end": 2601.56,
+    "text": " or you can, you know, they'll just feel a little prick. All sometimes you can press on"
+  },
+  {
+    "start": 2601.56,
+    "end": 2607.08,
+    "text": " twos on either side and boop out at pops. Oh, that sounds fine. Yeah, it does, doesn't it? Yeah,"
+  },
+  {
+    "start": 2607.08,
+    "end": 2610.04,
+    "text": " like another kind of stuff. It's like a job, though, isn't it? It's like a kind of idea."
+  },
+  {
+    "start": 2610.04,
+    "end": 2614.44,
+    "text": " It is quite a job, isn't it? If that is your, yeah. I once met a bloke who took,"
+  },
+  {
+    "start": 2615.96,
+    "end": 2621.24,
+    "text": " he got venom from snakes in Australia for antidotes. And that was his job, like,"
+  },
+  {
+    "start": 2621.24,
+    "end": 2625.32,
+    "text": " typans and all sorts. Right. I don't understand you. That's quite a job. But he went, yeah,"
+  },
+  {
+    "start": 2625.32,
+    "end": 2631.56,
+    "text": " it's a bit of a dead-end career, really. It's a stand-up commuting. Couldn't do what you do."
+  },
+  {
+    "start": 2631.56,
+    "end": 2638.12,
+    "text": " God, what a fun alternative ending. That would have been to jaws. Richard Dreyfist just flips the"
+  },
+  {
+    "start": 2638.12,
+    "end": 2642.28,
+    "text": " shark over and wank some all for the end. We're going to need a bigger bottle."
+  },
+  {
+    "start": 2642.36,
+    "end": 2655.64,
+    "text": " Okay, it is time for our final fact of the show. And that is Andy. My fact is the British"
+  },
+  {
+    "start": 2655.64,
+    "end": 2665.24,
+    "text": " Olympic skier, Eddie the Eagle, once came second to his own helmet. Okay. So, okay, who's a"
+  },
+  {
+    "start": 2665.24,
+    "end": 2672.84,
+    "text": " younger listeners? Eddie the Eagle is Michael Edwards. Is his name? Yeah. And he represented"
+  },
+  {
+    "start": 2672.84,
+    "end": 2680.6,
+    "text": " Britain at the 1988 Winter Olympics. He is an amazing sportsman and his story is incredible."
+  },
+  {
+    "start": 2680.6,
+    "end": 2684.68,
+    "text": " We'll get into it. But the main thing to know for the fact is that he was broke. He did a lot of his"
+  },
+  {
+    "start": 2684.68,
+    "end": 2692.52,
+    "text": " training completely broke. He was sleeping in a caravan and he was eating out of bins. He was having"
+  },
+  {
+    "start": 2692.52,
+    "end": 2702.12,
+    "text": " sex with a fried egg style. He had been training for a couple of years and he was so broke that his"
+  },
+  {
+    "start": 2702.12,
+    "end": 2707.08,
+    "text": " helmet was tied on with string. And there was one moment where he finished a jump, one of his early"
+  },
+  {
+    "start": 2707.08,
+    "end": 2711.4,
+    "text": " competitive jumps. And his helmet just snapped off him, ping, and it landed ahead of him."
+  },
+  {
+    "start": 2711.4,
+    "end": 2717,
+    "text": " I see. So it's not like a ski race where it's top to the bottom quickest. It's a jump where you have"
+  },
+  {
+    "start": 2717,
+    "end": 2721.24,
+    "text": " to go the further. Exactly. So I didn't know anything about ski jumping. He says I may have been the"
+  },
+  {
+    "start": 2721.24,
+    "end": 2727,
+    "text": " first ever ski jumper beaten by his own gear. And so yeah, he was ski jumping. Britain didn't"
+  },
+  {
+    "start": 2727,
+    "end": 2731.56,
+    "text": " really have a tradition of ski jumping at all. He was the first person ever to represent Britain"
+  },
+  {
+    "start": 2731.56,
+    "end": 2737.4,
+    "text": " at the Winter Olympics. And he's just an incredible, he came dead last in the 1988 Olympics but he won"
+  },
+  {
+    "start": 2737.4,
+    "end": 2743.96,
+    "text": " the nation's hearts. He won the world's hearts, isn't he? He was a global sensation. Yeah, there's"
+  },
+  {
+    "start": 2743.96,
+    "end": 2752.44,
+    "text": " been a film about him. Have you met him? Yes, I've skied with him. What? He's such a lovely guy,"
+  },
+  {
+    "start": 2752.44,
+    "end": 2761,
+    "text": " he really is. So a few years I've done the altitude comedy festival out in Austria. And on one of those"
+  },
+  {
+    "start": 2761,
+    "end": 2765.48,
+    "text": " years, he was coming out and talking about, the film was just about to be released. So he was one of the"
+  },
+  {
+    "start": 2765.48,
+    "end": 2770.68,
+    "text": " guests on the festival, talking about his film. And one day the producer went, \"John to go skiing with it.\""
+  },
+  {
+    "start": 2771.32,
+    "end": 2776.68,
+    "text": " He did eagle and I went, \"Do I?\" That's amazing. And the thing about him is we sort of concentrate on the"
+  },
+  {
+    "start": 2776.68,
+    "end": 2782.76,
+    "text": " fact that he was, you know, it came last in the ski jump. He's actually an incredible skier."
+  },
+  {
+    "start": 2782.76,
+    "end": 2786.84,
+    "text": " Yes. He said, \"British skier.\" And I spoke to him and he was saying, you know, he wanted to be in the"
+  },
+  {
+    "start": 2786.84,
+    "end": 2792.52,
+    "text": " downhill, the British downhill team, but he wasn't good enough. So he thought, \"Well, rather than"
+  },
+  {
+    "start": 2792.52,
+    "end": 2797.88,
+    "text": " give up completely, what's nobody doing?\" And they were like, \"Ski jumping, so that's where he went.\""
+  },
+  {
+    "start": 2797.88,
+    "end": 2802.76,
+    "text": " So he had the British record for ski jumping at the time. He was, no, he wasn't like a complete"
+  },
+  {
+    "start": 2802.76,
+    "end": 2809.08,
+    "text": " slouch. He was ranked 55 in the world. He had a bad Olympics. I will say that. He came last by"
+  },
+  {
+    "start": 2809.08,
+    "end": 2814.52,
+    "text": " quite a long way. But he wasn't a bad ski jumper really. Like New Zealander in the soccer"
+  },
+  {
+    "start": 2814.52,
+    "end": 2819.4,
+    "text": " well cup and there ranked 85 in the world. And he was 55 in the world at ski jumping. So that kind of"
+  },
+  {
+    "start": 2819.4,
+    "end": 2825,
+    "text": " goes to show that he wasn't. Exactly. And he was a brilliant downhill skier. He was the ninth"
+  },
+  {
+    "start": 2825,
+    "end": 2829.72,
+    "text": " fastest amateur in the world. Like all the, I mean, he'd been training and he'd been a brilliant sportsman"
+  },
+  {
+    "start": 2829.72,
+    "end": 2835.56,
+    "text": " from a very young age, but he came up. I think the thing is he did a look like a sportsman. Not really."
+  },
+  {
+    "start": 2835.56,
+    "end": 2841.24,
+    "text": " Like he had these round glasses. Yes. That would mist up whenever he skied. So he couldn't see where he"
+  },
+  {
+    "start": 2841.24,
+    "end": 2846.28,
+    "text": " was going. Imagine doing a ski jump and you don't know where you're going. He's terrified. He said one"
+  },
+  {
+    "start": 2846.28,
+    "end": 2850.04,
+    "text": " in three jumps. He couldn't really see where he was going. The thing about ski jumping is you go"
+  },
+  {
+    "start": 2850.04,
+    "end": 2854.6,
+    "text": " down this big ramp. You're going at about 60 miles an hour. There's a lift. You jump and then"
+  },
+  {
+    "start": 2854.6,
+    "end": 2859.48,
+    "text": " you're trying to get as far down the slope before you hit the ground. So you're sort of moving down"
+  },
+  {
+    "start": 2859.48,
+    "end": 2864.04,
+    "text": " the slope like 10 or 15 feet above the ground. Yeah. You're never like 100 feet in the air. Yeah."
+  },
+  {
+    "start": 2864.04,
+    "end": 2868.92,
+    "text": " But you're all you're just trying to make the ground drops away. Have you ever stood beside a ski jump?"
+  },
+  {
+    "start": 2868.92,
+    "end": 2874.84,
+    "text": " Oh my god. I mean, when you stand beside the ski jump, it's, it is terrifying. It's utterly"
+  },
+  {
+    "start": 2874.84,
+    "end": 2879.88,
+    "text": " my dad lived in Norway for a while. There was one round the corner from him. And when you see"
+  },
+  {
+    "start": 2879.88,
+    "end": 2884.6,
+    "text": " the structures, you're like, I thought I was standing at the top of that and just letting go. I went to one"
+  },
+  {
+    "start": 2884.6,
+    "end": 2889,
+    "text": " of the big sort of finals of the year. They do like the three, I can't remember what it's called,"
+  },
+  {
+    "start": 2889,
+    "end": 2894.28,
+    "text": " but it's like three jumps within a week of each other. And one of them is at Garmish Patten Keirchen."
+  },
+  {
+    "start": 2894.28,
+    "end": 2900.68,
+    "text": " And I went to that mainly because the mountain is called the Wank Mountain. Oh, this is what you"
+  },
+  {
+    "start": 2900.68,
+    "end": 2907.16,
+    "text": " went. One of the best jumpers in the world was Andreas Vank. Wow. So I wanted to see Andreas Vank"
+  },
+  {
+    "start": 2907.16,
+    "end": 2913.32,
+    "text": " from the Wank Mountain, which I did. And even it's in Germany. And even though he's German,"
+  },
+  {
+    "start": 2913.32,
+    "end": 2919.4,
+    "text": " when he came on, I was by far the loudest cheerer for him, I think. I really got up and started cheering"
+  },
+  {
+    "start": 2919.4,
+    "end": 2924.6,
+    "text": " from while the Germans were a bit more involved. He's trying to have sports involvement there."
+  },
+  {
+    "start": 2924.6,
+    "end": 2934.92,
+    "text": " You tried to turn him upside down. Sharks him off. I really like the post-career from the"
+  },
+  {
+    "start": 2934.92,
+    "end": 2940.2,
+    "text": " Olympics of Eddie, because it's just a series of bumbling fun events. It was things like he had a"
+  },
+  {
+    "start": 2940.2,
+    "end": 2945.32,
+    "text": " five-year sponsorship from Eagle Airlines. And so he did adverts to them and so on. But then people"
+  },
+  {
+    "start": 2945.32,
+    "end": 2950.44,
+    "text": " wrote songs for him in places like Finland. And he charted with them, even though he didn't speak any"
+  },
+  {
+    "start": 2950.44,
+    "end": 2955.8,
+    "text": " finish. He had one song, which was called My Name is Eddie in the English version of it, which it"
+  },
+  {
+    "start": 2955.8,
+    "end": 2962.92,
+    "text": " is. And it's called Michael. Yeah. Yeah. But in fact, Slim Shady is an evidence. Yeah, good point."
+  },
+  {
+    "start": 2962.92,
+    "end": 2970.76,
+    "text": " And it was written by a protest singer-songwriter called Erwin Goodman. And he was flown over to Finland"
+  },
+  {
+    "start": 2970.76,
+    "end": 2975.88,
+    "text": " to sing it live on TV. And when he got to the hotel room, his phone rang and said, unfortunately,"
+  },
+  {
+    "start": 2975.88,
+    "end": 2981.8,
+    "text": " Erwin, the writer who was going to sing it with you, has died. But we still need you to do it. So he"
+  },
+  {
+    "start": 2981.8,
+    "end": 2988.84,
+    "text": " had to go on TV a few hours later singing a song that he didn't really know. That's an easy language."
+  },
+  {
+    "start": 2988.84,
+    "end": 2993.4,
+    "text": " Yeah, exactly stunning. But he got to hit with it. There was another one called Fly Eddie Fly,"
+  },
+  {
+    "start": 2993.4,
+    "end": 2998.6,
+    "text": " which was written by Mort Schuman, who wrote the song Viva Las Vegas. I think I remember that one."
+  },
+  {
+    "start": 2998.6,
+    "end": 3005.72,
+    "text": " And he was massive. He was absolutely. Yeah, yeah. The line about him, which I really like, is that"
+  },
+  {
+    "start": 3005.72,
+    "end": 3015.24,
+    "text": " he made it look difficult skiing. Which it is. And you know, he, he, he, working as a plasterer,"
+  },
+  {
+    "start": 3015.24,
+    "end": 3019.8,
+    "text": " he had been skiing from a very young age. He had been training for a long time. But the thing is,"
+  },
+  {
+    "start": 3019.8,
+    "end": 3024.76,
+    "text": " there's also this story, underpinning it, which is about the snobby British skiing establishment."
+  },
+  {
+    "start": 3024.76,
+    "end": 3030.52,
+    "text": " So he actually had gotten into the English skiing squad, right? Yeah. But on day one,"
+  },
+  {
+    "start": 3030.52,
+    "end": 3035.16,
+    "text": " he got into a row with one of the selectors at the club, the skiing club they were at. And he"
+  },
+  {
+    "start": 3035.16,
+    "end": 3038.2,
+    "text": " was sent home. He said, right, you're not in the English ski squad anymore. So he thought, well,"
+  },
+  {
+    "start": 3038.2,
+    "end": 3042.76,
+    "text": " I'm just going to skip that and get into the great British squad instead. Which he did, which is"
+  },
+  {
+    "start": 3042.76,
+    "end": 3048.92,
+    "text": " amazing. Um, and if he jumped, if he jumped 70 meters, he could qualify. And so there's this constant"
+  },
+  {
+    "start": 3048.92,
+    "end": 3052.68,
+    "text": " under, undercurrent of like the British skiing establishment, which is they would thought, oh, come on,"
+  },
+  {
+    "start": 3052.68,
+    "end": 3056.92,
+    "text": " you're making us look a bit silly. And he said when he did the actual Olympic jumps,"
+  },
+  {
+    "start": 3056.92,
+    "end": 3063.32,
+    "text": " the 90 meter event, which was the biggie. Yeah. He said, everyone else competing in that event had done"
+  },
+  {
+    "start": 3063.32,
+    "end": 3071.56,
+    "text": " 30 to 50,000 jumps off that ramp in their lives. I had done five. So yeah. But he did host a four-hour"
+  },
+  {
+    "start": 3071.56,
+    "end": 3077.72,
+    "text": " press conference once because he was just such an entertaining voice. The movie that you mentioned"
+  },
+  {
+    "start": 3077.72,
+    "end": 3084.36,
+    "text": " earlier that was made, um, great movie. And it came about because Matthew Vaughn, who made the film,"
+  },
+  {
+    "start": 3084.36,
+    "end": 3088.68,
+    "text": " he was sitting down with his kids and watching cool runnings. And his kids were crying with laughter."
+  },
+  {
+    "start": 3088.68,
+    "end": 3092.76,
+    "text": " I've had this experience recently because it was one of my favorite movies as a kid. My boys were"
+  },
+  {
+    "start": 3092.76,
+    "end": 3097.08,
+    "text": " in floods of tears. It was just the funniest thing they'd ever seen. And he was like, why don't we make"
+  },
+  {
+    "start": 3097.08,
+    "end": 3102.6,
+    "text": " movies like this anymore? And as it turned out, Eddie the Eagle was competing at the exact same"
+  },
+  {
+    "start": 3102.6,
+    "end": 3108.92,
+    "text": " Calgary 1988 Olympics that the cool runnings Jamaican bobsled team were at. So two stories where"
+  },
+  {
+    "start": 3108.92,
+    "end": 3113.88,
+    "text": " they tried their hardest, but didn't have the tools to win came out of that one Olympics. It's"
+  },
+  {
+    "start": 3113.88,
+    "end": 3118.44,
+    "text": " pretty amazing. I love stories like that. I was watching the most recent um, parallel Olympics,"
+  },
+  {
+    "start": 3118.44,
+    "end": 3126.2,
+    "text": " Winter Olympics. And there was a Haitian skier with one leg doing the downhill or the Super G."
+  },
+  {
+    "start": 3126.76,
+    "end": 3133.4,
+    "text": " And I just thought, what an incredible, what an incredible achievement. Yeah, you know,"
+  },
+  {
+    "start": 3133.4,
+    "end": 3139.16,
+    "text": " what the cause is. Yeah, the one of the poorest countries in the world. Yeah. If not the poor, you"
+  },
+  {
+    "start": 3139.16,
+    "end": 3143.96,
+    "text": " know, and with one leg and he was and he got down the course, it was a really difficult course."
+  },
+  {
+    "start": 3143.96,
+    "end": 3148.52,
+    "text": " The conditions were awful and not everybody made it. And I just thought, wow, that is absolutely"
+  },
+  {
+    "start": 3148.52,
+    "end": 3154.04,
+    "text": " inspiring. Do you have an artificial leg for that event? Or do you can? You can, but he didn't. Yeah."
+  },
+  {
+    "start": 3154.04,
+    "end": 3160.12,
+    "text": " Yeah. Great. That's amazing. Yeah. Incredible. So cool. So you, if you're doing the altitude festival,"
+  },
+  {
+    "start": 3160.12,
+    "end": 3165.08,
+    "text": " I'm guessing that you ski. I ski. Yeah. And is that the downhill classic? What I've been called?"
+  },
+  {
+    "start": 3165.08,
+    "end": 3171.88,
+    "text": " Down your hill. I've broken the mold. Yeah. Coming into Brighton, the end of the marathon."
+  },
+  {
+    "start": 3171.88,
+    "end": 3177.16,
+    "text": " Yeah. No, I love skiing. I learned skiing Scotland. And apparently she can learn to ski in Scotland,"
+  },
+  {
+    "start": 3177.16,
+    "end": 3185,
+    "text": " you can ski anywhere. Yeah. In Glen Shea over sheep and rivers. Why is it tough? Because the conditions"
+  },
+  {
+    "start": 3185,
+    "end": 3190.44,
+    "text": " are usually pretty grim. Yeah. There will be a, when I was I was there as a kid, the,"
+  },
+  {
+    "start": 3190.44,
+    "end": 3197.64,
+    "text": " would be the odd sheep running about. And the white. Yeah. And you do laugh, but I have been blown"
+  },
+  {
+    "start": 3197.64,
+    "end": 3203.56,
+    "text": " up a mountain in Scotland. Oh, not so euphemous. I have literally been the wind and the conditions"
+  },
+  {
+    "start": 3203.56,
+    "end": 3208.04,
+    "text": " were so awful. Yeah. That's what I mean by rough conditions. Yeah. Whenever I've been, for instance,"
+  },
+  {
+    "start": 3208.04,
+    "end": 3212.76,
+    "text": " you just can only see like about two meters in front. Oh, not me. Having said all of that and to give"
+  },
+  {
+    "start": 3212.76,
+    "end": 3218.36,
+    "text": " Glen Shea and the other ski resorts in Scotland these Jews, when the weather is good, it's fantastic."
+  },
+  {
+    "start": 3218.36,
+    "end": 3224.76,
+    "text": " And it's beautiful. Yeah. Okay. I've never ski jumped, I assume. No. I would, when I was younger,"
+  },
+  {
+    "start": 3224.76,
+    "end": 3229.4,
+    "text": " though, I would have given it a go. Do you think? I would have given it a go. The president of the"
+  },
+  {
+    "start": 3229.4,
+    "end": 3235.08,
+    "text": " International Ski Federation, Jan Franco Casper once said, it's not appropriate for ladies from"
+  },
+  {
+    "start": 3235.08,
+    "end": 3240.68,
+    "text": " medical points of view to ski jump, because he thought the uterus might burst when they landed."
+  },
+  {
+    "start": 3240.68,
+    "end": 3248.76,
+    "text": " Well, you know, yeah. And he said that in 2010. Oh. Well, that would have been the first ever"
+  },
+  {
+    "start": 3248.76,
+    "end": 3256.84,
+    "text": " Olympics. I mean, 2010. Wow. So must be correct, right? Yeah. Because the landings aren't very"
+  },
+  {
+    "start": 3256.84,
+    "end": 3260.52,
+    "text": " hard. That's the thing I didn't. Not if you do it, right? Yeah. Yeah. Because anyone can jump,"
+  },
+  {
+    "start": 3260.52,
+    "end": 3266.28,
+    "text": " you know, 10 feet down. That's fine. Like, you know what I mean? Like, you're only 10 feet down."
+  },
+  {
+    "start": 3266.28,
+    "end": 3270.2,
+    "text": " Okay. Let's move on. But no, I had, so I didn't know anything about ski jumping, right?"
+  },
+  {
+    "start": 3270.2,
+    "end": 3274.92,
+    "text": " No, I've never been skiing or anything like that. But the thing that's so cool, looking at it,"
+  },
+  {
+    "start": 3274.92,
+    "end": 3279.72,
+    "text": " is the way they make themselves more aerodynamic. And there have been all these techniques over the years"
+  },
+  {
+    "start": 3279.72,
+    "end": 3284.04,
+    "text": " of how to stay in the air, because obviously a flying squirrel would be the perfect"
+  },
+  {
+    "start": 3285,
+    "end": 3291.56,
+    "text": " jet ski jump. Yeah. Yeah. Yeah. Get those, get those flaps out. Yeah. And come on. Not if your uterus is"
+  },
+  {
+    "start": 3291.56,
+    "end": 3299.64,
+    "text": " that's the thing about the sport is your, your costume has to be skin tight. And these have been,"
+  },
+  {
+    "start": 3299.64,
+    "end": 3304.2,
+    "text": " I'm sure you guys in the research found this, this recent scandal in the skiing world of the Norwegian"
+  },
+  {
+    "start": 3304.2,
+    "end": 3311.32,
+    "text": " coaches and one former equipment manager who were caught adding crotch stitching. Oh, yes. Yeah."
+  },
+  {
+    "start": 3311.32,
+    "end": 3316.6,
+    "text": " To make the surface area bigger. And therefore, I think where people were put in injections in the"
+  },
+  {
+    "start": 3316.6,
+    "end": 3322.52,
+    "text": " penises. So this is penis gate. And this, I think, that's an area of your, I think."
+  },
+  {
+    "start": 3322.52,
+    "end": 3330.44,
+    "text": " Penis gate, I think, is still under investigation, because basically, if you think it wouldn't have an"
+  },
+  {
+    "start": 3330.44,
+    "end": 3333.4,
+    "text": " effect, just adding some extra stitching into the crotch, it doesn't sound like it would have much"
+  },
+  {
+    "start": 3333.4,
+    "end": 3337.48,
+    "text": " of an effect, right? Some research has been done, which concluded a single extra centimeter at the"
+  },
+  {
+    "start": 3337.48,
+    "end": 3343.56,
+    "text": " crotch could mean you got four meters further. Wow. It's quite, yeah, it's quite a lot, a lot"
+  },
+  {
+    "start": 3343.56,
+    "end": 3347.96,
+    "text": " further you can go with just a little extra fabric, which is why you're measured with a laser,"
+  },
+  {
+    "start": 3347.96,
+    "end": 3353.08,
+    "text": " so that your costume is absolutely skin tight. Right. And some athletes have supposedly been"
+  },
+  {
+    "start": 3353.08,
+    "end": 3360.12,
+    "text": " injecting their penises with a kind of acid sort of medical acid to increase the circumference by"
+  },
+  {
+    "start": 3360.12,
+    "end": 3366.12,
+    "text": " a couple of centimeters. So it does, which would give you more service air and could lengthen your"
+  },
+  {
+    "start": 3366.12,
+    "end": 3373.08,
+    "text": " jumps, but not out of front. I mean, I mean, they're not coming second to their own helmets as well,"
+  },
+  {
+    "start": 3373.08,
+    "end": 3387.72,
+    "text": " okay, that's it. That is all of our facts. Thank you so much for listening. If you'd like to get in"
+  },
+  {
+    "start": 3387.72,
+    "end": 3391.56,
+    "text": " contact with any of us about the things that we've said over the course of this show, we can all be"
+  },
+  {
+    "start": 3391.56,
+    "end": 3398.6,
+    "text": " found online. I'm on @Streiberland on Instagram, James. Come join me on LinkedIn. Search my name,"
+  },
+  {
+    "start": 3398.6,
+    "end": 3410.52,
+    "text": " offer me a job. Andy, I'm @adreodreb and Zoe, where are you? I'm @ZoeLine's comedy, I think."
+  },
+  {
+    "start": 3410.52,
+    "end": 3420.12,
+    "text": " And so, okay, you've got your pod, which is very exciting, and you discuss running and you have"
+  },
+  {
+    "start": 3420.12,
+    "end": 3425.32,
+    "text": " guests on all the time. You had Alice Roberts on not too long ago. Yeah, so give everyone a"
+  },
+  {
+    "start": 3425.32,
+    "end": 3431.72,
+    "text": " quick idea of what. So the podcast is called The Running Joke. I presented with my fellow comedian and"
+  },
+  {
+    "start": 3431.72,
+    "end": 3436.36,
+    "text": " fellow runner, Esther Manito, and it's about all things running. And we have lovely guests on and"
+  },
+  {
+    "start": 3436.36,
+    "end": 3442.44,
+    "text": " talking about all aspects of running and taking the stigma out of running. So it's for anybody and"
+  },
+  {
+    "start": 3442.44,
+    "end": 3448.44,
+    "text": " everyone. And having read about Jeff Galloway's approach, I'll be Jeffing my way around a lot of"
+  },
+  {
+    "start": 3448.44,
+    "end": 3453.96,
+    "text": " stuff. That's very cool. So available now, where you get all your podcasts. If you want to write"
+  },
+  {
+    "start": 3453.96,
+    "end": 3459.32,
+    "text": " into us about any of the things that we've said over the course of this show, podcast@QI.com, send"
+  },
+  {
+    "start": 3459.32,
+    "end": 3463.72,
+    "text": " us your best facts, because we'll take those to Little Fish, the show that we do every Monday,"
+  },
+  {
+    "start": 3463.72,
+    "end": 3468.28,
+    "text": " or send us feedback about things and experiences you've had related to the show, because Andy goes"
+  },
+  {
+    "start": 3468.28,
+    "end": 3472.92,
+    "text": " through the inbox, picks out the best, and that goes to Jewel, which is drop us a line, our mailbag"
+  },
+  {
+    "start": 3472.92,
+    "end": 3478.12,
+    "text": " show. And that's a part of our secret club, which is called Club Fish. If you're not a member of Club"
+  },
+  {
+    "start": 3478.12,
+    "end": 3483.08,
+    "text": " Fish, go to patreon.com/clubfish and check it out. There's multiple tiers, multiple things that you"
+  },
+  {
+    "start": 3483.08,
+    "end": 3487,
+    "text": " can do. Otherwise, just come back here next week, because we're going to be back with another episode."
+  },
+  {
+    "start": 3487,
+    "end": 3495.16,
+    "text": " We will see you then. Good bye."
+  },
+  {
+    "start": 3495.16,
+    "end": 3497.74,
+    "text": " (upbeat music)"
+  },
+  {
+    "start": 3497.74,
+    "end": 3507.74,
+    "text": " [BLANK_AUDIO]"
+  }
+]

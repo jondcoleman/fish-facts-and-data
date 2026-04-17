@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "A Little Fish mailbag episode where Andrew, Dan, and James read listener-submitted mini-facts on topics from answer songs and football name coincidences to the Chicago River reversing flow, before assigning custodianship of classic Fish headline facts to Club Fish members. Highlights include Buzz Aldrin’s post-moon car sales flop, Cathar cat‑kissing etymology, a prehistoric purse decorated with dogs’ teeth, and Britain’s Marmite ambivalence.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "After returning from the moon landing, Buzz Aldrin worked at a car dealership where he failed to sell a single car.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:21:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In the middle ages, the Catholic sect, the Cathars, was said to get their name from the fact they liked to kiss a cat's ass.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:23:16"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The oldest known purse is decorated with dogs teeth.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:28:06"
+    },
+    {
+      "fact_number": 4,
+      "fact": "According to a 2011 study, 27% of Britons neither love nor hate Marmite.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:29:32"
+    }
+  ]
+}
