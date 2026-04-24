@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "A Little Fish mailbag of listener-submitted curios includes the poker “Moneymaker effect,” why most Lamborghinis are named after bullfighting, LeBron James’s long 10+ point scoring streak, and a grotesque bee‑parasitizing insect. The gang also riffs on other oddities and doles out patron fact custodianships.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Domain writes, the online poker boom that became huge in the early 2000s was caused by the moneymaker effect. It was named after 2003 poker champion Christopher moneymaker.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:01:24"
+    },
+    {
+      "fact_number": 2,
+      "fact": "he found that all Lamborghini car models except one are named for something related to bullfighting. And the only exception is the Countach.",
+      "presenter": "Unknown",
+      "guest": false,
+      "start_time": "00:03:43"
+    },
+    {
+      "fact_number": 3,
+      "fact": "LeBron James recently ended a record streak of consecutive games played where he scored 10 plus points. Now, what's phenomenal about this is that this record is longer than the career of every other currently active NBA player.",
+      "presenter": "Unknown",
+      "guest": false,
+      "start_time": "00:07:17"
+    },
+    {
+      "fact_number": 4,
+      "fact": "there is a group of insects in the Janus stylobs, steelops, that parasitize bees. And what's bizarre is the females live their entire lives inside the abdomens of the hosts.",
+      "presenter": "Unknown",
+      "guest": false,
+      "start_time": "00:11:11"
+    }
+  ]
+}

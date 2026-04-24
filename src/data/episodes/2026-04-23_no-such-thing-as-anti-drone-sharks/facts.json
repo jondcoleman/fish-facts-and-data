@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Dan, James, Andy and guest Cariad Lloyd share four facts ranging from the century‑old origins of broadcast bleeping sparked by a subversive nursery rhyme, to the racy truth of Samuel Pepys’s diary, to London’s early fiber‑optic cables repurposed from hydraulic curtain tubes, and to embryos briefly having extra hand and foot muscles. The chat branches into censorship, theater tech history, and developmental biology quirks and pregnancy science.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that the idea to bleep and censor words during live TV and radio broadcasts began over a hundred years ago, and was all because of one woman and her nursery rhymes.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:02:21"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Contrary to what you maybe you were taught at school, or you know, when Peter's diary was ignored for hundreds of years, and when they did finally translate it, it turned out to be extremely racy and problematic. Samuel Peep's, guys.",
+      "presenter": "Cariad Lloyd",
+      "guest": true,
+      "start_time": "00:13:49"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact is, one of the first fiber optic networks in London was built in tubes that used to do the safety curtains in London's theaters.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:25:45"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that embryos are muzzlely than you.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:39:40"
+    }
+  ]
+}
