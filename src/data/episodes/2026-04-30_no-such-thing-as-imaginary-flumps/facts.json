@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "The team discuss science-backed ways to avoid laughing (including thinking about wallpaper), along with tickling, social laughter, and wallpaper lore. They then explore how U.S. audiences once watched films in no fixed order until Hitchcock’s Psycho enforced start times, with diversions into cinema gimmicks and credits trivia.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Okay so my fact this week is according to science one of the best ways to avoid laughing is to think about wallpaper.",
+      "presenter": "Amy Gledhill",
+      "guest": true,
+      "start_time": "00:02:55"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that until 1960, American cinemagoras watched movies in no particular order.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:11"
+    },
+    {
+      "fact_number": 3,
+      "fact": "unknown",
+      "presenter": "unknown",
+      "guest": false,
+      "start_time": "unknown"
+    },
+    {
+      "fact_number": 4,
+      "fact": "unknown",
+      "presenter": "unknown",
+      "guest": false,
+      "start_time": "unknown"
+    }
+  ]
+}

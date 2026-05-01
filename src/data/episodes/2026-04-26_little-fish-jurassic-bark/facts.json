@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "James Harkin, Dan Schreiber and Andrew Hunter Murray host a Little Fish, reading listener-submitted mini-facts about Silver Lake’s namesake, hippo body fat vs Usain Bolt, Eminem measured in M&M’s, and the British Army’s 137% commitments, then riffing into space espresso, transmissible dog tumors, wartime bridges, and more.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "And it's named after the Silver Lake Reservoir nearby. And it is named not after the Silver cover of its water, but after Herman Silver.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:47"
+    },
+    {
+      "fact_number": 2,
+      "fact": "I discovered that the hippopotamus has the same body fat percentage at Usain Bolt at his absolute peak.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:31"
+    },
+    {
+      "fact_number": 3,
+      "fact": "I have figured out that Eminem is exactly 138.4 Eminem's tall.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:06:16"
+    },
+    {
+      "fact_number": 4,
+      "fact": "In 2024, the British Army was so busy that 137% of its personnel were committed to operations or exercise.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:10:01"
+    }
+  ]
+}
