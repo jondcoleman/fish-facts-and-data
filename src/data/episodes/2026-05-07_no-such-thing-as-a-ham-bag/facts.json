@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Guest Susie Dent joins the team for a language-focused episode covering the rhyming-slang origin of “on your Todd,” the Great Vowel Shift, and rare speech sounds. They also explore research on intelligence and social effects, Marilyn vos Savant and the Monty Hall problem, and how Victorians ‘listened’ to Dickens via public readings, plus plagiarism, reading vs audiobooks, and AI narration.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact is that the original Todd in the phrase on your Todd died on his Todd.",
+      "presenter": "Susie Dent",
+      "guest": true,
+      "start_time": "00:02:56"
+    },
+    {
+      "fact_number": 2,
+      "fact": "OK, in my fact, this week is that the smarter your best friend's mum is, the smarter you will be.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:15:58"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact is, by the year 1600, everyone's tongues were slightly higher in their mouths than in the year 1400, and nobody knows why.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:27:55"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that many of Charles Dickens' readers in Victorian England consumed his works as audiobooks.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:39:07"
+    }
+  ]
+}
