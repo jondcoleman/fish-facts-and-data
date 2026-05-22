@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "A Little Fish grab‑bag of listener-submitted curios ranges from a daylight saving time double arrest and surprising tech latency to nominative determinism in Canadian local politics and biodiversity in UK territories, plus many more animal and historical oddities in a rapid-fire custodianship segment. The hosts riff on names, newspapers, tennis scoring quirks, and unusual animal sleep strategies along the way.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "He was arrested and released on bail. And now, a later, at 108 AM, the same cop arrested the same man for drunk driving.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:02:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Eric says, despite the absurd difference in distances, it takes four times longer for a character to appear on your screen after you tap your keyboard, then it takes to send that keystroke across the Atlantic.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:03:42"
+    },
+    {
+      "fact_number": 3,
+      "fact": "there's a ward called ward four in the town of Barry. And the former ward four councilor for Barry is a guy called Barry Ward.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:06:14"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Over 90% of the UK's unique species don't live in the UK.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:14:02"
+    }
+  ]
+}
