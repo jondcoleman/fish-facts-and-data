@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "A Little Fish episode with Andrew Hunter Murray, Dan Schreiber, and Anna Ptaszynski shares listener-submitted curiosities (from Montana’s “reasonable and prudent” speed signs to nuclear-pool cleaning robots, toucan beaks, early Guildford “baseball,” and more) before assigning classic headline facts to Club Fish members. The classic facts covered pre-corridor train ticket checks, Kaiser Wilhelm losing an arms deal for a bottom-slap, the uncertainty over pronouncing Louis/Louie Armstrong, and Iceland’s Althing parliament.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "And the fact is, before trains had corridors, guards had to climb along the outside of the carriage to check your ticket.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:18:22"
+    },
+    {
+      "fact_number": 2,
+      "fact": "And the fact is that Kaiser Wilhelm, once lost a valuable arms contract for Germany because he slapped the king of Bulgaria on the bottom.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:19:48"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Ryan Jackson, your fact is now that no one is quite sure how to say Louis Armstrong or Louis Armstrong.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:23:14"
+    },
+    {
+      "fact_number": 4,
+      "fact": "The first thing was a parliament. And it was the old thing in Iceland.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:24:32"
+    }
+  ]
+}

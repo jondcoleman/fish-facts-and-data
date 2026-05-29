@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "The team discuss how hairnets in kitchens were popularized by PR to save the hairnet industry, James Madison’s fondness for getting piggybacks from his wife and Dolly Madison’s legacy, the vast quantity of bicarbonate in the oceans and a proposal to enhance ocean alkalinity, and research showing identical twins often can’t tell themselves apart in photos, leading to a wider chat about twins.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that the reason chefs started wearing hennets around food was to keep the hennet industry going.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:03:07"
+    },
+    {
+      "fact_number": 2,
+      "fact": "OK, my fact this week is that the fourth US president, James Madison, liked to get piggybacks of his wife.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:16:46"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact is that the world's oceans contain 38,000 billion tons of baking soda.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:31:42"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that identical twins often don't know who is who when looking at photos of themselves.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:41:59"
+    }
+  ]
+}
