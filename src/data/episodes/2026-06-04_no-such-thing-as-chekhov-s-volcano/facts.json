@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Guest Greg Foot joins the team for four facts spanning baby-calming car vibrations, a 17th‑century vacuum vs. horses demo, volcanoes that partly scrub methane, and Paul McCartney’s eye yoga. Along the way they discuss baby-cry science and white noise, how vacuums work and the LHC, volcanic eruptions and risks, and the history and claims of yoga.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Tests have shown that a Volvo 240 used to be the best car with the right vibrations to calm down a crying baby.",
+      "presenter": "Greg Foot",
+      "guest": true,
+      "start_time": "00:02:58"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is in 1654 a public competition was held between a team of 30 horses and a vacuum.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:04"
+    },
+    {
+      "fact_number": 3,
+      "fact": "And my fact this week is that volcanoes sometimes clean up after themselves.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:29:31"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that Paul McCartney does eye yoga.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:41:14"
+    }
+  ]
+}
