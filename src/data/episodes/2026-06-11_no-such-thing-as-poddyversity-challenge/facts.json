@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This episode covers Sami shamans secretly practicing with drums in 17th-century Sweden, the Loebner Prize’s “most human human” award in Turing test contests, France’s reenactment-based theme park Puy du Fou, and John Williams’s stated dislike of film music. Along the way they discuss drum languages, AI and CAPTCHAs, driverless cars, and historical reenactments.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Okay, my fact this week is that in 17th century Sweden, Sami Shaman's had to work in secret. Unfortunately, most of their work involved constant drumming.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:02:16"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is, from 1990 to 2018, there was an award given out every year for the most human human.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:14:16"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that the only ride at France's second most popular theme park is a two-year-old caracel.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:27:55"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that John Williams, the composer of soundtracks, like Jaws, Star Wars and Indiana Jones, doesn't actually like film music.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:41:24"
+    }
+  ]
+}
