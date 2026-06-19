@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "With guest Nish Kumar, the team discuss James Cameron breaking into the Piranha 2 edit to fix it, the early stand-up pioneer Charlie Case and showbiz superstitions, David Bowie’s failed 1965 BBC audition, and how Scandinavian parties with names like “Centre” and “Left” are actually on the right. The chat ranges from movies and mime to politics, propaganda, and protest parties.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My favourite fact that I've gathered in the last seven days is, after James Cameron was fired from the film Piranha 2, he broke into the studios multiple times in the dead of night to improve the edit.",
+      "presenter": "Nish Kumar",
+      "guest": true,
+      "start_time": "00:02:17"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that the inventor of stand-up comedy was known as the man who talks with string because he was never seen anywhere without his lucky string.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:17"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My correct is when David Bowie auditioned for the BBC in 1965, the judges ruled that he was a singer, devoid of personality, that his band was not particularly exciting and that there is no entertainment in anything they do.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:25:48"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Okay, my fact this week is that the Swedish political party called the center party and the Danish political party called left are both right wing.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:39:27"
+    }
+  ]
+}
