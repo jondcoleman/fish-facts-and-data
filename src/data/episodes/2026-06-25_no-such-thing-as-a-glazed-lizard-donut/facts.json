@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "The team discuss how pretentious titles can make artworks seem more profound, why many modern Disney princesses appear ambidextrous, a Kurdish tailor who dressed both Saddam Hussein and Nelson Mandela, and how all-female desert grassland whiptail lizards trigger pregnancy by simulating mating.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that if you want to make your work of art more profound, give it a pretentious name. This is scientifically the case.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:02:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Okay, my fact this week is that most Disney princesses are ambidextrous.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:15:39"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact is, Saddam Hussein and Nelson Mandela had the same tailor.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:30:04"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that desert grassland whitetail lizards get pregnant by pretending to mate with each other.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:42:11"
+    }
+  ]
+}
