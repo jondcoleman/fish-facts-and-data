@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "With guest Jamie Morton standing in, the team discuss a Titanic survivor who credited a morning swim in the ship’s saltwater pool, the 19th‑century Egyptian “dance of the bee” and modern belly-dancing taboos, and an ancient Hindu astrological text linking genital features to destiny. They finish with lottery lore, including the tale of Maureen Wilcox picking the right numbers for two states but on the wrong tickets.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week, guys, is a Titanic passenger credited swimming in the saltwater pool the morning of the sinking with helping him survive.",
+      "presenter": "Jamie Morton",
+      "guest": true,
+      "start_time": "00:02:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is, in 19th century Egypt, one of the sexiest dances imaginable involved pretending you had a bee inside your clothes.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:16:24"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that according to ancient Hindu astrology, if you have matching testicles, you will be a king.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:29:41"
+    },
+    {
+      "fact_number": 4,
+      "fact": "This week is that in 1980, a woman called Maureen Wilcox chose the winning numbers for both the Massachusetts and Rhode Island Lotteries. Unfortunately, the numbers she chose for the Rhode Island Lottery were the winning numbers for the Massachusetts Lottery and vice versa.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:41:01"
+    }
+  ]
+}
