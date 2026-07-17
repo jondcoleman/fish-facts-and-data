@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Guest curator Bertie Torillians joins Dan, James and Anna for an episode ranging from Thai language quirks and names to the reality of soft‑shell crabs and crab biology, Victorian rectal devices and human bum evolution, and the Icelandic Punk Museum plus other quirky museums. It’s a lively mix of linguistics, marine life, medical oddities, and offbeat cultural institutions.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "A briefcase in Thai is a Kapal James Bond.",
+      "presenter": "Bertie Torillians",
+      "guest": true,
+      "start_time": "00:02:17"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that soft shell crabs aren't actually species. They're just a crab in between houses.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:16:21"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Okay my fact this week is that in late 19th century America but plugs were advertised as a cure for bad breath.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:29:30"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that there is no customer toilet in the Icelandic punk museum even though the whole thing is within a toilet.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:43:40"
+    }
+  ]
+}

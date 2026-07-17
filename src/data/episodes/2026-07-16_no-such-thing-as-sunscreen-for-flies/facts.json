@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "The hosts discuss lettuce-based cigarettes sold as a 1960s quitting aid, the eight-year ship “traffic jam” in the Suez Canal’s Great Bitter Lake, and towns flooded or displaced to create reservoirs such as Neversink. They finish with the stark contrast between EU and US rules on animal testing for sunscreen and how sunscreens work.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Okay, my fact this week is that in 1965, you could try to quit smoking by swapping normal cigarettes for ones made of lettuce.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is that the longest traffic jam in history lasted eight years.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:13:06"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that in 1953, a town called NeverSync was sunk.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:25:11"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that in Europe, it is illegal for sunscreen to be tested on animals. In America, it is illegal for it not to be tested on animals.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:39:01"
+    }
+  ]
+}

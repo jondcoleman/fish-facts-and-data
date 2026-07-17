@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Andrew Hunter Murray hosts a Little Fish episode with Dan Schreiber and Anna Ptaszynski, sharing listener-submitted curios including John Cazale’s flawless Best Picture streak, contrasting speeding fines in Australia and India, Tudor naming trivia, and James Garfield’s proof of Pythagoras’ theorem. The trio also riff through many additional mini-facts and patron shout-outs.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Tom Besoir says the American actor John Kazzal only appeared in five feature films. All of them were nominated for Academy Awards for Best Picture.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:43"
+    },
+    {
+      "fact_number": 2,
+      "fact": "In Sydney, if you speed 30 kilometres an hour over the speed limit, you'll be fined about $650 Australian dollars. And in India, the fine for the same crime as 2000 Rupees.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:03:10"
+    },
+    {
+      "fact_number": 3,
+      "fact": "It's, it's that Catherine Par, last wife of Henry VIII, was named after Catherine of Erigan, the first wife of Henry VIII.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:04:18"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Friend of the podcast, President James Garfield created a proof of Pythagoras' theorem.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:05:38"
+    }
+  ]
+}
