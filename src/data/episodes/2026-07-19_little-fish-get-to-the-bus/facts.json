@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Listener-submitted curiosities ranged from sliced bread versus David Attenborough, to a bodyguard hired on the Predator set, the paradox of “immortal” jellyfish dying in labs, and Great Yarmouth’s Herring Bridge being effectively named thanks to Richard Herring’s followers. A lively grab-bag of movies, marine biology, and British civic trivia.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact is that sliced bread was invented on the 7th of July, 1928, whereas National Treasure David Attenborough was born on the 8th of May 1926. Therefore sliced bread is, in fact, the best thing since David Attenborough.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:00:45"
+    },
+    {
+      "fact_number": 2,
+      "fact": "my fact is for the original predator film, the studio had to hire a bodyguard to follow sunny land around to protect other people from sunny as he'd been getting into too many fights on the set.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:02:26"
+    },
+    {
+      "fact_number": 3,
+      "fact": "So, Michael writes that the problem with immortal jellyfish is they won't stop dying.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:05:42"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Anyway, unfortunately, most of the votes saying this should be called the Herring Bridge arrived after comedian Richard Herring told all his followers name a bridge after me.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:09:18"
+    }
+  ]
+}

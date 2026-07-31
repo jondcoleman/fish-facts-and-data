@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "The hosts discuss a Swedish mega-supermarket so vast it employs 12 people just to sort coat hangers; a Nobel literature winner whose 2024 novel consists of a single, book-length sentence; zebrafish, stress and their many research uses (including in space); and a record-holder with hundreds of insect tattoos who is ironically afraid of bugs, along with other tattoo oddities.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact is, the biggest supermarket in Europe has 12 people whose entire job is to sort out coat hangers.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:02:41"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that the latest winner of the Nobel Prize in literature wrote a novel in 2024 that was one sentence long.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:17:04"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Okay, my fact this week is that Zebras don't get ulcers, but Zebrafish might.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:29:45"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that the world record holder of most bug tattoos is terrified of bugs.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:43:37"
+    }
+  ]
+}

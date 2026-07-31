@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Andrew, Anna and James share listener-submitted curios including a 19th-century American persecuted for his beard, trout ferried up Vermont mountains on ski lifts, ice yachts as the fastest pre-aviation vehicles, and historical prejudice against left-handed hairdressers, plus a rapid-fire run of extra oddities and patron fact dedications.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "He said, have we come across Joseph Palmer and Massachusetts man, eight who in 1830, his beard was hated so much by local townsfolk that they attempted to shave it off?",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:01:37"
+    },
+    {
+      "fact_number": 2,
+      "fact": "And they say they're in Vermont in order to stock trout in the highest stocked pond in the state. They transport them via ski lifts.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:03:55"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Before the invention of planes, what was the fastest vehicle on earth? So Mark says that the answer is the ice yacht.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:07:10"
+    },
+    {
+      "fact_number": 4,
+      "fact": "They found out that the Ministry of Labor barred left-handed people from training his hairdressers until the end of the 1960s.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:10:13"
+    }
+  ]
+}
