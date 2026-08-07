@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Recorded live at the Royal Institution, the team cover the venue’s former world’s largest pencil and the RI’s wild demonstration history, the Paris–Roubaix race getting tougher as fans steal its cobblestones, the Victorian X Club of scientists on Albemarle Street, and Cambodia’s hotline to save giant Mekong catfish. The chat ranges from historic lectures and inventions to cycling lore and inventive fish conservation.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that the building we are in contains the former world's largest pencil.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:03:00"
+    },
+    {
+      "fact_number": 2,
+      "fact": "OK, my fact this week is that one of the world's oldest cycling road races is getting much harder because people keep stealing the road.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:17:49"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that 150 years before there was a social network called X, run by a man called Musk, there was a social network called X, run by a man called Busk.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:30:30"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact is, in Cambodia, there is a special hotline for fishermen to ring if they accidentally catch a fish that is too big.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:41:23"
+    }
+  ]
+}
