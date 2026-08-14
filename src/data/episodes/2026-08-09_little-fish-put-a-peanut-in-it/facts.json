@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Dan, Andrew, and James host a Little Fish mailbag sharing listener-submitted curios: Pakistan’s CLCOT makes World Cup footballs (and bagpipes), London, Ontario’s many London lookalikes, a Dublin pub shut for holes in its walls, and chalk made of quadrillions of microscopic skeletons—plus tangents on cruise-ship newspapers, odd IMDb credits, Rubik’s cube feats, and a Nathan Fillion pavilion.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "And CLCOT manufactures all the balls used in the World Cup. So Pakistan is always represented at the tournament even though the men's team is ranked 198th in the world.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:01:15"
+    },
+    {
+      "fact_number": 2,
+      "fact": "London Ontario is a town of about half a million people between Toronto and Detroit in a bit of Canada sticking down between the Great Lakes.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:03:06"
+    },
+    {
+      "fact_number": 3,
+      "fact": "The hole in the wall, pub and Dublin, was recently issued a closure order because there were holes in the wall.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:05:20"
+    },
+    {
+      "fact_number": 4,
+      "fact": "And it turned out that according to John's calculations, there was roughly one between one and five quadrillion skeletons.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:08:33"
+    }
+  ]
+}

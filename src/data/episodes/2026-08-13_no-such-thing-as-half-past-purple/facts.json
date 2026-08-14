@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Live from the Royal Institution, the team discuss the first megawatt-scale wind turbine at Vermont’s Grandpa’s Knob, Humphry Davy’s childhood lecturing habit and scientific exploits, why fog has declined and how it shapes history and cities, and an absurdly huge Russian fine levied on Google leading to a broader chat about whether fines work.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "- Myfactiz, the first ever megawatt scale wind turbine was erected at a Vermont mountain called Grandpas Nob.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:44"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that when he was a child, notable Royal Institution lecturer, Humphrey Davy's favorite hobby was to lock himself in his room and give hour-long talks to a bunch of empty chairs.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:12:40"
+    },
+    {
+      "fact_number": 3,
+      "fact": "OK, my fact this week is that it's not as foggy as it used to be.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:25:51"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that in 2024, Google was fined more than the world's total GDP.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:38:16"
+    }
+  ]
+}
