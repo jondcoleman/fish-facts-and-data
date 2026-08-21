@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "The team discuss Bertha von Suttner—briefly Alfred Nobel’s housekeeper—becoming the first female Nobel Peace laureate, then dive into the near-extinction and recovery of the sunflower sea star. They explore 1980s physical keys for computer security and password/AI hacking oddities, and finish with the go-away-bird and the wild world of bird calls and names.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that the first woman to be awarded the Nobel Peace Prize was Alfred Nobel's housekeeper.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:46"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is, the Sasquatch may not be real, but the Sea Squatch is.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:14:14"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that in the 1980s, the way to stop hackers from breaking into your computer was to lock it with a physical key.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:27:24"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Okay, my fact this week is that the Grey Lowery Bird attracts mates by shouting, go away.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:39:30"
+    }
+  ]
+}
