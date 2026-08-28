@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "A listener-fact-filled episode ranges from Indonesian taboos and Canadian moose to a Fulham substitution with perfectly inverted names and Denmark’s Louisiana Museum named for three Louises. The hosts riff on pronunciations, sports, and museum naming quirks while sharing a rapid-fire stream of curious submissions.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "the cadang people of Indonesia have a prohibition on pointing at rainbows, Ursa Major and small young pumpkins.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:01:05"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Four moose were brought to Newfoundland from Miramushi, New Bronzwick, in 1904, 45 years before Newfoundland joined Confederation. Today, there's roughly 125,000 moose, one for every four Newfoundlanders.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:02:52"
+    },
+    {
+      "fact_number": 3,
+      "fact": "during the 2003 to 4 season, Philum replaced the Scottish midfielder John Collins with the Liberian-born Dutch striker, James Bonding Collins John",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:06:22"
+    },
+    {
+      "fact_number": 4,
+      "fact": "No, it's in Denmark, just north of Copenhagen. And he named it after his three wives, all of whom had been called Louise.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:07:14"
+    }
+  ]
+}

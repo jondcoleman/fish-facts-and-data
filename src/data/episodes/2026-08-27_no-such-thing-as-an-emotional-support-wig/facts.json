@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Live from the Royal Institution, the team discuss a hand‑stitched thermal blanket on the BepiColombo Mercury probe, the history and language of “boffins” with standout women in science, a legendary Ethiopian queen who outlawed short bald old men and related cultural customs, and Andy Serkis’s award-winning Gollum acceptance speech leading into CGI and motion-capture history.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that the spacecraft that's about to orbit Mercury is wearing a hand stitched blanket for warm.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:00:46"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is, a female boffin is technically known as a boffin.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:13:08"
+    },
+    {
+      "fact_number": 3,
+      "fact": "Okay, my fact this week is that according to Ethiopian tradition, during the 14th century, it was illegal to be a short, bold, old man.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:26:46"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that Golem actor Andy Circus' MTV Awards acceptance speech was so good, it won an award.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:41:01"
+    }
+  ]
+}
