@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "This Little Fish episode features Anna, James, and Andrew reading listener-submitted curios on capitals, place names, vampires as recession indicators, flamboyant architecture fires, misheard Pearl Harbor, football scoreboard quirks, and Norway’s toothpick factory, before assigning “custodian” facts to patrons. Highlights include glassy Christmas trees in extreme cold, Pope Francis’s prog rock album, Czech deer still respecting the old Iron Curtain, and Monaco not having room for all its cars at once.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "And it's that when it gets really cold, Christmas trees can turn to glass.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:18:17"
+    },
+    {
+      "fact_number": 2,
+      "fact": "And Lassie, your fact is that one of the contenders for the 2015 Christmas charts was a prog rock album by Pope Francis.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:19:11"
+    },
+    {
+      "fact_number": 3,
+      "fact": "And this is the fact that Czech dear still avoid crossing the iron curtain between Germany and the Czech Republic.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:19:49"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Christina, your fact, now and forever, is that if every car in Monaco decided to go for a drive at the same time, they wouldn't fit on the roads.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:20:57"
+    }
+  ]
+}

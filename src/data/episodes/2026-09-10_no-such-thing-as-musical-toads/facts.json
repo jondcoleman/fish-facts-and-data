@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Live from the Lund Comedy Festival, the hosts share facts about Lund University’s unfortunate meaning in several Indian languages, a ’90s fashion designer who now works as a toad facilitator, the Icelandic tradition of bringing a sheep into the bedroom for warmth, and extreme candies including a real recall of “Toxic Waste Nuclear Sludge.” The show features onstage taste-tests, housing history, and psychedelic toad lore.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that in many Indian languages, Lund University means penis university.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that one of the biggest fashion designers of the '90s now works as a toad facilitator.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:13:27"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact is, traditionally, the people of Iceland liked to bring a sheep into the bedroom.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:27:53"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Okay, my fact this week is that in 2011, a candy bar called Toxic Waste Nuclear Sludge was recalled for containing actual Toxic Waste.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:40:14"
+    }
+  ]
+}

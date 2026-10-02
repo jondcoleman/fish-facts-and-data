@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "With guest Rhys Darby, the team detours through Santorini’s Atlantis lore and island curios, then explores how sheep introduced to Argentina doubled Antarctic dust. They ponder explanations for the Fermi paradox (including space-junk trapping civilizations) and swap historical party tricks from Kafka’s family to Lincoln and Pierce Brosnan.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "A charismatic adventurer discovers a cable car in Atlantis",
+      "presenter": "Rhys Darby",
+      "guest": true,
+      "start_time": "00:00:38"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that the introduction of sheep to Argentina doubled the amount of dust in Antarctica.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:14:21"
+    },
+    {
+      "fact_number": 3,
+      "fact": "OK, my fact this week is that one theory as to why we haven't seen aliens is they have all been trapped on their own planet by their own garbage.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:26:47"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that Franz Kafka's grandfather could lift a sack of potatoes with his teeth.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:39:40"
+    }
+  ]
+}

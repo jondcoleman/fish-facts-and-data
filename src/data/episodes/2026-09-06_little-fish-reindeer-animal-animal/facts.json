@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "A quickfire “Little Fish” episode where Andrew, James and Anna share and riff on listener-submitted curios ranging from national anthems and tectonic drift to submarines, Zeppo Marx’s inventions, Ice Age London and a WWII carrot-estrogen plot. They wrap up by allocating bonus facts to Club Fish supporters.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Christian says that the only national anthem that mentions Sweden in any way is the Polish national anthem.",
+      "presenter": "unknown",
+      "guest": false,
+      "start_time": "unknown"
+    },
+    {
+      "fact_number": 2,
+      "fact": "The continents of America and Europe are moving apart at the same speed as a fingernail grows. This means, if you stand at landzend, which is the southwesternmost point of the UK, and point west, your fingernail is stationary and you are moving backwards.",
+      "presenter": "unknown",
+      "guest": false,
+      "start_time": "unknown"
+    },
+    {
+      "fact_number": 3,
+      "fact": "After leaving the Marx Brothers, Zeppel Marx invented the clamp which held the little biotomic bomb in place on his flight to Hiroshima.",
+      "presenter": "unknown",
+      "guest": false,
+      "start_time": "unknown"
+    },
+    {
+      "fact_number": 4,
+      "fact": "This is that in World War II, one of the plans performed to stop Hitler, which was a very important aim at the time, was to feed him carrots laced with estrogen in the hopes that this would feminise him and make him make him mild like his sister apparently.",
+      "presenter": "unknown",
+      "guest": false,
+      "start_time": "unknown"
+    }
+  ]
+}

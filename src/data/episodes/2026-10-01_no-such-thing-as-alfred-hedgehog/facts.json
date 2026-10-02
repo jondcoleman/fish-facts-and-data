@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "The hosts discuss China's booming one-minute micro-dramas and their AI-driven future, celebrate the 105-year-old inventor behind chattering teeth and other classic toys, and explore how paracetamol works despite its still-mysterious mechanism. They finish with Ghanaian fufu—how it’s prepared, and a wider tour of yams, cassava, and related cultural traditions.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact is, half of China watches TV dramas that are one minute long.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:00:36"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact this week is that the inventor of the chattering teeth and croplunk, as well as 800 other joke toys, is still inventing new products at age 105.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:14:07"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that nobody knows why parasitimal works.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:28:42"
+    },
+    {
+      "fact_number": 4,
+      "fact": "Okay, my fact this week is that in order to prepare the National Dish of Ghana, you need to vigorously pound your fufu for at least 20 minutes.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:41:14"
+    }
+  ]
+}

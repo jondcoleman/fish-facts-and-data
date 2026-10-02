@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "The hosts discuss Japanese shoe etiquette prompting paramedics’ pleas, a fringe theory about Christopher Columbus’s identity and the fallout of his voyages, Churchill and Stalin’s bugged wartime summits (and goldfish), and why many clown and stage wigs are made from yak hair, with tangents to film, Santa beards, and Tibetan yak culture.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "My fact this week is that paramedics in Japan have asked people to stop rearranging their shoes when they take them off at the door.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:02:05"
+    },
+    {
+      "fact_number": 2,
+      "fact": "Okay, my fact this week is that according to one theory, Christopher Columbus only existed for six years before he discovered the Americas.",
+      "presenter": "James Harkin",
+      "guest": false,
+      "start_time": "00:15:01"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact is when Churchill met Stalin and complimented him on his goldfish, Stalin offered to have them killed for Churchill's breakfast.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:28:40"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that most circus clowns are part yak.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:43:23"
+    }
+  ]
+}
