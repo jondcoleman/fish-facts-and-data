@@ -1,0 +1,34 @@
+{
+  "episode_type": "standard",
+  "episode_summary": "Guest Russell T Davies joins Dan, Anna and Andy to swap facts ranging from Casanova’s memoir to TV and film lore. Topics include the color-coded script revision system, Welsh ‘jumping the broom’ marriages and divorces, and the clause preventing any Back to the Future reboot, with plenty of Doctor Who and industry anecdotes along the way.",
+  "facts": [
+    {
+      "fact_number": 1,
+      "fact": "Casanova wrote his, it's called a memoir, it's a massive, massive autobiography, some pages of which are on pages watermarked with love hearts.",
+      "presenter": "Russell T Davies",
+      "guest": true,
+      "start_time": "00:02:00"
+    },
+    {
+      "fact_number": 2,
+      "fact": "My fact is, anyone working on an American TV show needs to know these colours in this order. White, blue, pink, yellow, green, golden rod, buff, salmon, and cherry.",
+      "presenter": "Andrew Hunter Murray",
+      "guest": false,
+      "start_time": "00:17:10"
+    },
+    {
+      "fact_number": 3,
+      "fact": "My fact this week is that in Wales, you used to be able to get married by jumping over a broom together and divorced by jumping backwards over it.",
+      "presenter": "Anna Ptaszynski",
+      "guest": false,
+      "start_time": "00:31:26"
+    },
+    {
+      "fact_number": 4,
+      "fact": "My fact this week is that the only way that there will ever be a reboot of Back to the Future is if someone goes back in time to change history.",
+      "presenter": "Dan Schreiber",
+      "guest": false,
+      "start_time": "00:43:59"
+    }
+  ]
+}
